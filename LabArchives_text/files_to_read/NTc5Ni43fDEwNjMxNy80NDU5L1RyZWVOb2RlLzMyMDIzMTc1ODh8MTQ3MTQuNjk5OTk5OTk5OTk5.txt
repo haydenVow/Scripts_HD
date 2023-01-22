@@ -1,0 +1,178 @@
+
+
+Research notes
+
+  1. Telomerase-immortalised human fibroblasts retain UV-induced mutagenesis and P53-mediated DNA damage responses https://pubmed.ncbi.nlm.nih.gov/16140041/a
+
+\- Colony forming ability after UV irradiation was dose-dependent between 0
+and 20J/m2 UVC (LD50=5.6J/m2)
+
+\- Cells were plated into 10-cm dishes at varying cloning densities
+(300-30,000 cells/dish) with increased numbers for higher UV doses. Cells were
+incubated 16 h to attach and to stabilize. Each dish was washed with 5 mL of
+PBS and cells overlaid with 2 mL PBS. Cells were UV irradiated with 0, 5, 10,
+15, 20 and 30 J/m2 UVC at a fluence of 0.5 J/m2/s. After the exposure, the PBS
+was drained, and the cells refed with 25 mL of fresh media. The cells were
+refed every 4 days and grown until colonies of approximately 64 cells were
+seen.
+
+\- A series of independent populations of cells were synchronized by density
+inhibition and mitogen deprivation, as described previously [36], and
+stimulated to enter the cell cycle by replating at a density of 104 cells/cm2.
+The time of onset of S-phase was ∼16 h after replating, determined by flow
+cytometry. The cells were irradiated 17 h after release (∼1 h after the onset
+of S-phase). For irradiation, the culture media were aspirated, and the cells
+were washed with PBS. The cells were irradiated as described previously [36]
+with of 0-10 J/m2 UV. For each dose of UV, sufficient dishes were used to
+insure at least 1 × 106 surviving cells. Cells plated at cloning density were
+similarly irradiated and used to determine survival by colony forming ability.
+Cells exposed at cloning density were allowed 14 days to form colonies, with
+fresh culture medium added ∼24 h and 1 week after UV irradiation, and then
+stained. Cells exposed at higher density were allowed to grow for 4-5 days,
+then were detached from the plates, pooled, and 2 × 106 were replated to
+continue growing for four additional days.
+
+\- The highest dose used in this mutagenesis study, 8 J/m2, resulted in 12%
+clonogenic survival and 100 induced mutants per million clonable cells.
+
+\- Colony forming ability assay showed survival improvement in tGM24 cells
+with p53 expression suppressed by siRNA transfection (Fig. 7). This result is
+likely due to the removal of p53- dependent cell cycle arrest and apoptosis
+
+  1. Mechanism of UV-related carcinogenesis and its contribution to nevi/melanoma https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2564815/
+    1. Although UVB is about 20-fold less abundant than UVA, its energy is more efficiently absorbed by cellular molecules and is able to induce damages within cells and tissues at significantly lower doses than UVA [1, 6]. On the cellular level UVB can cause damages of DNA in direct action, since nucleic acids are among the primary chromophores for this electromagnetic energy (maximum of DNA and RNA absorption is about 260 nm). 
+    2. In short, UVR shifts the interactions from melanocytes with keratinocytes to melanocytes with fibroblasts and endothelium, promoting progression of melanoma.
+    3. Basic fibroblast growth factor (bFGF) is one of a few growth factors expressed in melanoma cells but not in normal melanocytes [104]. It is also expressed in keratinocytes and fibroblasts [63, 76]. bFGF is an important autocrine factor for melanoma cells and inhibition of its expression can inhibit melanoma growth as demonstrated in mouse melanoma in vivo [105]...Several studies showed bFGF and UV radiation have potential to induce malignant transformation of melanocytes. bFGF together with UVB radiation was able to induce in human skin pigmented lesion within 2-5 months
+    4.  TGF-β secreted by melanoma cells stimulated fibroblasts to produce components of intercellular matrix leading to changes in stroma favoring melanoma survival and migration. TGF-β probably can also downregulate E-cadherin expression [94]. Production of TGF-β by fibroblasts is induced by UVA and UVB radiation
+  2. The Effect of Ultraviolet Light on Cell Viability, DNA Damage and Repair in Hutchinson-Gilford Progeria Syndrome and BJ Fibroblasts.https://dc.etsu.edu/cgi/viewcontent.cgi?article=1094&context=honors
+    1.  P53 protects cells exposed to UV at moderate levels, but induces apoptosis at high levels. After UV exposure, p53 accumulates in nuclei and regulates the activity of target genes like DDB2. If cells can‟t repair the damage, p53 accumulates in nuclei and cause apoptosis at lower levels of UV than normal  
+
+  3. Mechanisms of UV-induced mutations and skin cancer https://link.springer.com/article/10.1007/s42764-020-00009-8
+    1. CPDs are the major DNA damage product in simulated sunlight (UVA + UVB)-irradiated DNA or cells (Sage 1993; Yoon et al. 2000a, b; You et al. 2001; Cadet et al. 2012). Their levels clearly exceed the levels of (6-4)PPs or other lesions. Even though DNA absorption spectra peak at about 260 nm, substantial levels of CPDs are still produced at wavelengths between 300 and 320 nm (Besaratinia et al. 2011).
+    2. UVA radiation between 320 and 400 nm can also induce CPDs in the genome (Douki et al. 2003; Rochette et al. 2003; Ikehata et al. 2008), but a very high dose of UVA (tens of thousands of kJ/m2) is required to achieve substantial levels of this type of DNA damage (Besaratinia et al. 2005).
+  4. Exome sequencing identifies novel mutation signatures of UV radiation and trichostatin A in primary human keratinocytes https://www.nature.com/articles/s41598-020-61807-4
+    1. To obtain an unbiased view of UV-induced mutation profiles at endogenous genetic loci across the genome, we performed WES studies on primary human keratinocytes that were irradiated with various doses of UVB (10, 20, 30 and 40 mJ/cm2).
+    2.  In contrast to the large number of mutations reported in human skin tumors27,28,29, the number of UV-induced SNVs was relatively small, which is attributable to the difference between acute UV radiation and repetitive UV exposure causing accumulation of mutations over time in addition to non-UV mutations during tumor progression.
+    3. To examine the impact of the chromatin environment on UV mutagenesis, we performed similar WES analyses using keratinocytes pretreated with trichostatin A (TSA), a classic histone deacetylase inhibitor (HDACi), that is widely used in epigenetic gene regulation studies. TSA shares structural similarity with suberoylanilide hydroxamic acid (SAHA), an FDA-approved epigenetic drug for clinical treatment of cutaneous T-cell lymphoma through its HDACi activity. We posited that TSA treatment would decondense chromatin, facilitating the access of DNA repair machinery to repair UV-induced DNA lesions to reduce UV mutagenesis. Consistent with our hypothesis, we found that TSA pretreatment followed by UVB led to pronounced decreases in the total number of SNVs in keratinocytes from two different donors (D1 and D2, Fig. 1C). Unexpectedly, however, we observed that TSA alone caused substantial SNVs in non-irradiated cells from both donors (Fig. 1D), suggesting that TSA itself may be a mutagen, which has not been reported previously.
+
+
+
+
+Additional papers for more info
+
+Development and Characterization of a Novel in vitro Progression Model for
+UVB-Induced Skin Carcinogenesis https://www.nature.com/articles/srep13894.pdf
+
+\- To develop an in vitro model of UVB-induced skin carcinogenesis, we
+irradiated HaCaT cells to sub-erythemal dose of UVB radiation (30mJ/c) once a
+week for up to 16 weeks.
+
+- Following 3, 8, 12 and 16-weeks of UVB irradiation, HaCaT cells were expanded and cultured to attain stable phenotypes
+
+\- According to published studies, around 40mJ/cm2 of UVB is a minimal
+erythemal dose which causes DNA damage and significant apoptosis in expos
+keratinoytes
+
+\- Published study suggest that UVB at low doses (2.5 to 10mJ/cm2) induces
+HaCaT cell proliferation without noticeable cell death30, whereas a single
+exposure at higher does (>20mJ/cm2) inhibits proliferation and survival
+
+\- However, we did not see any growth stimulation in our study (data not
+shown) even at low UVB doses, but observed noticeable death of HaCaT cells at
+higher doses (20-40mJ/cm2). Therefore, enhanced growth of remaining HaCaT
+cells upon repetitive UVB-exposure in our study is likely due to the
+accumulation of deleterious mutations and/or activation of tumor-promoting
+signaling pathways in these cells.  
+
+#
+
+  
+
+Significance of CpG Methylation for Solar UV-Induced Mutagenesis and
+Carcinogenesis in
+Skinhttps://onlinelibrary.wiley.com/doi/full/10.1562/2006-02-28-IR-822  
+
+# Cell Survival and Shuttle Vector Mutagenesis Induced by Ultraviolet A and
+Ultraviolet B Radiation in a Human Cell Line
+
+# https://www.jidonline.org/article/S0022-202X(15)42520-5/pdf  
+
+# Mechanisms of UV-induced mutations and skin cancer
+
+# https://link.springer.com/article/10.1007/s42764-020-00009-8  
+
+Sunlight Induces Pyrimidine Dimers Preferentially at 5-Methylcytosine Bases
+(see attached ppr)
+
+
+
+
+P53i
+
+In this paper
+https://bmcmolbiol.biomedcentral.com/articles/10.1186/1471-2199-4-9#ref-CR4
+they treated cells with 20uM P53i and found that it "strongly downregulated
+p53-responsive reporters".This paper
+https://mct.aacrjournals.org/content/4/9/1369.short says:  
+"We show here that PFT-α is unstable in tissue culture medium and is rapidly
+converted to its condensation product PFT-β. Both compounds showed limited
+solubility with PFT-α precipitating out of tissue culture medium at
+concentrations >30 μmol/L." ... "neither PFT-α nor -β can be regarded as a
+ubiquitous inhibitor of p53 function, and caution should be exercised in the
+use of these agents as specific p53 inhibitors."
+
+
+
+
+Key findings & takeaways
+
+  1. Repetitive exposures at lower levels seem to be more effective at inducing lasting mutation than one session of high exposure, which more likely just results in immediate cell death or early apoptosis
+  2. May need to add ice to reduce overheating when exposing cells to UV
+  3. Bug-zappers (like the one we have in the lab) typically just emit UV-A light, not UV-B light
+  4. Use time to alter exposure, rather than distance 
+  5. Worth comparing with sunlight as an alternative exposure option 
+
+
+
+
+More P53i notes:
+
+Might be using too much p53i
+
+  * 100uM is ~30ug/mL
+  * Our version is 10x more potent than standard pifithrin-a (At 30nM at least…)
+
+  
+
+The p53 inhibitor, pifithrin-α, disrupts microtubule organization, arrests
+growth, and induces polyploidy in the rainbow trout gill cell line, RTgill-W1
+(see attached ppr)  
+-- found that proliferation stopped at 5ug/mL
+
+  
+
+A chemical inhibitor of p53 that protects mice from the side effects of cancer
+therapy (linked above!)
+
+-- used 10, 20, and 30uM to see effect
+
+  * PFToa had almost no protective effect if it was added before (up to 18 hours) and removed immediately before UV treatment of C8 cells. However, a short 3-hour incubation with PFToa after UV treatment had a pronounced protective effect, whereas a 24-hour incuba- tion provided maximal protection. PFToa did not rescue UV-irradiated cells from apoptosis if it was added 3 hours after UV irradiation. These observations indicate that although PFTt can efficiently inhibit p53-dependent apoptosis, its effects are reversible and re- quire the presence of the drug. Because many cells survived a lethal dose of UV irradiation after only 3 hours of incubation with PFTt, we conclude that the UV-induced apoptotic death signal is significantly reduced within several hours and completely disappears within 24 hours of irradiation.
+  * Only treated with UV for 10, 15, or 20 sec???
+  * A 10 uM concentration of PFTa inhib- ited apoptotic death of C8 cells induced by Dox, etoposide, Taxol, cytosine arabinoside (Fig. 2A), UV light, and gamma radiation 
+  * PFTa inhibits activation of lacZ in ConA cells treated with different dosages of UV (35, 25, 15, and 7 J/m2)
+
+  
+
+https://mct.aacrjournals.org/content/4/9/1369.long
+
+  * Crystals start forming at 30uM 
+
+  
+
+Imino-tetrahydro-benzothiazole Derivatives as p53 Inhibitors: Discovery of a
+Highly Potent in Vivo Inhibitor and Its Action Mechanism (see attached ppr)
+
+  * tricyclic analogue 4b (ED50 = 30nM) is one order magnitude more active than PFT-r in protecting cortical neurons exposed to etoposide. 
+  * None of the new derivatives were toxic at 10 µM
+
+

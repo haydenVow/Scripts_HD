@@ -1,0 +1,28 @@
+
+
+To test the effect of different electrical stimulation patterns on cell
+growth, differentiation and maturation, a stimulation setup is required which
+includes a stimulator and electrodes to deliver the stimulation into the media
+of nearby cells. A well-plate culture dish format allows for controls,
+replicates and different conditions to be present on the same test plate.
+Thus, this experiment investigates the construction of an electrode plate for
+a well-plate culture dish format, and the sourcing of an appropriate
+stimulator.
+
+Electrical stimulation of cells in vitro runs the risk of introducing chemical
+byproducts and pH changes to the media. To prevent this from occurring, most
+stimulation set ups use salt bridges or balanced, biphasic stimulation
+waveforms, however this setup is more complicated to implement than a simple
+metallic electrode stimulating with direct current (Mobini, 2016). Although
+many previous studies (Banan Sadeghian 2018; Khodabukus et al., 2019; Shahin-
+Shamsabadi and Selvaganapathy, 2020; Van der Schaft 2013) have demonstrated
+improved maturation using stimulation patterns called pulsetrains with
+biphasic waveforms, some studies have also shown short exposure periods of
+simple DC stimulation can influence cell behaviour such as proliferation and
+differentiation (Mobini, 2016). For this reason, while the infrastructure to
+utilise more complex stimulation patterns is being developed, testing will
+begin with simple DC stimulation. The electrode plate and stimulator setup
+will be tested to define the limits of stimulation amplitude without inducing
+electrolysis, as well as general functionality and usability.
+
+

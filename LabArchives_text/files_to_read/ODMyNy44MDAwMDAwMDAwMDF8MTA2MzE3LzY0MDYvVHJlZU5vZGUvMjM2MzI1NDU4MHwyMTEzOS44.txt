@@ -1,0 +1,103 @@
+Key findings:
+
+
+  * No viable cell populations was observed in any of the six 384 ULA after 30 days in culture.
+  * Centrifuging the plates prior to Hoechst staining enables majority of the Hoechst to be removed without disrupting or accidently aspirating the cells
+  * Unclear if the cells taken from the existing suspension cultures were a viable population capable of proliferation to begin with, prior to FACS sorting.
+
+
+Results/Discussion:
+
+
+Following the promising results obtained from the first round of CHOMP_09
+fibroblast suspension single cell cloning (SCC), this experiment sought to
+replicate the process of adapting single cells to suspension in 384 ultra low
+attachment (ULA) plates. To accomplish this 3 separate cultures of DOLLY_12
+fibroblasts from an existing fast suspension adaption experiment were sorted
+into 2x 384 ULA plates each. After 30 days in culture these plates were
+stained with Hoechst, Zaber imaged and stained nuclei were manually counted to
+determine how many cells were present in each well. Any promising culture that
+exhibited signs of proliferation could then be passaged into a 96 ULA plate.
+
+Similar to the first round of CHOMP fibroblast sorting into 384 ULA plates,
+there were considerable difficulties in identifying suspension cells using
+Zaber imaging. Namely due to the inability to properly focus onto cells as it
+was unclear what a DOLLY fibroblast should look like in suspension,
+constituted a significant blocker towards tracking cell proliferation. As a
+result this method of tracking cell proliferation over time cells was
+discontinued for this experiment. Instead all cultures remained in culture for
+a total of 30 days after which all six plates were stained with Hoechst and
+imaged using the Zaber. Heats maps for each plate were then generated, which
+highlight the top 95% (including corner wells) of wells based on counts from
+the stained cells. Majority of the wells contained within this top 5
+percentile, exhibited counts of 2 indicating that the cells had doubled over
+that time period, with several wells containing cell counts >2\. In order to
+confirm if there were any viable population present, each well containing 2 or
+more cell were manually examined. Unfortunately, there were no cell
+populations present in any of the wells belonging to the top 5%, even wells
+with counts greater than 2. As a result all cultures were discarded.
+
+  
+
+  
+
+Figure 1: Heat map of plate 9378 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8639 DOLLY_12 fibroblast culture.
+
+  
+
+Figure 2: Heat map of plate 9379 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8639 DOLLY_12 fibroblast culture.
+
+Figure 3: Heat map of plate 9380 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8640 DOLLY_12 fibroblast culture.
+
+Figure 4: Heat map of plate 9381 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8640 DOLLY_12 fibroblast culture.
+
+Figure 5: Heat map of plate 9382 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8641 DOLLY_12 fibroblast culture.
+
+  
+
+Figure 6: Heat map of plate 9383 highlighting the top 95% of cultures based on
+cell counts of the Hoechst stained wells. This plate was seeded with cultures
+belonging to the 8641 DOLLY_12 fibroblast culture.
+
+
+Limitations:
+
+
+All previous SCC cloning attempts sort cells that originate from adherent
+cultures. As the cells can be monitored whilst they are in adherent
+conditions, we have a high degree of confidence that the cells that are FACS
+sorted are indeed viable and will continue to proliferate after being seeded
+into a 384 well plate. Unfortunately, we were unable to determine if these
+suspension cells were still alive and capable of proliferation prior to
+subjecting them to the FACS and cloning process. Therefore we may have
+potentially sorted cells that were unlikely to proliferate in 384 ULA plates.
+
+
+Conclusion:
+
+
+Of the three cultures that were FACS sorted into 384 ULA plates, no plate
+contained cell that proliferated over the ~40 days in culture. It is unclear
+if the cells that were taken from the existing suspension cultures were a
+viable population capable of proliferation to begin with, prior to FACS
+sorting. Therefore, it appears more appropriate to FACS sort adherent
+populations into 384 ULA plates unless the cell population is confirmed to be
+suspension adapted.
+
+
+Future Directions:
+
+
+  * Perform FACS sorting of cells that have been confirmed as being suspension adapted if they are required to be cloned instead of cell population currently being attempted to be adapted.
+
+

@@ -1,0 +1,83 @@
+
+
+## Performed by: ST  
+
+
+
+
+DNA Extractions:
+
+Culture IDsCell LineTreatmentDate of DNA extraction  
+  
+CHOMP07 wild type no treatment 14/2/22  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+PCR TESTING
+
+On 14/2/22, DNA was extracted by Sarah and Eva at UNSW using the quick extract
+technique. This is the DNA that will be used as a template in this PCR
+reaction.
+
+
+
+
+ PCR amplification
+
+  * Ladder loaded on well 1
+  * E1 and E2 are FASLG; Loaded on wells 2 and 3
+  * E3 and E4 are RIPK1; Loaded on wells 4 and 5
+  * E5 and E6 are ZIC1; Loaded on wells 6 and 7
+  * Reconstituted FASLG, RIPK1 and ZIC1 primers to 10uM (90 uL MilliQ + 10 uL 100uM primer) prior to beginning the process below. Primer tubes were labelled F for FASLG, R for RIPK1 and Z for ZIC1. Primers with #2 on them refer to reverse primers.
+
+* * *
+
+  1. Remove DNA extractions from the -20 freezer   
+  2. Made up a master mix for 1x reaction for each primer set (FASLG, RIPK1, ZIC1). Volumes listed below are intended for 1 reaction, *multiply by the number of reactions you wish to do for each gene of interest + 1 for wild type controls).
+  3.   4.  Added 19.1 uL of water instead of 15.1 uL given the high concentration of our extracted DNA.
+  5. Obtain 0.2 mL PCR tubes
+  6. Add 29μl of respective MM to each tube 
+  7.  Add 1μl DNA from the extracted DNA samples to each tube
+  8. Take to the PCR machine and set the settings to:
+  9.   10.   
+
+  11. To visualize PCR products, make up a 1% agarose gel in 0.5X TBE buffer. 
+    1. See this tutorial for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  12.  Prepare DNA extractions suspected as good for sequencing through a third party. 
+
+  
+
+
+
+
+
+
+
+## Reference Images:
+
+None of the set of primers amplified the target region. This requires further
+troubleshooting.
+
+  
+
+  
+
+
+
+
+

@@ -1,0 +1,116 @@
+
+
+## Performed by:
+
+
+
+
+## Hycell Cho
+
+348 well plates need 40 uL per well - 5 plates per gene target (76.8 mL )
+
+mini bioreactor tubes need 5 mL per tube - 2 per gene target (10 mL)
+
+Total per experiment first sort = 86.8 mL per gene target
+
+The mini bioreactor tubes will need to be fed every 3-4 days for 3-4 weeks -
+(80 mL)
+
+384 well plates will just need topping up periodically (76.8 mL)
+
+= 243.6 mL per gene
+
+6 x genes in january = 1461.6 mL
+
+We will make up 3000 mL to satisfy Jan and Feb
+
+  1. Reconstituted HyCell CHO powdered medium according to product instructions 
+    1. Osmolaltiy: 9.96
+    2. pH: 6.7
+  2. Added 1 molar NaOH drop-wise to increase pH. Final pH: 7.4
+  3. Prepared basal medium without KSR
+
+Hycell CHO basal media
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)3000  
+Base Medium (Hycell Cho)772310  
+  
+ACA130  
+  
+Pen/Strep130Total percent  
+Glutamax13080  
+  
+  
+
+
+
+
+## Notes/Observations
+
+  
+
+
+
+
+## Stockyard IDs
+
+DescriptionID  
+Basal medium (HyCell CHO)  
+  
+Glutamax  
+  
+ACA  
+  
+P/S  
+  
+New Mix id for base media (HyCell CHO + Glutamax + ACA + P/S)  
+  
+  
+  
+
+
+
+
+Antibiotic Free DMEM/F12 20% FBS media for nucleofections
+
+Need 18 wells of a 6 well plate per gene = 54 mL
+
+108 mL for 2 gene targets
+
+6 genes in january = 324
+
+We will make up 350mL, just enough for this as without antibiotics it is best
+to make up relatively fresh
+
+140 mL DMEM
+
+140 mL F12
+
+70 mL FBS
+
+total = 350 mL
+
+  
+
+
+
+
+## Stockyard IDs
+
+DescriptionID  
+DMEMS4293  
+  
+F12S4255  
+  
+FBSA9262  
+  
+New mix ID  
+  
+  
+  
+
+

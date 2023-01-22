@@ -1,0 +1,129 @@
+
+
+## Performed by:
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6988-DOLLY12-Sheep P12-1of6  
+6989-DOLLY12-Sheep P12-2of6  
+6990-DOLLY12-Sheep P12-3of6  
+  
+  
+6991-DOLLY12-Sheep P12-4of6  
+6992-DOLLY12-Sheep P12-5of6  
+6993-DOLLY12-Sheep P12-6of6  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 19:25 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x20uL samples of each suspension were taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate wells on a 96 well plate and mixed each with 80uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+    1. A new plate ID was created for this staining plate (6994-DOLLY12- P12-1of1)
+    2. Samples from separate cultures were placed in separate rows (columns 1-3) 
+      1. Row A: 6988
+      2. Row B 6989
+      3. Row C 6990
+      4. Row D 6991
+      5. Row E 6992
+      6. Row F 6993
+  4. Input samples into the plate upside down so the following rows in columns 10-12 contain the following samples. 
+    1. Row C:  6993
+    2. Row D: 6992
+    3. Row E: 6991
+    4. Row F: 6990
+    5. Row G: 6989
+    6. Row H: 6988
+  5. Returned cultures to the incubator  `| 19:54 am/pm|`
+  6. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 19:40 am/pm |`
+  7. After incubation the wells were imaged on the Zaber in the main lab.
+  8. 1 image at the centre of each well was captured under Phase and DAPI magnification, same frame for both channels. 
+    1. DAPI settings: 25ms, 35 lamp intensity
+    2. Phase settings: 3ms, 2.4 lamp intensity
+  9.  Found that the DAPi images looked a little dark and might not be analysed very well. Decided to re image but changed the exposure time on the DAPi channel to 25ms instead of 25ms. 
+  10.   
+
+  11. Once images were captured, the second set of image pairs (the ones imaged under 35ms of exposure time for DAPI) were selected for analysis using the 'uCarrier cell count' tool from MIA capture. [20:40]
+  12. Imaged the plate twice more
+    1. Once using 60ms DAPI exposure time to obtain brighter nuclei signal per microcarrier. 
+    2. Once more after this using 60ms DAPI exposure time but after shaking the plate slightly to remove carriers from stacking over one another. 
+  13. Each image file was labelled with the suffix 6994-HTcarriersDay1. Replicate imaging files were subsequently labelled (2)-(4). Files can be found on the Zaber Z drive or in the Vow P cloud account.  
+  14. Discarded the plate after Imaging. [20:49] 
+
+  
+
+
+
+
+### Observations/Summary:
+
+  * ### All samples had cells attached to microcarriers. 
+
+  * ### it was hard to determine by eye whether the E125 flasks or 50mL spin tube cultures had more cells per microcarrier. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS + poloxamer mix  
+4945  
+  
+  
+Poloxomer 88  
+  
+  
+Hoechst 333422454  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2  
+  
+V3  
+  
+  
+  
+
+

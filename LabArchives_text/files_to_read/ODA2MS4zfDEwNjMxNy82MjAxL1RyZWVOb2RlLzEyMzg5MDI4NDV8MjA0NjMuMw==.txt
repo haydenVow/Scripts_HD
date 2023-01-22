@@ -1,0 +1,154 @@
+
+
+## Performed by: Bonnie  
+
+
+
+
+Feed information:
+
+Seeded flask typeSeeded flask IDLid LabelCondition  
+6x E125
+
+9662-F_DOLLY12-Sheep P9-1of3
+
+9663-F_DOLLY12-Sheep P9-2of3
+
+9664-F_DOLLY12-Sheep P9-3of3
+
+9.1  
+9.2  
+9.3CD CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S  
+  
+  
+9665-F_DOLLY12-Sheep P9-1of3
+
+9666-F_DOLLY12-Sheep P9-2of3
+
+9667-F_DOLLY12-Sheep P9-3of3
+
+10.1  
+10.2  
+10.3  
+Hycell CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+dPBSA9680  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 10% KSR)  
+A9336  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 20% KSR)  
+M9682  
+  
+Basal Medium (HyCell CHO)  
+A9008  
+  
+KSR  
+S4434  
+  
+IGF-1  
+M9190  
+  
+b-FGF  
+M5705  
+  
+EGFM4297  
+  
+  
+  
+
+
+
+
+### Media preparation:  
+  
+
+  1. Aliquotted growth media conditions. Growth factors and KSR (except for Brutus media) are to be added fresh as indicated :   2 x 45 mL aliqouots  
+Condition MediaVolume media required  
+Additional Hycell CHO basal media (5 L bottle in biomaterials fridge)Volume
+KSR (mL)  
+IGF (uL)FGF (uL)  
+9CD CHO + AA + glutamax +  \+ P/S (for 10% KSR)40.5N/A4.59090  
+10Hycell CHO + AA + glutamax + P/S  (for 10% KSR)36 (Hycell 20% base)  
+4.5 (hycell base)  
+4.59090  
+  
+  
+
+Time that all aliquots were placed in the water bath the warm before use
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Process:  
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min
+  5. Washed flasks with 10 mL of dPBS
+  6. Aspirated  75% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. 
+  7. Topped up each 50 mL centrifuge tube with 15 mL of fresh prewarmed media and resuspended cell pellet. 
+  8. Gently pipette-mixed cultures, and returned to flask
+  9. Took 100 uL samples from each culture and loaded onto a 96 well plate according to the plate map. 
+  10. Returned E125s to incubator 
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 1 mL dPBS  
+\- 1 drop Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature  
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute   
+  
+
+  6. Prepared plate map: https://docs.google.com/spreadsheets/d/1F6wlIEfJBuDSSEZZqU3H5Rw9VdIadgP93GE3Oh__RBM/edit#gid=698754547  
+Plate ID: 9668, MIA Link: https://mia-
+capture.vow.tools/#/session/recBmWsirOSWAECT2/images
+
+
+
+
+Observations/Summary:  
+18 Jan - Due to low cell counts <10% of seeding number, Hycell CHO cultures
+will be disposed of. Feeding schedule for CD CHO DOLLY cultures will be
+continued.  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+

@@ -1,0 +1,193 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by:
+
+
+
+
+Passage Culture IDs:
+
+harvest flask type  
+Harvested Flasks ID(s)Seeded Flasks ID(s)Seeded flask type  
+Growth medium  
+  
+T75  
+12133  
+12131  
+12132  
+12212  
+  
+T25  
+chicken GM PFR P/S Free  
+  
+T75  
+12127 (explant)  
+  
+12213  
+T25  
+chicken GM  
+  
+12214  
+12215  
+12216  
+12217  
+12218  
+T175 (5X)  
+chicken GM  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+  
+Tryplealq12390  
+20mL  
+  
+dPBS (for washing & neutralising)alq12334  
+20mL  
+  
+Growth Mediamix12500  
+300mL  
+  
+vit c  
+alq12644  
+450uL (10xT175s) and 15uL (2xT25s)  
+  
+IH-DMEM  
+12047  
+5mL  
+  
+FBS  
+alq12487  
+alq12489  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    20   mL in     1X 50mL falcon  tubes
+  2. dPBS (for neutralising)   20    mL in    1X 50mL falcon    tubes
+  3. Growth media (for pellet resuspension):       mL in        tubes
+  4. Growth media (for seeding):    300   mL in   500mL sterile container
+  5. Times that all aliquots were placed in the water bath to warm before use    16:50
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added  5mL     mL tryple to each vessel/well and incubated at 37˚C for
+13     min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for centrifugation was    13:48    \-  14  : 01  a/pm
+
+4\. Neutralised with  5mL per flask     dPBS (warmed) and combined cell
+suspension into a   2x 50mL falcon (1x tube for explant culture) and 1x falcon
+tube (for single cell cultures)   tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was    14:11    \-    14:16    
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in    300    mL   growth    media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+9\. Total cell number was:    31,520,000  
+
+10\. ~~Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.~~
+
+11\. Volume of cell suspension required for subculture was:    20mL  
+
+12\. Transfer    all of cell suspension to the pre-warmed  300 mL Growth
+Media.
+
+13\. Transfer cell suspension into (non-gelatin coated)     2x T75, 6xT175
+flasks/plates.
+
+14\. Transfer flask/plate(s) to incubate at: 16:55
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  1. https://ranger.vow.tools/#/session/recJD4YjnMYpIer6p/images
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+  
+  
+  
+
+

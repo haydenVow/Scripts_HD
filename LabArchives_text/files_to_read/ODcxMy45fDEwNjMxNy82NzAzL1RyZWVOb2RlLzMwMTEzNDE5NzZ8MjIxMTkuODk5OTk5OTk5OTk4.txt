@@ -1,0 +1,185 @@
+
+
+Performed by: James Henstock + Bonnie Tangey
+
+
+
+
+Process
+
+Terminating embryos at Day 9 of incubation  
+3x Japanese Quail and 5x Bob White Quail eggs/embryos survived to Day 9 of
+incubation.  24 hours prior to processing, these eggs were removed from the
+egg incubator and left at room temperature. This would result in the caseation
+of embryonic development, and the death of the embryos. As the standard
+incubation period for quail eggs is 18 days, this marks the half way point of
+development.
+
+Isolation of cells from embryos  
+24 hours following the removal of the eggs from the egg incubator, eggs were
+transferred to Vows Yurt lab, inside the Vow building, where we are currently
+processing all new biopsies. Here the following steps were performed.
+
+  1. Eggs were spray liberally with 70% ethanol and transferred into the BSC
+  2. Once air dried, each egg was cracked open, and into a petri dish.
+  3. Entire embryos were then transferred to petri dishes, and their heads were quickly removed using sterile forceps. 
+  4. collection jars containing FBS + 2% antibiotic-antimycotic. Embryos from each species were combined (3 x Japanese quail embryos and 5 x Bob-white quail embryos.
+
+The embryos were then transferred into the library lab for further processing.
+Here the following steps were performed.
+
+  1. Collection jars containing the  embryos were sprayed with 70% ethanol and taken into the BSC. 
+  2. One at a time, headless embryos were removed for the collection jars and placed onto sterile petri dishes.
+  3. For the Japanese Quail, legs were removed by pulling them away from the body with sterile forceps. The femurs (which protruded from the legs once removed), were removed and discarded, while the remaining tissue was placed into a 50mL falcon tube containing 20mL of PBS only. Legs from all Japanese quail embryos were pooled into the same tube (cell line derived from these cells to be termed 'LEGGY').
+  4. Following the removal of the legs, Japanese Quail bodies were combined into a separate 50mL containing 20mL of PBS  (cell line derived from these cells to be termed 'BIRDY').
+  5. As the Bobwhite quail appeared less developed, with ill-defined limbs, the headless bodies were pooled directly into a 50mL tube containing 20mL of PBS (cell line derived from these cells to be termed 'BOBBY'). 
+  6. For each of the 3 tubes (LEGGY, BIRDY and BOBBY), the PBS and embryos were mixed for approximately 2-3 minutes, causing the embryos to fall apart into a semi-homogenous cell suspension.
+  7. Each cell suspension was then passed through a 70um cell filter, and then centrifuged for 5min at 300xg. The portions of isolation that did not pass through the filter were retained, to be plated into planar culture (see next steps). 
+  8. In the meantime, T25 (5mL) and e-125 (20mL) vessels were prefilled with culture medium as per the tables below.  
+  9. After centrifugation, supernatant was removed from each 50mL tube, and cell pellets were resuspended in 4mL of PBS. 
+  10. For each cell line, 500ul of cell suspension was used to seed one vessel for each of the following conditions (no replicates).  
+Adherent medias (T25s)  
+OptiPRO + 4mM Glutamax  
+DMEM/F12 + 10% KSR  
+DMEM/F12 + 10% FBS  
+DMEM/F12 + 5% FBS  
+  
+Suspension Medias (e-125s)  
+Freestyle 293 medium supplemented with Yeast Extract (1g/l), L-Ornithine
+monohydrochloride (20mg/l), Putrescine (20mg/l), IGF-1 (50ug/l), EGF (10ug/l)
+and ACA (1:100).  
+CDM4Avian medium supplemented with 2.5 mM Glutamax  
+OptiPRO SFM + 0.2% Pluronic F-68 + \+ 4mM Glutamax  
+  
+
+  11. All vessels were then transferred to incubator 138 in library lab, 37C and 5% CO2. e-125 flask were placed on a shaking plate at 120rpm.   
+
+
+
+
+Adherent Cultures
+
+Culture ID  
+Vessel TypeSpeciesLine  
+Media  
+  
+10447  
+T25Japanese quailLEGGY  
+DMEM/F12 + 10% FBS  
+  
+10448  
+DMEM/ F12 + 5% FBS  
+  
+10449  
+LEGGOOptiPRO + 4mM glutamax  
+  
+10450  
+LEGGKDMEM/F12 + 10% KSR  
+  
+10451  
+  
+BIRDYDMEM/F12 + 10% FBS  
+  
+10452  
+DMEM/ F12 + 5% FBS  
+  
+10453  
+BIRDOOptiPRO + 4mM glutamax  
+  
+10454  
+BIRDKDMEM/F12 + 10% KSR  
+  
+10455  
+Bobwhite QuailBOBBY  
+DMEM/F12 + 10% FBS  
+  
+10456  
+DMEM/ F12 + 5% FBS  
+  
+10457  
+BOBBOOptiPRO + 4mM glutamax  
+  
+10458  
+BOBBKDMEM/ F12 + 10% KSR  
+  
+10459  
+Japanese QuailLEGGZ  
+unfiltered portion of isolate  
+DMEM/F12 + 10% FBS  
+  
+10460  
+BIRDZ  
+unfiltered portion of isolate  
+DMEM/F12 + 10% FBS  
+  
+10461  
+Bobwhite QuailBOBBZ  
+unfiltered portion of isolateDMEM/F12 + 10% FBS  
+
+
+  
+  
+Suspension Cultures
+
+Culture ID  
+Vessel TypeSpeciesLine  
+Media  
+10463e-125Japanese quailLEGGY  
+OptiPro  
+  
+10462CDM4 Avian  
+10464Nuvonis  
+10466  
+BIRDYOptiPro  
+  
+10467CDM4 Avian  
+  
+10465Nuvonis  
+  
+10469Bobwhite QuailBOBBY  
+OptiPro  
+  
+10470CDM4 Avian  
+  
+10468Nuvonis  
+
+
+Reagent  
+ID  
+  
+PBS  
+M 9264  
+Antibiotic-antimycotic  
+S 4826  
+  
+DMEM  
+S 3026  
+F12  
+S 4255  
+Nuvonis Mix  
+A 10151  
+  
+EGF  
+M 9201  
+  
+IGF  
+M 9190  
+  
+OptiPRO + 4mM Glutamax  
+M 10148  
+  
+OptiPRO + 2mM Glutamax  
+M10148 + S4848  
+  
+5% Pluronic (F68)  
+M 10519  
+  
+CDM4 Avian  
+S 3625  
+  
+Glutamax  
+S 4747  
+  
+KSRS 4605
+
+

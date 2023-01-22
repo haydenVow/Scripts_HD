@@ -1,0 +1,100 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Harvested plates  
+Seeded plates  
+  
+12389, 12153  
+  
+12492  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12364  
+  
+Growth Mediam12672  
+  
+  
+  
+
+
+
+
+### Process:
+
+  
+
+  
+
+1\. Fillled two 96 well plates with 300uL of dPBS and 200uL of tryple as per
+the plate guide above (ignored position 4). Filled another separate plate with
+growth media (DMEM/F12+ 20% FBS + 1xP/S), 200uL per well.  
+
+2\. Generated a multiwell open protocol using the 'Dynamo' script using the 1
+well passaging protocol attached and the pick lists generated on the 8/6/22
+
+3\. Set up the opentron deck as per the layout at the top of the page using
+cultures 12389 and 12492 and ran the generated multiwell protocol (see
+attached).
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241&range=93:102
+
+6\. Allowed the protocol to run to completion. (tryple time per well was 20
+minutes, with tryple prewarmed to 37 degrees  using deck heaters before it was
+added to cells.
+
+7\. Transferred the new culture to incubate at 30 degrees, 5% CO2 incubator
+#140.
+
+  
+
+
+
+
+Observations/Summary:
+
+Observed the wells after passage.
+
+
+
+
+SOPs used:
+
+### https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+
+
+
+Relevant attachments  
+
+See the resources file attached for tracking details of each clone from the
+origin plates to the locations.
+
+Summary of the passage can also be found in this document:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241
+
+

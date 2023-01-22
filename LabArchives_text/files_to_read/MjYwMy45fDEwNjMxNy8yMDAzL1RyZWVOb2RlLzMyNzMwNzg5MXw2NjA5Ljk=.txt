@@ -1,0 +1,197 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+7105-C2C12-Mouse P4-1of2  
+96 well plate  
+80  
+  
+7106-C2C12-Mouse P4-2of2  
+96 well plate  
+80  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+## Performed by: Shaleen Sharma  
+
+
+
+
+
+
+
+Reagent preparation:
+
+1\. Prepared Secondary Antibody mixes (pipette from the top/supernatant of
+antibody solution):
+
+(1;100,000 dilution antibody mixes were made from a 1:10 serial dilution of a
+1:10,000 mix)
+
+Secondary AntibodyStock #IDAmount of Antibody SolutionAmount of Blocking
+BufferDilution  
+Goat Anti-Mouse (IgG1)1606  
+4uL4mL1:1000  
+Goat Anti-Mouse (IgG2b)  
+1966  
+4uL4 mL1:1000  
+HRP-conjugated Goat Anti-Mouse (IgG1)1967  
+1mL (1:10,000 mix - 1uL in 10mL)9mL1:100,000  
+HRP-conjugated Goat Anti-Mouse (IgG2b)  
+2780  
+1mL (1:10,000 mix - 1uL in 10mL)  
+9mL1:100,000  
+  
+  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 12:04 - 12:09 a/pm
+
+ 12:11 - 12:16 a/pm
+
+ 12:18 - 12:23 a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  12:36 - 13:46 a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Addition of TMB substrate:
+
+1\.  Removed 2nd antibody solution.  13:48 a/pm
+
+2\.  Washed in 200uL PBS 5 x 5 min at RT in the dark. (No Triton)
+
+ 13:50 - 13:55 a/pm
+
+ 13:56 - 14:01 a/pm
+
+ 14:03 - 14:08 a/pm
+
+ 14:10 - 14:15 a/pm
+
+ 14:17 - 14:23 a/pm  
+
+4\. Started peroxidase reaction by adding 75uL of TMB substrate solution to
+respective wells (see Figure 1 for plate map) and incubating plate at RT for
+15 mins.
+
+ 15:00 - 15:15 a/pm (p1)  
+
+ 15:02 - 15:17 a/pm  (p2)
+
+
+
+5\. Quenched reaction with 75uL of 0.5M HCl strictly after 15 minutes and
+observed cyan to yellow colour change.
+
+6\. Pipette mixed and transferred 100uL of the yellow supernatant to a new
+non-treated 96 well plate.
+
+7\. Placed plate in NanoStar plate reader and measured absorbance values at
+450nm
+
+
+
+
+Janus Green:
+
+  1. Aspirated supernatant and washed each plate thrice with 200uL PBS.
+  2. Add 1X Janus Green Stain (0.3% solution in PBS) (#M4399) per well, sufficient to cover the cells (100uL in this case for a 96 well plate) and incubate at RT for 5 minutes:
+    1. Start:  16:22 - 16:27 (P1)
+    2. 16:28 - 16:33 a/pm
+  3. Remove dye, wash 5 times in deionized water (200uL each wash) or until excess dye is removed.
+  4. Remove last water wash, add 100uL 0.5 M HCl and incubate for 10 min. 15:00 - 15:10 a/pm  15:02 - 15:12 a/pm  
+
+  5. Transferred 50 uL of the stained supernatant into the wells of an untreated 96w plate and read absorbance at 605 nm using the NanoStar plate reader.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Observations:
+
+  * TMB substrate solution was placed in a plastic reservoir so that multichannel pipetting could happen with ease. However, after some time (~ 15 minutes) solution appeared to turn slightly blue over time despite that the solution was not exposed to cells.
+  * During Janus Green washing steps, cell sheet at the bottom of the wells in the ingredient plate appeared to lift off.
+  * Fluorescent control images show that cells have lifted on both left and right sides and even folded over in some cases. See: https://mia-capture.vow.tools/#/session/recD796FMhGahQqI5/images
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM5703  
+  
+dPBS  
+  
+Janus GreenM4399  
+Secondary Antibody Mix  
+  
+TMB Substrate  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+#7105: https://mia-capture.vow.tools/#/session/recD796FMhGahQqI5/images
+
+#7106: https://mia-capture.vow.tools/#/session/rec4f50XFL7B3AM1Q/images
+
+

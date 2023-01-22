@@ -1,0 +1,205 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: BT, VP, AK  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4CF  
+9244-F_CHOMP09-Crocodile P8-1of6  
+9245-F_CHOMP09-Crocodile P8-2of6  
+9246-F_CHOMP09-Crocodile P8-3of6  
+9247-F_CHOMP09-Crocodile P8-4of6  
+9248-F_CHOMP09-Crocodile P8-5of6  
+9249-F_CHOMP09-Crocodile P8-6of6  
+6 x 4CF  
+9435-CHOMP09-Crocodile P9-1of6  
+9436-CHOMP09-Crocodile P9-2of6  
+9437-CHOMP09-Crocodile P9-3of6  
+9439-CHOMP09-Crocodile P9-4of6  
+9440-CHOMP09-Crocodile P9-5of6  
+9438-CHOMP09-Crocodile P9-6of6  
+  
+4CF  
+9244-F_CHOMP09-Crocodile P8-1of6  
+9245-F_CHOMP09-Crocodile P8-2of6  
+9246-F_CHOMP09-Crocodile P8-3of6  
+9247-F_CHOMP09-Crocodile P8-4of6  
+9248-F_CHOMP09-Crocodile P8-5of6  
+9249-F_CHOMP09-Crocodile P8-6of6  
+Pool into appropriate number of cryovials at 10 million cells per vial  
+3789-Culture-9244-Vial-1of10  
+3790-Culture-9244-Vial-2of10  
+3791-Culture-9244-Vial-3of10  
+3792-Culture-9244-Vial-4of10  
+3793-Culture-9244-Vial-5of10  
+3794-Culture-9244-Vial-6of10  
+3795-Culture-9244-Vial-7of10  
+3797-Culture-9244-Vial-8of10  
+3798-Culture-9244-Vial-9of10  
+3799-Culture-9244-Vial-10of10  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Growth Media  
+A8862, A8867, A8866, 8863  
+  
+TrypleM7547, A7591  
+  
+dPBS (for washing & neutralising)A8758, A8755, A8757, M8754  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     1200    mL
+  2.  dPBS (for neutralising):     1200    mL
+  3.  dPBS (for washing):     1200    mL
+  4. Growth media (for pellet resuspension):    50   mL
+  5. Growth media (for seeding):     3600    mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+13:30  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    14:20
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     200    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:35 - 14:45 
+
+7\. Neutralised with     200 mL     dPBS and combined cell suspension into a
+12x 200 mL    tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   15:09 - 15:14 (spin 1)   15:15 - 15:20 (spin 2)  15:21 - 15:26 (spin 3)  15:27 - 15:32 (spin 4) 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     60    mL     Growth     media    15:55
+
+11\. Aliquoted    2x 100 uL     of resuspended cells into a microcentrifuge
+tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:       673,400,000      
+
+  2. Volume of cell suspension required for subculture was:      11 mL (in 2x 5.5 mL aliquots for 1.8L of media)       
+
+  3. Cell density per vessel:     7000/cm^2       
+
+
+
+
+13\. Transferred      5500     µl of cell suspension to the pre-warmed
+2x  1.8L   Growth media:     17:00
+
+14\. Transferred cell suspension into the    6x 4CF      vessel.
+
+15\. Transferred vessel(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [x] 30ºC, 5% CO2 (reptile cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Freezing cells:
+
+1\. Prepared  10 mL Cryostor ID # S2770
+
+Stored at 4ºC until use to keep chilled.
+
+2\. Aliquot 10.5 mL of cell suspension (for total of 100M cells for 10x
+cryovials)
+
+3\. Centrifuged cells at 300 x g for 5 min.  17:20 - 17:25
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+4\. Aspirate the supernantant
+
+5\. Resuspended the pellet in | 10 mL | cryostor (chilled, to reduce DMSO
+toxicity).
+
+6\. Aliquotted | 1000 |µL into | 10 | x cryovials (already labelled).
+
+7\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer. 17:36
+
+  * [ ]  With foam
+  * [ ]  Without foam
+  * [x]  1st Freeze
+  * [ ]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+8\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+Reseeded 6x 4CF and froze down 10x cryovials at 10M cells per vial.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

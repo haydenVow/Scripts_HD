@@ -1,0 +1,146 @@
+
+
+Experimental rationale
+
+The primary objective of project pool party is to get cells into suspension.
+Previous research has shown that cells that have adapted to suspension from
+adherent culture have different gene expression patters compared to the cells
+that have not been adapted to suspension (1-3). Previous studies have used the
+differential expression analysis between adherent and suspension adapted cells
+to inform the manipulation of gene expression to enhance suspension adaptation
+in cell lines such as HEK293 and CHO cells (1-3). We aim to use previous
+learnings with respect to gene expression changes in suspension adapted cell
+lines to manipulate gene expression of target genes in CHOMP cells to enhance
+their ability to adapt to suspension.
+
+Previous studies have used RNAseq to investigate the differential expression
+between suspension adapted cells and adherent cells of the same cell lines and
+have identified a number of genes of interest. These genes are generally
+involved in a few specify functions such as extracellular matrix organisation,
+cholesterol biosynthesis, locomotion, and cell adhesion (3).Given that CHOMP
+cells have not previously been adapted to suspension, we are unable to perform
+the same types of analysis. Therefore we will instead infer the learnings
+identified in previous studies to CHOMP cells and investigate whether
+manipulating the gene expression of the target genes identified by previous
+studies affect the suspension adaptation in CHOMP cells.
+
+Two previous studies have used knock down strategies to increase suspension
+adaptation of cell lines. The first used siRNA to down regulate PABPC1, a gene
+involved in mRNA metabolism including splicing and stability (2). This study
+showed that the down regulation of PABPC1 significantly increased the rate of
+adaption to suspension of CHO-K1 cells. A second study used CRISPR-Cas9 to
+down regulate two genes, Igfbp4 and AqpI, in order to accelerate CHO cells
+adaption to suspension(1). Igfbp4 encodes an insulin like growth factor
+binding protein domain which has been consistently shown to inhibit several
+types of cancer. AqpI encodes an aquaporin which functions as a molecular
+water channel protein which is a potential cancer biomarker that promotes
+metastasis. The 3 genes identified in these papers are all great targets for
+the CRISPR targeted approach we aim to use in our research
+
+When it comes to adaption to suspension, one of the greatest barriers is
+cellular senescence. When cells undergo significant stress such as adaption to
+suspension, they increase in likelihood to enter senescence (4) preventing
+them from reaching or extending beyond the hayflick limit. Adapting cells to
+suspension also results in increased anoikis (a type of apoptosis caused by a
+lack of extra cellular matrix interactions) (5). These have both been noticed
+in the CHOMP cells in our attempts to adapt them to suspension. Therefore, we
+aim in this investigation to investigate the down regulation of genes that are
+potentially involved in cellular senescence and anoikis in order to increase
+the likelihood that cells which are able to adapt to suspension continue to
+proliferate.
+
+The RIP gene has previously been implicated in the anoikis pathway. RIP
+contains a death pathway receptor and has been shown to increase in expression
+when cells are grown in suspension. A previous investigation using siRNA to
+knockdown Fas expression identified that cells were less likely to apoptose
+when RIP was knocked down (5). PTEN is another gene that has been shown to be
+involved in cell senescence and anoikis. PTEN is the 2nd most common gene
+mutated in cancer cells, second only to P53. A previous study using an AVV
+knockout technique showed that a PTEN knockout in MCF-10A cells prevented cell
+apoptosis in suspension as well as increased growth in the absence of growth
+factors (a cancer hallmark) (6). RIP and PTEN are examples of two genes
+involved in anoikis we aim to manipulate in this investigation
+
+  
+
+1\. Lee, Namil, et al. "Targeted Gene Deletion Using DNA-Free RNA-Guided Cas9
+Nuclease Accelerates Adaptation of CHO Cells to Suspension Culture." ACS
+Synthetic Biology, vol. 5, no. 11, Nov. 2016, pp. 1211-19,
+doi:10.1021/acssynbio.5b00249.
+
+2\. Dai, Xiaofeng, et al. "PABPC1 Enables Cells with the Suspension
+Cultivation Feature." ACS Synthetic Biology, vol. 10, no. 2, Feb. 2021, pp.
+309-17, doi:10.1021/acssynbio.0c00440.
+
+3\. Malm, Magdalena, et al. "Evolution from Adherent to Suspension: Systems
+Biology of HEK293 Cell Line Development." Scientific Reports, vol. 10, no. 1,
+2020, doi:10.1038/s41598-020-76137-8.
+
+4\. Wang, Yiming, et al. "A Prospect of Cell Immortalization Combined with
+Matrix Microenvironmental Optimization Strategy for Tissue Engineering and
+Regeneration." Cell & Bioscience, vol. 9, no. 1, Jan. 2019, p. 7,
+doi:10.1186/s13578-018-0264-9.
+
+5\. Kamarajan, Pachiyappan, et al. "Receptor-Interacting Protein Shuttles
+between Cell Death and Survival Signaling Pathways." Molecular Biology of the
+Cell, edited by Kunxin Luo, vol. 21, no. 3, 2010, pp. 481-88,
+doi:10.1091/mbc.e09-06-0530.
+
+6\. Vitolo, Michele I., et al. "Deletion of PTEN Promotes Tumorigenic
+Signaling, Resistance to Anoikis, and Altered Response to Chemotherapeutic
+Agents in Human Mammary Epithelial Cells." Cancer Research, vol. 69, no. 21,
+Nov. 2009, pp. 8275-83, doi:10.1158/0008-5472.CAN-09-1067.
+
+
+
+
+Protocol Rationale
+
+The CRISPR-Cas system has been widely used in medical research for more than 5
+years and has an enormous list potential applications. The CRISPR-Cas system
+harnesses a bacterial defence mechanism which results in targeted double
+stranded breaks in DNA. The CRISPR-Cas system has been optimised for numerous
+applications and tweaked to fit many specific needs. For example, there are
+now CRISPR tools capable of targeting DNA without generating a double stranded
+break to reversibly bind to targeted DNA to block the binding of other
+proteins (dCas), tools to generate single stranded nicks to result in single
+base pair substitutions (base editors) and tools to introduce targeted
+deletions and insertions with great precision (homology directed repair)
+(7-9).
+
+In our investigation we aim to use CRISPR-Cas9 to introduce double stranded
+breaks into genes which we believe could allow adaption to suspension in our
+CHOMP cells. We would like these cells to be minimally mutated with no
+potential for the introduction of foreign DNA. Early CRISPR techniques relied
+on the use of plasmids and viruses to introduce the Cas protein and guide RNA
+(9). However, these techniques require a significant amount of foreign DNA
+entering the cells and potentially being incorporated into the host genome. A
+new technology know as RNP CRISPR has been invented to alleviate this problem.
+RNP CRISPR is a DNA free CRISPR technique which relies on the introduction of
+the Cas9 protein directly along with a preassembled sgRNA complex (9). These
+two components can be purchased directly without requiring pre-assembly (10).
+Therefore the RNP CRISPR technology is an optimum technology for the use in
+our investigation.
+
+  
+
+7\. Zhang, Debin, et al. "Genome Editing with the CRISPR‐Cas System: An Art,
+Ethics and Global Regulatory Perspective." Plant Biotechnology Journal, vol.
+18, no. 8, 2020, pp. 1651-69, doi:10.1111/pbi.13383.
+
+8\. Barman, Antara, et al. "A Glance at Genome Editing with CRISPR-Cas9
+Technology." Current Genetics, vol. 66, no. 3, 2020, pp. 447-62,
+doi:10.1007/s00294-019-01040-3.
+
+9\. Kantor, Ariel, et al. "CRISPR-Cas9 DNA Base-Editing and Prime-Editing."
+International Journal of Molecular Sciences, vol. 21, no. 17, Aug. 2020, p.
+6240, doi:10.3390/ijms21176240.
+
+10\. IDT website https://sg.idtdna.com/pages/products/crispr-genome-
+editing/alt-r-crispr-cas9-system
+
+  *   
+
+  
+
+

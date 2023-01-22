@@ -1,0 +1,372 @@
+StepInspect TCU  
+Operator nameVP  
+Time-stamp09:44  
+Protocol
+
+  1. Ensure TCU (temperature control unit) is connected to power supply
+  2. Turn TCU on at power switch on the unit and set to 0°C
+  3. TCU will need at least 40 minutes to come to temperature before able to be used. Necessary to cool headplate controlling agitation (RPM) of vessels. Do not engage vessels with stirring before temperature has been reached
+
+  
+Deviations & notes  
+  
+References  
+
+
+StepStart AMBR Run-time software  
+Operator nameVP  
+Time-stamp09:46  
+Protocol
+
+  1. Open AMBR Run-time software from desktop icon
+  2. Select relevant protocol from list (Vow_1) and open in software
+
+  
+Deviations & notes
+
+  * software opened already in run
+  * selected 'new experiment' and selected Vow_process from desktop
+
+  
+References  
+
+
+StepInspect physical gas line connections  
+Operator nameVP  
+Time-stamp09:45  
+Protocol
+
+  1. check gas line connections to the hardware. The AMBR hardware supports 3 gas inputs in the following order from left-to-right:
+    1. CO2
+    2. Compressed air or N2
+    3. O2
+  2. Mammalian settings will always used compressed air and not N2. Ensure this is physically connected at the gas regulator
+  3. Inspect the regulator switch. Ensure the handle is running parallel to the line (open) and not perpendicular to the line (closed)
+  4. Inspect the pressure of the regulators. The regulators should be between 1-3 bar in pressure for proper functionality. Ensure all regulators are set to the same pressure
+
+  
+Deviations & notesgas lines were already open and set to 1 bar for O2,
+compressed air and CO2  
+no action taken  
+ReferencesAMBR manual page 98  
+  
+  
+
+
+StepSet-up program windows & keyboard  
+Operator nameVP  
+Time-stamp9:48  
+Protocol
+
+  1. Select 'Window' button from top right hand corner of screen to exit full screen
+  2.  Bring up the keyboard on the AMBR computer by swiping from the bottom right hand corner of the screen towards the left. Search for the keyboard and select 'On-screen keyboard'.
+
+  
+Deviations & notesKeyboard already open  
+ReferencesN/A
+
+
+StepSet process parameters and flow  
+Operator nameVP  
+Time-stamp09:48  
+Protocol
+
+  1. Open Vow_1 protocol in processes tab at the bottom of the screen
+  2. Adjust parameters as necessary
+    * set stirring speed for each vessel
+      * Select the 'Process' tab -> 'Vow 1' -> locate the 'Conditioning and Calibration' tab -> select 'Stir speed on' step / phase -> click 'Edit' -> select the RPMs that are being tested
+
+      * Under the 'Set point' enter desired RPMs
+
+    * control loops turn on or off (antifoam, dissolved oxygen, pH (CO2 gassing), pH (base)
+      1. Go to 'Process' -> 'Vow 1' -> 'Control loops' -> Edit 'pH lower' and 'pH upper'; from this menu, the CO2 gas flow rate can also be changed by editing the 'Maximum (mL / min)' - can be used to alter the rate at which the pH changes
+      2. Delete anti-foam control loop (anti-foam will dose at entire vessel volume when feed added)
+      3. Delete dO control loop (unless required for the run)
+    * set reservoir details and pumps
+      1. Select 'Process' -> 'Vow 1' -> 'Pumps A-E'
+      2. Assign the role of 'Pump A' as the feed (consisting of 3:1 R:H + GFs + antifoam)
+      3. Assign the role of 'Pump B' as the base (1M sodium bicarbonate)
+      4. Ensure the remainder of the pumps are marked as 'Not used'
+    * media batch volume and total vessel volume after inoculation
+      1. Edit the volumes of the batch by selecting 'Vow 1' -> 'Volumes' -> 'Batch media' in the 'Components' table -> change the volume to 190 mL
+    * feed and sampling schedules
+      1. Select 'Process' and explore around the screen to locate the 'Steps on days within phase' table and change the sample volume to 2 mL (1 mL x 2; once to purge the line and another to take the sample)
+      2. Delete any 'Calculated antifoam bolus' steps (as the AF was added to the feed media
+
+Suggestions/notes:
+
+  * you cannot adjust pH set-point at this time before pH has been calibrated with spot patch and offset calculation
+  * once a phase has started or has been completed it cannot be edited. Instead, copy the phase and paste after the phase currently in progress
+  * to re-run a phase (e.g. the temp didn't reach set point within the specified wait time) can re-attempt the phase by clicking on 'Failed bioreactors' -> then press 'Retry'. Can also manually copy and paste the phase into the workflow in process tab
+  * For any step that takes too long, the wait time can be changed by going to 'Process' -> selecting the relevant step in the 'Conditioning and calibration' table (e.g. 'Check for pH drift') -> 'Edit' -> 'Timing' -> select 'Maximum wait time' (e.g. 2m, 5m) -> 'OK'
+
+  
+Deviations & notes
+
+  * deleted AF loop
+  * deleted DO loop
+  * edited pH (Base) loop:
+    * dead-band 0.1
+  * edited pH (CO2) loop:
+    * dead-band 0.1
+    * Max mL/min: 50
+    * kP: 40
+  * Pump X
+    * set to 'not used'
+  * Pumps A-E
+    * Pump A
+      * Feed #1
+      * 20mL
+      * alarm at 5mL
+      * auto-prime
+    * Pump B
+      * Base
+      * 1M sodium bicarbonate
+      * 20mL
+      * alarm at 5mL
+      * auto-prime
+    * Pumps C/D/E
+      * set to 'not used'
+  * Volumes:
+    * Batch media 182mL
+    * nom vol after inoculation: 200mL
+  * Options:
+    * MAMM PITCH BLADE
+  * Vow1
+    * Turn TBD on -> deleted
+    * Wait until pH probe hydrated enough for first check -> wait time set to 5m
+    * Check for pH drift -> wait time set to 5m
+    * Stir-speed on -> changed to 510 RPM for all reactors
+  * Process:
+    * 'Calculated bolus Pump antifoam' -> deleted from each day during sampling
+    * Sample 1.0mL -> changed to Sample x2 1.0mL each day
+    * 'Bolus Pump Feed #1' -> changed to 2mL each day
+
+2mL out for pH drift testing -> inoculate with 22mL  
+  
+References  
+
+
+StepEnter spot calibration data  
+Operator nameVP  
+Time-stamp10:18  
+Protocol
+
+  
+
+  1. Use calibration data sheet provided with the bioreactors (in box). Ensure the correct data sheet is paired with the correct bioreactors (spot data may be different between lots or vessels)
+
+  2. Enter spot calibration data using QR code and webcam -> Save data
+
+  
+Deviations & notes-  
+References  
+
+
+StepPrepare media  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. Prepare required media for inoculum (maximum of 80mL required) and warm to 37°C in the water or bead bath
+
+  
+Deviations & notes  
+  
+References  
+
+
+StepFill reservoirs  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  
+
+  1. Go to 'Bioreactor 1' -> select 'Borrow' -> choose all bioreactors and press 'Disengage' (make sure to remove the headplate and pH probe)
+
+  2. Fill Reservoirs A and B with feed media (+ GFs + antifoam) and base respectively inside a BSC
+
+  3. Return the vessels to the AMBR system and attach headplates and pH probe
+  4. Select 'Bioreactor 1' -> press 'Return' -> select 'All bioreactors' -> press 'Engage'
+
+  
+Deviations & notes  
+  
+References  
+
+
+StepAuto-set up for pH  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. System will automatically proceed through a number of steps and checks. The first is turn stirring on and warm media to set point - this will take about 20-30 minutes
+  2. Following stages including probe hydration checks and pH drift will follow automatically
+  3. During this time, cell count flasks for inoculation and calculate inoculum volume (next step)
+
+  
+Deviations & notes  
+  
+References  
+
+
+StepCulture cell count and calculations for inoculum preparation  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. Remove flask from BSC and sample volume into 1.5mL tube
+  2. Perform cell count using haemocytometer or automated cell counting system (specify in notes)
+  3. Record culture ID and cell density below
+  4. Calculate required cell number for desired cell density at inoculation, and required volume of cell supernatant to satisfy this
+
+  
+Culture ID  
+  
+Current flask density (cells/mL)  
+  
+Required AMBR vessel cell density  
+  
+Required total cell number per reactor (=desired cell density x total AMBR
+volume)  
+Required cell suspension for inoculum(=total number required cells / current
+flask density per mL)  
+Deviations & notes  
+  
+References  
+
+
+StepSample for pH offset calculation  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. Follow prompts to sample 2mL from bioreactor. If vessels are new, there is no need to purge the sample line. If vessels are old, draw 1mL and discard to purge the line, and draw 2mL and reserve in falcon tube
+  2. If vessel is old and being re-used, program another step to feed 1mL per reactor after inoculation during routine bolus feed
+  3. Measure pH offline using pH probe and record pH values
+  4. Follow prompts to record offline pH values and program will automatically calculate the offset
+
+  
+  
+Deviations & notes
+
+  
+  
+  
+References  
+
+
+SteppH set point and dead-band  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. Go to 'Bioreactor 1' -> 'pH' -> 'Set' -> change set point
+  2. Change dead band to 0.1
+  3. Do the same for the remaining bioreactors
+  4. Set point may take 10-20 minutes to reach, do not proceed to inoculate cells until set point has been reached
+
+  
+Deviations & notes  
+  
+References  
+
+
+StepInoculate cells  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. In BSC, remove required volume of cell suspension from flask (calculated above)
+  2. If the volume exceeds 20mL, pellet the cells by centrifugation (300xg for 8 minutes). Reserve 20mL of supernatant and resuspend pellet in this. If volume is less than 20mL, make up to 20mL with the addition of newly prepared media to cell suspension
+  3. 'Borrow bioreactors' from AMBR system and bring into BSC
+  4. Add inoculum via the liquid handler port using serelogical pipette
+  5. Seal bioreactor and return to AMBR, load and engage bioreactors
+
+  
+  
+Deviations & notes
+
+  
+  
+  
+References  
+
+
+StepRecord bioreactor culture set-point parameters and settings  
+Operator name  
+  
+Time-stamp  
+  
+  
+  
+Culture Parameter set points  
+Bioreactor 1 (BR1)Bioreactor 2 (BR2)  
+Bioreactor 3 (BR3)  
+Bioreactor 4 (BR4)  
+  
+  
+  
+
+  
+  
+  
+  
+Air-flow rate  
+  
+  
+  
+  
+pH  
+  
+  
+  
+  
+  
+Stirring speed  
+  
+  
+  
+  
+  
+Notes  
+
+
+StepSample bioreactor & take offline readings  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. 1 hour after inoculation, draw sample from the sampling line: 
+    * take 1mL draw and reserve in 50mL falcon tube
+    * take 1mL draw and place 0.5mL in eppendorf tube, place remainder in 50mL falcon tube
+  2. Cell count 0.5mL in eppendorf tube and record in G-sheet (below)
+  3. Return cell suspension from 1.5mL tube to 50mL falcon tube for pH reading
+  4. Calibrate pH meter and read values for all samples. Record pH values below
+
+  
+  
+Deviations & notes
+
+See G-sheet here for offline readings  
+  
+References  
+
+

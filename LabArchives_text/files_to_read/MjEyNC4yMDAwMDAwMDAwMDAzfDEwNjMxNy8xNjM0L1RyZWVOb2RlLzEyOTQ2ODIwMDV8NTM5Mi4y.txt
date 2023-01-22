@@ -1,0 +1,68 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To determine whether the previously experienced lack of MyoG and MG20 staining
+on zein is the result of the scaffold material, cell type or antibody/staining
+protocol used.  
+
+
+Hypothesis
+
+
+1) We will be able to visualise differentiation of C2C12 and DOLLY12 cells on
+planar culture but not on zein scaffolds (based on previous findings).
+
+2) A 1:500 dilution of secondary antibodies will produce stronger signals from
+MyoG and MF20 than a 1:1000 dilution, enabling us to visualise antibody
+staining on zein
+
+
+Technical Gap
+
+
+Despite maintaining high scaffold confluence by day 14 in differentiation
+media we are yet to seen any positive verification of differentiation through
+antibody staining (MyoG or MF20) on our in-house zein scaffolds (such as in
+this experiment: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTk3Ni4wfDEwNjMxNy8xNTIwL1RyZWVOb2RlLzI2NTQ2NDg4MDh8NTAxNi4w).
+We are unsure as to whether this is due to the zein material, the DOLLY12
+cells, the antibodies/staining protocol, or a combination of these factors.
+
+
+Method/Procedure
+
+
+Experiment plan/timeline
+
+  1. Make zein & EPL  (making up as part of DSD verification experiment) 
+  2. Make ACF media (making up as part of DDS verification experiment) 
+  3. D0 Thaw 4 x vials of C2C12s (500K per vial) into 1 x 2CF
+  4. D1 100% feed 2CF with ACF medium (10C) 
+  5. D3 50% feed 2CF with ACF medium (10C) 
+  6. D4 Harvest 2CF and seed 96WP (planar and scaffolds according to plate map below - DOLLY12 cells will come from DSD verification experiment harvest)  
+  
+
+  7. D5: 100% feed with growth medium 
+  8. D0 diff: 100% feed with E6 medium
+  9. D1 diff: 100% feed with E6 medium 
+  10. D2 diff: 100% feed with E6 medium 
+  11. D3 diff: 100% feed with E6 medium 
+  12. D4 diff: 100% feed with E6 medium 
+  13. D5 diff: 100% feed with E6 medium 
+  14. D6 diff: 100% feed with E6 medium 
+  15. D7 diff: 100% feed with E6 medium
+  16. D8 diff: 100% feed with E6 medium
+  17. D9 diff: 100% feed with E6 medium
+  18. D10 diff: 100% feed with E6 medium
+  19. Fix & primary stain (MyoG, MF20) 
+  20. Secondary stain (DAPI, MyoG, MF20) (cut scaffolds in half - half with 1:1000, half with 1:500 conc.) 
+  21. Image 
+  22. Analysis 
+  23. Report writing 
+
+

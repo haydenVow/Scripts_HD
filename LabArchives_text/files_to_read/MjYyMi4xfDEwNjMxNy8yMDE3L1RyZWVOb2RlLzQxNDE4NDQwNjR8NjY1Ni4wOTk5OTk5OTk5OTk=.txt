@@ -1,0 +1,114 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Method Summary
+
+In this experiment, we attempted to replicate the study performed by Stout et
+al 2021 (https://www.biorxiv.org/content/10.1101/2021.05.28.446057v1.full).
+DOLLY12 WCB MuSC were thawed into gelatin coated T25 flasks in serum
+containing media. 24 h later, they were switched to different media
+conditions. Cells were then passaged every 3 or 4 days and seeded into either
+gelatin coated or vitronectin coated vessels. 24h after passaging, albumin was
+added to B8 formulations. A 100% media change was performed every 48h. The 6
+conditions tested were:
+
+1.    gelatin coated, 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+2.    gelatin coated, 1000 cells/cm^2, E810C
+
+3.    vitronectin coated, 1000 cells/cm^2, E810C
+
+4.    vitronectin coated, 1000 cells/cm^2, Beefy-9
+
+5.    vitronectin coated, 2500 cells/cm^2, Beefy-9
+
+6.    vitronectin coated, 1000 cells/cm^2, Beefy-10C
+
+Key findings
+
+After switching to ACF media, conditions 4, 5, and 6 appeared to have more
+dead, floating cells compared to others. At the first passage, E810C yielded
+the best cell counts (~30k and 48k cells) from all the ACF media conditions.
+However, this was still much lower than the serum control (~74k cells).
+
+After the first passage, there did not seem to be any live cells visible in B8
+media formulations. Although there were cells in E810C, there was an
+insufficient amount to count them at the second passage. After this passage,
+we observed no cell attachment (except for the serum control) so the
+experiment was terminated.
+
+In summary, none of the ACF media conditions (including our E810C control)
+allowed cell survival and growth.
+
+Discussion
+
+We had previously seen low cell numbers when we switched cells to ACF media
+(including our E810C control) in EPIC16782 .
+
+This is the second time we have observed this unusual cell death in E810C.
+This is in contrast to our original experiments where cells were able to
+undergo 10 doublings in ACF.
+
+To investigate this, we looked at the media reagents that were used when cells
+in E810C had performed well versus when they did not perform as expected.
+Although, this did not yield a clear issue/explanation, we suspected that the
+FGF used recently could be the cause. We have not used FGF from Reprokine
+before and suspected that this reagent was possibly not as potent as FGF from
+PeproTech. However, when we tested this in EPIC20510, E810C containing FGF
+from Reprokine and Peprotech both resulted in cell death. Therefore, further
+investigation is required into ACF media ingredients is required.
+
+It was also unexpected to see B8 formulations not perform well. However, this
+could be because some of the reagents we used were different from Stout et al.
+For example LAA2P, insulin, transferrin, TGFb and vitronectin.  For a more
+detailed look at these differences, see the background info. The authors also
+used bovine satellite cells which were at passage 2 whereas we used sheep
+satellite cells which were at passage 9. So, a species-to-species differences
+could also be playing a role.
+
+Limitations and future directions
+
+Working with small vessels for these experiments may not be ideal since it is
+difficult to obtain a cell count from wells of a 24 well plate. After
+centrifuging cells, the pellets are not visible which makes it difficult to
+aspirate all the supernatant. Then, when pellets are resuspended, they must be
+resuspended into small volumes (<50uL). A significant portion of this volume
+(at least 5uL) needs to be used for cell counts. Therefore, there is a lot of
+room for error/inaccuracy. In the future, continuous culture experiments
+should be performed in T25 flasks or 6 well plates.
+
+Also, we should order and use reagents that the authors used where possible
+and attempt using our bovine cell lines for the 'Beefy-9' media formulation.
+
+Overall conclusion
+
+None of the ACF media conditions (including our E810C control) allowed cell
+survival and growth. Further investigation into ACF media ingredients is
+needed to identify the cause. The experiment should be repeated using reagents
+that the authors used where possible and using our bovine cell lines.
+
+  
+
+  
+
+

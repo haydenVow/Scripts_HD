@@ -1,0 +1,155 @@
+
+
+## Performed by: AK  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Condition  
+Seeded Flask Type  
+  
+1739-Culture-4362-Vial-5of5
+
+8037-F_DOLLY12-Sheep P3-1of3  
+8038-F_DOLLY12-Sheep P3-2of3  
+8039-F_DOLLY12-Sheep P3-3of3
+
+DOLLY raw isolate  
+50 mL bioreactor spin tubes  
+2119-Culture-5951-Vial-4of15  
+2117-Culture-5951-Vial-2of15  
+2118-Culture-5951-Vial-3of15  
+8040-F_DOLLY12-Sheep P5-1of3  
+8041-F_DOLLY12-Sheep P5-2of3  
+8042-F_DOLLY12-Sheep P5-3of3  
+DOLLY MCB  
+  
+2306-Culture-6303-Vial-27of115  
+2303-Culture-6303-Vial-24of115  
+2305-Culture-6303-Vial-26of115  
+8043-F_DOLLY12-Sheep P8-1of3  
+8044-F_DOLLY12-Sheep P8-2of3  
+8045-F_DOLLY12-Sheep P8-3of3  
+DOLLY WCB  
+  
+1370-Culture-3905-Vial-17of32  
+8046-F_NANDO3-Chicken P3-1of3  
+8047-F_NANDO3-Chicken P3-2of3  
+8048-F_NANDO3-Chicken P3-3of3  
+NANDO raw isolate  
+  
+3376-Culture-7768-Vial-2of11  
+3377-Culture-7768-Vial-3of11  
+3378-Culture-7768-Vial-4of11  
+8049-F_NANDO3-Chicken P5-1of3  
+8050-F_NANDO3-Chicken P5-2of3  
+8051-F_NANDO3-Chicken P5-3of3  
+NANDO MCB  
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12 + 5% FBS + 1X P/S + 0.1% pluronic + ACA (1:100)
+
+*All culture conditions are in the same media
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM mixM6806  
+  
+###  
+
+
+
+
+Process:
+
+  1. Prep growth media and place in water bath 
+  2. Collected 15 x 50 mL shake tubes from shaker
+  3. Centrifuged tubes at 650 x g for 5 min.   Tubes 1-6: 14:25 - 14:30   Tubes 7-15: 15:10 - 15:15    
+
+  4. Aspirated   4.5 mL (500 uL remaining)  of supernatant leaving 0.5 mL in the tube, taking extra care to not disrupt or aspirate pellet
+  5. Gently pipette-mixed cultures and took 20 uL samples from each culture and stored in separate microtubes until ready to count
+  6. Loaded 10 x samples onto haemocytometers and observed cells and performed cell counts
+  7. Discarded cultures where no live cells were found- all cultures
+  8. Fed cultures with live cells remaining.
+
+Cell counts:
+
+Zero for all conditions
+
+
+
+
+Relevant Images/Figures:
+
+8037: https://mia-capture.vow.tools/#/session/reciSxguGHEWQTc1M/images
+
+8038: https://mia-capture.vow.tools/#/session/recE9Ni8h6TOSZULe/images
+
+8039: https://mia-capture.vow.tools/#/session/recXtZyqlvbz9DSGo/images
+
+8040: https://mia-capture.vow.tools/#/session/recCtYT4uDEAIPVc5/images
+
+8041: https://mia-capture.vow.tools/#/session/rec9YIgvhMwIK0S23/images
+
+8042: https://mia-capture.vow.tools/#/session/recQWhBSmeujNXS6L/images
+
+8043: https://mia-capture.vow.tools/#/session/recaLId36kxQhRLHF/images
+
+8044: https://mia-capture.vow.tools/#/session/recvGuk76DKozPIB5/images
+
+8045: https://mia-capture.vow.tools/#/session/recBsayMhonvB4OMH/images
+
+8046: https://mia-capture.vow.tools/#/session/recLRQQswEVXYOXPp/images
+
+8047: https://mia-capture.vow.tools/#/session/recOfQge9d11SEeQO/images
+
+8048: https://mia-capture.vow.tools/#/session/recsPMzbYJ0GreNoS/images
+
+8049: https://mia-capture.vow.tools/#/session/recTWK6tFW23fsQo4/images
+
+8050: https://mia-capture.vow.tools/#/session/recX2VPZVLowx3M69/images
+
+8051:https://mia-capture.vow.tools/#/session/recR3KCaNSc8HWFYd/images
+
+
+
+
+### Observations/Summary:
+
+General observations:
+
+ 100   % media changed on vessel(s)
+
+  1. 8037-F_DOLLY12-Sheep P3-1of3
+  2. 8038-F_DOLLY12-Sheep P3-2of3
+  3. 8039-F_DOLLY12-Sheep P3-3of3
+  4. 8040-F_DOLLY12-Sheep P5-1of3
+  5. 8041-F_DOLLY12-Sheep P5-2of3
+  6. 8042-F_DOLLY12-Sheep P5-3of3
+  7. 8043-F_DOLLY12-Sheep P8-1of3
+  8. 8044-F_DOLLY12-Sheep P8-2of3
+  9. 8045-F_DOLLY12-Sheep P8-3of3
+  10. 8046-F_NANDO3-Chicken P3-1of3
+  11. 8047-F_NANDO3-Chicken P3-2of3
+  12. 8048-F_NANDO3-Chicken P3-3of3
+  13. 8049-F_NANDO3-Chicken P5-1of3
+  14. 8050-F_NANDO3-Chicken P5-2of3
+  15. 8051-F_NANDO3-Chicken P5-3of
+
+No viable cells were observed in any of the suspension cultures, not even any
+debris. It is likely that the cells were unintentionally aspirated out of the
+tubes during a routine feed, as we have seen in many of our other cultures
+that several cells can survive to the 30 day time point (however they are not
+necessarily proliferating, rather just surviving).
+
+

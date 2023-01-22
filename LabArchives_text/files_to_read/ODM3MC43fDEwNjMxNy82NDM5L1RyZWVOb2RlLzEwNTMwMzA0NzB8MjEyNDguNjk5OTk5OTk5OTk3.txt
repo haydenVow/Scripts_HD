@@ -1,0 +1,134 @@
+
+
+## Performed by: AV, VP
+
+
+
+
+Media/reagents prepared:
+
+  
+
+NameReagent ID (Stockyard)  
+20% FBS DF12 Growth MediumM10133  
+Collagen ISXXXXX  
+MatrigelSXXXXX  
+8U/ul, 0.0792mg/uL thrombin (100uL per aliquot)M9953  
+  
+20mg/mL fibrinogen (200uL per aliquot)M9954  
+  
+dPBSMXXXXX  
+Neutralising BufferMXXXXX  
+  
+  
+
+  
+
+
+
+
+Plate Layout
+
+
+
+
+Encapsulation Formulations  
+
+[All concentrations are working concentrations; total volume = 200 uL]
+
+  
+
+Plate 1
+
+ColumnAlginate (uL)ECM (uL)Cell Suspension (uL)Media (uL)Thrombin (uL)  
+Plate 1  
+110050 Fibrinogen20 (1st cell suspension)255  
+210080 (equal parts collagen:neutralising buffer)20 (1st cell suspension)--  
+31008020 (1st cell suspension)--  
+41008020 (1st cell suspension)--  
+5--1000 (2nd cell suspension)--  
+6100-20 (1st cell suspension)80-  
+Plate 2  
+1--60 (2nd cell suspension)940-  
+  
+Column 1 (fibrinogen + thrombin): 100 uL alginate (3%) + 50 uL fibrinogen (20
+mg/mL) + 25 uL GM + 5 uL thrombin (x mg/mL) + 20 uL of cell suspension (15M
+cells / 100 uL) added to CaCl2
+
+Column 2 (1:1 collagen + alginate): 100 uL alginate (3%) + 40 uL collagen (x
+mg/mL) + 40 uL buffer + 20 uL of cell suspension (15M cells / 100 uL) added to
+CaCl2
+
+Column 3 (1:1 matrigel + alginate): 100 uL alginate (3%) + 80 uL matrigel + 20
+uL of cell suspension (15M cells / 100 uL) added to CaCl2
+
+Column 4 (JH's ECM): 100 uL alginate (3%) + 80 uL ECM pellet + 20 uL of cell
+suspension (15M cells / 100 uL) added to CaCl2
+
+Column 5 (negative control 1 - cells in suspension): cell suspension + GM (1M
+cells / mL)
+
+Column 6 (negative control 2 - cells in alginate ONLY): 100 uL alginate (3%) +
+20 uL of cell suspension (15M cells / 100 uL) \+ 80 uL GM added to CaCl2
+
+  
+
+Plate 2,
+
+Column 1 (positive control 1 - adherent cells): cells in GM (7500 cells / cm^2
+* 1.9 cm^2 = 14250 cells) per well
+
+  
+
+Cell Suspensions
+
+1\. Make up a 15M / 100 uL cell suspension (150M / mL)
+
+2\. Make up a 5M / 5 mL cell suspension (1M / mL)
+
+Note: 2 x 10M vials required.
+
+
+
+
+Method
+
+For drop-wise encapsulation: cut the tip of P200 tip (at first graduation line
+from the tip) and drew up 150uL. 50uL dead volume in pipette tip following
+dispense so total dispensed = 100uL. Deposited directly into syringe with
+needle attached.
+
+To prepare working stock thrombin: 1.5uL of 8U/uL stock into 100uL sterile
+filtered MilliQ water to give 120U/mL working solution. This was used for
+above experiment.
+
+Vials thawed: 3638 and 3639 10M each, added 1mL to each vial and added both to
+single 15mL falcon tube at 12:30
+
+Spin: 12:38 - 12:42
+
+Resuspended cells in 3mL growth media total, took sample for count 1:5
+dilution with trypan blue
+
+  * placed in incubator 15:50
+  * parafillm condition removed from incubator at 16:45
+  * added CaCl to parafillm condition at 16:50
+  * moved parafilm suspension to wells at 17:10
+
+
+
+
+Related Images
+
+10345:
+
+10346:
+
+
+
+
+SOPs used:
+
+Encapsulation protocol (written by James Henstock, see attached)
+
+

@@ -1,0 +1,107 @@
+Performed by: LL
+Flask IDSeeded Flask IDConditionNotes  
+Flask location  
+12057-Nuvonis Quail Suspension341-P-1of2  
+
+12057-Nuvonis Quail Suspension341-P-1of2 (kept in same flask)
+
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+N/A  
+Main lab, top shaking incubator  
+12058-Nuvonis Quail Suspension341-P-2of2  
+N/A  
+Discarded due to bacterial contamination - see image at bottom of lab book  
+  
+  
+11952-Nuvonis Quail Suspension341-P-1of1
+
+12090-Nuvonis Quail Suspension341-P-1of2  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0005 mg/mL FGF-B
+\+ 0.0001 mg/mL EGF  
+Split into 2 flasks to test whether the addition of FGF-B might boost cell
+growth  
+Main lab, incubator 141  
+  
+12091-Nuvonis Quail Suspension341-P-2of2  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001 mg/mL EGF  
+
+
+Reagent  
+ID  
+  
+RPMI Nuvonis suspension medium  
+M12499  
+  
+IGF-1-LR3  
+M12475  
+  
+EGF  
+M12321  
+  
+FGF-B  
+M9371  
+  
+  
+  
+
+
+Process
+
+
+  1. Removed flasks from incubator 
+  2. Took 2 x 550 uL samples from each E-flask
+  3. Performed cell counts and averaged for each flask and each condition (recorded in table below)
+  4. Removed 5 mL from 12057 for ViCell optimisation 
+  5. Aliquoted following volumes of media with growth factors and warmed in water bath to reduce density. Checked table below to see if any cultures require expansion into larger E-flask. 
+    1. 90/10: 200 mL + IGF + EGF \+ 0.0005 mg/mL IGF + 0.0001 mg/mL EGF
+    2. 100/0: 20 mL + 0.0005 mg/mL IGF + 0.0001 mg/mL EGF
+    3. 100/0: 20 mL + 0.0005 mg/mL IGF + 0.0005 mg/mL FGF-B \+ 0.0001 mg/mL EGF
+  6. Transferred 100/0 culture to 2 x 50 mL tube (15 mL, 5M cells per tube)
+  7. Centrifuged at 500 x g for 5 min
+  8. Aspirated 100% of supernatant and resuspended one tube in 20 mL medium with FGF and one tube in 20 mL medium without FGF
+  9. Strained cultures through 40 um cell strainer into 2 x new E-flask
+  10.  ~~Added 200 mL of 90/10 media to culture (bring up to 750 mL)~~ Accidentally added 350 mL of media so culture is at 900 mL 
+  11.  ~~Strained 90/10 culture through 40 um cell strainer into new E-flask(s)  ~~Worried straining with small cell strainers is introducing contamination ~~  
+~~
+
+  12. Returned culture to incubate at 37 'C, 5% CO2, 110 RPM
+
+
+Counts & observations
+Flask IDFlask count(s)  
+Total/average condition count (manual)  
+FormulationComments  
+  
+12057-Nuvonis Quail Suspension341-P-1of2  
+836,000,000  
+668,800,000  
+800,800,000  
+768,533,333  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+Some clumping but not too bad, keeping in same flask for now and not straining
+due to fear of contamination. Need larger strainers that fit in neck of E1000+  
+  
+ ~~12058-Nuvonis Quail Suspension341-P-2of2~~  
+NA - contaminated  
+Discarded  
+  
+11952-Nuvonis Quail Suspension341-P-1of1  
+9,180,000  
+7,560,000  
+8,370,000  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+looking healthier! more sinlge cells, some doublets  
+
+
+
+
+
+
+
+

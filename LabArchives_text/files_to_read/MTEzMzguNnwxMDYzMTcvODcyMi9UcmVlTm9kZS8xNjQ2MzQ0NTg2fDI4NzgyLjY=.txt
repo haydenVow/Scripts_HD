@@ -1,0 +1,201 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+Aim / Goal
+
+
+  
+
+  
+
+
+Hypothesis
+
+
+We hypothesise in this experiment we will observe
+
+  1.   
+
+
+Notes/ Things to keep in mind during this experiment
+
+
+
+Culture Condtions and Reagents
+
+
+## Gel Coating Conditon
+
+Ranger Culture IDPlate # (refer to Fig.1 below)Condition (refer to figure 1
+for detail) / Assay Allocation per platen=Cell Density (cells/mL)Culture
+Conditons  
+  
+10.1% Gelatin Coating only (Alamar Blue Assay) 4 conditions n=6 each  
+  
+  
+37C 5% CO2 | Main Lab I Incubator 52  
+  
+22% Alginate Coating only (Alamar Blue Assay)  
+  
+  
+  
+3Day 0  (Nuclei/Dead Assay)n=3 per condition  
+  
+  
+  
+4Day 1   (Nuclei/Dead Assay)  
+  
+  
+5Day 4  (Nuclei/Dead Assay)  
+  
+  
+6Day 7   (Nuclei/Dead Assay)  
+  
+  
+## Growth Medium (GM)
+
+ConditionReagents/ Growth MediaVolume used ID (Ranger)  
+GM used for the Suspension Conditions50:50 RPMI/Hycell + Nuvonis + 1X P/S
+(contains Phenol Red)  
+  
+  
+EGF (mesokine) for suspension GM  
+  
+  
+IGF (mesokine) for suspension GM  
+  
+  
+GM used for adherent ConditionsDMEM/F12+20%FBS+1XP/S  
+(contains Phenol Red)  
+  
+  
+  
+## Other Reagents
+
+ReagentConcentrationVolume used (mL)Ranger ID  
+CaCl2 Solution (Crosslinking solution) 100mM  
+  
+  
+Gelatin0.1%  
+200uL/ well (72 wells) 14.4mLALQ 7005  
+Alginate (Medium Viscosity) autoclaved2.5%  
+20mL STK 6806 / PBS: ALQ 12840  
+EPL  
+  
+  
+  
+  
+  
+
+EPL Concentation % (w/w)Final vol. (mL)EPL required (mg)  
+1%10100  
+0.00514.4  
+  
+0.0114.4  
+  
+  
+  
+
+  
+
+Abbreviations used:
+
+  * Med.: Medium
+  * Vis.: Viscosity 
+  * GM: Growth Medium
+  * ALG.: Alginate
+
+Figure 1. Plate Map for examining the effects of various concentrations of
+epsilon polylysine in o.1% gelatin or 2% Alginate.
+
+
+Protocol
+
+
+### Preparation (Things to complete before starting the seeding experiment):
+
+  1. Make up a stock 10X solution of EPL and aliquot the required volume into alginate and gelatin to make up 4 concentrations of EPL in these coatings: 
+    1. 0.1% 
+    2. 0.005% 
+    3. 0.0025% 
+  2. Make up sterile-filter gelatin solution 
+  3. Make up 2.5% alginate (medium MW) and autoclave. 
+  4. 0.1% gelatin solution was used to coat   72 wells across  5   vessels, with 200uL per well.
+    1. Flasks were then incubated at 37˚C for at least 1 hour.
+      1. Time when flasks went into 37ºC incubator.     XX:XX  
+  5. Coat plates with Alginate (200uL/well) 
+    1. Crosslink for 15 minutes  XX:XX  
+      1. Wash scaffolds in media at RT according to this:
+        1. 1x 1 min wash
+        2. 1x 5 min wash
+        3. 1x 10 min wash at 37 C.  
+  
+
+  6. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath or bead bath for a minimum of 20 minutes prior to use:
+    1. Growth media (for pellet resuspension):    72 mL
+      1. Add growth factors if necessary according to the E8 calculator.
+    2. Growth media (for seeding):     mL 
+      1. Time that all aliquots were placed in the water bath the warm before use   XX:XX  
+  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.  
+  
+
+
+
+
+## Cell Seeding Protocol - FOR PORK BUN GEL
+
+  1. Perform cell count. Density for experiments: 16 million cells / mL.
+    1. Cell Supply Culture ID: 
+      1. Cell count (total): 
+      2. Cell count (per mL): 
+    2. Volume of cell suspension aliquoted for this experiment (7500cells/cm^2 across 6x24-WP; 14,250 cells/well) :
+      1. 2,052,000 cells in __ mL cell suspension
+  2. Passage cells. Put required cell volume into 50mL centrifuge tubes.
+  3. Centrifuge cell suspension for 5 mins at 500g. 
+    1. Start time: 
+  4. Resuspend in 72mL (since 24x6x0.5) growth medium
+  5. Pipette 500uL of cel suspension into each well. 
+  6. Place in incubator (37C 5%CO2). 
+    1. timestamp: 
+  7. Initiate feed schedule outlined below. 
+
+  
+
+## Feeding Schedule
+
+  1. Culture duration: in cell strainers for 7 days
+  2. Daily 50% feeds. Remove 50% of the growth medium in each well/ scaffold (2mL) and replaced with new growth medium every day. 
+
+## Monitoring and Stain Schedule
+
+  1. Take 3 images at 5x and 3 images at 10x
+  2. Check for signs of contamination.
+  3. 2ug/mL (Hoechst 33342 /Propidium Iodide)
+    1. Viability stain performed at day 1, 4 and 7 and if possible a metabolic assay on those days as well.
+      1.  Day 1: 30 June 22
+      2. Day 4: 3 July 22
+      3. Day 7: 6 July 22
+
+
+Results
+Observations/Notes
+
+
+
+Conclusion
+
+
+Conclusion:
+
+  
+
+Critical Information that will be applied to the next information:
+
+

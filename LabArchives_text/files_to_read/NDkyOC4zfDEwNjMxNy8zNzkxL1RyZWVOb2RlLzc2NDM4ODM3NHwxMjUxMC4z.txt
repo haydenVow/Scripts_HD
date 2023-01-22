@@ -1,0 +1,49 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE: https://app.clubhouse.io/vowfood/epic/24485/epic-
+epic-title?cf_workflow=500000005&ct_workflow=all&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwqEYUeUXiOogFYw/rec4nUW8zgfvMawUW?blocks=hide
+
+RELATED TO MILESTONE:  Generate at least 1 suspension-adapted fibroblast cell
+line which >95% viable and proliferates for >14 days
+
+AIM/PURPOSE: To test the effect of different media formulations on suspension
+adaptation of 2 adherent clones (DOLLY12_11E7 muscle clone and F_DOLLY12_4C4
+fibroblast clone).
+
+HYPOTHESIS:
+
+Both clones will be able to adapt to suspension in at least 1 of the media
+conditions below.
+
+Each condition includes 1:100 v/v Pen/Strep, 1:100 anti-clumping agent, 0.1%
+P188, and 100 ng/mL of FGF, IGF1-LR3 and PDGF with either:
+
+  * RPMI + 5% FBS
+  * RPMI + 20% KSR
+  * CD-CHO + 5% FBS
+  * CD-CHO + 20% KSR
+
+RESULTS SUMMARY:
+
+The hypothesis was not supported.
+
+None of the clones adapted to suspension in any of the media formulations
+tested over a 40 day period. Although not statistically significant, we
+observed higher cell counts in conditions containing 20% KSR than conditions
+containing 5% FBS.
+
+CONCLUSIONS:
+
+The DOLLY12_11E7 clone and F_DOLLY12_4C4 clone are not able to adapt to
+suspension in the media tested.
+
+NEXT STEPS:
+
+  * Attempt fast adaptation with heterogenous CHOMP cells to test how these cells behave in different media formulations in suspension (see EPIC26167)
+  * Perform single cell cloning with CHOMP cells to see how they behave as single cells
+  * Develop a high-throughput suspension single cell cloning pipeline by using OT2 (see EPIC27212)
+
+

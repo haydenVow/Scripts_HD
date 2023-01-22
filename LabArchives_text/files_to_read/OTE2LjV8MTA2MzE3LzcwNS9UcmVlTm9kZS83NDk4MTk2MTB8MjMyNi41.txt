@@ -1,0 +1,26 @@
+Method/Procedure
+
+
+Overview:
+
+  1. Thaw and seed DOLLY12 cells into 5xT25 flasks (~1000cells/cm^2)
+  2. 24h later, perform a 100% media change to the following conditions:
+    1. serum control (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+    2. E810C
+    3. E810C + extra ethanolamine + extra p38i
+    4. E810C w/o GABA
+    5. E810C w/o GABA, EGF, LIF, + extra ethanolamine, p38i, IL-6, IGF-LR3
+  3. Keep cells in culture until 10 cell doublings are achieved by performing a 50% feed every ~48h, and passaging every 3-4 days.
+  4. Seed cells into 96 well plate/s (7000 cells/well) to perform a differentiation assay.
+    1. Replicates as follows (this may change depending on cell numbers):
+      1.  2x 96 wp with 12 wells from each condition in each plate.
+  5. When cells reach 100% confluence, feed with differentiation media:
+    1. 3x replicates per condition per plate with DMEM/F12 + 2% HS + 0.2x P/S
+    2. 9x replicates per condition per plate with E6 (x0.2 P/S)
+  6. After 4 days in differentiation, fix 1x 96 wp.
+  7. After 7 days in differentiation, fix 1x 96 wp.
+  8. Stain both plates for MyoG and MF20.
+  9. Image on the Zaber.
+  10. Analyse % MyoG positive cells and MF20 area.
+
+

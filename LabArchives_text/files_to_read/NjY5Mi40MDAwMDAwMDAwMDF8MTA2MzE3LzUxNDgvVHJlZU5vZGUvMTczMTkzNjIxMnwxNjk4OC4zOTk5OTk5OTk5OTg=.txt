@@ -1,0 +1,130 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask TypeLocation  
+Medium  
+  
+CHOMP07 WCB: 3753-Culture-8697-Vial-120of120  
+8902-F_CHOMP_07-Crocodile P7-1of1  
+T75at 30ºC, 5% CO2 (replitian cells) DMEM/F12 + 20% FBS + 1x P/S  
+  
+CHOMP09 WCB: 3610-Culture-8616-Vial-40of40  
+8903-F_CHOMP_09-Crocodile P8-1of1  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)Volume Used  
+Growth Medium (DMEM/F12 + 20% FBS + 1X P/S)Mix 7929  
+12.5 mL  
+  
+
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use  
+
+  *  Growth media (for seeding F_CHOMP09):   6.25 mL 
+  * Growth media (for seeding F_CHOMP07):   6.25 mL 
+  * Time that aliquot was placed in the water bath to warm before use:  13 :16   
+
+  
+
+
+
+
+## Seed F_CHOMP09 and F_CHOMP07 cells:
+
+1\. Cells for this experiment were acquired from another experiment using
+F_CHOMP07 and F_CHOMP09 (completed by BT, LL, and AG).  
+LINK to the Labarchive entry: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjY2Mi41fDEwNjMxNy81MTI1LTQyMTg3L1RyZWVOb2RlLzM5Nzc3ODYyMTJ8MTY5MTIuNQ==  
+  
+After cells were collected from the dua and thawed, they were counted and then
+562500 cells of  F_CHOMP07 and F_CHOMP09 each were acquired.
+
+Vial details:  1   x  F_CHOMP09  cryovials at  2M  cells each for a total of
+2M  cells
+
+Brew
+
+Tower/Bucket # 5
+
+Box/Cane # 5
+
+Vial location: A9  
+
+Vial ID(s): CHOMP09 WCB: 3610-Culture-8616-Vial-40of40, 5M cells, tower5, Box
+5, A9  
+
+Vial details:  1   x  F_CHOMP07  cryovials at  2M  cells each for a total of
+2M  cells
+
+Brew
+
+Tower/Bucket # 2
+
+Box/Cane # 7
+
+Vial location: A9
+
+Vial ID(s):  CHOMP07 WCB: 3753-Culture-8697-Vial-120of120, 5M cells, Tower 2,
+Box 7, A9
+
+2\. After the cell count, a cells suspension of 562500 cells (per vial) were
+transfered into the pre-warmed tube of Growth Media.  
+  
+3\. Using a serological pipette, the cells were resuspended & distributed the
+cells evenly in   12mL of pre-warmed Growth Media.
+
+`6. Cell count total seeded was recorded in the Cell Count SpreadSheet. `  
+  
+`7. The time and number of cells seeded was recorded in the doubling
+calculations spreadsheet. `
+
+`8. Transfered 12 mL to each pre-coated  T75  flask (2 x T75s) `
+
+```````11.`` Transfered flask/plate(s) to incubate at: ``````16:53`
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+  * [x] 30ºC, 5% CO2 (replitian cells)
+
+Incubator (# 68), Lab [main, library, production]
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

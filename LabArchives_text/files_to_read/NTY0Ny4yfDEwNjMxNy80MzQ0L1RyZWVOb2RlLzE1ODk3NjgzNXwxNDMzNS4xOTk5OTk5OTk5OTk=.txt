@@ -1,0 +1,158 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Eva  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2623  
+8342-DOLLY12-Sheep P9-1of3  
+8343-DOLLY12-Sheep P9-2of3  
+8344-DOLLY12-Sheep P9-3of3  
+T175  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solution5521  
+  
+Growth Media7186  
+  
+p38i (20mM stock)m4663  
+  
+  
+###  
+
+Volumes added into the growth media:
+
+197.5 ml DMEM/F12
+
+100ml FBS
+
+5 ml P/S
+
+  
+
+for the 90 ml of growth media used today, add 45 ul (total volume in ml
+divided by 2 in ul)
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  * NOTE: IF PERFORMING A THAW FROM A CLONAL MCB_2 OR WCB_2, PREPARE AT LEAST ONE EXTRA 96 WELL PLATE FOR A DIFFERENTIATION ASSAY. THIS IS AN IMPORTANT QUALITY CONTROL STEP WHILE WE BUILD OUR CLONAL CELL BANK.
+  * Suggested layout for diff assay (please refer to previous diff assays for exact seeding, feeding and analysis procedures)  
+
+  * 
+
+1\. Gelatin coated   3 x   T175 flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator1:39 : 3:45  pm 
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):  90  mL 
+  * Time that aliquot was placed in the water bath to warm before use:  3:00 - 3:30 pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 3:43 - 3:48 pm
+
+Location where cryovial was collected from:
+
+Vial details:  1   x  DOLLY12  cryovials at  1M cells each for a total of   1M
+cells
+
+Brew: Liquid Nitrogen  
+
+Tower/Bucket #: 4  
+
+Box/Cane #: 2  
+
+Vial location: H3  
+
+Vial ID(s): 2623  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected 500ul of cell suspension (to obtain 500 K cells) & transfer into
+the pre-warmed tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  90 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered 30  mL to each pre-coated  T175  flask/well, allow to rest in
+the BSC at RT for 30 min  4:00 - 4:30pm `
+
+`9. Transfered flask/plate(s) to incubate at: 4:36 pm  
+`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Revived 500 K DOLLY12 MuSC into 3 x T175 in DMEM/F12 + 20% FBS + 1X P/S + 10
+uM p38i
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

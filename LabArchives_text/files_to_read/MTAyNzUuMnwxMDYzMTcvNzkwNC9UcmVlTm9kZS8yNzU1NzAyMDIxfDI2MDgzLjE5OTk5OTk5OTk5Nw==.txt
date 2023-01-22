@@ -1,0 +1,173 @@
+
+
+Perform passage using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Culture IDs:
+
+Condition  
+Plate harvest ID  
+Clones Fed  
+Clones Passaged  
+Seeded Plate ID of passaged clones  
+  
+CDKN1A+ZIC1  
+11901  
+G5, H4  
+G3, H5  
+12018  
+  
+ZIC1  
+11901  
+C1, C3  
+none  
+-  
+  
+CDKN1B+CDKN1B  
+11900  
+none  
+E1, F3, F5, F8  
+12017  
+  
+ZIC1+DHSR3  
+11828  
+A1, A5, B5  
+A3, B2, B4  
+12019  
+  
+CDKN1B+CDKN1A  
+11830  
+F7  
+F4, F6  
+12017  
+  
+ZIC1  
+11829  
+D1, D3, D4  
+D5  
+12020  
+  
+CDKN1A+ZIC1  
+11827  
+G6, H1, H3,  
+H6  
+12018  
+  
+ZIC1+DHSR3  
+11824  
+A4  
+A6, B1  
+12019  
+  
+CDKN1A+ZIC1  
+11824  
+G2  
+none  
+-  
+  
+CDKN1A+CDKN1B  
+11826  
+E6, E2, E4, E5, F1  
+none  
+-  
+  
+PABPC1  
+11825  
+A5, 5D, 5E, 6C  
+none  
+-  
+  
+  
+  
+
+  
+
+
+
+
+0Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem10659  
+  
+dPBS (for washing & neutralising)m10923  
+  
+Growth Mediam12221  
+  
+  
+
+
+
+
+### Process:
+
+1\. Inspected wells under the microscope, 5x objective to observe which clones
+were 100% confluent. Wells 100% confluent were set up for passage below.
+
+2\. Filled added 3mL of growth media to new wells on 6 well plates for each
+clone that needed passaging (see list above).
+
+\- 5 wells for CDKN1A+CDKN1B clones
+
+\- 5 wells for ZIC1+DHSR3 clones
+
+\- 3 wells for CDKN1A + ZIC1 clones
+
+\- 1 well for ZIC1 clones  
+  
+
+
+
+
+PASSAGING
+
+3\. Plates were removed from the incubator and all supernatant was aspirated
+and discarded.
+
+4\. Wells were washed with 1mL of dPBS, washes were then discarded and
+replaced with 1mL of Tryple+EDTA before plates were returned to incubate at 30
+degrees, 5% CO2 for 8-12 minutes (*The cells were not neutralised with dPBS
+prior to placing in a new destination well!)
+
+5\. 100uL of the trypalised cells were aspirated and placed in a new
+destination well in pre warmed media prepared in step 2.  
+
+6\. Destination plates were moved to incubator 82 to incubate at 30 degrees,
+5% CO2. The remaining cells for CDKN1A+CDKN1B clones were collected into 1.5mL
+tubes. All remaining excess clonal cells were discarded.
+
+FEEDING:
+
+1\. Clones that were not passaged received a 50% media feed (1.5mL of media),
+Media was aspirated and discarded from each well and replaced with fresh
+growth media. Plates were then returned back to the incubator at 30 degrees,
+5% CO2.
+
+
+
+
+Observations/Summary:
+
+As clones were not counted prior to passage, seeding density will be different
+between each culture (100 uL of a more confluent well will have more cells
+than 100 uL of a less confluent well)
+
+
+
+
+SOPs used:
+
+###  
+
+

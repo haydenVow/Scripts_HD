@@ -1,0 +1,78 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Hoescht 33342  
+S4017  
+  
+BSA  
+S1482  
+  
+dPBS M8113  
+  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Bradford:
+
+  1. Added 12 drops of Hoescht 33342 to 24mL of Milli-Q water.
+  2. Removed media supernatant from both 24 well plates and added 500uL of Hoescht/Milli-Q water mix.
+  3. Performed serial dilutions of BSA stock till all concentrations [2000,1500,1000,750.500,250,125,25,12.5,6.75,0 mg/ml]
+  4. Incubated in the dark at RT for 15 mins [ 11:48 - 12:03  a/pm]
+  5. Imaged relevant rows on Zaber for cell normalisation.
+  6. Performed freeze-thaw lysis protocol on each 24 well plate [ 17:38 - 17:46 a/pm, 17:49 - 17:59 a/pm, 18:00 - 18:11 a/pm]
+  7. Centrifuged tubes for 5 mins at 1000g using micro-centrifuge.
+  8. Tested volumes of C2C12 and DOLLY supertnatant against 250uL of Bradford reagent until grey/brown colour is achieved.
+  9. Eventual ratio determined was 200uL of Bradford reagent with 20uL of sample.
+  10. Construct a standard curve with BSA solution (2mg/mL) using the determined ratio from the previous step in triplicate.
+  11. Added 20uL of each DOLLY12 and C2C12 sample to 200uL of Bradford reagent in triplicate
+  12. Centrifuged all four plates for 3 mins at 300g.
+  13. Read absorbance at 595nm.
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

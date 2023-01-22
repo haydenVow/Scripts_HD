@@ -1,0 +1,110 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: LL  
+
+
+
+
+Passage Culture IDs:
+
+Flasks ID(s)CommentsConditionFlask Type  
+7859-F_DOLLY12-Sheep P8-1of4Keep in culture
+
+Serum control
+
+T75  
+7860-F_DOLLY12-Sheep P8-2of4Keep in culture
+
+1
+
+T75  
+7861-F_DOLLY12-Sheep P8-3of4Discard
+
+2
+
+T75  
+7862-F_DOLLY12-Sheep P8-4of4Discard
+
+3
+
+T75  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Serum ControlA6455  
+  
+Condition 1M6594  
+  
+Condition 2  
+M9595  
+  
+Condition 3  
+M6596  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted  6 mL  mL of  Growth Media (serum control + condition 1) 
+  2. Placed in water bath   13:30   
+
+  3. Removed  50  % of supernatant from vessel. 
+  4. Replaced with  6 mL (per well/per vessel) of  Respective growth media. 
+  5. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 116), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. 7859-F_DOLLY12-Sheep P8-1of4
+  2. 7860-F_DOLLY12-Sheep P8-2of4  
+  
+Cell death observed in conditions 2 & 3, replicating the results seen in the
+first thaw into these media conditions. Continuing on with just control and
+condition 1.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recS5kEp6ioBR0b2s/images (Serum
+control 7859), Mon Aug 30
+
+https://mia-capture.vow.tools/#/session/recL83mGJIW1VMf9B/images (Condition 1
+7860), Mon Aug 30
+
+https://mia-capture.vow.tools/#/session/recRiqswX8LPpnhMK/images (Condition 2
+7861), Mon Aug 30
+
+https://mia-capture.vow.tools/#/session/rec9snVDBruRwksCt/images (Condition 3
+7862), Mon Aug 30
+
+

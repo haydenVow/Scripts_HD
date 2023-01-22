@@ -1,0 +1,129 @@
+
+
+Process:
+
+1\. Download the OT2 spin tube media change protocol (Link) in the Opentrons
+designer webpage. Before undertaking this step, please have a read of the
+steps and assumptions below, which is necessary to optimize the protocol for
+performing the media change for 50 mL spin tubes.
+
+2\. Prepare a channel reservoir containing the replacement media (5 mL) that
+will be added into the 50 mL spin tube following the aspiration step.
+
+Used a 12-channel reservoir
+
+3\. Prepare the other deck slots including p1000 pipette tips, media waste
+reservoir and the tube rack to house the 50 mL spin tube(s).
+
+*Ensure steps 2-3 are completed aseptically in the Opentrons with the HEPA filter. 
+
+3.1. Ran the protocol with a tube filled with 5 mL of sterile water  ran with
+lots of adjustments between 11:00 - 13:00  
+
+4\. Warmed 5 mL of growth medium in water bath 14:09
+
+5\. Thaw a vial of DOLLY12 MuSC (in water bath 14:19 - 14:24 )and transfer
+into 50 mL spin tube (or falcon tube if can't find spin tube) in 5 mL of
+standard growth media
+
+Used 2255-Culture-6066-Vial-56of74 (banked at passage 8) from location
+106-Ralph St-Main Lab-Brew, tower 2, box 1
+
+6\. Centrifuge the cells at 300 x g for 5 minutes 14:27 - 14:32
+
+7\. Transfer culture vessel into the Opentrons deck
+
+8\. Remove lid from spin tube
+
+9\. Loaded the Opentrons protocol for media change for 1x 50 mL spin tube
+
+10\. Ran protocol, detailing any changes to the protocol in the section below
+
+11\. Loaded samples of both re-suspended pellet and aspirated supernatant onto
+haemocytometer to check if pellet had been aspirated (see images below for
+results)
+
+12\. Re-suspended pellet in 5 mL medium
+
+13\. Centrifuged at 300 x g for 5 minutes 15:09 - 15:14
+
+14\. Ran protocol again with faster mixing speed
+
+15\. Took 1 x 10 uL sample from re-suspended cell suspension and performed
+cell count to test cell dispersal
+
+Count 1: 603,200
+
+Count 2: 561,600
+
+Note: sample was from a DOLLY12 vial with ~500K cells, so this mixing protocol
+seems to be sufficient to re-suspend cells
+
+16\. Centrifuged re-suspended pellet and supernatant at 300 x g for 5 minutes
+15:30 - 15:35
+
+17\. Loaded samples of both re-suspended pellet and aspirated supernatant onto
+haemocytometer to check again if pellet had been aspirated (see images below
+for results)
+
+Assumptions:
+
+  * This protocol is only assuming you are changing the media for a single 50 mL spin tube
+  * The media within the culture vessel spin tubes and replacement reservoir is 5 mL
+  * The media removed from the culture vessels is 4.5 mL, to prevent aspiration of the cell pellet 
+  * The height at which the p1000 pipette removes media and its aspiration speed have not been modified for any of the steps in the procedure. This will need to be adjusted through trial and error when physically operating the OT2 protocol
+  * The protocol will only start mixing (for pellet resuspension) once the 4.5 mL of fresh media is added
+
+
+
+
+Observations/Changes to protocol:
+
+\- Changed aspiration tip height from 1 mm to 5 mm (step 1)
+
+\- Changed dispense tip height from 0.5 mm to  mm (step 1)
+
+\- Changed dispense speed from default to 1000 uL/s (step 1)
+
+\- Changed dispense height from 0.5mm to 50mm (step 2)
+
+\- Changed mixing height from 0.5mm to 5mm (step 3)
+
+\- Changed mixing speed from from default to 1000 uL/s (step 3)
+
+\- Changed labware loading locations to 7, 8, 10 and 11
+
+\- Changed labware from 290 mL 1-well reservoir to 195 mL 1-well reservoir
+
+\- Changed protocol to only discard tip after multiple aspirations of waste
+media from single tube are complete (instead of discarding between every
+aspirate and dispense step)
+
+\- Need to check tip changing parts of protocol before running with multiple
+cultures  
+
+
+
+
+Images
+
+Haemocytometer, re-suspended pellet, rep 1  
+
+Haemocytometer, supernatant, rep 1  
+
+ Haemocytometer, re-suspended pellet, rep 2  
+
+Haemocytometer, supernatant, rep 2. Note: spots visible are debris, not cells.
+Circular shape visible to left of image is a cell.  
+
+
+
+
+
+
+
+
+
+
+
+

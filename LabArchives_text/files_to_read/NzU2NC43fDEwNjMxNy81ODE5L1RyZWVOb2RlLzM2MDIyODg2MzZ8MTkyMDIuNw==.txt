@@ -1,0 +1,242 @@
+
+
+## Performed by: LL AK ST VP  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDsSeeded vessel typeSeeded flask IDs  
+  
+4CF
+
+9435-CHOMP09-Crocodile P9-1of6  
+9436-CHOMP09-Crocodile P9-2of6  
+9438-CHOMP09-Crocodile P9-6of6
+
+E-125 9576-F_CHOMP09-Crocodile P10-1of3  
+9577-F_CHOMP09-Crocodile P10-2of3  
+9578-F_CHOMP09-Crocodile P10-3of3  
+9579-F_CHOMP09-Crocodile P10-1of3  
+9580-F_CHOMP09-Crocodile P10-2of3  
+9581-F_CHOMP09-Crocodile P10-3of3  
+9582-F_CHOMP09-Crocodile P10-1of3  
+9583-F_CHOMP09-Crocodile P10-2of3  
+9584-F_CHOMP09-Crocodile P10-3of3  
+9585-F_CHOMP09-Crocodile P10-1of3  
+9586-F_CHOMP09-Crocodile P10-2of3  
+9587-F_CHOMP09-Crocodile P10-3of3  
+9588-F_CHOMP09-Crocodile P10-1of3  
+9589-F_CHOMP09-Crocodile P10-2of3  
+9590-F_CHOMP09-Crocodile P10-3of3  
+9591-F_CHOMP09-Crocodile P10-1of3  
+9592-F_CHOMP09-Crocodile P10-2of3  
+9593-F_CHOMP09-Crocodile P10-3of3  
+9594-F_CHOMP09-Crocodile P10-1of3  
+9595-F_CHOMP09-Crocodile P10-2of3  
+9596-F_CHOMP09-Crocodile P10-3of3  
+9597-F_CHOMP09-Crocodile P10-1of3  
+9598-F_CHOMP09-Crocodile P10-2of3  
+9599-F_CHOMP09-Crocodile P10-3of3  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple  
+a9072  
+  
+dPBS (washing & neutralising)  
+s3967  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+A9005  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+A9074  
+  
+KSR  
+S4098  
+  
+IGF-1  
+M7963  
+  
+b-FGF  
+M5077  
+  
+Soy peptone stock solutionM8625  
+  
+Malt extract stock solution  
+M8627  
+  
+Wheat stock solution  
+M8623  
+  
+Pea stock solutionM8626  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   600  mL 
+  2.  dPBS (for neutralising):   600  mL
+  3.  dPBS (for washing):   600  mL
+  4. Growth medium (for pellet resuspension):   30  mL
+    * GM = D/F+20%FBS+1xP/S 
+  5. Growth media conditions (for seeding):   7 x 60 mL aliquots (1 x 60 mL aliquot/condition)  
+
+Time that all aliquots were placed in the water bath the warm before use
+10:40  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Collected supernatant in sterile 2L bottle.
+
+5\. Washed the vessel(s) with dPBS (warmed). Collected dPBS in sterile 500 mL
+bottle.  
+
+6\. Added  200  mL TrypLE to each 4CF and incubated at 30˚C.
+
+  1. Start/Finish for TrypLE was   10:54 - 11:08     
+
+7\. While flasks were tryplising, split 2.4L of collected supernatant + dPBS
+into 10 x 250 mL tubes and centrifuged at 800 xg for 5 min 11:28 - 11:33,
+11:34 - 11:39, 11:41 - 11:46, 11:47 - 11:52  
+
+  1. Poured off supernatant, leaving ~20 mL on pellet. Resuspended and moved into 6 x 50 mL tubes.   
+
+  2. Centrifuged at 800 x g for 5 min 11:57 - 12:02  
+
+  3. Aspirated supernatant off pellet and resuspended in 25 mL dPBS  
+
+  4. Centrifuged at 800 x g for 5 min 12:07 - 12:12  
+
+  5. Aspirated supernatant off pellet and resuspended in 20 mL Tryple. Incubated for 15 min (observe for cells sheets to have broken up more). 12:18 - 12:33  
+
+  6. Strained cell suspension using a 40 um cell strainer to remove large clumps that hadn't broken up in Tryple. Added 20 mL dPBS to neutralise.   
+
+  7. Centrifuged at 800 x g for 5 min 12:44-12:49
+  8. Aspirated supernatant off pellet and resuspended in growth medium. Combined with cell suspension from 4CFs.   
+
+7\. Neutralised flasks with   200 mL   dPBS/flask and combined cell suspension
+into   6 x 250 mL  tubes.
+
+8\. Centrifuged neutralised cells at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was
+    1.  11:12 - 11:17 (cells did not pellet properly,so increased G to 800 and re-spun) 11:19 - 11:24    
+
+    2.   11:28 - 11:33      
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Strain cell suspension through a 40 um cell strainer to remove
+clumps/aggregates before final reuspsension  
+
+11\. Resuspended pellet(s) in    20   mL   growth   media
+
+12\. Aliquoted   2 x 100 uL  of resuspended cells into a microcentrifuge tube
+for cell count. Diluted to 1:25 in trypan blue.  
+
+13\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet
+
+  1. Total cell number was:     (107,300,000 + 116,550,000)/2 =  111,925,000    
+
+  2. Volume of cell suspension required for subculture was:     4.6 mL per 60 mL aliquot, 1.54 mL per E-125     
+
+  3. Cell density per vessel:   4,663,541 cells/flask = 233,177 cells/mL    
+
+
+
+
+14\. Transferred   4.6 mL of cell suspension to each pre-warmed  60  mL Growth
+media aliquot  
+
+15\. Transferred 21.5 mL of each aliquot into E-125 flasks (3 reps of 7
+conditions = 21 total E-125 flasks)
+
+16\. Took 1 x 100 uL aliquot from each E-125 flask and transferred to 2 x
+96-well plate for staining & cell count (see "staining" rich text entry below)
+
+17\. Transferred E-125s to shaking platform (120 RPM) to incubate at:  
+
+  * []  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature 14:36 - 15:06
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute 15:13 - 15:14  
+  
+
+  6. Prepared plate map:
+
+Plate ID: 9601
+
+https://docs.google.com/spreadsheets/d/1ppp_EAbJFRAMd81wRtd4tuU2hC5zR8uXPBJ9YOTHOgQ/edit#gid=698754547  
+
+MIA Link: https://mia-capture.vow.tools/#/session/recmTGEluZNRbPGk2/images
+
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+1\. Cells in 4CFs had started forming sheets in adherent culture
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,152 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents
+
+ReagentID  
+3:1 RPMI:Hycell Nuvonis suspension mediaMIX-  
+IGF (0.05mg/mL)MIX-10839  
+EGF (0.05mg/mL)MIX-12321  
+Anti-foam CMIX-6141  
+1M Sodium bicarbonate solutionMIX-12682
+
+
+  
+  
+Cultures:
+
+Culture IDVesselNew culture IDNew vessel type  
+  
+E500  
+AMBR250 vessel 1  
+  
+AMBR250 vessel 2  
+  
+  
+AMBR250 vessel 3  
+  
+  
+AMBR250 vessel 4  
+
+
+  
+  
+Stock passage process:
+
+
+
+
+AMBR Inoculation Process
+
+  1. Notes recorded here and transferred to Lab Archives
+
+  2. Opened AMBR run time program and selected 'continue process' and used Vow 1 pre-programmed run
+
+  3. Turned TCU on at 9:29 am
+
+  4. Remove bioreactor vessels from the AMBR unit and clean the ports at 9:36 am
+
+  5. Load the vessels and engage the bioreactors (ensure the pH probe is connected to the AMBR system) at 9:40am
+
+  6. Select the 'Process' tab -> 'Vow 1' -> locate the 'Conditioning and Calibration' tab -> select 'Stir speed on' step / phase -> right click 'Edit' -> select the RPMs that are being tested
+
+  7. Under the 'Set point' enter the following parameters: 200, 300, 400, 500 (RPM for the four bioreactors respectively) - EDIT: changed parameters to 150, 250, 350, 450 RPM after consulting with George from BIF
+
+  8. Edit the volumes of the batch by selecting 'Vow 1' -> 'Volumes' -> 'Batch media' in the 'Components' table -> change the volume to 190 mL
+
+  9. Set up the reservoirs:
+
+    1. Select 'Process' -> 'Vow 1' -> 'Pumps A-E'
+
+    2. Assign the role of 'Pump A' as the feed (consisting of 3:1 R:H + GFs + antifoam at 1:100 dilution to dose entire volume at 1:10 000 every time scheduled feed is pumped in)
+
+    3. Assign the role of 'Pump B' as the base (1M sodium bicarbonate)
+
+    4. Ensure the remainder of the pumps are marked as 'Not used'
+
+  10. Select 'Process' and explore around the screen to locate the 'Steps on days within phase' table and change the sample volume to 2 mL (1 mL x 2; once to purge the line and another to take the sample)
+
+  11. Delete any 'Calculated antifoam bolus' steps (as the AF was added to the feed media)
+
+  12. Start bioreactors
+
+  13. Enter spot calibration data using QR code and webcam -> Save data
+
+  14. Go to 'Bioreactor 1' -> select 'Borrow' -> choose all bioreactors and press 'Disengage' (make sure to remove the headplate and pH probe)
+
+  15. Fill Reservoirs A and B with feed media (+ GFs + antifoam) and base respectively inside a BSC - EDIT: added inoculum at this time as well with growth factors for entire media volume in each vessel  
+
+  16. Return the vessels to the AMBR system and attach headplates and pH probe
+
+  17. Select 'Bioreactor 1' -> press 'Return' -> select 'All bioreactors' -> press 'Engage'
+
+    1. Let the system warm up the media inside the vessel (may need to wait 20-30 mins for the 'Wait until at temperature' step)
+
+    2. If it fails, select 'Failed bioreactors' -> then press 'Retry' (this will add in a duplicate step to repeat the failed step)
+
+    3. For any step that takes too long, the wait time can be changed by going to 'Process' -> selecting the relevant step in the 'Conditioning and calibration' table (e.g. 'Check for pH drift') -> 'Edit' -> 'Timing' -> select 'Maximum wait time' (e.g. 2m, 5m) -> 'oKaY'
+
+  18. EDIT - left cells for 30 mins to incubate in reactor while media coming to 37degC from room temp. Returned and continued to follow prompts
+
+  19. Followed on-screen prompts to set pH offset. Drew 2mL and read using pH probe. Followed prompts on-screen to record the offset value for each reactor. Used same volume to take time-0 cell counts for each reactor NOTE - pH was ~7.9 as per offline readings. Cell viability was ~30-45% across reactors  
+
+  20. EDIT: pH and dead-band altered in consultation with George from BIF. George recommended 7.3 set point with 0.1 dead-band: To change the pH set point and dead band:
+
+    1. Go to 'Process' -> 'Vow 1' -> 'Control loops' -> Edit 'pH lower' and 'pH upper'; from this menu, the CO2 gas flow rate can also be changed by editing the 'Maximum (mL / min)' - can be used to alter the rate at which the pH changes
+
+    2. Go to 'Bioreactor 1' -> 'pH' -> 'Set' -> change set point
+
+  21. EDIT: Deleted prompts for further sampling  
+  
+  
+  
+  
+  
+  
+
+Troubleshooting & deviations:
+
+  
+
+  * Cells had poor viability when counted using the NucleoCounter (~50% or lower) - the density had also dropped by half and was around 50k cells / mL
+
+  * The satellite flask had a density of 119k cells / mL and a viability of 99%
+
+  * The pH was found to be too high (~7.9) and the pH set point was changed to 7.3 with a deadband of 0.1 (for both CO2 sparging and base addition) see above for notes on how this was done
+
+  * The stirring rate was also reduced to 150, 200, 250, 300 RPM (dropped from 150, 250, 350, 450 RPM) 
+
+  * It was suspected that the high stirring speed / aeration rate could have blown off too much CO2, increasing the pH of the media
+
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Sampling and offline measurements
+
+  1. Labelled x4 50mL falcon tubes 1-4
+  2. Followed on-screen prompt to sample bioreactors and recorded in run
+  3. Sprayed sample line with EtOH and removed cap
+  4. Unclipped clamp on sample line
+  5. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited into 50mL tube. Discarded syringe
+  6. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited 0.5mL into 1.5mL tube (for cell count) and deposited remainder into corresponding 50mL tube. Discarded syringe
+  7. Clipped sample line and screwed on cap
+  8. Repeated for each AMBR bioreactor vessel
+  9. Counted cells using Nucleocounter as per manufacturer's instruction. Used 200uL sample volume per read. 
+  10. Deposited remaining cell suspension from 1.5mL tube into corresponding 50mL falcon tube and used offline pH probe (Matteo Toledo) as per manufacturer's instruction and recorded
+
+
+
+
+

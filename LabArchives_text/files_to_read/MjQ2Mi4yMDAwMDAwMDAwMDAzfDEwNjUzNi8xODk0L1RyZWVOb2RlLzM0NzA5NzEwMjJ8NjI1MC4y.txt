@@ -1,0 +1,147 @@
+Protocol
+
+
+  
+
+  1. Fill a container with 5 L of tap water.
+  2. Record the pump model and tubing size.
+  3. Run the tubing through pump and attach to pressure gauge using a 1in triclamp.
+  4.  Attach same size tubing to presure guage and attach appropriate filter size. 
+  5. Place end to flow into container where initial water is pumped from.
+  6. Run pump at a low base speed, increase in increments and record RPMs and Pressure. Note in particular what flowrate is required for 0.5 Bar.
+
+
+Results
+
+
+Tubing Size
+
+0125-0250
+
+0250-0375
+
+0375-0625
+
+0500-0750
+
+  
+
+Watson Marlow 323 - Small
+
+Tube0.20.30.40.50.60.70.80.911.5  
+0125-0250  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0250-0375  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Notes:
+
+Test could not be performed due to insufficient triclamp fitting for smaller
+tube sizing.
+
+Watson Marlow 630Du - Yellow
+
+Filter Unit: Sartopore 2XLG 0.8+0.2
+
+Tube0.150.200.250.30.350.400.42  
+  
+  
+0375-0625N/AN/AN/A  
+  
+  
+  
+  
+  
+  
+0500-0750 127135155185220240265  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Notes:
+
+Data could not be obtained for 0375-0625 tubing as pump could not produce
+sufficient peristaltic force on tube to generate pumping action.
+
+Watson Marlow (P-748) - Grey
+
+Filter Unit: Sartopore 2XLG 0.8+0.2
+
+Tube0.20.30.320.350.40.450.50.550.6  
+0375-0625140235265  
+  
+  
+  
+  
+  
+  
+500-062585120  
+145170180195207.5225  
+Tube0.650.68  
+  
+  
+  
+  
+  
+  
+  
+500-0625240265  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+Graphs
+
+
+Watson Marlow 630Du - Yellow
+
+Line Equations
+
+0500-0750 Tube: 521 x (Pressure required) + 35.5 = RPM
+
+Watson Marlow P-748 - Grey
+
+Line Equations
+
+0375-625 Tube: 1012 x (Pressure Required) - 63.3 = RPM
+
+0500-0750 Tube: 351 x (Pressure required) + 19 = RPM
+
+  
+
+

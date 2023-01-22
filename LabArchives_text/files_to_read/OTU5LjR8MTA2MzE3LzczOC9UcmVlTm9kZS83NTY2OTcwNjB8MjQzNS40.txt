@@ -1,0 +1,241 @@
+
+
+  
+
+Seed cells onto microcarriers
+
+
+
+
+### Process:
+
+Intermittent agitation to facilitate adhesion
+
+  1. Allowed microcarriers to settle in equilibrated E250 and aspirated 11.5mL of Growth Media.
+  2. Transferred   11.5mL  of cell suspension (attach passage entry here) containing `12.5 million cells` into   48.5mL of equilibrated microcarrier suspension in the culture vessel to make up a total working volume of 60mL.
+
+Seeding vessels
+
+Culture ID
+
+ Flask Type
+
+Cells Added
+
+Microcarrier Density
+
+Flask Volume  
+  
+6646-DOLLY12-Sheep P12-1of1
+
+E250
+
+12.5 Million  
+
+4.5 mg/mL  
+60mL  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  1. Transferred vessel to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+  
+
+  1. Began the seeding schedule for 6 hours (below) using the KASA app.
+    1. The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing
+      * Shake speed used = 120RPM
+    2. The seeding schedule may be reduced or extended by removing or adding 30 minute cycles as required. Generally, at least 3 but up to 12 hours are required to allow the maximum number of the inoculated cells to adhere.
+
+
+
+
+Seeding schedule:
+
+Time elapsed from seeding
+
+Activity
+
+Time started - time finished  
+  
+0.5
+
+Agitate culture for 2 mins
+
+3:53  
+  
+1.0
+
+Agitate culture for 2 mins
+
+4:23  
+  
+  
+1.5
+
+Agitate culture for 2 mins
+
+4:53  
+  
+  
+2.0
+
+Agitate culture for 2 mins
+
+5:23  
+  
+  
+2.5
+
+Agitate culture for 2 mins
+
+5:53  
+  
+  
+3.0
+
+Agitate culture for 2 mins
+
+6:23  
+  
+  
+3.5
+
+Agitate culture for 2 mins
+
+6:53  
+  
+  
+4.0
+
+Agitate culture for 2 mins
+
+7:23  
+  
+  
+4.5
+
+Agitate culture for 2 mins
+
+7:53  
+  
+  
+5.0
+
+Agitate culture for 2 mins
+
+8:23  
+  
+  
+5.5
+
+Agitate culture for 2 mins
+
+8:53  
+  
+  
+6.0
+
+Agitate culture for 2 mins
+
+9:23  
+  
+  
+Commencement of continuous agitation
+
+  1. At the conclusion of the seeding period the vessel was left to shake continuously overnight.
+
+
+
+
+### SOPs used:
+
+N/A
+
+
+
+
+### Observations/Summary:
+
+\- Cells were overseeded at 12.5M cells in order to produce a healthy
+indication of pre and post harvest images (when harvest occurs in the future).
+As opposed to normal seeding which may not provide a indication of cells
+present on microcarriers before and after.
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Growth Media4567  
+p38i (20mM stock)3978  
+
+
+  
+  
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+### Relevant Images/Figures (if applicable):
+
+N/A
+
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2[NH] Changed some phrasing, added prompt to include a link to the passage
+entry from which the cells were sourced for the suspension culture. Removed
+some irrelevant reagents for this task from the Media/reagents table  
+V3  
+  
+  
+  
+
+

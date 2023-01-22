@@ -1,0 +1,107 @@
+
+
+Performed by: VP  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-125  
+  
+ 10885  
+  
+N/A  
+N/A  
+  
+  
+  
+  
+
+
+
+
+Cell Count
+
+50ul sample was taken from the flask. Diluted samples with an equal volume of
+trypan blue.
+
+Recorded in cell count spreadsheet
+
+IDCounting methodLive count totalDead count total  
+Live count per mL  
+10885  
+Trypan blue96 800 00080 0001 210 000  
+10885  
+Trypan blue  
+72 400 00070 000905 000  
+10885  
+Trypan blue  
+56 800 00085 000710 000  
+Average75 333 33378 333941 666  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis suspension media  
+N/A  
+  
+EGF  
+N/A  
+  
+IGF  
+N/A  
+  
+  
+  
+
+
+
+
+Passage
+
+  1.  ~~Calculated required media for new E125 flask with required media for 50 000 cells/mL in 30mL final volume (made up of old cell suspension and new media). Used seeder widget to calculate required volume of cell suspension~~
+    *  ~~Required cell suspension:        ~~
+    *  ~~Required new medium:         ~~
+  2.  ~~Added required growth factors to media, calculated fromMedia Calculator~~
+    *  ~~+EGF:         ~~
+    *  ~~+IGF:         ~~
+  3.  ~~Incubated media at    37   °C for       minutes~~
+  4.  ~~Removed vessel from incubator and performed media change/passage: <indicate which here by strikeout>~~
+    *  ~~added newly prepared media and added cell suspension drop-wise~~
+    *  ~~Returned vessel to shaking incubation at 37 °C~~ ~~~~
+  
+
+Location : Incubator: #.   78   , 37°C,      120    RPM, Library Lab
+
+  
+
+  
+
+
+
+
+pH measurement
+
+  1. Collected 100uL sample from cell counting and used pipette to add drop-wise to pH colour indicator strip on bench
+  2. Allowed colour change reaction to proceed over ~30 seconds
+  3. Imaged indicator strip next to colour change indicator chart
+
+pH reading: ~5-6
+
+
+
+
+Observations:
+
+  
+
+

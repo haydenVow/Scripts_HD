@@ -1,0 +1,31 @@
+
+
+Passaged 5CF to prepare CHOMP07 cells for suspension adaptation.
+
+  1. Media was poured off the cells 
+  2. 300mL of dPBS wash was pipetted into the flask using a 50mL pipette (aliquot 13372)
+  3. Wash was poured off the cells
+  4. 300mL of 1xTryple-EDTA was added back to the cells using a 50mL pipette.
+  5. Flask was returned to incubate for 12 minutes at 30 degrees, 5% CO2. 
+  6. Once cells were confirmed detached by inspection under the microscope, Trypalised cells were poured into a 500mL container then transferred to 200mL tubes (100mL per tube)
+  7. 200mL of dPBS wash was added back to the flask, the wash was then collected and combined with the tryple suspensions as per step 6. (200mL total volume collected per tube, 600mL total)
+  8. Cells were centrifuged at 690g for 7 minutes 
+  9. Supernatants were removed and cells were resuspended each in 10mL of Nuvonis media + 10% FBS per tube. 
+  10. Cells were pooled into one tube and empty tubes were washed with 10mL of growth media, wash was transferred to each empty tube before being combined with the remaining cell collection (50mL of cell suspension) 
+  11. Cells were left at 30 degrees, 5% CO2 for 1h due to prior meeting commitments. 
+  12. 3x10uL aliquots were then taken for cell counting using a hemocytometer, mixing 1:2 with trypan blue. (https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2717:2720
+    1. Average cell count:  32,733,333 cells in 50mL 
+    2. Cells were very clumpy suggesting that they may have required longer tryple time to break apart extracellular matrices. This unfortunately may have impacted the count. Cell numbers are likely higher than what was counted. Single cells were counted and cell numbers in clumps were estimated by eye when taking the cell count
+  13. 5x7.6mL aliquots of counted cell suspension (~5,000,000 of counted cells) were transferred to 5x50mL shaker tubes. 
+  14. 2.4mL of additional Nuvonis + 10% FBS suspension media was added to make the total volume in each tube up to 10mL. 
+  15. EGF and IGF1-LR3 supplements were added to each tube to a final concentraiton of 0.01ug/mL and 0.05umg/mL respectively. 
+  16. Tubes were then labelled with culture ID's 13346-13350, then placed in incubator 68 at 30 degrees, 5% CO2 shaking at 190rpm. 
+  17. 700uL of counted cell suspension was added to a T75 flask containing 12mL of DMEM/F12+10% FBS +1xP/S for continuous adherent culture. Culture ID 13351
+  18. Finally 12mL of counted cell suspension (~7,856,000 cells) were placed in a 15mL tube and centrifuged at 500g for 5 minutes. 
+  19. Supernatant was removed and cells were washed with 3mL of dPBS
+  20. Cells were split into 3x1.5mL tubes (1mL per tube) and centrifuged once more at 500g for 5 minutes. 
+  21. Supernatant was once again removed and cell pellets were combined into a yellow lid container, labelled with the culture of harvest (13238) and then placed at -80 degrees in the library lab, bottom shelf, for future RNA extraction if suspension adaptation proves successful.
+
+Nuvonis + 10% FBS media = mix 13444)
+
+

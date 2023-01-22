@@ -1,0 +1,131 @@
+
+
+Scope: Image scaffolds for cell seeding on both sides of scaffolds - write
+observations on cell coverage
+
+Reagent Preparation:
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use Hoechst at 20ul/mL.
+
+  
+
+ReagentMix/Stock/Aliquot Number  
+  
+PBS
+
+M4218  
+Hoechst StainS1403  
+  
+  
+
+This test was done in parallel with entry EPIC16060: Hoechst survival test
+experiment D1 16/4/21 Hoechst and Dapi staining of Zein Scaffolds + culture
+plates. Protocol written by BT.
+
+Hoechst staining protocol.
+
+  
+
+This staining was to be done on the bench not sterile.  
+
+  
+
+  1. Prepared Hoechst stain by adding 12 ul of Hoechst to 600 ul of pbs.   
+  
+
+  2. Hoeschst/media mix was sterilised using a syringe filter. 
+  3. N=4 seeded scaffolds and N=2 of cell free scaffolds were removed from 6419 into a 96WP.
+  4. Covered these wells with 100ul hoechst/media mix and incubate cells at 37°C for 10 minutes, protected from light.  16:30-16:40  
+
+  5. Removed hoechst/pbs mix. 
+  6. Wash with 2x with 200ul PBS for 5 minutes.   16:45-16:50, 16:55-17:00  
+
+  7. Replaced PBS with fresh growth media for imaging. 
+  8. Imaged using Zabre microscope. 17:30 - 18:00  
+  
+
+Imaging
+
+Note in observations:
+
+\- Topography
+
+\- Coverage more or less
+
+\- One side more seeded than the other
+
+  
+
+CHANGE COMMENTS BELOW
+
+Seeding TypeDry or wet?Number of SamplesPoked or not poked during drying?Image
+notes  
+SuspensionDry1Poke  
+  
+SuspensionWet1Poke  
+  
+  
+Flipped and Seeded Both SidesDry1Poke  
+  
+Flipped and Seeded Both SidesWet1Poke  
+  
+  
+Cell FreeDry2  
+Not Poked  
+  
+  
+  
+
+General observations:
+
+  
+
+Images:
+
+Images were taken on the Zabre following the imaging guide:
+
+https://www.notion.so/vow/User-Guide-to-Zaber-imaging-
+ad19527eee9e42ed9db96faa911d6536
+
+  
+
+Wet Suspension Seeded
+
+Side 1
+
+Side 2
+
+  
+
+Dry Suspension Seeded
+
+Side 1
+
+Side 2
+
+Wet Direct Seeded Both Sides
+
+Side 1
+
+Side 2
+
+Dry Direct Seeded Both Sides
+
+Side 1
+
+Side 2
+
+Cell Free 1
+
+Side 1
+
+Side 2
+
+Cell Free 2
+
+Side 1
+
+Side 2
+
+

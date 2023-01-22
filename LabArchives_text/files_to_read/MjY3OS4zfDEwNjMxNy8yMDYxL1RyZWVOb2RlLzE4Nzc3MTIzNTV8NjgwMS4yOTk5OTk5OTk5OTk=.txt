@@ -1,0 +1,40 @@
+
+
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To determine whether FGF from Reprokine slows cell doublings and/or causes
+cell death when used in E810C (as opposed to using FGF from PeproTech).
+
+
+Hypothesis
+
+
+Cells growing in E810C with FGF from PeproTech will have faster doubling rates
+than cells in E810C with FGF from Reprokine.
+
+
+Technical Gap
+
+
+We have not tested how FGF from Reprokine affects cell proliferation compared
+to FGF from PeproTech.
+
+
+Method/Procedure
+
+
+  1. Thaw DOLLY12 WCB MuSC into 4x T25 flasks at 1000 cells/cm^2 into serum containing media (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+  2. 24 h later, perform a 100% media change to the following media conditions:
+    1. DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i (positive control)
+    2. E810C with Reprokine FGF
+    3. E810C with PeproTech FGF
+    4. E810C no FGF (negative control)
+  3. Keep cells in culture until they get to 10 doublings or stop growing (whichever comes first). Perform a 50% feed every 48 hours. Passage every 3-4 days and record cell numbers in this spreadsheet: https://docs.google.com/spreadsheets/d/19Foy6WldT2AJsA3H5ZR9gXnKBxG-E4D2RnTgPx-MWgE/edit#gid=1544829749.
+
+  
+
+

@@ -1,0 +1,177 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+
+
+Note
+
+This background section will serve experiment 30037 (This lab book), as well
+as 31258 and 31259.  
+
+See lab books here
+
+31258: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/OTk4Ni42fDEwNjMxNy83NjgyLTYzNjAzL1RyZWVOb2RlLzEzNTg4OTY0MDN8MjUzNTAuNg==
+
+31259: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/OTk3Ni4yfDEwNjMxNy83Njc0LTYzNTc3L1RyZWVOb2RlLzE5NDIwMzQ5NXwyNTMyNC4xOTk5OTk5OTk5OTc=
+
+  
+
+
+
+
+Background
+
+Overreaching Project Objective  
+The development of suspension adapted cell lines at Vow would allow for
+scalable production of cell mass far beyond that which is achievable via
+adherent culture alone. In this project, we will isolation primary cells from
+avian embryonic tissue with a view to suspension adaption. It is hoped that
+embryonic tissue will be more amenable to suspension adaption than cells
+derived from highly adherent adult tissue. Several avian embryonic fibroblast
+cell lines have already been adapted by other groups, providing a precedent
+for this approach.
+
+Existing suspension adapted avian cell lines  
+In order to form a broad understanding of the challenges and opportunities
+surrounding suspension cell adaption of avian foetal cells, we performed a
+literature review and prepared a summary of existing suspension adapted avian
+cell lines (Table 1). We believe this to be a comprehensive list of all avian
+cell lines that have successfully been adapted to suspension culture,
+according to published literature to date. It is promising that all of these
+lines are embryo derived, lending validity to Vows assumption that cells
+isolated from embryonic tissue are more amenable to suspension culture
+adaption than those derived from more strongly anchorage dependent adult
+tissues.  
+  
+Choice of donor species  
+We have Nuvonis cells (QOR2/2E11) in house and will be using these as a
+positive suspension adapted control for our own experiments.  Fertile Bob-
+White Quail eggs (the same species from which QOR2/2E11 is derived) were
+therefore sourced so that they can act as the most direct comparison to the
+Nuvonis control line once suspension adapted.  In addition, we have sourced
+other species based on variety and convenience. These are: King Pigeon, Cayuga
+duck, Mongrel chicken, and Japanese quail eggs (see Table 4).  
+  
+Choice of embryonic cell isolation protocol  
+The isolation protocol itself should not be determinative of outcomes in this
+project.  A non-extensive review of published methods was therefore performed
+and has been summarised (Table 2). Enzymatic digestion of tissue has been used
+in some reports however James Henstock has performed similar isolations before
+with only the need for mechanical disassociation and filtering through a cell
+strainer. This should in theory reduce enzymatic damage to cells during the
+isolation process. As James is experienced in these isolations and will be on
+hand to provide guidance, we will use his suggested isolation protocol for
+this project.
+
+Adaption to serum free (SF) media prior to adaption to suspension culture.  
+Each of the existing suspension adapted avian cell lines (Table 1) was adapted
+to serum free (SF) or low serum media, prior to suspension adaption. It is
+likely that it will be necessary to adapt our own embryo derived cells to SF
+culture before they can be adapted to suspension. We intend to attempt to
+adapt cells to suspension straight from embryonic homogenate regardless, while
+simultaneously conducting experiments aimed at adapting these cells to SF
+media in adherent culture.  
+
+Choice of methods for SF media adaption in adherent culture  
+Due to limited availability of science team members to work on this project,
+we will trial just 3 different protocols for adherent adaption to SF culture.
+These protocols have been informed by the literature as summarised (Table 3).
+The literature review performed here was not comprehensive of all published
+reports, but nonetheless has provided us will some promising strategies.
+
+  1. Gradual adaption from DMEM +10% FBS to OptiPRO SFM + Glutamax-1 over 7 passages, as previously demonstrated with PBS-1 chicken embryonic cells [1].  
+  
+
+  2. Gradual adaption from DMEM +10% FBS to DMEM +10% KSR over 5 passages.  KSR was designed for us in serum free culture of ESCs as well as iPSCs and has been demonstrated to support these cells in avian culture [2, 3] (Table 3). We did not find any examples of KSR being used for the expansion of embryonic foetal cells. It is hoped however that a gradual adaption process may facilitate our avian embryonic tissue derived cells.    
+  
+
+  3. Adaption to low serum, rather than serum free media. In the case of the AGE1.CR cell line, cells were adapted to low serum (5%), rather that serum free media before being adapted to suspension [4] (Table ). We will therefore also trial the feasibility of this approach, by adapting cells to 5% serum media over 4 passages. (Further depletion of serum may then be attempted if cells thrive in this environment).  
+  
+
+  4. In addition to the methods above, we will trail the immediate culture of embryonic cells in ACF medias, in an attempt to bypass the need for serum all together. These medias will be OptiPRO + 4mM Glutamax as well as DMEM/F12 + 10% Knock-out serum replacement (KSR).  
+
+Choice of suspension medias to trial.  
+Due to limited availability of science team members to work on this project,
+just 3 suspension medias will initially be trialled. To maximise our chances
+of success, we will be guided by the medias used for previously established
+avian suspension cell lines. Note we were unable to obtain the EB66
+recommended, EX-CELL EBx GRO-I serum-free medium or the AGE1.CR recommended
+Gene Therapy Medium 3 (Sigma) in time for commencement of this project due to
+delays in supply. Therefore, the 3 medias we will initially trial are listed
+below.
+
+  1. Freestyle 293 medium supplemented with Yeast Extract, L-Ornithine monohydrochloride, Putrescine, IGF-1, EGF and ACA, as was used for Nuvonis OOR2/2E11 cells [5] .  
+  
+
+  2. CDM4Avian medium supplemented with 2.5 mM l-glutamine. CDM4Avian is a commercial media which has been used to culture EB66 duck suspension cells [6, 7]. It is therefore a logical candidate for other avian lines.  
+  
+
+  3. Optipro SFM + 2% L-Glutamine + 0.2% Pluronic F-68 is used for the suspension culture of DuckCelt-T17 cells by the lines developer, Transgene [8]. While the EB66 line is derived from embryonic stem cells rather than foetal cells, we believe this media warrants trialling, especially given one of our adherent SF adaption strategies will involve gradual adaption to Optipro SFM. 
+
+Immortalisation  
+All avian suspension cell lines that have already been developed to date were
+immortalised prior to their suspension adaption (Table 1). While we can
+examine the proliferative capacities of our primary embryo derived cells in
+suspension culture, their lifespan will be finite. Ultimately, we will need to
+develop an immortalised line (via spontaneous immortalisation and SSC or
+otherwise) if these cells are to be used infinitely, and at commercial scale.
+Extended culture of our primary embryo derived cells in planar culture may be
+a simple means of determining their baseline replicative capacity, and act as
+a positive control against cells undergoing suspension adaption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERENCES
+
+1.           Coussens, P.M., et al., Immortalized chick embryo cell line adapted to serum-free growth conditions and capable of replicating human and reassortant H5N1 influenza strains for vaccine production. 2011\. 29(47): p. 8661-8668.
+
+2.           Lu, Y., et al., Avian-induced pluripotent stem cells derived using human reprogramming factors. 2012\. 21(3): p. 394-403.
+
+3.           Lu, Y., et al., Generation of avian induced pluripotent stem cells, in Cell Reprogramming. 2015, Springer. p. 89-99.
+
+4.           Volker, S. and J. Ingo, Cell line for propagation of highly attenuated alphaviruses, in Google Patients. 2009.
+
+5.           Reiter, M., et al., Method for producing continuous cell lines. 2014, Google Patents.
+
+6.           Nikolay, A., et al., Process intensification of EB66® cell cultivations leads to high-yield yellow fever and Zika virus production. 2018\. 102(20): p. 8725-8737.
+
+7.           Nikolay, A., et al., The EB66® cell line for yellow fever vaccine production at high cell concentrations. 2018.
+
+8.           Chupin, C., et al., Avian Cell Line DuckCelt®-T17 Is an Efficient Production System for Live-Attenuated Human Metapneumovirus Vaccine Candidate Metavac®. 2021\. 9(10): p. 1190.
+
+9.           Lin, J., X. Yi, and Y.J.R.a. Zhuang, Medium optimization based on comparative metabolomic analysis of chicken embryo fibroblast DF-1 cells. 2019\. 9(47): p. 27369-27377.
+
+10.         Mullen, N., et al., In vitro avian food product. 2020, Google Patents.
+
+11.         Brown, S.W., M.J.P.j.o.p.s. Mehtali, and technology, The avian EB66® cell line, application to vaccines, and therapeutic protein production. 2010\. 64(5): p. 419-425.
+
+12.         Guehenneux, F., et al., Generation of duck cell lines. 2016, Google Patents.
+
+13.         Jordan, I., et al., An avian cell line designed for production of highly attenuated viruses. 2009\. 27(5): p. 748-756.
+
+14.         Erbs, P., M. Kapfer, and N. Silvestre, Immortalized avian cell lines. 2013, Google Patents.
+
+15.         Mancini, L.O. and V.J.J.A.d. Yates, Cultivation of avian encephalomyelitis virus in vitro. 2. In chick embryo fibroblastic cell culture. 1968\. 12(2): p. 278-284.
+
+16.         Carter, C., et al., The tyrosine phosphorylation substrate p36 is developmentally regulated in embryonic avian limb and is induced in cell culture. 1986\. 103(5): p. 2017-2024.
+
+17.         Ogura, H. and T.J.A.M.O. Fujiwara, Establishment and characterization of a virus-free chick cell line. 1987\. 41(3): p. 141-143.
+
+

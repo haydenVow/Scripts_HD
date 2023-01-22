@@ -1,0 +1,71 @@
+
+
+Cell Staining to check for cell growth on BioNOC carriers (D1):
+
+*Images saved under flask 10748
+
+For this day 2 types of methods for staining were compared:
+
+  1. Cells fixed and dehydrated with ethanol and then stained with DAPI
+  2. Cells fixed with PFA and then stained with DAPI
+
+Procedure:
+
+* All solutions were added at a volume of 1mL to each well
+
+Ethanol Method: (1) flask from each seeding condition
+
+Flask IDs:  
+15,000cells/cm2 - 10748-CHOMP07-Crocodile P7-6of6  
+5,000cells/cm2 - 10746-CHOMP07-Crocodile P7-4of6  
+7,500cells/cm2 - 10743-CHOMP07-Crocodile P7-1of6
+
+  1. 1x BioNOC was removed from each (1) flask and placed in a 24 well plate. 
+  2. Ethanol (70%) was added to each well at 15:22 (10min)
+  3. Ethanol was washed off at 15:32 with dPBS for 5 min
+  4. DAPI (1:1000) in dPBS was then added at 15:39
+  5. DAPI was then removed and a dPBS wash was performed for 5 min at 15:44
+  6. This dPBS was then removed and the wells were filled with fresh dPBS at 15:49
+
+This dPBS was later removed during imaging because the macrocarriers were
+found to move around too much in the liquid during imaging. It was also harder
+to get clear images of the macrocarriers in the liquid. The dPBS was re-added
+to the well after imaging for storage in the fridge.
+
+PFA Method: (2) flask from each seeing condition
+
+Flask IDs:  
+5,000cells/cm2 - 10745-CHOMP07-Crocodile P7-3of6  
+15,000cells/cm2 - 10747-CHOMP07-Crocodile P7-5of6  
+7,500cells/cm2 - 10744-CHOMP07-Crocodile P7-2of6
+
+  1. 2x dPBS washes were performed one after the other at 15:22
+  2. PFA was then added at 15:25 (10min)
+  3. PFA was then removed and the macrocarrier washed with dPBS for 5 min at 15:37
+  4. A second dPBS wash was then performed for 5 min at 15:40
+  5. DAPI (1:1000) in dPBS was then added at 15:44 (5min)
+  6. DAPI was then removed and a dPBS wash was performed for 5min at 15:50
+  7. This dPBS was then removed and the wells filled with fresh dPBS at 15:54
+
+This dPBS was later removed during imaging because the macrocarriers were
+found to move around too much in the liquid during imaging. It was also harder
+to get clear images of the macrocarriers in the liquid. The dPBS was re-added
+to the well after imaging for storage in the fridge.
+
+Results:
+
+  * The PFA condition did not work. Very few cells were visible in any of the conditions. Cells may have been detached from the carrier during the staining process
+  * The ethanol method worked well. Cells were very visible in all conditions. Next time I will try a simpler method with less dPBS washes to see how this compares.
+  * All seeding conditions had visible cells. However, there are very few cells visible in the 5000cells/cm2 condition, possibly due to the low seeding density or reduced cell growth as a result of this. Plenty of cells were visible in both the 7,500cells/cm2 and 15,000cells/cm2 conditions with the 15000cells/cm2 visibly having the most cells.
+  * Z-stack images were attempted but I could not locate the files afterwards. The images below are from random groups in each staining condition taken on the Axio Microscope.
+
+  
+Example images:
+
+Ethanol condition:
+
+PFA condition:
+
+  
+
+

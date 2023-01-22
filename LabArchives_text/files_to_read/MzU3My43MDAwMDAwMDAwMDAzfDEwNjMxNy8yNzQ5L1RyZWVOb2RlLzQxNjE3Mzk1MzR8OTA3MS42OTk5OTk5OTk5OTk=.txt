@@ -1,0 +1,194 @@
+  
+  
+Findings
+
+Trialled medias and/or culture conditions do not support adaption of F_DOLLY12
+cells to suspension culture.  
+After 30 days, none of the cultures had successfully produced proliferating,
+suspension adapted cells, as indicated by very low cell numbers at our final
+count (Day 29). On the final sampling day (day 29) cell numbers ranged form
+just 4,000 (pluronic) to 45,000 (high seeding) live cells per culture.
+
+Cultures containing Rock inhibitor did not retain improved cell viability
+beyond day 2 sampling.  
+At day 2 sampling, medias containing ROCK inhibitor appeared to promote cell
+survival. Unfortunately, the protective effects of ROCK inhibitor were not
+maintained throughout the experiment. At all time points beyond day 2, there
+was no noteworthy difference in live cell numbers when comparing cultures with
+or without ROCK inhibitor.
+
+The culture seeded at a higher density retained a higher proportion of its
+seeded cell number compared to the control.  
+Between days 8-22, the culture seeded with 34M cells retained a greater number
+of live cells (as a proportion of its original seeding number) compared to
+that of the control culture which was seeded with 8.5M cells.
+
+
+
+
+Limitations
+
+Subjectivity of cell counts  
+Cultures contained a large amount of cellular debris which interfered with
+automated cell counting of trypan blue stained cells. Manual counts were also
+made more challenging due to the debris. In addition to this, cellular
+morphology appears to change during suspension cell adaption with cells
+appearing less spherical and with greater variability in size. This makes it
+difficult to differentiated between live and dead cells and even between cells
+and debris. The resultant counts are therefore subjective, making the data
+obtained less reliable.
+
+Lack of replicates  
+As N=1 for each of our treatments it is not possible to perform any meaningful
+statistical analysis of our results. unfortunately, performing replicates was
+not feasible due limitations of scientist time (see next point). The lack
+replicates, coupled with the subjectivity cell counts, somewhat undermines the
+reliability of the data collected in this experiment.  
+  
+Labour intensive nature of the experimental design.  
+Our current experimental design is highly labour intensive. The average time
+taken to perform a feed + trypan blue stain and count on 4 suspension cultures
+is between 2 to 2.5 hours. The most time consuming process is cell counts,
+which are are made more difficult due to debris and unusual cell morphologies.
+
+
+
+
+Discussion
+
+Observed short term benefits of Rocki on cell viability  
+Rho-associated protein kinase (ROCK), Y-27632 inhibitors have been
+demonstrated to increase survival and proliferation of some cell types in
+suspension culture including human embryonic stem cells [1], murine salivary
+gland stem cells [2]. The addition of ROCKi Y-27632 to culture media has also
+been shown to enhance post-thaw viability of MSCs [3] and embryonic stem cells
+[4] by supressing cell apoptosis. In contrast, cord blood CD34+ cells and
+hematopoietic progenitor cells have dramatically decreased cell survival and
+proliferation in the presence of ROCKi Y-27632 [5]. These conflicting studies
+suggests that ROCKi may have varied affects depending on cell type, and cannot
+be assumed to be beneficial to cell viability. In our current study, cultures
+containing ROCKi initially showed superior cell survival (day 2), however this
+benefit was lost by our second sampling point (day 8). This indicates that
+ROCKi aids survival of F_DOLLY12 cells during the initial stages of suspension
+cell adaption but may not provide any further benefit in the longer term.
+
+Improved viability of cells at higher densities  
+Between days 8-22 the culture seeded at a high seeding density of 34M cells
+retained a higher proportion of live cells when compared to the control,
+seeded at 8.5M cells. This may indicate that cell density plays an important
+role either in cell viability or in proliferation. In this study, we
+maintained a constant media volume of 10mL regardless of cell numbers which
+may have negatively affected cell survival and proliferation. Adapting media
+volumes, or moving to smaller vessels when cell numbers decline, may
+circumvent this problem.
+
+  
+
+1\.         Watanabe, K., et al., A ROCK inhibitor permits survival of
+dissociated human embryonic stem cells. 2007\. 25(6): p. 681-686.
+
+2\.         Lee, J., S. Park, and S.J.A.o.o.b. Roh, Y-27632, a ROCK inhibitor,
+delays senescence of putative murine salivary gland stem cells in culture.
+2015\. 60(6): p. 875-882.
+
+3\.         Heng, B.C.J.T. and cell, Effect of Rho-associated kinase (ROCK)
+inhibitor Y-27632 on the post-thaw viability of cryopreserved human bone
+marrow-derived mesenchymal stem cells. 2009\. 41(5): p. 376-380.
+
+4\.         Li, X., et al., The ROCK inhibitor Y-27632 enhances the survival
+rate of human embryonic stem cells following cryopreservation. 2008\. 17(6):
+p. 1079-1086.
+
+5\.         Bueno, C., et al., The ROCK inhibitor Y-27632 negatively affects
+the expansion/survival of both fresh and cryopreserved cord blood-derived
+CD34+ hematopoietic progenitor cells. 2010\. 6(2): p. 215-223.
+
+
+
+
+Future directions
+
+As current media formulations do not appear to support F_DOLLY12 adaption to
+suspension culture, alternative medias will be investigated.  
+Katie has prepared a document listing reagents which we believe may benefit
+cellular viability and proliferation. See here:https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzU3My43MDAwMDAwMDAwMDAzfDEwNjMxNy8yNzQ5LTIwNTk0L1RyZWVOb2RlLzIwMjI3Mjk2MTN8OTA3MS42OTk5OTk5OTk5OTk=  
+
+Our next trial, which is currently already underway, will involve media
+supplementation with RGD and YIGSR integrin binding peptides. See lab book
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjUyMi4wfDEwNjMxNy8xOTQwLTE0MTc4L1RyZWVOb2RlLzE4MTk2NTUzMTR8NjQwMi4w
+
+YIGSR and RGD are well characterised peptides derived from the ECM proteins,
+laminin and fibronectin and are involved in cell adhesion to the ECM through
+integrin binding [1]. Synthetic YIGSR and RGD are commonly used to promote
+cellular attachment to biomaterials [2] however they can also be employed to
+prevent cellular adhesion in suspension cultures. When media is supplemented
+with soluble YIGSR and/or RGD, cell attachment receptors can become saturated
+and adhesion is inhibited [3, 4]. Our next suspension trial, suspension trial
+number 4, aims to asses the affects of YIGSR and RGD on F_DOLLY12 survival and
+proliferation in suspension culture.  
+  
+Adaption of media volumes with decreasing/ increasing cell numbers  
+The results of this study indicate that cell density can influence cell
+viability and/or proliferation. In future therefore, we will aim to adapt
+media volumes or culture vessel size in response to changing cell densities.
+
+Filtering of cultures during feeds and counts  
+In this trial, we did not filter cultures using a 70um cell filter as we did
+in our pilot study, see here:https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzA3LjJ8MTA2MzE3LzU0NC0yNDk0L1RyZWVOb2RlLzIxNzgwMTk2MTN8MTc5NS4xOTk5OTk5OTk5OTk4).
+The decision to skip the filtration step in this study was made due to concern
+that viable cells may have been lost from the suspension during this process.
+It is likely that some cells are lost via filtration however the large amounts
+of debris in cultures in this study made viability counts difficult. Removing
+cell aggregates and debris from the culture will simplify cell counting and
+also allow us to better select for cells that have adapted to single cell
+suspension.
+
+High throughput protocols for suspension culture trials  
+The adaption of fibroblasts to suspension is crucial to Vows mission to feed
+billions of people. Our production capacities in adherent culture are
+approaching a plateau and we will rely heavily on suspension culture to
+deliver the volume of cells needed to produce our first commercial product.
+Due to the critical need for suspension adapted cells, high throughput methods
+for media screening are required in order to hit this goal as soon as
+possible. Ideally, our future suspension culture screening experiments should
+be capable of supporting upwards of simultaneous 100 cultures, to support DOE
+style experimental designs. Discussions are already underway for the
+development of high throughput suspension trials using the Opentrons and 24
+well plates which will allow us to screen a multitude of different medias and
+growth factors simultaneously.
+
+Development of alternative data acquisition tools to assess viability of cells
+in suspension.  
+We are currently in the process of developing high throughput live/dead
+staining protocols combined with automated cell counting may help to reduce
+manual labour in future experiments. These will likely involve
+Calcein/Propidium iodide or Hoechst/Propidium iodide staining following by
+imagining and automated counting via the Zaber and Mia Capture. The cell
+counting macro is currently being optimised for use with cells in suspension.
+When we move to DOE style suspension experiments, it is hoped that the
+Opentrons can be utilised for sample selection and staining for counts. We are
+currently working with engineering to achieve this.
+
+  
+
+1\.         Boateng, S.Y., et al., RGD and YIGSR synthetic peptides facilitate
+cellular adhesion identical to that of laminin and fibronectin but alter the
+physiology of neonatal cardiac myocytes. 2005\. 288(1): p. C30-C38.
+
+2\.         Huettner, N., T.R. Dargaville, and A.J.T.i.b. Forget, Discovering
+cell-adhesion peptides in tissue engineering: beyond RGD. 2018\. 36(4): p.
+372-383.
+
+3\.         Ruoslahti, E.J.M.N.p.i.c.a.R. and i. Science, Pierschbacher.
+1987\. 238: p. 491-497.
+
+4\.         Dai, W., J. Belt, and W.M.J.B.T. Saltzman, Cell-binding peptides
+conjugated to poly (ethylene glycol) promote neural cell aggregation. 1994\.
+12(8): p. 797-801.
+
+  
+
+

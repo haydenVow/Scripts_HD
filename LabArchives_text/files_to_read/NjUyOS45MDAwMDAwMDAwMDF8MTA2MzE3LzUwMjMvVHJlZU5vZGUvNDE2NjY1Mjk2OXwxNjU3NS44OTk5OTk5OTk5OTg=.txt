@@ -1,0 +1,383 @@
+  
+  
+## Performed by: Andrew G, Avani B  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask TypeConditionGrowth Media  
+  
+  
+8935-F_CHOMP09-Crocodile P9-1of3  
+8937-F_CHOMP09-Crocodile P9-2of3  
+8939-F_CHOMP09-Crocodile P9-3of3  
+  
+  
+  
+3 x 50 mL shake tubes  
+Condition 1B  
+CD CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8940-F_CHOMP09-Crocodile P9-1of3  
+8941-F_CHOMP09-Crocodile P9-2of3  
+8942-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 2C  
+RPMI1640 + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8943-F_CHOMP09-Crocodile P9-1of3  
+8944-F_CHOMP09-Crocodile P9-2of3  
+8945-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 3D  
+CDM4 CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8946-F_CHOMP09-Crocodile P9-1of3  
+8947-F_CHOMP09-Crocodile P9-2of3  
+8948-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 4E  
+CDM4 Avian + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8949-F_CHOMP09-Crocodile P9-1of3  
+8950-F_CHOMP09-Crocodile P9-2of3  
+8960-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 5F  
+Hycell CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8955-F_CHOMP09-Crocodile P9-1of3  
+8959-F_CHOMP09-Crocodile P9-2of3  
+8957-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 6G  
+Actipro + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8958-F_CHOMP09-Crocodile P9-1of3  
+8956-F_CHOMP09-Crocodile P9-2of3  
+8951-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Condition 7H  
+CDM4HEK293+ 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8952-F_CHOMP09-Crocodile P9-1of3  
+8954-F_CHOMP09-Crocodile P9-2of3  
+8953-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+Negative control - 75% FeedA  
+DMEM/F12 + 20% FBS + 1x P/S  
+  
+8962-F_DOLLY12-Sheep P9-1of3  
+8963-F_DOLLY12-Sheep P9-2of3  
+8964-F_DOLLY12-Sheep P9-3of3  
+3 x 50 mL shake tubes  
+  
+Positive control - 75% FeedB  
+CD CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+  
+8965-F_DOLLY12-Sheep P9-1of3  
+8966-F_DOLLY12-Sheep P9-2of3  
+8967-F_DOLLY12-Sheep P9-3of3  
+3 x 50 mL shake tubes  
+  
+Positive control - 100% FeedB  
+CD CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media A: DMEM/F12 + 20% FBS + 1x P/S  
+  
+  
+Growth Media B: CD CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax +
+1x P/SM8145  
+  
+Growth Media C: RPMI1640 + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax
++ 1x P/SM8146  
+  
+Growth Media D: CDM4 CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax
++ 1x P/SM8147  
+  
+Growth Media E: CDM4 Avian + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1%
+Glutamax + 1x P/SM8148  
+  
+Growth Media F: Hycell CHO + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1%
+Glutamax + 1x P/SM8149  
+  
+Growth Media G: Actipro + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax
++ 1x P/SM8150  
+  
+Growth Media H: CDM4HEK293+ 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1%
+Glutamax + 1x P/SM8151  
+  
+Chemically defined lipid concentrateS3200  
+  
+PDGFM7680  
+  
+IGFM7681  
+  
+FGFM5077  
+  
+RGDM5606  
+  
+YIGSRM5580  
+  
+  
+  
+
+
+
+
+### Prepared and aliquotted media
+
+  1. Prepared the following media to be used for feeding (NOTE: the lipid concentrate, PDGF, IGF, FGF, RGD and YIGSR can be made up in a "bullet" and then added to each aliquot where required):
+
+ConditionCells  
+Number of 50 mL bioreactor tubes  
+Volume of medium required for aliquot (mL)Starting mediumChemically Defined
+Lipid Concentrate (mL)PDGFIGFFGFRGD  
+YIGSR  
+  
+Negative control 75% feed  
+F_CHOMP09  
+3  
+12  
+A0  
+0  
+0  
+0  
+0  
+0  
+  
+Negative control 100% feed  
+F_CHOMP09  
+3  
+16  
+A  
+0  
+0  
+0  
+0  
+0  
+0  
+  
+Positive controls 75% feed  
+F_DOLLY12  
+3  
+12  
+B0.12100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+Positive controls 100% feed  
+F_DOLLY12  
+3  
+16  
+B  
+0.16100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+1F_CHOMP09  
+3  
+12B0.12100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+2F_CHOMP09  
+3  
+12C0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+3F_CHOMP09  
+3  
+12D0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+4F_CHOMP09  
+3  
+12E0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+5F_CHOMP09  
+3  
+12F0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+6F_CHOMP09  
+3  
+12G0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+7  
+F_CHOMP09  
+3  
+12  
+H  
+0.12  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+100 ng/mL  
+  
+  
+2\. Bullet composition. Added 308 uL of bullet to each 12 mL aliquot (75% feed
+positive control, condition 1, 2, 3, 4, 5, 6, 7). Added 387 uL of bullet to 16
+mL media B aliquot (positive control, 100% feed)
+
+Chemically defined lipid concentrate (uL)  
+PDGF (uL)  
+IGF (uL)  
+FGF (uL)  
+RGD (uL)  
+YIGSR (uL)  
+  
+1200  
+1200  
+240  
+240  
+3.45  
+20.25  
+  
+  
+  
+  
+Placed in water bath 13 : 54  
+
+
+
+
+Opentron protocol (Cannot attach file to Labarchives)
+
+Filename = 2021_11_08_TT_AG_30x50mLTube_75%Feed_Triplicate_V1.json  
+https://www.notion.so/vow/0fbbbc3318964ba89e0f0f674db08e1d?v=25e54cd818ac4f1e825d761578bb8a8f
+
+
+
+
+Process:
+
+  * Prepared stain buffer in 15 mL amber or black tube by combining the following:
+  * 4 mL of dPBS 
+  * 16 drops of NucBlue Live Cell Stain Readyflow Hoechst 33342
+  * 4 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+    * Vortex mix for ~5 seconds, then stored in dark until ready to use  
+
+50 mL shake tubes
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected shake tubes from shaker 
+  3. Centrifuged at 300 x g for 5 min
+    1. Timestamp 
+      1. 14:13 - 14:18
+      2. 14:23 - 14:28
+  4. While tubes were centrifuging, loaded protocol linked below (added protocol as attachment) on computer next to OT2 and set up deck as described at calibration step
+  5. Ethanol-sprayed  shake tubes and loaded on OT2
+  6. Collected media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquot deck positions matched up with intended feed tube positions. 
+  7. Calibrated the pipet head
+  8. Ran protocol  
+    1.  Start time 3:23:47 PM
+    2.  End time 4:44 PM  
+
+    3. Total run time: 1:21:01
+  9. Replaced caps and returned vessels to incubator 15:23     
+Incubator (#), Lab [Main/Library/Production]
+
+  10. Stained samples with equal volume of stain buffer (50% sample dilutions) 15:04
+  11. Incubated for 30 minutes in the dark at room temperature 
+  12. Made 25% and 12.5% dilutions of the sample in dPBS 17: 36  
+
+  13. Centrifuged plates at 300 RCF for 1 minute  17:54
+  14. Plate map of culture IDs in 96-WP for imaging
+
+Plate 1  
+ID 9078  
+
+Plate Map
+https://docs.google.com/spreadsheets/d/1ayN7HSGHF13GGPzy7wlwtZEHnID2es-
+aTt0sK0-fDSU/edit#gid=2059666874
+
+MIA link https://mia-capture.vow.tools/#/session/recMhiKdMi494LSOn/images  
+
+  
+
+Plate 2  
+ID 9079  
+
+Plate Map
+https://docs.google.com/spreadsheets/d/1hfI7bP0te_KPDVWabZJlM4Q8xL_1XZpwI99TpiZbEvw/edit#gid=2081789613  
+MIA link https://mia-capture.vow.tools/#/session/rec1MTL2BSQXZZ5t3/images  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary: None  
+
+  
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+  
+
+  
+
+Zaber observations/issues:  
+
+Noticed strange particulate/non resuspended cell pellet? in both culture tubes
+and imaging plates. Fibrous in appearance and stained positive for DAPI, with
+what appears to be single nuclei. Attempted to resuspend sample that was on
+imaging plate with P200, did not seem to break it apart.
+
+  
+
+

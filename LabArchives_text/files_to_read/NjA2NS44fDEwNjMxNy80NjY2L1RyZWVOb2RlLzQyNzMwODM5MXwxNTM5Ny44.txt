@@ -1,0 +1,87 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+To generate 384-well plate phase contrast images of fibroblast cells to assess
+if the in-house ML model or FIJI macros can accurately count cells in
+suspension.
+
+
+Hypothesis
+
+
+Phase contrast images of DOLLY12 fibroblast cells in suspension will be able
+to be accurately counting using either a modified ML model or newly developed
+FIJI macro.
+
+
+Technical Gap
+
+
+The current ML model used to quantify cell numbers from Zaber imaged cultures
+has been optimised for adherent cells. Unfortunately cells grown in suspension
+exhibit a much more circular morphology compared to adherent cells and as such
+the ML model will be unable to quantify cell numbers from suspension cultures.
+
+
+Method/Procedure
+
+
+1\. Thaw a fresh vial of DOLLY12 fibroblast cells (WCB vial at 1M cells per
+vial)
+
+2\. Prepare stain buffer in 15 mL tube by combining the following (2 drops
+Hoechst per mL of dPBS):
+
+  * 4 mL of filtered dPBS (filtered to remove debris)
+  * 8 drops of Live Cell Stain ReadyFlow Hoechst 33342 
+
+3\. Resuspend the cells in 500 uL of fresh growth media (DMEM/F12 + 10% FBS +
+1X P/S) and take a 10uL sample to obtain a cell count.
+
+4\. Take 100 uL (100,000 cells) of the cell resuspension and dilute in 30 mL
+of growth media. This will give a concentration of 3,333 cells per mL.
+
+5\. Dilute the cell suspension aliquot in the appropriate volume of growth
+media such that the cell concentrations below can be reached (Note that this
+will also depend on the cell count obtained in step 2):
+
+    * Cell suspension at conc 400 cells/mL will provide 10 cells per well - add 8.3 mL of growth media to 1mL of cell suspension to obtain a 400 cells/mL concentrate
+    * Cell suspension at conc 800 cells/mL will provide 20 cells per well - add 4.15 mL of growth media to 1mL of cell suspension to obtain a 800 cells/mL concentrate
+    * Cell suspension at conc 1600 cells/mL will provide 40 cells per well - add 2.075 mL of growth media to 1mL of cell suspension to obtain a 1600 cells/mL concentrate 
+    * Cell suspension at conc 3200 cells/mL will provide 80 cells per well - add 1.0375 mL of growth media to 1mL of cell suspension to obtain a 3200 cells/mL concentrate 
+
+6\. Add 15 uL of each of the diluted cultures into a separate column of the
+384 well plate, see below:
+
+7\. Immediately after seeding the final culture condition add 10 uL of Hoechst
+33342 ReadyFlow staining solution to each culture well of the 384-well plate.
+
+8\. Incubate for 30 minutes at room temperature in the dark. During the 30
+minute incubation periodically observe the cells to check for cell attachment
+
+9\. Centrifuge the plate at 650 x g for 1 minute
+
+10\. Image the entire 384 well plate on both Phase contrast and DAPI imaging
+channels.
+
+  
+
+  
+
+Post image acquisition
+
+1\. Initially assess if a human observer can distinguish cells that are
+suspended in the growth media solution and can be discerned from the
+background and any debris that may be present. If so proceed to 2.
+
+2\. Manually label images of suspended cells to train the ML model on
+identifying cells in suspension. Alternatively, if possible try to develop a
+macro code in FIJI that could function in a similar manner to the ML model
+based on the features of the cells, i.e. size, circularity, edges, etc.  
+
+

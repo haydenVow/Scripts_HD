@@ -1,0 +1,103 @@
+
+
+## Completed by: Chris
+
+
+
+
+The background for this continuing project has been described in previous
+quarters Q2 and Q3 and is applicable for this quarter as well. We are also
+revisiting the suitability of Alginate as a gel matrix this quarter, following
+some guidance that we may have previously worked at insufficient cell seeding
+densities to achieve differentiation of myoblasts in this matrix. Additional
+backgound on alginate see below.
+
+ Q4 efforts will focus on:
+
+  1. Improving and scaling the design of the m-stim inserts (e.g. anchor point inserts scale to a pin array?)
+  2. Improving the analysis of mature muscle harvested from the inserts by using Bradford or new methodologies
+  3. using a scalable m-stim system such as compressible hydrogels to actively exercise muscle
+
+
+
+
+## Additional background on Alginate hydrogels
+
+Alginate for cell encapsulation and muscle tissue engineering
+
+The naturally occurring polysaccharide alginate has been widely used in
+biomedical applications because of its non-antigenicity, good
+biocompatibility, and reasonable biodegradability. An additional attribute of
+alginate, is that in the presence of divalent cations (Ca2+), it can be
+ionically crosslinked in an manner which is mild, cell compatible, easy to
+apply and cost-effect. As a result alginate has been popularly employed as a
+drug-delivery system, a cell carrier, and a cell-laden bioink in a 3D
+bioprinting (Ahn, Lee, Bonassar, & Kim, 2012).
+
+Furthermore, owing to the processability of alginate, alginate scaffolds can
+be readily processed into various morphologies including microspheres, 3D
+sponges, nanofibers, and microscale cell-laden struts. Consequently, alginate-
+based materials have already been applied in numerous tissue-engineering
+applications e.g., skin, cartilage, and bone (Kim, Ahn, Kim, Cho, & Chun,
+2011; Markstedt et al., 2015; Wang, Xia et al., 2015).
+
+An additional benefit of alginate, for the purposes of clean meat engineering,
+is the biocompatibility and edibility of this material type. Wherein, sodium
+alginate derived from brown algae or seaweed such as kelp is already an
+accepted food product, present as an emulsifier in products such as ice cream,
+salad dressing, fruit juice, and yoghurt. In addition, the commonly employed
+alginate cross-linker 'calcium chloride' is used as an additive in the food
+industry; as a way of enhancing the salty taste of food products such as
+pickles without increasing their sodium content.
+
+Thus, due to it's known biocompatibility and processability alginate hydrogels
+represent a promising material candidate for investigation for cellular
+agriculture using MuSCs. Despite this, limited literature can be found on
+alginate for the application of tissue engineering for clean meat production
+(an occurrence which is likely due to both the novelty and the industrial
+nature of this research area). Consequently, relevant information on alginate
+in combination with muscle cells should be sourced from biomedical research,
+including the following literature:
+
+Muscle tissue engineering using gingival mesenchymal stem cells encapsulated
+in alginate hydrogels containing multiple growth factors, Ansari et al., 2017
+(DOI: 10.1007/s10439-016-1594-6)
+
+In brief, Ansari et al., demonstrated that an RGD coupled alginate hydrogel
+encapsulation system supported the viability of gingival mesenchymal stem
+cells (GMSCs) and their myogenic differentiation capacity. In terms of
+differentiation, it was found that alginate hydrogels with an elasticity
+between 10 and 16 kPa, in comparison to softer (<5kPa) or stiffer (>20kPa)
+hydrogels, demonstrated the highest capacity for myogenic differentiation as
+evidenced by an upregulation of myogenic genes, including myogenin, MyoD, and
+Myf5 GMSCs. With a higher expression than that of encapsulated human bone
+marrow mesenchymal stem cells (hBMMSCs), which were stated as the gold
+standard of MSC therapy.
+
+Thus, the elasticity of the alginate hydrogel in the experiments by Ansari et
+al., was shown to control the myogenic fate of the encapsulated cells.
+Subsequently, when we test alginate with our MuSCs at Vow, we should consider
+a range of alginate moduli, by adjusting factors such as cross-linker
+concentration, crosslinking time and/or polymer concentration, as this will
+likely influence the behavior of our cells, as well as their capability for
+myogenesis.
+
+Moreover, Ansari et al., showed that their alginate hydrogels possess a porous
+microstructure 16 , which is an attribute that enables the diffusion of
+oxygen, nutrients and growth factors to the encapsulated cells. Thus, it was
+stated that alginate with an optimised matrix elasticity of 10-16 kPa presents
+a highly suitable scaffold biomaterial for muscle tissue engineering.
+
+Hydrogels for Skeletal Muscle Regeneration (DOI: 10.1007/s40883-019-00146-x)
+
+Nano/microscale topographically designed alginate/PCL scaffolds for inducing
+myoblast alignment and myogenic differentiation (DOI:
+10.1016/j.carbpol.2019.115041)
+
+Synthesis of Injectable Alginate Hydrogels with Muscle-Derived Stem Cells for
+Potential Myocardial Infarction Repair (https://doi.org/10.3390/app7030252)
+
+Functional 3D Tissue Engineering Scaffolds: Materials (books.google.com.au)
+Ying Deng, Jordan Kuiper * 2017
+
+

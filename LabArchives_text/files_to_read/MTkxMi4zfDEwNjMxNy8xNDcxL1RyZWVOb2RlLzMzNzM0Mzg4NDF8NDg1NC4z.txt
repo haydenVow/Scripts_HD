@@ -1,0 +1,111 @@
+Background information on fibroblasts in suspension culture
+
+
+There is extensive information around adapting fibroblasts to suspension in
+the previous background sections, linked here:
+
+1\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTgyLjB8MTA2MzE3LzE0MC0xNDU2L1RyZWVOb2RlLzUwNjQzODMzNnw0NjIuMA==  
+  
+2\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTE4OS41fDEwNjMxNy85MTUtNTY1My9UcmVlTm9kZS8zMjc4NTU0NDQ5fDMwMTkuNQ==  
+  
+So far, we have not successfully adapted fibroblasts to suspension culture.
+
+We have made attempts using at least 10 million cells seeded into DMEM/F12 +
+20% FBS + 1x PS. In some instances, we have included revita cell or anti-
+clumping agent to attempt to encourage a single cell suspension. Anti-clumping
+agent is a solution used commonly in pharmaceutical production with suspension
+cells (usually CHO cells, Chinese Hamster Ovary cells) to minimise clumping of
+cells and encourage single cell suspension. Given CHO cells are a commonly
+used immortalised cell line, anti-clumping agent may not act on primary
+fibroblasts in the same manner as these immortalised ovary cells. Revita cell
+contains a ROCK inhibitor. ROCK inhibition has been shown to prevent apoptosis
+and support cell survival during the expansion. Inhibition of ROCK has
+successfully been used in adapting embryonic stem cells to single cell
+suspension. As with the CHO cells, it is worth noting that because embryonic
+stem cells are a different cell line to primary fibroblasts, the mechanism of
+ROCK inhibition may not have an identical impact on primary fibroblasts.  
+  
+The experiment determining whether anti-clumping agent or revita cell allow
+for adaptation of fibroblasts to suspension culture is still on going.
+However, we would like to kick off an additional experiment aimed at achieving
+suspension culture in advance of that experiment completing, as it will take
+approximately 30 days to achieve adaption.  
+
+
+
+
+For this next series of experiments, we want to test the impact of p53
+inhibitors histone dehydrogenase 1 & 2 (HDAC1, HDAC2). These regulatory
+proteins modulate p53 transcriptional activities through regulation of p53-DNA
+binding activity (like most histone dehydrogenases) [1, 2]. These
+dehydrogenases are over-expressed in many cancer types; perhaps over-
+expression will encourage development of an immortalised cell line. In
+addition, under-expression of these dehydrogenases is linked to senescence and
+cell cycle arrest; given that we are losing large numbers of cells during the
+adaption to suspension process, perhaps including HDAC1 & HDAC2 in our
+suspension media will encourage ongoing proliferation and growth.
+
+It is also interesting to note that some authors suggest adapting cells to ACF
+media prior to adapting cells to suspension [3]. We are currently pursuing an
+ACF media formulation for primary fibroblast growth; perhaps this will need to
+fall into place before we can achieve fibroblasts in suspension.
+
+We have also ordered the YIGSR and RGD peptides for testing in our suspension
+cultures. These peptides should bind fibroblast integrins. RGD is a peptide
+motif made up of arginine-glycine-aspartate, and mimics fibronectin binding
+almost identically. YIGSR is a different protein motif which mimics laminin
+binding almost identically [4]. As an adherent cell type, fibroblasts
+typically bind the plastic of a cell culture flask by their integrins.
+Integrin binding facilitates important fibroblast biology associated with cell
+growth. To allow those signalling cascades to continue to signal and hopefully
+improve fibroblast growth in suspension culture, we can incorporate integrin
+binding proteins like the YIGSR and RGD peptides into our media. These
+peptides will arrive before the histone dehydrogenases, which will take 2-3
+weeks to arrive from the US. Thus, this initial experiment will likely be
+focused on the YIGSR and RGD peptides.  
+  
+RGD-conjugated PDMS surfaces promote the adhesion, proliferation, and collagen
+production of human skin fibroblasts [5]. Varying concentrations of RGD
+peptides also alters fibroblast phenotype and expression of extracellular
+matrix genes including collagen. Concentrations between 0.01mM and 1mM were
+assessed, with higher RGD concentrations leading to increased expression of
+extracellular matrix genes [6]. Something within this order of magnitude is
+likely a good place to start for incorporation of RGD into suspension media.
+
+In contrast to varying concentrations of RGD, varying concentrations of YIGSR
+did not alter fibroblast migration [7], though fibroblasts did adhere to and
+survive well in the presence of YIGSR. A YIGSR concentration of 2.1 pmol/cm2,
+grafted on glass, has been successfully used for the adherence of fibroblasts
+[8]. Something within this order of magnitude is likely a good place to start
+for incorporation of YIGSR into suspension media.
+
+Tharmalingam et al (2008) used Pluronic-F68 (Poloxamer 188) in suspension
+culture with CHO cells and found that 0.1-0.2% solutions enhanced cell growth
+under agitation conditions and reduced cell adhesion in static cultures [9].
+They also noted that Pluronic F-68 may be detrimental to some cell lines and
+that the minimum concentration will need to be determined for each cell line,
+which we will need to take into consideration. The concentrations that were
+effective for them were between 0.1-0.2% (10g/L = 1%).
+
+1\.
+https://cancerres.aacrjournals.org/content/67/7/3145?ijkey=7d8861582c0d32efcf6ece39b053a7aae788565f&keytype2=tf_ipsecsha  
+2\. https://pubmed.ncbi.nlm.nih.gov/25072962/
+
+3\. https://link.springer.com/protocol/10.1007%2F978-1-4939-7312-5_6
+
+4\. https://pubmed.ncbi.nlm.nih.gov/15371257/
+
+5\. https://pubmed.ncbi.nlm.nih.gov/16948145/
+
+6\. https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.a.35456?saml_referrer
+
+7\. https://pubmed.ncbi.nlm.nih.gov/31302351/
+
+8\.
+https://www.sciencedirect.com/science/article/abs/pii/000326979090459M?via%3Dihub
+
+9. https://sci-hub.se/10.1007/s12033-008-9045-8
+
+

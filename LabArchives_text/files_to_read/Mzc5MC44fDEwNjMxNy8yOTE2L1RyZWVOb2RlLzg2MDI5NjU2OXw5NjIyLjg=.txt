@@ -1,0 +1,105 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+## Performed by:  TT  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM) + 2 g/L P188 + 30 uL/L Antifoam C
+
+Total media required: 500 mL
+
+Total p38i required: Already added
+
+Total bFGF required: Not required
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+E2000  
+7343  
+  
+E2000  
+7344  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   500 mL  mL of  Growth Media into  2 x 250 mL bottles. Placed
+in water bath    15:10  
+
+2\. Stopped the shaker and removed cultures from the incubator before
+restarting the shaker   16:40  
+
+3\. Placed suspension flask(s) inside the BSC and allowed to sit static for
+3-5 minutes to allow microcarriers to settle to the base of the flask.
+
+2\. Carefully removed  50  % of supernatant from the flask(s) by pipetting
+slowly and following the meniscus with the pipette tip so as to avoid placing
+the pipette tip near the microcarriers at the base of the flask(s).
+
+3\. Replaced with  250 mL (per vessel) of  Growth media.
+
+4\. Returned vessel to incubate at:    16:55  , incubator #  81  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+### Observations/Summary:
+
+50 % media changed on vessel(s)
+
+  1. 7343
+  2. 7344
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth MediaM6148 (Fridge 74 under bioreactor bench)  
+500  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

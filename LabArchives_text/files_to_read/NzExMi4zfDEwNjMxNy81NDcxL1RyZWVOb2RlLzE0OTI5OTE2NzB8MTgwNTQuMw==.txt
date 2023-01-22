@@ -1,0 +1,284 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Avani B, Marie G, Varshana B  
+
+
+
+
+Passage Culture IDs
+
+Vial IDVial location  
+(tower, box, position)Seeded Flask ID(s)Seeded Flask TypeCells per
+vesselGrowth media  
+  
+F_DOLLY12 WCB
+
+10M cells/vial:
+
+3220-Culture-7346-Vial-9of60
+
+3221-Culture-7346-Vial-10of60
+
+3222-Culture-7346-Vial-11of60
+
+5M cells/vial:
+
+3152-Culture-7346-Vial-2of60
+
+2.5M cells/vial:  
+3149-Culture-7346-Vial-37of38  
+
+Brew
+
+  
+
+4    6    E7
+
+4    6    E8
+
+4    6    E9
+
+  
+
+4    5    G3
+
+  
+4    5    G1  
+9097-F_DOLLY12-Sheep P8-1of1  
+2CF  
+21 MD/F + 10% FBS  \+ 1x P/S  
+9098-F_DOLLY12-Sheep P8-1of1  
+2CF15 M  
+F_CHOMP09 WCB  
+10M cells/vial:  
+
+ ~~3523-Culture-8616-Vial-3of50~~
+
+3524-Culture-8616-Vial-4of50
+
+3525-Culture-8616-Vial-5of50
+
+3526-Culture-8616-Vial-6of50
+
+3527-Culture-8616-Vial-7of50
+
+3528-Culture-8616-Vial-8of50
+
+3529-Culture-8616-Vial-9of50
+
+3530-Culture-8616-Vial-10of50
+
+3531-Culture-8616-Vial-11of50
+
+5M cells/vial:  
+3569-Culture-8616-Vial-1of40  
+  
+2.5M cells/vial:  
+3615-Culture-8616-Vial-5of23  
+
+Brew
+
+ ~~5     4    A3~~
+
+5    4    A4
+
+5    4    A5
+
+5    4    A6
+
+5    4    A7
+
+5    4    A8
+
+5    4    A9
+
+5    4    B1
+
+5    4    B2
+
+  
+
+5    4    F4  
+  
+  
+5    5    B5  
+
+9099-F_CHOMP09-Crocodile P8-1of1
+
+9100-F_CHOMP09-Crocodile P8-1of1
+
+  
+2x 2CF21 MD/F + 20% FBS  \+ 1x P/S  
+  
+  
+9101-F_CHOMP09-Crocodile P8-1of1
+
+9102-F_CHOMP09-Crocodile P8-1of1
+
+9103-F_CHOMP09-Crocodile P8-1of1
+
+3x 2CF15 M
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+D/F + 10% FBS + 1x P/Sm8245  
+  
+D/F + 20% FBS + 1x P/Sm8248, m8249, m8154  
+  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Made the following aliquots:
+
+  * 3 mL D/F + 10% FBS + 1x P/S for resuspending DOLLY cells
+  * 600 mL D/F+ 10% FBS + 1x P/S for seeding DOLLY cells
+  * 300 ml D/F + 10% FBS + 1x P/S for seeding DOLLY12 cells
+  * 5.5 mL D/F + 20% FBS + 1x P/S for resuspending CHOMP cells
+  * 1200 mL D/F + 20% FBS + 1x P/S for seeding CHOMP cells
+  * 900 mL D/F + 20% FBS + 1x P/S for seeding CHOMP cells
+
+2\. Warmed growth media for CHOMP (containing 20% FBS) at 30 degrees C   15:59  
+
+3\. Warmed growth media for DOLLY12 at 37 degrees C:   15:51 a/pm
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovials (see table above) from Liquid Nitrogen storage &
+place in foam floater in water bath for 5 min
+
+CHOMP09   16:42 - 16:47
+
+DOLLY12  17:10 - 17:15  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Transfer all the 1 mL of cell suspension from CHOMP cells into 2x 50 mL
+tubes containing growth media. Top up tubes to 50 mL. `
+
+`Transfer all the 1mL cell suspension from DOLLY cells in 1x 50 mL tube
+containing growth media. Top up tube to 50 mL.`
+
+`Centrifuge all tubes at 650 g for 5 min. `` 17:22 - 17:27``  
+`
+
+`Remove supernatant.`
+
+`Combine cells from both CHOMP `tubes and resuspend cells in 20 mL total of
+growth media.
+
+Resuspend DOLLY cells in 10 mL of growth media.
+
+`7. For each cell line, take a 10uL sample for counting. Stain with trypan
+blue. Perform a cell count using a haemocytometer`
+
+````
+
+`DOLLY12 total cells:`` 25 M`
+
+`CHOMP09 total cells:  ``63.2 M`
+
+``````
+
+`8. Transferred cells into 2CFs with 300mL per 2CF as indicated in table
+above. To do this, prepare 7x cell suspensions as follows:`
+
+  * `21 M DOLLY cells in 300 mL media ```
+  * `15 M DOLLY cells in 300 mL media  `
+  * `21 M CHOMP cells in 300 mL media`
+  * `21 M CHOMP cells in 300 mL media```
+  * `15 M CHOMP cells in 300 mL media  `
+  * `15 M CHOMP cells in 300 mL media`
+  * `15 M CHOMP cells in 300 mL media````````  
+`
+
+```The cell counts from the haemocytometer were lower than the cell counts on
+airtable, although a slight decrease is expected from the thawing process. The
+amount of cell suspension needed to seed the 2CFs was calculated as follows:`
+
+volume of cell suspension required = cells required / total cells number
+thawed based on airtable * volume that cells were resuspended in
+
+`21 M DOLLY cells = 21 M / 37 M * 10 mL```  
+
+`21 M DOLLY cells = 5.7 mL`
+
+  
+
+`15` M DOLLY cells = 15 M / 37 M * 10 mL``
+
+`15 M DOLLY cells = 4.1 mL`
+
+  
+
+`21 M CHOMP cells = 21 M / 87 M * 20 mL`
+
+21 M CHOMP cells = 4.8 mL
+
+  
+
+`15 M CHOMP cells = 15 M / 87 M * 20 mL`
+
+15 M CHOMP cells = 3.4 mL
+
+  
+
+`9. Transferred flask/plate(s) to incubate at: 18:45`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) #77
+  * [X]  30ºC, 5% CO2 (reptilian cells) #78
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Ensure you include the number of cells in each vessel in the notes section.
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed 37 M F_DOLLY12 cells and 87 M F_CHOMP09 cells into 2CFs.
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

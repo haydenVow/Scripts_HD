@@ -1,0 +1,145 @@
+Brief Background
+
+
+Previously we attempted to grow cells on microcarriers in serum free media
+formulations using E125 flasks ( see the following experiment https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODUyLjgwMDAwMDAwMDAwMDF8MTA2MzE3LzY1Ni9UcmVlTm9kZS8yODMyMzI2NzYwfDIxNjQuNzk5OTk5OTk5OTk5Nw==)  
+  
+During this experiment we identified that none of our ACF media formulations
+tested allowed the cells to proliferate in microcarrier suspension relative to
+the serum control. We also found that the E125 flask format would not be
+suitable for higher throughput testing of serum free media formulations since
+these flasks require significant cell requirements for seeding (2.7-3 x10^6
+cells) and large volumes of serum free media (30mL per flask). To improve our
+throughput in testing ACF media conditions with microcarrier suspension
+cultures we decided to try and scale down our culture sizes to 50mL spin
+tubes. In this experiment we wanted to determine whether culturing cells in
+smaller vessels (50mL spin tubes) would yield the same growth trends we have
+observed when growing cells in E125 flasks.  
+  
+To do this we grew 6 suspension cultures over 6 days.
+
+  * 3x 50mL spin tubes with 10mL working volumes shaking at 250rpm. 
+  * 3x E125 flasks with 30mL working volumes shaking at 120rpm.
+
+The following variables were kept constant between all cultures.
+
+  * Cytodex 1 microcarrier densities in each flask were 4.5mg/mL
+  * DOLLY12 cells were seeded into each vessel at a concentration of 3.5 cells per microcarrier. 
+  * Cultures were seeded using continuous shaking once cells were added. 
+  * Cultures were grown in DMEM/F12 + 20% FBS + 1xP/S + 10uM p38i 
+  * Each culture was given a 50% media change every 48 hours after seeding. 
+
+Cultures were sampled and stained using Hoechst 33342 at various time points
+during the experiment, these stained carriers were imaged using our Zaber and
+the images were processed using FIJI to obtain cell estimates per carrier.
+
+
+Key Results
+
+
+  
+  
+
+
+
+Figure 1: DOLLY12 Expansion on cytodex 1 microcarriers in E125 flasks vs 50mL
+shake tubes. Microcarriers were removed from each vessel (n=130-201) at
+various times after seeding, stained with Hoechst 33342, imaged and quantified
+using FIJI. Outliers were removed using Rout's method (Q = 1%) and average
+values were determined for each flask type (n=3). A two way ANOVA with
+multiple comparisons was performed showing a significant interaction between
+time and vessel type on cell number at Day 6 of proliferation only (***, P =
+0.0008).
+
+Figure 2: Average dead cells on microcarriers in E125 vs 50mL shake tubes.
+Microcarriers were removed from each vessel after 7 days in culture (n=24-41),
+stained with PI (1mg/mL), imaged and quantified using FIJI. Outliers were
+removed using Rout's method (Q = 1%) and average counts for each flask type
+were determined (n=3). An unpaired T test was performed and no statistical
+significance was found in cell death between vessel types.  
+
+
+
+Figure 3: Cell morphology present on a cytodex 1 microcarrier in a 50mL shake
+tube 24h after seeding.
+
+ Figure 4: Cell morphology present on a cytodex 1 microcarrier in an E125
+flask 24h after seeding.
+
+  
+
+  
+
+Key results from this experiment:
+
+  * DOLLY12 Cell morphology on microcarriers differed significantly when grown in 50mL spin tubes vs E125 flasks.
+  * Cell death was higher on microcarriers in 50mL spin tube cultures compared to E125 cultures though this was not significant. 
+  * Vessel type had no interaction on cell number before Day 6 of proliferation. 
+  * Time had a significant impact on cell number in all cultures regardless of vessel type. 
+  * There was a significant interaction between time vessel type on cell number only at Day 6 of proliferation. 
+
+  
+
+  
+
+  
+
+
+Discussion
+
+
+In order for us to be able to rapidly optimize our serum free media
+formulations for suspension cultures containing different species or cell
+types we will require a low cost, high throughput culturing pipeline. This
+experiment was our first step towards obtaining this pipeline as we attempted
+to reduce the size of our suspension cultures without introducing variability
+in growth trends when compared to our gold standard E125 flask culturing
+practices. The results of this experiment showed us that DOLLY12 cells were
+indeed able to grow on cytodex 1 microcarriers in the 50mL shake tubes over 5
+days with a growth trend that was similar to our E125 flasks.
+
+However we also noted that there was a noticeable difference in cell
+morphology on cytodex 1 microcarriers in the shake tubes vs the E125 flasks
+from Day 1 though to Day 6 of culture (see figures 3 and 4). By Day 6 the
+growth trends were no longer aligned, with a significant difference in cell
+number per carrier identified between groups (Figure 1). Coupled with the
+significant differences in cell morphology observed between the two vessel
+types we decided to investigate whether there was higher incidence in cell
+death in the 50mL shake tubes which may account for this difference in cell
+number by Day 6. PI staining showed that there was a slightly higher increase
+in dead cells present on microcarriers in the 50mL shake tubes however this
+difference was not significant when compared with carriers from the E125
+group. As no Hoechst 33342 staining was done on Day 7 it was impossible to
+determine what percentage of cells present on microcarriers in each group were
+PI+.
+
+
+
+
+Conclusion
+
+
+Our goal in this study was to scale down our suspension cultures while keeping
+cell behaviour consistent with what has been witnessed in E flask cultures. We
+were able to obtain similarities in growth trends between vessel types for the
+first 5 days of culture. However the significant difference in cell morphology
+and elevated cell death seen in 50mL shake tubes after 6 days of culturing
+seen on carriers in each vessel type remains a concern. We cannot be certain
+that DOLLY12 cell behave similarly in 50mL shake tubes as they do in E125
+vessels.
+
+
+Future Directions
+
+
+We should replicate the growth trends we observed over the first 5 days and
+investigate whether we can improve cell morphology to align with what is seen
+in our gold standard E flask cultures. Both of these steps will give us
+greater confidence in applying any learnings from the 50mL shake tube cultures
+to larger suspension cultures.  
+  
+A new experiment has been kicked off to address these concerns (https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjU0Mi44fDEwNjMxNy8xOTU2L1RyZWVOb2RlLzMzNTYyMjMwNDB8NjQ1NC43OTk5OTk5OTk5OTk=)
+
+

@@ -1,0 +1,163 @@
+
+
+Project Lead: Chris O'Keeffe
+
+Strategic Second: Tom Tarento
+
+Primary Team: Kylie, Jared, Stan
+
+Additional Support:
+
+Desired outcome: Move the differentiation and maturation process into a
+scalable vessel and increase total protein yield ten-fold
+
+  
+
+Goal: To produce two scalable prototype reactors and identify at least two new
+factors that promote fusion and myotube growth to double total protein yield
+
+Milestone 1 (April):
+
+  1. Decide on the 2 most promising factors that promote fusion or maturation
+  2. Keep cells alive in a v1 reactor prototype with 10x the surface area of a current science experiment (~100 cm2)
+
+Milestone 2 (May):
+
+  1. Measure maturation baseline in current RnD format and v1 prototype
+  2. Build a v2 reactor that includes perfusion (media exchange) and improves fusion or maturation
+
+Milestone 3 (June):
+
+  1. Implement electrical stimulation or other promising factor and assess impact on fusion/maturation
+  2. Deploy latest version bioreactor into production
+
+  
+
+
+
+
+# Current prototype highlights (v2b aka WASHe)
+
+# Features: fully enclosed system (gap to be parafilmed or sealed after
+loading) with gas exchange and 2 additional ports for media exchange, self-
+contained (waterbath with sous vide and gas perfusion) with pH and DO probes
+(during testing)
+
+main material: glass with steel lid
+
+lid: yes, with 2 ports for sensors, 2 ports for media in/out, 2 ports for gas
+in/out
+
+Perfusion: YES (for media change), otherwise stirred
+
+volume: 2-4 L
+
+culture surface area (theoretical based on current shelf design): unknown
+
+# Photo:
+
+
+
+
+# Previous prototype highlights (v2a aka TITANIC II)
+
+# Features: fully enclosed system (gap to be parafilmed or sealed after
+loading) with gas exchange and 2 additional ports for media exchange
+
+main material: stainless steel
+
+lid: yes
+
+Perfusion: YES
+
+volume: 5 L
+
+culture surface area (theoretical based on current shelf design): 2200 cm2
+
+# Photo:
+
+
+
+
+# Previous prototype highlights (v1b aka EDDIE)
+
+# Features:
+
+main material: Stainless steel and galvanized steel shelves (can be
+individually autoclaved)
+
+lid: yes, but loose. gas exchange spacers created by placing magnets in
+corners, parafilm to then seal around it and keep contents sterile
+
+inlet and outlet (perfusion): none
+
+volume: 3L (500 mL media will cover scaffolds placed on the first shelf)
+
+culture surface area: 1100 cm2 (with 4 shelves)
+
+# Photos:
+
+
+
+
+# Previous prototype highlights (v1a aka BOB)
+
+# Features:
+
+main material: Stainless steel and aluminium
+
+lid: yes, but loose
+
+inlet and outlet: none
+
+volume: 7L (300mL media will cover Zein scaffolds placed on the sieve shelf)
+
+culture surface area: 700 cm2
+
+# Photo:
+
+  
+
+
+
+  
+
+
+
+
+# Previous prototype highlights (v0)
+
+# Features:
+
+main material: PP
+
+lid: yes
+
+inlet and outlet luer connected (not sealed)
+
+volume: 150 mL
+
+culture surface area: 100 cm2
+
+# Photo:
+
+#  
+
+
+
+
+# Our benchmark: the humble 6-well plate (v-1)
+
+# Features:
+
+main material: PS
+
+lid: yes
+
+volume: 16.8 mL per well
+
+culture surface area: 10 cm2 per well
+
+  
+
+

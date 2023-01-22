@@ -1,0 +1,87 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To determine whether factors found to be beneficial from DSDs improve Nuvonis
+cell doubling times and viability over control media in RPMI/HyCell mixes.
+
+
+Hypothesis
+
+
+That the additional factors will improve cell doubling time and viability.
+
+
+Technical Gap
+
+
+DSD 3 and DSD 4 found that additional yeast supplementation in 75/25
+RPMI/HyCell and 90/10 RPMI/HyCell media mixes improved cell proliferation
+rate. DSD 4 found that additional putrescine dihydrochloride and B-FGF in
+90/10 RPMI/HyCell media mixes improved cell proliferation rate. These results
+have not been verified thoroughly in shaker culture with replicates. We need
+to test whether the additional factors do in-fact boost proliferation over
+control media containing no additional factors. The DSDs were also performed
+in static culture in ULA 96-wps, and so it's important to verify the results
+in shaking culture which is more representative of a bioreactor environment.
+
+
+Method/Procedure
+
+
+Conditions to test
+
+  1. 75/25 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  2. 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride +  Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  3. 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride \+ 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 0.0001 mg/mL B-FGF \+ 1 g/L poloxamer-188
+
+Controls
+
+  1. 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  2. 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  3. Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF
+
+Experimental plan
+
+  1. D0: Prepare following media and store in fridge 
+    1. Medium 1: 250 mL x 75/25 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188
+    2. Medium 2: 250 mL x 90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188
+    3. Medium 3: 250 mL x 90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride + 1 g/L poloxamer-188
+    4. Control medium 1: 250 mL x 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188
+    5. Control medium 2: 250 mL x 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188
+    6. Control medium 3: 250 mL x Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride
+  2. D0: Aliquot 40 mL of each media type and add growth factors as described below. 
+    1. Medium 1: 40 uL IGF, 8 uL EGF 
+    2. Medium 2: 40 uL IGF, 8 uL EGF 
+    3. Medium 3: 80 uL FGF, 40 uL IGF, 8 uL EGF
+    4. Control medium 1: 40 uL IGF, 8 uL EGF
+    5. Control medium 2: 40 uL IGF, 8 uL EGF 
+    6. Control medium 3: 40 uL IGF, 8 uL EGF 
+  3. D0: Aliquot 20 mL of each media into 1 x E-125 for a total of 10 x E-125s (2 per condition). Place E-125s in incubator.
+  4. D0: Seed each E-125 with 1M cells from continuous culture flasks 
+  5. D2: Perform cell counts (2 per flask). Perform 50% feed and adjust cell density to <250K cells per mL. 
+  6. D5: Perform cell counts (2 per flask). Perform 50% feed and adjust cell density to <250K cells per mL.
+  7. D8: Perform cell counts (2 per flask). Perform 50% feed and adjust cell density to <250K cells per mL.  
+  
+
+20-April-2022 - Adding new conditions to test
+
+Conditions to test
+
+  1. 75/25 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  2. 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride +  Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  3. 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride \+ 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 0.0001 mg/mL B-FGF \+ 1 g/L poloxamer-188
+  4. RPMI + 2 mg/mL D-Glucose + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.008 mg/mL ammonium iron (III) citrate + 0.0003 mg/mL sodium selenite + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188 + 1:100 Lipid mixture 1
+
+Controls
+
+  1. 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  2. 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 1 g/L poloxamer-188
+  3. Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF
+  4. RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF
+
+

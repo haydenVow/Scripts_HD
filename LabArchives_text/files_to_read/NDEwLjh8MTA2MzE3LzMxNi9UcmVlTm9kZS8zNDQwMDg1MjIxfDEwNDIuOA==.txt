@@ -1,0 +1,121 @@
+
+
+Katie Day April 19th 2020
+
+  
+
+Pre-work:
+
+1\. Coat 6 wells of a 6 well plate with 2mL of gelatin each and incubate for 1
+hour at 37 degrees. Start time: 9:31am
+
+Gelatin Mix ID: 3844
+
+2\. Remove gelatin and seal the plate with parafilm and store in the fridge
+until FACS sorting.
+
+  
+
+Preparing for FACS:
+
+  1. Place 6mL DMEM/F12+20%FBS + 1x PS in the waterbath for at least 20 minutes 9:35am
+  2. Thaw single cell suspension from DOLLY15 currently frozen at -80 degrees C by placing vial into the water bath for five minutes. 10:48-10:53  
+#4240-Sheep-P0-vial2of4 (1637-Culture-4239-Vial-1of4)  
+
+  3. Add 500uL of warmed media (DMEM/F12+20%FBS) to the frozen vial to reduce osmotic shock. Mix ID 4336  
+
+  4. Wash the cells:  
+             a. Transfer the 1mL of cell suspension to a 15mL conical tube.  
+             b. Spin down the cells for 5 minutes and remove the supernatant `10:55 - 11 am`  
+             c. Re-suspend cells in 5mL of DMEM/F12+20%FBS.  
+             d. Perform a cell count. The concentration of the cell suspension should ultimately be 10-20 x 10^6 cells per mL.  
+             e. Spin down the cells for 5 minutes at 300g and 4 degrees C. After this, keep things COLD. Lots of ice should be around.
+  5. Re-suspend the cell pellet in 600uL of WM (wash media = DMEM/F12 with 10% horse serum & 1X P/S). Bring some of this to Garvan.  Calculate the concentration of the cell suspension. If outside the range of 10-20 million cells per mL, adjust the antibody concentrations accordingly. Ideally we should hit 5-10*10^6 cells/mL for optimal flow sorting. Wash media = mix ID 4347 Approximately 2 million cells  
+
+  6. Transfer 10uL of cell suspension to a 5mL FACS tube containing 190uL WM and keep on ice. This is the unstained control sample.
+  7.  Transfer 10uL of cell suspension to a 5mL FACS tube containing 190uL WM and keep on ice. This is the isotype control. Add the appropriate amount of Antibody Secondary - APC Rat IgG2a Kappa Isotype Control (0.25uL in this instance, but if the number of cells & amount of antibody in step 7 changes, this concentration will have to be adapted. The same amount of antibody per cell should be added in steps 6 and 7.
+  8. Transfer the rest of the cell suspension (~500uL) into a labeled tube. Add 5uL of CD31-APC antibody. (ab at 200ug/mL)
+  9. Antibodies should be used at about 1ug per 10,000,000 cells. 
+  10. Keeping on ice, place all staining samples on a rocker and incubate for 40 minutes (Start transport to Garvan at this point in time)  
+
+At the Garvan:
+
+  1. Fill all tubes to 2mL with WM. Gently invert the tubes a few times to mix.
+  2. Centrifuge at 250g with a fixed angle rotor for 5 min at 4 degrees C.
+  3. Aspirate supernatant completely. Re-suspend cells in control tubes in 200uL WM and the bigger sort sample in 500uL WM. Use a low volume pipette tip with narrow opening to aspirate media to be really careful. 
+  4. Add Hoest (added directly into all 3 samples, 1:100x) and incubate RT for 10 minutes. 
+  5. Protect tubes from light from here.
+  6. Centrifuge at 350g for 5 minutes at 4 degree. Aspirate supernatant. Add 200-500uL of WM and re-suspend.
+  7. Centrifuge again at 350g for 5 minutes at 4 degree. Aspirate supernatant. 
+  8. Resuspend in 200-500uL of PRF DMEM/F12 + 2% FBS, no PS then hand to operator.
+  9. Transfer the cells to the trainer cap attached to a 5mL FACS tube. Gently tap the tube on the bench to facilitate flow through. (provided by the Garvan)
+  10. Rinse the 2mL used to stain the sort sample with another 500uL WM and pass through the same strainer cap. Use a 20-200uL pipette to collect any remaining liquid in the strainer cap from the under side. Add another 1mL of WM to the sort sample and mix by gentle votex.
+  11.  Add PI to a final concentration of 0.3ug/mL into the controls and sort samples
+  12.  Sort absolutely ASAP for highest yield and viability.
+  13.   
+In the Flow Core at the Garvan:  
+
+    26. 1\. Set up the cell sorter in accordance with the manufacturer's specifications with the 70-μm nozzle.   
+2\. At the lowest flow rate, run the unstained sample to ensure that the
+voltages are appropriately set and that the cell population is properly
+positioned in the FSC-A and SSC plot and exhibits low background fluorescence
+in all channels (Figure 1A and 1C).  
+3\. Run all controls to ensure that positive populations can be distinctly
+separated from background.  
+4\. Create a gate on the FSC-A and SSC plot that excludes debris. Debris from
+uninjured muscle is often distinct from cells on this plot and debris from
+injured muscle may not be apparent.  
+5\. Create a gate on the FSC-W plot for intact single cells only. (Author's
+note: In our experience, this gate excludes dead cells and fragmented fibers,
+both of which exhibit irregular dimensions when isolating quiescent MuSCs from
+uninjured muscle. This gate can also exclude doublets of cells when isolating
+activated MuSCs and their proliferating progeny after acute muscle injury.)  
+6. Create gates to collect the CD31+ population into 1 ml WM.  
+7\. The unstained portion (waste) can be brought back to Vow & re-frozen.
+(Just use 2 x tubes & keep them really cold, then transfer to warm plate when
+home)  
+8\. The CD31+ endothelial cells should be placed into a coated 6 well plate
+immediately. If they can be directly sorted in, then that's great.  
+
+    27.   
+  
+Back at Vow  
+After transport back to Vow, the endothelial cells should receive a media
+change to DMEM/F12 + 20% FBS + 1x PS with an additional 5-10ng/mL FGFb, VEGF,
+10ng/mL EGF, IGF1, heparin (50ug or 100ug/mL), spiked in for additional
+support (this should be made in advance) - heparin & FGF combo is important.
+Asking at the garvan for it, but if we can't get it, cest la vie. Add 5 ng/mL
+if you are adding 100ug/mL heparin, otherwise bump it to 10ng/mL FGF.
+
+IGF - 100ug/mL - 10uL into 100mL  
+
+EGF - 100ug/mL - 10uL into 100mL
+
+FGF - 25ug/mL - 40uL into 100mL  
+VEGF - 5uL into 100mL
+
+  
+
+2000ng in 20uL
+
+2ug in 0.02mL
+
+  
+
+  
+
+Want 100ug/mL  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+

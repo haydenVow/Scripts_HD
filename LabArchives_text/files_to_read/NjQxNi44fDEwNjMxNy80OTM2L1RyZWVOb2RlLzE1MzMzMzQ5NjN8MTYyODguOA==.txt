@@ -1,0 +1,97 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To generate a population of crocodile fibroblasts treated with UV-irradiation
+and a P53-inhibitor to be seeded into suspension culture
+
+
+Hypothesis
+
+
+We hypothesise that a high percentage of cells exposed to UV irradiation will
+enter apoptosis, however the presence of a P53 inhibitor will protect
+sufficient numbers to then be expanded for seeding into suspension culture
+
+
+Technical Gap
+
+
+Producing a fibroblast clone that is able to maintain proliferative capacity
+longterm is vital to produce large quantities of consistent cell mass. In
+order to continue growing beyond the Hayflick limit, a cell must undergo
+mutation. This can happen randomly as a result of DNA replication errors, or
+can be induced through environmental conditions such as UV exposure. We have
+identified levels of UV-irradiation which resulted in a ~95% cell death rate
+(300 mj/cm2), and concentrations of P53i that do not impact cell growth (10-30
+uM). In this experiment we will expose cells to UV-irradiation in the presence
+of a P53 inhibitor to cause DNA mutations without resulting in >95% cell
+apoptosis.
+
+
+Method/Procedure
+
+
+Stage 1: Mutagenesis
+
+  1. Thaw 2 x vials of CHOMP fibroblasts (4 M cells total) into 7 x 100 mm plates in DMEM/F12 + 20% FBS + 1xP/S. 24H after seeding, proceed with UV treatment.
+  2. Assign and label each plate to a condition as listed below:
+
+    1. Condition 1: 10 uM P53i, 300 mj/cm2 UV
+
+    2. Condition 2: 10 uM P53i, 150 mj/cm2 UV
+
+    3. Condition 3: 30 uM P53i, 300 mj/cm2 UV
+    4. Condition 4: 30 uM P53i, 150 mj/cm2 UV
+
+    5. Control 1: 0 uM P53i, 300 mj/cm2 UV
+
+    6. Control 2: 30 uM P53i, 0 mj/cm2 UV 
+
+    7. Control 3: 0 uM P53i, 0 mj/cm2 UV
+
+  3. Prepare media aliquots and reagents 
+
+    1. 20 mL x  dPBS + 40 uL P53i (10 uM)
+
+    2. 30 mL x  dPBS + 60 uL P53i (180 uM)
+
+    3. 10 mL x  dPBS (no P53i) 
+
+    4. 70 mL x growth medium + 100 ng/mL IGF-1 and FGF-B 
+
+  4. Set up UV lamp inside BSC clamped in retort stand.  
+
+  5. Bring "Condition 1" plate into BSC. Remove growth medium and wash with 5 mL dPBS. Replace with 10 mL dPBS + 10 uM P53i.  
+
+  6. Place on ice block
+
+  7. Place plate under lamp (~10 cm from bulb) and turn on light. 
+
+  8. Remove plate after 12.5 min (300 mj/cm^2).
+
+  9. Replace dPBS with fresh, warmed growth medium + 100 ng/mL FGF-B and IGF-2  
+
+  10. Repeat steps 5-9 for conditions 2-6 with P53i and UV levels as listed in table below. For "Condition 6", leave cells in dPBS + P53i for 12.5 minutes before replacing with growth medium. For "Condition 7" plate, simply perform a 100% feed with growth medium + 100 ng/mL IGF-1 and FGF-B. 
+
+  
+P53i conc. (uM)P53i vol  (uL/mL)UV-irradiation (mj/cm2)UV-irradiation
+(minutes)  
+Condition 110230012.5  
+Condition 21021506.25  
+Condition 330630012.5  
+Condition 43061506.25  
+Condition 50030012.5  
+Condition 630600  
+Condition 70000  
+  
+  
+Stage 2: monitoring & expansion
+
+  11. Image cells and record observations. Passage and feed when needed to expand for seeding into suspension culture. 
+
+

@@ -1,0 +1,147 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+24 wp  
+7857-F_DOLLY12-Sheep P2-1of1  
+6 wp  
+7899-F_DOLLY12_7593_L9-Sheep P3-1of1  
+  
+  
+  
+24 wp  
+7897-F_DOLLY12-Sheep P3-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)a6331  
+  
+Growth Mediam6687  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Zaber scanned the plate (5x, Phase).
+
+2\. Added 3 mL of growth media to 1 well of 6 well plate. Added 0.5 mL growth
+media to 6 wells of a 24 well plate.
+
+  1. Time when all vessels(s) placed into the incubator      15 : 13  
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     2    mL in      1   tubes
+  2.  dPBS (for washing):      4   mL
+
+Time that all aliquots were placed in the water bath the warm before use    15
+: 24  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    15 : 26  
+
+5\. Washed the vessel(s) with dPBS (warmed). (500uL/well)
+
+6\. Added      0.2   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    15 :39 - 15:54    
+
+
+
+
+13\. Neutralised wells by adding 500uL of growth media from the destination
+well. Mixed the cell suspension and transferred it to the destination well
+~approx 16 :00
+
+4 mL more of growth media was warmed for 5 min 16:08 - 16:13. This was used to
+add 500uL/well to each well of the new  24 wp.
+
+16\. Transferred vessel(s) to incubate at: 16:17
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Passaged 7 wells from 24 well plate #7857
+
+well A3 -> 6 well plate
+
+remaining wells into new 24 well plate:
+
+B1 -> A1
+
+B3 -> A2
+
+B6 -> A3
+
+C1 -> A4
+
+C2 -> A5
+
+D4 -> A6
+
+The rest of the wells in the plate did not have adhered cells, mostly dead and
+floating cells. Therefore, they were discarded.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

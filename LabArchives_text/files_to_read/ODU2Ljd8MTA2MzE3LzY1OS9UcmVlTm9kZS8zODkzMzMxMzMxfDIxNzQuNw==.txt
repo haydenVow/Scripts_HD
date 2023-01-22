@@ -1,0 +1,29 @@
+
+
+  1. The Aim and Hypothesis should be recorded in the EPIC header, not in the experiment plan.
+  2. Design your experiment with the next steps in mind. What are the next steps if the experiment succeeds? What are the next steps if the experiment fails? Design the experiment as best as possible so that there is compelling evidence for deciding on next steps.
+
+
+Method/Procedure
+
+
+Overview:
+
+Preparation: Make E89C, E810C, and E811B media. Expand cells in serum or E89C
+media.
+
+Mon 10-April-2021: Equilibrate microcarriers in 4 different media conditions:
+serum, E89C, E810C, E811B. Seed DOLLY12 cells into 1x E125 flask per condition
+(4.5mg/mL Cytodex microcarriers, 2.5 M cells/flask, 30mL/flask).
+
+Tue-Fri 11-14 April-2021: Hoechst stain and image microcarriers to observe
+proliferation. By, Friday perform image analysis to see which ACF condition is
+performing the best (i.e. Choose one ACF media condition to take forward). It
+is assumed that cells will have proliferated to ~10-14 cells/microcarrier by
+this time and be ready for a passage.
+
+Fri 14-April-2021:
+
+  
+
+

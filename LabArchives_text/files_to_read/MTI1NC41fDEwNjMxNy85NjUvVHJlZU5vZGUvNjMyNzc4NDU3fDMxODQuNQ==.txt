@@ -1,0 +1,211 @@
+
+
+Equilibrate microcarriers in culture medium before use
+
+  1. Prior to use, aliquotted | 3x28mL | mL of sterilized microcarriers ( 20 g/L stock) suspended in dPBS into | 3  |  x | E500  | flasks
+  2. Rinsed microcarriers in | 30 | mL culture medium (50 mL/g Cytodex). (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and as much supernatant as possible was removed.
+  4. The microcarriers were resuspended to the desired volume of culture medium ( | 125mL | mL ). 
+  5. The culture vessel was transferred to the bottom Library Lab fridge for use on Monday 17th May  |   12:46   am/pm |
+
+  
+
+
+
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Flask type:
+
+Seeded flask ID
+
+Flask type  
+  
+6718-DOLLY12_11E7-Sheep P11-1of1  
+  
+
+E500
+
+  
+
+  
+  
+  
+6719-DOLLY12_11E7-Sheep P11-1of1
+
+E250
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:     60mL + 125mL    mL in     120mL and Medium Sample Pot    tubes
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:    125mL + 60mL     mL in     120mL and Medium Sample Pot    tubes
+  3. Growth media (for neutralizing) 100 mL per g Cytodex 1:     125mL + 60mL    mL in     120mL and Medium Sample Pot    tubes
+  4. dPBS (for washing microcarriers after Trypsinization), 100 mL per g Cytodex 1:    125mL + 60mL     mL in    120mL and Medium Sample Pot    tubes
+  5. Growth media (for pellet resuspension):     10mL + 5mL   mL in     2 x 15mL Centrifuge   tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+12:08 (Everything but Trypsin)   a/pm
+
+Aliquots were removed placed in top Library Lab fridge for use on Monday 17th
+May [12:35pm]
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 12:00 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x 20uL samples of the suspension were taken while the liquid was still in motion. This ensured the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to wells on a 96 well plate and mixed it with 80uL of dPBS containing  20uL/mL of Hoechst 33342. 
+  4. Returned cultures to the incubator  `| 12:06 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 12:14-12:26 am/pm |`
+  6. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.05ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. (B1-B6) With sets B1-B2 from well 1, B3-B4 from well 2 and B5-B6 from well 3. 
+  9. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+  1. E500 flasks with equilibrated microcarriers were placed in the fridge (#104). Aliquots of growth media and media for passage were placed in the fridge as well for passage on Monday. 
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Cytodex 1 Stock  
+4199  
+  
+Trypsin  
+  
+dPBS (for washing & neutralising)M4827  
+  
+Growth MediaM4838  
+  
+p38i (20mM stock)A3978  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+After inspecting the Hoechst stained flasks the decision was made not to go
+ahead with the passage, the microcarriers did not appear confluent enough to
+get a suitable cell yield for scale up. Decided to leave both flasks to
+proliferate over the weekend.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6719: https://mia-capture.vow.tools/#/session/recb8VYrCjnLjYNZa/images#group1
+
+6718: https://mia-capture.vow.tools/#/session/rechTVN271m1jGnO0/images#group1
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

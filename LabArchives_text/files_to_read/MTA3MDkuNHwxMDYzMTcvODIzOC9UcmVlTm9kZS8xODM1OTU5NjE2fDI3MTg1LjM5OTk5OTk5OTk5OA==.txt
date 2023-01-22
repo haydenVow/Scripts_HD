@@ -1,0 +1,109 @@
+
+
+Note
+
+I have observed slow growth rates of all embryonic lines once passaged into
+T175. I theorise that this is likely due to the flasks themselves which do not
+have vent caps. It is likely that there has not been adequate gas exchange
+(despite loosening the lids to facilitate this). The fact that cultures in
+OptiPRO medium have been doing better than the other cultures in these flasks
+supports this theory as OptiPRO contains HEEPES buffer whereas the others do
+not. To assess if cells will proliferate more rapidly in flasks with vented
+caps, some of the cells harvested today will not be banked, and instead will
+be continued in culture for another few days in T75 flask, for which we have
+vented caps.
+
+
+
+
+## Performed by: Brodie Peace with guidance from Bonnie Tangey
+
+
+
+
+Perform bank using below volumes
+
+  
+
+
+
+
+Observation of JUMBO cultures prior to bank.
+
+JUMBOK was 60% confluent and contained a lot of debris with a number of cells
+with senescent morphology. JUMBOF cells were largely senescent in appearance,
+and 50% confluent. JUMBOO was 100% confluent, and cells appear healthy.  
+
+
+
+
+Process
+
+ 1\. Aliquoted reagents and placed in the cell culture incubator to warm for a
+minimum of 30 minutes prior to use:
+
+  1. T75 flask were pre-filled with 12mL of growth media per flask and placed in the incubator to warm and to equilibrate. 2x flasks were filled for each of the 3 media types. 
+  2. TrypLE:  50mL 
+  3. dPBS (for washing and neutralising)   110mL 
+  4. Media (for pellet resuspension):  10mL (of each media)
+  5. Discarded spent media
+  6. Washed each flask with 10mL PBS
+  7. Added 10mL of Tryple to each flask and incubated for 10min
+  8. Added 10mL PBS to each flask to nuetralise
+  9. Transferred cell suspensions to 50mL falcon tubes
+  10. Centrifuged at 500g for 5min
+
+
+
+
+Process post centrifugation.
+
+  1.  Aspirated the supernatant(s). 
+  2. Resuspend pellet(s) in |10ml (JUMBOO) or 5mL (JUMBOK and JUMBOF)respective growth medias| 
+  3. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell number was: | 1.95M (JUMBOK), 63.9M (JUMBOO), 4.5M (JUMBOF)|
+
+  4. 1M cells were taken from JUMBOK and JUMBOF cell suspension and seeded into 1 x pre-filled T75 flask each. 2M cells were taken form JUMBOO and seeded into 2x T75 flasks (13.33M cells/cm)
+  5. The remaining cells were centrifuged at approx. 500g for 5min.
+  6. Supernatant removed and cell pellets resuspended in chilled Cryostor CS10 transferred into cyrovials as follows  
+JUMBOO 12.4mL (5M cells/mL) - In 12vials  
+JUMBOK 1mL (1M cells/mL)- In 1 vial  
+JUMBOF  3mL (1M cells/mL) - In 3 vials
+
+  7. Transfered the cryovials to a Mr. Frosty immediately into the -80ºC freezer.
+    * [x]  With foam
+    * [ ]  Without foam
+    * [ x]  1st Freeze
+    * []  2nd Freeze
+    * [ ]  3rd Freeze
+    * [ ]  4th Freeze
+    * [ ]  5th Freeze
+  8. Allowed the cells to freeze for at least 18-24 hours before transferring to Liquid Nitrogen storage. 
+
+
+
+
+Observations/Summary: NA
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): NA, no imaging available at Albert
+St, Melbourne Lab.
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+

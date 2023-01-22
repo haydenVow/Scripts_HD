@@ -1,0 +1,150 @@
+Introduction
+
+
+Perhaps the one of the most important characteristics of Vow's research is the
+high-throughput manner it must be conducted. Unsurprisingly, most of our
+research accomplishments at Vow have been made possible by the various high
+throughput platforms and tools provided by the Engineering team. One such tool
+is the liquid handling robots (Opentron II or OT2) which have the potential to
+automate the vast majority of manual pipetting that scientists perform
+routinely. In the past, these robots have shown to be able to automate routine
+tasks with great success (e.g. suspension feeds, single cell cloning passaging
+etc.)
+
+The bulk of manual tasks for the maturation team in particular involve the
+daily maintenance of cultures. These daily media changes are simple liquid
+transfer routine tasks that have the potential to be automated on the OT2.
+However, when dealing with live muscle cells, a some measures must be taken to
+ensure high cell viability, growth and differentiation. Along with
+straightforward liquid handling, these measures also must be translated to the
+OT2.
+
+The first iteration of this experiment depicted that cultures fed on the OT2
+were slow to differentiate and mature in comparison with manually fed plates.
+This slowing points to an issue inherent to the feeding event specifically in
+the OT2. This could be due to pipette flow rates, labware specific issues,
+however it was suspected that the low working volumes and incomplete media
+changes could be the potential reason behind slow differentiation in C2C12s.
+Hence, this experiment addresses this by assessing a range of working volumes
+for the differentiation process for both manual and automated feeds.
+
+
+Summary of experiment
+
+
+  * Two 96 well plates were seeded with BUFFY6 cells and differentiated for 9 days in E6 media.
+  * One plate was fed daily on the OT2 and the other fed daily, manually in a BSC. Both plates had each column fed with a working volume ranging from 100-200uL.
+  * Both plates were immunostained for MyoG and MF20 and imaged.
+
+
+Key findings
+  
+  
+Figure 1: A comparison of percentage well area occupied by MF20 signal
+expressed by cells fed manually in a BSC and on the OT2.
+
+Figure 2: A comparison of percentage of cells that are MyoG positive fed
+manually in a BSC and on the OT2. Percentage has been calculated by
+normalising MyoG counts to DAPI counts for each well.
+
+
+Discussion:
+  
+  
+  
+
+Immediately it is clear that despite having an excess of E6 media an
+inherently slow maturation process is still observed with cells fed on the
+OT2. Hence, an issue pertaining to media availability and incomplete media
+changes is likely ruled out as a range of working volumes was assessed. It was
+hypothesised that if incomplete media changes was the dominant issue, cells
+fed on the OT2 with an excess of fresh media would eclipse the effect of
+residual media remaining. Moreover, recent preliminary results in the
+maturation team have suggested that high feed frequencies may in fact have a
+detrimental effect on maturation. Hence, the issue of incomplete media changes
+may even have reason to be beneficial (as opposed to detrimental) to
+maturation, thus lowering the likelihood of this issue producing the effect
+seen in the graphs above.
+
+Interestingly, this points towards several other potential underlying reasons
+behind slow maturation observed in cells fed on the OT2. The inherent
+difference between each feeding condition include:
+
+  * The labware used to hold fresh media the cells are exposed to.
+  * The flow rates of the automated and manual multi-channel pipettes (although the automated pipette flow rates have been customised to be slower than manual).
+  * Tilting of plates during feeding.
+  * Incomplete media changes.
+  * HEPA filter differences.
+
+It is possible that there is something inherent to the OT2 labware and/or it's
+treatment which affects live cell culture. For example, when performing media
+changes on the OT2, the media is kept in autoclavable reservoirs which may
+have been exposed to detergent. It is possible that the autoclaved labware is
+not completely free of detergent when used - hence affecting maturation. The
+other reasons outlined above are less likely, however may need to be tested to
+confirm.
+
+As depicted by Figures 1 and 2, a stark difference in the percentage MF20 area
+and myogenin positive area is observed between the automated and manual
+feeding conditions. This is seen somewhat with the comparison of myogenin
+positive cells between the two conditions, however the discrepancy is
+elucidated more vividly when comparing MF20 area. It is hypothesised that as
+the cells begin to differentiate, a percentage of cells will be myogenin
+positive and of those cells a percentage will express a family of myosin
+proteins. This may be a possible reason behind the larger discrepancy seen in
+MF20 area when compared to %MyoG positive cells. It is important to note that
+the graphs above depict a high amount of biological variability between each
+replicate (as evidenced by high standard deviations). While this may be the
+expected biological variability with our myoblast cultures, this may also be
+due to the fact that the MCB/WCB vials may not be homogenous populations of
+myoblasts and the cell types of our R&D cell lines remain to be characterised.
+Thus, it is unclear whether the entire well population is myogenic and this
+may differ from replicate to replicate.
+
+This experiment also aimed to determine the optimal working volumes for
+cultures for both manual and automated feeds. It is clear from Figures 1 and
+2, no optimal working volume can be confidently deduced due to the overlapping
+error bars between working volumes. Interestingly the graph depicts that the
+%MyoG trends observed from increasing working volumes are reflected the same
+in MF20 signal. This observations reinforces the validity of our cell
+behaviour as expression of both maturation markers (myogenin and myosin heavy
+chain) align with one another. This is not a conclusive observation however,
+as the standard deviation overlap is quite high between working volumes,
+giving any trend observed between volumes less credibility.
+
+Indeed there is a smaller standard deviation in maturation within cultures fed
+on the OT2 when compared to manual feeding conditions, however it is likely
+that this is largely due to smaller values generating less spread.
+
+  
+
+
+Limitations
+
+
+  * A positive control of 2% horse serum containing media was not used. Biological effects seen between feeding conditions could be potentially masked by cell responses specific to E6 media.
+  * Imaging exposure times and antibody dilution result in darker images that are run through the ImageJ analysis pipeline. Although the images and data were cross-checked for validity and accuracy, this may have given rise to some of the high spread between replicates.
+  * WCB cultures expanded and used to seed this experiment have not been fully characterised as homogenous myogenic myoblasts which also may contribute to the spread depicted between replicates.
+
+
+Conclusion
+
+
+In summary, an excess/adequate of media did not address the gap in maturation
+observed between automated and manual feeding, suggesting nutrient
+availability may not be the underlying reason behind this phenomenon.
+Alternative avenues to investigate such as labware or process specific reason
+may provide some clarity. Moreover, a high variability is seen within
+replicates calling attention to the need for homogenous R&D cell lines and
+further work on a standardised and an ImageJ analysis compatible imaging
+workflow.
+
+
+Future directions
+
+
+  * Investigation into list of potential reasons behind slow maturation in automated feeding conditions.
+  * Incorperation of more controls within experimental conditions and plate maps.
+  * Prompt discussions on homogenous cell lines for R&D use.
+
+

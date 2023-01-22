@@ -1,0 +1,47 @@
+
+
+# Fix, DAPI, Image 2x 96-well plate
+
+* * *
+
+Date: 16/07/2021  
+Start time: 11:50  
+End time:13:06
+
+* * *
+
+Culture IDs
+
+Culture IDs  
+7367-DOLLY12-Sheep P8-3of4  
+7368-DOLLY12-Sheep P8-4of4  
+7369 DOLLY 12 Sheep P7 1of1 Discarded  
+  
+  
+  
+
+* * *
+
+Procedure
+
+
+
+Fixing & Staining ( ~ 45-50min)
+
+  1.  Removed media from each well and gently wash twice with 200uL PBS. 
+  2.  Added 100uL/well PFA for 15 min. Time stamp: D4 11:51-12:06 / D3 12:02-12:17  
+
+  3. Removed PFA (and add in PFA waste container) and wash wells with 100uL PBS for 5 mins. Timestamp: D4: 12:07-12:15 / D3 12:17-12:21  
+
+  4. Stain cells with 100uL DAPI (diluted 1:1000 in dPBS) for 5 mins. Timestamp: D4 12:15-12:20 / D3 - 12:21-12:26  
+
+  5. Wash cells three times with 100uL dPBS for 5 mins each.   
+Timestamp1: D4 12:21 - 12:26 / D3 12:27:12:32  
+Timestamp2: D4 12:26-12:31 / D3 12:32-12 ;37  
+Timestamp3: D4 12:31-10:36 / D4 12:38-12:43  
+
+  6. Image cells using the Zaber. 
+
+  
+
+

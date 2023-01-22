@@ -1,0 +1,379 @@
+
+
+## Feed performed by: LL TT  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+6-well plate7502-F_DOLLY12-Sheep P8-1of2  
+7503-F_DOLLY12-Sheep P8-2of2  
+  
+  
+  
+  
+E1257504-F_DOLLY12-Sheep P8-1of3  
+7505-F_DOLLY12-Sheep P8-2of3  
+7506-F_DOLLY12-Sheep P8-3of3  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2  
+  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L BBL Phytone Peptone  
+  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L Difco Select Phytone UF  
+  
+  
+GM + 0.1 ug/mL HDAC1  
+  
+  
+GM + 0.1 ug/mL HDAC2  
+  
+  
+GM + 5 g/L BBL Phytone Peptone  
+  
+  
+GM + 5 g/L Difco Select Phytone UF  
+  
+  
+  
+###  
+
+
+
+
+Plate Maps:
+
+  
+
+Plate 1  
+1  
+2  
+3  
+  
+A  
+Serum control  
+  
+GM + HDAC1  
+  
+B  
+GM + HDAC1 + HDAC2  
+  
+GM + HDAC2  
+  
+  
+  
+
+Plate 2  
+1  
+2  
+3  
+  
+A  
+GM + Difco Select Phytone UF  
+  
+GM + Difco Select Phytone UF + HDAC1 + HDAC2  
+  
+B  
+GM + BBL Phytone Peptone  
+  
+GM + BBL Phytone Peptone + HDAC1 + HDAC2  
+  
+  
+  
+
+E125 flask: Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+E125 flask: GM + HDAC 1
+
+E125 flask: GM + HDAC 2
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + HDAC 1 (0.1ug/mL)
+
+[x] GM + HDAC 2 (0.1ug/mL)
+
+[x] GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+
+HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)
+\+ HDAC 2 (0.1ug/mL)
+
+
+
+
+Process:
+
+  1. Aliquoted growth media as indicated in the growth media section:
+    * Placed in water bath  13:51  
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (1 drop of each stain solution per 1 mL of dPBS):
+    * __ mL of dPBS 
+    * __ drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * __ drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark until ready to use. 
+
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 3 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   14:13 - 14:17 
+  5. Aspirated  15 % ( 15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Added  15 mL of fresh, warmed growth media to each 50 mL tube
+  7. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125s
+  8. Took 100 uL samples from each culture and stored in separate microtubes until ready to stain alongside 50 mL shake tubes.
+  9. Returned E125s to incubator.   14:42 
+
+Incubator (#81), Lab [Main/Library/Production]
+
+6-Well-Plates
+
+  1. Collected 6-well-plates from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 15:27
+  2. Using a 5 mL serelogial, transferred each cell suspension into 6 x 15 mL tubes. Kept 6-well-plates in BSC, as culture will be returned to vessel after feed. 
+  3. Centrifuged 15 mL tubes at 300 x g for 5 min.   15:35 - 15:40 
+  4. Aspirated   50 % ( 1.5 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  5. Added  1.5 mL  of fresh, warmed growth media
+  6. Gently pipette-mixed culture using 5 mL serelogical or P1000, before moving cell suspension back to 6-well-plate
+  7. Took 100 uL samples from each culture and stored in separate microtubes until ready to stain alongside 50 mL shake tubes. 
+  8. Returned 6-well-plates to incubator.   16:15 
+
+Incubator (#81), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+6-WPs
+
+  
+  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12  
+  
+  
+  
+serum Control (DMEM/F12 + 10% FBS + 1X P/S)  
+GM + HDAC 1 (0.1ug/mL)  
+GM + HDAC 2 (0.1ug/mL)  
+GM + HDAC 1 (0.1ug/mL) + HDAC 2 (0.1ug/mL)  
+GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L  
+GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L  
+GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)  \+
+HDAC 2 (0.1ug/mL)  
+GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+ HDAC 2
+(0.1ug/mL)  
+  
+  
+  
+  
+  
+A  
+50%  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+B  
+25%  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+C  
+12.5%  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+D  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+E  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+F  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(E-flask staining recorded in this lab book entry: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDcxMi41fDEwNjMxNy8zNjI1L1RyZWVOb2RlLzE2NDYyMzQ4MDZ8MTE5NjIuNQ==)
+
+  1. Added 100 uL samples from 6-WPs and E-flasks to staining buffer in 96WP ~~  
+~~
+
+  2. Added culture IDs to plate map above
+  3. Incubated culture in stain at RT in dark for 20 - 30 minutes  15:22 - 15:48   
+
+  4. Performed serial dilution in dPBS to achieve a 12.5% final dilution
+  5. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp: 15:50 - 15:51 
+  6. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:   7858 (images labelled "HDACs 6WP")    
+
+  7. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (green fluorescent nuclei, stained with Sytox green)
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recLwnuIENDOhc4w0/images
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+Zaber observations/issues:
+
+ 50  % media changed on vessel(s)
+
+  1. 7502-F_DOLLY12-Sheep P8-1of2
+  2. 7503-F_DOLLY12-Sheep P8-2of2  
+  
+
+  3. 7504-F_DOLLY12-Sheep P8-1of3
+  4. 7505-F_DOLLY12-Sheep P8-2of3
+  5. 7506-F_DOLLY12-Sheep P8-3of3
+
+

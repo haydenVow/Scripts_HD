@@ -1,0 +1,48 @@
+
+
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To test whether Hoechst staining cells affects their viability and which
+method of staining is best for maintaining viability.
+
+
+Hypothesis
+
+
+Hoechst staining cells in a 96 wp with 8 uL/well for 24 hours will result in
+cell death. However, staining with 8uL/well for 1 h, 4uL/well for 24 h, or
+4uL/well for 1 h will not affect cell viability.
+
+Note: staining volume refers to a 1:1 Hoechst + PBS solution
+
+
+Technical Gap
+
+
+We have not tested different Hoechst staining volumes and times for 96 well
+plates. In particular, we have not tested whether leaving the Hoechst in the
+media for ~24 h versus 1 h would have different effects on cell viability.
+
+
+Method/Procedure
+
+
+  1. D0: Thaw DOLLY12 fibroblasts in 1x 96 well plate (50 000 cells/cm^2) in DMEM/F12 +10% FBS + 1x P/S (230 uL/well). Do not use edge wells. 
+  2. D1: perform a 50% feed.
+  3. D2: Zaber scan (Phase) the 96 well plate (whole well). Prepare a sterile filtered solution of PBS + Hoechst (1:1). Then, stain 2 columns of the 96 wp (12 wells/condition) with the following conditions:
+    1. column 2 and 3: no stain (control)
+    2. column 4 and 5: Hoechst stain with 4 uL/mL for 1 h (and then perform a 100% media change)
+    3. column 6 and 7: Hoechst stain with 4 uL/mL for 24 h
+    4. column 8 and 9: Hoechst stain with 8 uL/mL for 1 h (and then perform a 100% media change) 
+    5. column 10 and 11: Hoechst stain with 8 uL/mL for 24 h
+  4. D2: Image the centre of each well on 5x, DAPI. Also image the whole well on DAPI and phase.
+  5. D3: Image the centre of each well on 5x, DAPI. Also image the whole well on DAPI and phase. Check the morphology of the cells to determine whether cells are still viable.
+  6. D3: For conditions where the cells are still alive, passage them to 24 well plates manually. 
+  7. D4: 50% feed passaged cells.
+  8. D5 onwards: monitor cell morphology to determine viability.
+
+

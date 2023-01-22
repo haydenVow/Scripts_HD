@@ -1,0 +1,170 @@
+
+
+Introduction
+
+For the October to December quarter, the muscle team within Vow was looking
+into investigate the (nutritional/culinary) benefits of mature muscle (KR3),
+to help clarify some questions around:
+
+  1. What are the difference between muscle cells and fibroblast and do these differences have a positive or negative effect on the nutritional and sensory attributes in our final product.
+  2. Additionally, what are the differences between myoblast cells, differentiated cells and biopsy/commercial meat samples as well as any differences between species.  What are the implications of these differences on the products sensory attributes and nutrition. 
+  3. What are the beneficial components that are highly expressed in our muscle cells, which could give our product a competitive edge compared to commercial meat and plant based meat
+
+In order to answer these questions, the study was broken down into four key
+sections, the first being research into relevant compounds, second being
+expanding cells to be analysed, third being performing analysis and analysing
+and finally interpreting the data. This section and report write up will focus
+on the first stage involving research.
+
+In order determine the nutritional and culinary benefits of mature muscle, we
+were required to identify key compounds that are often found in commercial
+meat. A summary table was construction on Notion to track each compound,
+including vitamins, minerals and proteins that have been identified as a
+contributor to sensory and/or nutritional attributes unique to meat/muscle.
+The table provides a high level summary on a) its relevance b) role in the
+product c) analytical methods available d) specificity to muscle e) cell type
+it is likely present in. Based on this, a shortlist of potentially high-reward
+low-effort compounds were identified and further research, focusing heavily on
+analytical method, was performed. Given the time restrictions, only a high
+level summary into these compounds was provided.
+
+
+
+
+Key findings
+
+  1. B12, myoglobin, creatine and carnosine compounds identified to be unique to muscle and of interested from a nutritional/product perspective. 
+  2. Identified ELISA assay as a suitable analytical tool for B12 and creatine, with the experimental plan for these compounds completed for future studies 
+
+
+
+
+Discussion
+
+Given that the key focus in the study was to identify beneficial compounds
+that are expressed at high levels specifically in mature muscle and not in
+fibroblast, and furthermore be of benefit to either nutrition and/or sensory
+attributes in the final product, our research pinpoints only a handful of
+compounds that meet this criteria. Amongst these are myoglobin, carnosine,
+creatine and B12. The full list of other relevant compounds can be found in
+the table in notion.
+
+Myoglobin
+
+Myoglobin is a heme protein containing iron in its structure. It therefore
+been identified as a proteins that impacts nutritions, as it contributes to a
+large portion of dietary iron in humans. It is found specifically in animal
+only within the heart and skeletal muscle. Whilst heme proteins can be found
+in plants, these are generally less bioavailable than those from animal
+sources. For this reason, it is of particular interest to Vow. Furthermore,
+research suggest that myoglobin can also impact the colour of cultured meat,
+with one study  by Simsa et al 1 finding that addition of myoglobin resulting
+in a brown-red colour. Additionally, the same study also identified that
+myoglobin can enhance cell proliferation.
+
+It would be interesting to see if our cells express and generate myoglobin and
+if so, the levels of which they are present compared with commercial tissue
+samples. For future work, it is worthwhile looking into analysis methods of
+myoglobin that can be performed on-site at the Vow lab or outsourced.
+Furthermore, looking into ways to increase myoglobin production in cells, such
+as through additional of caffeine to cell growth media which has been shown in
+a study by Yokokawa et al 2 to promote myoglobin expression.  
+
+B12
+
+B12 is a vitamin that contains the mineral cobalt. It is essential for blood,
+DNA and nerve function. It is produced by bacteria, and found primarily in
+animal sources, but can be used to fortify certain foods. Whilst it is not
+likely that the cells will produce B12, they may contain trace amounts through
+uptake from FBS which contains a high concentration of B12. Given its
+importance in human nutrition and natural presence mostly in meat, it is
+worthwhile detecting the concentration of B12 in our cells. Vow currently has
+a B12 kit and experimental plan for running the assay. Future experiments can
+further explore fortifying our media with additional B12 to see its effect on
+cell growth and B12 uptake.
+
+Carnosine
+
+Carnosine is an antioxidative histidyl dipeptides and the most abundant
+antioxidants in meats. It acts as a protein building block and is present in
+muscle when it is active. They have been identified as compounds that help
+prevent or treat certain diseases. Caronosin and its precursor β-alanine both
+exhibit a robust list of health benefits including antioxidant activity, metal
+chelating and interaction with lipid peroxidation end products. Being an
+antioxidant, it has also been reported to improves appearance of meat.
+Furthermore, the top food sources of carnosine is meat, specifically muscle.
+There are no plant based sources, only supplementation.  For these reasons,
+carnosine is of great interest for Vow and would be worthwhile exploring
+further. Next steps would include identifying different analysis techniques
+that are suitable to bring into the Vow or outsourcing.
+
+Creatine
+
+Creatine is composed of three amino acids (methionine, glycine, and arginine)
+and contributes to flavour production in meat. It has been reported that
+during cooking, creatine breaks down in creatinine that contributes to the
+full flavour of meat extracts. Furthermore, it is highly expressed in muscle
+tissue, and is in fact used to estimate total protein content in muscle
+tissue. 95% of creatine in animals are stored in skeletal muscle as
+phosphocreatine. For this reason, we are interested in detecting creatine in
+our cells. A kit for creatine has been purchased and experimental plan
+developed.
+
+  
+
+For further information on each compounds, refer to the table in notion.
+
+  
+
+  
+
+Reference:
+
+1\. Simsa R, Yuen J, Stout A, Rubio N, Fogelstrand P, Kaplan DL. Extracellular
+Heme Proteins Influence Bovine Myosatellite Cell Proliferation and the Color
+of Cell-Based Meat. Foods. 2019;8(10):521: doi:10.3390/foods8100521
+
+2\. Yokokawa T, Hashimoto T, Iwanaka N. Caffeine increases myoglobin
+expression via the cyclic AMP pathway in L6 myotubes. Physiol Rep. 2021
+May;9(9): doi: 10.14814/phy2.14869.
+
+  
+
+  
+
+
+
+
+Limitations
+
+  * Given the short timeframe, the summary table does not cover all the compounds present in meat. Furthermore, not all the listed compounds have additional research attached, with this extra research only included in a handful of high priority compounds (B12, creatine, myoglobin and carnosine amongst these). 
+  * This study does not go into depth on compounds that will generate flavour/aroma in meat 
+  * The study does not take into account of compounds that may interact and cause positive or negative effects to nutrition and sensory attributes (eg pathway molecules breakdown during cooking, or interaction between groups to create flavour ) rather it focuses on the compound as an individual 
+  * The study focuses more on compounds in muscle, and therefore is limited in other components such as fats, that are essential in meat flavour and texture. Samples, however, have been sent for lipidomic analysis which will pave way for identifying some key lipids/fats present in cell and commercial samples.
+
+  
+
+
+
+
+Conclusion
+
+The research conduction was focused on identifying relevant beneficial
+compounds that are present in meat. A large focus was placed on its benefit to
+either nutrition, sensory attributes and high presence in meat only (and not
+plants). From the research, we identified that myoglobin, creatine, carnosine
+and B12 are of particular interest for Vow. From this research, we will be
+able to further explore analytical methods available to detect the compounds
+in our cells and compare this with commercial meat / muscle tissue.
+
+
+
+
+Future direction
+
+  * Develop in house or outsource analysis for detection and quantification of the compounds of interest. (currently in progress for B12 and creatine)
+  * To conduct further research on other high and mid relevant compounds that could be of interest to Vow, focusing heavily on its affect on nutrition or sensory influences and analysis methods 
+  * To look into the effects of the compounds of interested when exposed to environmental conditions (eg refrigeratioon, freezing, cooking at different temperatures 
+  * Expand cells (fibroblast, myoblast, differentiated cells) across the species available in Vow to run analysis on total protein (via Branford or BCA) and proteomics (mass spec) as well as lipodomic.
+
+

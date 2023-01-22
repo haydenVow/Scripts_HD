@@ -1,0 +1,92 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+  * To determine if addition of flocculants to cell suspension will reduce the number of cells in supernatant 
+
+
+Hypothesis
+
+
+It is expected that addition of flocculants will reduce the number of cells in
+supernatant compared to control conditions where no flocculant has been added
+
+
+Technical Gap
+
+
+Efficient biomass recovery or harvesting of cells cultured in suspension
+represents a critical bottleneck for large-scale bioprocess and manufacturing.
+Vow's current method of cell harvest and previous experience has only been of
+using bench-top centrifuges in combination with 250-500mL bottles to pellet
+cells by centrifugation. This approach becomes more time consuming and less
+practical as cell suspension broth volumes increased with increased bioreactor
+capacity. Flocculation by chemical addition is a simple, easy method to
+increase the efficiency of harvesting by inducing the aggregation of cells by
+neutralising membrane charges. For review, please see Matter et al 2019.
+
+
+Method/Procedure
+
+
+See link to original workflow written by Tom Tarento
+
+Conditions:
+
+  * Control 1 (no additions)
+  * Control 2 (vehicle addition only: 1% acetic acid solution)
+  * Control 3: (alginate addition only)
+  * Chitosan 10mg/L
+  * Chitosan 40mg/L
+  * Chitosan 120mg/L
+  * Chitosan 10mg/L + 40mg/L alginate
+  * Chitosan 40mg/L + 40mg/L alginate
+  * Chitosan 120mg/L + 40mg/L alginate 
+  * Prepare buffers:
+    * prepare 100mL of 1% v/v acetic acid solution: 1mL acetic acid in 100mL dH2O
+    * prepare buffers:
+      * weigh out x2 lots of 240mg of chitosan
+      * weigh out x2 lots of 80mg sodium alginate
+      * prepare x4 tubes of 20mL of 1% acetic acid solution in 50mL falcon tubes and label "A" (nil), "B"(chitosan), "C" (chitosan+alginate) and "D" (alginate)
+      * no additions to tube A
+      * to tube B, add 240mg chitosan and mix by inversion
+      * to tube C, add 80mg alginate and mix by inversion. If necessary, microwave in 20 sec lots (kitchen microwave). Allow to cool and add 240mg chitosan. Mix by inversion
+      * to tube D, add 80mg alginate and mix by inversion. If necessary, microwave in 20 sec lots (kitchen microwave). 
+    * prepare serial dilution series:
+      * prepare x6 15mL falcon tubes. Label each 1.1, 1.2, 1.3 and 2.1, 2.2, and 2.3
+      * add the following volumes to the following tubes:
+        * 1.1 4mL from B
+        * 1.2 3mL from A
+        * 1.3 3mL from A
+        * 2.1 4mL from C
+        * 2.2 3mL from D
+        * 2.3 3mL from D
+      * perform 1:4 serial dilution for both series, taking 1mL from x.1 and adding/mixing consecutively to each dilution
+
+  * Method:
+    * prepare 200mL cell broth at a density of 1 million cells/mL
+    * aliquot 20mL per tube into 50mL falcon tubes
+    * use tablet to image tubes before flocculate addition
+    * take 200uL of each condition and add to 96-well plate to image before flocculation
+    * add flocculant at 1% of cell broth volume (i.e. add 200uL of buffer to each prescribed tube)
+    * use tablet to image tubes at 0, 5, and 30 minutes after addition
+    * at the above timepoints, sample 200ul from supernatant and add to 96-well plate for imaging
+    * image under microscope
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+

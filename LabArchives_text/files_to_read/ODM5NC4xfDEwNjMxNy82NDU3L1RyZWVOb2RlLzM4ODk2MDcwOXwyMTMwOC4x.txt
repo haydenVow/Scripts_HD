@@ -1,0 +1,164 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+Legacy ID: 3319-Culture-7660-Vial-2of9  
+New ID: 11103-FrzCul-7660-Vial-2of9  
+
+  
+
+10351-F_KUZCO20-Alpaca P0-1of4
+
+10352-F_KUZCO20-Alpaca P0-2of4
+
+10353-KUZCO20-Alpaca P0-3of4
+
+10354-KUZCO20-Alpaca P0-4of4
+
+  
+4 x T175 each (2 non-coated, 2 gelatin coated)  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solutiona7009  
+  
+Growth Mediam10121  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  * NOTE: IF PERFORMING A THAW FROM A CLONAL MCB_2 OR WCB_2, PREPARE AT LEAST ONE EXTRA 96 WELL PLATE FOR A DIFFERENTIATION ASSAY. THIS IS AN IMPORTANT QUALITY CONTROL STEP WHILE WE BUILD OUR CLONAL CELL BANK.
+  * Suggested layout for diff assay (please refer to previous diff assays for exact seeding, feeding and analysis procedures)  
+
+  * 
+
+1\. Gelatin coated  1 WELL OF 1 X 6-WELL PLATE with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator  13:40 pm 
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):    2 x 60mL  
+
+  * Time that aliquot was placed in the water bath to warm before use:  13 :44 pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+  
+
+Location where cryovial was collected from:
+
+Vial details:  1 x KUZCO20  cryovials at   ~3,000,000  cells each for a total
+of ~3,000,000 cells
+
+Brew
+
+Tower/Bucket # 5
+
+Box/Cane # 2
+
+Vial location: C1  
+
+Vial ID(s):  
+Legacy ID: 3319-Culture-7660-Vial-2of9  
+New ID: 11103-FrzCul-7660-Vial-2of9  
+
+3. `Collected cryovial from LN2. Placed vial in Beadbath for 8 minutes: `` 14:05 - 14:13 pm `
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  200µL of Growth Media (to generate a total volume of 1.2mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 25mL serological pipette, resuspended & distributed the cells
+evenly in the   60 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8.  Transfered  30 mL to the non-coated  2 x T75 flasks (30mL each)  well,
+allow to rest at 37C at RT for 45 min   14:19 - 15:04 pm```
+
+`````9. After 45 minutes, transfer the supernatant to the gelatin-coated  2 x
+T75 flasks (30mL each) and replace the growth media on the ````original ```` 2
+x T75 flasks (30mL each) (non-gelatin-coated).`````
+
+`10. Allow gelatin-coated flasks to sit still at RT for 15 min.   15:09 -
+15:24 pm  
+`
+
+`10. Transfered flask/plate(s) to incubate at:  
+`
+
+  * [ X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+KUZCO20 Raw isolate cells were thawed into 2 x T175s (pre-plated, fibroblasts)
+and the supernatant was seeded onto 2 x gelatin-coated T175 flasks
+(MuSC+fibroblasts).
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

@@ -1,0 +1,83 @@
+
+
+## 1\. Background
+
+Insulin is a growth factor that is a potent mitogen for many cell types in
+vitro. It is a key component of serum.
+
+
+
+
+## 2\. References and Related Documents
+
+Product sheet (Biogems): https://www.bio-gems.com/media-
+supplements/recombinant-human-insulin.html
+
+Data Sheet (Biogems):  
+
+MSDS (biogems): https://www.bio-gems.com/media/product_pdfs/MSDS_BioGems.pdf
+
+
+
+
+##
+
+##
+
+## 3\. Safety
+
+The preparation of Insulin aliquots is to be performed in a Biological Safety
+Cabinet. General lab PPE is required, including face mask, hair net, gloves,
+and lab coat.
+
+Take care when handling hydrochloric acid (HCl). The acid itself is corrosive,
+and concentrated forms release acidic mists which are also dangerous. Be sure
+to add the HCl to the Milli-Q water when making up your solution rather than
+the other way around to ensure it is immediately diluted.
+
+
+
+
+## 4\. Definitions/abbreviations/synonyms
+
+NA
+
+
+
+
+## 5\. Consumables/Reagents Required
+
+  1. HCl 
+  2. Milli-Q water
+  3. dPBS 
+  4. Recombinant human albumin
+  5. Insulin stock powder 
+  6. Sterile falcon tubes 
+  7. 1 x syringe filter unit 
+  8. Microtubes 
+
+
+
+
+## 6\. Method/Procedure (suitable for Biogems CAT# 10-365)
+
+Note: Please perform this procedure with the BSC light turned off. Growth
+factors are often sensitive to light exposure.  
+
+  1. Prepare a 5 mM (0.005 M) HCl solution using HCl and Milli-Q water in a sterile falcon tube in the BSC. (Helpful calculator: https://www.sigmaaldrich.com/chemistry/stockroom-reagents/learning-center/technical-library/mass-molarity-calculator.html).
+  2. Calculate the volume of 0.5% albumin (v/v) in dPBS solution required to create a 100 mg/mL stock solution of insulin. You will need to take away the volume of HCl solution used to reconstitute the powder from this volume e.g. if you need 50 uL of HCl to reconstitute the powder, remember to minus the 50 uL from your desired total volume. 
+  3. Prepare the solution of 0.5% albumin in sterile dPBS in a sterile falcon tube in the BSC. 
+  4. Retrieve stock powder from storage location (Insulin powder is kept at -20 degrees C).
+  5. Using a microfuge, centrifuge the vial containing Insulin powder for 30 seconds and then transfer the vial to the BSC.
+  6. Using a micropipette, transfer 5 mM HCl from the falcon tube to the stock vial to reconstitute the powder to a concentration of 1.0 mg/mL. 
+  7. Pipette mix thoroughly and smoothly to dissolve the stock powder, taking care not to spill any of the solution. 
+  8. Transfer the entire aliquot to the falcon tube containing 0.5% albumin in dPBS. Transfer some of this solution back to the stock vial, pipette mix, and transfer back into falcon tube. Repeat to ensure that the entire amount of powder is dissolved.
+  9. Check the vial to ensure there is no powder left. If any powder remains, repeat step 8 until the vial is clean.
+  10. Using a serological pipette, carefully mix the solution to ensure a homogenous mix.
+  11. Pour or pipette solution into a syringe filter unit and filter into a new sterile falcon tube.
+  12. Transfer the solution into sterile microtubes. Remember to add at least 5 uL to your desired aliquot volume to account for loss of liquid from pipetting. 
+  13. Enter details in Stockyard V2 under "Create Mix".
+  14. Place aliquots into an appropriately sized container (e.g. cryobox, 500 mL sterile pot) and stick Stockyard label on the container. Add a note of the volume per aliquot for future users. 
+  15. Store in - 20 degrees C freezer. 
+
+

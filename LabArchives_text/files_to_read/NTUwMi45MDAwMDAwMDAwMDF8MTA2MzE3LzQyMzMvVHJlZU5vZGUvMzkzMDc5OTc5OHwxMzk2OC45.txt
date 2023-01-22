@@ -1,0 +1,132 @@
+
+
+# Team
+
+Project Leads: Chris, Bec
+
+Primary Team: Kylie, Shaleen, Addy, Eva
+
+Additional Support: Jared
+
+#  
+
+## Objective: Develop a scalable process to produce mature muscle.
+
+(scalable refers to transferring findings to a bioreactor format to obtain
+mature muscle fiber at tasteable proportions, maturation pertains to both
+protein content per cell as well as mature striated muscle potentially
+influencing product taste/texture)
+
+### KR1: Build infrastructure to streamline maturation studies and accurately
+analyse maturation markers
+
+  * 0.1: Identified 3 opportunities to automate and increase the throughput of our pipeline
+  * 0.2: Designed infrastructure. Protocols and consumables ready for implementation
+  * 0.3: built first iteration and characterized prototype (dry test)
+  * 0.5: first tested with cells, potential redesigned and rebuilt
+  * 0.8: Optimized pipeline for robustness, operator time savings and accuracy
+  * 1.0 Pipeline works every time with minimal standard deviation
+
+### KR2: Increase late stage maturation markers by 10x compared to non-
+stimulated baseline
+
+starting with myosin or total protein, this could open up to other maturation
+markers, such as striation, fusion index, myotube alignment or size)
+
+  * 0.2 Action all items from the (possible causes of cell death) table to achieve cell survival
+  * 0.4 Have a primary cell line capable of surviving the maturation process
+  * 0.5 Tested above cell line in stimulation infrastructure with minimal effect on viability
+  * 0.7 Significant improvement in maturation markers observed
+  * 0.9 final target improvement in markers observed (e.g. 10x protein expression)
+  * 1.0 maturation marker content increased by 10x in 3D matrix
+
+### KR3: Investigate the (nutritional/culinary) benefits of mature muscle
+
+what is the benefit of a mature muscle product? nutrient profile for mature
+muscle vs myoblast/fibroblast? B12, carnithine, creatine, myoglobin.
+https://www.biovision.com/vitamin-b12-vit-b12-elisa-kit.html
+
+https://www.notion.so/vow/Potential-nutrients-unique-to-animal-products-
+targets-for-a-mature-muscle-product-at-Vow-0fc304c611254e6cbbf01c5bd5f16bbf
+
+for next quarter: how can we improve the myoglobin content
+
+  * 0.25 Identify metabolites present in mature muscle (add to existing data)
+  * 0.5 Source and Implement suitable assays
+  * 0.75 Measure baseline of metabolites in mature muscle vs myoblasts
+  * 1.0 Measure baseline of metabolites in difference cell types/lines (myo vs fibro or DOLLY vs CHOMP)
+
+#
+
+
+
+
+Roadmap: see Shortcut
+https://app.shortcut.com/vowfood/roadmap?view=months&collapse_15993&category_ids=16258
+
+Notes from Strategy day: https://www.notion.so/vow/Q4-Muscle-
+project-850d8bf597c941c480a9fbb0166a70d5
+
+
+
+
+THE MYOBLAST SONG
+
+So many of us work on cells and DNA and protein gels
+
+and western blots and cloning genes and RT-PCR.
+
+But out of all I've seen in lab--both in the present and the past,
+
+there's none I like as much as the ingenious myoblast.
+
+A myoblast, a myoblast, the most amazing myoblast;
+
+that's in the present or the past, the most ingenious myoblast.
+
+A myoblast, a myoblast,  
+it's what we all should try a blast;  
+it's theirs or yours or his or hers  
+or my-o-blast.
+
+Their myogenic phenotype turns myoblasts into a pipe  
+that's long and multinucleate and later turns to meat.  
+You let them fuse, you let them bake--and then you've got a sirloin steak!  
+We'd all be vegetarian if not for myoblasts.  
+A myoblast, a myoblast, there's meat because there's myoblasts;  
+and so we'd starve (at least we'd fast) if it were not for myoblasts.
+
+A myoblast, a myoblast,  
+it hasn't got a chloroplast  
+because you never see in plants  
+a my-o-blast.
+
+They grow and die and die and grow and when they grow they grow so slow,  
+but oh do I just love them so, primary myoblasts.  
+You grow them in a culture dish--and then you hope and then you wish,  
+and wonder why the cells all die, those evil myoblasts.  
+The myoblasts, the myoblasts, those little evil myoblasts,  
+that's in the present or the past, they die because they're myoblasts.
+
+A myoblast, a myoblast,  
+without them we would be harassed;  
+oh what a useful object is  
+a my-o-blast.
+
+I'd love to stay and chat awhile, to run away is not my style;  
+unfortunately I must go and babysit my cells.  
+The cells will look like they're alright--and then they'll all die overnight.  
+I haven't got a life because I'm growing myoblasts!  
+Those myoblasts, those myoblasts, frustrating little myoblasts.  
+I have no life; I am aghast, because I'm growing myoblasts.
+
+A myoblast, a myoblast  
+I promise this will be the last  
+time that I sing to you about  
+a my-o-blast!
+
+
+
+copyright 1995 by Matt Springer
+
+

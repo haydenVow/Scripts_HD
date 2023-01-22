@@ -1,0 +1,123 @@
+
+
+## Performed by:  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+A8642  
+  
+KSR  
+S4435  
+  
+IGF-1  
+m9190  
+  
+b-FGF  
+m9371  
+  
+P53i  
+  
+ m6879  
+  
+HDAC1  
+4420  
+  
+HDAC2  
+4419  
+  
+Lipids  
+A9204  
+  
+RGD  
+m5606  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+M9332  
+  
+KSR  
+S4435  
+  
+IGF-1  
+m9190  
+  
+b-FGF  
+m9371  
+  
+P53i  
+m6879  
+  
+  
+  
+  
+  
+  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+A9073  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Procedure  
+
+  1. Aliquot 221 mL of base medium
+  2. Add 6G supplement ingredients and KSR to 221 mL aliquot as described in table below (this will result in ~245 mL aliquot) 
+  3. Final growth medium vol (mL)245  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Basal mediumNANANA220.5  
+KSRNANANA24.5  
+Lipid supplementNANANA0.25  
+FGF0.00010.050.0250.49  
+IGF10.00010.050.0250.49  
+PDGF0.000010.010.0020.25  
+RGD0.00013.460.0250.01  
+YIGSR0.00010.590.0250.04  
+  
+  
+  
+Total medium vol (mL)246.5183189  
+  4.   
+
+  5. Split 245 mL aliquot into 4 x 45 mL aliquots and 2 x 30 mL aliquots   
+
+  6. Add HDAC1 to 2 x 45 mL aliquots (10 and 100 ng/mL), HDAC2 to 2 x 45 mL aliquots (10 and 100 ng/mL) and P53i to 1 x 30 mL aliquots (100 nM) as described in table below. Leave 1 x 30 mL aliquot as is (control). 
+  7. Growth medium vol (mL)30 mL (P53i) /  
+45 mL (HDACs)  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+P53i (100 nM)0.0000350.0010.18  
+ ~~P53i (10 uM)~~ ~~0.00299~~ ~~5~~ ~~0.090~~ ~~17.94~~  
+  8.  ~~~~HDAC1 (10ng/mL) 0.000010.840.0000.36  
+HDAC1 (100ng/mL)0.00010.840.0033.57  
+HDAC2 (10ng/mL)0.000010.750.0000.40  
+HDAC2 (100ng/mL)0.00010.750.0034.00  
+  9. 
+
+

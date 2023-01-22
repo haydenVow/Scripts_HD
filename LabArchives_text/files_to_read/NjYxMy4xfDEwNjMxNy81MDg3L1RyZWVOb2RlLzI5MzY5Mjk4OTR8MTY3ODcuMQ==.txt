@@ -1,0 +1,83 @@
+
+
+# Culture IDs  
+
+Flask ID(s)MediumFlask TypeVessel location (weekend only)  
+8829-F-DOLLY12-Sheep P9-1of2  
+D/F+10%FBS+1XP/S  
+T25120 Ralph St-Main Lab-Sanyo Incubator 3  
+  
+8830-F-DOLLY12-Sheep P9-2of2  
+  
+8831-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(OLD_Richcore)  
+  
+8832-F-DOLLY12-Sheep P9-2of2  
+  
+8833-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(NEW _Richcore)  
+  
+8834-F-DOLLY12-Sheep P9-2of2  
+  
+8835-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(SIGMA)  
+  
+8836-F-DOLLY12-Sheep P9-2of2  
+
+
+  
+  
+### Observations/Summary:
+
+F_DOLLY12 cells were grown in 3 different types of E8_9C cells, each with a
+different type of recombinant human albumin (r_HA).They included:
+
+2x T25 flasks with E8_9C media + r_HA (from richcore, using an old batch)  
+2x T25 flasks with E8_9C media + r_HA (from RIchcore, using an new batch but
+with the same catalogue number as the old batch)  
+2x T25 flasks with E8_9C media + r_HA (from Sigma)  
+  
+These 3 ACF treated groups were compared against 2x (T25 flasks) controls
+grown in D/F+10%FBS+1XP/S  
+  
+All 3 ACF treated groups appeared to detach from the surface of the T25 flask.
+In comparison, the control cohort (grown in D/F_10%FBS+1XP/S) appeared to
+still be adhered to the flask.  
+  
+We observed similar findings were observed in trial 1 of this experiment but
+the extensive cell death and detachment from the flask surface was observed on
+day 5 (rather than day 7 for this trial). The main difference between trial 1
+and 2 is the use of E8_9C. Without the glyoxylic acid, they appeared to last
+1-2 days longer than trial 1(which used E8_10C medium).  
+  
+  
+Further optimisation of the E8_10C media is needed to be compatible for
+fibroblast growth and proliferation.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Images were taken at Phase 10X and 4X magnification.  
+  
+10% FBS:  
+8829: https://mia-capture.vow.tools/#/session/recWPynIzuU6rJAmi/images  
+8830: https://mia-capture.vow.tools/#/session/recKyNFjsvVuRLY75/images  
+  
+E8_9C+rHA (OLD_Richcore):  
+  
+8831: https://mia-capture.vow.tools/#/session/recAMpIDmGNNeUJNK/images  
+8832: https://mia-capture.vow.tools/#/session/receSrh2VrhjOolIa/images  
+  
+E8_9C+rHA (New_Richcore):
+
+8833: https://mia-capture.vow.tools/#/session/recLOtYT296SJ6v4K/images  
+8834: https://mia-capture.vow.tools/#/session/reczvppiIoU7R4DJZ/images  
+  
+E8_9C (Sigma):  
+8835: https://mia-capture.vow.tools/#/session/rechN18xhexMpd1bJ/images  
+8836: https://mia-capture.vow.tools/#/session/recSK6liDTSahbkkD/images  
+  
+
+

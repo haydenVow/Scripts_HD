@@ -1,0 +1,264 @@
+
+
+## Experiment Design
+
+
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2.5 x 6 well plates - PTEN + PABPC1  
+10438, 10439  
+  
+10437: ROW 1  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+4x ULA 384-wp  
+1x TCT 384-wp  
+10546 - suspension pool  
+10554 - suspension plate  
+10555 - suspension plate  
+10556 - suspension plate  
+10558 - adherent plate  
+  
+  
+2.5 x 6 well plates - IGFBP4  
+ 10435, 10436  
+  
+10437: ROW 2  
+  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+4x ULA 384-wp  
+1x TCT 384-wp  
+10547 - suspension pool  
+10552 - suspension plate  
+10553 - suspension plate  
+10557 - adherent plate  
+  
+  
+2 x 6 well plates - Wild type controls  
+10433, 10434  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+10545 - suspension pool  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Suspension media mixSee FACS preparation page  
+  
+Adherent media mixSee FACS preparation page  
+  
+Tryple9282  
+  
+dPBS10378  
+  
+Hotshot mix  
+  
+Neutralising buffer  
+  
+Growth media to neutralize  
+  
+  
+  
+
+
+Procedure
+
+
+PREPARE DESTINATION VESSELS
+
+  1. Removed adherent and suspension media mixes from the fridge (See FACS preparation lab book entry for this EPIC) 
+  2. 8 x 384 well ultra low attachment plates were filled with 50uL of Hycell Cho growth media. 
+  3. 2x 384 well adherent plates were filled with 50uL of DMEM/F12 + 20% FBS + 1xP/S growth media. 
+  4. 5mL of Hycell Cho growth media was added to 3 x 50mL bioreactor tubes. 
+  5. 12mL of DMEM/F12 + 20% FBS + 1xP/S growth media was added to 3 x T75 flasks. 
+  6. 384 well plates were parafilmed before closing the lid (sterile-side down, facing wells, as demonstrated in image below) & then lids and plates were parafilmed together (same fashion as is done for fix and stained plates in fridge) for transport to FACS sorting facility. 
+  7. Media for bioreactor tubes and flasks were placed in the water bath at 30 degrees to warm.
+
+
+
+
+Passaging of PTEN and PABPC1 knockouts  
+  
+Cultures 10303 and 10305 were removed from the incubator for passage around
+10:50am.  
+Plates were transported from the Library lab into the Main lab for passage
+since there was no available hood space
+
+
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent below, placed all aliquots
+to warm in the bead bath for a minimum of 20 minutes prior to use:
+
+  1. TrypLE:  2mL per well 
+  2.  dPBS (for neutralising & washing):  4mL per well 
+
+3\. Time that all aliquots were placed in the water bath the warm before use
+10:50 am  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+Suspension cultures and adherent cultures were set up prior to 12pm. Passage
+started at around 10 am. Cells were later harvested for FACS sorting after
+lunch starting at 13:00.  
+
+  * [ST] Cultures 10438, 10439, 10433 and 10434  were passaged starting at 10:30. 
+  * [NH] Cultures 10435, 10436 were passaged starting at 11:00, Only Row 1 of culture 10436 was taken for further adherent culture. The rest of the wells were dedicated to a suspension bioreactor tube (50mL)   
+
+  * Culture 10437 was passaged starting at X
+
+The following passaging protocol was followed for each passage of nucleofected
+cells from each knockout/control, The supernatant from any wells destined for
+suspension culture vessels (as specified above) were also collected instead of
+discarded prior to typlisation where applicable. Wells destined for adherent
+culture as mentioned above had supernatant collected only after Tryple
+incubation. Knockouts were kept in separate tubes.  
+
+* * *
+
+4\.  Removed culture supernatant and washed each well GENTLY with 2mL of dPBS
+(warmed).  
+
+5\. removed dPBS wash and added   2  mL tryple to each well, cells were then
+incubated at 37˚C for 5 minutes.  
+
+6\. Supernatant was collected into a 50mL tube empty wells were washed with
+1.5 ml  of dPBS. dPBS wash was then collected into the same tube containing
+trypalised cells.  
+
+7\. Centrifuged at 400 x g for 5 min.  
+
+8\. Aspirated and discarded the supernatant(s).
+
+9\. Resuspended pellet(s) in   2 ml (suspension culture) OR 1 mL (adherent
+cultures) OR 1mL (FACS) mL   Hycell Cho + supplements (suspension) OR DMEM/F12
++ 20% FBS + 1X P/S (adherent) OR  PRF DMEM/F12 + 2% FBS (FACS) respectively  
+
+10\. Aliquoted 10uL of cell suspension for counting using a hemocytometer,
+mixing 1:1 with Trypan blue.
+
+11\. Cell suspension was counted and the cell concentration and total cell
+number was determined for each group in the document below.
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2025:2030
+
+  * IGFBP4 (10435 + Row 2 of 10436) : 4,500,000 cells  
+
+  * IGFBP4 (Row 1 of 10436) : 1,356,000 cells  
+
+  * PABPC1 + PTEN (9 wells from 10438, 10439): 4,620,000
+  * PABPC1 + PTEN: (3 wells from 10438, 1043): 
+  * Control (9 wells from 10433, 10434): 4,140,000
+  * Control (3 wells from 10433, 10434); 
+
+  
+
+
+
+
+SETTING UP ADHERENT POOLED CULTURES
+
+  1. For each knockout/control an aliquot of counted *adherent cell suspension (containing 5.25 x 10^6 cells) was transferred to a T75 dish containing 12mL of DMEM/F12 + 20% FBS + 1xPS media prepared earlier.
+  2. Plates were left to incubate at 30 degrees, 5% CO2 (incubator #68 ) static. 
+
+  
+
+
+
+
+SETTING UP SUSPENSION POOLED CULTURES
+
+  1. After cell counting of cells destined for suspension cultures, each knockout/control condition was transferred to a 50mL bioreactor tube.
+  2. Tubes were left to incubate at 30 degrees, 5% CO2 (incubator # ) shaking at 205 rpm 
+
+  
+
+
+
+
+FACS SORTING SUSPENSION CELLS
+
+  1. Once cell suspensions were counted after passage cells were transferred to a 1.5 mL tube and centrifuged again at 400g for 5 minutes
+  2. Supernatant was removed. 
+  3. Cells were resuspended in 1mL of FACS buffer per sample
+  4. An esky box was packed for transport to the FACS facility 
+    1. Pre-filled (medium) multi-well plates (10x384), parafilmed
+    2. An ice pack
+    3. Extra FACS Buffer prepared earlier. 
+    4. Stained and filtered cells from each group. 
+    5. 2x 0.22um filter capped tubes. 
+  5. Once at the FACS facility: 
+    1. Samples were passed though 0.22um filter lids into sample collection tubes
+    2. A live dead stain was added to each of the sample tubes. 
+    3. Cells from each condition were sorted into 4 x 384 well plates each containing suspension adapted media AND 1x 384 well plate containing adherent media, 1 cell per well  
+    4. Time taken to sort all plates: 
+  6. Plates were transported back to Vow and moved directly to the incubator at 30 degrees, 5% CO2 (Incubator number # ) 
+
+
+
+
+DNA EXTRACTION
+
+Screening PCR protocol - DNA extraction of adherent CHOMP
+
+1.    Transferred a sample of 100,000 cells from each group into separate 1.5 ml tubes. 
+
+2.    Centrifuged cells down to form a pellet (300g for 5 minutes)
+
+3.    Aspirated off media
+
+4.    Resuspended pellet in 100 ul PBS
+
+5.    Centrifuged cells down to form a pellet (300g for 5 minutes) 
+
+6.    Aspirated off PBS
+
+10.  Stored  cell pellets at −20°C (fridge/Freezer ID #) 
+
+  
+
+  
+
+
+
+
+## Observations
+
+  
+
+
+
+
+## Reference Images
+
+  
+
+
+
+
+

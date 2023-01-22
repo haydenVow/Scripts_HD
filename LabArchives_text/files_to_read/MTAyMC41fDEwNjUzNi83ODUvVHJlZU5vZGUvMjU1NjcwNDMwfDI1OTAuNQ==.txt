@@ -1,0 +1,88 @@
+
+
+Experimental Plan:
+
+  
+
+  
+
+  
+
+
+
+
+96-well-plates
+
+DAY 0: Seed 4 x 96 well plates with 2240 cells/well in 140 uL/well:
+
+  1. Thaw 1 WCB of F-DOLLY12 and seed 4x96 well-plates with the required number of condition columns (6 wells per column, as seen above):
+  2. Label 4x96 well plates as a designated time point: 24h (1), 48h (2), 72h (3), and 96h (4).
+  3. Place plates in the incubator at 37'C, 5% CO2. 
+
+Note: place 140uL dPBS in every well around the outside of the plate, as seen
+in the example well-plate above.
+
+Day 1: 24 hours later, fix and DAPI stain one plate. On the remaining 3
+plates, do a 50% Feed.  
+
+  1. Following completion of the fix and DAPI protocol, use the Zaber to image all of the DAPI stained wells.
+  2. For storage and in case of later analysis, use parafilm to seal the plate. Then cover the plate in foil (labelled) and place in the fridge.
+
+Note: Detailed instructions for fix and DAPI stain are found on the
+corresponding data pages
+
+Day 2: Fix and DAPI stain 48h plate and image with Zaber using MIA capture
+
+  1. Repeat instruction from previous day on plate (2)
+
+Day 3: Fix and DAPI stain 72h plate and image with Zaber using MIA capture
+
+  1. Repeat instruction from previous day on plate (3)
+
+Day 4: Fix and DAPI stain 96h plate and image with Zaber using MIA capture
+
+  1. Repeat instruction from previous day on plate (4)
+
+  
+
+Continuous Culture in T-Flasks
+
+* A minimum of 1 flask must be used for this culture but more can be used if desired/required  
+
+DAY 0: Seed at least 1 Flask at 7,500cells/cm2
+
+  1. After seeding the 4 x 96-well-plates, use the remaining cells to seed at least 1 x Flask @ 7,500cells/cm2 in the new batch of In-House media
+  2. Label the flasks and place them in an incubator at 37'C, 5% CO2.
+
+Day 1: 50% Feed
+
+Day 4: P2 (move cells into a new flask/s)
+
+  1. Harvest the cells from the previous flask/s and seed them into a new flask/s at a seeding density of 7,500cells/cm2
+  2. Label the flask/s and place them in an incubator at 37'C, 5% CO2.
+
+Day 7: 50% Feed
+
+Day 9: P3 (move cells into a new flask/s)
+
+  1. Harvest the cells from the previous flask/s and seed them into a new flask/s at a seeding density of 7,500cells/cm2
+  2. Label the flask/s and place them in an incubator at 37'C, 5% CO2.
+
+Day 14: 50% Feed
+
+Day 15: P4 (move cells into a new flask/s)
+
+  1. Harvest the cells from the previous flask/s and seed them into a new flask/s at a seeding density of 7,500cells/cm2
+  2. Label the flask/s and place them in an incubator at 37'C, 5% CO2.
+
+Day 18: 50% Feed
+
+Day 21: Harvest
+
+  1. Harvest the cells from the flask/s
+
+  
+
+  
+
+

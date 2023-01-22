@@ -1,0 +1,53 @@
+
+
+## Completed by: Sam Rathbone (Bones)
+
+
+Aim/Purpose
+
+
+To determine the optimal microcarrier candidate for this cell line, in order
+to optimise cell mass growth when grown in a adherent carrier based bioreactor
+system
+
+
+Hypothesis
+
+
+The microcarriers will show similiar proliferation rates across each carrier,
+however the harvest efficiency will differ between them.
+
+
+Technical Gap
+
+
+  1. Limited experience working with carriers, either macro or micro, and may encounter difficulties.
+  2. Many of the characteristics of these carriers are unknown due to limited information provided by the supplier.
+
+
+Method/Procedure
+
+
+BRIEF PROCEDURE OVERVIEW
+
+  1. Prepare/reconstitute carriers
+    1. Prepare glassware/containers: Glassware may need to be treated with siliconising reagents to limit loss of microcarriers to their surface
+    2. If necessary, sterilise them according to the manufacturers instructions
+    3. A media equilibration step may be required before use to flush out storage buffers and/or preservatives
+  2. Prepare cell inoculum:
+    1. Chose a model cell type and cell line that is kept consistent across all tests for all microcarriers as an initial screen
+    2. Additional cell types and lines may be implemented as a second screen once we acquire data on the differences between cell types on each carrier
+    3. Grow up a WCB to supply a uniform population of cells for all tests, or for as many tests as possible
+    4. Grow the required cell number for each screening experiment from the WCB produced above.
+    5. Seed the carriers with cell inoculum according to the manufacturer's instructions, if provided. Otherwise determine optimal seeding density/cm2 for 2D adherent cell culture and transfer appropriate amount of cells based on the surface area of the microcarrier.
+  3. Add the seeded carriers to ultra low attachment plates
+    1. 24-well ultra low attachment plate in a static format is the current preferred method here unless it doesn't make sense due to some limitation of the specific carrier(s) being tested
+  4. Incubate on shaker plates at intermittent shaking routine
+  5. Sample carriers at 1, 4 and 7 days for DAPI and Live/Dead analysis.
+  6. Harvest at 8 days.
+  7. Carrier candidate that performed the highest in metrics and achieved minimal bench marks is transferred to scale up stage.
+
+
+
+
+

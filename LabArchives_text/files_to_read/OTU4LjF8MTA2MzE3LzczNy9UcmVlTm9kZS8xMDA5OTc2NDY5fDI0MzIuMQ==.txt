@@ -1,0 +1,110 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 31 mL
+
+Total p38i required: 15.5 uL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+E125 flasks  
+6617-DOLLY12-Sheep P11-1of2  
+6618-DOLLY12-Sheep P11-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted   31 mL  mL of  D/F + 20% FBS + 1x P/S + 10uM p38i into  1 sterile container. Placed in water bath   17:53 a/pm 
+  2. Removed flasks from incubator 18:06
+  3. Tilted E125 flask and waiting for carriers to settle.
+  4. Removed  50  % of supernatant from vessel. 
+  5. Replaced with  15mL (per well/per vessel) of   growth  media. 
+  6. Returned vessel to incubate at: 18:15
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [X]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+6617-DOLLY12-Sheep P11-1of2  
+6618-DOLLY12-Sheep P11-2of2  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+D/F + 20% FBS + 1x P/Sm4695  
+  
+  
+ P38i (20mM stock)m4398  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

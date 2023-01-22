@@ -1,0 +1,56 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+
+
+To determine whether the Nuvonis cells can grow at the same rate with a 100x
+reduced ACA concentration and/or no ACA.  
+
+
+Hypothesis
+
+
+We hypothesise that the Nuvonis cells will not be significantly impacted by
+the reduction and/or removal of ACA in the medium, as they are already
+suspension adapted.
+
+
+Technical Gap
+
+
+ACA is currently used at a 1:100 concentration with our Nuvonis suspension
+cell line. This is based off the medium formulation provided for us from
+Nuvonis. As we scale up to the 2kL bioreactor, ACA becomes a very expensive
+ingredient at a 1:100 concentration. It is also difficult to procure large
+quantities quickly. In this experiment we will test whether the cells are
+impacted by a reduction to a 1:1000 concentration, and/or by the complete
+removal of the ACA.
+
+
+Method/Procedure
+
+
+  1. Day 0 Make up 4 x media types:
+    1. 50/50 RPMI/HyCell + no ACA
+    2. 50/50 RPMI/HyCell + 1:1000 ACA
+    3. 75/25 RPMI/HyCell + no ACA
+    4. 75/25 RPMI/HyCell + 1:1000 ACA
+  2. Day 0 Seed cells into above conditions as follows (cells are coming from continuous culture experiment):  
+Sub-cultured flask conditionSeeded flask conditionCell countCell density  
+50/50 RPMI/HyCell + 1:100 ACA50/50 RPMI/HyCell + no ACA1,000,00050,000
+cells/mL  
+50/50 RPMI/HyCell + 1:1000 ACA  
+  
+75/25 RPMI/HyCell + 1:100 ACA  
+75/25 RPMI/HyCell + no ACA  
+  
+75/25 RPMI/HyCell + 1:1000 ACA  
+  
+  3. Day 3 Perform 2 x cell counts of each flask and reduce seeding density to below 1M/mL if necessary. Note any observations, especially around cell clumping.  
+  4. Day 4 Perform 2 x cell counts of each flask. Note any observations, especially around cell clumping. 
+  5. Day 4 Calculate cell doubling times and compare performance of conditions
+
+

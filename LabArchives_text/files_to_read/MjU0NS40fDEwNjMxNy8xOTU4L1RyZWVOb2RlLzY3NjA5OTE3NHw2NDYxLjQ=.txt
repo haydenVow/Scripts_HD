@@ -1,0 +1,52 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+Hypothesis
+Technical Gap
+Method/Procedure
+DateTaskAdditional Notes  
+18-JuneEquilibrate 3xE125 flasks and 6x50mL bioreactor tubes with Cytodex 1
+microcarriers. Equilibrate all vessels with 4.5mg/mL of cytodex 1
+microcarriers (19,350 carriers/mL), from 20g/L stock.  
+  
+30mL for E125 flasks (90mL total), 10mL for 50mL tubes (60mL total).  
+  
+DMEM/F12 + 20% FBS + 1xP/S + 10uM p38i + 1% w/v poloxomer 188 growth media.  
+  
+18-JuneSeed all 9 vessels with DOLLY12 cells Seed each vessel at 67725cells/mL
+(3.5 cells per carrier)  
+  
+Shake 3x50mL tubes at ~250rpm  
+Shake 3x50mL tubes at critical shaking speed (to be determined bye eye as the
+speed in which the carriers go from resting state to suspension, incremental
+speed increase necessary to determine).  
+  
+Shake E125 flasks at standard 110rpm.  
+19-JuneSample, Stain and Image samples from each vessel, 3x20uL from each
+vessel. Use the Zaber for imaging under PHASE and DAPI channels, 1 image on
+centre of each well. Process using MIA captures 'uCarrier cell count' tool.  
+  
+Mix samples with dPBS containing 1% w/v poloxamer 188 and 20uL/mL of Hoechst
+33342 and wait 20 minutes before imaging. (100uL max volume prior to imaging)/  
+  
+Take whole well images as well to confirm carrier numbers in each vessel.  
+20-June50% Feed all vessels Growth media feed, same as seed media.  
+  
+5mL for 50mL tubes, 15mL for E125 flasks.  
+21-Juneno action  
+  
+22-25 JuneSample, Stain and Image samples from each vessel, 3x20uL from each
+vessel.  
+Use the Zaber for imaging under PHASE and DAPI channels, 1 image on centre of
+each well. Process using MIA captures 'uCarrier cell count' tool.  
+  
+Mix samples with dPBS containing 1% w/v poloxamer 188 and 20uL/mL of Hoechst
+33342 and wait 20 minutes before imaging.  
+  
+Feed tubes/flasks with a 50% media change on the 23rd.  
+28-30th-JuneAnalyse proliferation data to determine doubling rates.  
+
+

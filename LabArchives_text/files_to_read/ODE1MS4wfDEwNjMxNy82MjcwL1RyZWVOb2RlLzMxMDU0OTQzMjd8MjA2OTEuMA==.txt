@@ -1,0 +1,75 @@
+
+
+## Completed by: Lily
+
+
+Aim/Purpose
+
+
+To generate a standard curve for XTT assay work and to determine whether this
+assay is sensitive enough to detect cells at a density of <50 cells per well.
+
+
+Hypothesis
+
+
+We hypothesise that an XTT assay will provide reliable readings for wells
+containing 50-200,000 cells, and that we will generate a calibration curve
+that will be used for future XTT assay work.
+
+
+Technical Gap
+
+
+We have not used XTT assays to assess suspension cell metabolism and growth.
+The assay reports accuracy between 50 and 20,000 cells per well (). We want to
+see what the lowest cell density is where we can detect a meaningful colour
+change to determine whether it would give relative readings at low confluence
+at early SCC stages.
+
+
+Method/Procedure
+
+
+20-Jan-2022 Update: found out that plates need to be un-treated for use in the
+plate reader, however we do not have untreated 384-wps. For future SCC work,
+we also need to know if we can use ULA plates in the plate reader, as this is
+also a type of coating. For now, proceeding with just 96-well plates
+(untreated) and will test 384-well plates when I have more information.
+
+
+
+
+See here for XTT assay methodology: https://assets.fishersci.com/TFS-
+Assets/LSG/manuals/MAN0017857_CyQUANT_XTT_Cell_Viability_Assay_UG.pdf
+
+  
+
+DateTaskNotes  
+20-01-22Thaw 2M adherent CHOMP fibroblasts into 1 x 384-wp and 1 x 96-wp (see
+diagram below table for cell seeding densities) Thawing at same time as CHOMP
+for SCC (need 2,367,336 cells for this experiment)  
+  
+50 uL per well for 384-wp  
+100 uL per well for 96-wp  
+20-01-22Familiarise self with plate reader functionalities  
+  
+21-01-22Seed 1 x 384-wp and 1 x 96-wp with CHO-S cells  Get cells from Adrian.
+Want to see if cells in suspension behave similarly with XTT assay  
+  
+Prepare XTT working solution and perform XTT assay on 4 x plates  
+Stain takes ~3h to incubate, so need to do this earlier in the day  
+  
+24-01-22Run plates on plate reader Testing if colour develops over time  
+26-01-22Run plates on plate reader  
+  
+28-01-22Run plates on plate reader  
+  
+  
+  
+
+x 2 (1 x CHO-S & 1 x CHOMP fibroblasts)x 2 (1 x CHO-S & 1 x CHOMP fibroblasts)
+
+  
+
+

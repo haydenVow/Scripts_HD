@@ -1,0 +1,101 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents & Materials
+
+  
+
+Item  
+ID # (cat # if ID not applicable)  
+Details  
+  
+3:1 RPMI:Hycell MixMIX-12495N/A  
+Freestyle Nuvonis suspension medium  
+MIX-12230N/A  
+EGF  
+0.05/mL  
+IGF  
+0.05/mL  
+  
+  
+
+
+
+
+Culture IDs
+
+  
+
+Culture IDNew Culture ID (following passage)Type  
+12066  
+12124 (A)E500  
+12125 (B)E500  
+  
+12126 (C)E500  
+  
+  
+  
+
+
+
+
+Cell Count:
+
+  1. Sampled 1mL per flask for trypan blue staining & counting
+  2. For manual counting, pipetted 20uL suspension and diluted with an equal volume of trypan blue for 1:2 dilution and performed cell count (manual)
+  3. Sampled 200ul from 1mL aliquot in eppendorf tube. Placed Nucelocounter cassette in tube and depressed cassette 
+  4. Counts:
+    * 12065 (Freestyle for WCB): 
+      * Manual count: 575 000 cells/mL
+      * Nucleocounter count: 645 000 cells/mL (90.9% viability, 21.3 um diameter, 7.4% aggregation)
+    * 12066 (50% 3:1 Mix):  
+      * Manual count: 655 000 cell/mL
+      * Nucleocounter count: 817 000 cell/mL (96.2% viability, 22.1 um diameter, 9.0% aggregation)
+    * 12067 (50% 3:1 Mix):  
+      * Manual count: 610 000 cell/mL
+      * Nucleocounter count: 783 000 cell/mL (97.9 % viability, 22.2 um diameter, 6.6% aggregation)
+    * 12068 (50% 3:1 Mix):  
+      * Manual count: 565 000 cell/mL
+      * Nucleocounter count: 733 000 cell/mL (94.6% viability, 22.8um diameter, 10.2% aggregation)
+
+
+
+
+Process:
+
+Passage
+
+  1. Cell counted cells as per above
+  2. Calculated media and cell suspension requirements for x3 E500 flasks:
+    * 42mL cell suspension (32M per flask, 200k cells/mL)
+    * +118mL newly prepared media with growth factors
+  3. Incubated newly prepared media in bead bath at 3:10pm
+  4. Added 118mL to each E500 flask (x3) and added growth factors at 3:50pm:
+    * +118ul IGF per flask
+    * +23.6uL EGF per flask
+  5. Passaged cells from flask ID 12066 - removed 42mL x3 and deposited into flasks with newly prepared media
+  6. Returned flasks to incubation at 4:11pm
+    * 120 RPM
+    * 37degC
+
+Cryopreserve vials
+
+  1. Calculated volume to resuspend entire contents of cell culture flask in for 7.5M cells/mL
+    * 97 600 000M total
+    * = 7.5M/mL x 14 vials
+  2. Added 7mL Freestyle Nuvonis media to falcon tube, labelled 'Freeze'
+  3. Added 5950uL Freestyle Nuvonis media + 1050uL DMSO labelled 'Freeze + DMSO'
+  4. Incubated media in bead bath at 3:10pm
+  5. Removed flask from incubator and brought into BSC at 3:20pm
+  6. Aspirated cell suspension and deposited evenly between 50mL falcon tubes
+  7. Centrifuged tubes at 310xg for 8 minutes
+  8. Aspirated supernatant and resuspended each tube with 1mL media. Collected cells and deposited into single falcon tube with P1000. Rinsed x3 falcon tubes with 1mL and deposited into same falcon tube again
+  9. Prepared cryovials and placed in foam Mr Frosty
+  10. Added drop-wise 'Freeze + DMSO' and resuspended gently
+  11. Added 1mL per cryovial and transferred to -80degC freezer at 3:45pm 
+
+

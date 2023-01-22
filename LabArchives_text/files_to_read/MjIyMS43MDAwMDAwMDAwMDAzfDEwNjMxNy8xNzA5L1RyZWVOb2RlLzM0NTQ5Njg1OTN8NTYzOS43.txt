@@ -1,0 +1,188 @@
+
+
+## Performed by: Tom Tarento & Jared Bergman  
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Harvested the cells
+
+  1. Cells detached according to protocol.
+    1. Placed 500 mL bottle of FROZEN Trypsin in water bath 14:25
+    2. Placed 800 mL of growth medium in the water bath 14:30
+    3. Prepared 2 L of dPBS
+    4. dPBS placed in water bath
+    5. Turned off level control
+    6. Turned off dissolved oxygen control
+    7. Pumped remaining growth medium into bioreactor 15:30
+    8. Pumped liquid out of bioreactor until level reached the bottom of the impeller 15:43 - 16:05
+    9. Pumped in 1 L of dPBS 16:05 - 16:15 
+    10. Pumped liquid out of bioreactor until level reached the bottom of the impeller 16:15 - 16:25
+    11. Pumped in 1 L of dPBS
+    12. Pumped liquid out of bioreactor until level reached the bottom of the impeller 16:45 - 16:55
+    13. Pumped in 500 mL of Trypsin 17:00 - 17:07
+    14. Increased stirring to 300 RPM 17:07
+    15. After 7 minutes, pumped in 500 mL of growth medium 17:14 - 17:20
+    16. Reduced stirring to 90 RPM 17:20
+    17. Harvested cell suspension until level reached the bottom of the impeller 17:21 - 17:30
+    18. Transferred cell suspension to 40 x 50 mL tubes
+    19. Centrifuged the tubes at 650 RCF for 5 minutes
+    20. Aspirated 49 mL from each tube
+    21. Resuspended the cells and combined the remainder into 1 tube
+    22. Took 3 x 1 mL samples of microcarriers for analysis for post harvest nuclear ejection analysis
+    23. Performed manual cell count
+  2. Logging stopped.
+  3. Temperature control stopped. 17:31
+  4. pH control stopped. 17:31
+  5. Dissolved oxygen control stopped. 17:31
+  6. Performed manual cell count 19:15
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp19:40  
+NotesNeed to turn off process controls and clamp air line before starting
+harvest  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+dPBS for pre wash  
+  
+  
+  
+Trypsin  
+S1880  
+500 mL  
+  
+Growth medium for neutralizing  
+M4928 + A4765 + A4767 + M5062  
+800 mL  
+  
+dPBS for post wash  
+  
+  
+  
+  
+  
+
+
+
+
+Decontaminated bioreactor
+
+  1. Filled all connected bottles with 100 mL of 70% ethanol
+  2. Pumped the 70% ethanol through the tubing and into the bioreactor
+  3. Cut off the tip of the sampling tube and discarded.
+  4. Pumped 50 mL of 70% ethanol back through the sample tube.
+  5. Disconnected and removed the pH probe:
+    1. Wiped with 70% ethanol
+    2. Rinsed with water
+    3. Wiped with a lint-free cloth
+    4. Filled the storage cap with3.5 M KCl
+    5. Replaced the storage cap and stored the probe upright
+  6. Disconnected and removed the DO probe:
+    1. Wiped with 70% ethanol
+    2. Rinsed with water
+    3. Wiped with a lint-free cloth
+    4. Filled the storage cap with tap water
+    5. Replaced the storage cap and stored the probe upright
+  7. Disconnected and removed the level probe:
+    1. Wiped with 70% ethanol
+    2. Rinsed with water
+    3. Wiped with a lint-free cloth
+    4. Stored the probe in a thickly-padded foam box
+  8. Pumped the 70% ethanol out of the bioreactor and into an empty waste bottle.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp18:45  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Cleaned the bioreactor vessel
+
+  1. Added pH neutral, non-corrosive, bacteriostatic cleaning agent to the bioreactor, filling all the way to the headplate.
+    1. Added ~3.5 L of 0.5% (v/v) Sonidet detergent solution
+  2. Left the stirrer on at 300 RPM overnight.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp19:25  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Turned off the gas supply
+
+  1. Turned off the aeration and any other gases.
+  2. Turned all of the gas supply regulators to 0 pressure.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp19:30  
+  
+Notes  
+  
+  
+  
+  
+
+

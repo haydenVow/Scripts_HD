@@ -1,0 +1,358 @@
+
+
+## Performed by: Tom Tarento  
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Filled medium feed bottle
+
+  1. Transferred 1.7 L of DMEM/F12 + 20% FBS + 1% P/S (A4765 + A4767 + 1.1 L M5062) to a 2 L Schott bottle with STT connector and pressure equalization lid.
+  2. Added 1.7 mL of P38 inhibitor (M4928).
+  3. Connected bottle to long feed line.
+  4. Wrapped bottle in aluminium foil.
+  5. Transferred bottle to fridge (#74) under the bioreactor bench.
+  6. Fitted feed line to the SUBS-B pump head.
+  7. Primed the line with culture medium.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp10:15  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Finished sterility test
+
+  1. Took a sample and transfer it to the well of a well plate.
+  2. Observed the sample under the microscope.
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesSigns of contamination include cloudy culture medium, motile particles
+visible under the 60x or 100x objective.  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1.  ~~Ran the calibration routine as per the operating manual~~
+    1.  ~~Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.~~ ~~~~
+    2. Calibration not performed as no nitrogen gas flowed form the regulator
+    3.  ~~Set that level as 0%~~
+    4.  ~~Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.~~
+    5.  ~~Set that level as 100%~~ ~~~~
+
+Reference Operating manual page(s) 76, 43  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp13:37  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set level probe
+
+  1.  ~~Loosened the nut around the antifoam/level probe.~~
+  2.  ~~Gently rotated and pulled the probe out until it reached the desired height.~~ ~~~~
+  3. Tightened the nut until finger tight.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp13:40  
+  
+NotesNEVER push the probe back into the bioreactor after autoclaving as this
+can introduce contamination.  
+  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment: 20210528EPIC16072
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp13:40  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E250  
+6858  
+2 L bioreactor  
+6898  
+  
+E500  
+6859  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionNone  
+  
+TrypleNone  
+  
+dPBS (for washing & neutralising)None  
+  
+Growth MediaA4765 + A4767 + M5062 + A4775  
+  
+p38i (20mM stock)M4928  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreoactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells (5.5 million in 11 mL) to the seed bottle.
+  4. Added 600 uL of P38i to the bottle.
+  5. Washed out the cell tube 2x with a total of 19 mL
+  6. Made an aseptic connection between the bottle and the bioreactor seed line.
+  7. Pumped the 30 mL seed cell suspension into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set intermittent stirring schedule for microcarrier culture
+
+  1. Turned off automatic pO2 control.
+  2. Open the "STIRR" menu
+  3. Open the "PROFILE" sub-menu
+  4. Set intermittent stirring for 2 minutes after 30 minutes
+    1. Set a timepoint for 000:00:00 with 0 RPM pump output.
+    2. Set a timepoint for 000:30:00 with 0 RPM.  
+
+    3. Set a timepoint for 000:30:01 with 90 RPM.
+    4. Set a timepoint for 000:32:00 with 90 RPM.
+    5. Set a timepoint for 000:32:01 with 0 RPM.
+  5. Set intermittent stirring for 2 minutes after 60 minutes 
+    1. Set a timepoint for 001:00:00 with 0 RPM.
+    2. Set a timepoint for 001:00:01 with 90 RPM.
+    3. Set a timepoint for 001:02:00 with 90 RPM.
+    4. Set a timepoint for 001:02:01 with 0 RPM.
+  6. Continue setting for other timepoints  
+
+    1. The maximum number of profile points is 32, so intermittent stirring can only be set for up to 4 hours using a square wave speed profile.  
+The speed in the first profile should be 0. If the speed in the first profile
+point is greater than 0, the stirrer will gradually increase in speed to this
+speed, rather than jumping up to to that speed at that time.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Programmed the feed schedule:
+
+  1. To create a schedule to to turn on the pump after 2 days (48 hours) for 22.5 minutes (~450 mL at ~20 mL/minute), followed the instructions below:  
+
+    1. Opened the SUBS-B pump menu
+    2. Changed the SUBS-B MODE to MANUAL:OFF  
+
+    3. Opened the PROFILE sub-menu
+    4. Set a timepoint for 000:00:00 with 0% pump output.
+    5. Set a timepoint for 048:00:00 with 0% pump output.  
+
+    6. Set a timepoint for 048:00:01 with 100% pump output.
+    7. Set a timepoint for 048:22:30 with 100% pump output.
+    8. Set a timepoint for 048:22:31 with 0% pump output.
+  2.  ~~To create a schedule to to turn on the pump again after 4 days (96 hours) for 45 minutes (~900 mL at ~20 mL/minute), followed the instructions below:  
+~~ ~~
+
+    1.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    2.  ~~Set a timepoint for 096:00:00 with 0% pump output.  
+~~
+
+    3.  ~~Set a timepoint for 096:00:01 with 100% pump output.~~
+    4.  ~~Set a timepoint for 096:45:00 with 100% pump output.~~
+    5.  ~~Set a timepoint for 096:45:01 with~~ ~~ ~~0% pump output.~~ ~~~~  
+~~
+
+~~
+
+  3. To program the pump to follow the schedule:  
+
+    1. Changed the SUBS-B MODE to PROFILE
+    2. Closed the menu
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp17:00  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+None.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None.
+
+

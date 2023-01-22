@@ -1,0 +1,126 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by:
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+ x T175  
+96 well plate  
+96 well plate  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA  
+TrypleN/A  
+  
+dPBS (for washing & neutralising)N/A  
+  
+Growth Media  
+  
+p38i (20mM stock)M  
+  
+  
+  
+
+
+
+
+For both plates, the cell requirement is 540,000 cells in total.
+
+13\. Transferred           µl of cell suspension containing        cells  to
+the pre-warmed           mL Growth media:      :    a/pm
+
+14\. Transferred cell suspension into the pre-gelatin coated
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      :  \-  :
+a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

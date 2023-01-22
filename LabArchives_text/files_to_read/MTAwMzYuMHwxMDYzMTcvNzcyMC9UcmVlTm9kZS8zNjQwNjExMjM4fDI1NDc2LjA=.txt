@@ -1,0 +1,75 @@
+
+
+Passaging PABPC1 clones, 5D, 5E, 5A, 6C  
+
+1\. Aspirated and discarded the supernatant from wells on plate 11387  
+
+2\. washed each well with 1 mL dPBS (a10920)  
+
+3\. Aspirated and discarded the wash and added 1mL of Tryple (a11014)  
+
+4\. incubated at 30 degrees for 8 minutes  
+
+5\. neutalised with 1mL of dPBS and collected cell suspensions into 15mL
+tubes, Removed 600uL and transferred to 1.5mL tubes for further DNA extraction
+and PCR.  
+
+6\. spun cells down in centrifuge at 500g for 5 mins
+
+7\. removed and discarded supernatant  
+
+8\. resuspended in 1 ml new culture media (m11220, D/F12 + 20% FBS + 1xP/S)
+and transferred 250 uL into a new 6 well plate containing 3mL of pre-warmed
+culture media.  
+
+9\. Transferred plates to incubate at 30 degrees, 5% CO2 in incubator 82 main
+lab (culture ID. 11649)  
+
+Spun down 1.5mL tubes at 500g for 5 minutes, aspirated and discarded
+supernatant, then added 25uL of Quick extract to each tube and performed a DNA
+extraction using the BENTOLAB.
+
+Prepared PCR master mix.  
+
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+Primer sets = P1 + P2 (PABPC1 guide 2)
+
+  1. Made up a master mix for 5x reactions for primer sets above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer (OPTIONAL)  
+5  
+  
+MilliQ  
+10.1 (+5uL if no GC enhancer is added)  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table above
+  4. Added 3μl of wild type CHOMP07 DNA extract to each tube, added 2uL of MilliQ to each tube to make a total reaction volume of 30uL.
+  5. Took samples to the PCR machine (BENTOLAB) and set the settings to (melting temp for primers used was 61 degress C).  
+
+  6. Ran the cycle with a hold temperature of 14 degrees, left overnight. 
+
+

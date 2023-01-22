@@ -1,0 +1,84 @@
+
+
+Key points:
+
+  1. This experiment will focus on comparing the growth of DOLLY12 cells with and without addition of Vitamin C (L-ascorbic acid-2-phosphate) in growth media (DMEM/F12 + 20%FBS + 1xP/S).
+  2. Previous experiment has found that addition of Vitamin C in growth media led to a 1.4 increase in cell proliferation, based on cell count after the first passage. Whilst this is a positive result, we cannot confirm that Vitamin C does indeed promote cell proliferation. This is due to:
+    1. Having only performed one test with no replicas 
+    2. Having performed only one cell count. Cells counts can vary greatly and often it is best practice to perform more than one for greater accuracy 
+    3. The conditions were not treated the exact same. There were 4 x T175 with no Vitamin C and 2 x T175 with Vitamin C. It is possible that given the extra handling (eg with pipettes, removing suspension after centrifuging) more cells would have been lost for when harvesting the 4 x T175 compared to 2 x T175 
+    4. There may possibly have been more cells seeded in the Vitamin C conditions compared to the ones without. To be certain, we need to perform cell counts before seeding. 
+
+  
+
+
+
+
+Experimental plan
+
+Mon/Tues: Prepare media
+
+Growth media:  DMEM/F12 +20% FBS + 1XP/S +P38i
+
+Volume: 2.5L
+
+Prepare with the following volumes:
+
+  * DMEM: 987.5
+  * F12: 987.5 
+  * FBS: 500 mL
+  * P/S: 25 mL
+
+Growth Media + VitC: DMEM/F12 +20% FBS + 1XP/S +P38i (10uM) + LAA2P (50ug/L)
+
+Volume: 2.5L
+
+Note: [stock concentration 100mg/mL] to a working concentration of 50ug/mL in
+the growth media i.e. 500uL per 1L of media.
+
+Prepare witht the following volumes:
+
+  * DMEM: 986.75
+  * F12: 986.75 
+  * FBS: 500 mL
+  * P/S: 25 mL
+  * LAA2P: 1500 uL
+
+Tues: Thaw 1 x DOLLY12 vial
+
+Follow the Thaw lab book up. The differences in steps after collecting the
+vial from the water bath is listed below:
+
+  1. Re-suspend cells in 0.5 mL D/F + 20%FBS + 1xP/S 
+  2. Using the 1000 uL pipette, measure the exact volume of the cell suspension. 
+  3. Take a sample for counting cell concentration, counting at least twice. it`s sufficient to count before splitting them up, as long as we know what we put into the different T175s we have a defined starting point for the study
+  4. Add half into the Vit C condition and the other half in the non Vic C condition (with the final uLs left behind in the cryovial) e.g. if we find that we have 1.1mL of resuspended cells in the cryovial, take 500 uL each for the VitC and the standard control and discard the remaining cells
+  5. Resuspend cells in each condition
+  6. Distribute each condition into 2 x T175 and allow to rest in BSC for 30 minutes 
+  7. Meanwhile, perform 2 cells counts for each condition and record values
+
+Wed: 100% Feed with respective media and assess confluency
+
+Friday: Passage cells
+
+  1. Gelatin coat 1 x 2CF for each condition (2 total) or alternatively 9 x T175 (if cell count is below 1.6M for a single condition) 
+  2. Perform at least 2 independent cell counts (= take 2x 20uL sample aliquots) for each condition (of the 4x T175) and record values
+  3. Reseed the same number of cells into each 2CF (we need to re-seed at same cell density between the 2 conditions so we can compare proliferation/doubling rate at the next passage)
+
+Sunday: 50% Feed + assess confluency
+
+Monday: Passage
+
+  1. Gelatin coat 2 x 4CF for each condition (value may change according to Friday passage)
+  2. Perform at least 2 cell counts for each condition and record values 
+
+Wednesday: 50% Feed  and assess confluency
+
+Thursday: Passage and seed
+
+  * Expecting to receive ~18 - 28M cells per condition
+  * What are we seeding?  we can use these for m-stim
+
+  
+
+

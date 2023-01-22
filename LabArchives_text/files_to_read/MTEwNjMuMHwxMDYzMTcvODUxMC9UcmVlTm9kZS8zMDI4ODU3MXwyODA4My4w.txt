@@ -1,0 +1,69 @@
+Performed by: EC LL
+Harvested vessel ID(s)  
+Seeded vessel IDs  
+Condition  
+Location  
+  
+12574-Nuvonis Quail Suspension341-P-1of1  
+
+12577-Nuvonis Quail Suspension341-P-2of2  
+
+12576-Nuvonis Quail Suspension341-P-1of2
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Shaking incubator 146  
+  
+12575-Nuvonis Quail Suspension341-P-1of1  
+
+12579-Nuvonis Quail Suspension341-P-2of2  
+
+12578-Nuvonis Quail Suspension341-P-1of2  
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+
+
+Process
+  
+  
+  1. Took 1 x 510 uL aliquot from each E125 and performed counts on ViCell
+  2. Strained each cell suspension into 1 x 50 mL tube, having a total of 4 x 50 mL tubes.
+  3. Centrifuged at 500 xg for 5 minutes.
+  4. Removed supernatant and resuspended both 50mL tubes containing 50/50 RPMI/CHO in 30mL of fresh medium each and both 50mL tubes containing 75/25 RPMI/CHO in 20mL of fresh medium each.
+  5. Transferred 2 x 50mL tubes containing 50/50 RPMI/CHO into 2 x E-125. Combined both 75/25 cell suspensions into 1 x 50mL tubes, mixed cell suspension by pipetting up and down several times and then split evenly into 2 x E-125.
+  6. Returned flasks to incubate at 120 RPM, 5% CO2, 37'C.
+
+Flask IDVicell cell density (cells/mL)Vicell total cell countTotal cell count
+per condition  
+12576271,000  
+8,130,000  
+16,320,000  
+  
+12577273,000  
+8,190,000  
+  
+12578114,000  
+3,420,000  
+9,120,000  
+  
+12579190,000  
+5,700,000  
+  
+  
+Viability >90% in all flasks.
+
+
+Reagent info
+Reagent  
+ID  
+  
+50/50 RPMI/CHO Nuvonis medium (included GFs)  
+M12808  
+  
+75/25 RPMI/CHO Nuvonis medium (included GFs)  
+M12807  
+
+

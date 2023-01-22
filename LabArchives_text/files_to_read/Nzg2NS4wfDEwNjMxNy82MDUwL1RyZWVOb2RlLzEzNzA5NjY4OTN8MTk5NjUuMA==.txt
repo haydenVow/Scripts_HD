@@ -1,0 +1,41 @@
+
+
+Discussion with Ben Crossett, Atul Bhatnagar and Kang-Yu Peng (USYD MS) -
+22.12.21
+
+Present (Vow): Alex Ward
+
+Meeting to discuss mostly data analytical issues and questions for recent
+proteomics (samples P1-P23) and lipidomics (L1-5). Kang-Yu is
+bioinformatician, Atul seems to know a lot about running of MS.
+
+To discuss:
+
+  * Lipidomics data:
+    * What does positive and negative AUC refer to?
+    * With the 'essential sheet'  \- How was this data scaled from the raw data (positive and negative AUC files)?
+    * In essential sheet, there are many rows with the same lipid name (e.g. Ceramides 16 there are ~ a dozen), what do these mean and how do we process these identical lipid sub-groups for comparative analyses? Averaged? 
+    * Are the heatmaps averaged data for lipid families?
+  * Proteomics data:
+    * Normalisation issues across proteomes are that some samples have max protein score of 10k and some are 100mill. Why has this happened and what can we do about it in the analysis?
+
+  
+
+Outcomes from discussion
+
+  * Positive and negative refers to the charge of the MS detection runs - so +ve is run through, immediately followed by -ve. This is relevant because lipid species have alternate charges, but proteins all +ve
+  * Naming conventions are related to the Carbon chain length - but the reasons for multiple species of identical names being detected is due to them being detected at different retention times (i.e. position on the chromatogram)
+    * Could take predominant retention time for that species, but a bit arbitrary
+    * Better would be to spike in controls which are detected at specific ret. time and only use data around that time
+    * Kang said to sum these values, but this will skew data to those eluted at different ret. times, so I will average - for our purpose this seems fine
+    * Poorer mapping quality simply reflects the complex statistical landscape of lipidomics (10-20 yrs behind protein, which is behind RNA)
+  * BUT we are capturing 90-95% of all lipids in the top50-100 most abundant lipids - could bee worth just looking at these top 100?
+  * The data values in the essential sheet are log10 AUC (raw values) that Kang has mapped and transformed - can we cross-check this with MS-DIAL ourselves?? 
+  * Methods to improve analysis:
+    * Make the AUC cutoffs more stringent to remove lowly enriched lipids in the MS-DIAL step - could we do this with log10 AUC??
+    * Use MS/MS as a lipid filter, because this will capture the most abundant lipids that have gone through multifactorial filtering steps and correspond only to the lipids that get fragmented, not just precursor molecules (MS only)
+    * Functional analysis not possible for lipids - but there are databases that we can use to cross-reference analysis against - KEGG BRITE and LipidMaps
+  * Other notes:
+    * Ben was happy with lipidomics but said 'it could have been better' and would like to improve the sample prep/extraction methods next year - offered more sample if they need.
+
+

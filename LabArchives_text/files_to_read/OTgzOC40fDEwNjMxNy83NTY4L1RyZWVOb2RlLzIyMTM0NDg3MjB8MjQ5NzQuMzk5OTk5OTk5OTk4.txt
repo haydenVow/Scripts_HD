@@ -1,0 +1,123 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: VB LP  
+
+
+
+
+Culture IDs:
+
+Seeded vessel typeSeeded flask IDAGGREGATION METHOD  
+Media  
+4x 10CS11157-F_KUZCO20324-P6-3of5  
+ (not fed today)  
+  
+CHOMP AGGREGATION METHOD  
+375mL Media+VitC (50ug/mL)+TGFb (10ng/mL)  
+  
+1x 5CS11159-F_KUZCO20324-P6-5of5  
+  
+1x 5CS  
+11164-F_KUZCO20324-P6-5of5  
+  
+DOLLY AGGREGATION METHOD 375 mL DMEM/F12 20% FBS + VitC (0.5mL/L = 0.188mL
+VitC needed)  
+  
+  
+.
+
+
+
+
+Media/Reagents used:
+
+NameID  
+Volume used (mL)  
+dpbs  
+a10949  
+a10914  
+a10943  
+a10922  
+  
+  
+tryple  
+mix119  
+a10965  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1.  ~~Aliquotted 2x 375 mL of respective growth medias above  
+~~
+
+  2.  ~~Placed in water bath  15:20~~
+  3.  ~~Removed  50  % of supernatant from vessel. ~~
+  4.  ~~Replaced with  375mL  per vessel  of  Growth   media. ~~
+  5.  ~~Returned vessel to incubate at:  ~~ ~~ ~~16:10~~~~
+  6. Removed from incubator: 15:50
+    1. Pour supernatant into a sterile 1L bottle
+    2. Let the peeled cells settle to the bottom of the flask and aspirate the supernatant
+    3. pour the remaining cells and media into 2x 250mL centrifuge tube.
+    4. tryple: 16:30 -16:45
+    5. Centrifuge the pellet at 650g for 5min (room temp) 16:50 - 18:05
+    6. Move cells and remaining supernatant into a 50mL falcon tube and centrifuge for 1 minute at 650g 16:55 - 16:56
+    7. weigh the cells 
+      1. weight of 250mL tube alone:  
+1) 38.6949
+
+      2. tube + cells: 55.7183
+      3. Final weight of the cell pellet: 17.0234g  
+
+    8. place in a -20 C Freezer  18:20
+
+  * [X ]  -20 C freezer 42 Ralph St (main lab)  
+
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#155), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  * 11159: Cells harvested from a 5CS = 5.3813g  
+
+  * 11157: Cells harvested from a 10CS = 17.7183g  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+  
+
+
+
+
+SOPs and other Relevant Information for this Experiment:
+
+  * ### F_KUZCO20 Prototype Expansion Timeline and Doublings Tracker
+
+  * ### Pipeliners 5 Prototypes Production Gantt chart Q1 2022:
+
+  * ### Incubator Space Tracker
+
+

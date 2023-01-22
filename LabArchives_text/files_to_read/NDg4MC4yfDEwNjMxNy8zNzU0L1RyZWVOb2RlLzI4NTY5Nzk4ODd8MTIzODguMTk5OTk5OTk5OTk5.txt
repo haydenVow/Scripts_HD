@@ -1,0 +1,199 @@
+
+
+## Performed by: Shaleen, Tim A  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Bradford reagentS3589  
+  
+PBS  
+  
+Tryple  
+M5780  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Preparing BSA standard curve:
+
+  1. Used absorbances from standards made on 02-09.
+
+Freeze-thaw lysis method:
+
+  1. Aliquotted Tryple and PBS in order to produce a cell suspension.
+  2. Warmed Tryple and PBS in water bath for 5 mins 09:43am
+  3. Washed wells with 200uL of PBS and then subsequently added 200uL of Tryple.
+  4. Incubated plate for 15 mins and monitored cell detachment. Once > 90% of cells have detached, combined suspensions from each seeding density (x6) into one falcon tube per density (x3).
+  5. Centrifuged the three falcon tube for 5 mins at 650g. Aspirate Tryple from each falcon tube and resuspend in 1mL dPBS.
+  6. -Froze each microfuge tube quickly in liquid nitrogen and left for 3 mins
+
+Cycle 1 : 10:42 - 10:45am
+
+Cycle 2 : 10:50 - 10:53am
+
+Cycle 3 : 11:02 - 11:05am
+
+Cycle 4 : N/A - but done  
+
+  1. Thawed the three tubes immediately in water bath for 3 minutes. Vortex to mix well.
+  2. Repeated process three more times
+  3. Placed microfuge tubes inside 15 mL falcon tubes and span down for 5 mins at 650g
+  4. At this point lysis efficiency was checked on haemocytometer and it appeared all cells had lysed succesfully and only debris was noticed (see images)
+
+https://mia-capture.vow.tools/#/session/rec3UJqVa1E1ncrjT/images
+
+  1. Collected 100uL of supernatant per sample and place in marked microcentrifuge tubes.
+  2. Performed serial dilutions of each L, M and H seeding density tubes as follows:
+
+* Volumes in table refer to (volume of previous dilution added: volume of diluent added)
+
+Master tube
+
+1
+
+1:2
+
+1:5
+
+1:10
+
+1:100
+
+1:500  
+  
+H
+
+50uL
+
+50uL:50uL
+
+10uL:40uL
+
+10uL:90uL
+
+10uL:90uL
+
+20uL:80uL  
+  
+M
+
+50uL
+
+50uL:50uL
+
+10uL:40uL
+
+10uL:90uL
+
+10uL:90uL
+
+20uL:80uL  
+  
+L
+
+50uL
+
+50uL:50uL
+
+10uL:40uL
+
+10uL:90uL
+
+10uL:90uL
+
+20uL:80uL  
+  
+  
+
+  1. Added 250uL of Bradford reagent to 18 wells (one well per dilution and then run in triplicate) on an untreated 96 well plate for each density.
+  2. Add 5uL of each sample to the respective wells and mixed thoroughly with a P200 pipette.
+  3. Centrifuge plate at 650g for 5 mins (also conveniently the incubation period for the binding of Coomassie Brilliant Blue).
+  4. Read the plate in the plate reader at 595nm with the lid removed.
+
+Testing Tryple with Bradford reagent:
+
+1\. In order to determine whether the presence of Tryple would affect the
+final Abs values, 5uL of Tryple was added to the same plate and 250uL of
+Bradford was added correspondingly.
+
+2\. Centrifuged for 5 mins at 650g.
+
+3\. Read at 595nm on plate reader (see file attached below)
+
+
+
+
+Observations/Summary:
+
+Limitations:
+
+  * Tryple was used to detach cells and being a recombinant protein there is a chance it would skew the final Abs values from our assay (see .csv files). It was found that Tryple has a low Abs but still above the limit of detection (LOD). While our final solutions would only have residual amounts of Tryple, it could still play a part in skewing the results.
+  * Cells were successfully detached from the Low seeding density wells (see picture below) however varying degrees of detachment were observed for medium and high wells thus skewing results.
+
+  
+  
+  
+Image 1: Original plate after detachment and transfer. Cells still remain for
+the M and H conditions.  
+  
+  
+
+  * Tedious nature manually pipetting 5uL into 250uL Bradford reagent
+  * Lysates were not placed on ice or similar at all times in when out of the fridge/freezer.
+  * Centrifugation process was putting microfuge tubes and placing them in 15mL falcon tubes and using the Library Lab centrifuge to spin them down. While this was successful for our purposes - it is not something that is recommended.
+
+  
+
+Future directions:
+
+Proposed new protocol:
+
+  * Remove E6 and wash multiple times with PBS to remove serum proteins 
+  * Freeze the plate itself in LN2 bath instead of using TrypLE and having detachment issues
+  * Thaw in water bath 
+  * Repeat process 4 times and ensure detachment by loading lysate under haemocytometer slide. Keep lysate tubes on ice while this occurs
+  * Transfer lysate to microcentrifuge tubes and centrifuge at 650g for 5 mins.
+  * Aspirate 100uL of supernatant and transfer to corresponding wells on a fresh 96 well plate. Keep plate cold by placing on ice.
+  * Perform dilutions in the well plate using water or PBS (ensure that whichever one that is used is also used as the blank) as the diluent.
+  * In a new 96 well plate, add 250uL bradford reagent to the corresponding wells.
+  * Add 5uL of the sample to each of the corresponding wells.
+  * Mix well and spin plate down for 5 mins to remove bubbles (also the incubation time).
+  * Read at 595 using plate reader.
+
+  
+
+Data Analysis:
+
+https://docs.google.com/spreadsheets/d/138zRo0dRHwmdrBAiEoAW4dVC0Bb51a3jbblXX2lt_Yc/edit#gid=580222305
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/rec3UJqVa1E1ncrjT/images
+
+

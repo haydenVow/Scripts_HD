@@ -1,0 +1,116 @@
+
+
+  1. [Experiment Plan]
+    * lorem lorem 
+    *   2. [Peer Review]
+  3. [Make amendments and Sign off] 
+  4. [Report writing (Draft)]
+  5. [Review & fill out Report (Full)]
+  6. [Ensure all lab books are complete & assign for review]
+  7. [Review Lab Books, results, report]
+  8. [Make necessary amendments and confirm with reviewer that experiment is complete
+  9. [Release note on Project Updates]  
+
+
+Method/Procedure
+
+
+There are 2x working cell bank vial types:
+
+  1. WCB_2 vials that were banked from cells expanded on planar cultureware
+  2. WCB_2 vials that were banked from cells expanded in microcarrier culture
+
+We want to compare their performance to test our hypothesis that the ones
+grown previously in microcarrier culture will grow faster on microcarriers
+after thaw.
+
+There will be 4x culture conditions:
+
+  1. Planar WCB_2 into diff assay
+  2. Planar WCB_2 into microcarrier culture  
+
+  3. Microcarrier WCB_2 into diff assay
+  4. Microcarrier WCB_2 into microcarrier culture 
+
+Diff assay, expansion on planar cultureware and expansion in microcarrier
+culture will be performed as per normal protocols.
+
+  
+
+
+DayDOLLY12_11E7 WCB_2 (planar)DOLLY12_11E7 WCB_2 (microcarrier)  
+Cell expansionDiff assayCell expansionDiff assay  
+03-May MondayThaw 1x vial into 3x T175 flasks  
+Thaw 1x vial into 3x T175 flasks  
+  
+04-May Tuesday50% feed  
+50% feed  
+  
+05-May Wednesday  
+  
+  
+  
+  
+06-May Thu50% feed  
+50% feed  
+  
+07-May FriPassage into 3x E125 flask  
+Passage into 3x E125 flask  
+  
+08-May SatTake and analyze sample  
+Take and analyze sample  
+  
+09-May Sun50% feed  
+50% feed  
+  
+10-May MonPassage into 2x E500 flask  
+  
+TEST DIFFERENT NEUT. & WASH (NORMAL v POLOXAMER 188 v POLOXAMER 407)Seed 2x
+diff plates  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODc3LjV8MTA2MzE3LzY3NS9UcmVlTm9kZS80MDA5OTU3MTUwfDIyMjcuNQ==Passage
+into 2x E500 flask  
+  
+TEST DIFFERENT NEUT. & WASH (NORMAL v POLOXAMER 188 v POLOXAMER 407)Seed 2x
+diff plates  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODc3LjV8MTA2MzE3LzY3NS9UcmVlTm9kZS80MDA5OTU3MTUwfDIyMjcuNQ==  
+11-May TueTake and analyze sample  
+Take and analyze sample  
+  
+12-May Wed50% feed50% feed50% feed50% feed  
+13-May Thu  
+  
+  
+  
+  
+14-May FriPassage into 1x E2000 flask  
+  
+TEST DIFFERENT NEUT. & WASH (WITH BEST POLOXAMER v BEST POLOXAMER &
+SIEVING)Change to 2% HS and E6 mediaPassage into 1x E2000 flaskChange to 2% HS
+and E6 media  
+  
+TEST DIFFERENT NEUT. & WASH (WITH BEST POLOXAMER v BEST POLOXAMER & SIEVING)  
+15-May SatTake and analyze sample100% feedTake and analyze sample100% feed  
+16-May Sun50% feed100% feed50% feed100% feed  
+17-May Mon  
+100% feed  
+100% feed  
+18-May TueIf other microcarrier culture fails, passage into 2 L bioreactor,
+otherwise END100% feedPassage into 2 L bioreactor100% feed  
+19-May Wed  
+100% feedTake and analyze sample100% feed  
+20-May Thu  
+Fix cells with 4% PFA and Primary stain for MyoG/MF2050% feedFix cells with 4%
+PFA and Primary stain for MyoG/MF20  
+21-May Fri  
+Secondary Stain AF488/AF555  \- Image for DAPI / MyoG-AF488 / MF20-AF555END
+BATCHSecondary Stain AF488/AF555  \- Image for DAPI / MyoG-AF488 / MF20-AF555
+
+
+  
+  
+We should consider using poloxomer during our cell harvesting in this epic to
+support our cell detachment from microcarriers.
+
+

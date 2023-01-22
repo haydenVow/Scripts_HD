@@ -1,0 +1,255 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175s  
+6695-DOLLY12_15D11-Sheep P6-1of3  
+6696-DOLLY12_15D11-Sheep P6-2of3  
+6697-DOLLY12_15D11-Sheep P6-3of3  
+6726-DOLLY12_15D11-Sheep P7-1of5  
+6727-DOLLY12_15D11-Sheep P7-2of5  
+6728-DOLLY12_15D11-Sheep P7-3of5  
+6729-DOLLY12_15D11-Sheep P7-4of5  
+6730-DOLLY12_15D11-Sheep P7-5of5  
+  
+  
+T175s  
+  
+  
+  
+6731-DOLLY12_15D11-Sheep P7-1of3  
+6732-DOLLY12_15D11-Sheep P7-2of3  
+6733-DOLLY12_15D11-Sheep P7-3of3  
+96wp  
+  
+  
+  
+6734-DOLLY12_15D11-Sheep P7-1of1  
+E250  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+30mL of microcarriers in an E500 equilibrated on the 11-May-2021 (see lab book
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTA4MS42MDAwMDAwMDAwMDAxfDEwNjMxNy84MzIvVHJlZU5vZGUvMTcwMjQxOTk1M3wyNzQ1LjY=)
+was aliuqoted into an E125 flask.  
+  
+Flask was placed in the incubator at 37 degrees, 5% C02. [14:40].
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     5     x    T175      vessels with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       14:55   a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     30    mL in     1x50mL    tubes
+  2.  dPBS (for washing and neutralising):     30    mL in    1x50mL    tubes
+  3. Growth media (for pellet resuspension):    90     mL in    1x120mL     container
+  4. Growth media (for seeding):     5    mL in      1x15   tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+14:30 (growth media)   a/pm    14:59 (all other reagents)   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     15:05   a/pm , Imaged one flask
+under the primovert microscope, 4x objective to track confluence before
+passage. Cells appeared about 65-70% confluent.
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     15    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:10 - 15:25   a/pm 
+
+7\.  Gelatin coated 6 wells on 3x96 well plates (B2-B4, C2-C4) using 0.1%
+sterile filtered gelatin (0.1um filtered). Placed the plates in the incubator
+at 15:19.  
+
+8.Neutralised with     10     dPBS and combined cell suspension into    2x50mL
+tubes (30mL each).
+
+9\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     15:34-15:39   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL    growth      media     15:45
+a/pm
+
+Combined pellet resuspensions into 1 50mL tube, washed out the empty tube
+using 500uL of extra growth media, this was then pooled with the total volume
+bringing the volume of cell resuspension to 2.5mL.
+
+11\. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1066:1066
+
+  1.  Total cell number was:      3,480,000         
+
+
+
+
+Seeding SUSPENSION (E125 flask) (3/4 of counted cell suspension).
+
+  1.  ~~Transferred       1.875    mL of cell suspension (2610000cells total) to the pre-warmed E125 flask containing     30     mL  growth media and ~135mg of Cytodex 1 microcarriers ( 4394 cells/cm^2):      :    a/pm ~~
+  2.  ~~Transferred vessel(s) to incubate at:  ~~
+
+  *  ~~[x]  37ºC, 5% CO2 (mammalian cells), incubator 68.~~
+  *  ~~[ ]  40ºC, 5% CO2 (avian cells)~~ ~~~~
+
+
+
+
+Seeding DIFF cultures (3x96wp)
+
+  1. Transferred       71    µl of cell suspension (100,000 cells) to the pre-warmed      4     mL Growth media:      :    a/pm 
+  2. Transferred cell suspension into the pre-gelatin coated       6 wells across 3x96 well plates, B2-B4 + C2-C4       
+
+  3. Transferred vessel(s) to incubate at: 16:45 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells), incubaotr #67. 
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Seeding PLANAR + SUSPENSION cultures (T175 flasks)  
+
+  1. Aliquoted out an additional 60mL of growth media into a 250mL container, combined this with the 90mL of pre warmed growth media to make 150mL of growth media.  
+  2. Transferred 0.875mL of cell suspension into the 150mL of growth media. (1218000 cells, 8120 cells/mL). 
+  3. Realised this was too much cell suspension to aliquot across 5xT175 flasks.   
+
+  4. Removed the E125 flask containing 30mL of equilibrated carriers from the incubator.   
+
+  5. Waited 4 minutes for the microcarriers to settle, then aspirated and discarded the supernatant.   
+
+  6. Aliquoted 55mL of the growth media suspension from Step 2 above into the E125 (447999 cells), cells remaining in the 95mL of cell suspension = 770000 cells.   
+
+  7. Added 55mL of additonal growth media back to the 250mL container to bring the volume back up to 150mL and cell concentration to 5133cells/mL.   
+
+  8. Aliuqoted the 150mL of cell suspension across 5 gelatin coated T175 flasks, 30mL per flask (153999 cells/flask).  
+
+  9. Left at RT in the BSC for 30 min to allow cells to settle      16:45  \-  17:15 a/pm  
+  10. Added the remaining cells from the counted cell suspension to the E125 flask. Cell total in E flask =   ~~~~2610000 ~~~~cells  
+
+  11. Tansferred vessel(s) to incubate and shake at 110rpm continuously to seed microcarriers. [16:45], incubator #68.   
+
+  12. Removed the E125 from the incubator [16:55], decided to transfer the total flask volume to an E250. This was to ensure the carriers could be easily suspended at a shake speed at 110 given that the shaker was being shared with an additional E250 and E500 flask from a separate experiment. (EPIC16072).
+  13. Transferred the T175 flasks to incubator #67.
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4319  
+  
+Tryple4308  
+  
+dPBS (for washing & neutralising)4827  
+  
+Growth Media4805  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recS9UVBtN0w5LyVz/images#group1
+
+

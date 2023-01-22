@@ -1,0 +1,111 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+## Feed performed by:
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+Total media required: 62
+
+Total p38i required: 16
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+  
+6796  
+  
+  
+6795  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   62mL  mL of  growth Media into  1x50mL     tube(s). Placed in
+water bath   12:26 a/pm
+
+1a. Removed flasks from the incubator and imaged each under the 4x objective
+on the primovert. images were captured of each flask (n=3)
+
+2\. Removed  50  % of supernatant from vessel.
+
+3\. Replaced with  30 mL (per well/per vessel) of   growth  media.
+
+4\. Returned vessel to incubate at: 12:54
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#67  ), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+  * Cell morphology: cells appear very small and thin. 
+  * Confluence was around 10%. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media4946  
+  
+  
+ P38i (20mM stock)3978  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6796: https://mia-capture.vow.tools/#/session/rec6RNJFKGRDzSaci/images#group0
+
+6795: https://mia-capture.vow.tools/#/session/recKstgEjNCF1Kc7F/images#group0
+
+

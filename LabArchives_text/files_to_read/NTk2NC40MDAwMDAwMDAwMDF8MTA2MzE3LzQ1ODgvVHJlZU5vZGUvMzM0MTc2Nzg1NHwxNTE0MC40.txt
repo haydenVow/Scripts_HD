@@ -1,0 +1,180 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: VB LL  
+
+
+
+
+Passage culture IDs:
+
+Harvested flask typesHarvested flask IDsMedia/conditionsSeeded flask types  
+Seeded flask IDs  
+Media/conditions  
+  
+T25
+
+8492-F_DOLLY12-Sheep P1-1of2  
+8493-F_DOLLY12-Sheep P1-2of2
+
+DMEM/F12 + 10% FBS + 1X P/S  
+T258626-F_DOLLY12-Sheep P2-1of2  
+8627-F_DOLLY12-Sheep P2-2of2  
+DMEM/F12+10%FBS+1xP/S  
+  
+  
+8494-F_DOLLY12-Sheep P1-1of2  
+8495-F_DOLLY12-Sheep P1-2of2
+
+E8_10C8628-F_DOLLY12-Sheep P2-1of2  
+8629-F_DOLLY12-Sheep P2-2of2  
+E8_10C  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleAliquot 5225  
+  
+dPBS (for washing & neutralising)Aliquot 7357  
+  
+D/F+10%FBS+1xP/S  
+Mix 7386  
+  
+E8 (base for E8_10C media)  
+Mix 7453  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2-3 images of each vessel with microscope on phase setting at 10X
+magnification.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE: 13 mL in 1 x 15 mL tube 
+  2.  dPBS (for neutralising & washing):   25 mL in 1 x 50 mL tube
+  3. Growth media:
+    1. 11 mL x D/F + 10%FBS + 1xP/S  
+  
+
+    2. 11 mL x E8_10C 
+
+Time that all aliquots were placed in the incubator to warm before use
+
+  * dPBS and tyrple:   14:32   
+  * ACF and FBS media:   15:25     
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    14:38
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE:   14:53 - 15:04  
+
+7\. Neutralised with    3mL    dPBS and combined cell suspension into     4 x
+15 mL    tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   15:22-15:27 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL  of respective growth  media  
+
+11\. Aliquoted  10uL  of resuspended cells into a microcentrifuge tube for
+cell count immediately resuspension.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Added data to doubling spreadsheet:
+https://docs.google.com/spreadsheets/d/1We8TyzxliP8WTA0vCIwBTs3LNHsSLCO5C9Aj8zYYcsM/edit#gid=0
+
+  1. Total cell numbers were: 
+    1. 8492 (D/F + 10%FBS +1xP/S): 1,074,000
+    2. 8493 (D/F + 10%FBS +1xP/S): 783,000  
+
+    3. 8494 (E8_10C): 420,000  
+
+    4. 8495 (E8_10C): 338,000  
+
+  2. Volumes of cell suspension required for subculture were:
+    1. 8492 (D/F + 10%FBS +1xP/S): 98uL
+    2. 8493 (D/F + 10%FBS +1xP/S): 134uL  
+
+    3. 8494 (E8_10C): 250uL  ~~  
+~~
+
+    4. 8495  (E8_10C):  311uL   
+
+  3. Cell density per vessel:    7000 cells / cm2     
+
+
+
+
+13\. Transferred   above volumes  of cell suspension to the pre-warmed    4 x
+5mL Growth media:
+
+14\. Transferred cell suspension into the   4 x T25  vessel.
+
+15\. Transferred vessel(s) to incubate at:    16:34  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) incubator 80
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable)
+
+MIA Links  
+
+8492 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recTaD7c2gA00ciWE/images  
+
+8493 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/rec8Ah88EA6w5Wusg/images  
+
+8494 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recTnKPcpqolq2AsA/images  
+
+8495 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recfzyr6mc4EAPZ7P/images
+
+

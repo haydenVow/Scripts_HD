@@ -1,0 +1,47 @@
+
+
+## Completed by: Bec Screnci  
+
+
+
+
+In order to accurately select the top-performing clones from single cell
+cloning attempts, we need systems that allow for success. We have been
+successful in generating a ML model which can identify (at a very low
+confluence) the presence of cells within zaber images of multi-well plate
+wells. However, since switching from MuSCs (muscle stem cells) to fibroblast
+cells which grow to a higher confluence and have slightly different
+morphology, we have noticed inaccuracies in the ML model's cell counts.
+
+In order to improve the existing model, we aim to generate thousands of images
+of wells, with corresponding Hoechst (nuclear stain) images which can point to
+the nucleus of the cells. The aim of generating these images is to then use
+them to train the model further to be more accurate. This may, however, reach
+a limit of confluence where we cannot obtain accurate-enough counts due to
+very little definition between cells when they grow confluent and form larger
+colonies of cells.
+
+One alternative strategy is to develop a new ML model to allow for an output
+reading of total confluence.
+
+Confluence = surface area covered by cells / total surface area of well * 100
+(as a percentage).
+
+The way we aim to achieve this metric is to seed multiple multi-well plates
+with cells and various concentrations, allow them to grow for 1-2 days. Once
+cells are adhered, staining with CMFDA (a cytoplasmic stain, seen on AF488
+channel), washing the wells and imaging AF488/Phase. The cells can then be
+kept for up to 3 days and imaged daily, as CMFDA is known to remain in cells
+for up to 72 hours). In this attempt, we can use the fluorescence from the
+AF488 channel to show exactly where the cell cytoplasm is, and from that
+calculate the confluence of the wells and train a new ML model on this data so
+that it can predict a well's confluence based on a Phase image in the future.
+
+
+
+
+Stockyard Experiment
+
+Shortcut EPIC
+
+

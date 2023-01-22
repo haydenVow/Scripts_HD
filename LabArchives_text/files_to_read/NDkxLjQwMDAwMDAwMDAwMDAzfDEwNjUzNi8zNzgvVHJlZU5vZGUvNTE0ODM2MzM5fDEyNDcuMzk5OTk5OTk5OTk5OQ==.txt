@@ -1,0 +1,206 @@
+
+
+Batch Overview (P4 Results)
+
+Batch Goals:
+
+  * Optimisation: Improve upon previous experimental findings and continue to find new ways to increase batch yield in adherent cultures 
+
+Experimental Questions:
+
+  1. Can co-culture with MUSC and Fibroblasts increase our yield further?
+  2. Can we replicate the high yield observed with VitC treatment in Batch 15 (1.5g)?
+    1. Does pre-treatment with TGFb effect this result?
+  3. Does pre-treatment with TGFb followed by VitC treatment make a difference to the final yield in multi-layed flasks?
+
+Reasons for Investigating these Questions:
+
+  1. Without extending the proliferation time of roller bottles to multiple weeks long, we think we have hit the limit for yield increases with VitC treatment. MUSC cells are very good at 'bulking up' so we want to attempt a co-culture to try and increase our yield without having to drastically stretch out the time in culture for roller bottles. 
+  2. We achieved a very high yield from one roller bottle in Batch 15. Because this was only 1 bottle, we would like to replicate this result to ensure it is reproducible. In adddition we are also testing if pre-treatment with TGFb will have any impact on this result. Some of our previous experiments suggest that TGFb alone does not have any impact on the final yield of fibroblasts and TGFb + VitC treatment results in premature peeling/aggregation, but we do not know if pre-treatment with TGFb followed by VitC treatment will have a different result. 
+  3. This is the same rationale as the roller bottle test but done in mutli-layered flasks instead because the shape of the flask (flat or cylindrical) seems to have an influence on the time taken to peel after treatment (Flat/multilayered flasks peel faster/easier than cylindrical roller bottles). 
+
+Experimental Timeline/Overview:
+
+  
+
+Original Experiment plan:
+
+  
+
+Experimental Deviations:
+
+Original Plan
+
+Amended Plan  
+  
+  
+  
+  
+  
+  
+
+  * Treatment time was different: TGFb was added a day after VitC because we forgot to add it on the day of treatment. At this point bottle 7 had already started peeling, so no TGFb was added and this bottle was harvested the next day.
+  * Actual harvest times are also present below and were determined by cell peeling.aggregation in each bottle.
+
+  
+  
+  * The experiment proceeded as planned, this diagram is to show the actual harvest dates which were determined by cell peeling/aggregation.
+
+  
+  
+  
+Full Batch Summary:
+
+P1 - 4 days in between passage  
+P2 - 7 days in between passage  
+P3 - 6 days in between passage  
+P4 - seeded into 2X5CS and 7xRoller bottles and harvested at various
+timepoints (see information below)
+
+  
+
+Experimental Outcomes:
+
+Roller Bottles:
+
+  
+
+(1) Control  
+Fibroblasts (FIBRO)
+
+(2) Seed in TGFb  
+Fibroblasts
+
+(3) Control  
+Myoblasts (MUSC)
+
+(4) MUSC + FIBRO  
+1:1, 1,650cell/cm2  
+(non-treated)
+
+(5) MUSC + FIBRO  
+1:1, 1,650cell/cm2  
+(Treated with VitC/TGFb)
+
+(6) MUSC \+ FIBRO  
+M:1,650cells/cm2  F:7,500cells/cm2
+
+(7) MUSC + FIBRO  
+1:1, 7,500cells/cm2  
+  
+Proliferation days151818141499  
+VitC treament days8112 (same time as TGFb)0722  
+TGFb treatment days072 (same time as VitC)06 (added with VitC)1 (added with
+VitC) 1 (added with VitC)  
+First signs of peelingD12D18D18D14D14D9D8  
+Total Number of Treatment days81820722  
+Pellet Weight (g)0.9870.9900.5470.3581.1260.4820.452  
+  
+* Graph 1: Shows the pellet weight from each roller bottle/condition (n=1). The dotted line shows the highest yield achieved from a single roller bottle to date (Batch 15 = 1.5252g).  
+
+* Graph 2: Shows the treatment time for each roller bottle/condition (n=1). For bars that are segmented the bottom portion occurred first and the top portion occurred after (the type of treatment at each point is written in that portion of the bar graph). "Both" indicates that both VitC (50ug/mL) and TGFb (10ng/mL) were applied together. 
+
+* Graph 3: Shows the number of proliferation days (time in culture) for each roller bottle/condition (n=1). 
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+1\. Can co-culture with MUSC and Fibroblasts increase our yield further?
+
+Based off this set of experiments, no. All flasks peeled sooner than expected
+and it is not clear what was the cause of this peeling. However there are
+still a vast amount of seeding density combinations, media formulations, and
+treatment conditions that can be tried to investigate the benefit of these co-
+cultures further.
+
+2\. Can we replicate the high yield observed with VitC treatment in Batch 15
+(1.5g)?
+
+No. The control Fibroblasts treated with VitC at D7 peeled completely at D15
+and produced a pellet weight of 0.987g. This is in contrast the the Batch 15
+roller bottle which produced a pellet weight of 1.5252g and did not peel at
+all, even up to D16. There are a number of reasons for why we were not able to
+replicate this. Firstly, the flask started to peel on D12, this occurred as a
+very small amount of peeling in one spot at the base of the bottle. This
+stayed the same with not further peeling for 3 days until the flask was fed
+(50%) with fresh VitC and complete peeling occurred on D15.  
+This slight initial peel followed by complete peeling could have been due to:
+
+  1. Unusual seeding, resulting it a very high confluence in this one spot only
+  2. An accidental tear on the cell sheet caused by a serological pipette during feeding/treatments
+  3. A culture contamination that was not identified until after the flask was harvested
+
+Further experiments will need to be performed to determine if this high roller
+bottle yield produced in Batch 15 is reproducible.
+
+                  1\. Does pre-treatment with TGFb effect this result?
+
+No. TGFb does not appear to have any notable effects on Fibroblast yield in
+roller bottles. Although the cells in bottle (2) stuck down for longer than
+control Fibroblasts (1) and therefore received more days of VitC treatment
+(Bottle (1) = 8 days, Bottle (2) = 11 days) the pellet weight was still the
+same.
+
+  
+
+2x5CS:
+
+  
+
+5CS #1 (Control)
+
+5CS #2 (TGFb Seeded)  
+  
+  
+Pellet Weight (g)  
+  
+
+2.2407
+
+2.1398  
+  
+* Graph 1: Shows the pellet weight from each 5CS/condition (n=1). 
+
+* Graph 2: Shows the treatment time for each 5CS/condition (n=1). For bars that are segmented the bottom portion occurred first and the top portion occurred after (the type of treatment at each point is written in that portion of the bar graph). 
+
+* Graph 3: Shows the number of proliferation days (time in culture) for each 5CS/condition (n=1).
+
+  
+
+#1 5CS (Control)
+
+  * Began peeling on 07/09/21 (1 day after VitC treatment), however this peeling was very minimal (Circled in red on picture below)
+  * In the morning on 08/09/21 (2 days after treatment) this peeling had progressed but not enough to consider harvesting. By the afternoon however 4/5 layer had significantly peeled and either completely or almost completely detached from the surface of the flask, therefore it was decided to harvest on this day (proliferation D9 and 2 days of VitC treatment)
+    * One layer did not peel but this was very easily removed from the surface with TrypLE and came off in one whole sheet
+
+  
+
+#2 5CS (Seeded in TGF)
+
+  * Began peeling on 10/09/21 (4 day after VitC treatment), however this peeling was very minimal (Circled in red on picture below)
+    * Because the peeling was minimal so a 50% feed with VitC was performed and the flask put back in the incubator
+    * by the afternoon all cells had peeled off and detached from the flask so the flask was harvested (proliferation D11).
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+3\. Does pre-treatment with TGFb followed by VitC treatment make a difference
+to the final yield in multi-layed flasks?
+
+Yes but in a negative way. Despite longer proliferation time and treatment
+time (in both TGFb and VitC), 5CS #2 (seeded in TGFb) still produced a final
+pellet weight that was slightly less than 5CS #1 (Control). This is consistent
+with all TGFb treatment experiments that have been performed on Fibroblasts by
+production this quarter and again suggest that TGFb treatment does not give
+any obvious benefit for use in Fibroblast cultures.
+
+  
+
+Overall Key Findings:
+
+  * Myoblasts and Fibroblasts can be co-cultured in roller bottles
+  * TGFb treatment does not show any obvious benefit in Fibroblast cultures for both multilayered flasks and roller bottles
+
+

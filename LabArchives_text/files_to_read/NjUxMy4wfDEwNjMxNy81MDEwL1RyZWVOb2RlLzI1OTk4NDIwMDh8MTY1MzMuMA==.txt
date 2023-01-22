@@ -1,0 +1,152 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To determine whether a fast growing single cell line can be derived from a
+heterogeneous population of F_CHOMP09 cells
+
+
+Hypothesis
+
+
+We hypothesise that we will attain ≥1 single cell line that outperforms our
+current heterogeneous population of F_CHOMP09 cells in terms of doubling rate
+
+
+Technical Gap
+
+
+We have not yet attempted to single-cell sort any of our CHOMP cell lines, and
+do not know whether they will survive the process. Our CHOMP fibroblasts have
+slow doubling rates (~96H), and we need to reduce this in order to achieve
+adequate cell mass in a shorter period of time in order to meet our goal of
+feeding millions of people. Isolating fast growing cells within our
+heterogeneous population is one method of achieving this.
+
+
+Method/Procedure
+
+
+Experiment Plan
+
+Date  
+Day  
+Task(s)  
+Notes  
+  
+2-Nov-2021D-7Revive 2M x F_CHOMP09 cells  
+  
+3-Nov-2021D-650% Feed F_CHOMP09  
+  
+  
+5-Nov-2021D-4Passage F_CHOMP09  
+  
+8-Nov-2021D-150% Feed F_CHOMP09  
+  
+9-Nov-2021D0 FACS sort into 4 x 384-well plates:
+
+  1. Prepare 4 x plates with gelatin fresh adherent growth medium (D/F+20%FBS+1xP/S+10ng/mL FGF)
+  2. Prepare 1 x ULA plates with NO GELATIN and fresh suspension growth medium (RPMI+20%FBS+1xP/S+10ng/mL FGF)
+  3. Prepare 20 mL FACS Buffer
+  4. Harvest fibroblasts from T175s
+  5. Take to Garvan and sort 
+  6. Centrifuge plates
+  7. Transport plates back to Vowse, place in incubator
+
+  
+  
+10-Nov-2021D1 Zaber scan plates  
+  
+  
+11-Nov-2021D2Zaber scan plates  
+  
+  
+12-Nov-2021D3Zaber scan plates  
+  
+  
+16-Nov-2021D7Zaber scan plates  
+  
+  
+19-Nov-2021D10Zaber scan plates  
+Top up wells with 20 uL per well fresh growth mediumCheck if any wells are
+over-confluent. If so, perform picking on D11 and adjust next time to do
+picking earlier. It not, can wait and scan again in a couple of days.  
+  
+22-Nov-2021D13Zaber scan plates  
+  
+  
+23-Nov-2021D15Pick high confluence wells from 384-well to 96-well plates  
+Generate pick-list through Hoechst-staining and imaging cells on Zaber then
+running through macro. Passage on same day to remove Hoechst, or perform 100%
+feed  
+  
+  
+When confluent, expand top clones from 96-well plate to 24-well plate  
+  
+  
+  
+When confluent, expand top clones from 24-well plate to 6-well plate  
+  
+  
+  
+When confluent, expand top clones from 6-well plate to T25 flasks  
+  
+  
+  
+When confluent, expand top clones from T25 flasks to T75 flasks or 125 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T75 flasks to T175 flasks or 250 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T175 flasks to Multi-layered cell
+factory flasks or 2L shake flasks  
+  
+  
+  
+  
+Generate MCB_2 of successful clonal populations.  
+  
+  
+  
+Report writing (Draft)  
+  
+  
+  
+  
+Review & fill out Report (Full)  
+  
+  
+  
+  
+Ensure all lab books are complete & assign for review  
+  
+  
+  
+  
+Review Lab Books, results, report  
+  
+  
+  
+  
+Make necessary amendments and confirm with reviewer that experiment is
+complete  
+  
+  
+  
+  
+Release note on Project Updates  
+  
+  
+  
+  
+
+

@@ -1,0 +1,240 @@
+
+
+
+
+
+## Performed by: Avani B, Varshana B, Victoria P  
+
+
+
+
+Cultures seeded
+
+Note: cultures 9286 and 9293 are in the same deep well plate  
+
+EPIC  
+Vessel IDVessel typeGrowth mediaMedia ID  
+EPIC27984  
+9279-F_DOLLY12-Sheep P9-1of1  
+24 DWPCD-CHO + 10% KSR + 6G  
+m8264  
+  
+  
+9280-F_DOLLY12-Sheep P9-1of3
+
+9281-F_DOLLY12-Sheep P9-2of3
+
+9282-F_DOLLY12-Sheep P9-3of3
+
+50 mL shake tube  
+  
+9283-F_DOLLY12-Sheep P9-1of3
+
+9284-F_DOLLY12-Sheep P9-2of3
+
+9285-F_DOLLY12-Sheep P9-3of3
+
+E125 flask  
+9286-F_CHOMP09-Crocodile P9-1of1  
+24 DWPD/F + 20% FBS + 1x P/S  
+a8092  
+  
+  
+9287-F_CHOMP09-Crocodile P9-1of3
+
+9288-F_CHOMP09-Crocodile P9-2of3
+
+9289-F_CHOMP09-Crocodile P9-3of3
+
+50 mL shake tube  
+  
+9290-F_CHOMP09-Crocodile P9-1of3
+
+9291-F_CHOMP09-Crocodile P9-2of3
+
+9292-F_CHOMP09-Crocodile P9-3of3
+
+E125 flask  
+9293-F_CHOMP09-Crocodile P9-1of1  
+24 DWP  
+CD-CHO + 20% KSR + 10G  
+m8265  
+  
+  
+9294-F_CHOMP09-Crocodile P9-1of3
+
+9295-F_CHOMP09-Crocodile P9-2of3
+
+9296-F_CHOMP09-Crocodile P9-3of3
+
+50 mL shake tube  
+  
+9297-F_CHOMP09-Crocodile P9-1of3
+
+9298-F_CHOMP09-Crocodile P9-2of3
+
+9299-F_CHOMP09-Crocodile P9-3of3
+
+E125 flask  
+EPIC28374  
+9230-F_DOLLY12-Sheep P9-1of3  
+E125 flask  
+  
+CD-CHO + 10% KSR + 6G  
+  
+m8266  
+  
+9231-F_DOLLY12-Sheep P9-2of3  
+  
+9232-F_DOLLY12-Sheep P9-3of3  
+  
+  
+9233-CHOMP09-Crocodile P9-1of3
+
+CD-CHO + 20% KSR + 6G  
+m8267  
+  
+9234-CHOMP09-Crocodile P9-2of3  
+  
+9235-CHOMP09-Crocodile P9-3of3  
+  
+  
+9236-CHOMP09-Crocodile P9-1of3
+
+CD-CHO + 20% KSR + 8G  
+m8268  
+  
+9237-CHOMP09-Crocodile P9-2of3  
+  
+9238-CHOMP09-Crocodile P9-3of3  
+  
+9239-CHOMP09-Crocodile P9-1of3  
+  
+HyCell pro + 20% KSR + 10G  
+  
+m8275  
+  
+  
+9240-CHOMP09-Crocodile P9-2of3  
+  
+9241-CHOMP09-Crocodile P9-3of3  
+  
+  
+  
+
+  
+
+
+
+
+Reagents used:
+
+NameDetails  
+KSR  
+a8466, a8465  
+  
+glutamax  
+s3694  
+  
+lipids  
+s3200  
+  
+FGFm5705  
+  
+IGF  
+m7963  
+  
+PDGF  
+out of stock  
+  
+RGD  
+m5606  
+  
+YIGSR  
+m5580  
+
+
+  
+  
+Add supplements to media
+
+  1. Aliquot 'basal media' mixes that were prepared on 15/11/21 (containing P/S, ACA, P188) into containers. This involves aliquotting the amount needed to make 100 mL total (for EPIC27984) or 75 mL (for EPIC28374) by using the sheet titled 'EPIC27984' on this spreadsheet: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit?skip_itp2_check=true#gid=1517203146 (screenshots below).
+  2. Add KSR and other supplement to create the appropriate media formulations.
+
+
+
+
+Media for EPIC27984
+
+
+
+
+Media for EPIC28374
+
+
+
+
+Aliquot and warm media
+
+For EPIC27984
+
+  1. Aliquot 2.5 mL of media to 3 wells of a 24 deep well plate for each growth media condition. (2 separate dwp will need to be used because 1 condition contains DOLLY cells and the other 2 contain CHOMP cells which need to be incubated at different temperatures)>
+  2. Aliquot 5 mL of media to 3x 50 mL shake tubes for each growth media condition.
+  3. Aliquot 20 mL of media to 3x E125 flasks for each growth media condition.
+
+For EPIC28374:
+
+  1. Add 20 mL of media to 3x E125 flasks for each growth media condition.
+
+  
+
+Warm media for CHOMP at 30 degrees C. Warm media for DOLLY at 37 degrees C.  
+
+
+
+
+EPIC27984
+
+EPIC28374
+
+
+
+ Seed:
+
+  1. Passage 2CFs to harvest F_DOLLY12 and F_CHOMP09 cells (see linked lab book entry).
+  2. Seed cells into wells of 24 deep well plates, 50 mL shake tubes, or E125 flasks in different media conditions as indicated in the diagram above.  
+    1. Seeding densities for EPIC27984: 600k cells/mL
+    2. Seeding densities for EPIC28374: 1 M cells/mL
+  3. Shake vessels in incubators:
+    1. 24 dwp at 300 rpm
+    2. 50 mL tubes at 206 rpm
+    3. E125 flasks at 120 rpm
+  4. CHOMP cells should be incubated at 30 degrees C, 5% CO2
+  5. DOLLY cells should be incubated at 37 degrees C, 5% CO2.
+
+
+
+
+Observations/Summary:
+
+Seeded E flasks for EPIC28374 with 1 M cells/mL
+
+Seeded vessels for EPIC27984 with 600k cells/mL. DOLLY12 in 50mL tubes for
+this experiment was accidentally seeded at 833 424 cells/mL instead of 600k
+cells/mL
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

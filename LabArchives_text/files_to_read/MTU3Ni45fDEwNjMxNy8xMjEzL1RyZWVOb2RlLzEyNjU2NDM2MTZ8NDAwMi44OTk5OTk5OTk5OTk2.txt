@@ -1,0 +1,175 @@
+
+
+Images of the scaffolds taken on the Zaber were scored based on % confluence
+via both manual (scored by eye by Marie, Lily and Ella) and using the
+automated FIJI analysis tool (developed in-house). The scores were then
+compared side by side. D7 scaffolds with the highest variance in scores
+between manual and automated were re-visited and assessed, as seen below.
+
+
+
+
+
+
+A2 - Block 1 - Manual score 70, Automated score 29, condition 3, side 2, code
+78083
+
+
+
+
+E3 - Block 2 - Manual score: 20 Automated score: 58, Condition 6, Side 2, Mia
+code 78140
+
+AFTER LOOKING AT THE IMAGE I WOULD SAY THIS IS AN OUTLIER DUE TO OVEREXPOSURE
+- LIKELY WHY AUTOMATED SCORED IT HIGH
+
+
+
+
+A5 - Block3 - Manual score: 55 Automated score: 28 , Condition 9, Side 1, Mia
+code 78008
+
+
+
+
+A6 - Block3 - Manual score: 95 Automated score: 55 , Condition 11, Side 1, Mia
+code 78006
+
+
+
+
+B6 - Block3 - Manual score: 70  Automated score: 30 , Condition 11, Side 2,
+Mia code 78096
+
+This is a visibly darker image than the others (not sure why) and may account
+for the difference in scoring.
+
+
+
+
+H6 - Block3 - Manual score: 20  Automated score: 43 , Condition 12, Side 2,
+Mia code 78138
+
+WOULD COUNT THIS AS AN OUTLIER - SCAFFOLD FOLDED UP HARD TO ANALYSE
+
+
+
+
+A7 - Block3 - Manual score: 85  Automated score: 43 , Condition 13, Side 1,
+Mia code 78009
+
+  
+
+
+
+
+F9 - Block4 - Manual score: 30 Automated score: 61 , Condition SERUM EPL, Side
+1, Mia code 78059
+
+
+
+
+G10 - Block4 - Manual score: 85 Automated score: 51 , Condition ACF EPLC, Side
+1, Mia code78071
+
+
+
+
+  
+
+B3 - Block4 - Manual score: 70  Automated score: 46 , Condition 5, Side 1, Mia
+code 78018
+
+
+
+
+B4 - Block4 - Manual score:65 Automated score:36, Condition 7, Side 2, Mia
+code 78093
+
+
+
+
+C6 - Block3- Manual score:80 Automated score:59, Condition11, Side 2, Mia code
+78106
+
+
+
+
+High difference between scores
+
+  
+  
+  
+  
+  
+WellMAConditionDifference  
+A27029341  
+E32058638  
+A55528927  
+A695551140  
+B670301140  
+H620431223  
+A785431342  
+F93061serum EPL31  
+G108551ACF EPL34  
+B37046524  
+B46536729  
+C680591121  
+  
+Looked at the data and pulled out scores which had the greatest difference in
+confluence (over 20%) see table above.
+
+https://docs.google.com/spreadsheets/d/1HgcBmipgCLS5a7p5wDdJh1qMmvR318vx47tlW50bneA/edit?usp=sharing
+
+Then looked at these images again to verify if there were any obvious issues
+which may have caused the scoring difference:
+
+https://mia-capture.vow.tools/#/session/recIvEiOHeGf2qTK0/images
+
+Found that for samples in wells E3 and H6 that the scoring was likely
+distorted due to issues with the sample. For E3 the sample image was over
+exposed leading to bright areas that likely caused the automated scoring to
+over-score. Whereas, the sample in well H6 was folded up and therefore
+difficult to score accurately. These data points should be taken out of the
+analysis.  
+  
+However for the rest of the samples, by eye it still appears that the manual
+scoring is a better representation. A multitude of factors could be at play
+here including over exposure, under exposure, dark scaffold regions, out of
+focus regions.  
+  
+Took time to go through these images with Stanley on FIJI to work out these
+issues. We will attempt a cell count macro on our samples and see if this
+brings our mean confluence scores closer. Wherein, we think the issue maybe
+due to the cells being at different depths on the scaffold surface, so cells
+which are deeper and therefore the stainer nuclei appear smaller are not being
+counted as whole cells.
+
+  
+
+Samples with highest difference between manual and automated scores (MIA
+codes):
+
+78083
+
+78008
+
+78006
+
+78096
+
+78009
+
+78059
+
+78071
+
+78018
+
+78093
+
+78106
+
+  
+
+

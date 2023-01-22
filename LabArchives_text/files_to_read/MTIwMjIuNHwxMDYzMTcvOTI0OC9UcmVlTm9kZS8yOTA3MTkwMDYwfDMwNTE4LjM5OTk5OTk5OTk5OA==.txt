@@ -1,0 +1,425 @@
+Performed By: Katie Bashant Day, Varshana Baldeo
+
+
+# Summary of Culture Conditions
+
+Passage Culture IDPassage Culture VesselVessel #IDDescriptorCell LineCreated
+DateLocationNotes/ ConditionsExperimentVessel TypeBase MediaGrowth Medium
+Location  
+  
+13195,  13196
+
+2x E500011320113201-Nuvonis Quail Suspension341-P-1of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)0ng/mLTGFb+ 0ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1175 Ralph St I 4C Fridge  
+21320213202-Nuvonis Quail Suspension341-P-2of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)0ng/mLTGFb+ 0ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1176 Ralph St I 4C Fridge  
+31320313203-Nuvonis Quail Suspension341-P-3of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)10ng/mLTGFb+ 150ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1177 Ralph St I 4C Fridge  
+41320413204-Nuvonis Quail Suspension341-P-4of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)20ng/mLTGFb+ 150ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1178 Ralph St I 4C Fridge  
+51320513205-Nuvonis Quail Suspension341-P-5of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)50ng/mLTGFb+ 150ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1179 Ralph St I 4C Fridge  
+61320613206-Nuvonis Quail Suspension341-P-6of6341-Fib-Nuvonis Quail
+Suspension-NoBiopsy8/15/2022, 11:26:21 AM52-Ralph St | Main Lab | Binder
+Incubator (top right)100ng/mLTGFb+ 150ug/mLVit.CTissue Discs Experiment D -
+Treatment InclusionNalgene Container18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1180 Ralph St I 4C Fridge  
+  
+7
+
+1323913239-Nuvonis Quail Suspension341-P-1of1  
+341-Fib-Nuvonis Quail Suspension-NoBiopsy  
+8/16/2022, 16:40:35 PM  
+52-Ralph St | Main Lab | Binder Incubator (top right)0ng/mLTGFb+
+150ug/mLVit.CTissue Discs Experiment D - Treatment InclusionNalgene
+Container18-PRF DMEM/F12+1:100 Glutamax+1XP/S+IGF+EGF-V1180 Ralph St I 4C
+Fridge  
+  
+Exported Culture Details from Ranger
+
+
+Methods and Experiment Layout
+
+
+Experimental layout
+
+We will attempt to seed six tissue discs with variable levels of Carrageenan
+in the gel matrix and in the growth medium. Ficoll-400 will be used as a
+postitive control and no macromolecular crowder-containing gel matrix/ growth
+medium will be the negative control.
+
+Conditions will be as follows:
+
+Conditions:
+
+  1. No carrageenan (negative control) (n=1)
+  2. 100mg/L carrageenan (n=2) 
+  3. 500mg/L carrageenan (n=1)
+  4. 120g/L Ficoll 400 (positive control) (n=1)
+  5. 100mg/L carrageenan in both the gel and in the media (n=1)
+
+  
+
+All conditions set to gel at 37C, 5%CO2 for 0.5 - 2.5 hours
+
+  
+
+Insert figure
+
+Figure 1. Plate Map for Tissue Discs Experiment E, to determine the optimum
+treatment levels. There are 5 conditions, with the condition details outlined
+within the figure. All culture will have a cell density of 40M cells/ml with a
+gel matrix volume of 25ml.
+
+.
+
+
+Reagents
+
+
+##  
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+1300ALQ 13436  
+ALQ 13435  
+100mg/L carrageenan in growth media above  
+(for feeds and gel matrix)  
+850Mix 13461  
+500mg/L carrageenan in growth media above  
+15Mix 13462  
+  
+120g/L Ficoll400 in growth media above15Mix 13448  
+  
+Collagen I (2.6mg/mL) in Autoclaved milliQ  
+61Mix 13450  
+  
+10X DMEM7.36N/A  
+Pluronic 0.25%180 (30mL per disc) Mix 13446  
+  
+0.2M NaOH  
+12.2mL used (but 30mL made)  
+800uL of Mix 12900 in 3.2mL of stk 1197  
+PBS 300Mix 13442
+
+
+Before Starting Ensure the Following is Completed
+  
+  
+List the protocol used, broken down into sequential steps (using appropriate
+templates), as well as any changes made to the protocol.
+
+Include plate maps/diagrams, as well as any relevant widgets or calculators.
+
+Note - Timestamps are not necessary but are encouraged on critical time
+sensitive steps, such as fixation and staining with antibodies.  
+
+Why? Having a clear step-by-step protocol for the lab user to follow will
+reduce chance of error such as accidentally missing out steps. Timestamps on
+critical steps act as a reminder to the user, and provide a good reference in
+instances when a protocol fails e.g. if fixing and staining of a sample did
+not work we can come back to the timestamps to ensure that timings were
+accurate, if they were accurate we can assume that the timings need to be
+adjusted or that the consumables or samples themselves were at fault.
+
+
+
+
+  * Calculate approximate cell requirements for experiment D. 
+    * = 6 Billion cells for 6 plates at the above densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent1 Tissue discs 1x plate  
+(1B Cells) (mL)6 Tissue discs across 6x plate  
+(6Bn Cells total)  (mL)  
+Cells+GM12.172.6  
+Collagen (2.6mg/mL)10.1560.9  
+10X DMEM/F121.2257.35  
+0.2M NaOH  1.5259.15  
+Pluronic (plate coating) 0.25%30180  
+  
+  
+
+  *  ~~Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    09/07/2022 ~~
+    *  ~~Make PDMS Total Volume:   50 mL ~~
+    *  ~~Pipette   9  mL  per plate for 6 petri dishes and spin-coat.  (DONE) ~~
+  * Make up 2L of Growth Medium Listed in Table 1 above. 
+  * Ensure matrix reagents are made up fresh at required concentrations
+  * Matrix reagents details for this experiment:
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need  61   mL total (make  66  mL)
+      * Aliquot exactly  27.81199 mL of the 6.17 mg/mL stock solution and dilute with solvent/diluent to a final volume of exactly 66 mL
+    * 7.35 mL 10X DMEM/F12 
+    * 9.15 mL of 0.2M NaOH 
+    * Pluronic-188:  Dilute Stock solution from 5% to 0.25%. (DONE 18/08/22) 
+      * Make up  1000mL 
+
+
+Scaffold mounting, sterilisation and coating
+
+
+  
+
+  1.  ~~Place the moulds in a bath of EtOH overnight (day before experiment) (DONE)~~
+  2.  ~~Dry the plates upside-down along the bevel of the BSC to allow aeration, (morning of experiment) for 30-60 minutes  \--:-- ~~
+  3.  ~~UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start  ~~ ~~  \--:--~~
+
+Above steps do not need to be completed as the culture container and the
+scaffold is autoclavable.  
+
+  1. Pre-coat with 0.25% Pluronic solution for 1 hour (to prevent adhesion), start   11:00
+
+
+Cell Supply Harvest and Matrix Formation for Seeding
+
+
+## Preparation for Harvest
+
+  1. Prepare 6 falcon tubes for cell harvest for 6 tissue discs with different Cells+media component of the gel matrix.
+    1. Completed calculations can be found here
+  2. Media preparation for harvest and seeding: 
+    1. DMEM/F12 growth medium as above (table 1). 
+
+## Cell Harvest for Mould seeding - Nuvonis suspension protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2.  ~~Count cells with haemocytometer/Vicell for total yields:~~
+  3.   
+Ranger Culture ID#     13214 (unhealthy)# 13216  
+Flask TypeE5000E5000  
+Total Volume Used (mL)12001200  
+Density (according to CELLACA)1.66M 2.5M/mL  
+Density (Manual Count, will be used) 3.6M/mL2.96M /mL  
+  4. Pour required volume of cell suspension for 1 tissue disc into 250mL centrifuge tubes:
+    * 1B cells in 278 mL from # 13214 - 2x tubes topped up with PBS 
+    * 1B cells in 278 mL from # 13214 - 2x tubes topped up with PBS
+    * 1B cells in 278 mL from # 13214 - 2x tubes topped up with PBS
+    * 1B cells in 278 mL from # 13214 - 2x tubes topped up with PBS
+    * 1B cells in 278 mL from # 13214 - 2x tubes topped up with PBS
+    * 1B cells in 225 mL from # 13214 (810M) + 64mL of #13216 (190M)
+    * 1Bn cells in 338 mL from # 13216 
+  5. Centrifuge at 500g for 5 minutes ~~(in 450mL centrifuge tubes~~ ) 
+    1. 250mL centrifuge tubes used instead (2x tubes per 1Bn cells) and topped up to 200mL with autoclaved PBS. before centrifuging (as the large centrifuge was removed from the main lab space). 
+  6. Remove supernatant and resuspend the pellet in 50mL of growth medium in a 50mL falcon tube (1Bn cells per 1x Falcon tube) 
+  7. Centrifuge at 300g for 5 minutes.  
+  8. Resuspend pellets in each centrifuge tubes in    12.1 mL   DMEM/F12 growth medium TOTAL (first resuspend in 5-7mL to account for pellet volume to make up to a total of 12.1ml)
+    * NOTE: Resuspending the pellet is very thick and viscous and takes up a high volume. 
+  9.  ~~Add required volume of cells+media to 4 falcon tubes~~ :
+  10. Proceed to matrix additions below. 
+    1. Bring out matrix additives from the fridge only until ready to use. 
+  11. Repeat step 4-8 for each tissue. 
+
+## Matrix formation for scaffold seeding - 2 cell densities + 2 tissue gel
+volumes
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+Refer to Figure 2 to visualise the workflow.
+
+1. Remove pluronic from the wells.
+
+Condition 40M cells/mL  
+(25mL tissue gel)  
+n=1 tissue disc  
+Step 1. Add cells+media12.1  
+ Step 2. Add total Collagen (mL)10.15  
+Step 3. Add total 10xDMEM/F12  
+(mL)1.225  
+Step 4. Add total  NaOH  
+(mL)1.525  
+Step 5. Pipette matrix into each well 25  
+  
+5\. Seed gel/matrix gently into scaffold ensuring good distribution around
+pillars in the well.
+
+6. Leave for    60-90    minutes to gel at 37°C - start time 
+
+Duration left to gel (before adding growth medium and returning to incubator):
+
+  1. Tissue 1 - Condition 1 (100mg/mL Carrageenan in gel matrix only (small pellet), replicate 1:
+    1. 13:33 - 16:00 (2.5 hours) 
+  2. Tissue 2 - Condition 1 (100mg/mL Carrageenan in gel matrix only (normal pellet), replicate 2:  
+    1. 13:43 - 16:00 (2.5 hours) 
+  3. Tissue 3 - Condition 2 (100mg/mL Carrageenan in gel matrix AND growth medium (normal pellet)
+    1. 14:00 - 16:15 (2.25 hours) 
+  4. Tissue 4 - Condition 3 (500mg/mL Carrageenan in gel matrix (normal pellet): 
+    1. 14:15 - 16:15 (2 hours) 
+  5. Tissue 5 - Condition 4 (120g/mL Ficoll 400 in gel matrix (small pellet):
+    1. 14:30 - 16:30 (2 hours) 
+  6. Tissue 6 - Condition 5 (0mg/mL Carrageenan in gel matrix (small pellet):
+    1. 14:40 - 16:30 (1.8 hours) 
+
+Note: Add Growth media to the entire dish before the 3 hour time point (post-
+seeding as the gel matrix environment begins to become stressful and
+prohibitive for cell viability, especially when each tissue disc has a high
+density (1B per disc at 40M cells/mL). Observing tissue matrices which have
+not gelled is a valid result to be discussed in the results section below.
+
+7\. Add     ~180-200ml media to entire 15mL dish, ensure entire mould is
+covered.
+
+8. Culture at 37°C overnight before checking.  16:00 - 16:30 
+
+  
+
+Figure 2. Matrix formation workflow. Seed each disc one at a time for ease of
+workflow.
+
+  
+
+
+
+
+# Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+Additional advice observed during scale-up seeding protocol:
+
+  * Coat plates in P-188 a day before
+  * Leave to dry (after from EtOH soaking) in the BSC overnight
+  * Make up reagents 1-2 weeks ahead of time. 
+  * Centrifugation of cells can be initiated during the Pluronic-188 coating time frame. Note the supernatant can be quickly but carefully poured (to speed up the process). 
+  * Less things in the BSC the better 
+    * Avoid doing too many conditions at once (unless there is enough assistance to do this) as this leads to cultures remaining in a stressful environment longer than necessary. 
+    * Centrifuging more than 4Bn  cells at once should be done with a second pair of hands to ensure the cells are not pelleted and stressed for excessive durations throughout the experiment. 
+  * Add growth medium VERY VERY slowly (water fall/ droplets at zero speed on the pipette guns) with the tip of the pipette pointing at the wall of the disc scaffold. Never point the end of the pipette directly at the tissue disc (point at the wall of the culture vessel). 
+
+
+Results / Observations
+
+
+Include notes and observations taken on the day including visual or handling
+observations (i.e. cells appeared to clump, material changes colour or changed
+in size) as well as any limitations encountered, optimisations or changes made
+to the protocol, pictures or videos of the experimental setup  
+  
+Why? Good observations and notes on changes ensure experiment reproducibility
+
+and the optimisation of future work
+
+
+
+
+Bioprocess/ Technical Observations:
+
+  * Completion of this experiment went smoothly without any set backs. Seeding experiments are completed significantly faster with the aid of 1 other person during at least the centrifugation step(s). Katie's assistance during centrifugation today was huge and made it one of the earliest completion times of seeding a big-ish experiment, even with the cell supply setbacks that occurred just prior to initiating this experiment. 
+  * Coating
+    * no issues observed
+  * Pellet:
+    * 250mL centrifuge tubes were used instead of 450mL tubes.
+    * Pellet in the 250mL centrifuge tube was quite soft but did not dislodge when aspirating supernatant. 
+    * Half of the pellets measured at under the 5mL mark (in the 50mL Falcon tube) at the second centrifugation step (step 6)) and the rest were exactly 5mL volumetrically (which is what we have been consistently observing). It has been noted above which tissues discs were seeded with a small pellet observed at the time of centrifguation. 
+
+Cell Viability Concerns:
+
+  * Cell Supply cultures appear to be signifcantly lower than expected. Thus, James H conducted a manual cell count and we all collectively decided to conduct experiments according to the manual counts (listed above). 
+  * 12314 culture was notably much more clumpy when observed under the microscope and we suspect this may have significantly affected the Vicell count. For this reason we based experimentation on the cell densities determined from the manual cell count.  
+    * We are concerned this culture has also been affected by the presence of penicillin/streptomycin, which 12316 has significantly less concentrations of and is closer to the expected doubling time of Nuvonis suspension cells (~24hours). 
+  * We are also not sure how long these cells have been culture and need to determine this duration. This is important as cells that have been in cultured for too long have reduced ability to differentiate and/or adapt to  stressful scaffold seeding conditions. 
+  * Next time: only conduct experiments based on the Vicell/ Cellaca.
+  * Next time: if we are concerned about whether the cells have been exposed to an external stressor (e.g. temperature, CO2, P/S), avoid using them as they will confound the experimental results and thus makes it harder to make clear judgements moving forward.
+
+Observations throughout the experiment
+
+#ConditionPellet size observed after centrifuging in falcon tubesRe-suspending
+cells in growth media prior to adding the gel matrix components. Observation
+at the time of adding growth medium  
+  
+Tissue 1
+
+Condition 1  
+  
+(100mg/mL Carrageenan in gel matrix only)small pellet  
+Gel undisturbed during 'feed' but after checking culture 10 minutes later it
+appeared to be disintegrating.  
+Tissue 2Condition 1  
+  
+(100mg/mL Carrageenan in gel matrix only)  
+  
+replicate 2:  normal pellet size  
+Gel intact at the time of feed  
+Tissue 3 Condition 2  
+  
+(100mg/mL Carrageenan in gel matrix AND growth medium)normal pellet sizecells
+appeared grainy/ clumpyGel completely disintegrated during feed.  
+Tissue 4Condition 3  
+  
+(500mg/mL Carrageenan in gel matrix)normal pellet size  
+Gel intact at the time of feed  
+Appeared to be the most contracted compared to 100mg/mL condition.  
+Tissue 5Condition 4  
+  
+(120g/mL Ficoll 400 in gel matrix)small pelletcells appeared grainy/ clumpy
+Gel intact at the time of feed  
+  
+Tissue 6
+
+  
+Condition 5  
+  
+(0mg/mL Carrageenan in gel matrix small pellet  
+Gel intact at the time of feed  
+  
+The disintegrating tissue could be either due to the stressed cells acquired
+from cell supply (either due to age or P/S) or the maladaptive consequence of
+adding carrageenan to the gel matrix. Thus, this MMC could be inhibiting cell
+self-assembling mechanism of the tissue matrix to native conditions.
+
+Gelation Observations:
+
+  * All cultures did not appear have a rapid colour shift (opaque magenta to yellow) within 15 minutes post seeding (this has been consistently observed previously). 
+    * Excluding the control and tissue 1 which were slightly when observed 30-60minutes after seeding. 
+  * All cultures did NOT gel (read table above).  
+
+  
+
+  
+
+
+Images taken
+
+
+Section to add any microscopy images of samples, or photographs taken of
+experimental set up  
+  
+Why? To support observations and act as a reference to help ensure experiment
+reproducibility
+
+  
+
+NO images taken  
+
+
+
+
+Why? The protocol check box provides a quick yes/no visual to the reader as to
+whether the protocol went to plan or not.
+
+

@@ -1,0 +1,157 @@
+Aim: To measure maturation in DOLLY12 cells using Bradford and Lowry assays
+Hypothesis: Both Bradford and Lowry assays will measure total protein content as a measure of maturation
+Background:
+
+
+Currently at Vow, we do not have a robust way to measure to measure MuSC
+maturation on our scaffolds. Previously, antibody capture methods to detect
+myogenin and myosin heavy chain (II) such as immunofluorescence and ELISA have
+been tried and tested with minimal success. In both methods, the antibody is
+largely retained by the scaffold giving rise to non-specific binding. The
+current working theory is that porous structural network of the scaffold
+provides cavities and crevices for the antibody to be retained in despite
+repeated washing steps.  
+  
+The Bradford and Lowry protein quantification assays are commonly used to
+measure total protein content. While these methods circumvent the issue of
+antibody retention - they bring added complications due to the need of having
+to remove cells off scaffolds, lyse and purify protein. Lysing and purifying
+protein while is straightforward, having to remove cells of scaffolds may turn
+out to be a complicated endeavour. Moreover, if removing cells of scaffolds is
+succesful, antibody detection methods might as well be used to quantify
+maturation markers (Myogenin, MHC II) instead of having to undergo the process
+of lysing and purification for Bradford/Lowry.
+
+An alternative strategy is to employ the rigorous freeze thaw lysis protocol
+as well as expose cell laden scaffolds to RIPA lysis buffer. This is to ensure
+all cells on scaffolds lyse and release intracellular protein into the buffer.
+The supernatant can then be measured using Bradford/Lowry reagents. While one
+could argue that antibody detection methods could be used in the lysate,
+however due to the repeated washing steps and more sophisticated nature of
+these methods it is preferable to use Bradford/Lowry in this instance.
+Bradford/Lowry assays provide the advantage of direct measurement in contrast
+to indirect antibody based methods. Moreover, our zein scaffolds prove to be
+the ideal scaffold to use as our MuSCs are most adherent on zein. The
+assumption here is that other scaffolds will be able to be tested from any
+successful protocol developed in this experiment.  
+  
+This experiment will implement the freeze/thaw process as well as the
+Bradford/Lowry assays for the first time at Vow in an attempt to quantify
+total protein content from our mature muscle cells.
+
+
+Plan:
+
+
+Brief overview
+
+MuSCs will be grown up in our cell expansion project and seeded onto zein
+scaffolds (0.8M or 1.2M cells per scaffold) nd then transferred into a 24 well
+plate format (with inserts) for differentiation cells are transferred into
+24wp 24hrs after seeding ie during the next feed with 100% GM. Once in E6,
+cells will be matured for a minimum of 10 days. Cells will then be lysed using
+a freeze-thaw lysis protocol, centrifuged and then the supernatant will be
+analysed with Bradford reagent. Cell-free controls will be used to determine
+how much protein is present in the scaffold itself (if any) and then will be
+used to normalise signal from cell-seeded scaffolds. Scaffold-free controls
+will be used to determine if scaffolds affect degree of cell lysis/protein
+detected. Finally, a ramped seeding from low to high will be employed across
+the replicates as a form of "positive control" as you should expect protein
+content to increase with higher cell numbers.
+
+Total cell requirements: 10M
+
+Scaffold work:
+
+  * Prepare 12 zein scaffolds in a 96 well plate
+  * Seed cells on zein at either 0.8M or 1.2M cells per scaffold.
+  * After 24 hours, perform feed by transferring zein samples from 96 wp to 24wp with cup and trays containing growth media (D/F + 20% FBS +1xP/S + p38i (10uM))     
+  * Feed cells daily with E6 media using cups and trays inserts.
+
+Preparing BSA standard curve:
+
+  * Make up stock of 2 mg/ml BSA solution
+  * Perform serial dilutions to make up 2000, 1500, 1000, 750, 500, 250, 125, 25 ug/ml solutions of BSA. Place on ice.
+
+Freeze-thaw lysis method:
+
+  * Transfer scaffolds to microcentrifuge tubes
+  * -Add 1mL dPBS to each tube immediately
+  * -Freeze quickly in liquid nitrogen and leave for 3 mins
+  * -Thaw immediately in water bath for 3 minutes. Vortex to mix well.
+  * -Repeat process three more times
+  * -Spin tubes in microcentrifuge for 10 mins on maximum speed.
+  * -Collect 100uL of supernatant per sample and place in marked microcentrifuge tubes on ice.
+
+Sample dilution:
+
+  * Add 250uL of Bradford reagent to three wells, and to all the corresponding wells for standards.
+  * Add 5uL of each standards to the respective wells and observe colour change.
+  * Perform 1:2, 1:5 and 1:10 dilutions of the first sample in microfuge tubes.
+  * Transfer 5uL of each dilution to each of the three sample wells containing Bradford reagent.
+  * Observe colour change. Select dilution for which colour lies within the colour range from the standards.
+  * Dilute remaining samples accordingly to which dilution you have chosen
+  * Pipette 5uL of each diluted sample into 250uL of Bradford Reagent
+  * Aliquot dPBS aliquots in surrounding wells as blanks
+  * Centrifuge plate at 650g for 1 min.
+  * Read plate reader at 595nm
+
+Calculations/Analysis:
+
+  * Prepare graph of standards (mg/ml on x axis, Abs on y axis)
+  * Calculate protein concentration using C1V1 = C2V2 (do not factor in amount of Bradford reagent added)
+
+  
+
+
+  
+  
+Figure 1: Plate map for experiment.  
+  
+  
+
+
+
+
+Storyboard:
+
+Day
+
+Task  
+  
+< 0
+
+  * Prepare 12 zein samples in a 96 well plate format
+
+  * Grow up sufficient cells in cell expansion.
+
+  
+  
+0
+
+  * Seed cells onto zein samples
+
+  * Transfer samples into a 24 well plate format.(24hr after seeding)
+
+  
+  
+1 - 14
+
+  * Feed cells with E6
+
+  
+  
+15
+
+  * Lyse cells with freeze thaw method
+  * Prepare BSA standards
+  * Add Bradford reagent
+  * Read on plate reader at 595nm
+
+  
+  
+> 15
+
+  * Perform data analysis
+
+

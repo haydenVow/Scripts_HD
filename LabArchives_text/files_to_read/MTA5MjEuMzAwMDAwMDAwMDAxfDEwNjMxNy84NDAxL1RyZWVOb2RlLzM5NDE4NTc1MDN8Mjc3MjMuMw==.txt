@@ -1,0 +1,71 @@
+Performed by: Zoe, Jesi, Varshana & Bec
+Vessel  
+ID  
+Seed Vessel Type  
+Seed Vessel ID  
+Location  
+  
+E125  
+12425  
+E500  
+12443  
+Incubator 159 Ralph St  
+120RPM  
+37C  
+5% CO2  
+  
+  
+  
+
+
+Reagent  
+Ranger ID  
+  
+RPMI + Nuvonis media  
+mix12739  
+  
+HyCell + Nuvonis media  
+mix12737  
+  
+IGF-LR3 Solution  
+mix12475  
+  
+rEGF solution  
+mix12321  
+  
+  
+  
+
+
+
+
+1\. Cell counts performed by Jesi.
+
+  * Cell count viable cells / mL = 2.33 M cells/mL. 
+    * Note: Copy the value for 'viable cells per mL) from vicell into the master cell count spreadsheet, with the respective culture ID.
+  * Total volume = 124 mL
+  * Total number of cells = 288 M cells
+
+  1. 35 M cells were harvested for MCC experiments, 15 mL removed from 124 mL flask with a remaining volume of 109 mL.
+
+  
+
+Seeding density:  2.33 M x10^6 cells / mL
+
+Volume in flask: 109 mL
+
+Flask size: E500 (flat bottom)
+
+
+
+
+## Summary/ Results
+
+Nuvonis cells were counted.
+
+Count in Vicell was 288 M cells (2.33 M cells/mL) with a 99.5% cell viability.
+15 mL was removed by Shaleen for the MMC project work (35 M cells). We kept
+the same flask and did not add any additional media and placed it in the
+incubator (37C, 5%CO2, 120RPM).
+
+

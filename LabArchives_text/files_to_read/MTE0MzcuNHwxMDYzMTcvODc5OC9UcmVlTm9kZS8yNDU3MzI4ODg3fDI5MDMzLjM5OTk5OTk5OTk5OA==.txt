@@ -1,0 +1,94 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+To establish a population of avian embryonic cells capable of sustained
+proliferation in suspension culture.
+
+
+Hypothesis
+
+
+When populations of >50 million avian embryonic cells are seeded into a single
+suspension culture vessel (with Nuvonis complete suspension media formulation
++ 100ng/mL FGF), a proportion of these cells will show sustained proliferation
+for >3 weeks.  
+
+
+Technical Gap
+
+
+Attempting to adapt large numbers of cells to suspension simultaneously merely
+increases our chances that some cells will contain a genetic variation which
+aids suspension adaptation, it is by no means guaranteed.
+
+
+Method/Procedure
+
+
+Broad Outline
+
+  1. Thaw and expand embryonic cells (in serum free OPTIPRO + 4mM Glutamax or DMEM/F12 + 10% FBS). Reseed at 7000-8000 cells/cm when passaging. Once cell numbers for each cell line exceed 50M cells, seed into suspension adaption experiment. 
+  2. Harvest cells and seed each cell line into E-125 flasks containing 30mL of Nuvonis suspension media (Freestyle 293 medium supplemented with Yeast Extract, L-Ornithine monohydrochloride, Putrescine, ACA, IGF-1 and EGF)+ 100ng/mL FGF2. Incubate at 37C with 5% CO2 and a shaking speed of 100 RPM. Cells should be seeded at densities of between 800,000- 1,500,000 cells/mL depending on the number of cells available for each line. Multiple E-125 flasks may be seeded if cell numbers allow. 
+  3. Perform 75% feeds + counts every 48-72 hours until the cells either die out, or exhibit sustained proliferation over several days (at which point some cells should be removed and cryopreserved while the remaining cells are continued in suspension culture to determine their longevity of growth. If cell density falls bellow 100,000/mL, media volume should be reduced (can go down to 20mL in e-125 flasks), or moved to 50mL shaker tubes. If cell density exceeds 1,000,000/mL (we expect cell numbers to drop after initial seed at 1M/mL and then hope that the bounce back), cultures should be expanded. 
+
+Cell lines  
+Cell lines from a number of species will be used in this experiment, with a
+view to determining the significance of species variations in suspension
+adaptation, and to give us the best chance of at least one cell line
+containing cells capable of growth under the given suspension culture
+conditions. Cell lines to be used are listed below,  
+  
+1\. BOBBO, Bob White Quail. While this line can not be used in product (Cells
+were isolated in Sydney rather than Melbourne) we have already illustrated
+that cells derived from this line have some capacity for proliferation under
+these suspension culture conditions.  
+2\. MUSC homogenate, Muscovy Duck. Of the embryonic cell lines we possess,
+duck is the most attractive to Vow from a product perspective.  
+3\. KAHKI homogenate , Khaki Campbell Duck.  
+4. DUCKEYE. Khaki Campbell Duck (cells derived from the eye)  
+5\. HORN homogenate White Leghorn Chicken  
+6\. JUMBO homogenate  Jumbo Coturnix (Japanese) Quail  
+7\. KING homogenate King Quail  
+8. SILKIE homogenate Silkie Chicken (In DMEM/F12 + 10% KSR)
+
+With the exception of DUCKEYE, all lines will be grown from isolate.
+Reasoning: MCBs generated in Melbourne may have been inadvertently harmed due
+to their culture in non-vented flasks. Despite loosening the lids of the
+flasks to allow gas exchange, it was clear that some cultures did not have
+adequate exchange as there was pressure build up in the vessels, and we
+observed a decrease in growth rate. When seeded back into vented flasks, the
+doubling times of these lines did increase however it is unclear if the cells
+incurred any lasting damage. To be on the safe side, we will start from
+scratch. Culturing from homogenate also has the potential to increase the
+diversity within the population which is advantageous in this experiment. Some
+cells should be reserved and and frozen as 2nd MCBs during this expansion to
+ensure healthy stocks for future use. We do not have homogenate of DUCKEYE,
+however this is not a problem for this experiment as it was never cultured in
+the non-vented flask so should therefore not have been damaged.  
+
+Expansion in planar culture  
+Cells will be expanded in planar culture in order obtain the large numbers of
+cells desired for this experiment. In order to balance urgency and scientists
+time with the desire for large cell numbers, the cells will be expanded for a
+period of 2 weeks, and we will make use of whatever cells we have by this
+point, we will not aim to have a specific cell number, but anticipate that it
+will exceed 50 million cells.
+
+Media- Planar expansion  
+The serum free media formulation to be used for planar cell expansions will be
+OPTIPRO+ 4mM Glutamax which has been shown to facilitate good growth the
+majority of our embryonic cell lines. The exception is the SILKIE cells which
+are the only species which appear to prefer DMEM/F12 + 10% KRS, and will
+therefore be expanded in this media instead.
+
+Media- Suspension adaptation.  
+Freestyle 293 medium supplemented with 1mg/mL Yeast Extract, 20ug/ml
+L-Ornithine monohydrochloride, 20ug/ml Putrescine, 1:100 ACA, 50ng/ml IGF-1,
+10ng/ml EGF\+ 10ng/mL FGF2.
+
+

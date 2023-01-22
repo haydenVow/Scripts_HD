@@ -1,0 +1,291 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: VB
+
+## Link to Timeline  
+
+
+
+
+Passage.
+
+  1. Removed from incubator
+    1. 100mm explant dish (gm2) uncoated 
+    2. 100mm supernatant (gm1) uncoated
+    3. ID10355 6wp uncoated (gm1 in a1,2,3) (gm2 in b1,2,3)  
+  
+
+    4. 10369 6WP (gm1 and gm2) ULA
+  2. Aspirate supernatant and place in a 100mm dish. 
+    1.   
+
+  3. Wash with PBS
+  4.  Tryplise for 10-15 minutes. 
+    1. 100mm explant dish (gm2) uncoated and 100mm supernatant (gm1) uncoated 17:15 - 35
+      1. gm 1 dish contains alot of adhered cells that are not detaching from the surface of the plate.   
+
+      2. explant dish - most of the cells were transfered into the supernatant
+    2. 10355; 17:38 - 18:20  
+
+    3. 10369 6WP (gm1 and gm2) ULA  15:15 - 15:28  
+
+    4. gelatin supernatant spike02 gm1 16:19 - 16:27  
+
+  5. Centrifuge 650g for 5 minutes 
+    1. GM1 100mm dish and explant gm2 100mm dish: 18:31 - 18:36  
+
+    2. uncoated 6WP: 18:43 -18:48
+    3. 10369 wellB1 ULA: 15:30 - 15:35
+    4. 10349 well B1,B2: 15:57 - 16:02
+    5. gelatin supernatant spike02 gm1 16:29-16:35
+  6. Aspirate the supernatant and resuspend in respective growth media
+    1. explant gm2 100mm dish - resuspend in 10mL of GM2 and seed into a 100mm petri dish.   
+
+    2. GM1 100mm dish \- resuspend in 12mL of GM1 and seed into a T75.
+  7. Collect the explant culture's supernatant and wash with 8 mL of dPBS. 
+  8. Centrifuge the supernatant of the explant culture at 650g for 5 min.
+  9. Resuspend in 12mL of growth media 2.
+
+  
+
+  1. Aspirate supernatant and resuspend in growth media
+    1. 1 X T75 (GM2 EXPLANT)
+    2. 1X T75 (GM1 UNCOATED SUPERNATANT)
+    3. 1X 6WP (GM1)
+    4. 1X 6WP (GM2)
+
+https://docs.google.com/spreadsheets/d/1ncMyTc-
+oVYO5_3oG3CzJ6Eko64z09a243n5_K3En3qw/edit#gid=0
+
+
+
+
+Culture IDs
+
+Culture ID
+
+  
+
+Plate Conditions
+
+  
+
+status
+
+Seeded Plate ID
+
+  
+  
+
+Seeded plate conditions
+
+status  
+10022-Gonads-10005-Sea Urchin-Sydney Sea Water  
+'explant'100mm dishGM 2uncoated  
+100mm dishPassage seeded GM 2uncoated  
+T75  
+Supernatant Kept  
+  
+10413-SPIKE-Sea Urchin P1-1of2  
+100mm dishGM 1uncoated 10810-SPIKE02-Sea Urchin P2-1of1  
+t75  
+supernatant  
+gm1  
+uncoated  
+  
+10355  
+6WP  
+GM1 in a1,2,3  
+GM2 in b1,2,3  
+  
+uncoated  
+  
+6WP  
+rep1 split a1,b1  
+rep 2 split into a2, b2  
+rep3 split into a3,b3  
+GM 1  
+uncoated  
+  
+  
+6WP  
+rep1 split a1,b1  
+rep 2 split into a2, b2  
+rep3 split into a3,b3  
+GM2  
+uncoated  
+  
+10812-SPIKE02-Sea Urchin P1-1of1  
+100mm dish  
+10355 gm1 supernatant from wells a1,2,3  
+GM1  
+uncoated  
+  
+10813-SPIKE02-Sea Urchin P1-1of1  
+100mm dish  
+ 10355 gm2 supernatant from wells b1,2,3  
+GM2  
+uncoated  
+  
+10369-SPIKE02-Sea Urchin P0-1of1  
+6WP  
+GM1 in a1,2,3  
+GM2 in b1,2,3  
+Ultra low attachment  
+10810-SPIKE02-Sea Urchin P2-1of1  
+6WP  
+Rep 1 of GM2 (in well B1) was split into wells A1,2,3  
+GM2  
+ULA  
+has more individual cells adhered (average/large sized)  
+  
+  
+  
+  
+6WP  
+  
+6WP  
+10369 gm1 supernatant from wells a1,2,3  
+GM1  
+uncoated  
+mostly debris  
+  
+10369 gm2 supernatant from wells b1,2,3  
+GM2  
+uncoated  
+clumping adhered cells culture looks good but contaminated 18/2  
+Contains more adhered clumping cells than the passaged culture  
+  
+Well B3 is very confluent with tiny spherical cells both adhered and
+suspended. no large clumps no large cells  
+  
+10349-SPIKE-Sea Urchin P0-1of1  
+6WP  
+GM1 in a1,2,3  
+GM2 in b1,2,3  
+ECM  
+  
+6WP  
+rep1 and 2 from GM2 were split into 4 wells of rep1: A1,B1  
+rep2: A2,B2  
+GM2  
+ECM  
+  
+10415-SPIKE-Sea Urchin P1-1of2  
+100mm Dish  
+GM1  
+Gelatin  
+  
+6WP  
+cell suspension split into well A1,2,3  
+GM1  
+Gelatin  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth Media: Urchin Media 1  
+  
+  
+Growth Media: Urchin Media 2  
+  
+  
+GelatinA7009  
+  
+  
+ECM gel S3849  
+  
+  
+L-15 basal media for ECM coating  
+M10114  
+  
+  
+  
+  
+
+
+
+
+Process Biopsy 1
+
+  1. Aliquotted  80 mL  mL of each growth media for seeding 100 mm plates, and + 36 mL for 100% feed of 6 well-plates
+  2. Coated 2x 100 mm plates with gelatin and 2x with ECM (1%) in L-15 media, and placed plates in 37C incubator for 1 hour 15:25
+  3. Viewed 6 well plates under the microscope to confirm the presence of any adherent cells
+  4. Removed  100  % of supernatant from and transferred to a 50 mL tube. Note: supernatant from each media/plate coating condition (3 wells) were pooled into a single 15 mL tube for seeding a new 100 mm plate. 
+  5. Immediately replaced with  3 mL (per well/) of  urchin growth   media 1 or 2
+  6. Centrifuged 50 mL tube at 300xg for 5 minutes to pellet potential suspended cells Biopsy 1 Spin: 18:11-18:15, Biopsy 2 spin 20:09
+  7. Removed 100% of supernatant and resuspended in 10 mL of fresh media
+  8. Transferred cell suspension to 100mm plates with their respective plate coating
+  9. Returned vessel to incubate at: Original 6-well plates biopsy 1: 18:20, Supernatant plates biopsy 1: 18:54, Original biopsy 2 plates: 20:23, Supernatant plates: 20:58
+
+  * [X ]  17C, urchin cells
+
+  
+
+  * Wine fridge, Lab [Yurt]
+
+
+
+
+Process Biopsy 2  
+  
+
+  1. Aliquotted  80 mL  mL of each growth media for seeding 100 mm plates, and + 36 mL for 100% feed of 6 well-plates
+  2. Coated 2x 100 mm plates with gelatin and placed plates in 37C incubator for 1 hour 19:20-20:20
+  3. Viewed 6 well plates under the microscope to confirm the presence of any adherent cells
+  4. Removed  100  % of supernatant from and transferred to a 15 mL tube
+  5. Immediately replaced with  3 mL (per well/) of fresh   urchin growth   media 1 or 2 (Wells A1-A3 = Urchin Media 1, Wells B1-B3 = Urchin Media 2)
+  6. Centrifuged 15 mL tube at 300xg for 5 minutes to pellet potential suspended cells 20:09-20:14
+  7. Removed 100% of supernatant. 
+  8. Resuspended and pooled pellets from uncoated, gelatin coated and ECM gel coated plates in 10mL of their respective growth media
+  9. Transferred 5 mL of cell suspension to 1x uncoated 100mm plate and 1x gelatin coated 100 mm plate
+  10. Added additional 5 mL of fresh growth media to plates, giving 10 mL total volume
+  11. For ULA pellets, after removing 100% supernatant, resuspended in 9 mL of the respective growth media and transferred to a ULA 6-well plate, divided over 3 wells (Wells A1, A2, A3 = Urchin media 1, Wells B1, B2, B3 = Urchin media 2)
+  12. Returned vessel to incubate at:  Original biopsy 2 plates: 20:23, Supernatant plates: 20:58
+
+  * [X ]  17C, urchin cells
+
+  
+
+  * Wine fridge, Lab [Yurt]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)  
+Plates in media 1 had a distinct cell coloured layer that was visible to the
+eye, with a more prominent layer in growth media 1 on all plate coatings. This
+layer was very sensitive to force, even slow pipetting led to disruption of
+the layer.  
+  
+Microscopy:  
+Greater cell density in media 1, with more cell aggregates. Cells appear round
+in phenotype. No obvious signs of fungal or bacterial contamination.  
+  
+Ultra low attachment plates as expected produced the larger cell pellet
+compared to other coating conditions
+
+Due to insufficient media for biopsy 2, supernatant for growth media 2,
+supernatants from all coatings will be pooled, spun and resuspended in 10 mL
+of media and plated on only uncoated and gelatin coated plates.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

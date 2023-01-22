@@ -1,0 +1,119 @@
+
+
+## Performed by: Addy  
+
+
+
+
+Perform feed using below volumes:
+
+
+
+
+Culture IDs to feed
+
+Vessel No.Vessel type(s)  
+Vessel ID  
+Vessel Location  
+Condition  
+112 well plate  
+  
+9431Main Lab Sanyo ID#120  
+Electrical Stimulation  
+212 well plate  
+9432  
+  
+  
+Main Lab Sanyo ID#120  
+  
+Electrical Stimulation  
+  
+  
+  
+
+
+
+
+## Remove the Stimulation Lead Wire
+
+1\. Removed the hook test clips from the electrode connection pins on the
+culture dish lid  
+  
+The test hook can be released from the pin by squeezing the spring loaded test
+hook handle. It is best not to touch the metal electrode pins while doing
+this. Hold the plastic culture dish lid for stability. If any wires become
+dislodged and the operator is unsure about reattachment, contact experiment
+owner for assistance   Jared - 0420881185
+
+
+
+
+## Imaging (optional)
+
+1\. Imaged BOTH PLATES, taking whole well images of every well using the zaber
+time
+
+For information on how to use the zaber, refer to:
+https://www.notion.so/vow/User-Guide-to-Zaber-imaging-
+ad19527eee9e42ed9db96faa911d6536
+
+Tips for imaging the 12WP are to use 8x8 imaging sites in the HSC site
+generator, remembering to change the spacing rule to field of view with 60 um
+spacing. Remember to build the MM List in the HSC site generator and confirm
+the number of images expected (usually >700) in the Mult-D Acq.
+
+
+
+
+Media Change  
+  
+1\. Retrieved  40 mL  of  E6 Media from a 90 mL shared gains and chains
+aliquot in   1 x 50 mL  tube from the biomaterials fridge.  
+  
+2\. Aliquots placed in water bath   11:24 am
+
+3\. Removed  100% of supernatant from vessel.
+
+4\. Replaced with  1.5 mL (per well/per vessel) of   E6 diff media.
+
+5\. Returned vessels to incubate and connected the test hooks back up to the
+electrode pins on the culture dish lid so that each set of hooks connects to
+the corresponding wire colour and so that the black hooks are aligned on the
+left side of each well and the red hooks on the right (see wiring setup
+reference image below)   12:47, 12:55  
+
+  
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. All vessels
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6 Diff MediaA8902  
+ 40 mL  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+9431: https://mia-capture.vow.tools/#/session/recyuj4DNgeqYGZYv/images
+
+9432: https://mia-capture.vow.tools/#/session/recvz4HYbtpr6OAQB/images
+
+

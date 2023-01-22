@@ -1,0 +1,196 @@
+
+
+Performed by: LL TT  
+
+
+
+
+NANDO Culture IDs:
+
+Flask typeFlask ID  
+ 5x 50mL shake tube  
+7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+  
+E125 flask7700-NANDO3F-Chicken P3-1of1  
+  
+  
+  
+
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+50 mL spin tubes  
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Media
+
+1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF + 1x p/s  
+2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic +100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+3. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+4\. Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+5\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic  \+ 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+
+
+
+
+Prepare media  
+1\. Place the aliquoted  10mL  mL of each respective type of Growth Media \+
+additional 25ml CD CHO and 25mL CDM4 Avian into the water bath  timestamp
+
+
+
+
+Process 50mL shaker flasks:
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC 
+  3. Using a 5 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  4. Pipetted suspension though 70 um cell strainer into 1 x 50 mL tube
+  5. Centrifuged at 300 x g for 5 min. 15:47 - 15:52, 15:53 - 15:58
+  6. Aspirated 5 mL of supernatant, taking care to not disrupt or aspirate pellet 
+  7. Re-suspended cultures in fresh 5 ml of appropriate media using serological.
+  8. Took 1 x 100 uL sample from 5 mL cell suspension and followed procedure in entry below to count cells.
+  9. Gently pipette-mixed cultures again before moving back to spin tubes 
+  10. Returned vessel to incubator and replaced in clamp. 16:10, 16:20,   
+
+Process E125 flasks:
+
+1\. Transfer cell suspensions to 2x 50mL tubes and centrifuge at 300 x g for 5
+min at RT.  
+
+2\. Using a 5 mL serological pipette, gently pipette-mixed culture for 1
+minute to break up cell clumps
+
+3\. Pipetted suspension though 70 um cell strainer into 1 x 50 mL tube
+
+4\. Centrifuged at 300 x g for 5 min. 16:38 - 16:43  
+
+5\. Aspirated supernatant, taking care to not disrupt or aspirate pellet
+
+6\. Re-suspended cultures in fresh 25ml of appropriate media using
+serological.
+
+7\. Took 1 x 10 uL sample from 5 mL cell suspension and followed procedure in
+entry below to count cells.
+
+8\. Gently pipette-mixed cultures again before moving back to spin tubes
+
+9\. Returned vessel to incubator and replaced in clamp. Timestamp 16:53  
+
+[X ]  37ºC, 5% CO2
+
+  
+
+  
+
+
+
+
+### Staining Process for cell count
+
+  1. Prepared stain buffers
+    1. Made enough Hoechst/PI buffer to stain 6 samples, 300 uL per sample ( 2mL):
+    2. Filtered 10 mL dPBS to remove any debris, used 0.2 or 0.45 um pore size syringe filter
+    3. Combined the following:
+      1. 2 mL of filtered dPBS 
+      2. 2 drops (~50 uL) of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+      3. 2 drops (~50 uL) of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green  
+
+  2. Prepared 6wells in a 96 well plate, each containing:
+    1. 20 uL of sample from culture
+    2. 80 uL of stain buffer
+  3. Incubated culture in stain for 10-20 minutes (signal intensified as incubation time increased) at room temperature in the dark  14:03 - : 
+  4. Centrifuged the 96 well plate at 650 RCF for 1 minute. Timestamp: 16:00 - 16:01
+  5. Took phase contrast, blue fluorescence and red fluorescence micrographs of each well
+  6. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (red fluorescent nuclei, stained with propidium iodide OR green fluorescent nuclei, stained with Sytox green)
+
+
+
+
+Stain and image:
+
+  1. Took 100 uL samples of each spin tube culture, transferred to wells in 96 well plate
+  2. Prepared stain buffer of equal volumes of NucBlue and NucGreen reagents (M6457)
+  3. Added 10 uL of stain buffer to each well, pipet mixed each well
+  4. Incubated at room temperature in the dark for 10-20 minutes 15:43 - 15:55
+  5. Centrifuged at 650 RCF for 1 minutes   
+
+  6. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, below correspond to wells in row A:
+    1. Culture ID 7342
+    2. Culture ID 7415
+    3. Culture ID 7665
+    4. Culture ID 7666
+    5. Culture ID 7667
+    6. Culture ID 7668
+    7. Culture ID 7669
+    8. Culture ID 7670
+  7. Took 100 uL samples of each E125 culture, transferred to wells in 96 well plate
+  8. Added 10 uL of stain buffer to each well, pipet mixed each well
+  9. Incubated at room temperature in the dark for 10-20 minutes 17:11 - 17:21
+  10. Centrifuged at 650 RCF for 1 minute
+  11. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, listed below:
+    1. Culture ID 7690 (E1)
+    2. Culture ID 7692 (E2)
+    3. Culture ID 7698 (E3)
+    4. Culture ID 7699 (E4)
+    5. Culture ID 7697 (E5)
+    6. Culture ID 7695 (E6)
+    7. Culture ID 7696 (E7)
+    8. Culture ID 7693 (E8)
+    9. Culture ID 7691 (E9)
+    10. Culture ID 7689 (E10)
+    11. Culture ID 7694 (H1)
+    12. Culture ID 7700 (H2)
+    13. Culture ID 7466 (H3)
+    14. Culture ID 7465 (H4)
+    15. Culture ID 7673 (H5)
+    16. Culture ID 7671 (H6)
+    17. Culture ID 7672 (H7)
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+D/F + 10% FBS + 1xP/S  
+  
+dPBS  
+  
+  
+NucBlue Reagent Hoechst33342  
+  
+  
+NucGreen Reagent Sytox green  
+  
+  
+Propidium Iodide 1 mg/mL  
+  
+  
+  
+  
+
+

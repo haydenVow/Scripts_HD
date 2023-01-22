@@ -1,0 +1,227 @@
+  
+  
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Harvest plate IDSeeded flask ID  
+10772  
+11077 - ZIC1  
+  
+10795  
+11078 - AQP1  
+  
+10768  
+11079 - RIPK1  
+  
+10558  
+11080 - PABPC1+PTEN  
+  
+10557  
+11081 - IGFBP4  
+  
+10531  
+11082 - PABPC1  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+  
+  
+  
+Tryple  
+  
+dPBS (for washing & neutralising)a10657  
+  
+Growth Media (DMEM/F12 + 20% FBS + 1xP/S)  
+m10663  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Process:  
+
+Discarded PTEN adherent plates, suspension cultures have showed little
+increase in cell number since seeding, therefore cells were de prioritized
+from further experimentation.
+
+The cultures involved in this passage are deemed at risk of contamination due
+to an ongoing fungal contamination event occuring in main lab. They were
+present in incubator 120 which contained cultures showing fungal
+contamination. As a result the cultures have been quarantined in the main lab
+to incubator 82.  
+
+  
+
+  
+
+1\. Performed whole well imaging of adherent single cell sorted plates from
+nucleofection Rounds 1-4 adherent single cell clones from 384/96 wps using the
+Zaber, Phase imaging.  
+PABPC1 - 384wp  
+IGFBP4, - 384wp  
+PABPC1 + PTEN - 384 wp  
+ZIC1 - 96wp  
+AQP1 - 96wp  
+RIPK1 - 96wp  
+  
+It was decided that 12 wells (20 for ZIC1) containing clones of high
+confluence (95-100% converage of the well base) would be passaged into new 96
+well, adherent plates, with 1/3 of the cells for selected clones transferred
+to separate tubes for QuickExtract DNA extractions.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     0.02ml ( per 384 well), 0.05mL per 96 well)    
+  2.  dPBS (for neutralising):      0.05mL per 96 well only, 384 wells would be neutralised in the destination wells   
+  3.  dPBS (for washing):     0.02ml ( per 384 well), 0.05mL per 96 well)     
+  4. Growth media (for pellet resuspension):         mL
+  5. Growth media (for seeding):     0.2mL per destination 96 well (2.4mL per gene target)   
+
+Aliquots were left at room temperature before use.
+
+
+
+
+Passage was split between two people.  
+Sarah passaging RIPK, ZIC1 and AQP1 plates (all 96 well plates)  
+Nathan passaging PABPC1, PABPCA+PTEN and IGFBP4 plates (all 384 well plates)  
+  
+384 well plate passaging protocol.
+
+  1. Removed the plates from the incubator
+  2. Marked out 12 wells on the top of each plate that had been selected for passaging based on a review of photos captured earlier in the day. 
+  3. Removed supernatent from wells due for passage
+  4. Placed 50uL of dPBS in each well to wash
+  5. Removed and discarded the dPBS wash
+  6. Added 20uL of Tryple to each well and allowed the wells to incubate at 30 degrees, 5% CO2 for 7 minutes. 
+    1. During this incubation time, a destination 96well plate was set up to receive clones from IGFBP4, PABC1, and PABPC1+PTEN plates. 200uL of growth media (DMEM/F12 + 20% FBS + 1xP/S was added to 36 wells on the plate, Colums 1-6, Rows A-F. 
+    2. The plate was then labelled in the following way. 
+      1. PABPC1 + PTEN = Columns 1+2 
+      2. IGFPB4 = Columns 3+4
+      3. PABPC1 = Columns 5+6
+  7. Once tryple incubation had completed, 50uL of growth media from the destination well was added to the trypalised well, mixed, then transferred back to the destination well on the 96 well plate.
+  8. The destination well was then mixed and 67uL of the suspension was aliquoted into a PCR tube for further QuickExtract DNA extraction. 
+  9. Steps 7-9 were followed for the remaining passaged clones.
+  10. The destination plate was then returned to the incubator at 30 degrees, 5% CO2 and the PCR tubes were prepared for QuickExtract DNA extraction.
+    1. Quick extract tubes were labelled 1-12 as per clone guide below.
+
+Final Layout of Destination 96 well plate for PABPC1+PTEN, IGBP4 and PABPC1.
+
+  
+Column 1Column 2Column 3Column 4Column 5Column 6  
+AClone 1Clone 2  
+Clone 1Clone 2Clone 1Clone 2  
+BClone 3Clone 4Clone 3Clone 4Clone 3CLone 4  
+CClone 5Clone 6Clone 5Clone 6Clone 5Clone 6  
+DClone 7EMPTYClone 7Clone 8Clone 7Clone 8  
+EClone 9Clone 10Clone 9Clone 10Clone 9Clone 10  
+FClone 11Clone 12Clone 11Clone 12Clone 11Clone 12  
+  
+PABPC1+PTENPABPC1+PTEN  
+IGFBP4IGFPB4PABPC1PABPC1  
+  
+  
+
+
+
+
+Passaging of 96wp
+
+1\. Aspirated the supernatant and discard  
+
+2\. wash with 0.05 mL dPBS and remove  
+
+3\. pipette in 0.05 mL tryple
+
+4\. incubate at 30 degrees for 10 mins
+
+5\. spin cells down in centrifuge at 300g for 5 mins
+
+6\. remove supernatant
+
+7\. resuspend in 200 ul new culture media and move to new 96 well plate
+
+8\. transfer 1/3 of cells in media to a 0.2 mL tube
+
+9\. top up well with culture media to return to 200 ul total solution
+
+10\. Place plate in incubator
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

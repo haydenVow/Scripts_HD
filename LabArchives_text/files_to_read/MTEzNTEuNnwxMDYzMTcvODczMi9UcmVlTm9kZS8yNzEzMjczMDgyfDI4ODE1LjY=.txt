@@ -1,0 +1,54 @@
+Performed by: LL
+Vessel IDs  
+Condition  
+Location  
+  
+  
+12743-Nuvonis Quail Suspension341-P-1of2
+
+12744-Nuvonis Quail Suspension341-P-2of2  
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (+ 4 mM L-Glutamine + 3 g/L glucose)  
+Shaking incubator 146  
+  
+  
+12745-Nuvonis Quail Suspension341-P-1of2
+
+12746-Nuvonis Quail Suspension341-P-2of2
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (+ 4 mM L-Glutamine + 3 g/L glucose)  
+
+
+ReagentID  
+RPMI Nuvonis suspension mediumM12809  
+CHO Nuvonis suspension mediumA12921  
+GlucoseA12917  
+L-GlutmaineA12918  
+IGFM12475  
+EGFM12321
+
+
+Process
+  
+  
+  1. Took 1 x 560 uL aliquot from each E250 and E500 and performed counts on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Prepared 400 mL of 50/50 RPMI/CHO medium + IGF + EGF 
+    1. Added 7.9 mL and 4 mL of L-glutamine and glucose solutions respectively
+  4. Prepared 200 mL of 75/25 RPMI/CHO medium + IGF + EGF 
+    1. Added 3.2 mL and 3 mL of L-glutamine and glucose solutions respectively
+  5. Placed in waterbath 
+  6. Combined 50/50 cell suspensions then divided equally between 2 x E1000s
+  7. Combined 75/25 cell suspensions then divided equally between 2 x E500s
+  8. Added 200 mL 50/50 medium to each E1000 (total 300 mL per flask)
+  9. Added 100 mL 75/25 medium to each E500 (total 200 mL per flask)
+  10. Replaced flasks in incubator (110 RPM, 37'C, 5% CO2) 
+
+
+
+
+

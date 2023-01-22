@@ -1,0 +1,57 @@
+
+
+Reactor: Bain Marie dish with lid and stacked perforated steel shelves as well
+as (blocked) perfusion ports (TITANIC II)
+
+Start date: 13/05/21
+
+Operator: CO, JB
+
+Reactor preparation:
+
+  1. The Reactor assembly was wrapped in aluminum foil and dry-autoclaved at 120C for 15 min
+  2.  Afterwards, the assembly was placed on the lab bench to dry (still wrapped in foil)
+  3.  Assembly was ethanol-sprayed, transferred into the BSC and unwrapped
+
+Scaffold preparation:
+
+  1. 24w sized Zein pieces in DMEM were soaked in 2.5% w/v Epsilon-polylysine (in PBS)  (start 11:30-12:00) and dried in the BSC until seeding (16:00)
+  2. 4% sterile Alginate and 100 mM CaCL2 were equilibrated to room temperature and transferred into the BSC until seeding
+
+Scaffold seeding:
+
+  1. 16M cells were spun down into a concentrated pellet and resuspended into 1.6 mL
+  2. Zein (6 M cells):
+    1. 1M cells per Zein piece (3 pieces + 1 cell free) were seeded with 100 uL of concentrated suspension and left to adhere for 15 min 16:00
+    2. Half of the seeded scaffolds were placed inside the bioreactor cells facing up where possible
+    3. The other 4 were placed into a 6w dish as control
+  3. 500 mL growth media was added to the bioreactor, ensuring that all scaffolds were covered with media
+  4. 5 mL growth media was also added to each well of the 6w plate
+  5. Both vessels were transferred to the incubator during the preparation of the Alginate gels!
+  6. Alginate (10 M cells):
+    1. The remaining cells were encapsulated in 4% alginate as follows
+    2. 1 mL Alginate + 1 mL cell suspension were combined and slowly mixed
+    3. 4 samples were dispensed in 4 portions of 500 uL each into a 24w plate
+    4. 100 mM Calcium (2 mL) was added for 10 min, start 16:05
+    5. The gels were washed with media 3x for 5 min each
+    6. 2 alginates each were placed into the bioreactor and the 6w dish
+
+  
+
+Culture IDs:
+
+reactor: 6738
+
+6w plate: 6737
+
+Mix IDs:
+
+Growth Media: 4779
+
+p38i: 4398
+
+4% sterile Alginate:  3499
+
+ 100mM CaCL2: 4523
+
+

@@ -1,0 +1,39 @@
+
+
+Performed by: Bonnie Tangey
+
+
+
+
+Background
+
+We have recently had difficulty performing cell counts on suspension cultures
+stained with trypan blue. This is due to a high amount of debris present, as
+well as due to an apparent change in cell morphology in suspension cultures.
+We have not been able to differentiate between live and dead cells as well as
+between cells and debris.. This has compromised the accuracy of our count data
+as it is highly open to interpretation and counts are likely to vary depending
+on the user.
+
+Initially, a combination of Hoechst and Propidium Iodide (PI) staining will be
+trialled.  Hoechst 33342 staining is tool commonly used at Vow to quantify
+cell numbers, particularly on microcarriers. Hoechst is excited by ultraviolet
+light at 350nm and is a cell permeable stain that binds to the minor grove of
+DNA in both live and dead cells, it can therefore be used to determine total
+cell count. PI is also a DNA stain however is is excluded by intact cell
+membranes, making it permeable only to dead cells. Staining samples with both
+Hoechst and PI should allow us to determine our total cell, live and dead cell
+counts. Staining with automated cell counting by MIA or ImageJ should also
+remove any human subjectivity or user bias between counts.  
+  
+In future, we may also look to assess staining of live cells using Calcein or
+or Cell Tracker.
+
+Product links  
+Hoechst:
+https://www.thermofisher.com/order/catalog/product/H3570?ef_id=Cj0KCQjwl_SHBhCQARIsAFIFRVWZProEa0g2kjsDY5fzCvW1W5AIzwHMvC9M64bcE9BB7Y8PbKOo218aAoEsEALw_wcB:G:s&s_kwcid=AL!3652!3!447292198733!b!!g!!&cid=bid_pca_iva_r01_co_cp1359_pjt0000_bid00000_0se_gaw_dy_pur_con&gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVWZProEa0g2kjsDY5fzCvW1W5AIzwHMvC9M64bcE9BB7Y8PbKOo218aAoEsEALw_wcB#/H3570?ef_id=Cj0KCQjwl_SHBhCQARIsAFIFRVWZProEa0g2kjsDY5fzCvW1W5AIzwHMvC9M64bcE9BB7Y8PbKOo218aAoEsEALw_wcB:G:s&s_kwcid=AL!3652!3!447292198733!b!!g!!&cid=bid_pca_iva_r01_co_cp1359_pjt0000_bid00000_0se_gaw_dy_pur_con&gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVWZProEa0g2kjsDY5fzCvW1W5AIzwHMvC9M64bcE9BB7Y8PbKOo218aAoEsEALw_wcB  
+PI:
+https://www.sigmaaldrich.com/AU/en/substance/propidiumiodide6683925535164?gclid=Cj0KCQjwl_SHBhCQARIsAFIFRVVFn00P47yHAKlUFb-3r1xXRTYeX-
+IIKoziDp-ozvnk8NwiEdL21kMaAsahEALw_wcB
+
+

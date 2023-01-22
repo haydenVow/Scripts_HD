@@ -1,0 +1,58 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/24412/exploration-hanging-drop-cell-
+culture?cf_workflow=500000005&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwqEYUeUXiOogFYw/rec2cKNlIjwD6zOp7?blocks=hide
+
+RELATED TO MILESTONE:  KR2
+
+AIM/PURPOSE: To assess the feasibility of using hanging drop cell culture for
+growing cells in suspension.
+
+HYPOTHESIS: Cells will grow in suspension, but will form aggregates quickly.
+
+RESULTS SUMMARY: The hypothesis was not entirely supported in this experiment;
+while cells did form aggregates, they did not proliferate in suspension.
+
+Cells were successfully seeded into hanging drops, however they did not
+survive the passage into suspension culture. The reason for this cell death is
+unclear, but likely due to the very low seeding density in 5 mL medium and
+significant cell clumping.
+
+A 1% agarose solution coating did prevent cell adhesion to to plasticware, but
+degraded in cell culture conditions (37'C, 5%CO2). Supplementing medium with
+0.1% poloxamer 407 did not prevent cells from adhering to plasticware.
+
+CONCLUSIONS:
+
+Seeding cells into hanging drops does not appear to be fit for our purpose of
+adapting cells to suspension due to their propensity to form clusters, likely
+resulting in cell death. Coating culture flasks with 1% agaorse and adding
+0.1% poloxamer to growth medium were unsuccessful at enabling cells to grow in
+static suspension.
+
+NEXT STEPS:
+
+Different concentrations of poloxamer and agarose could be tested in the
+future if we want to re-examine static suspension adaptation. For example,
+Friedrich et al (2009) successfully used a 1.5% (w/v) concentration of Agarose
+to coat plates. We could also try passaging fibroblasts into a freshly-coated
+flask before the agarose separates from the plasticware, until the cells are
+adapted to growing in suspension.
+
+Overall, hanging drops do not appear to be an appropriate method for adapting
+cells to suspension culture. In each iteration, we have observed significant
+cell clumping unless droplets are seeded at very low densities (25,000 and
+12,500 cells/mL). Given that medium changes cannot be performed on the
+droplets, they need to be passaged within 48H into a higher-volume suspension
+culture. In order to achieve our desired seeding densities of ~1M cells/mL, we
+would therefore require more than 120 droplets to seed our lowest volume
+suspension vessel (deep-well plates - 3M cells), especially when accounting
+for the high rate of cell death seen within the first 24H of seeding into
+suspension culture. This is very time-consuming, and given the lack of success
+seen so far, I would not recommend this method for suspension adaptation.
+
+

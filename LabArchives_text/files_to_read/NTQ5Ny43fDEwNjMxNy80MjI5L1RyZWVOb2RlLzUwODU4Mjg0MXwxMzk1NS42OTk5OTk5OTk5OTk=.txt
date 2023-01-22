@@ -1,0 +1,371 @@
+Brief Background
+
+
+The electrical impulse muscle tissue receives from the nervous system is well
+known to be one of the most important cues for functional muscle development,
+and physically active bioreactors which utilise electrical stimulation have
+been shown to enhance maturation of muscle cells (Donnelly et al., 2010). To
+test the effect of different electrical stimulation patterns on cell growth,
+differentiation and maturation, a stimulation setup is required. This system
+includes a stimulator and electrodes to deliver the stimulation into the media
+of nearby cells. A well-plate culture dish format allows for controls,
+replicates and different conditions to be present on the same test plate.
+Thus, this EPIC investigates the design and development of an electrical
+stimulation system for muscle cell culture.
+
+Electrical stimulation of cells in vitro runs the risk of introducing chemical
+byproducts and pH changes to the media. To prevent this from occurring, most
+stimulation set ups use salt bridges or balanced, biphasic stimulation
+waveforms. However, this is more complicated to implement than a simple
+metallic electrode stimulating with direct current (Mobini, 2016). Although
+many previous studies (Banan Sadeghian 2018; Khodabukus et al., 2019; Shahin-
+Shamsabadi and Selvaganapathy, 2020; Van der Schaft 2013) have demonstrated
+improved maturation using stimulation patterns called pulsetrains with
+biphasic waveforms, some studies have also shown short exposure periods of
+simple DC stimulation can influence cell behaviour, such as proliferation and
+differentiation (Mobini, 2016). For this reason, while the infrastructure to
+utilise more complex stimulation patterns is being developed, testing in this
+EPIC begins with simple DC stimulation. The electrode plate and stimulator
+setup is tested to define the limits of stimulation amplitude without inducing
+electrolysis, as well as general functionality and usability of the system.
+
+
+Key Results
+
+
+A simple manufacturing method was established to integrate metal electrodes
+into the lid of a typical plastic 12WP culture dish to form an electrode-
+plate. 1.6 mm diameter stainless steel wire was cut and bent into L shaped
+metal electrodes. These were embedded into the lid by drilling holes into the
+plastic and pushing the electrodes through, before sealing any gaps with
+household silicone (Figure 1A). This electrode plate is unable to be
+sterilised using high temperatures, however the lid construction proved
+successful to withstand sterilisation using 70% ethanol spray and 1 hr
+exposure to UV light (Figure 1B). Electrolysis tests of less than 1 hour with
+a DC power supply (Figure 1C) showed large amounts of electrolysis at the
+electrode-electrolyte interface of the anode, using 2 V/cm, indicated by large
+amounts of gas formation and changes in colour of the media around the same
+electrode. Accumulation of organic matter was present at the cathode, while
+blackening and pitting of the electrode surface, indicating severe electrode
+dissolution, was present at the anode (Figure 1E). 1 V/cm also showed similar
+indications of electrolysis and electrode dissolution, while 0.5 V/cm
+indicated it may be an appropriate voltage for this electrode set up, with no
+gas bubble formation at the anode or pH indicator colour change within the
+well. The electrode lid was easily connected to a stimulation source within an
+incubator using spring loaded hook test clips (Figure 1D). Overnight
+stimulation using a DC power supply with 0.25 V/cm showed no indication of
+electrolysis. No gas bubble formation or pH indicator colour change was
+visible within the well. 0.5 V/cm showed indications of electrolysis at the
+anode, with gas bubble formation and media colour change visible around the
+same electrode. 1 V/cm showed observable changes to the media and the
+electrode, with a thick, black substance present in the well, particularly
+around the anode (Figure 1F). Electrode inspection after cleaning the
+electrode plate revealed some indications of dissolution to the electrodes
+delivering 0.5 V/cm and clear indications of severe dissolution to the
+electrodes delivering 1 V/cm.  
+  
+The StimJim stimulator demonstrated it could achieve pulsetrains which are
+consistent with some of those in past literature, and this did not result in
+any visible observations of electrolysis for tests of less than 1 hour.
+However, it was established the StimJim can not do intermittent pulsetrains
+with resting periods, the stimulation output is constant. This system was
+found to otherwise integrate well with the electrode-plate and an
+oscilloscope, which displayed the pulsetrain waveform (Figure 1G). The
+waveform parameters measured using the oscilloscope, such as pulse width and
+frequency, were consistent with the programmed output parameters. The
+amplitude of the waveform measured using the oscilloscope (Figure 1H) was also
+consistent with the feedback recorded from the stimulator, indicating the data
+obtained using the onboard measurement system within the StimJim is accurate.
+This stimulator was found to be capable of customising many of the stimulator
+parameters used in previous literature, and could control the output for two
+independent stimulation channels.
+
+
+
+
+Figure 1: Constructing and preliminary testing a electrical stimulation system
+for a 12WP culture dish. A) Sealing embedded stainless steel electrodes into a
+plastic culture dish lid using silicone to form an electrode plate. B) UV
+sterilisation of the electrode plate after spraying with 70% ethanol. C) DC
+power supply stimulator setup to produce 3 different voltages using 10K Ohm
+potentiometers. D) The electrode plate connected within an incubator using
+hook test clips and a lead wire to the stimulation source outside the
+incubator. E) Organic residue and dissolution marks on the surfaces of an
+electrode pair 15 mm apart subjected to 2 V/cm stimulation. F) Four
+stimulation conditions showing increasing rates of electrode dissolution and
+electrolysis with increasing voltages. Each column is a separate condition,
+with stimulation amplitudes, from left to right, of 0.25, 0.5, 1 and 0 V/cm.
+G) A stimulator setup using the StimJim and an oscilloscope connected to an
+electrode plate for electrolysis tests. H) Verifcation tests using the
+oscilloscope to measure the stimulation parameters of the StimJim showed the
+stimulation output is as expected and the StimJim internal measurement system
+is accurate.
+
+
+
+
+Discussion
+
+
+In this study, an electrode plate was developed which could be connected to
+multiple stimulators and used with a 12 WP culture dish format. The approach
+taken to develop this system was using cheap materials and minimal hardware,
+to aid in the scalability of the system at Vow. The electrode plate was
+incorporated into the plastic lid of the culture dish and used spring-loaded
+hook test-clips to connect the electrodes to a lead wire, which allowed for
+the culture dish to be stimulated inside an incubator, while the stimulator
+remained on the bench. Two types of stimulators were trialed with the
+electrode plate, a DC power supply and the StimJim, an open source stimulator
+capable of producing pulsetrains with customisable biphasic waveforms. The
+electrode plate was found to be sterilisable with 70% ethanol spray and one
+hour of UV light exposure. It was established the DC power supply had a
+voltage amplitude limit of 0.25 V/cm for the constructed electrode plate,
+which utilised 1.6 mm diameter L-shaped stainless steel electrodes separated
+15 mm within the culture well. Any higher stimulation amplitudes utilised for
+periods of 12 hours or more resulted in visible gas formation, biochemical
+reactions and pH changes as a result of electrolysis, as well as visible
+electrode dissolution, indicated by pitting and black marks on the electrode
+surface. Another stimulator, the StimJim, was able to be connected to the
+electrode plate. This allowed for more complex stimulation parameters, with
+customisable pulsetrains which could utilise charge-balanced biphasic
+waveforms.
+
+This study indicated that a safe voltage using a simple DC power supply with
+stainless steel 1.6 mm diameter wire L-shaped electrodes is less than 0.5
+V/cm, with 0.25 V/cm showing no indication of pH changes or electrode
+dissolution after one night of stimulation. This stimulation amplitude is
+higher than some that used in some studies, such as 0.07 V/cm (Serena et al.,
+2008). However, it is substantially lower than the voltage ranges used in many
+other studies, such as 2 V/cm (Ko et al., 2018), 4 V/cm (van der Schaft et
+al., 2013) and 5 V/cm (Shahin-Shamsabadi et a., 2020). However, all of these
+previous studies either used biphasic charge balanced waveforms or a salt
+bridge to prevent unwanted biochemical reactions from occurring. In a similar
+method to the DC power supply stimulation experiment in this EPIC, one study
+used a constant DC power supply without the use of a salt bridge or charge
+balanced waveform to stimulate cells immersed in culture media. Using platinum
+(Pt) L-shaped electrodes, 1 V/cm was the maximum voltage which could be used
+without observing substantial electrode dissolution or gas formation and pH
+excursions (Mobini et al., 2018). This is higher than the 0.25 V/cm maximum
+voltage observed in the current experiment. This difference may be due to the
+electrode material used, with the experiments in this EPIC using stainless
+steel electrodes rather than Pt. Stainless steel L-shaped wire electrodes have
+also been used in previous literature without observing negative effects to
+the cells or surrounding media, however a charged balanced biphasic waveform
+was used to minimise harmful effects (Donnelly et al., 2010). Higher voltages
+used in the current study, such as 1-2 V/cm, produced phenomena consistent
+with common and expected irreversible processes encountered when using
+stimulation electrodes, such as electrolysis of water, indicated by the
+consequent formation of gas and pH changes. Marks on the electrode surface
+were also consistent with signs of electrode dissolution, the breakdown of
+passivity, and pitting or transpassive corosion, which is typical of stainless
+steel electrodes (Cogan, 2008).  
+
+The traditional choice of conductive materials for electrodes in contact with
+tissue is metals. Titanium, Pt and platinum-iridium (PtIr) have been
+demonstrated as biocompatible in cochlear implants. Nickle-titanium shape
+memory alloys also have good biocompatibility. Stainless steel and nickel-
+chromium have also been shown to be non-toxic. However, copper and silver are
+unacceptable as stimulating electrodes, since these metals can cause tissue
+necrosis even in the absence of current (Merrill et al., 2005). Stainless
+steel electrodes are substantially cheaper than nobel metals like Pt and Ir,
+so for scaling out and increasing experiment throughput, stainless steel is
+the preferred electrode material. The L-shape of the electrodes used in this
+study was chosen in comparison to a straight wire electrode to increase the
+surface area of the electrode for the chosen wire-based electrode material,
+hence decreasing the charge density for a given charge injection (Cogan,
+2008). Stainless steel electrodes have been used in previous literature to
+stimulate 2D and 3D C2C12 myoblasts, with results indicating improved
+maturation (Donnelly et al., 2010). Stainless steel electrodes have also been
+used to stimulate primary myoblasts and improve their myogenic potential
+(Serena et al., 2008). Pt is a material which has also been used in previous
+in vitro stimulation studies (Mobini et al, 2016; Naumann and Pette, 1994).
+However PtIr has a lower impedance than Pt (Geddes and Roeder, 2003), allowing
+for higher voltages to be used before causing electrode dissolution or
+unwanted biochemical reactions. Alloying Pt with only 10% Ir has been shown to
+increase the charge injection capacitance by 66%. Thus, future studies may
+consider integrating PtIr wire electrodes into the electrode plate instead of
+stainless steel and comparing the effects of using the different electrode
+materials on cell growth, differentiation and maturation. Commercial electrode
+plates such as the Ionoptox C-Pace use porous carbon electrodes and can be
+used with similar well plate formats and stimulation patterns, however the
+cost of this system is more than 20x the cost of the current system used in
+this study (see the Stimulator Research page). This is why many commercial
+systems are unable to be scaled out to enable higher throughput studies, and
+why this study investigates building a complete system in-house.
+
+The StimJim stimulator was found to be capable of reproducing stimulation
+parameters used in previous literature (van der Schaft et al., 2013) and
+satisfies most of the stimulator requirements established in Q2 at Vow (0 -
+100 mV/cm and 2 - 10 V/cm experiments, biphasic signal, 0 - 100 Hz). However
+substantial electrolysis testing of the StimJim with these stimulation
+parameters was not conducted. This stimulator was chosen over other
+stimulators due to its substantially lower cost than competitors, and its
+standout features, such as the integrated voltage measurement system, which
+provides feedback on the actual voltage drop across the electrodes in the
+well. However, preliminary testing of the StimJim has been unable to
+incorporate a rest period into the pulse train, or produce intermittent
+stimulation bursts. Previous literature indicates the work-rest ratio could be
+an important component of the stimulation pattern required to induce
+differentiation and maturation of myoblasts (Naumann and Pete, 1993; Donnelly
+et al., 2010). More investigation is required to understand if this parameter
+can be incorporated into the StimJim with some modification to the firmware.
+Another alternative route to incorporating the rest period parameter into
+future studies is to use the Pulse Pal 2 for pulsetrains where a work-rest
+ratio is desired. The Pulse Pl 2 is another open source stimulator, which
+appears to feature this function, however it does not have an integrated
+measurement system, is not electrically isolated, and does not have a current
+output mode (see the Stimulator Research page). It should be noted the
+disadvantage of no integrated measurement within the Pulse Pal 2 could be
+overcome by using the oscilloscope to read the actual pulse amplitudes
+injected into the media, however this would not be as simple as the StimJim's
+automatic feedback.
+
+Two methods of UV sterilisation for the electrode plate were trialed in this
+study, using either the portable UV lamp or the UV lights built into the BSC.
+While both methods indicated successful sterilisation capabilities, previous
+literature (Bryant et al., 2021) indicates higher sterilisation effectiveness
+with longer exposure times and decreasing distance between the UV light source
+and the sample. Thus, it is recommended that at a minimum, the portable UV
+lamp is used for at least one hour to sterilise the electrode plate after
+spraying with 70% ethanol, instead of using the BSC lamps. This is because the
+portable UV lamp is closer to the sample than those in the BSC. It is unknown
+how many sterilisation cycles the electrode plate will be capable of
+withstanding using this protocol, or if the UV exposure will degrade the
+silicone sealant and plastic culture lid over time. Using 70% ethanol and UV
+for sterilisation is consistent with methods used to sterilise commercial
+systems, such as the Ionoptix C-Pace (van der Schaft, 2013). However, the
+C-Pace is typically soaked in 70% ethanol while being UV sterilised, rather
+than sprayed with 70% ethanol before sterilisation. This may be in part due to
+the porous electrodes used in the C-Pace system. The results in this EPIC
+indicate soaking the metal electrodes of the electrode plate at Vow is
+unnecessary.
+
+
+Limitations
+
+
+\- Although no electrolysis was observed when using the StimJim, the
+electrolysis voltage tests used to test the DC power supply stimulation system
+were not completed to the same extent for the StimJim biphasic pulsetrain
+stimulation system as well, so direct voltage comparisons of the two
+stimulation systems could not be made.
+
+\- Limited pulsetrain and waveform stimulation patterns were developed in this
+study using the StimJim to compare with those in previous literature.
+
+\- No biological testing was conducted in this study to determine the effects
+of the electrical stimulation on cells.
+
+\- The data obtained from the sterilisation tests is not robust, since the
+experiments used antibiotics in the media or no pH indicator was used in the
+media to aid in detecting contamination. The experiment durations were short
+and inspection for contamination was only conducted by eye or under a phase
+microscope.
+
+\- No further examination of the electrodes was conducted post electrolysis
+testing to determine the nature of the organic substance accumulation on the
+electrode surface. No testing was conducted to determine the gas produced at
+the electrode-electrolyte interface was indeed hyrdrogen gas and no further
+analysis of the media was conducted, other than observing changes in pH
+indicated by the media colour change.  
+
+
+Conclusion
+
+
+In this study, an electrical stimulation system was developed for a 12WP
+culture dish to integrate into the biological testing of myoblasts at Vow,
+with the aim of improving maturation of the muscle cells. The system includes
+a 12WP culture dish lid with embedded stainless steel L-shaped electrodes and
+a leadwire with spring-loaded hook clips to connect individual channels to
+their designated electrode pins. This system allows flexibility in experiment
+design and is easy to produce and iterate on. Two methods of stimulation
+tested with this electrode plate were that from a DC power supply and more
+complex pulsetrains from an open source stimulator called the StimJim. It was
+established that only 0.25 V/cm could be used for overnight stimulation with
+the DC power supply before inducing electrolysis and electrode dissolution.
+The StimJim could reproduce pulsetrains found in previous literature, however
+it was not able to incorporate a work-rest ratio, which may be an important
+parameter to include in future system capabilities. The electrode plate
+designed and built in this study was successfully sterilised using a simple
+protocol of 70% ethanol spray and UV sterilisation, ensuring the system is
+ready for biological studies. The electrical impulse muscle tissue receives
+from the nervous system is well known to be one of the most important cues for
+functional muscle development, and electrical stimulation systems such as the
+one designed in this study will enable Vow to develop physically active
+bioreactors which encourage myoblast maturation and improve the quality of the
+meat we produce.
+
+
+Future Directions
+
+
+Future studies should include biological stimulation testing with the
+stainless steel electrode plate. Stimulation using the StimJim should aim to
+replicate the parameters from previous literature and aim to induce the same
+effects on maturation observed in those studies. Stimulation using the DC
+power supply could also be investigated further using biological studies, but
+limiting the amplitude to 0.25 V/cm and including daily media changes. Further
+investigation and testing of stimulation parameters for the StimJim are
+required. A 'rest' parameter should be integrated into the system if possible,
+or a secondary system which can include a work-rest ratio parameter should be
+also investigated, such as the Pulse Pal 2. Improvements or alterations to the
+electrode plate should include using Pt electrodes to compare them with
+stainless steel to determine if there is any difference in biological results,
+such as rates of differentiation, maturation or apoptosis. To improve
+usability, the test hook clips could be replaced with a single connection port
+on the electrode plate for the lead wire. Using other materials for the plate
+which can withstand higher temperatures than the plastic culture plate lid may
+also enable using autoclaving as a sterilisation method and reduce need to
+take up valuable BSC space during electrode sterilisation.
+
+
+References
+
+
+Bryant, M.T., Degala, H.L., Mahapatra, A.K., Gosukonda, R.M. and Kannan, G.,
+2021. Inactivation of Escherichia coli K12 by pulsed UV light on goat meat and
+beef: microbial responses and modelling. International Journal of Food Science
+& Technology, 56(2), pp.563-572.
+
+Cogan, S.F., 2008. Neural stimulation and recording electrodes. Annu. Rev.
+Biomed. Eng., 10, pp.275-309.
+
+Donnelly, K., Khodabukus, A., Philp, A., Deldicque, L., Dennis, R.G. and Baar,
+K., 2010. A novel bioreactor for stimulating skeletal muscle in vitro. Tissue
+Engineering Part C: Methods, 16(4), pp.711-718.
+
+Geddes, L.A. and Roeder, R., 2003. Criteria for the selection of materials for
+implanted electrodes. Annals of biomedical engineering, 31(7), pp.879-890.
+
+Ko, U.H., Park, S., Bang, H., Kim, M., Shin, H. and Shin, J.H., 2018.
+Promotion of myogenic maturation by timely application of electric field along
+the topographical alignment. Tissue Engineering Part A, 24(9-10), pp.752-760.
+
+Merrill, D.R., Bikson, M. and Jefferys, J.G., 2005. Electrical stimulation of
+excitable tissue: design of efficacious and safe protocols. Journal of
+neuroscience methods, 141(2), pp.171-198.
+
+Mobini, S., Leppik, L. and Barker, J.H., 2016. Direct current electrical
+stimulation chamber for treating cells in vitro. Biotechniques, 60(2),
+pp.95-98.
+
+Naumann, K. and Pette, D., 1994. Effects of chronic stimulation with different
+impulse patterns on the expression of myosin isoforms in rat myotube cultures.
+Differentiation, 55(3), pp.203-211.
+
+Serena, E., Flaibani, M., Carnio, S., Boldrin, L., Vitiello, L., De Coppi, P.
+and Elvassore, N., 2008. Electrophysiologic stimulation improves myogenic
+potential of muscle precursor cells grown in a 3D collagen scaffold.
+Neurological research, 30(2), pp.207-214.
+
+Shahin-Shamsabadi, A. and Selvaganapathy, P.R., 2020. Tissue-in-a-Tube: three-
+dimensional in vitro tissue constructs with integrated multimodal
+environmental stimulation. Materials Today Bio, 7, p.100070.
+
+van der Schaft, D.W., van Spreeuwel, A.C., Boonen, K.J., Langelaan, M.L.,
+Bouten, C.V. and Baaijens, F.P., 2013. Engineering skeletal muscle tissues
+from murine myoblast progenitor cells and application of electrical
+stimulation. Journal of visualized experiments: JoVE, (73).
+
+

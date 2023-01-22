@@ -1,0 +1,47 @@
+
+
+## Performed by:
+
+
+
+
+### Calculate volume of ACF-media required
+
+Use the google sheet below to calculate the total volume of ACF-media required
+for the duration of the experiment. To do this:
+
+  1. Enter the number of either 2CFs or 4CFs seeded that are being switched to ACF growth media. 
+  2. Enter the total number of scaffolds being seeded with ACF growth media (remember to include cell-free scaffolds in ACF growth media) 
+    * Note: the final total volume calculation adds an error buffer of 30 mL 
+
+
+
+
+ACF media iteration:  E8_  
+
+Volume of media being made:     mL
+
+
+
+
+## Make ACF media
+
+  1. Prepared 2M solution of GABA according to E8_9C Media Calculator instructions.  
+  2. Prepared 2M hypoxanthine solution according to E8_9C Media Calculator instructions.
+  3. Added   mL of F12 and   mLof DMEM to vessel 
+    * Note: For making 1 - 2.5 L, used a Schott bottle, for >2.5 L used a carboy)
+  4. Added all the ingredients needed for   mL of E8 media following E8 calculator spreadsheet.
+  5. Added ACF ingredients according to the E8_9C Media Calculator spreadsheet.
+  6. If making 10C, 11B, 11C or 11E, added following ingredient (referred to recipes for volume/concentration (E8_10 iterations  and E8_11 iterations)):
+    1. 10C: Glyoxylic acid 
+    2. 11B: IL-6 
+    3. 11C: Extra P38i
+    4. 11E: IGF-1-LR3
+  7. Sterile filtered medium.
+  8. Added   mL of concentrated lipid solution to media (E8_9C Media Calculator).
+  9. Wrapped bottle with foil to protect from light  
+  10. Labelled and stored in fridge 
+
+###  
+
+

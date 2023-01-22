@@ -1,0 +1,65 @@
+Performed by:
+Ranger data
+ReagentID  
+Glucose M13165  
+L-Alanyl-L-Glutamine  
+M13292  
+L-Glutamine  
+A13278  
+Thymidine S6947  
+Hypoxanthine S143  
+Sodium pyruvateM13293  
+50/50 RPMI/CHO Nuvonis suspension mediumM13092 (RPMI); A13095 (CHO)  
+IGF-1-LR3M13279  
+EGFM12970
+
+
+Process
+  
+  
+  1. Made up 1L of 50/50 RPMI/CHO Nuvonis suspension medium without IGF & EGF (base medium) 
+  2. Added respective volume of MilliQ water to each powder and stirred on stir plate until fully dissolved. 
+    1. Sodium pyruvate (11g/L or 100mM): 1.1g in 100mL or 0.22g in 20 mL
+      1. Actual mass measured: 0.2213g  
+*Note: This provides 8.803 g/L of pyruvate
+    2. L-Alanyl-L-Glutamine (43.4g/L): 4.34g in 100 mL 
+      1. Actual mass measured: 4.3436
+  3. Ala-Gln is acidic, so adjusted pH from 6 to 7.1 using 1.1+mL of 1M NaOH 
+  4. Transferred specimen jars to BSC
+  5. Sterile filtered each stock solution using 50 mL syringe filters 
+  6. Added glucose, L-glutamine, L-Alanyl-L-Glutamine, hypoxanthine and thymidine to 300 mL of media (Flasks 1-9) as shown in calculated table attached below   
+  
+  
+  
+
+  7. Added glucose, L-glutamine and L-alanyl-glutamine to 120 mL of media (no hypoxanthine or thymidine) (Flasks 10-12 + resuspension media) as shown in calculated table attached below  
+  
+  
+
+  8. Added glucose, L-glutamine, L-alanyl-L-glutamine, hypoxanthine, thymidine and pyruvate to 100 mL of media (Flasks 13-15) as shown in calculated table attached below  
+  
+  
+
+  9. Added IGF and EGF to the three aliquots 
+  10. Placed in fridge at 4'C overnight 
+
+
+Notes
+
+
+Amount of pyruvate in 50/50 RPMI/CHO + Nuvonis was determined based on the NMR
+data for RPMI + Nuvonis and CHO + Nuvonis (0.5*average(pyruvate contained in
+RPMI) + 0.5*average(pyruvate contained in CHO)). We used this data instead of
+the NMR data obtained for the 50/50 RPMI/CHO + Nuvonis + GFs + 2g/L glucose +
+0.435g/L L-glutamine sample because we thought it would be more accurate given
+we had analysed several replicates of RPMI + Nuvonis and CHO + Nuvonis and
+only one replicate of 50/50 RPMI/CHO + Nuvonis + GFs + 2g/L glucose + 0.435g/L
+L-glutamine. The values are not too different (0.03171554283 g/L vs.
+0.02844338 g/L)  however, I have made up two different tables on the E8
+calculator in case we want to add pyruvate to our medium based on the actual
+amount of pyruvate (0.02844338 g/L) obtained from the NMR analysis of 50/50
+RPMI/CHO + Nuvonis + GFs + 2g/L glucose + 0.435g/L L-glutamine.
+
+*See Waste media experiment spreadsheet for more context.
+
+

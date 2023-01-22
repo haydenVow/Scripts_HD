@@ -1,0 +1,94 @@
+
+
+Simple conclusion about what the results show you
+
+MuSC adherence to zein appeared (observation, not significant) to decrease
+from day 1 to day 7 for all proliferation media tested (9C, 10C, 11C, Serum)
+
+MuSCs proliferated in 9C and 10C ACF media demonstrated better prolonged
+adhesion than those proliferated in serum-containing media, based on Day 7
+confluences.
+
+Low confluence seen on day 1 (20-30%) may have been due to low seeding density
+(0.7M rather than >0.8M) or cells being scraped off during the manual handling
+involved with imaging.
+
+
+
+
+Report
+
+Discussion
+
+On day 1, MuSC confluence on zein scaffolds was between 20 and 30% across all
+media conditions (Figure 1). Confluence was assessed by LL viewing each side
+of a DAPI-stained scaffold and rating it out of 100 based on cell coverage.
+This confluence was lower than expected, given the scaffolds were seeded with
+0.7 million cells and the calculated seeding efficiency was between 82.4 and
+89.2% (see here). There are a few potential explanations for this. The ideal
+seeding density based on previous experiments is >0.8 million cells per
+scaffold, however cell harvest yielded fewer cells than expected resulting in
+a lower seeding density per scaffold, one less replicate, and one less media
+condition. The low harvest may have been due to uneven seeding of the 4CF
+(noted in this lab book entry: https://au-mynotebook.labarchives.com/) and
+observed low confluence of T175s (noted in this lab book entry: https://au-
+mynotebook.labarchives.com/). To avoid this issue in future experiments, a
+greater number of cells will be grown up for seeding. If flasks appear to not
+be confluent enough on seeding day, seeding will be postponed by 24 hours to
+allow for further proliferation. Adhered cells may also have been scraped off
+by tweezers when handling the scaffolds for imaging. Moving forward, extreme
+caution and tweezers with ultra-fine tips will be used when flipping the
+scaffolds to image. In addition, analysing the images by eye introduced
+potential for bias and error. This will be mitigated in future experiments by
+the integration of Zaber with Mia, enabling FIJI analysis of the scaffolds.
+Analysis for this experiment could be repeated using FIJI to verify results.
+Zaber images becoming compromised also resulted in only n=1 of 10C, 11C and
+serum being available for analysis for Day 1 samples. This bug has since been
+fixed by the engineering team. Zaber imaging for 3D cultures was also tested
+and optimised during this experiment to determine the best settings for
+assessing cell confluence (see here). This will be highly valuable for future
+scaffold screening experiments, and can also be used for microcarrier imaging.
+
+On day 7, it appeared that MuSC confluence on zein had reduced for all
+conditions, however the degree to which adherence decreased varied between
+media types. However, due to limitations (i.e. reduced replicates), limited
+statistically significant information can be inferred. MuSC confluence in 9C
+and 10C did not appear to be significantly different from each other on Day 7
+(Figure 1), however the large error bars make this a less definite conclusion.
+Both conditions (9C and 10C) appeared to have significantly higher confluence
+of MuSCs than those in serum conditions (Figure 1) on Day 7. MuSCs
+proliferated in 11C appeared to be lower in confluence than those proliferated
+in 9C and 10C on Day 7, however this result cannot be called significant due
+to the reduced replicates. Due to the lack of replicates a full ANOVA was not
+possible for determining whether there were any statistically significant
+difference between the means.
+
+Figure 1. Confluence of DOLLY12 MuSC on zerin scaffolds on Day 1 vs Day 7.
+Error bars represent the standard deviation. Day 1 for 10C, 11C and Serum do
+not have error bars due to complications with the Zaber resulting in only n=1
+being analysed. Day 7 11C does not have error bars as all repliactes were
+rated as having the same confluence.
+
+Future directions with ACF media on zein scaffolds  
+
+Moving forward, 10C will be used as the standard media for growing cells for
+scaffold seeding experiments. While these results cannot show that it is
+significantly better than the other growth media, observationally it appeared
+to support prologned cell adherence in E6. It has also demonstrated the
+highest proliferative ability of all ACF media tested in past experiments,
+which will allow for a higher number of cells to be grown for scaffold
+seeding.
+
+To ensure minimal cell loss during imaging, manual handling should be
+minimised as much as possible and performed extremely carefully. A seeding
+density of >0.7M MuSCs per scaffold may also ensure a higher day 1 confluence.  
+
+Concluding statement
+
+Overall, these results suggest that cells proliferated in ACF media may
+outperform those proliferated in serum-containing media in terms of both
+initial and prolonged adherence to zein scaffolds in E6 differentiation
+medium. However, due to low replicates, these results are simply observational
+and cannot be called significant.
+
+

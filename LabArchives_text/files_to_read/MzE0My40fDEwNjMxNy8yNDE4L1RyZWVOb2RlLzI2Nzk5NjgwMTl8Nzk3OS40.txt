@@ -1,0 +1,118 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+1364-Culture-3905-Vial-11of32  
+7342-NANDO3F-Chicken P3-1of1  
+E125  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Mediamix #5914  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquotted 25 mL of growth medium into 1 x E125 flask and placed in
+incubator at least 30 minutes before thaw
+
+2\. Aliquotted 9 mL of neutralising medium (DMEM + 1% P/S) into 1 x 15 mL tube
+and placed in water bath
+
+  * Time that aliquots were placed in the water bath/incubator:   11:45     
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 5 min 12:19 - 12:24   
+Location where cryovial was collected from:  
+Vial details:  1   x  NANDO3F  cryovials at  1 million  cells each for a total
+of   1 million  cells  
+Brew
+
+Tower #5  
+
+Box #1  
+
+Vial location: A1  
+
+Vial ID: 3905 (11 of 32)  
+
+  2. Wiped down the vial with 70% ethanol and transferred to BSC.
+  3. Transferred  500 uL of neutralising medium to vial to make total volume up to 1 mL. Pipette-mixed gently. 
+  4. Transferred entire 1 mL cell suspension to 10 mL aliquot of neutralising medium 
+  5. Centrifuged the cells at 300 x g for 5 min at RT. 12:26 - 12:31
+  6. Removed supernatant to remove residual DMSO from the cells. Note: Left ~1.5 mL to be extra sure not to aspirate any cells 
+  7. Re-suspended the pellet in 10mL of the pre-warmed growth medium in the E125 flask. Transfer the cell suspension back to the shake flask. Incubate at 37ºC, 5% CO2 
+  8. Set shaker to continuous shaking at 130 RPM. 12:36``
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+SOPs used:
+
+  * https://www.notion.so/vow/SOP_Thawing-Cells-Into-Suspension-Culture-V_01-4e2f2cef0a2c457298b694f74305fda4
+
+  
+
+Summary:
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+NA
+
+

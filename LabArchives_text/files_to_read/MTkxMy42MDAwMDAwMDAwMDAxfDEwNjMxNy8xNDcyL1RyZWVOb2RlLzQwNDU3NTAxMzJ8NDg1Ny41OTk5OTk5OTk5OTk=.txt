@@ -1,0 +1,221 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDMedia  
+  
+T25  
+6899  
+T25  
+6938  
+serum  
+  
+T25  
+6900  
+T25  
+6940  
+E810C  
+  
+T25  
+6901  
+T25  
+6941  
+
+E810C no GABA  
+  
+T25  
+6902  
+T25  
+6942  
+E810C + extra ethanolamine and p38i  
+  
+T25  
+6903  
+T25  
+6943  
+E810C + extra ethanolamine and p38i, no EGF, GABA, LIF  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * 'serum' = DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+  * E810C
+  * E810C no GABA
+  * E810C + extra ethanolamine and p38i
+  * E810C + extra ethanolamine and p38i, no EGF, GABA, LIF
+
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     5     x    T25      vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       11: 20      
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     16    mL in     1    tubes  10 : 56   
+
+  2.  dPBS (for washing and neutralising):      32   mL in    1    tubes 10 : 56 
+  3. Growth media (for pellet resuspension and seeding):     6 mL of each condition   mL in   1      tube each 11 : 13   
+
+Time that all aliquots were placed in the water bath is indicated for each
+reagent^  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3mL/flask     tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     11:48-12:13 for ACF conditions, 11:48-12:08 for serum     
+
+7\. Neutralised with     3mL/flask     dPBS and combined cell suspension into
+a    1     tube for each condition.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    12 : 27 - 12 : 32    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.1   mL      for ACF growth   media,   0.2
+mL  for the serum cells.  
+
+11\. Aliquoted       10uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:  
+    1. serum: 54 400   
+
+    2. E810C: 16 800   
+
+    3. E810C no GABA: 11 200 
+    4. E810C + extra ethanolamine and p38i: 8 800
+    5. E810C + extra ethanolamine and p38i, no GABA, EGF, LIF:  10 800      
+
+  2. Volume of cell suspension required for subculturing was:
+    * serum: 92 uL (25 000 cells)   
+
+    * E810C: all (100 uL)
+    * E810C no GABA: all (100 uL)   
+
+    * E810C + extra ethanolamine and p38i: all (100uL)
+    * E810C + extra ethanolamine and p38i, no GABA, EGF, LIF: all (100 uL)
+    *  
+  3. Cell density per vessel:    1000cells/cm^2 - was only doable for serum condition      
+
+
+
+
+13\. Transferred      volumes of cell suspensions indicated in step 12 into
+5mL of respective warm growth media
+
+14\. Transferred cell suspension into the pre-gelatin coated       T25
+vessel.
+
+15\. Left at RT in the BSC for 20 min to allow cells to settle     13 : 30 -
+13:50 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutiona4495  
+  
+Tryplea4616  
+  
+dPBS (for washing & neutralising)a5063  
+  
+D/F+20%FBS+1xP/S  
+a4775  
+  
+p38i (20mM stock)m4928  
+  
+ACF mediaSee linked lab book entry  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Passaged all conditions from 1x T25 to 1x T25
+
+There was a very low amount of cell in ACF conditions compared to serum
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

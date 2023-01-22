@@ -1,0 +1,71 @@
+
+
+Procedure
+
+Transferring cells into a seed bottle:
+
+  1. Transfer a pre-autoclaved 5L Schott bottle with tubing and filter attached and an autoclaved silicone funnel aseptically into a BSC.
+    1. See VSOP-114 for Schott bottle preparation.
+  2. Transfer the E5000 shake flasks into the BSC.
+  3. Carefully unscrew the cap of the 5L Schott bottle and slowly lift the cap the attached dip tube from the
+    1. The cap and inlet line (dip tube) need to be removed before adding the cell suspension . Consequently an additional person is required to hold the cap whilst the cell suspension is transferred into 5L Schott bottle. Alternatively the dip tube and cap can be placed into a separate sterile 5L Schott bottle, whilst the cell suspension is poured in.
+  4. Remove the autoclaved silicone funnel from its autoclave bag and carefully place it into the opening of the 5L Schott bottle.
+  5. Swirl each E5000 to suspended any cells that may have sedimented whilst the flasks were static.
+    1. If there are any aggregates present on the circumference of the flasks (evident as a ring on the inside of flask), ensure the flask is not swirled too vigorously to dislodge these accumulated aggregates.
+  6. Carefully pour the cell suspension from both E5000 flasks into the 5L Schott bottle through the silicone funnel.
+  7. Remove the funnel.
+  8. Insert the cap and dip tube into the 5L bottle. Ensure the dip tubing does not touch anything except for the inside of the 5L bottle.
+  9. Twist the cap to finger tightness before removing the bottle from the BSC. The cell suspension is now ready for 200L STR seeding.
+
+Welding the Seed bottle onto the STR200:
+
+  1. Turn on Biowelder
+  2. When the log in screen appears, select 'Supervisor' under the 'User name' field (using the drop-down arrow) and leave the 'Password' field blank. Press the 'tick' to log in.
+  3. Follow the initialising process as indicated on the biowelder (remove the tube holders and close the lid). The machine will take a few seconds to initialise the axes.
+  4. Open the lid and insert a clean blade using the blade holder. Ensure that the white dot on the blade is positioned at the bottom and faces towards the right hand side.
+  5. Select a pair of tube holders corresponding to the diameter of the tubing that is being welded.
+  6. Insert the tube holders into the such that the clamp bars face each other.
+  7. Select the tube type that you are welding by navigating to the main menu screen and selecting the bottom right icon (resembling two tubes). When welding the same material with itself, change the tubing type to match (e.g. when welding advantaflex to advantaflex, change the tube type to 'Advantaflex'). Otherwise, leave the tube type set to 'C-Flex'.
+  8. Insert the tubing that is being welded into the tube holders, making sure that both lines face opposite directions. Secure into place.
+    1. Note: It is crucial the tubing is not stretched when being secured it into the holder. This can result in tension that can weaken or even compromise the weld.
+  9. Ensure both ends of both pieces of tubing are sealed (capped/clamped). Attach the clamps as near as possible to the device while still outside the closed cover (see image below). Ensure that the tubing is not caught between the cover and the base (this is of particular importance on the left hand side, as the tubes will be rotating over each other).
+  10. Close the lid and check if all of the displayed weld specifications match prior to starting the weld (i.e. inner and outer tube diameter and tube type). Press the start button.
+  11. Once the weld is finished, open the lid and remove the blade using the blade holder. The blade can be placed in the 'Old / Used Blades' box.
+  12. Inspect the non-critical / disposable welded piece of tubing (usually the shorter one) and give it a tug to verify the weld.
+  13. Assuming there are no concerns regarding the integrity of the weld, remove the other piece of tubing and repeat Step 13. Gently squeeze the junction of the weld to uncompress the tube.
+  14. Remove clamps and tube holders from the biowelder.
+
+Sealing the Tube/Removing the Seed Bottle:
+
+Note: After starting up the device or if a tubing with a different outside
+diameter is selected, an initialisation must be carried out. The biosealer
+provides clear instructions on its screen on what must be performed from the
+operator, which will be outlined below.
+
+  1. Select the tubing icon from the main menu in order to configure the biosealer 
+  2. Configure the tubing type and the tubing size according to the tubing that is required to be sealed
+  3. Select the "X" icon to return to the main menu.
+  4. Select the "X" icon in the main menu to get to the initialisation screen.
+  5. Follow the prompt indicated by the biosealer.
+  6. Once it has finished initialising, insert the tubing into the biosealer
+  7. Close the cover.
+  8. Check on the interface that the selected tubing matching the inserted tubing. Internal and external diameters must be checked.
+  9. If the details match, press the start button to start the compression phase.
+  10. Once completed attach clamps on either end of the of tubing, approximately 4cm from the edge of the biosealer.
+  11. Select the tick icon to confirm that the clamps are attached and the biosealer can proceed with the seal.
+  12. Once completed, the cover opens automatically, remove the tubing from the biosealer.
+  13. Perform a sealing visual inspection by overlaying the sealed tube onto the verification templet. If the sealing reopening crosses the limit (i.e. is within the two red lines), a new seal must be performed, see below.
+  14. If the quality of the seal is satisfactory, the sealing can be cut following the cutting guideline with rounded scissors.
+  15. Remove the clamps.
+
+
+
+
+Total Live cell count from both E5000: 4,154,800,000 cells
+
+Current cell count in the STR200 before spiking with ST17 was about 84,000
+cells/mL. Spiking with ST17 should now bring cell count to about 140,000
+cells/mL. Cells were spiked into the STR200 using biowelder connection and
+seriological aspirator in the BSC direction from E-flasks
+
+

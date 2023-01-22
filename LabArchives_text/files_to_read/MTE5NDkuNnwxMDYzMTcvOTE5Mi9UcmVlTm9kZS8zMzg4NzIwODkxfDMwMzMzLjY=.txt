@@ -1,0 +1,63 @@
+
+
+# Ranger Experiment ID: 820
+
+
+
+
+# Aims:
+
+  1. To compare manual (haemocytometer), ViCell XR and CellacaMX cell counts from many different live cultures and identify the variability of each method
+  2. To determine if the CellacaMX can be trusted for routine cell counting in our lab and become the sole method for all cell counts at Vow (for R&D)
+
+
+
+
+# Design/plan
+
+6 or more cultures will be sampled to obtain cells for counting using three
+different methods:
+
+  1. Manual counts (Haemocytometer)
+  2. ViCell XR
+  3. CellacaMX
+
+n=4 counts per culture ID, for all three methods. Live and dead cells will be
+counted for each sample
+
+Results will be calculated and reported for the comparison in cells/mL. Manual
+counting calculations will be performed by taking the average count of
+live/dead cells in 5 regions of the haemocytometer per sample and the formula
+below:  
+(AVG cell count) x (dilution factor) x (improved Nuebauer constant) = cells/mL
+
+Calculations for the ViCell and CellacaMX are auto-calculated using the on-
+board software and will be automatically uploaded into Ranger for each culture
+ID.
+
+
+
+
+# Culture ID's used for sampling
+
+  
+
+
+
+
+# Results
+
+Data from all count methods will be stored and analysed using the Google Sheet
+below:
+
+https://docs.google.com/spreadsheets/d/1xW7aIAzcKxsGoGNtPHvVn8TW5gu-9m0KILvU2DHLE_I/edit#gid=337406434
+
+  
+
+Raw data gathered from the automated cell counters was uploaded into Ranger
+automatically and then downloaded as a single .CSV file. The data was then
+transferred manually into the Google Sheet above for further analysis. A copy
+of the raw .CSV file has been attached as a permanent record of the data prior
+to analysis.
+
+

@@ -1,0 +1,64 @@
+Aim/Purpose
+
+
+To develop the physical infrastructure needed to stimulate cells in well
+plates.
+
+
+Hypothesis
+
+
+Stainless steel electrodes embedded into well-plate lids will adequately allow
+for electrical stimulation of media in multiple well-plate formats without
+noticeable dissolution of the electrodes.
+
+
+Technical Gap
+
+
+The conductive materials used for implanted electrodes requires careful
+consideration of the conductivity, biocompatibility, mechanical stability and
+corrosion resistance. Nobel metals and alloys, due to their low reactivity
+over chronic timescales, display many of these properties. This is the main
+reason gold (Au), platinum (Pt) and iridium (Ir) have long been the most
+popular materials for implanted electrodes. Non-nobel metals such as tungsten
+(W), tantalum (Ta), titanium (Ti) and stainless steel are also used due to
+their high resistance to corrosion. The lower cost of stainless steel compared
+to platinum and gold is motive to use stainless steel as the electrode
+material of choice for our experiments. However, grades such as 304 it may not
+support the voltage ranges required for adequate stimulation without corroding
+the electrode. Physically implementing the electrodes into the well-plate lid
+is still yet to be demonstrated.
+
+
+Method/Procedure
+
+
+## Prototyping Stage
+
+Holes are to be drilled into well-plate lids and stainless steel electrodes
+are implemented using wire. The electrodes are fastened using silicon adhesive
+with exposed contact sites for attaching cables to the stimulator.
+
+
+
+
+## Preliminary Testing Stage
+
+Direct current stimulation ranges will be tested using a standard DC output.
+Testing will be conducted using water and media to look for effects such as
+dissolution of the electrode or chemical reactions - ie hydrolysis.
+Preliminary pulsetrain tests using a stimulator will also indicate whether
+more complex stimulation with charge-balanced bipolar waveforms can be
+utilised at Vow, before entering the biological testing phase.
+
+
+
+
+## Test Sterilisation
+
+Ethanol and UV sterilisation to be tested by sterilisation of the lid and
+placed in growth media for 1 week then checkfor contamination.  
+  
+
+

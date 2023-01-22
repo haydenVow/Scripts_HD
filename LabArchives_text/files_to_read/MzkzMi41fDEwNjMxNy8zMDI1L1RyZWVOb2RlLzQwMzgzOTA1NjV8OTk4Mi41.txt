@@ -1,0 +1,81 @@
+
+
+## Feed performed by: LL  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+E1257466-NANDO3F-Chicken P3-1of1  
+Library lab incubatorLibrary lab fridge104  
+  
+  
+E1257465-F_DOLLY12-Sheep P8-1of1  
+Library lab incubator  
+Library lab fridge104  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediumMix #6191 + S3199  
+50 mL  
+  
+  
+
+Growth Medium: DMEM + 10% FBS + 1xP/S + 1:100 anti-clumping agent
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1.  26 mL  of  DMEM + 10% FBS + 1xP/S + 1:100 ACA x2  
+Placed in water bath: 11:35  
+
+  2. Paused shakers by pressing the "play" button on the controller on the side wall of the incubator
+  3. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC
+  4. Using a 5 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  5. Pipetted suspension though 70 um cell strainer into 1 x 50 mL tube
+  6. Centrifuged at 300 x g for 5 min. Timestamp: 11:56 - 12:01
+  7. Aspirated supernatant, taking care to not disrupt or aspirate pellet 
+  8. Re-suspended pellet in 500 uL growth media
+  9. Took 2 x 10 uL aliquots from cell suspension
+  10. Performed cell counts and recorded in cell-count spreadsheet: https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit#gid=1104649984
+    * Count NANDO: 426,800
+    * Count DOLLY: 120,000
+  11. Replaced with fresh, warmed media
+  12. Gently pipette-mixed culture again before moving back to E125 flask
+  13. Returned vessel to incubator and replaced in clamp. Pressed "play" at side of incubators. Timestamp: 12:16
+
+  * Incubator (#68), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7342-NANDO3F-Chicken P3-1of1
+  2. 7465-F_DOLLY12-Sheep P8-1of1  
+  
+DOLLY cells very clumpy on count - difficult to discern true number. NANDO had
+some clumps but far less than DOLLY. Counts suggest that NANDO cells might be
+better at adapting to suspension than DOLLY cells.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

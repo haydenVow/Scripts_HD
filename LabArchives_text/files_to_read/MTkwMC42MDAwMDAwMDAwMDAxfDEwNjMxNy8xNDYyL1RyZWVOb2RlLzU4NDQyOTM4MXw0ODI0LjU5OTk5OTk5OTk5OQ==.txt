@@ -1,0 +1,209 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDMedia  
+  
+T25  
+6873  
+T25  
+6899serum  
+  
+T25  
+6874  
+T25  
+6900E810C  
+  
+T25  
+6875  
+T25  
+6901
+
+E810C no GABA  
+  
+T25  
+6876  
+T25  
+6902E810C + extra ethanolamine and p38i  
+  
+T25  
+6877  
+T25  
+6903E810C + extra ethanolamine and p38i, no EGF, GABA, LIF  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * 'serum' = DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+  * E810C
+  * E810C no GABA
+  * E810C + extra ethanolamine and p38i
+  * E810C + extra ethanolamine and p38i, no EGF, GABA, LIF
+
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     5     x    T25      vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       13 : 05    
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     16    mL in     1    tubes
+  2.  dPBS (for washing and neutralising):      32   mL in    1    tubes
+  3. Growth media (for pellet resuspension and seeding):     6.2mL of each condition   mL in   1      tube each  
+
+Time that all aliquots were placed in the water bath the warm before use    13
+: 30  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3mL/flask     tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     13:51-14:11     
+
+7\. Neutralised with     3mL/flask     dPBS and combined cell suspension into
+a    1     tube for each condition.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    14 : 23 - 14:28  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in      0.2   mL      of each growth    media  
+
+11\. Aliquoted       10uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:  
+    1. serum: 115 200 
+    2. E810C: 50 400
+    3. E810C no GABA: 59 200 
+    4. E810C + extra ethanolamine and p38i: 78 400
+    5. E810C + extra ethanolamine and p38i, no GABA, EGF, LIF:  43 200      
+
+  2. Volume of cell suspension required for subculturing (25 000 cells) was:
+    * serum: 43 uL 
+    * E810C: 99 uL
+    * E810C no GABA: 84 uL 
+    * E810C + extra ethanolamine and p38i: 64 uL
+    * E810C + extra ethanolamine and p38i, no GABA, EGF, LIF: 116 uL
+    *  
+  3. Cell density per vessel:    1000cells/cm^2       
+
+
+
+
+13\. Transferred      25 000 cells from each cell suspension into 5 mL of
+respective media
+
+14\. Transferred cell suspension into the pre-gelatin coated       T25
+vessel.
+
+15\. Left at RT in the BSC for 20 min to allow cells to settle     13 : 35 -
+13:55 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutiona4495  
+  
+Tryplea4615  
+  
+dPBS (for washing & neutralising)a5063  
+  
+D/F+20%FBS+1xP/S  
+a4775  
+  
+p38i (20mM stock)m4928  
+  
+ACF mediaSee linked lab book entry  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Passaged all conditions from 1x T25 to 1x T25 (25k cells/flask)
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,161 @@
+
+
+THIS IS A REMINDER ONLY. NOT PART OF THE LAB BOOK ENTRY WORK
+
+Live cell test: NOTE: See 11-June-2021 Testing cell survivability entry  
+\- stain one live well with CMFDA and image
+
+\- place pre-warmed fresh media back into the well  
+
+\- return to the incubator
+
+\- check this sample on Friday (first image without staining and see if any
+dye remains, then re-stain again with CMFDA this is to see whether cells can
+survive CMFDA addition).
+
+Dead cell test:
+
+\- leave the plate which has been exposed to freeze-thaw in the fridge  
+\- we should be getting new PI in the next 1-2 days
+
+\- stain with new PI on Friday or when you get the chance (try with and
+without CMFDA)
+
+
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Adrian Kotevski
+
+
+
+
+Growth Media: DMEM/F12 + 20% FBS + 1X P/S
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+Well Location  
+6-well plate  
+7069-F_DOLLY12-Sheep P11-2of2  
+Live (Non treated)  
+B1  
+  
+  
+
+
+
+
+Process:
+
+Live/Dead staining:
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker (used
+due to not being able to locate Calcein)
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+*Steps 1 & 2 were conducted the previous day with the DMSO/CMFDA stock solution stored at -20'C (MAIN LAB #71)  
+
+3\. Transfer 5 uL of the 1mM CMFDA stock solution to 2.5 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution.
+
+  1. Note*. Only 5 uL of stock solution was used to preserve quantity and because the amount of media + CMFDA needed was only 2 mL for one well.
+
+4\. Place the pre-aliquoted 10 mL of DMEM/F12 PRF growth media that was
+prepared the previous day into the water bath to be warmed.
+
+  1.  Transfer both the CMFDA working stock solution and DMEM/F12 PRF growth media into the water bath to be pre-warmed
+
+5\. Aspirate the growth media from one well (B1) from the non-treated 6-well
+plate
+
+6\. Add 2 mL of pre-warmed DMEM/F12 PRF growth media to the non-treated 6-well
+plate that had media removed from it in the previous step (well B1) as a rinse
+step to remove any residue serum.
+
+7\. Aspirate the growth media from the non-treated 6-well plate well (B1).
+
+8\. Add 2 mL of pre-warmed CMFDA working solution to the B1 well from the non
+treated 6-well plate and incubate for 30 minutes at 37'C covered in foil to
+protect samples from light.
+
+  1. Start/Finish time was:  11:06 - 11:36
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Without changing the media in the wells, image well (B1) from the non
+treated plate on the Zaber fluorescence microscope (channel AF488 for CMFDA
+[Live cells])
+
+10\. Replace the CMFDA media with fresh growth media.
+
+10\. Return the non treated plate to the incubator.
+
+11\. Repeat the staining procedure the following day (June 11) to observe
+whether cells remain alive following CMFDA staining.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+DMEM/F12 PRFA5354  
+  
+CMFDAS910  
+  
+DMSOA3931  
+  
+DMEM/F12 + 20% FBS + 1X P/S  
+A5155  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Observations will be taken tomorrow.
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because... it worked
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recPPOwdYtEhdqY0l/images (7069),
+Thursday June 10
+
+

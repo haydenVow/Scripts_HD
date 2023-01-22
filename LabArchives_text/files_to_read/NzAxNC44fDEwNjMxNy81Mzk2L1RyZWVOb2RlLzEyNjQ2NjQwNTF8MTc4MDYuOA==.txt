@@ -1,0 +1,197 @@
+
+
+## Background
+
+We plan to start 2 x fast adaptation experiments next Tuesday 23-Nov-2021,
+each will consist of up to 30 x E125 flasks.
+
+Therefore, we need this many cells: 60 flasks x 20 mL/flask x 0.25 million
+cells/mL = 300 million cells
+
+Therefore, we need to thaw this many cells: 300 million cells / 4-fold
+increase over 1 week / 0.67 viability ratio in thawed cells = 112 million
+cells
+
+Therefore, we need to seed this area of flasks: 112 million cells / 7500
+cells/cm^2 = 15,000 cm^2
+
+Therefore, we need to seed this many 4-layer cell factories: 15,000 cm^2 /
+2528 cm^2/cell factory = 6
+
+
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: TT LL VP MG  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+3194-Culture-7346-Vial-44of60  
+3195-Culture-7346-Vial-45of60  
+3196-Culture-7346-Vial-46of60  
+3197-Culture-7346-Vial-47of60  
+3198-Culture-7346-Vial-48of60  
+3199-Culture-7346-Vial-49of60  
+3200-Culture-7346-Vial-50of60  
+3201-Culture-7346-Vial-51of60  
+3202-Culture-7346-Vial-52of60  
+3203-Culture-7346-Vial-53of60  
+3223-Culture-7346-Vial-12of60  
+3224-Culture-7346-Vial-13of60  
+3225-Culture-7346-Vial-14of60  
+3226-Culture-7346-Vial-15of60  
+3227-Culture-7346-Vial-16of60  
+3248-Culture-7346-Vial-37of60  
+9221-F_DOLLY12-Sheep P8-1of6  
+9222-F_DOLLY12-Sheep P8-2of6  
+9223-F_DOLLY12-Sheep P8-3of6  
+9224-F_DOLLY12-Sheep P8-4of6  
+9225-F_DOLLY12-Sheep P8-5of6  
+9226-F_DOLLY12-Sheep P8-6of6  
+6 x 4CF  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth MediaM8296  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  1. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use: 
+
+  *  Growth media (for seeding):    3600 mL  -> LL: I think we actually need 3,600 mL (600 mL x 6 4CFs = 3,600 mL)   
+
+  * Time that aliquot was placed in the water bath to warm before use:   17:20
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+2\. Fill 50 mL tube with 17 mL of growth medium.
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  17:55 - 17:58
+
+Location where cryovial was collected from:
+
+Vial details:
+
+3194-Culture-7346-Vial-44of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    B9  
+3195-Culture-7346-Vial-45of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C1  
+3196-Culture-7346-Vial-46of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C2  
+3197-Culture-7346-Vial-47of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C3  
+3198-Culture-7346-Vial-48of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C4  
+3199-Culture-7346-Vial-49of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C5  
+3200-Culture-7346-Vial-50of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C6  
+3201-Culture-7346-Vial-51of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C7  
+3202-Culture-7346-Vial-52of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C8  
+3203-Culture-7346-Vial-53of60    5 million    106-Ralph St-Main Lab-Brew Dewar
+6    4    C9  
+3223-Culture-7346-Vial-12of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    F1  
+3224-Culture-7346-Vial-13of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    F2  
+3225-Culture-7346-Vial-14of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    F3  
+3226-Culture-7346-Vial-15of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    F4  
+3227-Culture-7346-Vial-16of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    F5  
+3248-Culture-7346-Vial-37of60    10 million    106-Ralph St-Main Lab-Brew
+Dewar    6    4    H8
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into a 2nd 50 mL
+tube`
+
+`7. Repeat steps 4-6 for each cryovial  
+`
+
+`8. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  30 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`9. Transferred  5 mL to each bottle of media`
+
+`10. Transferred 600 mL of cell suspension to each   4CF  flask`
+
+`11. Transferred flask/plate(s) to incubate at: `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+Incubator: 120, main lab
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed 110 M DOLLY12 fibroblasts into 6 x 4CFs
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

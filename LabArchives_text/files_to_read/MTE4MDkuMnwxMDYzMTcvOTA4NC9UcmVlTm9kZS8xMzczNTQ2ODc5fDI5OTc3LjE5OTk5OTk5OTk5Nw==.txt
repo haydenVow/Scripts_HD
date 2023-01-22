@@ -1,0 +1,175 @@
+
+
+Harvest Culture Details
+
+Vessel type(s)Vessel IDGrowth media  Storage Location  
+2x 25mL scaffold wells  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+Snap frozen samples: 80 Ralph St (-80C), in 1.5mL tubes  
+ PFA fixed whole-tissue samples:  
+  
+  
+  
+
+
+Experimental Plan
+
+
+Tissue discs for experiment B have been matured for 10 days. Tissue formation
+looks good in 2 conditions - Control (0.1M NaOH) and 0.2M NaOH condition -
+from a qualitative assessment of tissue structure and integrity. Tissues will
+now be characterised using a variety of methods which are outlined here. Given
+the fact there is only a single replicate per condition, we will be maximising
+the amount of analyses that we can perform on the tissue using technical
+replicates - different regions of the same tissue.
+
+Briefly, both tissue discs cultured for experiment B will be separated for 3
+types of tissue preparation: Tissue digestion, Snap-freezing and Fixation.
+
+Figure 1. Tissue preparation methods for tissue disc experiment B
+
+  
+
+Tissue Sample label details:
+
+  1. 0.1M - A
+  2. 0.1M - B
+  3. 0.1M - C
+  4. 0.2M - A
+  5. 0.2M - B
+  6. 0.2M - C
+
+
+Reagent Details
+
+
+  
+
+ReagentConcentrationVolume (mL)Ranger IDNotes  
+Collagen Type 1 in milliQ 2.6 mg/mL75mix 13074  
+  
+Permeabilisation buffer  
+0.1% TritonX+1mM EDTA+PBS (No 2mM Sodium Azide)  
+200mix 13075  
+  
+Collagenase T2 in DMEM/F12  
+750U/mL Collagenasw Type 2  
+250Mix 13076  
+  
+Paraformaldehyde in PBS  
+4%55mL Alq 3118, Alq 3114, Alq  
+  
+dPBS  
+250Alq 12842  
+  
+  
+  
+
+
+Methods
+
+
+Buffer Preparation
+
+Digestion Buffer 1 (100ml) -750U/mL Collagenase type II in DMEM/F12
+
+FACS Buffer -  1% BSA, 2mM EDTA
+
+Fixation Buffer -  4% Paraformaldehyde in PBS
+
+  
+
+Other preparation
+
+Turn on FACS machine and set up!!  
+
+  1. Prepare 12 labelled Eppendorf tubes for snap freezing
+  2. Prepare 1x labelled 6 well plates for initial PBS wash and fixation
+  3. Prepare 6 labelled specimen pots for digestion
+  4. Prepare 6 labelled 50ml falcons with 70um cell strainers in
+  5. Prepare 6 labelled 15ml falcons
+  6. Prepare 6 labelled FACS tubes
+
+Tissue Harvest
+
+  1. Cut tissues with a scalpel or fine scissors at the "cut point" and remove from the mould with forceps and a large spatula
+  2. Wash samples once in PBS
+  3. Weigh tissue in weighing boat and record the weight below
+  4. In a clean petri dish, cut tissues as per figure 1 above
+  5. Place samples into PBS for further prep
+
+TISSUE SAMPLEWEIGHT (g)Observations  
+0.1M3.35+3.42Tissue has custard like consistency, but does hold its structure
+relatively well.  
+0.2M3.14+2.92Slightly better structure and holds together as single piece.
+Still soft in consistency  
+  
+  
+  
+Notes from all sample
+
+\- Colour =
+
+\- Texture on outside =
+
+\- Texture on inside =  
+
+\- the tissue that wraps around the poll is a bit more sturdier than the
+middle which is a bit more fragile * is this true again?
+
+  
+
+  
+
+Fixation (for Microscopy)
+
+  1. Fix tissue in a 6 well plate in 4% PFA in PBS (Fixation buffer) overnight at 4degs
+  2. Following day, wash 3x5mins in PBS Start time: 
+  3. Store tissue in PBS + 0.02% Sodium Azide in 4 degs
+
+Fixed tissue will be taken to UNSW in 70% Ethanol for tissue processing,
+paraffin embedding, sectioning and some slides (every other?) will be used for
+H&E staining and subsequent slide-scanning.
+
+Snap Freezing (for Molecular Analyses)
+
+  1. Tissue segment for snap-freezing will be further cut into 2 or 3 pieces (depending on handling ease)
+  2. Each portion will be placed into an Eppendorf tube
+  3. Snap-freeze Eppendorf tubes in liquid nitrogen for 3-5 seconds each
+  4. Place in the -80 freezer
+
+Snap frozen tissues will be used for proteomic analysis and possibly other
+molecular analyses at a later date (when we have built up a larger number of
+samples)
+
+Digestion (for Flow Cytometry)
+
+  1. Remove the tissue portion from PBS and place onto a clean petri dish
+  2. Add a few drops of digestion buffer onto the tissue
+  3. Using the lid of a 15ml falcon tube, gently crush tissue into a cell paste
+  4. Place minced tissue into a specimen pot with 10ml digestion buffer
+  5. Incubate with agitation for 10 mins 16:13-16:23 
+    1. Room temperature
+    2. 60rpm on a Thermo Fischer shaking plate.
+  6. Place 70um cell strainer into 50ml falcon and wet the strainer with digestion buffer
+  7. Pipette minced tissue into the cell strainer and ensure that all tissue has passed through, and a single cell suspension is formed
+  8. Centrifuge at 500g for 5 minutes
+  9. Wash pellet with PBS.
+  10. Resuspend cells in 10mL of FACS buffer
+  11. Count 500ul
+    1. 0.1M NaOH: 14.3 cells/mL
+    2. 0.2M NaOH: 14.7 cells/mL
+  12. Place cell suspension into 15ml falcon tube
+  13. Centrifuge at 500g for 5 minutes
+  14. Resuspend in XX uL of Annexin V Binding Buffer at a concentration of 0.25-1.0 x 10^6 cells/mL
+  15. Transfer 100 µL of cell suspension in a 1.5 mL eppendorf
+  16. Add 5 µL of FITC Annexin V
+  17. Add 10 µL of Propidium Iodide Solution. 
+  18. Gently vortex the cells and incubate for 15 min at room temperature (25°C) in the dark.
+  19. Add 400 µL of Annexin V Binding Buffer to each tube.
+  20. Wet FACS tube filter with 1/2 drops FACS buffer
+  21. Place pipette tip flush with filter and pipette quickly into FACS tubes
+  22. Perform flow cytometry on all samples
+
+

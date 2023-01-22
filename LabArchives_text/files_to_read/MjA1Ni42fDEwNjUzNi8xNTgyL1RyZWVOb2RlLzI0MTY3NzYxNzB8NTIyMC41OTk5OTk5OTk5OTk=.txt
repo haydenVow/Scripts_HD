@@ -1,0 +1,112 @@
+
+
+Draw (Harvest): TT/CB/AnV
+
+Cell suspension removed from bag in ~1hr
+
+Centrifuging started at: 11:15
+
+Harvesting finished at:
+
+130L of media was pumped out of the STR200 into a palletank bag. This will
+then be connected to the centrifuge to harvest the cells. The STR200 weight
+had to be put into simulation mode so that it did not alarm and shut down we
+taken down below 50kg. The large floor scale was used to measure the amount of
+cell suspension harvested from the STR200 because we could not use the STR200
+scale.
+
+The Centrifuge was cleaned out with 70% ethanol. At the conclusion of this
+rinse we notice chunks coming out of the second waste tube (the one connected
+to the bottle of the bowl). It was then noticed that there were maggot like
+organisms in this debris.
+
+We cannot access this cavity to clean it properly because the screw holding
+the bowl down is rusted. So to clean it we continued to run ethanol through
+until there was minimal debris coming out. We then ran boiling water through
+it multiple times after.
+
+Centrifuge spun at 70rpm to give a flow rate of 500mL/min. (Last time we did
+1L/min and this still gave us very cloudy waste. Yesterdays lab centrifuge
+test also suggest we are losing cells with this centrifuge so we are trying a
+slower speed to see if this works better)
+
+A sample of waste media was taken at the start of the centrifugation and then
+again at various points throughout the process to see how clear it was (if
+this was cloudy is would suggest lots of cells were being through out into the
+waste).  
+  
+Important notes for next time:
+
+  * The tubing going through the pump needs to be thicker than normal silicone tubing 
+  * A triclover clamp can be used to connect the larger tubing to the small tubing
+  * The centrifuge bowl needs to be cleaned out BEFORE using 
+  * After using the centrifuge do the normal clean, then plug off the end of the heavy waste tube and fill this with detergent/cavicide and boiling water. Leave overnight and clean out the next day.
+
+
+
+
+scale tared with correct empty tube on it then pellet weighed.
+
+weights:
+
+lab centrifuge, light green cap (spun at 1000g for 10min)
+
+51.1
+
+12.1
+
+54.3
+
+3.9
+
+4.6
+
+lab centrifuge, dark blue lid (39.6g tube)
+
+100.9
+
+91.2
+
+  
+
+from outside centrifuge
+
+170.26
+
+
+
+
+Fill: CB/AnV
+
+Filling started at: 10:30
+
+Filling finished at:
+
+Media being pumped in: MIX-12772
+
+Media Type: 3:1 RPMI/HyCell
+
+Media was pumped into the STR200 at a rate of 12 rpm as this kept the input
+temp below 41'C and the recorded temp above 36'C. The STR200 was kept in
+simulation mode (weight only) until the bottom impeller could not be seen
+anymore, the scale was then turned back on.
+
+rpm was slowly ramped up as the volume in the STR200 got larger. At 93L it was
+increased to 18rpm
+
+media filled back up to 180L in the STR200
+
+When making this media: we used a 2inch filter to filter 200L and it became
+VERY slow during the last 50L. Next time we should used a 4inch filter instead
+and only use 2inch for volumes equal to or less than 150L
+
+
+Growth Factors
+
+
+1 L MilliQ water  
+IGF: M12789: A - 140 mL  
+EGF: M12759 - 28 mL  
+Antifoam: M6141 - 14 mL
+
+

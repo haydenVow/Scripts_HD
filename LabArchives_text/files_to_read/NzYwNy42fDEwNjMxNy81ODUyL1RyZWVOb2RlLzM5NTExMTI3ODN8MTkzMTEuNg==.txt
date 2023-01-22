@@ -1,0 +1,171 @@
+
+
+Perform bank using below volumes:
+
+
+
+
+## Performed by: Bonnie, Adrian, Sylvana, Lisa, Claudia  
+
+
+
+
+  
+
+Harvested vessel typeHarvest vessel IDNo of vials frozenNo of cells per
+vialVial IDs  
+ 8x10CF + 1x 4CF  
+10024 - 10032  
+25  
+10M  
+13552-13576  
+  
+125  
+15M  
+13577-13700 +13702  
+  
+  
+  
+
+
+
+
+Growth Media (for resuspension):
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleA9284, 9288, 9281, 9291, 7594, 9290  
+  
+dPBS (for washing & neutralising)A9273, 9275, 9277, 9350, 9351, 9354  
+  
+Growth MediaA9297  
+  
+Freeze mediaS4437, S2770  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  4.2L  
+  2.  dPBS (for washing and neutralising)  8.4
+  3.  Growth media (for pellet resuspension):   500mL
+  4.  Time that all aliquots were placed in the water bath to warm before use:  9:50
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+1\. Imaged the 4CF  
+  
+2\. Removed spent media
+
+3\. Added 500(10CF)/200(4CF)mL tryple to each vessel/well and incubated at
+37ºC for 10 min
+
+Start/Finish time for TrypLE was:  
+12:48  
+12:55  
+12:58  
+13:02  
+13:04  
+
+4\. Neutralised with 500 (10CF)/200(4CF) dPBS (warmed) and combined cell
+suspension into |250mL| tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+Start/Finish time for centrifugation was  
+13:10  
+13:12  
+13:17  
+13:18  
+13:25  
+13:27  
+13:32  
+13:34  
+13:39  
+13:41
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in |500|mL Growth media (combined).
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 2,225,000,000 |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of (10M) cells/mL. = 222.5mL
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 222.5 |mL freeze media (chilled, to reduce
+DMSO toxicity).
+
+15\. Aliquotted | 1mL (10M cells) or 1.5mL (15M cells)|into 25 vials @10M/vial
+and 125 vials @15M/vial
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.  Last frosty put in freezer @ 16:10
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:  
+NA
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):  
+https://ranger.vow.tools/#/session/recNlUCCJPQig8dWY/images
+
+

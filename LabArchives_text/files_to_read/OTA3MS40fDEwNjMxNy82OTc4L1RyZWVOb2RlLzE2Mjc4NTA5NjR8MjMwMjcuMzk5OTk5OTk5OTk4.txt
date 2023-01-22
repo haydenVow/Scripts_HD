@@ -1,0 +1,142 @@
+
+
+Performed by: VP  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-1000  
+  
+ 10786  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Cell Count  
+100ul sample was taken from the flask. Diluted samples with an equal volume of
+trypan blue. Either use
+
+  * Scepter 3.0 cell counts performed (see attached for guide); OR 
+  * Manual count
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+IDTypeCounting methodLive count totalLive count per mL  
+10786  
+FlatTrypan blue250,600,000  
+716,000  
+  
+10786  
+FlatScepter 3NA  
+NA  
+  
+  
+  
+AVERAGE  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis suspension media  
+A10511  
+  
+EGF  
+M9201  
+  
+IGF  
+M7681 (note this is double concentration than usual so half volume was used)  
+  
+  
+  
+
+
+
+
+Feed
+
+  
+
+      Information & Rationale
+
+  * Overall WCB goal is 500 000 000 cells total
+  * Cells are maintained between densities of 50 000 - 800 000 cells/mL, passaged when they reach a density of 800 000 - 1 000 000 cells/mL, and re-seeded at a density of of 50 000 cells/mL
+  * The recommended working volume of an E1000 flask is 350mL but we have used a max of 500mL in a single vessel. 
+    * If possible, dilute entire volume of cell suspension with fresh media (growth factors to be added before use) to achieve an overall density within the limit specified above preferably towards the lower end of that limit (50 000 - 300 000 cell/mL), provided the entire volume does not exceed 500mL
+    * If not possible, cells are passaged into new vessels (E-1000s), diluted with newly prepared media to bring to a density of 50 000 cells/mL in a total of 350mL volume. Do not pellet the cells by centrifugation.
+
+       Process
+
+  1. Removed cells from incubator and took 100uL sample from cell suspension. Returned cells to incubator immediately after sampling and cell counted. Recorded counts as per table above.
+  2. Calculated required media for dilution within current vessel OR prepared new E1000 flasks with required media for 50 000 cells/mL in 350mL (made up of old cell suspension and new media)
+    * Desired passage and seed into:
+      *  x1 E250 (for max cell density experiment); 50 000 cells/mL total volume of 60mL (total cells = 3 000 000
+      * x1 E125 (for longevity experiment, cell count performance over time); 50 000 cells/mL total volume of 30mL (total cells = 1 500 000)
+      * x2 E1000 (for WCB bank down); remainder of cells divided equally between each E1000 in total volume of 300mL,  410 166 cells/mL (total cells per flask = 123 050 000)
+    * Required media is therefore:
+      * 350mL
+  3. Added required growth factors to media
+    * \+ 70uL EGF
+    * \+ 175uL IGF (IGF stock concentration is at twice what was used in calculator so half volume has been added)
+
+calculated from Media Calculator
+
+Suspension Cell Growth Medium (SCGM)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Volume350  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Freestyle 293NANANA341.8800  
+Difco Yeast Extract UF1100350.0003.5000  
+IGF-1 LONG R30.000050.050.0180.3500  
+EGF0.000010.050.0040.0700  
+L-Ornithine monohydrochloride0.02207.0000.3500  
+Putrescine dihydrochloride0.02207.0000.3500  
+Anti-clumping agentNANANA3.5000  
+  
+  
+  
+Total medium vol (mL)350.0000  
+  
+  
+
+  1. Incubated media at          37   °C for    20         minutes
+  2. Removed vessel from incubator and performed ~~media change~~ /passage:
+    * 4.2mL cell suspension into E250, made up to 60mL total with new media (+55.8mL)
+    * 2.1mL cell suspension into E125, made up to 30mL total with new media (+27.9mL)
+    * ~171mL cell suspension into E1000, made up to 300mL total with new media (+129mL)
+  3. Returned vessel to shaking incubation at 37°C
+
+Location: Incubator: #.   78   , 37°C,      120    RPM, Library Lab
+
+

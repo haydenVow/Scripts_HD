@@ -1,0 +1,139 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6616  
+96 wp  
+18  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204
+
+
+
+
+Process:
+
+Fixing
+
+  1. Removed media from each well.
+  2. performed 2x PBS washes for 5 min each (200uL/well)
+    1. 10:41-10:46
+    2. 10:47-10:52
+  3. fixed cells in 4% PFA for 15 min (100uL/well)
+    1. 10:53-11:08
+  4. performed 2x PBS washes for 5 min each (200uL/well)
+    1. 11:09-11:14  
+
+    2. 11:15-11:20  
+
+  
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  11:21 - 11:36
+pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   11:37 - 12:30
+a/pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+  1. Prepared Primary Antibody Mix:  5 µL   Primary #1 MyoG (Santa Cruz)   (1:200  ) +  20 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  975  uL Blocking Buffer 
+  2. Removed blocking buffer from each well. 
+  3. Added 50uL/well of primary antibody mix. Incubate at room temp for 90min-2h:   12:34-14:18 
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+PFA  
+a3109  
+  
+Blocking Bufferm4785  
+  
+PBST (0.2% Triton)m4441  
+  
+dPBSm4826  
+  
+Mouse anti-MyoG (IgG1)  
+s1562  
+  
+Mouse anti-MF20 (IgG2b)  
+s695  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+### Primary stained 18 wells of 96 wp (#6616) for MyoG and MF20
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

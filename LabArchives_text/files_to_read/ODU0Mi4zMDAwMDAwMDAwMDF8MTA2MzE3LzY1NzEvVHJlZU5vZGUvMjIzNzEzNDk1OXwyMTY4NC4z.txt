@@ -1,0 +1,44 @@
+Performed by:
+CyQUANT XTT assay user manual
+Workflow overview
+
+
+
+Process
+
+
+### Manually checked cells
+
+  1. Removed the cells from the incubator and examine them under magnification for abnormalities
+  2. Image all wells in Row B before returning the plate to the incubator and proceeding with XTT sample preparation.
+
+XTT preparation (done in the dark)
+
+  1. Removed the XTT assay kit from the -20 freezer 
+  2. Removed 1 x package containing one bottle of XTT reagent and 1 x vials of the Electron coupling reagent from the CyQuant XTT Cell viability Assay kit, returned the rest of the kit to the freezer 
+  3. Thawed the XTT reagents (component A) in the water bath at 37ºC, vortex the bottle to ensure the XTT reagent is fully in solution
+  4. Thawed the Electron coupling reagents at room temperature. Vortex the vial to ensure that the reagent is fully in solution. 
+  5. Prepared the working solution, removed 6 mL of XTT reagent and place it into a 15 mL tube.
+  6. Add 1 mL of the electron coupling reagent in the 15 mL tube then mix the working solution by pipetting. Working solution should be used immediately.
+
+Cell labelling and absorbance reading
+
+  1. Immediately following sample preparation, removed well plate(s) from the incubator and added 70 uL (96-wp) or 35 uL (384-wp) of the working XTT solution directly to each test and blank well of the 96 well plate using a multichannel pipette.
+
+  2. Incubated the wells at 37ºC for 4 hours. Timestamp
+
+  3. After incubation, read the absorbance at 450 nm and 660 nm using the SPECTROstar Nano Absorbance Reader
+
+    * Note: XTT specific absorbance is measured at 450nm, the 660 nm absorbance reading is used to eliminate background signal contributed by cell debris or other non specific absorbance.
+
+  4. Cell concentrations in wells in each column were seeded at the following densities:  
+  
+  
+
+
+Data
+
+
+[insert relevant data output i.e. links to spreadsheets, standard curve]
+
+

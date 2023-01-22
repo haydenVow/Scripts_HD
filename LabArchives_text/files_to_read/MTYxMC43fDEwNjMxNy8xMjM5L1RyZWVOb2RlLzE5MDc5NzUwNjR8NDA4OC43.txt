@@ -1,0 +1,87 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs:`    6714-DOLLY12_11E7-Sheep P11-3of3 and 6717-DOLLY12_11E7-Sheep P11-3of3   from the incubator.
+  2. Removed media and washed wells with 100uL PBS.  [11:11]
+  3. Remove wash and wash once more with 100uL PBS. [11:16]
+  4. Remove dPBS and add 100uL of 4% PFA and incubate at RT for 15 minutes. [ 11:19 - 11:34]
+  5. Remove the PFA and wash wells twice with 200ul dPBS.  [11:37 ]
+  6. Remove dPBS and replaced with fresh 200uL of dPBS [11:39 ]
+  7. Store the plates at 4 degrees (Fridge 104 in the library lab) overnight parafilmed ready for immunostaining.
+
+  
+
+Parafilmed the plates and store at 4ºC in the tissue culture lab fridge for
+future imaging.
+
+Fridge location/ID: Library Lab Fixed Plates Fridge 65
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+4% PFA  
+A3070  
+  
+dPBS (non-sterile)  
+M4307  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+  
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

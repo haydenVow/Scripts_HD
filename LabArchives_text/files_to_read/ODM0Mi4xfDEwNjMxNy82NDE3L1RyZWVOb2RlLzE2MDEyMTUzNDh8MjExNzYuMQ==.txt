@@ -1,0 +1,171 @@
+
+
+Performed by: NH/ST/EC  
+
+  
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4 x T175  
+10331, 10332, 10333, 10334  
+5 x 6wp  
+10433, 10434 (Control) 10435, 10436 (Igfbp4) 10437 (1 x Igfbp4; 1 x PABPC1 +
+PTEN), 10438, 10439 (PABPC1 + PTEN)  
+  
+  
+  
+
+  
+
+
+ComponentID  
+TE bufferS4881  
+  
+Alt R Cas9S4894  
+  
+Buffer RS4590  
+  
+E BufferS4853  
+  
+Guides  
+  
+Electroporation enhancerS4893  
+  
+Media (DMEM F12 without antibiotics)10118  
+  
+tryple9289  
+  
+PBS  
+8794  
+
+
+  
+  
+Prepare Cells for nucleofection
+
+  1. Cells used were of a low passage number, thawed and out of frozen storage for at least 3 days and appear happy and live. [Cell culture ID:10381, 10382, 10383, 10384, 10385 ] 
+  2. Media was removed from cells, PBS washed with 10 mL per flask and triplised with 10 mL tryple per flask
+  3. tryple was neutralised with     10  mL PBS per flask
+  4. Cells were placed in a falcon tube 
+  5. cells were centrifuged for 5 minutes at 300g.
+  6. supernatant was removed and cells were resuspended in 5mL of growth media (NO P/S)
+  7. cell count was performed under a hemocytometer after a 10uL aliquot was taken and diluted using trypan blue (ratio: )
+  8. The number of cells required for the experiment was determined. 0.4 x 10^5 cells required per well.
+    1. Cells for PTEN + PABPC1 transfection = 0.4*10^6 x 16 = 6.4x0^6
+    2. Cells for IGFBP4 transfection = 0.4*10^6 x 16 = 6.4x10^6
+    3. Cells for Control (Cas9, no guide) = 0.4*10^6 x 13 = 5.2x10^6  
+We therefore need 18 x 10^6 cells  
+
+Total cell number harvested = 22 200 000 cells
+
+  * 6 well plates were prepared to receive nucleofected cells based on total cell number counted (400,000 cells/well, ideally 8 plates total). Wells required were filled with 3 mL of DMEM/F12 + 20% FBS WITHOUT ANTIBIOTICS! 
+  * 6 well plates were placed in the incubator (30 degrees, 5% CO2) to warm plates with media []. 
+
+
+
+
+## *Ensure cell count is performed before determining how much of the
+following reagents to make
+
+Plan: 6 well plate nucleofections. 15 wells per guide and 18 wells for
+controls
+
+Prepare guides/cas9/Cas9 electroporation enhancer
+
+  1. IGFBP4, PTEN and PABPC1 guides in TE buffer (44 uM) (stored at -20) were retrieved from the freezer
+  2. Made up Cas9 mix. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment.
+
+ComponentAmount (uL) 1 x mixAmount (uL) x40  
+Alt-R Cas9 (62 uM stock)0.312  
+  
+Buffer R0.28  
+  
+Total volume0.520  
+  
+  
+3\. Make up the Cas9 + guide mix. Below is a 1 x mix for 1 well, multiply by
+number of wells you intend to make x 1.20 to get total volume required for
+experiment.
+
+Component Amount (uL)Amount (uL) x 17 per guideAmount (uL)  
+  
+  
+sgRNA in TE buffer (44uM)0.5 8.5  
+  
+  
+Cas9 in R buffer (36 uM from above)0.58.5  
+  
+  
+Total volume117  
+  
+  
+  
+4\. Incubated mix for 10-20 min, (tubes were left in the bench hood for 10
+minutes to incubate from [TIMESTAMP]
+
+5\. while incubating, the electroporation enhancer was prepared.
+
+  1. Buffer was removed from -20 freezer and thawed using body temperature. 
+  2. Mxes for each guide were made up to 10.8 uM solutions using 1 x TE buffer. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment.
+
+Component Amount (uL)Amount (uL) x40  
+Electroporation enhancer (100 uM)0.228.8  
+  
+1 x TE buffer 1.7871.2  
+  
+Total volume 2 80  
+  
+  
+  
+
+  
+
+
+
+
+Nucleofection
+
+  1. The required cell number (4.054mL) was pipetted into a 15mL sterile falcon tube
+  2. Cells were centrifuged for 5 mins at 300g at room temp [15:04]
+  3. Supernatant was removed
+  4. The pellet was resuspended in    1     mL 1x PBS (18 x10^6 cells/mL) 
+  5. Three 1.5mL sterile eppendorf tubes were set up inside the BSC and labelled 1-3. volumes of cell suspension in dPBS were transferred to each tube as per the guide below. 
+    1. Tube 1 - PTEN + PABPC1:  356
+    2. Tube 2 - IGFBP4:  356
+    3. Tube 3 - Control:  289
+  6. The cells were centrifuged at 300g for 5 mins at room temp (HINGE OUT IN CENTRIFUGE)
+  7. The supernatant was removed from each tube. It is important to remove as much as possible. Use a 1 mL tip to remove most of the supernatant and then switch to a 200 uL pipette to remove a little more if necessary. Do not disturb the pellet.
+  8. To each Eppendorf tube the following mix was prepared, R buffer added first. 
+
+Component1x Amount (uL) 13 x Controls (no RNP, just cas9) (uL)16 x for each
+gene (PTEN/PABPC1) (uL)  
+RNP complex from above0.8310.79 (just TE)13.28 (sgRNA + cas9)  
+R buffer7.597.5  
+120  
+10.8 uM electroporation enhancer1.6721.71  
+26.72  
+Total10130  
+160  
+  
+17.The nucleofection machine was set up and 6 well plates retrieved from
+incubator
+
+18.The neon tip was inserted into the mix from above and draw up cell mix
+
+19\. The cells were electroporated with the 3 conditions below
+
+Well number on each plate. Voltage Pulse WidthPulse Number  
+1, 41700201  
+2, 51750201  
+3, 6145020 2  
+  
+  
+20\. Cells were placed back in the incubator for 72 hours.
+
+

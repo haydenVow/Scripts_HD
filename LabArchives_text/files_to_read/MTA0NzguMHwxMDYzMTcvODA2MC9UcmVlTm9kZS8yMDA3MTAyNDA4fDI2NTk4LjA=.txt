@@ -1,0 +1,159 @@
+Performed by: ST & EC
+Ranger log
+ReagentID  
+CHO HD + NuvonisM12664  
+50:50 RPMI:CHO HD + NuvonisM12665
+
+
+  
+  
+Flask typeSeeded flask IDConditionLocation  
+  
+  
+E-12512107Freestyle 293  
+Incubator 141 (Main Lab)  
+  
+  
+12108Freestyle 293  
+12109HEK HD Part A + B  
+12110HEK HD Part A + B  
+  
+12111HEK HD Part A + B  
+  
+12112HEK HD + Nuvonis  
+12113HEK HD + Nuvonis  
+  
+12114HEK HD + Nuvonis  
+  
+12118CHO HD + Nuvonis  
+  
+12119CHO HD + Nuvonis  
+  
+12120CHO HD + Nuvonis  
+  
+Sub-cultured from  
+Seeded flask ID  
+Condition  
+  
+12118  
+12169  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12119  
+12170  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12120  
+12171  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+  
+  
+*Link to slow adaptation:  https://au-mynotebook.labarchives.com/share/Vow%2520-%2520R&D/MTA1MjIuMnwxMDYzMTcvODA5NC9UcmVlTm9kZS85NTMxMDcyMjV8MjY3MTAuMTk5OTk5OTk5OTk3
+
+
+
+
+  1. Make up 200 mL of 50:50 RPMI:CHO Part A + Nuvonis.
+  2. Took 2 x 550 uL samples from each culture (2 x technical reps/flask).
+  3. Performed counts using Vicell (510 uL/sample):  
+  
+
+ConditionVicell total cell counts (viable cells)  
+Average vicell total cell count  
+12107 Freestyle15,340,000  
+15,170,000  
+  
+12108 Freestyle15,000,000  
+  
+12109 HEK Part A + B 941,000  
+673,333 (Discarded)  
+  
+12110 HEK Part A + B  
+275,000  
+  
+12111 HEK Part A + B  
+804,000  
+  
+12112 HEK + Nuvonis  
+95,110 (there are two exes next to the run of the two technical reps of this
+flask on the vicell software, so I am hesitant to trust this value).  
+2,126,500 (Discarded)  
+  
+12113 HEK + Nuvonis  
+2,180,000  
+  
+12114 HEK + Nuvonis  
+2,073,000  
+  
+12118 CHO + Nuvonis  
+9,420,000  
+9,673,333  
+  
+12119 CHO + Nuvonis  
+9,880,000  
+  
+12120 CHO + Nuvonis  
+9,720,000  
+  
+* In red, those that were discarded.
+
+  4. Aliquotted 60 mL of CHO Part A + Nuvonis, 40 mL of Freestyle medium and 60 mL of 50:50 RPMI:CHO Part A + Nuvonis, and added 60uL of IGF and 12 uL of EGF to conditions CHO + Nuvonis and 50:50 RPMI:CHO Part A + Nuvonis, as well as 40 uL and 8 uL of IGF and EGF, respectively into the Freestyle medium.  
+  
+
+  5. Aliquoted the following mL of cell suspension into 6 x 15 mL tubes:  
+  
+ConditionVolume of cell suspension used to re-seed flask @ 100k cells/mL (mL)  
+  
+12107 Freestyle  
+2.608  
+  
+12108 Freestyle  
+2.667  
+  
+12109 HEK Part A + B20  
+  
+12110 HEK Part A + B20  
+  
+12111 HEK Part A + B20  
+  
+12112 HEK Part A + Nuvonis20  
+  
+12113 HEK Part A + Nuvonis20  
+  
+12114 HEK Part A + Nuvonis20  
+  
+12115 CHO Part A + BDiscarded  
+  
+12116 CHO Part A + BDiscarded  
+  
+12117 CHO Part A + BDiscarded  
+  
+12118 CHO Part A + Nuvonis4.246 x 2  
+  
+12119 CHO Part A + Nuvonis4.049 x 2  
+  
+12120 CHO Part A + Nuvonis4.016 x 2  
+  
+  
+
+  6. Centrifuged the tubes @ 500 xg for 5 minutes (with the exception of those cells in Freestyle medium given I removed 17.392 mL and 17.333 mL from flasks 12107 and 12108, respectively and added 20 mL of fresh media back into each E-125).
+  7. In the meantime, added 20 mL of pre-warmed media into each E-125.
+  8. After centrifugation, aspirated the supernatant and resuspended cell pellet in 1 mL of respective medium using a 1 mL pipette. Then dispensed cell suspension into its respective E-125.
+  9. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+
+
+
+Manually counted 12118 and there was a total of 13,080,000 cells. The culture
+is mainly composed of single cells, even if there are some duets, their
+membranes are round and smooth suggesting the cells are happy and healthy and
+their size is similar to that of CHOMP adherent cells.
+
+When I removed the 17.392 and 17.333 mL from flasks 1207 and 1208,
+respectively there was very little volume of cell suspension remaining in the
+flask (<2 mL).
+
+

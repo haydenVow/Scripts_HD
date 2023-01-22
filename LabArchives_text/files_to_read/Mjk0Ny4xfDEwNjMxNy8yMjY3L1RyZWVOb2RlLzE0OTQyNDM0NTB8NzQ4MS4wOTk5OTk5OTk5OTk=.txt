@@ -1,0 +1,192 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+SUMMARY
+
+T25 flasks passaged from  
+Growth media (in mini-fridge under bioreactor)  
+Vessel locationculture ID of T25 flasks seeded:  
+7269-DOLLY12-Sheep P9-1of1  
+commercial DMEM/F12 + 10% FBS  
+Thermo7292  
+  
+7271-DOLLY12-Sheep P9-1of1  
+in-house DMEM/F12 + 10% FBS (1/2)  
+Thermo  
+7293  
+  
+7272-DOLLY12-Sheep P9-1of1  
+in-house DMEM/F12 + 10% FBS (2/2)  
+Thermo  
+7294  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took images of vessels with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent then placed all aliquots to
+warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. TrypLE:    10   mL in    1 x 15 mL   tube
+  2.  dPBS (for washing and neutralising):     20   mL in   1 x 50 mL   tube
+  3. Growth media (for pellet resuspension):    0.5   mL each media in    3 x 15 mL   tubes
+  4. Growth media (for seeding):    5.5   mL each media in    3 x 15 mL   tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+11:50  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   12:07  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was (checked at 10 min, wasn't quite ready)    12:13 -  12:30    
+
+7\. Neutralised with    3 mL    dPBS and combined cell suspensions into    3 x
+15 mL   tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was      12:37  \-   12:42    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     3 x 0.5    mL     respective growth
+media     12:43  
+
+11\. Aliquoted   3 x 10 uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was: 
+    1. commercial media: 
+    2. in-house (1/2): 
+    3. in-house (2/2):   
+
+  2. Volume of cell suspension required for subculture was:  
+    1. Prepare 175 000 cells in 5mL for each condition for seeding T25 flasks with 7000 cells/cm^2:
+      1. commercial media:    425 uL    
+      2. in-house (1/2):     405 uL    
+      3. in-house (2/2):     500  uL (using entire suspension - only 144000 cells)     
+
+  3. Cell density per vessel:     7000 cells/cm^2    
+
+
+
+
+13\. Transferred the 5mL cell suspensions into 1x T25 flask for each condition
+13:08      .
+
+14\. Seeded 3x 96 well plates using the 3.5mL cell suspensions prepared above
+by transferring 140uL/well. Note: the edge wells of the 96 well plate are not
+used and contain PBS only. Cells were seeded as follows for each 96 wp:
+
+  1. column 2: fibroblasts in commercial media 
+  2. column 3: fibroblasts in in-house media (1/2) 
+  3. column 4: fibroblasts in in-house media (2/2)
+
+16\. Transferred vessel(s) to incubate at:      13:12  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem4589  
+  
+dPBS (for washing & neutralising)a5487  
+  
+Growth MediaNA  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Fibroblasts passaged from 3 x T25 flasks into a new set of 3 x T25 flasks for
+continuous culture
+
+\- observationally appeared to be more floating dead cells in in-house media
+2/2 than the other conditions (on looking in microscope before passage)
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+In-house media 2/2 (phase, 4X)  
+https://mia-capture.vow.tools/#/session/recIlukK8x2wIXvvW/images  
+  
+
+In-house media 1/2 (phase, 4X) https://mia-
+capture.vow.tools/#/session/recsfHIsFrrfV8rwv/images  
+
+
+
+Commercial media (phase, 4X)
+
+https://mia-capture.vow.tools/#/session/recl9xfOYnhkqW20C/images
+
+  
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+
+
+## Performed by: Chris, Addy  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Bradford reagentS3589  
+  
+PBSA6797  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+  
+
+
+
+
+Process:
+
+Preparing BSA standard curve:
+
+  * Make up stock of 2 mg/ml BSA solution
+  * Perform serial dilutions to make up 2000, 1500, 1000, 750, 500, 250, 125, 25, 12.5, 6.75, 0 ug/ml solutions of BSA in triplicate (see plate map). Place on ice.
+
+PLATEMAP here
+
+Improved freeze-thaw lysis method:
+
+  * Obtained eppendorf tube of M-stim samples from Chris.
+  * Place the tube/s directly in LN2 bath for 3 minutes.
+  * Thaw in water bath for 3 minutes.
+  * Repeat process 4 more times.
+
+Cycle 1: 14:04-14:08 , 14:09-14:12  
+
+Cycle 2: 14:13-14:17, 14:18-14:21  
+
+Cycle 3:  14:22-14:25, 14:28-14:31  
+
+Cycle 4:  14:31-14:35, 14:36-14:39  
+
+Cycle 5:  14:40-14:43, 14:44-14:47  
+
+  * Centrifuge tube/s at 650g for 5 mins.  14:50 pm
+  * Aspirate supernatant and transfer to fresh eppendorf tube/s. Keep cold by placing on ice.
+  * Tested out 5/10/20uL of sample with 250uL of Bradford reagent. 
+    * \--> 10 uL looks in range
+    * total sample volume 50 uL
+  * In a new 96 well plate, add 250uL bradford reagent to the corresponding wells (see plate map above).
+  * Add determined optimal amount of sample/standard to each Bradford well.
+  * Mix well and spin plate down for 5 mins to remove bubbles (also the incubation time).
+  * Read absorbance of both plates using plate reader (595nm). Raw data below
+
+
+
+
+INSERT PHOTO OF PLATE
+
+
+
+
+
+Processed data:
+Standard curve:
+
+
+R squared =  0.9780269067412678
+
+
+Raw data:

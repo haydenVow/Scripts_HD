@@ -1,0 +1,104 @@
+
+
+## Completed by: Eva
+
+
+Aim/Purpose :
+
+
+To determine whether cell death observed in myogenic differentiation in Q3 and
+prior is a result of pipetting, temperature of the media, drying out of cells
+and/or their interaction.
+
+
+Technical Gap
+
+
+In Q3 and prior to this we have observed cell death in DOLLY12 cells,
+particularly during differentiation and maturation assays.
+
+In December 2020, Bec wrote a report (https://www.notion.so/vow/Failed-
+attempts-Report-ad8e4c0ddc7b4c27a284e4c124e24bdd) where she included the harsh
+handling of cells (ie. pipetting force and drying out of cells) as well as the
+use of cold/ambient temperature media to feed cells as potential causes of the
+observed cell death. At the time, some immediate changes were implemented
+including the gentle handling of cells, avoiding cells from drying out by
+replacing old with fresh media immediately and, making sure the media was
+warmed up at 37ºC for a minimum of 20 minutes. The combination of these
+changes improved cell survival however, it is unclear which of them, if any or
+the combination of them all, was the actual cause of the observed cell death.
+By exposing both DOLLY12 and C2C12 cells to these harsh conditions and their
+interactions we aim to address this uncertainty. The use of C2C12 cells will
+further guarantee our results as they are more robust cells and if a
+particular condition causes them to die it probably means it would cause any
+other cell to die.
+
+
+Hypothesis
+
+
+Assessing the effect of each individual condition (ie. pipetting, media
+temperature, drying out of cells) and their interaction will allow us to
+determine which factor is contributing to the observed cell death during Q3
+and prior.
+
+
+Method/Procedure
+
+
+  1. [Experiment Plan]
+    * D1: Thaw 1 x vial C2C12 and 1 x vial DOLLY12 cells and culture in 3 x T175 flasks/cell line.
+    * D2: 100% feed with DMEM/F12 + 20% FBS + 1x P/S + P38i.
+    * D4: Seed cells into 6 x 96-well plates for each C2C12 and DOLLY12 cell lines (harvest cells, count, seed DOLLY12 at 1,000 cells per well in 200uL per well, and C2C12 at 500 cells per well in 200 uL per well.  
+(Each of these 96 wp will contain 9 columns of wells with cells, while the
+rest being exclusively gelatin-coated).
+
+    * D6: 50% feed with DMEM/F12 + 20% FBS + 1X P/S + P38i (C2C12 may need 100% feed due to fast growth)
+    * D0D - Once cells reach 100% confluence, fix 1 x 2% HS and 1 x E6 plate for C2C12 and DOLLY12 cell lines (whilst still in growth media) and change the remaining plates to 2 x E6 and 2 x 2% HS differentiation media for both C2C12 and DOLLY12 cell lines.  
+
+    * D1D - 100% Feed
+    * D2D - 100% Feed
+    * D3D - 100% Feed
+    * D4D - Fix 2 x plates per C2C12 and DOLLY12 cell lines (1 x 2% HS and 1 x E6 media) 
+    * D4D - 100% Feed
+    * D5D - 100% Feed
+    * D6D - 100% Feed
+    * D7D - Fix 2 x plates per C2C12 and DOLLY12 cell lines (1 x 2% HS and 1 x E6 media)  
+    * DAPI stain plates fixed at days 0, 4 and 8.
+    * Image and obtain total cell counts for D0D, D4D and D8D plates from each cell line (ImageJ macro).
+    * Determine the difference between D0D, D4D and D8D time points.
+    * Assess at what day of differentiation cell death is observed and whether it is different in the wells exposed to different conditions, as well as between E6 and 2% HS plates.
+  2. [Peer Review]
+  3. [Make amendments and Sign off] 
+  4. [Report writing (Draft)]
+  5. [Review & fill out Report (Full)]
+  6. [Ensure all lab books are complete & assign for review]
+  7. [Review Lab Books, results, report]
+  8. [Make necessary amendments and confirm with reviewer that experiment is complete
+  9. [Release note on Project Updates]   
+
+* How to perform the 100% daily feeds *
+
+  1. Take the media that has been at RT for 30 mins, aspirate the media from D2-D4 in a forceful way, change tips, then feed wells D2-D4 immediately, aspirate wells D5-D7, change tips, then wait 10 secs before feeding, and finally aspirate wells D8-D10, change tips, then wait 20 secs before feeding (perform all feeds in a forceful way, preferably dispensing the liquid in the centre of the well).   
+  2. Using this same media, aspirate the media from G2-G4 in a gentle way, change tips, then feed wells G2-G4 immediately, aspirate wells G5-G7, change tips, then wait 10 secs before feeding, and finally aspirate G8-G10, change tips, then wait 20 secs before feeding (perform all feeds in a gentle way, preferably dispensing the liquid against the side of the well). Change tips.
+  3. Repeat this for all plates.  
+
+  4. Now take the cold media from the fridge, aspirate the media from B2-B4 in a forceful way, change tips, then feed wells B2-B4 immediately, aspirate wells B5-B7, change tips, then wait 10 secs before feeding, and finally aspirate wells B8-B10, change tips, then wait 20 secs before feeding (perform all feeds in a forceful way, preferably dispensing the liquid in the centre of the well).  
+  5. Using this same media, aspirate the media from E2-E4 in a gentle way, change tips then feed wells E2-E4 immediately, aspirate wells E5-E7, change tips, then wait 10 secs before feeding, and finally aspirate E8-E10, change tips, then wait 20 secs before feeding (perform all feeds in a gentle way, preferably dispensing the liquid against the side of the well). Change tips.  
+
+  6. Repeat this for all plates.  
+
+  7. Now take the media that has been warmed up in the water bath, aspirate the media from C2-C4 in a forceful way, change tips, then feed wells C2-C4 immediately, aspirate wells C5-C7, change tips, then wait 10 secs before feeding, and finally aspirate wells C8-C10, change tips, then wait 20 secs before feeding (perform all feeds in a forceful way, preferably dispensing the liquid in the centre of the well).    
+  8. Using this same media, aspirate the media from F2-F4 in a gentle way, change tips, then feed wells F2-F4 immediately, aspirate wells F5-F7, change tips, then wait 10 secs before feeding, and finally aspirate F8-F10, change tips, then wait 20 secs before feeding (perform all feeds in a gentle way, preferably dispensing the liquid against the side of the well). Change tips.  
+
+  9. Repeat this for all plates.  
+
+  
+
+  
+
+  
+
+  
+
+

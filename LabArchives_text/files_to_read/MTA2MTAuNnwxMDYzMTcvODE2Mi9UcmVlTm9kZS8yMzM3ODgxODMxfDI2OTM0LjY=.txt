@@ -1,0 +1,90 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+75:25 RPMI:CHO HD + NuvonisM12689  
+
+
+  
+  
+Flask typeSeeded flask IDConditionLocation  
+E-1251216950:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 141 (Main Lab)  
+  
+  
+12203  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+1217050:50 RPMI:CHO HD + Nuvonis  
+  
+12204  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+1217150:50 RPMI:CHO HD + Nuvonis  
+  
+12205  
+75:25 RPMI:CHO HD + Nuvonis  
+
+
+  
+  
+  
+
+  1. Took 2 x 560 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+Average vicell total cell count  
+12169 4,520,0004,350,000  
+  
+12169 4,180,000  
+12170 3,600,000  
+3,580,000  
+121703,560,000  
+121713,900,000  
+3,810,000  
+121713,720,000  
+122034,900,0004,700,000  
+122034,500,000  
+122044,080,000  
+4,260,000  
+122044,440,000  
+122055,820,0005,550,000  
+122055,280,000  
+  
+  
+
+  3. Aliquotted 60 mL of each;  
+(1) 50:50 RPMI:CHO Part A + Nuvonis and  
+(2) 75:25 RPMI:CHO Part A + Nuvonis  
+  
+and, added 60uL of IGF and 12 uL of EGF to each aliquot.  
+  
+
+  4. Aliquoted the following mL of cell suspension into 6 x 15 mL tubes, out of which every 2 will come from the same culture and contain the same volume of cell suspension:  
+  
+Flask IDVolume of cell suspension used to re-seed flask @ 100k cells/mL having
+a total of 2M cells/ flask (mL)  
+  
+12169  
+9.195  
+12170  
+11.173  
+12171 10.499  
+122038.511  
+122049.390  
+  
+122057.207  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. In the meantime, washed each flask with ~10mL dPBS, removed it and then added 20 mL of each pre-warmed media into each E-125, having a total of 3 x E-125 with 50:50 and 3 x E-125 with 75:25 media.
+  7. After centrifugation, aspirated the supernatant and resuspended cell pellet in 1 mL of respective medium using a 1 mL pipette. Then dispensed cell suspension into its respective E-125.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

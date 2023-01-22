@@ -1,0 +1,83 @@
+  
+  
+## Completed by: Bec Screnci
+
+
+
+
+Cell loss has been observed in multiple experiments in the Gains and Heavy
+Chains Project throughout Quarter 3 of 2021 (see summary of cells used within
+each experiment and whether cell loss was observed).
+
+See this google sheet looking into cell loss experienced in multiple cultures
+throughout May - July (Quarter 2 2021). Additionally, this Notion document was
+generated to compile possible reasons for cell loss in 1 place.
+
+  
+
+In summary; cell loss has been observed in both MuSC and fibroblast cultures,
+in both serum-containing and serum-free Growth Media, as well as
+Differentiation media (for MuSCs) at both proliferation and differentiation
+stages of cell growth. These examples were also spread across multiple
+incubators, with media being stored in different refrigerators, all at
+different times.
+
+  
+
+Due to the inconsistencies and seemingly randomised cell loss with the above
+investigations, this project in Q4 of 2021 will focus specifically on MuSCs in
+the differentiation phase of myogenesis.
+
+  
+
+Upon review of older lab books, a similar cell loss was observed in BUFFY6 and
+DOLLY12 cells in 96-well plate differentiation assay as per Failed Attempts
+Report. In summary, cell loss was observed after 3-5 days of differentiation
+across multiple plates. We then implemented a few cautionary fixes including:
+
+\- Warming media for at least 20 mins before feeding
+
+\- Aspirating media and replacing it immediately from each well to avoid wells
+drying out
+
+\- Aspirating/dispensing gently to avoid cells washing off due to force
+
+\- Stopped using re-usable OT2 reservoirs for feeds and instead used sterile
+containers to ensure there were not residual detergents affecting cell
+viability
+
+After employing all of these changes, cell loss was avoided. It is unclear
+which factor was leading to cell loss before making the changes. By exposing
+both DOLLY12 and C2C12 cells to harsh handling conditions (ie. forceful
+pipetting, drying out of cells and cold media) and their interactions we aim
+to address this uncertainty. The use of C2C12 cells will further guarantee our
+results as they are more robust cells and if a particular condition causes
+them to die it probably means it would cause any other cell to die. Day 7 will
+be the final time point used in the experiment aimed at determining which of
+these conditions has been contributing to cell loss for two main reasons; in
+the first place, due to the fact that cell loss has been mainly observed after
+3-5 days of differentiation, and in the second place, because we assume that
+once cells reach day 8 of differentiation they are likely to survive.  
+
+  
+
+Another suspicion is that the working cell bank (WCB) cells that have been
+used continuously for DOLLY12 experiments could potentially be at too late of
+a passage, and be experiencing senescence which would result in a lack of
+proliferation, differentiation capabilities and it could explain the cell
+loss. For this reason, we will assess how cells from the master cell bank
+(MCB) compare to the WCB cells in differentiation in both E6 and 2% HS over 10
+days of differentiation to assess whether the cell survival of the MCB cells
+is better than the WCB.
+
+  
+
+
+Aim
+
+
+The aim of the "Cell Loss Investigation" project is to identify the causes of
+cell loss and subsequently be able to replicate it in a controlled manner, and
+avoid it in future experiments.
+
+

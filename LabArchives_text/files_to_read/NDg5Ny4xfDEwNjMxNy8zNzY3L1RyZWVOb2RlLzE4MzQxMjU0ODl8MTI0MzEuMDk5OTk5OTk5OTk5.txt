@@ -1,0 +1,147 @@
+
+
+Key Findings
+
+  1. Fibroblasts clustered and formed clumps in hanging drops. Lower concentrations of cells in growth medium reduced the incidence of clustering.
+  2. An agarose coating (1% w/v) prevented fibroblasts from adhering to plasticware. However after 48H in cell culture conditions (5% CO2, 37'C) the agarose coating began to detach and degrade in the growth medium.
+  3. Poloxamer 407 (0.1% w/v) in growth medium did not prevent fibroblasts from adhering to plasticware. 
+  4. No viable fibroblasts were observed 48H after hanging drops were seeded into 5 mL of agitated suspension culture. 
+
+
+
+
+Discussion
+
+When cells are grown in agitated suspension culture, they are exposed to a
+significant amount of turbulent shear stress as a result of shaking, stirring
+and/or sparging. High levels of shear stress, such as those present in a
+bioreactor, can be harmful to mammalian cells, and can result in decreased
+viability and cell death. When transferring cells from adherent to suspension
+culture, it is therefore important to consider how the cells will react to the
+sudden increase in shear stress. One approach to reduce this shock is to adapt
+cells to suspension in a static culture, and once adapted, add agitation. In
+this experiment, we attempted three different methods of static suspension
+adaptation with fibroblasts: hanging drops, agarose-coated plasticware, and
+poloxamer-407 supplemented growth medium.
+
+Fibroblasts were seeded into 10 uL droplets on the underside of 60 mm culture
+plate (Figure 1). In the first attempt, all droplets were seeded with 100,000
+cells/mL. Cells were examined immediately after seeding and then again 24H
+after seeding under phase microscopy. Initially, cells formed an even, single
+cell suspension (Figure 2). However, after 24H, large clumps were observed
+(Figure 3), and Trypan-blue staining revealed that there were in fact no
+viable cells remaining in the droplets (Figure 4). The cultures were then
+discarded.
+
+Figure 1. 10 uL hanging drops seeded with cells
+
+ Figure 2. Phase, 10X. Cells formed even cell suspension in hanging drop
+sample 0H post seeding.
+
+
+
+ Figure 3. Phase, 10X. Cell clumps observed in hanging drop sample 24H post
+seeding.
+
+
+
+
+
+Figure 4. Phase, 10X. Cells stained with trypan blue showed no remaining
+viable cells.  
+
+In the second trial, droplets were seeded using a serial dilution of cell
+suspension in an attempt to minimise clumping. Cell densities used included
+100,000, 50,000, 25,000 and 12,500 cells/mL. Larger cell clumps were observed
+in 100K cells/mL and 50K cells/mL than in 25K cells/mL and 12.5K cells/mL cell
+suspensions (Figures 5 & 6).
+
+
+
+Figure 5. Phase, 10X. Cells in hanging drop seeded at 100K cells/mL
+
+
+
+  Figure 6. Phase, 10X. Cells in hanging drop seeded at 12.5K cells/mL
+
+After 48H in hanging drops, droplets were combined and seeded into 5 mL of
+growth medium in 1 x 50 mL shake tube. After 48H in agitated suspension, a
+sample was taken and observed under phase microscopy. No cells were present,
+so the culture was discarded.
+
+Fibroblasts remaining in the thawed vial were seeded into two flasks; one
+coated with agarose and one with poloxamer 407 added to the growth medium. A
+1% agarose solution was chosen based on positive results seen at this
+concentration in the literuature (Juniartha et al. 2012). A 0.1% concentration
+of poloxamer was used; Sigma Aldrich (the poloxamer supplier) reported that
+they test Pluronic F-127 (poloxamer 407) in cell culture at 0.1 g/100 mL
+medium (see FAQ here).
+
+As expected, cells did not adhere to the agarose-coated flask. However after
+48H in culture the agarose began to lift from the culture plastic and degrade
+in the medium (Figure 7). The 0.1% poloxamer added to the medium of the second
+flask did not successfully inhibit fibroblast adhesion to plasticware. (Figure
+8). These cultures were therefore both discarded.
+
+Figure 7. Agarose coating lifted from the base of the flask after 48H in cell
+culture conditions.
+
+Figure 8. Phase, 10X. Fibroblasts still adhered to plasticware with 0.1%
+poloxamer in growth medium.  
+
+
+
+
+
+
+Limitations
+
+  1. No replicates for static culture flasks 
+  2. Did not test different concentrations of agarose or poloxamer 
+  3. Difficult to assess cell viability while seeded in hanging drops, so could not conclude whether cells died before or after being seeded into agitated suspension culture 
+
+
+
+
+Conclusion
+
+Seeding cells into hanging drops does not appear to be fit for our purpose of
+adapting cells to suspension due to their propensity to form clusters, likely
+resulting in cell death.  
+
+Coating culture flasks with 1% agaorse and adding 0.1% poloxamer to growth
+medium were unsuccessful at enabling cells to grow in static suspension.
+
+
+
+
+Future Directions
+
+Different concentrations of poloxamer and agarose could be tested in the
+future if we want to re-examine static suspension adaptation. For example,
+Friedrich et al (2009) successfully used a 1.5% (w/v) concentration of Agarose
+to coat plates. We could also try passaging fibroblasts into a freshly-coated
+flask before the agarose separates from the plasticware, until the cells are
+adapted to growing in suspension.
+
+Overall, hanging drops do not appear to be an appropriate method for adapting
+cells to suspension culture. In each iteration, we have observed significant
+cell clumping unless droplets are seeded at very low densities (25,000 and
+12,500 cells/mL). Given that medium changes cannot be performed on the
+droplets, they need to be passaged within 48H into a higher-volume suspension
+culture. In order to achieve our desired seeding densities of ~1M cells/mL, we
+would therefore require more than 120 droplets to seed our lowest volume
+suspension vessel (deep-well plates - 3M cells), especially when accounting
+for the high rate of cell death seen within the first 24H of seeding into
+suspension culture. This is very time-consuming, and given the lack of success
+seen so far, I would not recommend this method for suspension adaptation.
+
+
+
+
+References
+
+  1. Juniartha, P., Indra, M., Sujuti, H., & Lyrawati., D, 2012. Agarose Coated Culture Plate in Tumosphere Culture of Cervical Cancer Cell Line HeLa: an Alternative to Non Adhesive Culture Plate. Journal of Tropical Life Science. 6(3): 196-204. https://www.researchgate.net/publication/313087042_Agarose_Coated_Culture_Plate_in_Tumorsphere_Culture_of_Cervical_Cancer_Cell_Line_HeLa_an_Alternative_to_Non_Adhesive_Culture_Plate
+  2. Friedrich, J., Seidel, C., Ebner, R., & Kunz-Schughart, L 2009. Spheroid-based drug screen: considerations and practical approach. Nature. https://www.nature.com/articles/nprot.2008.226
+
+

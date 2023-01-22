@@ -1,0 +1,165 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Feed performed by: Marie  
+
+
+
+
+Culture IDs:
+
+Flask ID(s)Flask ConditionFlask Type  
+8606-F_DOLLY12-Sheep P15-1of1  
+1T175  
+8607-F_DOLLY12-Sheep P15-1of1  
+2T175  
+8608-F_DOLLY12-Sheep P15-1of1  
+3T175  
+8609-F_DOLLY12-Sheep P15-1of1  
+5T175  
+8610-F_DOLLY12-Sheep P15-1of1  
+RPMI controlT175  
+8611-F_DOLLY12-Sheep P15-1of1  
+Serum controlT175  
+8676-F_DOLLY12-Sheep P15-1of1  
+6T175  
+  
+8677-F_DOLLY12-Sheep P15-1of1  
+7T175  
+  
+8678-F_DOLLY12-Sheep P15-1of1  
+8T175  
+  
+8679-F_DOLLY12-Sheep P15-1of1  
+9T175  
+  
+8680-F_DOLLY12-Sheep P15-1of2  
+EMEM-alpha controlT175  
+  
+8681-F_DOLLY12-Sheep P15-2of2  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 5% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 5% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S (EMEM-alpha control)  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlM7401-- couldn't find this, used M7465 instead (same media
+formulation)  
+  
+GM - Condition 1M7482  
+  
+GM - Condition 2  
+M7483  
+  
+GM - Condition 3  
+M7484  
+  
+GM - Condition 5M7485  
+  
+GM - RPMI controlM7486  
+  
+GM - Condition 6  
+M7487  
+  
+GM - Condition 7  
+M7488  
+  
+GM - Condition 8  
+M7489  
+  
+GM - Condition 9  
+M7490  
+  
+GM - EMEM-alpha controlM7446  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted  15 mL  mL of  Growth Media:
+    1. Serum/RPMI/EMEM control 
+    2. Condition 1/2/3/5/6/7/8/9
+  2. Placed in water bath  15:30   
+
+  3. Removed  50  % of supernatant from vessel. 
+  4. Replaced with  13  mL (per well/per vessel) of  respective growth media. 
+  5. Returned vessel to incubate at:  16:31    
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#118 and 120), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  
+50  % media changed on vessel(s)
+
+  1. 8606-F_DOLLY12-Sheep P15-1of1
+  2. 8607-F_DOLLY12-Sheep P15-1of1
+  3. 8608-F_DOLLY12-Sheep P15-1of1
+  4. 8609-F_DOLLY12-Sheep P15-1of1
+  5. 8610-F_DOLLY12-Sheep P15-1of1
+  6. 8611-F_DOLLY12-Sheep P15-1of1
+  7. 8676-F_DOLLY12-Sheep P15-1of1
+  8. 8677-F_DOLLY12-Sheep P15-1of1
+  9. 8678-F_DOLLY12-Sheep P15-1of1
+  10. 8679-F_DOLLY12-Sheep P15-1of1
+  11. 8680-F_DOLLY12-Sheep P15-1of2
+  12. 8681-F_DOLLY12-Sheep P15-2of2
+
+
+
+
+Relevant Images (if any):
+
+N/A
+
+

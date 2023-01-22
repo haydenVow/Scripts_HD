@@ -1,0 +1,169 @@
+  
+  
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie Tangey
+
+
+
+
+Note:  For the 5% serum group, Leggy and Birdy (Both Japanese quail) cultures
+were accidentally combined.
+
+
+
+
+  
+
+  
+  
+  
+  
+  
+  
+Culture ID  
+Line  
+Media  
+Images  
+Seeded ID  
+  
+10447  
+LEGGY  
+DMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recfSF9LzVQuV1gH9/images  
+10522  
+  
+10448  
+DMEM/ F12 + 5% FBS  
+https://ranger.vow.tools/#/session/receVPMUbsJFJxh4q/images  
+10519 + 10518  
+  
+10449  
+LEGGOOptiPRO + 4mM glutamax  
+https://ranger.vow.tools/#/session/rec2eTq95pfg3wSl8/images  
+10543  
+  
+10450  
+LEGGKDMEM/F12 + 10% KSR  
+https://ranger.vow.tools/#/session/recpfpZvA4w6KlI5U/images  
+10524  
+  
+10451  
+  
+BIRDYDMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recmdYo5ANzW7GoQq/images  
+10521  
+  
+10452  
+DMEM/ F12 + 5% FBS  
+https://ranger.vow.tools/#/session/recReb7mXkos74GGO/images  
+10517  
+  
+10453  
+BIRDOOptiPRO + 4mM Glutamax  
+https://ranger.vow.tools/#/session/recUnjZje6N6np47t/images  
+10540  
+  
+10454  
+BIRDKDMEM/F12 + 10% KSR  
+https://ranger.vow.tools/#/session/recUnjZje6N6np47t/images  
+10523  
+  
+10455  
+BOBBY  
+DMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recUnjZje6N6np47t/images  
+10520  
+  
+10456  
+DMEM/ F12 + 5% FBS  
+https://ranger.vow.tools/#/session/recUnjZje6N6np47t/images  
+10519 + 10518  
+  
+10457  
+BOBBOOptiPRO + 4mM Glutamax  
+https://ranger.vow.tools/#/session/recUnjZje6N6np47t/images  
+10542  
+  
+10458  
+BOBBKDMEM/ F12 + 10% KSR  
+https://ranger.vow.tools/#/session/rec51lspVlTbVl1vU/images  
+10525  
+  
+10459  
+LEGGZ  
+unfiltered portion of isolate  
+DMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/rec3wefHzJEhKJtXs/images  
+10537  
+  
+10460  
+BIRDZ  
+unfiltered portion of isolate  
+DMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recLSYQPbH5Kh2mVh/images  
+10538  
+  
+10461  
+BOBBZ  
+unfiltered portion of isolateDMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recbNJeUdXEgWwpT4/images  
+10539  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleA 9282  
+  
+dPBS (for washing & neutralising)M 10378  
+  
+DMEM/F12 + 10% KSRM 10368  
+DMEM/F12 + 10% FBSM 8969  
+DMEM/F12 + 5% FBSM 8969 + S 3119 + 4445  
+OptiPRO + 4mM GlutamaxM 10148  
+  
+  
+
+
+
+
+### Process:
+
+  1. Took image of vessel with microscope on phase setting.
+  2. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use
+  3. Removed vessel(s) from the incubator
+  4. Washed the vessel(s) with dPBS (warmed).
+  5. Added    2     mL tryple to each vessel/well and incubated at 37˚C for 5-10min untill >90% of cells were detatched.
+  6. Neutralised with    3      dPBS and combined cell suspension into      50ml   tubes.
+  7. Centrifuged at 650 x g for 5 min.
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in      30 mL      each respective   media
+  10. Transferred T175s to incubate at:   
+37ºC, 5% CO2 (mammalian cells)  
+Incubator #138, Library Lab  
+  
+
+
+
+
+Observations/Summary:  
+Each T25 passaged into a T175- 1:7 split  
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+

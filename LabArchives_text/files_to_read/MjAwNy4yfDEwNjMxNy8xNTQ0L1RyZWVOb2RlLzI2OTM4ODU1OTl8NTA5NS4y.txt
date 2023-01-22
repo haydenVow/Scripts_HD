@@ -1,0 +1,90 @@
+
+
+## Performed by: Bonnie (Plates 1&2)  
+
+
+
+
+
+
+
+Make a 'picklist' on a google sheet to record which wells are to be picked.
+
+  1. The well location of each selected clone will form part of the clone ID in all future culture ID's derived from each clone.
+  2. Use a permanent marker to circle around the wells selected on the lid of the multi-well plates (so that when you are in the BSC you know which wells are to be selected)  
+[Note* when picking from 96-well plates, also aseptically open the plate and
+circle around the top of the wells of interest with permanent marker as well
+as the lid of the plate, ensuring not to allow the marker to touch the growth
+media]
+
+Note* This protocol will talk about source wells and destination wells  
+Source wells = the original well that the clonal population is in  
+Destination wells = the location in the new plates where the clonal population
+of cells will be seeded
+
+  1. Filled top 2 x rows of 1 x 24-well plates with 500uL/well of Growth Media and placed in incubator at 37C `15:02`
+  2. Aspirate supernatant from 96-well plate wells.
+  3. Wash each selected well with 200 uL dPBS.
+  4. Add 50uL/well of 1X Tryple to each well. Incubate at 37ºC for 15-25 min. [Note* cells at early stages of cloning usually take longer to detach than later passage]  
+Plate 1: 15:24 - 15:54  
+Plate 2: 15:26 - 15:54  
+  
+  
+  
+  
+
+  5. Check regularly under the microscope to see if cells across all wells are detaching.
+  6. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralised each well with pre-warmed growth media (from the destination well)
+    2. Mix cell suspension well and collect entire cell suspension (cells, tryple and neutralising growth media)
+    3. Collect in a pipette and transfer into its designated destination well (the destinatinon well already contains growth media).
+    4. Mix well to disperse the cells evenly throughout the well.
+    5. Do not move the destination plate, allow the cells to attach.
+    6. If you accidentally move the destination plate, pipette in each well keeping the tip pressed to the side and pipetting up and down repetitively to create even dispersion of cells throughout the well (this will help avoid clumping of cells in the centres of the wells).
+
+Passaging:
+
+  1. Leave plates at RT in the BSC for 20-30 min to allow cells to settle. 
+  2. Transfer flask to incubate at 37ºC, 5% CO2. 16:20
+
+  
+
+Note* cells in tryple remain in the destination wells to avoid loss of cells
+through centrifugation and supernatant removal. Make a note to 50% feed each
+destination well at 24 hrs after seeding rather than 48hrs (to get rid of
+residual Tryple).
+
+
+Reagent  
+Reagent ID(s)  
+  
+Growth Media  
+M5189  
+  
+Tryple  
+M5076  
+  
+PBS  
+A5061  
+
+
+Rows\Columns123456  
+A1E121I41J191L202D7  
+  
+B2H112N193O94I44I11  
+  
+C  
+  
+  
+  
+  
+  
+  
+D  
+  
+  
+  
+  
+  
+
+

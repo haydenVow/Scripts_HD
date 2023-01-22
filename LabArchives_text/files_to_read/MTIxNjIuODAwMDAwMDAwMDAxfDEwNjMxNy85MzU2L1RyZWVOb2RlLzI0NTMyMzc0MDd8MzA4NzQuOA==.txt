@@ -1,0 +1,272 @@
+
+
+## Performed by: AV & VP
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Reagents used
+
+ReagentIDVolume used  
+HyCell Nuvonis mediaALQ-13268200 mL  
+IGF1-LR3  
+MIX-132792 mL  
+EGFMIX-12321400 uL  
+AntifoamMIX-12931200 uL
+
+
+  
+  
+Tested for sterility
+
+  1. Took a sample and transfer it to the well of a well plate.
+  2. Observed the sample under the microscope.
+    1. Signs of contamination include cloudy culture medium, motile particles visible under the 60x or 100x objective.
+
+Reference  
+  
+Operator initialsAV  
+Checked by operator initialsVP  
+Timestamp10:45  
+NotesMedia was clear in the vessel. Looked at media under 10x and 20x, no
+signs of contamination noted.  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1. Ran the calibration routine as per the operating manual
+    1. Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.
+    2. Set that level as 0%
+    3. Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.
+    4. Set that level as 100%
+
+ReferenceOperating manual page(s) 76, 43  
+Operator initialsVP  
+Checked by operator initialsAV  
+Timestamp11:01  
+Notes
+
+  * Added 20mL media containing growth factors and antifoam and pumped into vessel via SUBS-A
+  * Reconfigured dO loop and stirring (turned down yesterday because no antifoam was added)
+  * Set 0% OUT (dO) to 500ccm
+  * Selected slope calibration and set to 100%
+  * Setpoint for dO set to 50%
+  * Used following cascade for sparging:
+    * 0% - 5 ccm (mL/min)
+    * 20% - 40ccm
+    * 40% - 80ccm
+    * 60% - 120 ccm
+    * 80% - 160 ccm
+    * 100% - 200ccm
+
+Set to automatic  
+set all OUT to 240 RPM for stirrer  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Set level probe
+
+  1. Loosened the nut around the antifoam/level probe.
+  2. Gently rotated and pulled the probe out until it reached the desired height.
+  3. Tightened the nut until finger tight.
+
+Reference  
+  
+Operator initialsVP  
+Checked by operator initialsAV  
+Timestamp11:15  
+NotesNEVER push the probe back into the bioreactor after autoclaving as this
+can introduce contamination.  
+  
+level probe not used  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsVP  
+Checked by operator initialsAV  
+Timestamp11:16  
+Notes
+
+  * new experiment started in data logger "CultureParamCheckHC"
+
+  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Seed flask culture IDBioreactor Culture ID  
+  
+  
+13425  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+Programmed the feed schedule:
+
+  1. To create a schedule to to turn on the pump after 2 days (48 hours) for 22.5 minutes (~450 mL at ~20 mL/minute), followed the instructions below:  
+
+    1. Opened the SUBS-B pump menu
+    2. Changed the SUBS-B MODE to MANUAL:OFF  
+
+    3. Opened the PROFILE sub-menu
+    4. Set a timepoint for 000:00:00 with 0% pump output.
+    5. Set a timepoint for 048:00:00 with 0% pump output.  
+
+    6. Set a timepoint for 048:00:01 with 100% pump output.
+    7. Set a timepoint for 048:22:30 with 100% pump output.
+    8. Set a timepoint for 048:22:31 with 0% pump output.
+  2. To create a schedule to to turn on the pump again after 4 days (96 hours) for 45 minutes (~900 mL at ~20 mL/minute), followed the instructions below:  
+
+    1. Set a timepoint for 000:00:00 with 0% pump output.
+    2. Set a timepoint for 096:00:00 with 0% pump output.  
+
+    3. Set a timepoint for 096:00:01 with 100% pump output.
+    4. Set a timepoint for 096:45:00 with 100% pump output.
+    5. Set a timepoint for 096:45:01 with 0% pump output.  
+
+  3. To program the pump to follow the schedule:  
+
+    1. Changed the SUBS-B MODE to PROFILE
+    2. Closed the menu
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

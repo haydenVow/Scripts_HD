@@ -1,0 +1,79 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD Part A + NuvonisM12665
+
+
+  
+  
+The cells used in this experiment were taken from the experiment aimed at
+screening alternative HD media for Nuvonis cell line through direct adaptation
+(https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/MTA0NzguMHwxMDYzMTcvODA2MC9UcmVlTm9kZS8yMDA3MTAyNDA4fDI2NTk4LjA=).  
+  
+  
+Flask typeSeeded flask IDConditionLocation  
+E-12512169  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 141 (Main Lab)  
+  
+  
+12170  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12171  
+50:50 RPMI:CHO HD + Nuvonis  
+
+
+  
+  
+  
+
+  1. Took 2 x 550 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (510 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+Average vicell total cell count  
+12169 6,340,000  
+6,640,000  
+  
+12169 6,940,000  
+  
+12170 7,720,000  
+7,770,000  
+  
+121707,820,000  
+  
+121718,180,000  
+7,870,000  
+  
+121717,560,000  
+  
+  
+* In red, those that were discarded.
+
+  3. Aliquotted 60 mL of 50:50 RPMI:CHO Part A + Nuvonis, and added 60uL of IGF and 12 uL of EGF to it.
+  4. Aliquoted the following mL of cell suspension into 3 x 15 mL tubes:  
+  
+ConditionVolume of cell suspension used to re-seed flask @ 100k cells/mL (mL)  
+  
+12169  
+6.024  
+  
+12170  
+5.148  
+  
+121715.083  
+  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. In the meantime, added 20 mL of pre-warmed media into each E-125.
+  7. After centrifugation, aspirated the supernatant and resuspended cell pellet in 1 mL of respective medium using a 1 mL pipette. Then dispensed cell suspension into its respective E-125.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

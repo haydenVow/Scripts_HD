@@ -1,0 +1,101 @@
+
+
+Culture IDs to fix
+
+Vessel type(s)  
+Vessel ID  
+  
+96 Well Plate  
+
+7236-BUFFY6_21L10-Water Buffalo P7-1of3  
+  
+  
+
+
+
+
+Process:
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs:`   #7236   from the incubator in the library lab (#78), Transport to the main lab.
+  2. Removed media and washed wells with 100uL PBS.  [ 9:55  \- 10:00 ]
+  3. Removed wash and washed once more with 100uL PBS. [   10:01 - 10:06  ]
+  4. Removed dPBS and added 100uL of 4% PFA and incubate at RT for 15 minutes. [  10:07 -  10:22   ]
+  5. Removed the PFA and washed wells twice with 200ul dPBS.  [  10:23 - 10:28  ]
+  6. Remove dPBS and replaced with fresh 200uL of dPBS [   10:29   ]
+  7. Store the plates at 4 degrees (Fridge 65 in the library lab) overnight parafilmed ready for immunostaining [   10:30   ]
+
+Parafilmed the plates and store at 4ºC in the tissue culture lab fridge for
+future imaging.
+
+Fridge location/ID: Library Lab Fixed Plates Fridge 65.
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+4% PFA  
+a3098  
+  
+dPBS (non-sterile)  
+m5385  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+  
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+E6
+
+
+
+HS
+
+
+
+Stv  
+
+
+
+  
+
+

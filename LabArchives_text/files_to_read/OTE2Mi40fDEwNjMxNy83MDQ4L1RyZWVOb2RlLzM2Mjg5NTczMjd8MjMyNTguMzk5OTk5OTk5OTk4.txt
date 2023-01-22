@@ -1,0 +1,42 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+Pilot run of seed train workflow for mass-generation of cell mass in house
+using Biostat RM (Sartorius) rocking motion bag
+
+
+Hypothesis
+
+
+N/A (see above)
+
+
+Technical Gap
+
+
+Vow has not before operated bioreactors >2L benchtop scale. Similarly,
+suspension-adapted Nuvonis cell line (Baxter) have not yet before been
+cultured in a larger bioreactor vessel. This pilot run will aim to test the
+mass-production of cell mass with a workflow using infrastructure available
+in-house at Vow using a suspension adapted cell line.
+
+
+Method/Procedure
+
+
+  1. Prepare 20L Nuvonis suspension medium
+  2. Ensure health of seed train (see EPIC 30919 for details)
+  3. Harvest cells from 3L Mobius reactor once cells have reached a total number of 2B cells by peristalsis pumping (Sartorius controller to harvest into prepared, autoclaved and sterile 2L bottle)
+  4. Use peristalsis pump (Sartorius controller) to add 20L into 50L Flex-safe bag
+  5. Use peristalsis pump (Sartorius controller) to seed cell harvest from Mobius 3L unit into sterile bottle.
+  6. Clamp and seal all tubing in sterile manner
+  7. Transport bag using trolley to RM platform (outside of Lab in warehouse) and attach bag to controller
+  8. Use bioprocess calculator to determine agitation force in 3L unit and calculate for RM platform - adjust controller settings to meet these requirements
+  9. Harvest following 5 days in culture
+
+

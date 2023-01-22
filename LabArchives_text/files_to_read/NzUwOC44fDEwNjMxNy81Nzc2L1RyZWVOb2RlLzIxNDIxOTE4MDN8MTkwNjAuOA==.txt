@@ -1,0 +1,62 @@
+
+
+## Performed by: LL BT VP
+
+
+
+
+## Prepare basal
+
+7 feeds * 21 flasks * 15 mL = 2205 mL
+
+1 seed * 21 flasks * 20 mL = 420 mL
+
+Total per experiment = 2625 mL
+
+Total for 2 experiments = 5250 mL + excess = 5,500 mL
+
+  1. Reconstituted HyCell CHO powdered medium according to product instructions 
+    1. Osmolaltiy: 9.96
+    2. pH: 6.7
+  2. Added 1 molar NaOH drop-wise to increase pH. Final pH: 7.4
+  3. Prepared basal medium for EPICS 28842 & 28843 without KSR
+
+For basal medium without Poloxamer and with Glutamax
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)5500  
+Base Media774235  
+  
+KSR201100  
+  
+ACA155  
+  
+Pen/Strep155Total percent  
+Glutamax155100  
+  
+  
+
+
+
+
+## Notes/Observations
+
+Required a lot of NaOH to adjust pH to 7-7.4. Initally was at 6.7, so added 1M
+NaOH dropwise. This was far too slow, so had to pour the 1M NaOH in and also
+add NaOH pellets directly to mix. Added 78 mL total to the mix.
+
+
+
+
+## Stockyard IDs
+
+DescriptionID  
+Basal medium (HyCell CHO) M9004  
+Base medium (HyCell CHO + Glutamax + ACA + P/S)M9006  
+  
+  
+
+

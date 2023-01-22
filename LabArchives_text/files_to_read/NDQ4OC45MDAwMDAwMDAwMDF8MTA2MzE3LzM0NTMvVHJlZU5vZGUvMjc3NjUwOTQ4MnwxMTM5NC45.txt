@@ -1,0 +1,144 @@
+
+
+## Feed performed by: LL TT  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+E1257466-NANDO3F-Chicken P3-1of1  
+Library lab incubatorLibrary lab fridge104  
+  
+  
+E1257465-F_DOLLY12-Sheep P8-1of1  
+Library lab incubator  
+Library lab fridge104  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+CD CHO Medium  
+Mix #  
+5 mL  
+dPBS  
+  
+1 mL  
+  
+PI  
+m6317  
+50 uL  
+  
+Hoechst  
+s  
+20 uL  
+  
+CDM4Avian Medium  
+mix #  
+5 mL  
+  
+  
+Growth Media: CD CHO medium & CDM4Avian medium
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 5 mL of CD CHO Medium
+    2. 5 mL of CDM4Avian Medium 
+      1. Placed in water bath:  14:23     
+
+  2. Paused shakers by pressing the "play" button on the controller on the side wall of the incubator
+  3. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC
+  4. Pipetted suspensions though 70 um cell strainer into 2 x 50 mL tubes
+  5. Took 1 x 500 uL sample from 15 mL cell suspension and followed procedure in entry below to count cells.
+  6. Centrifuged at 300 x g for 5 min. Timestamp: 16:38 - 16:43
+  7. Aspirated 25 mL of supernatant from each culture, taking care to not disrupt or aspirate pellet 
+  8. Re-suspended cultures in 5 mL of CDM4Avian (NANDO) and CD CHO (DOLLY) using serelogical.
+  9. Gently pipette-mixed cultures again before moving to 2 x 50 mL spin tubes
+  10. Returned vessel to incubator. Pressed "play" and set speed to 206 RPM. Timestamp: 17:08
+
+  * Incubator (#68), Lab [Main/Library/Production]
+
+
+
+
+Stain and image:
+
+  1. Took 100 uL samples of each culture, transferred to wells in 96 well plate
+  2. Prepared stain buffer of equal volumes of NucBlue and NucGreen reagents (M6457)
+  3. Added 10 uL of stain buffer to each well, pipet mixed each well
+  4. Incubated at room temperature in the dark for 10-20 minutes 15:43 - 15:55
+  5. Centrifuged at 650 RCF for 1 minutes   
+
+  6. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, below correspond to wells in row A:
+    1. Culture ID 7342
+    2. Culture ID 7415
+    3. Culture ID 7665
+    4. Culture ID 7666
+    5. Culture ID 7667
+    6. Culture ID 7668
+    7. Culture ID 7669
+    8. Culture ID 7670
+  7. Took 100 uL samples of each E125 culture, transferred to wells in 96 well plate
+  8. Added 10 uL of stain buffer to each well, pipet mixed each well
+  9. Incubated at room temperature in the dark for 10-20 minutes 17:11 - 17:21
+  10. Centrifuged at 650 RCF for 1 minute
+    1. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, listed below:
+    2. Culture ID 7690 (E1)
+    3. Culture ID 7692 (E2)
+    4. Culture ID 7698 (E3)
+    5. Culture ID 7699 (E4)
+    6. Culture ID 7697 (E5)
+    7. Culture ID 7695 (E6)
+    8. Culture ID 7696 (E7)
+    9. Culture ID 7693 (E8)
+    10. Culture ID 7691 (E9)
+    11. Culture ID 7689 (E10)
+    12. Culture ID 7694 (H1)
+    13. Culture ID 7700 (H2)
+    14. Culture ID 7466 (H3)
+    15. Culture ID 7465 (H4)
+    16. Culture ID 7673 (H5)
+    17. Culture ID 7671 (H6)
+    18. Culture ID 7672 (H7)  
+  
+
+
+
+
+Analyzed images from MIA:
+
+  1. Opened MIA capture, opened relevant image record set and navigated to "Review"
+  2. Selected image sets for download
+  3. Clicked Analyze > Analyze with MIA
+  4. Entered name and email, left "Analysis" drop-down field blank
+  5. Clicked "Submit Job"
+  6. Downloaded the zipped results file from MIA (attached below)
+  7. Extracted the compressed images from the zipped results file  
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. all vessels
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

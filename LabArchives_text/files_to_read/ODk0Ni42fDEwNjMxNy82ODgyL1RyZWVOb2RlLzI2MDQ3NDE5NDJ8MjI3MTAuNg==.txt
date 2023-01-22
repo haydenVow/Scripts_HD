@@ -1,0 +1,157 @@
+
+
+Performed by: VP/AK
+
+
+
+
+## Materials
+
+
+NameDetails (reagent ID)  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Procedure
+
+
+
+
+Tested for sterility
+
+  1. Took a sample and transfer it to the well of a well plate.
+  2. Observed the sample under the microscope.
+    1. Signs of contamination include cloudy culture medium, motile particles visible under the 60x or 100x objective.  
+  
+Note to self- orient the bioreactor so that the sample value is at the front
+and ensure the heating blanket does not cover this.
+
+Reference-  
+  
+Operator initials-  
+  
+Checked by operator initials-  
+  
+Timestamp-  
+  
+NotesNot tested for sterility - media added only 2h prior and was filter
+sterilised immediately before addition  
+  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1. Ran the calibration routine as per the operating manual using a single calibration point (would normally sparge with nitrogen gas to give a 0% reading but no nitrogen gas fitted to set up) 
+    1. Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.
+    2. Set that level as 100%
+
+ReferenceOperating manual page(s) 76, 43  
+  
+Operator initials-  
+  
+Checked by operator initials-  
+  
+Timestamp-  
+  
+NotesAlready performed after inserting probe into media  
+  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp15:05  
+  
+NotesN/A  
+  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initialsVP  
+  
+Checked by operator initialsAK  
+  
+Timestamp15:19  
+  
+NotesN/A  
+  
+  
+  
+  
+
+
+
+
+Culture IDs:
+
+  
+
+Harvest Culture IDHarvest Lab Book URL  
+Bioreactor Culture ID  
+  
+N/AN/A10804  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Seeded Mobius with Nuvonis cells for the first time
+
+Cell count following incoulation was 68,000 cells/mL (149,600,000 total) see
+counting spread sheet
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

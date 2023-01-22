@@ -1,0 +1,282 @@
+Biorender Experiment Design
+
+
+  
+
+
+Aim/Purpose
+
+
+The aims of this experiment are as follows:
+
+  
+To assess whether different microcarrier analysis techniques will yield
+similar estimates of cell number in a suspension culture.
+
+  
+
+
+Hypothesis
+
+
+That all cell estimates determined though each analysis technique will yield
+similar levels of variance and accuracy.  
+
+
+Technical Gap
+
+
+We currently do not have a method for fast estimation of cell counts in
+microcarrier cultures. Fast (<30 min between sample and result) estimation is
+essential for handling multiple microcarrier cultures in large experiments and
+in production.
+
+
+Method/Procedure
+
+
+[Experiment Plan]
+
+[Peer Review]
+
+[A] Seed E250 flask, 4.5mg/mL cytodex 1, 5.8million cells.
+
+[B] Stain and image microcarriers after 24h
+
+### Process:
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed cultures from the incubator and placed them in the BSC  `| : am/pm|`
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| : am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [ ]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| : am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+  
+
+
+
+
+[C] 50% Feed after 48 hours.
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required:
+
+Total p38i required:
+
+### Process:
+
+  1. Aliquotted   30`mL` of  growth` Media` into 1x50mL   tube(s). Placed in water bath   `: a/pm`
+  2. Removed    50% of supernatant from the E250 vessel without disturbing the microcarrier pellet.
+  3. Replaced with   30`mL of` media.
+  4. Returned vessel to incubate at:
+    * [x]  37ºC, 5% CO2 (mammalian cells)
+    * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+
+
+
+[C2] Stain and image microcarriers after 72h
+
+### Process:
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed cultures from the incubator and placed them in the BSC  `| : am/pm|`
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| : am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [ ]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| : am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+  
+
+
+
+
+[D] Analysis using MIA
+
+### Process:
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture from the incubator and placed them in the BSC  `| : am/pm|`
+  2. Culture was swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 5x20uL samples were taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| : am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [ ]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| : am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+  
+
+  
+
+
+
+
+[E] Analysis using nuclei ejection.
+
+### Process:
+
+Nuclei Ejection:
+
+  1. Culture was swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 5x900uL samples were aliquoted into 1.5mL tubes while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  2. Returned cultures to the incubator  `| : am/pm|`
+  3. Allowed the microcarriers to settle to the base of the tube over 1-3 minutes.
+
+  2. Removed the supernatant from the 1.5mL tubes carefully without aspirating the microcarriers.
+  3. Washed microcarriers using 0.5 mL of room temperature Dulbecco's phosphate buffered saline without Ca2+ and Mg2+ (DPBS-/-).
+  4.  Aspirated and discarded the dPBS wash. 
+  5. Added 0.5 mL of cell lysis solution to the microcarriers
+  6. Vortexed the 1.5 mL tube for 1 min at maximum speed to release nuclei.
+  7. `Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample. `
+  8. `Mixed contents using a P1000. `
+  9. Measured the total volume of the suspension in the 1.5 mL tubes (this volume is referred to as `V-nuclei`;)  To measure the actual volume, set a Gilson pipette/mL to less then the expected volume and draw up most of the sample. Keep the tip below the surface of the remaining liquid and turn the volume adjustment knob/thumbwheel until the entire sample has been drawn up. The value on the volume display is the volume of the sample. Avoid generating bubbles for accurate volume determination.
+  10. Added 20uL/mL of Hoechst 33342 to the tube  `uL`  Pipette to mix.
+  11. Allowed the tube to incubate in the dark for 10 minutes at room temperature. `| : |`
+  12. Loaded 10uL of the Hoechst stained sample onto a hemocytometer and took two images of separeate locations under the DAPI imaging channel on the Axio under the 5x objective.
+  13. Ran images though the 'DAPI counting' macro on MIA
+  14.  Used these counts to determine cell number per mL (Ensure the imaging ROI had been determined using the hemocytometer grid.)
+
+Cell lysis solution (50 mL):
+
+  * 0.96 g of citric acid for 0.1 M, 
+  * 2.5 mL of 20% v/v IGEPAL CA-630 for 1% v/v, 
+  * Ultrapure water, to 50 mL
+
+Store at room temperature in the dark.
+
+  
+
+
+
+
+[F] Opentron Fix and DAPI staining
+
+  1. Removed 5x1mL aliquots of well mixed culture from the E250 flask and transferred them to separate wells on a 96x2mL deep well plate. 
+  2. Placed the deep well plate into the non sterile Opentron. 
+  3. Ran protocol FIX and DAPI microcarrier cultures using the opentron. 
+  4. At the conclusion of the protocol Inspect the wells under the axio 
+    * Took 3 sets of same frame images using the DAPI and PHASE channels.  `| : am/pm|`
+      1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+  
+
+
+
+
+[G] Harvest and Trypan blue count.
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (1:2000)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (1:2000)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10µM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10µM)
+
+### Process: Harvest
+
+  1. Aliquotted the required volume of growth media required for neutralising and placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+    1. Trypsin-EDTA (for detatchment, 1mL/4.5mg of cytodex 1), 5x10mL .
+    2. Growth media (for neutralising, equal to trypsin volume)    5x10`mL.` 
+    3. Growth media (for resuspension)    6`mL.`
+    4. Time that all aliquots were placed in the water bath to warm before use: |   `: pm |` Note: if aliquots were placed in water bath at different times, record the time stamp for each individual solution.
+  2. Removed E flask was removed from the incubator.
+  3. Swirlled the culture by hand inside the BSC to ensure the carriers were mixed evenly, then aliquoted the culture across 5x50mL tubes (10mL per tube). 
+  4. For each tube, gently aspirated and discarded as much supernatant as possible without aspirating the microcarrier pellet.
+  5. Washed the microcarriers with sterile dPBS (1mL/9mg of cytodex 1). 
+  6. Allowed microcarriers to settle to the base of the tube over 2-5 minutes.
+  7. Performed a second dPBS wash step (repeated steps 4-6).
+  8. Added Tyrpsin-EDTA to each tube `| 10 |` mL per tube. 
+  9. Tubes were returned to shake at X rpm at 37 degrees, 5% CO2 incubation for 7 minutes. (speed would be 300 RPM for a 50 mL tube containing 10 mL as determined by this conversion (https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit#gid=1121358223&range=5:5 )
+  10. An equal volume of growth media was added to neutralize the Trypsin solution, `| 10 |` mL per tube
+  11. Allowed microcarriers to settle to the base of the flask over 2-5 minutes.
+  12. Gently collected as much supernatant as possible without aspirating the microcarrier pellet. Supernatant from each harvest was collected into `50 `mL tube(s)
+  13. Washed the microcarriers with sterile dPBS (1mL/9mg of cytodex 1).
+  14. Gently mixed the microcarriers by swirling on the flat surface of the BSC to rinse.
+  15. Allowed microcarriers to settle to the base of the tube over 2-5 minutes.
+  16. Performed a second dPBS wash step (repeated steps 12-15).
+  17. The cells were then centrifuged for 5 min at 650 RCF `| : |` and the supernatant was gently aspirated and discarded.
+  18. The pellet for each harvest was resuspended in   1 `mL` of warm culture medium for subsequent live and dead cell counting.
+  19. cell suspension was mixed with trypan blue, Ratio `| : |`and 10uL of the mix was loaded onto a hemocytometer for a cell count. Cell counts were recorded here.
+    1. https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=550092642
+    2. Total cell number: `| |`
+
+  
+
+
+
+
+[Report writing (Draft)]
+
+[Review & fill out Report (Full)]
+
+[Ensure all lab books are complete & assign for review]
+
+Review Lab Books, results, report]
+
+[Make necessary amendments and confirm with reviewer that experiment is
+complete
+
+[Release note on Project Updates]  
+
+  
+
+

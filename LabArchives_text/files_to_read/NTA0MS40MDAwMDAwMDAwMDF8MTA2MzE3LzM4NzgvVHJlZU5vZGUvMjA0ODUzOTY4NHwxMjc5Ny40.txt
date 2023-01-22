@@ -1,0 +1,146 @@
+
+
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Bufferm7044  
+  
+dPBSm7046  
+  
+PBSTm7043  
+  
+  
+Secondary Antibody Mixs1966, 172  
+  
+DAPI (1:1000)M966  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  15 µL   Secondary #1   (1:1000  ) +  15 µL   Secondary #2   (1:1000  ) +  15
+mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+   15 mL  PBS +    15 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+  
+
+DAPI and seconday located in the staining fridge in 15mL black tubes
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+Mouse Anti-MyoG (IgG1) MyoG  
+IgG1  
+1:200  
+Goat Anti-Mouse (IgG1)  
+1:1000  
+  
+Mouse Anti-MF20 (IgG2b) MF20  
+IgG2b)  
+1:50  
+Goat Anti-Mouse (IgG2b)  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight). - 2
+x E-STIM plates (12wp) and 1 x 96 wp
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 11:18 - 11:26 pm
+
+ 11:26 - 11:36 pm
+
+ 11:36 - 11:48 pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  11:59 - 12:59 pm (140 uL for 96 wp and 400 uL for 12 wp)
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  12:01 pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+13:11 pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+13:20 pm
+
+13:25 pm
+
+4\.  Replaced dPBS.
+
+13:30 pm
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Could not wash one E-stim plate after DAPI (#7996). However stains were
+validated on Axio to ensure that imaging could be done. Plates are foil
+wrapped and in fridge lower shelf.
+
+
+
+
+Relevant Images/Figures (if applicable):na
+
+  
+
+

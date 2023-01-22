@@ -1,0 +1,113 @@
+
+
+## Performed by:  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask TypeGrowth Media  
+9567-F_CHOMP09-Crocodile P10-1of1 "Brutus"  
+1x E125  
+RPMI1640 + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax + 1x P/S  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media C: RPMI1640 + 20% KSR + 1% AA + 1 g/L Poloxamer 188 + 1% Glutamax
++ 1x P/SM8146  
+  
+IGFM7681  
+  
+FGFM5077  
+  
+  
+  
+
+
+
+
+### Prepared and aliquotted media
+
+  1. Aliquotted 15mL of RPMI1640 media - in top minifridge next to bioreactor in 50mL tube
+  2. Added supplements to each aliquot according to the below table:
+
+IGF (uL)  
+FGF (uL)  
+  
+3030  
+  
+Placed in water bath
+
+
+
+
+Process:  
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min 14:05-14:10
+  5. Washed E125 flasks with 10 mL of dPBS
+  6. Aspirated  75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. 
+  7. Added 15 mL of fresh prewarmed growth media to each 50 mL tube and resuspended pellet. 
+  8. Returned cell suspension to E125 flask. 
+  9. Took 100 uL samples from each culture and loaded onto a 96 well plate according to the plate map. 
+  10. Returned E125s to incubator 12:00
+
+30° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining  
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 1 mL dPBS  
+\- 1 drop Nucgreen AF488 dead stain
+
+Prepared Hoechst stain (25 ug/mL) solution in amber/black centrifuge tube:  
+\- 4750 uL MilliQ  
+\- 250 uL Hoechst Trihydrochloride trihydrate (1mg/mL)
+
+  1. Added 20 uL of Hoechst stain to cell suspension. 
+  2.  Added 80  uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Stained samples with 20 uL of Hoechst stain solution
+  4. Incubated for 30 minutes in the dark at room temperature 12:46
+  5. Serially diluted cell suspension by transferring 100 uL cell suspension to subsequent wells, down to 25% dilution  
+
+  6. Centrifuged plates at 300 RCF for 1 minute 13:30
+  7. Plate map of culture IDs in 96-WP for imaging
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary: None  
+
+  
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+  
+
+  
+
+Zaber observations/issues:
+
+  
+
+

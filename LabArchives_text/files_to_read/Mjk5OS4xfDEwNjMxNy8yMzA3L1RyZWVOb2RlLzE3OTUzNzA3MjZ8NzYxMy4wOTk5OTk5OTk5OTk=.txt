@@ -1,0 +1,164 @@
+Culture ID(s)  
+Vessel type  
+Location of plateNo. of wells to stain  
+  
+723596wpLibrary lab fridge 65  
+9  
+  
+723696wpLibrary lab fridge 659  
+  
+723796wpLibrary lab incubator 78.9  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Performed by: Shaleen (Fix)  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    10mL  PBST (0.2% Triton-X)
+
+2\. Prepared   6 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  7.5 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  30 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  1.46  mL Blocking
+Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG  
+IgG1  
+(1:200)  
+MF20IgG2b  
+(1:50)  
+  
+  
+
+
+
+
+Process:
+
+Fixing
+
+  1. Removed Plate 7237 from the incubator (78) 
+  2. Removed media from each well and washed with 100uL of PBS. 
+  3.  Added  200 µL of 4% PFA to each well for 15 min:  13:53 - 14:08 pm 
+  4. Removed PFA (and add in PFA waste container) and wash wells with   200 µL PBS. 
+  5. Placed fixed plate in Fixing and Staining fridge in Main Lab.
+  6. Removed Plates 7236 and 7235 from fridge 65. 
+
+  
+
+Permeabilise
+
+1\. Removed PBS from each well across all three plates.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  15:04 - 15:19
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   15:25 - 16:15
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with 50uL primary antibody ~~for 90min - 2hrs at RT, or~~
+4ºC overnight:   16:30
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.    16:30
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM5703  
+  
+PBST (0.2% Triton)M5481  
+  
+dPBSM5385  
+  
+Primary Antibody MixS258 + S1451  
+  
+4% PFA  
+M3078  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+### NA
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+NA
+
+

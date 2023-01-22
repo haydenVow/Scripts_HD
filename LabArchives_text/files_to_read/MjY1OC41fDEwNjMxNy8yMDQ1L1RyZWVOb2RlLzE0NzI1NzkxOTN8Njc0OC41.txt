@@ -1,0 +1,108 @@
+
+
+## Performed by: Nathan  
+
+
+
+
+Weekend imaging information.  
+
+Vessel ID  
+ Vessel type(s)  
+Vessel location  
+7154-DOLLY12-Sheep P12-1of9  
+7185-DOLLY12-Sheep P12-2of9  
+7186-DOLLY12-Sheep P12-3of9  
+  
+  
+E125  
+Top sanyo main lab (80)  
+  
+7187-DOLLY12-Sheep P12-4of9  
+7188-DOLLY12-Sheep P12-5of9  
+7189-DOLLY12-Sheep P12-6of9  
+50mL  
+bottom sanyo main lab (81), bottom shaker  
+  
+7190-DOLLY12-Sheep P12-7of9  
+7191-DOLLY12-Sheep P12-8of9  
+7192-DOLLY12-Sheep P12-9of9  
+  
+50mLbottom sanyo main lab (81), top shaker  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator (Top sanyo - 3xE125s) (bottom sanyo incubator two sets of 3x50mL spin tubes) and placed them in the BSC  `| 10:50 |`
+  2. Swirled culture(s) by hand inside the BSC to suspend the microcarriers, the lid was quickly removed and 3x20uL samples of each culture were taken while the carriers were still suspended. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate well on a 96 well plate and mixed 80uL of dPBS containing 20uL/mL of Hoechst 33342 + PI. 
+    1. Made the dPBS, Hoechst and PI mix in a 15mL tube then aliquotted 80uL of the mix into each well. (added 75uL of PI mix, 3mL of dPBS + 60uL of Hoechst 33342 together).
+    2. Used one row for each vessel group.  
+Row A, E125 flasks,  
+Row B, 50mL shake tubes 4-6  
+Row C, 50mL shake tubes 7-9  
+Used Plate culture 7200 to scan the sample plate once again.  
+
+  4. Returned cultures to the incubator after feeding (see feed below).
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `|11:05-11:25  |`
+  6. After incubation the wells were inspected under the Zaber microscope in the main lab
+  7. Captured images under the 5x objective of the centre of each well using Phase, DAPI and AF555 channels (1 image per well). 
+    1. Lamp intensity DAPI = 25, exposure = 100ms
+    2. Lamp intensity AF555 = 75, Exposure = 200ms
+    3. Lamp intensity Phase = 2, Exposure = 3ms
+
+8\. Repeated the imaging using the settings above as the plate was
+accidentally bumped between imaging on the flourscent channels and imaging on
+PHASE.
+
+
+
+
+### Observations/Summary:
+
+### After 6 days in culture the morphology of the cells in all shaking vessels
+appears similar.  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used  
+dPBS 5123  
+  
+  
+Hoechst 333422463  
+  
+  
+PI  
+1129  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [x]  Need to be further analysed, Require analysis using uCarrier cell count tool. 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7200: https://mia-capture.vow.tools/#/session/recgSTLcAxLezF202/images#group3
+
+

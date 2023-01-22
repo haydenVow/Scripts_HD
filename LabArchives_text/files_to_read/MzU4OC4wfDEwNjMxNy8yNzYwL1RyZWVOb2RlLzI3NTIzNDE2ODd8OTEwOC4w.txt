@@ -1,0 +1,146 @@
+
+
+Introduction
+
+This study focuses on stimulating differentiation and alignment through
+passive mechanical stimulation using DOLLY12 cells encapsulated in fibrin gels
+or collagen gels on 3D printed anchor point or conical shaped constructs. The
+study is based on research by Kaplan and Simsa et al., 2019, which reports
+that 3D printed inserts were able to successfully promote cells to align and
+differentiate within fibrin hydrogels, and ultimately generate a bioartificial
+muscles between 3D printed anchor point constructs. A recent patent by  Mosa
+Meats outlines a second design relying on passive mechanical stimulation using
+a conical insert shape, where myoblasts are seeded in circular trough at the
+bottom of the cone. Cells are the expected to fuse, form myotubes and the
+resulting muscle ring will travel up towards a harvesting area due to natural
+muscle contraction.
+
+In previous experiments at Vow, we have used pin inserts to seed cells in
+alginate, however results show that there was no evidence of cell migration or
+alignment or even cells spreading inside the matrix.  It was theorised from
+the study that the alginate gel was not a compatible material for encapsulated
+MuSC culture, and that this was most likely due to the inherent negative
+charge and a lack of active binding sites on alginate. Apart from this
+however, no other attempts have been made to seed cells in inserts, nor
+encapsulated cells within a fibrin or collagen gel. Thus we are interested to
+see whether our MuSCs will be able to survive, migrate, align and mature
+between 3D printed anchor points when encapsulated within a fibrin or collagen
+hydrogel.
+
+Refer to experimental plan for more details
+
+
+
+
+Summary of main findings
+
+  1. DOLLY12 cells are able to survive in both collagen and fibrin gel matrix for all conditions tested (no inserts, pin insert and conical insert)
+  2. After 2 days in E6 media, it would appear that cell-containing samples with no inserts begun to differentiate. 
+    1. In particular for fibrin samples, this was observed through CMFDA staining, whereby cells that were stained appeared elongated, rather than round, suggesting that fusion and myotube formation has occurred or underway. 
+    2. For collagen samples, this was also evident through contractions in cell containing samples and absence in controls. 
+  3. At day 6, it was evident that both collagen and fibrin samples had differentiated and some myotube formation was occurring based on immunofluorescent staining.
+  4. Similarly, at day 14, it was evident that the fibrin sample contained differentiated cells and myotubes. (inconclusive for collagen samples as images were over-exposed)
+  5. The lowest conical insert angle exhibits the most muscle ring contraction 
+  6. It is not certain if either of the inserts resulted in greater maturation
+
+
+
+
+Results
+
+  
+
+Figure 1. CMFDA stain of no insert, cell containing fibrin sample after 2 days
+in E6
+
+Figure 2. Cell containing sample on conical insert after 3 days in E6
+
+  
+
+  
+
+Figure 3. Day 6 Fibrin cell containing conical insert sample with MyoG, MF20
+and DAPI fluorescent
+
+
+
+  
+
+Figure 4. Day 14 Fibrin cell containing anchor point insert sample with MyoG,
+MF20 and DAPI fluorescent
+
+
+
+
+
+Figure 5. Collagen cell containing anchor point insert sample with MyoG, MF20
+and DAPI fluorescent
+
+
+
+
+
+
+Discussion
+
+  * Based on CMFDA staining, cells embedded within the fibrin and collagen gel are able to survive 14 days in E6 media. 
+  * For fibrin gel samples, differentiation occurred as early as day 2 in E6 media. This was evident in the no insert cell samples (figure 1) where the cells stained appeared elongated.  
+  * Furthermore, for the no insert samples, it was observed that the presence of cells in the gel resulted in the gels contracting, compared to the control which remained unchanged throughout the experiment. This was particularly noticeable in collagen samples that contracted in a ball within the second day after seeding, whilst fibrin later in the experiment. This is a likely demonstrates of the MuSC fusing. 
+  * As for the insert samples, whilst gel contraction occurred and is likely a result of the cells fusing, it is a bit more difficult to conclude this due to the absence of a control. 
+    * For the pin insert, we can confidently say that it was the cells that resulted in the contraction despite the absence of a control. This is because the set up of the pin is similar to that of the non inserts, whereby the gel was placed on the bottom on the well and the difference being only the pins, which if anything, would assist in preventing contraction as it would hold the structure in place better. 
+    * For the conical insert however, we can not accurately conclude this without a cell free control. The setup varies greatly for the cell free no insert control and therefore it is not certain whether the conical inserts may have allowed the gel without cells to contract and ride up the center staff. Having said this, it is expected that the cells resulted in the dramatic contraction of the gel and loss of overall volume of the gel. This is evident in figure 2, whereby there is stark difference in the appearance of the gel at day 3 in E6. The 150uL of gel mix contracted significantly into the ring that forms around the center staff, likely a result of cell fusion. Furthermore there is a visible loss of overall mass/volume of the gel.
+  * Based on fluorescent stain, we can gather than some form of maturation has taken place for both the fibrin and collagen sample on day 6. Although images are slightly blurry and over-exposed, we can see that there are some MyoG signals (green) and MF20 signals (red) present in majority of cell containing samples and absent in controls. This indicates that early stage maturation in the form of differentiation has occurred. Furthermore, myotubes are beginning to form at day 6 (figure 3). 
+  * A similar result is seen for fibrin fluorescent images on day 14. It is not obvious in the images whether or not myotube formation has increased over the course of the experiment. Too few samples were taken on both day 6 and 14 to conclude if an increase in myotube formation was evident.  
+  * Due to overexposed images for the collagen gel on day 14, we are unable to gather any significant data on maturation based on the fluorescent images.  
+  * For both the collagen and fibrin samples, we are unable to conclude whether or not using either of the inserts or no inserts yielded greater maturation. This is due to low levels of each sample, fluorescent images that are difficult to view (blurry, over exposed) and absence of other measurements to measure maturation. 
+
+  * At the end of the study, the gels containing cells overall appeared smaller in size. It would be reasonable to suppose that the size decrease was caused by contraction through alignment and fusion of the DOLLY12 MuSC with an enzymatic decomposition of the gel by proteases secreted from cells. 
+
+  
+
+
+
+
+Limitations
+
+Both gels:
+
+  * Due to the fragile nature of the gel, and risk of detaching the cells from the pin inserts, the gel scaffolds could not be moved after seeding. Typically in previous scaffold experiments, the scaffolds are moved to a seperate well so that cells that have detached and adhered to the base of the well, do not interfere with the experiments eg consuming all the media, differentiating etc. 
+  * A high seed density was used to seed out each gel. As a result the media appeared yellow in colour within 24 hours after seeding. This may have an impact on cell viability. The media would be more acidic which is not favourable for growing MuSC. Furthermore, the sudden change in environment may cause a negative impact on the cells. 
+  * Because the cells are embedded in a 3D semi- transparent gel, taking and obtaining a clear focused image of the sample is difficult as the cells are in different planes. This is particularly challenging for fluorescently stained cells, as the cells in other planes result in background light, making it difficult to view the cells on the desired plane. As a result, many fluorescent images appear overexposed and unfocused
+  * As we had low levels of sample, we were only able to sacrifice 1 sample during day 6 stain. Therefore, the stain on day 6 may not be representative of all the samples for that particular condition. 
+  * Similarly for CMFDA staining we were only able to sacrifice one sample, no-insert cell containing sample, which showed that the cells in this particular condition was able to differentiate after 2 days in E6 media. Whilst it is likely that the other cell containing samples with inserts had differentiated, (possibly exhibiting more differentiation), we cannot conclude that the samples have as no images were taken.
+  * During staining events, the gels were transferred using either needles or tweezers and were cut with scalpels. During these events, it is possible that the cells may have detached. In particular for the conical insert samples, more handling was required to remove the gel from the insert which may have damaged the cells. 
+  * The study only used one cell type, DOLLY12, and therefore other cell lines may behave differently.
+  * Expected that the AF488 channel or MyoG stain is experiencing issues as there is very little signal that is picked up, despite differentiation taking place. 
+  * It is difficult to view the MF20 and MyoG signals given that the gel has a similar signal when imaged, therefore blocking any possible signal of the same intensity or lower. 
+
+Fibrin gel:
+
+  * During seeding, the cell + thrombin + fibrin mix gelled up mid way through seeding. Therefore cells may not have fully distributed evenly in the gel. Furthermore, having gelled mid way in seeding, the volume of the gel in each well varied. This may have an impact on maturation 
+
+Collagen gel:
+
+  * For day 14 fluorescent staining with the zaber, the collagen samples were over exposed. This is a result of imaging both the fibrin and collagen samples together and only adjusting the exposure setting for fibrin. This meant that the exposure and focus was not suitable for the collagen samples. 
+
+  
+
+  
+
+
+
+
+Future directions
+
+  * Modify design of the pin insert so that the inserts can't easily detach from the pin through just lifting the plate lid. 
+  * Include controls for the inserts
+  * having thinner samples during staining to minimise exposure from unfocused cells
+  * image fibrin samples separate from collagen samples  
+  * Trial with other cell line eg  to see if there are differences between cell type 
+  * Include more samples during the staining events 
+
+  
+
+  
+
+

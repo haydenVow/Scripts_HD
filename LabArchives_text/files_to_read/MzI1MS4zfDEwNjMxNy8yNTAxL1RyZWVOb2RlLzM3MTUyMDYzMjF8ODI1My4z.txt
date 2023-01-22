@@ -1,0 +1,39 @@
+
+
+Blocker:
+
+Seeding
+
+  * Issue:
+    * inefficient seeding as cells not only adhere to the scaffold, but to the base and sides of the wells. to minimise this effect, a 96 wp is used for seeding
+    * 96 wp can only hold a small volume of media and therefore cells go through media quickly and turn the media pale, orange or yellow within 24 hours. 
+  * Solutions and ideas: 
+    * seeding the scaffold in a 24 wp, inside some kind of 96 wp sized insert to prevent run off, then after an hour or so gently move the insert to a 24wp sized well containing pre-warmed media
+    * plates with hydrophobic coatings, this would reduce non specific binding to the plastic. 
+    * A cheaper but more time consuming alternative is coating the wells with agarose (negatively charged, no adhesion sites, cells do not bind)
+
+  
+
+
+
+
+Staining blockers
+
+  * Issue 
+    * Two experiments (seitan and gelatex) showed false negative images with Hoechst stain. However upon imaging with DAPI, we witness that cells are present on the scaffold.  
+    * Can use ELISA however if may give inaccurate reading due to:
+    * Some materials absorb the fluorescent stain and therefore give a false positive reading. Therefor for each new material, we may have to test it without cells first to see if there is any fluorescent being absorbed by the material and showing a reading.  
+      * Unable to subtract material fluorescent as each materia amount may differ during preparation (pore size, surface area etc) 
+  * Solution 
+    * CMFDA live cell tracker?
+    * western blotting or protein assay 
+    *  
+
+  
+
+
+
+
+basket and tray should have clear bottom
+
+

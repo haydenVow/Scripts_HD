@@ -1,0 +1,81 @@
+
+
+
+
+
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Sirius Red  
+  
+PFA  
+  
+PBS (non-sterile)  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process: CHOMP MMC analysis after 7 days  
+
+  * Media was removed from roller bottles and collected. 3x 10ml samples collected in 15ml falcon tubes for collagen (media) assay
+  * Roller bottles were fixed in 10ml 4% PFA for 20m, then this was removed and washed with 2x 50ml PBS
+  *  25ml 1ml/ml sirius red was added to each bottle and coated with rotation for 40m
+  * meanwhile 4ml siius red was added to media samples and incubated at RT for 30m
+  * unbound/excess dye in roller bottles was removed and washed 3x 25ml PBS, then inverted and left to dry
+  * media samples were centrifuged at 4000G for 10m, then supernatant discarded.
+  * media samples were washed in 10ml PBS for 20m, the recentrifuged, supernatant discarded and left to dry inverted
+  * 10ml 1M NAOH was added to the roller bottles and 1ml NaOH to each media sample. The pellets/stain was left to destain overnight (roller bottles replaced on the roller)
+  * 200ul of each condition was pipetted into a 96 well plate and collagen quantified in the plate reader at ABS540nm
+  *   
+
+
+
+
+Observations/Summary: FICOLL groups have a more confluent cell layer than
+control.  
+
+Due to unlevel surface for the second set of experiments (right, cell pellets
+were inadvertently formed), therefore these data are less reliable. The
+process for running the experiments and analysis via collagen quantification
+is shown to be robust. Cell sheets were visible in the roller bottles, and not
+fully confluent, so more than 100M cell/bottle can be used
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

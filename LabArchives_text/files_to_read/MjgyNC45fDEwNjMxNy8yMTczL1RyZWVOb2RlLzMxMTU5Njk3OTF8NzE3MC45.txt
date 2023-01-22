@@ -1,0 +1,23 @@
+Achieve a biomass doubling time of <24h and a final biomass of 5g/L in a 2L bioreactor, in ACF.
+
+
+Scoring Guide:
+
+0.25 = Fibroblasts are growing in a bioreactor.
+
+0.50 = Maximum achievable biomass density in batch mode is determined,
+limiting nutrients/metabolites are identified
+
+0.75 = Fibroblasts biomass doubling time is <24h.
+
+1.0 = 5g/L final biomass is harvested from the bioreactor in an ACF media.
+
+  
+
+Considerations:
+
+  1. Optimise an ACF media to support 5g/L final biomass (~5 million cells per mL)
+  2. Optimise media to achieve a suspension doubling time of <24h doubling time
+  3. High-level metric: volumetric biomass production (g/L/day)
+
+

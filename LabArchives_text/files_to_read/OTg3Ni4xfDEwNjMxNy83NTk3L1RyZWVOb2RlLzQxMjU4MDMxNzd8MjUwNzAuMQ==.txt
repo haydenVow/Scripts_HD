@@ -1,0 +1,60 @@
+
+
+13/9/21
+
+AC repeated the ziptip with a lower loading.
+
+  
+
+~1 ug of the original digest was ZipTipped, eluted in 10uL 50%ACN,0.1% TFA and
+dried down
+
+Sample was reconstituted in 5uL and 1.2uL (240ng) was injected onto column for
+LC/MS
+
+  
+
+The column was also changed on the HFX3.
+
+Old top 15 method:
+New top 25 method:
+
+
+
+  
+
+
+
+
+14/9/21 SSTs
+
+Run722 RT722 Counts% CovNo PepScore  
+2Missed injection  
+  
+  
+  
+330.891.89e952338655  
+430.911.76e949328564  
+530.902.10e952348918
+
+
+  
+  
+14/9/21 TICs
+
+Top 15 method:
+
+Top 25 method:
+
+
+
+
+The data was searched vs the Merino database using PD 2.5 and Mascot 2.8 as
+before:
+
+RunProteins Prot GrpPep GrpPSMMSMS  
+1ug15,4185,075 (down from 5,131)35,51145,99013,9568  
+1ug top2515,7115,159  
+36,53047,79915,1662
+
+

@@ -1,0 +1,184 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 6540  
+  
+dPBS (for washing & neutralising)M 6522  
+  
+Growth Media 10% FBS  
+M 6921  
+  
+Growth Media 20% FBS  
+M 6859  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     6    mL in    1   tubes
+  2.  dPBS (for washing and neutralising):    8 x 3mL (for washing and neutralising cells from each condition)   mL
+  3. Growth media (for seeding):    4 x 3mL (10% FBS, 2 with p53i and 2 without p53i) and 4 x 3mL (20% FBS, 2 with p53i and 2 without p53i)     mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+11:25 am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      0.2   mL tryple to each well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    11:43 pm 
+    1. Note* Plates checked under phase and <20% detachment noticed at 11:55 am. Plates returned to 37C incubator.  
+
+    2. Note* at 12:08pm, cells -UV and -p53i are detached, but cells in +UV+p53i conditions are not detached. Will try trypsin for those  
+
+    3. Added 500uL/well of Trypsin/EDTA to all wells in UV treated plates. `Aliquot # 5591` 12:16 - 12:20 pm  
+
+    4. 12:24, trypsin still on and still very low detachment. Will need to neutralise now but will need to look into this issue  
+
+7\. Neutralised with    0.5mL    dPBS per well and combined cell suspension
+from each condition into a     1 x 15mL    tube.
+
+Wells from non-UV treated plates neutralised 12:15 pm
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   12:30 - 12:35 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     3    mL     respetive     media
+
+
+
+
+  
+
+14\. Transferred cell suspension into the     6-well plates (see plate maps
+above).
+
+16\. Transferred vessel(s) to incubate at: 12:52 pm  
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Cells combined from each condition and seeded into 1 x well of a 6-well plate
+(per condition).
+
+  
+
+Observation: Cells in +UV+p53i condition did not detach with Tryple, and even
+after the addition of warm Trypsin/EDTA for 9 minutes, cells were still mostly
+attached. Pipetting was used to encourage cells to detach from the surface of
+the 24-well plates, however cells were lost in this process.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+

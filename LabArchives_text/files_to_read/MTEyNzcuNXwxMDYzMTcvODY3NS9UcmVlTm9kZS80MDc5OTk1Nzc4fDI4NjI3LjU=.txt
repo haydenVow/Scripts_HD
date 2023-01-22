@@ -1,0 +1,122 @@
+
+
+Template for Differentiation Assay
+
+Recommended time points (after switch to diff media): 24h, 48h, 96h, 144h,
+336h
+
+Minimum recommended time points: 24h, 96h, 144h.
+
+  
+
+[DAY -2] - Seed 5 x 96 well plates with 5,000 cells/well from in 140 uL/well
+using appropriate serum-containing media (i.e. 35,710 cells/mL)
+
+  1.  Gelatin Coating: Add 100uL/well of 0.1% gelatin solution (sterile filtered) to the first 3 lanes of wells of 5 x 96-well plates. Incubate plates for at least 1 hr (37ºC, 5% CO2).
+  2. Seeding: Seed 5-10k cells per well in 140uL of serum-containing media. 10k cells should be sufficiently confluent to change to diff media after 24h. 7.5k cells should be sufficiently confluent to change to diff media after 3 days. 
+  3. 5 x 96 well plates, with 3 lanes per plate should be used. 600k-1.2million cells are needed for the assay.
+  4. Seed columns #2, #3, and #4. Put PBS into columns #1 and #5 to minimise the edge effect.
+  5. Label 5 x 96 well plates as a designated time point: 24 h, 48 h, 96 h, 144 h and 336 h. 
+  6. Incubate plates at 37ºC, 5% CO2.
+
+[Day 0] \- When cells are 100% confluent, change to differentiation media on 5
+x (quarter) 96-well plates.
+
+  1. 2 columns per plate should receive 140uL of E6 media per well.
+  2. 1 column per plate should receive 140uL of DMEM + 2%HS per well. 
+  3. Media change should happen slowly and all
+  4. Return plates to incubate at 37ºC, 5% CO2.
+
+[Day 1 after switch to Diff] Fix 24 h plate
+
+  1. Image 2 rows (across) of wells at 4x magnification on Phase contrast. (6 wells total).
+  2. Fix with 100uL/well of 4% PFA solution. 
+  3. Wash with dPBS (150uL/well) twice for 5 min at RT.
+  4. Replace dPBS.
+  5. Parafilm plate and store in fridge. 
+
+[Day 1] 100% feed differentiation media on 4 x (quarter) 96-well plates
+
+  1. 2 columns per plate should receive 140uL of E6 media per well.
+  2. 1 column per plate should receive 140uL of DMEM + 2%HS per well. 
+  3. Media change should happen slowly and all
+  4. Return plates to incubate at 37ºC, 5% CO2.
+
+[Day 2] - Fix 48 h plate manually
+
+  1. Image 2 rows (across) of wells at 4x magnification on Phase contrast. (6 wells total).
+  2. Fix with 100uL/well of 4% PFA solution. 
+  3. Wash with dPBS (150uL/well) twice for 5 min at RT.
+  4. Replace dPBS.
+  5. Parafilm plate and store in fridge. 
+
+[Day 2] - 100% feed differentiation media on 3 x (quarter) 96-well plates
+
+  1. 2 columns per plate should receive 140uL of E6 media per well.
+  2. 1 column per plate should receive 140uL of DMEM + 2%HS per well. 
+  3. Media change should happen slowly and all
+  4. Return plates to incubate at 37ºC, 5% CO2.
+
+[Day 3] - 100% feed E6 on 3 x (quarter) 96-well plates
+
+[Day 4] - Fix 96 h plate manually
+
+[Day 4] - 100% feed differentiation media on 2 x (quarter) 96-well plates
+
+[Day 5] - 100% feed differentiation media on 2 x (quarter) 96-well plates
+
+[Day 6] - Fix 144 h plate manually
+
+[Day 6] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 6] - Primary Stain D1-6 Differentiation Assay plates
+
+  1. 24h plate - stain for MyoD/MyoG
+  2. 48h plate - stain for MyoG/MF20
+  3. 96h plate - stain for MF20
+  4. 144h plate - stain for MF20
+  5. 140h plate - stain for MF20
+  6. Stain at least 3 wells per condition (E6 media versus DMEM+2%HS)
+
+[Day 7] - Secondary Stain D1-6 Differentiation Assay plates
+
+  1. Use appropriate secondaries that match with primary antibodies used on Day 6.
+  2. Co-stain with DAPI
+  3. Image immediately or cover wells with PBS, wrap the plate with parafilm/foil, and store at -4 degrees. Image within a few days.
+
+[Day 7] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 8] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 9] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 10] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 11] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 12] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 13] - 100% feed differentiation media on 1 x (quarter) 96-well plates
+
+[Day 15] - Fix 240h plate manually
+
+[Day 16] - Primary Stain D14 Differentiation Assay plates
+
+  1. 240h plate - stain for MF20
+  2. Stain at least 3 wells per condition (E6 media versus DMEM+2%HS)
+
+[Day 17] - Secondary Stain D14 Differentiation Assay plates
+
+  1. Use appropriate secondaries that match with primary antibodies used on Day 16.
+  2. Co-stain with DAPI
+  3. Image immediately or cover wells with PBS, wrap the plate with parafilm/foil, and store at -4 degrees. Image within a few days. 
+
+[Day 18] - Analysis of images
+
+  1. Download images from all plates in this study
+  2. Analyse images using MIA for MyoG/MyoD/MF20 to determine the total number of MyoG/MyoD/MF20+ cells. 
+
+Note: It is highly recommended to stain a control section of fixed,
+differentiated C2C12 cells alongside differentiation staining.
+
+

@@ -1,0 +1,160 @@
+
+
+BioNOC Preliminary Study
+
+Aim: To see if the CHOMP cells can attach to, grow on and be removed from
+BioNOC II macrocarriers. Also to see if we can get some baseline data from our
+cells in this environment before seeding them into the CelCradle Bioreactor.  
+
+Questions being investigated:
+
+  1. Do the CHOMP cells attach to the macrocarriers?
+  2. What is the optimal seeding density?
+  3. Do the CHOMP cells grow on the macrocarriers?
+  4. What is the optimal harvest method to get the CHOMP cells off the macrocarriers
+  5. What is the best way to monitor cell growth during the batch incubation period?
+
+Original Experiment Plan:
+
+  
+
+  
+
+Deviations from the plan:
+
+  * The pH was not checked every second day. The reason for this was that every time media was removed for a pH test (minimum 5mL), it would need to be replaced, resulting in a changed feeding schedule. I wanted to keep things are close to our normal schedule as possible for direct comparison with multi-layered flasks so chose to only do a pH test at the time of a previously scheduled feed.
+  * Did not get to compare cell growth between BioNOC and multi-layered flasks because cell growth was not observed in these experiments
+  * The monitoring of cell growth was not very robust in this experiment because I tried a lot of different methods to find a suitable one for future experiments.
+
+  
+
+Results:
+
+1\. Do the CHOMP cells attach to the macrocarriers?  
+Yes. Multiple DAPI stains throughout the course of this experiment have
+consistently shown cells attached to the carriers. The cells also showed a
+great attachment efficiency after 2 hours of incubation during the inoculation
+phase. See example DAPI images and attachment efficiency data below.  
+
+Experimental GroupCells SeededCells UnattachedAttachment Efficiency  
+5,000cells/cm2375,00019,09695%  
+7,500cells/cm2562,50012,96098%  
+15,000cells/cm21,125,00040,03296%  
+  
+  
+
+2\. What is the optimal seeding density?  
+Due to the lack of cell growth seen in these experiments it is not possible to
+compare the effectiveness of the different seeding densities. Although, the
+5,000cells/cm2 condition did seem to have quite a low cell count compared to
+the other 2 conditions when looking at the DAPI staining, so for future
+experiments I would probably stick between 7,500cells/cm2 and 15,000cells/cm2  
+  
+
+3\. Do the CHOMP cells grow on the macrocarriers?  
+Based off the results from this experiment I would have to say no. However
+after some discussion with Esco Aster, it is believed that there may be a lag
+phase of adaption of these cells to the 3D structure and this experiment was
+not long enough to allow the cells to overcome this. It is also possible that
+the rocking speed was too fast and therefore impeded cell growth. For future
+experiments like this I would recommend growing the cells for at least 2 weeks
+to see if they are able to overcome this lag phase of adaption, as well as
+lowering the rocking speed.  
+It is also important to note that the lack of cell growth was not due to
+unhealthy/dying cells. This is known because the cells looked healthy during
+the post-harvest cell counts, but also because some of the harvested cells
+from one of the BioNOC flasks were passaged into a T25 flask and grown up for
+an additional week. During this time the cells looked very healthy and
+displayed the expected growth rate of CHOMP cells, reaching 100% confluence by
+days 7-8.  
+  
+
+FlaskCells In Cells OutGrowth relative to starting cell numbers (%)  
+5,000cells/cm2 (1)375,000207,600-45  
+5,000cells/cm2 (2)375,000207,900-45  
+7,500cell/cm2 (1)562,500289,900-48  
+7,500cell/cm2 (2)562,500344,400-39  
+15,000cells/cm2 (1)1,125,000887,000-21  
+15,000cells/cm2 (2)1,125,000871,000-23  
+  
+  
+
+3a. Follow up question: Is there something wrong with the cells?
+
+To test this, the cells harvested from the 7,500cell/cm2 (1) flask were
+passaged into a T25 flask and monitored for 8 days. During this time the cells
+were healthy and displayed normal growth rates (See images below). This
+suggests that there is likely a lag phase that was not accounted for with the
+BioNOC.
+
+D2 - 25/02  
+  
+D5 - 28/02  
+D6 - 01/03  
+D8 - 03/03  
+  
+  
+  
+
+4\. What is the optimal harvest method to get the CHOMP cells off the
+macrocarriers  
+Two harvest methods were tried, 5min in TrypLE and 15min in TrypLE. First it
+is important to note that TrypLE itself was successful in removing these cells
+from the BioNOC and that both 5 min and 15min incubation time produced very
+similar cell counts in all seeding density conditions. For future experiments
+an incubation time of 10min should be sufficient for a successful harvest
+followed by 4 washes in dPBS with vigorous mixing.
+
+FlaskTrypLE treatment time (min)Cells In Cells OutGrowth relative to starting
+cell numbers (%)  
+5,000cells/cm2 (1)5375,000207,600-45  
+5,000cells/cm2 (2)15375,000207,900-45  
+7,500cell/cm2 (1)5562,500289,900-48  
+7,500cell/cm2 (2)15562,500344,400-39  
+15,000cells/cm2 (1)51,125,000887,000-21  
+15,000cells/cm2 (2)151,125,000871,000-23  
+  
+BioNOC was also stained with DAPI before and after harvest with TrypLE. Due to
+the very small number of cells left behind on the BioNOC after the harvest we
+can confidently say the harvest was successful (see images below).
+
+Before HarvestAfter Harvest  
+  
+  
+
+5\. What is the best way to monitor cell growth during the batch incubation
+period?  
+A number of DAPI staining protocols were tried. In the end the following was
+the most successful:  
+1. Take out 1 BioNOC from each (1) tube/flask using sterile forceps  
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image with Z-stack  
+  
+However it was very difficult to quantify the number of cells present with
+DAPI due to the unusual 3D structure. It was therefore decided that DAPI
+staining with z-stack imaging was a useful measure to monitoring obvious cell
+growth by eye but not a useful measure of quantifying this growth. To obtain
+more robust quantifiable results in future studies a XTT metabolic assay will
+be tried.
+
+Side Experiment: Two methods of fixing were tried; Ethanol fixing and PFA
+fixing.
+
+  * PFA fixing resulted in a loss of cells off the BioNOC compared to Ethanol.
+  * Ethanol was a superior method. 
+
+Ethanol - DAPIPFA - DAPI  
+  
+  
+
+What we learnt/Recommendations for future studies:
+
+  * The CHOMP cells are able to adhere to the BioNOC
+  * There may be a lag phase of adaption before proliferation occurs
+  * DAPI staining is not a suitable method alone to measure cell growth, a metabolic assay should also be performed
+    * Ethanol should be used to fix the cells before staining, not PFA
+  * TrypLE is able to remove the cells from the macrocarriers after 10 minutes of incubation and 4 dPBS washes will successfully remove the remaining cells
+
+

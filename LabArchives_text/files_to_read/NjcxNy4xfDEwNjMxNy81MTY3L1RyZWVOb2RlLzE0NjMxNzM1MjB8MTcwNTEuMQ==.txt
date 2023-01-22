@@ -1,0 +1,125 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+96-WP (1 well)  
+8725-F_CHOMP07-Crocodile P7-2of3  
+96-WP (moved to new well of same plate) 8725-F_CHOMP07-Crocodile P7-2of3  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea7592  
+  
+dPBS (for washing & neutralising)m7382  
+  
+Growth Media  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   dispensed directly from container  
+  2.  dPBS (for neutralising & washing):   dispensed directly from container 
+  3. Growth media (for pellet resuspension & seeding):   1  mL
+
+Time that all aliquots were placed in the water bath the warm before use
+12:02  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     12:04  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   0.05   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    12:21 - 12:32    
+
+7\. Neutralised with   200 uL    dPBS and combined cell suspension into     1
+x 15 mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    12:38 - 12:43    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   0.1   mL     growth     medium     12:45  
+
+11\. Aliquoted    10 uL   of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:    3000   
+  2. Volume of cell suspension required for subculture was:    100 uL (total suspension)   
+  3. Cell density per vessel:   9375 cells/cm2   
+
+
+
+
+13\. Transferred    100  µL of cell suspension to the pre-warmed   100 uL
+Growth medium
+
+14\. Transferred cell suspension into   well A2 of same 96-well plate  
+
+15\. Transferred vessel(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells), incubator #68
+
+
+
+
+Observations/Summary:
+
+Cells moved from well A1 of 96-WP to well A2 of same plate
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

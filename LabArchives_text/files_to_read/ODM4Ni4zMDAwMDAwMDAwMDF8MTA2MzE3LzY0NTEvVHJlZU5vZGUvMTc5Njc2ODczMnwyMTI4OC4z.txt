@@ -1,0 +1,173 @@
+Introduction
+
+
+Vitamin B12 is a water-soluble vitamin that is involved in the metabolism of
+every cell of the human body: it is a cofactor in DNA synthesis, and in both
+fatty acid and amino acid metabolism. It is essential part in the human diet
+and can only be found naturally in animal products (produced by bacteria) or
+in fortified foods. Whilst our cells are unlikely to produce B12, they may
+obtain it from the FBS in the growth media or the basal media directly. Vow is
+interested in identifying different compounds that will allow our product to
+have a nutritional profile similar to commercial meat, if not better.
+Therefore, it is important that we can quantify how much B12 is present in our
+cells.
+
+
+Aim:
+
+
+To establish and run the ELISA protocol for B12 through using standards with
+known concentrations of B12 and conditioned cells.
+
+
+Hypothesis:
+
+
+Using the B12 ELISA kit, we will be able to generate a linear standard curve
+using B12 standards and use this to accurately detect and measure B12
+concentrations in our samples.
+
+
+Timeline and protocol:
+
+
+Timeline
+
+D1 - Obtain cells from harvest or frozen samples. Samples have to be washed
+with PBS multiple times to remove any non-internalized B12, add last
+supernatant as test sample to assay plate and compare to PBS.
+
+D1 - Performed ELISA  protocol for B12 (see below)
+
+D2 - Analyse data
+
+D3 - Write report
+
+D4 - Report reviewed
+
+D5 - Report finalised and sent for submission
+
+  
+
+Plate map:
+
+  
+
+  
+
+ELISA protocol
+
+Link to the kit: https://www.biovision.com/documentation/datasheets/E4638.pdf
+
+Detection Range: 0.781 - 50 ng/ml
+
+Sensitivity: < 0.469 ng/ml
+
+Assay Precision: Intra-Assay: CV < 8%; Inter-Assay: CV < 10% (CV (%) = SD/mean
+X 100)
+
+No significant cross-reactivity or interference between Vit-B12 and analogues
+was observed.
+
+  
+
+Sample preparation
+
+Obtain B12-enriched cells from harvest or from frozen samples
+
+  * Tissue homogenates: Rinse the tissues with ice-cold PBS (0.01M, pH=7.4) to remove excess hemolysis blood thoroughly. Tissue pieces should be weighed and then minced to small pieces which will be homogenized in PBS (the volume depends on the weight of the tissue. 9 mL PBS would be appropriate for 1 g of tissue. You can break down the sample by using a mortar and pestle, blender, cutting etc. To further break the cells, subject it to freeze-thaw cycles. The homogenates are then centrifuged for 5 minutes at 5000×g to retrieve the supernatant. 
+  * Cell culture supernatant: subject cell pellet to multiple freeze-thaw cycles (or homogenize) to lyse and release intracellular B12. Centrifuge for 20 minutes to remove insoluble impurity and cell debris at 1000×g at 2 - 8°C. Collect the clear supernatant and carry out the assay immediately or aliquot and store at -20°C.
+
+  
+
+Reagent preparation
+
+Prepare reagents within 30 minutes before the experiment. Before using the
+kit, spin tubes and bring down all components to the bottom of tubes
+
+1\. Biotin- detection antibody working solution: Calculate the total volume of
+the working solution: 0.05 ml / well × quantity of wells with additional 0.1 -
+0.2 ml of the total volume. Dilute the Biotin- detection antibody with
+Antibody dilution buffer at 1:100 and mix thoroughly. Requirement for asay:
+2mL
+
+2\. HRP-Streptavidin Conjugate (SABC): Calculate the total volume of the
+working solution: 0.1 ml / well × quantity of wells with additional 0.1 - 0.2
+ml of the total volume. Dilute the SABC with SABC dilution buffer at 1:100 and
+mix thoroughly. Requirement for asay: 3.8 mL
+
+3\. Wash Buffer: Dilute 30 mL of Concentrated Wash Buffer into 750 mL of Wash
+Buffer with deionized or distilled water. Put unused solution back at 4°C. If
+crystals have formed in the concentrate, warm it with 40°C water bath and mix
+it gently until the crystals have completely dissolved. The solution should be
+cooled to room temperature before use.
+
+4\. Standard Preparation:
+
+  * Reconstitute the lyophilized Vit-B12 standard by adding 2 ml of Standard/Sample Dilution Buffer to make the 50 ng/ml standard stock solution. Use within 2 hours after reconstituting.
+  * Allow solution to sit at room temperature for 10 minutes, then gently vortex to mix completely. 
+  * Prepare 2 ml of 25 ng/ml top standard by adding 1 ml of the above stock solution in 1 ml of Standard/Sample Dilution Buffer. Perform 2-fold serial dilutions of the top standards to make the standard curve within the range of this assay. 
+  * Suggested standard points are: 50, 25, 12.5, 6.25, 3.13, 1.56, 0.78, 0 ng/m
+
+  
+
+  
+
+Note: Bring all reagents and samples to room temperature 30 minutes prior to
+the assay.
+
+  
+
+Assay Protocol:
+
+It is recommended that all standards and samples be run at least in duplicate.
+A standard curve must be run with each assay.
+
+1\. Prepare all reagents, samples and standards as instructed above
+
+2\. Wash plate 2 times with 1X Wash Solution before adding standard, sample
+and control wells.
+
+3\. Add 50 μl of each standards or samples into appropriate wells. Immediately
+add 50 μl Biotin-labeled Antibody Working Solution into each well. Cover with
+the Plate sealer provided. Gently tap the plate to ensure thorough mixing.
+Incubate for 45minutes at 37°C.
+
+4\. Discard the solution and wash 3 times with 1X Wash Solution. Wash by
+filling each well with Wash Buffer (350 μl) using a multi-channel pipette or
+autowasher. Let it soak for 1-2 minutes, and then remove all residual wash-
+liquid from the wells by aspiration. After the last wash, remove any remaining
+Wash Buffer by aspirating or decanting. Clap the plate on absorbent filter
+papers or other absorbent materials.
+
+5\. Add 0.1 ml of SABC working solution into each well, cover the plate and
+incubate at 37ºC for 30 min.
+
+6\. Discard the solution and wash 5 times with 1X Wash Solution as step 4.
+
+7\. Add 90 μl of TMB substrate into each well, cover the plate and incubate at
+37 ºC in dark within 15-30 min. The shades of blue should be seen in the first
+3-4 wells by the end of incubation.
+
+8\. Add 50 μl of Stop Solution to each well. Read result at 450 nm within 20
+minutes on the plate reader.
+
+  
+
+Calculation:
+
+For calculation, (the relative O.D.450) = (the O.D.450 of each well) - (the
+O.D.450 of Zero well). The standard curve can be plotted as the relative
+O.D.450 of each standard solution (Y) vs. the respective concentration of the
+standard solution (X). The Vit-B12 concentration of the samples can be
+interpolated from the standard curve. If the samples measured were diluted,
+multiply the dilution factor to the concentrations from interpolation to
+obtain the concentration before dilution.
+
+  
+
+
+
+  
+
+

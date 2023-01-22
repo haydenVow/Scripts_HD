@@ -1,0 +1,116 @@
+
+
+## Performed by: VP & AK
+
+
+
+
+Culture IDs:
+
+Flask typeFlask IDs  
+  
+E125
+
+9387-DOLLY12-Sheep P9-1of3  
+9389-DOLLY12-Sheep P9-2of3  
+9390-DOLLY12-Sheep P9-3of3  
+9391-DOLLY12-Sheep P9-1of3  
+9392-DOLLY12-Sheep P9-2of3  
+9393-DOLLY12-Sheep P9-3of3  
+9394-DOLLY12-Sheep P9-1of3  
+9395-DOLLY12-Sheep P9-2of3  
+9396-DOLLY12-Sheep P9-3of3  
+9397-DOLLY12-Sheep P9-1of3  
+9398-DOLLY12-Sheep P9-2of3  
+9399-DOLLY12-Sheep P9-3of3  
+9400-DOLLY12-Sheep P9-1of3  
+9401-DOLLY12-Sheep P9-2of3  
+9402-DOLLY12-Sheep P9-3of3  
+9403-DOLLY12-Sheep P9-1of3  
+9404-DOLLY12-Sheep P9-2of3  
+9405-DOLLY12-Sheep P9-3of3  
+9406-DOLLY12-Sheep P9-1of3  
+9407-DOLLY12-Sheep P9-2of3  
+9408-DOLLY12-Sheep P9-3of3  
+  
+  
+  
+
+
+
+
+Process
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to these vessels after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min             Spin 1: 13:28 - 13:33                    Spin 2: 13:49 - 13:54
+  5. Aspirated 75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Added 15 mL of fresh, warmed growth media to each 50 mL tube
+  7. Took 100 uL samples from each culture and transferred to separate wells in a 96-WP, recording the location of each sample for future plate mapping 
+  8. Gently pipette-mixed cultures using serological, before moving cell suspension back to E125s
+  9. Returned E125s to incubator 14:44
+
+37° C Incubator (# 120), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepare reagents
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 2 mL dPBS  
+\- 2 drops Nucgreen AF488 dead stain  
+Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6 months
+
+Stain plates
+
+  1. Added 100 uL dPBS into plate columns 3, 4, 9 and 10 using a multichannel pipette
+  2. Added 100 uL of dead stain solution (dPBS+Sytox) to cells
+  3. Serially diluted cell suspension by transferring 100 uL cell suspension to subsequent wells, down to 25% dilution
+  4. Stained samples with 20 uL of Hoechst stain solution
+  5. Incubated for 30 minutes in the dark at room temperature 15:02 - 15:32   
+
+  6. Centrifuged plates at 300 RCF for 1 minute 
+  7. Prepared plate maps  
+  
+Plate 1:  
+Mia output template:
+https://docs.google.com/spreadsheets/d/1zh8mY6WGfMy5hR8tEEtaRUXklDJYImdL9-fEammtaxU/edit#gid=0  
+Mia image link: https://mia-
+capture.vow.tools/#/session/recxt8WJr4erVj5h5/images  
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI and AF488 MIA macros respectively.
+  2. Downloaded and extracted the data then pasted it into the "MIA output" data workbook created in the "Staining" section.
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+
+
+
+Observations/Summary
+
+Culture for the wheat and soy condition were flipped when added to the
+staining plate. i.e., the soy was placed into A9, B9 and C9 whereas the wheat
+was placed in D9, E9 and F9.
+
+

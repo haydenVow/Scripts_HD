@@ -1,0 +1,157 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6597  
+96w Plate  
+6  
+  
+6598  
+96w Plate  
+6  
+  
+6599  
+96w Plate  
+6  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    4mL  PBST (0.2% Triton-X)
+
+2\. Prepared    4mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix:  7.5 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  30 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  1.462.5  mL Blocking
+Buffer
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formStock  
+Dilution in blocking buffer  
+MF20  
+IgG2b2468  
+Primary, 1:50  
+MyoGIgG11562  
+Primary, 1:200  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  15:51 - 16:06
+pm  (#6597) 15:54 - 16:09 pm  (#6598) 15:58 - 16:13 pm  (#6599)  
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):
+
+  16:07 - 17:06 a/pm #6597  
+
+  16:10 - 17:11 a/pm #6598  
+
+  16:14 - 17:12 a/pm  #6599
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with 50uL of primary antibody at 4ºC overnight:   17:16 -
+Overnight a/pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Buffer4442  
+  
+PBST (0.2% Triton)4441  
+  
+dPBS  
+  
+Primary Antibody Mix  
+  
+Primary Antibody Mix (if used)  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+### N/A
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

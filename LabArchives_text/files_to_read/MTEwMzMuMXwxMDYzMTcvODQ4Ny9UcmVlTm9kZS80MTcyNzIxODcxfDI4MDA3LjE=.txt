@@ -1,0 +1,96 @@
+Performed by: EC
+Harvested vessel ID(s)  
+Seeded vessel IDs  
+Condition  
+Location  
+  
+12574-Nuvonis Quail Suspension341-P-1of1  
+
+12577-Nuvonis Quail Suspension341-P-2of2  
+
+12576-Nuvonis Quail Suspension341-P-1of2
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Shaking incubator 146  
+  
+12575-Nuvonis Quail Suspension341-P-1of1  
+
+12579-Nuvonis Quail Suspension341-P-2of2  
+
+12578-Nuvonis Quail Suspension341-P-1of2  
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+
+
+Process
+  
+  
+  1. Transferred 7.5 mL of cell suspension from 6-well plate 12574 to E-125 flask 12576. 
+
+  2. Repeat for remaining 7.5 mL into E-125 flask 12577.
+
+  3. Transferred 7.5 mL of cell suspension from 6-well plate 12575 to E-125 flask 12578. 
+
+  4. Repeat for remaining 7.5 mL into E-125 flask 125779.
+
+  5. Took 1 x 50 uL aliquot from 1 x E125 from each condition (i.e. 1 x 50/50, 1 x 75/25) and performed 2 x cell counts, noting how healthy and viable cells appear 
+
+  6. Returned flasks to incubate at 120 RPM, 5% CO2, 37'C. 
+
+  
+
+Flask ID  
+Vicell cell density (cells/mL)  
+Vicell total cell count  
+Total cell count per condition  
+  
+12576  
+144,000  
+4,320,000  
+9,240,000  
+  
+12577  
+164,000  
+4,920,000  
+  
+12578  
+66,650  
+1,999,500  
+5,149,500  
+  
+12579  
+105,000  
+3,150,000  
+  
+  
+Viability >80% in all flasks (in average, lower in 75/25 vs. 50/50).
+
+
+Reagent info
+Reagent  
+ID  
+  
+50/50 RPMI/CHO Nuvonis medium (included GFs)  
+M12808  
+  
+75/25 RPMI/CHO Nuvonis medium (included GFs)  
+M12807  
+
+
+Observations
+  
+  
+Cells in both 50/50 and 75/25 looked clumpy and had formed aggregates however,
+I decided not to strain the cell suspension to avoid losing so many of our
+cells.The aggregates in 50/50 were much smaller in size than those in 75/25.
+Both in 50/50 and 75/25 cells were mostly viable and their membrane was round
+and smooth. Important to note that there were fewer cells in 75/25 when
+compared to 50/50 and there was more cell debris, as well as some (not many)
+cells with intracellular granules (most likely dead or about to die).
+
+
+Nuvonis protocol

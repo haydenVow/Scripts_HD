@@ -1,0 +1,41 @@
+
+
+## Completed by: Katie
+
+
+Aim/Purpose: To adapt fibroblasts isolated straight from the biopsy to suspension culture
+Hypothesis: Fibroblasts recently isolated from the biopsy will adapt to suspension culture more easily
+Technical Gap: We have only ever tried to adapt fibroblasts to suspension culture after they have been extensively cultured in adherent culture.
+Method/Procedure
+
+
+  1. [Experiment Plan]
+  2. [Peer Review]
+  3. [Make amendments and Sign off] 
+  4. [Thursday July 8th] Thaw 1 x vial of chicken fibroblasts into 1 x T175 into D/F + 10% FBS + 1x PS
+  5. [Thursday July 8th] Thaw 1 x vial of chicken fibroblasts directly into 25mL of DMEM + 10% FBS + 1x PS in 1 x E125 flask and set to shake, ideally at 130rpm. This flask should be fed & counted every 48hrs as per the rest of the suspension cultures.
+  6. [Friday July 9th] Perform a 50% feed of adherent chicken fibroblasts
+  7. Expand fibroblasts. Feed every 3 days. When there are alpaca biopsy fibroblasts available, transition the cells into suspension culture.
+  8. [Day 0 - Wednesday July 14th] Transition the fibroblasts into suspension culture. Use a 50mL mini-bioreactor. Count the number of chicken and alpaca fibroblasts, divide those numbers in two, and seed two conditions for each species. Seed at ~500k cells/mL (may need to adjust based on the number of cells)  
+  
+Include the following conditions:
+
+    1. Chicken fibroblasts: Control. D/F + 10% FBS + 1x PS
+    2. Chicken fibroblasts: Best Guess. D/F + 10% FBS + 1x PS + 1:100 anti-clumping agent + 10uM ROCKi + integrin binding peptides
+    3. Alpaca fibroblasts: Control. D/F + 10% FBS + 1x PS
+    4. Alpaca fibroblasts: Best Guess. D/F + 10% FBS + 1x PS + 1:100 anti-clumping agent + 10uM ROCKi + integrin binding peptides
+  9. [Day 2] Perform a 50% feed. Count cells & assess viability.
+  10. [Day 4] Repeat 50% feed and cell count process every 48hrs for ~30 days or until the cells appear adapted, whichever comes first.
+  11. Track viability and cell numbers overtime to record the amount of "recovery" during the adaptation process.
+  12. If fibroblast viability is high but proliferation rates are non-existent or low, 100ng/mL of IGF-LR3 and 100ng/mL of FGF can be added to kick-start fibroblast proliferation.
+
+After the lab work is complete:
+
+  1. [Report writing (Draft)]
+  2. [Review & fill out Report (Full)]
+  3. [Ensure all lab books are complete & assign for review]
+  4. [Review Lab Books, results, report]
+  5. [Make necessary amendments and confirm with reviewer that experiment is complete
+  6. [Release note on Project Updates]  
+
+

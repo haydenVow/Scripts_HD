@@ -1,0 +1,23 @@
+
+
+  
+
+Fix  
+Process:
+
+  1. Removed plate(s) `culture IDs:`   6815     
+
+  2. Removed media from all wells of the 96 well plate.
+  3. Washed wells 3 times in  220ul of PBS for  `5`  minutes at room temperature.
+    1. `08:17`
+    2. ` 08:22`
+    3. `08:27`
+  4. Added    100ul of 2% PFA to each well and incubate for  `15`  min at room temperature.  `08:30-08:45`
+  5. Washed pieces 2 x more for   `5`    minutes in PBS at room temperature.`08:45  and 08:50`
+  6. ``Replaced with fresh PBS and Parafilmed plate and stored in bio materials fridge.
+  7. PBS 4809  
+  
+PFA 3113  
+  
+
+

@@ -1,0 +1,153 @@
+
+
+Perform passage using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by:NH  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+3 x T175  
+11959-11961  
+5xT75s12041-12045  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea10959  
+  
+dPBS (for washing & neutralising)m12072  
+  
+Growth Mediam12221  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of one culture to assess confluence (100% confluent)
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     30    mL 
+  2.  dPBS (for neutralising):     30    mL
+  3.  dPBS (for washing):     30    mL
+  4. Growth media (for seeding):     3x30    mL across 3xT175s  
+
+Aliquots left at room temp, Flasks placed at 30 degrees, 5% CO2 until seeding
+post cell count (see below)
+
+
+
+
+4\. Removed vessel(s) from the incubator  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+7\. Neutralised with     10mL     dPBS and combined cell suspension into 2 x
+50mL    tube.
+
+8\. Centrifuged at 50 x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     4    mL     dPBS     media.
+
+11\. Aliquoted     20uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet.
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=3628:3628
+
+Total cell number was:    11,208,000  
+
+Aliquoted 892uL of cell suspension (2.5x10^6 cells) into the pre warmed 60mL
+aliquot of growth media.
+
+Mixed the cell suspension and distributed it across 5xT75 flasks (12mL each,
+500,000 cells per flask).
+
+4 million cells were used in the experiment EPIC31347 CRISPR immortalisaiton
+round 1. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/MTAzNTUuODAwMDAwMDAwMDAxfDEwNjMxNy83OTY2L1RyZWVOb2RlLzM0ODUxMjgwMDl8MjYyODcuOA==
+
+  
+
+
+
+
+Observations/Summary:
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

@@ -1,0 +1,208 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL VB  
+
+
+
+
+Passage culture IDs:
+
+Harvested flask typesHarvested flask IDsMedia/conditionsSeeded flask types  
+Seeded flask IDs  
+Media/conditions  
+  
+T25
+
+8313-F_DOLLY12-Sheep P10-1of2  
+8314-F_DOLLY12-Sheep P10-2of2
+
+  
+
+D/F+10%FBS+1xP/S  
+T258419-F_DOLLY12-Sheep P12-1of2  
+8420-F_DOLLY12-Sheep P12-2of2  
+D/F+10%FBS+1xP/S  
+  
+  
+8315-F_DOLLY12-Sheep P10-1of2  
+8316-F_DOLLY12-Sheep P10-2of2
+
+  
+
+D/F+2.5%FBS+7.5%KSR+0.25xP/S  
+  
+8421-F_DOLLY12-Sheep P12-1of2  
+8422-F_DOLLY12-Sheep P12-2of2  
+D/F+1%FBS+9%KSR+0.1xP/S  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleAliquot 5780  
+  
+dPBS (for washing & neutralising)Aliquot 5495  
+  
+D/F+10%FBS+1xP/S  
+Mix 6934  
+  
+D/F+10%KSR  
+Mix 6810  
+  
+IGF-2  
+Mix 3644  
+  
+FGF-B  
+Mix 5077  
+  
+PDGF-BB  
+Mix 6805  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2-3 images of each vessel with microscope on phase setting at 10X
+magnification.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE: 13 mL in 1 x 15 mL tube 
+  2.  dPBS (for neutralising & washing):  13 mL in 1 x 50 mL tube
+  3. Growth media:
+    1. 11 mL x D/F + 10%FBS + 1xP/S  
+
+    2. 11 mL x D/F + 9%KSR + 1%FBS + 0.1xP/S + FGF-B + IGF-LR3 ~~\+ PDGF-BB  ~~(out of stock)   
+To make this aliquot, combined:
+
+      * 9.9 mL of D/F + 10%KSR with 1.1 mL of D/F + 10%FBS + 1xP/S
+      * Added 5.9 uL FGF, 10.89 uL IGF ~~and~~ ~~24.75 uL PDGF~~ to aliquot (as shown in table below). These growth factors are located in the top drawer of the right hand -20 freezer in Main Lab. See "Media/reagents used" table above to see Mix IDs to ensure you are using the correct growth factors, as there are many with similar names e.g. IGF-2 and FGF-A. 
+
+Time that all aliquots were placed in the incubator to warm before use  13:55  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+Total (mL)9.9  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.000030.050.0002975.94  
+IGF10.000110.10.00108910.89  
+PDGF0.0000250.010.000247524.75
+
+
+  
+  
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was (FBS \+ KSR cultures)    15:12 - 15:25  
+  2. Start/Finish for TrypLE was (FBS cultures)   15:17 - 15:32     
+
+7\. Neutralised with    3    dPBS and combined cell suspension into     4 x 15
+mL    tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation (KSR FBS) was     15:31 - 15:36  a/pm 
+  2. Start/Finish time for centrifugation (FBS) was     15:40 - 15:45  a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL  respective growth  media  
+
+11\. Aliquoted  10uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Added data to doubling spreadsheet:
+https://docs.google.com/spreadsheets/d/1We8TyzxliP8WTA0vCIwBTs3LNHsSLCO5C9Aj8zYYcsM/edit#gid=0
+
+  1. Total cell numbers were: 
+    1. 8350 (D/F + 10%FBS +1xP/S): 266,000
+    2. 8351 (D/F + 10%FBS +1xP/S): 288,000  
+
+    3. 8352 (D/F+5%FBS+5%KSR+0.5xP/S): 334,000  
+
+    4. 8353 (D/F+5%FBS+5%KSR+0.5xP/S): 264,000  
+
+  2. Volumes of cell suspension required for subculture were:
+    1. 8350 (D/F + 10%FBS +1xP/S):   uL
+    2. 8351 (D/F + 10%FBS +1xP/S):   uL  
+
+    3. 8352 (D/F+2.5%FBS+7.5%KSR+0.25xP/S): 269 uL  ~~  
+~~
+
+    4. 8353  (D/F+2.5%FBS+7.5%KSR+0.25xP/S):  341 uL   
+
+  3. Cell density per vessel:    7000 cells / cm2   
+
+
+
+
+13\. Transferred   above volumes  of cell suspension to the pre-warmed    4 x
+5mL Growth media:  
+
+14\. Transferred cell suspension into the   4 x T25  vessel.
+
+15\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) incubator 80
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary: N/A  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable)
+
+MIA Links  
+
+8350 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recfYZi0uOb03v8T7/images
+
+8351 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recsWvqD2Ahhr035h/images
+
+8352 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/rece7lBs9lKD7zzeZ/images
+
+8353 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recK6Dixvi9sA2L88/images
+
+

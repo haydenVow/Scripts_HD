@@ -1,0 +1,188 @@
+
+
+# Harvest 10x10CF - Untreated  
+
+* * *
+
+Date: 03/06/21  
+Start time: 7:45am  
+End time:
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s  
+  
+6906-DOLLY12-Sheep P11-1of18  
+6908-DOLLY12-Sheep P11-3of18  
+6909-DOLLY12-Sheep P11-4of18  
+6911-DOLLY12-Sheep P11-6of18  
+6916-DOLLY12-Sheep P11-11of18  
+6918-DOLLY12-Sheep P11-13of18  
+6919-DOLLY12-Sheep P11-14of18  
+6920-DOLLY12-Sheep P11-15of18  
+6921-DOLLY12-Sheep P11-16of18  
+6922-DOLLY12-Sheep P11-17of18  
+6923-DOLLY12-Sheep P11-18of18  
+  
+  
+  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+  
+
+Cell Harvest  
+  
+If harvesting flask type
+
+Then for each flask use...  
+dPBS @ 37CTrypLEdPBS @ Ambient Temp  
+T17510 mL15 mL10 mL  
+2CF100mL100mL100mL  
+4CF200 mL200mL200 mL  
+5CS250mL250mL250mL  
+10CS500mL500mL500mL  
+  
+  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  3. Aliquot required volume of dPBS (37C), dPBS (ambient temp) and TrypLE in separate sterile pots.  Refer to Table above for required volume.
+  4. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 8:00am  
+
+  5. Transfer aliquots and flasks required for harvest into the BSC.
+  6. Discard growth media from each flask.
+  7. Wash with warmed dPBS, then discard.
+  8. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  9. Place in the incubator at 37C. After 10 minutes, remove flasks and agitate to encourage maximum dissociation. Incubate further until maximum dissociation level is reached.  
+     NOTE: The flasks must be removed from the incubator within 18 minutes of initial incubation of TrypLE containing flasks. TyrpLE was extended to 25 minutes due to cells still not fully dissociated!!!  
+`     Time stamps`:
+
+    1.  1st = 8:25 - 8:43
+    2.  2nd, 3rd = 8:37 - 8:55 - 9:02am
+    3.  4th = 8:44am - 09:02 am - 9:09am
+    4.  5th, 6th = 08:46am - 09:06 am - 9:16am
+    5.  7th, 8th = 8:55am - 9:13am - 9:20am
+    6. 9th, 10th = 9:03am - 9:21am - 9:28am
+  10. Aspirate the TrypLE solution and collect into 1L Bottle. 
+  11. Dispense ambient temperature dPBS to create a final wash for each of the flasks. Shake flasks well to ensure collection of as much cells as possible.
+  12. Pour PBS wash into the same 1L bottle containing TrypLE'd cells. 
+  13. Aliquot the 1L cell suspension mix into 20x50mL tubes.
+  14. Centrifuge at 700 x g for 5 minutes. ``  
+`      Time stamp` :
+
+    1.  Prod lab_1 = 09:06 am  
+
+    2. Library lab_1 = 09:04 am  
+
+    3.  Library_2 = 09:14 am  
+
+    4.  Production_2 = 09:16  
+
+    5.  Library_3 = 09:20 am  
+
+    6.  Production_3 = 09:23 am
+    7.  Production_4= 9:30am
+    8.  Production_5=9:39am
+    9.  
+    10.  
+    11.  
+    12.  
+    13.  
+    14.   
+
+  15. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Transfer tubes into the Library lab BSC.
+  16. Aspirate the supernatant from the tubes. Discard supernatant. Remove as much remaining supernatant with a 1mL pipette.
+  17. Resuspend each pellet with 1mL media (PRF DMEM/F12 + 10% FBS) and combine into 500mL pot or bottle. Be sure to record exact amounts being combined into this pot for an accurate cell count. 
+  18. Wash out all 50mL tubes with 10mL media per 20x50mL tubes and combine into the same 500mL pot.
+  19. Once all combined, conduct a cell count.   
+       Note: take 2x 100uL aliquots for 2 counts. Do a 1:10 or 1:20 dilution of these with Trypan for counting.   
+
+### Cell Count
+
+  1. Perform cell count (Refer to VSOP-007) and enter details into Production Cell Count Calculator: VBLT-001  
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+Harvest DataCount 1 Count 2  
+Total resuspension volume333.4 mL  
+  
+  
+  
+Extracted volume from total suspension
+
+2 x
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+200 uL  
+200 uL  
+  
+Volume of 4%Trypan blue  
+2x dilution in 50 uL Trypan blue, then a 5x dilution in 80 uL Trypan blue. 50
+uL sample added to 2x dilution tube, then 20 uL of this was added to the 5x
+dilution tube.  
+2x dilution in 50 uL Trypan blue, then a 5x dilution in 80 uL Trypan blue. 50
+uL sample added to 2x dilution tube, then 20 uL of this was added to the 5x
+dilution tube.  
+  
+Dilution factor  
+2x then 5x  = 10x total  
+2x then 5x  = 10x total  
+  
+Total cell count  
+2,097,100,000  
+2,096,900,000  
+  
+Average Cell Count2,077,000,000  
+  
+  
+  
+  
+###  
+
+### Re-pellet and Weigh Final Yield
+
+  1. Label and Record the weight of 1 sterile 225 mL centrifuge tube and set aside. Record details in Table.  
+  2.  Transfer resuspension media into new 2x225mL tubes.
+  3. Centrifuge at 700 x g x 5 minutes. 
+    1. 13:55 pm start time
+  4. Aspirate the supernatant from the tubes, leaving approximately 5mL of resuspension media.
+    1. It was noticed that the supernatant was still quite cloudy, so it we decided to spin down the supernatant in 6x 50 mL tubes containing 44.5 mL each to see what kind of pellet we got from them
+    2. Spin time start: 14:16 pm
+    3. The pellets in each tube were large enough to want to include them in the final sample
+  5. Re-suspend the cell pellet in the tubes and combine into the weighed tube. (Also use 5-10mL media to wash out the 50mL tubes and combine into the weighed tube)
+  6.  This concentrated cell suspension may be stored at 4'C until ready for pelleting, or continue with pelleting. 
+  7. Centrifuge at 700 x g x 5 minutes. 
+  8. Aspirate the supernatant from the tubes. Remove as much remaining supernatant with a 1mL pipette.
+  9. Record the final weight of the cell pellet. Enter details in Table. 
+  10. Immediately provide to the food team for testing.
+
+DescriptionWeight (g)  
+Pellet Name Untreated Fibroblasts  
+  
+Initial Weight of Tube32.949 g  
+  
+Weight of Tube + Cells44.908 g  
+  
+Weight of Cell Pellet11.959 g  
+  
+  
+  
+
+

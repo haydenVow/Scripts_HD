@@ -1,0 +1,91 @@
+
+
+1 technical replicate from each well was analysed using MIA microcarrier cell
+count (plastic).
+
+Cell count/microcarrier data was entered in GraphPad Prism to generate graph
+and run analysis.
+
+Significant difference was defined as p<0.05
+
+Serum refers to DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+Outliers were removed using ROUT method (Q=2%)
+
+  
+
+Day 1
+
+    
+
+  
+SerumE89CE810CE811B  
+Number of values178179161156  
+  
+  
+  
+  
+  
+  
+Minimum1.0000.0000.0000.000  
+Maximum23.0019.0018.0018.00  
+Range22.0019.0018.0018.00  
+  
+  
+  
+  
+  
+  
+Mean8.1808.5148.0757.801  
+Std. Deviation4.4013.4953.2993.240  
+Std. Error of Mean0.32990.26130.26000.2594  
+  
+  
+
+A ordinary one-way ANOVA was used with Tukey's test for multiple comparisons.
+There was no significant difference in cell counts between different media
+conditions on day 1.
+
+  
+
+Day 4  
+
+
+
+    
+
+  
+SerumE89CE810CE811B  
+Number of values177172179158  
+  
+  
+  
+  
+  
+  
+Minimum0.0000.0001.0000.000  
+Maximum18.0015.0019.0019.00  
+Range18.0015.0018.0019.00  
+  
+  
+  
+  
+  
+  
+Mean5.8876.5707.9837.095  
+Std. Deviation3.9433.0513.6343.705  
+Std. Error of Mean0.29630.23270.27160.2948  
+  
+A ordinary one-way ANOVA was used with Tukey's test for multiple comparisons
+with a single pooled variance. There was a significant difference between
+serum vs E810C and E811B. There was also a significant difference between E89C
+vs E810C.
+
+ An ordinary two-way ANOVA was performed to compare cell counts between day 1
+and day 4. Sidak's multiple comparison test with a single pooled variance was
+also performed. There was a significant difference between day 1 and day 4 in
+serum and E89C media.
+
+  
+
+

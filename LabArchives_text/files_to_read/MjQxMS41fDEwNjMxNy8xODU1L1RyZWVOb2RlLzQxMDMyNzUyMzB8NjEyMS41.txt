@@ -1,0 +1,109 @@
+
+
+6833-F_DOLLY12-Sheep P10-1of1 - ACA  
+6835-F_DOLLY12-Sheep P10-1of1 - Revitacell
+
+
+
+
+CDMA/ CellTracker staining
+
+  1. Aliquotted 10mL of each media, and placed in the water bath 10:30
+  2. Diluted Cell tracker stock to 10mM in DMSO (0.00005g in 10.756ul). 10:35
+  3. Diluted the stock solution of Celltracker to a final working concentration 5mM in DMEM/F12 10:45
+  4. Warm working Solution to 37°C. 10:45-11:00
+  5. Centrifuged suspension cultures for 5 minutes at 650g at room temperature. 10:50-10:55
+  6. Resuspend the pellets well in 1ml of DMEM/F12 11:00
+  7. Took 2x samples to perform count (10ul each). 1 sample will be used for trypan blue staining and the other for live/dead.  
+  8. Centrifuge cells for 5 minutes at 650g 11:05
+  9. Resuspend the remaining cells into their respective medias and return to the culture conditions. 11:10
+  10. Resuspend the cells for cell count in 200ul of pre-warmed Celltracker Solution. 11:10
+  11. Incubated 30 minutes under culture conditions. 11:10-11:40
+  12. While incubating, created 2 μg/mL Propidium Iodide (PI) working solution in DMEM/F12 (2ug in 1ml) - NOTE: I later realised that the PI stock solution had already been diluted, so the working solution I created was only 0.4ug/mL 
+  13. After 30 minutes, added 200ul  PI solution (giving final concentration of 1ug/ml) and mixed well. NOTE: Due to the error mentioned previously, this ended up being .2ug/mL total 
+  14. Incubate in PI for 5 min 11:40-11:45
+  15.  ~~Centrifuged the cells for 5 minutes at 650g to remove the staining mix.  ~~This step could not be performed because we are unable to spin eppendorf tubes in our centrifuge (we don't have inserts for it) ~~~~
+  16. Dispense cells onto haemocytometer slide for counting.  
+  17. Observed under fluorescence microscopy. (see observations) 
+
+
+
+
+Growth Media:
+
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S + 1:100 Anti-clumping agent + 100ng/mL FGF + 100ng/mL IGF-LR3
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S + 1:100 RevitaCell + 100ng/mL FGF + 100ng/mL IGF-LR3
+
+
+ Reagent  
+ ID  
+  
+ Cell Tracker  
+ S 911  
+  
+ PI  
+ S 1129  
+  
+ DMEM/F12  
+ M 5605  
+  
+ Anticlumping Media 5723  
+ Revitacell Media 5725
+
+
+  
+  
+Trypan Blue staining  
+
+1\. Performed live/dead count using the additional10ul sample taken during the
+CDMA/PI staining, with trypan. This stain was performed while the CDMA was
+incubating. 11:20
+
+See spreadsheet here:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+
+
+
+Observations/ complications:
+
+- Very few cells remain in culture. Cells in live/dead stain were very dilute, which made performing a cell count on stained cells impossible.  
+\- PI stain was very dilute due to not knowing that the stock solution had
+already been diluted previously.  
+\- No CDMA or PI staining was observed (also no cells seen on the
+haemocytometer)  
+\- Trypan blue staining showed very few healthy/ viable cells.
+
+  
+
+
+1:100 Anti-clumping agent  
+Sum (cells total)  
+122,750  
+1:100 Anti-clumping agent  
+Viability30.69%  
+1:100 RevitaCell  
+Sum (cells total)  
+198,000  
+1:100 RevitaCell  
+Viability22.49%  
+  
+Cell counts obtained using trypan blue and manual counts. NOTE: It was highly
+subjective as to which cells were alive versus dead, or even cells versus
+debris. Cells do not look healthy (see below for images).
+
+  
+
+
+
+
+Images: trypan blue staining
+
+6833 (ACA media): https://mia-
+capture.vow.tools/#/session/rec2rvR1sIsd9nDp0/images
+
+6835 (Revitacell media): https://mia-
+capture.vow.tools/#/session/recfi2hkzgk2asM3V/images
+
+

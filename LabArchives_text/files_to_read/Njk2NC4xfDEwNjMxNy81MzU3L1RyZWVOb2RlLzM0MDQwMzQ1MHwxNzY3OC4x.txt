@@ -1,0 +1,28 @@
+
+
+  1. Prior to imaging, leave the plate open in the BSC ~10 minutes before imaging to evaporate condensation on the lid of the plate, which may affect imaging. Alternatively, wipe the condensation away with ethanol. 
+  2. Scan 4 x 384-well plates on Zaber imaging platform on Phase, 5x Magnification
+    * Exposure: 35 ms
+    * Imaging sites: 2 rows 1 column per well
+
+  * Note: remember to add '-SCC' to the end of the ID (in the entry box labelled 'directory root') to ensure these images are sent to the ML Model.
+  * Follow Zaber image user guide  
+Zaber image user guide
+
+Plate IDTime startedTime finished  
+9080-F_CHOMP09-Crocodile P1-1of414:00  
+14:11  
+  
+9081-F_CHOMP09-Crocodile P1-2of414:14  
+14:25  
+  
+9082-F_CHOMP09-Crocodile P1-3of414:26  
+14:38  
+  
+9083-F_CHOMP09-Crocodile P1-4of414:39  
+14:52  
+  
+  
+  
+
+

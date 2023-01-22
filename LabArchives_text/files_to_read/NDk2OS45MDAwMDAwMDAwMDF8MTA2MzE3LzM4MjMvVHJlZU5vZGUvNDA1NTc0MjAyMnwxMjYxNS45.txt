@@ -1,0 +1,261 @@
+Aim:
+
+
+To screen 24 maturation inducing DSD factors (separately and in high to low
+concentrations) and identify factors to take towards the final DSD.
+
+
+Hypothesis:
+
+
+This experiment will shed light on whether high concentrations and/or
+combination effects of our factors are causing death/inhibiting maturation.
+
+
+Technical gap:
+
+
+In our first maturation DSD experiment, we observed inhibited maturation and
+cell death in most condition wells while control wells look viable.
+Currently, we are not clear on whether the cell death observed in most
+conditions in DSD #1 is due to:
+
+  * Excessively high concentrations of each factor for cell culture.
+  * Factor-factor effects from multiple combinations.
+  * High pH imbalances due to the acidic nature of many factors.
+
+
+Plan:
+
+
+Background:
+
+By screening all 24 factors individually and at multiple lower concentrations,
+we should be able to screen and identify which factors to take forward to a
+final DSD which assesses their combinatorial effects. Four iterations of 1:5
+dilutions of the recommended concentrations will enable us to find the optimal
+concentration for any beneficial factor. The statement we confidently wish to
+answer at the end of this experiment is:
+
+" Factor _ in a concentration of _ mg/mL promotes/inhibits a _% increase in
+the maturation process "
+
+This experiment will implement each factor at the recommended concentrations
+as a control for what would be used in a DSD otherwise. The most diluted
+concentration of the factor should serve as a "negative control" where we
+ideally would see little to no increase in maturation. Thus, by specifically
+outlining clear boundaries of the concentration range, we will be able to
+identify the range where the factor should perform optimally.
+
+
+
+
+Experimental timeline (in light of the COVID-19 situation)
+
+  
+
+Date
+
+Task
+
+Scientists required
+
+Point estimate  
+  
+07/09
+
+  * Check to ensure all factors have arrived and are in stock in the Main Lab
+
+Preferably Shaleen and Tim but also can be performed by a non-specialised
+member
+
+1  
+  
+7/09  
+(D0)
+
+  * Seed out C2C12s 96 wp of conditions and a 96 wp controls @5k per well
+
+Any scientist
+
+1  
+  
+8/09  
+(D1)
+
+  * Make working stocks of all 24 factors and perform serial dilution in 96 well media block.
+  * Perform feed and switch cells to diff. media (D0)
+
+Shaleen and Tim
+
+6  
+  
+9/09 (D2)
+
+  * 100% feed using media block
+  * Zaber scan
+
+Any scientist
+
+1  
+  
+10/09 (D3)
+
+  * 100% feed using media block
+  * Zaber scan
+
+Any scientist
+
+1  
+  
+11/09 (D4)
+
+  * 100% feed using media block
+  * Zaber scan
+
+Any scientist
+
+1  
+  
+12/09 (D5)
+
+  * 100% feed using media block
+  * Zaber scan
+
+Any scientist
+
+1  
+  
+16/09
+
+  * Fix and stain 
+
+Preferably Shaleen/Tim, however can be any scientist
+
+5  
+  
+N/A
+
+  * Results analysis and writeup
+
+Shaleen and Tim
+
+4  
+  
+  
+
+
+
+
+Day < 1: Making up stocks in E6:
+
+  * Make up 48mL of E6 (1X P/S) (24 conditions x 2 mL each = 48 mL)
+  * Make concentrated stock solutions in 1.8mL microfuge tubes as directed by the DSD mixing spreadsheet here (factors in DSD #1) and here (factors in DSD #2) at the target STOCK concentration.
+
+  
+
+  * Figure 1: The respective stock concentrations in DSD #1  
+  
+Figure 2: The respective stock concentrations in DSD #2  
+  
+  
+
+  
+
+  * In 24 separate 1.8mL microfuge tubes, add the designated amount of concentrated stock of each factor to a pre-aliquoted volume of E6 as per the spreadsheet. This will be the working stock (1X) concentration.
+  * Some concentrated stocks will require a 1:10 dilution due to the initial volume to add to E6 is < 1uL.
+  * Sterile filter each of these working stocks. 
+  * Aliquot these into a designated 96-well deep well media block for serial dilution.
+
+
+
+
+Day < 1: Serial dilution of working stocks  
+  
+Figure 3: Plate map showing the segmentation of the factors from DSD #1 and
+DSD #2  
+  
+  
+
+  * Row A and Row E contain the concentrated stock that we have used/planning to use in DSD #1 and DSD #2.
+  * These will be serially diluted in several rows underneath to make 1:5 dilutions in each iteration (see table below)
+
+Row
+
+Desired dilution
+
+Volume taken from previous dilution
+
+E6 needed
+
+Total volume  
+  
+A/E
+
+Parent
+
+0
+
+0
+
+1.66 mL  
+  
+B/F
+
+1:5
+
+260uL
+
+1.14 mL
+
+1.4 mL  
+  
+C/G
+
+1:25
+
+260uL
+
+1.14 mL
+
+1.4 mL  
+  
+D/H
+
+1:125
+
+260uL
+
+1.14 mL
+
+1.4 mL  
+  
+  
+
+  * Fill all wells except Rows A and E with 1.14mL of E6.
+  * Fill rows A and E of the deep well plate with 1.66mL of sterile working stocks.
+  * Perform serial dilutions by transferring 260uL from row A/E to the row beneath (B/F) which contains 1.14mL of E6.
+  * Repeat for remaining wells as depicted by table.  
+  
+
+
+
+
+Day 0 - 7: Differentiation and maturation
+
+  * Deep well media block should contain more than enough media for 7 days of differentiation (< 1mL).
+  * Block should be sealed with adhesive rubber mat for sterility and foil wrapped to protect light sensitive components from fluorescent light.
+  * Ideally, plates should be Zaber scanned every day.
+  * Feed plates with 140uL/well of the appropriate condition by performing a 1 to 1 direct transfer using a multichannel pipette each day.  
+
+
+
+
+Day 8: Fix, stain and analysis
+
+  * Fix plate with 4% PFA and then proceed with primary and secondary staining as per standard protocol.
+  * Zaber scan plate using AF488, AF555 and DAPI fluorescent channels.
+  * Run images through %MyoG macro embedded in MIA capture to determine MyoG content in each well
+  * Identify well performing factors at the respective concentrations.
+
+

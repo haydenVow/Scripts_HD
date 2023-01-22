@@ -1,0 +1,36 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/21480?cf_workflow=500000005&ct_workflow=all&project_ids=16477&group_ids=5f43336f-60bb-4b55-8ad3-7a38f5c2ae7b&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+RELATED TO MILESTONE:  Q3 KR1, increase myosin expression by 2x
+
+AIM/PURPOSE: To build infrastructure allowing us to expose cells safely to
+electrical stimulation patterns at high throughput
+
+HYPOTHESIS: We can control and measure the electrical stimulation patterns
+that we are subjecting our cells to, in order to interpret biological results
+correctly. The electrical stimulation is at a level where is does not diminish
+the quality of the media or damage the stimulation infrastructure.
+
+RESULTS SUMMARY:
+
+see report
+
+CONCLUSIONS: A sterilizable electrical stimulation system was built that
+allows Vow to expose cells to multiple kinds of electrical stimulation pattern
+(DC and biphasic) without causing electrolysis or obvious damage to the
+infrastructure. In addition to a home-built e-stim electrode platelid, a
+suitable commercial system (StimJim) was identified, characterized and
+tailored to our specific needs (modifying firmware code to allow for
+continuous stimulation)
+
+NEXT STEPS:
+
+  * Test with cells to identify suitable voltages to support maturation
+  * Contemplate use of Platinum electrodes.
+  * Purchase Pulse Pal 2 (to allow for work-rest patterns)
+
+

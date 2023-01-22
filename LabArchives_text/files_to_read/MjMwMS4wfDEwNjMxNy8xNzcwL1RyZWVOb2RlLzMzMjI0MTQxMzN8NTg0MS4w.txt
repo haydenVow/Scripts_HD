@@ -1,0 +1,91 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs #6983 `from the incubator. 
+  2. Removed media and washed wells with 100uL PBS.  
+  3. Remove wash and wash once more with 100uL PBS. 
+  4. Remove dPBS and add 100uL of 4% PFA and incubate at RT for 15 minutes. 11:06 - 11:21
+  5. Remove the PFA and wash wells twice with 200ul dPBS.  
+  6. Remove dPBS and replaced with fresh 100uL of dPBS 
+  7. Store the plates at 4 degrees (Fridge 65 in the library lab) overnight parafilmed ready for immunostaining.
+
+  
+
+Parafilmed the plates and store at 4ºC in the tissue culture lab fridge for
+future imaging 11:30
+
+Fridge location/ID: Main lab staining and fixed plates fridge
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+4% PFA  
+M3108  
+  
+dPBS (non-sterile)  
+M5282  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+  
+
+  
+
+
+
+
+SOPs used: N/A  
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recU0E9k3YAmF4mAk/images  
+
+  
+
+

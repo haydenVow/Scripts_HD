@@ -1,0 +1,40 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/20510/epic20510-fgf-peprotech-vs-
+reprokine?cf_workflow=500000005&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recbXT8jd7c3YoFBR?blocks=hide
+
+RELATED TO MILESTONE:  Please provide the milestone that this EPIC is
+progressing towards
+
+AIM/PURPOSE: To determine whether FGF from Reprokine slows cell doublings
+and/or causes cell death when used in E810C (as opposed to using FGF from
+PeproTech).
+
+HYPOTHESIS: Cells growing in E810C with FGF from PeproTech will have faster
+doubling rates than cells in E810C with FGF from Reprokine.
+
+RESULTS SUMMARY: Cells in both E810C media conditions (PeproTech and
+Reprokine) appeared dead after 48 hours in ACF media.
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+CONCLUSIONS: One of the ingredients in our ACF media may be causing cell death
+due to its concentration or how it was reconstituted.
+
+NEXT STEPS: Investigate all ACF media ingredients to check the brand,
+catalogue number, reconstitution, and concentration. Compare these between
+experiments where E810C performed well with experiments where it did not.
+
+

@@ -1,0 +1,91 @@
+
+
+## Performed by: LL, BT, AK  
+
+
+
+
+  * Due to lower than expected cell harvest, rows G & H and wells D5 & D7 are now serum and ACF Cell Free scaffolds, respectively (well G1 accidentally received some cell suspension so will be discounted) 
+
+
+
+
+Seeding
+
+Cell requirements
+
+Average total cells in ACF suspension : (11200000+12200000)/2 = 11,700,000
+
+Average total cells in serum suspension : (6950000+7350000)/2 = 7150000  
+
+Link to harvest lab book: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTg2NC4yfDEwNjMxNy8xNDM0L1RyZWVOb2RlLzM2OTczODMwMzB8NDczMi4y
+
+Cell suspension required
+
+NOTE: ideally wanted to seed @ 1M cells per scaffold, but our limiting factor
+(serum-control cell count) meant that we are seeding @ 0.75M per scaffold  
+
+Condition (ACF)   16   wells x    0.75M   cells =   ~12 M cells   : Total cell
+suspension required:  total suspension   uL  
+
+Condition (serum)   8   wells x    0.75M   cells =   ~6 M cells   : Total cell
+suspension required:   remaining suspension after removing 804 uL  
+
+24WP (serum)   24   wells x    47,916   cells =   1.15 M cells   : Total cell
+suspension required:  804    uL  
+
+  
+
+Media requirements (pre-warmed)
+
+Re-suspension of cell pellet:
+
+(Note: typically between 50 - 60 uL of growth media for pellet re-suspension)
+
+Total media required (condition   ACF   ):   16   well x    96WP   plate x
+50 uL  growth media =     800 uL  
+  
+Total media required (condition   serum   ):  16   well x   96WP   plate x
+50 uL growth media =     400 uL  
+  
+Total media required (condition   serum (24WP)  ):   24   well x    24WP
+plate x   0.5 mL growth media =     12 mL  
+  
+
+Media top up :
+
+(Note: typically between 210 - 230 uL of growth media for top up, however it
+can be more or less depending on the size of the scaffold)
+
+Total media required (condition   ACF  ):   16   wells x    96 well  plate x
+0.180 mL growth media =     2.88  mL  
+  
+Total media required (condition  serum   ):   8   wells x    96 well  plate x
+0.180  mL growth media =     1.44 mL
+
+
+
+
+  
+
+  1. Transfer the above volume of cell suspension into a 15 mL centrifuge tube
+  2. Centrifuge at 650 x g for 5 minutes :    16:29     
+
+  3. Aspirate supernatant 
+  4. Resuspend cell pellet in the corresponding amounts of media. 
+  5. Seed scaffold with 50 uL of cell suspension and allow to incubate in the BSC for 30 minutes    16:41   
+  6. Top with 180 uL of media and transfer into incubator     17:00      
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...expected more cells
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+

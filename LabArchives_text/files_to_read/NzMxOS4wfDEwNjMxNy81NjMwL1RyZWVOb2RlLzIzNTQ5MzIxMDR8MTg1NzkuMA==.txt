@@ -1,0 +1,42 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/28801/mechanical-stimulation-
+study-3-cell-encapsulation-in-alginate-with-rgd-to-improve-cell-
+adhesion?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+AIM/PURPOSE: Cells did not adhere in a previous experiment due to lack of
+attachment sites. In this study we aim to identify a suitable matrix for cells
+to adhere and differentiate inside alginate hydrogels.
+
+HYPOTHESIS: A combination of gel stiffness and RGD binding sites can provide
+encapsulated cells with a suitable environment to promote adhesion and
+differentiation.
+
+RESULTS SUMMARY:
+
+no cell spreading was observed, potentially due to diffusion of RGD peptide
+out of the alginate network before cells could take advantage of the binding
+sites.
+
+CONCLUSIONS:
+
+The Hypothesis was not supported and no changes in protein expression were
+achieved, cell adhesion still has to be improved before significant changes in
+maturation can be expected.
+
+  * The addition of RGD peptide to the alginate matrix does not enable cells to adhere and differentiate regardless of gel stiffness (1% vs 2%). 
+  * Microscopy analysis after viability stain did not indicate cell adhesion and gels were hard to image due to lack of transparency and overwhelming cell numbers
+
+NEXT STEPS:
+
+  * To improve adhesion and subsequently maturation, we will need to include as an additional component to the alginate matrix:
+    * growth factors 
+    * fibroblasts
+    * covalently anchored RGD or other peptide sequences to promote adhesion
+
+  
+
+

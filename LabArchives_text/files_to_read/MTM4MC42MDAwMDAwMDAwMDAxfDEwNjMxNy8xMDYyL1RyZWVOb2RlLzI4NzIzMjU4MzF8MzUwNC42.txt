@@ -1,0 +1,40 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/18328/investigating-the-effects-of-
+creatine-in-cell-culture?ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwqEYUeUXiOogFYw/recmrYv4K8bBYPfPi?blocks=hide
+
+RELATED TO MILESTONE:  KR2 Maturation: Have live cells growing in a v2
+bioreactor that supports perfusion and demonstrates improved fusion and/or
+maturation beyond the v1 bioreactor
+
+AIM/PURPOSE: To determine what concentration of creatine is able to promote
+more fusion in DOLLY12 myoblast.  
+
+HYPOTHESIS: That the addition of creatine into our existing differentiation
+media is able to promote more fusion of DOLLY12 myoblast compared to
+differentiation media without.
+
+RESULTS SUMMARY: See Report
+
+CONCLUSIONS: We found that addition of creatine had a positive effect on
+DOLLY12 MuSC. In particular, at concentrations above 5mM creatine in E6 media,
+longer myotube formation was evident, with 9 mM creatine concentration showing
+the greatest (longer) myotube formation.
+
+NEXT STEPS:
+
+  * Re-do test with C2C12 to validate that creatine is effective in more than one cell line 
+  * Re-do test at higher concentrations of creatine to test whether more creatine results in better myotube formation  
+
+

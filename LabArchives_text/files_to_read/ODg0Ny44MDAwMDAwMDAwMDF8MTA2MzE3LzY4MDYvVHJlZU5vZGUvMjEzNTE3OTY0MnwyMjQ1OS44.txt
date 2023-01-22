@@ -1,0 +1,73 @@
+Key Result(s)
+
+
+  * Nuvonis cells were unable to survive or proliferate in RPMI or DMEM/F12 basal media.
+  * Nuvonis cells were able to survive and proliferate in Hycell CHO following an initial 2 day adaptation period.
+  * Cells grown in Hycell CHO exhibited a peak cell density of 1.385 billion cells and a max concentration of 11.5M cells/mL. The freestyle treatment displayed a peak density of 969 million cells and a max concentration of 8.07M cells/mL. 
+
+
+Discussion of Results
+
+
+In order to reduce the cost/L of growth medium, cheaper alternative basal
+mediums were investigated in this study to assess their suitability to
+maintain survive and support proliferation of Nuvonis quail fibroblast cells.
+Cells were initially thawed from vials into Freestyle 293 expression medium,
+then directly transferred into the new basal media for adaptation. Any culture
+not characterised by mass cell death, clumping or limited growth were cultured
+over a period of 30 days and harvested.
+
+  
+
+Across the first week of adaptation, both the DMEM/F12 and RPMI conditions
+exhibited mass cell death due to excessive cell agglutination. In order to
+remove these clumps cultures were strained through a 40um strainer. However
+neither of these cultures displayed promising signs of cell growth and were
+discarded after 6 days in culture (Figure 1). In a similar note, cells seeded
+into 100% Hycell CHO exhibited slow growth initially after being transferred
+into the new medium (Figure 1). However unlike the RPMI and DMEM/F12
+conditions, cells were able to survive and ultimately proliferate 2 days post
+being transferred into Hycell CHO. It is likely the cells underwent an initial
+adaptation period that resulted in slower growth when compared to the
+freestyle treatment. Fortunately, after 5 days in culture the Hycell CHO
+seeded cells proliferated to a cell density approximately 13x their initial
+concentration, indicating significant cell growth, with freestyle cells
+displaying slightly more growth in the same period. Both the freestyle and
+Hycell cells continued to proliferate and by day 12 cells in the Hycell CHO
+eclipsed the freestyle culture in terms of total cells and cells/mL. From day
+18 onwards both conditions appeared to plateau in their max density capacity.
+Cells in Hycell CHO peaked at a total of 1.385 billion cells with a density of
+11.5M cells/mL, whereas the freestyle had a peak of 969 million cells and a
+density of 8.07M cells/mL.
+
+  
+
+Figure 1: Proliferation of Nuvonis quail fibroblast cells in different basal
+growth mediums.
+
+
+Limitations
+
+
+  * This experiment did not include sufficient technical replicates to perform statistical analysis. As such, it can not be stated if one condition performed better or worse than another condition with only an n=1, only that the cells were able to survive and proliferate in the different basal mediums. n ≥ 3 remains the gold standard for statistical analysis.
+  * During the culturing period both the freestyle and hycell CHO flasks were routinely passaged into 100% fresh medium. This involved centrifuging the cells and resuspending in fresh media. A limitation of this approach is that it becomes unfeasible and impractical at larger scales >2L. Therefore the max cell density concentrations achieved in this experiment may not necessarily be able to be achieved in a traditional stirred tank bioreactor. 
+
+
+Conclusion(s)
+
+
+Of the 3 alternative basal mediums tested, only the Hycell CHO media was able
+to support growth and proliferation of the Nuvonis cells. Both the RPMI and
+DMEM/F12 appear unsuitable for Nuvonis cell growth without further
+optimisation. Additionally, compared to Freestyle 293 expression medium, cells
+grown in the Hycell CHO were able to surpass the Freestyle condition in terms
+of total cell numbers and cell per mL, reaching a peak density >10M cells/mL.
+
+
+Future Direction(s)
+
+
+  * Repeat with sufficient technical replicates (n ≥ 3) for statistical analysis to determine the performance of different basal media types relative to the control conditions.
+  * Continue optimising the basal media to wean cells off from Hycell CHO, by sequential adaptation (i.e., 50:50 RPMI:Hycell mix) or eliminating the media completely. 
+
+

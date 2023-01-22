@@ -1,0 +1,156 @@
+
+
+## Performed by: NH  
+
+
+
+
+DNA Extractions:
+
+Cell LineTreatmentDate of DNA extraction  
+CHOMP07 wild type no treatment (wild type)  
+14/2/22  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+  
+  
+
+
+
+
+PCR amplification using UNSW Nexus Gradient (device 3018.4)  
+
+CROC primers used included
+
+PTEN: (P11-P12)  
+IGFBP4: (P7-P8)
+
+AQP1: (P13-P14)
+
+* * *
+
+  1. DNA was extracted using QuickExtract by adding 25 ul to the DNA pellet
+  2. sample was placed in the nexus gradient thermo cycler with the following conditions:
+    1. 65 degrees 6 mins
+    2. 98 degrees 2 mins
+  3. The sample was brought to room temperature
+  4. Made up a master mix for 1x reaction for each primer set listed above (4 reactions total). Volumes listed below are intended for 1 reaction and 1uL of Quickextract DNA extraction was used for each PCR reaction. We also ran the DNA made yesterday using HotShot DNA extraction for comparision. 1 ul of DNA was used from this sample as well. 
+  5.   6.  Obtained 0.2 mL PCR tubes
+  7. Added 25μl of respective MM to each tube 
+  8.  Add 1μl-5 DNA from the extracted DNA samples to each tube, then add MilliQ to each tube to make a total reaction volume of 30uL.
+  9. Take to the PCR machine and set the settings to: (melting temp used 61 degrees)
+  10.   11.   
+
+  12. To visualize PCR products, make up a 2 % agarose gel in 1X TBE buffer (2 g agarose powder + 100 mL of 1 X TBE). 
+  13. 10 ul of sybrsafe was added to the to the gel prior to pouring 
+  14. The gel was allowed to set for 30 mins before being placed into the gel tank
+  15. The PCR products were run on the gel using 2 uL of loading dye mixed with 5 uL of PCR product. We also  
+    1. Lane order
+      1. Ladder
+      2. DNA negative control run on bento lab 14/2/21
+      3. PABPC1 - run on bento using HotShot DNA 14/2/21
+      4. IGFPB4 - run on bento using HotShot DNA 14/2/21
+      5. PTEN primer set 1 - run on bento lab using HotShot DNA 14/2/21
+      6. PTEN primer set 2 - run on nexus gradient using HotShot DNA 15/2/21
+      7. PTEN primer set 2 - run on nexus gradient using QE DNA 15/2/21
+      8. IGFBP4 primer set - run on nexus gradient using HotShot DNA 15/2/21
+      9. IGFBP4 primer set - run on nexus gradient using QE DNA 15/2/21
+      10. AQP1 primer set 1 - run on nexus gradient using HotShot DNA 15/2/21
+      11. AQP1 primer set 1 - run on nexus gradient using QE DNA 15/2/21
+
+
+
+
+
+
+PCR TESTING AT UNSW  
+
+  
+
+
+
+
+PCR amplification using BENTOLAB  
+
+CROC primers used included
+
+PTEN: (P9-P10 and P11-P12)  
+IGFBP4: (P7-P8)
+
+AQP1: (P13-P14)
+
+* * *
+
+  1. Quick mix DNA extractions of CHOMP07 prepared at UNSW were brought to room temperature
+  2. Made up a master mix for 1x reaction for each primer set listed above (4 reactions total). Volumes listed below are intended for 1 reaction and 1uL of Quickmix DNA extraction was used for each PCR reaction.
+  3.   4.  Obtain 0.2 mL PCR tubes
+  5. Add 25μl of respective MM to each tube 
+  6.  Add 1μl-5 DNA from the extracted DNA samples to each tube, then add MilliQ to each tube to make a total reaction volume of 30uL.
+  7. Take to the PCR machine and set the settings to:
+  8.   9.   
+
+  10. To visualize PCR products, make up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. See this tutorial for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  11. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. PCR products from IGFBP4, AQP1 and PTEN made using Quick extracted DNA amplified at UNSW were also loaded onto the gel as positive controls. 
+    1. BENTO LAB Gel loading order consisted of the following 
+      1. Ladder
+      2. IGFBP4 - BENTO
+      3. IGFPB4 - UNSW (pos control)
+      4. PTEN primer set 1 - BENTO
+      5. PTEN primer set 2 - BENTO
+      6. PTEN primer set 2 - UNSW (pos control)
+      7. AQP1 BENTO
+      8. AQP1 UNSW (Pos control)
+
+
+
+
+## Observations:
+
+There was a visual difference in banding of the amplified region depending on
+DNA extraction method used, Quickmix extractions produced a clearer PCR
+product when compared with HOTSHOT DNA extractions during testing at UNSW. As
+a result we will be moving ahead with Quickmix extractions for all further DNA
+extractions.
+
+  
+
+
+
+
+## Reference Images
+
+Gel result from the BENTO lab (see lane order above)
+
+  
+
+
+
+
+

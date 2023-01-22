@@ -1,0 +1,217 @@
+
+
+Overview for Seed Trains 10 and 11
+
+Fibroblast - Quail Nuvonis Suspension
+
+Total Weight: 853.9g
+
+For more detailed metrics see:
+https://docs.google.com/spreadsheets/d/1nFs6V6XdzsUrKO9Jsj67HbMnex1ARZ2eu5f-qC8uD5A/edit#gid=0  
+
+Batch Objectives/Outline:
+
+  * Produce as much mass as possible for Singapore tastings and product development
+
+High Level Metrics:
+
+  * Number of Harvests: 4
+    * 10L - 40.5g
+    * 130L - 488.36g
+    * 63L - 205.4g
+    * 45L - 120.4g
+  * Number of Draw and Fills: 1
+  * Number of proliferation days in STR200: 15 days
+  * Number of proliferation days in STR2000: 3 days
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Seed Train 10
+
+Expansion PhasePassage NumberProliferation DaysFlask type  
+0013xULA 6-well-plate  
+1161xE500  
+2262xE5000  
+339STR200  
+  
+
+Seed Train 11  
+
+Expansion PhasePassage NumberProliferation DaysFlask type  
+0013xULA 6-well-plate  
+1171xE500  
+2241xE5000  
+3322xE5000  
+  
+  
+  
+Seed Train 10/11
+
+  
+
+Expansion PhasePassage NumberProliferation DaysFlask type  
+441STR200  
+554STR200  
+663STR2000  
+  
+  
+
+Notable Events:
+
+  * 31/05/22: ST-10 was seeded into the STR200 at 35,000cells/mL
+  * 09/06/22: 10L of cell suspension was harvested in a sterile manner from the STR200 and spun down in the lab
+    * In previous harvests we have been getting less weight than expected from the STR200 
+    * We weren't sure if this is because are estimates are wrong or the harvesting method/use of the centrifuge was suboptimal
+    * This harvest was done to test our assumed 'cell weight'. 
+    * Results proved our assumptions were correct and that our harvesting method from the STR200 was likely suboptimal
+  * 09/06/22: After the 10L sterile harvest from the STR200, ST-11 was seeded into the STR200 effectively spiking the culture with a new population of cells 37.8g
+    * This was done because the cells in the STR200 (ST-10) were growing very slow and we wanted to perform a draw and fill the next day. It was therefore thought that adding the ST-11 cells would help boost the culture and allow them to growth enough for a draw and fill harvest the next day.
+    * This combination created the new ST10/11 culture as is consisted of cells from both ST-10 and ST-11
+    * A small portion of this harvest was also sent off for reg testing 2.7g
+  * 10/06/22: A draw and fill harvest was successfully performed. 488.36g
+    * 130L (170L total in STR200) of cell suspension was harvested from the STR200 in a sterile manner into a pelletank bag. The amount drawn out was limited by the length of the dip tube as this is where the cell suspension was being drawn out from. We pumped out until we began drawing up air.
+    * This left ~40L of cell suspension in the STR200 which was then topped up with new media back up to 180L. This new media had been made up approx. 2 days earlier and had been sitting in a palletank at room temperature before being put into the STR200.
+  * 14/06/22: ~63L of cell suspension was drawn out of the STR200 for Harvest 205.4g, ~72L was seeded into the STR2000,~45L was left in the STR200
+    * Original plan: After removing the 63L of cell suspension for harvesting, the entire remaining 117L would be seeded into the STR2000. 
+    * What actually happened: Due to a mix up in tube sizes and difficult configuration of the bioreactors in the hallway (temporary placement while the MFG box was being built) we were only able to weld onto the STR200 dip tube to pump cells into the STR2000. The dip tube only reaches down to the 45-50L mark so was not able to suck out all of the cell suspension. In future we would use the STR200 harvest line for this kind of transfer. 
+      * This error was intended to be corrected the next day and the remaining cells in the STR200 seeded into the STR2000
+    * As a result cells were seeded at a density of 112,500cells/mL in the STR2000 on this day
+  * 14/06/22: To keep the remaining cells in the STR200 happy overnight we need to change over the base bottle as the previous one was empty. When attempting to make this switch a faulty weld was produced by the Biowelder and this was not noticed until the base bottle line was being primed and NaOH began to leak out of the weld. The tubing was immediately clamped and pump stopped. We did not believe the STR200 bag was likely to be compromised but the base bottle could not be trusted. As this was already 10pm at night and there was no back up/sterilised base bottle we made the decisions to leave the STR200 without a base bottle overnight and deal with everything first thing in the morning the next day.
+  * 15/06/22:The next day the cells in the STR2000 looked happy and healthy but the cells in the STR200 had a viability of ~44%
+    * Due to the very low viability in the STR200 the decision was made not to seed these cells into the STR2000 and instead just harvest them for mass 120.4g 
+    * We initially intended to re-use this STR200 bag and fil it with fresh media and cells for the next batch, however, after the harvest we noticed that a very large percentage of the cell mass had settled on the bottom of the bag and there was no way to remove this mass from the bag other than to cut it open, therefore we could not re-use the bag for a number of reasons:
+      1. If we left the cell mass in there it would likely impact the growth of the next culture (particularly with the high volume of dead cells)
+      2. We would be lose a lot of mass if it was not collected from the bag
+    * It was decided to cut the bag open and obtain the settled cell mass which was then spun in a lab centrifuge to remove the liquid. The bag was then disposed.
+  * 17/06/22:On this morning pilot plant members identified an unusual smell in the pilot plant area and the media inside the STR2000 now resembled a cloudy, pale yellow colour (rather than the light pink colour of the media on previous days)
+    * Under the microscope no cells could be visualised, only numerous small specs
+      * These specs did not obviously resemble a contaminant or cells. This was also similar to what was seen in the previous STR2000 run and it was noted that the base palletank bag was the same one used for both runs.
+      * Suggested theories:
+        1. Some form of unfamiliar contaminant
+        2. Cells that had either exploded or shrivelled up
+    * A build up of black stuff around the bag (near the top of the media volume) and in the open filter line
+
+  
+
+  * 18/06/22:The next day the black stuff in the bag had disappeared/dissolved back into the media
+    * This suggested the black stuff was likely a precipitate from the media and not some for of contaminant
+
+  * 20/06/22: Samples were sent to Eurofins from the STR2000 and the Base palletank bag for contaminant identification and classification
+
+  
+
+A full Post Mortem of the blockers encountered when settingup/seeding the
+STR2000 can be found here: https://www.notion.so/vow/Post-mortem-
+of-14-06-22-28a0c5a50dc743409c177962da7d776d
+
+A Post Mortem of the STR2000 failure can be found here (17/06):
+https://www.notion.so/vow/2022-06-17-Post-mortem-
+STR2000-failure-22752c3f2109476683d38324c46406bd
+
+A Follow up Post Mortem of the FULL STR2000 failure can be found here (22/06):
+https://www.notion.so/vow/2022-06-17-Post-mortem-
+STR2000-failure-22752c3f2109476683d38324c46406bd
+
+  
+
+Extra Learnings:
+
+  * Media was made up and left in palletank bags at rom temperature (with the lid on in the dark) for up to a week and still seemed to behave fine with the cells
+  * If the media turns black or the oxygen takes a rapid dive there is a good chance you have a contamination.
+
+
+
+
+Centrifuge Optimisation:
+
+Harvest number 1 (09/06):
+
+Purpose of test: To determine if our estimated cell weight was correct.
+
+Background:
+
+  * Previous data from harvesting Nuvonis cells in the lab suggest that a single cell weighs ~4ng
+  * When harvesting from the bioreactors using the MFG centrifuge we were getting a single cell weight much below this ~2ng, suggesting that 50% of our cell mass could be being lost during the harvest procedure
+  * We decided to do this small sterile harvest from the STR200 (10L) and spin it in lab centrifuges to double check out estimated cell weight of ~4ng was correct before trying to optimise our MFG centrifuge
+
+Results:
+
+  * We got an approximate cell weight of 6.66ng
+    * 40.5g / 6,080,000,000 cells = 6.66ng
+  * Therefore our estimate was correct and we should optimise our harvesting procedure with the MFG centrifuge to ensure we are not loosing this extra mass
+
+  
+
+Harvest number 2 (10/06):
+
+Purpose of test: To see if turning down the flow rate will result in less cell
+loss
+
+Background:
+
+  * When running the centrifuge we also spin it at the highest setting to capture as much cell mass as possible
+  * Although the centrifuge is spinning at its maximum speed, the flow rate (how fast the cell suspension is being pumped through the centrifuge) will effect how long the suspension is in the centrifuge bowl and therefore how well the cell mass can be separated from the media. 
+  * We theorised that slowing the flow rate down (previously 1L/min) to 500mL/min will let the cell suspension sit in the centrifuge bowl for longer and therefore separate out the cell mass better. 
+
+Results:
+
+  * We obtained 488.36g from 111,301,258,823 cells, giving a cell weight of 4.39ng - This is aligned with our estimated weight!
+  * The waste media coming out of the centrifuge was also significantly clearer than previous runs giving us confidence that we were capturing the vast majority of the cell mass in the centrifuge bowl
+  * the cell paste in the centrifuge bowl was also dryer that previous harvests
+
+Caveats:
+
+  * Toward the end of the harvest we noticed a large amount of cell mass had settled at the bottom of the palletank bag that contained the cell suspension. 
+    * Out of fear of losing this mass if it went through the centrifuge at such a high concentration we decided not to put it through the centrifuge, cut open the palletank bag, suck it out with a serological pipette and spin these cells down in the lab. 
+    * Therefore only about 1/3 of this mass (170.26g) was obtained from the MFG centrifuge and the remainder was spun in lab centrifuges (318.10g) therefore we cannot definitively say that changing the flow rate improved the harvest efficiency but the clearer waste media and dryer cell paste definitely suggest there was some improvement 
+  * Next time we will have to put the whole cell suspension through the centrifuge to get a true indication of harvest efficiency
+
+  
+
+Harvest number 3 (14/06):
+
+Purpose of test: To test the harvest efficiency of the MFG centrifuge
+
+Background:
+
+  * In the previous harvest not all the cell suspension was put through the MFG centrifuge so we could not get a true measure of harvest efficiency. 
+  * For this harvest the palletank bag was periodically moved/shaken to disturb the cells that had settled on the bottom of the bag. This was done to ensure that all of the cell suspension went through the centrifuge at a relatively similar concentration.
+
+Results:
+
+  * A total of 205.4g was harvested from 65,061,696,960 cells giving a cell weight of 3.16ng suggesting a slightly suboptimal harvesting efficiency
+    * This is lower than the estimated weight but there were a number of caveats that contributed to this result (see below)
+
+Caveats:
+
+  * The entire cell suspension successfully went through the MFG centrifuge, however, when the centrifuge was opened up to retrieve the cell mass there was still a large amount of liquid in the centrifuge bowl. 
+    * This liquid would normally drain once the centrifuge was turned off but something was clearly preventing this drainage
+    * I initially tried to scoop up the cell mass from the liquid but the cell mass began to break up and I was worried that once the liquid did drain it would take all the dissociated cells with it
+    * In an attempt to drain the liquid but maintain the cell paste pellets we decided to turn the centrifuge back on for a few minutes. After this we turned it back off and the liquid drained out successfully. We captured this liquid to see how many cells were in it.
+    * When opening the lid after the second spin it looked like there was less cell mass in there and it looked more paste like than the formed pellets we observed after the first spin. 
+      * We obtained everything we could from the MFG centrifuge (127.4g) and spun down the drained waste liquid in the lab centrifuge (78g). Therefore a large portion of cells were washed out with the waste drainage.
+        * About half of the waste liquid was accidently lost with a spill, resulting in a lower overall total.
+
+Key take-aways from this harvest:
+
+  * Do not re-spin the cell paste pellet
+    * The second spin basically mushed up the pellet and i believe was a big reason for losing so many cells in the waste liquid
+  * Overall if the waste liquid hadn't not drained the first time and not taken all the dissociated cells with it the second time (and half of this not been spilled), I believe we would have seen a good harvest efficiency.
+    * Although a large amount of cells were found in the waste liquid that drains from the centrifuge bowl after the machine has stopped, very little were observed in the large waste vessel that is separated from the cell mass whilst the centrifuge is running. Overall this suggests that our harvest set up did a good job at separating the cells from the media, it is just pour design that results in some on that mass being drained out once the machine has stopped. Hopefully our new centrifuge will have a slightly better design to avoid this. 
+
+  
+
+Harvest number 4 (15/06):
+
+This harvest was done directly from the STR200 bag and with cells that had a
+viability of ~44%. This harvest was less of a test and more of an observation.
+
+  * Most of the cells had settled at the bottom of the bag during the harvest process leaving very little cell mass to accumulate in the centrifuge itself.
+    * This resulted most if not all of the cell mass that had entered the centrifuge being drained out with the waste liquid once the machine had stopped. 
+    * This suggests that for the centrifuge harvest cell mas properly, there is a certain amount of cell mass required. 
+    * To obtain the settled cells in the bag the bag had to be cut open and the cell suspension had to be sucked out with a serological pipette and spun in a lab centrifuge.
+      * A note on these settled cells would be to keep the stirrer on during the harvest to try and discourage the cells settling for a long a possible to minimise the effect of this outcome.   
+
+

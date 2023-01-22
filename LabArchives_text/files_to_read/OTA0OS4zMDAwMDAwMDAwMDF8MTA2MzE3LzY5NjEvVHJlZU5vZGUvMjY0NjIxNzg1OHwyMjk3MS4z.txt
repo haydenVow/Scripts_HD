@@ -1,0 +1,203 @@
+
+
+## Background
+
+We have previously had trouble amplifying DNA regions targeted by guides for
+number of our target genes. To date we have only had success in amplying CHOMP
+DNA using the following primer pairs.  
+  
+P7 fwd + P8 rev - IGFBP4  
+P13 fwd + P14 rev - AQP1  
+  
+We have had success amplifying wild type CHOMP DNA using primer pair P9-P10,
+however the resulting PCR product was not a clean band, indicating that the
+binding was non specific and cannot be relied upon for validating our CHOMP
+mutations. As a result this primer pair was discarded.
+
+We have since not been able to show successful amplification of wild type
+CHOMP DNA for targets PTEN, PABPC1, RIPK1, ZIC1 or FASLG.  
+Primer pairs that have been tested unsuccessfully include the following. (fwd
+primer + rev primer)  
+  
+  
+
+p1 + p2CROC PABPC1 PCR  guide 2  
+p3 + p4CROC BMF PCR guide 1/2  
+p5 + p6CROC PABPC1 PCR guide 1  
+p11 + p12CROC PTEN PCR guide 2  
+p15CROC Aqp1 PCR fwd guide 2  
+p16CROC Aqp1 PCR rev guide 2  
+p17CROC FASLG PCR fwd guide1/2  
+p18CROC FASLG PCR rev guide1/2  
+p19CROC RIPK1 PCR fwd guide 1  
+p20CROC RIPK1 PCR rev guide 1  
+p21CROC RIPK1 PCR fwd guide 2  
+p22CROC RIPK1 PCR rev guide 2  
+p23CROC GLUL PCR fwd guide 1/2  
+p24CROC GLUL PCR rev guide 1/2  
+p25CROC ZIC1 PCR fwd guide 1  
+p26CROC ZIC1 PCR rev guide 1  
+p27CROC ZIC1 PCR fwd guide 2  
+p28CROC ZIC1 PCR rev guide 2  
+  
+To continue troubleshooting primer sets for our target genes we will run PCR
+reactions using some of the primers above again while using the GC enhancer in
+there reaction mixture.Primers to test first will include the following.
+
+p1 CROC PABPC1 PCR fwd guide 2  
+p2CROC PABPC1 PCR rev guide 2  
+p11CROC PTEN PCR fwd guide 2  
+p12CROC PTEN PCR rev guide 2  
+p15CROC Aqp1 PCR fwd guide 2  
+p16CROC Aqp1 PCR rev guide 2  
+p17CROC FASLG PCR fwd guide1/2  
+p18CROC FASLG PCR rev guide1/2  
+p19CROC RIPK1 PCR fwd guide 1  
+p20CROC RIPK1 PCR rev guide 1  
+p21CROC RIPK1 PCR fwd guide 2  
+p22CROC RIPK1 PCR rev guide 2  
+p25CROC ZIC1 PCR fwd guide 1  
+p26CROC ZIC1 PCR rev guide 1  
+p27CROC ZIC1 PCR fwd guide 2  
+p28CROC ZIC1 PCR rev guide 2  
+  
+  
+  
+  
+
+p39CROC PTEN PCR fwd guide 2GCAGAAACTGTTTCAGGACAGA  
+p40CROC PTEN PCR rev guide 2GCATGATTTTATTTCTGCCGTAGG  
+p41CROC PABPC1 PCR fwd guide 2CGCCGCACCATTTCTTACTAAA  
+p42CROC PABPC1 PCR rev guide 2ATCTCGCTTTCGATTCCCG  
+  
+
+
+  
+GC enhanced primer testing set
+
+Sample  
+Primer pairs  
+GC enhancer  
+  
+1  
+P1 + P2 PABPC1 guide 2  
+Yes  
+  
+2  
+P1 + P42 PABPC1 guide 2  
+Yes  
+  
+3  
+P41 + P2 PABPC1 guide 2  
+Yes  
+  
+4  
+P41 + P42 PABPC1 guide 2  
+Yes  
+  
+5  
+P11 + P12 PTEN guide 2  
+Yes  
+  
+6  
+P11 + P40 PTEN guide 2  
+Yes  
+  
+7  
+P39 + P12 PTEN guide 2  
+Yes  
+  
+8  
+P39 + P40 PTEN guide 2  
+Yes  
+  
+9  
+P15 + P16 AQP1 guide 2  
+Yes  
+  
+10  
+P17 + P18 - FASLG guide 1/2  
+Yes  
+  
+11  
+P19 + P20 -RIPK1 guide 1  
+Yes  
+  
+12  
+P27 + P28 - ZIC1 guide 2  
+Yes  
+  
+13  
+P7 + P8 IGFPB4 (pos control)  
+Yes  
+  
+14  
+P7 + P8 IGFBP4 (pos control)  
+No  
+  
+  
+  
+
+
+
+
+Gel run for PCR products 11-13
+
+  1. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  2. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1. Ladder
+    2. sample 11
+    3. sample 12
+    4. sample 13
+
+
+
+
+## Results
+
+  
+
+Lane order
+
+Lane  
+Primer pairs  
+GC enhancer  
+Band present  
+  
+1  
+none (100bp ladder)  
+No  
+YES  
+  
+2  
+P19 + P20 -RIPK1 guide 1  
+Yes  
+YES  
+  
+3  
+P27 + p28 - ZIC1 guide 2  
+Yes  
+YES  
+  
+4  
+P7 + P8 Igfbp4 (pos control)  
+Yes  
+YES  
+  
+  
+  
+
+
+
+
+
+
+
+## Observations
+
+The Quick extract DNA sample used of CHOMP 07 was quite viscous, as a result
+it was difficult to tell if 1uL was pipetted, some volumes of DNA template
+added may be between 0.5 and 1uL.
+
+

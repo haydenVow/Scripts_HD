@@ -1,0 +1,66 @@
+Aim/Purpose
+
+
+The aim for this experiment is to perform large scale ("3x scaled up" \- Well
+volume of 4mL) tissue engineering with primary Water Buffalo (BUFFY)
+myoblasts, to generate on the order of 25-50 grams worth of tissue-engineered
+muscle.
+
+The details for literature search and plans that formed the basis of the early
+work are outlined here: https://www.notion.so/vow/Buffalo-Wings-Tissue-
+Engineering-plan-e0e4d39308564b6383514d5fc3691b07
+
+Following the successful tissue engineering experiments in March 2022 \- we
+will be taking this protocol further for this experiment, but simplifying the
+layout. The matrix to be used here will be exclusively Collagen I and Matrigel
+based, as this was the easiest and best formed tissue engineering protocol.
+
+
+
+
+Perform passage using below volumes:
+
+  
+
+
+Methods and Experiment Layout
+
+
+Experiment layout will be consistent across each well and scaffold, as the
+intention here is to produce tissues en masse under known conditions.
+
+The exact number of scaffolds seeded will depend on the cell count at harvest,
+but each scaffold will take 240 million cells. Assuming that we can harvest a
+minimum of 150 million cells per fully confluent 10CF, we may be able to seed
+nearly 6 scaffolds (~70 tissues). Again, assuming that each tissue weighs
+~250-500mg will give us ~20-30 grams worth of wet tissue mass.
+
+One scaffold will also be up used to seed a few experimental tissues that will
+be harvested early (4-5 days after seeding) to trial transglutaminase and
+desiccation.
+
+Broadly, tissues will be seeded and formed in proliferation media for 4 days,
+then switched to stage 1 differentiation media. After induction and maturation
+phases, tissues will be harvested on day 18.
+
+
+
+
+Performed By: Alex
+
+
+
+
+Before Starting
+
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=0
+  * Mount large scaffolds in PDMS in 15cm dishes
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+
+

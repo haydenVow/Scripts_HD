@@ -1,0 +1,121 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+90:10 RPMI:CHO HD + NuvonisM12696  
+
+
+  
+  
+Flask typeHarvested flask IDSeeded flask ID  
+ConditionLocation  
+E-12512169 (50/50)  
+12284  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 141 (Main Lab)  
+  
+  
+12285  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12203 (75/25)  
+12289  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12170N/A  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12204  
+N/A  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+12171 (50/50)  
+12286  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12287  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12205 (75/25)  
+12288  
+90:10 RPMI:CHO HD + Nuvonis  
+
+
+  
+  
+  
+
+  1. Took 2 x 560 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+Average vicell total cell count  
+12169 4,780,000  
+4,630,000  
+12169 4,480,000  
+12170 N/A (contaminated on Wednesday)  
+N/A  
+  
+12170N/A (contaminated on Wednesday)  
+  
+121715,860,000  
+5,680,000  
+  
+121715,500,000  
+  
+122035,860,000  
+4,990,000  
+  
+122034,120,000  
+  
+12204N/A (contaminated on Wednesday)N/A  
+  
+12204N/A (contaminated on Wednesday)  
+122056,060,000  
+5,520,000  
+  
+122054,980,000  
+  
+  
+  
+
+  3. Made up 400 mL of 90/10 medium (360 mL RPMI + 40 mL CHO Part A + Nuvonis).
+  4. Aliquotted;  
+(1) 60mL 50:50 RPMI:CHO Part A + Nuvonis, and  
+(2) 120mL 90:10 RPMI:CHO Part A + Nuvonis
+
+  5. Added 60uL of IGF and 12 uL of EGF to the 50:50 aliquot and 120 uL of IGF and 24uL of EGF to the 90:10 aliquot.
+  6. Aliquoted the following mL of cell suspension into 6 x 15 mL tubes, out of which every 2 will come from the same culture and contain the same volume of cell suspension:  
+  
+Flask IDVolume of cell suspension used to re-seed flask @ 100k cells/mL having
+a total of 2M cells/ flask (mL)  
+  
+12169 x 2  
+9.780mL x 2  
+  
+12170 x 2  
+N/A  
+  
+12171 x 27.042mL x 2  
+  
+122038.016mL  
+  
+12204N/A  
+  
+122057.246  
+  
+  
+*Note: Flasks 12169, 12170, 12171 will be split into cells grown in 50:50 and cells grown in 90:10, reason why we took 2 x samples of each.  
+  
+
+  7. Centrifuged the tubes @ 500 xg for 5 minutes.
+  8. In the meantime, washed each flask with ~10mL dPBS, removed it and then added 20 mL of each pre-warmed media into each E-125, having a total of 3 x E-125 with 50:50 and 3 x E-125 with 75:25 media.
+  9. After centrifugation, aspirated the supernatant and resuspended cell pellet in 1 mL of respective medium using a 1 mL pipette. Then dispensed cell suspension into its respective E-125.
+  10. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

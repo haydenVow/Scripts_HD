@@ -1,0 +1,55 @@
+
+
+## Methods:
+
+Culture 10101 was removed from the incubator and imaged using the zaber using
+the same settings used on the 18th of Jan (see previous lab book entry).
+
+Wells imaged = A5, C4, D2 and D6.
+
+Decided to see if transfection efficiency could be determined by measuring GFP
+flourescent cells / Hoechst nuclear stain.
+
+After wells were imaged, Supernatant from each well was aspirated from the
+cells at room temperature and cells were washed with 1mL of dPBS gently.
+
+dPBS was then immediately aspirated and discarded and replaced with 500uL of
+dPBS (mix7589).
+
+Added 15uL of Hoechst ready flow reagent 33342 (s3854) to each well and the
+plate was gently rocked to mix.
+
+The plate was then left the plate at room temperature wrapped in foil for 6
+minutes: Time stamp (Hoescht stain): 10:04 am -10:11 am
+
+The plate was then unwrapped and placed in the zaber to observe Hoechst
+flourescence under UV light.
+
+After inspection under UV, the plate was removed from the Zaber and wells of
+interest were imaged once in the centre using the Primovert microscope, Phase
+channel, 4x objective.
+
+## Observations:
+
+Wells imaged prior to washing appeared to have CHOMP cells still adhered. The
+total number of GFP positive cells appeared highest in well C4 based on a
+qualitative assessment. Clumping of cells and detatchment of cells from he
+base of the well was observed in wells A5, D2 and D6.
+
+After Hoechst staining the cells in each of the wells of interest showed high
+levels of detachment from the well base. It was decided that imaging on the
+zaber after Hoechst stain to determine transfection efficiency would be
+difficult due to this high level of detachment. The Hoechst stain was visible
+in all cells still.
+
+We suspect that the cells did not react well to a prolonged time (~30 minutes)
+at room temperature and were weakly adhered onto the well base. Subsequent
+washing of the cells was most likely the cause for cell detachment witnessed
+during the Hoechst staining procedure.  
+  
+If this process were to be repeated, supernatant should be replaced with fresh
+growth media before addition of Hoechst. Hoechst incubation should then occur
+in the incubator at 30 degress, 5% CO2 to limit cell detachment possibly
+resulting from prolonged exposure to room temperatures.
+
+

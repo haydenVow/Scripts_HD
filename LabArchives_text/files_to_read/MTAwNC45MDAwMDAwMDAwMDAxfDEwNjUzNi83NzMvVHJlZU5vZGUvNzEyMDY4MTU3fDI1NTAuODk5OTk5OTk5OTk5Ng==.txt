@@ -1,0 +1,95 @@
+
+
+Batch 27 Overview
+
+Batch Weight: 152.623g
+
+Batch Objectives:
+
+  * Use the current best flask type and treatment type to produce as much mass as possible in multi-layered flasks
+  * Try a series of apparatus speeds and feeding schedules in roller bottles to see if these changes have an affect on the final yield
+  * Speeds and feed schedules tested:
+    * Normal Speed/Normal Feeds
+      * 0.5rpm is the normal speed of our roller bottle apparatus' and our normal feeding schedule with treatment is every 2-3 days. This group was used as a control
+    * Normal Speed/Reduced Feeds
+      * This group used our normal speed (0.5rpm) but a reduced feeding schedule of 3-4 days. Reducing the number of feeds will reduce the amount of handling of these roller bottles. It is hypothesised that a reduction in handling/feeds will reduce the amount of strong sheer forces on the cell sheet and therefore reduce premature peeling.
+    * Slow Speed/Normal Feeds
+      * The speed in this group was reduced to 0.25rpm. This was done to reduce sheer forces on the cell sheets and potentially prevent premature peeling. Feeds were every 2-3 days
+    * Slow Speed/Reduced Feeds
+      * Slow speed 0.25rpm and reduced feeds every 3-4 days.
+    * Fast Speed/Normal Feeds
+      * The speed in this group was increased to 1rpm. This was done just to see what would happen. If sheer forces are not the reason for premature peeling it is also possible that the cells are not getting enough nutrients because the bottle are rotating too slowly resulting in unhealthy cells and premature peeling. Feeds were every 2-3 days
+    * Fast Speed/Reduced Feeds
+      * Fast speed 1rpm and reduced feed every 3-4 days.
+
+* All roller bottles were seeded with a density of 11,764cells/cm2 and at a speed of 0.5rpm. The speed of the apparatus' were adjusted for each group the day after seeding (The day of treatment). All flasks (both multi-layered and roller bottles) with treated with VitC ONLY at 60-80% confluence and then switched to VitC + TGFb (50% Feed) at Day 2.
+
+  
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P271x10CF, 1x5CS (seeded from Batch 26 Passage 2)  
+P364x10CF, 2x5CS  
+P410CS/5CS = 9-18  
+RR2125 = 15  
+R850 = 8-1110x10CS/10x5CS  
+6xRR2125/19xR850  
+  
+  
+
+Notable Events:
+
+  * Instead of harvesting the Ribbed Roller Bottles individually and keeping these pellet separate for comparison as originally planned, it was decided for simplicity and convenience to harvest them as one group and just obtain an average pellet weight for this flask type. This was decided for the below reasons:
+    * The ribbed roller bottle were very difficulty to harvest in Batch 26 putting their practical use for future batches into question
+    * Like with Batch 26, it was very difficult to observe peeling in these ribbed bottles in this batch for all groups even after 15 days
+    * There was no obvious difference between all experimental groups with the R850 bottles suggesting these changes (apparatus speed and feeding schedule) don't have a big impact on yield (See results below for details) 
+    * Due to the lack of success with CHOMP fibroblasts in roller bottle it was decided that no more roller bottle experiments would be performed with CHOMP after this batch and that we would be moving forward only with multi-layered flasks
+
+Batch Results:
+
+CHOMP vs DOLLY:
+
+  * Despite giving fantastic results in multi-layered flasks, the best treatment of VitC ONLY then VitC + TGFb at Day 2 does nothing to improve roller bottle results with CHOMP.
+  * Multi-layered treatment data remains unchanged  
+
+  
+
+  * A total of 134.4151g was produced from 10x10CS and 5x5CS treated with VitC ONLY at 60-80% confluence then switched to VitC + TGFb (50% feed) at day 2
+    * This gave an average on 8.96g per 10CS!!
+    * The majority of flasks lasted for 17 days before the peeling was sufficient enough for harvest
+      * Only 1 flask went for 18 days in order for the last layer to peel completely
+      * Flasks were harvested when all layered had sufficiently peeled. 
+    * Layers withing flasks peeled at different rates with some layers coming out/being harvested during routine feeds with the rest of the flask being left to continue growing. For this reason the flask could not be analysed individually and instead all mass was combined into one total and averaged to obtain the mass per 10CS
+
+Experiment Results:
+
+  * As mentioned above, all RR2125 were harvested as one group and gave a total weight of 6.198g (average of 1.033g per bottle or 0.486g/1000cm2)
+  * There was no obvious difference between any of the experimental groups with all giving similar yields and time until peeling.
+    * The reduced feed groups lasted for 1 more day before peeling compared to normal feed groups. This is likely due to the reduced handling, however, the day after feeding the peeling had completely caught up to the normal feed group.
+      * Although the normal feed groups started to peel earlier, this peeling was more gradual, whereas once the reduced feed groups peeled it was much more rapid and quickly caught up
+    * Visually the cells looked the same in all groups.
+      * After the first feed all groups developed some minor 'pin prick' sized aggregation around the middle of the bottles. This was worst in the fast speed group but was still present in the other groups also. It is not clear why this happened. 
+  * These results suggest that the reduced feeding schedule is a possible option for future batches as whilst it does not improve the yield outcome it also doesn't negatively impact it. 
+  * These results also suggest that apparatus speed does not have a huge impact on the growth/peeling of these cells.
+  * Many more experiments could be performed to further investigate CHOMP fibroblasts in roller bottles, however, due having no successful leads to follow and being on a strict timeframe, it was decided to stop roller bottle experiments with CHOMP and focus only on multi-layered flasks which are giving us fantastic yields. 
+
+  
+
+Representative Pictures:
+
+  
+
+  
+
+  
+
+Achievements:
+
+  * Biggest ever harvest from a single batch! (152g) and largest amount harvested from multi-layered flasks! (134g)
+  * Achieved 8.96g per 10CS, this is the biggest average ever achieved. 
+  * Clearly identified multi-layered flasks as the way forward for CHOMP. 
+
+

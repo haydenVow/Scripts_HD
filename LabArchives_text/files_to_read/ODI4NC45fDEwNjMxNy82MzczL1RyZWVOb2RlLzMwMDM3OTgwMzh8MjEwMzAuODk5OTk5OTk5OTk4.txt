@@ -1,0 +1,141 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Performed by: AG  
+
+
+
+
+Feed information:
+
+Harvested flask typeHarvested flask IDSeeded flask typeSeeded flask ID  
+3x E125
+
+9662-F_DOLLY12-Sheep P9-1of3
+
+9663-F_DOLLY12-Sheep P9-2of3
+
+9664-F_DOLLY12-Sheep P9-3of3
+
+E250
+
+10316-F_DOLLLY12-Sheep P10-1of1
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 10% KSR)  
+A9681  
+  
+KSR  
+S4604  
+  
+IGF-1  
+M9190  
+  
+b-FGF  
+M5705  
+  
+ITS-GS4767  
+  
+  
+  
+
+
+
+
+### Media preparation:  
+  
+
+  1. Aliquotted growth media conditions. Growth factors and KSR (except for Brutus media) are to be added fresh as indicated :   1 x 45 mL aliqouot  
+Condition MediaVolume media required  
+Volume KSR (mL)  
+IGF (uL)FGF (uL)ITS-G (insulin, transferrin, selenium) supplement (uL)  
+9CD CHO + AA + glutamax +  \+ P/S (for 10% KSR)40.54.5120  
+120  
+600  
+  
+  
+  
+
+Time that all aliquots were placed in the water bath the warm before use 14:40
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Process:  
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 mins 14:48-14:53
+  5. Aspirated  75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet.
+  6. Topped up each 50 mL centrifuge tube with 15 mL of fresh prewarmed media and resuspended cell pellet. 
+  7. Gently pipette-mixed cultures, and transfer all cultures to E250 flask
+  8. Took 100 uL sample loaded onto a 96 well plate according to the plate map. 
+  9. Returned E250 to incubator 15:06
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 1 mL dPBS  
+\- 1 drop Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Took 100 uL samples from each culture flask
+  2. Added 20 uL of Hoechst stain directly to cells
+  3. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells - accidentally put in an additional 20 uL of dPBS - total volume of first row = 120 uL)
+  4. Incubated for 30 minutes in the dark at room temperature  15:11-15:41
+  5. Made 4x, 8x and 16x dilutions of the sample in dPBS 15:48-15:49
+  6. Centrifuged plates at 300 RCF for 1 minute 16:01-16:02  
+  
+
+  7. Prepared plate map:  
+https://docs.google.com/spreadsheets/d/1paJWhMEtvGQOOWtsuUQgsUJcX3N5E6wmjMlstg1zRw8/edit#gid=698754547  
+Plate ID: 9668, MIA Link: https://mia-
+capture.vow.tools/#/session/recBmWsirOSWAECT2/images
+
+
+
+
+Observations/Summary:  
+Suspension cultures were pooled into a single E250.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+

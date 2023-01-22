@@ -1,0 +1,203 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Chris  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+2864-Culture-6905-Vial-4of54
+
+2865-Culture-6905-Vial-5of54
+
+2866-Culture-6905-Vial-6of54
+
+2867-Culture-6905-Vial-7of54
+
+2868-Culture-6905-Vial-8of54
+
+  
+DSD plates:  
+7991-C2C12-Mouse P4-1of2  
+Bradford plates:  
+7993-C2C12-Mouse P4-1of2  
+7994-C2C12-Mouse P4-2of2E-stim plates:  
+7995-C2C12-Mouse P4-1of2  
+7996-C2C12-Mouse P4-2of2  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionn/a  
+  
+Growth Media6702  
+  
+p38i (20mM stock)from production  
+  
+  
+###  
+
+  
+
+
+
+
+Overview:
+
+Thawing 5 x vials of C2C12 WCBs (500K) and seeding:
+
+  * \- 96 well plate (all wells) @ 5000 cells per well - DSD main plate - using non-TC treated plate so antibody staining is not influence by coating
+  * \- 96 well plate (8 wells only) @ 5000 cells per well - DSD control plate - using non-TC treated plate so antibody staining is not influence by coating
+  * \- 24 well plate (6 wells only) @ 40,000 cells per well
+  * \- 24 well plate (6 wells only) @ 40,000 cells per well
+  * \- 12 well plate (all wells) @ 60,000 cells per well
+  * \- 12 well plate (all wells) @ 60,000 cells per well 
+
+So the total cells being seeded are:
+
+  * \- 520,000 cells for the DSD plates in 15mL
+  * \- 480,000 cells for the Bradford plates 6mL
+  * \- 1,440,000 cells for the E-stim plates in 24mL
+
+Hence, the total cells needed is roughly 2,500,000 cells
+
+Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding): 
+  * 15mL (96 well plate (full) + 96 well plate (8 wells) 
+  *  6mL  (24 well plate  (6 wells)) + 24 well plate (6 wells)
+  * 24mL (12 well plate (all wells)) + 12 well plate (all wells)  
+  * Time that aliquot was placed in the water bath to warm before use:   10:24 a/pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  10:58 - 11:03: a/pm
+
+Location where cryovial was collected from:
+
+Vial details:  5   x  1mL  cryovials at  500 K  cells each for a total of
+2.5 M  cells
+
+Brew
+
+Tower/Bucket # 2
+
+Box/Cane # 6
+
+Vial location: A4, A5, A6, A7, A8
+
+Vial ID(s):
+
+2864-Culture-6905-Vial-4of54
+
+2865-Culture-6905-Vial-5of54
+
+2866-Culture-6905-Vial-6of54
+
+2867-Culture-6905-Vial-7of54
+
+2868-Culture-6905-Vial-8of54
+
+  
+
+You need:
+
+  * 520,000 cells for the DSD plates in 15mL
+  * 480,000 cells for the Bradford plates 6mL
+  * 1,440,000 cells for the E-stim plates in 24mL
+
+  
+
+4\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+5\.  Added  500µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to each of the 5 cryovials, resuspended the cell suspension gently
+to reduce osmotic shock.
+
+6\. Collected the entire 1mL of cell suspension from the first cryovial and
+transferred it to 14mL of GM (total vol. 15mL). This is the media used for DSD
+seeding.
+
+Collected the entire 1mL of cell suspension from the second cryovial and
+transferred it to 5mL of GM (total vol. 6mL). This is the media used for
+Bradford seeding).
+
+Collected the entire 3mL of cell suspension from the remaining three cryovial
+and transferred it to 21mL of GM (total vol. 24mL). This is the media used for
+E-stim seeding).
+
+7\. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in each GM aliquot.
+
+8\. Transfered 140uL of DSD cells to every well of the first 96 well plate,
+and then 140uL to only 8 wells in the second 96 well plate.
+
+Transfered 500uL of Bradford cells to six wells of the first 24 well plate,
+and then 500uL to six wells in the second 24 well plate.
+
+Transferred 1mL of E-stim cells to all wells in both 12 well plates.
+
+Allow to rest in the BSC at RT for 30 min  11:10 - 11:40 a/pm
+
+9\. Transfered flask/plate(s) to incubate at:
+
+  * [x ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

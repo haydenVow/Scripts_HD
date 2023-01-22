@@ -1,0 +1,208 @@
+
+
+## Performed by: Eva  
+
+
+
+
+
+
+
+## Culture IDs
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2CF  
+8989  
+  
+  
+  
+4CF  
+9016  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Reagent preparation:
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM8251  
+  
+dPBS (for washing & neutralising)A8596; A8598; A8595; A8597  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. Include link in
+image section - Note: it is expected that the cells will be ready for a
+passage and freeze - ie not seeding. If it is not confluent enough, dont
+passage
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    1 x 200 & 1 x 100  mL 
+  2.  dPBS (At 37 degrees for washing):   1 x 200 & 1 x 100   mL 
+  3.  dPBS (at RT neutralising):    1 x 200 & 1 x 100    mL 
+  4. dPBS for re-suss and freezing    2 x 30    mL (Just prepare up to 300 mL of PBS and place in the fridge. During the centrifuge step, place in the freezer to chill.) 
+
+Time that all aliquots were placed in the water bath the warm before use
+11:57 - 12:23 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+  
+
+
+
+
+4\. Removed vessel(s) from the incubator     12:20  pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     200 and 100     mL tryple to each vessel/well and incubated at
+37˚C.
+
+  1. Start/Finish for TrypLE was     12:38 - 12:48  pm 
+
+7\. Neutralised with     200 and 100 ml    dPBS and combined cell suspension
+into 3 x     250 ml  tubes (2 for Daisy and 1 for BUFFY)  
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     13:12-13:17 pm 
+
+  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   18 ml (BUFFY and DAISY) mL   cold PBS    13:45
+pm
+
+11\. Aliquoted      10 ul    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+  
+
+
+
+
+Freeze cells (Do this process for every cell line)
+
+  1. Weigh 6 x 15 mL tubes and record weight 
+  2. Wash cell suspension with additional PBS and divide into the 6 x 15 mL tubes - 3 containing 2/3 of the cells and the other 3 containing 1/3 of cells. 
+  3. Centrifuge tubes and remove as much of the supernatant 
+  4. Weight tunes containing cell pellet and record the pellet weight on the tube. Label as: cell line diff, weight of cells and the number of tube 
+  5. Place samples in the - 80 freezer in main lab.
+
+  
+
+
+
+
+### Observations/Summary:
+
+The Daisy 4CF had a very large number of cells. As soon as I added the Tryple
+to the flask, a very obvious cell mass detached from the surface of the flask
+and could be observed floating in the tryple (it was basically a stringy mass
+of cells). It was very difficult to resuspend the pellet after the
+centrifugation step, as there were several stringy fragments that I wasn't
+able to break up and that would block the pipette making it difficult to
+aspirate and dispense. The greatest stringy fragment, I put into tube number 1
+to carry out a proteomic analysis, and the second one, much smaller in size, I
+put in tube 4 to carry out a lipidomic analysis. In terms of the 2CF, I
+resuspended the pellet in 5 ml of cold PBS and there were too many cells in
+the haemocytometer, in addition to the fact that some of them were grouped in
+string-like forms. I discussed what to do with Bec and we didn't think the
+cell count would be accurate so, we decided to skip it. I then added another
+13 ml of cold PBS to the cell suspension and aliquotted the total volume into
+the 6 x 15ml tubes.
+
+  * Weights of tubes alone; weight of tubes with pellet (weight of the pellet marked on the tubes):
+
+Buffy:
+
+1\. 6.5128 g; 6.5543
+
+2\. 6.4611 g; 6.5159
+
+3\. 6.4830 g; 6.5281
+
+4\. 6.4179 g; 6.4968
+
+5\. 6.4867 g; 6.5724
+
+6\. 6.4609 g; 6.5518
+
+  
+
+Daisy:
+
+1\. 6.4646 g; 6.9168
+
+2\. 6.4696 g; 6.5096
+
+3\. 6.4658 g; 6.5393
+
+4\. 6.4487 g; 6.5666
+
+5\. 6.4824 g; 6.5592
+
+6.4870 g; 6.5514
+
+###  
+
+  
+
+Relevant Images/Figures (if any):
+
+
+
+
+Handling cell factories:  
+
+For cell factories, majority of steps involving removing or adding large
+amount of media will be performed by carefully pouring liquid in or out of the
+cell factory.
+
+Quick tips:
+
+  * Both caps on the cell factory need to be removed when adding and removing liquid. This prevents the liquid for gurgling and forming bubbles. (vid: 2:16 - 2:44)
+  * Avoid touching the waste bottle with the cell factory opening. (sterile urine waste containers are easier to pour into)
+  * After adding liquid into the cell factory, make sure to equalise it. To equalise, return lids to cell factory and place it on its side (blue lid at the bottom side). Allow liquid to equalise before lifting it to an upright position. (vid: 0.51- 1:16)
+  * When transferring 4CF into the BSC, wipe down with ethanol sprayed ready wipe.
+  * Any accidental spills on the BSC should be wiped up with an ethanol sprayed ready wipe.
+  * Any spills on the cell factory and the slides of the opening should be wiped up with a ethanol sprayed kimwipe. (never wipe the top of the cell factory opening)
+  * If a lid of the cell factory is compromised (dropped or an object passes over it) use a replacement lid (replacements can be found in the lab draws)
+  * 
+
+

@@ -1,0 +1,196 @@
+Performed by: LL AS EC
+Ranger data
+Flask Run #Flask IDLocation  
+112776-Nuvonis Quail Suspension341-P-1of32  
+Main lab fridge 129  
+212777-Nuvonis Quail Suspension341-P-2of32  
+  
+312778-Nuvonis Quail Suspension341-P-3of32  
+  
+412779-Nuvonis Quail Suspension341-P-4of32  
+  
+512780-Nuvonis Quail Suspension341-P-5of32  
+  
+612781-Nuvonis Quail Suspension341-P-6of32  
+  
+712782-Nuvonis Quail Suspension341-P-7of32  
+  
+812783-Nuvonis Quail Suspension341-P-8of32  
+  
+912784-Nuvonis Quail Suspension341-P-9of32  
+  
+1012785-Nuvonis Quail Suspension341-P-10of32  
+  
+1112786-Nuvonis Quail Suspension341-P-11of32  
+  
+1212787-Nuvonis Quail Suspension341-P-12of32  
+  
+1312788-Nuvonis Quail Suspension341-P-13of32  
+  
+1412789-Nuvonis Quail Suspension341-P-14of32  
+  
+1512790-Nuvonis Quail Suspension341-P-15of32  
+  
+1612791-Nuvonis Quail Suspension341-P-16of32  
+  
+1712792-Nuvonis Quail Suspension341-P-17of32  
+  
+1812793-Nuvonis Quail Suspension341-P-18of32  
+  
+1912794-Nuvonis Quail Suspension341-P-19of32  
+  
+2012795-Nuvonis Quail Suspension341-P-20of32  
+  
+2112796-Nuvonis Quail Suspension341-P-21of32  
+  
+2212797-Nuvonis Quail Suspension341-P-22of32  
+  
+2312798-Nuvonis Quail Suspension341-P-23of32  
+  
+2412799-Nuvonis Quail Suspension341-P-24of32  
+  
+2512800-Nuvonis Quail Suspension341-P-25of32  
+  
+2612801-Nuvonis Quail Suspension341-P-26of32  
+  
+2712802-Nuvonis Quail Suspension341-P-27of32  
+  
+2812803-Nuvonis Quail Suspension341-P-28of32  
+  
+2912804-Nuvonis Quail Suspension341-P-29of32  
+  
+3012805-Nuvonis Quail Suspension341-P-30of32  
+  
+3112806-Nuvonis Quail Suspension341-P-31of32  
+  
+3212807-Nuvonis Quail Suspension341-P-32of32  
+
+
+ReagentID  
+Glucose (400 g/L)M13056  
+  
+L-Glutamine (29.2 g/L)M13058  
+L-Alanyl-L-Glutamine (43.4 g/L)  
+M13057  
+  
+Thymidine (1 g/L) M13055  
+  
+Hypoxanthine (2 g/L)M13054  
+  
+50/50 RPMI/CHO Nuvonis suspension mediumM13053  
+  
+IGF-1-LR3  
+  
+EGF  
+
+
+Process
+  
+  
+  1. Made up 1.1L of 50/50 RPMI/CHO Nuvonis suspension medium without GFs (base medium) 
+  2. Placed in incubator in E-2000 flask at 120 RPM to equilibrate [12:00 pm]
+  3. Adjusted pH to 7.8 using 1M NaOH (7.44) 
+    1. Added: 2 mL x NaOH (7.70)
+    2. Added: 750 uL x NaOH (7.80)
+  4. Filtered with 0.2 um filter to sterilise 
+  5. Weighed out the following amounts of each factor in 70 mL specimen jar (weight based on making up 20 mL of stock) 
+    1. Glucose (400g/L): 8.00 g
+      1. Actual mass measured: 8.0174 g
+    2. L-Glutamine (29.2g/L): 0.58 g
+    3. L-Alanyl-L-Glutamine (43.4g/L): 0.87 g
+      1. Actual mass measured: 0.869 g
+    4. Hypoxanthine (2g/L): 0.04 g
+      1. Actual mass measured: 0.040 g
+    5. Thymidine (1g/L): 0.02 g
+      1. Actual mass measured: 0.020 g
+  6. Added 20 mL of 50/50 RPMI/CHO Nuvonis suspension medium to each powder and stirred on stir plate until fully dissolved 
+  7. Transferred 5 x 20 mL specimen jars to BSC 
+  8. Sterile filtered each stock solution using 20 mL syringe filters 
+  9. Added IGF and EGF to all stock solutions and base medium remaining from 1.1L made up earlier (1 L after removing 5 x 20 mL aliquots) 
+  10. Printed labels for 32 x E-125s 
+  11. Labelled 32 x E-125s 1-32 with marker alongside Ranger label ("run" number)
+  12. Divided E-125s between 3 x BSCs 
+  13. Transferred base medium to E125 flasks numbered 1-26 according to volumes in "media" column in "Condition recipes" table attached below (values in mL) 
+  14. Transferred 192.9 mL of base medium to 1 x 250 mL sterile pot for conditions 27-32
+  15. Added five factors to 26 x E-125 and 1 x sterile pot according to "condition recipes" table attached below
+  16.  ~~Aliquoted 1 x 250 uL sample from each E125 and from sterile pot into 27 x microtubes~~  (forgot this step, will perform tomorrow before seeding)
+  17.  ~~Added 250 uL MilliQ to each tube and placed in freezer for biochemical analysis~~
+  18. Transferred 30 mL from 250 mL sterile pot to 6 x E-125s labelled 27-32 
+  19. Para-filmed E-125 lids and placed in fridge at 4'C overnight 
+
+
+pH Readings of Media and Stock
+
+
+\- Media = 7.80
+
+\- 5 mL Media + 100 ul L-Alanyl-L-Glutamine = 7.65
+
+\- Glucose = 7.68
+
+\- L-Glutamine = 7.46
+
+\- L-Alanyl-L-Glutamine = 6.83
+
+1\.  Added: 120 ul (6%) x NaOH (1M) = 7.08
+
+\- Hypoxanthine = 7.87
+
+\- Thymidine = 7.88
+
+  
+
+
+
+
+To each stock solution, added:
+
+1\. IGF: 20 ul
+
+2\. EGF: 4 ul
+
+  
+
+To Media: 975 IGF 195 EGF
+
+
+Condition recipes
+
+
+Spreadsheet:
+https://docs.google.com/spreadsheets/d/1QF5EU6Z7pBhJgYM9uZbgOGPCnI4ICxClfT3hGHbDxIc/edit#gid=0
+
+Note: values in mL
+
+RunL-GlutamineL-Alanyl-L-GlutamineGlucoseHypoxanthineThymidineMediaTotal
+volume  
+1.000.1500.1500.2250.0610.03529.37930.000  
+2.000.1500.1500.2250.1430.08129.25130.000  
+3.000.1500.1500.3750.0610.03529.22930.000  
+4.000.1500.1500.3750.1430.08129.10130.000  
+5.000.1500.4500.2250.0610.03529.07930.000  
+6.000.1500.4500.2250.1430.08128.95130.000  
+7.000.1500.4500.3750.0610.03528.92930.000  
+8.000.1500.4500.3750.1430.08128.80130.000  
+9.000.4500.1500.2250.0610.03529.07930.000  
+10.000.4500.1500.2250.1430.08128.95130.000  
+11.000.4500.1500.3750.0610.03528.92930.000  
+12.000.4500.1500.3750.1430.08128.80130.000  
+13.000.4500.4500.2250.0610.03528.77930.000  
+14.000.4500.4500.2250.1430.08128.65130.000  
+15.000.4500.4500.3750.0610.03528.62930.000  
+16.000.4500.4500.3750.1430.08128.50130.000  
+17.000.0000.3000.3000.1020.05829.24030.000  
+18.000.5990.3000.3000.1020.05828.64030.000  
+19.000.3000.0000.3000.1020.05829.24030.000  
+20.000.3000.6000.3000.1020.05828.64030.000  
+21.000.3000.3000.1500.1020.05829.09030.000  
+22.000.3000.3000.4500.1020.05828.79030.000  
+23.000.3000.3000.3000.0200.05829.02230.000  
+24.000.3000.3000.3000.1840.05828.85930.000  
+25.000.3000.3000.3000.1020.01228.98730.000  
+26.000.3000.3000.3000.1020.10528.89430.000  
+27-361.9982.0002.0000.6800.388192.934200.000  
+SUM9.7919.8009.8003.3311.899945.379980.000
+
+

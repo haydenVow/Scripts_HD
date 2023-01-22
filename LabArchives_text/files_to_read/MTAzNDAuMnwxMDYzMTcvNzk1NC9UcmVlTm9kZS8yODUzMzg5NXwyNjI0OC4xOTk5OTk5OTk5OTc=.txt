@@ -1,0 +1,316 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+  
+CELL LINEAGE TRACKING  
+SpeciesAnimal IDBiopsy IDDay of isolationNatural inc (days)% natural
+incubation at isolationNo. embryos combined Isolate name Isolate IDLINE
+nameLINE IDMediaMCB PassageTotal MCB bank (million)No. MCB vials  
+  
+Jumbo Coturnix (Japanese) Quail
+
+10026
+
+10078
+
+6
+
+18
+
+33%
+
+4
+
+JUMBO
+
+10080
+
+JUMBOO485OptiPRO + 4mM Glutamax 161.012  
+JUMBOK487DMEM/F12 + 10% KSR1 and 21 and 31  
+JUMBOF486DMEM/F12 +10% FBS13.03  
+  
+King Quail
+
+10027
+
+10079
+
+8
+
+23
+
+35%
+
+5
+
+KING
+
+10081
+
+KINGO489OptiPRO + 4mM Glutamax
+
+1
+
+12.05  
+KINGK490DMEM/F12 +10% KSR12.56  
+KINGF491DMEM/F12 +10% FBS26.46  
+  
+Silkie Chicken
+
+10029
+
+10073
+
+7
+
+21
+
+33%
+
+3
+
+SILKIE
+
+10078
+
+SILKIEO463OptiPRO + 4mM Glutamax 23.53  
+SILKIEK465DMEM/F12 +10% KSR112.06  
+SILKIEF467DMEM/F12 +10% FBS21.72  
+  
+Khaki Campbell Duck
+
+10030
+
+10074
+
+8
+
+28
+
+29%
+
+5
+
+KHAKI
+
+10077
+
+KHAKIO469OptiPRO + 4mM Glutamax 132.016  
+KHAKIK470DMEM/F12 +10% KSRN/A (very low rate of proliferation)  
+KHAKIF471DMEM/F12 +10% FBS22.22  
+10082
+
+12
+
+43%
+
+2KHAKI LIVER10088KHAKILIVERNot cultured  
+100811DUCK EYE10086DUCKEYE503OptiPRO + 4mM Glutamax 112.06  
+  
+Muscovy Duck
+
+10031
+
+10077
+
+11
+
+35
+
+31%
+
+3
+
+MUSC
+
+10079
+
+MUSCO479OptiPRO + 4mM Glutamax
+
+1
+
+55.011  
+MUSCK480DMEM/F12 +10% KSR9.85  
+MUSCF481DMEM/F12 +10% FBS10.85  
+100831440%2MUSCLIVER10087MUSCLIVER506DMEM/F12 +10% FBSDiscarded (failed to
+proliferate)  
+  
+Leghorn Chicken
+
+10025
+
+100751
+
+21
+
+5%1HORN110084HORN1473OptiPRO + 4mM Glutamax Discarded (failed to proliferate)  
+10076314%1HORN310085HORN3475OptiPRO + 4mM Glutamax Discarded (failed to
+proliferate)  
+  
+10080
+
+7
+
+33%
+
+3
+
+HORN
+
+10082
+
+HORNO496OptiPRO + 4mM Glutamax
+
+1
+
+17.57  
+HORNK497DMEM/F12 +10% KSR9.05  
+HORNF498DMEM/F12 +10% FBS8.04
+
+
+  
+  
+Cell count data/doubling times.
+
+Note that cell doubling times were most likely stunted when cells were
+cultured in T175 flasks, due to insufficient gas exchange in the non-vented
+flasks (see report for further detail).
+
+SpeciesLINE nameDate 1st passage1st passage countRe-seed densityDate 2nd
+passageT2nd passage countDouble timeRe-seed no.Re-seed densityDate 3rd
+passageT 3rd passage countDouble timeNotes  
+  
+Jumbo Coturnix (Japanese) Quail
+
+JUMBOO
+
+27/05/22
+
+27,000,00051,429
+
+31/05/22
+
+4
+
+63,900,0003.222,000,00013,333
+
+03/06/22
+
+3
+
+8,600,0001.43
+
+1st passage seeded from vented to non-vented. 2nd passage seeded back into
+vented, recovery apparent.  
+  
+JUMBOK9,200,00052,5711,950,000-1.791,000,00013,3333,350,0001.72  
+JUMBOF6,100,00034,8574,500,000-9.111,000,00013,333NA  
+  
+King Quail
+
+KINGO
+
+28/05/22
+
+12,328,00035,223
+
+30/05/22
+
+2
+
+9,400,000-5.11
+
+N/A
+
+All banked at 2nd passage  
+  
+KINGK13,984,00039,95412,520,000-12.54  
+KINGF19,755,00037,6292,640,000-0.69  
+  
+Silkie Chicken
+
+SILKIEO
+
+28/05/22
+
+2,050,00111,714
+
+01/06/22
+
+4
+
+2,050,000-5683808.262,050,00013,667
+
+05/06/22
+
+4
+
+3,550,0005.05
+
+1st passage seeded from vented to non-vented. 2nd passage seeded back into
+vented, recovery apparent.  
+  
+SILKIEK4,050,00023,14314,050,0002.232,000,00013,33314,000,0001.42  
+SILKIEF5,700,00032,571780,000-1.39780,00010,4001,700,0003.56  
+  
+Khaki Campbell Duck
+
+KHAKIO
+
+25/05/22
+
+11,750,00033,57128/05/22333,600,0001.98N/AAll banked at 2nd passage  
+KHAKIK4,520,00012,914N/ADiscarded (failed to proliferate after 1st passage)  
+KHAKIF4,080,00011,65701/06/227800,000-2.98800,00010,66705/06/2242,200,0002.741st
+passage seeded from vented to non-vented. 2nd passage seeded back into vented,
+, recovery apparent.  
+DUCKEYE30/05/225,800,00019,33302/06/22316,300,0002.014,000,00013,33305/06/22323,400,0001.18Never
+been in T175s (always vented)  
+  
+Muscovy Duck
+
+MUSCO
+
+26/05/22
+
+31,189,20044,556
+
+29/05/22
+
+3
+
+55,000,0003.67
+
+N/A
+
+All banked at 2nd passage  
+  
+MUSCK27,200,00038,8579,800,000-2.04  
+MUSCF2,760,00039,42910,800,0001.52  
+  
+White Leghorn Chicken
+
+HORNO
+
+28/05/22
+
+10,000,00028,571
+
+31/05/22
+
+3
+
+17,500,0003.72
+
+N/A
+
+All banked at 2nd passage  
+  
+HORNK12,600,00036,0009,000,000-6.18  
+HORNF16,500,00047,1438,000,000-2.87  
+  
+  
+
+

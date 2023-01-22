@@ -1,0 +1,131 @@
+
+
+## Performed by: ST  
+
+
+
+
+DNA Extractions:
+
+Culture IDsCell LineTreatmentDate of DNA extraction  
+  
+CHOMP07 wild type no treatment 8/2/22  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+  
+  
+
+
+
+
+PCR TESTING
+
+On 9/2/2022 Wild type CHOMP07 DNA was extracted from 400,000 cells using the
+HOTSHOT method and PCR was performed on this sample to amplify the region
+between primer sets P5-P6, P7-P8, P9-P10 using the amplification protocol
+below with a primer annealing temperature selected of 65 degrees C. This
+amplification yeilded no obvious amplified region when compared with the DNA
+ladder, only primer dimers were present (see reference images)
+
+On 10/2/2022 - Wild type CHOMP07 DNA that had been previously extracted using
+the HOTSHOT method was taken to to UNSW for nanodrop quantification. The DNA
+concentration in the sample was found to be 169ng/uL. During our PCR
+amplification we estimated at around 825ng of DNA was added to the PCR
+reaction mixture, as a result we believe that we added too much DNA which
+interfered with primer to template strand binding. We also suspect that
+lowering the annealing temperature of primers to 61 degrees may improve our
+chances of primer to template strand binding. Therefore the PCR of wild type
+CHOMP will be repeated before proceeding with knockout samples.
+
+
+
+
+PCR amplification
+
+  * Reconstituted PTEN, PABPC1 and IGFBP4 primers to 10uM in (MilliQ) prior to beginning the process below.
+
+* * *
+
+  1. Remove DNA extractions from the -20 freezer   
+  2. Made up a master mix for 1x reaction for each primer set (PABPC1, PTEN, IGFBP4). Volumes listed below are intended for 1 reaction, *multiply by the number of reactions you wish to do for each gene of interest + 1 for wild type controls). 
+    * PTEN mastermix (
+    * PABPC1 mastermix 
+  3.   4.  Added 19.1 uL of water instead of 15.1 uL given the high concentration of our extracted DNA.
+  5. Obtain 0.2 mL PCR tubes
+  6. Add 29μl of respective MM to each tube 
+  7.  Add 1μl DNA from the extracted DNA samples to each tube
+  8. Take to the PCR machine and set the settings to:
+  9.   10.   
+
+  11. To visualize PCR products, make up a 1.5 % agarose gel in 0.5X TBE buffer. 
+    1. See this tutorial for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  12.  Prepare DNA extractions suspected as good for sequencing through a third party. 
+
+  
+
+
+
+
+## Observations:
+
+\- Primers 5 and 6 are in tubes 1 and 2.
+
+\- Primers 7 and 8 are in tub3 3.
+
+\- Primers 9 and 10 are in tube 4.
+
+  
+
+
+
+
+## Reference Images
+
+Wild type CHOMP07 PCR test 1, From right to left loading order  
+12: Ladder 1kb  
+11: P5-6 primer set
+
+10: P5-6 primer set
+
+9: P7-8 primer set
+
+8: P7-8 primer set
+
+7: P9-10 primer set
+
+  
+
+  
+
+
+
+
+

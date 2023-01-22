@@ -1,0 +1,132 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+1\. To adapt avian embryo derived cells to growth in serum free media in
+planar culture
+
+2\. To adapt avian embryo derived cells to growth in suspension culture.
+
+
+Hypothesis
+
+
+ 1\. Cells derived from Day 9 Japanese Quail embryonic tissue will proliferate
+in adherent culture in one or more of the following culture medias.
+
+  * DMEM/F12 + 10% FBS
+  * DMEM/F12 + 5% FBS
+  * DMEM/F12 + 10% KSR
+  * OptiPRO + 4mM Glutamax
+
+2\.   Cells derived from Day 9 Bob-White Quail embryonic tissue will
+proliferate in adherent culture in one or more of the following culture
+medias.
+
+  * DMEM/F12 + 10% FBS
+  * DMEM/F12 + 5% FBS
+  * DMEM/F12 + 10% KSR
+  * OptiPRO + 4mM Glutamax
+
+  
+
+
+Technical Gap
+
+
+As mentioned in the background section here, https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODEzOS4zfDEwNjMxNy82MjYxLTUxODIxL1RyZWVOb2RlLzIzMjM5OTQwNDV8MjA2NjEuMw==,
+all existing avian suspension cell lines were adapted to low or serum free
+medium in planar culture prior to being suspension adapted. We do not yet know
+if it is possible to achieve suspension adaption while bypassing this step.
+
+
+Method/Procedure
+
+
+EXPERIMENTAL PLAN
+
+Note: None of our pigeon eggs remained viable throughout incubations, so we
+are left with just the Cayuga duck and mongrel chicken for our initial
+experiments.  
+
+Day 0 (31/01/2022)  
+Single cell homogenate prepared from D10-11 embryos following the protocol
+outlined by James Henstock and cells seeded into either planar or suspension
+culture as follows.  
+  
+SUSPENSION  
+D0: For each species (Duck and chicken), E-125 flasks will be seeded in
+triplicate in 1 of 3 medias. Cells will be seeded at a density of at least 1M
+cells/ml (dependant on availability). Total cells needed for suspension at
+1M/mL = 225M cell per species
+
+  1. Freestyle 293 medium supplemented with:  
+ Yeast Extract: 10ml YE stock (100g/ml) per litre of medium  
+ L-Ornithine monohydrochloride: 20mg/l; add 1ml stock (20mg/ml) per litre of
+medium  
+ Putrescine dihydrochloride: 20mg/ml; add 1ml stock (20mg/mg) per litre of
+medium  
+ IGF-1 LONG R3; 50ug/l; add 50ul stock (1mg/ml) per litre of medium  
+ EGF; 10ug/l; add 10ul stock (1mg/ml) per litre of medium  
+ Anti-Clumping agent (ACA) 1:100; add 10ml stock per litre of medium
+
+  2. CDM4Avian medium supplemented with 2.5 mM GlutaMAX 
+  3. OptiPRO SFM + 0.2% Pluronic F-68 + 2mM GlutaMAX 
+
+Ongoing: Suspension cultures will have a 75% media change and cell count every
+4 days following Vows establish protocols for suspension culture monitoring.
+
+ADHERENT  
+D0: For each species (Duck and chicken). Initially, all cells for adherent
+culture will be seeded into the same media, DMEM+10% FBS + 1x pen/strep. Seed
+T25 flasks at 20,000 cells/ml. Total cells required = 1.5M cells per species.
+Perform 1st feed when adherent cell cultures are established (may take up to a
+week).  
+  
+Once flasks reach 80% confluence: Cells will be pooled and counted. They will
+be then split into 4 groups for serum free media adaption experiments, seeded
+at 7500/cm. N=1 for each of these conditions as we will not have the hands to
+conduct replicates.
+
+Throughout the experiment, all cultures will have a 50% media change every
+48-72hrs and be passaged when approx. 80% confluent and reseeded at 7500/cm.
+Any successfully adapted cultures will be expanded and placed into suspension
+adaption experiments. Note that homogenate will also be plated directly into
+each of the medias listed below, to see if cells can quickly adapt cells to
+ACF media, without the need for slow reduction of serum.
+
+  1. Control: Maintained in DMEM + 10% FBS + 1 x P/S.  
+  
+
+  2. Low serum  
+Seeded in DMEM + 8% FBS (no P/S after this point)  
+P2, seeded in 6% FBS  
+P3, seeded in 5% FBS  
+  
+Cells to be maintained in 5% serum until being placed in the suspension
+adaption pipeline.  
+
+
+  3. OptiPRO SFM adaption  
+ Seeded in 20% OptiPRO SFM + (DMEM + 10% FBS).  
+ P2. 40% OptiPRO SFM + (DMEM + 10% FBS).  
+ P3. 60% OptiPRO SFM + (DMEM + 10% FBS).  
+ P4.80% OptiPRO SFM + (DMEM + 10% FBS).  
+ P5. 90% OptiPRO SFM + (DMEM + 10% FBS).  
+ P6. 95% OptiPRO SFM + (DMEM + 10% FBS).  
+ P7. 100% OptiPRO  
+  
+
+  4. KSR adaption  
+ Seeded in DMEM + 8% FBS + 2% KSR  
+ P2, seeded in DMEM + 6% FBS + 4% KSR  
+ P3, seeded in DMEM + 4% FBS + 6% KSR  
+ P4, seeded in DMEM + 2% FBS + 8% KSR  
+ P4, seeded in DMEM 10% KSR
+
+

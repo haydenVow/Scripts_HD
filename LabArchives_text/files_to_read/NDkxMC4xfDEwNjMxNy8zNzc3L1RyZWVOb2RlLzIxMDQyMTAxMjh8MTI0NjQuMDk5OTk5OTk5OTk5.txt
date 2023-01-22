@@ -1,0 +1,200 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+96 wp  
+7878-F_DOLLY12-Sheep P8-1of1  
+24 wp  
+7918-F_DOLL12-Sheep P9-1of2  
+7919-F_DOLL12-Sheep P9-2of2  
+  
+  
+  
+
+plate 7918 plate map (indicating original location from 7878)
+
+  
+1  
+2  
+3  
+4  
+5  
+6  
+  
+A (control - no stain)  
+B2  
+C2  
+D2  
+E2  
+F2  
+G2  
+  
+B (4uL/well, 1h)  
+B4  
+C4  
+D4  
+E4  
+F4  
+G4  
+  
+C (4ul/well, 24h)  
+B6  
+C6  
+D6  
+E6F6G6  
+D (8ul/well, 1h)  
+B8  
+C8  
+D8  
+E8  
+F8  
+G8  
+  
+  
+  
+
+plate 7919 plate map (indicating original location from 7878)
+
+  
+1  
+2  
+3  
+4  
+5  
+6  
+  
+A (8ul/well, 24h)  
+B10  
+C10  
+D10  
+E10F10  
+G10  
+B  
+  
+  
+  
+  
+  
+  
+  
+C  
+  
+  
+  
+  
+  
+  
+  
+D  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)a6331  
+  
+Growth Mediam6687  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with Zaber on 5x, phase (whole well) and DAPI (whole
+well and center).
+
+2\. Added 500uL/well of growth media to 30 wells (spread across 2x 24 wp).
+Placed plates in the incubator to warm. 10:17
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      3   mL in     1    tubes
+  2.  dPBS (for washing):     4.5    mL
+
+Time that all aliquots were placed in the water bath the warm before use    10
+:24  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     10:33
+
+5\. Washed the vessel(s) with dPBS (100uL/well, warmed).
+
+6\. Added    50 uL/well      tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     10:40 - 10:55 
+
+7\. Neutralised wells by adding 150uL/well of growth media from the
+destination well. Mixed the cell suspension and then transferred it to the
+destination well (in 24 wp).
+
+
+
+
+16\. Transferred vessel(s) to incubate at: 11:15
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator #68  
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+all conditions have live cells (based on morphology on phase). We expected the
+condition with 8uL/well of staining solution over 24h to affect cell viability
+but this was not observed.
+
+Passaged 6 out of the 12 wells for each condition. I've kept 6 wells for each
+condition so that we can observe whether cell viability goes down over 48h or
+72h.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

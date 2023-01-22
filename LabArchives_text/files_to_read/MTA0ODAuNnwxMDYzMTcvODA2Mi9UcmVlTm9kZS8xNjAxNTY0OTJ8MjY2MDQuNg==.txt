@@ -1,0 +1,77 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents & Materials
+
+  
+
+Item  
+ID # (cat # if ID not applicable)  
+Details  
+  
+3:1 RPMI:Hycell MixMIX-12495N/A  
+EGF  
+0.05 mg/mL  
+IGF  
+0.05 mg/mL  
+  
+  
+
+
+
+
+Culture IDs
+
+  
+
+Culture IDNew Culture ID (following passage)Type  
+12125 (B)  
+12172 (A)E500  
+12173 (B)E500  
+  
+12174 (C)E500  
+  
+  
+  
+
+
+
+
+Cell Count:
+
+  1. Sampled 1mL per flask for trypan blue staining & counting
+  2. For manual counting, pipetted 20uL suspension and diluted with an equal volume of trypan blue for 1:2 dilution and performed cell count (manual)
+  3. Sampled 200ul from 1mL aliquot in eppendorf tube. Placed Nucelocounter cassette in tube and depressed cassette 
+  4. Counts:
+    * 12124 (100% 3:1 Mix):  
+      * Manual count: 1 565 000 cell/mL
+      * Nucleocounter count: 1 730 000 cell/mL (96.6% viability,  19.4um diameter, 2.5% aggregation)
+    * 12125 (100% 3:1 Mix): 1 525 000  
+      * Manual count:  cell/mL
+      * Nucleocounter count: 1 170 000 cell/mL (97.2% viability,  19.4um diameter, 2.1% aggregation)
+    * 12126 (100% 3:1 Mix): 1 450 000  
+      * Manual count: cell/mL
+      * Nucleocounter count: 1 400 000 cell/mL (96.9% viability, 19.7um diameter, 3.2% aggregation)
+
+
+
+
+Process:
+
+  1. Counted cells (see above) out of incubator at 3:30pm, returned to incubation at 3:40pm
+  2. Prepared required media: 420mL 3:1 RPMI: Hycell Media mix. Incubated in bead bath at 3:50pm
+  3. Passaged cells at 4:15pm:
+    * 140mL newly prepared media each into x3 E500 flasks
+    * added growth factors directly to flasks: +140ul IGF, +28ul EGF per flask 
+    * added 20mL per flask of cell suspension from #12125 to each new flask for~200k/mL seeding density
+    * returned flasks to incubation at 4:40pm
+  4. Reduced shaking speed to 110RPM from 120RPM at 4:40pm
+  5. Added ~30mL dH2O to humidity pan in incubator
+
+  
+
+

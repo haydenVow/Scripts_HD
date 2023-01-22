@@ -1,0 +1,187 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+Hypothesis
+Technical Gap
+Method/Procedure
+
+
+Experiments for data generation to train ML model
+
+  
+
+If attempting to achieve better 'counts' for wells with the ML model:
+
+Experiment #1 (Perform on 6-10 x 384-well plates)
+
+  
+
+  * Add 25uL/well of Growth media to each well of the 384-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 25uL/well;
+    * Cell suspension at conc 400 cells/mL will provide 10 cells per well
+    * Cell suspension at conc 800 cells/mL will provide 20 cells per well
+    * Cell suspension at conc 1600 cells/mL will provide 40 cells per well
+    * Cell suspension at conc 3200 cells/mL will provide 80 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * Hoechst stain all wells (no need to remove Hoechst as plates will be discarded)
+  * Zaber scan for Hoechst & Phase for all wells
+
+  
+
+Train model on Phase images (using Hoechst to label the cells).
+
+  * This may contain errors in high confluence wells but worth a shot
+
+  
+
+Experiment #2 (Perform on multiple x 96-well plates)
+
+  
+
+  * Add 100uL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 100uL/well;
+    * Cell suspension at conc 100 cells/mL will provide 10 cells per well
+    * Cell suspension at conc 400 cells/mL will provide 40 cells per well
+    * Cell suspension at conc 1600 cells/mL will provide 160 cells per well
+    * Cell suspension at conc 4800 cells/mL will provide 480 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * Hoechst stain all wells (no need to remove Hoechst as plates will be discarded)
+  * Zaber scan for Hoechst & Phase for all wells
+
+  
+
+  
+
+Experiment #3 (Perform on multiple x 24-well plates)
+
+  
+
+  * Add 250uL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 250uL/well;
+    * Cell suspension at conc 200 cells/mL will provide 50 cells per well
+    * Cell suspension at conc 1000 cells/mL will provide 250 cells per well
+    * Cell suspension at conc 2000 cells/mL will provide 500 cells per well
+    * Cell suspension at conc 8000 cells/mL will provide 4000 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * Hoechst stain all wells (no need to remove Hoechst as plates will be discarded)
+  * Zaber scan for Hoechst & Phase for all wells
+
+  
+
+Experiment #4 (Perform on multiple x 6-well plates)
+
+  
+
+  * Add 3mL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 500uL/well;
+    * Cell suspension at conc 100 cells/mL will provide 50 cells per well
+    * Cell suspension at conc 1000 cells/mL will provide 500 cells per well
+    * Cell suspension at conc 2000 cells/mL will provide 1000 cells per well
+    * Cell suspension at conc 4000 cells/mL will provide 2000 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * Hoechst stain all wells (no need to remove Hoechst as plates will be discarded)
+  * Zaber scan for Hoechst & Phase for all wells
+
+  
+
+  
+
+  
+
+If attempting to achieve 'confluence' reading for wells:
+
+  
+
+Experiment #1 (Perform on 4-6 x 384-well plates)
+
+  * Add 25uL/well of Growth media to each well of the 384-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 25uL/well;
+    * Cell suspension at conc 400 cells/mL will provide 10 cells per well
+    * Cell suspension at conc 800 cells/mL will provide 20 cells per well
+    * Cell suspension at conc 1600 cells/mL will provide 40 cells per well
+    * Cell suspension at conc 3200 cells/mL will provide 80 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * CMFDA stain all wells (will require removing CMFDA to minimise background)
+  * Maintain cultures for 3 days;
+    * Day 1: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 2: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 3: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+
+  
+
+Train model on Phase images (using AF488 (CMFDA) overlap to label the cells
+fluorescently).
+
+  * This may contain errors in high confluence wells but worth a shot
+
+  
+
+  
+
+Experiment #2 (Perform on multiple x 96-well plates)
+
+  * Add 100uL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 100uL/well;
+    * Cell suspension at conc 100 cells/mL will provide 10 cells per well
+    * Cell suspension at conc 400 cells/mL will provide 40 cells per well
+    * Cell suspension at conc 1600 cells/mL will provide 160 cells per well
+    * Cell suspension at conc 4800 cells/mL will provide 480 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * CMFDA stain all wells (will require removing CMFDA to minimise background)
+  * Maintain cultures for 3 days;
+    * Day 1: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 2: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 3: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+
+  
+
+  
+
+Experiment #3 (Perform on multiple x 24-well plates)
+
+  * Add 250uL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 250uL/well;
+    * Cell suspension at conc 200 cells/mL will provide 50 cells per well
+    * Cell suspension at conc 1000 cells/mL will provide 250 cells per well
+    * Cell suspension at conc 2000 cells/mL will provide 500 cells per well
+    * Cell suspension at conc 8000 cells/mL will provide 4000 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * CMFDA stain all wells (will require removing CMFDA to minimise background)
+  * Maintain cultures for 3 days;
+    * Day 1: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 2: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 3: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+
+  
+
+  
+
+Experiment #4 (Perform on multiple x 6-well plates)
+
+  * Add 3mL/well of Growth media to each well of the 96-well plates
+  * Zaber scan (cell-free wells)
+  * Harvest continuous culture cells; seed 500uL/well;
+    * Cell suspension at conc 100 cells/mL will provide 50 cells per well
+    * Cell suspension at conc 1000 cells/mL will provide 500 cells per well
+    * Cell suspension at conc 2000 cells/mL will provide 1000 cells per well
+    * Cell suspension at conc 4000 cells/mL will provide 2000 cells per well
+  * Leave overnight/or for few days depending on when it's seeded
+  * CMFDA stain all wells (will require removing CMFDA to minimise background)
+  * Maintain cultures for 3 days;
+    * Day 1: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 2: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+    * Day 3: Zaber scan for AF488 (cell cytoplasm) & Phase for all wells
+
+  
+
+

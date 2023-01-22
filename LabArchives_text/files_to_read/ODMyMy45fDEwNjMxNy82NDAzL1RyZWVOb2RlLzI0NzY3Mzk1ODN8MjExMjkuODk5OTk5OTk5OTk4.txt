@@ -1,0 +1,49 @@
+
+
+## Completed by: Lily
+
+
+Aim/Purpose
+
+
+To generate a standard curve for adherent CHOMP and suspension CHO-S cells
+with an XTT assay and to determine the minimum number of cells detected with
+this assay.
+
+
+Hypothesis
+
+
+That we will plot a standard curve for adherent CHOMP and suspension CHO-S
+cells and that the XTT assay will be sensitive enough to detect wells with 50
+cells.
+
+
+Technical Gap
+
+
+We have not tested XTT assays to assess CHOMP or CHO-S confluence at Vow, and
+do not know whether the assay will be sensitive enough and/or suitable for our
+purposes with single-cell cloning.
+
+
+Method/Procedure
+
+
+Experimental Plan
+
+  1. D0: Thaw CHOMP fibroblasts and CHO-S cells and seed 2 x 96-wp as shown below:  
+
+  2. D1: Add XTT reagent to plates (follow manual instructions). 
+    * Run on plate reader at 1H 
+    * Run on plate reader at 4H 
+  3. D2: Run on plate reader (1D) 
+  4. D6: Run on plate reader (5D) 
+  5. D8: Run on plate reader (7D) 
+  6. D10: Run on plate reader (9D)
+  7. D13: Run on plate reader (12D) 
+  8. D15: Run on plate reader (14D)
+  9. D17: Run on plate reader (16D) 
+  10. Plot graphs for each plate reader run to generate standard curve and monitor how readings change over incubation periods
+
+

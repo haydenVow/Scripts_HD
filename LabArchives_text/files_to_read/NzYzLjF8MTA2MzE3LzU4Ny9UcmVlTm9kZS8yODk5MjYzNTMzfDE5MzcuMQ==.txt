@@ -1,0 +1,187 @@
+
+
+Working Current Knowledge Summary
+
+Electrical stimulation has been found to increase myogenic maturation, myotube
+formation and alignment. This is demonstrated in literature through enhanced
+myosin heavy chain expression and increased myogenic markers MyoD and desmin.
+Most stimulating setups use charge balanced square biphasic waveforms or a
+salt bridge to prevent pH changes to the media. Different burst and frequency
+patterns have been shown to produce different outcomes, such as different
+myosin isoforms. Voltages used are commonly in the range of 2-100 mV/cm or
+2-10 V/cm, where the units V/cm refers to the total voltage used over the
+distance between the positive and negative electrodes. Studies which have
+shown alignment have used voltages in the rage of 2 - 10 V/cm. Stimulation is
+typically started at or after the cells have been changed from growth to
+differentiation media. It is hypothesised that electrical stimulation induces
+myotube formation by promoting cell growth in a PI3K-dependent manner.
+
+
+
+
+Recommendation for Implementation
+
+Try the following:
+
+  1.  0 - 100 mV/cm and 2 - 10 V/cm experiments.
+  2. AC signal. 50 - 100 Hz. Vary intermittent stimulation: every 100 s to 1 hour.
+  3. Check for cell alignment and maturation via immunofluorescence and western blot.
+  4. Use Arduino Uno R3 to create electrical stimulation with stainless steel electrodes for good charge transfer and corrosion resistance. (Code for the waveform can be developed using the Supplementary Information from Shamsabadi and Selvaganapathy. 2020. Tissue-in-a-Tube: three-dimensional in vitro tissue constructs with integrated multimodal environmental stimulation. Or other online forums for open source Arduino code can also be used).
+
+
+
+
+ELECTRICAL STIMULATION (please insert main finding and reference):
+
+1. Electrophysiologic stimulation improves myogenic potential of muscle precursor cells grown in a 3D collagen scaffold - Elena Serena et al. - 2008
+
+https://www.tandfonline.com/doi/abs/10.1179/174313208X281109
+
+An electric field to mimic neuronal activity (70mV/cm, square waveform, 3 ms,
+33.3 mHz) was applied to muscle precursor cells cultured within 3D collagen
+scaffolds. This resulted in increased expression of myogenic markers MyoD and
+desmin. It also increased the release rate of NOx (an early molecule activator
+of satellite cells in vivo) by 65%.
+
+  
+
+  
+
+2. Tissue-in-a-Tube: three-dimensional in vitro tissue constructs with integrated multimodal environmental stimulation - A.Shahin-ShamsabadiaP.R.Selvaganapathy - 2020  
+
+https://www.sciencedirect.com/science/article/pii/S2590006420300302
+
+A step electrical signal with peak to peak voltage of 10 V (5 V/cm) and
+frequency of 50 Hz was applied (5 samples in parallel). An open source
+microcontroller, Arduino Uno R3, was used to create this signal and to control
+a motor that was used for perfusion (flow rate of 0.1 mL/min for 1 min every
+12 h). The code used for programming the microcontroller that controls the
+bioreactor is included as supplementary information.  
+
+Electrical stimulation while greatly affected the cell alignment and fiber
+formation, did not influence the protein content of samples.  
+
+Supplementary info: https://ars.els-
+cdn.com/content/image/1-s2.0-S2590006420300302-mmc2.pdf
+
+  
+
+  
+
+3\. Effects of chronic stimulation with different impulse patterns on the
+expression of myosin isoforms in rat myotube cultures - Karin Naumann, Dirk
+Pette - 1994
+
+https://pubmed.ncbi.nlm.nih.gov/8187982/
+
+Generally, stimulation enhanced myotube maturation and the development of
+cross-striations. This effect was more pronounced at low (e.g., 100 Hz every
+100 s) than at high burst frequency (e.g., 100 Hz every 4 s).
+
+The developmental state of the myotubes was judged by their myosin heavy chain
+(HC) patterns. Newly formed myotubes only expressed the embryonic isoform,
+HCemb older myotubes expressed the neonatal isoform HCneo as well as the fast
+adult isoforms HCIIb and HCIId.
+
+Bursts of 250ms duration at 15 Hz, 40 Hz, or 100 Hz, repeated every second or
+every 4s, induced the expression of slow myosin, i.e., HCI. Bursts of 250ms
+duration at IOOHz, repeated every 100 s, enhanced the expression of HCIId, but
+not of HCI. Because slow myosin was induced at high burst frequency with low
+and high pulse rates, we suggest that burst frequency rather than pulse
+frequency has a specifying effect on myosin expression.
+
+Fig. 1 a-d. Silver-stained electrophoresis (a) and immunoblot analyses (b-d)
+of myosin heavy chain patterns in extracts from a fibroblast culture and from
+myotube cultures of different age.
+
+  
+
+4\. Promotion of Myogenic Maturation by Timely Application of Electric Field
+Along the Topographical Alignment
+
+https://www.liebertpub.com/doi/abs/10.1089/ten.tea.2017.0055
+
+When EF stimulation was applied in the early stage at day 0, there was no
+difference in MHC expression compared with the control group. In contrast,
+cell groups stimulated at days 4 or 6 showed significant increase in the MHC
+expression with more myotubes compared with the control group.  
+Additionally, they found that the level of C2C12 differentiation depended on
+the direction of the EF. In the case of the stimulation at day 6, the parallel
+EF direction dramatically enhanced the MHC expression and myotube formation.
+The fusion index was higher in the parallel arrangement of the topographical
+and electrical cues than in the orthogonal case.
+
+They hypothesise the EF stimulation induces the myotube formation in a
+PI3K-dependent manner.
+
+  
+
+Summary Table
+
+  
+
+Author & YearPaper TitleDOIApparatusStimulus Voltage /
+WaveformCurrentFrequency / Pulse Duration etcStart Timepoint /
+DurationAnalysisOutcome  
+Serena et al.,  
+2013Electrophysiologic stimulation improves myogenic potential of muscle
+precursor cells grown in a 3D collagen scaffold
+
+  * https://doi.org/10.1179/174313208X281109
+
+NASquare Wave  
+0 V baseline  
+70mV/cmNA33.3 mHz  
+3 msApplied 3 days after cell seeding on scaffold.  
+  
+Increased expression of myogenic markers MyoD and desmin.  
+Increased the release rate of NOx (an early molecule activator of satellite
+cells in vivo) by 65%.  
+Shahin-shamsabadi and Selvaganapathy  
+2020Tissue-in-aTube: three-dimensional in vitro tissue constructs with
+integrated multimodal environmental
+stimulationhttps://doi.org/10.1016/j.mtbio.2020.100070Arduino Uno R310 V  
+(5 V/cm)NA50 Hz  
+  
+Greatly affected the cell alignment and fiber formation, did not influence the
+protein content of samples.  
+Ko et al.,  
+2018Promotion of Myogenic Maturation by Timely Application of Electric Field
+Along the Topographical Alignment10.1089/ten.tea.2017.0055NA2
+V/cmNAIntermittent EF cycles of 10 min stimulation separated by 20 min resting
+were applied for the total stimulation time of 3 hRepeated cycles of
+stimulation and resting periods. Intermittent EF cycles of 10 min stimulation
+separated by 20 min resting were applied for the total stimulation time of 3
+h.  
+Immunofluorescence  
+  
+Using fast skeletal myosin (MHC) monoclonal antibody (1:100; Abcam) with Alex
+Flour 488 mouse secondary antibody (1:200; Invitrogen).  Additionally actin
+cytoskeleton was stained by Alex Flour 568 phalloidin (1:50; Invitrogen) and
+cell nuclei were stained by 4',6-diamidino-2-phenylindole (DAPI).  
+  
+Enhanced MHC expression and myotube formation. Alignment.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Enhanced myotube maturation and the development of cross-striations.  
+  
+
+

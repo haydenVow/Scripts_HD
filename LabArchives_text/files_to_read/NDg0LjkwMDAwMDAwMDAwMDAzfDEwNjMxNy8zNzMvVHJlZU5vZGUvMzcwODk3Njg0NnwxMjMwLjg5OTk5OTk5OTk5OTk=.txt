@@ -1,0 +1,154 @@
+
+
+HOECHST STAINING PROTOCOL
+
+Reagent Preparation:
+
+  
+  
+  
+  
+ReagentMix/Stock/Aliquot NumberVolumes  
+  
+PBS
+
+1624600 uL  
+  
+Hoechst Stain140312 ul  
+  
+  
+  
+
+Protocol.
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use Hoechst at 20ul/mL.
+
+  
+
+  1. Prewarmed PBS for 10 mins in water bath. 10:27 - 14:20
+  2. Prepared Hoechst stain by adding 12 ul of Hoechst to 0.6 ml of PBS. 14:22
+  3.  Retrieve N = 2 cell seeded and N=1 cell free Zein scaffolds from the 24w plate and N = 3 from the bioreactor and transfer to a new 24w plate  
+
+  4. Covered these wells with 100 ul hoechst/media mix and incubate cells at 37°C for 10 minutes, protected from light. 14:42-14:52
+  5. Removed Hoechst/media mix. 
+  6. Wash with 2x with 200 ul PBS for 5 minutes. 14:58 - 15:03 , 15:03 - 15:08  
+  
+
+  7. Replaced PBS with fresh PBS for imaging. 
+  8. Imaged both sides on Zabre microscope 
+
+  
+
+General observations:
+
+if applicable
+
+Images:
+
+Control 24WP seeded 1
+
+Side 1
+
+Side 2
+
+Control 24WP seeded 2
+
+Side 1
+
+Side 2
+
+Control 24WP Cell Free
+
+Side 1
+
+Side 2
+
+Maturation Bioreactor Sample 1
+
+Side 1
+
+Side 2
+
+Maturation Bioreactor Sample 2
+
+Side 1
+
+Side 2
+
+Maturation Bioreactor Sample 3
+
+Side 1
+
+Side 2
+
+  
+
+
+
+
+MTT STAINING PROTOCOL
+
+Reagent Preparation (Example dilution is 75 mg MTT in 15 mL Diluent - so 5mg
+of MTT per mL)
+
+  
+  
+  
+  
+ReagentMix/Stock/Aliquot NumberVolumes/Mass  
+  
+MTT
+
+88430 mg  
+  
+DMEM16246 ml  
+  
+  
+ Protocol:
+
+  1. Aliquotted 6 ml of DMEM media and placed in water bath , 10:10
+  2.  Retrieve N = 1 alginate from bioreactor and N = 1 alginate from the 6 well plate and N = 1 cell seeded zein from the 24 well plate
+  3. Weighed out 30 mg of MTT (Stock #884) into a falcon tube then add  6 ml of the pre-warmed DMEM.  
+  4. Pipetted up and down until re-suspended. Yellow colour should form. Cover tube with foil.
+  5. Removed the vessels containing the alginate samples from the incubator
+  6. Using a sterile spatula, transferred samples to new wells of a 24-well plate
+  7. Covered each sample with 1.5 ml per well of the MTT DMEM PRF media. 
+  8. Protected the plate from light using foil and placed in the incubator for 1h (37ºC, 5% CO2). 11:00 - 12:00
+  9. Replaced media with PBS for better visibility of the sample colour.
+  10. Took pictures of the samples in the MTT plate using a phone/camera and attach below.  12:14
+  11. Imaged samples down the microscope (phase), 3 images per sample. Upload images below. 12:44
+
+Note - purple coloration indicates live cells - samples which remain yellow
+suggest no cells or dead cells
+
+General observations:
+
+All samples showed a black stain with good cell coverage. More cell coverage
+on one side of the zein than the other.
+
+Images:
+
+General
+
+Scaffolds Cut Up and Flipped:
+
+\- Side 1
+
+\- Side 2
+
+MIA
+
+Plate 6441 - Seeded Zein Scaffold Control from 24WP
+
+https://mia-capture.vow.tools/#/session/rec4U5lvFdsGdPkgX/images
+
+Plate - Seeded Alginate Scaffold Control from 6WP
+
+https://mia-capture.vow.tools/#/session/rectSSlyK4XRiaPJr/images
+
+Plate 6440 - Seeded Alginate from Maturation Bioreactor
+
+https://mia-capture.vow.tools/#/session/recRZSkq27pqN9T7t/images
+
+

@@ -1,0 +1,116 @@
+
+
+LINK TO SHORTCUT EPIC PAGES:  
+Addy's Experiment  
+Eva's Experiment  
+Assessing different species in differentiation  
+Determining whether cold media, the drying out of cells and/ore pipetting
+force are causing cell death  
+DOLLY12 MCB vs WCB  
+  
+
+LINK TO AIRTABLE ENTRY PAGE:  
+
+Addy's Experiment  
+Eva's Experiment  
+Assessing different species in differentiation  
+Determining whether cold media, the drying out of cells and/or pipetting force
+are causing cell loss  
+DOLLY12 MCB vs WCB
+
+RELATED TO MILESTONE:  Key Results 2: Increase maturation markers by 10x
+compared to non-stimulated control. (0.4 Milestone - achieve survival of a
+primary cell line in differentiation for 14 days)
+
+AIM/PURPOSE:  
+To identify the potential sources of significant cell loss seen in many Q3
+experiments using DOLLY12 cells.  
+To experiment until we understand the contributing factors, and be able to
+controllably replicate the cell loss.  
+To rectify issues identified and achieve at least 10 days of differentiation,
+demonstrating cell survival throughout.
+
+HYPOTHESIS: That there is an interaction of cells, media and/or handling that
+is contributing to the significant cell loss being observed, and that through
+experimentation, we can identify those causes and rectify them to achieve cell
+survival throughout differentiation.
+
+RESULTS SUMMARY: "See Reports within EPIC".
+
+CONCLUSIONS:
+
+Addy/Eva's experiment: Despite not having reliable control conditions (due to
+unexpected cell death in the Horse Serum controls), the results appear to
+favour the hypothesis that a lower feeding volume and frequency may be more
+beneficial for cell viability and maturity. More investigation will need to be
+undertaken to come to a conclusive action.
+
+Assessing different species in differentiation: When comparing DOLLY12, DAISY4
+and BUFFY6 primary MuSCs with C2C12 (immortalised mouse myoblasts) in 10 days
+of differentiation, DOLLY12 cells in E6 differentiation media suffer the
+greatest cell loss compared to all other conditions.
+
+Determining whether the handling of cells contributes to cell loss: The
+results suggest that our primary cells are more robust than initially expected
+and that operator handling (pipetting force), the temperature of the media and
+whether wells are left to dry or not has not been the root cause of the cell
+loss observed during Q3 and prior. In this experiment, all DOLLY12 cells
+exposed to E6 differentiation media experienced significant cell loss,
+indicating an interaction between the cells and the media that is unfavourable
+to cell survival.
+
+DOLLY12 MCB vs WCB: When comparing DOLLY12 MCB and WCB MuSCs over 10 days of
+differentiation, DOLLY12 cells in E6 differentiation media suffer the greatest
+cell loss regardless of their passage number. The extreme cell loss witnessed
+appears to be a consequence of the relationship between DOLLY12 cells and E6
+media, rather than cell senescence.
+
+NEXT STEPS: Do not use DOLLY12 MuSCs for differentiation in E6 Differentiation
+media. Instead, use BUFFY6 cells or another primary cell line that has been
+proven to maintain cell attachment and survival throughout differentiation and
+maturation.
+
+
+
+
+Cell Death experiment tracker
+
+#
+
+Study summary
+
+lead
+
+Findings/Observations
+
+2%HS survived?
+
+E6 survived?  
+  
+1
+
+Feeding Schedule (50 vs 100%, daily vs every second day)Addy, EvaDOLLY12 cells
+in 2% HS died suddenly mid-way through differentiation. Likely an anomaly. N
+(control died)Y (survived until Day 10 Diff)  
+  
+2
+
+Cell line effect (Dolly vs C2C12 vs BUFFY vs DAISY)BecAll cells in E6 and 2%
+HS survived 10 days of differentiation except for DOLLY12 cells in E6 which
+experienced significant cell loss.YAll (Y) except DOLLY12 (N)  
+  
+3
+
+Handling technique (temp of media, pipetting force and drying out of wells in
+between feeds)EvaAll cells (C2C12 and DOLLY12) survived 7 days of
+differentiation except for DOLLY12 cells in E6 which experienced significant
+cell loss in all handling conditions, regardless of how gentle or harshly they
+were handled.YAll (Y) except DOLLY12 (N)  
+  
+4
+
+Senescence effect (MCB used as starting point)BecDOLLY12 cells (both MCB and
+WCB) experienced significant cell loss in E6, but no cell loss in 2% HS
+media.YN (both MCB and WCB)
+
+

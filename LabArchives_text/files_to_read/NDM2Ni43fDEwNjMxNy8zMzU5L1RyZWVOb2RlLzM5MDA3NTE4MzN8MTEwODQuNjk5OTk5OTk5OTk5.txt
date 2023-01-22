@@ -1,0 +1,178 @@
+
+
+## Feed performed by: LL  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+E1257466-NANDO3F-Chicken P3-1of1  
+Library lab incubatorLibrary lab fridge104  
+  
+  
+E1257465-F_DOLLY12-Sheep P8-1of1  
+Library lab incubator  
+Library lab fridge104  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediumMix #6191 + S3199  
+30 mL  
+dPBS  
+m5067  
+1 mL  
+  
+PI  
+m6317  
+50 uL  
+  
+Hoechst  
+s3594  
+20 uL  
+  
+  
+  
+
+Growth Medium: DMEM + 10% FBS + 1xP/S + 1:100 anti-clumping agent
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 30 mL  of  DMEM + 10% FBS + 1xP/S + 1:100 ACA   
+Placed in water bath: 10:25  
+
+  2. Paused shakers by pressing the "play" button on the controller on the side wall of the incubator
+  3. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC
+  4. Using a 5 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  5. Pipetted suspension though 70 um cell strainer into 2 x 50 mL tubes
+  6. Centrifuged at 300 x g for 5 min. Timestamp: 10:55 - 11:00
+  7. Aspirated 15 mL of supernatant, taking care to not disrupt or aspirate pellet 
+  8. Re-suspended cultures using serelogical.
+  9. Took 1 x 500 uL sample from 15 mL cell suspension and followed procedure in entry below to count cells.
+  10. Replaced with 15 mL of fresh, warmed media
+  11. Gently pipette-mixed cultures again before moving back to E125 flasks
+  12. Returned vessel to incubator and replaced in clamp. Pressed "play" at side of incubators. Timestamp: 11:10
+
+  * Incubator (#68), Lab [Main/Library/Production]
+
+
+
+  1. Filtered 5 mL dPBS to remove any debris:
+    1. Used 0.2 or 0.45 um pore size syringe filter
+  2. Prepared stain buffer by combining:
+    1. 1 mL filtered dPBS
+    2. 1 drop (~50 uL) of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    3. 50 uL of Propidium Iodide 1 mg/mL solution
+  3. Took 0.5 mL sample from culture 11:09
+  4. Prepared 1 or more wells in a 96 well plate, each containing:
+    1. 20 uL of sample from culture
+    2. 80 uL of stain buffer
+  5. Incubated culture in stain for 10-20 minutes (signal intensified as incubation time increased) at room temperature in the dark 11:18 - 11:36
+  6. Centrifuged the 96 well plate at 650 RCF for 1 minute 11:37 - 11:42 (accidentally did 5 min)
+  7. Took phase contrast, blue fluorescence and red fluorescence micrographs of each well
+  8. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (red fluorescent nuclei, stained with propidium iodide)
+
+
+
+
+Analyzed images from MIA:
+
+  1. Opened MIA capture, opened relevant image record set and navigated to "Review"
+  2. Selected image sets for download
+  3. Clicked Analyze > Analyze with MIA
+  4. Entered name and email, left "Analysis" drop-down field blank
+  5. Clicked "Submit Job"
+  6. Downloaded the zipped results file from MIA (attached below)
+  7. Extracted the compressed images from the zipped results file  
+
+
+
+
+Analyzed the blue fluorescence images in FIJI:
+
+  1. Opened FIJI
+  2. Navigated to Process > Batch > Macro
+  3. Selected the Input folder (chose the folder containing the blue fluorescence images)
+  4. Selected the Output folder (chose the same folder as the input)
+  5. Pasted the text from the blue fluorescence macro into the text box
+    1. 1x1 PI count is for single images
+    2. 2x3 PI count is for stitched composite images of whole wells
+  6. Clicked Process
+
+  
+Blue fluorescence micrograph of well A1  
+
+
+
+  
+Blue fluorescent nuclei in well A1, identified by FIJI macro  
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+Analyzed the red fluorescence images in FIJI:
+
+  1. Navigated to Process > Batch > Macro
+  2. Selected the Input folder (chose the folder containing the red fluorescence images)
+  3. Selected the Output folder (chose the same folder as the input)
+  4. Pasted the text from the red fluorescence macro into the text box
+    1. 1x1 PI count is for single images
+    2. 2x3 PI count is for stitched composite images of whole wells
+  5. Clicked Process
+
+Red fluorescence micrograph of well A1  
+
+
+
+Red fluorescent nuclei in well A1, identified by FIJI macro  
+
+
+
+  
+
+  
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. 7342-NANDO3F-Chicken P3-1of1
+  2. 7465-F_DOLLY12-Sheep P8-1of1  
+  
+Got decent Hoechst signal on DAPI channel but barely any PI signal on 555 nm
+channel.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Zaber images at: https://mia-
+capture.vow.tools/#/session/reccftbzlMCsorzVB/images
+
+

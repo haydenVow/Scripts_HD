@@ -1,0 +1,188 @@
+
+
+Vow Food Contacts:
+
+Ellen Dinsmoor, Head of Operations, ellen@vowfood.com
+
+Tim Noakesmith, co-founder and Chief Commercial Officer tim@vowfood.com
+
+Marie Gibbons, research scientist, marie@vowfood.com
+
+Background:
+
+Vow are a cultured meat company here in Sydney.  They are creating meat using
+animal cells, rather than entire animals, and we are interested in advancing
+our research with the help of some proteomics. Specifically a list of relative
+quantities (such as Max Quant's intensity-based absolute quantification iBAQ
+or exponentially modified protein abundance index (emPAI).
+
+
+
+
+19/8/21
+
+The first sample will be 1g of a frozen, single-cell population derived from
+sheep for label-free proteomics.  The aim is the proportionate abundance of
+different proteins.
+
+25/8/21
+
+PPMS order placed for: 1g of a frozen, single-cell population derived from
+sheep for label-free proteomics that will be sent frozen (-20C). We're looking
+to show relative protein abundance based on ion intensity, and we can generate
+rough g/g amounts using BCA data provided by the core. Our aim is to determine
+the relative abundance of the different proteins within the sample (ideally
+having a table of proteins in order of abundance) with an indication of the
+proportion of the relative proteins in the sample.
+
+
+
+
+27/08/2021
+
+Sample arrived at CPC by uber courier. was placed in the -30 C freezer in
+contract box.
+
+
+
+
+1/9/2021
+
+Thawed sample, added 600uL U/TU and tipprobe sonicated (2 x 20s @70%
+continuous power)
+
+Acetone precipitation (1mL ice cold acetone , -30 deg C O/N) was applied to
+the sample
+
+2/9/2021
+
+Sample was divided into 3 and centrifuged at 16g for 10min, discarded
+supernatant and air dried pellet (browish pellet)
+
+Added 200uL to one sample and stored the other 2 (-30deg freezer, contract
+samples box).
+
+Had a lot of trouble resolubilising, tried sonic bath, tip probe and added an
+extra 800uL U/TU.
+
+Took out 2uL for QUBIT quant (5.9mg/mL)
+
+Reduced with 10mM DTT for 30 min at room temperature
+
+Alkylated with 25mM IAA for30 min at room temperature in the dark
+
+Quenched with DDT to a final concentration of 20mM
+
+Took out 20 uL (~120ug)
+
+Diluted with AmBiC 1 in 5 (final vol = 100uL)
+
+Digested with 2.4ug of trypsin overnight at 37 degrees in Thermomixer
+
+  
+
+  
+
+
+
+
+3/9/2021
+
+Sample removed from Thermomixer and placed into fridge
+
+6/9/2021
+
+TFA was added to a final concentration of 1%
+
+Sample was centrifuged for 16 000g for 5 mins
+
+Half of the sample (~600 uL) was removed and underwent a HLB syringe clean up
+
+Elution was dried in speed vacuum overnight
+
+7/9/2021
+
+Sample was reconstituted in 30 uL water
+
+Qubit reading of 1.07 mg/mL
+
+3 uL loaded onto the HFX3 - results appear low
+
+Removed sample from vial and dried via speed vacuum for ~1 hour
+
+Reconstituted in 15 uL loading buffer
+
+Qubit reading of 1.50 mg/mL
+
+3 uL loaded onto the HFX3
+
+  
+
+
+
+
+7/9/21
+
+System suitability tests
+
+Run722 RT 722 Counts  % CovNo PepScore  
+7th - 127.047.73e8513411079  
+7th -  227.037.54e8493310098  
+7th -  3  
+27.091.05e9493310008  
+  
+8th - 1  
+29.041.08e947329595  
+8th - 2  
+29.061.25e9493311335  
+8th - 3  
+29.311.00e9513411297
+
+
+  
+  
+8/9/21 Total Ion Chromatograms
+
+Run 1
+
+Run 1 at increased loading:
+
+
+
+
+8/9/21
+
+The runs were processed using Proteome Discoverer 2.5 and the MS Amanda:
+
+  
+
+RunProteinsProt GrpPep GrpPSMMSMS  
+113568492147252938616  
+1 with inc. loading3211912883229486  
+  
+Run 1, top 10 hits:
+
+Run 1 with increased loading, top 10 hits:
+
+  
+
+
+
+
+8/9/21
+
+The iBAQ (MS Amanda) workflow was benchmarked against the PD2.5 Mascot 2.8
+workflow:
+
+  
+
+RunProteinsProt GrpPep GrpPSMMSMS  
+1183411934215533838616  
+1 Conc6263878239989486  
+  
+The number of missed cleavages is higher than expected:
+
+To improve the results the 2 new digests were set up, one after a repeat
+acetone precipitation and one after a chloroform-methanol cleanup.
+
+

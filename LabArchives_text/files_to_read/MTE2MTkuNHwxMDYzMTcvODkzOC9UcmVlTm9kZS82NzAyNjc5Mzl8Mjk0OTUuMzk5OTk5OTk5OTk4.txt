@@ -1,0 +1,41 @@
+Data analysis:
+
+
+Link to spreadsheet
+
+
+  
+  
+Figure 1: Raw data from ImageJ DAPI %area analysis
+
+
+  
+  
+Figure 2: One way ANOVA analysis conducted on the raw data shown in Fig 1
+above.
+
+
+Discussion:
+  
+  
+The analysis of this experiment was done through a DAPI count by ImageJ
+macros. This analysis tool while is fairly accurate for some images - can fail
+when cell morphology deviates from normal fibroblast morphology. The
+morphology of these fibroblasts in albumin containing media resembles cells
+that form colonies and clump together. This does not fare particularly well
+with the existing ImageJ macros we have on MIA analysis. With some tweaking by
+Alex, the %Area identified serves as a good metric.
+
+As seen from the Figures above, no difference in adherence between
+concentrations of Albumin has been identified by the ImageJ macro.
+Observationally, variable adherence was seen across all conditions when images
+were captured and no concrete difference could be seen within Albumin
+concentrations. A stark difference was seen between Albumin and Serum
+conditions however.
+
+This experiment will need to be repeated in a more controlled fashion to
+obtain a more definitive answer regarding concentrations.
+
+  
+
+

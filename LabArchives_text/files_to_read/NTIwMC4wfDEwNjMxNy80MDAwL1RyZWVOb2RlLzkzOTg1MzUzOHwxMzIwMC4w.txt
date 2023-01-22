@@ -1,0 +1,132 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2307-Culture-6303-Vial-28of115  
+8123-F_DOLLY12-Sheep P-8-1-of-1  
+384 wp  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Mediam6789  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   2x 30 mL 
+  * Time that aliquot was placed in the water bath to warm before use:   13:20   \-        
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:13 - 14:18  
+
+Location where cryovial was collected from:
+
+Vial details:  1  cryovials at  1 million  cells
+
+Brew
+
+Tower/Bucket #2  
+
+Box/Cane #2  
+
+Vial location: C9  
+
+Vial ID(s): 2307-Culture-6303-Vial-28of115  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of ~30mL Growth Media. `
+
+`7. Used this cell suspension to seed half of a 384 wp (column 1-12) with
+70uL/well.`
+
+`8. Diluted 10mL from the remaining cell suspension into 30mL more of growth
+media (i.e. 1 in 4 dilution). Used this to seed the other half of a 384 wp
+with 70uL/well.  
+`
+
+`9. Transfered flask/plate(s) to incubate at:  14:50  
+`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed F_DOLLY12 and seeded 1x 384 wp (half with high cell density, half with
+low).
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

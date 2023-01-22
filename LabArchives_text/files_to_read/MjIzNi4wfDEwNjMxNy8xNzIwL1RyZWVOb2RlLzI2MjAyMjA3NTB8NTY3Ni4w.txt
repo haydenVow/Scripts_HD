@@ -1,0 +1,188 @@
+  
+  
+Perform feed using below volumes:
+
+
+
+
+## Feed performed by: Avani  
+
+
+
+
+Culture IDs to feed
+
+Condition  
+Vessel ID  
+  
+  
+condition 1: 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+  
+7039  
+  
+condition 2: 1000 cells/cm^2, E810C (will be used as gelatin control later)  
+7040  
+  
+  
+condition 3: 1000 cells/cm^2, E810C
+
+7041  
+  
+  
+condition 4: 1000 cells/cm^2, Beefy-9
+
+7042  
+  
+  
+condition 5: 2500 cells/cm^2, Beefy-9
+
+7043  
+  
+  
+condition 6: 1000 cells/cm^2, Beefy-10C
+
+7044  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   5.2 mL  mL of  each growth media into  1     tube(s). Placed
+in water bath   10:40 - 11:30  
+
+    condition 1: 5.2mL DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i (2.6uL)
+
+    condition 2: 5.2 mL E810C
+
+    condition 3: 5.2 mL E810C
+
+    condition 4: 5.2 mL Beefy 9 (B8 + 20.8uL albumin)
+
+    condition 5: 5.2 mL Beefy 9 (B8 + 20.8uL albumin)
+
+    condition 6: 5.2 mL Beefy 10C (B8+10C + 20.8uL albumin)   
+
+2\. Removed   100 % of supernatant from vessel.
+
+3\. Replaced with  5 mL (per well/per vessel) of   respective growth  media.
+
+4\. Returned vessel to incubate at: 11:42
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator Thermo, Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+100  % media changed on vessel(s)
+
+7039-DOLLY12-Sheep P9-1of6  
+7040-DOLLY12-Sheep P9-2of6  
+7041-DOLLY12-Sheep P9-3of6  
+7042-DOLLY12-Sheep P9-4of6  
+7043-DOLLY12-Sheep P9-5of6  
+7044-DOLLY12-Sheep P9-6of6
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E810C  
+see linked lab book entry  
+  
+  
+B8 and B8+10C  
+see linked lab book entry  
+  
+  
+D?F + 20 FBS + 1x P/S + 10uM p38i  
+m4861  
+  
+  
+albumin  
+s1803  
+  
+  
+p38i  
+m4928  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+| ID    | Image
+| Culture                    | Plate Location | Image Type | Magnification |
+Notes | Created                  | Imaging Station  | Experiment
+|  
+| ----- |
+-------------------------------------------------------------------------------------------------------------------------
+| -------------------------- | -------------- | ---------- | ------------- |
+----- | ------------------------ | ---------------- |
+------------------------------------------- |  
+| 98088 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:21:46Z_recliGQrepyT6p8jp_2-Primo-Main-Lab_Z60Mu.png |
+7039-DOLLY12-Sheep P9-1of6 |                |            |               |
+| 2021-06-09T01:21:46.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |  
+| 98089 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:22:27Z_rece8SUWLVHt15x2N_2-Primo-Main-Lab_EQ8Ll.png |
+7040-DOLLY12-Sheep P9-2of6 |                |            |               |
+| 2021-06-09T01:22:27.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |  
+| 98091 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:23:52Z_recwpS0b7jByaj2s6_2-Primo-Main-Lab_KCBfH.png |
+7041-DOLLY12-Sheep P9-3of6 |                |            |               |
+| 2021-06-09T01:23:52.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |  
+| 98092 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:24:52Z_recYquQHkLb47KPGs_2-Primo-Main-Lab_5KJsp.png |
+7042-DOLLY12-Sheep P9-4of6 |                |            |               |
+| 2021-06-09T01:24:52.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |  
+| 98093 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:25:50Z_recy4GEa7S4O7Dm7L_2-Primo-Main-Lab_1EZ0w.png |
+7043-DOLLY12-Sheep P9-5of6 |                |            |               |
+| 2021-06-09T01:25:50.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |  
+| 98094 | https://storage.googleapis.com/microscope-image-
+archive/2021-06-09T01:26:56Z_receWO2pOQVD5CI3I_2-Primo-Main-Lab_QqQL5.png |
+7044-DOLLY12-Sheep P9-6of6 |                |            |               |
+| 2021-06-09T01:26:56.000Z | 2-Primo-Main-Lab | EPIC19442- Delayed Albumin and
+optimized E8 |
+
+  
+
+

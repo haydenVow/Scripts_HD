@@ -1,0 +1,631 @@
+Brief Background
+
+
+Cultured meat which is biologically equivalent to slaughtered meat is a long
+term aim for Vow, due to the sensorial and nutritional aspects of such a
+product. The content and nature of the proteins, the composition of volatile
+compounds and the presence of myoglobin are the molecular characteristics
+which make traditional meat so difficult to replicate with plant protein
+(Fraeye et al., 2010). One of the most important biophysical cues for muscle
+development within the body is electrical impulses from motor neurones (Castro
+et al., 2020). Electrical stimulation setups aiming to replicate this aspect
+of the cell's natural microenvironment vary greatly between studies (Banan
+Sadeghian et al., 2018; Donnelly et al., 2010; Ko et al., 2018; Mobini et al.,
+2016; Serena et al., 2008; van der Schaft et al., 2013). Some common aspects
+of these systems are the use of biphasic stimulation waveforms and platinum
+(Mobini et a., 2016) or stainless steel electrodes (Donnelly et al., 2010).
+
+This series of tests looks at the effects of a simple set up using cheap
+materials and minimal hardware. A cheap and simple electrode set up may be the
+easiest to scale but poses the most risk of causing damage to the cells
+through media pH changes or other biochemical reactions. The stimulation setup
+used in this series of tests will consist of a charge balanced stimulator with
+stainless steel electrodes. Preliminary tests (EPIC21480) have shown that
+without charge balanced stimulation, severe electrode dissolution and
+biochemical reactions occur within the media using stainless steel electrodes.
+Other electrode materials such as Pt are much more expensive than stainless
+steel, so it will be of value to investigate this cheaper electrode material
+first, with charge balanced stimulation.
+
+
+Key Results
+
+
+Test 1 results indicated increased DOLLY-12 cell mass and structure formation
+in the centre of the stimulated wells (6 us pulse width, 2 Hz) compared to the
+control wells (Figure 1). This was observed using phase-contrast imaging in
+5/6 of all stimulated wells with no significant difference in results
+determined between the two different voltages applied (4 V/cm and 1.3 V/cm).
+However, these results were not repeatable, even when using the same
+experiment setup and stimulation parameters. Complete DOLLY-12 cell death
+observed across all conditions, including controls, often cut experiments
+short and contributed to inconclusive results. Contraction tests did not
+demonstrate any obvious contractions of C2C12 MuSCs, when stimulated up to the
+maximum voltage range of the StimJim using the chosen pulse train parameters
+(6 us pulse width, 2 Hz). A Bradford assay of stimulated C2C12 MuSCs (4 V/cm
+and 6 V/cm, 6 us pulse width, 2 Hz) did not indicate any difference between
+the stimulated and control conditions.
+
+Figure 1: Micrographs of DOLLY-12 muscle cells after 7 days of biphasic
+electrical stimulation using stainless steel electrodes, showing select
+regions of interest with the centres of the wells. The micrographs are
+representative of the differences observed between the conditions in the
+centre of the well, not of the entire well.
+
+
+
+
+Discussion
+
+
+Phase-contrast imaging of Test 1 results in this study indicated biphasic
+electrical stimulation pulse trains (1.3 V/cm and 4 V/cm, 6 us pulse width, 2
+Hz) increased cell mass and structure formation, compared to the control
+wells, when using Vow's DOLLY-12 cell line. However, immunofluorescent
+staining for MyoG and MF20 during this test was not successful due to the
+large muscle pieces lifting off the base of the well during the staining
+process. This result would have contributed to the team's Q3 milestone of
+enhancing maturation based on 2x Myosin expression or 60% MyoG. Thus, this
+experiment was repeated in Test 2 with an improved staining protocol, however
+the increase in cell mass and structure formation were not observed a second
+time, and lifting of the sample tissue during staining still prevented
+effective immunofluorescent analysis. Rather than repeating the same
+parameters again, Test 3 investigated the effect of higher voltage stimulation
+(4 V/cm and 6 V/cm; Figure 2b). All other parameters, such as pulse width and
+frequency, were retained from Test 2. However, all cells in this experiment,
+including those in the control wells, died after 6 days in E6 differentiation
+media. Assuming this was caused by expired media, Test 3 was restarted.
+However, once again all cells died after a week in E6 differentiation media.
+Due to this issue, common C2C12 cells were used instead of DOLLY-12 cells in
+Test 4, with the same stimulation parameters as Test 3. No obvious difference
+between conditions was observed using phase-contrast imaging, however cells
+were observed to grow well in all conditions up to the day of fixing, after
+two weeks in E6 differentiation media. Contraction tests were conducted on
+these cells, by utilising short durations of pulse trains (6 us pulse width, 2
+Hz), while increasing the voltage to the maximum output by the StimJim
+stimulator (10 V/cm). No visible contraction was observed by the cells during
+these tests. Towards the end of the experiment, the cells lifted off the base
+of the well prior to fixing, collecting in floating balls of cells. Fixing
+with warmed reagents did not prevent the remaining cells from further lifting
+off the base of the well. Analysis via immunofluorescent staining for MyoG and
+MF20 was again unsuccessful, since the floating cells were difficult to stain
+and image. Test 4 conditions, still using C2C12 cells, were repeated in Test
+5. Regular fixing for Plate 1 was again unsuccessful due to cells lifting off
+the base of the well, however a Bradford assay (Figure 2d) was successfully
+completed on Plate 2, demonstrating no difference between stimulated and
+control conditions.
+
+Figure 2: Electrical stimulation and maturation analysis of DOLLY-12 and C2C12
+cells. a) Oscilloscope used to display the waveform of the pulsetrain being
+used on the two separate stimulation channels. A rectangular shape indicated
+no electrodes were not submerged in the media of any culture wells on that
+channel, whereas a curved waveform indicated that at least one well on that
+channel had submerged electrodes. b) Example schematic (b) and image (c) of a
+typical test setup to stimulate two culture plates with 6 wells stimulated in
+parallel per channel. d) Schematic of the Bradford assay setup for a more
+quantitative maturation analysis compared with observations of phase-contrast
+images.
+
+The results from Test 1 were consistent with previous literature that
+demonstrated electrical stimulation improved cell fusion to form multinucleate
+myotubes (Ko et a., 2018), however no alignment of cells were observed. Cell
+alignment has been noted in many previous studies (Table 1), however the exact
+experiment setup varies greatly between studies. The parameters chosen within
+this series of tests at Vow were based on some of the more frequently used
+parameters (Table 1). The exact setup used is not identical to any particular
+study, however the stimulation waveform is most similar to that by van der
+Schaft et al., 2013, utilising a pulse train with 6 us pulses and a frequency
+of 2 Hz (Table 1). There are many different variables to be controlled during
+electrical stimulation experiments of muscle cells. Within just the
+stimulation waveform, these variables include the pulse frequency, pulse
+width, pulse train duration, voltage, current, and the work/rest ratio.
+Defined as recovery periods between pulse trains, the work/rest ratio was not
+utilised in this study due to the stimulation infrastructure available. This
+study only used a single continuous pulse train during stimulation. A range of
+voltages, with similar pulse trains to previous literature (Furuhashi et al.,
+2021; Banan Sadeghian et al., 2017) were also used to conduct contractile
+tests, however no contractions were observed under the microscope. In these
+previous studies, contraction of muscle cells via electrical stimulation was
+found to correlate with key indicators of myotube maturation. The beginning of
+stimulation in relation to the differentiation of the muscle cells is another
+variable which differs between studies (Table 1), however most studies
+commence stimulation at days 3-5 of differentiation. The current study used
+two plates with the same stimulation parameters and experiment setup, to begin
+stimulation at day 3 for plate 1 and day 7 for plate 2. However, no difference
+was observed between the two plates. Stimulation duration (days) was generally
+performed for around 7 days during this study, when not inhibited by complete
+cell death across the experiment. While stimulation duration (days) is another
+variable which differs between studies, the most common duration is 7 days
+(Table 1).
+
+This study was plagued by issues, both related and unrelated to the
+stimulation experiments and infrastructure. The issue of cells peeling off the
+bottom of the well prevented successful analysis by immunofluorescent staining
+for indicators of muscle cell maturation. This issue was addressed in Q4
+experiments, which established Laminin and Geltain as culturewear coatings
+that prevented peeling and allowed for greater growth of 2D cell culture. The
+mysterious complete cell death issue which interrupted Test 3 was experienced
+in other experiments during Q3 2021 and was investigated in Q4. It was
+established in that investigation that DOLLY-12 cells in E6 differentiation
+media suffered the greatest cell loss compared to other conditions tested,
+indicating this was the reason for the complete cell death experienced during
+this study. It should be noted that no cell death was observed in this study
+due to electrical stimulation, however there is still uncertainty around
+whether the cells experienced any stimulation at all. The response of the
+waveform on the oscilloscope (Figure 2a) to the submersion of the electrodes
+in the media well (Figure 2c; see the Q3 stimulation infrastructure report)
+was relied on to indicate that current was passing through the media, however
+no visible cell contractions or other indications were observed when
+stimulation was performed, other than the results from Test 1, which were not
+repeatable. This oscilloscope setup also did not inform the user if all wells
+on each channel had current passing through, since they were connected in
+parallel. As long as one well per channel had current flowing through, this
+would change the waveform on the oscilloscope. However, this setup did allow
+the user to detect when entire the channel was disconnected or the stimulator
+was accidentally switched off, which occurred at multiple points during
+testing and made the data of this study even less robust. The electrode board
+had regular issues with the connection between the interconnects and
+electrodes (Figure 2c), and this became worse towards the end of this study,
+due to regular wear and tear. The automatic feedback from the StimJim was
+useful, since it accurately indicated the actual voltage drop across the well
+and allowed for a better understanding of what voltage the cells may have been
+experiencing. The stimulator automatic feedback was validated during the
+initial setup by manually measuring the response of the waveform on the
+oscilloscope (see the Q3 stimulation infrastructure report).  
+
+ Table 1: Literature review summary of electrical stimulation parameters and
+systems for muscle cells
+
+CellsPulse Frequency  
+(Hz)  
+Pulse Width (ms)  
+No. of Sequential Pulses  
+Waveform  
+Pulse Intensity  
+Pulse Train Duration (s)  
+Recovery Between Pulse Trains (s)  
+Start Stimulation (Day of differentiation)  
+Stimulation Duration  
+ (Hrs/Day)  
+Stimulation Duration (Days)  
+Electrode Type  
+Stimulator  
+
+Outcome
+
+Source  
+  
+2D Primary Myoblast (Wistar Rat)15, 40, 10042Biphasic4-8 mA0.251, 4,
+100N/A2420Rectangular Platinum Sheet  
+(15 mm x 3 mm)S88 Grass InstrumentsImproved maturationNaumann and Pette, 1994  
+3D C2C12 Myoblasts  
+401.21Monophasic80 V/cm2120N/AN/AN/APLatinum Wire (0.127 mm diameter)DC -300A
+Amplifier + NI LabView software  
+ContractionBorschel et al., 2002  
+  
+3D Primary Myoblast (C57BL/6J Mouse)
+
+0.033
+
+3
+
+1
+
+Monophasic
+
+0.07 V/cm
+
+Continuous
+
+None
+
+3
+
+24
+
+4
+
+Rectangular Stainless Steel Sheet  
+(10mm x 8 mm)NI 6035E I/O terminal + NI LabView software  
+
+Improved mygenic potential
+
+Serena et al., 2008  
+  
+2D C2C12 Myoblasts
+
+10
+
+0.3
+
+4
+
+Polyphasic
+
+N/A
+
+0.4
+
+3.6
+
+5
+
+24
+
+7
+
+U Shaped Stainless Steel WireCustom Reprogrammable Stimulation Circuit  
+
+Maturation
+
+Donnelly et al., 2010  
+  
+3D C2C12 Myoblasts
+
+10
+
+0.1
+
+4
+
+Polyphasic
+
+N/A
+
+0.4
+
+3.6
+
+5
+
+24
+
+7
+
+U Shaped Stainless Steel Wire  
+Custom Reprogrammable Stimulation Circuit
+
+Maturation
+
+Donnelly et al., 2010  
+  
+3D C2C12 Myoblasts
+
+2
+
+6
+
+2
+
+N/A
+
+4 V/cm
+
+Continuous
+
+None
+
+1
+
+24
+
+7
+
+Rectangular Porous Carbon (Ionoptix C-Dish)IonOptix C-Pace
+
+Differentiation / Contraction
+
+van der Schaft et al., 2013  
+  
+2D Adipose-derived Mesenchymal Stem Cells (Sprague Dawley)
+
+None
+
+None
+
+None
+
+None
+
+0.1 V/cm
+
+None
+
+None
+
+ 1
+
+1
+
+7
+
+L Shaped Platinum Wire  
+(1 mm dia, 21 mm + 29 mm)DC Power Supply
+
+Differentiation
+
+Mobini et al., 2016  
+  
+2D C2C12 Myoblasts
+
+1
+
+0.5
+
+2
+
+Biphasic
+
+4 V/cm
+
+Continuous
+
+N/A
+
+ 4
+
+12
+
+1
+
+Platinum WireIonOptix C-Pace
+
+Contraction / Maturation
+
+Banan Sadeghian et al., 2018  
+  
+2D C2C12 Myoblasts
+
+None
+
+None
+
+None
+
+Monophasic
+
+2 V/cm
+
+600
+
+1200
+
+ N/A
+
+3
+
+1
+
+Aluminium Electrodes  
+(With Agar Bridge)DC Power Supply (With Agar Bridge)
+
+Alignment / Maturation
+
+Ko et al.,  
+ 2018  
+  
+3D Human Primary Myoblasts
+
+10
+
+2 ms
+
+2
+
+Biphasic
+
+70 mA
+
+0.5
+
+4.5
+
+7
+
+3 (7 hr rest after every hr of stimulation)
+
+7
+
+Carbon ElectrodesNI Labview Software
+
+Maturation
+
+Khodabukus et al., 2019  
+  
+3D Human Primary Myoblasts  
+1, 2, 5, 20  
+5  
+1  
+Monophasic  
+20 mA  
+N/A  
+N/A  
+N/A  
+N/A  
+N/A  
+N/A  
+Panlab / Harvard Apparatus Digital Stimulator  
+Contraction  
+Mills et al., 2019  
+  
+  
+2D C2C12 Myoblasts
+
+50
+
+N/A
+
+N/A
+
+Biphasic
+
+5 V/cm
+
+N/A
+
+NA
+
+0
+
+24
+
+3
+
+Straight Stainless Steel (304) Wire  
+(0.5 mm dia)Arduino Uno R3
+
+Alignment / Maturation
+
+Shahin-Shamsabadi and Selvaganapathy, 2020  
+  
+2D Bovine Myocyte122Biphasic30 V/cmContinuousN/A32  
+11Rectangular Porous Carbon (IonOptix C-Dish)  
+IonOptix C-PaceContraction / Alignment / MaturationFuruhashi et al., 2021  
+  
+  
+  
+
+
+Limitations
+
+
+The biggest limitation of this study is the lack of quantitative analysis
+performed due to the cell death and cell peeling issues. There were also
+multiple times when stimulation was disconnected accidentally or through
+failure of the setup connection. For these reasons, the data obtained is not
+considered robust. The data obtained in Test 1 was also not able to be
+repeated and so is also not considered reliable.  
+  
+Many aspects of the stimulation infrastructure were not investigated, such as
+the effect of the depth of the electrodes in the media and shape of the
+electrodes. The lack of test points on the electrode board failed to provide
+accurate data on the stimulation across each well and no impedance matching
+was performed for the interconnects leading up to the electrodes.
+
+
+Conclusion
+
+
+Phase-contrast imaging of Test 1 results in this study indicated biphasic
+electrical stimulation pulse trains (1.3 V/cm and 4 V/cm, 6 us pulse width, 2
+Hz) increased cell mass and structure formation, compared to the control
+wells, when using Vow's DOLLY-12 cell line. However, a repeat of this test did
+not yield the same result, so this data is not considered reliable.
+Immunofluorescent staining for MyoG and MF20 during this test was also not
+successful, due to peeling of the cells from the base of the well during
+fixing. Complete cell death caused by incompatibility of E6 media and DOLLY-12
+cells impacted experiment progress. C2C12 contraction tests using electrical
+stimulation with a variety of voltages did not induce any observable
+contractions and a Bradford test of stimulated C2C12 cells did not demonstrate
+any difference between the stimulated and control cells, with regard to
+improved maturation.
+
+
+Future Directions
+
+
+To investigate the effects of work-rest ratios, it is recommended that future
+studies use the Pulse Pal stimulator, as discussed in a previous report on the
+electrical stimulation setup used in this study. It is recommended to automate
+and scale out the electrical stimulation testing process to determine the
+right waveform parameters as fast as possible for the many different cell
+types Vow will be working with in the future. This will require new
+stimulation infrastructure starting with at least 10x more channels, as well
+as automated culture feeding and imaging. Summary data of electrical
+stimulation systems used in previous literature (Table 1) established in this
+report may be used as a starting point for future infrastructure design and
+parameter development. Design of experiments (DOE) methodology may be
+considered to assist managing the many different variables which may influence
+cell growth in electrical stimulation studies. Future studies should also
+consider automating aspects of contractile testing, so that a variety of
+parameters can be tested in a short period of time and the cell reactions
+analysed to determine contraction response. Further work is also required to
+streamline and quantify the analysis of maturation with less time investment.
+Automated Bradford assays may provide a good starting point for faster
+quantification of improved muscle cell maturation. Traditional science
+techniques typically take too long to scale this testing at Vow in a manner
+which will provide answers fast enough, however they can form the basic
+scientific testing methodology for our automated systems.
+
+  
+
+
+References
+
+
+Banan Sadeghian, R., Ebrahimi, M. and Salehi, S., 2018. Electrical stimulation
+of microengineered skeletal muscle tissue: Effect of stimulus parameters on
+myotube contractility and maturation. Journal of tissue engineering and
+regenerative medicine, 12(4), pp.912-922.
+
+Borschel, G.H., Dennis, R.G. and Kuzon Jr, W.M., 2004. Contractile skeletal
+muscle tissue-engineered on an acellular scaffold. Plastic and reconstructive
+surgery, 113(2), pp.595-602.
+
+Bryant, M.T., Degala, H.L., Mahapatra, A.K., Gosukonda, R.M. and Kannan, G.,
+2021. Inactivation of Escherichia coli K12 by pulsed UV light on goat meat and
+beef: microbial responses and modelling. International Journal of Food Science
+& Technology, 56(2), pp.563-572.
+
+Castro, N., Ribeiro, S., Fernandes, M.M., Ribeiro, C., Cardoso, V., Correia,
+V., Minguez, R. and Lanceros‐Mendez, S., 2020. Physically active bioreactors
+for tissue engineering applications. Advanced Biosystems, 4(10), p.2000125.
+
+Cogan, S.F., 2008. Neural stimulation and recording electrodes. Annu. Rev.
+Biomed. Eng., 10, pp.275-309.
+
+Donnelly, K., Khodabukus, A., Philp, A., Deldicque, L., Dennis, R.G. and Baar,
+K., 2010. A novel bioreactor for stimulating skeletal muscle in vitro. Tissue
+Engineering Part C: Methods, 16(4), pp.711-718.
+
+Furuhashi, M., Morimoto, Y., Shima, A., Nakamura, F., Ishikawa, H. and
+Takeuchi, S., 2021. Formation of contractile 3D bovine muscle tissue for
+construction of millimetre-thick cultured steak. npj Science of Food, 5(1),
+pp.1-8.  
+
+Geddes, L.A. and Roeder, R., 2003. Criteria for the selection of materials for
+implanted electrodes. Annals of biomedical engineering, 31(7), pp.879-890.
+
+Khodabukus, A., Madden, L., Prabhu, N.K., Koves, T.R., Jackman, C.P., Muoio,
+D.M. and Bursac, N., 2019. Electrical stimulation increases hypertrophy and
+metabolic flux in tissue-engineered human skeletal muscle. Biomaterials, 198,
+pp.259-269.
+
+Ko, U.H., Park, S., Bang, H., Kim, M., Shin, H. and Shin, J.H., 2018.
+Promotion of myogenic maturation by timely application of electric field along
+the topographical alignment. Tissue Engineering Part A, 24(9-10), pp.752-760.
+
+Merrill, D.R., Bikson, M. and Jefferys, J.G., 2005. Electrical stimulation of
+excitable tissue: design of efficacious and safe protocols. Journal of
+neuroscience methods, 141(2), pp.171-198.
+
+Mills, R.J., Parker, B.L., Monnot, P., Needham, E.J., Vivien, C.J., Ferguson,
+C., Parton, R.G., James, D.E., Porrello, E.R. and Hudson, J.E., 2019.
+Development of a human skeletal micro muscle platform with pacing
+capabilities. Biomaterials, 198, pp.217-227.
+
+Mobini, S., Leppik, L. and Barker, J.H., 2016. Direct current electrical
+stimulation chamber for treating cells in vitro. Biotechniques, 60(2),
+pp.95-98.
+
+Naumann, K. and Pette, D., 1994. Effects of chronic stimulation with different
+impulse patterns on the expression of myosin isoforms in rat myotube cultures.
+Differentiation, 55(3), pp.203-211.
+
+Serena, E., Flaibani, M., Carnio, S., Boldrin, L., Vitiello, L., De Coppi, P.
+and Elvassore, N., 2008. Electrophysiologic stimulation improves myogenic
+potential of muscle precursor cells grown in a 3D collagen scaffold.
+Neurological research, 30(2), pp.207-214.
+
+Shahin-Shamsabadi, A. and Selvaganapathy, P.R., 2020. Tissue-in-a-Tube: three-
+dimensional in vitro tissue constructs with integrated multimodal
+environmental stimulation. Materials Today Bio, 7, p.100070.
+
+van der Schaft, D.W., van Spreeuwel, A.C., Boonen, K.J., Langelaan, M.L.,
+Bouten, C.V. and Baaijens, F.P., 2013. Engineering skeletal muscle tissues
+from murine myoblast progenitor cells and application of electrical
+stimulation. Journal of visualized experiments: JoVE, (73).
+
+  
+
+

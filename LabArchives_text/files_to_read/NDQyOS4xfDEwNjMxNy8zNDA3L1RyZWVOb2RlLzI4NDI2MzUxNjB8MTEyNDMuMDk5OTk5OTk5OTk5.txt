@@ -1,0 +1,30 @@
+  
+  
+Staining protocol
+
+  1. Standalone, doesn't need to be done in conjunction with medium change
+  2. P1000
+    1. Mix culture
+    2. Take 100 uL of sample
+      1. As long as the sample is well mixed, it shouldn't matter where the sample is taken from
+    3. Transfer to 96 well plate
+    4. Repeat for all cultures
+  3. P300 8-channel
+    1. Aspirate 20 uL of concentrated stain buffer
+    2. Transfer stain buffer into each sample well (final volume in each well 120 uL)
+    3. Mix cultures
+
+How do we know it is working?
+
+  1. Water run
+  2. Thaw out 500k cells 
+  3. Perform actual protocol for 1 sample
+  4. Compare with 1 manually prepared sample
+  5. Image both samples with blue and green fluorescence channels on both the Axio of the 
+
+Required in lab book
+
+  1. Steps required for human operator(s)
+  2. OT protocol designed and reviewed
+
+

@@ -1,0 +1,228 @@
+
+
+## Performed by: Tom Tarento & Jared Bergman  
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6977-DOLLY12-Sheep P12-1of1  
+4  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connected a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew sample 4 mL.
+  7. Disconnected sample syringe and transferred sample to vessel(s) for subsequent analysis.
+    1. 3 x 1 mL aliquots in 3x 1.5 mL Eppendorf tubes
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp16:00  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Added 1 drop of Hoechst 33342 readyprobes reagent to each tube
+  2. Vortexed at minimum power for 30 seconds
+  3. Left the tubes to incubate at room temperature, in the dark (away from light), for ~15 minutes.  `| 16:00 - 16:15    |`
+  4. `Added 3 x 80 uL of dPBS to 3` x wells of a 96 well plate
+  5. `After incubation, transferred 20 uL from each tube to a well containing 80 uL of dPBS `
+  6. The wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 2-3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| 14:20 |`
+    1. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  9. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+  10. Estimated cell count was 72.3 million cells, based on an initial microcarrier count of 10.75 million microcarriers (2.5 g of microcarriers at 4.3 million microcarriers/g dry mass)
+
+  
+
+
+
+
+
+
+Analysis using nuclei ejection.
+
+### Process:
+
+Nuclei Ejection:
+
+  1. Removed 0.85 mL of the supernatant from the 1.5mL tubes carefully without aspirating the microcarriers.
+
+  2. Washed microcarriers using 0.85 mL of room temperature Dulbecco's phosphate buffered saline without Ca2+ and Mg2+ (DPBS-/-).
+  3. Aspirated and discarded the dPBS wash. [16:50]
+  4. Added 0.85 mL of cell lysis solution to the microcarriers
+  5. Vortexed the 1.5 mL tube for 1 min at maximum speed to release nuclei.
+  6.  ~~` ~~Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample. Already added  
+~~`~~
+
+  7.  ~~`Mixed contents using a P1000.  `~~
+  8.  ~~Measured the total volume of the suspension in the 1.5 mL tubes (this volume is referred to as`V-nuclei` (600uL)~~
+  9.  ~~Added 20uL/mL of Hoechst 33342 to the tube  `10uL`  Pipette to mix.~~
+  10.  ~~Allowed the tube to incubate in the dark for 15 minutes at room temperature.  ~~` ~~| 16:32-16:47 |~~`
+  11. Loaded 10uL of each Hoechst stained sample onto a countess slide and took three images of separate locations under the DAPI imaging channel on the Axio under the 10x objective.
+  12. Took a further 1 image for each sample under the axio on the DAPi channel using the 5x objective.
+  13. Put each 1.5mL tube containing the remaining ejected nuclei sample in the fridge under the Biostat A 2 L bioreactor.
+
+  
+
+  
+
+
+Sample  
+Count No.  
+Cells/mm2  
+X10,000 (for Cells/mL)  
+Volume (mL)  
+Cells total  
+  
+1  
+1  
+  
+  
+  
+  
+  
+1  
+2  
+  
+  
+  
+  
+  
+1  
+3  
+  
+  
+  
+  
+  
+2  
+1  
+  
+  
+  
+  
+  
+2  
+2  
+  
+  
+  
+  
+  
+2  
+3  
+  
+  
+  
+  
+  
+3  
+1  
+  
+  
+  
+  
+  
+3  
+2  
+  
+  
+  
+  
+  
+3  
+3  
+  
+  
+  
+  
+  
+Mean  
+  
+  
+  
+  
+  
+
+
+  
+  
+### Observations/Summary:
+
+###
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+dPBS A5123  
+3 mL  
+  
+Cell lysis solution  
+M5221  
+2.55 mL  
+  
+Hoechst 33342S2464  
+3 drops  
+
+
+  
+  
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+MIA and nuclear ejection
+
+https://mia-capture.vow.tools/#/session/rec3fxqkAsHyDjutE/images
+
+  
+
+

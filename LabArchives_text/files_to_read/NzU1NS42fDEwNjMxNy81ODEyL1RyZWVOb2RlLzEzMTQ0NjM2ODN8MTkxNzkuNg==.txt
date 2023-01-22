@@ -1,0 +1,260 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Perform a minimum effort (no imaging, staining, or picking until day 30
+following sorting) suspension SCC run of CHOMP_09 fibroblasts in 384 ULA
+plates.
+
+
+Hypothesis
+
+
+CHOMP_09 fibroblasts sorted in 384 ULA wells will survive and proliferate in
+static suspension such that we will attain ≥1 suspension adapted cell
+population.
+
+In addition, modifying the current cloning protocols with the inclusion of
+alternative feeding strategies (feed every 10 days vs no feed), seeding
+density (1 cell vs 5 cells per well) and reduced imaging will maximise the
+chance of attaining ≥1 suspension adapted cell population with minimal effort.
+
+
+Technical Gap
+
+
+Preliminary results with CHOMP_09 fibroblasts indicate that these cells are
+able to survive and proliferate in 384 ULA plates, following FACS sorting and
+seeding. However current protocols for SCC involve imaging and/or staining
+culture plates at several instances during the SCC process. Given that these
+CHOMP cells were not observed until day 24 indicates that if any viable
+population arises after being sorted into 384 ULA plates it will be after a
+minimum of 30 days. Therefore following FACS sorting these plates will remain
+in culture for a minimum of 30 days, with intermittent media feeds and
+observed/stained at day 30 to confirm the presence of cell populations, if
+any.
+
+
+Method/Procedure
+
+
+Media conditions:
+
+  * RPMI + 20% FBS + 1X P/S + ACA (1:100) + 0.1% pluronic + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax 
+  * Hycell CHO + 20% KSR + 1X P/S + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax 
+  * CD CHO + 20% KSR + 1X P/S + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax 
+  * RPMI + 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic \+ FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax 
+  * FreeStyle CHO + 8mM L-Glutamine + 1X P/S (for CHO-S only)  
+  
+*CD-CHO and Hycell CHO already contain ACA and pluronic so it is not necessary to add those components. 
+
+Cell types:
+
+  * Adherent CHOMP_09 fibroblasts thawed from a WCB vial and grown in adherent culture for 6 days prior to the FACS sort
+  * CHO-S cells thawed from an MCB vial currently in liquid nitrogen
+
+Feed strategy:
+
+  * Every 10 days
+  * No feed for the entire 30 day culturing period
+
+Cell density:
+
+  * 1 cell per well
+  * 5 cells per well
+
+Possible permutations for a single media condition (using RPMI + FBS as an
+example):
+
+  1. RPMI + FBS  1 cell  feed every 10 days (CHOMP fibroblast)
+  2. RPMI + FBS  5 cells  feed every 10 days (CHOMP fibroblast) 
+  3. RPMI + FBS  1 cell no feed (CHOMP fibroblast) 
+  4. RPMI + FBS  5 cells (CHOMP fibroblast) 
+
+Therefore a total of 4 permutations per media condition. Consequently, as
+there are a total of 4 media conditions, there can be a total of 16
+conditions. An additional condition will be a CHO-S control plate, bringing
+the total to 17 plates. The other three will be replicates of the RPMI + FBS
+media condition (given that we have seen that this is promising) for a total
+of 20 plates (see below for all experimental conditions).
+
+  
+
+Experimental conditions:
+
+RPMI + FBS
+
+RPMI + KSR
+
+Hycell CHO
+
+CD-CHO
+
+Freestyle CHO
+
+*As we currently only have 1 ULA plate in house only 1 of the 20 conditions will be tested using those plates (i.e. plate 1). The remainder will be coated with the anti adherence rinsing solution prior to FACS sorting and seeding. 
+
+DateDayTask(s)Notes  
+7-Dec-2021D-0Revive 2M x F_CHOMP09 cells and seed 2x T175These flasks will be
+harvested on the day of the sort to be seeded into the 384 well plates  
+8-Dec-2021D-150% Feed F_CHOMP09  
+10-Dec-2021D-350% Feed F_CHOMP09  
+13-Dec-2021D-5/D-0Prepare additional 19x 384 well plates (non-tissue culture
+treated, with black walls) with Anti-adherent rinsing solution to prevent
+cellular attachment (Plates 2-20)  
+*Perform process in non-tissue culture treated 384 plates  
+  
+  
+NOTE: For all cell types, Anti-Adherence Rinsing Solution is required during
+plate preparation steps to ensure optimal performance. Anti-Adherence Rinsing
+Solution prevents cell adhesion and promotes efficient EB and spheroid
+formation.  
+  
+  
+1. Warm basal medium (i.e. RPMI, CD-CHO, Hycell, etc) and complete medium (RPMI + FBS/KSR/PS etc).  
+  
+2. Pre-treat 384 wells with Anti-Adherence Rinsing Solution as described below.  
+a. Add Anti-Adherence Rinsing Solution to each well to be used, as follows:  
+• 384-well plate: 20 µL  
+• 24-well plate: 500 µL  
+• 6-well plate: 2 mL  
+b. Centrifuge plate at 1300 x g for 5 minutes in a swinging bucket rotor
+fitted with plate holders. NOTE: Plates must be well balanced. Prepare a
+balance plate using a standard plate filled with water to match the weight and
+position of the plate.  
+c. Observe plate under a microscope to ensure that bubbles have been removed
+from microwells. If bubbles remain trapped in any microwells, centrifuge at
+1300 x g for an additional 5 minutes.  
+d. Aspirate Anti-Adherence Rinsing Solution from the wells.  
+  
+3. Rinse each well with warm basal medium, as follows:  
+• 384-wellplate: 50 µL  
+• 24-wellplate: 2 mL  
+• 6-wellplate: 5 mL  
+  
+4. Aspirate medium from the well.  
+  
+5. Add warm complete medium to each well to be used, as follows:  
+• 384-wellplate: 50 µL  
+• 24-wellplate: 1 mL  
+• 6-wellplate: 2.5 m  
+  
+Additional resources outlined here  
+  
+13-Dec-2021D0 FACS sort into 20 x 384-well plates:
+
+*Note plates will have been prefilled with complete growth medium in the previous step (for all the growth media conditions used in this experiment refer to the top of this section)  
+  
+1. Prepare plates are described in the step above
+
+2. Prepare 20 mL of FACS Buffer (PRF DMEM/F12 + 2% FBS)
+
+3. Harvest fibroblast from 2x T175s
+
+4. Take to Garvan and sort (1 cell will be sorted per well). Garvan sort protocol here (under Day 7)  
+*Previous SCC run typically sort 15 cells into each corner well, however these are primarily used as a reference when imaging and since these plates will not be imaged until day 30 it is not required. 
+
+5. Transport plates back to Vowse and place in incubator at 30'C 5% CO2
+
+  
+  
+23-Dec-2021D10Top up wells with 30 uL per well fresh growth mediumThis will
+only be performed for conditions that need to be feed every 10 days (i.e.
+plates 1-4, 6, 8, 10, 12, 14, 16, 18)  
+04-Jan-2022D20Top up wells with 30 uL per well fresh growth mediumThis will
+only be performed for conditions that need to be feed every 10 days (i.e.
+plates 1-4, 6, 8, 10, 12, 14, 16, 18)  
+  
+13-Jan-2022D30Top up wells with 30 uL per well fresh growth medium  
+This will only be performed for conditions that need to be feed every 10 days
+(i.e. plates 1-4, 6, 8, 10, 12, 14, 16, 18)  
+  
+14-Jan-2022  
+D31  
+Centrifuge plates at 300 x g for 5 minutes and manually observe each plate for
+the presence of cell populations  
+  
+  
+  
+D31Data collection and analysis  
+  
+Previous SCC attempts:  
+1\. Hoechst stain cultures with 50 ug/mL  
+2\. Zaber image each well of the 384 well plates  
+3\. Analyse each image using FIJI designed macros to count stained nuclei  
+4\. Wells with the best performing cultures are subsequently passaged into a
+larger vessel, in this case a 96-well plate  
+5\. Generate picklist of best performing clones and generate multi-well
+picking protocols (resource)  
+6\. Passage clonal population into 96 ULA plate(s) with designed multi-well
+picking protocols (resource)  
+  
+  
+  
+  
+When confluent, expand top clones from 384 ULA well plate to 96 ULA well plate  
+  
+  
+  
+When confluent, expand top clones from 96 ULA well plate to 24 ULA well plate  
+  
+  
+  
+When confluent, expand top clones from 24 ULA well plate to 6 ULA well plate  
+  
+  
+  
+When confluent, expand top clones from 6 ULA well plate to T25 flasks  
+  
+  
+  
+When confluent, expand top clones from T25 flasks to T75 flasks or 125 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T75 flasks to T175 flasks or 250 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T175 flasks to Multi-layered cell
+factory flasks or 2L shake flasks  
+  
+  
+  
+Generate MCB_2 of successful clonal populations.  
+  
+  
+  
+Report writing (Draft)  
+  
+  
+  
+Review & fill out Report (Full)  
+  
+  
+  
+Ensure all lab books are complete & assign for review  
+  
+  
+  
+Review Lab Books, results, report  
+  
+  
+  
+Make necessary amendments and confirm with reviewer that experiment is
+complete  
+  
+  
+  
+Release note on Project Updates  
+  
+  
+  
+
+

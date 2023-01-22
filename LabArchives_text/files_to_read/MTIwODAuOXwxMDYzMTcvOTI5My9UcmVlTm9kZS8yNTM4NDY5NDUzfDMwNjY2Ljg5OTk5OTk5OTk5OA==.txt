@@ -1,0 +1,253 @@
+Written by: Lily [24-August-2022] Submitted for review: [24-August-2022]
+Reviewed by: Sarah Topfer, Victoria Prior Date: 24/8/22
+Aim: To determine whether there is a significant difference in growth rate, viability, and maximum cell density of Nuvnois cells when grown in different culture vessels
+Hypothesis: We hypothesise that there will be no significant difference in these parameters between culture vessel types
+Background
+  
+Y/N     LinksJustification  
+Is this a continuation of a previous experiment/series of work?  Y[See image
+below for Slack message from Bonnie detailing experiment results in 50 mL
+tubes]We performed a number of media optimisation DSDs with Nuvonis cells in
+static ULA 96-well plates earlier this year, however we were unable to
+replicate the results in shaking E-125 flasks. This led us to hypothesise that
+the difference in environment between the two vessel types made the 96-wps
+unsuitable for this purpose. It was later discovered that there were faults in
+the DSD spreadsheet being used for factor calculations, which resulted in
+incorrect concentrations being tested, which added another variable in why our
+DSD results were not able to be replicated when we moved into shake flasks and
+used a different means of calculating factor concentrations in the medium.
+Furthermore, a recent experiment by Bonnie and Anushka demonstrated that 50 mL
+bioreactor tubes are fit for purpose for growing their suspension adaptation
+cells, which suggests that we may be able to scale down to tubes, if not well-
+plates, for our experiments. Finally, performing media optimisation DSDs in
+smaller vessels (e.g. well-plates or biorector tubes) to inform process
+changes for larger vessels (e.g. E-flasks, bioreactors) is a common practice
+in industry, as it provides huge savings of time, equipment and reagents, and
+allows for significantly more runs and replicates, thereby increasing
+experimental power with fewer inputs.  
+Is the experiment based on findings from literature research?  
+  
+Why do we think that this is worth investigation. What is the knowledge gap?  
+  
+Figure 1: Bonnie & Anushka's results in 50 mL bioreactor tubes
+
+
+
+Variable* (include full names not just abbreviations)
+
+ Description (e.g. what concentrations are being tested)
+
+Justification
+
+ Relevant links (e.g. to literature and/or product pages)  
+Culture vessel typeE-125, 50 mL bioreactor tube, ULA 96-well plate In order to
+continue and expand our media optimisation DSD work and capability, we need to
+be able to use smaller vessels (such as well-plates or bioreactor tubes)
+rather than E-flasks.  
+  
+  
+*factor that is to be manipulated, controlled for, or measured in an experiment e.g. media additive or seeding density  
+  
+Why? Including a background section provides justification for why certain
+research choices were made and prompts you to ensure that this is an
+appropriate research direction i.e. one which will likely assist us in
+reaching our goals. This is important to the reader/reviewer as well as to
+project leads and ultimately investors, ensuring that our time, money and
+energy is being put to good use.
+
+
+Methods
+
+
+Concisely and clearly describe the experiment design, ensure that the
+following information has been included:  
+  
+What combination of factors are being tested? (if relevant use a table to
+demonstrate this)  
+  
+
+Rep #
+
+Cell type/s
+
+Experiment
+
+duration
+
+Timepoints
+
+Total number of cells needed
+
+Number and type of vessels required**
+
+Controls
+
+Base media
+
+Method/s of measurement
+
+Quantitative or qualitative***  
+  
+3Nuvonis suspension cells6 days Days 1,2,3,4,5,622.6M (25M for error)3 x E125s  
+3 x bioreactor tubes  
+1 x flat-bottomed ULA 96-wp1 1 x round-bottomed ULA 96-wpThe E125s will act as
+both a condition and a control, given we have a lot of data on how the Nuvonis
+cells normally perform in these vessels. They will also serve as the control
+for experiment 830, being seeded on the same dayR&D 50:50 RPMI/CHO Nuvonis
+suspension mediumDaily cell counts & viability reading on Cellaca Quantitative  
+  
+*See the following page on statistics, specifically the power calculations section to determine appropriate number of replicates  
+*number does not include vessels required for cell expansion prior to testing variables  
+**will the results retrieved be quantitative (data that can be
+counted/measured using numbers and can be used to calculate significance) or
+qualitative (cannot be counted/measured/expressed easily using numbers,
+results are more observational and open to interpretation)  
+  
+Why? The tabulated information above represents the critical information
+required to repeat the experiment and interpret the findings. Thus, it is
+important that it is documented clearly for reproducibility purposes. Note -
+it is preferred that experiments generate quantitative data with enough
+replicates to calculate significance, if the experiment only results in
+qualitative findings please take time to reassess the experimental plan, can a
+quantitative method be used? will qualitative findings be sufficient to decide
+whether the outcomes are successful or not? how can you limit bias and error
+in recording these findings?
+
+[VP] - are these replicates enough according to the power calculation? (have
+no idea here)
+
+[LL] I just had a chat with Stan about the usefulness of a power calculation
+here and he thinks that it won't tell us much, given we don't have data around
+the standard deviation of these metrics between different culture vessels. He
+thinks it will be fine to just run with n=3.
+
+
+Plate map (or other relevant diagram):
+
+
+(ST) I think you probably should include a plate map just to avoid any and all
+confusion as to which wells you will sacrifice in the 96 well plates on which
+days. I definitely don't think you should sacrifice wells in rows as this
+could result in the counts being off as certain wells will evaporate faster,
+have fewer nutrients for cell growth etc. Also by having a map it is easier to
+remember which wells need media in them when setting up.
+
+[VP] suggestion for above: could replace spent media with PBS in harvested
+wells to avoid any evaporation effects
+
+[LL] Suggestions integrated 24-Aug-2022
+
+
+Timeline
+
+
+Daily breakdown of tasks in table form.
+
+Day
+
+Proposed date
+
+Task
+
+Reviewer comment  
+  
+-1
+
+24-August-2022
+
+  1. Prepare 130 mL of R&D 50:50 RPMI/CHO Nuvonis suspension medium with growth factors 
+  2. Ensure all vessels are present in lab and ready to be seeded
+
+  
+  
+025-August-2022
+
+  1. Place medium prepared yesterday in incubator or water bath to warm 
+  2. Add 200 uL of sterile dPBS to wells of both ULA 96-well plates as specified in diagram above
+  3. Perform cell count on continuous culture vessel being used for seeding (most likely will be taking cells from MFG)
+  4. Transfer aliquot containing 25M cells from continuous culture vessel to falcon tube 
+  5. Centrifuge for 5 min at 500 x g 
+  6. Aspirate supernatant 
+  7. Re-suspend in 125 mL of warm growth medium (200K cells/mL) 
+  8. Transfer cell suspension as follows: 
+    1. 30 mL to each of 3 x E125s
+    2. 5 mL to each of 3 x 50 mL bioreactor tubes 
+    3. 200 uL to each of 21 x wells in 2 x ULA 96-well plate as shown in diagram above
+  9. Incubate E125s at 37'C, 120 RPM
+  10. Incubate E125s at 37'C, 205 RPM
+  11. Incubate ULA 96-wps at 37'C, 0 RPM (no agitation) 
+
+  
+  
+126-August-2022
+
+  1. Perform cell counts on Cellaca
+    1. For E-125s & 50 mL biroeactor tubes:
+      * Took 1 x 50 uL sample of cell suspension from culture vessel and transferred to Cellaca counting plate 
+    2. For ULA 96-wps:
+      * Transferred 50 uL of sample from 3 x randomly selected wells (do not sample in order) on each plate to Cellaca counting plate (sacrificial wells)
+      * Replaced with 50 uL of dPBS to reduce evaporation for surrounding wells 
+      * Marked sampled wells with an "X" on plate lid to show which wells have been sacrificed to ensure they will not be sampled again
+  2. Record cell density and viability 
+
+(ST) For the well plate, given they have 200 ul and you are only taking 50,
+will you be sacrificing the rest? or will you be leaving it in the plate? Also
+make sure to specify which wells you will sacrifice to make it easier for you
+on the day. As stated above I would not be sacrificing wells in a specific row
+order as this well definitely affect the results. And as Vic said above,
+replacing the sacrificed wells with PBS is a good idea to avoid an evaporation
+effect.  
+  
+[LL] Suggestions integrated into plan  
+227-August-2022
+
+  1. Perform cell counts on Cellaca as described on Day 1
+  2. Record cell density and viability
+
+  
+  
+328-August-2022
+
+  1. Perform cell counts on Cellaca as described on Day 1
+  2. Record cell density and viability 
+
+  
+  
+429-August-2022
+
+  
+
+  1. Perform cell counts on Cellaca as described on Day 1
+  2. Record cell density and viability 
+
+  
+  
+530-August-2022
+
+  1. Perform cell counts on Cellaca as described on Day 1
+  2. Record cell density and viability 
+
+  
+  
+631-August-2022
+
+  1. Perform cell counts on Cellaca as described on Day 1
+  2. Record cell density and viability 
+  3. Discarded cultures 
+
+Note - the Cellaca is being picked up today, so counts need to be done first
+thing in the morning
+
+  
+  
+81-September-2022
+
+  1. Identified exponential growth phase of cells for each vessel type and calculated growth rate within this phase (this will be used as "proliferation rate" data point). This phase is also the time when viability data will be used - viability data will not be used after peak density has been reached (when cells enter the "death phase") 
+  2. Analysed data using a one-way ANOVA to compare means of proliferation rate, maximum density, and viability 
+
+  
+  
+  
+Why? Clear and easy to follow thus minimising chance of error
+
+

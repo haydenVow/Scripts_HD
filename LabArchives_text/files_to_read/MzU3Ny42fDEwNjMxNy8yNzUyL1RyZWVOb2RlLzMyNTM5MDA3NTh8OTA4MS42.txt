@@ -1,0 +1,42 @@
+
+
+Performed by: Avani and Marie
+
+
+
+
+Assay Dev Methods
+
+  1.  Filtered 1mL PBS with 0.22um syringe filter to remove any possible debris
+  2. added 5uL PI and 20uL Hoechst to 1mL PBS to create staining mix
+  3. added 100uL of staining mix to each well in a 96wp (8 wells total)
+
+4\. Collected 20uL (or 10uL if testing ability to see accurate change in
+counts) of cell sample (cells in growth media) to 96wp  
+
+5\. incubated at room temp in the dark for 10-20 min
+
+6\. Imaged whole wells on the Zaber, DAPI exposure=70, PI exposure=250
+
+7\. Analyzed DAPI cell counts with MIA using DAPI count macro -- need to
+develop PI counting macro!!!
+
+8\. Performed hemocytometer count on sample to determine actual cell count and
+viability
+
+                 total cell count: 1,072,000/mL   
+
+                 dead cells: 172,000
+
+                 viability: ~84%
+
+  
+
+  
+
+
+
+
+Observations/Summary
+
+

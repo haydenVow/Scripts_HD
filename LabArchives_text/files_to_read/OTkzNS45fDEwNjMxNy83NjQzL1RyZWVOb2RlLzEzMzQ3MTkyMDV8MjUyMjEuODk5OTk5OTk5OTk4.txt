@@ -1,0 +1,26 @@
+Performed by: LL
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+Process
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 6 cell counts (2 per culture). Average cell counts:
+    * Freestyle (22.2 mL):
+    * 50/50 RPMI/HyCell (3mg/mL yeast) (22.1 mL):
+    * 75/25 RPMI/HyCell (3mg/mL yeast) (20.8 mL):
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Took XM cells from Freestyle culture to seed CHO-T1-SF experiment 
+  6. Reduced all cultures to 1M cells/mL 
+  7. Topped media back up to ~20 mL per flask with fresh, warmed media + growth factors
+    1. Freestyle: 4,173,600
+    2. 50/50: 3,094,000
+    3. 75/25: 4,742,400
+  8. Returned flasks to incubator
+
+

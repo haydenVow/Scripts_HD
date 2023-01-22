@@ -1,0 +1,18 @@
+
+
+  
+
+
+
+
+Offsetting the pH for STR2000
+
+To do this: select the middle pH reading and check whether it's taking reading
+from Probe 1 or 2. Select "Cali" tab for online reading probe (in this case
+Probe 1) and change the offset value to (offline ph reading - online ph
+reading) - in this case +0.1 offset. The select 'cali' tab for other probe and
+change the offset value to (offline pH reading - online probe ph reading).
+Doing the latter will ensure the offset has been changed already if online
+reading is switched to alternative probe.
+
+

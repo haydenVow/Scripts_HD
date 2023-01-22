@@ -1,0 +1,214 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Adrian Kotevski
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S   
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S +- L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL) 
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flasks ID(s)Seeded Flask Type  
+Seeded Flasks ID(s)  
+6968-F_DOLLY12-Sheep P10-1of4  
+6969-F_DOLLY12-Sheep P10-2of4  
+6970-F_DOLLY12-Sheep P10-3of4  
+6971-F_DOLLY12-Sheep P10-4of4  
+100mm Petri Dish  
+7051-F_DOLLY12-Sheep P11-1of8 (Freeze thaw)  
+7052-F_DOLLY12-Sheep P11-2of8  
+7053-F_DOLLY12-Sheep P11-3of8  
+7054-F_DOLLY12-Sheep P11-4of8  
+7055-F_DOLLY12-Sheep P11-5of8  
+7056-F_DOLLY12-Sheep P11-6of8  
+7057-F_DOLLY12-Sheep P11-7of8  
+7058-F_DOLLY12-Sheep P11-8of8  
+  
+7059-F_DOLLY12-Sheep P11-1of8 (Freeze thaw duplicate)  
+7060-F_DOLLY12-Sheep P11-2of8  
+7061-F_DOLLY12-Sheep P11-3of8  
+7062-F_DOLLY12-Sheep P11-4of8  
+7063-F_DOLLY12-Sheep P11-5of8  
+7064-F_DOLLY12-Sheep P11-6of8  
+7065-F_DOLLY12-Sheep P11-7of8  
+7066-F_DOLLY12-Sheep P11-8of8  
+  
+6-well plate  
+7068-F_DOLLY12-Sheep P11-1of2  
+7069-F_DOLLY12-Sheep P11-2of2  
+  
+T175  
+7070-F_DOLLY12-Sheep P11-1of1  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    40   mL in   1x 50 mL    tubes
+  2. dPBS (for neutralising)    70   mL in    1x 70 mL   pot
+  3. Growth media (for pellet resuspension):    10   mL in    1x 15 mL    tubes
+  4. Times that all aliquots were placed in the water bath to warm before use  14:11 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    10   mL tryple to each vessel/well and incubated at 37˚C for
+20    min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was   14:29   \-   14:49  
+
+4\. Neutralised with    10 mL   dPBS (warmed) and combined cell suspension
+into a    2x 50 mL   tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  14:56  \-   15:01 
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      10  mL    Growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was:    14,320,000  
+
+
+
+
+10\. Seeded ~10k cells per cm2 for each of the 16 petri dishes and 2x 6-well
+plates. Note that fibroblasts prefer to be subcultured closely together.
+
+See lab book entry for the continuation of this experiment: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjE2MS45fDEwNjMxNy8xNjYzL1RyZWVOb2RlLzE2ODA4MTUzMXw1NDg3Ljk=
+
+11\. Volume of cell suspension required for subculture was:    6144 uL (for
+petri dishes only)  
+
+  1. Transfer  557 uLof cell suspension into pre-warmed 36 mL Growth media to seed out 2x 6-well plates at 3 mL per well (7K cells/cm2)
+  2. Transfer  855 uLof cell suspension into pre-warmed 30 mL of Growth media to seed out 1x T175 flask (7K cells/cm2)
+
+12\. Transfer   384 µL of cell suspension to the pre-warmed  10 mL Growth
+Media (with or without Vit C/TGF - see table in experimental plan) for each
+condition (16 in total).
+
+13\. Transfer cell suspension into (non-gelatin coated)     petri dishes   .
+
+14\. Transfer flask/plate(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleA4615  
+  
+dPBS (for washing & neutralising)A5063  
+  
+Growth MediaA4775  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- The collagen gel that formed in condition 1.8 had become dislodged in the
+process of pipetting the cell suspension into the dish.
+
+
+
+
+SOPs used:
+
+https://www.notion.so/vow/SOP_Passaging-Adherent-Cells-
+V_04-6409eb5b4c62404bb9cc4a641a145981
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recoMgCRhG7Mzjo77/images (6968),
+Tuesday June 08
+
+https://mia-capture.vow.tools/#/session/recB870319NpdANli/images (6969),
+Tuesday June 08
+
+https://mia-capture.vow.tools/#/session/recWRfFaX4VyWf7LI/images (6970),
+Tuesday June 08
+
+https://mia-capture.vow.tools/#/session/recI8hb7GQ38csLCh/images (6971),
+Tuesday June 08
+
+  
+
+

@@ -1,0 +1,113 @@
+
+
+### Completed by: Sam Rathbone
+
+
+Cultures
+
+
+Culture ID
+
+12742-Nuvonis Quail Suspension341-P-6of6 - Med MW Alg Adherent Media
+
+12741-Nuvonis Quail Suspension341-P-5of6 - Med MW Alg Suspension Media
+
+12740-Nuvonis Quail Suspension341-P-4of6 - Med MW Alg No Cells
+
+12739-Nuvonis Quail Suspension341-P-3of6 - Low MW Alg Adherent Media
+
+12738-Nuvonis Quail Suspension341-P-2of6 - Low MW Alg Suspension Media
+
+12737-Nuvonis Quail Suspension341-P-1of6 - Low MW Alg No Cells
+
+  
+
+
+Aim / Goal
+
+
+Viabiility stain with propdium iodide (dead cells) with a Hoechst 33342
+counter nuclei stain.
+
+
+Hypothesis
+
+
+Should see cell clumping within material, with a heterogenous population of
+live/dead cells.
+
+
+Protocol
+
+
+  
+
+## Before Starting, ensure the following is completed:
+
+  * Label the 24-WP with the culture IDs for each scaffold in the staining well plate. You may have to stain in a 12-WP if the gel scaffold has expanded. 
+  * Acquire sterile spoons for transporting the gels into the staining plate. 
+  * Create the stain solution (2ug/mL concentration; Propidiumm Iodide (1ug/mL)/Hoechst 33342 (1ug/mL) [50:50]) 
+    * Total volume needed: 12 mL (make up 13 mL)
+
+## Perform the live-dead stain protocol.
+
+1\. Remove the scaffold-cultures from the incubator
+
+2\. Transfer each scaffolds to a  24 WP using a sterile spoon (forceps may
+damage the structural integrity).
+
+4\. Incubate for 20 mins with 500uL stain solution per well (2ug/mL of
+Propidiumm Iodide (ID: ???) / Hoechst 33342 (ID: 8157)) in PBS (ALQ ID:
+12837).  1507 PM Media ID: 12912
+
+5\. Remove excess media so that scaffolds sit on the bottom of well without
+moving.
+
+6\. Image the stained scaffolds with the Zaber.  1537- PM
+
+  * Phase, nuclei (355)  dead (555)
+  * 10x magnification
+  * Exposure: 20-30 ms
+  * Imaging Sites: 7-7
+  * 50um overlap
+  * Spacing rule: field of view 
+  * Visit order: snake 
+
+  
+
+  
+
+
+Observations / Ranger
+
+
+Visual Observations:
+
+Low Alginate Suspension: 50/50 cell death. Cells remain in suspension form,
+the clusters occurring are clusters of single cells rather than fused cells,
+suggesting cells proliferate but do not migrate. Thorough infiltration of
+cells throughout gel.
+
+Low Alginate Adherent: 50/50 cell death. Cells clusters looked like fused
+cells, suggesting cells proliferate but do not migrate. Thorough infiltration
+of cells throughout gel.
+
+Med Alginate Suspension: Less death than low alginate. Cells remained in
+suspension form, however there were less clusters than in low alginate.
+
+Med alginate adherent: Thorough infiltration of cells throughout gel, less
+cell death compared to low alginate adherent. The cell death observed seems to
+be from initial seeding as it does not correspond with cell clusters. Not
+enough evidence to suggestion migration of the cells.
+
+  
+
+Overall: It appears that cells that were by themselves during initial seeding
+died, while larger clusters of cells proliferated. This suggests higher cell
+seeding density will be preferred by the cells, however considering how
+quickly the media is used, the media to scaffold ratio will have to have to be
+quite high.
+
+Medium Suspension images failed to upload to ranger.
+
+

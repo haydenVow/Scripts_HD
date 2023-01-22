@@ -1,0 +1,147 @@
+Background (fibroblasts in suspension)
+
+
+In an attempt to achieve higher cell densities than adherent culture can
+offer, we are aiming to adapt muscle-derived fibroblasts (commonly known as
+myofibroblasts) in vitro from adherent culture to suspension culture. Adherent
+culture limits the cell density by the surface area of the culture dish in the
+2D system, whereas by adapting the cells to a suspension culture, they are
+only limited by the volume of media within a shake flask, which will allow a
+much higher density.
+
+  
+
+In pharmaceutical development, CHO cells are commonly used which was initially
+an adherent-dependent cell line which has been adapted to suspension culture
+and is now commonly used interchangeably based on the desires of the
+laboratory using them (see Thermo Fischer).
+
+Suspension culture allows a higher seeding and harvesting density of cells per
+mL of Growth Media:
+
+Adherent culture:
+
+  * Seeding density = 164,000 cells / mL (in a T175 flask at 4.9x10⁶ cells / cm2 in a T175 in 30mL of culture media)
+  * Harvest density = 777,000 cells / mL (in 30mL within a T175 = a total harvest ratio of 135,000 cells / cm2)
+  * (see values for T175)
+
+Suspension culture:
+
+  * Seeding density = 500,000 cells / mL is used as a guideline (see Point 8.)
+  * Harvest density (whilst not recorded, should be >777,000 cells / mL [that of adherent culture] after a few population doublings)
+
+  
+
+Whilst the numbers quoted above are general guidelines provided and not cell-
+line-specific, it is clear to see the benefit of suspension culture over
+adherent culture in obtaining higher cell densities. Higher cell densities
+will allow Vow to generate production-suitable cell lines that can be used to
+feed people at scale, using fewer adherent culture vessels and less growth
+media.
+
+Microcarriers have been used at Vow to increase the surface area of culture
+for MuSCs in vitro which allows higher seeding/harvest efficiencies. Whilst
+MuSCs are adherent-dependent, they also need to maintain the ability to
+differentiate and fuse, which can be lost through single cell suspension
+culture. Luckily, fibroblasts do not need to maintain any ability to
+differentiate and may be able to be adapted to suspension culture and are
+therefore a better candidate for suspension culture to achieve higher cell
+mass rather than maintaining a specific phenotype or morphology throughout the
+process.
+
+
+
+
+How?
+
+There is limited literature on the process for adapting adherent-dependent
+cells to a suspension culture, but we can take information from multiple
+sources to generate ideas on how best to approach the adaptation.
+
+Whilst there is an indication that cells can be isolated from a skin biopsy
+and grown in suspension culture immediately (see paper attached), this may be
+an avenue we want to investigate when we have more biopsies coming in. For the
+moment, we need to focus on the adherent fibroblast cell lines that we have in
+culture now.
+
+Researchers have induced fibroblast aggregate formation by rotational culture
+(see Furukawa et al, 2001), where they used medium was supplemented with
+insulin, dexamethasone, and basic fibroblast growth factor. These cells were
+only cultured for a total of 24-36 h before being harvested and inoculated on
+a polyglycolic acid/collagen scaffold for artificial skin, which doesn't give
+us much detail on prolonged culture conditions. Furukawa et al. identified
+that insulin, dexamethasone, and basic fibroblast growth factor potentiate the
+secretion of extracellular matrices and hence the formation of aggregates was
+expected to be promoted. These are 3 factors that we likely want to avoid, in
+an attempt to avoid cellular aggregation and to promote a single cell
+suspension culture. Their culture was performed in 35mm dishes at 80 RPM (no
+mention of throw).
+
+iPS (induced-pluripotent stem) and ES (embryonic stem) cells have been
+reportedly cultured in suspension conditions in an almost fully defined serum-
+free culture medium (Olmer et al. 2010). Their culture medium contains Rho-
+associated coiled-coil kinase (ROCK) inhibitor (RI) which can prevent
+apoptosis and support cell survival during the expansion. These cells were
+harvested from a feeder-layer and were then treated with collagenase B
+solution (1mg/mL) to dissociate aggregates and result in a single cell
+suspension. Using collagenase as a digestive enzyme to break down collagen
+bonds could be a potential addition to our harvesting methods to prevent
+aggregation and promote single cell suspension. Every 4 days, the aggregates
+were treated with Collagenase B and dissociated into single cells.
+
+The Growth Media consisted of mTeSRTM 1 (Stem cell technologies) supplemented
+with RI (10µM). mTeSRTM is similar to Essential 8 Media (Gibco), but contains
+Bovine serum albumin and bovine holo-transferrin which makes it almost fully
+defined serum-free culture medium. Since we will maintain the use of FBS in
+this attempt we may only supplement with RI (ROCK inhibitor).
+
+In 1957, a researcher achieved suspension culture of strain L mouse
+fibroblasts in a glass stirred tank vessel (see Danes, 1957). The method was
+using 20mL of Growth Media (comprising of 40% Horse Serum and 10% Chicken
+embryo extract) as well as using conditioned media from the cells growing in
+adherent culture. Every 12 hours, 25% of media was added to the culture and
+cell numbers did increase over the length of the adaptation process. A high-er
+serum content may be something we want to approach after our initial attempts,
+as well as a more regular feeding schedule.
+
+Anti-clumping agent is a solution used commonly in pharmaceutical production
+with suspension cells (usually CHO cells, Chinese Hampster Ovary cells) to
+minimise clumping of cells and encourage single cell suspension. According to
+Thermo Fisher, Pluronic F-68 (BASF) is a surfactant that decreases cell
+membrane shearing in insect suspension culture, which can be useful in
+minimising cell death due to shear stress.
+
+There is some literature around integrin binding which relates to the
+receptors used by animal cells to bind to the extra cellular matrix. Since
+integrins help cells bind to an ECM, it is possible that by providing the
+cells in suspension with additional integrins, that may saturate the cells'
+ECM-receptors and render them able to proliferate without attachment to a
+substrate. Similarly, the integrin-binding domain present within many ECM
+proteins is RGD, some examples of which are fibronectin, vitronectin,
+fibrinogen, osteopontin and bone sialoprotein (Bellis, 2012).
+
+(see Molecular biology of the cell, 4th edition)
+
+According to Otsuji et al. (Otsuji et al, 2014), methylcellulose (MC) reduces
+the aggregation of cell clumps, which may be a potential candidate for our
+studies. They found the best concentration of MC 0.3-0.6% (w/v) in the growth
+media as a best compromise between the fusion repression and viscosity
+increase. This may be a property we want to test in our suspension culture
+system.
+
+  
+
+Some key factors to add to our growth media:
+
+  * ROCK inhibitors
+  * Anti-clumping agent
+  * Integrins
+  * RGD proteins (such as fibronectin, vitronectin, fibrinogen, osteopontin and bone sialoprotein)
+  * Methylcellulose
+
+Alternative methods of encouraging single cell suspension:
+
+  * Filter cell suspension through 70um cell strainer (As performed in previous experiment)
+  * Digest cells with collagenase B upon harvest to dissociate aggregates and re-seed in fresh media after collagenase exposure
+
+

@@ -1,0 +1,239 @@
+Written by: Lily Logan [30-Aug-2022] submitted for review: [31-Aug-2022]
+Reviewed by: Victoria Prior  Date: 31-Aug-2022
+Aim: to verify the performance of DSD condition 14 and iterate on the formulation to further increase maximum density
+Hypothesis: That condition 14 will again support cell densities of >3M cells/mL, and optimisation of the formulation will support cell densities of >4M cells/mL
+Background
+  
+Y/N     LinksJustification  
+Is this a continuation of a previous experiment/series of work?  YLink to DSD
+experiment  
+We performed a DSD screening 6 ingredients to add to our Nuvonis formulation
+with the aim of increasing the maximum cell density that the medium can
+support. Condition 14 was our best performer, with 2/3 of the replicates
+reaching =/> 3.3M cells/mL, which is the highest we've seen yet in any of our
+50:50 RPMI:CHO Nuvonis media iterations. We need to repeat this condition to
+verify this result. We also need to further optimise the formulation to see if
+we can achieve higher densities yet, as our overarching goal is 7.5M cells/mL.  
+Is the experiment based on findings from literature research?YLink to DSD
+report with background researchUncertainties around some results given
+research into factors (see DSD report)  
+  
+  
+
+Variable* (include full names not just abbreviations)
+
+ Description (e.g. what concentrations are being tested)
+
+Justification
+
+ Relevant links (e.g. to literature and/or product pages)  
+Media condition 1\. HyCell (control 1)  
+2\. R&D 50:50 (control 2)  
+3\. Condition 14 (control 3)  
+4\. Condition 14.1  
+5\. Condition 14.2  
+6\. Condition 14.3  
+7\. Condition 14.4  
+See notion link for condition formulations and justificationsLink to notion
+planning doc that outlines conditions and justifications  
+  
+*factor that is to be manipulated, controlled for, or measured in an experiment e.g. media additive or seeding density  
+  
+Why? Including a background section provides justification for why certain
+research choices were made and prompts you to ensure that this is an
+appropriate research direction i.e. one which will likely assist us in
+reaching our goals. This is important to the reader/reviewer as well as to
+project leads and ultimately investors, ensuring that our time, money and
+energy is being put to good use.
+
+
+Methods
+
+
+Concisely and clearly describe the experiment design, ensure that the
+following information has been included:  
+  
+What combination of factors are being tested? (if relevant use a table to
+demonstrate this)  
+  
+
+Replicate number
+
+Cell type/s
+
+Experiment
+
+duration
+
+Timepoints
+
+Total number of cells needed
+
+Number and type of vessels required**
+
+Controls
+
+Base media
+
+Method/s of measurement
+
+Quantitative or qualitative***  
+  
+3Nuvonis suspension7 days Days 3,4,5,6,7Seed @ 500K/mL: 315M cells + error =
+330M cells  
+21 x E125s1\. HyCell  
+2\. R&D 50:50 RPMI:CHO  
+3\. Condition 14R&D 50:50 RPMI:CHO Nuvonis suspension mediumCell count on
+CellacaQuantitative  
+  
+*See the following page on statistics, specifically the power calculations section to determine appropriate number of replicates  
+*number does not include vessels required for cell expansion prior to testing variables  
+**will the results retrieved be quantitative (data that can be
+counted/measured using numbers and can be used to calculate significance) or
+qualitative (cannot be counted/measured/expressed easily using numbers,
+results are more observational and open to interpretation)  
+  
+Why? The tabulated information above represents the critical information
+required to repeat the experiment and interpret the findings. Thus, it is
+important that it is documented clearly for reproducibility purposes. Note -
+it is preferred that experiments generate quantitative data with enough
+replicates to calculate significance, if the experiment only results in
+qualitative findings please take time to reassess the experimental plan, can a
+quantitative method be used? will qualitative findings be sufficient to decide
+whether the outcomes are successful or not? how can you limit bias and error
+in recording these findings?
+
+Reviewer Comments:
+
+[VP] seeking clarification re "Seed @ 500K/mL: 270M cells + error = 285M
+cells" are we seeding at 500K or 285? Where has this error been calculated?
+
+[LL] So firstly I was basing this on 18 flasks when we actually need 21, so
+have updated calculation. We need 315M cells total to seed 21 x E-125s at 500K
+cells/mL in 30 mL of medium. I like to simplify things for myself and always
+add 1 mL of cell suspension to each E-125 when seeding. This means we need the
+cell concentration of our cell stock to be 15M cells/mL, because 15M cells
+added to 30 mL = 500K cells/mL. I then like to have 1 mL of buffer/error so we
+don't run out of cell suspension when seeding, so I always add one extra flask
+worth of cells to the calculation, i.e. 15M extra cells. So that makes it 330M
+cells total, which we will re-suspend in 22 mL for a 15M cells/mL cell
+suspension.  
+  
+[VP] thanks makes sense
+
+
+Table of conditions
+
+
+
+Timeline
+
+
+Daily breakdown of tasks in table form.
+
+DayDateTask(s)Note(s)Reviewer Comments  
+-11-Sep-2022
+
+  1. Prepare control 1: 95 mL of HyCell CHO Nuvonis medium with growth factors (0.00005 mg/mL IGF + 0.00001 mg/mL EGF)
+  2. Prepare base medium: make 600 mL of R&D 50:50 RPMI:CHO Nuvonis medium without growth factors. Add 95 mL of the base medium to each of 6 x 120 mL pots.
+  3. Prepare control 2: Added growth factors (0.00005 mg/mL IGF + 0.00001 mg/mL EGF) to 1 x 95 mL aliquot
+  4. Prepare control 3: Added factors for condition 14 as specified in spreadsheet to 1 x 95 mL aliquot
+  5. Prepare conditions 14.1-14.4 according to spreadsheet linked in "Notes" column with remaining 4 x 95 mL aliquots 
+  6. Aliquoted 1 mL of each media condition into 7 x 1.5 mL eppendorf tubes for biochem analysis and stored in freezer at -20'C
+  7. Placed all 95 mL media aliquots in fridge 
+
+Spreadsheet with condition calculations[VP] overall - we should aim to collect
+and store some spent media samples at critical time points. e.g. Day 0
+(unspent), Day 3, Day 5, Day 6/7 (final day). We can analyse with biochem
+analyser in house for fast TAT of basic and informative results  
+[LL] thanks for the reminder Vic! Forgot to include that. Will update now.  
+02-Sep-2022
+
+  1. Split 90 mL of each media condition between 3 x E125s (30 mL per E-125, total of 21 x E-125s)
+  2. Place E-125s in incubator to equilibrate and warm media
+  3. Perform count on continuous culture being used to seed experiment 
+  4. Aliquot X mL of cell suspension containing 330M cells 
+  5. Centrifuge cell suspension at 500 x g for 5 min 
+  6. Aspirate 100% of supernatant 
+  7. Re-suspend cells evenly in 22 mL of base medium (15M cells/mL)
+  8. Move E-125s from incubator to BSC
+  9. Add 1 mL of cell suspension to each E-125
+  10. Take 1 x 50 uL sample from each seeded E-125 and perform count on the Cellaca to get day 0 count
+  11. Move E-125s back to incubate at 37'C, 120 RPM
+
+Note for reviewer: I added a Day 0 count given it won't add much time or extra
+labour - I figure given the uncertainty around what happened with day 1 counts
+from the high seeding density experiment it might be a good idea to know what
+the actual seeding density is on day 0 and confirm we are seeding at the
+density we think we are seeding at [VP] agreed re time 0 count  
+[LL] kept in plan  
+  
+[AV] From Slack: Is there any reason why there's 7 conditions in triplicates
+but only 18 flasks being used / seeded?  
+[LL] I've worded it poorly so it isn't clear - 6 conditions are with R&D basal
+medium, and 1 is HyCell, so 18 flasks with R&D basal medium and 3 with HyCell
+basal medium. Have clarified wording. I think the cell requirements are also
+based on the 18 flasks so will re-do calculations  
+13-Sep-2022No tasks requiredWeekend & non-critical count day  
+  
+24-Sep-2022No tasks requiredWeekend & non-critical count day  
+  
+35-Sep-2022
+
+  1. Retrieve E-125s from incubator 
+  2. Take 1 x 50 uL sample from each E-125 and perform count on the Cellaca 
+  3. Move E-125s back to incubate at 37'C, 120 RPM
+
+  
+  
+  
+46-Sep-2022
+
+  1. Retrieve E-125s from incubator 
+  2. Take 1 x 50 uL sample from each E-125 and perform count on the Cellaca 
+  3. Take 1 x 1 mL aliquot from each E-125 for biochem analysis 
+    1. Spin in benchtop centrifuge 
+    2. Aspirate 100% of supernatant and transfer to new eppendorf tube 
+    3. Label each eppendorf tube "cells" or "medium", and with flask number & date of sampling 
+    4. Store in freezer at -20'C
+  4. Move E-125s back to incubate at 37'C, 120 RPM
+
+  
+  
+  
+57-Sep-2022
+
+  1. Retrieve E-125s from incubator 
+  2. Take 1 x 50 uL sample from each E-125 and perform count on the Cellaca 
+  3. Move E-125s back to incubate at 37'C, 120 RPM
+
+  
+  
+  
+68-Sep-2022
+
+  1. Retrieve E-125s from incubator 
+  2. Take 1 x 50 uL sample from each E-125 and perform count on the Cellaca 
+  3. Take 1 x 1 mL aliquot from each E-125 for biochem analysis 
+    1. Spin in benchtop centrifuge 
+    2. Aspirate 100% of supernatant and transfer to new eppendorf tube 
+    3. Label each eppendorf tube "cells" or "medium", and with flask number & date of sampling 
+    4. Store in freezer at -20'C
+  4. Move E-125s back to incubate at 37'C, 120 RPM
+
+  
+  
+  
+79-Sep-2022
+
+  1. Retrieve E-125s from incubator 
+  2. Take 1 x 50 uL sample from each E-125 and perform count on the Cellaca 
+  3. Move E-125s back to incubate at 37'C, 120 RPM
+
+Will only perform cell count on day 7 if cells are still growing/peak density
+has not yet clearly been reached  
+  
+  
+Why? Clear and easy to follow thus minimising chance of error
+
+

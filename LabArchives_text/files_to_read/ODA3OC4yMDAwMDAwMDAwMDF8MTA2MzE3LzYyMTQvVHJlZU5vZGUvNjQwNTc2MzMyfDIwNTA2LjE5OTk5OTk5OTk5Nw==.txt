@@ -1,0 +1,495 @@
+
+
+Performed by: ST/EC/NH
+
+
+
+
+Culture ID:
+
+Flask T-75: 10100
+
+Flask T-175: 10111
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Growth Media (DMEM F12)s4293, s4255,  
+  
+Growth media (with P/S)  
+A9127  
+  
+FBS  
+a9262  
+  
+PBSA9351  
+  
+Tryple  
+M7547  
+  
+  
+  
+
+
+
+
+Optimization of Neon Electroporation
+
+
+
+Prepare cells for Neon Transfection
+
+1\. Prepare 15mL of standard growth media without antibiotics (DMEM/F12 1:1 +
+20% FBS), Aliquoted 5mL of 1x Tryple and 10mL of dPBS and placed in the bead
+bath  [13:55 - 14 :15]  
+
+2\. Pipette 0.5mL of media into each well of a 24 well plate and place in the
+incubator at 30 degrees, 5% CO2. [14:12]  
+
+3\. Remove media from the cells, wash with PBS (5mL), tryplize for 5 mins in 5
+ml [tryple added 14:15 ]. This was repeated for T175 Flask (ID: 10111) given
+we didn't harvest enough cells from the T75 flask (10 ml Tryple warmed from
+15:18-15:23).  
+
+4\. Quench cells with 5mL (T-75 flask)/ 10 ml (T-175 flask) of prewarmed dPBS.
+Take an aliquot for counting.
+
+5. Centrifuge tube at 300g for 5 minutes and resuspend pellet in 1mL growth media (T75) or 3mL of growth media (T175) containing no penstrep.  
+
+6. took a 10uL aliquot and Counted cells using a haemocytometer
+
+Cell count: 2.2M  
+
+7\. Transfer all of the cell suspension to a sterile 1.5mL eppendorf tube.
+
+8\. Centrifuge tube in microfuge at 300g for 5 minutes.  
+
+9\. Remove supernatant and resuspend in 1mL PBS. This step is very important
+as any traces of serum in the cell culture will kill the cells following
+nucleofection.
+
+10\. Centrifuge 300g for 5 minutes at RT.
+
+11\. Resuspend in 215.95ul of Buffer R (for a final volume of 220uL when
+plasmid has been added)
+
+                                 
+
+Electroporation Protocol- 24 well optimization, using 10ul kit
+
+1\. Add plasmid DNA to the resuspended cell in R buffer. Ensure that 0.5ug of
+DNA is added/10ul reaction (for 3 million cells, resuspend in 285ul of buffer
+R + 15ul of plasmid (starting concentration of 1ug/ul) --> 100,000
+cells/10ul)[plasmid concentration 2.717 mg/mL, 4.05 uL in 215.95 ul R buffer]  
+
+2\. Set up Neon tube with 3ml Electrolytic Buffer (buffer E for 10 ul) at Neon
+pipette station.
+
+3\. Use preprogrammed 24 well optimization protocol (see table below).  
+
+4\. Push pipette down to second stop to grab the tip, release and then press
+down again to completely load tip.  
+
+5\. Push pipette to first stop to load liquid, ensure that there are no air
+bubbles. Place in machine and push start.
+
+6\. After electroporation, transfer the 10ul to the appropriate well. Swirl
+plate frequently.
+
+7\. Change optimization protocol each time. Use each tip 3x, and change buffer
+E every 10x wells.
+
+Cells were aliquoted between [16:45-17:15]. Placed into the incubator at 30
+degrees, 5% Co2. Culture 10163  
+
+  
+
+ Note: Watch machine each time to ensure no sparks.  
+
+
+
+
+Optimisation day 2 table
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+Sample
+
+
+
+Well no.
+
+
+
+Pulse voltage
+
+
+
+Pulse width
+
+
+
+Pulse no.
+
+Results  
+  
+Transfection efficiency
+
+Cell viability  
+  
+1
+
+A1
+
+1725
+
+20
+
+1  
+  
+  
+  
+2
+
+A2
+
+1625
+
+20
+
+1
+
+
+
+  
+  
+3
+
+A3
+
+1650
+
+ 20
+
+1
+
+
+
+  
+  
+4
+
+A4
+
+1675
+
+20
+
+1
+
+
+
+  
+  
+5
+
+A5
+
+1700
+
+20
+
+1
+
+
+
+  
+  
+6
+
+A6
+
+1750
+
+20
+
+1
+
+
+
+  
+  
+7
+
+B1
+
+1100
+
+30
+
+2
+
+
+
+  
+  
+8
+
+B2
+
+1125
+
+30
+
+2
+
+
+
+  
+  
+9
+
+B3
+
+1150
+
+30
+
+2
+
+
+
+  
+  
+10
+
+B4
+
+1175
+
+30
+
+2
+
+
+
+  
+  
+11
+
+B5
+
+1200
+
+30
+
+2
+
+
+
+  
+  
+12
+
+B6
+
+1225
+
+30
+
+2
+
+
+
+  
+  
+13
+
+C1
+
+1325
+
+20
+
+2
+
+
+
+  
+  
+14
+
+C2
+
+1350
+
+20
+
+2
+
+
+
+  
+  
+15
+
+C3
+
+1375
+
+20
+
+2
+
+
+
+  
+  
+16
+
+C4
+
+1400
+
+20
+
+2
+
+
+
+  
+  
+17
+
+C5
+
+1425
+
+20
+
+2
+
+
+
+  
+  
+18
+
+C6
+
+1450
+
+20
+
+2
+
+
+
+  
+  
+19
+
+D1
+
+1550
+
+10
+
+3
+
+
+
+  
+  
+20
+
+D2
+
+1575
+
+10
+
+3
+
+
+
+  
+  
+21
+
+D3
+
+1625
+
+10
+
+3
+
+
+
+  
+  
+22
+
+D4
+
+1650
+
+10
+
+3
+
+
+
+  
+  
+23
+
+D5
+
+1675
+
+10
+
+3
+
+
+
+  
+  
+24
+
+D6
+
+1600
+
+10
+
+3
+
+
+
+
+
+
+  
+  
+## Reference images:
+
+Culture 10111 prior to passage:
+
+

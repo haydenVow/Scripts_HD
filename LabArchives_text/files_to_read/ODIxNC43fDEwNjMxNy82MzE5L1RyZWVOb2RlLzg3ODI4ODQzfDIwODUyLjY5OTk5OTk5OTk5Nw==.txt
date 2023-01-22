@@ -1,0 +1,193 @@
+
+
+Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4 xT175  
+10180, 10181, 10182, 10183  
+7 x 6 well plates, 1x2cF  
+10273, 10274 - Control mock  
+10275, 10276 - PABPC1 + PTEN  
+10277 - Half plate PABPC1 + PTEN, half plate IGFBP4  
+10278, 10279 - IGFBP4  
+10284 - 2CF  
+  
+  
+  
+
+  
+
+
+ComponentID  
+TE bufferS133; A9979  
+  
+Alt R Cas9S4478  
+  
+Buffer RS4590  
+  
+E BufferS4589  
+  
+GuidesPABPC1 guide 1, PTEN guide 1, IGFBP4 guide 1  
+  
+Electroporation enhancerS4477  
+  
+Media (DMEM F12 without antibiotics)M9916  
+  
+trypleA9287  
+  
+PBSA9350  
+  
+DMEM/F12 + 20% FBS + 1xP/S  
+a9296  
+
+
+  
+  
+Alliquoted out PBS, Tryple and media needed for the protocol
+
+PBS needed -    80 ml         [11:00]
+
+Tryple needed -  40 ml        [11:00]
+
+Media needed (not that required for 6 well plates, only that required for the
+counting step)  [11:00]
+
+Media was placed at 37 degrees bead bath from 11:00-13:16
+
+
+
+
+  
+
+  
+
+  
+
+Prepare guides/cas9/Cas9 electroporation enhancer
+
+  1. Resuspend guide RNAs in 1 x TE buffer to a final concentration of 44 uM (store at -20) ( guide 1  ul,  guide 1  ul), (buffer + gRNA mixes were placed in the fridge while other components were being mixed), 45.45uL of TE buffer was added to the IGFBP4 guide
+  2. Make up Cas9 mix. Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.20 to get total volume required for experiment.
+
+ComponentAmount (uL) 1 x mixAmount (uL) x54  
+Alt-R Cas9 (62 uM stock)0.316.2  
+  
+Buffer R0.210.8  
+  
+Total volume0.527  
+  
+  
+3\. Make up the Cas9 + guide mix. Below is a 1 x mix for 1 well, multiply by
+number of wells you intend to make x 1.20 to get total volume required for
+experiment.
+
+Component Amount (uL)Amount (uL) x 18 per guide  
+Amount (uL) x  14 for control  
+sgRNA in TE buffer (44uM)0.5 9  
+7 (just TE buffer)  
+Cas9 in R buffer (36 uM from above)0.59  
+7  
+  
+Total volume118  
+14  
+  
+  
+4\. Incubate mix for 10-20 min, (tubes were left in the bench hood for 10
+minutes to incubate from 12:26)
+
+5\. while incubating, prepare the electroporation enhancer
+
+make up mix for each experiment of a 10.8 uM solution using 1 x TE buffer.
+Below is a 1 x mix for 1 well, multiply by number of wells you intend to make
+(42) x 1.20 to get total volume required for experiment.
+
+Component Amount (uL)Amount (uL) x 51  
+  
+Electroporation enhancer (100 uM)0.2211.22  
+  
+1 x TE buffer 1.7890.78  
+  
+Total volume 2 102  
+  
+  
+  
+
+
+
+
+Prepare Cells for nucleofection
+
+  1. 6 well plates were prepared to receive nucleofected cells. 15 wells were prepared per treatment, 12 wells were prepared for controls, (27 wells total. The number of wells required were filled with 3 mL of DMEM/F12 + 20% FBS WITHOUT ANTIBIOTICS! 
+  2. 6 well plates were placed in the incubator (30 degrees, 5% CO2) to warm plates with media [11:02am]
+  3. Cells used were of a low passage number, thawed and out of frozen storage for at least 3 days and appear happy and live. [Cell culture ID:          ]
+  4. Media was removed from cells, PBS washed with 10 mL per flask and triplised with 10 mL tryple per flask [13:29-13:27]
+  5. tryple was neutralised with    10   mL PBS per flask after _8__ minutes
+  6. Cells were transferred to a _50 ml__ falcon tube, Cells were centrifuged for 5 minutes at 300g.
+  7. Supernatant was aspirated and discarded, cells in each tube were resuspended in 7 ml of growth media.
+  8. Cell count was performed [Cell count 6.16X10^6 cells/mL) https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1961:1961 total cell number 43120000
+  9. Added 2.5mL of growth media to the tube accidentally, changing the cell concentration to 4312000 cells in 9.5mL (4538947 cells/mL)
+  10. The number of cells required for the experiment was determined. 0.5 x 10^5 cells were required per well. Each condition therefore required 1.5 x 10^6. However we prepared extra in case of pipetting errors. We therefore prepared an extra 1 x 10^6 cells per treatment (guide or control). We therefore used a total of 24 x 10^6 cells. 
+  11. 5.28mL of counted cell suspension was aliquoted to a new 15 mL tube. (24x10^6 cells)
+  12. Cells were centrifuged for 5 mins at 300g at room temp [14:38-14:43]
+  13. Supernatant was removed
+  14. The pellet was resuspended in 1mL 1x PBS 
+  15. The dPBS solution containing cells was transferred into 3 separate 1.5mL eppendorf tubes. 
+    1. 280uL to Tube 1 (Control)
+    2. 360uL to Tube 2 (PTEN + PABPC1)
+    3. 360uL to Tube 3 (IGFBP4)
+  16. all 1.5mL tubes were centrifuged at 300g for 5 mins at room temp.
+  17. The supernatant was removed from each tube. It is important to remove as much as possible. Use a 1 mL tip to remove most of the supernatant and then switch to a 200 uL pipette to remove a little more if necessary. Do not disturb the pellet.
+  18. The pellet in each tube was resuspended in R buffer as per the table below (105uL for Tube 1, 135uL for tube 2 and 3 (7.5uL R buffer per 5 x 10^5 cells)
+  19. To each epindorf tube the following mix was prepared: 
+    1. 3 tubes total were made up
+      1. Control 
+      2. PTEN + PABPC1
+      3. IGFBP4 
+
+Component1x Amount (uL) 14 x Controls (no RNP, just cas9)18 x for each gene  
+RNP complex from above0.8311.62  
+ 14.94 (sgRNA + cas9)  
+Cells in R buffer7.5105  
+135  
+  
+10.8 uM electroporation enhancer1.6723.38  
+30.06  
+  
+Total10140180  
+  
+  
+18.The nucleofection machine was set up inside the BSC. A fresh glass
+electroporation tube was filled with 3mL of E buffer and placed inside the
+chamber. 6 well plates were retrieved from incubator and placed in the BSC
+
+19.A neon tip was inserted into mix 1 (control) and 10uL was drawn up and
+electroporation proceeded using condition 1 below. After electroporation, the
+cells were dispensed into one well on a 6 well plate.
+
+ConditionVoltage Pulse WidthPulse Number  
+11700201  
+21750201  
+3145020 2  
+  
+  
+20\.  Step 19 was repeated twice more using a new 10uL sample of mix 1 each
+time for electroporation condition 2 and 3. Each sample was transferred to a
+new well following treatment.
+
+21\. Cells were placed back in the incubator for 72 hours.
+
+22\. Steps 19-21 were repeated using Mix 2 and Mix 3.
+
+\---
+
+2.08mL of counted cell suspension was then transferred into 300mL of DMEM/F12
++ 20% FBS + 1xP/S (10 million cells). The growth media containing cells was
+then transferred to a 2 layer cell factory and placed in an incubator at 30
+degrees, 5% CO2. These cells will be used for Round 3 of nucleation
+(EPIC30047).
+
+

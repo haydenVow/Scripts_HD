@@ -1,0 +1,263 @@
+Performed By: VB AW
+
+
+Harvest Culture Details
+
+Vessel type(s)Vessel IDGrowth media  Storage Location  
+12x 12mL scaffold wells 12750-Nuvonis Quail Suspension341-P-1of1  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+Snap frozen samples: 80 Ralph St (-80C), in 1.5mL tubes  
+ PFA fixed whole-tissue samples:  
+  
+  
+  
+
+
+Experimental Plan
+
+
+Tissues for both experiments 4 and 5 have been matured for 10 days. Tissue
+formation looks good from a qualitative assessment of tissue structure and
+integrity. Tissues will now be characterised using a variety of methods which
+are outlined here. Given the small amount of tissue (2 replicates per cell
+density), we will be maximising the amount of analyses that we can perform on
+the tissue.
+
+Briefly, all 12 tissues cultured for experiment 4 will be separated for 3
+types of tissue preparation: Tissue digestion, Snap-freezing and Fixation.
+
+Figure 1. Tissue preparation methods for mini-tissue experiment 4
+
+  
+
+Figure 2. Plate layout for experiment 4
+
+Tissue Sample label details:
+
+  1. 15M-a 
+  2. 15M-b
+  3. 20M-a
+  4. 20M-b
+  5. 20M-c
+  6. 25M-a
+  7. 25M-b
+  8. 25M-c
+  9. 40M-a
+  10. 40M-b
+  11. 60M-a
+  12. 60M-b
+
+
+Reagent Details
+
+
+  
+
+ReagentConcentrationVolume (mL)Ranger IDNotes  
+Collagen Type 1 in milliQ 2.6 mg/mL75mix 13074  
+  
+Permeabilisation buffer  
+0.1% TritonX+1mM EDTA+PBS (No 2mM Sodium Azide)  
+200mix 13075  
+  
+Collagenase T2 in DMEM/F12  
+750U/mL Collagenasw Type 2  
+250Mix 13076  
+  
+Paraformaldehyde in PBS  
+4%55mL Alq 3118, Alq 3114, Alq  
+  
+dPBS1x250Alq 12842  
+  
+  
+  
+
+
+Methods
+
+
+Buffer Preparation
+
+Digestion Buffer 1 (250ml) -750U/mL Collagenase type II in DMEM/F12
+
+Digestion buffer 2 (needed if tissues don't digest) - 11U/mL Dispase in
+DMEM/F12
+
+*(Not needed for this protocol) FACS Buffer -  1% BSA, 2mM EDTA, 2mM Sodium Azide
+
+Fixation Buffer -  4% Paraformaldehyde in PBS
+
+Permeabilisation Buffer (200mL) - 0.1% Triton-X in PBS, 1mM EDTA, 2mM Sodium
+Azide
+
+Other preparation
+
+  1. Prepare 36 labelled Eppendorf tubes for snap freezing
+  2. Prepare 2x labelled 12 well plates for initial PBS wash and fixation
+  3. Prepare 12 labelled specimen pots for digestion
+  4. Prepare 12 labelled 50ml falcons with 70um cell strainers in
+  5. Prepare 12 labelled 15ml falcons
+  6. Prepare 12 labelled FACS tubes
+
+Tissue Harvest
+
+  1. Cut tissues with a scalpel or fine scissors at the "cut point" and remove from the mould with forceps
+  2. Wash samples once in PBS
+  3. Gently blot tissues dry with sterile gauze (without damaging tissue)
+  4. Weigh tissue on weighing paper and record the weight below
+  5. In a clean petri dish, cut tissues as per figure 1 above
+  6. Place samples into PBS for further prep
+
+TISSUE SAMPLEWEIGHT (mg)Observations  
+1-15M-a172.5holds together well -  
+2-15M-b300.3holds together well - bit of structure  
+3-20M-a373.5very similar to the 25M structures but more elastic/stringy -
+holds structure much better  
+4-20M-b268.3fell apart - did not cut sample, only used for viability testing  
+5-20M-c176.5very similar to the 25M structures but more elastic/stringy  
+6-25M-a285.6Appears to hold its structure better -  some defining features -
+able to see the area where it attaches to the poll. Still rather soft.  Came
+out easier  
+7-25M-b216.1Very stringy, not too fragile as it holds together while being
+handles. 'Cheese-like' Yellow colouring with some pink throughout .  
+8-25M-c91.1Appears to slightly harder to cut compared to 25M-b. Stringy and
+soft aswell, but holds together.  
+9-40M-a203.2Appears to hold its structure better -  some defining features -
+able to see the area where it attaches to the poll. Still rather soft.  Came
+out easier  
+10-40M-b272same as above  
+11-60M-a414Very slimy, did not hold much structure when removed. Balls up into
+a singular blob. When moving, it is slightly stretchy and Snot like.  
+the exterior is firmer than the interior - feels like a film.  
+12-60M-b255.8same as above  
+  
+Notes from all samples:
+
+  * \- colour similar to raw chicken breast 
+  * \- the exterior is firmer than the interior - feels like a film.  
+  * \- the tissue that wraps around the poll is a bit more sturdier than the middle which is a bit more fragile
+
+  
+
+  
+
+Fixation (for Microscopy)
+
+  1. Fix tissue in a 12 well plate in 4% PFA in PBS (Fixation buffer) overnight at 4degs
+  2. Following day, wash 3x5mins in PBS Start time: 10:33 12/07/22 
+  3. Store tissue in PBS + 0.02% Sodium Azide in 4 degs
+
+Fixed tissue will be taken to UNSW in 70% Ethanol for tissue processing,
+paraffin embedding, sectioning and some slides (every other?) will be used for
+H&E staining and subsequent slide-scanning.
+
+Snap Freezing (for Molecular Analyses)
+
+  1. Tissue segment for snap-freezing will be further cut into 2 or 3 pieces (depending on handling ease)
+  2. Each portion will be placed into an Eppendorf tube
+  3. Snap-freeze Eppendorf tubes in liquid nitrogen for 3-5 seconds each
+  4. Place in the -80 freezer
+
+Snap frozen tissues will be used for proteomic analysis and possibly other
+molecular analyses at a later date (when we have built up a larger number of
+samples)
+
+Digestion (for Flow Cytometry)
+
+  1. Remove the tissue portion from PBS and place onto a clean petri dish
+  2. Add a few drops of digestion buffer onto the tissue
+  3.  ~~With scalpel, mince up tissue into small pieces (almost paste-like) -  ~~samples did not cut, therefor used the black of a test tube and petri dish to smear the samples to create a paste. 
+  4. Place minced tissue into a specimen pot with 20ml digestion buffer
+  5. Incubate with agitation for 10 mins 15:22-15:32 
+    1. Room temperature
+    2. 60rpm on a Thermo Fischer shaking plate.
+  6. Place 70um cell strainer into 50ml falcon and wet the strainer with digestion buffer
+  7. Pipette minced tissue into the cell strainer and ensure that all tissue has passed through, and a single cell suspension is formed
+  8. Centrifuge at 500g for 5 minutes
+  9. Wash pellet with PBS.
+  10. Resuspend pellet in ~~10ml  ~~5mL fixation buffer and incubate for 10 mins at RT and place into 15ml falcon
+  11. Centrifuge at 500g for 5 minutes.
+  12. Wash (resuspend) cells once in 5ml permeabilisation buffer
+  13. Centrifuge at 500g for 5 minutes.
+  14. Resuspend cells in 10mL of PBS in a new 15mL tube. 
+  15. Centrifuge at 500g for 5 minutes.
+  16. Resuspend cells in ~~  ~100-200uL~~ 500uL of PBS
+  17. Count cells from two tubes (for an approximate count across tubes) using Haemocytometer
+    1. Density tube #40M-B : 1.5M/mL
+  18. Resuspended "larger" pellets in 1mL total, smaller pellets remained in 500uL
+  19. Wet FACS tube filter with 1/2 drops PBS
+  20. Place pipette tip flush with filter and pipette quickly into FACS tubes
+  21. Pause point in protocol - place samples in fridge. 
+
+Labelling cells with ~~  DAPI and PI will be done the following day (Tuesday
+12th July) ~~ Annexin V and PI on 20 July for flow cytometry
+
+
+Flow Cytometry used to perform Live-Dead Investigation of the Samples
+
+
+Date performed: 20/08/22
+
+Performed by: Alex W, Varshana B
+
+Samples were stained using the FITC Annexin V Apoptosis Detection Kit with PI
+(stk 7041) (Cat 640914, lot B354327, 100 tests) and were analysed using the
+FACSMelody
+
+Protocol
+
+  1. Transfer 100 µL of each sample cell suspension in a 1.5 mL eppendorf
+  2. Add 5 µL of FITC Annexin V
+  3. Add 10 µL of Propidium Iodide Solution. 
+  4. Gently vortex the cells and incubate for 15 min at room temperature (25°C) in the dark. 13:21
+  5. Add 400 µL of Annexin V Binding Buffer to each tube.
+  6. Wet FACS tube filter with 1/2 drops FACS buffer
+  7. Place pipette tip flush with filter and pipette quickly into FACS tubes
+  8. Perform flow cytometry on all samples
+    * Each control was recorded for 10,000 events. 
+    * Each condition was recorded for 20,000 events. 
+
+Data Obtained: https://drive.google.com/drive/folders/130Ts8CRi-
+LAArFOF7hFfEtixpfBXsNDS
+
+Results obtained from samples do not align with results of the control samples
+(in 1:10 and 1:100 H2O2), whereby we can not ascertain clear unstained/live
+cells populations from the apoptotic and dead cell populations you would
+expect from an assay that uses Annexin V and PI.
+
+Moving Forward: We we conduct an optimisation experiment to improve the assay
+prior to the Harvest of tissue disc experiment D.
+
+Link to plan for optimisation experiment. scheduled 18-19/08/22
+
+  
+
+  
+
+  
+
+
+Fixed tissues to be taken to the Garvan for sectioning and histology.
+
+
+Date performed: 21.07.22
+
+Performed by: Alex W
+
+Samples Taken:
+
+  1. 15M-a 
+  2. 15M-b
+  3. 20M-a
+  4. 20M-b
+  5. 20M-c
+  6. 25M-a
+  7. 25M-b
+  8. 25M-c
+  9. 40M-a
+  10. 40M-b
+  11. 60M-a
+  12. 60M-b
+
+

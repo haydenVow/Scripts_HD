@@ -1,0 +1,139 @@
+
+
+# Harvest 4 x T175 (1 from each treatment group)  
+
+* * *
+
+Date: 11/06/2021  
+Start time: 11:30am  
+End time:
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s  
+  
+7008 - Vit C ONLY  
+7006 - TGF ONLY  
+7005 - 20% FBS + vit C + TGF  
+7009 - 10% FBS + vit C + TGF  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+Cell Harvest  
+  
+If harvesting flask type
+
+Then for each flask use...  
+dPBS @ 37CTrypLEdPBS @ Ambient Temp  
+T17510 mL15 mL10 mL  
+2CF100mL100mL100mL  
+4CF200 mL200mL200 mL  
+5CS250mL250mL250mL  
+10CS500mL500mL500mL  
+  
+  
+  
+
+  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  3. Aliquot required volume of dPBS (37C), dPBS (ambient temp) and TrypLE in separate sterile pots.  Refer to Table above for required volume.
+  4. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 11:15am  
+
+  5. Transfer aliquots and flasks required for harvest into the BSC.
+  6. Discard growth media from each flask.
+  7. Wash with warmed dPBS, then discard.
+  8. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  9. Place in the incubator at 37C. After 10 minutes, remove flasks and observe for 95-100% dissociation of cells. Incubate further until maximum dissociation level is reached.  
+     NOTE: The flasks must be removed from the incubator within 15 minutes of initial incubation of TrypLE containing flasks.  
+`     Time stamps`:
+
+    1.  20% FBS + vit C + TGF: 14:02pm - 14:20pm
+    2.  10% FBS + vit C + TGF: 14:02pm - 14:20pm
+    3.  10% FBS + vit C : 14:02pm - 14:20pm
+    4.  10% FBS + TGF: 14:02pm - 14:20pm
+    5.  
+  10. Aspirate the TrypLE solution and collect into 50mL centrifuge tubes(labelled).
+  11. Using a serological pipette, dispense ambient temperature dPBS to create a final wash for each of the flasks. To effectively remove remaining cells adhered to the gelatin coated flasks,  aspirate the dPBS and resuspend into the the flask 2-3 times before collecting and combining the entire volume into the centrifuge tubes.
+  12. Centrifuge at 700 x g for 5 minutes. ``  
+`      Time stamp` :
+
+    1.  14:37pm  
+
+    2.  
+  13. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirate the supernatant from the tubes. Discard supernatant. Use Growth media to neutralise TrypLE and combine the cell pellet of the same treatment groups into a pre-weight tube as below.  
+
+###  
+
+### Re-pellet and Weigh Final Yield
+
+  1.  Label and Record the weight of 1 sterile centrifuge tube and set aside. Record details in Table.  
+  2.  Transfer resuspension media into the new centrifuge tubes.
+  3. Centrifuge at 700 x g x 5 minutes. 
+  4. Aspirate the supernatant from the tubes. Remove as much remaining supernatant with a 1mL pipette.
+  5. Record the final weight of the cell pellet. Enter details in Table. 
+  6. Immediately provide to the food team for testing. 
+
+Description  
+  
+  
+  
+  
+Pellet Name 20% FBS + Vit C + TGF-b1  
+10% FBS + Vit C + TGF-b1  
+10% FBS + vit C  
+10% FBS + TGF-b1  
+  
+Initial Weight of Tube12.372  
+12.483  
+12.460  
+12.375  
+  
+Weight of Tube + Cells12.530  
+12.570  
+12.640  
+12.570  
+  
+Weight of Cell Pellet0.158  
+0.087  
+0.180  
+0.195  
+  
+  
+  
+
+
+
+
+Observations from 48-hr treatment
+
+20% FBS + TGF + VitC: almost all cells have formed aggregates, very little
+adhered to surface  
+10% FBS + TGF + Vit C: a combination of aggregates and sheet, but more cells
+had come off and formed aggregates with pro-longed treatment (we circled an
+area with cells still attached after 24hr treatment, and saw that a decent
+portion ~75% of this area had come off)  
+10% FBS + TGF: no aggregates. cells still adhered to surface  
+10% FBS + VitC: no aggregates. Cells still adhered to surface (edited)  
+
+Trypling of Vit C treated flask came off as a fluid sheet but did seem to
+break apart the longer it was left in trypLE and was quite gloopy - like mucus
+(in the falcon tube - also more easily broke apart with a pipette)
+
+Pellet weights from a single T175 for each treatment weren't very accurate due
+to the scale sensitivity and small yield.
+
+

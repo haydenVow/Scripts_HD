@@ -1,0 +1,107 @@
+Experimental overview
+
+
+Introduction: Based on previous data using MMCs, substantial amounts of ECM
+were present in the media, rather than the cell layer. The objective of MMC is
+to concentrate collagenous matrix/ECM into the growing cell sheet to create a
+harvestable solid product. We hypothesised that the continuous perfusion of
+the roller bottle format was acting to dilute secreted proteins, thereby
+diminishing the effect of MMC.
+
+Objective: Compare the effects of an MMC combination on cells in a perfused
+environment (roller bottles) vs a static environment (Cell Factories/flasks).
+
+Methodology: Cells were seeded in roller bottles and 10 CFs under comparable
+conditions:
+
+  * 1 Billion cells per vessel
+  * ACF media (DMEM/F12 50:50) with 150ug/L ascorbate, penicillin/streptomycin, ITS and BSA (18g/L)
+  * MMC media as above, with x 75g/L ficoll 70; 50g/L ficoll 400 and 70mg/L carageenan.
+
+Protocol:
+
+  1. Four collection bottles (large centrifuge tubes) were weighed to 1mg
+  2. Cells were harvested from a 5000ml E-Flask by pipetting equal volumes cell suspension into the collection tubes, and centrifuged for 5m at 500g.
+  3. Cell pellets were weighed in the bottle to give a total cell mass per condition.
+  4. Pellets were resuspended in 50ml DMEM (+20% FCS) and the volume of the pellet measured using the pipette graduations
+  5. 2x resuspended pellets (A & B) were transferred to 2L roller bottles with an additional 175ml media (225ml total) and incubated under standard conditions for 24h, with roller bottles set to 1rpm. 
+  6. 2x resuspended pellets (C & D) were transferred to T175 flasks, by transferring 10ml suspension to each flask and adding a further 35ml media (45ml media in total per flask)
+  7. Cultures were observed for 5 days, with external visual monitoring to check changes in opacity and phenol red-indicated pH to determine the end point. 
+
+Analysis: The key output for this experiment was to compare to amount of
+matrix produced by the cells under each condition.
+
+  1. Cell pellets weighed at the start of the experiment prior to seeding (time point zero; T0) and the total harvest mass from each condition weighed after centrifugation.
+  2. Collagen in both solid and waste media phases quantified using the SirCol assay
+
+Results:
+
+  1. Cell pellet starting weights were recorded in Table 1. The average cell mass per billion cells was determined as 6.667g (SD=0.073g, n=4). The average cell volume was 6.6ml per billion cells.
+  2. Total cells in each group were estimates to be 971M based on a 4-way split of 3.884Bn cells in 1200ml media.
+  3. After 5 days it was noticed that the cell layers in flasks were detaching and media was very yellow. The roller bottle media was still pink. The experiment was terminated after 5 days and analysed
+  4. The recovered cell mass was lower than the starting mass in all cases table 1) 
+
+  
+
+Tube
+
+Condition
+
+Cell number
+
+Weight (T0/T5)  
+  
+A
+
+Roller bottle control
+
+971M
+
+6.582g
+
+2.462g  
+  
+B
+
+Roller bottle MMC
+
+971M
+
+6.424g
+
+2.739g  
+  
+C
+
+5x T175s Control
+
+971M
+
+6.461g
+
+3.372g  
+  
+D
+
+5x T175s MMC
+
+971M
+
+6.443g
+
+3.334g
+
+  
+  
+  
+Table 1. Cell pellet weights per experimental condition.
+
+Conclusions, summary and next steps
+
+  1. Seeding at this density is excessive as a monolayer, and caused detachment and rapid media exhaustion. 
+  2. The static T-flask format seemed to perform better, as cells in roller bottles formed aggregates
+  3. Next steps are to trial much lower cell seeding densities and a 3D format for roller bottle cultures
+
+  
+
+

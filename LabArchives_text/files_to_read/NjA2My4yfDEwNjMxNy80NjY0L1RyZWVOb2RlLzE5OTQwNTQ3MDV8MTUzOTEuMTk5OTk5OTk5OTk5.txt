@@ -1,0 +1,122 @@
+Key findings:
+
+
+  * Training set of images (from 384 well plate) were successfully generated of DOLLY12 fibroblasts approximating the morphology and size of suspension cells
+  * ML model can identify cells in both low and high density images, however requires additional optimisation for images with a sufficiently high number of cells (>1000)
+  * ML model overcounts images from Day 1 post FACS sort, likely due to condensation and/or debris appearing similar to cells the model was trained from
+
+
+Results/Discussion:
+
+
+The purpose of this experiment was to generate phase contrast and DAPI images
+of DOLLY12 fibroblasts in suspension in order to train a machine learning (ML)
+model to identify cells in suspension from captured Zaber images.
+Unfortunately, no suspension adapted fibroblast cell lines have been
+successfully obtained, therefore freshly thawed DOLLY12 fibroblasts were
+utilised to generate "suspension-like" images for training. Wherein,
+fibroblasts that have been recently thawed and have not adhered onto a culture
+surface approximate the morphology (roundness, not splayed out/attached) of
+commercial suspension cell lines. These images could then be utilised to train
+a ML model to identify and count cells during the cloning of suspension
+adapted cells.
+
+Initial attempts highlighted that the early iteration of the ML model could
+successfully identify cells from phase contrast images to an acceptable degree
+(±10% threshold). Figure 1 highlights the comparison between Hoechst stained
+fibroblasts imaged on the DAPI channel, which was used to evaluate performance
+of ML model, and the corresponding phase contrast image. Overlays between the
+two images accentuates that the labelled cells from the phase contrast image
+correspond accurately to the stained nuclei. However this ±10% threshold was
+only retained in sparse populations of cells, as emphasised in Figure 2. In
+denser populations the ML significantly undercounted the number of cells
+present in the well, which was attributed to how close the cells were in
+proximity to one another. Following this initial training session the ML model
+was then implemented in the suspension cloning pipeline. However, as indicated
+in Figure 3, the ML model was overcounting wells from Day 1 plates post FACS
+sorting. Wherein, at Day 1 ideally there should one be one cell present in the
+well, given that only one cell is sorted per well, whereas the ML model
+identified >15 "cells". As a result, it's use was discontinued until the model
+could be trained to eliminate false positive (i.e., debris that approximated
+the morphology and size of cells) and count actual cells more accurately. In a
+separate note the model was further refined to count cells from wells with
+sufficiently high density. Figure 4 illustrates a phase contrast image of a
+well from a 384 well plate in which the suspended fibroblast cells have been
+labelled using the ML model. Importantly, and as expected, the model was able
+to identify significantly more cells compared to the iteration highlighted
+from figure 2. However the model still overlooks a number of cells and thus
+requires further optimisation, preferably with a either a commercial or in
+house adapted suspension cell line.
+
+  
+
+(a)
+(b)
+
+Figure 1: Comparison between labelled and unlabelled DOLLY12 fibroblast nuclei
+in sparse population in 384 well plate using a machine learning model trained
+using fibroblasts cells in suspension culture. (a) DAPI image of unlabelled
+fibroblasts stained with Hoechst in a well of a 384 well plate. (b) Phase
+contrast image of labelled fibroblasts using a suspension trained machine
+learning model in same well of a 384 well plate.  Cells imaged under DAPI
+fluorescence channel, with 5x objective using the Zaber.
+
+  
+
+(a)
+(b)
+
+Figure 2: Comparison between labelled and unlabelled DOLLY12 fibroblast nuclei
+in dense population in 384 well plate using a machine learning model trained
+using fibroblasts cells in suspension culture. (a) DAPI image of unlabelled
+fibroblasts stained with Hoechst in a well of a 384 well plate. (b) Phase
+contrast image of labelled fibroblasts using a suspension trained machine
+learning model in same well of a 384 well plate. Cells imaged under DAPI
+fluorescence channel, with 5x objective using the Zaber.
+
+                                                        
+
+Figure 3: Phase contrast image of DOLLY12 fibroblast in suspension, labelled
+using the ML model Day 1 post FACS sort.
+
+
+
+
+Figure 4: Phase contrast image of dense DOLLY12 fibroblast population in
+suspension, labelled using the ML model.  
+
+
+Limitations:
+
+
+A fundamental limitation concerning this experiment was that the images
+utilised to train the ML model were not suspension adapted cells. Wherein, due
+to the lack of an in-house suspension adapted cell line or commercially
+available equivalent the training set of images were obtained using a method
+that may be inappropriate to train a ML model. Additionally the freshly thawed
+fibroblast cells may not approximate cells that have already been adapted to
+suspension when imaged from static culture. Separately, the ML model
+unfortunately could not identify cell to an accurate degree from actual
+cloning plates, and thus could not be utilised during the cloning process.
+However, this may be attributed to the finding that even human observers have
+substantial difficulty in identifying cells from the cloning plates.  
+
+
+Conclusion:
+
+
+Despite promising indications that the ML model could identify suspension-like
+cells, further optimisation is required. Namely the model overcounts images
+from early stages of the cloning process, given that only a few cells are
+expected to be present. Moreover, dense cell populations are undercounted due
+to the close proximity of cells to one another. Further work should involve
+utilising CHO-S cells to train the model further.
+
+
+Future Directions:
+
+
+  * Generate training images using suspension adapted cell lines, namely CHO-S cells. An MCB of these cells has been established and therefore can be utilised for the continuation of this experiment
+  * Continue refining the model using a training set of images of CHO-S cells in static suspension imaged on the Zaber
+
+

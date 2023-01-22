@@ -1,0 +1,394 @@
+
+
+## Performed by: ST/NH
+
+
+
+
+Culture IDs
+
+Flask TypeFlask ID(s)  
+T75 flasks
+
+  
+
+  
+
+
+  
+  
+Prep for cDNA synthesis
+
+Working out correct RNA concentrations: 1000 ng of each sample were required
+for cDNA synthesis in 16 ul total solution
+
++ve well-ve wellSample IDng/ul Volume (ul)Total ngVol (ul) for 1000ngRNase-
+free water (ul)  
+A1A3Control 1300.13811403.8  
+3.33  
+12.67  
+  
+B1B3Control 2375.93814284.2  
+2.66  
+13.34  
+  
+C1C3RIPK1259.5389861  
+3.85  
+12.15  
+  
+D1D3ZIC1406.13815431.8  
+2.46  
+13.54  
+  
+E1E3FASLG343.13813037.8  
+2.91  
+13.09  
+  
+  
+  
+
+
+
+
+PROCESS - cDNA synthesis
+
+  1. RNA extracted samples made on 2-Mar-22 were taken from the -80 freezer and placed on ice
+  2. An empty PCR plate was aquired 
+  3. RNA and milli Q water were added to the PCR plate to equal a total amount of RNA 1000 ng/samples in 16 ul total solution according to the table above in the wells indicated. 
+  4. To the samples labeled +ve, 4 uL of Vilo superscript was added to each well
+  5. To the samples labeled -ve, 4 uL of milli Q water was added to each well
+  6. Samples were placed in the thermocycler and run with the following conditions:
+
+  * 25 c 10 min
+  * 42 c 120 min
+  * 85 c 5 min
+  * 4 c hold
+
+  
+
+
+
+
+qPCR map
+
+  
+MM123456789101112131415161718192021222324  
+AhousekeeperC1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1
+2P+P P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+BPABPC1C1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+CPTENC1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+DIGFBP4C1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+ERIPK1C1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+FZIC1C1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+GFASLGC1C1C2C2C3C3PTEN 1PTEN 1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P
+P+P IGFBP4IGFBP4C1C1C2C2RIPK1RIPK1  
+HhousekeeperZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+IPABPC1ZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+JPTENZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+KIGFBP4ZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+LRIPK1ZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+MZIC1ZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+NFASLGZIC1 ZIC1 FASLGFASLG  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+O  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+P  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Rounds 1/2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Rounds 3/4  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Process - qPCR
+
+  1. The +ve cDNA samples made above were diluted 1:400 in new 1.5 mL tubes by added 798 uL milli Q water and 2 ul cDNA 
+  2. Master mixes were prepared for the 4 genes of interest. Master mix 1x was as follows:
+    * 5 ul sybr green master mix
+    * 0.2 ul fwd primer
+    * 0.2 ul rev primer
+  3. 5.4 uL of MM was added to each well according to the map above
+  4. 4.6 uL of diluted cDNA was added to each well according to the map above
+  5. the samples were run of the ViiA7 qPCR machine with the following settings:
+    * ViiA7 system
+    * Comparative CT
+    * SYBR
+    * Standard 
+    * 384 well plate
+
+
+
+
+Summary of results
+
+  
+
+

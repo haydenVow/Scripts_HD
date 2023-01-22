@@ -1,0 +1,35 @@
+Performed by: EC
+Process
+
+
+Note: I know that 2 of the "FACS sorted" plates were discarded recently due to
+contamination, but I'm not sure which ones they were. Would you please add to
+the "notes" section of the table which plates are missing from the incubator
+and then I can update Ranger to say they've been discarded? Thanks Eva!
+
+  1. Imaged 5 x 96-well plates on Zaber imaging platform on Phase (you can use the library lab Zaber opposite the OT2s or the main lab Zaber. The other library lab Zaber (next to the OT2s) is a bit weird so please avoid that one). 
+    * Did not include outside wells in imaging (I can't remember if they have PBS in them or cells but either way they are prone to evaporation and we don't care about them)
+    * Added "-suspension-scc" to the end of the file name to process with ML model.
+  2. Returned plates to incubator 
+
+Follow Zaber image user guide if needed
+
+Plate IDFACS or OT2 sorted?Notes/observations  
+10755-F_CHOMP09291-P9-1of8OT2  
+  
+10756-F_CHOMP09291-P9-2of8OT2  
+  
+10757-F_CHOMP09291-P9-3of8OT2  
+  
+10758-F_CHOMP09291-P9-4of8FACSDiscarded  
+  
+10759-F_CHOMP09291-P9-5of8FACS  
+  
+10760-F_CHOMP09291-P9-6of8OT2Discarded  
+  
+10761-F_CHOMP09291-P9-7of8FACSDiscarded  
+  
+  
+  
+
+

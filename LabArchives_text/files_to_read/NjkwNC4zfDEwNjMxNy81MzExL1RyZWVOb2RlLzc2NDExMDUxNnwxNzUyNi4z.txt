@@ -1,0 +1,325 @@
+
+
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To compare suspension adaptation of CHOMP cells in 24 DWP, 50 mL shake tubes,
+and E125 flasks.
+
+To test suspension adaption of CHOMP in different medium conditions:
+
+
+Hypothesis
+
+
+Cells will adapt to suspension adaption better (higher cells/mL will be
+achieved) in E125 flasks than in 24 DWP and 50 mL shake tubes.
+
+CHOMP cells will adapt to suspension in at least one of the media formulations
+tested.
+
+
+Technical Gap
+
+
+Vow has not tried adapting cells to suspension in 24 deep well plates before.
+It is important to compare cell growth in these vessels with E125 flasks
+throughout the suspension adaptation process. This will ensure that any
+failure to adapt cells is due to cells or media formulations, rather than the
+types of vessels used.
+
+This experiment will also help to identify a media formulation for adapting
+CHOMP cells so that large scale expansion can occur to create Vow's first
+product.
+
+
+Method/Procedure
+
+
+Cell and media requirement calculator:
+https://docs.google.com/spreadsheets/d/1irUZA81xgROfU5n1eVTgPEmPz-
+Ozr9AxrircCnz8Fbs/edit?usp=sharing
+
+  
+
+D0: Seed cells into 2CFs for adherent slow adaptation and scale up
+
+Thaw a total of 42 million F_CHOMP09 cells into 2x2CFs in D/F + 20% FBS + 1x
+P/S to grow up > 84 M
+
+Thaw a total of 21 million F_DOLLY12 vials into 1x2CFs in D/F + 10% FBS + 1x
+P/S to grow up > 42 M (for positive control).
+
+D3/4: 50% Medium change with suspension media  
+
+Perform 50% change of each flask into the matching suspension basal media
+after 3-4 days
+
+D7: Passage cells into suspension culture in 24 dwp, 50 mL shake tubes, and
+E125 flasks
+
+Seed 3 replicates for each condition, 500 000 cells/mL and shake on MaxQ
+shaker (19 mm orbital diameter)
+
+24 DWP: 1.25 M cells in 2.5 mL per well, 300 rpm
+
+50 mL tubes: 2.5 million cells in 5 mL per tube, 206 rpm
+
+E125 flasks: 10 million cells in 20 mL, 120 rpm (speed should be tested with
+20 mL of water)
+
+ConditionCell typeMediumNumber of deep wellsCells per deep well
+(millions)Number of 50 mL tubesCells per 50 mL tube (millions)Number of E125
+flasks Cells per E125 flask (millions)  
+Positive controlF_DOLLY12CD CHO + 10% KSR \+ 6G31.2532.5310  
+Negative controlF_CHOMP09D/F + 20% FBS + 1x P/S31.2532.5310  
+Experimental controlF_CHOMP09CD CHO + 20% KSR \+ 10G31.2532.5310  
+  
+6G supplement:  1:100 ACA, 100ng/mL FGF/IGF/PDGF, 1:100 (4mM) glutamax, 1xP/S
+
+8G supplement: 100ng/mL FGF/IGF/PDGF, 1:100 glutamax, lipid supplement 1:1000,
+RGD 100 ng/mL, and YIGSR 100 ng/mL +1x p/s
+
+10G supplement: 1:100 ACA,  100ng/mL FGF/IGF/PDGF, 1:100 glutamax, 1 g/L
+pluronic, lipid supplement 1:1000, RGD 100 ng/mL, and YIGSR 100 ng/mL +1x p/s
+
+Underlined ingredients (including KSR) should be added fresh on the day of
+feed.
+
+OT2 Feed
+
+Perform 75% media changes twice per week by centrifuging cell suspensions at
+300xg for 5 minutes, discard the supernatant and re-suspend cells in their
+respective growth medias. Transfer 100 uL of resuspended sample into 96 well
+plate for imaging and cell counts.
+
+Cell counts
+
+Add 100 uL of stain buffer (Hoechst 33342 Readyflow) to the cells and incubate
+at room temperature and in the dark for 30 minutes. Prepare serial dilutions
+(50%, 25%, 12.5%) of the stained cell preparation in subsequent wells,
+diluting with dPBS. Image all wells using the Zaber and analyse using MIA.  
+
+## Experiment schedule
+
+Blue = cells and media for EPIC28374,  https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzAwNS43fDEwNjMxNy81Mzg5L1RyZWVOb2RlLzEwNzc5NzEwMTh8MTc3ODMuNw==
+
+ConditionCells + MediumDay 0Day 3/4Day 6/7Day 7/8 - Day 35/36  
+Twice per week for 4 weeksTotal  
+Thawing DOLLY12F_DOLLY12 + D/F + 10% FBS + 1x P/SThaw 37 M cells:  
+\- 21 M cells into 1x 2CF  
+\- 15 M cells into 1x 2CF (for another experiment)  
+  
+n/an/an/a630 mL of D/F + 10% FBS + 1x P/S  
+  
+Subtotal600 mL (seed) + 30 mL (for resuspension and counts)  
+  
+  
+  
+  
+Positive ControlF_DOLLY12 + CD-CHO + 10% KSR + 6Gn/aPerform 50% medium change
+of 1x 2CF (containing 21 M cells/vessel)Harvest cells and seed 500k cells/mL
+into:  
+\- 3x wells of 24 dwp  
+\- 3x 50 mL bioreactor tubes  
+\- 3x E125 flasksPerform 75% medium change in all cultures, sample, stain,
+image, and count cells  
+  
+Subtotal  
+150 mL10 mL (resuspension + counts) + 87 mL (seed)65 mL (per feed), 520 mL for
+4 weeks767 mL of CD-CHO + 10% KSR + 6G  
+Negative Control  
+F_CHOMP09 +DMEM/F12 + 20% FBS  
+Thaw 87 M cells:  
+\- 21 M cells per 2CF into 2x 2CF (42 M total)  
+\- 15 M cells per 2CF into 3x 2CF (45 M total) - for another experiment  
+Perform 50% medium change of 1x 2CF (containing 21 M cells/vessel)  
+Harvest cells and seed 200k cells/mL into:  
+\- 3x wells of 24 dwp  
+\- 3x 50 mL bioreactor tubes  
+\- 3x E125 flasks  
+  
+retain any leftover cells to seed other conditions if flasks failed  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotal1500 mL150 mL10 mL (resuspension + counts) + 87 mL (seed)  
+65 mL (per feed), 520 mL for 4 weeks  
+2267 mL of D/F + 20% FBS + 1x P/S  
+Experimental controlF_CHOMP09 + CD CHO + 20% KSR + 10G  
+n/aPerform 50% medium change of 1x 2CFs (containing 21 M cells/vessel)  
+Harvest cells and seed 200k cells/mL into:  
+\- 3x wells of 24 dwp  
+\- 3x 50 mL bioreactor tubes  
+\- 3x E125 flasks  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotaln/a150 mL  
+10 mL (resuspension + counts) + 87 mL (seed)  
+65 mL (per feed), 520 mL for 4 weeks  
+767 mL of CD-CHO + 20% KSR + 10G  
+  
+  
+
+  
+
+  
+
+ConditionCells + MediumDay 0Day 3/4Day 6/7Day 7/8 - Day 35/36  
+Twice per week for 4 weeksTotal  
+Positive controlF_DOLLY12 + CD-CHO + 10% KSR + 6G  
+n/aPerform 50% medium change of 2CF (containing 15 M cells/vessel)  
+Harvest cells and seed 500k cells/mL into:  
+\- 3x E125 flasks  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotal  
+150 mL10 mL (resuspension + counts) + 60 mL (seed)  
+47 mL per feed, 376 mL for 4 weeks596 mL  
+Condition 1F_CHOMP09 + CD-CHO + 20% KSR + 8G (no ACA/pluronic)n/aPerform 50%
+medium change of 2CF (containing 15 M cells/vessel)  
+Harvest cells and seed 500k cells/mL into:  
+\- 3x E125 flasks  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotal  
+150 mL  
+10 mL (resuspension + counts) + 60 mL (seed)  
+47 mL per feed, 376 mL for 4 weeks  
+596 mL  
+  
+Condition 2  
+  
+F_CHOMP09 + CD4-Avian + 20% KSR + 10Gn/aPerform 50% medium change of 2CF
+(containing 15 M cells/vessel)  
+Harvest cells and seed 500k cells/mL into:  
+\- 3x E125 flasks  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotal  
+150 mL10 mL (resuspension + counts) + 60 mL (seed)  
+47 mL per feed, 376 mL for 4 weeks  
+596 mL  
+  
+Condition 3  
+  
+F_CHOMP09 + CD-CHO + 20% KSR + 6Gn/aPerform 50% medium change of 2CF
+(containing 15 M cells/vessel)  
+Harvest cells and seed 500k cells/mL into:  
+\- 3x E125 flasks  
+Perform 75% medium change in all cultures, sample, stain, image, and count
+cells  
+  
+  
+Subtotal  
+150 mL10 mL (resuspension + counts) + 60 mL (seed)  
+47 mL per feed, 376 mL for 4 weeks  
+596 mL  
+
+
+  
+  
+EPIC27984 diagram:
+
+EPIC____ diagram:
+
+  
+
+
+
+
+  
+
+MediaTotal media requiredBasal media (mL)KSR (mL)  
+P/S (mL)ACA (mL)Glutamax (mL)P188 (mL)lipids (uL)FGF (uL)IGF (uL)PDGF (uL)RGD
+(uL)YIGSR (uL)  
+CD-CHO + 10% KSR + 6G  
+990  
+999.99.99.900  
+  
+  
+00  
+CD-CHO + 20% KSR + 10G920  
+1849.29.29.29.29.2  
+  
+  
+  
+  
+  
+CD-CHO + 10% KSR + 6G600  
+6066600  
+  
+  
+00  
+CD-CHO + 20% KSR + 8G600  
+12060606  
+  
+  
+  
+  
+  
+CD4Avian + 20% KSR + 10G600  
+12066666  
+  
+  
+  
+  
+  
+CD-CHO + 20% KSR + 6G600  
+12066600  
+  
+  
+00  
+Total  
+4310 mL  
+703  
+  
+  
+  
+  
+8.620 mL,  
+0.431mg  
+8.620mL,  
+0.431mg  
+43.100mL  
+0.431mg  
+0.212mg0.212mg  
+how much we have currently  
+  
+  
+we have 225 mL. Andrew has ordered 1L which should arrive on Wednesday.  
+  
+  
+  
+  
+  
+~15 mL made up. We have more powder  
+we have ~4.5 mL made up, but we have more powder - not sure how much  
+we have ~20 mL  
+we should have enough (according to stockyard) but should order more for
+future experiments  
+we should have enough (according to stockyard) but should order more for
+future experiments  
+  
+  
+  
+  
+
+  
+
+  
+
+

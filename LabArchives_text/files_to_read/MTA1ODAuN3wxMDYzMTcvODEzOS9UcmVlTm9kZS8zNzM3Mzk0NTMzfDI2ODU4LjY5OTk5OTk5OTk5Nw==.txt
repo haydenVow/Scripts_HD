@@ -1,0 +1,45 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents
+
+ReagentID  
+3:1 RPMI:Hycell Nuvonis suspension mediaMIX-  
+IGF (0.05mg/mL)MIX-10839  
+EGF (0.05mg/mL)MIX-12321  
+Anti-foam CMIX-6141  
+1M Sodium bicarbonate solutionMIX-12682  
+AMBR250 vessels 2-pack x2  
+  
+
+
+  
+  
+Process:
+
+  1. Retrieved vessels from material airlock and brought into BSC
+  2. Removed sterile outer packaing in BSC
+  3. Sealed all clamps 
+  4. Added 190mL media per reactor and sealed
+  5. Used passthrough to transfer reactors to GMP room
+  6. Inserted bioreactors into hardware
+
+Notes/deviations:
+
+  * There was an AMBR 'Device Setup' splash screen stuck on the screen that did not move even thought the program is not running in Task manager. This screen obscures other open windows and does not go away
+  * The AMBR "Run time" program did not open. Attempted opening this using the desktop icon and the program file in a file explorer window and the program would not open
+  * As per the manual, tried restarting the computer. This did not change anything and the problem remained
+  * We next shut down the computer system and turned the hardware and computer off at the wall to shut down the entire system and manually turn on again
+  * The AMBR hardware came back online (light flash) the screen turned on but read 'no computer signal' 
+  * There are no physical buttons available to press to manually turn the nuc back on
+  * Then called Andrew Rodgers from Sartorius to advise next steps. Sartorius advised technician may have to be called for onsite visit
+  * We then turned both the hardware system and computer on and off at the wall again and this time the nuc booted up and displayed on the screen
+  * the Device Setup splash screen now gone and the Runtime software successfully opened
+
+  
+
+

@@ -1,0 +1,52 @@
+Performed by: LL
+  
+  
+Haemocytometer counts
+
+  1. Take 1 x 10 uL sample from each replicate well 
+  2. Perform cell counts and calculate average. Enter into table below along with any comments (e.g. excessive cell death, debris etc.)
+
+IDPlate typeCell Counts  
+Cell Count (ave) Comments  
+10763ULA 96wp19,200  
+12,000  
+13,600  
+10,400  
+10,400  
+16,800  
+13,733  
+>95% alive, look normal and happy, saw multiple doublets suggesting they are
+multiplying.  
+  
+Ave count suggests they have increased by ~40%, which is in-line with their
+24H doubling rate given they were seeded at 10K per well at around 5 pm last
+night  
+  
+1076496dwpNot performed (see comments)  
+N/A  
+>95% cells dead (absorbed Trypan blue - see image attached below) so didn't
+perform cell count  
+
+
+  
+  
+ML model counts
+
+  1. Image ULA 96-wp on Zaber on Phase (5x) 
+  2.  ~~Take 1 x 100 uL sample from each well replicate of the 96-dwp and transfer into a regular 96-wp  ~~
+  3. Image 96-wp on Zaber on Phase (5x) 
+  4. Run images through ML model 
+  5. Enter average count from ML model results into table below along with any comments (e.g. excessive cell death, debris etc.) 
+
+ID  
+Plate typeCell Counts  
+Cell Count (ave) Comments  
+10763ULA 96wp  
+  
+  
+  
+1076496dwpN/A  
+N/A  
+N/A  
+
+

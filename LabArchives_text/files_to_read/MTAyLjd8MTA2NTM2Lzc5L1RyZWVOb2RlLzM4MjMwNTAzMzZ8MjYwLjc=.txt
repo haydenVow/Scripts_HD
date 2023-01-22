@@ -1,0 +1,62 @@
+
+
+  
+
+Cell Seeding  
+  
+Flask Type
+
+  
+Growth Media
+
+Minimum Seeding Denisty
+
+Maximum Seeding Denisty  
+  
+T17530mL
+
+6,500 cell/cm2
+
+7,500 cells/cm2  
+  
+2CF300mL  
+4CF600mL  
+5CS750mL  
+10CS1500mL
+
+
+50% Growth Media Feed  
+100% Growth Media Feed  
+  
+Flask Type
+
+Volume of Media Required per flask (mL)
+
+Flask Type
+
+Volume of Media Required per flask (mL)  
+  
+T17515T17530  
+2CF1502CF300  
+4CF3004CF600  
+5CS3755CS750  
+10CS75010CS1500
+
+
+Cell Harvest  
+  
+If harvesting flask type
+
+Then for each flask use...  
+dPBS @ 37CTrypLEdPBS @ Ambient Temp  
+T17510 mL15 mL10 mL  
+2CF100mL100mL100mL  
+4CF200 mL200mL200 mL  
+5CS250mL250mL250mL  
+10CS500mL500mL500mL  
+  
+  
+  
+  
+
+

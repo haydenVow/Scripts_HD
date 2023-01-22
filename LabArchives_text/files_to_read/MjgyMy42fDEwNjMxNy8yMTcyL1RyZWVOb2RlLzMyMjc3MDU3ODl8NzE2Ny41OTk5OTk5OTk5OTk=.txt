@@ -1,0 +1,24 @@
+Generate at least 1 suspension-adapted fibroblast cell line which is >95% viable and proliferates for >14 days.
+
+
+Scoring Guide:
+
+0.25 = Fibroblasts proliferate in suspension for >6 days and are 80% viable.
+
+0.5 = Fibroblasts proliferate in suspension for >10 days and are 90% viable.
+
+0.75 = Fibroblasts proliferate in suspension for >14 days, are >95% viable,
+and appear "suspension adapted" by all known metrics.
+
+1.0 = Suspension-adapted fibroblasts have been successfully banked and
+revived, with post-revival viability and growth-rate at least as good as
+before banking.
+
+Considerations:
+
+  1. At least 2 species  (we will try with at least 2 species....chicken fibroblasts grow like weeds, maybe we should try them).
+  2. Greater than 90% viable
+  3. Greater than 14 days of continuous culture
+  4. Can be banked & revived
+
+

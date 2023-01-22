@@ -1,0 +1,56 @@
+
+
+Performed by: VP & CO
+
+
+
+
+Reagents & materials
+
+ItemID  
+BCA Assay kit (Thermo Fisher)Thermo Fisher; Cat #23227 (No stock ID)  
+10x RIPA Buffer (Milipore)STK-158  
+Protease inhibitor cocktail (Sigma)STK-2503
+
+
+  
+  
+Process:
+
+  1. Prepared 5mL 1x RIPA buffer with 1:200 protease cocktail inhibitor (25uL inhibitor solution) - returned to fridge
+  2. Thawed RIPA standards on ice block
+  3. Pre-cooled centrifuge to 4degC with 15mL centrifuge buckets
+  4. Performed tissue lysis as described in Experiment Plan. Briefly:
+    * used 2mL of RIPA + protease inhibitors
+    * no additional shearing or sonication
+    * 12 mins at 12 000 xg in bench top microfuge
+  5. Performed cell pellet lysis as described in experimental plan. Briefly:
+    * Used WCB Freestyle vial  ID=14017
+    * Thawed vial and pipetted to 15mL tube
+    * Centrifuged 300xg 5 mins
+    * rinsed with DPBS 1mL and centrifuged 300xg 5 mins
+    * aspirated DPBS maximally without disturbing the pellet
+    * added 200uL RIPA directly to cell pellet
+    * moved cell pellet to 50mL specimen jar tube using P200
+    * sheared using 27G needle 10-15 times
+    * moved lysate to 15mL tube and centrifuged 4degC 12 minutes 5525 xg
+    * white precipitate present, maximally aspirated without disturbing visible pellet. Transferred to 1.5mL tube and centrifuged for 10 minutes 12 000 xg in benchtop microfuge
+  6. Aspirated supernatent and deposited into new labelled tubes
+  7. Prepared BCA reagent 1 as per manufacturer's instruction
+  8. Prepared BCA plate as per layout below
+  9. Incubated for 30 mins at 37degC 
+  10. Read absorbance using plate reader at 562 nm
+  11. See G-sheet for results
+
+
+
+
+Observations, Notes & Summary
+
+  * James H (author of tissue lysis protocol) recommended that further lysis is not required following mincing and LN2 treatment  
+  * in both tissue and cell lysate samples, white precipitate still left after centrifuging. Tried to avoid precipitate during pipetting. May be that lysis and removal of debris is insufficient. May contribute to background signal in ELISA- to be determined. Further optimisation of extraction may be required if so.  
+  * see G-sheet for BCA data
+    * note: may have been an error in plate layout sample loading, see G-sheet for further details
+  * good protein yield from each condition though unclear what the quality of the protein is 
+
+

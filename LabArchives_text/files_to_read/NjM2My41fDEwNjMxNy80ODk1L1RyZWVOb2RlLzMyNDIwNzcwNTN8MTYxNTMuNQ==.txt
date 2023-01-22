@@ -1,0 +1,136 @@
+
+
+
+
+
+## Performed by: kylie, eva, addy  
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+  
+24 wp  
+8722-C2C12-Mouse P7-1of2  
+8723-C2C12-Mouse P7-2of2  
+each condition to sacrifice 1 sample  
+half of each sample to be used for CMFDA  
+the other half to be used for fixing and MyoG/MF20 staining at a later time  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+PFA 0.1%  
+a3094  
+  
+dPBSa74800  
+  
+CMFDAs915  
+  
+d/f  
+m6700  
+  
+  
+  
+
+
+
+
+## Reagent Prep
+
+Live staining with CMFDA: SEE GUIDE ON CMFDA STAINING HERE  
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM CFDA stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. If a large amount of stock solution is left, then any remaining solution should be aliquoted and frozen at < \- 20°C. Avoid repeated freeze-thaw cycles, and protect from light. 
+
+
+
+
+Sample selection:
+
+  1. Image/photograph main sample plate to record muscle ring migration and gel contraction (if any)
+  2. Select one sample from each condition to be sacrificed and slice sample in half using sterile tweezers/scalpel.
+    1. NOTE: Use only half of the no-insert controls and leave the other half in fresh media to continue study. First half is divided into 1/4 samples for staining
+  3. Transfer half of each sample into a new plate with 4% PFA and fix using below protocol
+    1. Fixing protocol ( ~ 1.20 - 2.30 hr)
+      1.  Prepare 
+        1. 0.1% PFA - 0.6mL of 4%PFA in 24mL of PBS  
+
+        2. 50 mL of ice cold PBS
+      2. Removed media from each well and wash with 1000 ul PBS.
+        1. 13:15- 13:22
+        2. 13:23 - :13-28  
+
+      3.  Added  1000 uL µL PFA for 1 - 2 hours  in the fridge (1 hr for small loops, 2 hrs if the loop is >5mm in diameter) :  
+        1. Small pieces:  13:45 - 15:00 pm
+      4. Removed PFA (and add in PFA waste container) and wash wells 3 times with   500 µL of ice cold PBS
+      5. Add 0.5 mL PBS into each well
+      6. Parafilm plate and place in the fridge.
+  4. Treat the other half of each sample with CMFDA as described below.
+  5. Transfer all remaining scaffolds into a new plate preloaded with fresh pre warmed E6 growth media (see feed)
+  6. Return plates to the incubator.
+
+
+
+
+## CMFDA protocol
+
+  1. ## Aliquot     20    mL PBS or DMEM/F12 for washing the samples and place in waterbath    12:03   . (This is only necessary for samples containing serum as serum interferes with the CMFDA stain)
+
+  2. Transfer     36    uL of the 1mM CMFDA stock solution to     18    mL of prepared DMEM/F12 PRF growth media (m6460) in a light safe falcon tube to protect it from light. 
+  3. Vortex to ensure thorough mixing with the resulting solution being approximately 2 uM CMFDA working solution. (2uL of 1mM CMFDA stock solution: 1mL of D/F media.)
+  4. Place in the water bath to be pre-warmed        
+
+  5. Add     1    mL of pre-warmed DMEM/F12 PRF growth media to the wells from each plate as a rinse step to remove any residual serum.
+  6. Aspirate the rinsing media 
+  7. Add    1     mL of pre-warmed CMFDA working solution to the samples and incubate for 30 minutes at 37'C covered in foil to protect samples from light.
+    1. Start/Finish time was:   13:21 - 13:51  
+
+    2. If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+  8. Remove    1000     uL of staining solution from each well
+  9. Image all wells from plates on the Zaber fluorescence microscope or AXIO (channel AF488 for CMFDA [Live cells]). Remember to image both sides. 
+    1. Alternatively, image representative areas on the Axio at relevant magnification
+
+
+
+
+Observations/Summary:
+
+some fluorescence detected under Axio at 20x mag,but hard to detect due to gel
+thickness and insufficient light intensity. Cells look round, unlike in Fibrin
+gels, suggesting they are not very comfortable in Alginate even at high
+density
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): refer to observation for link  
+
+  
+
+

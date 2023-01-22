@@ -1,0 +1,104 @@
+  
+  
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To perform a 12-factor DSD to determine the impact of 12 media ingredients on
+the growth of Nuvonis suspension cells
+
+
+Hypothesis
+
+
+We hypothesise that >1 ingredient at the levels tested will have a
+significantly positive impact on Nuvonis suspension cell growth
+
+
+Technical Gap
+
+
+DSD3 showed us that a 75/25 RPMI/HyCellCHO + Nuvonis ingredients supported
+cell growth almost as well as 50/50 RPMI/HyCellCHO + Nuvonis ingredients (see
+here - insert link to results). It also suggested that Cell Boost Supplement 2
+and Difco Yeast UF were beneficial to cell growth. We still need to reduce our
+HyCellCHO dependence in order to scale up our cell culture work, and therefore
+want to test whether we can grow the cells in 90/10 RPMI/HyCellCHO + Nuvonis
+ingredients. We will increase the concentration of yeast to 3mg/mL based on
+DSD3 results, and include Cell Boost Supplement 2 as a factor again. We will
+also test old ingredients that showed slight positive impacts in previous DSDs
+(as the reduction of HyCellCHO medium might magnify these positive impacts)
+and new ingredients that we have discovered are present in HyCellCHO and
+either missing from or at a lower concentration in RPMI.
+
+
+Method/Procedure
+
+
+## Factors to trial and why
+
+Base medium:
+
+90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF +
+1:100 ACA + 1 g/L poloxamer-188
+
+Controls:
+
+C1: Base medium (see above)
+
+C2: 90/10 RPMI/HyCell + Nuvonis ingredients
+
+C3: 75/25 RPMI/HyCell + Nuvonis ingredients
+
+C4: 50/50 RPMI/HyCell + Nuvonis ingredients
+
+C5: Freestyle 293 + Nuvonis ingredients
+
+Factors:
+
+FactorConcentration range being testedRationale  
+Glutamax (200mM)1 - 2mM Think we may have been trying too-high concentrations
+in past DSDs  
+Glucose (100g/L)4 - 8 g/LHyCell has 9g/L, CHO-T1-SF has 6g/L, RPMI only has
+2g/L  
+Insulin-Transferrin-selenium (100X)0.5-1%Trying again with Nuvonis ingredients
+included in base  
+Sodium pyruvate (100mM)0.15 - 0.3 g/LIncluded in CHO-T1-SF and HyCell, not in
+RPMI. Using CHO-T1-SF conc.  
+MEM non-essential amino acids (100X)0.5 - 1%Think we may have been trying too-
+high concentrations in past DSDs  
+MEM essential amino acids (50X)1 - 2%Think we may have been trying too-high
+concentrations in past DSDs  
+FGF (0.05g/L)0.00005-0.0001 mg/mLSaw positive signals in Marie's ratio
+experiment  
+Cell Boost 1 (35g/L)0.625 - 1.25 g/LNon-significant positive signal in last
+DSD - maybe will get stronger signal with less HyCell  
+Cell Boost 2 (35g/L)0.625 - 1.25 g/LPositive signal in last DSD  
+Putrescine dihydrochloride  
+1-2 g/LHyCell has 1g/L. CHO-T1-SF has 2g/L. RPMI doesn't have any.  
+Myo-Inositol (50g/L)0.087-0.175 g/LHigher in HyCell than RPMI  
+Niacinamide (100g/L)0.004-0.008 g/LHigher in HyCell than RPMI
+
+
+  
+  
+  1. D0: Prepare working stocks of each factor 
+  2. D0: Perform media mixing on OT2 to generate media conditions. Mix control media conditions manually. 
+  3. D0: Add media to plates on OT2 and seed cells manually 
+  4. D0: Image plates on Zaber (phase, 5X)
+  5. D2: Image plates on Zaber (phase, 5X)
+  6. D5: Perform live/dead stain and dilutions on OT2.
+  7. D5: Image plates on Zaber (phase + AF488 + DAPI, 5X)
+  8. D5: Run images through Mia Analysis macro for suspension cells 
+  9. D6: Export macro output to spreadsheets to determine cells/mL. Perform statistical analysis in Prism. 
+
+
+
+
+DSD Spreadsheet link:
+https://docs.google.com/spreadsheets/d/1nkfawQUx5f5Ip7G5v8U48XIhBMZ2Fb3URUGAeQv6ufU/edit#gid=248147944
+
+

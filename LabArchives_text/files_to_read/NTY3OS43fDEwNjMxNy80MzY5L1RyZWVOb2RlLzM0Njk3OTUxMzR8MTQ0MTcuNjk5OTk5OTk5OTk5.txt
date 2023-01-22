@@ -1,0 +1,140 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: TT AG VB  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2309-Culture-6303-Vial-30of115  
+
+8379-F_DOLLY12-Sheep P8-1of3
+
+T175  
+2310-Culture-6303-Vial-31of115  
+8381-F_DOLLY12-Sheep P8-2of3  
+T175  
+2311-Culture-6303-Vial-32of115  
+8382-F_DOLLY12-Sheep P8-3of3  
+T175
+
+
+  
+  
+Media
+
+DMEM/F12 + 10% FBS + 1% p/s
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 + 10% FBS + 1XP/S  
+M6934  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   90 mL 
+  * Time that aliquot was placed in the water bath to warm before use:   13:40
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:28 - 14:32  
+
+Location where cryovial was collected from:
+
+Vial details:  3   x  F_DOLLY12  cryovials at   1M  cells each for a total of
+3M cells
+
+Brew
+
+Tower/Bucket # 2
+
+Box/Cane # 2
+
+Vial location: D3, D4, D5  
+
+Vial ID(s): 2310-Culture-6303-Vial-30of115  
+2311-Culture-6303-Vial-31of115  
+2312-Culture-6303-Vial-32of115  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  90 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered  30 mL to each   T175  flask.  
+`
+
+`9. Transfered flask/plate(s) to incubate at: 15:00, incubator 52  
+`
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary: None  
+
+  
+
+
+
+
+Relevant Images/Figures: None  
+
+  
+
+

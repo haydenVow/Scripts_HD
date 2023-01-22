@@ -1,0 +1,47 @@
+Performed by:
+Flask IDs  
+Seeded flask(s) type  
+  
+11466  
+96-wp  
+  
+11467  
+11468
+
+
+Equipment & Reagents
+  
+  
+  1. 3 x empty non-treated 96-wps (output plates)
+  2. 3 x DSD culture plates (input plates)
+  3. 1 x 12-well OT2 reservoir 
+  4. 1 x 200 uL OT2 pipette tip box
+  5. Hoechst solution (50 ug/mL in MilliQ)
+  6. Sytox green/Nuc green solution (1 drop/mL in dPBS)
+
+
+Process
+
+  1. Prepared 7 mL of Hoechst solution (50 ug/mL / 1:20 dilution of 1 mg/mL stock in MilliQ). Stored in light-safe tube until ready to use. 
+  2. Prepared 25 mL of Sytox/Nuc Green solution (1 drop stock per 1 mL dPBS). Store in light-safe tube until ready to use.
+  3. Started up "Fox" OT2 (Library Lab) and loaded protocol (attached below) 
+  4. Set up deck as specified in protocol
+    1. Note: tips to not have to be sterile for this protocol as the cells are endpoint
+  5. Added Hoechst and Sytox to 12-well reservoir ("Media Vessel #1") as specified below:
+    1.         A1 of Media Vessel #1 on 1 : Media 1 - Hoechst : 6000.00 uL
+        A2 of Media Vessel #1 on 1 : Media 1 - Sytox : 12000.00 uL
+        A3 of Media Vessel #1 on 1 : Media 1 - Sytox : 12000.00 uL
+
+  6. Ran labwear offset calibration on OT2 
+  7. Started protocol 
+    1. Start time: 
+    2. Run time: 
+  8. Once protocol was complete, removed plates and centrifuged for 1 min at 300 x g. 
+  9. Imaged plates in order that they were stained (1, 2, 3 then 4) on main lab Zaber microscope (DAPI & AF488)
+    1. Notes: 
+      1. Please scan each plate ID before imaging and also include plate number when naming the folder and in the notes section to ensure we don't get the plate numbering wrong
+      2. Keep plates in light-safe box while waiting to be imaged 
+  10. Shut down and cleaned OT2. 
+
+
+Protocol

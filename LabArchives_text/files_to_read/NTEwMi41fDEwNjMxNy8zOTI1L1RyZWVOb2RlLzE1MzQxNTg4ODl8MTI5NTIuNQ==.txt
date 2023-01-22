@@ -1,0 +1,103 @@
+
+
+## Completed by: KD
+
+
+Aim/Purpose: To understand the factors that work together to support adaptation of cells to suspension culture
+Hypothesis: We hypothesise DoE can be used to most quickly adapt cells to suspension.
+Technical Gap: We've never completed a DoE using suspension culture at Vow. In addition, we do not know how species, basal media, anti-clumping agent, pluronic, KSR, and FBS interact to support or inhibit suspension culture.
+Method/Procedure
+
+
+Experimental Plan:  
+  
+Day 1:  
+  
+Step 1: Make up the following 18 media mixes as per the DoE
+
+Spreadsheet for media calculations:
+https://docs.google.com/spreadsheets/d/1aB6UAC9sVUQizgrS5XX5GOAZbzzVbA6lDkeCxXtdUkQ/edit#gid=0
+
+1\. RPMI + 1:200 anti-clumping agent + 0.1% Pluronic + 10% KSR + 10% FBS
+
+2\. DMEM/F12 + 1:200 anti-clumping agent
+
+3\. RPMI + 1:100 anti-clumping agent + 0.05% Pluronic + 10% KSR + 10% FBS
+
+4\. DMEM/F12 + 0.05% Pluronic
+
+5\. DMEM/F12 + 1:100 anti-clumping agent + 5% KSR + 10% FBS
+
+6\. RPMI + 0.05% Pluronic + 5% KSR
+
+7\. RPMI + 1:100 anti-clumping agent + 5% FBS
+
+8\. DMEM/F12 + 0.1% Pluronic + 10% KSR + 5% FBS
+
+9\. RPMI + 1:100 anti-clumping agent + 0.1% Pluronic
+
+10\. DMEM/F12 + 10% KSR + 10% FBS
+
+11\. RPMI + 1:100 anti-clumping agent + 10% KSR - problem with making up
+medium, only has ~120-125 mL in it. Will wait to see how much we have left of
+everything before determining what is missing.
+
+12\. DMEM/F12 + 0.1% Pluronic + 10% FBS
+
+13\. DMEM/F12 + 1:100 anti-clumping agent + 0.1% Pluronic + 10% FBS
+
+14\. RPMI + 10% KSR
+
+15\. DMEM/F12 + 1:100 anti-clumping agent + 0.1% Pluronic + 10% KSR
+
+16\.  RPMI + 10% FBS
+
+17\. DMEM/F12 + 1:200 anti-clumping agent + 0.05% Pluronic + 5% KSR + 5% FBS
+
+18\. RPMI + 1:200 anti-clumping agent + 0.05% Pluronic + 5% KSR + 5% FBS  
+  
+If making media for multiple days/the whole adaptation period (I recommend
+this), then after making the media, aliquot 15mL of each media into a separate
+tube & store the remaining media. 3 million of the appropriate cell type
+should be thawed into 15mL of each media.  
+  
+Step 2: Thaw 27 million DOLLY12 WCB cells (passage 7). Use Production's big
+vials ideally, to keep cells consistent Re-suspend the cells at 200k cells per
+mL in 15mL of each of the 9 different medias which indicate that they should
+recieve DOLLY12 cells. (This is 3 million cells per tube of media mixed
+above). Mix the cell suspension, then place 5mL of cell suspension in each of
+three 50mL bioreactor spin tubes. Place the spin tubes on a shaking platform
+at standard RPMs.  
+  
+Step 3: Thaw 14 million NANDO R&D cells (passage 4). Re-suspend cells at ~100k
+per mL in 15mL of each of the 9 different medias which indicate that they
+should recieve NANDO cells. (This is 1.5 million cells per tube of media mixed
+above). Mix the cell suspension, then place 5mL of cell suspension in each of
+the three 50mL bioreactor spin tubes. Place the spin tubes on a shaking
+platform at standard RPMs. Note: We do not have enough NANDO cells to thaw 27
+million, unfortunately. The R&D cells are at passage 4, so earlier stage than
+the DOLLY12 WCB as well, so there are going to be unavoidable differences in
+cell type anyway. We only have 24 million DOLLY12 MCB at passage 5 and given
+how much we are relying on those cells for production's WCBs right now, I am
+hesitant to use a lot of them.  
+  
+Perform media changes and counts every 4 days, as is standard. I suggest you
+make up sufficient media for at least 2 weeks, and doing it for 4 weeks may
+make the most sense. I don't think there is anything in there that will expire
+after 1 week.  
+  
+Proposed concentrations:  
+-1 is always indicative of 0
+
+0 is the midpoint between +1 and -1.
+
++1 is the high concentration of a given ingredient.
+
+  
+
+Anti-clumping agent: 0, 1:200, 1:100  
+Pluronic: 0, 0.05%, 0.1%  
+KSR: 0, 5%, 10%  
+Serum: 0, 5%, 10%
+
+

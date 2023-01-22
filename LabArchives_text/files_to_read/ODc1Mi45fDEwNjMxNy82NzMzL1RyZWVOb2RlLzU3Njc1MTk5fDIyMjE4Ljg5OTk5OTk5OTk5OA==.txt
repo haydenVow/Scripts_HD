@@ -1,0 +1,87 @@
+
+
+Protocol Here: https://www.notion.so/vow/Adipocyte-Culture-Biopsy-Isolation-
+Differentiation-cfe3f4cd453444979cdfc8ce63af0875
+
+
+
+
+Perform passage using below volumes:
+
+  
+
+
+Culture IDVessel type  
+10526-KUZCO20-Alpaca P2-1of1  
+24-well plate (library lab)  
+10511-F_KUZCO20-Alpaca P2-2of2  
+24-well plate (library lab)
+
+
+Reagent  
+ID  
+  
+Dexamethasone (1 mM)  
+m10400  
+  
+IBMX (45 mM)  
+m10401  
+  
+Insulin  
+m5032  
+  
+Growth media  
+m10402  
+
+
+  
+  
+Aliquot media and add small molecules  
+  
+1\. Aliquot 18.5 mL growth media into a 15 mL tube
+
+2\. Add 1.85 uL FGF (final concentration 2.5 ng/mL)
+
+3\. Split growth media into 3x 6 mL aliquots
+
+4\. Add small molecules according to the below table:
+
+MediaComponentFinal concentrationVolume to be added  
+Adipogenic media 1Dexamethasone (1 mM)0.25 uM1.5 uL  
+IBMX (1M)0.5 mM66 uL  
+Insulin (dilute stock insulin, 1 in 100)1 ug/mL1 uL  
+Adipogenic media 2Dexamethasone (1 mM)  
+1 uM6 uL  
+IBMX (1M)  
+1 mM133 uL  
+Insulin  
+10 ug/mL10 uL  
+ControlNo additions  
+  
+  
+  
+  
+5\. Place media aliquot and aliquot of 18 mL dPBS into water bath 14:33
+
+6\. Image each well of the plates under phase microscopy
+
+6\. Remove 100% media (500 uL)
+
+7\. Wash with 500 uL PBS/ well  
+8\. Replaced with 500 uL differentiation media /well according to below plate
+map  
+9\. Returned plate to 37C incubator 18:19, 18:27
+
+
+
+
+
+
+
+Relevant images  
+  
+10511: https://ranger.vow.tools/#/session/rec23ThU61u4PTr55/images
+
+10526: https://ranger.vow.tools/#/session/rec23ThU61u4PTr55
+
+

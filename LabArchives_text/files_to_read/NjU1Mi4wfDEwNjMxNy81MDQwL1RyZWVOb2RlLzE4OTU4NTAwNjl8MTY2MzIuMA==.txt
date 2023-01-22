@@ -1,0 +1,38 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/27246?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:  
+
+RELATED TO MILESTONE:  Please provide the milestone that this EPIC is
+progressing towards
+
+AIM/PURPOSE: Cells did not adhere in a previous experiment due to lack of
+attachment sites. In this study we aim to identify a suitable matrix for cells
+to adhere and differentiate inside alginate hydrogels.
+
+HYPOTHESIS: A combination of gel stiffness and ECM binding sites can provide
+encapsulated cells with a suitable environment to promote adhesion and
+differentiation.
+
+RESULTS SUMMARY:
+
+CONCLUSIONS:
+
+The Hypothesis was not supported and no changes in protein expression were
+achieved, cell adhesion still has to be improved before significant changes in
+maturation can be expected.
+
+  * The addition of ECM proteins to the alginate matrix does not enable cells to adhere and differentiate regardless of gel stiffness (1% vs 2%). 
+  * Microscopy analysis after viability stain did not indicate cell adhesion and gels were hard to image due to lack of transparency and overwhelming cell numbers
+  * The alginate sphere format allowed for direct comparison for protein values of different conditions due to the reproducible size of the samples. The included ECM did not majorly contribute to background total protein absorbance in a Bradford assay, but only a baseline myoblast protein content was measured in this study. 
+
+NEXT STEPS:
+
+  * To improve adhesion and subsequently maturation, we will need to include as an additional component to the alginate matrix: 
+    * RGD peptides 
+    * growth factors 
+    * fibroblasts
+
+

@@ -1,0 +1,179 @@
+Performed by: TT & AK
+Materials
+Reagent name  
+Stockyard V2 ID number  
+Amount  
+  
+dPBS (filtered non-sterile)  
+A7047  
+  
+  
+Hoechst33342 ReadyFlow  
+S2463  
+  
+  
+Hoechst33342 ReadyProbes (NucBlue)  
+S1656  
+  
+  
+Sytox Green (NucGreen)  
+S3626  
+  
+  
+Propidium Iodide  
+M6317  
+  
+  
+DAPI  
+M2193  
+  
+  
+CMFDA stock bottle  
+S913  
+  
+  
+DMSO  
+A4362  
+  
+
+
+Process
+  
+  
+Prepared stain solutions
+
+  1. Filtered 30 mL of dPBS through a 0.2 um pore size filter to remove debris.
+  2. Hoechst33342 ReadyProbes, Hoechst33342 ReadyFlow and Sytox Green are ready-to-use in dropper bottles
+  3. Propidium iodide is made up in ready-to-use aliquots in the fridge (either in main lab or library lab)
+  4. DAPI is made up in ready-to-use aliquots in the freezer (either in main lab or library lab)
+  5. CMFDA must be reconstituted:
+    1. Centrifuge the powder aliquot to concentrate the powder at the bottom of the tube
+    2. Add 50 uL of DMSO and pipette mix until dissolved
+    3. Add 10 uL of the solution to 2.5 mL of dPBS (8uM working solution)
+  6. Calcein AM:
+    1. Centrifuge the powder aliquot to concentrate the powder at the bottom of the tube
+    2. Add 50 uL of DMSO and pipette mix until dissolved
+
+Prepared stain buffer mixes  
+
+  1. Hoechst33342 ReadyProbes and sytox green
+    1. Added 2 drops of Hoechst33342 ReadyProbes and 1 drop of sytox green to 1 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+  2. Hoechst33342 ReadyFlow and sytox green
+    1. Added 2 drops of Hoechst33342 ReadyFlow and 1 drop of sytox green to 1 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+  3. Hoechst33342 ReadyProbes and propidium iodide
+    1. Added 2 drops of Hoechst33342 ReadyProbes and 50 uL of propodium iodide stock solution to 1 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+  4. Hoechst33342 ReadyFlow and propidium iodide
+    1. Added 2 drops of Hoechst33342 ReadyFlow and 50 uL of propodium iodide stock solution to 1 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+
+  
+
+  1. CMFDA and DAPI
+    1. Added 10 uL of CMFDA stock solution and 2.5 uL DAPI stock to 2.5 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+  2. CMFDA and propidium iodide
+    1. Added 10 uL of CMFDA and 125 uL of propodium iodide stock solution to 2.5 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+
+  
+
+  1. Calcein AM and DAPI
+    1. Added 2 uL Calcein AM and 2.5 uL of DAPI stock to 2.5 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+  2. Calcein AM and propidium iodide
+    1. Added 2 uL Calcein AM and 125 uL of propodium iodide stock solution to 2.5 mL of filtered dPBS
+    2. Stored at room temperature in the dark until use.
+
+Thawed fresh cells
+
+  1. Aliquotted reagents for thaw:
+    1. Fresh medium for washing thawed cells 8 mL
+    2. Fresh medium for resuspending thawed cells 2 mL
+  2. Retrieved frozen cells from dewar:
+    1. 2309-Culture-6303-Vial-30of115 from Dewar 106-Ralph St-Main Lab-Brew; Rack 2; Box 2; Position D2
+  3. Transferred vial to water bath for up to 5 minutes or until only a tiny ice crystal remains in the vial 16:40 - 16:45
+  4. Transferred thawed vial and warm reagents to BSC
+  5. Transferred the thawed cells to 5 mL of warm growth medium in a 15 mL centrifuge tube
+  6. Washed the vial with 1 mL of warm growth medium and transferred these washes to the 15 mL centrifuge tube with the other cells. Performed this step 3 times until there was a total of 8 mL in the centrifuge tube.
+  7. Centrifuged the tube at 650 RCF for 5 minutes. 16:50 - 16:55
+  8. Aspirated and discard the supernatant.
+  9. Resuspended the pellet in 2 mL of fresh growth medium.
+
+Took sample of old cells
+
+  1. Transferred 2 mL from culture 7694 (F_DOLLY12 from EPIC22586 Suspension adaptation attempt #7 HyClone/commercial Medias) into a tube 16:40
+
+
+
+
+Stained cells
+
+  1. PREPARE DUPLICATE PLATES: Transferred 220 uL of stain buffer (as per numbering in the previous stain buffer preparation section), 100 uL of each sample and 100 uL of filtered dPBS to the designated wells in a 96 well plate:
+    1. Final state:
+  2. Added 100 uL of each stain buffer from column 1 to 100 uL of sample in the column 2, and 100 uL of each stain buffer from column 7 to 100 uL of sample in the column 8, as per the designated wells in a 96 well plate (this is the 50% dilution of the cell sample):
+    1. Final state:
+  3. Incubated at room temperature in the dark for 20 minutes 17:15 - 17:35
+  4. Performed Trypan blue exclusion live and dead cell counts of duplicate new and old samples
+
+
+
+
+Trypan blue counts:
+
+Fresh cells replicate #1:
+
+  1. Live cells: 1,240,000
+  2. Dead cells: 152,000
+
+Fresh cells replicate #2:
+
+  1. Live cells: 1,224,000
+  2. Dead cells: 160,000
+
+Old cells replicate #1:
+
+Difficult to quantify as trypan blue stained and non trypan blue stained are
+quite indistinguishable
+
+Old cells replicate #2:
+
+Difficult to quantify as trypan blue stained and non trypan blue stained are
+quite indistinguishable
+
+
+
+
+Prepared serial dilutions of stained samples
+
+  1. Prepared serial dilutions of the stained cells:
+    1. Transferred 100 uL from column 2 to column 3
+    2. Pipette mixed 5 times the samples in column 3 (this is the 25% dilution)
+    3. Transferred 100 uL from column 3 to column 4
+    4. Pipette mixed 5 times the samples in column 4 (this is the 12.5% dilution)
+    5. Transferred 100 uL from column 4 to column 5
+    6. Pipette mixed 5 times the samples in column 5 (this is the 6.25% dilution)
+    7. Transferred 100 uL from column 5 to column 6
+    8. Pipette mixed 5 times the samples in column 6 (this is the 3.13% dilution)
+    9. Aspirated 100 uL of sample from column 6 and discarded
+    10. Repeated steps 1-9 for columns 8-12
+    11. Final state:
+
+Imaged cells
+
+  1. Transferred the plate to the Zaber stage
+  2. Calibrated stage
+  3. Create MM list including all rows except for G
+  4. Checked and set exposure times
+  5. Imaged all wells on phase, blue, green and red fluorescence channels
+    1. Replicate 1, plate 8283: https://mia-capture.vow.tools/#/session/recrgviV9xkqot6tt/images
+    2. Replicate 2, plate 8284: https://mia-capture.vow.tools/#/session/recVJGsdICU7TBPLZ/images
+
+
+Results
+Observations
+
+
+

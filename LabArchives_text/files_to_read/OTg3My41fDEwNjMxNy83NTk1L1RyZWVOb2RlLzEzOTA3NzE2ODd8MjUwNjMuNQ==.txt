@@ -1,0 +1,236 @@
+
+
+11/11/21
+
+1\. P001 Approx 0.5g of frozen sheep cells (Dolly12 Myoblast) from the -80
+freezer
+
+2\. P002 Approx 0.5g of frozen mouse cells (C2C12 differentiated) from the -80
+freezer
+
+3\. P003 Approx 0.5g of frozen lamb backstrap tissue from the -80 freezer
+
+4\. P004 V2 mince (store bought sample, flash frozen, mostly soy protein, but
+also contains vegetable oils (tocopherol). The full ingredient are:
+
+5\. P005 Store bought sample, 'sheep biopsy 20/2/20', flash frozen
+
+Buffers were changed on the HFX3 and samples rerun
+
+
+
+
+11/11/21 BSA SST
+
+Run722 RT722 countsCov %AAScore  
+227.501.62E8633914447  
+327.531.60E8633914371  
+427.521.56E8623814392  
+527.511.17E8633913924  
+627.521.17E8633913426  
+727.551.17E8633913424  
+827.511.23E8653912786  
+927.569.78E7623712811  
+  
+  
+
+PSMs of BSA run 3
+
+  
+
+
+
+
+TIC: P001
+
+P002
+
+P003
+
+P004
+
+P005
+
+  
+
+
+
+
+13/11/21
+
+Repeat of the same sample and run
+
+
+
+
+13/11/21 BSA SST
+
+Run722 RT722 countsCov %AAScore  
+127.617.57E7623713058  
+227.627.06E7623712934  
+327.616.55E7623713656  
+427.646.26E7623712957  
+527.637.63E7623712547  
+627.665.51E7623712414  
+727.664.83E7623711211  
+827.655.70E7613612403  
+  
+BSA run 2
+
+
+
+
+TIC: P001_RPT
+
+P002_RPT
+
+P003_RPT  
+
+P004_RPT
+
+P005_RPT
+
+
+
+
+22/11/21
+
+The files were processed individually via PD 2.5 & Mascot 2.8 as follows:
+
+They were processed a second time with the technical duplicates merged
+together as above (samples 1-3 & 5) or vs a soy database (Glycine max, as
+downloaded from Uniprot; sample 4).  
+
+  
+
+
+
+
+23/11/21
+
+File-by-file search, sheep database
+
+SampleProteinsProt GrpPep GrpPSMMSMS  
+1 - 1 (Dolly)9,4503,21521,00128,583130,936  
+1 - 2 (Dolly)  
+9,3593,19620,85728,280130,559  
+2 - 1 (C2C12, Nb mouse)10,3193,25519,79427,392137,096  
+2 - 2 (C2C12, Nb mouse )Search Failed  
+  
+  
+  
+2 -1 (C2C12, rpt search vs Mouse12,3084,56636,99750,821137,096  
+3 - 1 (Backstrap)3,6161,20812,91721,613135,008  
+3 - 2 (Backstrap) 3,3741,12512,51821,428133,962  
+4 - 1 (V2)Search Failed  
+  
+  
+  
+4 - 2 (V2)Search Failed  
+  
+  
+  
+5 - 1 (Biopsy)3,9051,36916,69228,054138,536  
+5 - 2 (Biopsy)2,5038779,27915,222123,217  
+  
+Note: 2-2 was a missed pick up due to no sample left.  4-1 & 4-2 are soy-based
+products and the search failed due to a lack of sheep hits.  
+
+The searches were repeated with the duplicates combined into one search for
+the sheep samples (Nb the searches were submitted prior to the above results
+coming back, so sample 2-2 was still included).  
+
+SampleProteins Prot GrpPep GrpPSMMSMS  
+1 Dolly10,3263,55126,94955,934261,495  
+2 C2C1210,3393,26819,86327,524140,337  
+3 Backstrap3,9051,31216,01542,953268,970  
+5 Biopsy3,9331,37717,84043,041261,753  
+  
+Each of the first replicates was searched against the Glycine max database (as
+well as the usual contaminants database included in all searches) and with the
+soy sample (#4) both were searched in isolation and together:
+
+SampleProteinsProt Grp Pep GrpPSM MSMS  
+1-1750114441947130,936  
+2-1942158535975137,096  
+3-134266277696135,008  
+4-14,5391,2576,1361,2671133,306  
+4-22,2275182,1324,76999,195  
+4 combined (uniprot)4,5841,2566,40617,695232,501  
+4 combined (refseq)2,9171,2016,28317,389232,501  
+5-1482944401,025138,536  
+  
+3/12/21 At the request of Alex Ward, sample 4 was researched against the
+refseq database.
+
+Top 10 hits for the combined searches.
+
+1 Dolly
+
+2 C2C12 (combined, vs sheep)
+
+2 C2C12 (1st injection only vs mouse)
+
+3 Backstrap
+
+4 V2 soy (uniprot)
+
+4 V2 soy (refseq)
+
+5\. Biopsy
+
+Note, nebulin was not observed in sample 1, and only one isoform was observed
+in sample 2 at just over 100 PSM. Conversely, actin was in the top 20 for
+samples 3 & 5.
+
+
+
+
+19/11/21 Processing on MaxQuant 2.0.3
+
+Using parameters mqpar_Merino_iBAQ
+
+  
+
+For samples P004 and P004_2
+
+Summary
+
+File MSMS identified (submitted peak)Peptides identifiedProtein groups  
+P0011967114796  
+  
+P001_21908914751  
+  
+Combined P001+P001_239276188852549  
+  
+P0021909460  
+  
+P002_26014002  
+  
+Combined P002+P002_219109512513  
+P003787508930  
+  
+P003_2784329625  
+  
+Combined P003+P003_2  
+15718210551888  
+P004 (sheep search)91968308  
+  
+P004_276446152  
+  
+Combined P004+P004_2  
+168414419368  
+P004 (soy search)919683385  
+  
+P004_2764461235  
+  
+Combined P004+P004_2  
+1684143536804  
+P0057577611767  
+  
+P005_2694145911  
+  
+Combined P005+P005_2  
+14519012361996
+
+

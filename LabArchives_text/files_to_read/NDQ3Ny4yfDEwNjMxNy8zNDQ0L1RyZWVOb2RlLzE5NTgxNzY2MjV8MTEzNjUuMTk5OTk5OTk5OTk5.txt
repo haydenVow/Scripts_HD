@@ -1,0 +1,116 @@
+
+
+  
+
+## Reference Table
+
+For a 12 WP culture dish, use 2x the amount recommended for a 24WP culture
+dish.
+
+
+
+
+## Performed by: Chris  
+
+
+
+
+Culture IDs to Fix
+
+Vessel type(s)Vessel IDNo. of wells to stain  
+  
+12 well plate  
+7513-DOLLY12-Sheep P10-1of2  
+All  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+dPBS5910  
+  
+4% PFA3099  
+  
+  
+  
+
+
+
+
+## Imaging
+
+Imaged the plate, taking whole well images of every well using the zaber
+13:10  
+
+For information on how to use the zaber, refer to:
+https://www.notion.so/vow/User-Guide-to-Zaber-imaging-
+ad19527eee9e42ed9db96faa911d6536
+
+Tips for imaging the 12WP are to use 8x8 imaging sites in the HSC site
+generator, remembering to change the spacing rule to field of view with 60 um
+spacing. Remember to build the MM List in the HSC site generator and confirm
+the number of images expected (usually >700) in the Mult-D Acq.
+
+
+
+
+Process:
+
+Fixing for both plates ( ~ 20 - 30 min):
+
+  1. Aliquoted  2 x 50 mL of PBS into  2 x 50 mL falcon tubes and  13 mL  4% PFA into   1x 15 mL  falcon tube. 
+  2. Placed in the water bath and warmed for a minimum of 10 mins.   13:00 - 13:30  
+  3. Removed media from each well and wash with warmed PBS twice. 
+  4.  Added   1mL warmed PFA for 15 min:  13:45 - 14:00
+  5. Removed PFA (and add in PFA waste container) and wash wells twice with   2 mL warmed PBS. 
+  6. Wrapped plate in parafilm and placed in the   biomaterials   fridge for later staining.   time  
+
+
+
+
+## Cleaning the Electrodes
+
+When finished with the electrode lid, it will need to be cleaned and stored
+away for later use.
+
+1\. Inspect the wiring connections to the electrode to ensure no corrosion or
+damage is present and all wiring is still connected as expected.  
+2\. Inspect the electrodes closely to ensure no damage or dissolution has
+occurred to the metal.  
+3\. Spray down the used electrode lid with ethanol.  
+4\. Fill the wells of a clean 12WP base with ethanol and place the electrode
+plate in this base so the electrodes are immersed in ethanol.
+
+A spare 'wash plate' is kept in the 'Electrodes' box.
+
+5\. Place the 12WP assembly inside the ultrasonic bath so that the water of
+the bath is at the line where the 12WP lid meets the base.  
+6\. Set the ultrasonic bath temperature to room temperature and the time of
+sonication for 15 minutes.  
+7\. Reinspect the electrodes. If any media or other organic residue is still
+present on the electrodes, repeat step 6.  
+8\. Store the electrode lid by placing it onto a clean 12WP base. Ensure the
+lid is dry before storage. Optional: Place the lid in the drying oven upside
+down at 50C for 15 minutes to increase drying time.  Alternatively, to reuse
+the lid immediately, proceed to the UV sterilisation process.
+
+
+
+
+Observations/Summary:
+
+###  
+
+cells look grainy and dark after PBS washes and fixing....
+
+
+
+
+Relevant Images/Figures (if applicable): N/A  
+
+

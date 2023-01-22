@@ -1,0 +1,55 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Determine if Nuvonis quail fibroblast suspension cells can survive and
+proliferate alternative basal mediums
+
+
+Hypothesis
+
+
+At least one of the following alternative suspension basal mediums; DMEM/F12,
+RPMI and Hycell CHO will enable the cells to survive and proliferate in
+suspension culture conditions
+
+
+Technical Gap
+
+
+The current price to procure Freestyle medium is $260 per litre. In order to
+produce a significant number of cells at scale the cost of the growth medium
+needs to be significantly reduced. To begin evaluating this several different
+basal media compositions will be evaluated to determine if the Nuvonis
+suspension cells are able to survive and proliferate in these alternative
+growth mediums.
+
+
+Method/Procedure
+
+
+  1. Prepare 150 mL of each of the following media conditions:
+    1. Freestyle 293 + other*
+    2. Hycell CHO + other*
+    3. RPMI + other*
+    4. DMEM/F12+ other*  
+  
+Other - Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) +
+Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L)
++ Anti-clumping agent (1:100)  
+  
+*only add growth factor on the day the growth media is required
+  2. Determine electrical conductivity and pH of each sample
+  3. Seed 4x E125 flasks with Nuvonis suspension quail cells (50,000 cells per mL, 1.5M cells per flask, 6M cells total)
+  4. Sample cells approximately 24 hrs after seeding
+  5. Repeat step 4 for at least 4 days following seeding
+  6. If any of the conditions have reached a density of 800,000 - 1,000,000 cells/mL dilute the cultures to a density of 50,000 cells/mL
+  7. Repeat step 5 for the next 3 days following the passage
+  8. If any of the conditions have reached a density of 800,000 - 1,000,000 cells/mL dilute the cultures to a density of 50,000 cells/mL
+  9. Allow the cultures to remain in culture until the density surpasses 1,000,000 cells/mL and monitor each day to determine if either the density continues to increase or the cells viability decreases
+
+

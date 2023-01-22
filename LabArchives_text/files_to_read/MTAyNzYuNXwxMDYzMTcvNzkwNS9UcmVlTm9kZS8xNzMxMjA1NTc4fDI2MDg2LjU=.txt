@@ -1,0 +1,75 @@
+Performed by: LL
+Flask IDConditionFlask location  
+1195075/25Main lab, incubator 141  
+  
+1195190/10  
+11952100  
+11629Freestyle
+
+
+Process
+  
+  
+  1. Removed flasks from incubator 
+  2. Took 2 x 100 uL samples from each E500 and 2 x 50 uL samples from E125
+  3. Performed cell counts and averaged for each flask and each condition (recorded in table below)
+  4. If cell density is > 1,000,000 cells/mL in any cultures, aliquoted X mL of media with growth factors and warmed in water bath to reduce density. Checked table below to see if any cultures require expansion into larger E-flask. 
+    1. 75/25: Discarding or giving away - there are already lots of frozen vials in 3:1 for MFG use and 75/25 is less important to focus on than 90/10
+    2. 90/10: 380 mL + IGF + EGF (topping up to 500 mL) 
+    3. 100: 30 mL + IGF + EGF (100% feed - still seems to be in adapting phase)
+    4. Freestyle: N/A - was fed yesterday
+  5. Transferred 100 culture to 1 x 50 mL flask 
+  6. Centrifuged at 500 x g for 5 min 
+  7. Aspirated 100% of supernatant and resuspended in 30 mL warmed media 
+  8. Strained 100 culture through 40 um cell strainer and transferred back to E125 
+  9. Added 380 mL to 90/10 culture 
+  10. Strained 90/10 culture through 40 um cell strainer and transferred to E500 flask 
+  11. Returned cultures to incubate at 37'C, 5% CO2, 120 RPM
+
+
+
+
+
+Counts & observations
+Flask IDFlask count  
+Ave flask count  
+FormulationComments  
+  
+11950166,200,000  
+166,200,000  
+C1: 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+look healthy, pretty consistent, no clumping  
+  
+166,200,000  
+  
+11951144,000,000  
+138,240,000  
+C2: 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+look healthy, pretty consistent. No clumping on counts but can see some
+clumping in flask - not too bad  
+  
+132,480,000  
+  
+116291,080,000  
+900,000  
+C3: Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+Seeded and fed without counting yesterday - put 1 mL of cell suspension into
+30 mL media  
+  
+720,000  
+  
+119528,880,000  
+8,010,000  
+C4: RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+quite a lot of variation in morphology but don't look too unhealthy. Some
+clumping.  
+  
+7,140,000  
+
+

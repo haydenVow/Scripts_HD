@@ -1,0 +1,84 @@
+
+
+## Performed by: Tom Tarento
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+12848  
+10  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connected a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew 3.5 - 4.0 mL of sample.
+  7. Disconnected sample syringe and transferred 1 mL of sample each to 3 x 1.5 mL Eppendorf tubes for subsequent analysis:
+    * Performed ViCell count
+    * Performed manual cell count
+    * Tested pH offline
+    * Prepared sample for offline biochemistry analyses: "Biostat 18-July-2022" placed in red rack
+      * 250uL taken from sample
+      * diluted 1:2 with equal volume of dH2O (not PBS) 
+      * Quick spin for 1 minute
+      * Reserve supernatant in new 1.5mL tube and discarded pellet. Input sample info into datasheet here for later analysis offsite. Stored in sample box at -20degC
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp14:00  
+Notes
+
+  * manual cell count: 150k viable cells/mL live (80.7% viability)
+  * ViCell count: 200k viable cells/mL 88.7% viable
+  * offline pH: 7.51
+  * online pH: 7.45
+  * online dO: 80.0
+  * online temp: 37.0
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  * Cell counts have bounced back since Friday last week
+  * Continue to monitor daily
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  * See G-Sheet here for data and visualisations
+  * See MIA capture here for relevant images
+
+

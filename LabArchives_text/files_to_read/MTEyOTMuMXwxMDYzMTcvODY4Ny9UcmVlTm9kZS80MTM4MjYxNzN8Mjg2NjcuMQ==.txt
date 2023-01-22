@@ -1,0 +1,46 @@
+Why do we need a benchtop gas-agitated conical bioreactor?
+
+
+Conical fermenters are a common piece of brewing equipment which we want to
+adapt to large-scale animal cell culture. Typical production-scale volumes are
+in the 2,000 - 20,000 L range. The key components of this adapted fermenter
+are:
+
+  1. The tank, which is usually filled to a depth of 1x - 1.5x the diameter of the tank
+  2. The sparger, which could be as simple as an open pipe or as complicated as a disk with microscopic pores, is used to release gas bubbles into the culture. The gas bubbles can be used to regulate the dissolved oxygen (by changing oxygen concentration) and pH (by changing CO2 concentration) in the culture. The bubbles can also be used to agitate the media and ensure the suspended cells do not settle at the bottom.
+  3. The tempering blanket or jacket, which wraps around the tank and regulates the temperature of the culture.
+  4. Temperature, pH and dissolved oxygen measurement devices (probes) to provide feedback to the control mechanism.
+
+A benchtop bioreactor has all of the same elements as a production-scale
+stirred-tank bioreactor but is a much smaller, with a typical volume of 2-20
+L. This allows us to test similar conditions (including impeller shear, gas
+sparging, pH, temperature and dissolved oxygen control) as would be
+experienced in a production-scale bioreactor WITHOUT going to the expense of
+installing and operating a 2,000 L batch!
+
+
+What are the strengths of using a conical beer fermenter as an animal cell culture bioreactor?
+
+
+To scale up our current process in a sustainable and cost efficient manner we
+need to move away from pharmaceutical-grade equipment and move towards using
+cheaper, more accessible food-grade equipment. Reducing components and
+infrastructure where possible is also required to reduce setup cost. Using
+stainless rather than single-use bioreactors are a large step towards
+objective. Conical fermenters are a 'brewing industry standard' piece of
+equipment and are much more affordable and accessible. They also rely on gas
+agitation rather than stirring impellers to keep the liquid moving, which will
+reduce the amount of power and infrastructure required to scale our process.
+It is postulated that the conical shape may also assist with increasing
+harvest yield and gas agitation.
+
+
+What are the challenges with operating a benchtop gas-agitated conical bioreactor?
+
+
+A benchtop conical fermenter (usually) does not:
+
+  1. Have functionality for automated or semi-automated cleaning and sterilization. All "wetted" parts (those that come into contact with the cell culture or reagents) need to be manually cleaned (or replaced) and sterilized in between batches. Industry standard steam sterilisation infrastructure is not readily available for testing on a small scale.
+  2. Automated pH control. measured using a sensor and regulated with CO2 gas and liquid base addition.
+
+

@@ -1,0 +1,417 @@
+Selected Carriers
+
+
+Selected Carriers
+
+CarrierProviderTypePrimary MaterialSecondary MaterialSurface Area
+(cm2/gram)Avg. Size  
+BioNocEscoAsterMacroPolyethylene  
+24005x10 mm  
+FibraCellEppendorfMacroPolyesterPolypropylene  
+  
+  
+Gelatex - MicrobeadsGelatexMicroZeinGelatin  
+  
+  
+UnitantrixTanntiMicroCollagen  
+6000  
+
+
+MICRO Carrier Preparation Protocol
+  
+  
+Materials and Equipment Required
+
+  1. Microcarriers
+  2. Siliconized Schott Bottles
+  3. Cell culture medium
+  4. Sterile PBS (without Ca and Mg)
+  5. TrypLE-EDTA
+  6. Pluronic F-127
+
+General Protocol
+
+Microcarrier Hydration
+
+  1. Weigh out 0.2 g of microcarrier into a siliconized schott bottle.
+  2. Add 100mL PBS to achieve a final concentration of 2g/L.
+  3. Autoclave at 121°C for 20 minutes to hydrate microcarriers.
+  4. Cool down to room temperature before use. 
+
+Culture Medium (with Pluronic F127) Preparation
+
+  1. In a sterile container, mix Pluronic F127 with growth medium to a final concentration of 5% (w/v).
+  2. Stir on a low spin speed using a autoclaved magnetic stir bar at room temperature until the Pluronic F127 had dissolved.
+  3. Sterile filter the pluronic solution into a sterile container inside the BSC using a syringe with a 0.2 micron filter.
+
+Culture Medium Equilibration
+
+  1. Pipette microcarrier solution up and down to create a homogenous solution.
+  2. Pipette required aliquot into a centrifuge safe tube and centrifuge for 5 mins at 300g.
+  3. Remove PBS supernatant and replace with cell culture medium. Pipetting up and down to wash microcarriers.
+  4. Place on rocker stage and rock to stir microcarrier solution for 10 mins.
+  5. Centrifuge at 300g for 3 mins, remove supernatant and resuspend microcarriers to required concentration in filtered 5% w/v Pluronic F127 in growth media .
+
+Cell Seeding
+
+  1. Pipette microcarrier solution up and down to create a homogenous solution, pipette required amount of microcarriers plus media into a 50 mL polypropylene centrifuge tube. Bring to incuabtion temperature.
+  2. Trypsinise and harvest cells from culture vessels and seed (AT HIGHER DENSITY THAN NORMAL - To account for cell loss due to lack of attachment to a microcarrier) microcarrier solution at the appropriate density directly into 50 mL centrifuge tube.
+  3. Incubate for 3 hours with gentle agitation every half hour. 
+  4. Pipette seeded microcarriers into an ultra low attachment plate at required concentration (ideally enough to coat surface of plate).
+  5. Incubate and culture until confluence is reached.
+
+
+Related Resources
+
+
+VSOP-007_1 Cell Counting Using a Haemocytometer
+
+VSOP-006_1 Routine monitoring of cells in adherent flasks
+
+VSOP-005_2 Cells Harvesting from T-flasks  
+
+
+Workflow - Carrier Hydration
+
+
+CARRIER DATA
+
+Tube 1: Unitantrix
+
+Tube mass: 12.541
+
+Tube + units: 12.721
+
+total beads = 0.180g
+
+0.180g/90 mL = 2g/L
+
+Tube 2 : Gelatex Microbeads (78 Units)
+
+Tube mass: 12.609
+
+Tube + units: 12.625
+
+Tube (12.609) + beads for workflow = 12.952
+
+total beads = 0.343g
+
+0.343g / 171.5 mL = 2g/L
+
+Tube 3: Bionoc (20units)
+
+Tube mass: 12.584
+
+Tube + units: 12.729
+
+Tube 4: Fibracell (20units)
+
+Tube mass: 12.586
+
+Tube + units: 12.674
+
+
+
+
+ADDENDUM
+
+BioCradle L
+
+Tube Weight: 12.548
+
+Tube + Carrier = 12.706
+
+Carrier = 0.158g
+
+0.158g in 79mL
+
+  
+
+BioCradle H
+
+Tube Weight: 12.615
+
+Tube + Carrier: 12.806
+
+Carrier = 0.191g
+
+0.191g in 95.5mL
+
+  
+
+
+Workflow - Media Equilibration of Carriers
+
+
+1\. Make a 5% w/v Pluronic F-127 DMEM/F12 20%FBS solution
+
+Amount of F-127 (ID: 821) = 15.001g
+
+DMEM/F12 20%FBS (ID: 12301) = 300mL
+
+Add to media warmed to 40C and use magnetic stirrer on lowest speed to mix.
+This will take about 1hr or more. If the pluronic F127 forms a large clump,
+use a spatula to break up clumps into smaller clumps. On the low speed, the
+clumps will move to the middle and fall down hitting the stirrer bar and
+breaking up.
+
+2\. Filter media + pluronic F127 through 0.22 micron filter unit.
+
+3\. Concentrate microcarrier solutions in media
+
+\- Gelatex = Take 171.5 mL of solution, remove PBS and add to 21.44 mL
+media+F127 to make a 16g/mL concentration
+
+\- BioCradle L = Take 79 mL of solution, remove PBS and add to 9.88 mL
+media+F127 to make a 16 g/mL concentration
+
+\- Count out required amount of macro carriers and add to media (Bionoc = 18,
+fibracell = 54).
+
+4. 
+
+Carrier
+
+BioNOC Carriers
+
+FibraCell Disks
+
+Microcarrier Beads
+
+CelCradle L  
+  
+Plate
+
+24 Well Plate
+
+24 Well Plate
+
+24 Well Plate
+
+25 Well Plate  
+  
+# Conditions
+
+6
+
+6
+
+6
+
+6  
+  
+Replicates
+
+3
+
+3
+
+9
+
+9  
+  
+Total wells
+
+18
+
+18
+
+54
+
+54  
+  
+Surface Area per well (cm2)
+
+1.9
+
+1.9
+
+0.32
+
+0.32  
+  
+Surface Area per carrier (cm2)
+
+17.52
+
+5.28
+
+???
+
+0.0820  
+  
+Grams per carrier
+
+0.0073
+
+0.0044
+
+0.0002
+
+0.000007  
+  
+Carrier Surface Area per well (cm2)
+
+17.52
+
+15.84
+
+???
+
+17.52  
+  
+Carrier SA / Well SA
+
+9.2211
+
+8.3368
+
+???
+
+54.7500  
+  
+Total carrier surface per plate
+
+315.36
+
+285.12
+
+473.04
+
+946.08  
+  
+# of Carriers per Well
+
+1
+
+3
+
+18.46
+
+213.64  
+  
+Total # of carriers per plate
+
+18
+
+54
+
+996.84
+
+11536.64  
+  
+(g) of Carriers per Well
+
+0.0073
+
+0.0132
+
+0.004
+
+0.0016  
+  
+Total (g) required per plate
+
+0.131
+
+0.238
+
+0.204
+
+0.086  
+  
+Stock solution conc. (g/L)
+
+  
+
+  
+
+16
+
+16  
+  
+Volume of Stock Solution Req. (mL) / well
+
+  
+
+  
+
+0.237
+
+0.100  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+SEEDING DENSITY (cells/cm²)
+
+7500
+
+  
+
+  
+
+  
+  
+  
+TOTAL CELLS REQUIRED
+
+15147000
+
+  
+
+  
+
+  
+  
+  
+5\. MICROCARRIER SEEDING:
+
+  1. Place the required quantity of microcarriers into 96 well cell culture plate.
+  2. Allow the microcarriers to settle and remove excess media volume (down to 150 uL)
+  3. Or alternatively add media up to 150uL per well.
+  4. Innoculate the cell culture dish with cell suspension based on cell desnity of 7500 cells/mL and cuture in an CO2 incubator..
+  5. Shake flask in a rotational manner every 30 mins for 2 mins, repeat 8 times
+
+6\. MACROCARRIER SEEDING:
+
+  1. Place required amount of carriers into a 50mL centrifuge tube. 
+  2. Remove media and add fresh media (20mL).
+  3. innoculate
+  4. Gently agitate carriers by inversion every 30 mins for 2 mins, repeat 8 times.
+  5. Add carriers to wells. BioNoc =  1/well, Fibracell = 3/ well
+  6. Add in additional media (750uL) and incubate in CO2 incubator.
+
+  
+
+

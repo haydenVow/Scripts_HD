@@ -1,0 +1,62 @@
+
+
+Try out:
+
+  1. PulsePal
+  2. earlier stimulation (right at start of E6)
+  3. BUFFY
+  4. different stimulation frequency: we currently use 2 Hz, but this paper uses 20Hz
+  5.   
+
+  6.   
+
+  7.   
+
+References:
+
+1\. https://rupress.org/jgp/article/154/9/e2021ecc41/212802/On-the-molecular-
+mechanism-of-
+excitation?elqTrackId=a12d06cbb619412caa1d2a067cd5e70d&elq=6443f011d2eb4baca0d4bab40e8a0bfd&elqaid=32585&elqat=1&elqCampaignId=10596
+
+An important question in neuromuscular biology is how skeletal muscle cells
+decipher the stimulation pattern coming from motoneurons to define their
+phenotype-activating transcriptional changes in a process named excitation-
+transcription coupling. We have shown in adult muscle fibers that 20 Hz
+electrical stimulation (ES) activates a signaling cascade that starts with
+Cav1.1 activation, ATP release trough pannexin-1 channel, activation of
+purinergic receptors, and IP3-dependent Ca2+ signals inducing transcriptional
+changes related to muscle plasticity from fast to slow phenotype.
+Extracellular addition of 30 µM ATP mimics transcriptional changes induced by
+ES at 20 Hz. ATP release occurs in two peaks, the first around 15 s after ES
+and a second around 300 s after ES. In the present work, we used apyrase to
+hydrolyze ATP 60 s after ES, maintaining the first peak and eliminating the
+second peak. In this condition, transcriptional changes were abolished,
+indicating that the second peak is the one crucial to activate transcription.
+Additionally, we observed a small depolarization of fibers after ES. The
+addition of 30 to 100 µM external ATP also induced depolarization of muscle
+fibers. This depolarization was unable to activate contraction but was able to
+induce transcriptional changes induced by 20 Hz ES. These changes were
+completely inhibited by the IP3R blocker xestospongin B, suggesting that
+IP3-dependent events are triggered at these membrane depolarization values.
+Moreover, transcriptional changes induced by addition of 30 µM extracellular
+ATP was blocked by incubation of fibers with 25 µM Nifedipine. These results
+suggest that the second ATP peak observed after 20 Hz ES is responsible for
+transcriptional activation by inducing small depolarizations of fiber
+membranes that are also sensed by Cav1.1. Finally, we show evidence that
+downstream of purinergic receptors, PKC is activated, likely causing
+phosphorylation of ClC-1 chloride channels, possibly responsible for
+depolarization after 20 Hz.
+
+
+
+  
+
+
+
+
+\- Experiment with 0.5 V/cm direct current with cells. See if cells are
+affected.  
+\- Platinum electrodes  
+  
+
+

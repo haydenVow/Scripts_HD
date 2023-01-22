@@ -1,0 +1,77 @@
+Performed by: LL
+Process
+  
+  
+  1. Took 1 x 10 uL sample from each of the 6 wells seeded and performed manual cell counts with trypan blue and haemocytometer
+  2. Added 20 uL per well of dPBS to bring volume up to 200 uL (have performed 2 x manual counts on each well in total) 
+  3. Added hoechst and sytox green stain to wells and incubated at RT in the dark for 30 minutes 
+  4. Performed dilutions in 100 uL of dPBS 
+  5. Imaged on Zaber microscope (5X) on DAPI and AF488 channels and ran through macro 
+  6. Imaged on Zaber microscope (5X) on phase and ran through ML model 
+
+
+Results
+
+
+Haemocytometer counts
+
+IDPlate typeCell Counts  
+Cell Count (ave) Comments  
+10763ULA 96wp54,720  
+83,600  
+70,680  
+76,760  
+80,560  
+67,640  
+72,372  
+>95% alive, look normal and happy, but a bit more clumped than D1.  
+  
+Went from 13K to 72K in 3 days which is 2.3 doublings which is roughly in line
+with expectations  
+1076496dwp (speed 120RPM - seeded Sat)Not performed (see comments)  
+N/A  
+>95% cells dead (absorbed Trypan blue) so didn't perform cell count  
+
+
+
+
+
+  
+  
+ML model counts
+
+
+
+
+Average cells/mL
+
+  
+  
+REP 154092.5  
+REP 250824.375  
+REP 364053.75  
+REP 471813.125  
+REP 582093.75  
+REP 672612.5
+
+
+  
+  
+Bead test results (tested OT2 seeding protocol with cell beads)
+
+Takeaway: ML model seems to not recognise beads as well as cells, I think they
+are a bit smaller than our suspension cells. However, I think this data shows
+that the ot2 protocol does a decent job at evenly distributing cells.
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A10914517321327728631735219414710155  
+B12225131628731134640233521818015586  
+C12821926028032324827724621516614761  
+D15420221424218822319520814913816261  
+E11523524317519716817322016720215691  
+F14522724219221019518020622120717680  
+G125259229233275268245215222204234101  
+H601071361571311671831821411019964
+
+

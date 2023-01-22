@@ -1,0 +1,56 @@
+
+
+## Completed by: Avani Bhojwani
+
+
+Aim/Purpose
+
+
+To test whether proliferation of fibroblasts using media containing DMEM/F12
+made in-house is similar to media containing commercial DMEM/F12
+
+
+Hypothesis
+
+
+Doubling time of fibroblasts in both media will be similar
+
+
+Technical Gap
+
+
+We have never made DMEM/F12 in-house and used it for growing fibroblasts.
+
+
+Method/Procedure
+
+
+50L of PRF DMEM/F12 was made in-house. From this, 100mL was put aside at the
+beginning of the filtration process. Another 100mL was put aside near the end
+of the filtration process.
+
+  1. Thaw DOLLY12 WCB fibroblasts into 3x T25 flasks (7000 cells/cm^2) in the following media
+    1. Commercial DMEM/F12 + 10% FBS
+    2. In-house DMEM/F12 + 10% FBS (from early filtration)
+    3. In-house DMEM/F12 + 10% FBS (from later filtration)
+  2. 24h after thawing, perform a 50% media change 
+  3. Passage every 4-6 days and perform cell counts to calculate cell doublings. 
+  4. To perform a proliferation assay:
+    1. seed 7000 cells/cm^2 into 1x column of 3x 96 wp for each media condition.
+      1. 1x plate will the imaged on day 1, day 3, and day 5 (to see if we can use only 1 plate for future prolif assays). 
+      2. In case Hoescht stain and imaging affects cell growth, we also have 2x additional plates which we will stain on day 3 and 5, image, and then discard so that cells aren't kept in culture after staining.
+    2. On day 1, Hoechst stain 1x 96 wp and image on the Zaber. Return this plate to the incubator and label it as 'live staining'.
+    3. On day 3, check whether the Hoechst stain on the 'live staining' plate looks bright and is visible in all the cells. Re-stain if needed and then image on the Zaber. Return to incubator.
+    4. One day 3, Hoechst stain another 1x 96 wp and image on the Zaber. This plate can be discarded.
+    5. On day 4, check whether the Hoechst stain on the 'live staining' plate looks bright and is visible in all the cells. Re-stain if needed and then image on the Zaber. Return to incubator.
+    6. One day 4, Hoechst stain another 1x 96 wp and image on the Zaber. This plate can be discarded.
+  5. Process images through MIA to obtain cell counts
+  6. Using GraphPad:
+    1. compare cell counts between conditions at different time points
+    2. compare doubling times between conditions
+    3. generate graphs of growth curves 
+    4. generate graphs of cell counts at different time points
+
+  
+
+

@@ -1,0 +1,140 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Avani
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+3085-Culture-7346-Vial-1of38  
+7876-F_DOLLY12-Sheep P8-1of2 (96 wp)  
+7877-F_DOLLY12-Sheep P8-2of2 (24 wp)  
+  
+For this experiment  
+  
+  
+7878-F_DOLLY12-Sheep P8-1of1 (96 wp)  
+For EPIC24301
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Mediaa6456  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for counts, resuspension, and seeding):    63.5 mL 
+  * Time that aliquot was placed in the water bath to warm before use:   13:13 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:07 - 14:12
+
+Location where cryovial was collected from:
+
+Vial details:  1  cryovials at   5 M  cells
+
+Brew
+
+Tower/Bucket # 4
+
+Box/Cane # 5  
+
+Vial location: C1
+
+Vial ID(s): 3085-Culture-7346-Vial-1of38
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. Took aside 10uL of the cell suspension for a cell count.  
+`
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of ~29 mL of Growth Media. ```
+
+`Perform a cell count. Total number of cells was: 3 492 000 cells```  
+
+`Prepare two cell suspensions:`
+
+2328000` cells in 41.400 mL of growth media -> Use this to seed 1x whole 96
+well plate, and 1x 96 well plate without edge wells (230uL/well). Add
+200uL/well PBS to the edge wells.  
+`
+
+`1164000 cells in 16.5 mL of growth media -> Use this to seed 1x 24 well plate
+with 550 uL/well`
+
+`9. Transferred flask/plate(s) to incubate at: (time not recorded - approx
+15:00)  
+`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed a vial of F_DOLLY12 WCB containing 4 M cells. Used this to seed 2x 96
+wp and 1x24 wp.
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

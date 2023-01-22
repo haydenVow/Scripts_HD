@@ -1,0 +1,91 @@
+
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBST (0.2% Triton-X)  
+M7043  
+  
+Phalloidin iFlour488  
+S4655  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+  1. Removed the pre existing 200uL of dPBS in each well for each plate.
+  2. Added 100uL of PBST - 0.2% Triton-X to each well to permeabilise the cells (9:40am - 10:05am)
+  3. Removed PBST and washed plates twice with 200uL of dPBS.
+  4. Made up 1000X solution of Phalloidin iFlour488 by adding 30uL of DMSO (S4916) to the frozen pellet stock.
+  5. Added 24uL of 1000X Phalloidin stock to 24mL of PBS and stored in dark at 4C.
+  6. Added 24uL of DAPI 1000X stock to 24mL of PBS and stored in dark at 4C.
+  7. Removed 200uL of PBS from each plate and added 50uL of 1X DAPI solution to each well and incubated (10:53am - 11:03am)
+  8. Removed 50uL of DAPI from each well and added 50uL of 1X Phalloidin solution to each well and incubated for 1 hour. (11:10am - 12:30pm)
+
+
+
+
+Imaging:
+
+PHASE: 9 ms
+
+488: 20 ms
+
+DAPI: 12 ms
+
+All plates imaged on Library Lab 6 plate Zaber microscope (Start time: 1:15pm)
+
+
+
+
+Observations/Summary:
+
+All plates stained with DAPI and Phalloidin iFlour488
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

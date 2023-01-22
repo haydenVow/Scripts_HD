@@ -1,0 +1,235 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+
+
+To identify the best basal media to support CHOMP suspension adaptation
+
+
+Hypothesis
+
+
+That CHOMP cells will adapt to suspension in at least one of the commercial
+suspension basal media formulations paired with several supplements shown to
+support adaptation in previous exps
+
+
+Technical Gap
+
+
+We have never tried adapting CHOMP cells to suspension using these commercial
+media formulations, nor have we tried supplementing them with glutamax, lipid
+supplements, or RGD peptides.
+
+
+Method/Procedure
+
+
+D0: Seed cells into T175 flasks for adherent slow adaptation and scale up
+
+Thaw 16 x 1 million F_CHOMP09 vials into 12 x T175 flasks at 7500 cells/cm^2
+to grow up >28M (these vials should reach ~80 million cells after 1 week but
+we are allowing a big margin for lag time after thaw and possible failure of
+the suspension medium feed conditions).
+
+Thaw F_DOLLY12 also to seed control flasks in CD CHO.
+
+D3/4: 50% Medium change with suspension media  
+
+Perform 50% change of each flask into the matching suspension basal media
+after 3-4 days (still 10% FBS at this point)
+
+D7: Passage cells into suspension culture in 24x50mL shake culture tubes
+
+Passage F_CHOMP from 9-12x T175 flasks into suspension. 28x50mL shake culture
+tubes will be seeded with a total of 28M (1M each) into the following basal
+media conditions all containing the "10G" supplement:
+
+Positive control: F_DOLLY12 \+ CD CHO + fresh 10G
+
+Negative Control 75% feed: CHOMP DMEM/F12 + 20% FBS  
+
+Positive control 75% feed: F_DOLLY12 \+ CD CHO + fresh 10G
+
+1\. CHOMP RPMI (200 mL)  
+
+2\. CHOMP CD CHO (200 mL)
+
+3\. CHOMP CDM4 CHO (200 mL)
+
+4\. CHOMP CDM4 Avian (200 mL)
+
+5\. CHOMP Hycell CHO (200 mL)
+
+6\. CHOMP ActiPro (200 mL)
+
+7\. CHOMP CDM4HEK293 (200 mL)
+
+9G supplement: 20% KSR + 1:100 glutamax, lipid supplement 1:1000, 1 g/L
+pluronic, 1:100 ACA, 100ng/mL each of FGF, IGF1, PDGF +1x p/s (should be
+roughly 240 mL, which is enough for 6 x 200 mL = 1200 mL of growth media)
+
+11G supplement: 20% KSR + 1:100 glutamax, lipid supplement 1:1000, 1 g/L
+pluronic, 1:100 ACA, 100ng/mL each of FGF, IGF1, PDGF, RGD 100 ng/mL, and
+YIGSR 100 ng/mL +1x p/s (should be roughly 240 mL, which is enough for 6 x 200
+mL = 1200 mL of growth media)
+
+OT2 Feed
+
+Perform 75% media changes twice per week by centrifuging cell suspensions at
+300xg for 5 minutes, discard the supernatant and re-suspend cells in their
+respective growth medias. Take 100 uL of resuspended sample for imaging and
+cell counts.  ENSURE THAT OT TIP ASPIRATE HEIGHT IS APPRECIABLY ABOVE PELLET,
+IDEALLY >> 5 mm  
+
+OT2 Cell counts
+
+Transfer 100 uL sample to a 96 well-plate. Add 100 uL of stain buffer (Hoechst
+33342 Readyflow) to the cells and incubate at room temperature and in the dark
+for 30 minutes. Prepare serial dilutions (50%, 25%, 12.5%) of the stained cell
+preparation in subsequent wells, diluting with dPBS. Image all wells using the
+Zaber and analyse using MIA.  
+
+## Experiment schedule
+
+ConditionMediumDay 0Day 3/4Day 6/7Day 7/8 - Day 35/36  
+Twice per week for 4 weeksTotal  
+Negative ControlDMEM/F12 + 20% FBSThaw vial(s) into 12 x T175 flasksPerform
+50% medium change of 6 x T175 flasksHarvest cells and seed 1 million cells
+into each of 3x 50 mL bioreactor tubes, 5 mL volume each, retain any leftover
+cells to seed other conditions if flasks failedPerform 100% medium change in
+all cultures, sample, stain image and count cells  
+  
+Subtotal360 mL90 mL15 mL90 mL555 mL  
+Positive Control 100% feeds  
+F_DOLLY12 \+ CD CHO  
+Thaw vial(s) into 2 x T175 flasks  
+Perform 50% medium change of 2 x T175 flasks  
+Harvest cells and seed 1 million cells into each of 3x 50 mL bioreactor tubes,
+5 mL volume each, retain any leftover cells to seed other conditions if flasks
+failed  
+  
+  
+  
+  
+60 mL  
+30 mL  
+15 mL  
+120 mL  
+225 mL  
+  
+Positive Control  
+F_DOLLY12 \+ CD CHO  
+  
+  
+Harvest cells and seed 1 million cells into each of 3x 50 mL bioreactor tubes,
+5 mL volume each, retain any leftover cells to seed other conditions if flasks
+failed  
+  
+  
+  
+  
+  
+  
+15 mL  
+90 mL  
+105 mL  
+  
+1RPMI1640  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+2CD CHO  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+3CDM4 CHO  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+4CDM4 Avian  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+5HyCell CHO  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+6ActiPro  
+Replace 50% medium of 1 x T175 flask with suspension mediumHarvest cells and
+seed 1 million cells into each of 3x 50 mL bioreactor tubes, 5 mL volume
+eachPerform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+Subtotal  
+15 mL with 8G  
+15 mL with 10G90 mL with 10G120 mL  
+  
+7  
+CDM4HEK293  
+  
+Replace 50% medium of 1 x T175 flask with suspension medium  
+Harvest cells and seed 1 million cells into each of 3x 50 mL bioreactor tubes,
+5 mL volume each  
+Perform 100% medium change in all cultures, sample, stain image and count
+cells  
+  
+  
+Subtotal  
+  
+15 mL with 8G  
+15 mL with 10G  
+90 mL with 10G  
+120 mL  
+
+
+  
+  
+Shaking speeds:
+
+Recommendation for 50 mL tubes is 180-250 RPM with a 50 mm orbital diameter:
+https://www.tpp.ch/page/downloads/bioreactor/Recommendations-11-2014.pdf?m=1557880784&
+
+No agitation at all will occur at 100 RPM or below with a 50 mm orbital
+diameter:
+https://www.tpp.ch/page/downloads/bioreactor/MixingTime_50mLTPP_Entfaerbung.pdf?m=1557880815&
+
+Smaller orbital diameters require a higher shaking speed as the mixing power
+is related to the square of the velocity of the well
+
+  
+
+

@@ -1,0 +1,301 @@
+
+
+## Completed by: Nathan
+
+
+Aim/Purpose
+
+
+To investigate what impact UVA/UVB irradiation in the presence of a p53
+inhibitors will have on long term F_DOLLY12 cell longevity.  
+
+
+Hypothesis
+
+
+We hypothesis that cells exposured to UVA/UVB irradiation in the presence of
+p53 inhibitor will have better chances of surviving our single cell cloning
+pipeline. We expect to see more clones reach our 96 well plate stage expansion
+stage of our cloning pipeline compared to cells that have not received any
+UVA/UVB irradiation or exposure to p53 inhibitors.
+
+
+Technical Gap
+
+
+Being able to produce a high performing and long lasting clonal cell line that
+doesn't show decreases in proliferative capacity is vital to our mission. We
+currently do not have a cell line that meets this criteria, therefore we
+cannot produce cell mass at a large enough scale to feed billions simply
+because our cell lines will expire after a finite number of deivisions. This
+experiment aims to employ UV mutagenesis strategy to produce a long lasting
+clonal cell line that will hopefully give support endless biomass production,
+allowing us to reach any desirable scale for production.
+
+
+Method/Procedure
+
+
+
+
+
+Phase 1:
+
+  1. Thaw a vial of fibroblast cells into 2xT175s using DMEM/F12 + 10% FBS + 1xP/S. (Note: If fibroblasts are in continuous culture (proceed to Phase 2 on next passage, note down passage number). 
+
+  2. Grow cells until 70% confluent, perform 50% feed every 48 hours.
+
+Phase 2:
+
+  1. Passage cells then set up 12x 10cm plates at 2000 cells/cm^2 (20,000 cells per plate). (gelatin coated?)
+
+  2. Allow all plates to grow to 70% confluence,   50% Feed ever 48 hours with growth media until confluence is reached.
+
+  
+
+Phase 3:  
+  
+
+  1. Once plates reach 70% confluence image plates and proceed with treatments (n=3) 
+
+    1. Remove the growth media and wash all plates with 5mL dPBS. Split the plates into 4 groups (G1-G4)
+
+    2. Add 10mL of fresh dPBS with/without 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) to each plate (see table below for which plates require p53 inhibitor) PLEASE SEE THIS DOCUMENT PRIOR TO HANDLING P53 INHIBITOR
+
+    3. GroupUV irradiation p53 inhibitor.   
+G1NoNo  
+G2NoYes  
+G3YesNo  
+G4YesYes  
+    4. Inside the BSC, Wrap plates from G1 and G2 in foil and leave in the BSC. 
+
+    5. Set up the reptile solar lamp inside the BSC at a distance that is 30cm from the plate surface, using the UV meter, detect the UV intensity emitted by the lamp and record it (mW/cm^2). Perform a calculation to determine the length of time required to generate a 600,000 J/m^2 UV energy dose using the following formulas.  
+  
+mW/cm2 x seconds = mj/cm2
+
+0.1 mJ/ cm2 = 1 J/m2
+
+    6. Remove the lids from all plates and expose all plates to 600,000 J/m^2 of UV irradiation. 
+
+    7. Once irradiated, aspirate and discard the dPBS and replace with growth media w/wo p53 inhibitor for plates in each respective group. 
+
+    8. Return plates to incubate at 37 degrees 5% CO2. overnight.
+
+  2. 1 day after irradiation dose, observe plates to examine cell death, record observations then return cultures to incubate at 37 degrees, 5% Co2. 
+
+  3. 2 days after irradiation dose, observe plates and perform a 50% media feed using growth media w/wo p53 inhibitor (100uM), leave cells for further 2 days incubating. 
+
+Phase 4:
+
+  1. 4 days after irradiation dose, passage cells from each plate and perform a cell count to determine cell viability (n=3). Combine replicates from each group together into one tube after cell counting. Seed cells into an appropriate size and number of T flasks (n=1 for each condition) using regular growth media containing no p53 inhibitor
+
+  2. Monitor cultures over a further 10 days, performing 50% feeds and passaging necessary (>90% confuence), maintaining 2xT175s per condition. Discard excess cells 
+
+Phase 5
+
+  1. On Day 10 prepare the cell from each condition for FACs sorting into 6x384 well plates following the plate diagram. Proceed with SCC cloning schedule below. 
+
+
+Day DateTaskNotes  
+Monday2-Aug-2021Prepare plates and media for FACS6x384wp preparation (see
+plate diagram)  
+\- Coat colums 13-24 with gelatin for 1h at 37 degrees, Remove gelatin before
+adding media.  
+\- Add 60uL of DMEM/F12 + 20% FBS + 1xP/S to columns 1-6, 13-18  
+\- Add 60uL of DMEM/F12 + 20% FBS + 1xP/S + 100ng/mL FBF basic to columes
+7-12, 19-24.  
+\- Parafilm wrap plates on inside and around edges, store at 4 degrees.  
+  
+Media preparation:  
+Prepare 20mL of FACS buffer  
+Tuesday3-Aug-2021\- Harvest F_DOLLY12 T175s  
+\- Single cell sort, Garvan run  
+  
+Wednesday4-Aug-2021Day 1 Post sort zaber scan  
+  
+Thursday5-Aug-2021Day 2 Post sort zaber scan  
+  
+Friday6-Aug-2021Day 3 post sort zaber scan  
+  
+Saturday7-Aug-2021-  
+  
+Sunday8-Aug-2021-  
+  
+Monday9-Aug-2021Day 6 post sort zaber scan  
+  
+Tuesday10-Aug-2021Day 7 post sort zaber scan  
+  
+Wednesday11-Aug-2021Day 10 post sort zaber scan  
+Generate Picklists  
+  
+Thursday12-Aug-2021Day 11 expand from 384 to 96 well plates  
+  
+Friday13-Aug-2021  
+  
+  
+Saturday14-Aug-2021  
+  
+  
+Sunday15-Aug-2021  
+  
+  
+Monday16-Aug-2021  
+  
+  
+Tuesday17-Aug-2021  
+  
+  
+Wednesday18-Aug-2021  
+  
+  
+Thursday19-Aug-2021  
+  
+  
+Friday20-Aug-2021  
+  
+  
+Saturday21-Aug-2021  
+  
+  
+Sunday22-Aug-2021  
+  
+  
+Monday23-Aug-2021  
+  
+  
+Tuesday24-Aug-2021  
+  
+  
+Wednesday25-Aug-2021  
+  
+  
+Thursday26-Aug-2021  
+  
+  
+Friday27-Aug-2021  
+  
+  
+Saturday28-Aug-2021  
+  
+  
+Sunday29-Aug-2021  
+  
+  
+Monday30-Aug-2021  
+  
+  
+Tuesday31-Aug-2021  
+  
+  
+Wednesday1-Sep-2021  
+  
+  
+Thursday2-Sep-2021  
+  
+
+
+  
+  
+  
+
+Additional detail for experiment method.
+
+Prepare plates and Media for FACs
+
+6x384wp preparation (see plate diagram)  
+\- For each plate coat columns 13-24 with 20uL of 0.1% sterile filtered
+gelatin. Incubate all plates for 1h at 37 degrees,  
+\- Remove gelatin from all plates.
+
+\- Add 60uL of DMEM/F12 + 20% FBS + 1xP/S to columns 1-6, 13-18 on all plates  
+\- Add 60uL of DMEM/F12 + 20% FBS + 1xP/S + 100ng/mL FBF basic to columns
+7-12, 19-24 on all plates.  
+\- Parafilm wrap plates on inside and around edges, store at 4 degrees
+overnight.
+
+Single cell sort, Garvan run..
+
+  * Prepare two styrofoam boxes to transfer to the Garvan. 
+    * BOX A with the 6 x pre-growth media-filled 384-well plates, parafilmed, an ice pack, Hoechst (ddH20), extra 20mL FACS Buffer (PRF DMEM/F12 + 2% FBS + 10uM P38i) and the tubes containing cells.
+    * BOX B with 12 sheets of parafilm for sealing plates closed (6 needed, 6 excess) and spare tubes for the operator. 
+  * Prepare 5mL of DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i and store in the fridge at 4 degrees.
+  * Harvest cells from microcarrier culture and resuspend 1x10^6 cells in 2mL of of cold growth media in a 15mL tube (final conc 5x10^5 cells/mL). 
+  * Place the cell suspension on ice in BOX A. 
+  * Drive to the Garvan
+  * For FACS operator to do
+    1. Collect the entire 2 mL cell suspension in Growth Media (DMEM/F12 + 20% FBS + 1X P/S + 10uM p38i). Sample name = F_DOLLY12
+    2.  ~~Add Hoechst (1:100) (20 µL) to the sample tube and mix well.~~
+    3. Incubate at RT for 10 min.
+    4. Centrifuge at 300 x g for 5 min at 4ºC.
+    5. Aspirate supernatant. Add cold FACS Buffer (PRF DMEM/F12 2% FBS + 10uM P38i) to the pellet (without dislodging it).
+    6. Centrifuge at 300 x g for 5 min at 4ºC.
+    7. Aspirate supernatant carefully from the tube.
+    8. Resuspend pellet in 200µL FACS Buffer (PRF DMEM/F12 containing 2% FBS).
+    9. Sort cells based on forward and side scatter into individual wells of 6 x 384-well plates. 30 events to A1, A24, P1 and P24,  1 event for the remaining wells. 
+    10. After sort, parafilm plates and then close with lid. Parafilm the edges of the sealed plates.
+    11. Centrifuge plates at 300 x g for 10 min at RT at the Garvan.
+    12. Leave plates to incubate at 37 degrees, 5% CO2 while additional plates are sorted. 
+  * Transport plates in a styrofoam box WITHOUT an ice pack (remove ice pack so box is ~ RT) back to VOW HQ. Leave plates to incubate at 37ºC degrees, 5% CO2, in VOW (Library lab) incubator.
+
+  
+
+Post Sort Zaber scanning:
+
+Using the Zaber, image each well on PHASE channel, 5x objective, 2 row by 1
+column stitching. Return cultures to the incubator after imaging.
+
+Clone selection 384wp to 96wp, Generating picklists:
+
+  * Remove plates from the incubator and add Hoechst 33342 to the wells (final conc.     ) 
+  * Using the Zaber, image each well on PHASE channel and DAPI channel, 5x objective, 2 row by 1 column stitching. 
+  * Process the images using a FIJI macro to generate cell counts for each well. Record how long this process takes. Transfer the raw FIJI data to a google spreadsheet.
+  * Identify top performing clones (condition of top performer:     ) and generate a picklist from each plate. 
+  * Review the pick lists to inspect cell morphology and select clones to expand to 96 well plate stage. (see clone selection guide here https://www.notion.so/vow/Clone-Selection-Guide-315ab64bc8744a86a9e538970539fdb9)
+
+Everything below this point needs revision. Will automation be used for liquid
+passaging of 384 well plates? Will gelatin coating and FGF containing media be
+used for all subsequent passages for the relevant clones?  
+  
+Passaging 384 well plates.
+
+  *   
+
+Feeding 96 well plates [D2P]:
+
+  *   
+
+Imaging 96 well plates [D3P]/[D4P]
+
+  *   
+
+Expanding clones to 24 well plates.
+
+  *   
+
+Feeding 24 well plates [D1P]:
+
+  *   
+
+Expanding cell to 6 well plates
+
+  *   
+
+Feeding 6 well plates [D2P]:
+
+  *   
+
+Expanding 6 well plates to T25 flasks.
+
+  *   
+
+T25-T175 passaging
+
+  *   
+
+  *   
+
+  
+
+  
+
+

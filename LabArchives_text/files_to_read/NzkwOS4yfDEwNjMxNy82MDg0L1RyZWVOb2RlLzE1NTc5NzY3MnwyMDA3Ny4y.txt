@@ -1,0 +1,86 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:  
+
+
+
+
+Feed information:
+
+Original Vessel type(s)Original Vessel IDNew Vessel type  
+New Vessel ID  
+  
+E500  
+9700-CHO-S-Chinese Hamster P5-1of2  
+9701-CHO-S-Chinese Hamster P5-2of2  
+E2000  
+9722  
+  
+  
+  
+  
+9723  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)Location  
+  
+HyCell CHO medium  
+M9349  
+1000 mL  
+Fridge 117 (next to the bioreactor)  
+  
+  
+
+
+
+
+Process:
+
+  1.  1000 mL  media in water bath 37degC
+  2. Aliquotted   500 mL  mL of HyCell CHO medium directly into each new E2000 flask (100 mL per flask) at room temperature      
+  3. Removed E500 flasks from incubator
+  4. Mixed culture by vigorous manual swirling
+  5. Took 500 uL sample from each, returned flasks to incubator, and performed cell counts:
+    1. Count culture 9700 & 9701: 2.16x10^9
+    2. Total count:2.16x10^9  
+
+  6. Removed E500 flasks from incubator 15:18
+  7. Combined both cultures in a single flask, then transferred 200 mL of culture to each of the E2000 flasks
+  8. Transferred E2000 vessels to incubate at 100 RPM:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# New Eppendorf shaking incubator  ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

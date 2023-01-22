@@ -1,0 +1,191 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Brief background
+
+
+Introduction/Background:
+
+An imperative issue in cultured meat engineering is the monumental task of
+growing large numbers of muscle stem cells (MuSC) while retaining cell
+morphologies and characteristics. Possibly the most important characteristic
+of muscle stem cells that needs to be retained, is the cell's ability to
+further proliferate, differentiate and mature once expanded. While traditional
+adherent cell culture methods have been of large benefit to Vow and have
+proven time and time again to retain the aforementioned quality of our MuSCs,
+they are hindered by the surface area/volume ratio. For example, a 4-layer
+cell factory (4CF) used regularly by the Production team to expand large
+quantities of cells at a time only presents 2528 cm^2 of surface area to seed
+and proliferate MuSCs. The microcarrier is the dominant technology used to
+increase adherent surface area in industrial (>2000 L) cultures. Microcarriers
+are microscopic spherical particles with a typical diameter of 200 microns.
+Non-porous microcarriers are most common, with a surface area of ~0.001 cm2.
+They are typically used at concentrations of 10 - 40 cm2/mL, which is 2 - 8
+times greater than typical planar cultureware.
+
+
+Key results
+
+
+The clone DOLLY12_11E7 was expanded from post-clone master cell bank (MCB_2)
+to post-clone working cell bank (WCB_2). The expansion was achieved using both
+planar and microcarrier culture, from 4.8 million cells seeded into 1 x 4CF
+and 7.8 million seeded into 3 x E125 flasks (https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTk2LjN8MTA2MzE3LzE1MS9UcmVlTm9kZS8xMzAwNjk1OTQxfDQ5OC4yOTk5OTk5OTk5OTk5NQ==).
+
+After three days of proliferation, the cells counts reached over 22.9 million
+in the 1 x 4CF and 6.5 million in 3 x E125 flasks (https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjcxLjd8MTA2MzE3LzIwOS9UcmVlTm9kZS85MjA2ODU2NTd8Njg5LjY5OTk5OTk5OTk5OTk=).
+
+A differentiation assay was also performed; however, the results were
+inconclusive (see Figures 2, 3 and 4), showing very few MyoG positive events
+and even fewer MF20 positive events.
+
+
+
+
+  
+
+  
+
+Figure 1: Micrographs of DOLLY12_11E7 cells stained with Hoechst 33342 on
+Cytodex 1 microcarriers from flask 6307. Micrographs captured using a Basler
+camera attached to a Zeiss Axiovert microscope with 5x objective. Images (a)
+and (b) were taken using the phase contrast settings, images (c) and (d) were
+taken using the DAPI settings.  
+
+
+
+
+
+
+Figure 2: Fluorescence micrographs of DOLLY12_11E7 clonal MuSC from well B3 of
+plate 6370. Cells were stained for nucleic acid, MyoG and MF20. Micrographs
+captured on the Zaber robotic microscopy platform with 5x objective. Images
+(b) and (d) are digitally enlarged regions of images (a) and (c) respectively.  
+
+
+
+  
+
+Figure 3: Fluorescence micrographs of DOLLY12_11E7 clonal MuSC from well C2 of
+plate 6370. Cells were stained for nucleic acid, MyoG and MF20. Micrographs
+captured on the Zaber robotic microscopy platform with 5x objective. Images
+(b) and (d) are digitally enlarged regions of images (a) and (c) respectively.  
+
+
+
+  
+
+Figure 4: Fluorescence micrographs of DOLLY12_11E7 clonal MuSC from well C4 of
+plate 6370. Cells were stained for nucleic acid, MyoG and MF20. Micrographs
+captured on the Zaber robotic microscopy platform with 5x objective. Images
+(b) and (d) are digitally enlarged regions of images (a) and (c) respectively.  
+
+
+
+  
+
+
+Discussion
+
+
+The poor harvest from the 3 x E125 flasks was likely due to extensive losses
+during the harvest, not due to poor proliferation or cell death. The
+micrographs taken after harvest (Figure 1(a) and (c)) clearly show many cells
+loosely attached to the microcarriers. A manual count of the before and after
+images in Figure 1 gives an estimated 7.3 cells/microcarrier before and 3.4
+cells/microcarrier after, which means that approximately 46% of cells were not
+recovered from the microcarriers.
+
+In figures 2, 3 and 4, the red fluorescent stain (secondary Ab for MF20
+conjugated with AF555) was observed to colocalize with the blue fluorescent
+stain (DAPI nucleic acid dye), while the green fluorescent stain (secondary Ab
+for MyoG conjugated with AF488) was observed not to overlap with any blue
+fluorescent events. This is the opposite of what was expected as MyoG is a
+transcription factor which should co-localize with the DAPI-stained, DNA-
+filled nucleus. It is possible that during the image acquisition, the channels
+were swapped (colors were applied according to channel names during post-
+processing, NOT during image acquisition). It should be assumed that the red
+stain represents MyoG and the green stain represents MF20 in Figures 2, 3 and
+4.
+
+There were very few MyoG or MF20 positive events in these cells on day 6 of
+differentiation. Based upon the pre-cloning differentiation behavior of the
+DOLLY12 heterogeneous myogenic primary cells, MF20-stained myotubes should be
+obvious by day 6 (see previous work https://www.notion.so/vow/Results-
+Conclusion-7a77cdbd0b334352a03003311e27bbac). The low frequency of MyoG
+positive cells may indicate a low differentiation potential. The even lower
+frequency of MF20 positive areas may indicate the absence of fusion but not
+necessarily differentiation. This result is unexpected because the cells are
+clonal and should therefore display extremely similar behavior. It is possible
+that proliferation on microcarriers is selecting for cells that have drifted
+from the original clonal genotype; however, this type of effect is usually
+observed over months or years of subculturing (Ben-david et al., 2019). An
+alternative explanation for the low MyoG and MF20 staining is that the cells
+were not completely permeabilized and the antibody stains therefore could not
+penetrate the cell to bind to their targets.
+
+
+Limitations
+
+
+No staining control was used, so problems in the staining protocol cannot be
+ruled out as the cause of the negative differentiation staining result. The
+differentiation assay is therefore inconclusive; differentiation and fusion
+cannot be confirmed.
+
+
+Conclusion
+
+
+The clonal DOLLY12_11E7 line was successfully expanded from a MCB_2 cryovial
+(~500,000 cells) by both planar and microcarrier culture to over 30 million
+cells after harvest, which were banked to produce 60 WCB_2 cryovials for later
+use. However, poor harvest efficiencies of 50-60% from the microcarrier
+cultures reduced the total amount of cells that were recovered for the WCB_2.
+Furthermore, the concurrent differentiation assay failed to demonstrate normal
+differentiation and fusion. It can be concluded that the DOLLY12_11E7 line
+maintains pre-cloning proliferative capacity but it is not clear if it
+maintains pre-cloning differentiation capacity.
+
+
+Future Direction(s)
+
+
+There are three changes that should be made to protocols for future clone
+expansion experiments:
+
+  1. Increase the fraction of cells cultured in microcarrier culture to account for slower growth and/or losses during harvesting. This will require additional vials to be thawed or expansion over a longer period of time.
+  2. Fix differentiation plates at day 3-4 and day 6-7 as a MINIMUM requirement for observing differentiation and fusion. OR, fix only after at least 7 days and stain only for fusion.
+  3. If possible, fix and stain control plates of differentiated C2C12 cells to help confirm or eliminate staining errors as the source of negative fluorescence signals.
+
+
+References
+
+
+Ben-david, U., Siranosian, B., Ha, G., Tang, H., Oren, Y., Strathdee, C. A.,
+Dempster, J., Lyons, N. J., Burns, R., Nag, A., Kugener, G., Cimini, B.,
+Tsvetkov, P., Maruvka, Y. E., Garrity, A., Tubelli, A. A., Bandopadhayay, P.,
+Vazquez, F., Wong, B., … Chase, C. (2019). HHS Public Access. 560(7718),
+325-330\. https://doi.org/10.1038/s41586-018-0409-3.Genetic
+
+

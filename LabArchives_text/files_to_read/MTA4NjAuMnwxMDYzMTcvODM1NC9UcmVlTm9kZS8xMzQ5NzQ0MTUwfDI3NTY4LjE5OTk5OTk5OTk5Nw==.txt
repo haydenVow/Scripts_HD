@@ -1,0 +1,26 @@
+StepHalt run and remove bioreactors  
+Operator nameAV  
+Time-stamp13:40  
+Protocol
+
+  1. Follow prompts to disengage bioreactors (not borrow, but unload)
+  2. Unscrew headplates and remove pH port connection from hardware. Gently remove reactors and place in biohazard clinical waste
+  3. Turn off TCU at the switch on the equipment
+  4. Follow onscreen prompts to 're-use' bioreactors and export data
+  5. Load exported data onto USB
+  6. Close AMBR runtime software
+  7. Spray lint-free wipe with EtOH and clean AMBR hardware including reservoir and reactor ports
+  8. See attached for run data
+
+  
+  
+Deviations & notes
+
+*Note: only BR 1 and 3 were unloaded as they were performing poorly. The counts had doubled for BR 2 and 4, so it might be interesting to leave them for the time being to see how they go. Enough feed media was available and the foam level looked fine to leave unattended for a few days.
+
+Data was successfully exported onto the desktop (Select user 'ambr' >
+Documents > ambr 250 > Experiments > Vow draft process 2022-06-14 (export 1))  
+  
+References  
+
+

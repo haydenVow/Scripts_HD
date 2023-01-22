@@ -1,0 +1,101 @@
+
+
+PCR amplification using BENTOLAB
+
+PCR amplification was performed on DNA samples extracted from cell pellets
+taken on 25/02/2022. These amplifications were done alongside DNA extractions
+in EPIC30283 from Mar-2 till Mar-4. These activities were included in lab book
+entries within this EPIC.  
+  
+See entries below for methods.  
+  
+PCR amplifcation
+
+
+
+
+## Results
+
+Lane order
+
+Lane  
+Primer pairs  
+GC enhancer  
+Band present  
+  
+1  
+none (100bp ladder)  
+No  
+Yes  
+  
+2  
+P1 + P2 PABPC1 guide 2  
+Yes  
+Yes  
+  
+3  
+P1 + P42 PABPC1 guide 2  
+Yes  
+No  
+  
+4  
+P41 + P2 PABPC1 guide 2  
+Yes  
+Yes  
+  
+5  
+P41 + P42 PABPC1 guide 2  
+Yes  
+No  
+  
+6  
+P11 + P12 PTEN guide 2  
+Yes  
+No  
+  
+7  
+P11 + P40 PTEN guide 2  
+Yes  
+No  
+  
+8  
+P39 + P12 PTEN guide 2  
+Yes  
+Yes  
+  
+9  
+P39 + P40 PTEN guide 2  
+Yes  
+Yes  
+  
+10  
+P15 + P16 AQP1 guide 2  
+Yes  
+Yes  
+  
+11  
+P17 + P18 - FASLG guide 1/2  
+Yes  
+Yes  
+  
+12  
+P7 + P8 IGFBP4 (known pos control)  
+No  
+Yes  
+  
+  
+  
+
+
+
+
+
+
+
+## Observations
+
+The Quick extract DNA sample used of CHOMP 07 was quite viscous, as a result
+it was difficult to tell if 1uL was pipetted, some volumes of DNA template
+added may be between 0.5 and 1uL.
+
+

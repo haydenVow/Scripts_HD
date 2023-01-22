@@ -1,0 +1,290 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Bec/Eva
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+9 x T175
+
+8866-DOLLY12-Sheep P6-1of3
+
+8867-DOLLY12-Sheep P6-2of3'
+
+8868-DOLLY12-Sheep P6-3of3
+
+8857-DOLLY12 -Sheep P9-1of3
+
+8861-DOLLY12 -Sheep P9-2of3
+
+8862-DOLLY12 -Sheep P9-3of3
+
+8863-C2C12-Mouse P4-1of3
+
+8864-C2C12-Mouse P4-2of3
+
+8865-C2C12-Mouse P4-3of3
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM7509  
+  
+TrypleM7713  
+  
+dPBS (for washing & neutralising)M7941  
+  
+Growth MediaA7523  
+  
+p38i (20mM stock)M7354  
+  
+  
+  
+
+
+
+
+###
+
+  
+
+12 x 96 wp will have this arrangement
+
+### 4 x 96 wp will have this arrangement:
+
+###
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated   16     x     96wp   \+ 1 x 2CF and 4 x 24wp  vessel with
+sterile filtered 0.1% gelatin solution and then incubated all coated flasks at
+37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       :   a/pm (3 November 2021) 
+  2. 1 x 2CF and 4 x 24wp  : 11:56am 4/11/21
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  dPBS (for washing; needs to be warmed):    90     mL in    3 x 50ml    tubes  
+
+  2. TrypLE (warmed):    90     mL in     3 x 50ml    tubes
+  3.  dPBS (for neutralising) (does NOT need to be warmed):    90     mL in    3 x 50ml    tubes
+  4. Growth media (for pellet resuspension):    12    mL in    1 x 15ml    tube
+  5. Growth media (for seeding):    70 ml (C2C12) + 14 ml (MCB) + 84 ml (WCB)
+
+Time that all aliquots were placed in the water bath the warm before use
+13:05   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     14:00 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    10     mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:05 - 14:22  a/pm 
+
+7\. Neutralised with    10      dPBS and combined cell suspension into    2 x
+50ml  tube/ cell line (in total 6 tubes each containing 30 ml).
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    14:31 - 14:36 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   6 ml (C2C12); 1 ml (MCB); 3 ml (WCB)   mL
+DMEM/F12 + 20% FBS + 1x P/S + p38i   media     15:10 pm
+
+11\. Aliquoted    10 uL   of resuspended cells into a microcentrifuge tube for
+cell count (For EVERY cell line).
+
+
+
+
+C2C12
+
+
+
+
+DOLLY12 MCB
+
+
+
+
+DOLLY12 WCB
+
+
+
+
+13\. Transferred    482 uL (C2C12); 285 uL (DOLLY12 MCB); 1.32 ml (DOLLY12
+WCB) µl of cell suspension to the pre-warmed     70 ml (C2C12); 14ml (DOLLY12
+MCB); 84ml (DOLLY12 WCB) mL Growth media:      16:00 pm
+
+14\. Transferred cell suspension into the pre-gelatin coated      96 wp
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      16:25  \-
+16:55 pm (MCB vs. WCB plates); 17:00 - 17:45 (DOLLY12 WCB); 17:35- 18:10
+(DOLLY12 C2C12)  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+CELL & MEDIA REQUIREMENTS:
+
+Growth media for C2C12: 54 wells/ plate * 6 plates * 0.2 ml/well = 64.8 ml
+needed (Aliquot 70 ml of growth media)
+
+C2C12 cells: 750 cells/well / 0.2ml/well = 3750 cells/ml * 70 ml (aliquotted
+growth media) = 262.5 K cells
+
+  
+
+Growth media for DOLLY12 MCB: 16 wells/plate * 4 plates * 0.2ml/well = 12.8 ml
+(Aliquot 14 ml of growth media)
+
+DOLLY12 MCB cells: 2000 cells/well / 0.2ml/well= 10 000 cells/ml * 14ml = 140
+K cells
+
+  
+
+Growth media for DOLLY12 WCB: 70 ml + 14 ml = Aliquot 84 ml of growth media
+(including excess)
+
+DOLLY12 WCB cells: 2000 cells/well / 0.2ml/well= 10 000 cells/ml * 84 = 840 K
+cells
+
+  
+
+  
+
+Cell expansion / nutrition expansion cell requirement:
+
+  
+
+DOLLY MCB
+
+1 x 24wp = seeding density of 1000 cells/cm2 =  45 600cells = 0.092 mL
+
+1 x 24wp = seeding density of 6000 cells/cm2 = 273 600 cells (leftover)  = ~
+0.648
+
+  
+
+C2C12
+
+1 x 24wp = seeding density of 500 cells/cm2  =22800  cells =
+0.04191176470588235 mL
+
+1 x 24wp = seeding density of 7000 cells/cm2 = 273 600 cells = 0.502 mL
+
+1 x 2CF = 700K cells = 1.29 mL
+
+1 x 4CF = 1.4M cells = 2.58 mL
+
+  
+
+
+
+
+Observations/Summary:
+
+n/a
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+n/a
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

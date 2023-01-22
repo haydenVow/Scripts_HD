@@ -1,0 +1,135 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: BT LL AG  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+CHOMP07 WCB: 3753-Culture-8697-Vial-120of120  
+CHOMP09 WCB: 3610-Culture-8616-Vial-40of40  
+CHOMP09 MCB: 3493-Culture-8053-Vial-23of26  
+CHOMP07 MCB 3466-Culture-7999-Vial-22of25  
+8887-F_CHOMP_09-Crocodile P-1of7  
+8888-F_CHOMP_09-Crocodile P-2of7  
+8889-F_CHOMP_09-Crocodile P-3of7  
+8890-F_CHOMP_09-Crocodile P-4of7  
+8891-F_CHOMP_09-Crocodile P-5of7  
+8892-F_CHOMP_09-Crocodile P-6of7  
+8893-F_CHOMP_09-Crocodile P-7of7  
+96-WP  
+
+
+  
+  
+  
+  
+
+Prepare materials for thaw and seed:
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   DMEM/F12 +20% FBS + 1x p/s31.36mL  
+DMEM/F12 +10% FBS + 1x p/s15.68mL  
+DMEM/F12 +20% KSR + 1x p/s + BULLET7.84mL  
+DMEM/F12 +20% KSR + 1x p/s + FRESH7.84mL  
+DMEM/ F12 + 20% KSR +1 x p/s7.84mL  
+FIBROLIFE +20% KSR + 1x p/s + FRESH7.84mL  
+  * Time that aliquot was placed in the water bath to warm before use:   14:45
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+Collected the cryovial from Liquid Nitrogen storage & place in foam floater in
+water bath
+
+CHOMP09 MCB: 3493-Culture-8053-Vial-23of26, 500K, tower 6, box 4, C5
+15:50-15:53  
+CHOMP07 MCB 3466-Culture-7999-Vial-22of25, 500K, tower 4, Box3, C4 15:50-15:53  
+
+CHOMP09 WCB: 3610-Culture-8616-Vial-40of40  16:20-16:23
+
+CHOMP07 WCB: 3753-Culture-8697-Vial-120of120 16:26-16:29  
+  
+
+  1. `Ethanol sprayed & transferred the vial(s) to the BSC.```
+  2. `Added 500µL of Growth Media (DMEM/F12 + 20% FBS) to each MCB and  1000µL of Growth Media (DMEM/F12 + 20% FBS)  to each WCB vial (to generate a total volume of 1mL in MCBs and 2mL in WCBs in the cryovial), resuspended the cell suspension gently to reduce osmotic shock. `
+  3. `Took a 10ul sample from each via to perform cell count, and performed trypan blue/haemocytometer count. See spreadsheet here: https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0`  
+``Total cells CHOMP09 MCB: 784,000  
+Total cells CHOMP09 WCB: 3,536,000  
+Total cells CHOMP07 MCB: 580,000- 562,500 cells given to Varshana, lab book
+here:  
+Total cells CHOMP07 WCB: 4,232,000- 562,500 cells given to Varshana, lab book
+here:  
+  
+Cells required (with additional wells per cell type additional to account for
+error)  
+Calculations based on 6 wells per row + 2 wells error x 7 plates, 7,500
+cells/cm, 140ul per well= 134,400 cells in 7840mL  
+CHOMP09 MCB: 2 Rows (171ul cell suspension/tube) in 2 x 7840 mL  
+CHOMP09 WBC: 6 Rows (38ul cell suspension/tube) in 6 x  7840 mL  
+CHOMP07 MCB: 1 Rows (231ul cell suspension/tube)  in  1 x 7840 mL  
+CHOMP07 WCB: 1 Rows (32ul cell suspension/tube) in 1 x 7840 mL
+
+``
+
+``
+
+`8. Transferred   140mL to each well of 7x 96 well plates, following the plate
+map below `
+
+`9. Transferred flask/plate(s) to incubate at: `
+
+  * [x ]  30ºC, 5% CO2 (mammalian cells) 16:45
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+Cells were seeded following the diagram below  
+  
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

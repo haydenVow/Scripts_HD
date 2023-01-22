@@ -1,0 +1,290 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+DMEM  
+S4883  
+  
+F12  
+S3999  
+  
+KSR  
+S5828  
+  
+P/S  
+S3900  
+  
+FGF-b (Peprotech)  
+M9371  
+  
+BSA  
+S361  
+  
+RPMI 1640  
+M12749  
+  
+Hycell CHO + Nuvonis ingredients (NO GFS)  
+M12736  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Plate coating
+
+  1. Collagen coated using 50ug/ml solution of Type I collagen (porcine). 81ul of 6.17my/ml stock added to 10ml 15mM acetic acid. 50ul of this working solution added per well to give 5ug/cm coating  
+
+  2. Jellagen coated using 50ug/ml solution of Jellyfish Type 0 collagen. 127ul of 3.9mg/ml stock added to 10ml 15mM acetic acid. 50ul of this working solution added per well to give 5ug/cm coating
+  3. Poly-Lysine coated using 500ug/ml solution. 1.92mg polylysine hydrobromide in 6ml dPBS. 50ul added per well to give 50ug/cm
+  4. All plates incubated for 2h in 37C incubator  
+
+  5. Coatings removed and washed with PBS. Allowed to dry in hood prior to addition of cells
+
+Aliquotted 50mL of DMEM and 50mL of F12 (see above for Stock ID) into 120mL
+urine container.
+
+
+
+
+  
+
+BSA (-)
+
+BSA (.)
+
+BSA (+)
+
+ITS (-)
+
+ITS (.)
+
+ITS (+)
+
+FGF-2 (-)
+
+FGF-2 (.)
+
+FGF-2 (+)
+
+KSR (-)
+
+KSR (.)
+
+KSR (+)  
+  
+DMEM/F12
+
+7920
+
+7920
+
+7920
+
+7860
+
+7840
+
+7820
+
+7919.2
+
+7918.4
+
+7917.6
+
+7760
+
+7120
+
+6320  
+  
+P/S
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80  
+  
+Ingredient
+
+18.4mg (10% serum)
+
+36.8mg (20% serum)
+
+184mg (100% serum)
+
+60
+
+80 (1X)
+
+100
+
+0.8
+
+1.6
+
+2.4
+
+160
+
+800
+
+1600  
+  
+Vit. C
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+80
+
+
+  
+  
+*All BSA conditions were sterile filtered.
+
+  1. Vit C 100X stock was made by adding 15mg to 1mL of DMEM. Adding 80uL to each 8mL tube would generate a 1X concentration in solution.
+  2. All Conditions were levelled at 6mL to ensure same volume for seeding.
+  3. All Controls were levelled at 1.5mL to ensure same volume for seeding.
+
+Controls:
+
+  * D/F + 20% FBS - 80uL of P/S was added and 80uL of Vit C was added to 7920 uL
+  * OptiPRO - 80uL of P/S was added to 7920 uL of OptiPRO + Glutamax (1X)
+  * DMEM/F12 - 80uL of P/S and 80uL of Vit C was added to 7920uL of DMEM/F12 basal media
+  * DMEM/F12 + FGF-2 + BSA + 1X P/S + 1X ITS (middle concentration of all additives)
+
+
+
+
+Seeding:
+
+  1. After talking to Zoe:  
+Hey @Shaleen,  
+Culture ID: 12536  
+Volume of sample taken for cell count: 550 uL  
+Total volume of culture: 119.5 mL  
+Previous cell count density: 0.646 M cells/mL
+
+  2. Culture 12536 was counted by aliquotting 550uL of culture media (16:08) and counting using the ViCell XR instrument. A count of 1.43M cells per mL was determined.
+  3. A seeding density of 5000 cells per well is desired. 160,000 cells would need to be in each tube to seed out 4 x columns across 4 plates. Hence, 1,430,000/160,000 = 8.9375. 1000uL/8.9375 = 112uL. 112uL of culture media was taken from the E500 and placed into each condition tube containing 6mL of conditioned media. 40,000 cells would need to be in each tube to seed out 1 x column for each control. Hence, 112/4 = 28 uL. 28uL of culture media was taken from the E500 and placed into each control tube containing 1.5mL of control media.
+  4. E500 was placed back into incubator (17:15)
+  5. Plates were seeded one by one using single channel pipette to ensure homogeniety with density at 150uL of suspension per well as per exp. plan layout. Cultures were placed in Bottom Sanyo in Main Lab (17:40)
+  6. Hycell and RPMI was sourced adhoc from fridges as suspension media was not available. These were combined in 50/50 (750uL each) to make 1.5mL of suspension media for the control plate.
+
+
+
+
+Cultures seeded
+
+Vessel type  
+  
+12549-Nuvonis Quail Suspension341-P-1of5
+
+96 well plate  
+  
+12550-Nuvonis Quail Suspension341-P-2of5
+
+96 well plate  
+  
+12551-Nuvonis Quail Suspension341-P-3of5
+
+96 well plate  
+  
+12552-Nuvonis Quail Suspension341-P-4of5
+
+96 well plate  
+  
+12553-Nuvonis Quail Suspension341-P-5of5
+
+96 well plate
+
+
+  
+  
+Observations/Summary:
+
+\- Cell suspension was accidentally transferred to A12 for KSR (-) condition
+in Lysine and Jellagen coated plates. Cell suspension was transferred from A12
+to A1 to rectify this.
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

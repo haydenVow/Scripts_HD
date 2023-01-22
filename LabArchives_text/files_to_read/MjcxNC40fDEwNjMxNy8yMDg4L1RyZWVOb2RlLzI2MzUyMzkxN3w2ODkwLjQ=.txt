@@ -1,0 +1,239 @@
+
+
+# Team
+
+Project Lead: Chris
+
+Strategic Second: Ella
+
+Primary Team:Kylie, Jared, Shaleen
+
+Additional Support: Derek, Tim
+
+# Insert Teamphoto here:
+
+# T-Shirt sizes: Chris M, Shaleen XL, Tim M, Kylie XS, Derek?soroush?
+
+#  
+
+#  
+Objective: Develop a process to improve myoblast maturation.
+
+  
+
+  
+
+  1. KR1: Increase myosin protein content by 2x.
+    1. 0.25  = design concept is in place and parts have arrived
+    2. 0.5    = platform is built and characterised 
+    3. 0.75  = platform has been tested with cells and significant improvement in myosin content observed 
+    4. 1.0    = myosin content increased by 2x 
+  2. KR2: Achieve >60% of MyoG positive cells
+    1. 0.1     = Repeat current best media candidates in planar culture, comparison with ACF
+    2. 0.25   = Identify a minimum of 2 additional media components to improve maturation 
+    3. 0.5     = DSD has been designed in JMP and experimental work commenced 
+    4. 0.75   = DSD/s has/have been completed and an improvement in MyoG observed
+    5. 1.0     = 60% MyoG positive cells achieved
+
+  
+
+  
+
+Notes from Strategy day: https://www.notion.so/vow/Muscle-
+project-1f474f52e40249999e6fde02f2eaf128
+
+# Project: Muscle Stem Cells
+
+Why is it important?
+
+To grow protein at a scale sufficient to feed >8 billion people every day, we
+need to maximise the protein yield per cell. The best protein/cell yield comes
+from muscle, but only if we can produce large, mature muscle fibres.
+
+What are the problems?
+
+  * How do we grow myoblasts in suspension?
+  * How do we increase the rate and efficiency of myoblast differentiation, fusion and maturation?
+  * How do we induce myotube hypertrophy?
+  * How do we do all of the above in ACF media?
+
+Possible Objective
+
+  * To generate a mature muscle product in ACF media
+
+What do we want to achieve today?
+
+1\. Define ONE clear objective per team
+
+Successful completion of the objective MUST (less words the better) progress
+our long-term strategic vision for feeding billions of people (Muscle)
+
+2\. Define (no more than) THREE key results per team
+
+Successful completion of all key results MUST be linked to successful
+completion of the objective
+
+3\. Surface some of our riskier ideas for discussion  
+
+Let go of your inner skeptic! What are the experiments that no-one has ever
+tried before?
+
+4\. Come up with a team name and logo
+
+Be creative, reflect the team. $200 swag budget
+
+# Q3 objective
+
+Each team will break off and have 1hr to discuss objectives
+
+Successful completion of our objective MUST:
+
+  * Progress our long-term strategic vision for feeding billions of people (Muscle)
+
+(Note: Less is more when it comes to words needed to define the objective!)
+
+What is the most impactful work we can produce this Quarter?
+
+  1. Shaleen: 
+    1. factors to improve maturation in a scalable vessel, scale protein productions, media components, knowledge
+  2. Kylie: 
+    1. grow mature MuSc at scale (on scaffolds in suspension)
+  3. Jared: 
+    1. implement a tool to assess muscle protein content, work towards ACF, pipeline to enable testing of various stimuli in parallel
+  4. Ella: 
+    1. media comp. to improve mat., we need to start seeing significant improvements in differentiation, bioreactor development, scaffold exploration, tools to assess protein content
+    2. Media components to improve maturation (only seen expression of around 20% in serum controls, and no differentiation in ACF with DOLLY12) - this work could give some really nice images
+    3. Bioreactor design (e.g. implementing electrical or mechanical stim) also impressive to investors, unique product
+    4. Continued scaffold (external companies or internal fibro ecm sheets) or gel encapsulation (animal or recombinant gels) screening (and in line with this also the continued development of a method to assess differentiation in/on materials)
+  5. Chris: 
+    1. Improve protein expression of myoblast cultures x-fold
+
+What questions do we need to answer to achieve this outcome?
+
+  1. we need tools: ELISA pipeline, Western Blotting, Fluorescent Imaging
+  2. are we looking at the right protein to assess? MF20 and MyoG is all we are staining for right now
+  3. Reactor for stimulation
+  4. parallel testing using multiple (smaller) reactors to assess effect of different stimuli in parallel, HTS reactor pipeline (DOE)
+  5. ELISA and Image analysis automation (OT and software)
+  6. custom design for DOE
+  7. cost (for materials and number of experiment)
+  8. commercial systems we can use to learn or adapt for our purposes (deNovo Matrix screening plates)
+
+  
+
+# Team name and logo
+
+Name: Gains and Heavy Chains
+
+Logo:
+
+  
+
+  
+
+Swag type: T-Shirt, Mask, Flag/Banner? Cups/Mugs, Pins, phone case, Jumper,
+
+5 shirts and a onesie in BLACK & GOLD
+
+#  
+
+# Q3 key results
+
+Each team will break off and have 1.5hrs to discuss key results
+
+Successful completion of all key results MUST be linked to successful
+completion of the objective ''Develop a process to improve myoblast
+maturation.''
+
+(Note: Use your SMART framework experience to set good, strong key results)
+
+  * for all 2-3 KRs: if we achieve all our KRs, have we achieved our objective?
+  * KRs are independent of monthly milestone framework, no need to talk about EPICs (Take note only for later discussion)
+  * use SMART framework to set KRs: how do we score ourselves on progress towards achieving the KR?
+
+Specific (simple, sensible, significant).
+
+Measurable (meaningful, motivating).
+
+Achievable (agreed, attainable).
+
+Relevant (reasonable, realistic and resourced, results-based).
+
+Time bound (time-based, time limited, time/cost limited, timely, time-
+sensitive).
+
+  
+
+KR1:  Develop a high-throughput testing platform to increase myosin content by
+2x using electrical/mechanical stimulation.
+
+Notes:
+
+  1. Plate assay, lid with electrodes/mechanical, autoclavable, sterile, control infrastructure outside the incubator, scalable, transferable to scaffolds, silicone?, use DoE to set up experiments, scalable. What are we quantifying in terms of maturation? Consideration = ELISA should be set up for analysis of MF20, PAX7. Gel contraction could be included in this as the mechanical stimulation.
+  2.  \- Metric by which we measure this improvement may change! Can use the alignment analysis tools in ImageJ as part of our measurement. ELISA total amount of myosin present. Western blotting
+
+KR2: Use DoE to optimise media conditions to achieve 60% of MyoG positive
+cells (3x improvement)
+
+Notes:
+
+  1. Test this with at least two species (probably DOLLY and BUFFY, maybe KUZCO or other) NOTE \- Metric by which we measure this improvement may change!
+  2.  ACF and Serum tested in parallel? NOTE \- Check with Marie on DSD set-up, baseline, and components for diff
+  3.  ELISA needs to be set-up NOTE\- DenovoMatrix (screening plate)
+  4. Test with scaffolds
+  5. Tool development: ELISA pipeline in place for assessing maturation Alignment tool in Image J
+  6. cell line? Dolly, Kuzco, Buffy, clonal or heterogeneous?
+
+# High-reward activities
+
+Does not have to be related to OKR, but Vow`s longterm mission
+
+  * New scaffold exploration/screening
+  * Testing MuSCs in gels
+
+Jared's ideas:
+
+  * Alignment studies
+  * Drink cells (energy drink/protein shake!)
+  * Collagen as a scaffold (recombinant made in yeast)
+  * MuSC fibroblast co-culture
+  * Hormesis ? Induce stress to increase yield/decrease apoptosis, light therapy
+
+Kylie's ideas:
+
+  * Work with the food team more to develop scaffolds
+  * Screen new scaffolds
+  * Experiments on flavour and colour of media
+  * Testing of media expiration limits (recycle it?) and light sensitivity
+  * Automating media feeds
+
+Chris's ideas: Microcarrier Synthesis in house:
+
+  * supply chain independence and cost savings
+  * independent product line to sell
+  * modify MC matrix and coating to tailor properties (edible MCs, tailored surface for each cell line)
+  * gentle and efficient harvest methods
+
+Shaleen's ideas:
+
+  * Proliferation on microcarriers in an E2000
+  * Getting muscle cells adapted to suspension with anti-clumping agents
+  * MuSC fibroblast co-culture just in a Tflask together (seed fibros lower)
+
+* * *
+
+Ella's ideas:
+
+  * Screen scaffolds from external providers as they come in (Gelatex, Danagreen, Tantti, Inovenso, Matrix Meats)
+  * Continue optimisation of fibroblast cell sheets for scaffolds
+  * Use of recombinant/animal proteins to suspend cells in gels (collagen, fibrin and thrombin)
+  * Work with chefs/food team and plant based products to generate new in-house scaffolds (porous)
+  * Tension based growth of fibroblasts as scaffolds - form thick bands between pins - progressively move apart? Pins could also be electrodes?
+  * Use of articifical bone in products (replace pins, stiff substrate to guide cells, could also be micro patterned)
+  * Spin coated materials on micro patterned surfaces - alignment
+  * Protein assays and western blots
+  * Self assembly/organoid culture
+
+  
+
+

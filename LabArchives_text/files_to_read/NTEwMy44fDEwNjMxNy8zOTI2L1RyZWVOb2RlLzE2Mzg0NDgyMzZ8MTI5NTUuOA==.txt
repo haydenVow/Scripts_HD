@@ -1,0 +1,296 @@
+  
+  
+## Completed by:
+
+
+
+
+Raw data saved here:
+https://drive.google.com/drive/folders/1zYAtHfkcnp0l7dklYAd38MgivmbB_Y1g?usp=sharing
+
+Images could not be processed due to debris contaminating the blue channel on
+the following days:  
+  
+  
+
+DateDayPlateNotes  
+30-Sep-2021171-4  
+  
+04-Oct-2021213-4  
+  
+07-Oct-2021241-4  
+  
+14-Oct-2021311  
+  
+14-Oct-2021313  
+  
+14-Oct-2021  
+314  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+
+Table 1: Group names and corresponding media for the F_DOLLY12 ANOVA and
+Fisher's LSD test.
+
+GroupMedium  
+ADMEM/F12 + 0.05% Pluronic  
+BDMEM/F12 + 0.1% Pluronic + 10% FBS  
+CDMEM/F12 + 1:100 anti-clumping agent + 0.1% Pluronic + 10% KSR  
+DDMEM/F12 + 1:100 anti-clumping agent + 5% KSR + 10% FBS  
+ERPMI + 1:100 anti-clumping agent + 0.1% Pluronic  
+FRPMI + 1:100 anti-clumping agent + 5% FBS  
+GRPMI + 1:200 anti-clumping agent + 0.05% Pluronic + 5% KSR + 5% FBS  
+HRPMI + 1:200 anti-clumping agent + 0.1% Pluronic + 10% KSR + 10% FBS  
+IRPMI + 10% KSR  
+  
+  
+
+  
+
+Table 2: Results of Two-way ANOVA and Fisher's LSD for total cell count versus
+time for F_DOLLY12 conditions. Family-wise significance and confidence level
+was set at α = 0.05.
+
+  
+
+Uncorrected Fisher's LSDMean Diff.95.00% CI of
+diff.Significant?SummaryIndividual P Value  
+  
+  
+  
+  
+  
+  
+  
+  Row 1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Row 2  
+  
+  
+  
+  
+  
+    Group B vs. DMEM/F12 + 0.05% Pluronic5911-3692 to 15514Nons0.1179  
+    Group B vs. Group C4747-4430 to 13924Nons0.1633  
+    Group B vs. Group D5924-3678 to 15527Nons0.1174  
+    Group B vs. Group E5798-3802 to 15397Nons0.1217  
+    Group B vs. Group F4682-4875 to 14239Nons0.1704  
+    Group B vs. Group G5073-4496 to 14643Nons0.1506  
+    Group B vs. Group H5816-3783 to 15414Nons0.1211  
+    Group B vs. RPMI + 10% KSR-3307-12688 to 6075Nons0.3816  
+  
+  
+  
+  
+  
+  
+  
+  Row 3  
+  
+  
+  
+  
+  
+    Group B vs. DMEM/F12 + 0.05% Pluronic-66.7-229 to 95.8Nons0.2980  
+    Group B vs. Group C35.6-70.2 to 141Nons0.3993  
+    Group B vs. Group D-247-838 to 345Nons0.2270  
+    Group B vs. Group E4.44-119 to 128Nons0.9245  
+    Group B vs. Group F-93.3-205 to 18.1Nons0.0807  
+    Group B vs. Group G-129-565 to 307Nons0.3618  
+    Group B vs. Group H-169-330 to -7.60Yes*0.0443  
+    Group B vs. RPMI + 10% KSR20.0-102 to 142Nons0.6710  
+  
+  
+  
+  
+  
+  
+  
+  Row 4  
+  
+  
+  
+  
+  
+    Group B vs. DMEM/F12 + 0.05% Pluronic-1020-2020 to -20.4Yes*0.0482  
+    Group B vs. Group C-196-593 to 202Nons0.1685  
+    Group B vs. Group D-1000-1881 to -119Yes*0.0395  
+    Group B vs. Group E-15.6-47.1 to 16.0Nons0.1852  
+    Group B vs. Group F-66.7-115 to -18.3Yes*0.0263  
+    Group B vs. Group G-1207-1933 to -481Yes*0.0190  
+    Group B vs. Group H-324-1232 to 584Nons0.2641  
+    Group B vs. RPMI + 10% KSR-4.44-30.0 to 21.1Nons0.5813  
+  
+  
+  
+  
+  
+  
+  
+  Row 5  
+  
+  
+  
+  
+  
+    Group B vs. DMEM/F12 + 0.05% Pluronic705-378 to 1787Nons0.1146  
+    Group B vs. Group C300-763 to 1363Nons0.3877  
+    Group B vs. Group D744-402 to 1891Nons0.1097  
+    Group B vs. Group E383-727 to 1493Nons0.3921  
+    Group B vs. Group F647-469 to 1763Nons0.1361  
+    Group B vs. Group G276-770 to 1321Nons0.4225  
+    Group B vs. Group H831-332 to 1994Nons0.0919  
+    Group B vs. RPMI + 10% KSR-302-2296 to 1692Nons0.6585  
+  
+  
+
+Table 3: Group names and corresponding media for the F_NANDO3 ANOVA and
+Fisher's LSD test.
+
+GroupMedium  
+ADMEM/F12 + 0.1% Pluronic + 10% KSR + 5% FBS  
+BDMEM/F12 + 1:100 anti-clumping agent + 0.1% Pluronic + 10% FBS  
+CDMEM/F12 + 1:200 anti-clumping agent  
+DDMEM/F12 + 1:200 anti-clumping agent + 0.05% Pluronic + 5% KSR + 5% FBS  
+EDMEM/F12 + 10% KSR + 10% FBS  
+FRPMI + 0.05% Pluronic + 5% KSR  
+GRPMI + 1:100 anti-clumping agent + 0.05% Pluronic + 10% KSR + 10% FBS  
+HRPMI + 1:100 anti-clumping agent + 10% KSR  
+IRPMI + 10% FBS  
+  
+Table 4: Results of Two-way ANOVA and Fisher's LSD for total cell count versus
+time for F_NANDO3 conditions. Family-wise significance and confidence level
+was set at α = 0.05.
+
+  
+
+Uncorrected Fisher's LSDMean Diff.95.00% CI of
+diff.Significant?SummaryIndividual P Value  
+  
+  
+  
+  
+  
+  
+  
+  Row 1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Row 2  
+  
+  
+  
+  
+  
+    Group B vs. Group A122-319 to 564Nons0.3690  
+    Group B vs. Group C-133-510 to 243Nons0.3654  
+    Group B vs. Group D-927-1649 to -205Yes*0.0264  
+    Group B vs. DMEM/F12 + 10% KSR + 10% FBS-313-693 to 66.7Nons0.0826  
+    Group B vs. RPMI + 0.05% Pluronic + 5% KSR-158-752 to 437Nons0.4794  
+    Group B vs. Group G116-317 to 548Nons0.3910  
+    Group B vs. Group H-371-1628 to 886Nons0.3756  
+    Group B vs. RPMI + 10% FBS-373-821 to 74.0Nons0.0701  
+  
+  
+  
+  
+  
+  
+  
+  Row 3  
+  
+  
+  
+  
+  
+    Group B vs. Group A20.0-19.1 to 59.1Nons0.1696  
+    Group B vs. Group C-42.2-160 to 75.9Nons0.2994  
+    Group B vs. Group D-75.6-249 to 97.7Nons0.2160  
+    Group B vs. DMEM/F12 + 10% KSR + 10% FBS11.1-36.4 to 58.6Nons0.5404  
+    Group B vs. RPMI + 0.05% Pluronic + 5% KSR-113-285 to 58.6Nons0.1104  
+    Group B vs. Group G-13.3-48.7 to 22.1Nons0.3506  
+    Group B vs. Group H-2.22-49.8 to 45.3Nons0.8998  
+    Group B vs. RPMI + 10% FBS-95.6-230 to 38.9Nons0.0984  
+  
+  
+  
+  
+  
+  
+  
+  Row 4  
+  
+  
+  
+  
+  
+    Group B vs. Group A-37.8-129 to 53.2Nons0.2406  
+    Group B vs. Group C-889-2450 to 672Nons0.1340  
+    Group B vs. Group D-653-1405 to 98.8Nons0.0648  
+    Group B vs. DMEM/F12 + 10% KSR + 10% FBS6.67-22.0 to 35.4Nons0.4226  
+    Group B vs. RPMI + 0.05% Pluronic + 5% KSR-482-2442 to 1478Nons0.4009  
+    Group B vs. Group G-731-2416 to 954Nons0.2030  
+    Group B vs. Group H6.67-22.0 to 35.4Nons0.4226  
+    Group B vs. RPMI + 10% FBS-856-1349 to -362Yes*0.0174  
+  
+  
+  
+  
+  
+  
+  
+  Row 5  
+  
+  
+  
+  
+  
+    Group B vs. Group A-87.0-253 to 79.3Nons0.1807  
+    Group B vs. Group C10441.5 to 167Yes*0.0111  
+    Group B vs. Group D-1218-2307 to -129Yes*0.0405  
+    Group B vs. DMEM/F12 + 10% KSR + 10% FBS-1645-3738 to 448Nons0.0775  
+    Group B vs. RPMI + 0.05% Pluronic + 5% KSR-318-495 to -141Yes*0.0127  
+    Group B vs. Group G93.028.3 to 158Yes*0.0208  
+    Group B vs. Group H-785-2227 to 657Nons0.1445  
+    Group B vs. RPMI + 10% FBS-2167-2333 to -2001Yes****<0.0001
+
+

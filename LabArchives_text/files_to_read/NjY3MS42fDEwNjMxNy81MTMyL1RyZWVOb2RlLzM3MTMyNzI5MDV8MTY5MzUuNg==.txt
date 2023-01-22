@@ -1,0 +1,126 @@
+
+
+Key Findings
+
+  1. Fibroblasts in DMEM/F12 + 10-20% KSR appeared to proliferate faster than those in DMEM/F12 + 10% FBS medium, based on micrographs. However, the formation of cell sheets during growth made a single cell suspension impossible to achieve, and therefore no cell count could be obtained. This sheet formation is likely a result of the vitamin C content of KSR. 
+  2. Fibroblasts in medium containing DMEM/F12 + 10-20% KSR did not re-adhere after passaging, and subsequently died 
+  3. Fibroblasts in DMEM/F12 + 5% KSR + 5% FBS medium had a greater proliferative ability than those in DMEM/F12 + 10% FBS medium
+  4. Fibroblast proliferative ability declined after FBS concentration fell below 5%. Fibroblasts in DMEM/F12 + 9% KSR + 1% FBS ceased proliferating.  
+  5. Fibroblasts were unable to be successfully adapted to serum-free medium using KSR. 
+
+
+
+
+Discussion
+
+In order to feed billions of people, we need to produce cells at mass scale.
+Achieving this with adherent cultures is expensive and inefficient. We
+therefore need to adapt our anchorage-dependent, primary cells to grow in
+suspension culture.
+
+Foetal bovine serum (FBS) is a constituent of most media used for the culture
+of animal cells, however, it is imperative that we move away from this
+ingredient at Vow. For one, it is an animal-derived product, and therefore
+does not align with our ethical goal to produce a product grown in entirely
+xeno-free medium. For another, FBS contains proteins such as fibronectin and
+vitronectin which actively encourage cell adhesion [1], thereby further
+inhibiting suspension adaptation.
+
+There are multiple approaches to adapting cells to grow in serum-free medium
+and suspension culture. The method trialled in this experiment was adapting
+cells to serum-free growth medium in adherent culture, before transferring
+cells to suspension culture. We used Knockout Serum Replacement (KSR) for this
+adaption: a defined, xeno-free, commercially available product designed to
+replace FBS.
+
+In the initial trial, sheep fibroblasts (F_DOLLY12) were thawed directly into
+DMEM/F12 + 20% KSR. Before the first passage, cells appeared to be healthy and
+had grown to ~80% confluence (figure 1). During the dPBS wash and tryplisation
+steps, it became clear that the cells had formed a sheet while growing (figure
+2), and were impossible to break up into a single-cell suspension. We were
+thereby unable to procure an accurate cell count. Furthermore, cells that were
+re-plated after passaging did not remain viable (figure 3), and so the culture
+was discarded. It was hypothesised that the formation of sheets was due to the
+presence of ascorbic acid 2-PO4 (vitamin C) in KSR [2]. Vitamin C up-regulates
+the expression of extracellular matrix such as collagen, which promotes cell
+to cell adhesion [3]. The low survival rate of cells in 20% KSR medium after
+being passaged is likely due to their inability to firmly re-adhere to the
+cell-culture surface while suspended in a cell sheet.
+
+For the second trial, the percentage of KSR in the growth medium was reduced
+to 10% to reduce the concentration of Vitamin C. A slow adaptation approach
+was also trialled by gradually decreasing FBS concentration while
+simultaneously increasing KSR concentration. F_DOLLY12 cells were thawed into
+two conditions: DMEM/F12 + 10% FBS and DMEM/F12 + 10% KSR. As seen in the
+first trial, fibroblasts thawed directly into 10% KSR appeared healthy on
+microscopic examination and grew to ~90% confluence (figure 4). In fact, they
+appeared to grow faster than cells in 10% FBS medium; within the same
+timeframe FBS cells had reached ~80% confluence (figure 5). However once
+again, the cells in KSR medium formed a sheet during the passage, and did not
+remain viable after re-plating. The fibroblasts in 10% FBS medium were split
+into 4 flasks: 2 x DMEM/F12 + 10% FBS (control) and 2 x DMEM/F12 + 5% FBS + 5%
+KSR (slow adaption). At every second passage, the ratio of KSR:FBS in slow
+adaption conditions was increased, until it reached 9:1 (9% KSR, 1% FBS).
+Fibroblasts in slow adaptation conditions initially outperformed fibroblasts
+in control conditions in terms of proliferative ability (figure 6). After
+being introduced to medium with 7.5% KSR + 2.5% FBS, their rate of
+proliferation decreased below that of control conditions. At 9% KSR and 1%
+FBS, the fibroblasts stopped proliferating entirely.
+
+Some of our observations and results line up with what is reported in the
+literature. Jukic et al (2015) adapted adherent rCHO cells to serum-free
+conditions by gradual reduction of FBS content from 10% to 5% to 3% and
+finally 1%. They found that cell viability dropped below 90% once the FBS
+concentration fell to 1%, and so transferred the CHO cells from DMEM to HyQ
+CCM5CHO medium with 0% FBS in suspension. Cell viability improved after this
+change, and after 50 days stable growth characteristics were observed. This
+finding suggests that: 1. DMEM may be unsuitable as a basal medium for low-
+serum media and 2. cells that are not performing well in serum-free adherent
+conditions may improve when transferred to suspension culture. We were unable
+to find any evidence in the literature of cell sheet formation in KSR medium.
+
+
+
+
+Limitations
+
+  1. Lack of bandwidth to repeat experiment with an alternative basal medium to DMEM or to move cells to suspension culture at an earlier point in the adaptation 
+
+
+
+
+Conclusion
+
+Fibroblasts in adherent culture were unable to be successfully adapted to
+serum-free medium using Knockout Serum Replacement.
+
+
+
+
+Future Directions
+
+Since the conclusion of this experiment, we have seen success in our
+suspension cultures with KSR medium (suspension trial #7). It therefore seems
+that KSR is more suitable for use in suspension culture where passaging with a
+dissociation is not required. For future experiments, adherent cells will not
+be grown in KSR without at least 5% FBS supplementation prior to being moved
+to suspension culture.
+
+
+
+
+References
+
+[1] E. G. Hayman, M. D. Pierschbacher, S. Suzuki, E. Ruoslahti. 1985.
+Vitronectin--a major cell attachment-promoting protein in fetal bovine serum.
+National Library of Medicine.
+
+[2] Ingredients of KSR:
+https://figshare.com/articles/dataset/_Composition_of_Knockout_Serum_Replacement_/611010
+
+[3] F. L. Wei, C. Y. Qu, T. L. Song, G. Ding, Z. P. Fan, D. Y. Liu, Y. Liu, C.
+M. Zhang, S. Shi, S. L. Wang. 2011. Vitamin C treatment promotes mesenchymal
+stem cell sheet formation and tissue regeneration by elevating telomerase
+activity. J Cell Physiol.
+
+

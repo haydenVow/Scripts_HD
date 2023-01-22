@@ -1,0 +1,212 @@
+  
+  
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Bonnie  
+
+
+
+
+Note: Because of the extremely slow rate of detachment of cells by
+tyrplisation, a 30min tyrplisation was followed by 10minute in trypsin, after
+which cells were combined. See details bellow.
+
+
+
+
+  
+
+Mia image links  
+Passaged Vessel type  
+Passaged Vessel ID  
+Seeded Vessel type  
+Seeded Vessel ID  
+  
+https://mia-capture.vow.tools/#/session/recl5su1FfJnAhwLP/images  
+T25  
+9634-WALLE06-Bennets Wallaby P1-1of1  
+6-well plate9695-WALLE06-Bennets Wallaby P2-1of1  
+  
+https://mia-capture.vow.tools/#/session/recuVtCpOypspuubQ/images  
+  
+https://mia-capture.vow.tools/#/session/recGvxsOPs50VPDSq/images  
+T25  
+9635-WALL07-Bennets Wallaby P1-1of2  
+9636-WALL07-Bennets Wallaby P1-2of2  
+T1759696-WALLE07-Bennets Wallaby P2-1of1  
+  
+https://mia-capture.vow.tools/#/session/reczAmksibFpeS11v/images  
+12 well plate 9637-WALLE09-Bennets Wallaby P1-1of1  
+12 well plate 9697-WALLE09-Bennets Wallaby P2-1of1  
+
+
+  
+  
+Growth Media
+
+DMEM/F12 +15% FBS +1x P/S
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Tryple A7592  
+  
+dPBS (for washing & neutralising) M9214  
+  
+Growth Media M9243  
+  
+0.25% Trypsin- EDTA  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Imaged each plate on 10x and 10x magnification.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     10  mL in    1   tubes
+  2. dPBS (for washing and neutralising)   30   mL in     1  tubes
+  3. Growth media (for seeding):   100    mL in    1    tub
+  4. Times that all aliquots were placed in the water bath to warm before use   10:25
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) 2x with with dPBS. note: washed 2x as cells took 25
+min to trypilise at last passage.
+
+3\. Added     3mL (T25) or 0.5mL(12 well plate)  tryple to each vessel/well
+and incubated at 37˚C for    30   min.
+
+WALLE06: 10:50  
+WALLE07: 10:50  
+WALLE09: 11:05
+
+4\. Neutralised with dPBS (warmed) transferred cell suspension into a   50mL
+tube per cell line.
+
+5\. Centrifuged at 650 x g for 5 min
+
+WALLE06:  11:24  
+WALLE07: 11:24  
+WALLE09: 11:40  
+
+  
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      2  mL      growth  media (WALLE07).  
+Resuspended pellet(s) in      1 mL      growth  media (WALLE06 and WALLE09).
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+Additional incubation with 0.25% Trypsin-EDA  
+As a large number of cells remained attached to the vessels after a 30min
+incubation in trypsin, an additional incubation in trypsin was performed.
+
+  1. Placed 10mL of 0.25% trypsin-EDTA to the waterbath and warmed for 15min
+  2. Added     3mL (T25) or 0.5mL(12 well plate)  trypsin to each vessel/well and incubated at 37˚C for    10   min 11:55  
+
+  3. Removed trypsin/cells from flasks and transfered to existing tubes containing the cells that were dissascociated by the tryple and mixed.
+
+  4. Centrifuged at 650 x g for 5 min 12:05  
+
+  5. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      0.5  mL      growth  media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+
+
+
+Total cell numbers
+
+Culture/s Count after tryple disassociationCount after additional trypsin
+disassociation  
+WALLE06  
+305,000277,500  
+WALLE07  
+320,000572,000  
+WALLE09  
+45,00057,500  
+  
+  
+
+11\. Volume of cell suspension required for subculture was: 12mL (WALLE06)
+12mL (WALLE07) 2mL (WALLE09)  
+
+12\. Transfer  cell suspension to the pre-warmed Growth Media.
+
+13\. Transfer cell suspension into flasks/plates.
+
+WALLE06: seeded into 5x wells of a 6-well plate, 7,380/cm  
+WALLE07: seeded into 1x T75, 7,626/cm  
+WALLE09: seeded into 2x wells of 12 well plate, 8,214/cm
+
+14\. Transfer flask/plate(s) to incubate at: 12:55
+
+  
+
+
+
+
+Observations/Summary:
+
+Cell counts obtained from each culture were much lower than expected given the
+confluence observed prior to passaging. Tyrpelisation was extremely slow and
+due to concerns about cell stress, it was stopped at 30minutes however there
+were still many cells attached to the base of the vessels. Subsequent use of
+trypsin on the remaining cells, and pooling of all cells resulted in an
+increased cell count in 2 of the 3 cultures. Tryple does not appear to be
+efficient in disassociating plastic adherent WALLE cells, I would recommend
+trialling the use of 0.25% trypsin EDTA for the next passage.  
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+

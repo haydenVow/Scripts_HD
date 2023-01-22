@@ -1,0 +1,85 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://ical.app.shortcut.com/hooks/v1/5f42e8b1-d297-47c5-97d1-5692a3220b09/60e7f41e-4eb5-4102-96b9-78d2065a4c56/calendars/epics/27505
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/receG9PA0NPXm8tFx?blocks=hide
+
+RELATED TO MILESTONE: Non-KR
+
+AIM/PURPOSE: The overarching aim of this study is to assess variations in
+doubling times between F_CHOMP07/09 cell lines and between their MCBs versus
+WCBs. In addition we will take the opportunity to look at the effects of
+different culture media compositions on F_CHOMP cell doubling times.
+
+HYPOTHESIS: .  
+1\. There will be no significant difference between the average cell doubling
+times of F_CHOMP07 and F_ CHOMP09 MCBs  
+2\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP07 and F_ CHOMP09 WCBs  
+3\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP07 and F_ CHOMP09 MCBs compared to their respective WCBs  
+4\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCB cells cultured in ACF media containing fresh 100ng
+each of FGF, IGF1, PDGF + 0.1% chemically defined lipid concentrate.  compared
+to those cultured in media containing a thawed 'bullet' of the same growth
+factors.  
+5\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCBs when cultured in DMEM/F12 + 20% FBS compared to 20%
+KSR without growth factors.  
+6\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCB cells in ACF media containing 100ng each of FGF, IGF1,
+PDGF + 0.1% chemically defined lipid concentrate, compared to those containing
+no growth factors (KSR only).  
+7\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCBs when cultured in DMEM/F12 + 20%  FBS compared to
+Fibrolife base media supplemented with 100ng each of FGF, IGF1, PDGF + 0.1%
+chemically defined lipid concentrate.
+
+RESULTS SUMMARY:  
+During fixation and dapi staining, cells became detached from the plates. This
+meant we were unable to obtain accurate cell count data from stained images.
+Instead, phase images taken prior to fixation were compared by eye after the
+conclusion of the experiment. Phase contrast images were only captured for a
+single well of each condition, on each day, therefore any conclusions drawn
+from this study will need to interpreted with caution. This study will need to
+be replicated, and quantitative data obtained before these results can be
+verified. As the phase images taken on day 6 and 7 of this study were over-
+exposed, or taken at low magnification, day 5 images were used to make visual
+comparisons between conditions.
+
+1\. There was no visible difference in confluence between F_CHOMP07 and F_
+CHOMP09 MCBs.  
+2\. F_CHOMP07 WCB had lower confluence than F_ CHOMP09 WCB.  
+3\. There was no visible difference in confluence between F_ CHOMP09 MCB and
+WCBs however CHOMP07 WCB showed lower confluence than it's MCB.  
+4\. It was not possible to compare F_ CHOMP09 WCB cells cultured in fresh
+growth factors compared to a thawed 'bullet' because cells did not survive in
+either condition.  
+5\. F_ CHOMP09 WCB cells did not survive in DMEM/F12 + 20% KSR.  
+6\. It was not possible to compare growth rates of F_ CHOMP09 WCB cells in ACF
+media containing growth factors, compared to those containing no growth
+factors (KSR only), as cells did not survive in either condition.  
+7\. Very few cells survived and attached to the culture vessel in Fibrolife
+media.
+
+CONCLUSIONS:  
+This study will need to be replicated, and quantitative data obtained before
+any concrete conclusions can be made. It does appear likely however that 20%
+FBS supplementation supports a greater rate of proliferation in both of our
+CHOMP cell lines than supplementation with 10% FBS. It is also apparent that
+CHOMP cells do not thrive in our current ACF media formulation, or in
+Fibrolife base media supplemented with growth factors.
+
+NEXT STEPS:  
+Due to the loss of cells during the fixation and dapi staining of plates, it
+was not possible to obtain accurate cell count data from this study. The assay
+should be repeated in order to acquire quantitative results from which we can
+determine the statistical significance of findings. Staining with Hoechst
+instead of Dapi, which does not require fixation, may allow us to mitigate the
+risk of cell loss. Alternatively, Vowsers have reported less cell loss by
+performing the entire fixing and dapi staining protocol on the Opentrons,
+rather than by fixing by hand.
+
+

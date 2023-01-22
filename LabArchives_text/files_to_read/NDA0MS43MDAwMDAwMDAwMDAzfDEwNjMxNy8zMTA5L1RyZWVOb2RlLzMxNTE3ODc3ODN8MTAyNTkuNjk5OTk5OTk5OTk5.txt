@@ -1,0 +1,122 @@
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 12 mL
+
+Total p38i required: 6 uL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel IDVessel Location  
+  
+2x12 well plate  
+7513-DOLLY12-Sheep P12-1of2  
+7514-DOLLY12-Sheep P12-2of2  
+Thermo Incubator  
+
+
+  
+  
+Process:
+
+1\. Retrieved   2x 24 mL  of  Growth Media aliquots in   1x 50mL  tube(s) from
+main lab media fridge 74  11:15 am  
+
+ Aliquot labelled with 'SAT GM Test 2' on lid and 'EPIC21489 EStim Test 2. 50%
+GM Feed JB' on the side.  
+  
+ ~~2\. Added  2x 6 uL p38i for 1/2000 dilution ~~ (already added)  
+  
+3\. Aliquots placed in water bath  11:16 am - 13:27 pm
+
+2\. Removed  50 % of supernatant from vessel.
+
+Note* realised half way through Plate 1 that I had been doing 100% feeds
+(2mL/well), and there wouldnt be enough media for all wells. Accidentally did
+100% instead of 50% feed.
+
+Whilst waiting for a response from Chain gang on Slack, plates placed back in
+incubator and remaining media placed back in waterbath 13:42 pm. (100% feeds
+done on rows A and B of Plate 1)
+
+28mL of Aliquot #5547 (from cell expansion - DMEM/F12 + 20% FBS + 1X P/S +
+10uM p38i) was added to the remaining media in the 50mL tube and placed in
+water bath to warm 13:48 - 14:09 pm
+
+3\. Replaced  media on all wells with  2mL (per well/per vessel) of Dif media.
+
+4\. Returned vessel to incubate at:   14:17 pm  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [x]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)  (this was a mistake - it was meant to be
+50% feed but RS (Bec Screnci) made a mistake of doing a 100% feed on the first
+2 rows of wells)  
+
+  1. All vessels.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediaA5547  
+ 24 mL  
+  
+ P38i (20mM stock)included in media  
+ 12  ul  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+NA
+
+

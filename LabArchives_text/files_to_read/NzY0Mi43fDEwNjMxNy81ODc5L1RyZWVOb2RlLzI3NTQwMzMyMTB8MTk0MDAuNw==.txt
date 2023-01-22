@@ -1,0 +1,291 @@
+
+
+
+
+
+## Performed by: Avani B, Varshana B  
+
+
+
+
+Cultures seeded
+
+Note: cultures 9286 and 9293 are in the same deep well plate  
+
+EPIC  
+Vessel IDVessel typeGrowth mediaBasal Media Mix ID  
+EPIC27984  
+
+9283-F_DOLLY12-Sheep P9-1of3
+
+9284-F_DOLLY12-Sheep P9-2of3
+
+9285-F_DOLLY12-Sheep P9-3of3
+
+E125 flaskCD-CHO + 10% KSR + 6G  
+m8891  
+  
+  
+9290-F_CHOMP09-Crocodile P9-1of3
+
+9291-F_CHOMP09-Crocodile P9-2of3
+
+9292-F_CHOMP09-Crocodile P9-3of3
+
+E125 flaskD/F + 20% FBS + 1x P/S  
+m8776  
+  
+  
+9297-F_CHOMP09-Crocodile P9-1of3
+
+9298-F_CHOMP09-Crocodile P9-2of3
+
+9299-F_CHOMP09-Crocodile P9-3of3
+
+E125 flaskCD-CHO + 20% KSR + 10G  
+m8890  
+  
+EPIC28374  
+9230-F_DOLLY12-Sheep P9-1of3  
+E125 flask  
+  
+CD-CHO + 10% KSR + 6G  
+  
+m8891  
+  
+9231-F_DOLLY12-Sheep P9-2of3  
+  
+9232-F_DOLLY12-Sheep P9-3of3  
+  
+  
+9233-CHOMP09-Crocodile P9-1of3
+
+CD-CHO + 20% KSR + 6G  
+m8892  
+  
+9234-CHOMP09-Crocodile P9-2of3  
+  
+9235-CHOMP09-Crocodile P9-3of3  
+  
+  
+9236-CHOMP09-Crocodile P9-1of3
+
+CD-CHO + 20% KSR + 8G  
+m8888  
+  
+9237-CHOMP09-Crocodile P9-2of3  
+  
+9238-CHOMP09-Crocodile P9-3of3  
+  
+9239-CHOMP09-Crocodile P9-1of3  
+  
+HyCell pro + 20% KSR + 10G  
+  
+m8889  
+  
+  
+9240-CHOMP09-Crocodile P9-2of3  
+  
+9241-CHOMP09-Crocodile P9-3of3  
+  
+  
+  
+
+  
+
+
+
+
+Reagents used:
+
+NameDetails  
+KSR  
+a9077, a9084  
+  
+glutamax  
+s3694  
+  
+lipids  
+s3202  
+  
+FGF-bm5705  
+  
+IGF-1-LR3  
+m7963, m8843  
+  
+PDGF  
+out of stock  
+  
+RGD  
+m5606  
+  
+YIGSR  
+out of stock  
+  
+PBS  
+m8963  
+  
+Basal Media CHCHO+10%KSR  
++1XP/S  
+m9076 (made 61.95mL on 9/12/21)  
+
+
+  
+  
+Add supplements to media
+
+  1. Aliquot 'basal media' mixes that were prepared on 15/11/21 (containing P/S, ACA, P188) into containers. This involves aliquotting the amount needed to make 65 mL total (for EPIC27984) or 47 mL (for EPIC28374) by using the sheet titled 'EPIC27984' on this spreadsheet: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit?skip_itp2_check=true#gid=1517203146 (screenshots below).
+  2. Add KSR and other supplement to create the appropriate media formulations.
+  3. For EPIC27984, after supplements have been added, take an aliquot of 17.5 mL from each media into 50 mL tubes. The 17.5 mL aliquots will be used to perform feeds on OT2 for 50 mL shake tubes and 24 dwp.
+  4. For EPIC27984 also aliquot 47 mL and 17.5 mL of D/F + 20% FBS + 1x P/S.
+
+
+
+
+Media for EPIC27984
+
+
+
+
+Media for EPIC28374
+
+
+
+
+Warm media
+
+Warm media at 37 degrees: 11:13  
+
+
+
+
+Centrifuge  
+  
+Centrifuged 300g for 5 min  
+EPIC27984:  14:12 - 14:17  
+EPIC28374:  14:05-14:10  
+
+
+
+
+
+
+Media change and sampling
+
+  1. Using an aspirator, aspirated media down to 5 mL for each tube.
+  2. Washed each E125 flask that cells came from with 10mL of PBS.
+  3. Added 15 mL of warm media to each tube.
+  4. Resuspended cells and transferred cell suspensions from 50 mL tubes to their corresponding E125 flasks.
+  5. Swirled flasks and took 100uL of sample from E125 flask to 96 well plate.
+  6. Return flasks to incubator
+
+EPIC27984  ~14:55
+
+EPIC28374 13:32
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2.  Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature  
+
+  * EPIC27984:15:08 - 15:38  
+
+  * EPIC28374:15:25- 15:55
+
+  1. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  2. Centrifuged plates at 300 RCF for 1 minute  
+    1. EPIC27984  15:47 - 15:48  
+
+    2. EPIC28374 16:02  
+  
+
+  3. Prepared plate map:  
+\- Created a new "MIA output" data workbook by copying the template at the
+following link:
+https://docs.google.com/spreadsheets/d/1Lf5u2kRGQLab1QzT75ve2nrPrSJiAoWFonpeS58bS4s/edit?usp=sharing  
+\- Filled in each of the sheets according to how the samples were arranged  
+\- Pasted the link to the "MIA output" workbook here:
+
+  4. EPIC27984: https://docs.google.com/spreadsheets/d/1tlo6Ne78UpOR6f_yJSgfTIRhC9qy3dcFst4m_Qz1HFo/edit?usp=sharing
+  5. EPIC28374: https://docs.google.com/spreadsheets/d/1a-vYpDiRs-ilYUFi0gFDLRUvcLfoau2ng-lLn_eLvZ4/edit#gid=698754547
+
+
+
+
+Sytox: s3626
+
+PBS: a7969
+
+Hoechst: m8157 that was diluted to 50ug/mL was used
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image.
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels.
+
+EPIC28374 imaging: , culture ID 9346,16:18
+
+EPIC27984 imaging: culture ID 9345, ~16:00
+
+EPIC26167: imaged under culture ID: 9078, plate locations: 9567 in B5 - B8,
+9569 in C5 - C8
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI and AF488 MIA macros respectively.
+  2. Downloaded and extracted the data then pasted it into the "MIA output" data workbook created in the "Staining" section.
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+Day 14 analysis spreadsheets:
+
+  * EPCI:27984: https://docs.google.com/spreadsheets/d/1VGZZvTaNoSTtcP6aSqMbiA4F8jaDprLjTu77Qz3tLeg/edit#gid=698754547
+  * EPIC 28374: https://docs.google.com/spreadsheets/d/11rwusLpS8PSxYkmPRw1sZOa0CkSB-Mw4_FrYBaFZgEs/edit#gid=780158833
+
+
+
+
+Observations/Summary:
+
+75% feed, stain, and imaging of 21 E125 flasks.
+
+  * Less clumping was observed in the cultures 
+  * no PDGF and YIGSR stock 
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

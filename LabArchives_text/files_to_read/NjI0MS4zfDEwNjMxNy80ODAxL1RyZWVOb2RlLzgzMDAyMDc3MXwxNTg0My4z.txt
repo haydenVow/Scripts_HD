@@ -1,0 +1,253 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: LL VB  
+
+
+
+
+Culture IDs:
+
+Harvested vessel typeHarvested vessel IDConditionSeeded vessel type  
+Seeded vessel ID  
+Condition  
+  
+24-well plate8687-F_CHOMP09-Crocodile P8-1of6  
+UV plate 1: 5 mj/cm26-well plate  
+8724-F_CHOMP07-Crocodile P7-1of3  
+All UV treatments & UV control  
+  
+8688-F_CHOMP09-Crocodile P8-2of6  
+UV plate 2: 15 mj/cm2  
+8689-F_CHOMP09-Crocodile P8-3of6  
+UV plate 3: 30 mj/cm2  
+8690-F_CHOMP09-Crocodile P8-4of6  
+UV plate 4: 60 mj/cm2  
+8691-F_CHOMP09-Crocodile P8-5of6  
+UV plate 5: UV control  
+  
+UV plate 5: 300 mg/cm2  
+96-well plate  
+8725-F_CHOMP07-Crocodile P7-2of3  
+UV-treated cells (300 mj/cm2)  
+  
+  
+8692-F_CHOMP09-Crocodile P8-6of6  
+P53i & control  
+6-well plate  
+8726-F_CHOMP07-Crocodile P7-3of3  
+All P53i treatments, P53i control, and control  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem7547  
+  
+dPBS (for washing & neutralising)a7539  
+  
+Growth Mediumm7732  
+  
+IGF-1-LR3  
+m7681  
+  
+FGF-B  
+m5077  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   10  mL in    2 x 15 mL   tubes (5 mL in each)   
+
+  2.  dPBS (for neutralising & washing):   40  mL in 2 x 50 mL tubes (20 in each)   
+
+  3. Growth media (for pellet resuspension):   8  mL in 2 x 15 mL tubes (4 in each  
+
+  4. Growth media (for seeding):   18 & 21 mL in2 x 15 mL tubes   
+
+Time that all aliquots were placed in the water bath the warm before use
+14:03  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     14:15   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   0.2  mL tryple to eachwell and incubated at 30˚C.
+
+  1. Start/Finish for TrypLE (UV plates) was    14:23 - 14:34    
+
+  2. Start/Finish for TrypLE (P53i plate) was    14:42 - 14:52    
+
+7\. Neutralised with    0.5 mL    dPBS and combined cell suspension into    13
+x 15 mL   tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation (UV plates) was     14:57 - 15:03     
+
+  2. Start/Finish time for centrifugation (P53i plate) was     15:23 - 15:28  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    0.2  mL    growth    medium
+
+11\. Aliquoted    10 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+NOTE: performed an extra cell count for 30 nM P53i treatment due to low cell
+number but achieved very similar count
+
+Plate  
+Condition  
+Cell count  
+Volume cell suspension for seeding (uL)  
+Cell density (cells/cm2)  
+  
+  
+Plate 1 (8687)  
+UV: 5 mj/cm2  
+152,800  
+87  
+7,000  
+  
+Plate 2 (8688)  
+UV: 15 mj/cm2  
+134,400  
+99  
+7,000  
+  
+Plate 3 (8689)  
+UV: 30 mj/cm2  
+72,800  
+183  
+7,000  
+  
+Plate 4 (8690)  
+UV: 60 mj/cm2  
+82,400  
+161  
+7,000  
+  
+Plate 5 (8691)  
+UV: 300 mj/cm2  
+3,200  
+200  
+10,000  
+  
+Plate 5 (8691)  
+UV: control (heat)  
+46,400  
+200  
+4,884  
+  
+Plate 6 (8692)  
+P53i: 30 nM  
+30,400  
+200  
+3,200  
+  
+Plate 6 (8692)  
+P53i: 10 uM  
+107,200  
+124  
+7,000  
+  
+Plate 6 (8692)  
+P53i: 30 uM  
+108,000  
+123  
+7,000  
+  
+Plate 6 (8692)  
+P53i: control (DMSO)  
+128,000  
+104  
+7,000  
+  
+Plate 6 (8692)  
+Overall control  
+108,000  
+123  
+7,000  
+  
+  
+  
+
+
+
+
+13\. Transferred cell suspensions to the pre-warmed Growth media
+
+14\. Transferred cell suspension into the   2 x 6-WPs and 1 x 96WP  
+
+15\. Transferred vessel(s) to incubate at:
+
+  * [x] 30'C, 5% CO2 (reptilian cells)
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+1) Cell count of 30 nM concentration of P53i treatment was unexpectedly low,
+and an outlier for the P53i conditions. We suspect that the cells were somehow
+lost during the passage, as all replicates of cells in all P53i conditions
+looked relatively similar in terms of confluence.
+
+2) UV control had a lower count than all but highest UV-exposed cell
+conditions. We suspect that this is due to heat exposure over the 12.5 minute
+irradiation.
+
+3) Cells in all but 30 nM P53i treatments and controls had very similar
+counts, indicating that P53i and DMSO in the quantities tested do not
+negatively impact cell growth.
+
+4) Cells in the lowest UV-irradiated treatment (5 mj/cm2) had the highest cell
+count for UV conditions, whereas cells in highest UV-irradiated treatment (300
+mj/cm2) had the lowest cell count
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

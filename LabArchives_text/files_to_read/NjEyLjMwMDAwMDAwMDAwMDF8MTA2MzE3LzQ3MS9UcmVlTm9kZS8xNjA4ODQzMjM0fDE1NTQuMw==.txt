@@ -1,0 +1,121 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 90 mL
+
+Total p38i required: 45 uL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+T1756698-DOLLY12-Sheep P9-1of3  
+  
+T175  
+6699-DOLLY12-Sheep P9-2of3  
+  
+T175  
+6700-DOLLY12-Sheep P9-3of3  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted  90 mL  mL of  Growth Media into  1x 120 mL     tube(s). Placed
+in water bath  16:58
+
+2\. Removed  100  % of supernatant from vessel.
+
+3\. Replaced with  30 mL (per well/per vessel) of  growth   media.
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [x]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6698-DOLLY12-Sheep P9-1of3
+  2. 6699-DOLLY12-Sheep P9-2of3
+  3. 6700-DOLLY12-Sheep P9-3of3
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediaA4771  
+90  
+  
+ P38i (20mM stock)M4398  
+0.045  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recBSWA6vTrSEeE9B/images \- Wednesday
+May 12 (6698)
+
+https://mia-capture.vow.tools/#/session/rec8q7X2W6KzrZcjJ/images \- Wednesday
+May 12 (6699)
+
+https://mia-capture.vow.tools/#/session/recsMUGgwEIaUmtW5/images \- Wednesday
+May 12 (6700)
+
+

@@ -1,0 +1,346 @@
+
+
+## Performed by:  ss, kk  
+
+
+
+
+  
+
+## Reference Table
+
+For a 12 WP culture dish, use 2x the amount recommended for a 24WP culture
+dish.
+
+  
+
+  
+
+
+
+
+Culture IDs to Phase Image
+
+Vessel type(s)Vessel IDVessel Location  
+  
+12 well plate  
+7514-DOLLY12-Sheep P12-2of2  
+Main Lab Bottom Sanyo ID #80  
+  
+  
+  
+
+
+
+
+## Phase Imaging
+
+1\. Zaber imaged plate 7514 on phase, taking whole well images of every well
+using the zaber   11:19  
+
+For information on how to use the zaber, refer to:
+https://www.notion.so/vow/User-Guide-to-Zaber-imaging-
+ad19527eee9e42ed9db96faa911d6536
+
+Tips for imaging the 12WP are to use 8x8 imaging sites in the HSC site
+generator, remembering to change the spacing rule to field of view with 60 um
+spacing. Remember to build the MM List in the HSC site generator and confirm
+the number of images expected (usually >700) in the Mult-D Acq.
+
+  
+  
+  
+Figure 1: Acquisition settings for Plate 2 (Test 2)  
+Figure 2: HSC Site Generation for 12 wp  
+  
+  
+  
+
+
+
+
+Culture IDs to Stain
+
+Vessel type(s)Vessel IDNo. of wells to stain  
+  
+2x 12 well plate  
+7513-DOLLY12-Sheep P12-1of2  
+7514-DOLLY12-Sheep P12-2of2  
+All  
+  
+  
+  
+
+7513 already fixed and stored in the biomaterials fridge.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM6473  
+PBST (0.2% Triton)M6346  
+dPBSM5923  
+  
+Primary Antibody MixSee table below  
+  
+Primary Antibody Mix (if used)See table below  
+  
+  
+  
+
+
+Primary Staining
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    25mL  PBST (0.2% Triton-X)
+
+2\. Prepared    25mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :   30µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +   120 µL   Primary #2 MF20 (DSHB)   (1:50  ) +   6 mL Blocking
+Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.   14:35 (mix 2)  
+
+
+
+
+Antibody/Stain Used
+
+Antibody/StainIgG formStock ID  
+Dilution in blocking bufferVolume of AB added  
+  
+Antibody Primary - Mouse Anti-MyoG, MIgG1 Kappa Light Chain (AKA F5D-s
+Myogenin)  
+IgG1  
+S1452  
+1:200  
+30uL  
+  
+Antibody Primary - Mouse Anti-Myosin (MF20) MIgG2b Kappa Light Chain (AKA MF
+20-s)  
+IgG2b  
+S2467  
+1:50  
+120uL  
+  
+Antibody Secondary - Alexa Flour 488 goat anti-mouse IgG1 (y1)  
+IgG1  
+,s173  
+  
+1:1000  
+13uL  
+  
+Antibody Secondary - Alexa Flour 555 goat anti-mouse IgG2b (y1)  
+IgG2b  
+s1966  
+1:1000  
+13uL  
+  
+DAPI  
+NA  
+2193  
+1:1000  
+13uL  
+  
+  
+  
+
+
+
+
+## Cleaning the Electrodes
+
+When finished with the electrode lid, it will need to be cleaned and stored
+away for later use. Before moving onto fixing, switch the electrode lid for a
+new regular lid.
+
+1\. Inspect the wiring connections to the electrode to ensure no corrosion or
+damage is present and all wiring is still connected as expected.  
+2\. Inspect the electrodes closely to ensure no damage or dissolution has
+occurred to the metal.  
+3\. Spray down the used electrode lid with ethanol.  
+4\. Fill the wells of a clean 12WP base with ethanol and place the electrode
+plate in this base so the electrodes are immersed in ethanol.
+
+A spare 'wash plate' is kept in the 'Electrodes' box.
+
+5\. Place the 12WP assembly inside the ultrasonic bath so that the water of
+the bath is at the line where the 12WP lid meets the base.  
+6\. Set the ultrasonic bath temperature to room temperature and the time of
+sonication for 15 minutes.  
+7\. Reinspect the electrodes. If any media or other organic residue is still
+present on the electrodes, repeat step 6.  
+8\. Store the electrode lid by placing it onto a clean 12WP base. Ensure the
+lid is dry before storage. Optional: Place the lid in the drying oven upside
+down at 50C for 15 minutes to increase drying time.  Alternatively, to reuse
+the lid immediately, proceed to the UV sterilisation process.
+
+
+
+
+Process:
+
+Fixing ( ~ 20 - 30 min)  
+  
+FOR PLATE 7514 ONLY
+
+  1. Aliquoted  2 x 50 mL of PBS into  2 x 50 mL falcon tubes and  13 mL  4% PFA into   1x 15 mL  falcon tube. 
+  2. Placed in the water bath and warmed for a minimum of 10 mins.   11:30am - 11:45    
+
+  3. Removed media from each well and wash with warmed PBS twice. Only remove the PBS falcon tube from the bath as needed.
+  4.  Added   1mL warmed PFA for 15 min:  11:51 - 12:06
+  5. Removed PFA (and add in PFA waste container) and wash wells twice with   2 mL warmed PBS. 
+
+  
+
+Permeabilise ( ~ 20 - 30 min)  
+  
+FOR BOTH PLATES 7513 & 7514
+
+1\. Removed PBS from each well.
+
+2\. Added   1 mL PBST (0.2% Triton-X) to each well for 15 min: 12:41 - 12:55
+14:10 - 14:25  
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added  1 mL/well of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):  1:00 - 2:00
+14:27 - 15:15  
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well. 14:01    15:16  
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:  14:02 - Overnight     15:17 - Overnight  
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped in foil when not used.
+
+
+Secondary Staining
+
+
+Reagent preparation:
+
+1\. Aliquotted    100 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  13 µL   Secondary #1   (1:1000  ) +   13 µL   Secondary #2   (1:1000  ) +
+13  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+   13 mL  PBS +    13 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 11:35 - 11:40  13:35 - 13:40
+
+ 11:45 - 11:50 15:43 - 15:48
+
+ 11:50 - 11:55  15:51 - 15:56  
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  16:03 - 17:03 11:55 \- 12:55
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  17:07  12:56
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 12:58 - 1:03  
+
+ 17:09 - 17:14  
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 1:04 - 1:09  
+
+ 1:14 - 1:19  
+
+4\.  Replaced dPBS.
+
+ 1:20 - 1:25  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+### na
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): N/A  
+
+

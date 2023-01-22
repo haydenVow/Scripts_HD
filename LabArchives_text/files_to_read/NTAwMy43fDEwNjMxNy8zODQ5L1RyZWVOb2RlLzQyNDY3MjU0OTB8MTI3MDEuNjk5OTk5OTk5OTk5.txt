@@ -1,0 +1,256 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs
+
+Passaged culture IDSeeded Flask ID(s) and media conditionSeeded Flask Type  
+  
+MuSC clone (1x 4CF)
+
+8057-DOLLY12_11E7-Sheep P11-1of1
+
+RPMI + FBS
+
+8158-DOLLY12_11E7-Sheep P12-1of3  
+8162-DOLLY12_11E7-Sheep P12-2of3  
+8163-DOLLY12_11E7-Sheep P12-3of3
+
+RPMI  \+ KSR
+
+8164-DOLLY12_11E7-Sheep P12-1of3  
+8165-DOLLY12_11E7-Sheep P12-2of3  
+8166-DOLLY12_11E7-Sheep P12-3of3
+
+CD-CHO + FBS
+
+8167-DOLLY12_11E7-Sheep P12-1of3  
+8168-DOLLY12_11E7-Sheep P12-2of3  
+8169-DOLLY12_11E7-Sheep P12-3of3
+
+CD-CHO + KSR
+
+8170-DOLLY12_11E7-Sheep P12-1of3  
+8171-DOLLY12_11E7-Sheep P12-2of3  
+8172-DOLLY12_11E7-Sheep P12-3of3
+
+50 mL bioreactor spin tubes  
+Fibroblast clone (2x T175)  
+
+8030-F_DOLLY12_4C4-Sheep P8-1of2
+
+8031-F_DOLLY12_4C4-Sheep P8-2of2
+
+RPMI + FBS
+
+8173-F_DOLLY12_4C4-Sheep P9-1of1
+
+RPMI  \+ KSR
+
+8174-F_DOLLY12_4C4-Sheep P9-1of2  
+8175-F_DOLLY12_4C4-Sheep P9-2of2
+
+CD-CHO + FBS
+
+8176-F_DOLLY12_4C4-Sheep P9-1of1
+
+CD-CHO + KSR
+
+8177-F_DOLLY12_4C4-Sheep P9-1of2  
+8178-F_DOLLY12_4C4-Sheep P9-2of2  
+50 mL bioreactor spin tubes
+
+
+  
+  
+Growth Media:
+
+Use media containing growth factors (prepared in previous lab book entry)
+
+[x] RPMI + FBS
+
+[x] RPMI  \+ KSR
+
+[x] CD-CHO + FBS
+
+[x] CD-CHO + KSR
+
+  
+
+
+
+
+Reagents used (if applicable):
+
+For reagent IDs of suspension media and growth factors, see previous lab book
+entry
+
+NameDetails (reagent ID)  
+  
+Tryple
+
+a5780  
+  
+  
+PBS
+
+a5738, a5758, a5494, a5495  
+  
+  
+DMEM/F12 + 20% FBS + 1x P/S
+
+a6702  
+  
+  
+DMEM/F12 + 10% FBS + 1x P/S
+
+a6455  
+  
+  
+###  
+
+
+
+
+1\. Aliquot media into tubes and warm them to 37 degrees C:
+
+  * Growth media for seeding in 50 mL bioreactor spin tubes (in incubator):    13:00  
+
+    * 6x tubes containing 5 mL RPMI + FBS
+    * 6x tubes containing 5 mL RPMI + KSR
+    * 6x tubes containing 5 mL CD CHO + FBS
+    * 6x tubes containing 5 mL RPMI + KSR
+  * Growth media D/F + 20% FBS + 1x P/S (in waterbath):  13:50
+    *   10 mL   for cell resuspension and counts of MuSC clone  
+
+  * Growth media D/F + 10% FBS + 1x P/S (in waterbath): 13:50
+    *    10 mL    cell resuspension and counts of Fibroblast clone
+  * Tryple (in waterbath): 225 mL     13:35
+  * PBS (in waterbath) for washing: 225 mL  13:35
+  * PBS for pellet resuspension after cell counts: 6 mL  13:50  
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask (for cell factory, carefully poured growth media ideally into a >500 mL waste bottle).
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+  
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. 4CF: `Time stamp`: 14:34 - 14:54
+    2. 2xT175 flasks `Time stamp`: 14:29 - 14:46
+
+  1. Collected TrypLE solution into 50mL or 225 mL centrifuge tubes.
+  2. Wash flask with ambient temperature dPBS and transferred into tubes.  (for cell factories, preform the wash twice with 100 mL of dPBS each time)
+  3. Centrifuged at 650 x g for 5 minutes.
+    1. 2xT175 flasks `Time stamp` 14:53 - 14:58
+    2. 4CF `Time stamp` 15:03 - 15:08
+
+  
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets.  Removed supernatant.
+  2. Resuspend the pellets in 10 mL of growth media total for each clone.
+  3. Pipette mix cell suspension to ensure a homegenous cell suspension is obtained. 
+  4. Immediately aliquot     100 uL  of cell resuspension into cell count tubes.
+
+  
+
+Inser
+
+  
+
+  1. Triturated the obtained cell suspension 10 times (careful not to make bubbles) and transfer into trypan blue.
+  2. Triturated the cells suspended in trypan blue at least 10 times (careful not to make bubbles) and transfer 10 uL onto haemocytometer.
+  3. Performed cell count.
+
+
+
+
+## Seed 50 mL spin tubes:
+
+5\. Centrifuge the cells at 650 g for 5 min at RT:     15:58    \-  16 :03  
+
+6\. Removed supernatant to remove residual growth media.  
+
+7\. Resuspended each pellet in PBS:
+
+6 mL for 11E7 clone
+
+1.8 mL for 4C4 clone
+
+8\. Transfer   355 uL  of the 11E7 cell suspension (~1M cells) into 12 of the
+pre-warmed growth media conditions and mix. In total there were 3x replicates
+for  each of the 4 media conditions.
+
+Transfer 300 uL of the 4C4 cell suspension (~950K cells) into 6 of the pre-
+warmed growth media conditions as follows:
+
+1x replicate for RPMI + FBS, 2x replicates for RPMI + KSR, 1x replicate for
+CD-CHO + FBS, 2x replicates for CD-CHO + KSR
+
+9\. Transferred flask/plates(s) to incubate at: `  16:46  
+`
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Incubator (#81) [Main/Library/Production]
+
+10\. 50 mL bioreactor spin tubes were shaken at 206 RPM to achieve  P/V ~60
+W/m3 as per the power/kLa calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit?pli=1#gid=1121358223&range=17:17
+
+
+
+
+Summary:
+
+Seeded 12 million of DOLLY12 MuSC clone 11E7 into into 4 different suspension
+media conditions with 3 reps of each medium. Cells were seeded at 200k
+cells/mL into 5 mL of media in spin tubes.
+
+Seeded 5.8 million of DOLLY12 fibroblast clone 4C4 into into 4 different
+suspension media conditions as follows:
+
+1x replicate for RPMI + FBS, 2x replicates for RPMI + KSR, 1x replicate for
+CD-CHO + FBS, 2x replicates for CD-CHO + KSR
+
+clone 4C4 was seeded at ~190k cells/mL into 5 mL of media in spin tubes.
+
+I was expecting higher cell numbers from the 4C4 clone. However, after
+checking the previously observed doubling time of ~3 days from a clones
+experiment, the low cell numbers for today's harvest make sense. In the
+future, this should be taken into account when planning the experiment.
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

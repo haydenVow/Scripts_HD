@@ -1,0 +1,152 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S
+  * [X] DMEM/F12 + 1X P/S
+  * [X] E8
+  * [X] E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids
+  * [X] E810C
+
+Total media required: 12mL of each
+
+
+
+
+Culture IDs to feed
+
+Vessel ID  
+  
+Media Type  
+Seeded Flask Type  
+  
+6775-DOLLY12-Sheep P10-1of1  
+Serum-containing media  
+T75  
+  
+  
+6776-DOLLY12-Sheep P10-1of1  
+DMEM/F12 + 1X P/S  
+T75  
+  
+  
+6777-DOLLY12-Sheep P10-1of1  
+E8  
+T75  
+  
+  
+6778-DOLLY12-Sheep P10-1of1  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids  
+T75  
+  
+  
+6779-DOLLY12-Sheep P10-1of1  
+E810C  
+T75  
+
+
+  
+  
+Process:
+
+1\. Aliquot 12 mL  mL of each Growth Media condition into the water bath to be
+warmed. Placed in water bath 14:24
+
+2\. Removed  100  % of supernatant from vessel.
+
+3\. Replaced with  12mL (per vessel) of  Growthmedia.
+
+  1.  6775-DOLLY12-Sheep P10-1of1 (Serum control)
+  2.  6776-DOLLY12-Sheep P10-1of1 (DMEM/F12 only)
+  3.  6777-DOLLY12-Sheep P10-1of1 (E8)
+  4.  6778-DOLLY12-Sheep P10-1of1 (E8 + goodies)
+  5.  6779-DOLLY12-Sheep P10-1of1 (E8 10C)
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6775-DOLLY12-Sheep P10-1of1 (INTO Serum-containing media)
+  2. 6776-DOLLY12-Sheep P10-1of1 (INTO DMEM/F12 + 1X P/S)
+  3. 6777-DOLLY12-Sheep P10-1of1 (INTO E8)
+  4. 6778-DOLLY12-Sheep P10-1of1 (INTO E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids = "E8 goodies")
+  5. 6779-DOLLY12-Sheep P10-1of1 (INTO E810C)
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Growth Media (Serum containing) A4838  
+  
+Growth Media (No FBS)  
+M4811  
+  
+E8M4812  
+  
+E8 10C  
+See lab book entry: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTI5NC44fDEwNjMxNy85OTYvVHJlZU5vZGUvMTk3ODExMjQ4N3wzMjg2Ljc5OTk5OTk5OTk5OTc=  
+  
+  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids
+
+M4829  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/rec6ePCl5rwPUDqWY/images (6775 Serum
+control), Wednesday May 19
+
+https://mia-capture.vow.tools/#/session/rec5OcInhTk9jWqu8/images (6776
+DMEM/F12 only), Wednesday May 19
+
+https://mia-capture.vow.tools/#/session/recIPOr8XRqIGLvFh/images (6777 E8),
+Wednesday May 19
+
+https://mia-capture.vow.tools/#/session/recDdgNnX5oqbtJiI/images (6778 E8 +
+goodies), Wednesday May 19
+
+https://mia-capture.vow.tools/#/session/recqJfaVBNX50DWrm/images (6779 E8
+10C), Wednesday May 19  
+
+  
+
+

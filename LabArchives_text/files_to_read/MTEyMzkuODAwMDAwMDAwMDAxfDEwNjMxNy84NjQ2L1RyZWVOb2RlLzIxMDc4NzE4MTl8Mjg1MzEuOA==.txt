@@ -1,0 +1,110 @@
+Aim/Purpose
+
+
+Background
+
+The mini-tissues stream is performing tissue engineering using cell- and
+tissue-based matrices and solid moulds with attachment points to form tissues
+using Nuvonis suspension cells. We found in Experiment 1 (Cell Density) that
+Nuvonis suspension cells form tissues, but do so much slower than adherent
+myoblasts (3-4 days compared to 1 day). This finding was surprising owing to
+the fact that Nuvonis cells can adhere to tissue culture plastic rapidly
+(within 1 day) in the presence of BSA or FBS. Transition from a fluid
+suspension environment to a gel-like tissue environment, such as the
+Collagenous matrix that we use, should initiate the "phenotypic switch" that
+is needed to allow cells to "adhere" to their environment, through induction
+of pathways related to focal adhesion, actin filament formation and
+cytoskeletal organisation. However, it appears that this phenotypic switch
+doesn't occur as quickly in a gelatinous (or viscous suspension) matrix
+environment.
+
+Hypothesis
+
+The phenotypic switch to a semi-adherent phenotype that happens when tissue-
+engineering with suspension cells happens slowly. We hypothesise that
+increasing the stiffness of the gel matrix will increase the speed of tissue
+formation due to the faster initiation of phenotypic switching.
+
+Aim
+
+To increase the stiffness of tissue engineered gel matrices using
+nanocellulose fibres of varying types and in various concentrations, then
+tracking tissue growth and formation each day.
+
+  
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Nanocellulose Fibres, Collagen I, 10x DMEM/F12, 0.1M Sodium Hydroxide. This
+allows the formation of tissues via the process of tissue gelation,
+condensation and self-assembly around 2 attachment points (Figure 1) - See
+Notion page for summary of approach.
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+  
+
+Experiment Layout
+
+We will seed 2 plates containing tissue engineering moulds with 12 tissues
+each, at a single cell density of 15M/mL. We will add different types and
+concentrations of Nanocellulose fibres to increase the stiffness of the
+matrix.
+
+Figure 2. Four types of Nanocellulose fibres to trial, all in water ready to
+be autoclaved (from Left to Right): (A) Cellulose Nanofibril slurry (Cellulose
+Labs), (B) Cellulose Nanofibrils prepared by high-pressure (Cellulose Labs),
+(C) Cellulose Nanofibrils prepared by supermass colloider (Cellulose Labs) and
+(D) Bacterial Nanocellulose "fleece" (Cass Materials)
+
+  
+
+Plate 1: We will vary the type of Nanocellulose fibres (4 shown above - Fig 2)
+at a single percentage (0.5% v/v)
+
+Figure 3. Tissue eng mould plate layout for plate 1, experiment 6 -
+Nanocellulose types
+
+  
+
+Plate 2: We will trial three percentages (0.25, 0.75, 1.5%) of 2 types of
+Nanocellulose fibres - Nanocellulose slurry (Fig 2A) and High-pressure
+Cellulose Nanofibrils (Fig 2B)
+
+Figure 4. Tissue eng mould plate layout for plate 2, experiment 6 -
+Nanocellulose concentration
+
+
+
+
+Before Starting
+
+  * Calculate approximate cell requirements for experiment 6 - plates 1 and 2
+    * = Approx 1.44 Billion cells for 2 plates at 15M cells per mL
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=66228982
+    * Total volumes for experiment:
+      * Collagen I = 39ml
+      * 10x DMEM/F12 = 4.7ml
+      * 0.1M NaOH = 6ml
+  * Place Large dishes into 80% Ethanol bath
+  * Autoclave Nanocellulose types
+  * Make up min. 120mL 0.25% Pluronic
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 39 mL total (make ~42 mL)
+
+

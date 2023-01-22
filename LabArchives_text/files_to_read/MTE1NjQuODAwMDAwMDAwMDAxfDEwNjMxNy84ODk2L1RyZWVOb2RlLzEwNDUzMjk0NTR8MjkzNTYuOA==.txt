@@ -1,0 +1,94 @@
+StepInspect hardware, reactors and software  
+Operator nameAV  
+Time-stamp16:05  
+Protocol
+
+  1. Check gas pressure at regulator for all gases in use. Ensure pressure is the same, and is between 1-3 bar.
+  2. Check alarms in warnings and alerts screen. Dismiss any non-applicable alarms. 
+  3. Inspect each physical bioreactor and ensure all clamps are sealed. Check the colour and consistency of the broth (e.g. if milky - contamination, or foamy - cell death)
+  4. Inspect the bioreactor specs in the software and note if any parameter is out of spec. 
+
+  
+  
+Deviations & notes
+
+  * Pressure at 1.5 bar for all gases
+  * Irregular / erratic pH control for BR1 noted
+
+  
+References  
+
+
+StepSample bioreactor & take offline readings  
+Operator nameAV  
+Time-stamp16:10  
+Protocol
+
+  1. Follow on-screen prompts to draw sample from the sampling line: 
+    * take 1mL draw and reserve in 50mL falcon tube
+    * take 1mL draw and place 0.5mL in eppendorf tube, place remainder in 50mL falcon tube
+  2. Cell count 0.5mL in eppendorf tube and record in G-sheet (below)
+  3. Return cell suspension from 1.5mL tube to 50mL falcon tube for pH reading
+  4. Calibrate pH meter and read values for all samples. Record pH values below
+
+  
+  
+Deviations & notes
+
+See G-sheet here for offline readings
+
+Cells in BR1 are dead  
+  
+References  
+
+
+  
+  
+Sampling / Monitoring Workflow
+
+  * NC counts of stock flasks
+  * Fill 5 x 1.5 mL eppendorf tubes with 250 uL ultra pure water
+  * Draw 1 + 1 mL from 4 x bioreactors (keep first 1 mL in syringe, deposit second 1 mL in 50 mL falcon)
+  * Sample SFA for manual count, NC count, biochem analysis and pH measurement (1.5 mL)
+  * Add 250 uL from the falcon tubes + SFA tube into the tubes with water
+  * Reserve 100 uL for cell counting (manual and NC)
+  * Do manual + NC counts (x5 each - 4 BRs + SFA)
+  * Add c/s from first draw into falcon tubes + add SFA c/s into falcon tube (5 tubes in total)
+  * Take offline pH measurements
+  * Spin diluted samples and remove 450 uL of supernatant from each tube (5 in total)
+  * Label and store in box in -80degC fridge (CryoCube)
+
+  
+Consumables needed  
+\- 20 x 1.5 mL eppendorf tubes (5 for water, 5 for samples for the supernatant
+to carry out biochemical analysis, 5 for trypan blue, 5 for cell suspension
+samples for manual and NC counts)  
+\- 5 x 50 mL falcon tubes  
+\- 8 x 5 mL syringes
+
+  
+
+Passage details
+
+CultureCell density (c/mL) [NucleoCounter]Cell density (c/mL) [Manual]  
+STK-A1.76M1.164M  
+STK-B1.58M -  
+  
+Stock A used for passage
+
+Added 15 mL of cell suspension from stock flask A with 135 mL of fresh media
+(+GFs + L-glutamine + glucose). Passaged into 2 x E500s. Seeded each flask at
+a density of ~100k c/mL.
+
+  
+
+Reagents used
+
+ReagentIDVolume used  
+Growth media (1:1 RPMI:CHOin1)A12855280 mL  
+IGFA12212280 uL  
+EGFA1287456 uL  
+L-glutamineM128915.56 mL  
+GlucoseM128902.8 mL
+
+

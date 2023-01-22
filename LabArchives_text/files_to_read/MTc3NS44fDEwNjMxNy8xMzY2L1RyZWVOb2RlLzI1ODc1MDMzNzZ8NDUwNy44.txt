@@ -1,0 +1,87 @@
+
+
+## Performed by: LL  
+
+
+
+
+Culture IDs to image
+
+Vessel type(s)  
+Vessel ID  
+Number of wells being imaged  
+96WP
+
+6888-DOLLY12-Sheep P14-1of1
+
+24  
+  
+  
+
+
+
+
+Loading plate and opening software
+
+  1. Loaded plate into Zaber with A1 at top left position (hold back retention clip that holds plate in place, settle plate into place, release clip). Timestamp:  14:50 
+  2. Ensured culture ID label was present on the plate being imaged to enable scanning the QR code for Mia integration 
+  3. Opened "User Guide to Zaber imaging" linked below for instructions on how to open MicroManager (zaber imaging software) and set up plate for imaging. https://www.notion.so/vow/User-Guide-to-Zaber-imaging-ad19527eee9e42ed9db96faa911d6536
+
+
+
+
+Setting up plate for imaging
+
+Order of imaging sessions:
+
+1\. Konjac, columns 1 & 3, side 1
+
+2\. Beancurd, columns 5 & 7, side 1
+
+3\. Konjac, columns 1 & 3, side 2
+
+4\. Beancurd, columns 5 & 7, side 2
+
+  1. Channel(s) used (delete those that do not apply): [DAPI]
+  2. Exposure used:12 ms /  12 ms /  13 ms /  13 ms
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  3. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  4. Checked Z-stacks (slices) on "Multi-Dimensional Acquisition" window. 
+    1. Used the "twist" motion of the joystick to find the point of the scaffold where it is just out of focus (either direction is fine). Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "Start Z".
+      * Start Z value: 23,875.936 / 23,749.916 / 23,772.048 / 23,815.518
+    2. Twisted the joystick in the opposite direction to find the point at which the other side of the scaffold is just out of focus.  Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "End Z". 
+      * End Z value: 25,000 / 25,000 / 25,000 / 25,000
+    3. Set step size. Note: the ideal value is 50 um, however you will need to check "number of slices" to ensure it is a reasonable number. If the value is >20, consider increasing step size. 
+      * Step size: 100 / 100 / 100 / 100
+      * Number of slices: NR / NR / 13 / 12
+  5. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. For imaging scaffolds, used "whole well" recommendation. 
+      * Rows/Columns:  3R / 2C  
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+  6. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  7. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). 
+    * Total number of images:  1152 / 1248 / 1248 / 1152     
+
+  8. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up.
+  9. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID
+  10. Clicked acquire (clicked yes when asked about creating a new root directory). 
+    * Time started: 14:54 / 15:09 / 15:32 / 15:50     
+
+    * Time finished:  15:06 / 15:21 / 15:44 / 16:02     
+
+  11. Returned plate to fridge or incubator
+
+
+
+
+### Images
+
+https://mia-capture.vow.tools/#/session/recbR1ZMFD0HmXMnv/images
+
+Very minimal cells appear to be adhered. Difficult to get exposure right -
+very dark.
+
+

@@ -1,0 +1,44 @@
+Why do we need a benchtop stirred-tank bioreactor?
+
+
+The stirred-tank bioreactor is by far the most common large-scale cell culture
+system. Typical production-scale volumes are in the 2,000 - 20,000 L range.
+The key components of a stirred tank are:
+
+  1. The tank, which is usually filled to a depth of 1x - 1.5x the diameter of the tank
+  2. The impeller (stirrer), which is usually fitted close to the bottom of the tank and is ~1/3 the diameter of the tank
+  3. The sparger, which could be as simple as an open pipe or as complicated as a disk with microscopic pores, is used to release gas bubbles into the culture. The gas bubbles can be used to regulate the dissolved oxygen (by changing oxygen concentration) and pH (by changing CO2 concentration) in the culture.
+  4. The tempering blanket or jacket, which wraps around the tank and regulates the temperature of the culture.
+  5. Temperature, pH and dissolved oxygen measurement devices (probes) to provide feedback to the control mechanism.
+
+A benchtop stirred-tank bioreactor has all of the same elements as a
+production-scale stirred-tank bioreactor but is a much smaller, with a typical
+volume of 2 L. This allows us to test similar conditions (including impeller
+shear, gas sparging, pH, temperature and dissolved oxygen control) as would be
+experienced in a production-scale bioreactor WITHOUT going to the expense of
+installing and operating a 2,000 L batch!
+
+
+What are the strengths of a benchtop stirred-tank bioreactor?
+
+
+A benchtop stirred-tank bioreactor is designed to:
+
+  1. Maintain constant pH, temperature and dissolved oxygen throughout the entire volume of the culture. The bioreactor controller constantly monitors these 3 parameters.
+  2. Allow for sampling while maintaining sterility of the culture, feed reagents and harvested broth throughout the entire duration of the batch.
+  3. Enable scheduling and automatic execution of feeds, harvests and certain proces parameters to minimize the human intervention required.
+
+The Sartorius Biostat A 2 L that is operated here at Vow has all of these
+capabilities.
+
+
+What are the challenges with operating a benchtop stirred-tank bioreactor?
+
+
+A benchtop stirred-tank bioreactor (usually) does not:
+
+  1. Have functionality for automated or semi-automated cleaning and sterilization. All "wetted" parts (those that come into contact with the cell culture or reagents) need to be manually cleaned (or replaced) and sterilized in between batches.
+  2. Enable easy transfer of research-scale culture methods. For example, Trypsinization is commonly performed at room temperature in a bioreactor because heating a large volume of Trypsin to 37 deg C and maintaining the termperature is impossible over the short (~10 minute) timelines typically used for incubator Trypsinization. Trypsinization time is important to optimize as shorter times result in incomplete cell detachment but longer times result in cell death. As another example, the maximum shear stresses generated in planar cultureware and shaking flasks are very different (usually much lower) than those generated in a stirred-tank. Shear-stress is important to optimize as higher shear stress can damage or destroy cells but lower shear stress is often insufficient for complete detachment of cells during Trypsinization.
+  3. Exactly mimic production bioreactor environments. Different parameters are impacted differently as scale increases - for example, average shear stress increases with the cube of the impeller diameter but maximum shear stress increases linearly with the impeller diameter (assuming the stirring speed remains constant). It is therefore important to test cultures with many different (and sub-optimal) operating conditions in a bench-top bioreactor to try to mimic the sub-optimal conditons that may be experienced in a production bioreactor. For example, cell culture should be tested at unnecessarily high stirring speeds in the bioreactor to mimic the higher shear experienced in a larger bioreactor (with a larger impeller).
+
+

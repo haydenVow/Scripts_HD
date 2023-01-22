@@ -1,0 +1,31 @@
+
+
+Scan 4 x 384-well plates on Zaber imaging platform on Phase, 5x Magnification  
+  
+*Remember to add '-SCC' to the end of the ID (in the entry box labelled 'directory root') to ensure these images are sent to the ML Model.
+
+Follow Zaber image user guide
+
+Zaber image user guide
+
+Plate IDTime startedTime finished  
+9080-F_CHOMP09-Crocodile P1-1of4  
+10:55  
+11:03  
+  
+9081-F_CHOMP09-Crocodile P1-2of4  
+11:11  
+11:20  
+  
+9082-F_CHOMP09-Crocodile P1-3of4  
+11:25  
+11:34  
+  
+9083-F_CHOMP09-Crocodile P1-4of4  
+11:39  
+11:48  
+  
+  
+  
+
+

@@ -1,0 +1,226 @@
+
+
+## Completed by: LL AS EC
+
+
+L-Glutamine/Ala-Gln & Glucose in-house results
+
+
+L-Glutamine
+
+  * We do not yet have a system for monitoring L-glutamine levels in culture. We tested L-glutamine consumption in waste media analysis, however this was prior to supplementing the media with L-glutamine, and so the results are most likely simply showing us that the cells are producing their own supply of L-glutamine, rather than showing the rate of depletion in the media. We are therefore heavily reliant on external research for L-glutamine depletion rates. 
+
+Glucose
+
+  * MFG has begun using glucose urine testing kits to monitor glucose levels in the STR200 and STR2000. This has revealed varying results for glucose depletion. Note that the ranges shown on the test are 0, 1, 2.5-5, 5, 10, >20\. The starting level of glucose in these runs has been 6 g/L, which would fall in the "5" range.   
+    * Seed train 13, batch 3, E4, STR200 (glucose down ~2.5 g/L in 2 days) 
+      * D? 12/7 2.0-2.5 g/L
+      * D? 13/7 ~1 g/L
+      * D? 14/7 0g/L
+    * Seed train 13, batch 3, E5, STR2000 (glucose down ~2.5 g/L in 3 days)  
+      * D1 15/7 5 g/L
+      * D216/7 5 g/L
+      * D3 18/7 2.5-5 g/L
+    * Seed train 16, batch 1, E3, STR200 (less than 1 g/L decrease in 3 days) 
+      * D2 17/7 5 g/L
+      * D3 18/7 5 g/L
+      * D4 19/7 5 g/L
+      * D5 20/7 5 g/L
+  * Victoria has tracked glucose in the AMBR (https://docs.google.com/spreadsheets/d/1iiK7j0KfpOwDFZRnn2aVsX7dNctLX8pH4RZDe6CvzlE/edit#gid=0) 
+    * BR-1 (down 0.6 g/L over 4 days) 
+      * D0: 3.31 g/L
+      * D1: 3.05 g/L
+      * D2 2.96 g/:L
+      * D3 2.85 g/L
+      * D4 2.71 g/L
+    * BR-2 (down 1.4 g/L over 4 days) 
+      * D0: 3.31 g/L
+      * D1: 3.07 g/L
+      * D2 2.86 g/:L
+      * D3 2.37 g/L
+      * D4 1.88 g/L
+    * BR-3 (down 0.9 g/L over 4 days)
+      * D0: 3.28 g/L
+      * D1: 3.02 g/L
+      * D2 2.81 g/:L
+      * D3 2.34 g/L
+      * D4 2.37 g/L
+    * BR-4 (down 1.4 g/L over 4 days)
+      * D0: 3.26 g/L
+      * D1: 3.09 g/L
+      * D2 2.79 g/:L
+      * D3 2.37 g/L
+      * D4 1.86 g/L
+  * Waste media analysis results of glucose depletion
+    * 90/10 RPMI/CHO Nuvonis suspension medium: glucose went down 2.5 g/L over 7 days
+    * 0/100 RPMI/CHO Nuvonis suspension medium: glucose went down 2 g/L over 7 days  
+
+
+L-glutamine/Ala-Gln & glucose external lit review
+
+
+[1] Monitoring glutamine in mammalian cell cultures using an amperometric
+biosensor
+
+  * Murine hybridoma cells 
+  * "In this experiment, glutamine was pulsed-fed to the culture medium every 24 h to extend the growth and productivity. The level of glutamine was always kept below 2 mM in order to alleviate the overproduction of ammonia."
+  * In graph below, L-glutamine appears to decrease by ~1 mM in the first 30 hours. After being replenished, it then decreases by ~1.6 mM in 30 hours, then by ~1.8 mM in 20 hours, then 1.4 mM in 30 hours etc. (average seems to be roughly 1 mM/day) 
+
+[2] Improvement of CHO Cell Culture Medium Formulation: Simultaneous
+Substitution of Glucose and Glutamine
+
+  * Chinese hamster ovary (CHO) cell line
+  * In the first graph (e), glutamine reduces in a relatively linear fashion from ~7.5 mM to ~0.5 mM over 160h (7 mM in 6.6 days, ~1 mM/day) 
+  * In the second graph (c), they track glucose over time in a different batch. It goes from 20 mM to 5 mM over ~180h (15 mM aka 2.7 g/L in 7.5 days)
+  * In the third graph (a), they track viable cell density over time. The cells appear to slow at around 120h. This corresponds with L-glutamine at 1.5-2 mM and glucose at 10 mM (1.8 g/L)
+
+[3] In Situ Monitoring of Intracellular Glucose and Glutamine in CHO Cell
+Culture
+
+  * CHO-S cells
+
+  * Glucose went down ~10.4 g/L from day 0 to day 1, 2 g/L from day 1 to day 2, 1 g/L from day 2 to day 3 until reaching ~1 g/L by day 7
+
+  * Glutamine went down ~15 mM from day 0 to day 1, 5 mM from day 1 to day 2, until reaching close to 0 mM by day 8
+
+[4] Reduction of Waste Product Excretion via Nutrient Control: Possible
+Strategies for Maximizing Product and Cell Yields on Serum in Cultures of
+Mammalian Cells
+
+  * Human diploid foreskin cells (FS-4)
+  * Figure 5 shows the results of controlled addition of glutamine every 12 h. Glutamine was added so that the concentration would not fall below 0.2mM after 12 h.
+  * Figure 6 shows the results of uncontrolled addition of glutamine. The uncontrolled culture was replenished with 4mM glutamine from a 160mM stock solution whenever glutamine depletion was suspected
+  * Both cultures reached the same final cell concentration (1.2 x lo6 cells/mL) and had similar growth curves (data not shown).
+
+[5] Catabolic Control of Hybridoma Cells by Glucose and Glutamine Limited Fed
+Batch Cultures
+
+  * Mouse-mouse hybridoma cell line, 4195 G53 F12
+  * In control batch, glucose goes from 5 mM to 1 mM in ~45h (~ 0.35 g/L per day)
+  * In control batch, L-glutamine goes from 3 mM to 0.5 mM in ~45h (~ 1.2 mM per day)
+
+[6] Quantification of l-alanyl-l-glutamine in mammalian cell culture broth:
+Evaluation of different detectors
+
+  * CHO cell lineCB51
+  * Ala-Gln falls from 6-7 mM to 0 over ~150h (~1.1 mM per day) 
+
+[7] Tracking dipeptides at work-uptake and intracellular fate in CHO culture
+
+  * CHO DP12#1934 (ATCC) cell line
+  * Ala-Gln goes from 3 - 0 mM in ~3.5 days 
+
+[1] https://pubmed.ncbi.nlm.nih.gov/1352981/
+
+[2] https://pubmed.ncbi.nlm.nih.gov/10662492/
+
+[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3317985/
+
+[4] https://pubmed.ncbi.nlm.nih.gov/18561227/
+
+[5] https://pubmed.ncbi.nlm.nih.gov/18618848/
+
+[6]
+https://www.academia.edu/17496215/Quantification_of_l_alanyl_l_glutamine_in_mammalian_cell_culture_broth_Evaluation_of_different_detectors
+
+[7]
+https://www.researchgate.net/publication/305627347_Tracking_dipeptides_at_work-
+uptake_and_intracellular_fate_in_CHO_culture
+
+
+L-Glutamine/Ala-Gln & Glucose summary
+
+
+Brief research summary
+
+  * L-Glutamine and glucose tend to decrease in a similar fashion
+  * L-Glutamine and Ala-Gln typically fall by 1 mM per day in batch culture in bioreactors
+  * Cell growth appears to be negatively impacted when L-glutamine reaches ~1-2 mM
+  * The rate of glucose depletion seems to be a lot more varied than L-glutamine/Ala-Gln 
+  * We know from the day 0 supplementation results that higher levels of Ala-Gln (>4mM) do not appear to be detrimental to cell growth, however higher levels of glucose can be harmful (> 8g/L)
+  * HiMedia top up their glucose & L-glutamine when glucose levels fall to 3 g/L 
+
+Plan
+
+  * Condition 1: feed every 48h  
+    * Given our stating concentration of Ala-Gln is 4 mM  (from the day 0 supplementation results), we will supplement with 2 mM Ala-Gln every 48h to bring concentrations back up to 4 mM based on literature review suggesting depletion rate of 1 mM/day
+    * Given our starting concentration of glucose is 7.4 g/L (from the day 0 supplementation results), we will supplement with 2 g/L every 48h to bring concentrations back up to 7.4 g/L based on MFG observations of depletion rate of 1 g/L every day
+  * Condition 2: feed every 72h
+    * Add 3 mM Ala-Gln 
+    * Add 3 g/L glucose
+  * Condition 3: feed every 72h
+    * Add 3 mM Ala-Gln 
+    * Add 2 g/L glucose 
+  * Condition 4: base feeding schedule off glucose readings on urine test kit  
+    * We will test glucose levels daily 
+    * When glucose falls into 2.5-5 g/L range, we will add 2 g/L
+    * We will also add the appropriate amount of Ala-Gln to bring levels back up to 4 mM (based on 1 mM per day consumption rate)
+  * Condition 5: base glucose off strip kit but base L-glut off 1 mM per day and add every 72h
+    * We will test glucose levels daily 
+    * When glucose falls into 2.5-5 g/L range, we will add 4 g/L
+    * We will also add the appropriate amount of Ala-Gln to bring levels back up to 4 mM (based on 1 mM per day consumption rate)
+  * Control 1: No feeding, regular day 0 medium 
+  * Control 2: No feeding, day 0 medium minus HT 
+
+
+Hypoxanthine and thymidine
+
+
+The results obtained in the nutritional supplementation experiment informed
+the starting concentration of hypoxanthine and thymidine (H&T) for this
+experiment. The maximum cell density reached in the nutritional
+supplementation experiment was 2,070,000M cells/mL, where the starting
+concentration of H&T were  0.010 g/L and 0.001 g/L, respectively. Thus, in
+this experiment H&T will be used in a 10:1 ratio.
+
+There are few scientific articles on the kinetics of H&T in cell culture media
+with time, making it difficult to know what H&T feeding schedule, if any,
+further maximises cell density. One of the few scientific articles that were
+found regarding H&T use in cell culture indicates that medium supplemented
+with H&T at a concentration of 10 mg/L (0.010 g/L) and 2 mg/L (0.002 g/L),
+respectively increased integrated viable cell density (IVCC) by approximately
+20% when compared to no supplementation [4]. In another study, supplementation
+with H&T at concentrations of 10 mg/L and 2 mg/L improved initial cell growth,
+though the maximum viable cell density (VCD) was comparable to the culture
+without H&T supplementation (4,160,000 cells/mL (w/ suppplementation) versus
+3,800,000 cells/mL (w/o supplementation)). However, this study also found that
+the supplementation of H&T at concentrations of 50 mg/L and 10 mg/L,
+respectively started to inhibit cell growth, with the maximum VCD of 3,190,000
+cells/mL, and further increase of H&T concentration to 100 mg/L and 20 mg/L
+caused more drastic cell growth inhibition, with a maximum VCD of 2,500,000
+cells/mL. Concerning cell viability, no supplementation and supplementation
+with H&T at concentrations of 10 mg/L and 2 mg/L showed relatively higher
+viability than those cultures supplemented with higher concentrations of H&T,
+especially between day 8 and day 10 [5].
+
+Given these studies found the maximum VCD reached without H&T supplementation
+was comparable to that reached with H&T supplementation at concentrations of
+10 mg/L and 2 mg/L, this experiment will have;
+
+(1) Control condition without H&T supplementation, and;
+
+(2) Control condition with H&T at a starting concentration of 0.010 g/L and
+0.001 g/L, respectively.
+
+Moreover, according to the results obtained in the 100% CHO and 90/10 RPMI/CHO
+waste media experiment, the concentration of hypoxanthine in the media
+increased over time suggesting hypoxanthine is not consumed but rather
+produced by Nuvonis cells.  Note thymidine was not in the list of metabolites
+detected and quantified with NMR. Due to this as well as the lack of
+scientific literature on optimal feeding schedules for H&T in cell culture,
+this experiment will test the effect of different H&T feeding schedules
+besides no additional H&T top up on maximum cell density.
+
+[4] https://sci-hub.mksa.top/10.1007/s00253-011-3484-z
+
+[5] https://sci-hub.mksa.top/10.1016/j.jbiosc.2012.04.015
+
+
+
+
+  
+
+
+
+
+

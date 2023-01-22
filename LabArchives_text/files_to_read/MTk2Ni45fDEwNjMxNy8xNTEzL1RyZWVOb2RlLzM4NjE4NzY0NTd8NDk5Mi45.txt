@@ -1,0 +1,138 @@
+Background
+
+
+See Background Section as well as the Background Section written for Trial #2
+of fibroblasts in suspension culture.
+
+
+Aim
+
+
+To identify media composition that will allow primary fibroblasts to adapt to
+suspension culture in 50mL shake tubes and promote proliferation.
+
+
+Hypothesis
+
+
+That screening 4 more media components will allow us to assess their effect on
+cell survival and proliferation in suspension culture of primary fibroblasts.
+
+
+Methods
+
+
+1\. Prepare 50mL of each Growth Media:
+
+\- DMEM/F12 + 20% FBS + 1X P/S (Serum Control)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + ROCK Inhibitor (Y27632, 10µM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + ROCK Inhibitor (Y27632, 20µM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + Pluronic F-68 (Poloxamer 188) 0.1% w/v
+
+\- DMEM/F12 + 20% FBS + 1X P/S + Pluronic F-68 (Poloxamer 188) 0.2% w/v
+
+\- DMEM/F12 + 20% FBS + 1X P/S + RDG Peptide (0.01mM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + RDG Peptide (0.1mM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + RDG Peptide (1mM)  
+
+\- DMEM/F12 + 20% FBS + 1X P/S + YIGSR (0.1-100µM)  
+2.1 pmol/cm2 used for adherent so something similar?) = 3000pmol for 10M cells
+(if 2.1pmol/cm2 and 7,000 cells / cm2 = 2.1pmol / 7,000 cells) = 0.000003 mM
+or 0.003 µM
+
+\- DMEM/F12 + 20% FBS + 1X P/S + YIGSR (10µM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + YIGSR (100µM)
+
+\- DMEM/F12 + 20% FBS + 1X P/S + 1:100 RevitaCell
+
+  
+
+  
+
+  
+
+ROCK
+
+Pluronic
+
+RevitaCell
+
+Serum Ctrl x 3 (1 control, 2 for RGD/YIGSR when it arrives)
+
+  
+
+
+
+
+Note* Due to delay in RGD and YIGSR peptide delivery, 4 conditions will go
+ahead:
+
+\- Serum control (high cell density)
+
+\- Serum control (low cell density)
+
+\- ROCK inhibitor 10µM
+
+\- Pluronic F-68 (Poloxamer 188) 0.1% w/v
+
+  
+
+  
+
+
+
+
+  1. Prepare 500mL of Growth Media
+  2. Aliquot 2 x 50mL for the serum control conditions
+  3. Aliquot 49.95mL Growth Media + 50µL ROCK inhibitor (Mix ID #2224 10mM Y-27632)
+  4. Aliquot 49.5mL Growth Media + 500µL Poloxamer (Aliquot ID #4915 10% W/V Poloxamer 188)
+
+Seeding Day:
+
+  1. Harvest DOLLY12 fibroblasts from 5CF and perform cell count
+  2. Aliquot 8.5M cells into 3 x 50mL shake tubes, and 34M cells into 1 x 50mL shake tube.
+  3. Centrifuge at 650 x g for 5 min at RT.
+  4. Aspirate supernatant carefully
+  5. Resuspend each pellet in 1mL of the respective Growth Media with a P1000 to break up the cells
+  6. Add the remaining 9mL of respective Growth Media with a 10mL serological pipette to disperse cells evenly throughout the suspension
+  7. Transfer tubes to shake at 206 RPM at 37ºC, 5% CO2.
+
+Every 2 days: (week-day)
+
+  1. Aliquot 10mL of each growth media required for the 100% feed (20mL of serum-based Growth Media and 10mL of each ROCK / Pluronic -supplemented media).
+  2. Warm at 37ºC for at least 15 mins.
+  3. Collect the 50mL shake tubes and observe the suspensions.  
+Note cloudiness, any clumps, sediment, other observations
+
+  4. Centrifuge 50mL shake tubes at 650 x g for 5 min at RT.
+  5. Transfer tubes to the BSC.
+  6. Aspirate supernatant from each pellet.
+  7. Resuspend each pellet in 1mL of respective Growth Media with a P1000 to break up the cells (triturate 10-20 times)
+  8. Collect 1 x 10µL aliquot for cell counting (unless new counting method is developed).
+  9. Add the remaining 9mL of respective Growth Media with a 10mL serological pipette to disperse cells evenly throughout the suspension.
+  10. Return shake tubes back to shake at 206 RPM at 37ºC, 5% CO2.
+  11. Perform a 1:1 trypan blue dilution on the cell count and visualise under a hemocytometer. Count live and dead cells for each grid, and add details to this counting spreadsheet https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=124392711
+
+  
+
+Every 2 days: (weekend)
+
+  1. Aliquot 10mL of each growth media required for the 100% feed (20mL of serum-based Growth Media and 10mL of each ROCK / Pluronic -supplemented media).
+  2. Warm at 37ºC for at least 15 mins.
+  3. Collect the 50mL shake tubes and observe the suspensions.  
+Note cloudiness, any clumps, sediment, other observations
+
+  4. Centrifuge 50mL shake tubes at 650 x g for 5 min at RT.
+  5. Transfer tubes to the BSC.
+  6. Aspirate supernatant from each pellet.
+  7. Resuspend each pellet in 1mL of respective Growth Media with a P1000 to break up the cells (triturate 10-20 times)
+  8. Add the remaining 9mL of respective Growth Media with a 10mL serological pipette to disperse cells evenly throughout the suspension.
+  9. Return shake tubes back to shake at 206 RPM at 37ºC, 5% CO2.
+
+

@@ -1,0 +1,244 @@
+
+
+# Passage 2x5CS into 12xT175
+
+* * *
+
+Date: 07/06/2021  
+Start time: 9:30am  
+End time: 17:00PM  
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s Seeded Culture ID/s  
+  
+6969,6967
+
+7003-DOLLY12-Sheep P10-1of12  
+7004-DOLLY12-Sheep P10-2of12  
+7005-DOLLY12-Sheep P10-3of12  
+7006-DOLLY12-Sheep P10-4of12  
+7007-DOLLY12-Sheep P10-5of12  
+7008-DOLLY12-Sheep P10-6of12  
+7009-DOLLY12-Sheep P10-7of12  
+7010-DOLLY12-Sheep P10-8of12  
+7011-DOLLY12-Sheep P10-9of12  
+7012-DOLLY12-Sheep P10-10of12  
+7013-DOLLY12-Sheep P10-11of12  
+7014-DOLLY12-Sheep P10-12of12  
+  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+  
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.  
+  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Place new seeding flasks into the 37'C incubator to pre-warm.
+  3. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  4. Aliquot required volume of dPBS (37C), dPBS (ambient temp), TrypLE, and Growth Media in separate sterile pots. Refer to Table above for required volume.
+  5. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 9:30am
+
+  6. Transfer aliquots and flasks required for harvest into the BSC.
+  7. Discard growth media from each flask.
+  8. Wash with warmed dPBS, then discard.
+  9. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  10. Place in the incubator at 37C. After 8-10 minutes, remove flasks and observe for 95-100% dissociation of cells. Incubate further until maximum dissociation level is reached.  
+`     Time stamps`:
+
+    1.  14:52pm - 15:10pm (18 minutes)
+    2.  14:53pm - 15:16pm (23 minutes)
+  11. Aspirate the TrypLE solution and collect into 50mL centrifuge tubes(labelled).
+  12. Using a serological pipette, dispense ambient temperature dPBS to create a final wash for each of the flasks. To effectively remove remaining cells adhered to the gelatin coated flasks,  aspirate the dPBS and resuspend into the the flask 2-3 times before collecting and combining the entire volume into the centrifuge tubes.
+  13. Centrifuge at 650 x g for 5 minutes. ``  
+`      Time stamp` :
+
+    1.  15:20pm
+    2.  15:28pm
+  14. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirate the supernatant from the tubes into fresh tubes. Remove as much remaining supernatant with a 1mL pipette, and resuspend cell pellets in 1mL media and combine into one suspension.  
+Cells are now harvested.  
+
+  15. For collected supernatant, spin at 1000 rcf for 5 mins  
+
+###  
+
+### Cell Count
+
+  1. Following cell harvest and centrifugation, re-suspend the cell pellets. Use the table below to provide a rough estimation of the resuspension volume required.  
+  
+Pellet Resuspension Volumes for Cell CountFlask TypeCell resuspension volume
+per flask  
+T1752mL  
+2CF5mL  
+4CF10mL  
+5CS12mL  
+10CS25mL  
+  
+2a. Perform cell count on 18 min TrypLE- harvested cells (Refer to VSOP-007)
+and enter details into Production Cell Count Calculator: VBLT-001
+
+  
+Harvest and Seeding DataCount 1 Count 2  
+Total resuspension volume19.2mL  
+  
+  
+  
+Extracted volume from total suspension
+
+2 x 50uL
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+10 uL10 uL  
+Volume of 4%Trypan blue  
+90 uL90 uL  
+Dilution factor  
+1010  
+Live Cell count  
+102,144,00089,856,000  
+Dead cell count  
+6,912,0009,216,000  
+Total cell count  
+109,056,00099,072,000  
+Average Cell Count (total)104,064,000  
+  
+  
+Average Cell Count (Live)96,000,000  
+  
+  
+  
+  
+  
+
+2b. Perform cell count on 23 min TypLE-harvested cells (Refer to VSOP-007) and
+enter details into Production Cell Count Calculator: VBLT-001
+
+  
+Harvest and Seeding DataCount 1 Count 2  
+Total resuspension volume19.5mL  
+  
+  
+Extracted volume from total suspension
+
+2 x 50 uL
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+10uL10uL  
+Volume of 4%Trypan blue  
+90 uL90 uL  
+Dilution factor  
+1010  
+Live cell count  
+114,660,00093,990,000  
+Dead cell count  
+8,580,00018,720,000  
+Total cell count  
+123,240,000112,710,000  
+Average Cell Count (total)117, 975,000  
+  
+  
+Average Cell count (Live)104,325,000  
+  
+  
+  
+2c. Perform cell count on cell pellet from the supernatant spun at 1000rcf
+(Refer to VSOP-007) and enter details into Production Cell Count Calculator:
+VBLT-001
+
+  
+Harvest and Seeding DataCount 1 Count 2  
+Total resuspension volume1mL  
+  
+  
+Extracted volume from total suspension
+
+50 uL
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+25uL25uL  
+Volume of 4%Trypan blue  
+25 uL25 uL  
+Dilution factor  
+22  
+Total cell count  
+184,000228,000  
+Average Cell Count (total)206,000  
+  
+  
+  
+  
+
+### Cell Seeding
+
+  1. Once cell counts are complete, combine the 2 cell suspensions from the harvest. Average total cell count and volume: 199,290,000 cells (live count) in 38.5mL
+  2. Triturate the obtained cell suspension 10 times using a 25mL serological pipette to ensure a homogeneous cell suspension is obtained.
+  3. Determine the required volume of suspension media (to achieve seeding density of about 30, 000 cells/cm2)  and dispense into pre-aliquoted growth media. Use Production Cell Count Calculator: VBLT-001.  
+Type & No. of flasks seeded: 12xT175  
+Seeding density: 31,633 cells/cm2  
+Volume of cell suspension per flask: 1.07mL  
+Media: PRF DMEM/F12  \+ 10% FBS for 9xT175, PRF DMEM/F12 + 20% FBS for 1xT175.
+
+  4. Transfer flasks from the incubator into the BSC.
+  5. Transfer required growth media + cells into each flask.  
+`    Start time` : 16.45pm  
+
+  6. Repeat the above step as many times as required until all flasks have been seeded with the media+cells.
+  7. Transfer the flasks into the 37C incubator. Refer to Appendix 3 for incubation conditions.  
+`    Incubation time` : 17:00PM  
+
+Incubation Conditions:
+
+          [ X ]  37ºC, 5% CO2 (mammalian cells)  
+          [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+          [  ]  Top Right Binder Incubator  
+          [  ]  Bottom Right Binder Incubator  
+          [ X ]  Top Left Binder Incubator  
+          [  ]  Bottom Left Binder Incubator
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required37'C, 5%
+CO2  
+  
+#  
+
+References
+
+Referenced Method: Section 8 under VSOP-005 & VSOP-009
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+
+

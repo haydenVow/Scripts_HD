@@ -1,0 +1,272 @@
+
+
+1\. Team Structure
+
+Project Lead: Victoria
+
+Primary Team: Victoria, Addy
+
+Additional Support: James H, Tom, Claudia, Adrian
+
+Oversight by: Katie, Ellen
+
+2\. Project rationale & objectives
+
+## 2.1 Overall objective: To establish conditions for culturing GEN1-product-
+suitable animal cells in a scalable bioreactor format, ready for hand off to
+pilot plant
+
+##  
+
+## Note: GEN1 (1st-generation) product indicates all QMS (quality management
+system) requirements have been adhered to and including ACF (animal component-
+free) culture conditions
+
+  
+
+2.2 Rationale: This project aims to de-risk the assumption that CHOMP
+fibroblasts, which are the preferred cell line for GEN1 product and were
+isolated in-house, are capable of expansion in a single-cell suspension
+culture format. Primary, non-transformed and non-immortalised fibroblasts are
+inherently an anchorage-dependent cell type (ref) and thus 'adaptation to
+suspension culture' is unlikely to occur through media formulation
+optimisation alone.
+
+  
+
+This project therefore aims to:
+
+  
+
+  1. Determine the suitability of aggregate encapsulation methods for suspension-format-compatible culture of CHOMP fibroblast cells
+
+  2. Source commercially available suspension culture-adapted cell lines suitable for use as a GEN1 product
+
+  3. Determine bench-top bioreactor culture conditions for either of the above, depending on experimental outcomes
+
+  
+
+2.3 Key results & objective breakdown
+
+  
+
+### 2.3.1 KR1: Determine feasibility of culturing FCHOMP-09 cells as
+encapsulated aggregates in suspension culture format
+
+The focus of this KR is to determine if encapsulated aggregate culture is
+compatible with FCHOMP-09 cells, including maintenance, expansion, and cell
+viability
+
+Objectives:
+
+  * Culture CHOMP fibroblasts as suspension-aggregates using fibrinogen + thrombin encapsulation
+
+  * Culture CHOMP fibroblasts as suspension-aggregates using CHOMP ECM (extracellular matrix) media precipitate encapsulation
+
+  * Measure viability of aggregates over time, assessing distribution of cell death/viability 
+
+  * Measure expansion of aggregates over time, in comparison to CHOMP cells in single-cell suspension and positive control, single-cell-adapted CHO cells 
+
+## 2.3.2 KR2: Establish MCB (master cell bank)s of GEN1-product-suitable cells
+from commercially available cell lines
+
+The focus of this KR is acquisition and expansion of suspension-adapted cell
+lines of animal origin, suitable for use in a GEN1-product into a MCB to be
+stored in Vow LN2 (liquid nitrogen).
+
+Objectives:
+
+  * Identify suitable cell lines (see Notion page for acquisition, and selection criteria)
+
+  * Establish and acquire importation requirements, and then acquire cell lines and related media components
+
+  * Establish MCB according to culture conditions prescribed by suppliers (may be serum-containing conditions for some lines)
+
+  * Establish conditions for culture of x1 commercially available cell line (top-contender for back-up GEN1-suitable product) in bench-top bioreactors (see KR3, below, for further details)
+
+2.3.4 KR3: Determine bench-top bioreactor conditions for CHOMP suspension
+aggregates (if relevant) and commercial GEN1-suitable cell lines
+
+There will be cross-communication between this project and the former
+'production team' (reorganised as of 2022 to be singular 'team technology').
+The focus of this KR is testing of different benchtop bioreactor culture
+conditions to
+
+  1. test if aggregate culture (if relevant, pending outcome from KR1) is suitable for bioreactor culture and to determine ideal bioreactor culture conditions
+
+  2. Determine bioreactor culture conditions suitable for scale production of single cell suspension cell paste
+
+  3. to batch produce single-cell cells for product development using a bioreactor format using single-cell-adpated cell line (CHO or similar, pending importation timelines)
+
+  4. Inform pilot plant development 
+
+
+
+Objectives:
+
+
+
+  * Determine list of bioreactor formats for purchase
+
+  * Order bioreactors (lead time is blocker)
+
+  * Deploy bioreactor training for relevant users
+
+  * Trial culture conditions (stir/motion speed, media changing, biosensors) for optimal growth
+
+2.3.5 KR4 STRETCH: Outsource adherent cell lines to 3rd party for suspension
+adaptation
+
+The above has been identified as a stretch goal because the outcomes of this
+goal are not necessary to achieve the overall objective of this project (see
+2.1). Team-technology at Vow currently does not have the bandwidth to adapt
+cell lines to suspension through media formulation optimisation. It is
+unlikely that adult, primary fibroblasts (such as CHOMP) will adapt to
+suspension without modification or immortalisation. It is more likely that
+immortalised cell lines will be amenable to this process. Cell suspension
+adaptation is a service offered by some biotechnology companies. The focus of
+this KR is to outsource suspension adaptation of immortalised adherent cell
+lines acquired by Vow to a 3rd party.
+
+Objectives:
+
+  * Compile list of service providers and make contact
+
+  * Acquire adherent, immortalised cell lines suitable for suspension adaptation and use in a GEN1 (or later) product
+
+  * Send lines to 3rd party for suspension adaptation
+
+2.4 Roadmap (currently WIP)
+
+See Shortcut project roadmap <link here>
+
+2.5 Weekly goals
+
+###  
+
+Week starting
+
+KR1: Aggregates
+
+KR2: Cell line acquisition
+
+KR3: Bioreactor and scale up
+
+KR4: 3rd-party suspension adaptation  
+  
+17-Jan-2022
+
+Test formation of aggregates with thrombin + fibrinogen (or Matrigel if above
+on order has not arrived)  
+  
+Order rocking/gyrating platform  
+  
+Concretely define assays for determining viability and expansion
+
+Meet with ProBiogen and discuss use of AGE1 cell lines  
+  
+Agitate for MTA and shipping ASAP
+
+  
+
+Purchase via ATCC (they've had their chance to respond)
+
+Finalise list for purchase and complete ordering
+
+Follow up with Xell  
+  
+1 hour allocated to finding alternative providers  
+  
+24-Jan-2022
+
+  
+
+  
+  
+  
+
+  
+
+Start work for MCB expansion of cell lines (adherent) if bandwidth permits  
+  
+31-Jan-2022
+
+  
+  
+  
+  
+  
+  
+7-Feb-2022
+
+  
+  
+  
+  
+  
+  
+14-Feb-2022
+
+  
+  
+  
+  
+  
+  
+21-Feb-2022
+
+  
+  
+  
+  
+  
+  
+28-Feb-2022
+
+  
+  
+  
+  
+  
+  
+7-Mar-2022
+
+  
+  
+  
+  
+  
+  
+14-Mar-2022
+
+  
+  
+  
+  
+  
+  
+21-Mar-2022
+
+  
+  
+  
+  
+  
+  
+28-Mar-2022
+
+  
+  
+  
+  
+  
+  
+###  
+
+  
+
+  
+
+  
+
+

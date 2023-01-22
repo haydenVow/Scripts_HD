@@ -1,0 +1,164 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To investigate what impact varying levels of UVB irradiation and varying
+concentrations of a P53 inhibitor have on long term crocodile fibroblast
+longevity and viability.  
+
+
+Hypothesis
+
+
+We hypothesise that cells exposed to (level) of UVB irradiation and (conc)
+P53i will be more likely to sustain non-lethal mutations than those exposed to
+(levels), which will likely cause cell death (based off previous results
+Mutagenesis Trial 2).
+
+
+Technical Gap
+
+
+Producing a fibroblast clone that is able to maintain proliferative capacity
+longterm is vital to produce large quantities of consistent cell mass. In
+order to continue growing beyond the Hayflick limit, a cell must undergo
+mutation. This can happen randomly as a result of DNA replication errors, or
+can be induced through environmental conditions such as UV exposure. We have
+previously explored inducing cell mutagenesis by way of UVB irradiation in the
+presence of a P53 inhibitor (Mutagenesis Trial 2). However, the fibroblasts
+showed signs of senescence soon after treatment and did not proliferate. We
+were unable to determine whether the cause of the cell death was over-exposure
+to UV irradiation, too-high levels of P53i, or a combination of the two. This
+experiment aims to clarify the level of UV irradiation and the concentration
+of P53i at which fibroblasts remain viable and continue proliferating.
+
+
+Method/Procedure
+
+
+Phase 1 (expansion and seeding)
+
+  1. Thaw a vial of CHOMP fibroblasts into 1 x T175 in DMEM/F12 + 10% FBS + 1xP/S
+
+  2. Grow cells until ~90% confluent, perform 50% feeds every 72H hours.
+
+  3. Passage cells into 13 x 6-well plates (3 wells per plate) at 7000 cells/cm^2 (need 2,620,800 cells to seed)
+
+  4. 50% feed every 72 hours with growth medium until ~70% confluence is reached. 
+
+Rather than waiting until the cells are 70% confluent, we may want to treat
+the cells with P53i / UV around 16-24hrs after seeding.  This may be more
+applicable for the UV radiation treatment  (If we can expose the cells to UV
+and cause mutations right before the S phase, then we could actually skip the
+normal cell cycle checkpoints that look for mutations prior to division!)
+
+  
+
+Phase 2 (UV irradiation and P53i treatment)
+
+  1. Divide the plates into 4 groups:
+
+    1. Artificial UV irradiation (4 plates) 
+
+    2. Natural (solar) UV irradiation (4 plates)
+
+    3. P53i treatment (4 plates)
+
+    4. Ultimate control (1 plate - stays in incubator in GM)
+
+  2. Prepare 120 mL of Growth Medium (D/F+10%FBS+1xP/S+100ng/mL FGF-B+100ng/mL IGF-2)
+
+  3. Group 1: Artificial UVB irradiation 
+
+    1. Label plates according to how much irradiation they are receiving (label 4th plate as "control")
+
+    2. Set up UVB lamp inside BSC 
+
+    3. Bring 4 plates into BSC. Remove growth medium and wash with 2 mL dPBS. Replace with 4 mL fresh dPBS. 
+
+    4.  ~~Place on ice block~~
+
+    5. Move control plate to second BSC where it will not be exposed to UV (or create a barrier in BSC to block UV)
+
+    6. Place treatment plates 10 cm from lamp and turn on light. 
+
+    7. Remove plate 1 after __ min  (5 mj/cm^2).
+
+      1. Replace dPBS with fresh, warmed growth medium + 100 ng/mL FGF-B and IGF-2
+
+      2. Image plate.
+
+    8. Remove plate 2 after __ min (15 mj/cm^2).
+
+      1. Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+      2. Image plate.
+
+    9. Remove plate 3 & control plate after __ min (30 mj/cm^2).
+
+      * Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2 
+
+      * Image plates.
+
+  4. Group 2: Natural (solar) UV irradiation
+
+    1. Label plates according to how many minutes they will be exposed to solar irradiation (label 4th plate as "control") 
+
+    2. Bring plates into BSC. Remove growth medium and wash with 2 mL dPBS. Replace with 4 mL fresh dPBS with 1xP/S.  
+
+    3. Bring plates outside of lab. Place in full sunlight on cloudless day at ~12 pm on ice/ice block - will need to monitor and replace as this warms
+
+    4. Place control plate under shelter on ice (no sun exposure)
+
+    5. Remove plate 1 after 60 min
+
+      1. Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+      2. Image plate.
+
+    6. Remove plate 2 after 120 min 
+
+      1. Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+      2. Image plate.
+
+    7. Remove plates 3 & 4 after 180 min 
+
+      1. Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+      2. Image plates.
+
+  5. Group 3: P53i treatment-- I think we should focus on concentrations here, rather than timing.  P53 isn't always immediately expressed after damage.  In one of the papers you found, P53 didn't decrease expression until 36 hrs later, so I'd like to treat the cells with P53i for at least 2 days after the UV exposure, across the board. 
+    1. Label plates according to which concentration of P53i they are receiving (label 4th plate as "control") 
+
+    2. Prepare solutions of of P53i in dPBS:
+
+      1. For plate 1: 10 mL of dPBS +  uL P53i (30 nM)
+
+      2. For plate 2: 10 mL of dPBS + __ uL P53i (10 uM)
+
+      3. For plate 3: 10 mL of dPBS + __ uL P53i (30 uM) 
+
+    3. Prepare a solution of dPBS with DMSO 
+
+      1. 10 mL of dPBS + __ uL DMSO 
+
+    4. Bring plates into BSC. Remove growth medium and wash with 2 mL dPBS. 
+
+    5. Replace with 3 mL of dPBS + P53i in plates 1-3 
+
+    6. Replace with 3 mL of dPBS + DMSO in plate 4 (control) 
+
+    7. After __ min 
+
+      1. Wash wells in all plates with 2 mL fresh dPBS (no P53i)
+
+      2. Replace with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+      3. Image plates.
+
+

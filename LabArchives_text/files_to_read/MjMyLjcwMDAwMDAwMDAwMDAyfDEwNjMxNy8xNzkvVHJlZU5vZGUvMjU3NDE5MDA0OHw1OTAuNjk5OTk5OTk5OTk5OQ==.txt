@@ -1,0 +1,84 @@
+
+
+Process:
+
+  1. Add ingredients for making 500mL of E8 (x0.2 P/S) as shown in figure 1 to a filter unit.
+  2. To the same filter unit, add ingredients for turning this into E89C:
+    1. 60uM ethanolamine: 1.8 uL of stock ethanolamine
+    2. 1uM p38i: 25uL of 20mM stock
+    3. 150mg/L albumin: 750uL of 100mg/mL stock albumin
+    4. 40uM GABA: 10uL of 2M GABA working stock - use 1.0312g in 5mL PBS to make 2M solution. 
+    5. 20ng/mLof mouse LIF from MesoKine: 100uL of 100ug/mL stock
+    6. 2mM hypoxanthine: 134.64mg of hypoxanthine
+    7. 1:1000 Trace Elements B: 0.5 mL
+  3. Filter the media. Then add:
+    1. 1:100 concentrated lipids: 5mL of chemically defined lipids
+    2. 25nM EGF: 352uL of 14.2857uM EGF stock (Note: the only reason I added this later was because it needed to be reconstituted first).
+  4. Make 125mL of E810C by adding the following to E89C
+    1. 50uM glyoxylic acid: 250 uL of 100mM glyoxylic acid. To make 100mM stock, weigh out 0.092g of glyoxylic acid and add 10mL of E8 media. Syringe filter before use.
+  5. Make 125mL of E811B by adding the following to E89C
+    1. 250pg/mL IL-6: 12.5uL of 10ug/mL stock
+  6. Store all media wrapped in foil in the fridge (4 degrees C).
+
+  
+
+Figure 1
+
+
+
+  
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+DMEMs1631  
+F12s1702  
+P/Sa3724  
+FGF2m2066  
+TGFbm3363  
+LAA2Pm2716  
+sodium bicarbs639  
+insulinm1714  
+sodium seleniuma1681  
+transferrinm520, m3916  
+albumins365  
+p38im3375  
+EGFm4297  
+mLIFm2437  
+ethanolamines680  
+trace elements Bs1076  
+GABAs696  
+PBSm4039  
+lipidsa2231  
+glyoxylic acids162  
+IL-6m2321  
+  
+  
+
+Observations/Summary:
+
+Made E89C, E810C, E811B.
+
+  
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+  
+
+  
+
+  
+
+

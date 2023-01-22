@@ -1,0 +1,141 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+## Background
+
+A suspension adapted clonal cell line can be produced in 3 ways:
+
+  1. Perform suspension adaption with heterogenous population. Then perform suspension single cell cloning with adapted cells.
+  2. Perform adherent single cell cloning and then adapt immortal clones to suspension.
+  3. Perform simultaneous adaption and cloning.
+
+This experiment looked at approach 2. Both immortalisation and suspension
+adaption require selecting for cells that have the appropriate genes. So, it's
+possible that by using the second approach, the genetic variability of cells
+is narrowed down so much that it's more difficult to come across clones that
+can also adapt to suspension. Therefore, using the first approach may yield
+better results. However, suspension adaption has proved to be a time consuming
+process and Vow has not yet produced a large population of suspension adapted
+cells. Approach 3 is something has not been tried at Vow before but could be
+faster in the long term because we would select both immortal and suspension
+adapted clones at the same time. However, it would also require a high-
+throughput platform to screen a large number of cells and find the ones that
+have genes that allow for both of these characteristics. As each approach
+offers advantages and disadvantages, experiments relating to all 3 options are
+being continued.
+
+Method summary
+
+MuSC clone DOLLY12_11E7 and fibroblast clone F_DOLLY12_4C4 was used for this
+experiment to seed 50 mL shake tubes. The MuSC clone was seeded at 200 000
+cells/mL with 3 replicates for each of the media conditions below. The
+fibroblast clone was seeded with ~190 000 cells/mL with 1 replicate for
+conditions containing FBS and 2 replicates for conditions containing KSR.
+Cultures were kept on a shaker at 206 rpm. A feed and count was performed by
+live/dead staining every 3-4 days.
+
+Each condition included 1:100 v/v Pen/Strep, 1:100 anti-clumping agent, 0.1%
+P188, and 100 ng/mL of FGF, IGF1-LR3 and PDGF with either:
+
+  * RPMI + 5% FBS
+  * RPMI + 20% KSR
+  * CD-CHO + 5% FBS
+  * CD-CHO + 20% KSR
+
+Key findings and discussion
+
+  
+
+Cell counts for both clones decreased to below 1000 cells/mL during the first
+2 weeks. During the third week, there appeared to be a slight increase in cell
+numbers. For both clones, cultures grown in KSR had more cells/mL than
+cultures containing FBS. However, this difference was not statistically
+significant. From day 28 to day 39, cell numbers decreased once again. The
+increase in cell number we observed from day 21 to day 28 coincided with the
+removal of PDGF from media because it was out of stock. However, it is
+difficult to conclude whether the removal of PDGF contributed to an increase
+in cell numbers. Findings in literature do not suggest that removal of PDGF is
+beneficial for proliferation. For example, in a paper by Doumit et al.[1], the
+interactions among bFGF, EGF, IGF-I, and PDGF-BB were examined in serum-free
+medium for porcine myoblasts. In their research, the combination of FGF and
+IGF increased proliferation. However, a similar increase in proliferation was
+also observed when FGF, IGF, and PDGF-BB were used together.
+
+Although it is expected that cell numbers will decrease when adherent cells
+are put into suspension, a recovery in cell numbers after ~3 weeks is also
+expected if cells have adapted. For example, EPIC22586 involved adapting a
+heterogenous population of DOLLY12 fibroblasts to suspension by using a
+similar media formulation (CD-CHO + 10% KSR). On day 30, this culture reached
+660 000 cells in total. In contrast, the maximum cells/mL observed with clones
+on day 28 was ~3000 cells/mL which equals to ~15 000 cells total in 5 mL.
+
+As a significant increase in cell numbers was not observed in this experiment
+even after 40 days in suspension, we concluded that none of the clones adapted
+to suspension in any of the media formulations tested.
+
+This was the first experiment where clones were used for suspension
+adaptation, rather than a heterogenous population of cells. Suspension
+adaptation experiments have been performed with the assumption there would be
+two main factors affecting suspension adaption. The first would be differences
+in the the genetics of cells which may allow some cells to survive and adapt
+in suspension better than others and the second factor is media formulations.
+When different media formulations are tested with a heterogenous population of
+cells, it was difficult to ascertain whether high cell counts in a media
+condition occurred due to the media itself, or whether it occurred because
+that culture happened to contain cells with genes that were beneficial for
+suspension culture. Because clones were used for this experiment, it can be
+claimed that the differences in cell numbers (although not significant) that
+were seen were due to media formulations.
+
+The results of this experiment are also relevant in the context of our single
+cell cloning pipeline (see background info above).
+
+Limitations
+
+  * There were not enough replicates for the fibroblast clone to do any statistical analysis to compare between different media conditions or compare between the two clones.
+  * PDGF was out of stock during the experiment so it was not included in feeds from day 18 to day 32.
+  * The IGF1-LR3 used in this experiment had been reconstituted in February 2020. It's recommended storage after reconstitution is for 12 months at -20 degrees C. Therefore, it's possible that the activity of this growth factor was reduced. New stock of IGF1-LR3 has arrived and will be used going forwards.
+  * On day 14 and day 25, blue fluorescent debris was observed when imaging stained samples (see figures below). Therefore, images from these time points could not be used to obtain cell counts. It's possible that debris gets introduced during the staining and dilution steps that are performed in a non-sterile environment. So, sterile filtering the staining solution and performing the staining and dilution in the BSC may avoid this. The other possibility would that the combination of Hoechst, Sytox, and PBS form a precipitate when left in solution together for a while. Further investigation is needed to identify the cause. Because images for other time points near day 14 and day 25 did not have this issue, the general trend of cell growth could still be observed. Therefore, losing data from these 2 days did not significantly affect the overall results of the experiment.
+  * Day 21, plate 2, well B3 - no debrisday 14, plate 2, well B3 - contains debris
+
+
+
+  * There was no heterogenous control included in this experiment. Although none of the clones adapted to suspension in the media  tested, it does not confirm that the media was insufficient. It is likely that both clones did not have genes that are beneficial for surviving adaption. If there was a control with a heterogenous population in the same media conditions and it performed better, it would be possible to conclude that perhaps the presence of cells with genes that allow for suspension adaptation contributed to this.
+  * This experiment used sheep cells. However, Vow's goal for the first product is to use crocodile or wallaby cells. There is not much data regarding how those cell lines will perform during the suspension adaption process, the single cell cloning process, or growth in the media formulations tested here.
+
+Next steps
+
+  * Attempt fast adaptation with CHOMP cells to test how these cells behave in different media formulations in suspension (see EPIC26167)
+  * Perform single cell cloning with CHOMP cells to see how they behave as single cells
+  * Develop a high-throughput single cell cloning suspension pipeline by using OT2 (see EPIC27212)
+  * Perform an experiment to troubleshoot and identify the cause of fluorescent debris (see EPIC26645, EPIC26777))
+
+References
+
+[1] Doumit, Matthew E., Douglas R. Cook, and Robert A. Merkel. "Fibroblast
+growth factor, epidermal growth factor, insulin‐like growth factors, and
+platelet‐derived growth factor‐BB stimulate proliferation of clonally derived
+porcine myogenic satellite cells." Journal of cellular physiology 157.2
+(1993): 326-332.
+
+

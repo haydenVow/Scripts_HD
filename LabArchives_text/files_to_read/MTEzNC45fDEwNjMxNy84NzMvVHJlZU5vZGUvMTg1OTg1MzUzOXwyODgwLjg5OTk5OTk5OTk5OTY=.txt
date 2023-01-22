@@ -1,0 +1,217 @@
+
+
+Confluence rating spreadsheet and Mia data  
+  
+Whole scaffold images of scaffolds on day 7 of differentiation were visually
+assessed for % confluence by LL, MG, EH, both sides of the scaffold were
+scored for confluence:
+
+https://docs.google.com/spreadsheets/d/1JNDmZZ23Icllx5abAiYf7os6O0sNVqULCaxKFyGyS-w/edit?usp=sharing
+
+https://mia-capture.vow.tools/#/session/recIvEiOHeGf2qTK0/images
+
+
+
+
+JMP generated data  \- based on manual image analysis
+
+Note - only the most confluent side of each scaffold was included in analysis  
+  
+Bar graphs represent the mean confluence score, error bars denote the standard
+deviation between measurements, n=4  
+
+Data without removing outliers
+
+
+
+Data with outliers removed
+
+
+
+Actual vs predicted plot
+
+
+
+Sorted parameter estimates
+
+ \- Pectin coating had a significant negative effect on scaffold confluence
+relative to EPL coating
+
+\- ECM components did not have a significant effect on scaffold confluence  
+  
+
+  
+
+
+
+
+JMP generated data - based on FIJI analysis of scaffold confluence
+
+Note - only the most confluent side of each scaffold was included in analysis  
+  
+Bar graphs represent the mean confluence score, error bars denote the standard
+deviation between measurements, n=4
+
+  
+
+  
+
+ \- Pectin coating had a significant negative effect on scaffold confluence
+relative to EPL coating
+
+\- ECM components did not have a significant effect on scaffold confluence
+
+  
+
+Rsq value for automated method (0.31) was lower than the Rsq value for manual
+method of analysis (0.52).
+
+  
+
+An R2 of 1.0 indicates that the data perfectly fit the linear model. Any R2
+value less than 1.0 indicates that at least some variability in the data
+cannot be accounted for by the model (e.g., an R2 of 0.5 indicates that 50% of
+the variability in the outcome data cannot be explained by the model).
+
+  
+
+I.e there is more variability in the automated analysed data set.
+
+
+
+
+Bar graph to compare manual versus automated scaffold confluence assessment
+methods
+
+\- The standard deviation of measurements across replicates, as represented by
+error bars, were consistently higher for confluence estimated via automated
+image analysis (FIJI) comapred to manual assessment (by eye)
+
+\- Between the two, the automated method of analysis seems to give higher
+confluence scores to scaffolds scored as having lower confluence by the manual
+method and lower confluence scores in scaffolds scored to have higher
+confluence by the manual method
+
+\- It is hard to interpret the mean and stdev of the two methods as we do not
+have a ground truth data source i.e. we are limited by the capabilities of the
+human eye when assessing scaffolds
+
+.  
+  
+  
+  
+  
+
+
+
+
+ANOVA for manually scored data:  
+https://www.jmp.com/en_au/learning-library/basic-inference-proportions-and-
+means.html#m-2123188714465154096576327  
+  
+See figure 1:  
+p <.0001 suggests at least one of these means was significantly different from
+the others  
+  
+See figure 2:
+
+Multiple comparisons, compare means, students T-test. Comparative letter
+report.  
+Different letters =  conditions which are significantly different based on
+scaffold confluence.  
+
+  
+
+i.e.  
+Serum pectin has a significant negative effect on scaffold confluence as does
+ACF pectin, with no significant difference between the two  
+  
+Condition 11 resulted in a significantly improved scaffold confluence relative
+to conditions 13, 2, 4, 12, 9, 8, 6, 10, Serum EPL, Serum Pectin and ACF
+Pectin, but was not significantly different from ACF EPL or conditions
+1,3,5,7.  
+  
+The mean confluence for ACF EPL was 61.67 with a stdev of 32.15 whereas for
+condition 11 it was 81.25 with a stdev of 10.3. Based on this it appears that
+condition 11 is a more reliable condition for attaining high scaffold
+confleunce. However, one replicate was lost for the ACF EPL condition due to
+issues with imaging, wherein the n=3 samples remaining had a ranked confluence
+of 75, 85 and 25. It is therefore impossible to say from this data if the
+score of 25 is an outlier or if confluence level achieved for this condition
+is highly varied.  
+  
+ACF EPL: 75, 85, 25 (one replicate lost) Mean: 61.67 Stdev: 32.12
+
+11: 95, 80, 70, 70 Mean: 81.25 Stdev: 10.3  
+  
+Similarly, looking closer at conditions 1, 3, 5, 7 scores were as follows:  
+  
+1: 40, 70, 75, 80 Mean: 66.25 Stdev: 17.9
+
+3: 70, 80, 70, 70 Mean: 72.5 Stdev: 5
+
+5: 60, 70, 70, 60 Mean: 65 Stdev: 5.8
+
+7: 80, 65, 50 (one replicate lost) Mean: 65 Stdev: 15  
+  
+
+
+
+
+ANOVA for automated scaffold confluence analysis:  
+  
+
+See figure 1:  
+p 0.0362 (lower than 0.05) suggests at least one of these means was
+significantly different from the others  
+  
+See figure 2:
+
+Multiple comparisons, compare means, students T-test. Comparative letter
+report.  
+Different letters =  conditions which are significantly different based on
+scaffold confluence.  
+
+  
+  
+
+I.e.  
+Serum pectin had a significant negative effect on scaffold confluence relative
+to Serum EPL but not with ACF pectin or ACF EPL as well as to conditions 5,
+14, 1, 11 and 3  
+  
+ACF EPL was not significantly different to Serum EPL or Serum pectin or ACF
+pectin  
+  
+Condition 5 was not significantly different to ACF EPL or Serum EPL but did
+result in significantly higher scaffold confluence compared to ACF pectin,
+Serum pectin, 13, 6, 8, 9, 10
+
+Condition 14 was not significantly different to ACF EPL or Serum EPL or
+condition 5, 1, 11, 3, 7, 4, 2, 12, 13, 6 but did result in significantly
+higher scaffold confluence compared to ACF pectin, Serum pectin, 8, 9 10.  
+  
+ACF EPL: 72, 51, 14, 21 Mean: 40 Stdev: 26.3
+
+Serum EPL: 25, 61, 18, 68 Mean:43 Stdev: 25.1
+
+5: 50, 46, 75, 73 Mean: 61 Stdev: 15.26
+
+14: 44, 64, 88, 32 Mean: 57 Stdev: 24.7
+
+Serum pectin: 19, 32, 10,21 Mean: 20 Stdev: 8.9
+
+ACF pectin: 23, 29, 14, 34 Mean: 25 Stdev: 8.6  
+  
+Out of interest, 11 the 'best' condition from the manually scored data was
+scored as the following:  
+11: 55, 30, 58, 80 Mean: 56 Stdev: 20.7
+
+and only resulted in a significant increase in confluence relative to ACF
+pectin, Serum pectin, 8, 9, 10
+
+  
+
+  
+
+

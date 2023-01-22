@@ -1,0 +1,302 @@
+
+
+# Thaw 3 vials into 3 x T175  
+
+* * *
+
+Date: 1/07/21  
+Start time: 7:30am  
+End time: 14.20 pm
+
+* * *
+
+Culture IDs
+
+Thawed Vial ID/s Seeded Culture ID/s  
+  
+2128-Culture-5951-Vial-13of15  
+2129-Culture-5951-Vial-14of15  
+2130-Culture-5951-Vial-15of15
+
+7287-F_DOLLY12-Sheep P5-1of3  
+7289-F_DOLLY12-Sheep P5-2of3  
+7290-F_DOLLY12-Sheep P5-1of3  
+  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+                                                                         
+
+  
+
+Note: Fibroblasts do not require Gelatin-coated flasks or p38i in the Growth
+Media.
+
+  1. Place new seeding flasks into the 37'C incubator to warm before starting. 
+  2. Extract required growth media into aliquots as listed in the table above and place into a heated 37C water bath for 20 minutes.   
+Time in water bath: 7:30am  
+
+  3. Select the vial/s for thawing. Note the location of the vial in Liquid Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)  
+Number of Vials for thawing: 3  
+Dewer: brew  
+Frozen Culture ID/s: 2128, 2129, 2130  
+Tower #: 5  
+Box #: 2  
+Position #: B9-C2  
+
+  4. Obtain selected number of cryovial/s from LN Dewar and thaw in the 37C water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.  
+`Time stamp`:13:51
+
+  5. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and transfer into the Biohazard Safety Cabinet (BSC).
+  6. Slowly add 500uL of growth media into the/each vial. This will produce a total of 1mL cell suspension per vial.
+  7. Resuspend the cells gently and transfer all contents from the vial to the bottom of a 50mL falcon tube. *NOTE: Dispensing suspension of cells on the sides of the tube will risk loss of cells in Step 11.
+  8. Add an additional 500uL of growth media to each vial to collect remaining cells and add into the centrifuge tube. A total of 1.5mL will be in each vial.
+  9. Resuspend cells thoroughly and immediately extract 50uL into a microcentrifuge tube.
+  10. Perform cell count (Refer to VSOP-007) from collected sample and use the Cell Counting Spreadsheet  to enter data.
+
+  
+Seeding DataCount 1Count 2  
+Total suspension volume4.05 mL  
+  
+  
+  
+Extracted volume from total suspension2 x 20 ul  
+  
+  
+  
+Volume from suspension aliquot  
+15ul  
+15 uL  
+  
+Volume of 4%Trypan blue  
+15uL  
+15uL  
+  
+Dilution factor  
+2  
+2  
+  
+Total cell count  
+2,891,7002,980,800  
+Dead cell count  
+178,200145,800  
+Live cell count  
+2,624,4002,851,200  
+Average Live Cell Count2,737,800  
+  
+  
+  
+Seeding density5163  
+  
+  
+  
+Seeded flask3 x T175  
+  
+  
+  
+  
+11\. Extract all contents from the centrifuge tube and dispense into the
+prepared growth media. Wash the tube with 5-10 mL of the same growth media to
+extract remaining cells attached to the tube.  
+12\. Transfer the pre-warmed flasks from the 37C incubator into the BSC.  
+13\. Add required volume of growth media to each flask, ensuring the entire
+surface is coated. Use the 'Bec Drop' to lay down the flasks.``
+
+14\. Transfer and incubate overnight at 37C.  
+`Time of incubation` : 14:20pm  
+
+Incubation Conditions:
+
+        [ x]  37ºC, 5% CO2 (mammalian cells)  
+        [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+        [ x]  Top Left Binder Incubator  
+        [  ]  Bottom Left Binder Incubator  
+        [  ]  Top Right Binder Incubator  
+        [  ]  Bottom Right Binder Incubator
+
+  
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 48 hrs before a 50% change (or passage) is required  
+37'C, 5% CO2  
+  
+  
+#  
+
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+
+
+
+
+# 50% Feed on 3x T175 flasks  
+
+Date: 2/07/21  
+Start Time: 10:20  
+End Time: 10:48
+
+# Data Log
+
+  
+
+  
+
+                         Date
+
+2/07/21  
+  
+  
+                Start Time
+
+10:20  
+  
+  
+Culture IDs  
+  
+7287-F_DOLLY12-Sheep P5-1of3  
+7289-F_DOLLY12-Sheep P5-2of3  
+7290-F_DOLLY12-Sheep P5-1of3  
+  
+  
+Number of Aliquots x Growth Media Volume
+
+p38i volume per aliquot  
+  
+1 x 50mL  
+
+N/A  
+  
+Warmed to 37 in Water Bath  
+  
+Time Placed In  
+
+10:20  
+  
+  
+Time Taken Out
+
+10:36  
+  
+  
+Media Change %
+
+Number of Flasks x Flask Type
+
+Volume Aspirated per Flask
+
+Volume Replaced per Flask  
+  
+50%  
+
+3 x T175  
+
+15 mL  
+
+15mL  
+  
+  
+Time of Flask Incubation
+
+10:47  
+  
+  
+Incubation Conditions
+
+37ºC, 5% CO2 (mammalian cells)
+
+x  
+  
+  
+40ºC, 5% CO2 (avian cells)  
+
+  
+  
+  
+Incubator
+
+Top Left Binder Incubator
+
+x  
+  
+  
+Bottom Left Binder Incubator
+
+  
+  
+  
+Top Right Binder Incubator
+
+  
+  
+  
+Bottom Right Binder Incubator
+
+  
+  
+  
+Top Incubator-  Library Lab
+
+  
+  
+  
+Bottom Incubator - Library Lab
+
+  
+  
+  
+  
+
+# Procedure
+
+  1. Turn on the water bath and set to 37'C.
+  2. Aliquot  required growth media and p38i into a sterile container/s and place into the water bath.
+  3. Place in the water bath and heat for at least 20 minutes.
+  4. Observe the cell flasks for confluence under the microscope using 4 x magnification and take images as required. Note: The confluence of cells must be <50% to perform cell feeding in P1-P3 and <80% in P4 prior to the cell differentiation stage. 
+  5. Transfer flasks to the BSC and remove required volume of media from each flask (according to the Table above).
+  6. Replace the same volume into each flask with the prepared growth media.
+  7. Return the flasks to the incubator.
+
+  
+
+# Relevant Images:
+
+# https://mia-capture.vow.tools/#/session/recXlhnQHfyNHDjED/images (7287),
+Friday July 02
+
+# https://mia-capture.vow.tools/#/session/recczA2pakxWWA9XP/images (7289),
+Friday July 02  
+
+# https://mia-capture.vow.tools/#/session/recuYxOiNAt8xXzo0/images (7290),
+Friday July 02
+
+  
+
+Observations/Summary:
+
+\- Vessels were imaged after the 50% feed.
+
+

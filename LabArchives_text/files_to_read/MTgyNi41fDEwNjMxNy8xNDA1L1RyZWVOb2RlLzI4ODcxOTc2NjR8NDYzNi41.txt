@@ -1,0 +1,73 @@
+
+
+Key result
+
+The aim of this experiment was to scour scientific literature for factors
+enabling us to mature muscle cells faster in a bioreactor environment.
+Promising factors would include those addressing maturation key indicators
+such as:
+
+  1. Overall increase in protein concentration
+  2. Myotube diameter
+  3. Contractile strength
+  4. Striations (protein alignment actin-myosin)
+  5. Level of cell fusion
+  6. Number of myonuclei per myotube  
+
+Primary Factors under investigation before starting this general search were:
+
+  1. Shear Stress
+  2. Electrical Stimulation 
+  3. Mechanical Stimulation
+  4. Media Components
+
+As a key result, we identified media components such as creatine as a low-
+hanging fruit to try quickly and assess both the influence of this stimulant
+on maturation, but also test the robustness of our ELISA analytical method.
+For further implementation, electrical stimulation as a first priority and
+mechanical stimulation for future reactor iterations will be considered.
+
+Discussion
+
+  1. Some media components are supporting maturation (NAD+), but literature is not always clear on numbers and mechanisms. However, 5mM Creatine has been shown to promote the fusion of myoblasts assessed by an increased number of nuclei incorporated within myotubes by 40%. Expression of myosin heavy chain type II also increased by 1300%, troponin T by 65% and titin by 40%.
+  2. Electrical stimulation has been found to increase myogenic maturation, myotube formation and alignment. This is demonstrated in literature through enhanced myosin heavy chain expression and increased myogenic markers MyoD and desmin. Most stimulating setups use charge balanced square biphasic waveforms or a salt bridge to prevent pH changes to the media. Different burst and frequency patterns have been shown to produce different outcomes, such as different myosin isoforms. Voltages used are commonly in the range of 2-100 mV/cm or 2-10 V/cm, where the units V/cm refers to the total voltage used over the distance between the positive and negative electrodes. Studies which have shown alignment have used voltages in the rage of 2 - 10 V/cm. Stimulation is typically started at or after the cells have been changed from growth to differentiation media. It is hypothesized that electrical stimulation induces myotube formation by promoting cell growth in a PI3K-dependent manner. 
+  3. The literature below reveals that mechanical stimulation can be used to improve myogenesis and maturation. However, the stimulus must be judiciously applied. Continuous cyclic stretching has been shown in some cases to inhibit both the differentiation of myogenic stem cells and the maturation of myotubes. It appears that waiting for myotubes to reach a certain level of maturity, and allowing myotubes long periods of rest between periods of stimulation, can greatly improve the maturation of myotubes. Mechanical stimulation can increase myotube diameter by 12 - 100%, or 25 - 300% increase in cross sectional area (Powell et al., 2002 and Somers et al., 2019).
+
+Limitations
+
+Limitations of this experiment mostly pertain to the completeness of our
+literature review given the time dedicated to reading and categorizing
+publications. Further study is required for a better and more complete
+assessment of which factors are most promising and how to implement them in a
+bioreactor environment.
+
+Conclusion
+
+Up to 3 factors were identified that may significantly enhance our ability to
+stimulate muscle maturation in a bioreactor environment. 2 of these factors
+(creatine supplementation and electrical stimulation) are targeted for
+assessment and implementation this quarter.
+
+Future directions
+
+The recommendation is to try the following:
+
+  * Media components: add 5 mM Creatine to differentiation media in a dish vs non-creatine control and assess maturation levels in planar culture using ELISA or IHC staining.
+  * Electrical Stimulation: 
+    * 0 - 100 mV/cm and 2 - 10 V/cm experiments.
+    * AC signal. 50 - 100 Hz. Vary intermittent stimulation: every 100 s to 1 hour.
+    * Check for cell alignment and maturation via immunofluorescence and western blot.
+    * Use Arduino Uno R3 to create electrical stimulation with stainless steel electrodes for good charge transfer and corrosion resistance. (Code for the waveform can be developed using the Supplementary Information from Shamsabadi and Selvaganapathy. 2020. Tissue-in-a-Tube: three-dimensional in vitro tissue constructs with integrated multimodal environmental stimulation. Or other online forums for open source Arduino code can also be used).
+  * Mechanical stimulation:
+    * Strain range: 0-15%
+    * Strain rate range: 0-20%/s
+    * Strain modes: periodic stretch and hold without relaxation (stretch over 0-16 days), continuous cyclic stretch and relaxation (0-1 Hz), periodic cyclic stretch and relaxation (0-1Hz, 0-6 hours per day)
+    * Onset of strain: 0-5 days after onset of differentiation
+    * Metrics: cell proliferation rate (should be close to zero), % cell alignment (should be close to 100%), % cell differentiation (should be close to 100%), mean myotube diameter (should be increased by mechanical stimulus compared to non-stimulated control), myosin heavy chain protein coverage % (should be increased by mechanical stimulus compared to non-stimulated control).
+    * Device: the stepper-motor-driven device designed for well-plate culture from: Powell, C. A., Smiley, B. L., Mills, J., & Vandenburgh, H. H. (2002). Mechanical stimulation improves tissue-engineered human skeletal muscle. American Journal of Physiology - Cell Physiology, 283(5 52-5), 1557-1565\. https://doi.org/10.1152/ajpcell.00595.2001
+
+  
+
+  
+
+

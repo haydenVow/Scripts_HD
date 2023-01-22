@@ -1,0 +1,85 @@
+
+
+## Completed by: Eva Carreras
+
+
+Aim/Purpose
+
+
+Determine the optimal feeding rate to maximise cell survival in MuSC
+differentiation, using both E6 media and 2% HS media. This aims to
+troubleshoot cell loss that has been observed in Q3 of 2021.
+
+
+Hypothesis
+
+
+The current 100% daily feed with E6 differentiation media is causing cell
+loss.
+
+
+Technical Gap
+
+
+Cell loss needs investigation and troubleshooting in order to have cells
+available for muscle growth and maturation. We do not have definitive evidence
+in the optimal feeding schedule/ratio of media dilution to maximise cell
+survival.
+
+
+
+
+  1. [Experiment Plan] 
+    * Get cells ready and grow them in growth media
+      1. D-7 Gelatin-coating of 3 x T175 at 37 C for 1h 
+      2. Make up 0.5L DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i and warm it up in the water bath
+      3. Collect 1 cryovial of cells (1 vial contains 500 000 cells) and thaw by placing it in a foam floater in water bath  
+
+      4. In the BSC, add 0.5ml of DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i growth media into the vial containing the thawed cells  
+
+      5. Add the vial containing the cells into 90ml of pre-warmed, fresh DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i growth media and mix using a pipette
+      6. Pipette 30ml into each of the T175 
+      7. D -6 Feed cells with 50% DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i (always add P38i when media will be used). This is remove 15 of the 30 ml in each of the flasks and add 15 ml of fresh media.
+    * Passage cells and feeding 
+      1. D -4 Gelatin coating of 4 x 96 wp at 37 C for at least 1h
+      2. Add trypLE to 3 x T175 and centrifuge
+      3. Aspirate the supernatant and resuspend the pellet in pre-warmed, fresh growth media
+      4. Cell count and aliquot the required volume to pre-warmed growth media so that each of the wells in the 96 wp has 640 cells/well
+      5. D -2 Feed cells
+    * Differentiation assay
+      1. D0 Feed the cells with either E6 or DMEM/F12 + 2% HS according to the image below and fix plate day 0:   
+
+      2. Wednesday D1: Feed daily wells (3 x 96 wp)
+      3. Thursday D2: Feed all wells (3 x 96wp)
+      4. Friday D3: Feed daily wells (3 x 96wp)
+      5. Saturday D4: Feed all wells (2 x 96wp) and fix plate day 4 
+      6. Sunday D5: Feed daily wells (2 x 96wp)
+      7. Monday D6: Feed all wells (2 x 96wp)
+      8. Tuesday D7: Feed daily wells (1 x 96wp) and fix plate day 7
+      9. Wednesday D8: Feed all wells (1 x 96wp)
+      10. Thursday D9: Feed daily wells (1 x 96wp)
+      11. Friday D10: Fix plate day 10
+    * Fixing, staining, image, analyse protocol
+      1. Remove differentiation media
+      2. Wash 2 x with PBS
+      3. Fix with PFA 
+      4. Wash 2 x with PBS
+      5. Permeabilise with PBS/Triton (Triton is a detergent) 
+      6. Wash 2x with PBS
+      7. Block 
+      8. IF stain (antibody): primary stain with anti-MyoG and anti-MF20
+      9. Secondary antibody stain
+      10. Zaber imaging
+      11. Analysis (ImageJ macros)
+    * Write a report with conclusions
+  2. [Peer Review]
+  3. [Make amendments and Sign off] 
+  4. [Report writing (Draft)]
+  5. [Review & fill out Report (Full)]
+  6. [Ensure all lab books are complete & assign for review]
+  7. [Review Lab Books, results, report]
+  8. [Make necessary amendments and confirm with reviewer that experiment is complete
+  9. [Release note on Project Updates]  
+
+
+Method/Procedure

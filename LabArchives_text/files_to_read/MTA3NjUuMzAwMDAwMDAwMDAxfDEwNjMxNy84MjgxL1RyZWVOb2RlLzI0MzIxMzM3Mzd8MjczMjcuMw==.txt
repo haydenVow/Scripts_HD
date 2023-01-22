@@ -1,0 +1,154 @@
+
+
+See primer sets here for reference:
+https://docs.google.com/spreadsheets/d/1YfbpluaHs5bKpmVn6YnWLBcwTJ2-7eIYB8iLEwoHTNU/edit#gid=898724466
+
+GuidePrimer pairs for guide  
+PLA2R Guide 2  
+P55+P56  
+PRKCD Guide 2  
+P59+P60  
+NFKB1A guide 1  
+P51+P52  
+CDKN2 guide 1  
+P61+P62  
+BMF Guide 1  
+P3+P4  
+BCL2L11 guide 1  
+P33+P34  
+RIPK1 guide 1  
+P19+P20  
+FASLG guide 2  
+P17+P18  
+TBK1 guide 1  
+ No primers
+
+
+  
+  
+Primer pair master mixes used for experiment. New primer 10uM solutions were
+made from stocks for this experiment, These 10uM solutions were then used for
+the experiment below. Master mixes of each primer pair were made up for n+1
+number of reactions in the table below.  
+
+  1.   
+
+SamplePrimer MastermixDNA sample  
+1CDKN2ACDKN2A  
+2CDKN2ACDKN2A+NFKB1A  
+  
+NFKB1ACDKN2A+NFKB1A  
+  
+CDKN2ACDKN2A+PRKCD  
+  
+PRKCDCDKN2A+PRKCD  
+4CDKN2ACDKN2A+PLA2R  
+  
+PLA2RCDKN2A+PLA2R  
+  
+CDKN2AWild Type EPIC31347  
+  
+NFKB1AWild Type EPIC31347  
+  
+PRKCDWild Type EPIC31347  
+  
+PLA2RWild Type EPIC31347  
+  
+BMFBMF+BCL2L11  
+  
+BCL2L11BMF+BCL2L11  
+  
+FASLGFASLG+RIPK1  
+  
+RIPK1FASLG+RIPK1  
+  
+BMFWild type EPIC31348  
+  
+BCL2L11Wild type EPIC31348  
+  
+FASLGWild type EPIC31348  
+  
+RIPK1Wild type EPIC31348  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+Removed a frozen cell pellet of CHOMP07 cells from the -20 freezer in the main
+lab.
+
+Thawed a 10mL aliquot of QuickExtract then resuspended the cell pellet in
+200uL of QuickExtract mix. Aliuoted 25uL of suspension into 8 PCR tubes and
+placed them in the bentolab thermocycler then ran the following protocol.
+
+\- 65 degrees C, 5 minutes
+
+\- 98 degrees, 120 seconds
+
+DNA extractions were moved to the fridge in main lab at 4 degrees, labelled as
+Wild type (WT) CHOMP. One tube of DNA extract was used for the reactions
+below.
+
+  1. Made up a master mix for reactions for primer master mixes outlined above (n+1).  Below are intended volumes for 1x 25uL reaction with the number of reactions needed for each primer set below. 
+    1. CDKN2A reactions = 6
+    2. NFKB1A reactions = 3
+    3. PRCKD reactions = 3
+    4. PLA2R reactions = 3
+    5. BMF reactions = 3
+    6. BCL2L11 reactions = 3
+    7. FASLG reactions = 3
+    8. RIPK1 reactions  = 3 
+
+Reagent  1x volume (uL)  
+5x Q5 buffer6  
+10mM dNTP0.6  
+Primer 1 (10uM)1.5  
+Primer 2 (10uM)1.5  
+Q5 GC enhancer5  
+MilliQ10.1  
+high fidelity Q5 polymerase0.3  
+  
+  1. Obtained 0.2 mL PCR tubes
+  2. Added 25μl of respective primer MM to each sample tube as per the table further above.
+  3. Added 1μl of wild type CHOMP07 DNA extract to each tube, added 4uL of MilliQ to each tube to make a total reaction volume of 30uL.
+  4. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  5. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  6. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1. Ladder
+    2. sample 1
+    3. sample 2
+    4. sample 3
+    5. sample 4
+
+  
+
+
+
+
+## Results
+
+  
+
+Primer combo P27 (5/4/22) and P28 (18/1/22) produce the desired banding.  
+  
+P28 (5/4/22) and P27 (18/4/22) primers Do not produce desired banding in any
+combination.
+
+
+
+
+
+
+
+## Observations
+
+The Quick extract DNA sample used of CHOMP 07 was quite viscous, as a result
+it was difficult to tell if 1uL was pipetted, some volumes of DNA template
+added may be between 0.5 and 1uL.
+
+

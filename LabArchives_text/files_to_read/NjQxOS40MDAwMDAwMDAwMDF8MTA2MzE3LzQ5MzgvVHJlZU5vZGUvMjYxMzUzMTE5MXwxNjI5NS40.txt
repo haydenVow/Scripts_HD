@@ -1,0 +1,115 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma  
+
+
+
+
+Process:  
+  
+Starting deck state  
+  
+  
+
+Startup and calibration:
+
+  1. Switched on HEPA filter (top of robot, switch on left) and the OT2 robot.
+  2. Wiped the base/desk of the robot with 70% (v/v) EtOH. Do not wipe the sides (clear acrylic panels) with ethanol. OT2 should be treated like a BSC for maintaining sterility. Spray and wipe any items with ethanol before placing into OT2. 
+  3. Connected to the robot from a lab computer by using the OpenTrons app. 
+  4. Uploaded desired protocol to the app. 
+  5. Clicked  Proceed to calibrate. 
+  6. Arranged labware and reagents on the OT2 as shown in the deck layout. 
+  7. Calibrated to labware by following the instructions on the app and then ran the protocol.  
+
+Start time:    1:18  a/pm
+
+Summary of protocol:
+
+  * Removed pAb
+  * PBS wash x 3 (2000uL)
+  * Remove PBS and add sAb (manually)
+  * Incubate for 60 mins
+  * Remove sAb and add DAPI (400uL)
+  * Remove DAPI
+  * PBS wash x 2 (2000uL)
+
+End time:     16:19  a/pm
+
+Total runtime: 3 hours
+
+Termination and cleaning:
+
+  1. Once the protocol is complete, discarded tips in the yellow biowaste bin. Sprayed and wiped the trash tray with ethanol before returning it to the robot. Liquid waste should be collected in bottles, and PFA waste should be discarded into the PFA waste container. OT2 reservoirs are reusable. They should be sprayed with Viraclean if they contained cell suspensions and then washed in eucalyptus disinfectant. Then they need to be soaked in water, dried, and autoclaved.'
+  2. Removed all labware from OT2 and wipe the base/deck of the OT2 with ethanol. The pipette head can also be cleaned with 70% ethanol. Wiped the sides (clear acrylic panels) with working solution of bleach (10-15%) and then dried with a RediWipe.   
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+DAPI  
+M3220  
+  
+PBS  
+M7926  
+  
+Blocking Buffer  
+M7928  
+  
+MyoG Secondary Antibody (11uL in 11mL BB) [1:1000]  
+S173  
+  
+MF20 Secondary Antibody (11uL in 11mL BB) [1:1000]  
+S1965  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Doesnt aspirate pAb (volume too low) and will need to monitor if wash steps
+are sufficient enough.
+
+\- Needs another waste reservoir
+
+
+
+
+SOPs used:
+
+SOP_Using OpenTrons V_01
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

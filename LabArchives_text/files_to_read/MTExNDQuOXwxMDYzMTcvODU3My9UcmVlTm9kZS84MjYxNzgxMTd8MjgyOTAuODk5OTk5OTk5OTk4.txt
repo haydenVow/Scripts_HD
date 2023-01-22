@@ -1,0 +1,134 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+to demonstrate that Nuvonis cells undergo no/limited genetic drift during
+bioprocess. Cells will be collected and processed for DNA extraction at start
+(WCB) and end (following x2 shake flask culture passages and x2 in a stir-tank
+reactor (STR) passages) points during our bioprocess
+
+
+Hypothesis
+
+
+cells will exhibit no genetic changes between start and end sampling time
+points
+
+
+Background & Technical Gap
+
+
+Previously published studies have robustly demonstrated that in vitro
+subculture represents a selection pressure on cell lines, and over time this
+may result in a genetic drift (Torsvik et al 2014, Hughes et al 2018).
+Moreover, consecutive passaging increases the risk of cross-contamination with
+other cell lines. To satisfy regulatory requirements outlined by the Singapore
+Food Agency (SFA), safety dossier data must demonstrate that the genome of
+cells from working cell bank (WCB) vials does not differ from the genome of
+cells contributing to the final saleable product. This will be achieved by
+thawing cells from a WCB and then culturing these in shake flasks, and then in
+a 2L STR to simulate comparative physical stresses cells will be exposed to in
+a 200 and 2000L STR over a comparative length of time. Cells will be harvested
+at time-0 from a WCB vial, and at an end point where cells have undergone x2
+passages and expansions in shake flasks and x2 passages in a STR reactor.
+Cells will then be sequenced by whole genome sequencing (WGS) and analysed
+offsite via a service provider.
+
+
+Method/Procedure
+
+
+Bioreactor Culture Conditions
+
+ParameterSettings  
+pHIf pH probes working and available: PID control loop, 7.5 set point, lower
+by base addition and increase by sparging CO2  
+  
+If pH probe not functional: sparge with constant CO2 at 5% of total volume  
+Temperature37degC set point  
+Air spargingMinimum rate (mL/min) required for dispersion at 70 RPM (TBD)  
+Agitation270 RPM (0.2 m/s)  
+  
+  
+Workflow
+
+DAY -4 (Thursday 23/06/22)
+
+1\. Prepare required growth medium (4L) and store at 4degC
+
+2\. Sub-culture Nuvonis cells from existing manufacturing Seed-train (ST)
+
+  * Seed cells at a density of 400k/mL and expand into x2 E-500 flasks
+  * 120M total required in 300mL
+
+3\. Assemble 2L STR, Schott bottles, clean and sterilise components (prepare
+x1 extra harvest bottle 2L)
+
+DAY -2 (Friday 24/06/22)
+
+4\. Continue 2L assembly and monitor flasks
+
+RUN-1 DAY 0 (Monday 27/06/22)
+
+5\. MORNING:
+
+  * Inoculate STR with growth medium dosed with 1:10 000 Antifoam C, 1:1000 IGF (50ng/mL) and 1:5000 EGF (10ng/mL)
+  * Perform calibration test for sparging rate over increasing RPMs:
+    * Set RPM to 70 RPM
+    * Set compressed air sparging to 60mL/min
+    * Increase air sparging rate until complete mixing is observed, record sparging rate
+  * Allow to heat, pH correct and sparge over ~3 hours
+
+6\. AFTERNOON: Passage cells (require minimum of ~1.33M/mL) and inoculate 2L
+STR at 200k/mL cell density
+
+  * 400M total in 300mL, inoculated into 1700mL for 2L nominal broth volume
+  * sample 5mL and discard. Sample 5mL and perform cell count using ViCell with Nuvonis cell parameters
+  * record online pH, dO, and temperature
+  * reserve remainder of 5mL sample and prepare for storage; centrifuge at 1500 RPM for 10 min at 4degC (room temperature is acceptable if centrifuge is not temperature controlled). Immediately aliquot supernatant into 1mL aliquots, label, and store samples at -80°C. Avoid freeze/thaw cycles of media samples. 
+
+RUN-1 DAYS 1-4 (Tuesday 28/06/22 -Friday 01/07/22)
+
+7\. Sample and store
+
+  * sample 5mL and discard. Sample 5mL and perform cell count using ViCell with Nuvonis cell parameters
+  * record online pH, dO, and temperature
+  * reserve remainder of 5mL sample and prepare for storage; centrifuge at 1500 RPM for 10 min at 4degC (room temperature is acceptable if centrifuge is not temperature controlled). Immediately aliquot supernatant into 1mL aliquots, label, and store samples at -80°C. Avoid freeze/thaw cycles of media samples. 
+
+RUN-1 DAY 4 / RUN-2 DAY 0 (Friday 01/07/22)
+
+8\. perform draw and fill with partial harvest:
+
+  * aliquot 1600mL and warm in water bath at 37degC
+  * harvest 80% of total volume into harvest Schott bottle (1600mL)
+  * add 1600mL newly prepared media
+  * increase stirring speed to 190 RPM
+  * sample 5mL and discard. Sample 5mL and perform cell count using ViCell with Nuvonis cell parameters
+  * record online pH, dO, and temperature
+  * reserve remainder of 5mL sample and prepare for storage; centrifuge at 1500 RPM for 10 min at 4degC (room temperature is acceptable if centrifuge is not temperature controlled). Immediately aliquot supernatant into 1mL aliquots, label, and store samples at -80°C. Avoid freeze/thaw cycles of media samples. 
+
+RUN-2 DAYS 1-4 (Saturday 02/07/22 - Tuesday 05/07/22)
+
+9\. Sample and store
+
+  * sample 5mL and discard. Sample 5mL and perform cell count using ViCell with Nuvonis cell parameters
+  * record online pH, dO, and temperature
+  * reserve remainder of 5mL sample and prepare for storage; centrifuge at 1500 RPM for 10 min at 4degC (room temperature is acceptable if centrifuge is not temperature controlled). Immediately aliquot supernatant into 1mL aliquots, label, and store samples at -80°C. Avoid freeze/thaw cycles of media samples. 
+
+RUN-2 DAY 4 (Tuesday 05/07/22)
+
+ 10\. Packdown and harvest
+
+  * harvest entire volume into harvest bottle
+  * centrifuge cells at 310xg for 10 minutes. Discard supernatant
+  * amalgamate cell pellets into single bottle, rinse/dilute with PBS, cell count and record cell pellet weight
+  * pellet cells and maximally aspirate PBS
+  * snap freeze pellet on liquid nitrogen and store at -80degC for later DNA extraction and WGS by service provider. 
+
+  
+
+

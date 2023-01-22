@@ -1,0 +1,148 @@
+
+
+## Completed by: Shaleen Sharma  
+
+
+Aim/Purpose
+
+
+To build upon the framework in the first iteration of automated media changes,
+and determine the optimal volume for daily media changes on the OT2 in primary
+cells.
+
+
+Hypothesis
+
+
+It is hypothesised that at lower working volumes the maturity discrepancy
+between the automated and manual cultures will be high (almost a negative
+control). On the other hand, it is expected that at the highest working volume
+(200uL) the requirement of fresh media to the primary cells will be met and
+hence incomplete aspiration will not be a determining factor in the maturity
+of the cultures.
+
+
+Background/Technical Gap
+
+
+By introducing liquid handling automation, we can free up the bandwidth of our
+scientists to research and develop alternative strategies to increase the
+maturation of our muscle. Furthermore, by mitigating the element of manual
+pipetting we can withstand an increase in experiments as the feeding schedules
+of these would be automated.
+
+Prior to the first iteration of this experiment, the key technical gap was
+whether a clear benefit in terms of efficiency, reliability and accuracy is
+seen from automating feeds. Moreover, it was unclear whether the manual
+workflow can be successfully translated to the automated platform without
+affecting the viability and maturation of our muscle cells. The first
+iteration depicted slower differentiation/maturation of C2C12 cells when fed
+on the OT2, however this likely is due to the cells not receiving adequate
+fresh media. This problem is likely not evident with primary cells due to
+their reduced media expenditure - however this remains to be tested.
+
+This experiment will determine the (estimated) optimal working volume for
+primary cells fed on the OT2. The following volume ranges will be assessed:
+
+  * 200uL
+  * 150uL
+  * 120uL
+  * 100uL
+
+
+Method/Procedure
+  
+  
+Figure 1: Overview of EPIC
+
+
+  
+  
+Figure 2: Plate map for BUFFY6 cultures. Volume amounts (uL) refer to daily
+media change volumes.  
+  
+  
+
+
+
+
+Experimental protocol for feed automation:
+
+  * Seed two 96 well plates with BUFFY6 myoblasts.
+  * Differentiate each plate for several days, with one set being feed manually and the other using the OT2.
+  * Each feed features media changes with varying volumes (200uL, 150uL, 120uL, 100uL) on both the OT2 and cultures fed manually.
+  * Compare cell viability and MyoG/MF20 signal between the two conditions (automated feeds vs. manual) using automated immunostaining protocols*
+
+
+  
+  
+Figure 3: OT2 deck layout for cell run
+
+
+  
+  
+Experimental details
+
+  
+
+96 well plate  
+  
+Cell type
+
+BUFFY6  
+  
+Number of plates
+
+2  
+  
+Working volume for each well
+
+200/150/120/100 uL  
+  
+Expected seed date
+
+26/11/21  
+  
+Number of wells seeded
+
+96 (all)  
+  
+Proliferation period
+
+2 days (over weekend)  
+  
+Proliferation media required
+
+15mL (both plates)  
+  
+Seeding density (cells/well)
+
+5000  
+  
+Total cells required
+
+480,000 cells  
+  
+Maturation period
+
+10 days  
+  
+Differentiation start date
+
+29/11/21  
+  
+E6 media requirements (daily)
+
+15mL each plate  
+  
+Total E6 requirements
+
+150mL  
+  
+Markers of success
+
+  * DAPI count comparison
+  * MyoG/MF20 signal between conditions
+  * Variability within conditions
+
+

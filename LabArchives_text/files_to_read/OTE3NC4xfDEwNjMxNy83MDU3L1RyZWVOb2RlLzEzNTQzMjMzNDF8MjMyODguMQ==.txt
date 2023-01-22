@@ -1,0 +1,101 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie  
+
+
+
+
+Feed information:
+
+Flask TypeFlask ID  
+ E125
+
+10462-10470
+
+  
+  
+  
+  
+
+
+
+
+Note  
+E-flasks were replaced with fresh vessels today.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+OptiPRO + 2mM Glutamax + 0.2% Pluronic  
+M 10521  
+  
+CDM4 Avian + 2.5mM Glutamax M 10483  
+  
+Nuvonis Suspension Media baseA10511  
+  
+EGF (for Nuvonis media)M 9201  
+  
+IGF (for Nuvonis media)M 91910  
+  
+  
+  
+
+
+
+
+Process:  
+
+  1. Place media in water bath >15min prior to use 15:00
+  2. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 15:45
+  3. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  4. Transfer suspension into 50 mL tubes. 
+  5. Centrifuged 50 mL tubes at 300 x g for 5 mins 
+  6. Aspirated  75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet.
+  7. Topped up each 50 mL centrifuge tube with 15 mL of fresh pre-warmed media and resuspended cell pellet. 
+  8. Gently pipette-mixed cultures, and transfer all cultures to E250 flask
+  9. Took 2x 100 uL sample loaded onto a 96 well plate according to the plate map. 
+  10. Returned E250 to incubator 17:10
+
+incubator 138 Library Lab, 37C, 5% CO2
+
+
+
+
+Staining
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500uL MilliQ  
+\- 500uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Took 100 uL samples from each culture flask
+  2. Spun plate containing samples for 1m at 300g.
+  3. Gently removed 50ul (50%) media from each sample and discarded
+  4. Replaced with 50ul PBS
+  5. Diluted Hoechst stock stain (1mg/ml) 1:5
+  6. Added 100 uL of Hoechst diluted stain directly to cells
+  7. Incubated for 30 minutes in the dark at room temperature  
+  8. Made 4x, 8x, and 16x dilutions of the sample in dPBS 
+  9. Centrifuged plates at 300 g for 1 minute 
+  10. Prepared plate map: https://docs.google.com/spreadsheets/d/1EJpk6IOlm6woHhoZII9HNkPr467Ue1giq1uLPHxXKnE/edit#gid=2059666874
+  11. Plate ID: 10544 Link: https://ranger.vow.tools/#/session/recrJlhivxGA9Xq7V/images
+  12. Imaged on the Zaber with 30ms exposure, then sent for to Mia for cell count analysis. Results here: https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit#gid=2066571586
+
+
+
+
+Observations/Summary: N/A  
+  
+
+

@@ -1,0 +1,131 @@
+Performed by: LL
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsMedia conditionLocation  
+13160-Nuvonis Quail Suspension341-P-1of1113162
+
+Freestyle 293 \+ Difco yeast extract (1g/L) + L-Ornithine monohydrochloride
+(20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) +
+EGF (10 μg/L) + Anti-clumping agent (1:100)
+
+Main lab, #52 (top BINDER)  
+213163  
+313164  
+413165
+
+Hycell CHO \+ Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20
+mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF
+(10 μg/L) + Anti-clumping agent (1:100) + Glutamax 2 mM  
+  
+513166  
+613167  
+713168
+
+100% CHO \+ Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20
+mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF
+(10 μg/L) \+ 4mM L-glutamine + 3.4 g/L glucose  
+  
+813169  
+913170  
+1013171
+
+MFG's 50/50 RPMI/CHO \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.435 g/L L-glutamine + 3.4 g/L glucose  
+  
+1113172  
+1213173  
+1313174
+
+R&D's 50/50 RPMI/CHO \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.146 g/L L-glutamine + 0.868 g/L Alanyl
+L-glutamine + 3.4 g/L glucose + 0.01 g/L hypoxanthine + 0.001 g/L thymidine  
+  
+1413175  
+1513176  
+1613177Freestyle 293 \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) + Anti-clumping agent (1:100)  
+  
+1713178  
+1813179  
+1913180Hycell CHO \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) + Anti-clumping agent (1:100) + Glutamax 2
+mM  
+  
+2013181  
+2113182  
+2213183100% CHO \+ Difco yeast extract (1g/L) + L-Ornithine monohydrochloride
+(20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) +
+EGF (10 μg/L) \+ 4mM L-glutamine + 3.4 g/L glucose  
+  
+2313184  
+2413185  
+2513186MFG's 50/50 RPMI/CHO \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.435 g/L L-glutamine + 3.4 g/L glucose  
+  
+2613187  
+2713188  
+2813189R&D's 50/50 RPMI/CHO \+ Difco yeast extract (1g/L) + L-Ornithine
+monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1
+LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.146 g/L L-glutamine + 0.868 g/L Alanyl
+L-glutamine + 3.4 g/L glucose + 0.01 g/L hypoxanthine + 0.001 g/L thymidine  
+  
+2913190  
+30  
+13191
+
+
+Media reagents
+ReagentID  
+GlutamineA13278  
+IGF-1L3M13279  
+EGF  
+M12321  
+FreestyleM13392  
+HycellM13391  
+100% CHOM13401  
+MFG 50/50M13403  
+R&D 50/50M13404
+
+
+Media preparation
+  
+  
+  1. Aliquoted 210 mL of each media to seed 6 x E125 flasks + an extra flask per condition to measure electrical conductivity and pH.
+  2. Added 210uL and 42uL of IGF-1L3 and EGF respectively, to all media aliquots.
+  3. Additionally, added L-glutamine to the 100% CHO, MFG's 50/50 RPMI/CHO and R&D's 50/50 RPMI/CHO aliquots according to the E8 calculator  
+  
+  
+  
+  
+  
+
+
+Process
+
+  1. Took 1 x 510 uL sample from culture ID 13160.
+  2. Performed counts using Vicell and recorded the counts on Team media spreadsheet.
+  3. Added 29.5 mL of each media condition to 6 x E125 (3 x E125 for EPIC31447 and 3 x E125 for EPIC31448).
+  4. Placed all E125s in shaking incubator to warm and equilibrate media. 
+  5. While media was warming, printed labels for flasks.
+  6. Measure pH and electrical conductivity from each media type:
+    1. Hycell: 7.48; 0.006 uS/cm
+    2. Freestyle: 7.62; 0.026 uS/cm
+    3. CHO: 7.53; 0.015 uS/cm
+    4. MFG 50/50 RPMI/CHO: 7.61; 0.015 uS/cm
+    5. R&D 50/50 RPMI/CHO: 7.61; 0.016 uS/cm
+  7. Received 465.1mL of cell suspension from culture ID 13160 containing 200M cells.
+  8. Centrifuged at 500 xg for 5 min 
+  9. Aspirated 100% of supernatant and re-suspended in 16.6mL dPBS (12M cells/mL)
+  10. Retrieved flasks from incubator and brought into BSC 
+  11. Added 0.5mL of cell suspension to each flask (6M cells per flask, 200K cells/mL)
+  12. Added labels to each flask
+  13. Replaced flasks in incubator (37'C, 5% CO2, 120 RPM)
+
+
+
+
+

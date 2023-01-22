@@ -1,0 +1,236 @@
+Quick summary of main findings
+
+
+  1. Cells were able to adhere to seitan, however the level of adherence varied between scaffolds. DAPI stained samples exhibited a heterogeneous scattering of cells as well as cell clusters (which predominantly formed around pores and ridges).
+  2. Calculated seeding efficiency was highly variable across scaffold conditions and ranged from between ~ 6.5 - 39%
+  3. Cells were seen to adhere to scaffolds when seeded in both serum and ACF (10C media). Based on seeding efficiencies, the cells appear to adhere more to seitan samples in serum culture conditions compared to ACF. Due to a lack of replicates however, this finding cannot be stated as significant.
+  4. Based on DAPI images on day 8, gluten with EPL coating showed significantly less cells adhered compared to those without EPL treatment.
+
+
+Results & Discussion
+
+
+Results
+
+Table 1. Seeding efficiency of seitan samples under ACF and serum conditions
+and varying treatments
+
+Condition Treatment Seeding efficiency %  
+  
+ACF
+
+ Autoclaved
+
+13.82  
+  
+Autoclaved + heat treated
+
+13.98  
+  
+Autoclaved + heat treated + EPL
+
+6.56  
+  
+SERUM
+
+Autoclaved
+
+39.48  
+  
+Autoclaved + heat treated
+
+11.40  
+  
+Autoclaved + heat treated + EPL
+
+24.46  
+  
+Refer to seeding efficiency lab book for more information.
+
+  
+
+Figure 1. Auto at 0.7M, 1M, 1.7M in ACF and 1M in serum, in order of top to
+bottom.  
+
+Figure 2. Auto + Heat at 0.7M, 1M, 1.7M in ACF and 1M in serum, in order of
+top to bottom.  
+
+Figure 3. Auto + Heat + EPL at 0.7M, 1M, 1.7M in ACF and 1M in serum, in order
+of top to bottom.  
+
+  
+
+Discussion
+
+Seeding efficiency of seitan scaffolds
+
+Regardless of the seeding density or media condition employed, all seitan
+samples were found to have a low seeding efficiency. (Refer to table 1). The
+samples treated with ACF had a seeding efficiency of below 15.00%, with both
+the autoclaved samples and autoclaved + heat treated samples having similar
+seeding efficiencies of 13.82% and 13.98%, whilst the autoclaved + heat
+treated + EPL samples had a seeding efficiency of 6.56%. In relation to the
+serum conditions, the autoclaved samples had the highest seeding efficiency
+(39.48%), whereas the autoclaved + heat treated and the autoclaved + heat
+treated + EPL samples had seeding efficiencies of 11.40% and 24.46%
+respectively. It is important to note here that the method used for
+calculating seeding efficiency had many limitations, with the main limitation
+being low samples sizes for cell counts. Refer to seeding efficiency
+limitations below in limitation section, for more in depth explanation around
+low sample sizes and cell counts.  Despite this, it can be concluded that the
+seitan samples had a low seeding efficiency overall.
+
+Based on seeding efficiencies obtained, seitan samples in serum conditions had
+greater cell adherence compared to samples in ACF conditions. This was evident
+in both autoclaved and autoclaved + heat treated + EPL samples which obtained
+a higher seeding efficiency value compared to those in ACF conditions. A clear
+distinction between the serum and ACF conditions was not so apparent for the
+autoclaved + heat treated samples, wherein the serum samples yielded a lower
+seeding efficiency than those in ACF. However, the basis of the seeding
+efficiency calculation has a large room for error which does not allow for
+replicates, as as a result these findings should not be taken as significant.
+The most notable sources of error during the calculation of scaffold
+confluence comes from the differences in scaffold surface area, excessive
+material handling (resulting in the potential detachment of cells), the
+performance of only one cell count per conditions and the loss of cells during
+pipette transfers. (Refer to the limitations section of this report for for
+more in-depth information on these limitations.) As a consequence of this, the
+apparent difference between seeding efficiency for the ACF and serum samples
+seen in this experiment cannot be stated as a significant outcome.
+
+  
+
+Fluorescent microscopy imaging of Seitan samples
+
+The use of the Zaber microscope (SN: 77994) in combination with the live cell
+stain Hoechst has been the standard approach for the imaging of scaffolds at
+Vow in previous screening experiments (gelatex and matrix meat).  However, due
+to various issues experienced with overexposure on the Zaber microscope and
+Hoechst staining during this experiment, we were unable to obtain images of
+the seitan samples on day 1 and 7 using the zaber microscope set-up (resulting
+in loss of data on these time points). As a result of the issues experienced
+with Zaber imaging the samples were instead fixed and stained with MyoG, MF20
+and DAPI on day 8 and imaged using the Axio microscope. The Zaber microscope
+is capable of whole well imaging and the Axio microscope is not, thus as a
+result, only part of the scaffold was captured at a time. As a result of the
+limitations of Axio imaging relative the assessment of percent confluence
+(defined as the percentage coverage of the entire scaffold surface with cells)
+could not be performed for these samples. Subsequently, it was not possible to
+determine which scaffold variant or seeding density (0.7M, 1M, 1.7M) supported
+the highest cell adhesion.
+
+Based of the day 8 images taken on the Axio microscope, it was observed that
+no MyoG or MF20 positive cells were present on the seitan samples. Wherein,
+the cause for the lack of MyoG or MF20 signal was likely a result of low
+seeding efficiency, whereby the majority of cells that were seeded onto the
+seitan scaffolds did not adhere. Thus, due to poor adherence, there were not
+enough cells for maturation to take place on the samples. Furthermore, due to
+a false negative reading of Hoechst stained samples at day 7 this experiment
+was ended earlier than planned. As a result of the experiment being ended
+prematurely the cells which were adhered to were not given 14 days in
+differentiation medium (the typical duration given for diff assays on
+scaffolds) before antibody staining, thus it is likely that the 8 days in
+differentiation media provided was not sufficient for differentiation and
+maturation to occur.
+
+In addition to the issues with scaffold imaging and the limited
+differentiation period, further issues were also experienced in this
+experiment and contributed to the insufficient data retrieved. Further
+information relating to the other issues encountered, which included
+difficulties with with preparing, sterilising and handling seitan, can be
+found in the 'Limitations' section at the end of this document.
+
+Despite the limitations, some conclusions can still be drawn based on the
+fluorescent images captured on day 8 of culture in differentiation media (see
+figures 1, 2 and 3). It was observed in both the autoclave (figure 1) and
+autoclave + heat treated samples (figure 2), that cells were present and
+scattered across the surface of the scaffolds, with some areas demonstrating
+more confluent cell clusters. In comparison, the autoclaved + heat + EPL
+treated seitan samples cultured in  ACF and serum conditions (figure 3) showed
+less cells compared to all other samples. In these EPL treated seitan samples,
+the majority did not have cells present on the surface, with samples that only
+having cells clustered in regions of the scaffold with pores. The reason
+behind limited cell attachment to EPL treated samples may have been caused by
+the EPL coating coming detached from the seitan samples during handling, which
+could have resulted in the cells lifting from the scaffolds. It is more
+likely, however, that the cells did not adhere to the EPL treated samples due
+to the net charge of the samples. Wherein, cells have an inherent negative
+charge and therefore are attracted to a slight positive charge. EPL has a
+positive charge and has previously shown success in promoting cell adhesion
+when used in combination with negatively charged scaffolds such as zein.
+However, given that gluten has a positive charge, the cells were likely
+already attracted to the scaffold and as a result, the addition of EPL did not
+infer the same beneficial effect.
+
+
+Limitations
+
+
+Limitation in scaffold preparation
+
+  1. Due to the sticky nature of the seitan sample after preparation, all seitan samples were cut into size after undergoing some form of treatment: 
+    1. Autoclaved - then cut in a sterile environment 
+    2. Heat treated, cut into size, autoclaved 
+    3. Heat treated, cut into size, autoclaved, EPL treated
+  2. Due to the aforementioned point (some scaffolds needed to be cut after sterilisation). However,  our current biopsy punches were rusty and as as result we had to cut the setain samples with a scalpel, which resulted in different size scaffolds with varying thickness and surface areas (note new biopsy punches have since been ordered and received).  
+  3. The Seitan samples could not undergo heat sterilisation as it essentially "cooked" the scaffold, causing it to expand and to form a large bubble and harden, which opened the sterile vessel.
+  4.  
+
+Seitan sample after 15 minutes of heat sterilisation              Seitan
+sample removed from heat sterilisation oven
+
+4\. The scaffolds swelled up in media to around 1.3 x their original size.
+This resulted in some pieces no longer fitting flat on the base of the 96 well
+plate. Some scaffolds were also on their sides in the 96 well plate.
+
+  
+
+  5. Scaffolds had a 3D rectangular dimension - therefore the samples had 8 faces on which the cells may have adhered. This made imaging difficult, as we can only image one side at time.
+
+Limitation to seeding
+
+  1. As some of the scaffolds were larger and did not fit well in the 96 well plate, the cell suspension, rather than sitting on the scaffold, surrounded it. This most likely resulted in the cells not only adhering to the scaffold but also the base of the well as gravity pulled it down.
+
+Limitation to calculating seeding efficiency
+
+  1. Given that a large amount of cells were seeded into the 96 well plate and the media was not changed until the day after, this could possibly have contributed to cells not adhering well to the scaffold. It was observed the day after, that the media had changed from pink to light yellow, indicating that media was depleted and that cells were in a more acidic environment that is not favourable for growth. This may have been a contributing factor to poor seeding efficiency,  
+  2. Transferring scaffolds across to a new well likely caused some of the cells to detach from the scaffold
+  3. Scaffolds were of different sizes and surface areas, therefore the seeding ratio would have varied across all the samples. 
+  4. There is a possibility that the cells may have already started to proliferate over the 24 hours period, thus giving a false low seeding efficiency 
+  5. Only one cell count was performed per sample, resulting in lower accuracy.   
+
+  6. It was evident during the process that a large amount of cells had adhered to the base of the well. Whilst extra wash steps were performed, it is likely that there was still an excess of cells remaining in the well.
+  7. There are a lot of pipette transfering steps, which may have resulted in a loss of cells in the plasticware and pipette tips.
+  8. Due to time constraints, only the seeding efficiency for one seeding condition (1M cells/scaffold) was calculated. 
+
+Limitation to scaffold handling
+
+  1. Scaffold sizes were not ideal as not all pieces fit perfectly into the 96 well plate, therefore these samples required a small amount of force to insert them into the well. This could have caused some damage to the cells. 
+  2. Many steps in the experiment  involved transferring or handling of the scaffold, which may have disrupted the cells (e.g. moving from 96 well plate to cups and tray, moving scaffolds onto a new plate after seeding, Hoechst staining)
+  3. Finer tweezers would have been more suitable for transfering scaffolds bit were  not available, this resulted in the use of larger tweezers that may be more damaging as they come into contact with a larger surface area of the scaffold. 
+
+Limitation to imaging
+
+  1. This was the users first time using the Zaber microscope, and this resulted in the user being unaware that the samples were overexposed on day 1 of imaging scaffolds. Therefore we did not obtain any useful data on this time point. 
+  2. There was very little signal from cells after hoechst staining on day 7. However, after staining with DAPI and observing under the Axio, we were able to seem some cells adhered to the scaffold. This observation was also seen on a seperate type of study with (gelatex) scaffolds (link). It might be possible that Hoechst staining is not as effective as DAPI staining when it comes to staining for scaffolds.  
+  3. Images were taken on the Axio microscope and therefore only sections of a scaffold were imaged (not the entire scaffold), giving us a false representation of how many cells are present on the total surface of the scaffolds. 
+  4. Only two sides of the scaffold was captured, however given the cube like structure of the scaffold, it is likely that we may not have captured all the cells on the scaffold. 
+
+
+Future Directions
+
+
+Based on the limitations experienced in this experiment we can take the
+following leanings into consideration for the planning of future scaffold
+experiments:
+
+  1. Remove the calculation of seeding efficiency. The process of determining seeding efficiency is a very time consuming task, particularly when there are multiple conditions, and often does not yield very accurate results. 
+  2. Revert back to DAPI staining at day 1 and 7 instead of Hoechst staining as this not did show much cell adherence giving us a false negative. Alternatively perform a live-dead stain with CMFDA so that cells can remain in culture.  
+  3. Find a better handling method (to reduced handling frequency). One suggestion is to use a needle instead of tweezers to transfer scaffolds, or a vacuum wand/needle. 
+  4. Overcome the issues around scaffold thickness and size. Look into flattening the seitan with a pasta roller and purchase better biopsy punches, 
+  5. Consider taking images on both zaber and axio if one methods does not show promising results. 
+  6. To limit handling (transfer scaffolds from baskets during feeding to separate plate), we should look into developing baskets with clear glass or plastic bottoms that will allow us to image the scaffold without needing to transfer. 
+  7. Look into freeze drying samples to create more uniform pores within the structure. 
+  8. Look at commercial seitan samples to standardise the samples we test.
+
+

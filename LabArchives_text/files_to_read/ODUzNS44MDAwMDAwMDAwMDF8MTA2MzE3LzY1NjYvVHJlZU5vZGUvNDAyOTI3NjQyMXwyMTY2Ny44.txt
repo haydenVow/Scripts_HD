@@ -1,0 +1,163 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+MuSCs
+
+Flask type
+
+Harvest flask ID
+
+Seeded vessel type
+
+Seeded flask ID
+
+Passage  
+  
+T175
+
+10353
+
+10354
+
+T175
+
+10402-F_KUZCO20-Alpaca P1-1of4  
+
+1  
+  
+10403-F_KUZCO20-Alpaca P1-2of4  
+
+1  
+  
+10404-F_KUZCO20-Alpaca P1-3of4
+
+1  
+  
+10405-F_KUZCO20-Alpaca P1-4of4  
+
+1  
+  
+FIBROBLASTS
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDPassage  
+T17510351  
+10352T17510410-F_KUZCO20-Alpaca P1-1of31  
+10411-F_KUZCO20-Alpaca P1-2of31  
+10412-F_KUZCO20-Alpaca P1-3of31  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA  
+  
+TrypleM  
+  
+dPBS (for washing & neutralising)A  
+  
+Growth MediaA  
+  
+p38i (20mM stock)M  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Collect a pre-Gelatin coated     4     x    T175      flask that was
+stored in the fridge, parafilmed.
+
+  1. Time when flask was placed into the incubator     16:25 -     
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    40   mL in    1x 50mL   tubes
+  2.  dPBS (for neutralising):    40  mL
+  3.  dPBS (for washing):     40    mL
+  4. Growth media (for seeding):    240  mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+16:28  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator  16:40
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   10 mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   16:49 - 17:05   
+
+7\. Neutralised with   10  dPBS and combined cell suspension into a    1 X
+50mL   tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   16:40 - 16:45    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in  120 mL   Growth (incl 10uM p38i)   media  17:10  
+
+11\. Transferred cell suspension into 2 x un-coated T75 flask. Leave at 37C in
+incubator for 45 mins  17:19 \- 18:04  
+
+12\. After 45 minutes, transfer supernatant into 4 x gelatin-coated T75 flask.
+Allow to sit at RT for 30 mins to allow cells to settle   18:08 - 18:38  
+
+
+
+
+13\. Transferred vessel(s) to incubate at:
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+KUZCO20 MuSCs successfully pre-plated in 2 x non-coated T175 flask and then
+transferred into 4 x gelatin-coated T175 flask.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://ranger.vow.tools/#/session/rec1pnSHilX8h34ap/images
+
+

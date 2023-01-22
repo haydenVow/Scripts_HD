@@ -1,0 +1,71 @@
+Key Result(s)
+
+
+  * All cultures were discarded during the contamination gate incident (post-mortem)
+  * Unable to determine if the anti-adherence solution prevents CHOMP_09 fibroblasts from adhering onto the culture-ware surface as a feasible alternative to ULA plates
+  * Unable to determine if a feeding strategy of once every 30 days post FACS sorting is feasible
+  * Unable to determine if seeding at a higher density during the FACS sort is advantageous during the suspension adaption/cloning process
+
+
+Discussion of Results
+
+
+Context/Background
+
+Single cell cloning is the process by which a population of cells can be
+generated from a single parent cell, thus resulting in a genetically
+homogenous population. Vow's standard approach involves initially seeding
+plates with single cells, imaging them over a course of 10 days, followed by
+serial passaging until the cells reach a density suitable to be stored as
+cryo-banks. Recently there have been attempts to combine suspension adaptation
+and cloning by sorting adherent cells into ultra low attachment plates (ULA).
+A recent experiment attempting to replicate this process indicated that the
+cells require ~30 days to reach a confluency in a well of a 384 ULA plate
+suitable for passaging. However there is a significant time involvement during
+this 30 day period which involves replenishing the growth media and Zaber
+imaging. Therefore the purpose of this experiment was two fold:
+
+  1. Comparing feeding strategies (every 10 days vs every 30 days), to reduce the hands on time required to keep the cells fed
+  2. Seeding density (1 cell per well vs 5 cells per well), 
+
+In addition due to the lack of ULA plates the 20 plates used for this
+experiment were coated with anti-adherence rinsing solution; a surfactant
+solution for pre-treating culture-ware to reduce surface tension and prevent
+cell adhesion.
+
+  
+
+Discussion of results
+
+Unfortunately, all of the cultures belonging to this experiment were discarded
+prematurely during the contamination-gate incident. Subsequently, this meant
+that we were unable to:
+
+  1. Determine if a feeding strategy of once every 30 days post FACS sorting is feasible
+  2. Determine if seeding at a higher density during the FACS sort is advantageous during the suspension adaption/cloning process
+  3. Determine if the anti-adherence rinsing solution was a feasible alternative to ULA plates in preventing cell attachment. 
+
+
+Limitations
+
+
+Despite this experiment being terminated prematurely, the current method used
+to gauge cell performance over time (Zaber imaging) remains to be an
+insufficient method to observe cells in ULA plates.
+
+
+Conclusion(s)
+
+
+Unable to assess aims and hypothesis of the study, due to experiment being
+terminated prematurely due to contamination gate.
+
+
+Future Direction(s)
+
+
+At the time of writing this report, suspension cloning has since been
+deprioritised as crucial for the launch of a first product, but continues to
+be critical for Vow's long term strategy.
+
+

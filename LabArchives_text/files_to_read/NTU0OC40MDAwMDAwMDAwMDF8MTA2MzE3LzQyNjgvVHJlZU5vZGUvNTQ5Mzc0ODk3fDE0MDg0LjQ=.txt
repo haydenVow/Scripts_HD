@@ -1,0 +1,40 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE: https://app.shortcut.com/vowfood/epic/25611
+
+LINK TO AIRTABLE ENTRY PAGE:  culture IDs 8706, 8707  
+
+ RELATED TO MILESTONE:  KR2 - Increase late stage maturation markers by 10x
+compared to non-stimulated baseline
+
+AIM/PURPOSE: to identify a cultureware coating that allows for downstream
+analysis (fix and stain) to be carried out by preventing muscle sheet
+delamination
+
+HYPOTHESIS: One or more of the chosen ECM component coating allows for uniform
+cell adhesion, does not interfere with differentation into myotubes and aids
+in keeping the mature muscle, once formed, on the cultureware surface for
+downstream analysis.
+
+RESULTS SUMMARY:
+
+  * Gelatin, Laminin and MyoCult coatings resulted in the most uniform cell coverage and myoblast maturation (myotube formation). However, when moving on to fixing and staining, the repeated washes and pipette operations led to partial delamination in some wells in the form of a coherent muscle-ECM sheet
+  * others coatings  (fibrin, ECM, topical Alginate) were hard to process or resulted in non-uniform cell coverage. Alginate coatings delaminated after a few days in culture, detaching the cells from the cultureware surface as a results. This has previously been observed for Alginate coated onto cell-seeded Zein scaffolds and is not surprising.
+
+Figure: Gelatin partially delaminating due to processing in the immunostaining
+workflow
+
+CONCLUSIONS: Laminin and Gelatin present the best options for cultureware
+coatings going forward. Given the cost of laminin, most likely only Gelatin
+will be pursued, also given the fact that it is the most established coating
+at Vow currently. During immunostaining, Gelatin proved slightly inferior in
+terms of delamination risk compared to laminin, however the use of automated
+processes might warrant the continued use of Gelatin as a coating for mature
+cultures.
+
+NEXT STEPS:
+
+  * Apply Gelatin and/or Laminin coatings to cultureware used to stimulate cells with electrical fields
+  * Overall seed C2C12 cells lower and proliferate for approx 2-3 days to only ~70% confluence before switching to E6 media.
+
+

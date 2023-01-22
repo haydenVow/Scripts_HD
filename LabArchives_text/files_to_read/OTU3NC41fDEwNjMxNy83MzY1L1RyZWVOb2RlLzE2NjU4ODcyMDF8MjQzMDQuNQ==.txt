@@ -1,0 +1,201 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flasks ID(s)Seeded Flasks ID(s)Seeded Flasks (ID)  
+  
+11110  
+ZIC1  
+11262  
+  
+11112  
+Control  
+11263  
+  
+11114  
+ZIC1 + CDKN1A  
+11264  
+  
+11116  
+ZIC1 + DHRS3  
+11265  
+  
+11118  
+CDKN1A + CDKN1B  
+11266  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Tryplem10658  
+  
+dPBS (for washing & neutralising)m10945  
+  
+Growth Mediam10861  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    30   mL in  1 x 50ml   tubes
+  2. dPBS (for neutralising)    30   mL in   1 x 70ml     tubes
+  3. Growth media (for seeding):    150   mL in   2 x 120ml (75mL per continer)    tubes
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added   5    mL tryple to each vessel/well and incubated at 37˚C for    8
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+4\. Neutralised with    5   dPBS (warmed) and combined cell suspension into 5
+x    50 ml   tube.
+
+5\. Centrifuged at 400 x g for 5 min.
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      1  mL PBS.
+
+8\. Performed a cell count using the haemocytometer, mixing 1:1 with trypan
+blue. Recorded the cell count data in the Google Doc spreadsheet called 'Cell
+Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2684:2688
+
+  
+
+
+
+
+9\. Total cell number can be found in the spreadsheet linked above
+
+Knockout group  
+Cells/mL  
+Flask size seeded  
+Cells seeded (7000 per cm^2)  
+Vol of cell suspension seeded (mL)  
+  
+Zic1 + CDKN1A  
+1,604,000T175  
+1225000  
+0.764  
+  
+ZIC1  
+2,680,000T175  
+1225000  
+0.457  
+  
+CDKN1A + CDKN1B  
+1,122,000T75  
+525000  
+0.468  
+  
+ZIC1 + DHSR3  
+1,086,000T75  
+525000  
+0.483  
+  
+0.483Control  
+1,980,000T175  
+1225000  
+0.619  
+  
+  
+  
+
+10\. Seeded ~7000k cells per cm2 of the flasks/plates Note that fibroblasts
+prefer to be subcultured closely together.
+
+12\. Transferred volumes of cell suspension (see above) to separate pre-warmed
+growth media containing T flasks.
+
+14\. Transfer flask/plate(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+  * [x]  30ºC, 5% CO2 (aviary cells), incubator 120
+
+Transferred the remaining volume of each cell of the suspensions to separate
+1.5mL eppendorf tubes
+
+centrifuged tubes for 5 minutes at 500g.
+
+Removed supernatant and left raw pellet in each tube. Placed all 4 tubes in a
+yellow top lid 50mL container, labelled with the date, epic number and
+knockout conditions.
+
+Placed this yellow lid container in the bottom shelf of the -80 freezer in the
+library lab for future RNA extractions.
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+  
+  
+  
+
+

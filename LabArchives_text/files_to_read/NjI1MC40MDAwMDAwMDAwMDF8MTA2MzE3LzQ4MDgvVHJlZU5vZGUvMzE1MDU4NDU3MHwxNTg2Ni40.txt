@@ -1,0 +1,60 @@
+
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Growth Media (CD-CHO + 10% KSR without P/S)m7683  
+  
+  
+
+  
+
+
+
+
+Process:
+
+  1. OT2 setup time: ~10 min
+  2. During the first attempt of the growth media run, I noticed a mistake in the protocol. When fresh growth media is dispensed, the 'mix' checkbox was ticked so the culture was being mixed every time 1 mL or 0.5 mL of media was added. Instead we want it to mix after all 2.5 mL of fresh media has been added. Stopped run when this was observed for well A1.
+  3.   4. Fixed protocol and started another run. This time, I did not include a tip in the 'A1' position of the tiprack. This was done to avoid the OT2 from doing a feed on well A1, but still make the movements required for it so that we can time how long an entire 24 dwp requires.
+    1. start time: 10:14:05 AM
+    2. run time: 42:27 minutes
+  5. Covered 24 dwp with a new cover and stored in the incubator at 37 degrees C, 5% CO2. (#118)
+
+  
+
+
+
+
+Observations/Summary:
+
+A growth media run to feed and sample an entire 24 dwp for performed. Plate
+was placed in the incubator so that we can check sterility of the media later.
+
+The protocol took 42:27 minutes
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

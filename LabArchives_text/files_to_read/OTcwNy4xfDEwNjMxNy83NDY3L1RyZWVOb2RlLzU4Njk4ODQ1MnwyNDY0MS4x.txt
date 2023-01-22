@@ -1,0 +1,157 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by:ST  
+
+
+
+
+Culture IDs:
+
+Harvested Flask ID  
+New flask Id  
+  
+11274 - ZIC1  
+ZIC1 11367, 11368, 11369  
+  
+11276 - PABPC1 + PTEN & IGFBP4  
+P + P 11372  
+  
+IGFBP4 11370, 11371  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+  
+  
+  
+TrypleA9716  
+  
+dPBS (for washing)m10380  
+  
+Growth Media (DMEM/F12 + 20% FBS + 1xP/S)  
+A11218  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Process:
+
+All cells were previously moved to 24 well plates. All wells were lifted and
+moved to 6 well plates
+
+Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     0.2mL per 24 well   
+  2.  dPBS (for washing):    0.2mL per 24 well   
+  3. Growth media (for seeding):     3 mL per destination 6 well     
+
+Aliquots were left at room temperature before use.
+
+
+
+
+Passaging of 96wp
+
+1\. Aspirated the supernatant and discard  
+
+2\. wash with 0.2 mL dPBS and remove  
+
+3\. pipette in 0.2 mL tryple
+
+4\. incubate at 30 degrees for 10 mins
+
+5\. Meanwhile, pipette 3 mL culture media into the wells of 6 well plates  
+
+6\. retrieve plates containing tryple and pipette up and down a few times to
+ensure all cells have been lifted.
+
+7\. Pipette 60 ul of the tryple into 0.2 mL tubes for DNA extraction
+
+8\. transfer the remaining tryple and cells into the well of a 6 well plate
+
+
+
+
+DNA EXTRACTION
+
+Screening PCR protocol - DNA extraction of adherent CHOMP
+
+1.    obtained the samples taken above of tryple and cells in 0.2 mL tubes
+
+2.    Centrifuged cells down to form a pellet in the minifuge
+
+3.    Aspirated off media
+
+4.    Resuspended pellet in 25 uL QE
+
+5.  Ran on the Bento using QE protocol 
+
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

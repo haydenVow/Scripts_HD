@@ -1,0 +1,23 @@
+
+
+please move this page to a relevant location, not sure yet where is belongs
+
+
+
+
+Experimental plan
+
+  1.  Establish a dilution series from concentrated cell suspension
+    1. starting conc. = 1.7 M cells in 400 uL = 4.25M/mL in well A1 of a 1 mL deep well plate
+    2. transfer 200 uL suspension into well B1 and add 200 uL PBS
+    3. repeat step 2 until well A10 for a total of 10 datapoints 
+    4. fill well in A11 with PBS as control
+    5. A12 to remain empty
+    6. multichannel transfer 100 uL from each well into row 1 and 2 of a non-TC 96well plate
+    7. spin down to remove bubbles
+  2.  Read plate on Nanostar with OD measurement protocol "xxxxx" (download and append here)
+  3.  Analyze data and establish calibration curve
+
+Results:
+
+

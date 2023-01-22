@@ -1,0 +1,489 @@
+
+
+## Completed by: AK & EH  
+
+
+Summary of key findings
+
+
+Summary of key findings:
+
+  * MuSCs adhered to fibroblast ECM scaffolds, visualised using the live cell tracker dye CMFDA 24 hours after seeding. Confluence could not be quantified due to difficulties during imaging. 
+  * MuSC presence was not detected on scaffolds at the Day 7 and 14 differentiation timepoints (using CMFDA staining)
+  * Vimentin staining of intermediate filament proteins expressed by fibroblasts was not successful on the ECM samples encapsulated in collagen.
+  * DAPI staining on Day 14 and 17 scaffolds did not stain the freeze-thaw treated fibroblast cell nuclei, even in the absence of seeded MuSC cells, evidenced by the lack of DNA staining on cell-free scaffolds. 
+  * No immunofluorescent staining for MF20 (myosin heavy chain proteins, indicative of myotubes) was apparent on the scaffolds following 14 days of differentiation, regardless of seeding density, media or scaffold condition employed.
+  * MyoG positive MuSCs were observed on several of the scaffold conditions after 17 days of differentiation, indicating successful myogenic commitment. 
+
+
+Results/Discussion
+
+
+Day 1- CMFDA
+
+Subsequent to harvesting the fibroblast ECM scaffolds, all scaffold conditions
+(total of 8: see experimental plan) were stained and imaged 24 hrs post MuSC
+seeding as an indication of MuSC adherence. Zaber image scans of the Day 1
+post seeded scaffolds, stained using the live cell tracker dye CMFDA,
+demonstrated that MuSCs had successfully adhered to the scaffolds, when
+visualised under fluorescence microscopy (488 channel). The presence of MuSCs
+on the scaffolds by immunofluorescence was seen on both scaffold types
+(condition 1 and 2), both seeding densities (1.5M or 0.8M cells/scaffold), and
+on samples seeded in either ACF or serum containing media (Figure 1).
+Furthermore, no MuSC expression was observed on Day 1 cell-free scaffold
+controls, indicating that the CMFDA dye did selectively stain for live cells,
+and not the freeze-thaw treated fibroblast cells (Figure 2). Despite the
+successful seeding of MuSC on the fibroblast scaffolds, there was no apparent
+differences between the conditions based on seeding density/confluence, and as
+such it was unclear as to what extent modifying the seeding density, media and
+scaffold type impacted MuSC adherence. A contributing factor to the difficulty
+of distinguishing between conditions was the high variability observed between
+scaffold replicates. A potential explanation for the variability in confluence
+seen between scaffold replicates could be due to scaffold heterogeneity,
+wherein the scaffold morphology, namely shape and height varied between
+replicates. In addition, due to the gelatinous 3D nature of the fibroblast ECM
+material the scaffolds appeared to have folded in on themselves after seeding,
+and this may have enclosed the MuSCs that were initially seeded on the surface
+inside the scaffold, in an area which is less visible via fluorescent imaging.
+Furthermore, multiple complications were experienced when setting up z-stacks
+on the Zaber microscope. During scaffold imaging, the scaffolds were
+accidentally left in 500 µL of staining solution. As a result of the excess
+volume of media during imaging, is likely that the scaffolds were mobile
+during imaging, and that some scaffolds were submerged at different levels
+within the liquid than others, thus causing several scaffolds to be imaged out
+of focus (Figure 1 e,g,h). As mentioned previously the amorphous nature of the
+scaffolds was also likely a contributing factor to the issue of setting
+appropriate z-stacks that encompassed all of the scaffolds in the plate.
+Consequently, due to the issues incurred, it was difficult to assess MuSC
+adhesion and scaffold coverage for all the scaffolds imaged (Figure 3).
+Finally, due to time limitations, the calculation of cell seeding efficiency
+(the process of tryplising and counting cells which did not attach to the
+scaffolds) was not performed in this experiment, and as such can not be used
+to support the observations seen via fluorescence microscopy.
+
+  
+
+Figure 1. Representative images of fibroblast ECM scaffolds, Day 1 post seeded
+with MuSC, from each experimental condition. MuSC cells stained with CMFDA,
+and scaffolds were imaged under the 488-immunofluorescence channel using the
+5x objective. (a) Scaffold condition 1 1.5M cells/scaffold ACF, (b) Scaffold
+condition 1 0.8M cells/scaffold ACF, (c) Scaffold condition 1 1.5M
+cells/scaffold Serum, (d), Scaffold condition 1 0.8M cells/scaffold Serum, (e)
+Scaffold condition 2 1.5M cells/scaffold ACF, (f) Scaffold condition 2 0.8M
+cells/scaffold ACF, (g) Scaffold condition 2 1.5M cells/scaffold Serum, (h)
+Scaffold condition 2 0.8M cells/scaffold Serum.
+
+  
+
+Day 7 - CMFDA
+
+In order to determine whether MuSCs remained adhered to the fibroblast ECM
+scaffolds after 7 days in differentiation media, all scaffolds were re-stained
+with CMFDA and subsequently Zaber imaged. Unfortunately, in general, MuSCs
+could not be detected on the scaffolds by day 7 of differentiation using CMFDA
+staining, regardless of the experimental conditions (Figure 4). However, one
+exception was identified. Wherein, all replicates of the C2 scaffold type
+seeded at a density of 0.8M in serum media, demonstrated some remaining MuSC
+presence by day 7 (Figure 4), although from the images it was unclear as to
+whether the cells remained adhered to the scaffold or the tissue culture
+plastic (Figure 4). Furthermore, it should be noted that some difficulties
+were experienced with the Zaber microscope when imaging the D7 differentiation
+samples, which subsequently limited the appropriate assessment of cell
+adherence on the ECM samples. Upon imaging the scaffolds on the main lab Zaber
+microscope, difficulties were encountered with adjusting the lamp intensity
+(as unbeknown to the user these settings had been previously modified). As a
+result of the troubles with the light intensity on the main lab Zaber
+microscope the Day 7 scaffolds were instead imaged using the library lab
+Zaber. However, during the Zaber imaging session in the library lab, the
+majority of the scaffolds were inadequately imaged, wherein certain portions
+of the wells surface area were not captured by the microscope's objective. The
+cause of the imaging issue was later revealed to be related to differences
+between the Zaber microscopes from the different labs. Wherein, the library
+lab Zaber objective has a smaller field of view than the microscope in the
+main lab. Thus, the images taken on the library lab Zaber only captured some
+portions of the scaffolds. The lack of cell adhesion observed on the day 7
+differentiation samples, relative to the day 1 samples, could indicate
+cellular detachment or cell death overtime. However, the use of CMFDA for
+tracking cell adhesion on scaffolds is a brand-new approach at Vow. Thus, the
+lack of CMFDA staining at the d7 differentiation timepoint could alternatively
+have been the result of an unforeseen issue with the CMFDA staining itself,
+such as an error made preparing or storing the CMFDA stock. Future work should
+therefore aim to optimise the use of CMFDA for the purpose of tracking live
+cells on scaffolds, such as including planar cultured cells as positive stain
+controls, to ensure the reliability of the repetitive CMFDA staining method.
+On the other hand, an additional alternative cause for the lack of MuSC
+presence on the d7 samples may be associated with the scaffold morphology. As
+was previously mentioned, the ECM scaffolds were highly malleable and easily
+deformed during handling. Thus, it is possible that the cells which were
+initially seeded onto the surface of the scaffolds became 'folded' inside the
+scaffold structure during handling, and subsequently were less easily captured
+by fluorescent microscopy. Regardless of the cause, due to the issues
+encountered with imaging the scaffolds, further work would be needed to
+confirm the findings observed at the day 7 differentiation timepoint.
+
+  
+
+  
+
+Day 14 - CMFDA (half samples)
+
+Prior to fixing and immunostaining after 14 days in differentiation media,
+half of the scaffold replicates for each condition were investigated for MuSC
+presence using CMFDA (AF488). Following imaging of CMFDA stained cells on day
+15, the scaffolds were then kept in culture until the CMFDA stain faded (Day
+17). The day 17 samples were subsequently stained with either MyoG (AF488) or
+MF20 (AF555) and Vimentin (AF488). Wherein, due to CMFDA, Vimentin and MyoG
+all sharing the same blue fluorophore (AF488) these samples had to be stained
+and imaged separately. Similar to results obtained on Day 7 of
+differentiation, the majority of the cell-laden scaffolds demonstrated a lack
+of MuSC presence, with most samples appearing visually indistinguishable from
+cell-free controls (Figure 5). Some MuSC presence was apparent on 3 of the
+scaffolds from 3 different conditions (see Figure 6), however this was not
+supported by replicate conditions. Consequently, the lack of CMFDA staining,
+on both the day 7 and day 14 samples, when compared to the Day 1 Zaber images,
+suggest that the cells had detached from the scaffolds or undergone cell
+death.
+
+  
+
+  
+
+  
+
+  
+
+Day 14 - MF20 + Vimentin + DAPI (half samples)
+
+Following the 14-day differentiation timepoint, half of the scaffold samples
+were fixed with 4% PFA and co-stained with MF20 and Vimentin antibodies to
+visualise MuSC and fibroblast cells respectively. Additionally, as an
+indication of total cellular presence all scaffolds were stained with DAPI to
+visualise cell nuclei. Initial assessment of DAPI stained scaffolds revealed
+the presence of cell nuclei with relatively high scaffold confluence
+(estimated by eye) across the majority of the scaffold conditions (Table 1).
+No apparent differences were observed between scaffolds of different seeding
+densities, media, and scaffold type in terms of total scaffold coverage. It is
+interesting to note that all the cell-free scaffolds in this staining
+treatment group did not display any signal under the DAPI channel despite
+being composed predominantly of fibroblast cells. A likely explanation for
+this observation is that during the process of generating these scaffolds the
+fibroblast cells were seeded directly into the collagen gel matrix. As such
+the fibroblast cells were directly encapsulated with the collagen solution and
+thus inaccessible on the surface of the scaffold to be detected by any of the
+immunofluorescence stains used. Consequently, this suggests that the DAPI
+nuclei stains seen in the cell-laden scaffolds are likely staining MuSC. In
+order to control for this all scaffolds were simultaneously stained with
+Vimentin to detect the intermediate filaments expressed by the fibroblast
+cells encased within the collagen gel. At initial glance it appeared that very
+little Vimentin protein expression could be detected under fluorescence
+microscopy across all the scaffolds (Table 1). In addition, upon closer
+inspection the fluorescent signal detected on the 488 channel, indicative of
+Vimentin protein, appears to overlap with the DAPI signal for several of the
+scaffolds. In particular, this can be seen in the serum (1.5M) seeded
+condition 1 scaffold (Table 1), in that the fluorescent signal appears
+visually identical between the two imaging channels. Additionally, the
+apparent lack of Vimentin fluorescence seen from the cell-free scaffolds
+reinforces that it is unlikely that the Vimentin antibody actually stained the
+fibroblast cells, as no positive expression of Vimentin was observed in these
+samples. Vimentin has been shown to be expressed to some degree in skeletal
+MuSC which likely indicates that the positive Vimentin signal observed on some
+of the scaffolds may be a result of non-specific antibody binding. Finally, to
+assess if the seeded MuSC could form myotubes after 14 days of
+differentiation, scaffolds were probed with MF20 antibody. Unfortunately, no
+positive expression of myosin heavy chain proteins could be observed under
+immunofluorescence on the majority of the scaffolds, except in a select few
+(Figure 7). However, without a positive control it is difficult to preclude if
+these signals are indeed MuSC or a fluorescent artefact. At this stage it is
+unclear if the MuSC were unable to differentiate and ultimately fuse to form
+myotubes or if the lack of fluorescent signal is due to antibody absorption by
+the scaffolds. Based on previous experiments (EPIC19524) it has been
+demonstrated that antibody staining is not compatible with cells adhered to
+Zein scaffolds, therefore it may be plausible a similar occurrence is
+responsible for the lack of antibody staining. Inclusion of an adherent MuSC
+cell line during the staining procedure would be beneficial for any future
+MuSC scaffold seeding experiments as a positive control to confirm myogenic
+purity.
+
+  
+
+  
+
+Table 1: DAPI/Vimentin stained images of fibroblast ECM scaffolds on day 14 of
+differentiation in culture.
+
+  
+
+Seeding Density (million cells/
+
+scaffold)
+
+Seeding Media Condition
+
+Scaffold Type (1 or 2)
+
+*See experimental plan for scaffold type
+
+Fluorescent microscopy images of fibroblast ECM scaffold stained with DAPI (5x
+magnification)
+
+
+
+Fluorescent microscopy images of fibroblast ECM scaffold stained with Vimentin
+(5x magnification)  
+  
+1.5
+
+ACF
+
+1  
+  
+0.8
+
+ACF
+
+1  
+  
+1.5
+
+ACF
+
+2  
+  
+0.8
+
+ACF
+
+2  
+  
+1.5
+
+Serum
+
+1  
+  
+0.8
+
+Serum
+
+1  
+  
+1.5
+
+Serum
+
+2  
+  
+0.8
+
+Serum
+
+2  
+  
+None (Cell-free)
+
+ACF
+
+2  
+  
+None (Cell-free)
+
+Serum
+
+2  
+  
+  
+
+Day 17 - MyoG + DAPI (other half samples)
+
+As mentioned in the previous section, day 14 scaffold samples stained with
+CMFDA were cultured for an additional 3 days and then assessed for myogenic
+differentiation with MyoG and DAPI. DAPI stained cell nuclei in day 17 samples
+could be observed in all seeding density, media and scaffold type conditions,
+except the cell-free controls. Based on visual assessment alone of the day 17
+samples, it appeared that the scaffolds which were seeded at 1.5M cells in
+both ACF and Serum media conditions had higher scaffold confluence compared to
+those seeded at 0.8M cells in both media treatments (Table 2). However, this
+premise is made on the assumption that all the DAPI stained nuclei seen on the
+day 17 scaffolds are from the MuSC cells on the scaffolds, and not from the
+remaining fibroblast DNA in the ECM sheets (see Table 2). According to the
+paper from which the freeze-thaw ECM scaffold method was sourced from, it was
+expected for there to be some residual staining from the fibroblasts in the
+ECM sheets. Xing and colleagues reported that fibroblast sheets stained with
+DAPI following the freeze-thaw treatment demonstrated distorted but positive
+DAPI staining. Thus, the difference in DAPI staining between the cell-laden
+and cell-free conditions may potentially not be a reliable indicator of
+increased MuSC confluence. However, due to the lack of DAPI staining seen in
+our cell-free scaffolds from both the Day 14 and Day 17 staining groups,
+suggests that any residual fibroblast DNA had completely degraded by Day 14 in
+culture. Based on these findings we can reasonably conclude that the DAPI
+staining seen from Day 14 and 17 scaffolds potentially demonstrate increased
+MuSC confluence. Whereas, despite expecting distorted DAPI staining of
+residual fibroblast DNA, the dead cells and DNA debris from the fibroblast was
+completely removed from the scaffolds following the 14 days in culture.
+
+In addition, it is unclear if this trend of increased MuSC adherence can be
+extrapolated to include the effect of the scaffold type (either condition 1 or
+2). Wherein, similar levels of MuSC confluency were observed between cells
+seeded on a type 1 scaffold compared to their respective type 2 control (i.e.
+C1 1.5M ACF vs C2 1.5M ACF). No DAPI staining was observed in the cell-free
+scaffolds, a finding which is in alignment with the lack of MF20/Vimentin
+staining on day 14. Consequently, this highlighted that the DAPI signals seen
+on the scaffolds in this staining treatment group were presumably MuSC. To
+then confirm if the cells seeded onto these fibroblast ECM scaffolds could
+undergo myogenic differentiation, scaffolds were concurrently stained with
+MyoG antibody. MyoG positive cells were visibly present on several of the ACF
+scaffold type 2 conditions (day 17) and were particularly apparent in the 1.5M
+and 0.8M seeded conditions (Table 2). Wherein, the combined presence of DAPI
+and MyoG positive staining on the day 17 samples demonstrated the presence of
+MuSC on the scaffolds. Several scaffolds initially seeded in serum containing
+media also displayed positive expression for myogenin, including both the 0.8M
+and 1.5M cell conditions seeded on the type 1 scaffold. However, the relative
+amount of myogenic stained cells compared to DAPI positive cells suggested
+that only a small portion of the cells underwent differentiation
+(approximately <20%). Nonetheless, the MyoG results in combination with DAPI
+support the finding that MuSC can remain adhered to the fibroblast ECM-
+collagen scaffolds overtime (total of 19 days in culture) and can ultimately
+support myogenic differentiation.
+
+  
+
+ Table 2: DAPI/MyoG stained images of fibroblast ECM scaffolds on day 17 of
+differentiation in culture.
+
+Seeding Density (million cells/
+
+scaffold)
+
+Seeding Media Condition
+
+Scaffold Type (1 or 2)
+
+*See experimental plan for scaffold type
+
+Fluorescent microscopy images of fibroblast ECM scaffold stained with DAPI (5x
+magnification)
+
+
+
+Fluorescent microscopy images of fibroblast ECM scaffold stained with MyoG (5x
+magnification)  
+  
+1.5
+
+ACF
+
+1  
+  
+0.8
+
+ACF
+
+1  
+  
+1.5
+
+ACF
+
+2  
+  
+0.8
+
+ACF
+
+2  
+  
+1.5
+
+Serum
+
+1  
+  
+0.8
+
+Serum
+
+1  
+  
+1.5
+
+Serum
+
+2  
+  
+0.8
+
+Serum
+
+2  
+  
+None (Cell-free)
+
+ACF
+
+2  
+  
+None (Cell-free)
+
+Serum
+
+2  
+  
+  
+
+  
+
+
+Limitations
+
+
+A major limitation of this study was the inability to obtain fluorescent
+stains for MuSC and fibroblasts at several time points throughout the duration
+of the experiment. In particular the lack of CMFDA fluorescence on Day 7 and
+Day 14 made it difficult to ascertain whether MuSCs were still adhered to the
+scaffolds, and whether it was suitable to proceed forward to Day 14 of
+differentiation. Additionally, in relation to difficulties experienced with
+immunofluorescence it is unclear as to what extent the scaffold material
+impacts the success of immunofluorescent staining. Such difficulties have been
+highlighted in previous experimental reports, yet there is still no clear
+conclusion on the root cause. Consequently, this made it difficult to conclude
+whether the lack of MyoG/MF20 fluorescence was due to cells being unable to
+differentiate on the ECM material, or whether the fibroblast-collagen matrix
+was interfering with antibody staining. Future work involving
+immunofluorescent staining should therefore involve the inclusion of a
+positive planar culture control as a confirmation of myogenic staining. On a
+separate note, an additional limitation experienced during this experiment was
+the lack of structural integrity exhibited by the fibroblast ECM scaffolds.
+Due to the gelatinous and 'floppy' nature of the ECM scaffolds it was
+challenging to flip the scaffolds in order to image the opposite side (our
+current standard approach for scaffold imaging). Furthermore, as the ECM
+scaffolds were quite malleable and pliable the MuSCs seeded onto the surface
+of the scaffolds could easily have become pressed or folded within the soft
+scaffold material and consequently encapsulated. Alternatively, the cells
+could have become more difficult to stain and image when they were folded in
+the material. Whereas cells on the surface of a material are much easier to
+penetrate with dyes and subsequently observe via microscopy.  
+
+
+Future directions
+
+
+  1. Continue to optimise the structural integrity of the fibroblast ECM scaffolds, to increase rigidity and firmness for improved handling and stability. Several proposals for accomplishing this have been highlighted in a previous experiment (see here)  
+  2. Optimise CMFDA staining procedure to determine if the same cell samples can be continuously stained during continuous culture with CMFDA. 
+  3. Independently investigate alternative methods to fluorescent microscopy for the assessment of differentiation, fusion, and maturation of MuSC. Such as ELISA or total protein assays, as it remains unclear if it is the scaffold material that impacts whether the cells can be stained using antibodies, or just a lack of cells. 
+
+
+Conclusion
+
+
+The present work represents the first study at Vow in which
+fibroblast/collagen ECM materials have been utilised as scaffolds to promote
+the adhesion and differentiation of MuSCs. Despite limitations with
+fluorescent staining the cell derived scaffolds were able to be successfully
+seeded, maintain adherence of MuSCs for up to 17 days and ultimately enable
+MuSC to undergo myogenic differentiation. In conclusion the scaffolds derived
+from fibroblast cell sheets hold great potential in offering a good support
+for in vitro MuSC attachment and differentiation. Future work should continue
+to optimise the structural integrity of the fibroblast scaffolds, to improve
+stability, handling and general workability.
+
+

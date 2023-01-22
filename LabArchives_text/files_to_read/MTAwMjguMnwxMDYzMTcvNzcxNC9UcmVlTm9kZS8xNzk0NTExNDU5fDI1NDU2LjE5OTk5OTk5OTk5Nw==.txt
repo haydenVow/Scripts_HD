@@ -1,0 +1,113 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH
+
+
+
+
+Culture IDs:
+
+Harvest flask ID + clone IDT75 Seeded flask ID  
+11592 (IGFBP4), 4B, 4C, 3F  
+  
+11372 (PTEN+PABPC1) 2A, 1E, 2E  
+  
+11593 (ZIC1) 1E, 1F, 3B, 3C, 2C, 2E  
+  
+11368 (ZIC1) 2D  
+  
+11594 (ZIC1) 2F, 3A  
+  
+11367 (ZIC1) 1C, 2A  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea10959  
+dPBS (for washing & neutralising)a10909  
+Growth Mediam11219  
+  
+  
+
+
+
+
+### Process:
+
+1\. Sequencing data was used to select clones from the IGFBP4 and PTEN+PABPC1
+populations. Took images of these wells as well as ZIC1 clones that appeared
+over 100% confluent or had started peeling. Generated a pick list for ZIC1
+clones based on these images.
+
+  
+
+
+
+
+  
+
+5\. Discarded supernatant from the wells containing the above clones, washed
+each with 1mL of dPBS
+
+6\. Added     1    mL tryple to each vessel/well and incubated at 30˚C. for 8
+minutes
+
+7\. Neutralised with     1mL of     dPBS and collected each clonal population
+in separate 15mL tubes. Returned the passaged plates back to the incubator
+(82, 30 degrees C, 5% CO2)
+
+8\. Centrifuged at 500 x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in growth media,12mL.  
+
+11\. Mixed the suspensions for each clone then transferred the contents of
+each suspension to individual T75 flasks.  
+
+12\. Returned the plates to incubate at 30 degrees in incubator 140 in the
+library lab, 5% CO2, 30 degrees.
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See MIA for corresponding image ID's for well confluence.
+
+

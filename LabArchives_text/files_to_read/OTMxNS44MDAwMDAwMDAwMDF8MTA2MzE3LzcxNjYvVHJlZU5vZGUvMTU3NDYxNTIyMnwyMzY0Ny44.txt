@@ -1,0 +1,86 @@
+
+
+Performed by: NH
+
+
+
+
+We are observing unexpected high cell numbers in the control suspension tube,
+#10545, relative to the other suspension tubes in this round. Because of this
+we've decided to take an aliquot of the suspension to perform a DNA extraction
+on. We suspect that we may have mislabeled the tubes at some point and this
+tube may potentially contain one of our mutated cultures. We will be
+performing PCR on this extracted sample against PTEN, PABPC1 and IGFBP4 primer
+sets to ensure that this sample is indeed a wild type culture.  
+  
+There is always the possibility that this culture contains separate mutations
+under the suspension selection pressures.  
+  
+Protocol for DNA extraction was performed as follows.
+
+  1. 90uL of suspension culture was transferred to a PCR tube. 
+  2. Tube was spun in a benchtop minifuge for 2 minutes (unknown speed)
+  3. supernatant was aspirated and 25uL of quick extract (a10469) was added to the tube
+  4. spin the tube for 15 seconds to get any loose cells into the quick extract.
+  5. The tube was subjected to the following heating protocol,
+    1. 65 degrees C for 6 minutes
+    2. 98 degrees for 120 seconds
+  6. Tube was left at room temperature
+
+
+
+
+
+
+
+PCR amplification using BENTOLAB
+
+Quick mix DNA extraction of CHOMP07, Control Round 2 suspension culture was
+removed from the fridge.
+
+3 reaction tubes were made as per the protocol below, each using a different
+primer set targeted to PABPC1, PTEN and IGFBP4
+
+Primers used:  
+P41 + P2 - PABPC1  
+P39 + P40 - PTEN  
+P7 + P8 - IGFBP4
+
+  1. Made up a master mix for 2x reactions for primer sets above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer (OPTIONAL)  
+5  
+  
+MilliQ  
+10.1 (+5uL if no GC enhancer is added)  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table above
+  4. Added 1μl of wild type CHOMP07 DNA extract to each tube, added 4uL of MilliQ to each tube to make a total reaction volume of 30uL.
+  5. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  6. Samples were placed in a yellow top container and placed in the fridge in Main lab. 
+
+Samples yet to be run on any gel,  
+PTEN sample = PC  
+PABPC1 sample = AC  
+IGFBP4 sample =  IC
+
+

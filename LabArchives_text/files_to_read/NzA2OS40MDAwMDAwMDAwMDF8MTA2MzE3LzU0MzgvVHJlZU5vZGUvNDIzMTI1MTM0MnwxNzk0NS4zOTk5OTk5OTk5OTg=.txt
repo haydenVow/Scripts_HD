@@ -1,0 +1,46 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/28336?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/rec29VfIVqG2cowlJ?blocks=hide  
+
+RELATED TO OKR:  
+
+OKR 2 \- Characterise 2x QMS-compliant suspension-adapted fibroblast clones
+from our chosen species
+
+OKR 4 \- Establish and run a suspension pipeline at a rate of 10,000 clones
+per month.  
+
+AIM/PURPOSE: Process in which FreeStyle CHO-S suspension adapted cell line
+will be expanded to generate a MCB to use as a control in suspension culture
+experiments.
+
+HYPOTHESIS:
+
+N/A
+
+RESULTS SUMMARY:
+
+550 million CHO-S were frozen in liquid nitrogen after 7 days in culture.
+Additionally doubling times decreased from ~45 hrs (Day 4) to ~19 hrs (Day 7).
+
+CONCLUSIONS:
+
+An MCB of CHO-S (~550 million) was successfully generated after 1 week in
+suspension culture for science R&D experiments, in particular serving as a
+positive control for suspension experiments. Whilst the CHO-S cells exhibited
+long doubling times in the 1-4 day time period following the thaw, by day 7 in
+culture the CHO-S demonstrated doubling times (~19 hrs) comparable those
+highlighted in the manufactures user guide (16-22 hrs). Finally the addition
+of pen-strep after thawing did not impact cell growth despite manufactures
+recommendation on excluding it during the first few passages (2-3).
+
+NEXT STEPS:
+
+  * Evaluate if CHO-S cells can survive in different basal mediums. FreeStyle CHO is an expensive chemically defined media and not feasible for the large scale expansion or continual culturing of CHO-S cells due to its procurement cost. Therefore if may be beneficial to evaluate cheaper alternatives (i.e. CD-CHO, RPMI or DMEM/F12)
+  * Generate a WCB of CHO-S cells, only if required 
+
+

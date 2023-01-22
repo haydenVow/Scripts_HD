@@ -1,0 +1,103 @@
+
+
+
+
+
+Process:
+
+Seed 3 x 96 well plates with 7,000 cells/well in 140 uL/well  
+
+Gelatin coat 3 plates
+
+  1. Fill a 12 channel reservoir as follows
+    1. Wells 1: 11.1 mL of 0.1% Gelatin
+    2. Well 5: 6.3 mL of 0.1% gelatin
+  2. Calibrate OT2 and run protocol 'YYYY-MM-DD-num-N-gelatin-coat-3-plates'.
+    1. start time: 11:36:44 AM
+    2. rUN TIME: 4:18 min  
+
+  3. Incubate all plates for at least 1 hr (37ºC, 5% CO2). 11:47
+
+Passage and seed cells
+
+Growth media = DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+  1. Warm in water at 37 degrees C: 14:36
+    1. 28 mL DMEM/F12
+    2. 42 mL growth media
+  2. Obtain cells from cell expansion
+    1. Link to lab book entry of harvest: 
+  3. Prepare cell suspension:
+    1. For seeding 3 plates (7000cells/well in 140uL/well)
+      1. `2.1 M cells in 42 mL growth media`
+  4. Using this cell suspension prepare 12 channel OT2 reservoir as follows.
+    1. For seeding 3 plates:
+      1. Well 1: `6.3 mL PBS`
+      2. Wells 2 and 3: `13.5 mL basal media (DMEM/F12)`
+      3. Wells 4-8: `8.2 mL cell suspension`
+  5. Run the following OT2 protocol using the reservoir prepared for seeding 3x plates:  'YYYY-MM-DD-num-N-trial-seed-3-plates'
+    1. start run: 5:06:33 PM
+    2. run time: 19:20 min
+  6. Incubate 3x 96 well plates at 37 degrees, 5% CO2. 17:29
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm4219  
+DMEM/F12m4527  
+dPBS (for washing & neutralising)m3776  
+  
+DMEM/F12 + 20% FBS + 1x P/Sm4247, a4533  
+p38i (20mM stock)m4398  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Seeded 3x 96 wp using OT2 with 7000 DOLLY12 cells/well  in serum containing
+media.
+
+6613-DOLLY12-Sheep P11-1of3
+
+6614-DOLLY12-Sheep P11-2of3
+
+6615-DOLLY12-Sheep P11-3of3
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,126 @@
+Aim: To measure maturation in DOLLY12 cells using Bradford and Lowry assays
+Hypothesis: Both Bradford and Lowry assays will measure total protein content as a measure of maturation
+Background:
+
+
+Currently at Vow, we do not have a robust way to measure to measure MuSC
+maturation on our scaffolds. Previously, antibody capture methods to detect
+myogenin and myosin heavy chain (II) such as immunofluorescence and ELISA have
+been tried and tested with minimal success. In both methods, the antibody is
+largely retained by the scaffold giving rise to non-specific binding. The
+current working theory is that porous structural network of the scaffold
+provides cavities and crevices for the antibody to be retained in despite
+repeated washing steps.  
+  
+The Bradford and Lowry protein quantification assays are commonly used to
+measure total protein content. While these methods circumvent the issue of
+antibody retention - they bring added complications due to the need of having
+to remove cells off scaffolds, lyse and purify protein. Lysing and purifying
+protein while is straightforward, having to remove cells of scaffolds may turn
+out to be a complicated endeavour. Moreover, if removing cells of scaffolds is
+succesful, antibody detection methods might as well be used to quantify
+maturation markers (Myogenin, MHC II) instead of having to undergo the process
+of lysing and purification for Bradford/Lowry.
+
+Based on the findings and results of the first iteration of the Bradford assay
+(see: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDg4MC4yfDEwNjMxNy8zNzU0L1RyZWVOb2RlLzI4NTY5Nzk4ODd8MTIzODguMTk5OTk5OTk5OTk5)
+some improvements will be made to the process to obtain more precise results.
+
+These improvements will include:
+
+\- A better method to harvest cells from well plates for analysis (without a
+detachment protein)
+
+\- Keeping lysates cold at all times by using an ice bath.
+
+  
+
+  
+
+
+Plan:
+
+
+Brief overview
+
+  * Seed 6 wells of 2 x 24 well plates with C2C12 cell line.
+  * Analyse protein content of plate 1 using the Bradford assay on Day 0 (no differentation).
+  * Analyse protein content of plate 2 using the Bradford assay on Day 6 (full differentation and maturation acheived).
+
+Preparing BSA standard curve:
+
+  * Make up stock of 2 mg/ml BSA solution
+  * Perform serial dilutions to make up 2000, 1500, 1000, 750, 500, 250, 125, 25 ug/ml solutions of BSA. Place on ice.
+
+Improved freeze-thaw lysis method:
+
+  * Remove E6 from wells and wash multiple times with PBS to remove serum proteins that may affect analysis.
+  * Place the plate directly in LN2 bath for 3 minutes.
+  * Thaw in water bath for 3 minutes.
+  * Repeat process 3 more times.
+  * Ensure detachment by loading 10uL of lysate under haemocytometer slide. Keep plate on ice during this process.
+  * Transfer lysate to microcentrifuge tubes.
+  * Wash wells with 500uL PBS and transfer wash to tube.
+  * Centrifuge tube/s at 650g for 5 mins.
+  * Aspirate 100uL of supernatant and transfer to corresponding well on a fresh non treated 96 well plate. Keep plate cold by placing on ice.
+  * Perform dilutions in the well plate using water or PBS (ensure that whichever one that is used is also used as the blank) as the diluent.
+  * In a new 96 well plate, add 250uL bradford reagent to the corresponding wells.
+  * Add 5uL of the sample to each of the corresponding wells.
+  * Mix well and spin plate down for 5 mins to remove bubbles (also the incubation time).
+  * Read at 595 using plate reader.
+
+Calculations/Analysis:
+
+  * Prepare graph of standards (mg/ml on x axis, Abs on y axis)
+  * Calculate protein concentration using C1V1 = C2V2 (do not factor in amount of Bradford reagent added)
+
+  
+
+
+  
+  
+Figure 1: Plate map for experiment.  
+  
+  
+
+
+
+
+Storyboard:
+
+Day
+
+Task  
+  
+< 0
+
+  * Ensure reagents and ice is in the main lab
+
+  * Seed cells into 2 x 24 well plates
+
+  
+  
+0
+
+  * Perform Bradford analysis on Day 1 plate
+
+  
+  
+1 - 5
+
+  * Feed cells with E6
+
+  
+  
+15
+
+  * Perform Bradford analysis on Day 5 plate
+
+  
+  
+> 15
+
+  * Perform data analysis and determine how much protein content increase do we observed in the maturation process
+
+

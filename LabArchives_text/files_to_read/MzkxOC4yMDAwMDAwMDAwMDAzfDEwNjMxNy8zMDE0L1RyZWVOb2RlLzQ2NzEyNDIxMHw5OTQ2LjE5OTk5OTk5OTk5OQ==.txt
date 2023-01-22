@@ -1,0 +1,101 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Background
+
+
+In order to be able to handoff our fibroblast culture process to a contract
+manufacturer, we need to demonstrate it successfully at 2 L scale, and ideally
+at much larger scales. The University of Technology Sydney (UTS) Warkiani Lab
+has the capability to design, fabricate and test microfluidic devices for the
+continuous separation of different sized particles in culture broth. This is
+an essential technology for both perfusion and harvesting of our fibroblast
+cells. Perfusion and harvesting should be tested at the laboratory scale
+before being handed off to a contract manufacturer.
+
+"...inertial microfluidics work in an intermediate range Reynolds number range
+(~1 < Re < ~100) between Stokes regime and turbulent regime (Re ~ 2000), where
+both inertia and viscosity of the fluid are finite. The finite inertia of the
+fluid brings about several intriguing inertial effects that form the basis of
+inertial microfluidics including: (i) inertial migration and (ii) secondary
+flow" (Zhang et al., 2016). These devices therefore have the ability to
+separate particles based upon their size and/or density.
+
+The benefits of such a separation device include simple and cheap design,
+fabrication and operation; gentle and label-free separation; and, minimal
+fouling. This is in contrast to current popular separation technologies such
+as alternating tangential flow filtration and continuous flow centrifugation
+(Voisard et al., 2003).
+
+  
+Capital cost  
+Operating cost  
+Effect on cells  
+Typical flow rates (L/d)  
+  
+Alternating tangential flow filtration (ATF)  
+High (alternating flow pump)  
+High (expensive consumables)  
+Gentle  
+0-1,000  
+  
+Continuous flow centrifugation  
+High (high-speed bucket)  
+Low (no consumables)  
+Destructive  
+1000-10,000  
+  
+Inertial microfluidics  
+Low (no moving parts)  
+Low (no consumables)  
+Gentle  
+0-150???  
+  
+  
+  
+
+In spiral channels, the two forces are commonly known as "Inertial lift"
+(which pushes particles toward the center of the flow channel) and "Dean drag"
+(which pushes particles toward the outer wall). Generally, Dean drag will
+affect smaller particles more, so smaller particles tend to focus toward the
+outer wall of the channel, while large particles focus toward the inner wall.
+However, this phenomenon is dependent upon flow rate.
+
+  
+
+Continuous triplet-particle separation in a spiral channel
+
+
+
+
+References
+
+
+Voisard, D., Meuwly, F., Ruffieux, P.-A., Baer, G., & Kadouri, A. (2003).
+Potential of cell retention techniques for large-scale high-density perfusion
+culture of suspended mammalian cells. Biotechnology and Bioengineering, 82(7),
+751-765\. https://doi.org/10.1002/bit.10629
+
+Zhang, J., Yan, S., Yuan, D., Alici, G., Nguyen, N.-T., Ebrahimi Warkiani, M.,
+& Li, W. (2016). Fundamentals and applications of inertial microfluidics: a
+review. Lab on a Chip, 16(1), 10-34\. https://doi.org/10.1039/C5LC01159K
+
+

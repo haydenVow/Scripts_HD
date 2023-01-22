@@ -1,0 +1,152 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Performed by: kk  
+
+
+
+
+Note: Please do a 50% feed on cultures 7935, 7936 and 7225, and passage
+culture 7871. Thanks!
+
+
+
+
+Media
+
+DMEM/F12 +20% FBS + 1 x P/S
+
+M199 + 20% FBS +1x p/s
+
+
+Harvested Culture ID  
+Harvested Culture Vessel  
+Seeded Vessel ID  
+Seeded Vessel Type  
+  
+7722-CHOMP9-Crocodile P0-1of1  
+T257972-CHOMP9-Crocodile P2-1of2  
+7973-CHOMP9-Crocodile P2-2of2  
+  
+T175 and T75  
+
+
+  
+  
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Removed the required reagents from fridge 104 (blue test tube rack) in
+library lab and placed in water bath at 30C  for 20 minutes prior to use:
+
+For feeds:
+
+1. 3mL DMEM + 20% FBS + 1 x PS (for culture 7936)15:16pm  
+2\. 3mLM199+ 20% FBS + 1 x PS (For cultures 7925 and 7935) 15:16pm  
+
+For Passage
+
+  1. TrypLE:     3   mL in      1   tubes
+  2.  dPBS (for neutralising):     3   mL
+  3.  dPBS (for washing):       3  mL
+  4. DMEM + 20% FBS + 1 x PS (for culture 7971 pellet resuspension):     1    mL
+  5. DMEM + 20% FBS + 1 x PS (for culture 7971 seeding)::     30    mL
+
+Time that all aliquots were placed in the water bath the warmed to 30C before
+use   time 13:25  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Passage
+
+  1.  Removed vessel(s) ~~  7724 and 7722 ~~7871from the incubator   time 15:09    
+
+  2. Washed the vessel(s) with dPBS (warmed).
+  3. Added   3 mL tryple to each vessel/well and incubated at 30˚C.
+  4. Start/Finish for TrypLE was   time  15:11 - 15:24  
+
+  5. Neutralised each well with   3 mL   dPBS and transferred to   15 mL    tube.
+  6. Centrifuged at 650 x g for 5 min.
+  7. Start/Finish time for centrifugation was   time 15:27 - 15:32  
+
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in   1  mL   growth   media
+  10.  Aliquoted   10uL  of resuspended cells into a microcentrifuge tube for cell count.
+  11. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+    1. Total cell number was:     1,752,000   
+
+    2. Volume of cell suspension required for subculture was:  
+      1. 0.700 mL to seed T175 with ~7K cells/cm2 (30 mL GROWTH MEDIA)  
+
+      2. 0.300mL to seed T75 with ~7kcells/cm2 (12 mL GROWTH MEDIA)  
+
+    3. Cell density per vessel:    ~7K/cm   
+    4. Seeded 1xT175 and 1xT75 with approx 7K cells/cm2  
+
+    5. 13\. Incubate at 30C and 5% CO2. time 16:00  
+
+
+
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)a6522  
+  
+Growth Mediam6381, m6380  
+  
+  
+  
+
+
+
+
+Observations
+
+After 11 minuites in tryple, you can see aggregates of cells in the flask.
+Upon observation under the microscope you can see clusters of cells (>100).
+
+  
+
+  
+
+  
+
+
+
+
+
+
+vessel typeFrom Digestion methodCulture ConditionsCoatingTemp IDMia Link  
+T2530 C Collagen  II + Dispase  
+DMEM/F12 +20% FBS + 1x P/S  
+None307871https://mia-capture.vow.tools/#/session/recSximE9TWJ0TcYr/images  
+  
+6-well plate30 C Collagen  II + DispaseM199 + 20% FBS + 1x P/SNone  
+307935https://mia-capture.vow.tools/#/session/recB33KiKp2bdqI9v/images  
+  
+T25Trypsin DMEM/F12 +20% FBS + 1x P/SNone  
+307936https://mia-capture.vow.tools/#/session/rectK4nHovhCCQhxh/images  
+  
+6-well plateTrypsin M199 + 20% FBS + 1x P/SNone  
+307725https://mia-capture.vow.tools/#/session/recO7CC9cFm7Jv20n/images  
+
+

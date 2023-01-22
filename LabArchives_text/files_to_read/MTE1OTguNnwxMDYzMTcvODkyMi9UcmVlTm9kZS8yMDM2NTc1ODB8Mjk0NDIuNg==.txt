@@ -1,0 +1,97 @@
+
+
+## Performed by: Tom Tarento
+
+  
+
+  
+
+This task should be performed every 2nd or 3rd day, as well as both before AND
+after harvesting
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+12848  
+5  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connected a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew 3.5 - 4.0 mL of sample.
+  7. Disconnected sample syringe and transferred 1 mL of sample each to 3 x 1.5 mL Eppendorf tubes for subsequent analysis:
+    * Performed ViCell count: 320k live cells/mL, 90.7% viability
+    * Performed manual cell count: 280k live cells/mL, 62% viability
+    * Tested pH offline: 7.52
+    * Prepared sample for offline biochemistry analyses: "Biostat 11-July" placed in red rack
+      * 250uL taken from sample
+      * diluted 1:2 with equal volume of dH2O (not PBS) 
+      * Quick spin for 1 minute
+      * Reserve supernatant in new 1.5mL tube and discarded pellet. Input sample info into datasheet here for later analysis offsite. Stored in sample box at -20degC
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp11:00  
+NotesRecorded relevant offline data measurements here  
+  
+  
+  
+
+
+
+
+  1. Took samples for genetic drift and other tests: https://docs.google.com/spreadsheets/d/1YQIYn9VxPIqxVvu8pe9fudyDBRnuDsATzeaQwLhl0eg/edit#gid=1162240706&range=16:21
+  2. Prepared fresh growth medium with ingredients shown in the table below
+  3. Pumped out 1 L of broth and transfer to 4x 250 mL centrifuge tubes
+  4. Centrifuged for 1 minute at 1200 RCF
+  5. Pumped 1 L of fresh growth medium into the bioreactor
+
+ReagentIDAmount (mL)  
+Growth mediumA129961000  
+GlutamineA1294215  
+IGFA122121  
+EGFA128750.2  
+Antifoam  
+M6141  
+0.1  
+
+
+  
+  
+### Observations/Summary: Cell count has increased from ~50k cells/mL on day 0
+to ~320k cells/mL on day 5, corresponding to 1 day lag time and 1.5 day
+doubling time, which is a bit slow normal. Cells should be ready for draw-and-
+fill on Monday 18 July.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  * See G-Sheet here for data and visualisations
+  * See MIA capture here for relevant images
+
+

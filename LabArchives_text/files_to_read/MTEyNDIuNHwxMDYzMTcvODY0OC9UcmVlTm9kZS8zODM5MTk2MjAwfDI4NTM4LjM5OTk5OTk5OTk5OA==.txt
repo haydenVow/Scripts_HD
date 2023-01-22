@@ -1,0 +1,90 @@
+Aim/Purpose
+
+
+Background
+
+Using the foundations built up during the "Buffalo Wings" prototype work, we
+will trial tissue engineering at larger scales and using suspension adapted
+cells (Nuvonis fibroblasts predominantly). This work is part of the Mini-
+Tissues workstream for the Second Product, more can be read about this here.
+Initial Buffalo Wings experimental plans and lab books can be found here. From
+experiment 1 we learnt that tissue formation does not occur at low cell
+densities, with the best tissue forming at the highest cell density we had
+trialed (15,000,000 cells/mL). We theorise the optimial cell density is much
+higher than this value before tissue formation is inhibited. Further, in this
+experiment no matrigel will be used in the moulds, this is based on the
+findings of Experiment 3: Matrigel Reduction in which we saw tissue formation
+in the absence of Matrigel (within 1 - 24 hours).
+
+Aim
+
+To understand the optimal cell density for tissue engineering in moulds using
+suspension Nuvonis cells in a collagen-only matrix.
+
+Hypothesis
+
+Tissue-engineered tissues have a critical, optimum cell density (at the time
+of seeding), above this critical cell density, tissue formation is inhibited.
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Collagen I, 10x DMEM/F12 and 0.1M Sodium Hydroxide. This allows the formation
+of tissues via the process of tissue gelation, condensation and self-assembly
+around 2 attachment points (Figure 1) - See Notion page for summary of
+approach. In this experiment we will be excluding Matrigel given we observed
+tissue formation in the absence of Matrigel (Experiment 3: Matrigel
+Reduction).
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+  
+
+Experiment Layout
+
+We will seed 1 plates containing tissue engineering moulds with 12 tissues
+each, at a number of different cell densities, ranging from 15 million to 60
+million cells per mL (15M, 20M, 25M, 40M and 60M).
+
+Figure 2. Tissue engineering mould plate layout for experiment 4.
+
+  
+
+
+
+
+Before Starting Ensure the Following is completed
+
+  * Calculate approximate cell requirements for experiment 4. 
+    * = Approximately 1.46 Billion cells for 1 plates at the above densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent12 Tissues 1x plate  
+(1.46B Cells)  (mL)13.55 Tissues  
+(1.78B Cells) (mL)  
+Cells+GM23.2328.07  
+Collagen (2.6mg/mL)19.4923.55  
+10X DMEM/F122.352.84  
+0.1M NaOH  2.933.54  
+Pluronic (plate coating)  
+170170  
+  
+  * Autoclave 2x large Nylon scaffolds, ~~2% agar (for embedding moulds)~~ , forceps and mould weights (Jesi - Aluminium rods in PDMS). 
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need 2.93 mL total (make 3.4 mL)
+
+

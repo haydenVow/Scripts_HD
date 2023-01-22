@@ -1,0 +1,437 @@
+
+
+## Performed by: ST
+
+
+
+
+Culture IDs
+
+Flask TypeFlask ID(s)  
+T75 flasks
+
+10512 - PABPC
+
+10513 - Control
+
+10514 - PTEN
+
+10550 - Control  
+10549 - PTEN + PABPC1  
+10548 - IGFBP4
+
+
+  
+  
+Prep for cDNA synthesis
+
+Working out correct RNA concentrations: 1000 ng of each sample were required
+for cDNA synthesis in 16 ul total solution
+
++ve well-ve wellSample IDng/ul Volume (ul)Total ngVol (ul) for 1000ngRNase-
+free water (ul)  
+A1A4Control 1345.73813136.62.8913.11  
+B1B4Control 256338213941.7814.22  
+C1C4Control 3725.93827584.21.3814.62  
+D1D4PTEN 1409.83815572.42.4413.56  
+E1E4PTEN 239538150102.5313.47  
+F1F4PABPC1 1318.13812087.83.1412.86  
+G1G4PABPC1 2440.13816723.82.2713.73  
+H1H4PTEN + PABPC1 621.538236171.6114.39  
+A2A5IGFBP4610.538231991.6414.36  
+  
+  
+
+
+
+
+PROCESS - cDNA synthesis
+
+  1. RNA extracted samples made on 22-Feb-2022 were taken from the -80 freezer and placed on ice
+  2. An empty PCR plate was aquired 
+  3. RNA and milli Q water were added to the PCR plate to equal a total amount of RNA 1000 ng/samples in 16 ul total solution according to the table above in the wells indicated. 
+  4. To the samples labeled +ve, 4 uL of Vilo superscript was added to each well
+  5. To the samples labeled -ve, 4 uL of milli Q water was added to each well
+  6. Samples were placed in the thermocycler and run with the following conditions:
+
+  * 25 c 10 min
+  * 42 c 120 min
+  * 85 c 5 min
+  * 4 c hold
+
+  
+
+
+
+
+qPCR map
+
+  
+MM123456789101112131415161718192021222324  
+AhousekeeperControl 1Control 1Control 2Control 2Control 3Control 3PTEN 1PTEN
+1PTEN 2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P P+P IGFBP4IGFBP4  
+  
+  
+  
+  
+  
+  
+BPABPC1Control 1Control 1Control 2Control 2Control 3Control 3PTEN 1PTEN 1PTEN
+2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P P+P IGFBP4IGFBP4  
+  
+  
+  
+  
+  
+  
+CPTENControl 1Control 1Control 2Control 2Control 3Control 3PTEN 1PTEN 1PTEN
+2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P P+P IGFBP4IGFBP4  
+  
+  
+  
+  
+  
+  
+DIGFBP4Control 1Control 1Control 2Control 2Control 3Control 3PTEN 1PTEN 1PTEN
+2PTEN 2PABPC1 1PABPC1 1PABPC1 2PABPC1 2P+P P+P IGFBP4IGFBP4  
+  
+  
+  
+  
+  
+  
+EIGFBP4Control 1 -veControl 2 -veControl 3 -vePTEN 1 -vePTEN 2 -vePABPC1 1
+-vePABPC1 2 -veP + P -veIGFBP4 -ve  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+F  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+I  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+J  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+K  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+L  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+M  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+N  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+O  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+P  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process - qPCR
+
+  1. The +ve cDNA samples made above was diluted 1:400 in new 1.5 mL tubes by added 798 uL milli Q water and 2 ul cDNA 
+  2. Master mixes were prepared for the 4 genes of interest. Master mix 1x was as follows:
+    * 5 ul sybr green master mix
+    * 0.2 ul fwd primer
+    * 0.2 ul rev primer
+  3. 5.4 uL of MM was added to each well according to the map above
+  4. 4.6 uL of diluted cDNA was added to each well according to the map above
+  5. the samples were run of the ViiA7 qPCR machine with the following settings:
+    * ViiA7 system
+    * Comparative CT
+    * SYBR
+    * Standard 
+    * 384 well plate
+
+
+
+
+Summary of results
+
+  
+
+  
+
+

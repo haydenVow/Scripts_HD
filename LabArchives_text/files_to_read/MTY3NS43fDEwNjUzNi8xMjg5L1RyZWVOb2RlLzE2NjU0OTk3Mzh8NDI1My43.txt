@@ -1,0 +1,68 @@
+
+
+Batch 36 Overview
+
+Fibroblast - CHOMP 09
+
+Batch Total Weight: 5.2g  
+Predicted Weight: 300g
+
+Batch Objectives/Outline:
+
+  * Produce as much mass as possible for investor tastings
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P182x10CF and 2x4CF  
+P2712x10CF and 1x4CF  
+P31x5CS 4 days (the rest were contaminated)29x10CS and 3x5CS  
+  
+  
+Notable Events:
+
+  * A large number of excess cells were harvested during the P2-P3 passage
+    * As a result the flasks (28x10CS and 2x5CS) were seeded at 22,000cells/cm2 instead of the usual 15,000cells/cm2
+    * 1x10CS was also seeded at 30,000cells/cm2 to see if this higher seeding density would affect the harvest outcome (Eg. peel faster? have no effect? produce more mass?)
+    * All remaining cells were put into 1x5CS (754,000cells/cm2) as a way of producing more mass and not wasting the excess cells.  
+  
+
+  * Fungal Contamination:
+    * 06/04/22 
+      * 1x5CS and 2x10CS (found in Thermo 82 and Vios 134) contaminated with large mould colonies (see image below). These flasks were discarded immediately.
+
+  * Bacterial/Yeast contamination:  
+
+    * 08/04/22 
+      * #11506 in library lab binder had some questionable spots on the flask that looked like it could have been surface scratches on the flask. Decided to take an aliquot of the media for internal QC but continue with feed and incubate.
+    * 11/04/22 
+      * obvious cloudy contamination observed in flasks #11506 (however different from the initial mould found on the 06/04/22)
+      * 20/30 flasks contaminated with what looked like bacterial contamination - same as that seen in #11506. Various degrees of contamination with some flasks very cloudy, and others with many white specks and others with only a few. An aliquot of media from some of the contaminated flask (with varying degrees on contamination and from different incubators) was taken to send to eurofins for ID (sent on the 12/04/22). Media samples taken from:
+        * ID 11514 from Library Lab (very low level observation of white spots on small area of flask - media clear)
+        * ID 11497 from Production Thermo (heavily contaminated with cloudy media)
+        * ID 11517 from Production Vios (many white spots adhered to surface of the flask - media clear)
+    * 13/04/22  
+      * 3 out of 10 flasks showed signed of contamination and discarded (1 very cloudy, and 2 with lots of white spots). 
+    * 15/04/22 
+      * 3 out of 7 flasks showed signs of contamination. Same morphology as previously seen in all others. Remaining 4 flasks quarantined in a vios incubator together. 
+    * 19/04/22 
+      * 2 out of 4 of the remaining flasks showed signs of contamination. 
+      * All remaining flasks binned since entire batch 36 appears affected.
+
+  
+
+Batch Results:
+
+  * As described above the entirety of Batch 36 was discarded due to contamination except for 1x5CS (slumdog) which was harvested before contamination was observed in any of the flasks.
+    * This sadly resulted in on 5.2g being harvested from this batch instead of the predicted 300g.
+  * It is thought that the contaminant may have been introduced during the P2-P3 passage as all flasks appeared to be contaminated. 
+  * Another source of potential contaminant introduction was through the TGFb of VitC aliquots that are added to the media for feeds in P3. This is the only other source that could be introduced across multiple different flasks to cause this widespread contamination event
+    * In responses to this we started re-filtering our TGFb and VitC aliquots before adding them to the fresh media for feeds. 
+
+  
+
+  
+
+

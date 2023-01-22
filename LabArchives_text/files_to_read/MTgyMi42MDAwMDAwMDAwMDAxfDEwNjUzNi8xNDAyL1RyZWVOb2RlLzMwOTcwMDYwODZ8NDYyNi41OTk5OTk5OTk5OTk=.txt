@@ -1,0 +1,69 @@
+
+
+Batch 40 Overview
+
+Fibroblast - CHOMP 07
+
+Batch Total Weight: 183.997g
+
+For more detailed metrics see:
+https://docs.google.com/spreadsheets/d/1ze2r6OLmqyrjWBKgtgrHnEmrnNKEv7zI7tJQ6czqjnM/edit#gid=2031152576  
+
+Batch Objectives/Outline:
+
+  * Produce as much mass as possible for investor tastings
+  * Make up for the lost mass due to contamination in batches 34-37
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P171x10CF and 2x4CF  
+P279x10CF and 2x4CF  
+P310 - 162x10CF, 23xCS and 2x5CF  
+  
+  
+
+Notable Events:
+
+  * The number of cells obtain from the P2 to P3 passage was significantly higher than what was required to seed 23x10CS and 2x5CS so all remaining cells were put into 2x10CCS (118980cells/cm2) as a way of producing more mass and not wasting the excess cells. (named: Slumdog 1 and 2)
+  * 1x10CS was contaminated with bacteria and discarded
+  * 1x10CS were contaminated with mould and discarded
+  * It was decided to harvest these flasks before they had completely pealed to mitigate the mould issue and prevent potential future contamination, ie. Less incubation time = less time for contamination to occur and grow. 
+    * For this reason TrypLE was required to harvest the majority of these flasks.
+
+  
+
+
+
+
+Contamination Issues:
+
+  * To avoid the contamination issues seen in batches 34-37 we implemented weekly incubator cleaning
+    * Each week flasks were moved from each incubator into the big thermo so the incubator could be cleaned
+    * First this incubator was sprayed down with F10 and left for 20-30min
+    * Then the F10 was wiped off and the incubator was sprayed down with 70% Ethanol, trying to get into all groves and crevices
+    * The water was the replaced and the flasks moved back into the incubator
+      * To avoid cross contamination during cleaning, only 2 incubators were cleaned at one time and the flasks from these incubators were always paired with flasks from the same incubator in the big thermo.
+        * Eg. Binder 86 and Binder 87 were always cleaned at the same time and the flasks from both these incubators were put into the big thermo at the same time on different shelves.
+      * The selves were always sprayed down with F10 and left for 20-30min before putting new flaks into the big thermo.
+    * Batches 39 and 40 were done in parallel but were also kept separate at all times:
+      * Kept in separate incubators
+      * Fed, passaged and harvested in separate BSCs. Always wiping down of UV treating the BSC before starting on another batch.
+
+Cause: Unknown
+
+  * The sparse and random nature suggest it is being introduced by us somehow 
+  * Possible suggestion is the lab coats. These coats are very porous and could allow contaminants on our clothes to be released inside the BSC or lab. 
+  * The wet humid weather was could also contribute to the number of spores around
+
+Bacterial:
+
+  * 11/05/22 - 1X10CS found in XXXX contaminated with bacteria. This flask was discarded immediately.  
+
+Fungal/Mould:
+
+  * 16/05/22 - 1X10CS found in incubator 135 contaminated with fungus. This flask was discarded immediately.
+
+

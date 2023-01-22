@@ -1,0 +1,104 @@
+
+
+## Performed by:
+
+
+
+
+Reagents used:
+
+Name
+
+Details (reagent ID)  
+  
+dPBSA8790  
+  
+Hoechst A8157  
+
+
+  
+  
+Culture IDs
+
+Flask TypeFlask ID(s)  
+50 mL mini bioreactor tubes
+
+PABPC1 + PTEN- 10546
+
+IGFBP4 - 10547
+
+mock control - 10545
+
+  
+
+
+  
+  
+Process
+
+  1. Collected mini bioreactor tubes from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 
+  2. Pipetted up and down with P1000 to ensure even distribution of cells
+  3. Put through a cell strainer to get rid of clumps of cells (required due to an issue with shaking) and into new bioreactor tubes
+  4. Took 100 uL samples from each culture and transferred to separate wells in a 96-WP, recording the location of each sample for future plate mapping 
+  5. Returned mini bio reactor tubes to incubator 
+
+30° C Incubator (# ), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepare reagents
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 4750 uL MilliQ  
+\- 250 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6 months
+
+Stain plates
+
+  1. Added 100 uL dPBS into plate columns 2 and 3 using a multichannel pipette
+  2. Added 80 uL of dPBS to cells
+  3. Stained samples with 20 uL of Hoechst stain solution
+  4. Incubated for 30 minutes in the dark at room temperature
+  5. Serially diluted cell suspension by transferring 100 uL cell suspension to subsequent wells, down to 25% dilution
+  6. Centrifuged plates at 300 RCF for 1 minute 
+  7. Prepared plate maps (all cells were run on the same plate)  
+  
+Plate : 10610  
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI MIA macro
+  2. Downloaded and extracted the data then pasted it into this spreadsheet - 
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+
+
+
+Observations/Summary  
+
+
+
+
+Well A1 - Control
+
+Well B1 - PABPC1 + PTEN
+
+Well C1 - IGFBP4
+
+  
+
+

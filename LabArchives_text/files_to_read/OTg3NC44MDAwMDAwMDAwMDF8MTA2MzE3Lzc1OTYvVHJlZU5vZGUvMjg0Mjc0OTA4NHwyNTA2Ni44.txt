@@ -1,0 +1,491 @@
+  
+  
+2/11/21
+
+Chris O'Keeffe (chris@vowfood.com) dropped off 5 samples:
+
+1\. L001 Approx 0.5g of frozen sheep cells (Dolly12 Myoblast) from the -80
+freezer
+
+2\. L002 Approx 0.5g of frozen mouse cells (C2C12 differentiated) from the -80
+freezer
+
+3\. L003 Approx 0.5g of frozen lamb backstrap tissue from the -80 freezer
+
+4\. L004 V2 mince (store bought sample, flash frozen, mostly soy protein, but
+also contains vegetable oils (tocopherol).
+
+5\. L005 Store bought sample, 'sheep biopsy 20/2/20', flash frozen
+
+  
+  
+
+
+
+
+Samples recieved 2/11/2021
+
+Chris dropped them to reception
+
+Placed in -30 deg freezer
+
+
+
+
+3/11/2021  Moved samples to -80deg freezer on Atul's request
+
+2nd shelf, drawer 89
+
+
+
+
+26/11/21
+
+Single phase lipid extraction was performed following the published work of
+Alshery, et al., which has been detailed in SOP "Butanol-
+Methano_lipid_extraction_protocol 20211118.docx".
+
+Sample L0001 (Dolly12 Myoblast) and L0002 (C2C12 differentiated) were weighed
+and probe sonified on ice. Sample L0003 (lamb backstrap tissue), L0004 (V2
+mince) and L0005 (sheep biopsy 20/2/20) have been weighed (kept on dry ice),
+homogenised and probe sonified on ice. Sample protein concentrations were then
+determined using Qubit assay. Afterwards, the concentrations were adjusted to
+2 g/L (except for L0004), as detailed in the table below.
+
+Sample L0004 had low protein level. I will increase the amount of sample and
+do protein quantification again next week.
+
+
+
+20211126 Samples preparation for lipidomics  
+Adjust to 2 g/L  
+  
+Weight (mg)Tris-HCl (μL)QUBIT read (reading; samples diluted by 1/10 and 1 μL
+was taken)) (μg/mL)Actual sample concentration μg/mL)Sample (μL)Tris (μL)  
+L00146.63001.5531005027.5  
+L00242.63002.6352605081.5  
+L00343.610002.0240405051  
+L00451.71000<1.0  
+50-  
+L00541.610001.6533005032.5
+
+
+  
+  
+01/12/21
+
+I weighed and prepared more (204.1 mg) sample L0004 hoping to get >2 g/L
+protein quantity, so that the protein quanty could match other samples.
+Preparation was the same as 26/11/21, details in the table below.
+
+20211201  
+  
+  
+  
+Adjust to 2 g/L  
+  
+Weight (mg)Tris-HCl (μL)QUBIT read (reading; samples not diluted; 1 μL was
+taken)) (μg/mL)Actual sample concentration μg/mL)Sample (μL)Tris (μL)  
+L004204.1 mg10006.651330--  
+  
+  
+
+The protein quantity was still <2 g/L. I have tried further increasing the
+amount of samples to 455.4 mg, but the sample became jelly-like after
+homogenisation and it was hard to perform accurate protein quantification. I
+therefore used the above sample for lipid extraction.
+
+Lipid extraction was then performed on sample L0001~L0005, following the SOP
+"20211118_BUME_lipid_extraction_protocol.docx ". Briefly, 10 μL of sample
+lysates (adjusted to 2 g/L protein, except for sample L0004, which had 1.33
+g/L protein) were loaded to Eppendorf tubes, followed by the addition of 100
+μL BuME 1:1 solvent w/ 5 mM ammonium acetate. The samples were then vortexed
+and put into a water bath sonication for 1 hour (temperature kept <28°C).
+Afterwards, the samples were centrifuged for 10 minutes and the supernatants
+were transferred to glass vials. Samples are ready for lipidomic analysis.
+
+
+
+
+02/12/2021 & 03/12/2021
+
+The lipidomic analysis was performed using a Sciex #6600 qTOF instrument
+(Isfield) coupled with an Exion LC. The methods used for positive and negative
+ion modes runs were "20210222_cheka_SWATH_P_Method3.dam"  and
+"20210222_cheka_SWATH_N_Method3.dam", respectively. Both runs followed the
+batch sequence below:
+
+
+
+Sample NameRack CodeRack PositionPlate CodePlate PositionVial PositionData
+FileInj. Volume (ul)  
+7_11.5mL Standard11.5mL Standard172021202\Unxtrct_blank110  
+6_11.5mL Standard11.5mL Standard162021202\Xtrct_blank110  
+QC11.5mL Standard11.5mL Standard182021202\QC1_lipid10  
+11.5mL Standard11.5mL Standard112021202\L0001_lipid10  
+21.5mL Standard11.5mL Standard122021202\L0002_lipid10  
+31.5mL Standard11.5mL Standard132021202\L0003_lipid10  
+41.5mL Standard11.5mL Standard142021202\L0004_lipid10  
+51.5mL Standard11.5mL Standard152021202\L0005_lipid10  
+6_21.5mL Standard11.5mL Standard162021202\Xtrct_blank210  
+7_21.5mL Standard11.5mL Standard172021202\Unxtrct_blank210  
+QC21.5mL Standard11.5mL Standard182021202\QC2_lipid10  
+Lipid_stds1.5mL Standard11.5mL Standard192021202\Lipid_std10  
+  
+Sample 1-5: L0001-L0005; sample 6: extracted blank, water undergoing
+extraction along with the samples; sample 7: unextracted blank, water mixed
+directly with BuME in a sample vial (did not undergo extraction). QC: mixture
+of equal volumes of L0001-L0005 sample extracts. Standard: lipid standard
+mixture from Anthony Don. QC, extracted and unextracted blanks have been run
+twice.
+
+
+
+
+10/12/21 The POSITIVE TICs were reviewed in PeakView:
+
+L001 (~5e7):
+
+L002 (5e7):
+
+L003 (6.4e7):
+
+L004 (2e8):
+
+L005 (~8e7):
+
+Overlay of samples 1,2,3,& 5:
+
+Lipid standards:
+
+QC Lipids 1 & 2 (~1.8e8)
+
+  
+
+Sample L004 (orange) & QC overlay (blue & pink):
+
+Unextraction blanks 1 & 2 (6.5e7)
+
+Extraction blanks 1 & 2 (~5.5e7):
+
+  
+
+
+
+
+10/12/21 The NEGATIVE TICs were reviewed in PeakView:  
+
+Overlay L0001-L0005
+
+Overlay QCs:
+
+Overlay extracted blanks:
+
+Overlay unextracted blanks:
+
+  
+
+
+
+
+03-08/12/2021 MS-DIAL lipid identification
+
+Non-targeted lipidomic analysis was performed using MS-DIAL v 4.70.
+
+The following settings were used for positive mode:
+
+Data collection: MS1 tolerance: 0.01 Da; MS2 tolerance 0.025 Da
+
+Peak detection: Minimum peak height: 1000; Mass slice width 0.1 Da
+
+MS2Dec: Sigma window value: 0.5; MS/MS abundance cut off: 0
+
+Identification: Retention time tolerance: 100 min; Accurate mass tolerance
+(MS1): 0.01 Da; Accurate mass tolerance (MS2): 0.05 Da; Identification score
+cut off: 80 %
+
+Adduct: [M+H]+, [M+NH4]+, [M+Na]+, [M+CH3OH+H]+
+
+Alignment: Reference file: QC1_lipid; Retention time tolerance: 0.25 min; MS1
+tolerance 0.02 Da
+
+Data files are saved in Contract MS\Vow
+Foods\20211207_Lipidomics_sample_1-5\MS-DIAL_results\20211206_vow_pos folder
+
+  
+
+The following settings were used for negative mode:
+
+Data collection: MS1 tolerance: 0.01 Da; MS2 tolerance 0.025 Da
+
+Peak detection: Minimum peak height: 1000; Mass slice width 0.1 Da
+
+MS2Dec: Sigma window value: 0.5; MS/MS abundance cut off: 0
+
+Identification: Retention time tolerance: 100 min; Accurate mass tolerance
+(MS1): 0.01 Da; Accurate mass tolerance (MS2): 0.05 Da; Identification score
+cut off: 80 %
+
+Adduct: [M-H]-, [M-H2O-H]-, [M+Na-2H]-
+
+Alignment: Reference file: QC1_lipid_N; Retention time tolerance: 0.25 min;
+MS1 tolerance 0.05 Da
+
+Data files are saved in Contract MS\Vow
+Foods\20211207_Lipidomics_sample_1-5\MS-DIAL_results\20211207_vow_neg folder
+
+
+
+
+10/12/21
+
+After some work on the lipidomic data below are two heatmaps using lipid
+identified with positive mode (log10 AUC). One contains lipid classes the
+other is all lipid species. As expected, the cell lines samples (L0001 &L0002)
+are more similar to each other. Same for the muscle tissues (L003 &L005). V2
+mince (L0004) is less similar to other samples. It obviously has more TG and
+the composition of phospholipid (and other things) is also quite different.
+
+15/12/21
+
+I have also plotted the negative mode lipid data. Likewise the lipid
+composition shows some discrepancies between the muscle tissues, cell lines
+and V2 mince.
+
+
+
+
+Heatmap representations of lipid classes (sum of all species sharing a common
+head group/structure) and species area-under-curve data, positive and negative
+ion modes.
+
+
+
+
+Experimental Aims for the 2nd sample preparation and run for L001-L005:
+
+Following our last discovery lipidomic work, we intended to make further
+improvements to the sample preparation and increase the amounts of
+tissue/cells used to obtain stronger lipid signals. The following changes have
+been made in current experiment:
+
+
+
+  1. The amounts of samples used for extraction have been increased by approximate 2.5 times (tissue weight equivalents vs sample L004 prepared on 02/12/2021)
+  2. TissueLyser LT homogeniser was used for homogenisation
+  3. The Methyl-tert-butyl ether (MTBE) method, instead of the BUME method, was used for lipid extraction, which should extract fibrous tissues (i.e. muscle) better.
+  4. Total lipid in the lipid extracts have been determined using the Direct Detect system
+
+If the results are satisfactory, we will stick to this method for subsequent
+samples.
+
+
+
+
+16/02/2022
+
+The Direct Detect system can be used to determine sample lipid contents based
+on the aliphatic chains within lipid molecules. I tested this function by
+using olive and sunflower oils, largely following the Direct Detect manual for
+lipid quantification (AN4428EN00-web.pdf). I did not generate and save a
+"lipid calibration method" in the Direct Detect system. Instead, I have
+generated a calibration curve by exporting the known concentrations of olive
+and sunflower oils and their readings, and then generate their respective
+calibration curves using Excel (20220216_direct_Detect_test.xlsx). I also have
+all the original reports generated by Direct Detect. Notably, the "Lipids
+[mg/mL]" columns actually show the reading from Direct Detect, not the mg/mL
+values.
+
+
+
+
+18/02/2022 MTBE lipid extraction
+
+Lipid extraction was performed largely following the established Sydney Mass
+Spec. "Lipid extraction MTBE method.docx" method. Some modifications were made
+to enable the processing of small amounts of samples. Below are the extraction
+steps and the bold contents are specific to this experiment (different from
+the established method):
+
+  
+
+Lipid Extraction MTBE Method I (modified; done on 18.02.2022)
+
+Reagents:
+
+1.    0.01% BHT-Methanol                             10 ml
+
+Methanol (OPTIMA LC/MS grade EcoSafPak 4LFSBA456-4)                10 ml
+
+Butylated hydroxytoluene
+1 ul
+
+  
+
+2.    Methyl-tert-butyl-ether
+
+Methyl-tert-butyl ether HPLC 2.5L (FSBM/4496/17)
+
+  
+
+3.    MTBE:MeOH:water (10:3:2.5)                                                        10 ml
+
+MTBE
+10 ml
+
+Methanol
+3 ml
+
+Water
+2.5ml
+
+  
+
+Vow Foods Tissue/Cells (L001-L005):
+
+  
+
+1.    Approximately 10 mg of tissue/cells were weighed (see table below for details) and then put into 2 mL Eppendorf tubes. Put homogenisation beads into the tube (L003, L004 and L005).
+
+2.    Add an aliquot of 200 μL 0.01% BHT into each tube. 
+
+3.    Homogenise the tissues (L003, L004 and L005) using a TissueLyser LT (Oscillation: 50; 5min*2). Chill samples before and between the two homogenisations.
+
+4.    Wash the beads with another 100 μL of 0.01% BHT methanol and transfer the homogenates to new 2 mL Eppendorf tubes. 
+
+5.    Sonify the homogenised tissues and cells with a probe sonicator (amp 50% (micro); 15 sec*2).
+
+6.    Add 1 mL of MTBE (methyl-tert-butyl-ether) to the tube and sonicate on ice bath for 30 min. Keep water bath cool. 
+
+7.    Add 250 μL of MilliQ water to each tube to induce phase separation. 
+
+8.    Vortex the sample and spin at 2000 g for 5 min to complete phase separation. 
+
+9.    Transfer the upper organic layer into 2 mL Eppendorf tubes. 
+
+10.   Repeat step 4-8 once (ratio for MTBE:methanol:water = 10:3:2.5) (i.e. 300 μL of methanol, 1mL of MTBE, and 250 μL of water; only the addition of extraction solvents, not the homogenisation and sonication steps) except for L003*3 sample, which was prepared with 2 repetitions (total 3 extractions) for comparison purpose. 
+
+11.  Dry the extracts in a Speedvac, 35 °C, 1.0 mTorr. 
+
+12.  Reconstitute the extract in 200 μL of BUME w/ 10 mM ammonium acetate
+
+13.  Centrifuge the Eppendorf tubes carefully at 2000 g for 10 min to pellet insoluble material, then transfer all (as much) supernatant to a glass LC vial.
+
+14\.  Determine the lipid content of each sample using Direct Detect and pre-
+established calibration curves (sunflower oil)
+
+  
+
+ Sample weights:
+
+
+
+SampleWeight (mg)  
+L00110.1  
+L00210.2  
+L0039.8  
+L003_ext*310.3  
+L00410.5  
+L00510.3  
+  
+Direct Detect results:
+
+
+
+SampleReadingCalculated Conc. (mg/mL)  
+Extracted_blnk0.002-0.097  
+L0010.0060.824  
+L0020.0081.284  
+L0030.0081.284  
+L0040.024.046  
+L0050.0081.284  
+L003_ext*30.0091.514  
+  
+  
+
+  
+
+
+
+
+3/3/22
+
+Based on this poster at Lorne Proteomics:
+
+  
+
+Kany Yu send Joon the direct detect files, which he was able to open using the
+Bruker software for the Alpha spectrometer:
+
+Joon noted: It seems like the lipid method purely measures the C-H region only
+as the spectra are cut off on either side measuring only 3100-2600 so it is
+possible you could see improvements by looking at different regions of the
+spectra.  The spectra are saturating the detector ~1200 cm-1.
+
+
+
+
+23/02/2022
+
+Lipidomic analysis of the above samples were carried out using the identical
+SWATH methods from the previous (02/12/2021) run. The batch files for positive
+run is "20220223_Vow_L1-5_MTBE_pos.dab". The QC sample was prepared by mixing
+sample L001-L005. Solvent system used for this run was solvent A: ACN:H2O =
+6:4 \+ 10 mM ammonium acetate/solvent B: ACN:IPA = 1:9 + 10 mM ammonium
+acetate. Below are all the positive TIC profiles:
+
+  
+
+Overlay, two and three extractions (L003):
+
+Overalay, sample L001-L005:
+
+Conclusions:
+
+Extractions by twice and three times hardly show any differences at TIC level.
+Will only extract twice for future sample preparation.
+
+Substantially stronger TIC signals can be seen with the modifications we have
+made regarding sample preparation. The new sample preparation method looks
+promising.
+
+
+
+
+25/02/2022
+
+MS-Dial analysis (positive):
+
+LC/MS data analysis was carried out using MS-Dial. All the settings were
+identical to 03/12/2021, except that I removed the adduct  "[M+CH3OH+H]+", as
+we have not used methanol in our solvent system and therefore should not
+detect molecular ions with this adduct. Totally, 4522 lipid features have been
+identified in the samples under positive ion mode.
+
+
+
+
+02/03/2022
+
+Negative mode lipidomic run was carried out using the same SWATH method from
+02/12/2021. The batch file for positive run was
+"20220302_Vow_L1-5_MTBE_neg.dab". The solvent system used was the same as
+23/02/2022.
+
+
+
+  
+
+  
+
+  
+
+  
+
+Overlay, 2 and 3 extractions (L003)
+
+Overlay, blank and samples
+
+  
+
+

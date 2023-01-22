@@ -1,0 +1,174 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+6600-DAISY4_16G9-Cow P8-1of3T175NONE  
+  
+  
+6601-DAISY4_16G9-Cow P8-2of3T175NONE  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+  
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    20     mL in     Small Urine Containers    tubes
+  2.  dPBS (for washing and neutralising):     2 x 20mL    mL in   2 Small Urine Containers     tubes
+  3. Growth media (for pellet resuspension):     5    mL in    1 x 15mL Tube     tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+15:34   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed T175 vessel(s) from the incubator     16:08   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     16:15-16:30   a/pm (25 minutes, cells were very sticky and required repeated 5 minute extra incubations after the initial 10min).   
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a
+1x50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:43   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL    growth      media     17:00
+a/pm
+
+11\. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:     552000        
+
+
+
+
+13\. cell pellet was discarded.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionn/a  
+Tryple4308  
+dPBS (for washing & neutralising)4381  
+Growth Media  
+  
+p38i (20mM stock)3978  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  * Cells had not achieved even one doubling since seeding. ~350k cells were seeded 4 days prior and only 552K cells were harvested. 
+  * Cells were adhered very strongly to the plastic during harvest, tryple time was drawn out to 25 minute and the flasks were tapped rigerously to detach strongly adhered cells. 
+  * Cell morphology was similar to what has been seen on previous days, very spread out and splattered;. 
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [x]  Need to be further analysed
+    * We need to calculate the decrease in doubling rate. 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6601
+
+https://mia-capture.vow.tools/#/session/recx1ydUeT9LwnV5e/images#group0
+
+  
+
+6600
+
+https://mia-capture.vow.tools/#/session/recqsttcyj5TqwrFt/images#group0
+
+

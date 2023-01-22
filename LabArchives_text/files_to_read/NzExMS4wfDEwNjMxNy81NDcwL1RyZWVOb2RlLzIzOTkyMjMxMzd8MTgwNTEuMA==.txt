@@ -1,0 +1,42 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/25606?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+RELATED TO MILESTONE:  KR1 - Build 3 new tools to increase maturation study
+throughput by 2x
+
+AIM/PURPOSE: To identify the difference in protein content between mature
+myoblasts and TGF-b \+ Vit C treated fibroblasts. To identify a suitable total
+protein assay (between BCA and Bradford)
+
+HYPOTHESIS: Mature muscle cells yield higher total protein than TGF-b / Vit-C
+treated fibroblasts. The BCA assay captures higher protein across all samples
+due to its flexibility with protein-protein uniformity within the samples.
+
+RESULTS SUMMARY:
+
+While the BCA assay yields an overall lower total protein value, it also
+exhibits better reproducibility (lower standard deviation: BCA = 5 ug,
+Bradford = 9 ug). This may be due to an assay being more or less sensitive to
+certain kinds of protein residues and workflow parameters such as washing
+efficiency (to remove aforementioned proteins present in the media). Results
+were also not normalized to cell density, which will affect the overall spread
+of results.
+
+Due to ongoing issues with cell loss, the comparison between fibroblasts and
+myoblast/mature muscle total protein was not performed in this study.
+
+CONCLUSIONS:
+
+Both assays are suitable tool to measure total protein content of samples, but
+a method must be developed to allow for normalization to cell density.
+
+NEXT STEPS:
+
+  * Repeat experiment to assess reproducibility and standard deviation caused by the workflow by obtaining lysates from cell suspensions to allow for protein values to be normalised against cell count numbers.
+  * Quality control measures such as increasing the number of PBS washes (post-E6 removal) will be implemented and the effect on variability for each assay will be monitored.
+
+

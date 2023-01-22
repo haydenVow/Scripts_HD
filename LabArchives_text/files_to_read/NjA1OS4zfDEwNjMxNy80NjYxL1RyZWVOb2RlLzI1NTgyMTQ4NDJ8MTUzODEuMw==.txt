@@ -1,0 +1,49 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/26567?cf_workflow=500000866&ct_workflow=all&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recCn4OLbZqlU3Xry?blocks=hide
+
+RELATED TO MILESTONE:  
+
+### KR2: Characterise 2 x QMS-compliant suspension-adapted fibroblast clones
+from our chosen species
+
+KR4: Establish and run a suspension pipeline at a rate of 10,000 clones per
+month
+
+AIM/PURPOSE: To generate 384-well plate phase contrast images of DOLLY12
+fibroblast cells to assess if the in-house ML model or FIJI macros can
+accurately count cells in suspension.
+
+HYPOTHESIS: Phase contrast images of DOLLY12 fibroblast cells in suspension
+will be able to be accurately counting using either a modified ML model or
+newly developed FIJI macro.
+
+RESULTS SUMMARY:
+
+Training set of images (from 384 well plate) were successfully generated of
+DOLLY12 fibroblasts approximating the morphology and size of suspension cells.
+Whilst the ML could identify cells in both low and high density images, it
+requires additional optimisation for images with a sufficiently high number of
+cells (>1000). Finally the ML model overcounts images from Day 1 post FACS
+sort, likely due to condensation and/or debris appearing similar to cells the
+model was trained from.
+
+CONCLUSIONS:
+
+Despite promising indications that the ML model could identify suspension-like
+cells, further optimisation is required. Namely the model overcounts images
+from early stages of the cloning process, given that only a few cells are
+expected to be present. Moreover, dense cell populations are undercounted due
+to the close proximity of cells to one another. Further work should involve
+utilising CHO-S cells to train the model further.  
+
+NEXT STEPS:
+
+  * Generate training images using suspension adapted cell lines, namely CHO-S cells. An MCB of these cells has been established and therefore can be utilised for the continuation of this experiment
+  * Continue refining the model using a training set of images of CHO-S cells in static suspension imaged on the Zaber
+
+

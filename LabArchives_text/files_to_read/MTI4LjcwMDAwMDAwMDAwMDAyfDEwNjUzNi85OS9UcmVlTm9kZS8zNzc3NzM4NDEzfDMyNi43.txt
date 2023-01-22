@@ -1,0 +1,126 @@
+
+
+# Harvest 7x10CF
+
+* * *
+
+Date: 03/06/21  
+Start time: 7:45am  
+End time:
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s  
+  
+6914, 6913, 6910, 6917, 6907, 6912, 6915  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+  
+
+Cell Harvest  
+  
+If harvesting flask type
+
+Then for each flask use...  
+dPBS @ 37CTrypLEdPBS @ Ambient Temp  
+T17510 mL15 mL10 mL  
+2CF100mL100mL100mL  
+4CF200 mL200mL200 mL  
+5CS250mL250mL250mL  
+10CS500mL500mL500mL  
+  
+  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  3. Aliquot required volume of dPBS (37C), dPBS (ambient temp) and TrypLE in separate sterile pots.  Refer to Table above for required volume.
+  4. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 8:00am  
+
+  5. Transfer aliquots and flasks required for harvest into the BSC.
+  6. Save growth media from each flask into 1L bottles.
+  7. Wash with warmed dPBS, and save into 1L bottles with collected growth media. --> These bottle contain aggregates, wait for them to settle, and then aspirate the top portion of supernatant, leaving about 50-100mL remaining and then dispense into 50mL tubes using a strippette.
+  8. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  9. Place in the incubator at 37C. After 10 minutes, remove flasks and agitate to encourage maximum dissociation of cells. Incubate further until maximum dissociation level is reached.  
+     NOTE: The flasks must be removed from the incubator within 18 minutes of initial incubation of TrypLE containing flasks.  
+`     Time stamps`:
+
+    1.  1st= 9:43am - 10:08am
+    2.  2nd,= 9:47am - 10:12am
+    3.  3th, 4th = 9:56am - 9:21am
+    4.  5th= 10:01am - 10:26am
+    5.  6th, 7th = 10:05am - 10:30am
+  10. Aspirate the TrypLE solution and collect into 1L Bottle. 
+  11. Dispense ambient temperature dPBS to create a final wash for each of the flasks. Shake flasks well to ensure collection of as much cells as possible.
+  12. Pour PBS wash into the same 1L bottle containing TrypLE'd cells. 
+  13. Aliquot the 1L cell suspension mix into 20x50mL tubes.
+  14. Centrifuge at 700 x g for 5 minutes. ``  
+`      Time stamp` :
+
+    1.  Production_1: 10:35  
+
+    2.  Production_2: 10:46am  
+
+    3.  Production_3: 10:55am  
+
+    4.  Library_1:10:56am
+    5.  Production_4: 11:04  
+
+    6.  Library_2: 11:05  
+
+    7.  Production_5: 11:13  
+
+    8. Library_3: 11:15
+    9. Production_6: 11:21
+    10. Library_4: 11:23
+    11. Production_7: 11:38
+    12. Libary_5:11:40
+    13. Library_6: 11:45  
+
+    14. Library_7: 11:53  
+
+  15. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Transfer tubes into the Library lab BSC.
+  16. Aspirate the supernatant from the tubes. Discard supernatant. Remove as much remaining supernatant with a 1mL pipette if required.  
+
+  17. Resuspend each pellet with 1-2mL media (PRF DMEM/F12 + 10% FBS) using a 25mL pipette and combine into 8x50mL tubes.
+  18. Wash out all 50mL tubes with 10mL media per 20x50mL tubes and combine with cell suspension.   
+
+###  
+
+### Re-pellet and Weigh Final Yield
+
+  1. Label and Record the weight of 1x250mL sterile centrifuge tube and set aside. Record details in Table.  
+  2. Centrifuge tubes at 700 x g x 5 minutes. Time: 13:00pm
+  3. Aspirate the supernatant from the tubes, leaving approximately 5mL of resuspension media.
+  4. Re-suspend the cell pellet in the tube and combine into the weighed tube. (Also use 5-10mL media to wash out the 50mL tubes and combine into the weighed tube)
+  5.  This concentrated cell suspension may be stored at 4'C until ready for pelleting, or continue with pelleting. Stored @ 4'C : 13:25pm
+  6. Centrifuge at 700 x g x 5 minutes. 
+  7. Aspirate the supernatant from the tubes. Remove as much remaining supernatant with a 1mL pipette.
+  8. Record the final weight of the cell pellet. Enter details in Table. 
+  9. Immediately provide to the food team for testing.
+
+DescriptionWeight (g)  
+Pellet Name Treated - sheets  
+  
+Initial Weight of Tube32.981 g  
+  
+Weight of Tube + Cells47.854 g  
+  
+Weight of Cell Pellet14.873 g  
+  
+  
+  
+
+

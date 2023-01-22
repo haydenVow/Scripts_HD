@@ -1,0 +1,133 @@
+
+
+Completed by: Shaleen Sharma
+
+Reviewer:
+
+
+Introduction
+
+
+The maturation of isolated MuSCs is an important component of Vow's future.
+Previously, factors to promote the differentiation and maturation process in
+myogenic cells have been identified, however these are physical stimuli such
+as mechanical or electrical stimulation in a bioreactor setting. Beyond this,
+the potential to significantly increase maturation and consequent protein
+expression in myoblasts lies within supplements to our culture medium. Based
+off the work completed by Liu and co-workers [1] earlier this year, gelatin
+has been identified as a possible ingredient to increase the proliferation and
+maturation of C2C12 myoblasts. It was found that a bi-phasic effect is
+observed with gelatin supplementation, where low-doses (5 mg/mL) produces an
+increase in proliferation and maturation through a hormetic pathway while high
+doses (20 mg/mL) prove detrimental to cell viability, in comparison with
+control. The primary aim of this experiment is to replicate the conditions
+used by Liu and co-workers (cell line, gelatin concentration etc.) and
+reproduce the positive effect observed on maturation in C2C12 myoblasts.
+
+Currently, the process for measuring maturation in myogenic cells at Vow is
+primarily focused on fluorescent antibody staining and subsequent image
+analysis. While this approach has proved useful for adherent cultures, it
+remains difficult to measure maturation on scaffolds at Vow due their 3D
+structure and complex overlapping structures that sometimes fail to be
+captured accurately even with our Zaber imaging platform. Considering the
+maturation process occurs primarily on scaffolds in cultured meat
+applications, it is imperative to quantify maturation content on scaffolds at
+Vow. One possible approach that has come to light is the enzyme-linked
+immunosorbent assay (ELISA) that is commonly used to detect and quantify
+proteins and antibodies in biological samples. The first implementation of
+ELISA at Vow to measure the transcription factor myogenin (MyoG) and the heavy
+chain of myosin II (through MF20 antibody) proved to be moderately successful,
+however areas to improve and produce accurate ELISA readings were identified.
+(See: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzcyLjJ8MTA2MzE3LzU5NC0yNjQ4L1RyZWVOb2RlLzI2MzY3MTc0NDN8MTk2MC4xOTk5OTk5OTk5OTk4)
+
+Two main issues were identified with the first implementation of ELISA:
+
+  * The absorbance readings at 450nm were unusually high and very similar (despite varying cell densities) due to the prolonged incubation of the HRP-conjugated secondary antibody overnight.
+  * Potential for insufficient washing due to observed non-specific binding.
+
+In addition to measuring the effect of gelatin on maturation, this experiment
+also aims to implement the ELISA assay for the second time and make
+improvements based on the outlined issues above. By doing so, a more optimised
+pipeline for reliably measuring maturation content in our primary myoblasts
+can be constructed. Moreover, any factors to improve maturation can be
+quantified and compared against baseline controls, thus instilling confidence
+in any identified factors if any.
+
+  
+
+
+Key Results:
+
+
+Overarching key findings/summary:
+
+  * Gelatin, when supplemented as an ingredient in E6 produces a steady detrimental effect to C2C12s with increasing concentrations (see Figures 1 and 2).
+  * Gelatin, when used as a coating in wells at increasing concentrations provides no improvements in protein content or signals an enhancement in the maturation process in C2C12s when compared with control.
+  * ELISA workflow has improved in this second iteration, producing acceptable absorbance intensities in comparison with the first iteration of this pipeline.
+  * Oddly, ELISA workflow failed to capture and quantify MyoG content in cells, however requires repeat as it succesfully did so in the first iteration.
+
+
+
+
+  
+  
+  
+Figure 1: MyoG and MF20 ELISA absorbance readings for the coating gelatin
+plate.
+
+Figure 2: MyoG and MF20 ELISA absorbance readings for the ingredient gelatin
+plate.
+
+
+Discussion/Limitations:
+  
+  
+Implementing gelatin as a factor to improve maturation:
+
+  * The findings of this study do NOT correlate with the work completed by Lui and co-workers [1]. A bi-phasic effect is NOT seen with increasing gelatin concentrations where the optimal effect is seen at 5 mg/mL and a detrimental effect is seen at 20 mg/ml of gelatin. 
+  * Supplementing differentiation media with gelatin provides no favourable effect on maturation, but rather suggests that any addition of gelatin in E6 results in a decrease in the maturation process (suggested by steadily declining MF20 signal in Figure 1). 
+  * Coating plasticware with increasing concentrations of gelatin proves to have no benefit over control in C2C12 cells (see Figure 2). 
+
+Limitations:
+
+  * Several differences between this study and the work done by Lui and co-workers bring light to several possibilities about the underlying reason. The most significant difference is that the study was conducted in the context of muscle regeneration. While the principles of myogenesis should remain similar in maturation between cell culture (done in this study) and muscle regeneration (done by Lui and co-workers), the difference in these two conditions may be the reason why the same effect isn't seen. 
+  * During the muscle regeneration process the extracellular matrix (ECM) is re-modeled where collagen is broken down and gelatin is produced [1]. This effect occurring in ADDITION to the supplementation/coatings implemented by Lui and co-workers increases the total amount of gelatin C2C12s are exposed to more than the concentrations used (1, 5, 10, 20 mg/mL). 
+  * It is possible that the optimal effect at 5 mg/mL seen is purely in regenerative conditions. While it is unlikely, this could possibly explain the unexpected increase in MF20 signal in Figure 2 at 20 mg/mL and any further increases in concentration could possibly reproduce the same trend observed by Lui and co-workers.
+
+  
+Optimising and developing the ELISA pipeline at Vow:
+
+  * The unusually high ELISA absorbance readings observed in the first iteration were mitigated in this iteration. As seen in Tables 1 and 2 (and the raw absorbance values shown here: https://docs.google.com/spreadsheets/d/1673_rqP6wqQKeMa98CfECZoynUyZxwJh2sJLsY4SUT4/edit?ts=60d51399#gid=1753166603) the absorbance values seen in this iteration are much lower. 
+  * Hence, going forward an incubation time of 1 hour will be enforced with the HRP-conjugated secondary antibody. Furthermore, centrifuging of each 96 well plate before absorbance reading was also implemented into this workflow and will remain in future iterations.
+
+Limitations:
+
+  * Manual washing steps during the Janus Green stain are both tedious and also give rise to irregular readings as a result of sample loss. 
+  * During washing steps, it was observed that stained cells would lift off the bottom of wells during washing, leading to low readings at 650nm. 
+  * Interestingly, the ELISA absorbance for all conditions depicted very low MyoG signals in comparison to corresponding MF20 signals (see Figures 3 and 4).
+  * While lower MyoG signal is expected and is also seen in fluorescent controls, the vast difference observed in the ELISA absorbance is not consistent with this.
+  * This effect is not seen in the first iteration, where MyoG readings are lower however not similar to blank readings as observed in this case.
+  * It is possible that these low readings are resultant from errors within the antibody staining process, however repeats of this staining process are required to make a definitive judgement.
+
+
+Conclusion/Future Directions:
+
+  * Implementing gelatin as either component/supplementation in differentiation media or as a coating in cultureware has unfortunately shown to provide no benefit to the maturation process in C2C12 cells. 
+  * It is speculated that this could be due to the difference in culture conditions at Vow and the regenerative context Lui and co-workers performed their study in. 
+  * The ELISA workflow used to investigate this process has been optimised in several areas from the first iteration, namely addressing the non-specific binding effect previously observed. 
+
+Future directions:
+
+  * Upcoming work (i.e. the next iteration) with the ELISA pipeline will focus on determining whether similar absorbance levels seen in this study are reproduced, with attention being paid to the low MyoG absorbance, which were unexpectedly low in this assay.
+  * Moreover, the ELISA workflow involves a high degree of manual pipetting and the potential to automate the process is something that will be explored in the future at Vow. 
+
+
+References:
+
+
+Liu, X., Zu, E., Chang, X., Wang, Z., Li, X., Yu, Q., Kamei, K., Hayashi, T.,
+Mizuno, K., Hattori, S., Fujisaki, H., Ikejima, T. and Wang, D., 2021. Bi-
+phasic effect of gelatin in myogenesis and skeletal muscle regeneration.
+
+

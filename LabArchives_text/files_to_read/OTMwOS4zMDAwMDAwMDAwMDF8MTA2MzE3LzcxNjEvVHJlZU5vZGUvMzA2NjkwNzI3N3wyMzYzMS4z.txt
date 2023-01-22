@@ -1,0 +1,204 @@
+
+
+## Performed by: EC  
+
+
+
+
+DNA Extractions:
+
+Cell LineTreatmentDate of DNA extraction  
+CHOMP07Control Round 5  
+  
+  
+CHOMP07  
+AQP1 + ZIC1 KO  
+  
+  
+CHOMP07  
+IGFBP4 + ZIC1 KO  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+quick extract  
+a10469  
+  
+  
+  
+
+
+
+
+1\. Made up new 50uL primer working stocks for P27 and P28 (ZIC1-guide 2) by
+adding 5uL of each primer stock to 45 uL of miliQ water.
+
+PCR amplification using BENTOLAB
+
+Quick mix DNA extractions of our pooled samples with DNA extracted
+
+  1. Made up a master mix for 4x reactions for ZIC1 primer set below (# of reactions +1). Below are intended volumes for 1x 30uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer (OPTIONAL)  
+5  
+  
+MilliQ  
+13.1  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 28μl of respective primer MM to each sample tube as per the table above
+  4. Added 2μl  DNA extract to each tube according to the table below to make a total reaction volume of 30uL.
+
+Samples
+
+Sample numberSample DNA  
+primer pair  
+  
+E1  
+Control round 5  
+ZIC1 P27/28  
+  
+E2  
+AQP1 + ZIC1 KO  
+ZIC1 P27/28  
+  
+E3  
+IGFBP4 + ZIC1 KO  
+ZIC1 P27/28  
+  
+  
+  
+
+  1. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  2. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    * The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  3. Add GelGreen® at a volume of 1 μl per 10 mL of agarose, as shown in the table below. Swirl container to mix, taking care to avoid any bubbles.
+  4. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1. Ladder
+    2. sample 1
+    3. sample 2
+    4. sample 3
+    5. sample 4
+    6. sample 5
+    7. sample 12 from previous PCR run:
+      1.  https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/OTIzMy45fDEwNjMxNy83MTAzL1RyZWVOb2RlLzQwNDEyMDc2NDV8MjM0MzkuODk5OTk5OTk5OTk4
+
+
+
+
+## Observations:
+
+
+
+
+## Reference Images
+
+  
+
+
+
+
+All samples that produced good bands were sent for sequencing following this
+PCR.
+
+A total of 12 samples were sent as order SarahTopfer69.
+
+Samples were PCR samples produced on either 2-March, 3-March or 4-March.
+
+Samples sent were:
+
+Sample numberSample DNA  
+primer sent for sequencing  
+Date PCR reaction completed  
+1Control round 3  
+AQP1 P15  
+2/3/22  
+2  
+AQP1 KO  
+AQP1 P15  
+2/3/22  
+  
+3  
+AQP1 + ZIC1 KO  
+AQP1 P15  
+2/3/22  
+  
+4AQP1 + IGFBP4 KO  
+AQP1 P15  
+2/3/22  
+  
+5Control round 3  
+FASLG P17  
+3/3/22  
+6FasLg  
+FASLG P173/3/22  
+  
+7Control round 5  
+ZIC1 P27  
+4/3/22  
+8  
+AQP1 + ZIC1 KO  
+ZIC1 P27  
+4/3/22  
+  
+9  
+IGFBP4 + ZIC1 KO  
+ZIC1 P27  
+4/3/22  
+  
+10  
+Control round 5  
+IGFBP4 P7  
+2/3/22  
+11  
+AQP1 + IGFBP4 KO  
+IGFBP4 P7  
+2/3/22  
+  
+12  
+IGFBP4 + ZIC1 KO  
+IGFBP4 P72/3/22  
+  
+  
+  
+
+
+
+
+

@@ -1,0 +1,186 @@
+Introduction
+
+
+Screening for media additives to add to our existing E6 formulation is key to
+develop a media formulation that supports heightened maturation of our
+myoblasts. Using the Definitive Screening Design (DSD) approach we are able to
+screen both the individual and combination effects of various media
+ingredients without having to perform (comparatively) large experiments.
+
+Although our E6 differentiation media has proven to demonstrate a baseline
+level of maturation, it remains to be optimized and improved upon. E6 consists
+of 6 growth factors and small molecules, each of which have not been tested
+thoroughly in combination with one another. The first aim of this experiment
+is to optimise the current E6 formulation by understanding which of the
+current factors of E6 prove to be most useful in differentiation and
+maturation. The second aim of this experiment is to optimise our base E6
+formulation by screening other media ingredients that have shown promise in
+literature. For example, Das and co-workers have described two media
+formulations capable of exhibiting long-term myotube growth and maintenance
+[1].  Several ingredients included in the long-term maturation media described
+by Das and co-workers are included in this experiment to formulate an
+optimised differentiation/maturation media. These include:
+
+  * B-27 supplement
+  * Glutamax
+  * G5 supplement
+  * Acidic FGF
+
+Moreover, several other ingredients from literature were included such as:
+
+  * Caffeine [2] [3]
+  * Forskolin
+
+In total these factors (when combined with the ingredients in E6 formulation)
+have been screened and assessed in a 12 factor DSD.
+
+
+Summary of experiment
+
+
+  * Two 96 well plates were seeded with BUFFY6 cells and grown to confluency.
+  * The respective factors were thawed (if frozen) and reconstituted in the appropriate solvents and used to make working stocks.
+  * Working stocks were mixed to create 26 DSD conditions on the OT2 via the "DSD media mixing protocol".
+  * Cells were differentiated for 10 days with randomised DSD conditions with daily feeds performed on the OT2.
+  * Both DSD plates were fixed and immunostained on the OT2
+
+
+Results
+  
+  
+Figure 1: Sorted parameter estimates from increasing to decreasing
+significance.
+
+Figure 2: Bar graph depicting the effects of all conditions and controls on
+cell counts.
+
+Figure 3: Actual by predicted plot of cell counts (Rsq = 0.76)
+
+
+Discussion
+  
+  
+Note: The results from this experiment were generated from DAPI cell count
+data and not MyoG/MF20 expression data due to image capture/processing
+limitations.
+
+The JMP sorted parameter estimates (Figure 1) depict the significance of the
+individual factor effects on cell counts. As seen from the Block[1] critical t
+value in the figure, the significance of individual factor effects on cell
+counts is outweighed by the effects of the Block. That is, that the plate-to-
+plate effect is greater than the individual factor effects on cell counts
+(with an exception of Factor X3). This could be due to any inconsistencies
+between plates such as differences in plate handling, feeding technique, time
+in incubator, time at RT etc. Given that both plates were fed and stained in
+the same event on the Opentrons under the same conditions it is not
+immediately obvious which of these reasons gave rise to this inconsistency.
+However, during the feed, once fresh DSD media had been dispensed onto the
+first plate, the protocol was paused and the first plate was returned to the
+incubator. The protocol would then be resumed allowing the second plate to be
+fed. The rationale behind this was to reduce the amount of time Plate 1 was
+outside of the incubator, however this may have given rise to the
+inconsistency between plates. Going forward, it will be ensured that both
+plates in a DSD are exposed to identical conditions.
+
+While the plate-to-plate variability compromises the individual factor
+results, conclusions regarding individual factors can still be made however
+they must be taken lightly and re-tested in a separate experiment.
+
+From Figures 1 and 2, some notable factor and condition effects are seen:
+
+  * Caffeine (Factor 3) produces a significant negative effect on cell counts.
+  * B27 (Factor 1) and G5 (Factor 5) supplement provide a significant positive effect on cell counts.
+  * Condition 24 shows promise especially when compared to the positive 2% horse serum media control (errors bars are overlapping however).
+
+The high performance of B27 aligns with the findings of a previous DSD
+experiment performed at Vow. Unsurprisingly, B27 contains several ingredients
+found in our existing E6 formulation such as Insulin, Transferrin and Sodium
+Selenium, however features a further range of other proteins, vitamins and
+additives (see here). Similarly, G5 supplement contains the same ingredients
+listed above in our E6 formulation. Hence, it's high performance is also
+somewhat expected given the moderate success of our E6 media in
+differentiating and maturing BUFFY6 myoblasts. While the ingredients featured
+in these supplements are publicly listed, the individual concentrations are
+confidential - making it somewhat difficult to replicate exactly in-house at
+Vow. Future avenues may explore a large ingredient/concentration study to
+determine optimal concentrations of each ingredient within this supplement or
+rather pivot to the routine purchase and use of these commercially available
+supplements.
+
+Strangely, while these supplements (which contain E6 specific ingredients)
+perform relatively well - the individual ingredients themselves do not produce
+a significantly positive effect as evidenced in Figure 1. In fact, it is
+highlighted in Figure 1 that Transferrin in particular depicts a negative
+effect on cell counts. While this may suggest that Transferrin has a
+inhibitory effect on myoblast differentiation, it's presence in G5 and B27
+supplement as well as the large precedent in literature suggest that this
+should not be the case. Repeated testing of these E6 ingredients may be
+warranted to see if they produce a similar result, however given their widely
+established success in media formulations published in literature it may be a
+better approach to keep the ingredient and rather to perform a concentration
+optimisation study instead to fine-tune our existing formulation.
+
+Moreover, while there has been literature precedent for the use of caffeine
+for myoblast differentiation [2] [3], this was not evident in this study.
+Furthermore, the reported concentration used by Yokokawa and co-workers was
+not able to be re-constituted and the maximum concentration that was possible
+was used in this study (see re-constitution details). It is possible that the
+concentration reported by the team may not be correct (which may be likely as
+it exceeded the reported maximum solubility of caffeine). To investigate
+caffeine as a maturation promoting ingredient, a concentration gradient of
+caffeine should be assessed in an isolated study as it is suspected the
+concentration used in this study may be too high for cell culture.
+
+Overall, while the validity of these results may be masked by high plate-to-
+plate variability, this study points to several promising ingredients for
+which re-testing in an isolated experiment is warranted.
+
+
+Limitations
+
+
+  * Inconsistency between plates with regards to time at RT during feeding process potentially generated the significance observed in Figure 1 with Block [1]. Hence, the validity of results is compromised.
+  * MyoG and MF20 data displayed a large amount of variability due to imaging conditions being incompatible with macro analysis and hence could not be used confidently in JMP analysis.
+  * The negative effects of caffeine may have skewed/masked the effects of the remaining factors by creating unfavourable conditions for cell survival and differentiation.
+
+
+Conclusion
+
+
+A 12-factor DSD experiment was performed in order to optimize and improve on
+our existing E6 formulation. While the validity of the results is somewhat
+compromised by plate-to-plate variability, the study has shown promise in the
+B27 and G5 supplements on potentially improving maturation in our BUFFY6
+myoblasts. Furthermore, caffeine has shown a significant negative effect on
+differentiation in the concentration recommended by Yokokawa and co-workers.
+
+
+Future directions
+
+
+  * Perform an isolated myoblast differentiation experiment with B27 and G5 supplement to validate the preliminary results of this study.
+  * Replicate the Condition 24 formulation (while removing factors that produce a negative effect as per Figure 1) and assess it's performance on differentiation with respect to controls.
+  * Implement more stringent treatment of both blocks in future DSD experiments to mitigate plate-to-plate effects and variability.
+  * Perform DSD experiments on the individual ingredients that make up supplements such as B27 and G5.
+
+  
+
+
+References
+
+
+[1] Das, M., Rumsey, J., Bhargava, N., Stancescu, M. and Hickman, J., 2009.
+Skeletal muscle tissue engineering: A maturation model promoting long-term
+survival of myotubes, structural development of the excitation-contraction
+coupling apparatus and neonatal myosin heavy chain expression. Biomaterials,
+30(29), pp.5392-5402.
+
+[2] Yokokawa, T., Hashimoto, T. and Iwanaka, N., 2021. Caffeine increases
+myoglobin expression via the cyclic AMP pathway in L6 myotubes. Physiological
+Reports, 9(9).
+
+[3] Ojuka, E., Jones, T., Han, D., Chen, M. and Holloszy, J., 2003. Raising
+Ca2+in L6 myotubes mimics effects of exercise on mitochondrial biogenesis in
+muscle. The FASEB Journal, 17(6), pp.675-681.
+
+

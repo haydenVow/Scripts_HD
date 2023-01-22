@@ -1,0 +1,75 @@
+Performed by: Avani
+
+
+Preparation:
+
+ReagentAmount to add (uL/well)Reagent ID  
+Growth media200  
+  
+PBS60  
+a6522  
+  
+Tryple40  
+m6540  
+  
+  
+  
+
+PositionPlate ID  
+Origin_A8123-F_DOLLY12-Sheep P8-1of1  
+  
+Origin_Bn/a  
+  
+Passaging to Thermo8206-F_DOLLY12-Sheep P9-1of1  
+
+
+  
+  
+Protocol run:
+
+Zaber scanned wells on 5x. Finished at 15:00 and returned plate to incubator.
+
+  * DAPI: exposure 50
+    * Wells stained with new Hoechst were brighter than they were yesterday and more easy to distinguish from background. Their fluorescence was now similar to the old Hoechst.
+  * Phase: exposure 40
+
+96 wp with growth media placed in incubator: 16:18
+
+Plate/s taken out from incubator:   16:46
+
+Start run: 4:50:25 PM  
+
+Run time: 2:07:49  
+
+Plate/s returned to incubator:
+
+plate 8123: 19:21
+
+plate 8206:  19:47
+
+
+
+
+Observations/Summary:
+
+Passaged wells that were stained with 60uL/mL of new Hoechst in PBS solution
+and unstained wells from 384 wp to 96 wp.
+
+Note that the concentration and volume of Hoechst used for these wells yields
+a final concentration of ~17uL/mL
+
+
+
+
+Plate map of 96 well plate that cells got passaged to. Blue colouring of wells
+indicates wells that were Hoechst stained.
+
+  
+
+  
+
+  
+
+  
+
+

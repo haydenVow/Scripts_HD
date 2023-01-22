@@ -1,0 +1,184 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Performed by: LL  
+
+
+
+
+Process
+
+1\. Each of the cultures listed in the table bellow has 1 well filled. Image
+each culture on 10x magnification, then passage culture 7721 only.
+
+
+
+
+Media
+
+DMEM/F12 +20% FBS + 1 x P/S
+
+
+Harvested Culture ID  
+Harvested Culture Vessel  
+Seeded Vessel ID  
+Seeded Vessel Type  
+  
+7721-CHOMP9-Crocodile P0-1of1  
+6-WP (1 well)  
+7871-CHOMP9-Crocodile P1-1of1  
+T25  
+
+
+  
+  
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     2    mL in      1   tubes
+  2.  dPBS (for neutralising):     2    mL
+  3.  dPBS (for washing):       2  mL
+  4. Growth media (for pellet resuspension):     2    mL
+  5. Growth media (for seeding):     10    mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+10:26  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   10:55  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   2  mL tryple to each vessel/well and incubated at 30˚C.
+
+  1. Start/Finish for TrypLE was   10:58 - 11:09    
+
+7\. Neutralised with   2 mL   dPBS and combined cell suspension into a     1 x
+15mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   11:12 - 11:17 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   0.5  mL   growth   media
+
+11\. Aliquoted   10 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1. Total cell number was:     214,000    
+
+  2. Volume of cell suspension required for subculture was:       used all (500 uL)     
+
+  3. Cell density per vessel:    7K/cm (seeded at 8.56K/cm2)    
+
+13\. Added cell suspension to 5 mL of growth medium
+
+14\. Seeded 1 x 25 with 5 mL x cell suspension
+
+15\. Place in incubator #78 (library lab, bottom binder). Time: 11:33
+
+ ~~13.  ~~ ~~Added cell suspension into 240mL of growth media.  ~~
+
+ ~~14\. Seeded 8 x T175 by adding 30 mL of resuspended cells in media into
+each T175~~
+
+ ~~15\. Placed in incubator at time (Library - top binder)~~
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM5076  
+  
+dPBS (for washing & neutralising)A6331  
+  
+Growth MediaM6381  
+  
+  
+  
+
+
+
+
+Observations
+
+7724 also has some nice confluent patches but not ready for passage yet
+
+Images (culture 7721)
+
+
+
+
+
+
+vessel typeFrom Digestion methodCulture ConditionsCoatingTemp IDMia Link  
+6-well plate30 C Collagen  II + Dispase DMEM/F12 +20% FBS + 1x P/SNone  
+307721https://mia-capture.vow.tools/#/session/rec8V4dNFf9Bn18tM/images  
+  
+6-well plate30 C Collagen  II + Dispase M199 + 20% FBS + 1x P/SNone  
+307722https://mia-capture.vow.tools/#/session/recj4B8ItYsEgw9wj/images  
+  
+6-well plateTrypsin DMEM/F12 +20% FBS + 1x P/SNone  
+307724https://mia-capture.vow.tools/#/session/recbQZzDluDCdF7Be/images  
+  
+6-well plateTrypsin M199 + 20% FBS + 1x P/SNone  
+307725https://mia-capture.vow.tools/#/session/recO7CC9cFm7Jv20n/images  
+  
+24- well plateTrypsin  
+DMEM/F12 +20% FBS + 1x P/S  
+Gelatin377752https://mia-capture.vow.tools/#/session/recTouUy4KqtlSvB3/images  
+  
+24- well plate  
+Trypsin  
+  
+DMEM/F12 +20% FBS + 1x P/S  
+None377753https://mia-capture.vow.tools/#/session/recN85GUU3IRBW61E/images  
+  
+24- well plate  
+  
+Trypsin  
+  
+  
+DMEM/F12 +20% FBS + 1x P/S  
+  
+Gelatin307754https://mia-capture.vow.tools/#/session/recNJqiMg8DX05aSe/images  
+  
+24- well plate  
+Trypsin  
+M199 + 20% FBS + 1x P/S  
+Gelatin307756https://mia-capture.vow.tools/#/session/recwDLJ8O6Pdp9TTB/images  
+  
+24- well plateTrypsin  
+  
+M199 + 20% FBS + 1x P/S  
+None307757https://mia-capture.vow.tools/#/session/recIYrknauJ6BwW57/images  
+
+

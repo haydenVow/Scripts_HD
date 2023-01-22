@@ -1,0 +1,60 @@
+
+
+Batch 020 Overview
+
+Batch Weights:
+
+65xR850: 24.5387g average of 0.3775g per bottle  
+
+2xRV850 (Vented with CellBind Surface): 0.7974g average of 0.3987g per bottle
+
+2xR1700 (Ribbed): 1.0944g average of 0.5472g per bottle
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P171x10CF  
+P264x10CF  
+P3765xR850, 2xRV850 and 2xR1700  
+  
+  
+
+Notable events/Batch issues:
+
+  * Almost all flasks showed small aggregation around the top or bottom of the bottle that is indicative of over seeding
+    * It was hypothesised that this aggregation was a result of slanted/bent bars which the bottle are resting on, on the RP80
+    * Bottles at the front of the RP80 tended to show aggregation at the bottom of the bottle, whereas bottles at the rear of the RP80 showed aggregation at the top of the bottle
+  * All flasks showed signs of peeling 1 day after treatment with TGFb and VitC
+    * This peeling was not the usual continuous cell sheet. The cell sheet/aggregates were broken/coming off in pieces (see pictures below) and the level of peeling was varied between and within bottles. 
+    * 55xR850, 2xRV850 and 2xR1700 were harvested on the first day of peeling (1 day after treatment)
+    * Peeling in 10xR850 was not as complete as the rest so these were left for one more day before harvesting (2 days after treatment)
+    * NOTE: The average yield per bottle for those harvested after 1 day of treatment was 0.3814g and for those harvest after 2 days of treatment was 0.3562g
+  * the 2xRV850, 2xR1700, and bottle number 65 of the 65xR850 group were kept on the Thermo Roller Apparatus for the entire batch duration. All other bottles (64 bottles) were on the RP80 for most or all of the batch duration.
+    * All flasks including those on the Thermo Roller Aparatus peeled after 1 day of treatment. This suggests that the small aggregate formation seen in the bottles on the RP80 or difference in incubators was not the sole cause of the peeling. 
+  * The R1700 (ribbed) bottles were very difficult to harvest and required TrypLE to fully detach the cells from the surface. However some of the aggregates still got stuck in the groves of the ribbed surface and were unable to be harvested, this would have effected the final yield from these bottles. 
+    * More complete peeling of a continuous cell sheet would be much easier to remove from these flasks
+
+Treatment:
+
+Treatment used was TGFb (10ng/mL) + VitC (50ug/mL)
+
+  * All roller bottles were treated at day 6 after seeding. 
+  * TGFb stock made up to be more concentrated at 0.2mg/mL (previously 0.002mg/mL)
+
+Photos:
+
+  
+
+Achievements:
+
+  * Largest batch of roller bottles to date
+  * Longest used of the RP80
+  * First use of ribbed roller bottles which produced higher yields
+
+Future Directions:
+
+  * Investigate seeding density and timing of treatment application in roller bottles to see if this is having a role in the seemingly random peeling times experienced with TGFb and VitC treatment.
+
+

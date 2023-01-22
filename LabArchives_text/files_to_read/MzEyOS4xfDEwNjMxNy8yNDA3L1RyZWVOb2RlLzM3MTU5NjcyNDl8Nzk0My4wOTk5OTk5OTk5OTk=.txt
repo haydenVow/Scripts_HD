@@ -1,0 +1,50 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+
+EPIC 21495 https://app.clubhouse.io/vowfood/epic/21495/12-factor-
+dsd-1?cf_workflow=500000005&ct_workflow=all
+
+  
+
+LINK TO AIRTABLE ENTRY PAGE:  
+
+EPIC 21495
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recU4yaEvAewLTf6a?blocks=hide
+
+  
+
+RELATED TO MILESTONE/KEY RESULT:  KR2, increasing MyoG positive cells to > 60%
+
+AIM/PURPOSE: Supplementation is a promising method to stimulate muscle growth
+and maturation. In order to screen large numbers of components and their
+concertive effect at various concentration levels, we employed definitive
+screening design (DSD) methodology to identify a media formulations capable of
+improving MuSC differentiation relative to our baseline E6 differentiation
+medium.
+
+HYPOTHESIS:  At least 1 of the 26 media combinations tested will be capable of
+promoting differentiation relative to our current baseline E6 media, based on
+MyoG and/or MF20 expression.
+
+RESULTS SUMMARY:
+
+  * A pre-screen experiment showed some subjective promise in some factors, however no quantitative data could be obtained due to unrelated cell death issues.
+  * The initial run suggested that several of the factors selected were either cytotoxic, used at concentrations that were cytotoxic, or had an cytotoxic combination effect.
+  * use of liquid handling automation is vastly beneficial to scaling and improving robustness of combinatorial supplementation studies
+
+CONCLUSIONS: We were unable to obtain quantitative results due to a large
+degree of non-experiment-related cell death during this experiment and the
+repeat runs. Additionally, given the uncertainty over cytoxicity of certain
+compounds at different concentrations, we should have tested the factors at
+different concentrations first to optimise that before attempting to mix them
+in a DSD format.
+
+NEXT STEPS:
+
+  * Screen ALL available media components individually across a broad range of concentrations before mixing up a full DSD
+  * From this screening, select only the beneficial factors at their optimal concentrations for a DSD mixing protocol
+  * Develop a process to assess cell growth/maturation over the course of the experiment to collect more datapoints leading up fo final analysis
+  * Investigate the process of pH-balancing media conditions. Many of the conditions are acidic, so cell death could be due to a pH imbalance
+
+

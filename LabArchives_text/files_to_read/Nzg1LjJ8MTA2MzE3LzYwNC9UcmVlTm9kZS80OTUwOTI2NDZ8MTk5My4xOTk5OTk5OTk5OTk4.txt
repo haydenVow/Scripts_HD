@@ -1,0 +1,57 @@
+
+
+Reactor: Bain Marie dish with lid and stacked perforated steel shelves (EDDIE)
+
+Start date: 29/04/21
+
+Operator: CO, JB
+
+Reactor preparation:
+
+  1. v1 assembly was wrapped in aluminum foil and dry-autoclaved at 120C for 15 min
+  2.  Afterwards, the assembly was placed on the lab bench to dry (still wrapped in foil)
+  3.  V1 was ethanol-sprayed, transferred into the BSC and unwrapped
+
+Scaffold preparation:
+
+  1. 24w sized Zein pieces in DMEM were soaked in 2.5% w/v Epsilon-polylysine (in PBS)  (start 11:30-12:30) and dried in the BSC until seeding (15:30)
+  2. 4% sterile Alginate (Mix 3499) and 75mM CaCL2 (Mix 3498) were equilibrated to room temperature and transferred into the BSC until seeding
+
+Scaffold seeding:
+
+  1. 36M cells (Culture IDs XXXXXX) were spun down into a concentrated pellet and resuspended into 1.8 mL
+  2. Zein:
+    1. 1M cells per Zein piece (16 pieces + 4 cell free) were seeded with 50 uL of concentrated suspension and left to adhere for 15 min 15:30
+    2. Half of the seeded scaffolds were placed inside the bioreactor cells facing up where possible
+    3. The other 8 (+4 controls) were placed into a 24w dish as control
+  3. Alginate:
+    1. The remaining cells (20M) were encapsulated in 4% alginate as follows
+    2. 1 mL Alginate + 1 mL cell suspension were combined and slowly mixed
+    3. 4 samples were dispensed in 4 portions of 500 uL each into a 24w plate
+    4. 75 mM Calcium (2 mL) was added for 10 min (15:40)
+    5. the gels were washed with media 3x 15:50, 15:55, 16:00
+    6. 2 alginates each were placed into the bioreactor or a 6w dish
+  4. 500mL growth media was added to the bioreactor, ensuring that all scaffolds were covered with media
+  5. 2 mL growth media was also added to each well of the 24w plate and 5 mL in the 6well plate
+
+Culture IDs:
+
+6535-DOLLY12-Sheep P12-1of3 (24w plate)
+
+6536-DOLLY12-Sheep P12-2of3 (6w plate)
+
+6537-DOLLY12-Sheep P12-3of3 (reactor, 50 mL)
+
+  
+
+
+
+
+Observations:
+
+EDDIE was found to leak immediately after media loading through a previously
+unnoticed hole in the bottom. In an attempt to rescue the experiment, an
+automation reservoir was filled with 50 mL media and scaffolds were
+transferred into the new reactor.
+
+

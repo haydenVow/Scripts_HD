@@ -1,0 +1,183 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+To achieve proliferating suspension-adapted fibroblast cells that have
+initially been adapted to adherent growth in low serum culture conditions.
+Once adapted these cells will then be subjected to adaption in suspension
+culture systems.
+
+
+Hypothesis
+
+
+1\. When compared to standard DMEM/F12 growth media, RPMI  and EMEM-alpha
+culture medium supplemented with hydrolysates will enable DOLLY12 fibroblast
+cells to proliferate in low serum culture conditions prior to adaptation to
+suspension culture.
+
+2\. If low serum adapted fibroblast cells can be obtained, this adaption with
+enable them to proliferate in specialised suspension culture media i.e.
+Jokliks modified MEME and Freestyle 293 media supplemented with anti-clumping
+agent and poloxamer 188 over an extended period ( ≥ 30 days)
+
+
+Technical Gap
+
+
+
+Method/Procedure
+
+
+The procedure for this experiment will be composed of two sections; one
+following sequentially from the other. Initially DOLLY12 fibroblast cells will
+need to be adapted to low serum conditions. As highlighted in the background
+section this will be performed by a gradual stepwise reduction of serum
+supplemented in the RPMI media. To compensate the RPMI media, hydrolysates
+will be included due to their potential in supporting cells deprived of serum.
+
+  
+
+[D0 - Prior to suspension adaptation] Thaw and culturing of adherent DOLLY12
+fibroblasts in reduced serum conditions
+
+1\. Start with a healthy adherent DOLLY12 fibroblast cell line in current
+serum containing medium (e.g. RPMI or EMEM-alpha + 10% FBS; see table below)
+in T-flask culture vessels. For best results, the following recommendations
+should be observed:
+
+✓ Passage cells when 80% - 100% confluency is observed
+
+✓ Cells should have a viability of a least 95%
+
+✓ Cells should be feed (50%) every 3 days, 4 if unable to do every 3 days
+
+*Ideally the cells should be thawed with the lowest passage number possible, to reduce the cells dependence on serum (i.e. and MCB vial would be preferable over a WCB vial).
+
+2\. Thaw DOLLY12 fibroblasts into each of the conditions in the table below
+and seed culture vessels (T175) at 7000 cells/cm2:
+
+  
+RPMIEMEM-alphaDifco Soytone (5g/L)Bacto Yeastolate (5g/L)  
+Condition 1
+
+✔
+
+  
+
+✔
+
+  
+  
+Condition 2
+
+✔
+
+  
+  
+
+✔  
+  
+Condition 3
+
+✔
+
+  
+
+✔
+
+✔  
+  
+Condition 4  
+
+✔
+
+✔
+
+  
+  
+Condition 5  
+
+✔
+
+  
+
+✔  
+  
+Condition 6  
+
+✔
+
+✔
+
+✔  
+  
+*The starting FBS concentration will be 10% for each of these conditions
+
+**These six conditions will be complemented by a serum control condition,
+which will just be the standard growth media DMEM/F12 + 10% + 1X P/S.
+
+***Stock solution of each of the hydrolysate used will needed to be prepared
+prior to adding them into the growth media. See guide below on how to prepare
+them.
+
+3\. Once the cells reach confluence after the thaw subculture the cells and
+reseed them in the same media conditions as above however the FBS
+concentration will now be 7% to induce serum starvation adaptation.
+
+4\. Continue feeding and passaging each of the condition until a stable
+doubling population time (PDT) is maintained over 3 passages.
+
+*PDT is defined as the average time it takes a cell population to double in the log-phase/exponential phase i.e. during linear growth. 
+
+https://docs.google.com/spreadsheets/d/1UOtrIhNxtwhSlIlQX6obuCw8KtwSE912x6yf-l7hUQI/edit#gid=103401670
+
+5\. Repeat steps 3-4 gradually reducing the content of serum from 7% to 5% to
+2.5% and finally to 1%.
+
+Once the cells are stably growing in a 5% FBS serum concentration grow a flask
+of these cells to scale to bank down as a F_WCB, to be used in the situation
+that cells all die in the lower serum concentrations.  
+
+Note: If the culture viability drops below 80% or if the generation time
+increases markedly following a decrease in the serum concentration, increase
+the serum level to the previous value and maintain the cells for two passage
+cycles before lowering the level of serum again. It may be necessary to
+institute a more gradual decline in serum concentration with these cells.
+
+  
+
+Prep of both hydrolysate stock solutions:
+
+Before adding the hydrolysates into the media they will first have to be
+prepared as a stock solution. To make it easier in determining how much of the
+stock solution needs to added to the growth media its best to prepare a stock
+solution of 10% (w/v) (i.e. 100g of hydrolysate in 1 L of Milli-Q water).
+Fortunately, if 1 L of solution is not required the volume can be easily
+adjusted.
+
+1\. Retrieve hydrolysates from the cell expansion fridge - BBL Phytone Peptone
+Stock #372 and Difco Select Phytone UF Stock #3489. 12:30
+
+2\. Weigh out 10 g of each hydrolysate.
+
+3\. Add the 10 g powder to 100 mL of Milli-Q water. According to this
+technical sheet the hydrolysates should be soluble in purified water and the
+solution should appear to be clear to slightly hazy.
+
+4\. Sterile filtered the dissolved hydrolysate solution through a 0.22 um
+filter unit in the MAIN LAB. This concentrate can then be used to add the
+hydrolysates into the growth media.
+
+5\. Store solution at 4'C for 2-4 weeks.  
+
+Please make sure that whenever media containing hydrolysates is required, that
+it is prepared on or as close to the day its required as possible. In order to
+make media with hydrolysates at 5g/L just add 0.05 mL (50 uL) of the
+hydrolysate concentrate to 3 mL of growth media.
+
+

@@ -1,0 +1,293 @@
+
+
+We require to be able to accurately stimulate cells with a variety of
+different currents, voltages and pulses without causing irreversible chemical
+biproducts and pH changes to the media.Building a system in house offers
+flexibility to adapt and scale this system as we see fit, however some
+commercial and open source systems may help us get to a testing stage more
+quickly.
+
+System requirements:
+
+  1. 0 - 10 V/cm  
+Assuming 3 cm separation in a 6 WP dish is the largest we may be testing at
+this time, we may require 30 V output.
+
+  2. 10 - 100 Hz
+  3. Ability to stimulate at x Hz for a period (s) then off and on again. Eg: Pulse train of 70mV/cm, square waveform, 3 ms, 33.3 mHz or Eg: Bursts of 250ms duration at 15 Hz, 40 Hz, or 100 Hz, repeated every second or every 4s or every 100s.
+  4. Current output?
+
+  
+
+
+Stimjim: Open Source Electrical Stimulator
+
+
+Lab On The Cheap article recommending Stimjim as an open source stimulator
+that can be built for just $200 USD:  
+https://www.labonthecheap.com/stimjim-open-source-electrical-stimulation-
+for-200/  
+  
+Instructions for how to make it, use it and all files needed:  
+https://open-ephys.org/stimjim  
+https://bitbucket.org/natecermak/stimjim/src/master/  
+  
+
+Comparison with other similar devices:
+
+Specifications:
+
+  * Two independently-controllable output channels, each with both current and voltage output modes
+  * Total cost: $200 USD.
+  * Output range in current mode: -3.33mA to +3.33mA.
+  * Output range in voltage mode: -15V to 15V.
+  * Pulse width down to 0.02 ms (as configured with default firmware)
+  * Compliance voltage is +-13.7V in current mode (+/-3.33uA output possible for resistances up to 4k, +-137uA possible for resistances up to 100k)
+  * Powered by USB
+  * Channels are isolated from power supply and from each other.
+  * Onboard ADC measurement of actual output current or voltage
+
+Defining a pulse train with Stimjim:  
+Connect the Stimjim to the computer via USB. Compile and download the firmware
+onto the Teensy, using the Arduino IDE with Teensyduino installed (or write
+your own!)
+
+To generate a pulse train, you first need to send a serial command, terminated
+by a newline (\n) in order to define a PulseTrain. An example command would
+be:
+
+    
+    
+    S0,0,1,2000,1000000; 100,0,150; -100,-100,200
+
+  
+  
+  
+
+
+
+
+StimJim can be bought for $650 USD + shipping from LabMaker:
+https://www.labmaker.org/products/stimjim  
+  
+
+Quote with $50 USD shipping to Aus below:
+
+  
+
+
+PulsePal 2
+
+
+PulsePal 2 is available from sandworks for $1100 AUD. However it is made to
+order and has a lead time of up to 30 days.
+
+  
+It is also open source, with all files and documentation online required to
+make it for apparently around $350 AUD.  
+  
+
+As an open source device, Pulse Pal provides a unique combination of technical
+flexibility and affordability for precise stimulus control. The newest
+version, Pulse Pal 2,  is powered by Arduino Due (an open source ARM Cortex M3
+microcontroller platform), to simplify firmware accessibility. It features
+improved surface mount components - a 12-bit bipolar DAC provides greater
+voltage precision, and an integrated microSD card allows channel parameters to
+be saved and loaded for enhanced use as a stand-alone device.
+
+  
+
+Processor
+
+ARM Cortex M3: Atmel ATSAM3X8E (as part of the Arduino Due platform)
+
+84MHz clock speed, 32-bit
+
+Programmable using the Arduino language
+
+Output channels
+
+4 independent output channels, driven by a precision DAC: Analog Devices
+AD5724R
+
+Voltage range: -10 to +10V DC
+
+Minimum pulse width: 100µs
+
+20mA short-circuit current, >2kΩ load for specified performance
+
+Slew rate: 3.5V/µs
+
+Output channel noise: ~5mV p-p (exact value dependent on USB supply)
+
+Software-configurable resting voltage
+
+Memory
+
+4GB MicroSD card (included) stores pulse train parameters in files
+
+96k SRAM for playback logic, and 2 custom pulse trains of 5000 pulses each
+
+Programming APIs
+
+MATLAB r2009a-2015b (includes optional GUI)
+
+GNU Octave 4
+
+Python 2.7
+
+C++
+
+Power
+
+All communication and power is accomplished through a single USB port (USB
+micro cable included)
+
+Fully isolated stand-alone operation possible when powered from USB battery
+(i.e. EasyAcc Powerbank)
+
+Display
+
+Blue oLED display allows stand-alone operation with thumb joystick
+
+Bright blue indicators show when output channel is not at the configured
+resting voltage
+
+Trigger channel indicators show when logic is currently high
+
+
+C-PACE by IONOPTIX
+
+
+C-Pace: https://www.ionoptix.com/products/components/stimulators/c-pace-em/  
+  
+The C-Pace EM is a multi-mode, multi-channel stimulator designed to drive both
+chronic stimulation and  mechanical stretch of bulk quantities of cells in
+culture incubators. The C-Pace EM model provides all the various
+electrophysiology features such as constant variation in frequency, insertion
+of periodic off beats and programmable frequency changes that were available
+in the earlier C-Pace EP.  Additionally, the EM version allows control of
+C-Stretch electromechanical stimulation units as well as C-Dish electrode
+assemblies. The EM also offers simple USB communication with the new, easy-to-
+use C-Pace Navigator control software. Coupled with either the C-Dish or
+C-Stretch (or both), the C-Pace EM and C-Pace Navigator make up a complete
+Culture Pacing System.
+
+This pacer offers fully programmable multi-step sequence protocols can have up
+to five different pacing and stretching steps - useful for exercise protocols.
+For electrical stimulation, it emits biphasic stimuli, greatly reducing
+electrolysis at the electrodes. It has an output voltage of +/- 40 V, a
+frequency from once every 100 seconds to 99 pulses/sec, and a pulse duration
+of 0.4 to 24 msec.
+
+  
+
+Check out this video from researchers at the Department of Biomedical
+Engineering, Eindhoven University of Technology, in the Netherlands. Using an
+IonOptix Culture Pacing System, they show the development of engineered muscle
+tissue from electrically stimulated mouse myoblast cells (C2C12) grown in
+hydrogel constructs.  Electrical stimulation in culture aligns the cells in
+the constructs and promotes differentiation.
+
+van der Schaft, D. W. J., van Spreeuwel, A. C. C., Boonen, K. J. M.,
+Langelaan, M. L. P., Bouten, C. V. C., Baaijens, F. P. T. Engineering Skeletal
+Muscle Tissues from Murine Myoblast Progenitor Cells and Application of
+Electrical Stimulation. J. Vis. Exp. (73), e4267, doi:10.3791/4267 (2013).
+
+
+
+
+## Meeting with Johny from IONOPTIX
+
+### Date 14/07/21  
+Attendees: Jared Bergman and Chris O'Keefe.  
+  
+Electrical stimulation: The C-Pace allows up to 8 independent channels for
+electrical and mechanical stimulation, however the base model only has 1
+channel and more are added at an additional cost. Each channel is called a
+'bank' and connects to one electrode plate for one culture dish, so each dish
+has the same stimulation parameters for every well, whether it is a 6, 12 or
+24 well plate. The reasoning for this is that significant engineering would be
+required to allow for each well to be stimulated individually and they have
+not yet had the desire to invest the time in developing this. Each electrode
+plate is made of a pcb with further signal processing to accomodate for the
+multiple wells and so each channel from the stimulator could not be directly
+connected to our own electrode/well plate setup or bioreactor system without
+taking this further processing into account. Apparently, the electrode plate
+lid also has a bigger gap than normal to allow for improved gas flow and
+account for the increased temperature caused by stimulation, however this can
+also lead to an increased risk of contamination.  
+  
+Electrode material: The carbon electrodes are apparently quite sturdy, despite
+being porous. Carbon is cheaper than other common stimulation electrode
+materials such as Pt. Their previous testing has shown that a residue builds
+up on Pt electrodes after stimulating for a while and they are concerned this
+could be hard to clean off, with the potentially more delicate Pt electrodes
+so they prefer the carbon. They also think the residue may effect stimulation
+capabilities.  
+  
+Warranty: Everything, including the electrodes, comes with at least 1 year
+warranty. They will replace any component which ceases to function correctly
+for up to one year. The electrode plates are considered similar to consumables
+and will not be replaced if they break after one year but the stimulator may
+have a longer warranty period.  
+  
+Cleaning: One electrode plate only lasts 12 hours before it is required to be
+cleaned. Media components build up in the porous carbon electrode. Thus, two
+estim plates needed for chronic stimulation greater than 12 hours. Need to
+switch and clean every 12 hours for 12 hours. Sonication not the recommended
+route for cleaning but maybe can speed up cleaning if required. Cleaned in
+milliQ water then ethanol and UV.
+
+Mech stim uses PDMS wells with one standard size. We can pour our own or
+purchase them. They need to confirm if they may be able to sell us the moulds
+to pour our own. Otherwise, we can also create our own moulds. The mechanical
+and electrical stimulation is unidirectional in this system. The PDMS wells
+can be coated with gelatin or scaffold and the cells can be grown on that and
+stretched. However, thicker scaffolds such as the zein would require a method
+of securing them to the PDMS, such as little hooks. This would need to be made
+ourselves.  
+  
+Interface: There is an interface on the C-Pace to change settings or it can be
+changed using their software on a computer. The program looks fairly simple
+and user friendly.  
+  
+Quote available below: >$20k EURO
+
+
+Basic Arduino Stimulator
+
+
+More engineering involved to make sure the output is a charged balanced
+biphasic waveform. Also more difficult to change pulse width and voltage etc.
+
+  
+
+Simple waveform generator with Arduino Due
+
+https://www.arduino.cc/en/Tutorial/DueSimpleWaveformGenerator
+
+###  
+
+### Simple Waveform Generator with Arduino Due
+
+This tutorial shows how to make a simple waveform generator using the Arduino
+and the DAC features of the Arduino Due board.
+
+With push buttons, you will be able to choose a waveform shape (sine,
+triangular, sawtooth, or square) on both DAC channels and change the frequency
+of the generated signal.
+
+Hardware Required
+
+  * Arduino Due
+  * 10 kilohm potentiometer
+  * 2 push buttons
+  * 2 x 10 kilohm resistors
+  * jumper wires
+
+  
+
+  
+
+

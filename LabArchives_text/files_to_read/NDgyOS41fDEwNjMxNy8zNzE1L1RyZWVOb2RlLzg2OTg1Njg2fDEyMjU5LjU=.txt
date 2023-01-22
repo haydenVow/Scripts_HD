@@ -1,0 +1,63 @@
+
+
+## Completed by: Avani
+
+
+
+  
+  
+  
+Control (no stain) (time: 0 h)Control (no stain) (time: 1 h)  
+  
+Control (no stain) (time: 24 h)  
+Control (no stain) (time: 72 h)  
+  
+  
+
+
+
+
+  
+  
+  
+8uL/well, before staining8uL/well, 1 h after staning  
+  
+  
+  
+8uL/well, 24 h after staining  
+8uL/well, 72 h after staining  
+  
+  
+  
+
+
+
+
+  
+
+5x, DAPI images of the centre of each well were used. The DAPI count macro on
+MIA was used to process images.
+
+ROUT method (Q=5%) was used to identify and exclude outliers.
+
+* p≤ 0.05, ** p≤ 0.01, *** p≤ 0.001, **** p≤ 0.0001
+
+Data from 96 well plate that was stained (i.e. these cells were not passaged):
+
+Brown-Forsythe and Welch ANOVA was used to compare cell counts between
+different conditions. n=5-6 for each condition.
+
+
+
+Data from 24 well plate containing cells that were passaged:
+
+At the 72 h time-point, the DAPI count macro did not perform well on all
+conditions where cells were only stained for 1 h because the fluorescence was
+very faint. Therefore, that data was not used for analysis.
+
+Welch's t-test was used to compare the cell counts from the remaining
+conditions. n=5-6 for each condition
+
+  
+
+

@@ -1,0 +1,44 @@
+
+
+  
+
+
+Before Media Addition
+
+
+Adding media:
+
+Performed by: AS/CB/AnV
+
+Time: 10:00 (Media started pumping in at 10:30)
+
+End time: 18:00 (Media finished pumping in at 17:30)
+
+Media ID: A12706
+
+  * Pallet tank bag tubing welded to large dip tube.
+    * The pallet tank bag does not have a dip tube so we just had to make sure that the tube opening was in contact with the media at all times.
+  * Peristaltic pump used to slowly pump the media into the STR200
+    * Kept an eye on the temperature to make sure it was within a good range
+    * Pump speed used: 1.9L/min, temp at start: 36.84
+    * Changed to 1.3L/min at 11:20 because we noticed the media was moving faster, and temp was increasing (tried to keep injected temp below 40'C and actual temp above 36'C). Temp at 11:45 = 36.83
+  * Increased speed when 100L was reached (1.7L/min) (14:21)
+  * Speed was gradually increased as the media volume increased in the STR200
+
+  
+
+Encountered blockers:
+
+  * The harvest tube for the pallet tank is larger than any of the tubes attached to the STR200 bag so we had to use the top tube which does not have a dip tube so it was very hard to get everything out of the bag
+    * In future we should autoclave a connector piece of tubing that can be welded onto the STR200 bag and then onto the pallet tank harvest tube. 
+  * When the pump was stopped the tube was not clamped, this resulted in some of the media (~4L) flowing back into the pallet tank bag.
+    * This was not noticed until after the tube had been sealed and there was not enough room left to re-weld the tubes.
+    * In future all clamps should be immediately clamped once the pump has been stopped. 
+
+
+
+
+IGF: M12754  
+EGF: M12753
+
+

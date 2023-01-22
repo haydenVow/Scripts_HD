@@ -1,0 +1,234 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Vessels seeded:
+
+7194-BUFFY6_21L10-Water Buffalo P6-1of4  
+7195-BUFFY6_21L10-Water Buffalo P6-2of4  
+7196-BUFFY6_21L10-Water Buffalo P6-3of4  
+7197-BUFFY6_21L10-Water Buffalo P6-4of4  
+7198-BUFFY6_25K6-Water Buffalo P6-1of2  
+7199-BUFFY6_25K6-Water Buffalo P6-2of2
+
+
+
+
+Weekend feed information:
+
+Vessel type(s)Vessel IDVessel locationPassage reagent locations.Other
+commentsSeeded Flask ID.  
+T175  
+7150-BUFFY6_21L10-Water Buffalo P5-1of1  
+incubator 78 library lab  
+  
+  
+  
+  
+T175  
+7151-BUFFY6_25K6-Water Buffalo P5-1of1  
+  
+incubator 78 library lab  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+
+
+
+### Process:
+
+3\. [18/06/21] Aliquotted the required volume of each reagent in the table
+above and then placed all aliquots in the fridge at 4 degrees,
+
+  1. TrypLE:     1x22    mL in    1x50mL     tubes
+  2.  dPBS (for washing and neutralising):     1x44    mL in   1x50mL     tubes. 
+  3. Growth media (for seeding and resuspension):     2x120    mL in     2x250mL    containers. (one sample for clone 21L10, one sample for clone 25K6). 
+
+
+
+
+Removed aliquots from the fridge and placed all to warm in the water bath for
+a minimum of 20 minutes prior to use:  
+
+Time that all aliquots were placed in the water bath the warm before use
+11:50  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+1\. Took image of vessel with microscope on phase setting, 5x objective.
+
+2\. Gelatin coated    8   x     T175     vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       11:55  
+
+3\. Looked at flasks under microscope
+
+Note: 7150 definitely ready for passage but 7151 is not very confluent - will
+passage but may end up just going back into 1 x T175
+
+4\. Removed vessel(s) from the incubator     12:25  
+
+5\. Washed the vessel(s) with dPBS (warmed) (10mL).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     12:30 - 12:42  
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a    2
+x 50 mL   tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     12:50 - 12:55   
+
+9\. Coated additional 3 x T75 in case 7151 gets low cell count - concerned
+after seeing density of cells in Tryple. Timestamp in incubator: 12:53  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    500 uL (7151) 1000 uL (7150)   of    Growth
+media     12:56  
+
+11\. Aliquoted    2 x 10 uL   of resuspended cells into 2 x microcentrifuge
+tubes for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+7150
+
+  1. Total cell number was:      784,000     
+
+  2. Volume of cell suspension required for subculture was: (seeding into 4xT175s)     1000 uL      
+
+  3. Cell density per vessel:    196K per flask - 1.12K / cm2       
+  
+7151
+
+  4.  Total cell number was:     150,000      
+
+  5. Volume of cell suspension required for subculture was: (seeding into 2xT75s)     500 uL      
+
+  6. Cell density per vessel:    75K per flask - 1K / cm2     
+
+
+
+
+13\. Transferred     1000  of cell suspension to the pre-warmed     120  mL
+Growth media:     13:22  
+
+14\. Transferred    500 uL   of cell suspension to the pre-warmed     24   mL
+Growth media:  13:22  
+
+15\. Transferred cell suspension into the pre-gelatin coated    4 x T175s  
+
+16\. Transferred cell suspension into the pre-gelatin coated    2 x T75s
+(waited for gelatin to be ready - done at 14:01)  
+
+17\. Left T175s RT in the BSC for 30 min to allow cells to settle     13:28
+\- 13:58  
+
+18\. Left T75s in the BSC for 30 min to allow cells to settle      14:01  -
+14:31  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm4788  
+  
+Tryplem5076  
+  
+dPBS (for washing & neutralising)a5067  
+  
+Growth Mediam5382  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Culture ID 7151 (25K6) looked to be far less confluent than 7150, and cell
+count confirmed this. Seeded into 2xT75s to keep seeding density at at least
+1K cells per cm2
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+25K6 (#7151)
+
+21L10 (#7150)
+
+  
+
+

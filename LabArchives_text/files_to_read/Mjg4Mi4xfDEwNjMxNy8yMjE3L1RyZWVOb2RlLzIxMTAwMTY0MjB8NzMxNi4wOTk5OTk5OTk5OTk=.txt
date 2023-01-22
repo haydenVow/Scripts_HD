@@ -1,0 +1,98 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A
+
+
+  
+  
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+
+
+
+## Performed by:
+
+Chris
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+4% PFA  
+3108, 3109  
+  
+dPBS (non-sterile)  
+5385  
+  
+PBST (0.2% Triton)  
+  
+Blocking Buffer  
+  
+TMB substrate  
+  
+0.5 M HCl (to quench TMB reaction)  
+  
+  
+  
+
+
+
+
+Process:
+
+### Step 1: Fix samples
+
+  1. Removed flask(s)/plate(s) `culture IDs # 7214, 7232, 7229, 7231  `from the incubator. 
+  2. Removed media and washed wells with  4000 uL PBS.  
+  3. Remove wash and wash once more with  4000 uL PBS. 
+  4. Remove dPBS and add  2500 uL of 4% PFA and incubate at RT for 15 minutes. TIMESTAMP
+  5. Remove the PFA and wash wells twice with  4000 ul dPBS.  
+  6. Remove dPBS and replaced with fresh 4000 uL of dPBS 
+  7. Proceed to primary antibody or store the plates at 4 degrees parafilmed until ready for immunostaining.
+
+Fridge location/ID: 101
+
+
+
+
+Observations/Summary:
+
+Bioreactor was contaminated and all samples had to be discarded! All areas
+were bleached and ethanol sprayed, dishes were disposed of in Biohazard waste.
+Reactor and all parts were run through the dishwasher and autoclaved.
+
+Control samples were imaged and looked great, dishes were fixed and stored in
+fridge for further use
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ x]  Unexpected because...contamination was not expected
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/reca7ZDEXBVV1NsjK/images
+
+Data (Plate Reader raw files and interpreted data):
+
+  
+
+

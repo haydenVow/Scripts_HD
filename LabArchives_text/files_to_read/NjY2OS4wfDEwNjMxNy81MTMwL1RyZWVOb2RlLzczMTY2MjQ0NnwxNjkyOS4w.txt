@@ -1,0 +1,87 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+
+
+Key results
+
+1\. There was no visible difference in confluence between F_CHOMP07 and F_
+CHOMP09 MCBs.  
+2\. F_CHOMP07 WCB had lower confluence than F_ CHOMP09 WCB.  
+3\. There was no visible difference in confluence between F_ CHOMP09 MCB and
+WCBs however CHOMP07 WCB showed lower confluence than it's MCB.  
+4\. It was not possible to compare F_ CHOMP09 WCB cells cultured in fresh
+growth factors compared to a thawed 'bullet' because cells did not survive in
+either condition.  
+5\. F_ CHOMP09 WCB cells did not survive in DMEM/F12 + 20% KSR.  
+6\. It was not possible to compare growth rates of F_ CHOMP09 WCB cells in ACF
+media containing growth factors, compared to those containing no growth
+factors (KSR only), as cells did not survive in either condition.  
+7\. Very few cells survived and attached to the culture vessel in Fibrolife
+media.  
+  
+Discussion
+
+The Production Team recently reported a lower than expected cell yield when
+culturing F_CHOMP09 in DMEM/F12 + 10% FBS. See batch report here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/ODQ4Ljl8MTA2NTM2LzY1My00NjI4L1RyZWVOb2RlLzc2Mjg4MjY4OXwyMTU0Ljk=.
+This study supports the theory that F_CHOMP cells have a greater rate of
+proliferation in 20% FBS, which they were originally cultured in during their
+expansion to MCB and WCB (see lab books here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDE4Ny4zfDEwNjMxNy8zMjIxLTI0NzI0L1RyZWVOb2RlLzc4ODA3OTIzNXwxMDYyOS4z).
+
+F_CHOMP07 WCBs appeared to have a lower confluence at day 5 than F_CHOMP09
+WCBs. If this is an accurate representation of the different cell lines growth
+rates then F_CHOMP07 may perform better in long term culture. To further
+investigate this question, an experiment is already underway to compare the
+long term proliferative compacities of these 2 cell lines and may determine
+which cells we continue to use for R & D as well as for production. See lab
+book here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjY4NC42fDEwNjMxNy81MTQyLTQyMzM4L1RyZWVOb2RlLzI0Mjg1NzI2MDl8MTY5NjguNg==.
+
+  
+Cells did not appear to proliferate well in any of our serum free media
+conditions including the commercial Fibrolife media. The Fibrolife base media
+was supplemented with our own growth factors (100ng each of FGF, IGF1, PDGF +
+0.1% chemically defined lipid concentrate) rather that the supplement provided
+by the manufacturer because we did not have it on site (they can be sold
+separately). It may be worthwhile trialling F_CHOMP cells in Fibrolife with
+its recommended supplement for future experiments. The growth factors
+recommended by Fibrolife are listed below.  
+https://www.lifelinecelltech.com/shop/culture-media/fibroblast-culture-
+media/fibroblast-cell-culture-medium-serum-free-ll-0001/  
+  
+  
+limitations  
+Due to cells being washed from the vessels during fixation an dapi staining,
+it was not possible to obtain cell counts or to determine proliferation rates.
+We were therefore limited to comparing phase contrast images between
+conditions. In addition, only 1 well from each condition was imaged on phase
+contrast prior to fixation, meaning we do not have any replicates. Images from
+day 5 were used because the images take on the final day of the study were of
+poor quality.  
+  
+Conclusions  
+This study will need to be replicated, and quantitative data obtained before
+any concrete conclusions can be made. It does appear likely however that 20%
+FBS supplementation supports a greater rate of proliferation in both of our
+CHOMP cell lines than supplementation with 10% FBS. It is also apparent that
+CHOMP cells do not thrive in our current ACF media formulation, or in
+Fibrolife base media supplemented with growth factors.  
+  
+Future Directions  
+The ACF media formulations used in this study do not appear to support
+survival and proliferation of either of our F_CHOMP cell lines. If serum free
+culture is a priority for Vow, an alternative media will need to be sourced or
+developed for use with our F_CHOMP cells.  
+  
+The assay should be repeated in order to acquire quantitative results from
+which we can determine the statistical significance of findings. Staining with
+Hoechst instead of Dapi, which does not require fixation, may allow us to
+mitigate the risk of cell loss. Alternatively, Vowsers have reported less cell
+loss by performing the entire fixing and dapi staining protocol on the
+Opentrons, rather than by fixing by hand.  
+
+

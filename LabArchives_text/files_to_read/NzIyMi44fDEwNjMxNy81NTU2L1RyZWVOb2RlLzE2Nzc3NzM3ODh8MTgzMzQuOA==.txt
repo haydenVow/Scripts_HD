@@ -1,0 +1,227 @@
+
+
+## Performed by: Chris, Shaleen
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+  
+  
+  
+  
+  
+
+
+
+
+  
+
+Process:
+
+  1. Collected suspensions cells: ~ 1M
+  2. Washed sample twice with PBS for 5 minutes  10:54 - 10:55 a/pm  10:57 - 12:02 a/pm 
+  3. Resuspend in 2 mLPBS ands count cells: 35k per tube
+    1. count: 4, 6, 3, 5, 6
+    2. count: 5, 10, 3, 14, 12
+    3. count: 10, 9, 3, 7, 8
+  4. Aliquot 35k cells or 200 uL each into 8x Eppendorf tubes 
+
+Freeze - thaw:
+
+  1. Filled the inside space of a styrofoam box lid 3/4 fully with liquid nitrogen.
+  2. Ensure plate is thoroughly sealed/eppendorf tubes are fully capped.
+  3. Submerged samples, freezing in liquid nitrogen for 3 minutes, then thawed in water bath at 37 degrees for 3 minutes. Performed for three freeze-thaw cycles.
+
+  11:24 - 11:27 a/pm
+
+  11:33 - 11:36 a/pm
+
+  11:40- 11:43 a/pm
+
+4\. Centrifuged tubes for 5 mins at 650g using microcentrifuge  11:50-11:55
+a/pm
+
+5\. Aspirated lysate supernatant from each well and transferred into new
+labeled Eppendorf tubes.
+
+Note: Keep tubes at 4 degrees when not in use
+
+Preparing standard curve dilutions:
+
+  1. Made up a stock 2mg/mL solution by weighing 20 mg of BSA powder and dissolve into 10 mL of PBS.
+  2. Constructed dilutions of BSA stock for standard curve in Row A of a non-treated 96 well plate (see plate map for location) using the volumes in PBS and BSA stock in the table below:
+
+  
+
+2000 (ug/ml)  
+
+1500 (ug/ml)  
+
+1000 (ug/ml)
+
+750 (ug/ml)  
+
+500 (ug/ml)  
+
+250 (ug/ml)  
+
+125 (ug/ml)  
+
+25 (ug/ml)  
+
+12.5 (ug/ml)  
+
+6.75 (ug/ml)  
+
+0 (ug/ml)  
+  
+  
+BSA (uL)
+
+200
+
+150
+
+100
+
+75
+
+50
+
+25
+
+12.5
+
+2.5
+
+1.25
+
+0.675
+
+0  
+  
+PBS (uL)  
+
+0
+
+50
+
+100
+
+125
+
+150
+
+175
+
+187.5
+
+197.5
+
+198.75
+
+199.325
+
+200
+
+  
+  
+  
+  
+
+Performing the BCA assay:  
+
+  1. Preparation of the BCA working reagent (WR)
+    1. Use the following formula to determine the total volume of WR required:  
+(# standards + # unknowns) × (# replicates) × (volume of WR per sample) =
+total volume WR required  
+Example: for the standard test-tube procedure with 3 unknowns and 2 replicates
+of each sample:  
+(9 standards + 3 unknowns) × (2 replicates) × (2 mL) = 48 mL WR required  
+Note: 2.0 mL of the WR is required for each sample in the test-tube procedure,
+while only 200 μl of WR reagent is required for each sample in  
+the microplate procedure.
+
+    2. Prepare WR by mixing 50 parts of BCA Reagent A with 1 part of BCA Reagent B (50:1, Reagent A:B). For the above example, combine 50 mL of  
+Reagent A with 1 mL of Reagent B.  
+Note: When Reagent B is first added to Reagent A, turbidity is observed that
+quickly disappears upon mixing to yield a clear, green WR.
+
+  2. Added    200  uL of BCA WR to each of the standard and sample areas as outlined in the plate map.
+  3. Added   20 uL of each standard dilution to the corresponding triplicate wells containing BCA reagent. 
+  4. Added    20 uL of each of the sample supernatants to the corresponding triplicate sample wells containing Bradford reagent (see plate map). This volume should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  5. Repeated step 4 for additional plates if required (each 96 well plate holds 12 samples in triplicate)
+  6. Using a multichannel pipette, mixed each well containing Bradford and sample/standard thoroughly.
+    1. Alternatively, use a microplate seal to seal the wells and vortex mix plate
+  7. Centrifuged each plate for 1 minute at 650g to eliminate bubbles.
+  8. Incubate plate at 37C for 30 min, then cool to RT:   14:10 - 14:40 a/pm 
+  9. Read absorbance using Nanostar plate reader at 562 nm.
+  10. Attached .csv files to lab book.
+
+Performing the Bradford assay:  
+
+  1. Tested the appropriate sample volume to use with Bradford reagent by pipetting 5uL, 10uL and 20uL of sample/s supernatant (use more than one sample for testing if a large variation in total protein is anticipated) with 250uL of Bradford reagent. Monitored for 5 minutes to determine which volume yields a grey/blue colour change. 
+  2. Added 250uL of Bradford reagent to each of the standard and sample areas as outlined in the plate map.
+  3. Added   10  uL of each standard dilution to the corresponding triplicate wells containing Bradford reagent. This should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  4. Added   10  uL of each of the sample supernatants to the corresponding triplicate sample wells containing Bradford reagent (see plate map). This volume should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  5. Repeated step 4 for additional plates if required (each 96 well plate holds 12 samples)
+  6. Using a multichannel pipette, mixed each well containing Bradford and sample/standard thoroughly.
+    1. Alternatively, use a microplate seal to seal the wells and vortex mix plate
+  7. Centrifuged each plate for 1 minute at 650g to eliminate bubbles.
+  8. Read absorbance using Nanostar plate reader at 595 nm.
+  9. Attached .csv files to lab book.
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS (non-sterile)  
+M8421  
+  
+BCA reagents  
+  
+Bradford reagent (Coomassie Brilliant Blue)  
+S3589  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

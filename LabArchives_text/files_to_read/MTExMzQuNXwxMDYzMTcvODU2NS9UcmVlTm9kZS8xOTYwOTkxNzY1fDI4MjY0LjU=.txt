@@ -1,0 +1,83 @@
+StepAdd media to vessels  
+Operator nameAV, VP  
+Time-stamp17:00  
+Protocol
+
+  1. Remove vessels from box. Keep the optical patch data on the sheet insert. Note which sheet pertains to which reactor if using x3 or more reactors. 
+  2. Wipe vessels with EtOH and bring into BSC. Remove outer plastic wrapping and seal all clamps and reservoir lids
+  3. Prepare media with antifoam but without growth factors and add to vessels via the liquid handler port
+  4. Typically use 200mL total in each vessel with inoculum as 20% -> equal to 180mL in vessel for hydration and 20mL inoculum added to bring to 200mL total
+  5. Ensure all ports and clamps are sealed and remove from BSC
+  6. Store in hardware overnight or over weekend
+
+  
+Deviations & notesAF has not been added to the media and base has not been
+added to the second liquid chamber.  
+References  
+
+
+  
+  
+Reagents used to hydrate the AMBR vessels
+
+ReagentIDVolume used  
+Growth media (1:1 R:C)A12855180 x 4 + 20 x 4 = 800 mL  
+Antifoam  
+  
+  
+Base (sodium carbonate)  
+  
+  
+  
+  
+
+Added 180 mL of GM to each of the main chambers in 4 x AMBR vessels (720 mL
+total)
+
+Added 20 mL of GM to the first reservoir of each vessel (80 mL total)
+
+Did not add AF or base to the chamber / reservoirs.
+
+
+
+
+Passage details
+
+CultureCell density (c/mL) [NucleoCounter]Cell density (c/mL) [Manual]  
+STK-A1670k390k  
+STK-A2630k450k  
+STK-B1662k595k  
+STK-B2667k485k  
+  
+  
+
+Cell requirements for Monday (27/06/22)
+
+4 x 200 mL (4 x BRs) + 2 x 30 mL (2 x SFs)
+
+= 860 mL total cell suspension volume @ 200k c/mL
+
+= 172M cells needed
+
+  
+
+Chose the best performing flask from Stock A (A1) and Stock B (B1). Discarded
+~70 mL of cell suspension from each selected flask and added 70 mL of fresh
+1:1 RPMI:CHOin1 supplemented with IGF and EGF. Final seeding density of each
+flask = ~250-300k c/mL (total number of flasks after the passage = 2).
+
+Total volume of each E500 = ~140 mL
+
+  
+
+Reagents used
+
+ReagentIDVolume used  
+Growth media (1:1 RPMI:CHOin1)A12855140 mL  
+IGFA12475140 uL  
+EGFA1058428 uL
+
+
+
+
+

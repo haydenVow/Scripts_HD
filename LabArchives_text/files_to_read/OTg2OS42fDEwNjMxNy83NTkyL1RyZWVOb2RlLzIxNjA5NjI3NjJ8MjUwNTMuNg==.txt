@@ -1,0 +1,195 @@
+
+
+8/9/21
+
+Repeat clean-up and digests....
+
+Two frozen samples (2/9/21: post-reduction and alkylation (old), pre-reduction
+and alkylation (new)) were removed from the freezer and thawed.
+
+NEW: A tiny aliquot was removed from pre-reduction and alkylation (new) and
+reconstituted in 100 uL U/TU and sonicated for 10 mins.
+
+Took out 1uL for QUBIT quant (.24 mg/mL) however could still see undissolved
+bits. Reduced with 10mM DTT and sonicated for 30 min.
+
+Alkylated with 25mM IAA for30 min at room temperature in the dark. Took out
+1uL for QUBIT quant (.687 mg/mL) could no longer see bits in sample.
+
+Took out 20 uL (~12 ug) and added AmBiC (100 uL, 50 mM)
+
+OLD: The post-reduction and alkylation (old) sample was thoroughly vortexed to
+dissolve all precipitatte that had formed in the Took out 2 uL (~12 ug) and
+added AmBiC (100 uL, 50 mM)
+
+Both old and new samples were digested with .24ug of trypsin (20 uL, 12 ng/uL)
+overnight at 37 degrees in Thermomixer.
+
+  
+
+9/9/21
+
+Both samples were acidified with TFA (final conc 1%) and half the sample of
+each was zip-tipped (~6 ug of sample), and eluted in 10uL 50%ACN, 0.1%TFA.
+
+Samples were dried down and reconstituted in 12 uL loading buffer. 3 uL was
+loaded onto the HFX3.
+
+  
+
+10/9/21
+
+Replicate LC-MS runs for both samples. 3 uL was loaded onto the HFX3.
+
+
+
+
+
+
+
+10/9/21
+
+System Sustainability
+
+Run722 RT722 Counts% CovNo PepScore  
+128.946.54E8513410043  
+229.007.49E851349648  
+329.128.75E8543610754  
+429.071.09E9593811852  
+  
+  
+
+  
+
+
+
+
+TIC
+
+New Sample
+
+  
+
+Old Sample  
+
+
+
+
+PD against SwissProt
+
+  
+
+  
+
+  
+
+  
+
+RunProteinsProtein GroupsPeptide GroupsPSMsMSMS  
+New Sample2002539661432120911137520  
+Old Sample2139643111557822974139411  
+  
+  
+
+  
+
+  
+
+
+
+
+PD against sheep
+
+  
+
+RunProteinsProtein GroupsPeptide GroupsPSMsMSMS  
+New Sample477132951871026477137520  
+Old Sample515836871993328564139411  
+  
+  
+
+  
+
+  
+
+
+
+
+10/9/21
+
+Due to the high level of 'uncharacterised proteins' in the Uniprot ovine
+database, The Bayer College of Medicine's Human Genome Sequencing Centre gives
+a summary of available sheep genomes and the Rambouillet (merino) sheep
+proteome was downloaded from NCBI.
+
+In addition, a high bovine hit rate was seen in the SwissProt searches, most
+likely due to the poor ovine coverage in SwissProt, so the new ovine database
+was searched in isolation and in tandem with SP using this workflow:
+
+RunDatabaseProteinsProt GrpPep Grp PSMMSMS  
+Old_ztRamb only6,5644,785 (up from  3,687)24,39134,208139,411  
+New_ztRamb only6,2174,407 (up from 3,295)22,29730,716137,520  
+Old_ztRamb & SP27,1694,76219,98328,830139,411  
+New_ztRamb & SP25,7024,42318,44126,312137,520  
+  
+The number of cross species matches were review for the old zt sample:
+
+Master protein species No. found in old_zt sample  
+  
+Sheep2450  
+Cow661  
+Human532 (4 keratin)  
+Mouse412  
+Rat188  
+Chicken33  
+  
+To try and improve the sheep hits the all 63,964 of the available sheep
+sequences were downloaded from uniprot and the MS Amanda search repeated with
+and without SP.
+
+RunDatabase(s)Proteins Prot GrpPep GrpPSMMSMS  
+old_ztSheep all17,4235,02126,27136,662139,411  
+new_ztSheep all16,1394,61023,82632,767137,520  
+old_ztSheep all + SP36,5234,69720,86529,964139,411  
+new_ztSheep all + SP  
+34,0104,30818,80126,832137,520
+
+
+  
+  
+12/9/21 The three sheep databases were also searched using MASCOT rather than
+MS Amanda
+
+RunDatabaseProteinsProt GrpPep GrpPSM  
+Old_ztUniprot sheep6,7474,95933,38350,899  
+New_ztUniprot sheep  
+6,5644,70833,40350,217  
+Old_zt  
+Merino15,4615,13135,99254,861  
+New_zt  
+Merino14,6184,87135,93653,935  
+Old_zt  
+Uniprot all sheep17,2625,17935,98054,754  
+New_zt  
+Uniprot all sheep  
+17,1784,93736,00054,011
+
+
+  
+  
+13/9/21
+
+The samples were process together and the overlap between the repeat
+injections was assessed:
+
+Old zt sample:
+
+New zt sample:
+
+  
+
+As well as between the old and the new digests:
+
+The missed cleavage rate was also reviewed:
+
+

@@ -1,0 +1,129 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+75:25 RPMI:CHO HD + Nuvonis  
+M12773  
+  
+90:10 RPMI:CHO HD + NuvonisM12748  
+
+
+  
+  
+Flask typeFrom Flask ID  
+Flask ID  
+ConditionLocation  
+E-12512353 (From 50:50)  
+12353  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 52 (Main Lab)  
+  
+  
+12488 (75:25 from 50:50)  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+12360 (From 75:25)  
+12360  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12366 (From 50:50)  
+12366  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12489 (75:25 from 50:50)  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+12367 (From 50:50)  
+12367  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12368 (From 75:25)  
+12368  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+  
+For Expansion purposes:
+
+Harvested flask typeHarvested flask IDSeeded flask IDSeeded Flask type  
+E-1251248812506E-250  
+1248912507  
+  
+  
+
+
+
+
+  
+
+  1. Took 1 x 560 uL samples from each culture (1 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+  
+123536,660,000  
+  
+123667,840,000  
+  
+1236011,160,000  
+  
+12367  
+6,740,000  
+  
+123688,000,000  
+  
+12488  
+10,940,000  
+  
+12489  
+12,220,000  
+  
+  
+  
+
+  3. Aliquotted;  
+(1) 100mL 75:25 RPMI:CHO Part A + Nuvonis, and added 100uL of IGF-1L3 and 20uL
+of EGF.  
+(2) 60mL 90:10 RPMI:CHO Part A + Nuvonis + 30 mL 90:10 RPMI:CHO Part A +
+Nuvonis (for media top up tomorrow), and added 60uL and 30uL of IGF-1L3,
+respectively and 12uL and 6uL of EGF, respectively.  
+(3) 40mL 50:50 RPMI:CHO Part A + Nuvonis and added 40uL of IGF-1L3 and 8uL of
+EGF.
+
+  4. Aliquotted the following mL of cell suspension into 7 x 50 mL tubes:  
+  
+Flask IDVolume of cell suspension used to re-seed flask (mL)  
+  
+12353  
+6.006 (2M cells in total; 100k cells/mL)  
+  
+12366  
+5.102 (2M cells in total; 100k cells/mL)  
+  
+12360  
+5.376 (3M cells in total; 150k cells/mL)  
+  
+12367  
+8.902 (3M cells in total; 150k cells/mL)  
+  
+12368  
+ 7.500 (3M cells in total; 150k cells/mL)  
+  
+12488  
+20mL  
+  
+12489  
+20mL  
+  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. After centrifugation, aspirated the supernatant and resuspended cell pellet in 20 mL of respective medium. 
+  7. Re-seeded 5 x E-125 (50:50 and 90:10 flasks) and 2 x E-250 (75:25 cells). 
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

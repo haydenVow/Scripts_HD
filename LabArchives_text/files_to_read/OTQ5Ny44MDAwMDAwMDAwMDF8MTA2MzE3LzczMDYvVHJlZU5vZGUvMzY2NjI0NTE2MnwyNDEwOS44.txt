@@ -1,0 +1,89 @@
+Performed by: LL EC
+Process
+
+
+  1. Made up 110 mL of RPMI/HyCellCHO basal medium by combining 82.5 mL of RPMI with 27.5 mL of HyCellCHO
+  2. Made up 12 x working stock dilutions according to table below (insert table from "Factor Calcs" sheet of DSD spreadsheet below)
+    1. Added 25 uL 10M NaOH to amino acid working stock to raise pH
+  3. Aliquoted 4 mL of ACA
+  4. Store working stocks in fridge until required
+
+Spreadsheet link:
+https://docs.google.com/spreadsheets/d/1GOHV8AgrwnB6W8EbMXeKkVkGeQ0o9-YdyQiJJSdsccw/edit#gid=758940668
+
+Table:
+
+  
+Factor AmountsWorking Stock Dilutions  
+Factorhigh g/L amt (1)total amt needed to order (g)working stock concentration
+(g/L)RPMI/Hycell (75/25) amt (uL)concentrated stock amt (uL)  
+Glutamax000156.03744.0  
+Trace elements B (1000X)0003713.0187.0  
+Insulin-Transferrin-selenium (100X)0002028.01872.0  
+Sodium pyruvate0002028.01872.0  
+Ethanolamine (1:100 dilution)  
+00156.033744.0  
+MEM essential amino acids (50X)0002028.01872.0  
+FGF0.00010.000004680.00123806.493.6  
+Yeast20.0936242964.0936.0  
+IGF-1-LR30.00010.000004680.00123806.493.6  
+EGF0.000020.0000009360.000243881.318.7  
+Putrescine dihydrochloride0.040.0018720.483806.493.6  
+L-Ornithine monohydrochloride0.040.0018720.483806.493.6  
+  
+  
+
+
+ReagentID  
+RPMI  
+s4931  
+  
+HyCellCHO  
+m10137  
+  
+Freestyle media  
+s5152  
+  
+Glutamax  
+s4852  
+  
+Trace elements B  
+s1544  
+  
+ITS  
+s5373  
+  
+Sodium pyruvate  
+  
+  
+MEM essential amino acids  
+  
+  
+FGF  
+  
+  
+Yeast  
+a10507  
+  
+EGF  
+  
+  
+IGF-1-LR3  
+  
+  
+Putrescine dihydrochloride  
+  
+  
+L-Ornithine monohydrochloride  
+  
+  
+ACA  
+s4218  
+  
+KSR  
+  
+  
+Ethanolamine  
+s680  
+
+

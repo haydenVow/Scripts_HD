@@ -1,0 +1,164 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6712-DOLLY12_11E7-Sheep P11-1of3  
+6713-DOLLY12_11E7-Sheep P11-2of3  
+6714-DOLLY12_11E7-Sheep P11-3of3  
+96 well plates (Microcarrier derived)6 ea  
+6715-DOLLY12_11E7-Sheep P11-1of3  
+6716-DOLLY12_11E7-Sheep P11-2of3  
+6717-DOLLY12_11E7-Sheep P11-3of3  
+96 well plates (Planar derived)6ea  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Performed by: Shaleen
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    40mL  PBST (0.2% Triton-X)
+
+2\. Prepared    10mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix:  20 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  80 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  3.9  mL Blocking
+Buffer
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formAntibody ID  
+Dilution in blocking buffer  
+Antibody Primary - Mouse Anti-MyoG, MIgG1 Kappa Light Chain (AKA F5D-s
+Myogenin)  
+IgG1  
+#1451  
+1:200  
+  
+Antibody Primary - Mouse Anti-Myosin (MF20) MIgG2b Kappa Light Chain (AKA MF
+20-s)  
+IgG2b  
+#2468  
+1:50  
+  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  14:16 - 14:32
+pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   14:37 - 15:23
+a/pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   15:36 - Overnight a/pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM5070  
+  
+PBST (0.2% Triton)M4441  
+  
+dPBSN/A  
+  
+Primary Antibody MixSee above for antibody stock IDs  
+  
+Primary Antibody Mix (if used)  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+### N/A
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable): N/A  
+
+

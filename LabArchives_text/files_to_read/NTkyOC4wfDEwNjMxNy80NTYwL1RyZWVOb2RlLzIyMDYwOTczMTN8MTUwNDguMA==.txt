@@ -1,0 +1,163 @@
+Key findings:
+
+
+  * None of the media supplements appeared to promote fibroblast survival and adaption to suspension evidenced by the absence of viable cells after day 30.
+  * Use of Opentrons reservoirs resulted in the presence of artifacts in stained wells, directly resulting in overestimated cell counts.
+  * New compounds to be tested in suspension culture ideally should be first evaluated in adherent culture prior to use in suspension experiments, if feasible.
+
+
+Results/Discussion:
+
+
+The purpose of this study was to investigate whether the addition of p53
+histone deacetylases and/or plant derived hydrolysates could promote
+fibroblast cell survival and proliferation in suspension culture conditions.
+In this experiment DOLLY12 fibroblast cells were directly thawed into either
+6-well plates or E125 flasks at the same seeding density and cultured over a
+30-day time period. Following the experiments conclusion Zaber images captured
+of each of the cultures were evaluated using a FIJI designed macro to quantify
+total and dead cell numbers as a means of gauging culture performance.
+
+  
+
+Each of the growth media conditions evaluated in the 6- well plates displayed
+a sharp decrease in total cell numbers from day 2 to day 16, with the phytone
+peptone treatment demonstrating the largest total cell count compared to the
+other conditions (Figure 1) . After approximately 20 days in culture each
+conditions exhibited an increase in total cell numbers particularly cells
+belonging to the hydrolysate 2 and serum control treatments (Figure 1).
+Despite this initial drop in cell numbers there was a gradual increase between
+days 20 and 26, followed again by a sudden drop in cell numbers on the day 29
+counts. Upon closer examination of the Zaber images of all the 6-well plates
+from day 26 it was clear that there was an abundance of debris present in the
+imaged wells. This was presumably due to the use of contaminated Opentrons
+reservoirs which housed the dyes used for the cell staining protocol. Indeed,
+a control well which contained cell stains prepared separately in a 15 mL
+falcon tube confirmed this observation as there was a deficit of fluorescent
+debris in those wells (image not shown). Therefore this "peak" in total cell
+numbers on day 26 likely represent an overestimation of the Zaber imaged wells
+by the FIJI macro and not accurately representative of actual cell numbers. In
+contrast, a separate trend was seen in the E-flask cultures, with both HDAC
+treatment maintaining stable total cell counts across to day 16 (Figure 2).
+Comparably, they exhibited a sharp decrease at day 20 following again by a
+gradual increase by day 26, and finally plummeting by the conclusion of the
+culturing period (Figure 2). Manual checks of both the 6-well plates and E125
+cultures confirmed that there were no remaining viable cells present after 30
+days and were thus discarded. Therefore, it is likely that the high cell
+numbers seen from all the cultures on day 26 was likely due to overestimated
+counts by the macro as a direct result of artifacts present in the imaged
+wells.
+
+  
+
+Figure 1: Total cell counts of 6-well plate cultures across the 30 day
+suspension culture period
+
+  
+
+
+
+
+
+  
+
+Figure 2: Total cell counts of E125 cultures across the 30 day suspension
+culture period
+
+  
+
+In addition to obtaining total cell counts from the suspension cultures, each
+condition was simultaneously stained with sytox green, as an indication of
+dead cells. Evident from the day 2 counts, all the 6-well plate and E125
+cultures exhibited mass cell death (Figure 3, Figure 4). In most instances
+majority of the 6-well plate cultures had upwards of 500,000 cells staining
+positive for sytox green, accounting for approximately 83% of the total cells
+initially seeded, i.e., 600,000 for the 6-well plate cultures. Despite a
+drastic reduction in dead cells on day 20, all conditions displayed continuous
+cell death until the day 30 timepoint. Interestingly the serum control in both
+the 6-well plate and E125 treatments displayed relatively low amounts of cell
+death compared to other cultures as the suspension process progressed.
+Additionally, cells supplemented with phytone peptone displayed the lowest
+dead cell count on day 26 and the highest total count on the same day,
+indicating that a large proportion of the cells were still viable. This is
+reinforced in Figure 5, with this hydrolysate culture exhibiting a positive
+viability percentage. Most cultures displayed positive viabilities, albeit
+low, throughput the 30-day culture period (Figure 5, Figure 6). It is obvious
+at day 20 that there is a significant reduction in viability. However, upon
+comparing the total and dead cell counts for these cultures most of them
+demonstrate very low total cell counts. As the viability is calculated by the
+difference between the total and dead cell count divided by the dead count any
+culture with low total counts would be characterized by a negative cell
+viability. This is evident in Figure 1 and 2 in which all the cultures have a
+total cell count close to zero on day 20. As previously discussed, the
+presence of fluorescent debris from the Opentrons reservoirs may have resulted
+in overestimated counts for these cultures.
+
+  
+
+Figure 3: Dead cell counts of 6-well plate cultures across the 30 day
+suspension culture period
+
+  
+
+Figure 4: Dead cell counts of E125 cultures across the 30 day suspension
+culture period
+
+  
+
+Figure 5: Viabilities of 6-well plate cultures across the 30 day suspension
+culture period
+
+Figure 6: Viabilities of E125 cultures across the 30 day suspension culture
+period
+
+
+Limitations:
+
+
+A limitation concerning this study involved the use of Opentrons reservoirs to
+house the dyes used to stain the culture aliquots. Unfortunately, these
+reservoirs contained large amounts of debris that were similar in size and
+fluorescence to cells. This directly resulted in overestimated count outputs
+from the FIJI macro at several time points throughout the culture period,
+namely day 26. In addition, the process of developing a live/dead staining
+protocol for staining the suspension cultures was still being optimised during
+this experiment's duration. In several instances the DAPI imaged wells,
+stained using Hoechst 33342 Ready Probes resulted in stains with minimal
+fluorescence and were thus undetectable using the FIJI macro. Consequently,
+this resulted in total cell counts that were typically less than the dead cell
+counts on the same days. Furthermore, data on total and dead cell counts were
+collected on a limited number of occasions, namely only two data points were
+collected in the first half of the experiment's duration. Subsequently, this
+lack of data between days 2 and 16 resulted in difficulties extrapolating
+trends across the culture conditions. This may be partially attributed to the
+difficulties in performing regular feeds on 6-well plate culture, due to the
+evaporation of the culture medium. Additionally due to the arduousness
+involved in centrifuging the 6-well plates, its format offers more
+disadvantages than benefits and is likely to be discontinued in any suspension
+experiments going forward, particularly it's feasibility in high throughput
+automation.
+
+
+Conclusion:
+
+
+The present study represents an additional attempt at Vow in which DOLLY12
+fibroblasts have been attempted to be adapted to suspension culture conditions
+with the addition of specific media supplements. Despite not being able to
+successfully adapt fibroblasts to suspension during this experiment, several
+key learnings experienced in terms of live/dead staining issue, Opentrons
+reservoirs and macro development have enabled us to improve our methodology
+for subsequent suspension experiments.
+
+
+Future Directions:
+
+
+  * Prior to investigating media compounds in suspension cultures, it may first be necessary to evaluate their effect on fibroblast survival and proliferation in adherent culture. However, this should only be considered for compounds that are relatively inexpensive such as basal medias, hydrolysates etc. Despite potentially slowing down the kickoff of new suspension experiments, it may assist in gauging if a particular supplement benefits fibroblast cell growth and/or survival, prior to performing a full 30-day suspension experiment. 
+  * Evaluate different live/dead stains for optimal conditions that produce consistent fluorescent result.
+  * Prepare all staining reagents independent of Opentrons reservoirs, ideally in sterile treated culture ware such as 15 mL falcon tubes or single use reservoirs. 
+  * Repeat experiment after implementing changes in suspension feeds and staining learnings from future experiments. This study was the first that involved rudimentary use of the Opentrons robots, FIJI macros, fast suspension adaption knowledge and automation design. Significant improvements have been made since then so this may be an experiment to re-evaluate in the future.
+  * Remove the use of 6-well plates from any future suspension experiments. Mainly due to difficulties in centrifuging 6-well plates, and removing media without disrupting the centrifuged cells. Additional limitations include it's incompatibility with current high-throughput Opentrons feed and stains and high degree of media evaporation. 
+
+

@@ -1,0 +1,559 @@
+
+
+## Performed by: Tom Tarento and Jared Bergman  
+
+
+Materials
+
+
+## Reagents Used
+
+Reagent  
+ID  
+Quantity  
+Use  
+  
+Sodium Bicarbonate  
+S639  
+8.4g  
+In 100ml of MilliQ water for the bioreactor base bottle.  
+
+
+Procedure
+  
+  
+Inspected the components
+
+  1. Checked any "wetted" materials (materials that come into contact with the culture or additives and are therefore required to maintain sterility) for damage or residues that may introduce contamination (examples include seals and tubing).
+  2. Checked any potentially dangerous equipment (e.g. gas regulators, gas lines, pressure release valves) for abnormalities that may lead to an accident.  
+
+ReferenceOperating manual page(s) 85  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp14:25  
+Procedure variations and other notes  
+  
+  
+  
+
+
+
+
+Checked hardware power, network connection and software access
+
+  1. Turned on the control tower by pressing the yellow button on the bottom right.
+  2. Switched the lab computer WIFI network to "Vowse"
+  3. Navigated to https://192.168.0.250/ from a web browser window
+  4. Logged into the Biostat web app using the details in the operating manual (see reference).
+    1. Username: "admin" (all lower case)
+    2. Password: "709aA0"
+
+ReferenceOperating manual page(s) 45  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp14:28  
+  
+Procedure variations and other notes  
+  
+  
+  
+
+
+
+
+Calibrated the pH probe
+
+  1. Gathered 2 reference buffers (perferably pH 7 and pH 10) in small beakers, a wash bottle, and a spare wash beaker.
+  2. Connected the pH probe up to the control tower.
+  3. Ran the pH calibration program.
+    1. Washed the probe tip thoroughly with deionized water and wiped with a lint-free wipe before placing it in the reference buffers.
+    2. Followed the instructions in the calibration program
+
+ReferenceOperating manual page(s) 43, 67  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+14:40  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Ensured that the dissolved oxygen probe was working
+
+  1. Connected the dissolved oxygen probe to the control tower
+  2. Place the probe in a beaker of water
+  3. Waited for a signal
+
+ReferenceOperating manual page(s) 67  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+14:40  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed the impeller
+
+  1. Installed the piece in the headplate (If not already installed).
+  2. Moisten the rubber seals on the underside of the headplate with deionized water. Ensure that the seals are not stuck together or to the surrounding surfaces.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp  
+14:45  
+  
+Procedure variations and other notes  
+Already installed in headplate from last run  
+  
+  
+  
+
+
+
+
+Installed the sparger
+
+  1. Installed the piece in the headplate.
+  2. Put a piece of tubing on the top of it.
+  3. Fitted a clamp, in the open position, to the tube.
+  4. Pressed a gas filter into the free end of the tubing.
+  5. Used cable ties and a tension gun to secure the tubing and filter.
+  6. Covered the filter with aluminium foil.
+  7. Clamped the tubing shut close to the headplate end.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp  
+14:45  
+  
+Procedure variations and other notes  
+Already installed in headplate from last run  
+  
+  
+  
+  
+
+
+
+
+Installed the gas exhaust filter
+
+  1. Installed the piece in the headplate.
+  2. Used cable ties and a tension gun to secure the tubing and filter.
+  3. Covered the filter with aluminium foil.
+  4. Leave the exhaust filter open and do not clamp it off under any circumstances! This is essential for balancing the pressure during autoclaving.
+
+Referencehttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp  
+14:45  
+  
+Procedure variations and other notes  
+Already installed in headplate from last run  
+  
+  
+  
+  
+
+
+
+
+Installed dip tube for sampling
+
+  1. Installed the piece in the headplate.
+  2. Put a "BENCHMARK" single-use aspetic sampling tube on the top of the piece.
+  3. Fitted a clamp, in the open position, to the tube.
+  4. Used cable ties and a tension gun to secure the tubing.
+  5. Clamped the tubing shut close to the headplate end. 
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:10  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed dip tube for harvesting
+
+  1. Installed the piece in the headplate.
+  2. Put a piece of tubing on the top of it.
+  3. Fitted a clamp, in the open position, to the tube.
+  4. Attached a Y-connector to the free end of the piece of tubing.
+  5. Put pieces of tubing the free ends of the Y-connector.
+  6. Fitted clamps, in the open position, to the tubes.
+  7. Attached female STT connectors to the free ends of the pieces of tubing.
+  8. Used cable ties and a tension gun to secure the tubing.
+  9. Clamped the tube shut close to the headplate end.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:15  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed 4-way port for liquid addition
+
+  1. Installed the piece in the headplate.
+  2. Put pieces of tubing on the top of each of the 4 ports.
+    1. Used 2x pieces of arm length (regular length) pieces of tubing and 2x pieces of double-arm-length tubing for the seed and feed lines as they needed to reach from the bioreactor bench to the BSC.
+  3. Attached female STT connectors to the end of each piece of tubing.
+  4. Used cable ties and a tension gun to secure the tubing.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+Timestamp  
+15:20  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+ ~~Added the microcarriers~~
+
+  1.  ~~Added 2.5 g of dry Cytodex 1 microcarriers to the bioreactor vessel.~~
+  2.  ~~Added 700 mL (just covering the impeller) of Ca2+and Mg2+free PBS~~
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp15:20  
+  
+Procedure variations and other notesNot performed this run - hydrated
+microcarriers to be added after autoclaving  
+  
+  
+  
+
+
+
+
+Installed the headplate
+
+  1. Put the top plate on carefully and aligned it correctly
+  2. Ensured that the installed parts (e.g. sparger, dip tubes, impeller) are not touching each other.
+  3. Tighten knurled screws firmly by hand (no tool).
+
+Referencehttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:22  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+ ~~~~ ~~Mounted the stirrer motor~~
+
+  1.  ~~Loosened the screw on the side of the motor sleeve.~~
+  2.  ~~Pushed the motor sleeve down firmly onto the shaft coupling on the headplate until it could not be pushed down any further.~~
+  3.  ~~Tightened the screw on the side of the motor sleeve until finger tight.~~ ~~~~
+
+Reference Operating manual page(s) 71, 55  
+  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp15:23  
+  
+Procedure variations and other notes  
+Not performed this run - hydrated microcarriers to be added after autoclaving  
+  
+  
+  
+  
+
+
+
+
+ ~~Hydrated the microcarriers~~
+
+  1.  ~~Turned on the impeller to 90 RPM~~
+  2.  ~~Waited for at least 3 h at room temperature (or 1.5 hours at 37 deg C).~~
+  3.  ~~Remove ~500 mL of PBS until the liquid level dips just below the impeller~~
+  4.  ~~Add ~500 mL of fresh Ca2+ and Mg2+ free PBS for 2 to 3 minutes.~~
+  5.  ~~Remove ~500 mL of PBS until the liquid level dips just below the impeller~~
+  6.  ~~Add ~500 mL of fresh Ca2+ and Mg2+ free PBS for 2 to 3 minutes.~~
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp15:25  
+  
+Procedure variations and other notesNot performed this run - hydrated
+microcarriers to be added after autoclaving  
+  
+  
+  
+
+
+
+
+ ~~Unmounted the stirrer motor~~
+
+  1.  ~~Turned off the stirrer~~
+  2.  ~~Loosened the screw on the side of the motor sleeve.~~
+  3.  ~~Pulled the motor sleeve up firmly off the shaft coupling on the headplate.~~
+
+ReferenceOperating manual page(s) 71, 55  
+  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp15:25  
+  
+Procedure variations and other notes  
+Not performed this run - hydrated microcarriers to be added after autoclaving  
+  
+  
+  
+  
+
+
+
+
+Prepared the liquid addition, waste and harvest bottles
+
+  1. Prepared clean bottles:
+    1. Feed (suggested 2000 mL)
+    2. Seed (suggested 500 mL)
+    3. Base (suggested 250 mL)
+      1. Filled with 1 mol/L solution of sodium bicarbonate
+    4. Harvest (suggested 2000 mL)
+    5. Waste (suggested 10 L)
+  2. Attached the pressure equalization lids to each bottle.
+  3. Used cable ties and a tension gun to secure the pressure equalization filters.
+  4. Covered the filters with aluminium foil.
+  5. Put pieces of tubing on the top of the dip tube connector on each bottle.
+  6. Attached male STT connectors to the free end of each piece of tubing.
+  7. Used cable ties and a tension gun to secure the tubing.
+  8. Clamped the tubing shut close to the lid end ONLY if the bottles contained liquid.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initialsJB  
+  
+Timestamp  
+15:38  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed the pH probe
+
+  1. Screwed the pH probe into one of the free ports using fingers (not tools).
+
+Reference  
+  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:50  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed the dissolved oxygen probe
+
+  1. Screwed the dissolved oxygen probe into one of the free ports using fingers (not tools).
+
+Reference  
+  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:50  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Installed the liquid level probe
+
+  1. Screwed the liquid level probe into one of the free ports using fingers (not tools).
+
+Reference  
+  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+  
+Procedure variations and other notes  
+Already installed in headplate from last run  
+  
+  
+  
+
+
+
+
+Performed a final check
+
+  1. Ensured that the headplate and all ports were closed and screwed down to finger-tightness.
+  2. Ensured that the silicone tubes attached to the sparger, sample dip tube and harvest tube are clamped.
+  3. Ensured that the exhaust gas filter was NOT clamped or otherwise obstructed.
+
+Reference  
+  
+Operator initialsJB  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+15:50  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Autoclaved the vessel
+
+  1. Transported the vessel and bottles to the autoclave using a trolley.
+  2. Placed the vessel and bottles into the autoclave chamber.
+  3. Set the autoclave to run on the liquid sterilization cycle (to prevent rapid cooling that may cause lines to pop off).
+  4. Autoclaved the vessel at 121 deg C for at least 30 minutes.
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+
+
+
+Calibrated the peristaltic pumps
+
+  1. Gathered 100 mL of water in a beaker, a 100 mL measuring cylinder and an arms-length piece of 6 mm (1/4 inch) silicone tubing
+  2. Ran the pH calibration program:
+    1. Followed the instructions in the calibration program
+    2. For pump SUBS-A and SUBS-B, set Mode: OFF in the first menu and Mode: Automatic in the second menu.
+
+ReferenceOperating manual page(s) 43  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp  
+16:15  
+  
+Procedure variations and other notes  
+  
+  
+  
+  
+
+

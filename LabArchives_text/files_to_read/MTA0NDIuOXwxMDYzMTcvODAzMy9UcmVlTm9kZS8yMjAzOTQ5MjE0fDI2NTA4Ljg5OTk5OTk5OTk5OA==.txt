@@ -1,0 +1,152 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Harvested plates  
+Seeded plates  
+  
+11473-1147612153  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12072  
+  
+Growth Mediam12221  
+  
+  
+  
+
+
+
+
+### Process:
+
+  
+
+1\. Fillled three 96 well plates with 300uL of dPBS and 200uL of tryple as per
+the plate guide above. Filled another separate plate with growth media
+(DMEM/F12+ 20% FBS + 1xP/S), 200uL per well.  
+
+2\. Generated a multiwell open protocol using the 'Dynamo' script using the 1
+well passaging protocol attached and the pick lists generated on the 6/5/22
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241
+
+3\. Set up the opentron deck as per the layout at the top of the page using
+cultures 11473-11476 and ran the generated multiwell protocol (see attached)
+
+4\. Stopped the robot during it's passaged of culture 11474 (origin B) (See
+observations). Decided to passage this plate by hand and add the cells
+manually to the destination plate.
+
+  * Removed and discarded growth media
+  * washed each well with 200uL of dPBS
+  * aspirated and discarded dPBS 
+  * Added warmed tryple-EDTA to each well, 100uL and allowed to sit at room temp for 20 minutes. 
+  * Mixed the contents of each well before transferring 20uL to the destination well listed in the resources file attached (See attachments)
+
+6\. Allowed the protocol to run to completion.
+
+7\. Transferred the new culture to incubate at 30 degrees, 5% CO2 incubator
+#140.
+
+  
+
+
+
+
+Observations/Summary:
+
+Attempted to introduce the following changes in the passaging protocol
+compared to the Opentron Round 8 passage.  
+  
+1\. Reduce the tryple volume added to wells to 100uL from 200.  
+2\. Pre heat the 96 well plates containing the dPBS and Tryple using a deck
+heater element on the opentron to 37 degrees C.  
+3\. After the tryple incubation in completed increase the mixing speed to
+300uL/s (max) and add a total of 4x100uL mixing repetitions to each well prior
+to cell transfer to the new seeding plate.  
+4\. Retain the 20uL Tryple volume transfer to the new wells (1/5 of the total
+cells from a confluent well).
+
+* * *
+
+A number of issues arose during this passaging process.
+
+Passaging of plates 11473 and 11475
+
+No plate was mixed after trypalisation, The pipette tip dipped to low into the
+well, stabbing the well base and creating a seal at the base of the well. To
+address this the mixing pipette height was increased from 0.5mm to 2mm from
+the well base.
+
+Passaging of plates 11474 and 11476
+
+As well as the mixing step error outlined above both of these plates saw a
+similar issue each the the pipette attempted to remove the media from the
+ORIGIN plate. The minimum aspiration height for all steps in the protocol was
+increased to 1.2mm from the well base.
+
+For plate  11474, the protocol was stopped and the plate was passaged by hand,
+with an empty plate added to the opentron deck in place of this culture to
+continue carryout out the operation.
+
+For plate 11476, the plate was not passaged by hand due to time constraints on
+the day. Tryple was added to wells still containing growth media, therefore it
+is unlikely that many (if any) cells were trypalised and transferred to the
+destination plate.
+
+Heating decks
+
+Heating decks worked very well to bring the reagents up to temperature by the
+time they were added to the wells, cells were noticeably detached after
+completion of the protocol after inspecting down the microscope.
+
+
+
+
+SOPs used:
+
+### https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+
+
+
+Relevant attachments  
+
+See the resources file attached for tracking details of each clone from the
+origin plates to the locations on plate 12153
+
+  * 11473 = ORIGIN_A 
+  * 11474 =ORIGIN_B 
+  * 11475 = ORIGIN_C
+  * 11476=ORIGIN_D
+
+Summary of the passage can also be found in this document:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241
+
+

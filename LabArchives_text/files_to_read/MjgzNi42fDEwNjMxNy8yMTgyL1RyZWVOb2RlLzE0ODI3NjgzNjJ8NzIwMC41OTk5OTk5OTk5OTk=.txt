@@ -1,0 +1,42 @@
+  
+  
+# Electrode/conductive material
+
+  * Platinum is bioinert and won't elicit electrolysis
+    1. Bend into L shape to go through lid
+  * Held in place with superconductive glue or silicone
+    1. https://www.future-science.com/doi/full/10.2144/000114382
+  * Copper wires for soldering with platinum electrodes:
+
+# Plate details
+
+  * 24-well plate depth is 16.10 mm, so the electrodes should be this long, as the lid is raised several mm from the surface of the well.
+  * Well diameter is 14 mm, but each electrode should be spaced far apart in each well, perhaps 3.5 mm from each end.
+  * The L-shape should be 16.1 mm vertical, 6 mm horizontal
+  * Capacitive coupling or direct coupling?
+    1. Review here https://biomaterialsres.biomedcentral.com/articles/10.1186/s40824-019-0176-8
+    2. Capacitive: https://link.springer.com/content/pdf/10.1007/s12195-015-0419-2.pdf
+
+# External electronics
+
+  * This will be the non-sterile parts, including electrical boards to deliver correct power supply
+  * Arduino Uno microcontroller
+  * Banana connectors, electrical pins, bread board
+
+# Sterilization
+
+  * Ethanol bath followed by UV sterilization > 1 hour
+    1. Could flip lid over after 1 hour and do 1 hour each side
+  * Can verify this technique using available bacterial detection kits
+
+https://www.future-science.com/doi/full/10.2144/000114382
+
+
+
+DOI: 10.1089=ten.tec.2009.0125
+
+
+
+  
+
+

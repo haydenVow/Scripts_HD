@@ -1,0 +1,105 @@
+
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+dPBS (for washing & neutralising)a6414  
+  
+Growth Mediam6789  
+  
+Hoechst  
+s2562, s3722  
+  
+  
+  
+
+  
+
+
+Stock ID:  
+details  
+brand  
+catalogue no  
+  
+  
+'old':  2562  
+Hoechst 33342 Ready Flow Reagent  
+invitrogen  
+R37165  
+  
+  
+'new': 3722  
+
+    
+    
+    NucBlue Live Cell Stain ReadyProbes reagent Hoechst33342
+
+invotrogen  
+R37605  
+  
+
+
+  
+  
+Process:
+
+  1. Zaber scan 384 wp on phase (5x, exposure: 50, illuminator lamp: ~1). 
+  2. Removed 20uL/well of media from columns 13-24. (This was done to bring down the well volumes to 50uL/well which is what we have on day 7 of single cell cloning, before a feed is performed).
+  3. Prepared 2 mL of 50uL/ml of sterile Hoechst in PBS solution using 'new' Hoechst (stock ID: 3722 )
+  4. Prepared 2 mL of 60uL/mL of sterile Hoechst in PBS solution using 'new' Hoechst (stock ID: 3722 )
+  5. Prepared 1 mL each of 50uL/mL and 60uL/mL of sterile Hoechst in PBS solution using 'old' Hoechst (stock ID: 2562 )
+  6. Added 20uL/well of staining solutions to wells as follows:
+    1. B13-B24 = 50uL/mL, new. Same for C13-C24, D13-D24, E13-E24
+    2. F13-F24 = 60uL/mL,  new. Same for G13-G24, H13-H24, I13-24, J-13-24
+    3. N13-N24 = 50uL/mL, old
+    4. O13-O24 = 60uL/mL, old
+  7. Incubated plate at room temp in BSC in the dark: ~19:40 - 20:05
+  8. Aliquoted 7.5 mL D/F + 10% FBS + 1x P/S and place in waterbath. 13:33 
+  9. Imaged all stained wells, as well as unstained wells (K,L,M,N from 13-24 = control) 
+    1. 5x (all)
+    2. Phase: exposure 40, illuminator lamp: ~1
+    3. DAPI: exposure 200 (for rows B to N), illuminator lamp: 55
+    4. DAPI: exposure 20, lamp 55 for rows O and P (these were stained with old Hoechst and were very bright)
+  10. Performed a 100% feed on columns 13-24 (50uL/well added after removing media)
+  11. Returned plate to incubator ~20:40
+    1. 37 degrees, 5% CO2, ID #68
+
+
+
+
+Observations/Summary:
+
+Hoechst stained wells with old and new Hoechst, imaged and performed a 100%
+feed.
+
+  
+
+Plate stained: 8123
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Cells that were stained with old Hoechst yesterday were dead
+
+  
+
+

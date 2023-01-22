@@ -1,0 +1,137 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+1x E500  
+133.35 mL12588  
+E2000600 mL12650Expansion 146 - shaker incubator  
+  
+  
+1x E500  
+135.45 mL12589  
+N/AN/AN/AUsed in product 2 experiments159 - shaker incubator  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+12801  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Cell Counts:
+
+  1. Cell counts with the Vicell was performed at 10:00am:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1258812589  
+Performed byZMZM  
+Total volume of the suspension culture133.35 mL135.45 mL  
+Volume of sample taken from the cell count 550 uL 550 uL  
+Timestamp of the cell count10:0010:00  
+Results  
+  
+  
+Cell count viable (cells / mL)= 3.63 x 10^63.42 x 10^6  
+% viability99.8%99.9%  
+Total cell count in the suspension culture 484 million463 million  
+  3. A second cell count was performed at 14:00pm:
+  4. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1258812589  
+Performed byZMZM  
+Total volume of the suspension culture132.8 mL134.9 mL  
+Volume of sample taken from the cell count 550 uL 550 uL  
+Timestamp of the cell count14:0014:00  
+Results  
+  
+  
+Cell count viable (cells / mL)= 3.12 x 10^63.09 x 10^6  
+% viability99.8%99.9%  
+Total cell count in the suspension culture 414 million417 million  
+  5. It was noted that there was a delay with the Vicell (requiring reagent pack change and restart) which meant samples were sitting for ~1 hour which may have decreased cell count. Therefore an average of the measurements taken in the morning and afternoon was used:
+  6. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1258812589  
+Performed byZMZM  
+Total volume of the suspension culture132.25 mL134.35 mL  
+Volume of sample taken from the cell count 550 uL 550 uL  
+Timestamp of the cell count14:0014:00  
+Results  
+  
+  
+Cell count viable (cells / mL)= 3.38 x 10^63.26 x 10^6  
+% viability99.8%99.9%  
+Total cell count in the suspension culture 447 million437 million  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+  
+
+## Flask 12589 - Harvested
+
+  1. The remaining cells in flask 12589 were harvested for 2nd product experiments 
+
+## Flask 12588 - Passaged to 12650
+
+  1. 600mL of 50/50 hycell/rpmi media was aliquoted from 12801
+  2. 0.600mL of IGF and 0.120 mL of EGF were added to the 600mL of media
+  3. Media including growth factors was warmed in a bath from 15:40 to 16:09 at 37 degrees Celcius
+  4. Contents of flask 12588 was aliquoted into 3 50mL falcon tubes (~44 mL into each tube)
+  5. Falcon tubes were centrifuged at 500g for 5 minutes
+  6. Supernatant was removed from each falcon tube
+  7. Media was removed from bath and 30mL aliquoted into each falcon tube
+  8. The pellets in each falcon tube were resuspended
+  9. The remaining growth media and suspension cells were transferred to a E2000 flask
+  10. E2000 flask was placed into shaker incubator 15:40 (37 C, 5% CO2, 110 rpm)  
+
+
+
+
+## Summary/ Results
+
+447 million cells were expanded from 1 x E500 flask into 1 x E2000 flask
+
+  
+
+Seed flask 12650 details:
+
+  * Seeding density: 0.745 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  600 mL
+  * Flask size: E2000  (flat bottom / baffled)
+  * Refer to summary table above
+
+  
+  
+
+

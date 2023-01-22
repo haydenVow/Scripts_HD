@@ -1,0 +1,117 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Culture IDs:
+
+Harvested plates  
+Seeded plates  
+  
+12153  
+  
+12389  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12072  
+  
+Growth Mediam12221  
+  
+  
+  
+
+
+
+
+### Process:
+
+  
+
+1\. Fillled three 96 well plates with 300uL of dPBS and 200uL of tryple as per
+the plate guide above. Filled another separate plate with growth media
+(DMEM/F12+ 20% FBS + 1xP/S), 200uL per well.  
+
+2\. Generated a multiwell open protocol using the 'Dynamo' script using the 1
+well passaging protocol attached and the pick lists generated on the 6/5/22
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241
+
+3\. Set up the opentron deck as per the layout at the top of the page using
+cultures 12153 and ran the generated multiwell protocol (see attached).
+
+6\. Allowed the protocol to run to completion.
+
+7\. Transferred the new culture to incubate at 30 degrees, 5% CO2 incubator
+#140.
+
+  
+
+
+
+
+Observations/Summary:
+
+Some things did not go well during the passage:
+
+\- The opentron would pick up some tips but not others hence, some wells were
+not passaged or were left dry
+
+\- The opentron did not dispense cells into every well it was meant to
+
+So, after running the protocol, I looked at the wells on the destination plate
+under the microscope and passaged (on 1 June) those that hadn't been passaged
+manually. I used 200uL of dPBS to was the wells, 50uL of tryple and then
+transferred 20uL of the tryplised cells into the respective well (containing
+growth media) on the destination plate. This included:
+
+\- Well G6 on the origin plate was passaged into well H4 on the destination
+plate
+
+\- Well C7 into well C5 on the destination plate
+
+\- Well D7 into well D5 on the destination plate
+
+\- Well C8 into well G5 on the destination plate
+
+\- Well F6 into well H5 on the destination plate
+
+
+
+
+SOPs used:
+
+### https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+
+
+
+Relevant attachments  
+
+See the resources file attached for tracking details of each clone from the
+origin plates to the locations on plate 12153
+
+Summary of the passage can also be found in this document:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1517361241
+
+

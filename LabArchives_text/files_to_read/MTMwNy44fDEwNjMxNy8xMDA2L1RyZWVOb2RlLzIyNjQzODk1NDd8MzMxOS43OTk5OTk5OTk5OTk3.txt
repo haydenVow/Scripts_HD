@@ -1,0 +1,122 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 105
+
+Total p38i required: 52.5
+
+Total bFGF required:
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+T1756726-DOLLY12_15D11-Sheep P7-1of5  
+6727-DOLLY12_15D11-Sheep P7-2of5  
+6728-DOLLY12_15D11-Sheep P7-3of5  
+6729-DOLLY12_15D11-Sheep P7-4of5  
+6730-DOLLY12_15D11-Sheep P7-5of5  
+E2506734-DOLLY12_15D11-Sheep P7-1of1  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   105mL  mL of  growth Media into   1x120mL    container(s).
+Placed container in fridge 105 on the top shelf. (14/may)
+
+Removed container from fridge and added 52.5uL of p38i to the container,
+Placed in water bath   09:30
+
+2\. Removed   50 % of supernatant from vessels (15mL from T175s), (30mL from
+E250)
+
+Waited for microcarriers to settle to the base of the flask over 2-3 minutes
+before carefully aspirating and discarding 50% of supernatant.
+
+3\. Replaced with  15mL(T175), 30mL (E250) of  growth   media.
+
+4\. Returned vessels to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator 68 for E flask (shaking), Incubator 67 for t flasks 
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#  ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  % media changed on vessel(s)
+
+  1. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media unknown weekend aliquot  
+ 105  
+  
+ P38i (20mM stock) 4863  
+52.5  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

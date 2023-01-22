@@ -1,0 +1,77 @@
+
+
+
+
+
+Process:
+
+The following steps were performed using a multichannel pipette by aspirating
+reagents from 1 plate and adding the next reagent. Then repeating this for the
+other 2 plates before moving to the next step.  
+
+  1. Aspirate PBS from wells. Incubate with 50 uL/well of DAPI (1:1000 in PBS). 13:58 - 14:06 
+  2. Aspirate DAPI from wells. Incubate with 150uL/well of PBS. 14:09 - 14:18
+  3. Aspirate PBS. Add fresh PBS (200uL/well). ~14:22
+  4. DAPI staining was confirmed on the Axio microscope.
+  5. Plates were imaged on the main lab Zaber with the following settings:
+    1. DAPI: illuminator lamp intensity 35, exposure 15, histogram: 0-90 
+    2. AF488: illuminator lamp intensity 37, exposure 400, histogram: 40-170
+    3. 5x magnification
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS  
+m2193  
+  
+DAPI  
+m4826  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Stained 3x 96 wp with DAPI manually. Imaged them on the Zaber (5x, DAPI,
+AF488).
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

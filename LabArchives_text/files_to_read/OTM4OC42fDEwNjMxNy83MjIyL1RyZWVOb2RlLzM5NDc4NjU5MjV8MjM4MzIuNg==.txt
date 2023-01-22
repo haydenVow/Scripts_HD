@@ -1,0 +1,12 @@
+Process
+  
+  
+  1. Made up 7 mL x 1:20 solution of 1 mg/mL Hoechst in MilliQ and 20 mL x 1 drop/mL Sytox green in dPBS
+  2. Prepared deck of OT2 as specified in protocol
+  3. Ran "staining protocol #1"
+    * Stopped protocol halfway because it was not correct - it was moving 200 uL of cell suspension into output plates rather than 100 uL and was not mixing cell suspension upon aspiration. Checked wells and not many cells had been transferred and the stain was too dilute to work properly so plate 1 & 2 from DSD had to be discarded without analysis.
+  4. Manually stained and serially diluted plates 3 & 4
+  5. Imaged on AF488 and DAPI 
+    * Zaber images were inconsistent between microscopes so re-imaged all plates on same zaber (main lab zaber)
+
+

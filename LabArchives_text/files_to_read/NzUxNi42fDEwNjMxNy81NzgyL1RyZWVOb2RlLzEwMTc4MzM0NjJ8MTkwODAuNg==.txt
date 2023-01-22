@@ -1,0 +1,141 @@
+
+
+## Performed by: Addy  
+
+
+
+
+## Start Electrical Stimulation
+
+###  
+
+### Gelatin = Blue and Orange plate (Laminin is Yellow and Green)
+
+###  
+
+### 1\. For instructions on how to use the StimJim for electrical stimulation
+of cells, see the StimJim Notion Page.
+
+###  
+
+### 2\. Connecting the Wiring
+
+The test hook can be opened by squeezing the spring loaded test hook handle.
+Connect the correct test hook to its corresponding electrode pin.  
+  
+The channels are colour coded. Connect the two wires for each colour to its
+corresponding column. By convention, we connect the black hook to the left pin
+and the red hook to the right pin. This is to maintain experiment consistency.
+It is best not to touch the metal electrode pins while doing this since they
+are delicate. It is recommended to hold the plastic culture dish lid for
+stability. The wiring should be connected as per the images below:
+
+  
+
+
+
+### 3\. Perform a Test Run
+
+For detailed instructions on how to do this, refer to the StimJim Notion Page.  
+  
+This is to check and record the voltages the cells are actually seeing, using
+feedback function within the StimJim.  
+The test run is set for a finite amount of time. Anywhere between 10 and 100
+seconds is recommended.
+
+  1. Ran the stimulation pulse   13:15   
+Stimulated with parameters:  
+  
+S0,0,0,500000,10000000; 4500,2000,6000; -4500,-2000,6000  
+  
+(29/11) Changed the frequency from 2 to 20 Hz  
+S0,0,0,50000,10000000; 4500,2000,6000; -4500,-2000,6000  
+  
+(3/12) Changed the frequency from 20 to 50 Hz  
+S0,0,0,20000,10000000; 4500,2000,6000; -4500,-2000,6000  
+  
+Paste the above sequence into the Serial Monitor.
+
+  2. Paste the response from the StimJim in the Serial Monitor below. It should begin with 'Parameters for PulseTrain[0]'  
+  
+  
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+period: 20000 usec (0.020 sec, 50.000 Hz)  
+  duration:  10000000 usec (10.000 sec)  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     4500mV     2000mV  
+    1     6000 usec    -4500mV    -2000mV  
+\----------------------------------  
+  
+  
+  
+  
+  
+
+  3. Executed with command T0. Paste the response displayed on the Serial Monitor below. It should begin with 'Started T train with parameters of PulseTrain 0'.  
+  
+  
+Started T train with parameters of PulseTrain 0  
+Train complete. Delivered 500 pulses.  
+Current/Voltage by stage:  
+           Ch0                Ch1    
+Stage 0  4559mV,            2057mV,  
+Stage 1 -4549mV,           -2056mV,  
+  
+  
+  
+  
+  
+
+### 4\. Begin Continuous Stimulation
+
+For detailed instructions on how to do this, refer to the StimJim Notion Page.
+
+  1. Ran the stimulation continuously    13:20    
+Altered the code to eliminate duration limit (so no feedback) and ran the
+above stimulation parameters continuously. Executed with command T0.  
+Once more, paste the complete response displayed on the Serial Monitor (as
+recorded in the Test Run) below:  
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+  period:    20000 usec (0.020 sec, 50.000 Hz)  
+  duration:  10000000 usec (10.000 sec)  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     4500mV     2000mV  
+    1     6000 usec    -4500mV    -2000mV  
+\----------------------------------  
+  
+  
+  
+Started T train with parameters of PulseTrain 0  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. All vessels.
+
+Electrical stimulation restarted on both plates with a new frequency of 50 Hz
+
+
+
+
+Relevant Images/Figures (if applicable): refer to mia  
+
+  
+
+

@@ -1,0 +1,58 @@
+
+
+## Completed by: Bec Screnci
+
+
+
+
+The Single cell cloning pipeline at Vow has progressively been optimised for
+generating MuSC (muscle stem cell) clonal cell lines.
+
+In Q3 of 2021, Vow is focusing on developing fibroblasts to be grown up for
+product V1. Therefore, generating high performance fibroblast clonal cell
+lines is critical for achieving this to ensure repeatability in production
+batches, and to select for cells that surpass the hayflick limit
+substantially.
+
+
+
+
+Therefore, the Single cell cloning pipeline must be adapted to support
+proliferation and survival of primary fibroblast cells. In this experiment, we
+attempt to determine whether adding 50% conditioned media (supernatant from a
+flask containing proliferating cells, suspected to contain helpful growth
+factors that will encourage single cells to proliferate after FACS). We also
+attempt to determine whether cells can avoid Hoechst staining when FACS
+sorting and whether this facilitates cell survival.
+
+  
+
+This experiment also will provide valuable data on cell confluence between
+days 7-10 in 384-well plate, which will provide an indication of when the more
+effective time to detach cells would be. This is an important metric, as
+fibroblast cells need to be grown at a high confluence, whereas MuSCs when
+grown at high confluence differentiate and fuse into myotubes, losing their
+stem-like-state. We do not yet have valuable data on confluence after FACS
+sorting of fibroblasts that give us an indication of when the right time to
+pick forward colonies would be.
+
+
+
+
+We will achieve these aims by setting up 3 plates with conditioned media
+(supplemented with additional FGF), and 3 plates with fresh media only.
+
+Hoechst stained cells will be sorted into half of each plate.
+
+Non-Hoechst stained cells will be sorted into the remaining half of each
+plate.
+
+Plates will be monitored and scanned on the Zaber automated microscope imaging
+station at days 1, 2, 3, 7 and 10 post-seeding.
+
+  
+
+Any successful colonies (those that continue to proliferate and generate
+confluent wells) well be expanded up to MCB_2.
+
+

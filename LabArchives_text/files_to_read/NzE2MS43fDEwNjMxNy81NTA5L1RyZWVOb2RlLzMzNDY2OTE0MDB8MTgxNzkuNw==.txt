@@ -1,0 +1,200 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+Culture IDs
+
+Vessel type(s)Vessel IDSeeded flask(s) ID  
+Seeded flask type(s)  
+  
+  
+9104-F_CHOMP09-Crocodile P10-1of4  
+9105-F_CHOMP09-Crocodile P10-2of4  
+9106-F_CHOMP09-Crocodile P10-3of4  
+9107-F_CHOMP09-Crocodile P10-4of4  
+9252-F_CHOMP09-Crocodile P11-1of1  
+  
+  
+T75  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleMix 7547  
+  
+dPBS (for washing & neutralising)Mix 7586  
+  
+Growth MediumMix 8154  
+  
+IGF-1  
+  
+FGF-B  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   13   mL
+  2.  dPBS (for washing & neutralising):    27   mL 
+  3. Growth media (for pellet resuspension):   4  mL 
+  4. Growth media (for seeding):   11   mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+11:41  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+3\. Removed vessel(s) from the incubator  
+
+4\. Washed the vessel(s) with dPBS (warmed).
+
+5\. Added    1,20.5 & 0.2  mL tryple/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    11:55 - 12:06   
+
+6\. Neutralised with    2, 1 & 0.5 mL    dPBS/vessel and combined cell
+suspensions into   8 x 15 mL  tubes.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    12:19 - 12:24  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    0.2  mL    growth    medium
+
+11\. Aliquoted    10 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+Plate  
+Condition  
+Count Volume cell suspension for seeding (uL)  
+Vessel type being seeded  
+  
+Cell density (cells/cm2)  
+  
+  
+8792  
+Condition 1 10 uM P53i, 300 mj/cm2 UV  
+  
+  
+T75  
+492,000 cells in T75 = 6560  
+  
+8793  
+Condition 2 10 uM P53i, 150 mj/cm2 UV  
+  
+  
+  
+8794  
+Condition 3 30 uM P53i, 300 mj/cm2 UV  
+  
+  
+  
+8795  
+Condition 4 30 uM P53i, 150 mj/cm2 UV  
+  
+  
+  
+8796  
+Control 1 0 uM P53i, 300 mj/cm2 UV  
+  
+  
+  
+8797  
+Control 2 0 uM P53i, 150 mj/cm2 UV  
+  
+  
+  
+8798  
+Control 3 30 uM P53i, 0 mj/cm2 UV  
+  
+  
+  
+8799  
+Control 4 0 uM P53i, 0 mj/cm2 UV, + heat (12.5 min)  
+  
+  
+N/A - not being seeded  
+  
+8800  
+Control 5 0 uM P53i, 0 mj/cm2 UV  
+  
+  
+  
+  
+
+
+
+
+12\. Transferred   200   µL of cell suspensions (from C1-C4 & CTRL2-CTRL3) to
+the pre-warmed  11  mL Growth medium.
+
+13\. Transferred cell suspension into the  1 x T75   vessel
+
+14\. Transferred vessel(s) to incubate at:   13:12  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)  
+  
+Incubator (#68), Lab [main, library, production]
+
+
+
+
+Observations/Summary:
+
+All cells passaged and counted in their separate conditions. Conditions 1-4
+and controls 1 & 2 combined after cell count into 1 x T75 for expansion.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

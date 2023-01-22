@@ -1,0 +1,23 @@
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 6 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 9,440,000
+    * 50/50 RPMI/HyCell (3mg/mL yeast): 10,200,000
+    * 75/25 RPMI/HyCell (3mg/mL yeast): 26,440,000
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Reduced cultures to 1M cells (50K cells per mL)
+  6. Topped media back up to ~20 mL per flask with fresh, warmed media + growth factors
+    1. Freestyle: 22.2 ML
+    2. 50/50: 22.1 ML 
+    3. 75/25:L 20.8 mL
+  7. Returned flasks to incubator
+
+

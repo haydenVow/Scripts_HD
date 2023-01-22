@@ -1,0 +1,213 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Brief background
+
+
+To reach the scale of cultured meat production required to feed billions of
+people, we will require a cell expansion strategy that can take smaller, fast
+growing cell population and expand them it to larger and larger vessels. Doing
+this should help us reach our goal of generating enough biomass to support
+product development, ultimately providing delicious food to billions.
+
+Our current gold standard method used in production for scaling up of adherent
+cultures relies on planar culture expansion techniques. Cells are expanded
+from cryovials (at 1x105K cells/vial) using planar, multi layer cell factories
+to generate total cell numbers around 4.0x108 cells over ~8 doublings over two
+weeks (see production tracker here, batches 001-008). Scaling of the current
+adherent process is heavily dependent on factors including incubator space,
+high media requirements and manual handling of cultures.
+
+Moving to suspension cultures practices can alleviate some of the challenges
+associated with scaling planar culture. the higher surface area to volume
+ratios supported by microcarriers allow for more efficient cell growth per
+unit volume of media. However, suspension culture scale up is heavily
+dependent on having a fast growing muscle stem cell line that is capable of
+proliferating on the microcarrier in a suspension environment. This cell line
+must also be able to maintain its proliferative capacity after detachment and
+sub passaging protocols that facilitating culture expansion in suspension.
+Previously we attempted to isolate and expand a fast growing clonal muscle
+muscle stem cell line from sheep, DOLLY12_11E7. We were then able to expand
+this cell line using both, planar and microcarrier culture, into our first
+working cell banks derived from a single cell here .
+
+In this experiment we aimed to expand cells from both planar derived and
+microcarrier derived working cell banks. Our aims were to continue expansion
+in suspension until cell populations had reached a total of 10 population
+doublings.
+
+
+Data analysis
+
+
+Raw data in GSheet
+
+https://docs.google.com/spreadsheets/d/1oLMCdTAloOLIW66vX4Ad71BNfpp4Et75qvwBegww6AU/edit?usp=sharing
+
+
+Key results
+
+
+Vials of clonal WCB2 cells were thawed into planar culture and, at the first
+passage, seeded into microcarrier culture. The microcarrier culture was
+serially passaged in an attempt to increase the total cell number (Figure
+1(a)). However, due to poor harvest efficiencies of approximately 50%, the
+cell counts exhibited a "sawtooth" trend and did not increase appreciably
+after the first microcarrier passage (Figure 1(a)). It was still possible to
+calculate the number of doublings between each passage, and over the course of
+the experiment these totaled approximately 5, which is half of the 10
+doublings that was aimed for. It appears that the cells from the microcarrier
+adapted WCB2 vials, despite growing more slowly after thaw, maintained a
+higher growth rate after passaging into microcarrier culture (Figure 1(a)).
+Cell recovery following harvest was also improved towards the end of the
+experiment using a custom designed filter dubbed the 'Taipan' filter by day 20
+(figure 2). The differentiation and fusion capacity of DOLLY12_11E7 WCB_2
+vials was also inconclusive due to low confluence observed at all timepoints
+during a 14 day differentiation assay conducted on the cells post thaw.
+
+  
+
+Figure 1: Time series of total cell counts (a) and doublings (b) over the
+course of the experiment.  
+
+
+
+Figure 2: Harvest of DOLLY12_11E7 cells using different cell recovery
+strategies. Cells from one flask were collected using a sedimentation and
+supernatant aspiration collection method (no Taipan filter). Cells from
+another flask were collected collecting supernatant through a custom filter
+(Taipan filter) while culture was being mixed manually.
+
+
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+Discussion
+
+
+Throughout the experiment we identified two limiting factors that will impede
+Vows ability to grow cells at scale in suspension culture.
+
+The first problem centres around a suboptimal harvesting strategy that sees
+under 50% cell recovery from our microcarrier cultures. During expansion of
+DOLL12_11E7 we consistently obtained cell counts that were significantly lower
+than total cell population estimated in cultures prior to harvesting (figure
+1). Hoechst 33342 staining of harvested cultures revealed instances were
+microcarriers still contained intact cells that were either still adhere to
+the carrier surface, or loosly attached. This result suggested that i) our
+detachment protocols need optimization to ensure 100% cell detachment and ii)
+free floating, detached cells may be getting trapped between microcarriers
+during the sedimentation step prior to supernatant collection.
+
+The second problem to address centres on the slow doubling rates witnessed in
+microcarrier suspension during cell expansion. Over the course of 30 days in
+culture, DOLLY12_11E7 cells were only able to obtain 5 doublings in total.
+This is a 3.4 fold decrease in doubling rate compared to heterogeneous DOLLY12
+cell grown in planar culture for production currently (see production tracker,
+batches 007 and 008) and a 5.28 fold decrease in doubling rate when compared
+with the average doubling rate seen in the DOLLY12_11E7 cells at their time of
+banking to MCB_2. The decreased doubling rate may stem from ongong adaptation
+of the clonal line to suspension culture. However, it may also be likely that
+the clonal cell line has not been immortalized though the single cell cloning
+pipeline. The DOLLY12-11E7 line maybe approaching replicative senescence,
+having endured a collective 23 passages since biopsy isolation, 9 prior to
+single cell sorting and 14 after. We will have to validate whether
+DOLLY12_11E7 cells are approaching senescence, possibly by thawing a vial in
+planar culture and expanding it to passage 23 while monitoring cell
+morphology.
+
+To address the issue of poor cell recovery we decided to construct a
+filtration that could be inserted into the shaker flasks to separate
+supernatant from microcarriers. We hypothesized that such a device would
+increase cell recovery in two ways. First, allowing mixing during aspiration
+would prevent detached cells from binding to positively charged microcarriers
+via electrostatic interaction. Secondly, mixing during aspiration would
+prevent free floating cells from becoming trapped between microcarriers,
+making more cells accessible during aspiration. A filtration device was
+constructed by cutting a ~1x1cm square hole in the side of some silicone
+tubing and covering it with a metal mesh containing pores approximately 70um
+in diameter. The mesh was secured to the tubing using zip ties and the tubing
+was sealed on one side using some connective lures. An open lure component was
+added to the other side of the tubing that would allow docking of a syringe
+tube. The device was nicknamed the 'Taipan' (because it looked like a snake)
+and was autoclaved at 121 degrees for 20 minutes prior to use.
+
+We were able to use the the Taipan filter twice during this experiment in E
+flask cultures. During its first use in collecting harvested cells from an
+E500 shake flask we observed ~100% cell recovery when compared to our E250
+control that had undergone the usual sedimentation and collection protocol
+(figure 2). The filter was then used to harvest a separate E500 flask four
+days later. However, cell number per carrier prior to harvest of this culture
+was low (~1-4 cells per carrier) despite 4 days of proliferation. Hoechst
+33342 staining of harvested microcarriers did show 100% detachment and cell
+recovery, with no cells left on microcarriers or in the surrounding dPBS
+supernatant (see data here).
+
+A differentiation assay was also performed using cells thawed from our
+microcarrier derived WCB_2 and planar derived WCB_2 banks. No MyoG+ or MF20+
+stains were present on any of the immunostained cells that had been 4% PFA
+fixed after 8, 12 and 14 days of differentiation regardless of differentiation
+media (see reference images in the linked lab book entry). DAPI staining of
+cells showed that confluence in each well was low (~30-40%), with large gaps
+seen between clusters of nuclei in the well base. It is unclear if the cell
+confluence diminished after the switch to differentiation media, or whether
+cells became dislodged during manual handling during differentiation feeds or
+immunostaining. If the former then this may explain why the DOLLY12_11E7 cells
+were unable differentiate or fuse given their low confluence.
+
+  
+
+
+Limitations
+
+
+Differentiation and fusion assessments of DOLLY12_11E7 WCB_2 vials were
+inconclusive due to low confluence observed at all time points.
+
+
+Conclusion
+
+
+The DOLLY12_11E7 line was found to only support 5 doublings over 30 days, a
+3.4 fold decrease in doubling rate compared to heterogenous DOLLY12 cells
+grown in planar culture currently for production.  
+We were unable to confirm whether the myogenic capacity of DOLLY12_11E7 cells
+thawed from WCB_2 banks had been retained.
+
+
+Future Direction(s)
+
+
+  * Validating cell longevity in our DOLLY12_WCB_2 vials will be important before using them for further bioprocessing scaleup. Tracking doubling rates of DOLLY12_11E7 WCB vials in planar culture up to and past P14 may reveal whether the proliferative capacity of the clone is declining independant of suspension culture stresses. 
+  * Retesting myogenic capacity of clones from our DOLLY12_11E7 WCB_2 bank will be required before these cells are used in further studies. 
+  * Further optimization of our Taipan filter is required to ensure it can be used under proper aseptic technique.
+
+
+References

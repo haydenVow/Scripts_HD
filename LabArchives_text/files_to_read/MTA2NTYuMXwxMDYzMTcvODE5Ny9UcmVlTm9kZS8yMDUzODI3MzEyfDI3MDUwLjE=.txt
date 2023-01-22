@@ -1,0 +1,126 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+90:10 RPMI:CHO HD + NuvonisM12696  
+
+
+  
+  
+Flask typeHarvested flask ID  
+Seeded flask ID  
+ConditionLocation  
+E-12512284 (From 50:50)  
+12353  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 52 (Main Lab)  
+  
+  
+12285 (From 50:50)  
+12354  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12289 (From 75:25)  
+12360  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12286 (From 50:50)  
+12366  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12287 (From 50:50)  
+12367  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12288 (From 75:25)  
+12368  
+90:10 RPMI:CHO HD + Nuvonis  
+
+
+  
+  
+  
+
+  1. Took 2 x 560 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+Average vicell total cell count  
+122847,000,000  
+7,230,000  
+  
+122847,460,000  
+  
+12285  
+4,380,000  
+4,000,000  
+  
+122853,620,000  
+  
+122867,120,000  
+7,100,000  
+  
+12286  
+7,080,000  
+  
+122873,380,000  
+3,350,000  
+  
+122873,320,000  
+  
+12288  
+2,300,000  
+2,370,000  
+  
+122882,440,000  
+  
+122893,000,000  
+2,590,000  
+  
+122892,180,000  
+  
+  
+  
+
+  3. Aliquotted;  
+(1) 40mL 50:50 RPMI:CHO Part A + Nuvonis, and added 40uL of IGF and 8uL of
+EGF.  
+(2) 80mL 90:10 RPMI:CHO Part A + Nuvonis, and added 80uL of IGF and 16uL of
+EGF.
+
+  4. Aliquoted the following mL of cell suspension into 6 x 15 mL tubes:  
+  
+Flask IDVolume of cell suspension used to re-seed flask @ 100k cells/mL having
+a total of 2M cells/ flask (mL)  
+  
+12284  
+5.533  
+  
+12285  
+10.000  
+  
+12286  
+5.634  
+  
+12287  
+11.940  
+  
+12288  
+16.878  
+  
+12289  
+15.444  
+  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. After centrifugation, aspirated the supernatant and resuspended cell pellet in 20 mL of respective medium. 
+  7. Re-seeded E-125 with a total of 2M cells per flask.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

@@ -1,0 +1,228 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+Growth Media:
+
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ] DMEM/F12 + 1X P/S
+  * [X] E8
+  * [X] E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids
+  * [X] E810C
+
+
+
+
+Culture IDs to feed
+
+Vessel ID  
+Media Type  
+Vessel Type  
+Seeded Flasks ID(s)  
+Seeded Flask Type  
+  
+6838-F_DOLLY12-Sheep P11-1of1  
+Serum-containing media  
+T75  
+6879-F_DOLLY12-Sheep P12-1of1  
+T75  
+  
+  
+6776-DOLLY12-Sheep P10-1of1  
+DMEM/F12 + 1X P/S  
+T75  
+Same flask- Not passaged due to low cell numbers.  
+Not passaged due to low cell numbers  
+  
+6839-F_DOLLY12-Sheep P11-1of1  
+E8  
+T75  
+6881-F_DOLLY12-Sheep P12-1of1  
+T75  
+  
+6840-F_DOLLY12-Sheep P11-1of1  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids  
+T75  
+6882-F_DOLLY12-Sheep P12-1of1  
+T75  
+  
+6841-F_DOLLY12-Sheep P11-1of1  
+E810C  
+T75  
+6883-F_DOLLY12-Sheep P12-1of1  
+T75  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    20   mL in   1x 15 mL    tube
+  2. dPBS (for neutralising)    40   mL in    1x 50 mL   pot
+  3. Growth media (for pellet resuspension):    2   mL in    5x 15 mL   tubes for each condition
+  4. Growth media (for seeding):    12   mL in    5x 15 mL   tubes 
+  5. Times that all aliquots were placed in the water bath to warm before use  16:07
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    5   mL tryple to each vessel/well and incubated at 37˚C for    16
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was  16:24  \-  16:40   
+
+4\. Neutralised with    5 mL   dPBS (warmed) and combined cell suspension into
+a    5x 15 mL   tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  16:47  -  16:52   
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      2  mL    respective growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was
+
+  1. Total cell number (serum control) was:    2,460,000   
+
+  2.  Total cell number (E8) was:    120,000      
+
+  3.  Total cell number (E8 10C) was:   296,000     
+
+  4.  Total cell number (E8 + goodies) was:   264,000     
+
+
+
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was:
+
+  1. Serum control was:    0.42 mL    
+
+  2. E8 was:    2 mL      
+
+  3. E8 10C was:    2 mL     
+
+  4. E8 + goodies was:   2 mL      
+
+12\. Transfer   required amount of cell suspension to the pre-warmed   12 mL
+Growth Media.
+
+13\. Transfer cell suspension into (non-gelatin coated)     5x T75    flasks.
+
+14\. Transfer flask/plate(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleM5076  
+  
+dPBS (for washing & neutralising)A5069  
+  
+Growth Media with serum  
+M5036  
+  
+E8  
+M5030  
+  
+E8 10C  
+Link to lab book https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTY5Mi42MDAwMDAwMDAwMDAxfDEwNjMxNy8xMzAyL1RyZWVOb2RlLzM3OTAzMzk4MzN8NDI5Ni41OTk5OTk5OTk5OTk=  
+E8 + "goodies"  
+M5031  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Did not passage DMEM/F12 condition due to very low confluence
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recDee99k2VQvxTlG/images (E8),
+Wednesday May 26
+
+https://mia-capture.vow.tools/#/session/reci10xg6iW7l5fGZ/images (E8 +
+goodies), Wednesday May 26
+
+https://mia-capture.vow.tools/#/session/recZ34dS768zDPcQt/images (serum
+control), Wednesday May 26
+
+https://mia-capture.vow.tools/#/session/recYVTlbrC4HPCnsp/images (E8 10C),
+Wednesday May 26
+
+https://mia-capture.vow.tools/#/session/rec5OcInhTk9jWqu8/images (DMEM/F12),
+Wednesday May 26
+
+  
+
+

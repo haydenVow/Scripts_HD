@@ -1,0 +1,141 @@
+Aim
+
+
+To determine whether cell death observed in myogenic differentiation in Q3 and
+prior is a result of pipetting, temperature of the media, drying out of cells
+and/or their interaction.
+
+
+Hypothesis
+
+
+Assessing the effect of each individual condition (ie. pipetting, media
+temperature, drying out of cells) and their interaction will allow us to
+determine which factor, if any, is contributing to the observed cell death
+during Q3 and prior.
+
+
+Background:
+
+
+This experiment was designed to determine whether operator handling was a
+contributing cause to the cell loss observed during Q3 and prior. C2C12 and
+DOLLY12 WCB cells were thawed and exposed to the same growth media during
+proliferation. They were then seeded into 12 x 96 wp, 6 x 96 wp per cell line.
+For each cell line, three 96wp were changed to E6 differentiation media and
+the remaining three were changed to 2% HS differentiation media, with the
+intention of fixing these plates at three different time points. Whilst
+performing daily feeds, cells were handled in eighteen different ways. The
+handling conditions consisted of a combination of one of two possible
+pipetting forces, one of three possible media temperatures and one of three
+possible feeding regimes. By exposing both DOLLY12 WCB and C2C12 cells to
+these different handling conditions and their interactions we aimed to
+determine which handling condition, if any, was the root cause of the cell
+loss observed during Q3 and prior. We used C2C12 cells as a control to further
+validate our results as being a more robust cell line, if a particular
+condition affected these cells, it would likely affect any other primary cell
+line.
+
+
+Summary of events:
+
+
+  1. Thaw C2C12 and DOLLY12 WCB cells and seed into 6 x T175 
+  2. Seed C2C12 and DOLLY12 WCB cells into 6 x 96 wp each
+  3. 50% feed 6 x 96 wp C2C12 plates and 6 x 96 wp DOLLY12 WCB plates
+  4. D0D For each cell line fix 1 x 96 wp 
+  5. D0D For each cell line change 2 x 96 wp to E6 differentiation media and 2 x 96 wp to 2% HS
+  6. D1D 100% feed
+  7. D2D 100% feed
+  8. D3D 100% feed
+  9. D4D For each cell line fix 1 x 96 wp 2% HS and 1 x 96 wp E6 differentiation media
+  10. D4D For each cell line 100% feed 1 x 96 wp 2% HS and 1 x 96 wp E6 differentiation media
+  11. D5D 100% feed
+  12. D6D 100% feed
+  13. D7D Fix remaning 4 plates
+
+
+Key results and findings:
+
+
+See Results and Data Analysis section.
+
+
+Discussion and limitations:
+
+
+Cell loss was observed in numerous occasions during Q3 and prior, hindering
+the progress of the Science team in studying different ways to develop and
+culture mature muscle. DOLLY12, as well as C2C12 cells, were used for all
+differentiation assays in Q3 and prior. In this experiment we aimed to
+determine whether different handling conditions had an effect on cell survival
+to understand whether operator technique may have contributed to the witnessed
+cell loss. For this reason, a controlled differentiation assay was composed
+for DOLLY12 and C2C12 cells. All cells were exposed to the same growth media,
+as well as differentiation media (2%HS or E6).
+
+1 x 96 well plate containing 54 wells in E6 and 1 x 96 well plate containing
+54 wells in 2%HS were fixed for each cell line at Day 0, Day 4 and Day 7 of
+differentiation. Once the experiment was finalised, cells in the fixed plates
+were stained with DAPI and imaged on the Zaber. The data obtained after
+processing the images through a DAPI counting macro was used to calculate the
+mean and standard error of each of the handling conditions. This data was then
+input into R and used to create the graphs that can be found in the Results
+and Data Analysis section. Cells were not stained with neither MyoG nor MF20
+given the cell loss observed in DOLLY12 cells in E6.
+
+The data plotted in the graphs indicate that DOLLY12 cells experienced cell
+loss in E6 differentiation media throughout the 7 days of differentiation in
+all handling conditions. This suggests that E6 may not be the most suitable
+differentiation media for DOLLY12 cells, in accordance to what was found in
+the Assessment of different species in differentiation final report. The
+number of DOLLY12 cells in 2%HS differentiation remained mostly consistent
+amongst all handling conditions throughout the 7 day differentiation assay,
+with the exception of the 'Forceful pipetting, feed immediately' and 'Forceful
+pipetting, aspirate most of the media and feed immediately' in cold media and
+the 'Forceful pipetting, aspirate most of the media and feed immediately' in
+warm media.
+
+C2C12 cells also experienced a reduction in cell numbers in the different
+handling conditions between day 0 and day 4 in 2%HS differentiation media and
+to a lesser extent in E6 differentiation media. This could be a result of the
+over-confluence of C2C12 cells leading to cell detachment in the form of blobs
+or aggregates. The cell numbers at day 0 of differentiation in the 'Gentle
+pipetting, aspirate most of the media and feed immediately' condition is
+bizarre when compared to the rest of the handling conditions however,
+accurately captured in the images analysed by ImageJ macro.  
+  
+Contrarily to what was reported in the Failed attempts Report, there is no
+noticeable difference in the number of DOLLY12 cells in wells treated with RT,
+warm or cold media, suggesting that the media temperature does not have an
+effect on cell survival. There is no consistent effect of pipetting force on
+cell loss across media temperature and type of feeding ((1)aspirate all the
+media and feed immediately, (2) aspirate most of the media and (3) feed
+immediately and aspirate the media, wait 10 seconds and then feed). Similarly,
+there is no consistent effect of type of feeding on cell loss across media
+temperature and pipetting force. These results suggest that our primary cells
+are more robust than what we think and that operator handling may not have
+been the root cause of the cell loss observed during Q3 and prior.
+
+
+Future direction:
+
+
+\- Compare these results to the results obtained in the Failed attempts Report
+to understand why we may have obtained differing results
+
+\- Our primary cells are more robust than we think and, even if consistent
+techniques and protocols should be followed when handling our cells (ie. time
+used to warm up our media, avoiding fast and harsh pipetting etc.), obvious
+cell loss will not be observed in our plates if, for some reason, we do not
+handle our cells with care during a particular feed (however, this should NOT
+be common practice)
+
+\- Avoid using DOLLY12 cells in E6 differentiation media
+
+\- Optimise differentiation media by planning DSD experiments including new
+factors
+
+  
+
+

@@ -1,0 +1,162 @@
+
+
+## Completed by: Katie
+
+
+
+
+Excluding calcium and magnesium from suspension culture media may be
+beneficial for facilitating adaptation of cells to suspension.
+
+Historically at Vow, we have exclusively used DMEM or a 1:1 mixture of DMEM
+and F12 cell culture medias as our basal medias. We supplement these basal
+medias with FBS and antibiotics, and we have successfully used this media to
+support growth of primary muscle stem cells, fibroblasts, and endothelial
+cells. The literature supports the use of DMEM/F12 as the first basal media to
+trial when working with a new type of adherent cells. This media contains a
+higher concentration of calcium and magnesium, which assist with cell
+adherence. However, when attempting to identify a basal media to support
+culture of suspension-adapted cells, RPMI is the standard basal media that is
+recommended to start trials with. RPMI contains much less calcium and
+magnesium than DMEM/F12 and is similar to other basal medias such as EMEM and
+MEM which we are attempting to get in house [1]. We have ordered MEM and EMEM
+media, but are still waiting on their arrival to Vow HQ. RPMI has already
+arrived, and we have also ordered DMEM/F12 without calcium and magnesium
+added. We will trial adapting cells to suspension using basal medias
+containing reduced calcium and magnesium (DMEM/F12 without ca2+ and mg2+ as
+well as RPMI), in hopes that this will support adaptation of our primary cells
+to suspension culture.
+
+Inclusion of trace elements may support adaptation of cells to suspension.
+
+Trace elements are often supplemented in serum-free media to replace those
+normally found in serum. To achieve adaptation of cells to suspension, we
+suspect we will need to reduce our serum concentration. In the long term, we
+certainly hope to eliminate serum from our cell culture given the ethical and
+cost implications. As such, the idea suspension media will also be serum-free.
+Trace elements are often supplemented in serum free media to replace those
+normally found in serum. Accordingly, we will include knock-out serum
+replacement and/or 1:100 trace elements B and trace elements C into our
+trialed suspension medias. The formulations for these compounds are all
+chemically defined and their formulations are available online; KSR includes
+fewer trace elements and more ingredients found in serum such as albumin.
+Trace elements include elements like copper, zinc, selenium, and tricarboxylic
+acid intermediates which are needed in minute amounts for proper cell growth.
+A range of each can be found in the "B" and "C" trace element mixes. These
+micronutrients are essential for many biological processes, e.g. enzyme
+functionality maintenance [2].
+
+Considerations of osmolarity in development of suspension media
+
+DMEM is already a fairly high density media, with almost twice the
+concentration of amino acids and four times the amount of vitamins as EMEM as
+well as ferric nitrate, sodium pyruvate, and some supplementary amino acids
+[1].
+
+Careful optimisation of amino acids and vitamins to support growth of cells at
+high densities in suspension culture will be necessary in the long run. In the
+short term, we are trialing a variety of high density medias which are
+specifically designed and available commercially for suspension culture (See
+EPIC 22586, Suspension adaptation attempt #7 HyClone/commercial Medias).
+However, in the longer term we will not be able to purchase more of these
+medias until early 2022. Thus, trialing a few "Vow" high density medias will
+be important. In addition, if we can develop a "Vow" high density media, it
+may be cheaper than a commercially designed media.
+
+When creating a high density media, optimal osmolarity should be between 260
+mOSM/kg and 320 mOSM/kg [1]. Multiple commercially available medias designed
+for high density suspension culture indicate osmolarities between 280 mOSM/kg
+and 320 mOSM/kg [3]. DMEM/F12 and other media like MEM has an osmolarity of
+290.00 -330.00 mOSM/kg [4] which mimics serum at 290 mOsm/kg [5].
+Substantially higher osmolarities can lead to problems with cell growth.
+Specifically, osmolarities over 330 were found to activate "volume-activated
+chloride channels" in HeLa cells [6].
+
+Given how close DMEM/F12 is to the osmolarity of serum, addition of multiple
+additional additives may be pushing our osmolarity too high. KSR has a range
+of osmolarities, but can be as high as 470 mOSM/kg [7], which supplemented at
+10-20% in DMEM/F12 could increase osmolarity into harmful levels. In addition,
+for suspension adaptation we are frequently adding in additional supplemented
+including 1:100 anti-clumping agent and 100ng/mL of various important growth
+factors. It may be worth attempting supplementation of these factors into a
+basal media with a lower osmolality in the interest of achieving a final
+suspension media below 330 mOSM/kg. RPMI has a slightly lower osmolarity than
+DMEM/F12, at 279mOsm/kg, so this could be a good option especially if our
+DMEM/F12 is on the high end of the predicted osmolarity for this media.
+
+We will trial DMEM/F12 with low calcium and magnesium compared to RPMI to
+determine whether there are any differences in osmolarity that have an impact.
+
+Incorporating additional Vitamins and Amino Acids into suspension culture
+media:  
+RPMI and D/F are both fairly complete mixtures of both vitamins and amino
+acids. However, like the trace elements, we could supplement with additional
+vitamins and amino acids. We have purchased the 100x mix of vitamins in RPMI
+and they are at an osmolarity of lower than 330mOSM/kg [8], so thus could be
+added at a 1:100 concentration without harming the osmolarity further. In
+addition, the supplies of the 50x RPMI amino acids solution [9] are on
+backorder and will not arrive at the Vow HQ until Christmas 2021, but all of
+the 20 amino acids found in that solution can be found in the 50X MEM
+essential amino acids mix [10] when combined with the 50 MEM non-essential
+amino acids mix [11]. Similar to the vitamins, we could add a 1:50 dilution of
+the amino acids without causing increases to the final osmolarity.
+
+Experimental Purpose (round 11)
+
+The purpose of this next experiment will be to trial several Vow-mixed
+suspension culture medias. By assessing how cells adapted into these various
+suspension culture behave, we will be able to determine the following:  
+  
+1) Assess the effect of moving away from calcium and magnesium (compare
+DMEM/F12 to DMEM/F12 without calcium and magnesium
+
+2) Assess the effect of moving into a media designed for suspension like RPMI,
+which has a slightly lower osmolarity.
+
+3) Assess the effect of supplementing trace elements, amino acids, and
+vitamins (in the context of each of the 3 x basal media conditions - D/F,
+RPMI, and D/F minus calcium and magnesium)
+
+In addition, a few conditions from this experiment are nearly the same as
+conditions from suspension adaptation attempt #7. We will hopefully get an
+idea around whether 10% KSR or 20% KSR appears superior for adapting cells to
+suspension. from that comparison.
+
+  
+
+Resources:
+
+  
+1\. https://www.labome.com/method/Cell-Culture-Media-A-Review.html
+
+2\. https://pubmed.ncbi.nlm.nih.gov/14237169/
+
+3\. https://resources.rndsystems.com/pdfs/datasheets/ccm023.pdf
+
+4\. https://himedialabs.com/TD/AL187A.pdf
+
+5\.
+https://emedicine.medscape.com/article/2099042-overview#:~:text=Description-,The%20serum%20or%20plasma%20osmolality%20is%20a%20measure%20of%20the,liter%20of%20solution%20defines%20osmolarity%20.
+
+6\.
+https://www.researchgate.net/post/Is_400_mOsmol_kg_too_high_for_cell_culture
+
+7\. https://www.sciencedirect.com/book/9780123859426/handbook-of-stem-cells
+
+8\. https://himedialabs.com/TD/VA003.pdf
+
+9\. https://www.sigmaaldrich.com/AU/en/product/sigma/r7131
+
+10\. https://www.thermofisher.com/au/en/home/technical-resources/media-
+formulation.164.html
+
+11https://www.thermofisher.com/au/en/home/technical-resources/media-
+formulation.165.html
+
+  
+
+  
+
+  
+
+

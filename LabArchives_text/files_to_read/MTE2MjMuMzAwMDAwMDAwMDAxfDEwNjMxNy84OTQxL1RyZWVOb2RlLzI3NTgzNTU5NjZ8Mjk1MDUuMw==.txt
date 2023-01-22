@@ -1,0 +1,94 @@
+Aim/Purpose
+
+
+Background
+
+Using the foundations built up during the "Buffalo Wings" prototype work, we
+will trial tissue engineering at larger scales and using suspension adapted
+cells (Nuvonis fibroblasts predominantly). This work is part of the Mini-
+Tissues workstream for the Second Product, more can be read about this here.
+Initial Buffalo Wings experimental plans and lab books can be found here. The
+current model of the solid moulds requires embedding in  PDMS, as such, the
+tissues are very difficult to harvest from. This experiment will be performed
+using a novel design where the pillars (tissue attachment points) are
+detachable, therefore making tissues much easier to harvest.
+
+Figure 1. CAD drawing of removable pillar design
+
+Aim
+
+Determine the optimal centrifugation time for the pelleting of the Nuvonis
+suspension cells prior to creating the tissue gel.
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Collagen I, 10x DMEM/F12, and 0.1M Sodium Hydroxide. This allows the formation
+of tissues via the process of tissue gelation, condensation and self-assembly
+around 2 attachment points (Figure 1) - See Notion page for summary of
+approach. However, for this experiment we will be excluding Matrigel given we
+observed tissue formation in the absence of Matrigel (Experiment 3: Matrigel
+Reduction).
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+  
+
+  
+
+Aim 1:  Determine the optimal centrifugation time for the pelleting of the
+Nuvonis suspension cells prior to creating the tissue gel.  
+  
+Experiment Plan
+
+We will seed four moulds with 9 tissues each at a cell density of 40 million
+cells per mL (finding of current max density with "well-formed" tissues from
+experiment 4).
+
+Tissues will be created via 4 different approaches to centrifuging the cells
+prior to creating the tissue gel and seeding into the moulds.
+
+  1. 500g for 5 minutes in 500mL centrifuge tubes 
+  2. 500g for 10 minutes in 500mL centrifuge tubes 
+  3. 2000g for 5 minutes in 500mL centrifuge tubes 
+  4. 500g in 50mL falcon tubes 
+
+Tissues will be cultured for 5 days in Pen/Strep, changed to P/S free media
+for 2 days and harvested after 7 days.
+
+ Tissues will be used for immunoanalysis, flow cytometry, molecular analysis
+and product testing.
+
+  
+
+
+
+
+Before Starting
+
+  * Calculate approximate cell requirements for experiment 8
+    * = Approximately 5,760 million cells for 4 plates at 40 M cells/mL
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+    * Total volumes for experiment:
+      * Collagen I = 58.464mL
+      * 10x DMEM/F12 = 7.056mL
+      * 0.1M NaOH = 8.784mL
+  * Autoclave 4x large Nylon scaffolds, ~~2% agar (for embedding moulds)~~ , 1x pair of forceps ~~  and mould weights (Jesi - Aluminium rods in PDMS)~~
+  * Ensure matrix reagents are made up fresh and sterile filtered at required concentrations. 
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 58.464 mL total (make 60 mL)
+
+

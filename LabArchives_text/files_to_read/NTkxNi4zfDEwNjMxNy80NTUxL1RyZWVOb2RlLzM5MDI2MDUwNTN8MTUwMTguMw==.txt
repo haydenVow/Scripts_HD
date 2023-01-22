@@ -1,0 +1,105 @@
+
+
+## Performed by: LL  
+
+
+
+
+Note: This flask was due to be fed tomorrow (12-Oct-2021), however the feed is
+being performed today. This is because it was realised today at ~16:00 that
+the incubator housing this culture has accidentally been turned off since 6 pm
+on Friday (8-Oct-2021). We decided to perform a 100% feed, as it was likely
+that there would be a number of senescing cells releasing signals for
+surviving cells to also begin dying.
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+E125  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Growth medium: CD CHO + 10%KSR + 1:100 ACA + 4mM L-Glutamine + 100ng/mL FGF,
+IGF & ~~PDGF~~ (No PDGF remaining - ordered more)
+
+Total (mL)23  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.002346  
+IGF10.00010.10.002323  
+PDGF0.00010.010.0023230  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+CD CHO + 10%KSR + 1:100 ACA + 4mM L-Glutamine  
+Mix 7467  
+  
+IGF-1  
+Mix 3644  
+  
+FGF-B  
+Mix 5077  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted 30 mL of growth medium in 1 x 50 mL tube
+  2. Added growth factors to aliquot as listed in table above (see Mix IDs for growth factors in table above to ensure you are adding the correct ones) 
+    *  Placed aliquot in water bath 17:00
+  3. Collected E125 from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC :
+  4. Pipette suspension into 1 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  5. Centrifuged at 300 x g for 5 min.  17:10 - 17:15   
+
+  6. Aspirated  100% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. 
+  7. Resuspended pellet in 500 uL of medium
+  8. Took 1 x 10 uL sample for haemocytometer cell count.  
+Cell count: 508,800
+
+  9. Recorded count here https://docs.google.com/spreadsheets/d/1-Z9HKM0xSq8-UX2C4876emMP7FCWLcpSqxwLkI-zypg/edit#gid=0
+  10. Added   30 mL of fresh, warmed growth media to 50 mL tube
+  11. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125
+  12. Returned E125 to incubator.   17:26    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+
+
+
+Relevant Images/Figures:
+
+https://mia-capture.vow.tools/#/session/recgNxTa38CMufham/images
+
+
+
+
+### Observations/Summary:
+
+ 100  % media changed on vessel(s)
+
+  1. 7694-F_DOLLY12-Sheep P11-1of1  
+  
+Expected that all or most cells would be dead with lots of debris due to mass
+cell death from being at ambient conditions for >48H. However, cells appear to
+be healthy and mostly unchanged morphologically since last feed (see mia image
+link). Cell numbers do appear to have dropped significantly.
+
+

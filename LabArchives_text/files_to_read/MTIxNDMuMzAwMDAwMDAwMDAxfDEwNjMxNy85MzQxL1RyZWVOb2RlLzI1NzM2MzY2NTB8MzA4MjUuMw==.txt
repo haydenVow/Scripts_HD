@@ -1,0 +1,338 @@
+Performed By: Jesi D
+
+
+# Summary of Culture Conditions
+
+Passage Culture IDPassage Culture VesselVessel #IDDescriptorCell LineCreated
+DateLocationNotes/ ConditionsExperimentVessel TypeBase MediaGrowth Medium
+Location  
+  
+  
+
+  
+1  
+XX-Nuvonis Quail Suspension341-P-1of3341-Fib-Nuvonis Quail Suspension-
+NoBiopsyXX/XX/2022, XX:XX:XX XM  
+XX-Ralph St | XX Lab | XX IncubatorNONETissue Box Experiment A - Cell density
+and matrix volumeCryo Box w/ Holes Covered in PDMS18-PRF DMEM/F12+1:100
+Glutamax+1XP/S+IGF+EGF-V1XX Ralph St I 4C Fridge  
+2  
+XX-Nuvonis Quail Suspension341-P-2of3341-Fib-Nuvonis Quail Suspension-
+NoBiopsyXX/XX/2022, XX:XX:XX XM  
+XX-Ralph St | XX Lab | XX Incubator  
+NONETissue Discs Experiment A - Cell density and matrix volumeIKEA Container
+(Glass Bottom, Plastic Top)  
+18-PRF DMEM/F12+1:100 Glutamax+1XP/S+IGF+EGF-V1XX Ralph St I 4C Fridge  
+3  
+XX-Nuvonis Quail Suspension341-P-3of3341-Fib-Nuvonis Quail Suspension-
+NoBiopsyXX/XX/2022, XX:XX:XX XMXX-Ralph St | XX Lab | XX Incubator  
+NONETissue Discs Experiment A - Cell density and matrix volumeIKEA Container
+(Glass Bottom, Plastic Top)18-PRF DMEM/F12+1:100 Glutamax+1XP/S+IGF+EGF-V1XX
+Ralph St I 4C Fridge  
+  
+Exported Culture Details from Ranger
+
+
+1 Methods and Experiment Layout
+
+
+Experimental layout
+
+We will attempt to seed three tissue boxes. Each box will be a single
+replicate (condition). Conditions will be as follows:
+
+  1. 40 million cells per mL, 25mL tissue gel
+  2. 25 million cells per mL, 25mL tissue gel
+  3. 40 million cells per mL, 40mL tissue gel
+
+  
+
+  
+
+Insert figure
+
+Figure 1. Plate Map for Tissue Box Experiment A. There are 3 conditions in the
+same concentration of Collagen Type 1 (40 million cells per mL in 25mL of
+tissue gel (for disc #1) and 25 million cells per mL in  25mL of tissue gel
+(for disc #2), then 40 million cells per mL in 40mL of tissue gel (for disc
+#3)).
+
+.
+
+
+2 Reagents
+ReagentVolume (mL)Ranger ID  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)XXmL (Matrix creation)  
+  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+  
+XXmL (100% Feed)  
+  
+glutamax (for XXmL) XX  
+  
+rEGF (mesokine)  XX  
+  
+  
+IGF-1-LR3 (r_bovine) (for 850mL)
+
+XX  
+  
+Collagen I (2.6mg/mL) in Autoclaved milliQ37mL needed (40mL made)  
+  
+10X DMEM4mL needed (10mL made)  
+  
+  
+Pluronic 0.25%XXmL (30mL coating per disc)  
+  
+0.2M NaOH5mL used (but 15mL made)  
+
+
+3 Before Starting Ensure the Following is Completed
+  
+  
+List the protocol used, broken down into sequential steps (using appropriate
+templates), as well as any changes made to the protocol.
+
+Include plate maps/diagrams, as well as any relevant widgets or calculators.
+
+Note - Timestamps are not necessary but are encouraged on critical time
+sensitive steps, such as fixation and staining with antibodies.  
+
+Why? Having a clear step-by-step protocol for the lab user to follow will
+reduce chance of error such as accidentally missing out steps. Timestamps on
+critical steps act as a reminder to the user, and provide a good reference in
+instances when a protocol fails e.g. if fixing and staining of a sample did
+not work we can come back to the timestamps to ensure that timings were
+accurate, if they were accurate we can assume that the timings need to be
+adjusted or that the consumables or samples themselves were at fault.
+
+
+
+
+  * Calculate approximate cell requirements for experiment A. 
+    * = 3.5 Billion cells for 3 plates at the below densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent3 Tissue discs 3x plate  
+(3.23 Bn Cells total) (mL)  
+  
+Cells+GM44  
+  
+Collagen (2.6mg/mL)37  
+  
+10X DMEM/F124  
+0.2M NaOH  5  
+  
+Pluronic (plate coating) 0.25%210  
+  
+  
+
+  *  ~~Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    09/07/2022 ~~
+    *  ~~Make PDMS Total Volume:   50 mL ~~
+    *  ~~Pipette   9  mL  per plate for 6 petri dishes and spin-coat.  (DONE) ~~
+  * Make up 2L of Growth Medium Listed in Table 1 above. 
+  * Ensure matrix reagents are made up fresh at required concentrations
+  * Matrix reagents details for this experiment:
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need  37  mL total (make  40 mL)
+      * Aliquot exactly  16.85 mL of the 6.17 mg/mL stock solution and dilute with solvent/diluent to a final volume of exactly 40 mL
+    * 5   mL 10X DMEM/F12 
+    *  6   mL of 0.2M NaOH 
+    * Pluronic-188:  Dilute Stock solution from 5% to 0.25%. (DONE /07/22) 
+      * Make up   1000mL 
+
+
+4 Scaffold mounting, sterilisation and coating
+
+
+If the scaffolds/ containers can be autoclaved, ensure this is completed prior
+to the day of seeding.
+
+If the scaffolds cannot be autoclaved follow the sterilisation steps below.
+
+  1. Place the moulds in a bath of EtOH overnight (day before experiment) 
+  2. Dry the plates upside-down along the bevel of the BSC to allow aeration, (morning of experiment) for 30-60 minutes  \--:-- 
+  3. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start   \--:--
+
+Above steps do not need to be completed as the culture container and the
+scaffold is autoclavable.  
+
+  1. Pre-coat with 0.25% Pluronic solution for 1 hour (to prevent adhesion), start   XX:XX
+
+
+5 Cell Supply Harvest and Matrix Formation for Seeding
+
+
+## Preparation for Harvest
+
+  1. Prepare 4 falcon tubes for cell harvest for 4 conditions of different cell densities (20M and 40M cells/mL) and 2 different seeding volumes (20mL and 25mL).
+    1. Completed calculations can be found here
+  2. Media preparation for harvest and seeding: 
+    1. DMEM/F12 growth medium as above (table 1). 
+
+## Cell Harvest for Mould seeding - Nuvonis suspension protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+  3.   
+Ranger Culture ID#     XXX Vicell#XXX Vicell  
+Flask TypeE5000E5000  
+Total Volume Used (mL)  
+  
+  
+Cell Concentration (cells/mL) XXX x10^6  
+  
+  4. Pour required volume of cell suspension for 1 tissue disc into 500mL centrifuge tubes:
+    * 1B cells in XXX mL from # XX and XX 
+  5. Centrifuge at 500g for 5 minutes ~~(in 450mL centrifuge tubes~~ ) 
+    1. 250mL centrifuge tubes used instead (2x tubes per 1Bn cells) and topped up to 200mL with autoclaved PBS. before centrifuging (as the large centrifuge was removed from the main lab space). 
+  6. Remove supernatant and resuspend the pellet in 50mL of growth medium in a 50mL falcon tube (1Bn cells per 1x Falcon tube) 
+  7. Centrifuge at 300g for 5 minutes.  
+  8. Resuspend pellets in each centrifuge tubes in    12.1 mL   DMEM/F12 growth medium TOTAL (first resuspend in 5-7mL to account for pellet volume to make up to a total of 12.1ml)
+    * NOTE: Resuspending the pellet is very thick and viscous and takes up a high volume. 
+  9.  ~~Add required volume of cells+media to 4 falcon tubes~~ :
+  10. Proceed to matrix additions below. 
+    1. Bring out matrix additives from the fridge only until ready to use. 
+  11. Repeat step 4-8 for each tissue. 
+
+## Matrix formation for scaffold seeding - 2 cell densities + 2 tissue gel
+volumes
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+Refer to Figure 2 to visualise the workflow.
+
+1. Remove pluronic from the wells.
+
+Condition40M cells/mL  
+(25mL tissue gel)  
+n=1 tissue disc 25M cells/mL  
+(25mL tissue gel)  
+n=1 tissue disc  
+ 40M cells/mL  
+(40mL tissue gel)  
+n=1 tissue disc  
+  
+Step 1. Add cells+media12.112.1  
+19.36  
+  
+  
+ Step 2. Add total Collagen (mL)10.1510.15  
+16.24  
+  
+  
+Step 3. Add total 10xDMEM/F12  
+(mL)1.2251.225  
+1.96  
+  
+  
+Step 4. Add total  NaOH  
+(mL)1.5251.525  
+2.44  
+  
+  
+Step 5. Pipette matrix into each well 252540  
+  
+5\. Seed gel/matrix gently into scaffold ensuring good distribution around
+pillars in the well.
+
+6. Leave for    60-90    minutes to gel at 37°C - start time 
+
+Note:: Add Growth media to the entire dish before the 3 hour time point (post-
+seeding as the gel matrix environment begins to become stressful and
+prohibitive for cell viability, especially when each tissue disc has a high
+density (1B per disc at 40M cells/mL). Observing tissue matrices which have
+not gelled is a valid result to be discussed in the results section below.
+
+7\. Add  ~180-200ml media to entire XXmL dish, ensure entire mould is covered.
+
+8. Culture at 37°C overnight before checking.  XX:00 - XX:00 
+
+  
+
+Figure 2. Matrix formation workflow. Seed each disc one at a time for ease of
+workflow.
+
+  
+
+
+
+
+# Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+Additional advice observed during scale-up seeding protocol:
+
+  * Coat plates in P-188 a day before
+  * Leave to dry (after from EtOH soaking) in the BSC overnight
+  * Make up reagents 1-2 weeks ahead of time. 
+  * Centrifugation of cells can be initiated during the Pluronic-188 coating time frame. Note the supernatant can be quickly but carefully poured (to speed up the process). 
+  * Less things in the BSC the better 
+    * Avoid doing too many conditions at once (unless there is enough assistance to do this) as this leads to cultures remaining in a stressful environment longer than necessary. 
+    * Centrifuging more than 4Bn  cells at once should be done with a second pair of hands to ensure the cells are not pelleted and stressed for excessive durations throughout the experiment. 
+  * Add growth medium VERY VERY slowly (water fall/ droplets at zero speed on the pipette guns) with the tip of the pipette pointing at the wall of the disc scaffold. Never point the end of the pipette directly at the tissue disc (point at the wall of the culture vessel). 
+
+
+6 Results / Observations
+
+
+Include notes and observations taken on the day including visual or handling
+observations (i.e. cells appeared to clump, material changes colour or changed
+in size) as well as any limitations encountered, optimisations or changes made
+to the protocol, pictures or videos of the experimental setup  
+  
+Why? Good observations and notes on changes ensure experiment reproducibility
+
+and the optimisation of future work
+
+
+
+
+Bioprocess/ Technical Observations:
+
+  *   
+
+  * Coating
+    *   
+
+  * Pellet:
+    *   
+
+  * Future notes for overall improvement:
+    *   
+
+Gelation Observations:
+
+  *   
+
+Questions:
+
+  *   
+
+
+7 Images taken
+
+
+Section to add any microscopy images of samples, or photographs taken of
+experimental set up  
+  
+Why? To support observations and act as a reference to help ensure experiment
+reproducibility
+
+
+
+
+Why? The protocol check box provides a quick yes/no visual to the reader as to
+whether the protocol went to plan or not.
+
+

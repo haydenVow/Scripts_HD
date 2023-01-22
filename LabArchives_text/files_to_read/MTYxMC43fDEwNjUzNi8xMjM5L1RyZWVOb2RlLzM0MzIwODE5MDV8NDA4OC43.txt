@@ -1,0 +1,137 @@
+Harvest 2xCC500AP
+
+
+Procedure
+
+## Bottom-up Operation for Cell Harvest:
+
+### Remove Media:
+
+  1. Discard Conditioned Cell Culture Medium
+  2. Bring CelCradle bottle into biosafety cabinet.
+  3. Open cap and carefully discard conditioned culture medium without flushing out the carriers.
+
+### Wash with dPBS Buffer Solution:
+
+  1. Add 500 ml pre-warmed dPBS into CelCradle bottle.
+  2. Take bottle to be ready to set up: Up/Down speed 2.0 mm/s Top/bottom holding time 0 sec
+  3. Start compression for 10 mins. Time stamp: 14:09 - 14:19
+  4. Discard dPBS solutions.  
+TIP: Use a spatula or weighing spoon to prevent the macrocarriers from coming
+out when pouring, if any do some out and remain sterile, aseptically transfer
+them back into the CelCradle bottle.  
+Waste media and Wash dPBS were spun down to see if there were any viable cells
+in it  
+Esco Aster suggest washing twice in HBSS/EDTA but as we are using dPBS I chose
+to only wash once.  
+  
+
+### Enzymatic reaction:
+
+  1. Add 200mL pre-warmed TrypLE. Cap with the white non-vented cap.   
+
+  2. Reverse the bottle. Tap the bottle until all carriers drop down to the cap side and are completely submerged.
+  3. Bring the bottle to CO2 incubator.
+  4. Incubate for 10mins. Amount of incubation time depends on cell density.  Timestamp: 14:30 - 14:40
+  5. Site back and tap the bottle until all carriers drop back to the matrix basket.
+  6. Allow the enzyme to flow down to the bellows.
+  7. Incubate for additional 10mins.  Timestamp: 14:41 - 14:51  
+TIP: sufficient time for enzymatic digestion is critical for a successful cell
+harvest. Most cells can render trypsin-EDTA for above 30 mins without altering
+viability. High cells density will require more trypsin and time to digest.
+
+### Tap bottle:  
+This step was accidentally missed
+
+  1. Tap the bottle sharply and steady by against your palm at the matrix basket position for 3mins.
+  2. Rotate the bottle during tapping.
+
+### Wash off and collect cells:
+
+Suggested method by Esco Aster:
+
+  1. Add 5ml 0.5 mg/ml DNase and 25ml 0.1% trypsin inhibitor (or serum) into 500 ml culture medium or HBSS
+  2. Add the 500 ml solution into the bottle.
+  3. Cap the non-vented cap firmly.
+  4. Invert the bottle. Swirl to wash off the cells from the carriers.
+  5. Pour the cell-laden solution into centrifuge bottles.
+  6. Place the centrifuge bottles into centrifuge.
+  7. Harvest cells by centrifugation.
+  8. Tap the bottle as step 4.
+  9. Pour the supernatant from the centrifuge bottles back to the CelCradle bottle and wash off cells from the bottle.
+  10. Repeat step 4 and step 5 two more times until cell residues below an acceptable range (take carrier samples to check the harvest efficiency).
+  11. Collect all cell pellet together. Check the cell density and viability.
+
+What was actually done:
+
+  1. Pour out TrypLE from the CelCradle-500AP bottle into a clean 1L bottle.
+  2. Add 500mL of dPBS into the bottle.
+  3. Cap with the non-vented cap.
+  4. Invert the bottle. Swirl to wash off the cell from the carriers.
+  5. Repeat steps 2-4 another 3 times until the solution is clear.
+  6. Once all the dPBS and TrypLE solution is collected, pour the cell-laden solution into centrifuge bottles.
+  7. Place the centrifuge bottles into centrifuge.
+  8. Harvest cells by centrifugation.
+
+Cell Count:
+
+  1. Perform a cell count using the heamocytometer
+  2. For the waste media and 1st dPBS wash soltuion, perform a cell count without Trypan Blue and take images of the cells/debris
+  3. For the harvested cells, perform a cell count with the appropriate dilution of Trypan Blue 
+
+
+
+
+NOTE:16 BioNOC lost from 10978
+
+
+10978 - Waste Media and 1st dPBS wash
+10979 - Waste Media and 1st dPBS wash
+10978 - Cell Harvest
+10979 - Cell Harvest
+
+
+DAPI Staining:
+
+1 BioNOC was taken from each bottle BEFORE harvest and 2 were taken from each
+bottle AFTER harvest
+
+1. 1 BioNOC was taken from each flask using sterile forceps   
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image
+
+Imaging:
+
+  1. Image cells on the Zaber using the DAPI setting with an exposure of 5-10. 
+  2. Make sure all of the liquid is removed from the well before trying to image the BioNOC carrier.  
+NOTE: If there is enough liquid in the well the BioNOC carrier will move
+around during imaging which will result in blurry images. I also find the
+images are clearer without liquid being present.
+
+  3. When taking a single image of the centre of the well, the BioNOC carrier might not always be in the correct position. To get the carrier into the correct position; focus the microscope on the centre of the well, take off the lid of the well-plate and use a pipette tip to gently move the BioNOC until it is comfortably in frame.
+  4. Perform a z-stack image on a single spot in the centre of the well. 
+
+  
+
+10979 - BEFORE Harvest
+
+10978 - BEFORE Harvest
+
+Exposure 5 (lower)  
+Exposure 10 (same as all other pictures)  
+  
+  
+  
+  
+  
+10979 - AFTER Harvest
+
+10978 - AFTER Harvest
+
+
+
+  
+
+

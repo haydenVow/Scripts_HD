@@ -1,0 +1,67 @@
+
+
+## Performed by: Avani
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Hoeschts2562  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+  1. Sterile filter Hoechst.
+  2. Create a 1:2 dilution of Hoechst in PBS (800uL each).
+  3. Add 8 uL/well of Hoescht to plates.
+  4. Incubate in the dark (in the incubator) for 30 min.
+    1. plate 7781:   13:25 - 13:55
+    2. #7780: 14:00 - 14:30
+    3. #7779: 14:05 - 14:35
+    4. #7776: 14:09 - 14:39
+    5. #7767: 14:23 - 14: 53
+  5. Image whole wells on Zaber (phase and DAPI, 5x).
+    1. illuminator lamp: 55
+    2. exposure: 50 or 40 (depending how how saturated the signal looked)
+
+
+
+
+Observations/Summary:
+
+Hoechst stained and imaged 96 well plates:
+
+7781, 7780, 7779, 7776, 7767
+
+  
+
+Some cells are already stained within 20 min but longer incubation is required
+to let the Hoescht spread across the well. Using plate shakers might be
+helpful for these (or maybe pipetting up and down)
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

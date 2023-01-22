@@ -1,0 +1,75 @@
+Performed by: Avani
+
+
+Preparation:
+
+ReagentAmount to add (uL/well)Reagent ID  
+Growth media500  
+a6456  
+  
+PBS150  
+a6331  
+  
+Tryple100  
+m6540  
+  
+  
+Plate with growth media warmed in incubator: 14:47 - 14:57
+
+PositionPlate ID  
+Origin_A7767  
+Origin_B7776  
+Origin_C7779  
+Origin_D7780  
+Origin_E7781  
+Passaging to
+
+7857-F_DOLLY12-Sheep P2-1of1
+
+
+  
+  
+Protocol run:
+
+Plate/s taken out from incubator: 14:57
+
+Start run: 3:00:40 PM  
+
+Run time: ~1 h 10 min (exact time accidentally not recorded)  
+
+Plate/s returned to incubator: ~16:25
+
+Attach protocols and csv files below  
+
+
+
+
+Observations/Summary:
+
+Plates were imaged on DAPI (center of each well) on 5x. These images were
+processed through MIA to obtain cell counts. Wells with counts >10 000 cells
+were excluded (these mainly occurred when there weren't any cells in the well
+so the macro did not perform well). From the remaining wells, the top 24
+clones were chosen for a passage.
+
+I only realised after the passage that most cells in 96 well plates were round
+and dead. This was probably due to the Hoechst stain the day before.
+
+Most wells that were passaged didn't have many cells leftover after
+transferring the cell suspension.  However, there were a couple of wells where
+this wasn't the case (see images).
+
+
+
+
+Images
+
+wells after being passaged (4x, Phase)
+
+
+
+  
+
+  
+
+

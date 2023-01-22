@@ -1,0 +1,183 @@
+
+
+## Performed by: Chris, Addy  
+
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Buffer  
+  
+PBST (0.2% Triton)  
+  
+dPBS7534  
+  
+Primary Antibody Mix (MF20, MyoG, MyoD)  
+  
+Primary Antibody Mix  (MF20, MyoG, MyoD)  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+  
+
+OR
+
+  
+
+Alternatively plug in your values and manually calculate: (note these volumes
+are for primary and secondary staining + DAPI)
+
+PBS:  10 x        (number of wells) x     mL  (volume per well) =    mL  
+
+PBST (0.2% Triton-X) : 4 x       (number of wells) x     mL  (volume per well)
+=    mL  
+
+Blocking buffer:  3 x       (number of wells) x     mL  (volume per well) =
+mL  
+
+Note: blocking buffer is: PBST (0.1% Triton-X + PBS) + 3% bovine serum albumin
+(BSA). Kept in the fridge until needed in blocking step
+
+  
+
+Prepared Primary Antibody Mix: :    µL   Primary #1 MyoG (Santa Cruz)   (1:200
+) +    µL   Primary #2 MF20 (DSHB)   (1:50  ) +     mL Blocking Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Sample selection:
+
+  1. use remaining meatball samples from each bucket for fixing. 
+    1. if Bradford samples have previously been removed from the bucket, use cup and tray system to facilitate fixing and staining, i.e. lift buckets over to a new plate prefilled with PBS or PFA etc
+
+
+
+
+Process:
+
+Fixing ( ~ 20 - 30 min)
+
+  1.  Removed media from each well and wash with 1.5 mL ice cold PBS. 
+  2.  Added  1500 µL 0.1% PFA for 120 min:  14:00 - 16:00 pm 
+  3. Removed PFA (and add in PFA waste container) and wash wells 2x with   1000 µL PBS. 
+
+  
+
+Permeabilise ( ~ 20 - 30 min)
+
+1\. Removed PBS from each well.
+
+2\. Added   µL PBST (0.2% Triton-X) to each well for 15 min:  : - : pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added    µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   : - : a/pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   : - : a/pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Observations/Summary:
+
+###  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

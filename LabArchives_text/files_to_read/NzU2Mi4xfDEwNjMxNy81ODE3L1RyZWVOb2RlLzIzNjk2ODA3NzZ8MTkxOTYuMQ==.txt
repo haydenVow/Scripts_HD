@@ -1,0 +1,104 @@
+
+
+## Report by: LL
+
+
+
+
+Key Findings
+
+  1. Cells treated with 10 uM P53 inhibitor (aka PFTα) appeared to have higher cell counts 7 days after exposure to UV than cells in 30 uM treatment and untreated cells 
+  2. Based on findings in the literature, P53i should be added to cell culture after UV exposure, rather than prior to, in order to maximise it's ability to protect cells from apoptosis. 
+
+
+
+
+Discussion
+
+Producing a fibroblast clone that is able to maintain proliferative capacity
+longterm is vital to produce large quantities of consistent cell mass. In
+order to continue growing beyond the Hayflick limit, a cell must undergo
+mutation. This can happen randomly as a result of DNA replication errors, or
+can be induced through environmental conditions such as UV exposure.
+
+Initial attempts to mutate cells by way of UVB irradiation in the presence of
+a P53 inhibitor were unsuccessful (see Trial 2). We therefore tested varying
+levels and concentrations of UV irradiation and P53i, in order to determine
+the point at which each factor becomes toxic to the cells. In this experiment,
+we re-attempted cell mutagenesis using UVB irradiation and a P53 inhibitor,
+applying the exposures seen in trial 3 which caused significant cell death
+(and therefore likely caused mutations).
+
+Four (4) conditions were tested. Crocodile fibroblast cultures (F_CHOMP09)
+were exposed to either 150 or 300 mj/cm2 UV-irradiation, with either 10 or 30
+uM P53i present in the growth media. As expected, cells exposed to 300 mj/cm2
+UV had significantly lower cell counts than those exposed to 150 mj/cm2 on day
+7 (figure 1), regardless of P53i concentration. By day 23, cells in growth
+medium containing 10 uM P53i appeared to be proliferating at a faster rate
+that those in medium containing 30 uM P53i, regardless of UV exposure level
+(figure 2). Walton et al. (2005) found that PFT-α precipitated out of tissue
+culture medium at concentrations >30 uM [2]. The PFT-α in our 30 uM cultures
+may have begun to crystallise, and therefore the 10 uM PFT-α concentration was
+more effective at infiltrating cell membranes and protecting them from UV
+damage. Due to the high volume of cell debris in the culture medium post-
+irradiation, PFT-α precipitates may have gone unnoticed when viewing cells
+under the microscope.
+
+In this experiment, the P53i (aka PFTα) was added to cells during UV exposure,
+and then removed immediately after. Kondratov et al. (1999) found that PFTα
+added prior to UV-exposure and removed immediately before had almost no
+positive impact [1]. They reported that "a short 3-hour incubation with PFTa
+after UV treatment had a pronounced protective effect, whereas a 24-hour
+incubation provided maximal protection" [1]. Based on these findings, we
+should add PFTα to the cell culture immediately after UV-irradiation and keep
+the compound in the growth medium for 24 hours thereafter.
+
+
+
+
+Limitations
+
+  1. While we had replicate wells (n=4) to monitor cell confluence and morphology, the replicates were combined during passaging for cell counts due to labor and time constraints. Therefore, we cannot apply statistical analysis or draw conclusive results from this experiment .  
+
+
+
+
+Conclusion
+
+Our hypothesis was supported; a large number of cells did not remain viable
+after UV-irradiation, however sufficient fibroblasts survived the treatment to
+then be expanded and seeded into suspension culture.
+
+
+
+
+Future Direction
+
+  1. Lily will seed the mutated fibroblasts from this experiment into 1 x E125 flask as a condition in EPIC228842. We hope that some of the mutations they have gained in this experiment will make these fibroblasts easier to adapt to suspension culture than our regular primary cells.
+  2. Lily and Marie will plan an experiment where fibroblasts are irradiated with UV and then treated with a P53i immediately after for 24 hours
+
+
+
+
+References
+
+[1] Komarov, P., Komarova, E., Kondratov, R., & Christov-Tselkov, K. 1999. A
+Chemical Inhibitor of p53 That Protects Mice from the Side Effects of Cancer
+Therapy. Science. 285(5434):1733-7.
+https://www.researchgate.net/publication/12819148_A_Chemical_Inhibitor_of_p53_That_Protects_Mice_from_the_Side_Effects_of_Cancer_Therapy
+
+[2] Walton,  M., Wilson, S., Hardcastle, I., Mirza, A., Workman, P. 2005. An
+evaluation of the ability of pifithrin-α and -β to inhibit p53 function in two
+wild-type p53 human tumor cell lines. Molecular Cancer Therapeutics.
+https://mct.aacrjournals.org/content/4/9/1369.short
+
+  
+
+
+
+
+Supplementary material
+
+
+
+

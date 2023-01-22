@@ -1,0 +1,158 @@
+
+
+Performed by:  Bonnie & Lily
+
+
+
+
+Note: The high seeding density culture from suspension trial #3 was used for
+performing these counts. Culture ID 7045. See lab book here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTk2Ni45fDEwNjMxNy8xNTEzLTk3ODcvVHJlZU5vZGUvMzUzNDcxNzI4M3w0OTkyLjk=
+
+1\. Pre-set oven to 55 degrees Celsius.  
+3\. Shaker tube was taken from the incubator and centrifuged for 5min at 650g
+14:40-14:45  
+4\. Spent media discarded and cells re-suspended in 1mL PBS. NOTE: Used 200 uL
+pipette to resuspend cells evenly in solution, however there were many clumps
+of cells which were difficult to break up and so required a lot of pipette
+mixing.  
+5\. 3x 20ul samples taken for counting (unwashed samples).  
+6\. Cells centrifuged again for 5 minutes at 650g  14:53-15:02 (had to be re-
+centrifuged as cells did not pellet properly)  
+7\. PBS aspirated and cells re-suspended in 1mL PBS.  
+8\. 3x 20ul samples taken for counting (washed samples).  
+9\. 1x washed and 1x washed sample placed in the oven at 55 degrees for 25min
+(positive dead cell samples). unwashed: 14:55 washed: 15:12  
+10\. 20ul Hoechst diluted in 1mL in DMEM.  
+11\. 80ul of diluted Hoechst added to each sample, then samples place in the
+incubator for 10 minutes .  
+  
+Washed Samples: 15:15  
+Unwashed Samples: 14:55  
+Washed dead Cell Samples: 15:40  
+Unwashed dead cell samples: 15:27  
+
+  
+12\. After 5 minutes of incubation with Hoechst, propidium Iodide (PI) was
+added to each sample as follows.
+
+Washed 1: 5ul PI (Washed/High PI) 15:28  
+Washed 1: 1ul PI (Washed/standard PI) 15:28  
+Unwashed 1: 5ul PI (Washed/High PI) 15:05  
+Unwashed 1: 1ul PI (Washed/standard PI) 15:07  
+Dead cell control washed: 1ul PI 15:54  
+Dead cell control unwashed: 1ul PI 15:42
+
+13\. Cultures incubated for a further 5 minutes  
+14\. 10ul of each sample take for imaging on a haemocytometer using the Axio
+fluorescence imaging.  
+15\. 10ul, 20ul, and 40ul of each sample transferred to well of a 96 well
+plate for imaging by the Zaber. NOTE: Initially difficult to get focus right -
+could not see enough signal on AF555 to focus on "live preview" so images are
+focused on DAPI channel but out of focus on AF555 channel. Found plane of
+focus for AF555 and set to that and re-imaged entire plate.  
+
+  Reagent   ID  
+ PBS 5616  
+  
+ Hoechst 1656  
+  
+ Propidium Iodide  
+  
+  
+  
+
+
+
+
+Zaber images: https://mia-capture.vow.tools/#/session/recYWw2c3EhdwNOe1/images
+
+Plate layout: (1=10 uL, 2=20uL, 3=40uL)
+
+B1-B3 Washed/high PI
+
+C1-C3 Washed/std. PI
+
+D1-D3 Unwashed/high PI
+
+E1-E3 Unwashed/std. PI
+
+F1-F3 Unwashed/dead control
+
+G1-G3 Washed/dead control
+
+
+
+
+Observations/ summary - Axio  
+Axio images: All axio images were taken under culture ID 7045 :https://mia-
+capture.vow.tools/#/session/recA4AMHiZjdMsdPe/images.
+
+Under phase microscopy, it was very difficult to differentiate debris from
+cells (See Image 1).
+
+We did not observe PI staining in any of the samples using the Axio
+fluorescence microscope. We did see Hoechst staining however debris was also
+less brightly stained (See image 2).
+
+Image 1: Example phase image of unwashed/low PI concertation samples. Image
+taken at 5x magnification.  
+
+Image 2: Example image of washed/high PI concertation samples. Image taken at
+5x magnification on DAPI channel.  
+
+
+
+
+Zaber results summary
+
+Initially imaged by focusing on DAPI channel. DAPI images (Hoechst stain)
+showed either minimal or no cells and AF555 (PI stain) images showed potential
+positively stained cells that were just very out of focus (Figures 1 & 2)
+
+Figure 1: Hoechst stain, DAPI, 5X, Well D3
+
+Figure 2: PI stain, AF555, 5X, Well D3
+
+Changed focus to focus on AF555 channel instead of DAPI channel. PI-positive
+cells showed up clearly in AF555 images (Figure 3), however no Hoechst-
+positive cells were visible on DAPI channel (Figure 4).
+
+
+
+Figure 3: PI stain, AF555, 5X, Well B2
+
+Figure 4: Hoechst stain, DAPI, 5X, Well B2
+
+Finally adjusted focus again to attempt to find a middle ground that would
+capture stained cells in both channels. On live preview on the Zaber it looked
+like it would work, however the images still showed no Hoechst-positive cells
+(Figure 5). AF555 images showed great PI-staining (Figure 6).
+
+Figure 5: Hoechst stain, DAPI, 5X, Well D3Figure 6: PI stain, AF555, 5X, Well
+D3
+
+The dead control cells suggested that washing is perhaps not critical to
+achieve accurate PI-staining results. Unwashed samples had a far higher amount
+of positive PI-staining than washed samples (Figures 7 & 8).  
+
+Figure 7: Unwashed sample, PI stain, AF555, 5X, Well F3  
+
+Figure 8: Washed sample, PI stain, AF55, 5X, Well G3
+
+It was also determined that 40 uL was a better volume of sample for zaber
+imaging, as it fully covered the base of the well. 10 and 20 uL samples stayed
+in a droplet form due to surface tension and made focusing difficult due to
+differences in depth across the droplet.
+
+
+
+
+
+
+
+
+
+
+
+

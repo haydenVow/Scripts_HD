@@ -1,0 +1,183 @@
+
+
+Perform bank using below volumes:
+
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+7664-F_KUZCO18-Alpaca P5-1of1  
+9  
+1000000  
+3318-Culture-7660-Vial-1of9  
+3319-Culture-7660-Vial-2of9  
+3320-Culture-7660-Vial-3of9  
+3321-Culture-7660-Vial-4of9  
+3322-Culture-7660-Vial-5of9  
+3323-Culture-7660-Vial-6of9  
+3324-Culture-7660-Vial-7of9  
+3325-Culture-7660-Vial-8of9  
+3326-Culture-7660-Vial-9of9  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Tryplem5076  
+  
+dPBS (for washing & neutralising)a6330  
+  
+Growth Mediaa6190  
+  
+Freeze mediam6438  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  100 mL in | 1 | tubes
+  2. dPBS (for washing)   100 mL in | 1 | tubes 
+  3.  dPBS (for neutralising)   100 mL in | 1 | tubes 
+  4.  Growth media (for pellet resuspension):  20 mL in | 1 | tubes 
+  5.  Time that all aliquots were placed in the water bath to warm before use:   12:55 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 100 mL | tryple to each vessel/well and incubated at 37ºC for | 13
+| min
+
+  1.  Timestamp: 13:22 - 13:35   
+
+4\. Neutralised with | 100 mL | dPBS (warmed) and combined cell suspension
+into | 4 x 50 mL | tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   13:44 - 13:49   
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 5 |mL | growth | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 17,940,000 |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL.
+
+
+
+
+11\. Prepared  28 mL Freeze Medium: (FBS + 10% DMSO). ID #6438  
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  14:45  \-  14:50  
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 17 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted | 944 |µL into | 18 | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   15:11
+
+  * [x]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [x]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+Bank of KUZCO MCB into 9 x vials containing 1M cells per vial
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7660 https://mia-capture.vow.tools/#/session/rec4mxRYFN0akLQhC/images
+
+7661 https://mia-capture.vow.tools/#/session/recj55hA1nrUxa5rd/images
+
+7662 https://mia-capture.vow.tools/#/session/recai0wNn7l7PNgFa/images (lots of
+dead cells, lots of "bubbly" morphology in cells)
+
+7663 https://mia-capture.vow.tools/#/session/rec6CzC0vJtuyCztR/images
+
+  
+
+

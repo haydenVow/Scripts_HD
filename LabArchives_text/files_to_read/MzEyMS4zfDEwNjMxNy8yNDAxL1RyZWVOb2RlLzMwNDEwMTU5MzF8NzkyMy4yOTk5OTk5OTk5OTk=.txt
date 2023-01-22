@@ -1,0 +1,209 @@
+Brief Background
+
+
+The DOLLY12_15D11 clone was generated and banked at MCB2 in March 2021: See
+experiment here  
+  
+Vials of the clone were then expanded (in both planar cultureware and
+microcarrier culture in parallel) from MCB2 to WCB2 in May 2021: (see
+experiment here)
+
+In this experiment, WCB2 vials from both planar and microcarrier culture were
+thawed and the cells were cultured with the intention of expanding over at
+least 10x doublings, terminating in the Biostat A 2 L bioreactor. Cells were
+also seeded into a differentiation assay to ensure that the capability of
+differentiation into muscle tissue had not been lost.
+
+Demonstrating 10x doublings and differentiation capability of the clonal WCB2
+cells demonstrates the suitability and process for the use of these clones by
+the production team.  
+  
+To improve harvest efficiency, a tool called the Taipan was developed in a
+previous experiment. This is a filtration device that was constructed with
+some silicone tubing, metal mesh with 70um diameter pores, zip ties, and a
+lure lock connector component which allowed docking of a syringe tube. A new
+version of this tool was developed using autoclavable 3D printed parts to
+hopefully improve the manufacturability and robustness of the device. This
+version of the tool was used for the first time throughout this experiment.
+
+
+Key Results
+
+
+Total cell doublings did not exceed 3x over a period of 28 days, with the
+number of doublings between passages decreasing to less than 1 despite culture
+periods of 5 - 6 days (Figure 1b). The morphology of the cells for both planar
+derived and microcarrier working cell bank 2 (WCB2) cultures indicated
+senescent cell behaviour. The low cell numbers and many dead cells also
+present after day 6 of planar culture in proliferation media (Figure 1f)
+indicate poor cell survival.  
+  
+Serial culture in shake flasks on microcarriers also proved difficult due to
+inconsistent harvest efficiencies (Figure 1e), despite using the Taipan
+harvest method. Micrographs of florescent nuclei on microcarriers indicated
+when a harvest was highly successful (< 1 cells/microcarrier; Figure 1d) and
+when it was less successful (>3 cells/microcarrier; Figure 1c), however this
+information was not always consistent with the harvest efficiency (Figure 1e).
+The total cell number per culture approached the initial thaw number of
+500,000 cells after approximately 3 weeks of culturing the cells on
+microcarriers in shake flasks (figure 1a).
+
+Figure 1. Planar and microcarrier derived working cell bank 2 (WCB2) cultures
+expanded on microcarriers in shake flasks over 28 days. a) Total cell numbers
+for the two WCB2 cell cultures indicated poor growth rates and inconsistent
+harvest efficiencies, resulting in poor expansion of the cell banks. Note:
+cells were removed from the planar derived culture at day 16 and day 22 for
+immunofluorescence assays, contributing to the drop in total cell numbers at
+these points in this graph. b) Number of cell doublings between passages and
+cumulative for both planar and microcarrier derived cell cultures combined,
+showing less than three doublings were achieved over 28 days. c) Post harvest
+micrographs of florescent nuclei on micorcarriers for culture 7086 from the
+planar derived WB2 at day 8 of the experiment. d) Post harvest micrographs of
+florescent nuclei on micorcarriers for culture 7135 from the planar derived
+WB2 at day 16 of the experiment. e) Harvest efficiency (%) of the three
+microcarrier shake flask passages for both planar and microcarrier derived
+cultures. The harvest (%) was calculated by comparing the number of cells
+counted using a hemocytometer after harvest with the number of cells counted
+using Vow's MIA analysis micorcarrier cell count tool taken before beginning
+the harvest. f) Micrograph from culture 7278 demonstrating the cell morphology
+seen in both the planar and microcarrier derived cell cultures after culturing
+in T75 flasks with proliferation media from day 23 to 28 of the experiment.
+The sparsely spread cells with splayed morphology indicate senescent cell
+behaviour and the many dead cells indicate poor cell survival.
+
+  
+
+
+Discussion
+
+
+Total cell doublings did not exceed 3x over a period of 28 days, with the
+total number of cells plateauing immediately after the thaw for the
+microcarrier derived culture, and after the first passage for the planar
+derived culture (figure 1a). A single operator completed this experiment. The
+operator initially had little experience with harvesting cells from
+microcarriers so initial poor post harvest micrographs (Figure 1c) showing > 3
+cells/microcarrier left were initially attributed to human error and
+inexperience. Incorrect shaking speeds, extended cell exposure to trypsin and
+improper Taipan handling were noted as possible factors in the poor initial
+harvest. The Taipan V1 was also used for this harvest, whereas the Taipan V2
+was used for all following harvests. Post harvest analysis of the following
+harvests using micrographs (Figure 1d) indicated good harvests with < 1
+cells/microcarrier. Thus, this indicated the operator had improved in harvest
+technique using the Taipan. However, post experiment data analysis revealed
+this observation was inconsistent with the harvest efficiency (%), which was
+calculated using the hemocytometer harvest cell count with the pre-harvest MIA
+cell count as reference. For example, although micrographs indicated the day
+16 harvest was successful (Figure 1d), the actual calculated harvest
+efficiency (%) was 56% (Figure 1c).
+
+Micrographs of the cultures after trypsinisation showed the cells were round
+and 'balled-up' on the microcarriers, indicating the cells were only still
+adhered to the microcarriers via electrostatic attraction. As discussed
+further in a previous experiment, electrostatic attraction is an important
+force in cell adhesion (Khalili and Ahmad, 2015), but as fluid shear
+increases, the probability of a cell adhering to the microcarrier decreases
+(Schwarze et al., 2019). The Taipan was designed to introduce fluid shear to
+overcome the electrostatic attraction force and aid in removing the cells from
+the microcarriers. However, more work is required to refine the tool and this
+process to ensure that reliable harvests are being obtained. Some problems
+with the Taipan V2 were observed when using it during this experiment. One of
+the 3D printed filter heads broke apart in the autoclave, where the material
+was too thin. One filter head, which had no obvious signs of being
+compromised, allowed many microcarriers through the filter, instead of only
+letting through the cells. Shorter silicone Taipan tubes also proved less
+useful than having longer ones, since the longer Taipans were more easily
+coiled inside the E-flask. It was also found to lower the chance of
+accidentally of touching a part of the Taipan which could enter the E-flask.
+
+The cells did not appear to grow well on the microcarriers (figure 1a),
+indicating they may have become senescent. A proliferation assay using Ki67
+immunofluorescence staining with DAPI counterstaining was also performed to
+indicate the percentage of proliferating cells, however the process did not
+yield useful data. It is suspected this was due to human error rather than a
+flaw in the protocol, since the Ki67 stain was not visible and the DAPI
+counter stain was barely noticeable, despite cells being visible under phase
+microscopy. For more robust data, this staining protocol be repeated or
+investigated further, however it was not done so in the present study due to
+time restraints and other supporting information which suggested cell
+senescence. Micrographs of the cells grown in T75 flasks late in the
+experiment showed the cells from both cultures had morphology which indicated
+senescent behaviour (figure 1f), supporting the theory the cells were
+senescent. Differentiation assays were planned to be standard at first passage
+to ensure the cells maintained their ability to differentiate, however only
+the planar derived culture had enough cells at the second passage to seed out
+the differentiation assay. The microcarrier derived culture was not seeded
+onto a differentiation assay due to the very low number of cells available.
+The differentiation assay for the planar derived culture was fixed but not
+stained, since it this was not considered worth investigating if the cells
+were not growing as expected in microcarrier culture.
+
+Previous experiments demonstrated that expanding clones on microcarriers still
+enabled them to adhere and grow as expected. However, this was not found to be
+the case in this experiment, and inconsistent harvest efficiency further
+hampered the serial passaging required for expansion. We have previously
+identified that shear stress is needed to recover the cells after detachment,
+and this experiment showed that further development on the passaging process
+of adherent cells in microcarrier suspension is required. Investigating this
+process further is needed to develop efficient methods of growing MuSCs at
+scale. For Vow to feed billions of people sustainably, a non-exhaustive supply
+of cells that can contribute to delicious food is required, and this
+experiment further explores using MuSC clones on microcarriers as a method of
+achieving this.  
+
+
+Limitations
+
+
+Differentiation assays were not completed due to the poor proliferation of the
+DOLLY12-15D11 cells, so no information is provided in this experiment on the
+ability of this clone to maintain it's ability to differentiate. The Ki67
+assay was also not successful, thus limiting the data available in this
+experiment to support the hypothesis that the DOLLY12-15D11 cells had become
+senescent. No planar culture expansion was conducted alongside the
+microcarrier cell expansion, thus limiting data available to indicate whether
+the microcarriers themselves caused the cells to show senescent behaviour. The
+Taipan tool was changed for all passages after the first passage for both
+cultures from the V2 to V3, without any preliminary testing being conducted on
+the V3 beforehand.
+
+
+Conclusion
+
+
+Total cell doublings did not exceed 3x over a period of 28 days (Figure 1b),
+despite attempting to expand the cells past 10 doublings during this
+experiment. The primary reason for not achieving this target during the
+experiment was poor cell growth on microcarriers, which was further hampered
+by inconsistent harvest efficiency, despite using the Taipan harvest method.
+
+
+Future Directions
+
+
+Further investigation is required to determine if the cells from other
+DOLLY12-15D11 WCB2s also demonstrate senescent behaviour, such as repeating
+Ki67 immunofluorescence proliferation assays. Further microcarrier expansions
+of other cell clone cell banks is required to determine if this behaviour is
+also demonstrated by other clones. Future microcarrier cell expansions may
+consider seeding the same cells into a planar culture to run in parallel and
+help determine if the microcarriers induce senescent behaviour or if it is a
+factor of the WCB2 banking process. The passaging and harvest process for
+cells grown on microcarriers is long and work should be invested in
+simplifying the process. The process has already been simplified by the
+development of the Taipan harvest method, although further investigation into
+the cell harvest yield when using the Taipan is required.
+
+
+References
+
+
+Khalili, A. A., & Ahmad, M. R. (2015). A Review of cell adhesion studies for
+biomedical and biological applications. International Journal of Molecular
+Sciences, 16(8), 18149-18184. https://doi.org/10.3390/ijms160818149
+
+Schwarze, J., Grunze, M., Karahka, M., & Kreuzer, H. J. (2019). Attachment and
+Detachment of Particles from a Surface under Shear Flow. Journal of Physical
+Chemistry C, 123(13), 8153-8159. https://doi.org/10.1021/acs.jpcc.8b08215
+
+

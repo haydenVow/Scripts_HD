@@ -1,0 +1,199 @@
+
+
+## Culture IDs
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4CF (ACF)7160-DOLLY12-Sheep P12-2of4  
+7161-DOLLY12-Sheep P12-3of4  
+7162-DOLLY12-Sheep P12-4of4  
+48-well plate  
+7222-DOLLY12-Sheep P13-1of2  
+7223-DOLLY12-Sheep P13-2of2  
+  
+4CF (Serum)7159-DOLLY12-Sheep P12-1of4  
+  
+  
+  
+
+
+
+
+## Reagent preparation:
+
+  1. Aliquot reagents following the table below: 
+
+Note: Tryple needs to be completely warm before using otherwise cells will not
+detach
+
+ReagentStandard QuantityQuantity used - 4CFTimestamp
+(waterbath/incubator)Mix/Aliquot/Stock ID  
+Growth media (re-suspension)T175 = 1 - 1.5 mL  
+4CF= 10 mL  
+10 mL (Serum) 20 mL (ACF-E8 10C)14:15  
+A5369 (Serum), A5568 (ACF)  
+  
+Growth media (seeding)T175 = 30 mL  
+4CF = 600 mL  
+20 mL (Serum), 20 mL (ACF-E8 10C)  
+17:55  
+A5369 (Serum), A5568 (ACF)  
+  
+p38iVolume of prepared growth media / 20005 uL (Serum)14:15  
+M5607  
+  
+TrypleT175 = 10 mL  
+4CF= 200 mL800 mL14:15  
+A4613  
+  
+dPBS (wash - 37)T175 = 10 mL  
+4CF= 200 mL800 mL14:15  
+A5096, A5099, A5085, 5102  
+  
+dPBS (neutralise - ambient temp) T175 = 10 mL  
+4CF= 200 mL800 mLN/A  
+A5100, A5095, A5251  
+  
+Gelatin T175 = 15 mL  
+4CF= 250 mLN/AN/AN/A  
+  
+  
+
+
+
+
+## Image flask
+
+  1. Observed flask under the microscope at 4x or 5x objective for even cell distribution and < 50% confluency. Refer to VSOP006_0
+  2. Took at least 3 images per flask and returned flask back to incubator.
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask (for cell factory, carefully poured growth media ideally into a >500 mL waste bottle).
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+
+
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. Flask 1 `Time stamp`: 14:43 -14:55 (SS)- Serum
+    2. Flask 2 `Time stamp`: 14:46-15:28 (SS)- ACF
+    3. Flask 3 `Time stamp`: 14:46-15:30 (BT)- ACF
+    4. Flask 3 `Time stamp`: 14:46-15:33 (BT)- ACF
+
+  
+
+
+
+
+  1. Collected TrypLE solution into 50mL centrifuge tubes (labelled *).
+  2. Wash flask with ambient temperature dPBS and transferred into 50 mL centrifuge tube.  (for cell factories, preform the wash twice with 100 mL of dPBS each time)
+  3. Centrifuged at 650 x g for 5 minutes. `Time stamp` : 15:25, 15:40, 15:46
+
+  
+
+
+
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirated the supernatant from the tubes, prioritising tubes labeled with *. Discarded supernatant. Removed remaining supernatant with a 1mL pipette.
+  2. Resuspend the pellet in 1 mL of growth media at a time. Pooled into one tube. Washed tubes labeled with * with reamaining growth media by transferring media from one tube to the next.
+  3. Measure the total volume of the cell resuspension using a serological. 
+  4. Using the same serological, pipette mix cell suspension to ensure a homegenous cell suspension is obtained. 
+  5. Immediately aliquot 2 x    100uL  of cell resuspension into cell count tubes. Volume of cell suspension is below:  
+
+  
+
+Harvest size  
+Volume of aliquot for count  
+Quantity of aliquot  
+  
+1-10 x T17520 uL2  
+1 - 6 X 4CF100 uL2  
+> 6 X 4CF200 uL2
+
+
+  
+  
+Cell count
+
+  1. For ACF: Cell count performed using Stanleys automated cell counting in Mia. See spreadsheet here: https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+2\. For Serum:  Counts performed using widget below.
+
+  
+
+
+
+
+  1. Triturated the obtained cell suspension 10 times (careful not to make bubbles) and transfer into trypan blue.
+  2. Triturated the cells suspended in trypan blue at least 10 times (careful not to make bubbles) and transfer 10 uL onto haemocytometer.
+  3. Performed cell count and enter details into Cell Count Calculator: 
+  4. Repeat process to the second aliquot of cell resuspension to get the second cell count.     
+Note: if the cell counts differ more than 10% of each other, perform a third
+cell count.
+
+  5. Average total cells in suspension : 19.965M (ACF) 17.928M (serum)  
+
+
+
+
+See continuation of experiment here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjYzMi41fDEwNjMxNy8yMDI1L1RyZWVOb2RlLzYyOTg5MTIzMnw2NjgyLjU=
+
+## Seeding onto separate experiment
+
+Project title (ELLA/ADRIAN) ACF
+
+`Total cells required: 18.4M`  
+`Total volume of cell suspension: ALL  `  
+`Link to lab book: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjYzMi41fDEwNjMxNy8yMDI1L1RyZWVOb2RlLzYyOTg5MTIzMnw2NjgyLjU=`
+
+  
+
+Project title (ELLA/ADRIAN) serum
+
+`Total cells required:  18.4M `  
+`Total volume of cell suspension: ALL  `  
+`Link to lab book: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjYzMi41fDEwNjMxNy8yMDI1L1RyZWVOb2RlLzYyOTg5MTIzMnw2NjgyLjU=`
+
+
+
+
+### Observations/Summary:
+
+  * Low cell number for ACF culture
+
+###  
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+7159 (ACF): https://mia-capture.vow.tools/#/session/recu57Z38HENJgaNx/images
+
+7160 (ACF): https://mia-capture.vow.tools/#/session/recpASzKo22jeeU9V/images
+
+7162 (ACF): https://mia-capture.vow.tools/#/session/recGtYzcDegUcHPAG/images  
+
+7161 (Serum): https://mia-capture.vow.tools/#/session/recPUOZNprk7DGNDE/images  
+
+

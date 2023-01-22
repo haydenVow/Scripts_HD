@@ -1,0 +1,180 @@
+
+
+12:15: Began comparing analysis methods between nuclei ejection, DAPI counting
+cells on carriers and Hoechst staining cells on carriers. This should allow us
+to see how precise each method is at estimating cell number in the culture for
+a given volume of media in that suspension culture.
+
+
+
+
+Ran the images captured of the Hoechst stained microcarriers with cells
+attached (5x replicates) (Images found here with locational data attached as
+D-H https://mia-capture.vow.tools/#/session/recGP0WfFPYqMDHtF/images) These
+images were processed through the 'uCarrier cell count' tool.
+
+
+
+
+MIA output files are added to the following folder:
+https://drive.google.com/drive/u/2/folders/1VVq4aulyQPlS4iPdXCi-D4O4TnwSS6Bn.
+The MIA output file for images captured of stained microcarriers from culture
+6338 on Day 1 after seeding was also included here.
+
+
+
+
+12:52: Began processing each of images captured from the ejected nuclei
+samples using FIJI.
+
+Had to generate a macro for FIJI that would process the images. (concluded at
+1:22). Macro 1.
+
+run("16-bit");
+
+run("Subtract Background...", "rolling=100");
+
+//run("Threshold...");
+
+setAutoThreshold("Moments dark");
+
+setOption("BlackBackground", true);
+
+run("Convert to Mask");
+
+run("Remove Outliers...", "radius=5 threshold=50 which=Bright");
+
+run("Analyze Particles...", "size=60-Infinity circularity=0.10-1.00
+show=Outlines summarize add");
+
+Used this macro to batch process all images captured at 10x objective using
+the Axio microcscope, DAPI channel, maked with the notes 'Nuclei ejection'
+
+Raw FIJI results were placed here:  
+https://docs.google.com/spreadsheets/d/1rZSVFBr6GCFsMlPvja7F6--
+EHFCVeeHDvttKKx6XGUw/edit#gid=588598620
+
+  
+
+  
+
+
+
+
+Investigated the output images files resulting from the first macro, they
+appeared to not segment a majority of the bright spots in a lot of images.
+
+Began updating the script to get it to pick up more bright spots in each
+image.  
+Began processing the nuclei ejected images captured at 10x magnification once
+more using an updated script: Macro 2.  
+  
+
+run("16-bit");
+
+run("Subtract Background...", "rolling=100");
+
+//run("Threshold...");
+
+setAutoThreshold("Moments dark");
+
+setOption("BlackBackground", true);
+
+run("Convert to Mask");
+
+run("Remove Outliers...", "radius=4 threshold=50 which=Bright");
+
+run("Analyze Particles...", "size=20-Infinity circularity=0.02-1.00
+show=Outlines summarize add");
+
+  
+
+Raw FIJI results were placed here once again:
+https://docs.google.com/spreadsheets/d/1rZSVFBr6GCFsMlPvja7F6--
+EHFCVeeHDvttKKx6XGUw/edit#gid=588598620
+
+
+
+
+[2:10-2:18] Entered the lab to capture an image of the hemocytometer under the
+10x and 5x objective on the axio microscope. This was done to ensure that the
+imaging ROI can be calculated accurately so the ejected nuclei counts could be
+back calculated to the the original culture vessel.
+
+Hemocytometer images were included in the experiment drive folder here:
+https://drive.google.com/drive/u/2/folders/1VVq4aulyQPlS4iPdXCi-D4O4TnwSS6Bn
+
+The 10x image of the hemocytometer was used to set the scale in FIJI for the
+imaging ROI. One square on hemocytometer grid was measured the pixel length
+was set to scale.
+
+Each image captured at 10x objective currently is 1.1926mm^2
+
+This make the volume of the ROI 1.1926mm^2 x 0.1mm = 0.11926mm^3
+
+This is equal to 0.00011926mL
+
+The 5x image of the hemocytometer was used to set the scale in FIJI for the
+imaging ROI. One square on hemocytometer grid was measured the pixel length
+was set to scale.
+
+Each image captured at 5x objective currently is 4.6464mm^2
+
+This make the volume of the ROI 1.1926mm^2 x 0.1mm = 0.46464mm^3
+
+This is equal to 0.00046464mL
+
+  
+
+These values can be used to calculate the total number of cells/mL for each
+volume of nuclei ejected sample (V nuclei).
+
+Vnuclei Cells/mL = Ejected nuclei / volume of ROI:
+
+Since each sample was processed from 900uL of original sample culture the
+Total cell number per Vnuclei volume is also equal to the total cell number
+for 900uL of original culture sample.
+
+  
+
+  
+
+
+
+
+For images captured of Fixed and DAPI stained microcarriers, one image set for
+each biological replicate was used to generate cell counts per microcarrier.
+Counts of cells on microcarriers were captured by hand as the MIA tool
+'uCarrier cell count plastic' did not process the microcarrier images
+correctly. I believe the high background fluoursence of the microcarrier
+interferes with the thresholding step in the tool used to pick up the brightly
+stained nuclei.
+
+
+
+
+Counts for each microcarrier were captured in the same spreadsheet here:
+https://docs.google.com/spreadsheets/d/1rZSVFBr6GCFsMlPvja7F6--
+EHFCVeeHDvttKKx6XGUw/edit#gid=1445862989
+
+
+
+
+Went through processing the results in the prism file below with Tom.
+
+
+
+
+  
+
+Figure 1: Summary data for each of the different counting methods.
+
+There were significant differences in the accuracy of culture cell density
+estimates between each method. The coefficients of variance in estimates from
+the MIA processed images and hand counted fixed and DAPI images were similar.
+This suggests both methods are equally precise despite their differences in
+accuracy.  
+
+  
+
+

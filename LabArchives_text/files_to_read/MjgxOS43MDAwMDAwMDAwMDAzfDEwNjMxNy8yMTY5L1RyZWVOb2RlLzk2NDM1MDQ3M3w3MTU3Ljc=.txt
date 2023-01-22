@@ -1,0 +1,83 @@
+
+
+PERFORMED BY: TT and MG
+
+
+Culture(s) used
+Culture ID  
+Vessel type  
+  
+7504  
+E125  
+
+
+Materials
+Stockyard v2 ID  
+Description  
+Amount  
+  
+A5618  
+dPBS  
+5 mL  
+  
+S1129  
+Propidium Iodide solution  
+5 uL  
+  
+S3594  
+Hoechst33342 solution  
+20 uL  
+  
+  
+  
+  
+
+
+Procedure
+  
+  
+Test 1
+
+  1. Took 0.5 mL sample from culture 7504 15:00
+  2. Filtered 5 mL dPBS to remove any debris, A5618
+  3. Prepared stain buffer:
+    1. 1 mL filtered dPBS
+    2. 20 uL NucBlue Live Cell Stain ReadyProbes Hoechst 33342, S3594
+    3. 5 uL of Propidium Iodide, S1129
+  4. Prepared 3 wells in a 96 well plate, each containing:
+    1. 20 uL of sample from culture 7504
+    2. 100 uL of stain buffer
+  5. Prepared 3 wells in a 96 well plate, each containing:
+    1. 10 uL of sample from culture 7504
+    2. 10 uL of dPBS
+    3. 100 uL of stain buffer
+  6. Incubated for 10 minutes at room temperature in the dark 15:11 - 15:21
+  7. Centrifuged the 96 well plate at 650 RCF for 1 minute
+  8. Took phase contrast, blue fluorescence and red fluorescence micrographs of each well using the Zaber next to the incubators in the Library lab.
+
+Test 2
+
+  1. Took 0.2 mL sample from culture 7504 17:40
+  2.  ~~Filtered 5 mL dPBS to remove any debris~~
+  3. Prepared stain buffer:
+    1. 1 mL ~~filtered  ~~dPBS
+    2. 1 drop of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    3. 2 uL of Propidium Iodide, M6317 (recommended dilution for this solution is 1:500)
+  4. Prepared 3 wells in a 96 well plate, each containing:
+    1. 20 uL of sample from culture 7504
+    2. 80 uL of stain buffer
+  5. Prepared 3 wells in a 96 well plate, each containing:
+    1. 40 uL of sample from culture 7504
+    2. 60 uL of stain buffer
+  6. Incubated for 10 minutes at room temperature in the dark 17:42 - 17:52
+  7. Centrifuged the 96 well plate at 650 RCF for 1 minute
+  8. Took phase contrast, blue fluorescence and red fluorescence micrographs of each well using the Zaber next to the incubators in the Library lab.
+
+
+Results
+
+
+Link to micrographs: https://mia-
+capture.vow.tools/#/session/recM9Jat8xNx6FL5o/images
+
+

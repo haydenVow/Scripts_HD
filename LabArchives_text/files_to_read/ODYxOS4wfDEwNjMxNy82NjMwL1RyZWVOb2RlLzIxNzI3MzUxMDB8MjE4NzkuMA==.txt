@@ -1,0 +1,60 @@
+Performed by:
+
+
+Prepare media (note - prepping media for FACS and OT2 seeding, only FACS
+sorting 4 plates total)
+
+ ~~ ~~CDM4 Avian  ~~~~
+
+ ~~Volume medium required: [4] x [96] x [200] + 10 mL buffer = 86 mL  ~~
+
+HyCell CHO (CHOMP suspension medium)
+
+Volume medium required: [8] x [96] x [200] + 10 mL buffer = 165 mL
+
+
+
+
+Prepare plates
+
+  1. Added 200 uL/well of Growth Medium to plates using OT2 (link to protocol below)
+  2. Parafilm plates before closing the lid (sterile-side down, facing wells, as demonstrated in image below) & then parafilm lids and plates together (same fashion as is done for fix and stained plates in fridge) for transport to SCC facility 
+
+  
+
+
+
+
+Opentron setup
+
+  1. Fill 8 wells of 12-well reservoir with 11.5 mL media per well
+    1. Wells 1-4: CDM4Avian medium 
+    2. Wells 5-8: HyCell CHOMP suspension medium 
+  2. Load deck as shown below  
+
+  3. Run protocol (attached below) 
+
+
+
+
+Prepare FACS buffer
+
+  1. Prepared 20 mL of FACS buffer (PRF DMEM/F12 + 2% FBS).
+    1. 400 uL FBS + 19.6 mL PRF DMEM/F12
+  2. Sterile filter through a 0.2 µm filter.
+  3. Store at 4ºC until needed
+
+
+
+
+Prepare 1 styrofoam boxes to transfer to SCC facility
+
+1 Box with:
+
+  * Pre-filled (medium) multi-well plates, parafilmed
+  * An ice pack
+  * Hoechst (ddH20) - vial is located in large new fridge in library lab, top shelf of door in 70 mL urine container
+  * Extra FACS Buffer
+  * Tube containing cells
+
+

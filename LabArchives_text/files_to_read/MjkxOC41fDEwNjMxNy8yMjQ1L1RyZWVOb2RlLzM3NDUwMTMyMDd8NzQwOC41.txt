@@ -1,0 +1,113 @@
+
+
+## Completed by: Bec Screnci
+
+
+
+
+Summary:
+
+F_DOLLY12 (Sheep Fibroblast) cells were sorted into 6 x 384-well plates.
+
+  * 3 of the plates were sorted with cells that had been Hoechst and Propidium Iodide stained.
+  * 3 of the plates were sorted with cells that had not been stained, and were sorted based on forward and side scatter on the FACS (fluorescence activated cell sorter).
+
+Each plate was filled with 100% fresh growth media in columns 1-12, and 1:1
+fresh:conditioned media (supernatant from confluent flasks) in columns 13-24.
+
+  
+
+See picklists and clonal expansion information here:
+
+https://docs.google.com/spreadsheets/d/1-rset_nxJpjrijs58CncU-
+EytSG60Ul2BU_ocRJCizo/edit#gid=51874976
+
+
+
+
+Initial screening:
+
+All plates were scanned on the Zaber at Days 1, 2, 3, 7, 10 and 14 post-sort
+and the images were run through the existing ML (machine learning) model (for
+obtaining automated cell counts).
+
+At Day 7 (post-sort), this graph was generated to demonstrate the % of total
+wells within each condition where the model counted ≥15 cells within each
+well.
+
+According to this graph, there appears to be a trend leaning towards
+conditioned media, however there were limitations with the ML model that will
+be discussed further, and subsequently we cannot conclude any direct
+correlation with these results.
+
+
+
+
+Clonal expansion:
+
+3 clonal populations continues to proliferate throughout the SCC pipeline, and
+generated MCB_2's:
+
+F_DOLLY12_1A16 (from stained pre-sort cells, in 1:1 fresh:conditioned growth
+media)
+
+F_DOLLY12_3P23 (from stained pre-sort cells, in 1:1 fresh:conditioned growth
+media)
+
+F_DOLLY12_4C4 (from unstained pre-sort cells, in fresh growth media)
+
+1 x T25 flask of each of these cells were maintained in culture to determine
+total doublings of the cells.
+
+See:
+https://docs.google.com/spreadsheets/d/1V8awnFZCaKBzbKTSFXCdy3iZd4wFAyTEWebNI-N1Lko/edit#gid=1008617076
+
+For the doubling calculator for each of the above clonal populations.
+
+At the end of the continuous passaging process, total doublings were
+calculated:
+
+  * clone F_DOLLY12_4C4 had achieved 58.29550543 total doublings (from biopsy isolation)
+  * clone F_DOLLY12_1A16 had achieved 44.27099577 total doublings (from biopsy isolation)
+  * clone F_DOLLY12_3P23 only ever achieved 37.35162108 total doublings (from biopsy isolation) before senescing.
+
+
+
+
+Key Findings:
+
+2 x clonal cell lines from the F_DOLLY12 cell line were able to achieve >40
+total cell doublings (from initial biopsy isolation). This surpassed the
+natural hayflick limit and suggests the cells may be immortal or may
+demonstrate greater longevity than most mammalian cell lines.
+
+
+
+
+Limitations:
+
+  * Due to inaccuracies in the ML model (at both low and high confluence of cells), the results generated when relying on the ML model are not trustworthy.
+  * Due to the above limitation, we may not be able to identify whether we successfully selected the best clonal populations (as some high confluence wells were listed as '0' cells and hence, were not selected forward.
+  * When comparing Hoechst stained vs unstained cells (stained before sorting) and conditions such as fresh media compared to conditioned media, the ML model's results are not accurate enough to conclude any positive or negative effect on cells within the cloning pipeline.
+  * Day 14 was identified as a suitable time to image and pick clones from 384-well plates, however due to their high confluence, it may be preferable to pick clones (passage/expand) at an earlier timepoint. We have not performed any analysis to determine the optimal time cells should be in 384-well plates before expansion, so cell proliferation may have been halted once confluence was reached.
+
+  
+
+Future directions:
+
+  * Following on from this experiment, it is clear the ML model needs to be updated and trained with more data.
+  * The correlation between cells being stained with Hoechst/PI before sorting will need to be investigated again
+  * The correlation between clonal survival & proliferation in fresh vs conditioned media will need to be investigated again
+  * Once a new ML model is trained to perform better, the images generated in this experiment can be re-analysed to ideally obtain accurate cell count results, and this may allow us to understand which conditions lead to clonal survival & proliferation.
+  * Collate data from multiple SCC runs and/or run optimisation experiments to identify the optimal duration cells should stay in 384-well plates before expansion into 96-well plates.
+  * Generate WCB_2s for the top 2 clonal cell lines generated (F_DOLLY12_4C4 & F_DOLLY12_1A16).
+
+  
+
+Note* Throughout continuous expansion, it was noticed that F_DOLLY12_3P23
+decreased its rate of proliferation demonstrating senescence of the cell line
+just under 40 doublings. This clone will hence only be used within RnD
+(mutagenesis) and will not be expanded to a WCB_2 unless it undergoes
+modification to allow it to expand further.
+
+

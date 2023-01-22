@@ -1,0 +1,60 @@
+
+
+## Performed by: Avani, Bec  
+
+
+
+
+
+
+
+Make a 'picklist' on a google sheet to record which wells are to be picked.
+
+  
+
+Note* This protocol will talk about source wells and destination wells  
+Source wells = the original well that the clonal population is in  
+Destination wells = the location in the new plates where the clonal population
+of cells will be seeded
+
+  1. Added 500uL/well of Growth media to 7 wells of 24-well plate. Incubate at 37ºC  14 :20 .
+  2. Aliquotted 1mL dPBS. Incubate at 37C.  ~14:25  pm.
+  3. Aliquotted 1mL 1x Tryple. Incubate at 37C.  ~14:25  pm.
+  4. Use a permanent marker to circle around the wells selected on the lid of the multi-well plates (so that when you are in the BSC you know which wells are to be selected)  14:25  pm.
+  5. Aspirate supernatant. 14:47
+  6. Wash each selected well with 100 uL dPBS.  
+  7. Add 50uL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min. [Note* cells at early stages of cloning usually take longer to detach than later passage]  
+Incubation time  15:00 - 15:15 .
+
+  8. Check regularly under the microscope to see if cells across all wells are detaching.
+  9. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with pre-warmed growth media (150uL/well) (from the destination well)
+    2. Mix cell suspension well and collect entire cell suspension (cells, tryple and neutralising growth media)
+    3. Collect in a pipette and transfer into its designated destination well (the destinatinon well already contains growth media).
+    4. Mix well to disperse the cells evenly throughout the well.
+    5. Do not move the destination plate, allow the cells to attach.
+    6. If you accidentally move the destination plate, pipette in each well keeping the tip pressed to the side and pipetting up and down repetitively to create even dispersion of cells throughout the well (this will help avoid clumping of cells in the centres of the wells). 15:26
+  10. Transfer flask to incubate at 37ºC, 5% CO2.  :  pm.
+
+  
+
+  
+
+Plates seeded:
+
+7477-F_DOLLY12-Sheep P2-1of1
+
+
+Reagent  
+Sv2 ID  
+  
+Growth Media  
+M 5894  
+  
+Tryple  
+M 5076  
+  
+dPBS  
+A 5618  
+
+

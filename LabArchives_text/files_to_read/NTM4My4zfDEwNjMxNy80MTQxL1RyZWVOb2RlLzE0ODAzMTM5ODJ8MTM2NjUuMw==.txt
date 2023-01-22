@@ -1,0 +1,175 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Feed performed by: AK  
+
+
+
+
+Culture IDs:
+
+Flask ID(s)  
+Flask ConditionFlask Type  
+8147-F_DOLLY12-Sheep P11-1of1  
+1T75  
+8148-F_DOLLY12-Sheep P11-1of1  
+2T25  
+8149-F_DOLLY12-Sheep P11-1of1  
+3T25  
+8150-F_DOLLY12-Sheep P11-1of1  
+5T25  
+8151-F_DOLLY12-Sheep P11-1of1  
+RPMI controlT25  
+8152-F_DOLLY12-Sheep P11-1of1  
+Serum controlT25  
+8191-F_DOLLY12-Sheep P11-1of1  
+6T25  
+  
+8192-F_DOLLY12-Sheep P11-1of1  
+7T25  
+  
+8193-F_DOLLY12-Sheep P11-1of1  
+8T25  
+  
+8194-F_DOLLY12-Sheep P11-1of1  
+9T25  
+  
+8195-F_DOLLY12-Sheep P11-1of1  
+EMEM-alpha controlT25  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 7% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 7% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 7% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 7% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 7% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 7% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 7% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 7% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 7% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 7% FBS  \+ 1X P/S (EMEM-alpha control)
+
+  
+
+
+
+
+Process:
+
+  1. Take 2x phase images of each condition 
+  2. Aliquoted  3 mL  mL of  Growth Media:
+    1. Serum/RPMI/EMEM control 
+    2. Condition 1/2/3/5/6/7/8/9
+  3. Placed in water bath    11:48    
+
+  4. Removed  50  % of supernatant from vessel. 
+  5. Replaced with  3  mL (per well/per vessel) of  respective growth media. 
+  6. Returned vessel to incubate at:  13:02    
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#81 - thermo), Lab [Main/Library/Production]
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlA6455  
+  
+GM - Condition 1M6844  
+GM - Condition 2  
+M6845  
+GM - Condition 3  
+M6846  
+GM - Condition 5M6847  
+GM - RPMI controlM6848  
+GM - Condition 6  
+M6851  
+GM - Condition 7  
+M6852  
+GM - Condition 8  
+M6853  
+GM - Condition 9  
+M6854  
+GM - EMEM-alpha controlM6855  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  
+50  % media changed on vessel(s)
+
+  1. 8147-F_DOLLY12-Sheep P11-1of1
+  2. 8148-F_DOLLY12-Sheep P11-1of1
+  3. 8149-F_DOLLY12-Sheep P11-1of1
+  4. 8150-F_DOLLY12-Sheep P11-1of1
+  5. 8151-F_DOLLY12-Sheep P11-1of1
+  6. 8152-F_DOLLY12-Sheep P11-1of1
+  7. 8191-F_DOLLY12-Sheep P11-1of1
+  8. 8192-F_DOLLY12-Sheep P11-1of1
+  9. 8193-F_DOLLY12-Sheep P11-1of1
+  10. 8194-F_DOLLY12-Sheep P11-1of1
+  11. 8195-F_DOLLY12-Sheep P11-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8147: https://mia-capture.vow.tools/#/session/recAiRZcKoUHWiNGa/images
+
+8148: https://mia-capture.vow.tools/#/session/rec1B1h0ZUEl14XMX/images
+
+8149: https://mia-capture.vow.tools/#/session/recLCu6sZt2SnJq3S/images
+
+8150: https://mia-capture.vow.tools/#/session/rec5u8IYXABraR2QS/images
+
+8151: https://mia-capture.vow.tools/#/session/recNtc50NNZyScANG/images
+
+8152: https://mia-capture.vow.tools/#/session/recioafBxcAEwHCRB/images
+
+8191: https://mia-capture.vow.tools/#/session/recGA8wGRFQYn3qmX/images
+
+8192: https://mia-capture.vow.tools/#/session/recF36144F3yHJJYg/images
+
+8193: https://mia-capture.vow.tools/#/session/rec4INF5MPF7pEZeZ/images
+
+8194: https://mia-capture.vow.tools/#/session/rectCefe0tiygiFHq/images
+
+8195: https://mia-capture.vow.tools/#/session/receQTW9ng6papi5x/images  
+
+

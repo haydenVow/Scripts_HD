@@ -1,0 +1,72 @@
+
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Process:
+
+  1. Warm 7 mL of growth media in the waterbath 12:25   
+
+  2. Prepare 500 uL sterile filtered solution of PBS + Hoechst (1:1). Then, stain 2 columns of the 96 wp (12 wells/condition) with the following conditions:
+    1. column 2 and 3: no stain (control)
+    2. column 4 and 5: Hoechst stain with 4 uL/mL for 1 h (and then perform a 100% media change) 15:16 - 14:16  
+
+    3. column 6 and 7: Hoechst stain with 4 uL/mL for 24 h
+    4. column 8 and 9: Hoechst stain with 8 uL/mL for 1 h (and then perform a 100% media change) 15:16 - 14:16
+    5. column 10 and 11: Hoechst stain with 8 uL/mL for 24 h
+  3. The plate was incubated at 37 degrees C, 5% CO2 (incubator #68).
+  4. Image the centre of each well on 5x, DAPI. Also image the whole well on DAPI and phase.
+    1. DAPI exposure: 70
+    2. Phase exposure: 30
+  5. Returned plate to incubator 16:50
+
+
+
+
+Observations/Summary:
+
+Hoechst stained (with different concentrations and times) and imaged 96 well
+plate:
+
+#7878
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+dPBS (for washing & neutralising)a6331  
+  
+Growth Mediam6687  
+  
+Hoechst  
+s3722  
+  
+  
+  
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,49 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+
+LINK TO AIRTABLE ENTRY PAGE:  
+
+RELATED TO MILESTONE:  KR2- Generate >1500 clones per month starting Sept 1st
+
+AIM/PURPOSE: To determine the effect of Hoechst in FACS sorting on cell
+selection, to determine the effect of conditioned media on cells in 384-well
+plate and to determine the required length of time before expansion into
+96-well plates.
+
+HYPOTHESIS: That staining the cells with Hoechst either has a positive or
+negative effect on cell selection during FACS (for favourable cells), and that
+conditioned media will allow more cell colonies to proliferate from the
+starting point of 1 cell. We also hypothesise that this clonnig run will
+provide iinvaluable information about the confluence that can be reached in a
+384-well plate, and indicate the most effective time to expand cells beyond
+384-well stage.
+
+RESULTS SUMMARY: See report
+
+CONCLUSIONS: Our findings around our hypothesis were inconclusive due to cell
+counting discrepencies with our ML model.  However, 2 x clonal cell lines from
+the F_DOLLY12 cell line were able to achieve >40 total cell doublings (from
+initial biopsy isolation). This surpassed the natural hayflick limit and
+suggests the cells may be immortal or may demonstrate greater longevity than
+most mammalian cell lines.
+
+NEXT STEPS:
+
+\- increase ML model cell counting accuracy
+
+\- repeat experiment using optimized ML model or staining method for accurate
+cell counts
+
+see report for more detailed future directions
+
+  
+
+

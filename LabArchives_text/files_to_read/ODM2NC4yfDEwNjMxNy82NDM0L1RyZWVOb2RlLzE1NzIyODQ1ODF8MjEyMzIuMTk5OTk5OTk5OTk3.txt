@@ -1,0 +1,33 @@
+Performed by:
+alamarBlue user manual
+Workflow overview
+
+
+
+Process
+
+
+### Manually checked cells
+
+  1. Removed the cells from the incubator and examine them under magnification for abnormalities
+  2. Image all wells in Row B before proceeding with alamarBlue staining.
+
+Cell labelling and absorbance reading
+
+  1. Removed well plate(s) from the incubator and added 10 uL (96-wp) or 4 uL (384-wp) of the working alamarBlue solution directly to each test and blank well of the 96 well plate using a multichannel pipette.
+
+  2. Incubated the wells at 37ºC (30ºC if working with reptilian cells) for 1-4 hours. Timestamp
+
+  3. After incubation, read the absorbance at 570 nm and 600 nm using the SPECTROstar Nano Absorbance Reader
+
+    * Note: alamarBlue specific absorbance is measured at 570 nm, the 600 nm absorbance reading is used to eliminate background signal contributed by cell debris or other non specific absorbance.
+
+  4. Cell concentrations in wells in each column were seeded at the following densities:  
+
+
+Data
+
+
+[insert relevant data output i.e. links to spreadsheets, standard curve]
+
+

@@ -1,0 +1,23 @@
+
+
+Process:
+
+1\. Aliquot 35 mL of growth media and place to warm bath to warm up 10:55
+
+  1. Growth media - CD CHO + 10%KSR + 1:100 ACA + 4mM L-glutamine
+
+2\. Set up Opentrons deck according to the protocol attached below
+
+3\. Add 75 uL of growth media to each well of the 384 well plate
+
+4\. Calibrate Opentrons and proceed with 384>96 well picking
+
+  1. Start time: 11:08:58 AM
+  2. Finish time: 11:58
+
+Total run time: 00:48:57
+
+Eliminating 26 second delay give a total run time of 48 min and 31 seconds,
+which gives a time of 30.3 second per 384 well plate
+
+

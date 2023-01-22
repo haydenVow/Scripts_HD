@@ -1,0 +1,258 @@
+Medium  
+Conditions  
+Volume (mL)  
+Basal medium  
+Basal medium volume (mL)  
+FBS (mL)  
+KSR (mL)  
+Anti-clumping agent (mL)  
+Poloxamer 188 100 g/L (mL)  
+Glutamax (mL)  
+Pen/Strep  
+  
+A  
+Negative Controls  
+750  
+DMEM/F12  
+600  
+150  
+0  
+0  
+0  
+0  
+7.5  
+  
+B  
+Positive Controls, condition 1  
+80  
+CD CHO  
+60.8  
+0  
+16  
+0.8  
+0.8  
+0.8  
+0.8  
+  
+C  
+2  
+32  
+RPMI1640  
+24.32  
+0  
+6.4  
+0.32  
+0.32  
+  
+  
+0.32  
+  
+  
+0.32  
+  
+  
+  
+D  
+3  
+32  
+CDM4 CHO  
+24.32  
+  
+0  
+6.4  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+  
+E  
+4  
+32  
+CDM4 Avian  
+24.32  
+  
+0  
+6.4  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+  
+F  
+5  
+32  
+HyCell CHO  
+24.32  
+  
+0  
+6.4  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+  
+G  
+6  
+32  
+ActiPro  
+24.32  
+  
+0  
+6.4  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+  
+H  
+7  
+32  
+CDM4HEK293  
+24.32  
+  
+0  
+6.4  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+0.32  
+  
+
+
+  
+  
+Prepare the following media to be used for the whole experiment:
+
+Medium  
+Conditions  
+Volume (mL)  
+Basal medium  
+Basal medium volume (mL)  
+FBS (mL)  
+KSR (mL)  
+Anti-clumping agent (mL)  
+Poloxamer 188 100 g/L (mL)  
+Glutamax (mL)  
+Pen/Strep  
+  
+A  
+Negative Controls  
+750  
+DMEM/F12  
+600  
+150  
+0  
+0  
+0  
+0  
+7.5  
+  
+B  
+Positive Controls, condition 1  
+500  
+CD CHO  
+380  
+0  
+100  
+5  
+5  
+5  
+5  
+  
+C  
+2  
+140  
+RPMI1640  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+  
+D  
+3  
+140  
+CDM4 CHO  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+  
+E  
+4  
+140  
+CDM4 Avian  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+  
+F  
+5  
+140  
+HyCell CHO  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+  
+G  
+6  
+140  
+ActiPro  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+  
+H  
+7  
+140  
+CDM4HEK293  
+106.4  
+0  
+28  
+1.4  
+1.4  
+1.4  
+1.4  
+
+

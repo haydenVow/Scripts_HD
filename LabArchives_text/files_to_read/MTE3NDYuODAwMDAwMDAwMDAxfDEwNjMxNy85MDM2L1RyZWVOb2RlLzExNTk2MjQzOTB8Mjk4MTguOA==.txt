@@ -1,0 +1,44 @@
+
+
+Performed by: CO & VP
+
+
+
+
+Reagents & materials
+
+ItemID  
+BCA Assay kit (Thermo Fisher)Thermo Fisher; Cat #23227 (No stock ID)  
+10x RIPA Buffer (Milipore)STK-158  
+Protease inhibitor cocktail (Sigma)STK-2503
+
+
+  
+  
+Process:
+
+  1. Prepared 30mL 1x RIPA buffer with 1:200 protease cocktail inhibitor (150 uL inhibitor solution) and returned to fridge
+  2. Thawed RIPA standards on ice block
+  3. Performed tissue lysis as described in experiment Plan. Briefly:
+    * Weighed before processing and recorded weight
+    * Minced the tissues to small pieces using shears in mortar to homogenise
+    * Added liquid nitrogen to homogenised tissue and froze small pieces of tissue in liquid nitrogen, then crush with a pestle and mortar
+    * Resuspended ground/powdered tissue sample in cold RIPA buffer with protease inhibitors. 2mL lysis buffer used for ~100mg tissue (weight before processing)
+    * Centrifuged at 5255 xg for 12 minutes at room temperature (larger centrifuge used as volumes were too large to process using bench-top microfuge which can reach 12 000xg)
+  4. Performed cell pellet lysis as described in experimental plan. Briefly:
+    * Added cold RIPA with protease inhibitors directly to cell pellet. Moved to a smaller vessel if required (e.g. if in 500mL centrifuge tube)
+    * Sheared using 21G needle 20-30 times
+    * Centrifuged at 12 000 xg for 12 minutes at room temperature
+    * Supernatant was cloudy following centrifugation. Supernatant was reserved, sheared again 20-30 times and re-centrifuged under the same conditions
+  5. Aspirated supernatant and deposited into new labelled tubes
+    * re centrifuged Morsel 2 sample (disturbed pellet during aspiration of lysis)
+  6. Recorded sample information and preparation details in G-sheet
+  7. Prepared BCA reagent as per manufacturer's instruction
+    * 6mL reagent A + 120uL reagent B. Inverted gently to mix
+  8. Prepared BCA plate as per layout detailed in G-sheet
+  9. Incubated for 30 mins at 37degC at 3:40 PM
+  10. Retrieved from incubator and read absorbance using plate reader at 562 nm at 4:10 PM
+  11. See G-sheet for results
+  12. Stored samples in labelled specimen jar at -20degC
+
+

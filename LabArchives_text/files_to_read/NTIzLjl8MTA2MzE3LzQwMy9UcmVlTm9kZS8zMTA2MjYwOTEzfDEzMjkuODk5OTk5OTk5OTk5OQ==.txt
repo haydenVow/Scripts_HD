@@ -1,0 +1,73 @@
+Aim/Purpose
+
+
+1\. To assess cell adhesion and coverage when direct seeding of DOLLY12 muscle
+precursor cells onto both sides of zein scaffold vs cell suspension seeding
+onto zein scaffold.
+
+2\. To assess cell adhesion and coverage when seeding of DOLLY12 muscle
+precursor cells onto wet scaffold vs scaffold dried for five hours.
+
+
+Technical Gap
+
+
+Currently at Vow cells are seeded directly onto one side of zein scaffolds and
+results have shown there are consistently more cells on one side of the
+scaffold than the other. It is unknown if seeding directly onto both sides of
+the scaffold or suspension seeding will ensure good cell coverage on both
+sides of the scaffold. Ensuring good cell adhesion and coverage on both sides
+of the zein scaffolds is important when using more automated imaging processes
+which will not be able to flip the sample to image the other side if cells are
+only present on the side which is not visible to the microscope.  
+  
+The zein scaffolds currently being made are left to dry, which is suspected to
+improve cell seeding. This is due to dry scaffolds appearing more porous than
+wet scaffolds, with a more cracked topography. This is predicted to be more
+absorbent than a pre-wetted material surface and thus better for absorbing the
+cell suspension, resulting in better cell penetration and adhesion. However,
+dry and wet scaffolds have not yet been compared side by side to confirm this.
+Since drying samples takes a considerable amount of time, it is important to
+establish if there is a noticeable improvement in seeding dry zein samples
+instead of wet zein samples.
+
+
+Hypothesis
+
+
+1\. Dried scaffolds will result in higher cell confluence upon seeding than
+wet scaffolds.
+
+2\. Both cell suspension* and flipped scaffold** seeding will result in cell
+coverage on both sides of the scaffolds.
+
+  
+
+*Cell suspension seeding is depositing the cells onto the scaffold by mixing them into the total amount of growth media to be used to feed the cells, and depositing this all at once into the well with the scaffold.
+
+**Flipped scaffold seeding is depositing the cells onto the scaffold by mixing
+them into a small amount of growth media and depositing half on one side,
+waiting for the cells to settle, and depositing the remaining half on the
+other side after flipping the scaffold, before then adding the remaining
+growth media.
+
+
+Method/Procedure
+
+
+  * Thaw DOLLY12 cells and grow in continual culture (to be performed by cell availability).
+  * Prepare Zein samples.
+  * Dry zein samples to be used for the 'dry' condition for 4-5 hours.
+  * Plate zein samples.
+  * Harvest cells and seed onto zein scaffolds.
+  * D1 hoechst stain live samples in treatment groups +image. 100% feed of all remaining samples.
+  * D2 100% feed of all samples.
+  * D3 change to E6 media. 100% feed of all samples. 
+  * D4 100% feed of all samples.
+  * D5 100% feed of all samples.
+  * D5 100% feed of all samples.
+  * D7 hoechst stain live samples in treatment groups +image. 
+
+  
+
+

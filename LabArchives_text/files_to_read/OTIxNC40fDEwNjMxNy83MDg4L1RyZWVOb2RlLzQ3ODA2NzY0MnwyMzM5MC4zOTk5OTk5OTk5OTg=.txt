@@ -1,0 +1,98 @@
+Performed by: LL EC
+Process
+  
+  
+  1. Set up OT2 deck with working stock dilutions, control media, basal medium (RPMI/HyCellCHO), and ACA (see diagram below - note that basal medium is not shown in this layout) 
+  2. Performed OT2 protocol for media mixing (protocol attached below)
+    1. Protocol started: 12:55:59 PM
+    2. Run time: 00:41:32
+  3. While protocol was running, prepared 5 x control media conditions (6 mL of each): 
+    1. Control 1: 75/25 RPMI/HyCell + 1:100 ACA 
+    2. Control 2: 75/25 RPMI/HyCell + Nuvonis ingredients 
+    3. Control 3: 50/50 RPMI/HyCell + Nuvonis ingredients 
+    4. Control 4: Freestyle 293 + Nuvonis ingredients 
+    5. Control 5: 75/25 RPMI/HyCell + 1:100 ACA + all factors at mid point (note: this mix went very yellow, assumed to be quite acidic)
+
+
+Protocol
+Tube rack setups
+Tube Rack #112345  
+AGlutamax Working StockSodium pyruvate Working StockCell boost supplement
+Working StockEGF Working StockACA  
+BTrace elements B Working StockRevitaCell Working StockYeast Working
+StockPutrescine dihydrochloride Working Stock  
+  
+CKSR Working StockMEM essential amino acids Working StockIGF-1-LR3 Working
+StockL-Ornithine monohydrochloride Working Stock  
+  
+  
+  
+  
+  
+  
+  
+  
+Tube Rack #212345  
+ACondition 1Condition 4Condition 7Condition 10Condition 13  
+BCondition 2Condition 5Condition 8Condition 11Condition 14  
+CCondition 3Condition 6Condition 9Condition 12Condition 15  
+  
+  
+  
+  
+  
+  
+  
+Tube Rack #312345  
+ACondition 16Condition 19Condition 22Condition 25Control 2  
+BCondition 17Condition 20Condition 23Condition 26Control 3  
+CCondition 18Condition 21Condition 24Control 1Control 4
+
+
+Volume6  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Freestyle 293NANANA5.3748  
+Difco Yeast Extract UF11006.0000.0600  
+IGF-1 LONG R30.000050.050.0000.0060  
+EGF0.000010.050.0000.0012  
+L-Ornithine monohydrochloride0.02200.1200.0060  
+Putrescine dihydrochloride0.02200.1200.0060  
+Anti-clumping agentNANANA0.0600  
+glutamax  
+  
+  
+0.12  
+Trace elements b  
+  
+  
+0.006  
+KSR  
+  
+  
+0.06  
+sodium pyruvate  
+  
+  
+0.06  
+mem essential  
+  
+  
+0.12  
+mem non essential  
+  
+  
+0.06  
+revitacell  
+  
+  
+0.06  
+  
+  
+  
+Total medium vol (mL)6.0000
+
+

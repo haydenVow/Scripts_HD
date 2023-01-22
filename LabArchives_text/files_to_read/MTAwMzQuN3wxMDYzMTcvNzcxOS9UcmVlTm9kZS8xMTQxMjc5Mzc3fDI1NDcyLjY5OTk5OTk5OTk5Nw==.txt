@@ -1,0 +1,17 @@
+
+
+
+
+
+Removed cultures shaking at 120 rpm from the incubator.
+
+  * 11458
+  * 11488
+  * 11491  
+  
+
+Passed each cell suspension through a 0.4uM filter into a fresh 50mL
+bioreactor tube. Returned the cultures to incubate at 30 degrees, 5% Co2
+(#116) shaking at 120rpm.
+
+

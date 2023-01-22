@@ -1,0 +1,30 @@
+Day 0: Start bioreactor run  
+StepTaskDescriptionReferenceDoneChecked  
+42Finish sterility testTake a sample and observe under the microscope  
+  
+  
+  
+43Calibrate dissolved oxygen probe  
+Operating manual page(s) 76, 43  
+  
+  
+44Configure the operating parametersSet level probeOperating manual page(s)
+37, 42  
+  
+  
+45Start data loggingSetting -> data logger -> start new experimentOperating
+manual page(s) 81, 46  
+  
+  
+46Seed the batchAseptically transfer the seed cells to a sterile bottle. Make
+an aseptic connection between the bottle and the bioreactor mutliport. Pump
+the seed cells into the bioreactor.Operating manual page(s) 81, 46Need extra
+long tubing with sterile luer cap to be put into BSC to aspirate seed cells
+and transfer to bioreactor or STT connector. Should we add pen strep at this
+point instead of before sterility test to prevent hiding contamination?  
+  
+  
+  
+  
+
+

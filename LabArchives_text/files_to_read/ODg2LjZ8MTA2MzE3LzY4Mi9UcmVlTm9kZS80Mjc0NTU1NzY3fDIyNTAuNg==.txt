@@ -1,0 +1,191 @@
+
+
+May 03, 2021, 2:36 PM AEST
+
+  
+
+## Seeding
+
+  Media used: DMEM/F12 + 20% FBS + 1 X P/S + P38i (1:2000) - M4360
+
+2 x 24 well plate:
+
+Plate 1: Same seeding density
+
+Seeding density of: 2500 cells per cm^2
+
+Seeding density per well: 4750 cells/well
+
+Total cells required:  114,000 cells
+
+Cell suspension: 0.05179 mL
+
+Media required: 12mL +0.5 for excess
+
+  
+
+Plate 2: Varying seeding density
+
+Seeding density:
+
+Seeding media: 2mL for 4 wells:
+
+  
+
+Column 1: 1000 cells/cm2
+
+Seeding density per well:  1900 cells/well
+
+Total cells required (4 wells):  7,600 cells
+
+Cell suspension: 0.00345 mL
+
+  
+
+Column 2: 1400 cells/cm2
+
+Seeding density per well:  2660 cells/well
+
+Total cells required (4 wells):  10,640 cells
+
+Cell suspension: 0.00483 mL
+
+  
+
+Column 3: 1800 cells/cm2
+
+Seeding density per well:  3420 cells/well
+
+Total cells required (4 wells):  13,680 cells
+
+Cell suspension: 0.00621 mL
+
+  
+
+Column 4 : 2200 cells/cm2
+
+Seeding density per well: 4180  cells/well
+
+Total cells required (4 wells):  16,720 cells
+
+Cell suspension: 0.00760 mL
+
+  
+
+Column 5: 2600 cells/cm2
+
+Seeding density per well:  4940 cells/well
+
+Total cells required (4 wells):  19,760 cells
+
+Cell suspension: 0.00898 mL
+
+  
+
+Column 6: 3000 cells/cm2
+
+Seeding density per well:  5700 cells/well
+
+Total cells required (4 wells):  22,800 cells
+
+Cell suspension: 0.01036 mL
+
+  
+
+
+
+
+Fix Cells, 1 day after seeding.  
+Process:
+
+  1. Removed plate(s) `culture IDs:`   6595 + 6596       
+
+  2. Removed media from all wells
+  3. Washed wells 2 times in  1 mL of PBS
+  4. Added    0.5 mL of 4% PFA to each well and incubate for  `15`  min at room temperature.  11:00-11:15 (6596), 13:50-14:05 (6595)
+  5. Washed pieces 2 x more times in PBS at room temperature. `  
+`
+
+  6. Aspirate the PBS and leave the cells just covered by fresh PBS.
+  7. PBS4490  
+PFA2004  
+
+
+
+
+Zaber imaging
+
+Image alll wells after fixing of the plate by following the instructions here.
+
+Once images acquired, use the cell counting algorithm to assess numbers
+(Machine Learning)
+
+
+
+
+Janus Green staining
+
+Plate 6596 used
+
+Notes: The addition of diluted hydrochloric acid easily and immediately leads
+to dye elution from stained cell layers into the acidic supernatant which
+consequently is transferred into 96-well plates and read on a microplate
+reader at 595 nm.
+
+Reagents:
+
+  1. Janus Green 0.3% solution in PBS: Mix ID4399
+  2. 0.5M HCl: Mix ID4400
+
+Protocol:
+
+  1. Remove any media from the plate containing the adherent cells. 
+  2. Add 1X Janus Green Stain (0.3% solution in PBS) per well, sufficient to cover the cells = 0.5 mL in 24-well plate. 
+    1. Start: 11:20
+  3. Incubate for 5 min at room temperature.
+  4. Remove dye, wash 5 times in deionized water (1 mL each wash) or until excess dye is removed.
+  5. Remove last water wash, add 0.5 M HCl (sufficient volume to cover the cells/scaffolds) and incubate for 10 min. 11:52-12:02
+  6. Transfer 200 uL of the stained HCL into the wells of an untreated 96w plate for plate reader assessment.
+  7. Add 200ul of HCL to 4x wells to act as a blank for the plate reader. 
+  8. Absorbance read by the Nanostar plate reader at 595nm. 
+
+  
+
+
+
+
+Images: Images were taken of some wells on plate 6596 to demonstrate uptake of
+stain prior to HCl exposure.  
+
+Images were taken on phase 5x
+
+MIA link: https://mia-capture.vow.tools/#/session/recRP4BEzDVPXsa3e/images
+
+  
+
+  
+
+
+
+
+Results
+
+The table of data below was produced by the plate reader. The readings
+displayed already have the blank value deducted. The line graph was produced
+in excel using the mean absorbance reading for each seeding density.
+
+
+
+1000 cells1400 cells1800 cells2200 cells2600 cells3000 cells  
+0.140.200.230.250.350.31  
+0.210.220.250.240.330.30  
+0.190.270.270.300.270.32  
+0.210.220.210.230.270.31  
+Mean  
+0.190.230.240.250.300.31  
+  
+  
+  
+
+
+

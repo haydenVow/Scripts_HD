@@ -1,0 +1,97 @@
+
+
+For each Day of imaging (Day 1, 3, 4 and 6) 3 sets of Phase and DAPI images
+for each culture were run though the MIA tool 'uCarrier cell count'.
+
+  
+NOTE: There were considerably less microcarriers analyzed from samples taken
+from cultures on Day 1 (n=33-96) compared to Days 3-6 (n=187-210). This was
+because Phase images captured on Day 1 were undersaturated and therefore the
+'Ucarrier cell count tool' could not detect all the microcarriers in each ROI
+imaged.
+
+The MIA analyzed data was then processed in the following way.
+
+  1. For each time point, cell counts per carrier for each well imaged were pooled together based on their flask of origin. 
+  2. These counts were then added to the following spreadsheet https://docs.google.com/spreadsheets/d/1OL-FSjT623d961APs-ht3lqXhCDIGGSZ3xvplwkSDoY/edit?usp=sharing
+  3. For each time point, raw counts for each culture were imported into Prism and Outliers were identified using Rout's method (Q = 1%) then removed. 
+  4. Descriptive statistics were then obtained on the resulting datasets to obtain mean cell counts/microcarrier values for each culture at each time point. 
+  5. These mean values were consolidated in a separate table and a two way ANOVA was performed on the dataset using Geisser-Greenhouse correction. Fisher's LSD test was performed (Multiple comparison test) comparing the column means (main column effect) 
+    1. A main effect of culture condition and time on cell growth was found. 
+    2. There was a significant difference in cell growth identified in the E125 flasks vs both the tube spin conditions regardless of shake speed. However this difference was greater in the 250rpm tube spin condition vs the 230rpm tube spin condition (P = 0.0004 vs P = 0.036 respectively. 
+    3. There was a significant difference in cell growth identified in the 250rpm tube spins vs the 230rpm tube spins (P = 0.0449)  
+  6. The growth trends were graphed.
+
+  
+
+
+Additional Data
+
+
+DOLLY12 Cell morphology on the microcarriers in the E125, 250rpm Spin tubes
+and 230rpm spin tubes looked similar on Day 3 of the experiment. Unfortunately
+PHASE images captured on Day 1 of the experiment could not be used to make
+assessments of cell morphology as they were too dark. By Day 6 of the
+experiment there appeared more noticable differences in cell morphology on
+microcarriers between the E125 and Spin tube vessels. Cells on carriers in the
+spin tubes had a slightly more rounded or raised profile compared to cells on
+carriers in the E125 flasks. This difference was not as noticable between the
+E125 vs 230rpm Spin tube group as it was between the E125 vs 250rpm Spin tube
+group.
+
+Below are example PHASE images showing the expected flat and grooved cell
+morphology on the cytodex 1 microcarriers from all three culture conditions on
+Days 3, along with the more raised profile of cells in the Spin tubes by Day
+6.  
+  
+Day 3:
+
+E125 flask 1 (culture 7154) https://storage.googleapis.com/microscope-image-
+archive/2021-06-21T02:34:21Z_recgSTLcAxLezF202_7-Zaber_Phase-fused-A2.jpg
+
+250rpm Spin tube 1 (culture 7187): https://storage.googleapis.com/microscope-
+image-archive/2021-06-21T02:35:56Z_recgSTLcAxLezF202_7-Zaber_Phase-
+fused-B1.jpg
+
+230rpm Spin tube 1 (culture 7190): https://storage.googleapis.com/microscope-
+image-archive/2021-06-21T02:35:56Z_recgSTLcAxLezF202_7-Zaber_Phase-
+fused-C1.jpg
+
+  
+
+Day 6:
+
+E125 flask 1 (culture 7154): https://storage.googleapis.com/microscope-image-
+archive/2021-06-24T01:58:13Z_recgSTLcAxLezF202_7-Zaber_Phase-fused-A1.jpg
+
+250rpm Spin tube 1 (culture 7187): https://storage.googleapis.com/microscope-
+image-archive/2021-06-24T01:58:13Z_recgSTLcAxLezF202_7-Zaber_Phase-
+fused-B3.jpg
+
+230rpm Spin tube 1 (culture 7190): https://storage.googleapis.com/microscope-
+image-archive/2021-06-24T01:58:13Z_recgSTLcAxLezF202_7-Zaber_Phase-
+fused-C1.jpg
+
+
+
+
+Cell morphology images
+
+
+Day 6: E125 flask 2 (7185):
+
+  
+
+Day 6: 230rpm Spin tube culture 2 (7191):
+
+  
+
+  
+
+Day 6: 250rpm Spin tube culture 2: (7188):
+
+  
+
+
+MIA output files
+Prism Documents

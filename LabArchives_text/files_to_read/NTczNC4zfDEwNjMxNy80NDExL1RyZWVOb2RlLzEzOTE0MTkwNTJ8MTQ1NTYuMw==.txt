@@ -1,0 +1,40 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/22115?cf_workflow=500000005&ct_workflow=all&project_ids=16477&group_ids=5f43336f-60bb-4b55-8ad3-7a38f5c2ae7b&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+RELATED TO MILESTONE:  n/a  ( Tool development)
+
+AIM/PURPOSE: To develop a workflow/tool allowing us to quantify the success of
+our maturation studies
+
+HYPOTHESIS: Bradford ( or other Total protein assays) are suitable indicators
+for the progress of muscle maturation studies. Most relevant proteins involved
+in the later stages of myogenesis are captured using Bradford
+
+RESULTS SUMMARY: A working pipeline has been developed to analyse water
+soluble protein in mammalian cells has been constructed. This includes a
+clear, working methodology for:
+
+  1. Cell lysis and protein extraction
+  2. Plate format and reagent quantities (see scheme below for standardized plate format) to use for the Plate Reader analysis step
+  3. Automated data analysis to read out protein content (ug) using a Python script
+
+CONCLUSIONS: The Bradford Assay and associated pipeline steps described herein
+are a suitable and efficient method to analyse soluble protein in our cell
+cultures (scaffold free). Pronounced differences between myblasts (100ug) and
+mature muscle (~700ug) were measured in multiple experiments, demonstrating
+the robustness of the method, which could further be enhanced by automation.
+This simple assay will also be available and useful for other groups at Vow,
+specifically the product team.
+
+NEXT STEPS:
+
+  * Incorporate a cell counting module as part of the Bradford pipeline to normalize protein gains to cell numbers.
+  * Run proteomics on cell lysate to examine composition of soluble proteins and insoluble proteins missed by this assay to ensure no relevant (protein) markers of maturation are omitted
+  * compare to alternative total protein assays (BCA, Lowry etc) or protein analysis techniques to establish fidelity
+  * automate Bradford assay where possible to further enhance accuracy
+
+

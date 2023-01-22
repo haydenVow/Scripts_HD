@@ -1,0 +1,100 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Performed by: Bonnie  
+
+
+
+
+Media
+
+DMEM/F12 +20% FBS + 1 x P/S
+
+  
+
+
+Harvested Culture ID  
+Harvested vessel type  
+Seeded Vessel ID  
+Seeded Vessel Type  
+  
+7841  
+3 x wells of 6-well plate  
+8145-CHOMP9-Crocodile P1-1of1  
+T75
+
+
+  
+  
+### Process:  
+
+For Passage: Heat the following to 30C in the water bath
+
+  1. TrypLE:     6  mL in      1   tubes
+  2.  dPBS (for neutralising):   6  mL
+  3.  dPBS (for washing):     6 mL
+  4. DMEM + 20% FBS + 1 x PS for pellet resuspension):     1   mL
+  5. DMEM + 20% FBS + 1 x PS  for seeding   12    
+
+Time that all aliquots were placed in the water bath the warmed to 30C before
+use  14:45  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Passage  
+
+  1.  Removed vessel(s) from the incubator   16:25   
+
+  2. Washed the vessel(s) with dPBS (warmed).
+  3. Added 2mL  tryple to each vessel/well and incubated at 30˚C.
+  4. Start/Finish for TrypLE was  16:30-16:40     
+
+  5. Neutralised each with with   dPBS (equal to volume of tryple) and transferred to  1x 15 mL    tube.
+  6. Centrifuged at 650 x g for 5 min.
+  7. Start/Finish time for centrifugation was  16:48-16:53   
+
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in   2 mL   growth   media
+  10.  Aliquoted   20uL  of resuspended cells into a microcentrifuge tube for cell count.
+  11. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+
+    1. Total cell count was : 520K
+    2. Re-seeded approximately cells into 1x T75 flasks, giving a seeding density of 7K/cm
+    3.  Incubate at 30C and 5% CO2. 17:05
+
+
+
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple M6540  
+  
+dPBS (for washing & neutralising) A6522  
+  
+Growth Media DMEM/F12 M6790  
+  
+DMSO  
+A 3931  
+  
+FBS  
+A6443  
+  
+  
+  
+
+

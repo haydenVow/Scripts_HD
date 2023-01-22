@@ -1,0 +1,47 @@
+Aim/Purpose
+
+
+To determine optimal small molecule inhibitor concentration for cell viability
+during BUFFY myoblast differentiation
+
+
+Technical Gap
+
+
+The small molecules being tested in this experiment have not been previously
+used, and thus preliminary data on the optimal working concentrations for cell
+viability and myoblast differentiation must be gathered to inform the future
+DSD experiment.
+
+
+Methods/Procedures
+
+
+Table 1. Compounds and concentrations to be tested
+
+CompoundWorking concentrationC1C2C3C4C5  
+Dexamethasone1-100 nM1 nM25 nM50 nM75 nM100 nM  
+DAPT0.1 - 10 uM0.1 uM 1 uM2.5 uM5 uM10 uM  
+CHIR-990210.01 - 10 uM0.01 uM0.1 uM1 uM5 uM10 uM  
+SCH7729841- 100 nM1 nM25 nM50 nM75 nM100 nM  
+LDN-1931890.1 - 5 uM 0.1 uM0.5 uM1 uM2.5 uM5 uM
+
+
+DayProcedure  
+-2Gelatin coat 1x 96-well plate. Seed BUFFY at 70,000 cells/well  
+-150% feed plate with growth media  
+0100% media change with E6 media + respective small molecule  
+1-7 100% media changes  
+8 Sytox stain and fix plate with PFA  
+~9/10Immunohistochemistry (MyoD and MF20)
+
+
+  
+  
+Figure 1. Plate map of media conditions. Small molecules will be added to E6
+media in 5 different concentrations (C1-C5) with an additional treatment using
+C3 including FBS to ensure cell viability. Media conditions will be run in
+duplicate. E6 media + horse serum will be used as a control and will be run in
+triplicate
+
+

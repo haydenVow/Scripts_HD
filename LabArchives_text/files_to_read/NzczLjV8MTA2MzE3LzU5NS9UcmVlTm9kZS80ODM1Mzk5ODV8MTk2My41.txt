@@ -1,0 +1,115 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 46
+
+Total p38i required: 23
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+175  
+
+6508-DAISY4_16G9-Cow P6-1of3  
+  
+175  
+6521-DAISY4_16G9-Cow P6-2of3  
+  
+175  
+
+  
+6522-DAISY4_16G9-Cow P6-3of3  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   45mL  mL of  growth Media into  1x50mL   tube(s).
+
+2\. Removed the above cultures from the incubator, took two images of each
+culture under the 5x objective on the primovert, Phase. Returned cultures to
+incubate at 12:13.
+
+3\. Placed growth media aliquots in water bath   12:18 a/pm
+
+4\. Aspirated and discarded  50  % of supernatant from each vessel. 12:50
+
+5\. Replaced with  15 mL (per well/per vessel) of  growth   media.
+
+6\. Returned vessel to incubate at: 13:00
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+  * Incubator #67
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. The morphology of the cells did not appear consistent, some cells appear to have the 'flat egg morphology' and are not raised and triangular as expected. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media441346  
+ P38i (20mM stock)39780.005  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-
+capture.vow.tools/#/session/rec7kxgAohrAQtDi3,recNBgm2AftrbBFAH,recyJczMNCxvNzs23/images
+
+  
+
+

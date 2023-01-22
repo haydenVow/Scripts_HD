@@ -1,0 +1,97 @@
+
+
+Process:
+
+1\. Pre-load the designed 96>24 well plate 1-well picking protocol in the
+Opentrons software.
+
+2\. Aliquot 5 mL of the desired media required for the media runs and place in
+water bath to warm up 09:36
+
+  1. Growth media used was CD CHO + 10%KSR + 1:100 ACA + 4mM L-glutamine
+
+3\. Set up the Opentrons deck according to the layout prescribed in the
+designed protocol (See here)
+
+4\. Perform a dry run without any reagents to confirm that the protocol works
+as expected. Also note down the time it takes for the Opentrons to complete
+the entire process, from the moment it moves to retrieve a tip to the moment
+it then dispenses that tip. This will be used as a benchmark before we make
+adjustment to improve the protocol.
+
+  1. Total time taken: 42 seconds for 1-well
+
+5\. Add 200 uL of growth media to well A1-A12 of the 96 well plate. These
+wells will be used to test to Opentrons settings such as aspiration height,
+dispense speed etc.
+
+6\. Perform the Opentorns run for a single well (i.e. well A1) with the pre-
+defined settings. Note down any observations or recommendations to improve the
+speed/efficiency of the protocol. Again note down the time taken.
+
+  
+
+  
+
+Run 1:
+
+Observations/adjustments:
+
+\- Aspiration/dispense speeds all adjusted to 300 uL/s
+
+\- Included a mix step after the transfer to resuspend the cells into the
+24-well plate (however the protocol would mix the media after transfering 200
+uL of media and again after transfering the final 50 uL, resulting in 2 mixing
+steps)
+
+\- Aspiration height adjusted from 1 mm to 0.5 mm for the transfer step
+
+Total time taken for 1-well: 52 seconds
+
+Run 2:  
+
+Observations/adjustments:
+
+\- remove the mixing from the transfer step and included a separate mixing
+step. Reduced the time taken to perform the process.
+
+Total time taken for 1-well: 46 seconds
+
+Run 3:  
+
+Observations/adjustments:
+
+\- Done to confirm results of run 2.
+
+Total time taken for 1-well: 46 seconds
+
+Run 4:  
+
+Observations/adjustments:
+
+\- performed for a total of 4 wells to determine if the time taken for a
+single well is the same when the Opentrons performs the process on multiple
+wells
+
+Total time taken for 1-well: 3 min and 32 seconds for 4x 96-wells (212
+seconds) - 53 seconds per well
+
+  
+
+
+
+7\. Repeat step 6 to refine the protocol noting down any observations and/or
+adjustment made
+
+8\. Once the protocol is finalised perform a media run for at least 4 wells,
+observing if the protocol works as intended and the time taken for multiple
+wells.
+
+9\. Attach the finalised protocol below
+
+
+
+
+Finalised protocol for 96>24 1-well picking for suspension cells
+
+

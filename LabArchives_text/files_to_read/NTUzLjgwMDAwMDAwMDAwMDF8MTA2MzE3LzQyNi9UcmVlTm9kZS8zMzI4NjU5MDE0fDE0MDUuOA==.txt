@@ -1,0 +1,40 @@
+Experimental Plan: Differentiation Assay for DAISY4_16G9
+
+
+Mon D0P (Day 0 Proliferation): Collect cells from Passage (see experimental
+plan of WCB_2 generation) and seed 6 x wells of 2 x 96-well plates (B2-B4 &
+C2-C4 of both plates) with 5,000 cells / well in 150uL/well.  
+(prepare 1.8mL of cell suspension containing 60K cells, and pipette out into
+12 x wells total).
+
+  
+
+Wed D2P (Day 2 Proliferation): 50% Feed 12 x wells in 96-well plates (2 plates
+with 6 wells each).
+
+Fri D4P/D0D (Day 4 Proliferation/Day 0 Differentiation): D0D Change to E6/2%
+HS Diff media (3 wells in E6 / 3 wells in DMEM + 2% HS + 1X P/S) for each
+plate
+
+Sat: D1D 100% Feed E6/2% HS wells respectively
+
+Sun: D2D 100% Feed E6/2% HS wells respectively
+
+Mon: D3D 100% Feed E6/2% HS wells respectively
+
+Tue: D4D 100% Feed E6/2% HS wells respectively
+
+Wed: D5D 100% Feed E6/2% HS wells respectively
+
+Thu: D6D Fix cells with 4% PFA and Primary stain for MyoG/MF20 [IF ENOUGH TIME
+- Secondary Stain AF488/AF555  \- Image for DAPI / MyoG-AF488 / MF20-AF555]  
+
+Fri: [IF UNABLE TO DO ON THURSDAY] - Secondary Stain AF488/AF555  \- Image for
+DAPI / MyoG-AF488 / MF20-AF555
+
+  
+
+Determine whether cells can differentiate (Do they express MF20/MyoG at Day 6
+of differentiation)
+
+

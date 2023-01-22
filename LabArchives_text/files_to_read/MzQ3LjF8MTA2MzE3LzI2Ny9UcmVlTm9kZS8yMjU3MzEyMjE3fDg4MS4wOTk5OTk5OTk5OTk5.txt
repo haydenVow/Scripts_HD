@@ -1,0 +1,95 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+  * E89C
+  * E810C
+  * E811B
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+6 well plates6390, 6391  
+  
+  
+
+
+
+
+Task performed by Lily Logan
+
+Process:
+
+  1. Thawed an aliquot of p38i (2.5 uL needed).
+  2. Once thawed, add 2.5 uL of p38i into the 5 mL aliquot of DMEM/F12 + 20% FBS + 1x P/S .
+  3. Placed aliquotted media into waterbath   14:50  
+    1.   5 mL  mL of  DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i   
+    2.  5 mL E89C
+    3.  5 mL of E810C
+    4. 5 mL of E811B
+  4. Tilted the 6 well plate. Allow microcarriers to settle.
+  5. Carefully removed  50  % of supernatant from vessel using a p1000. Used a new tip for each media condition (each row).
+  6. Replaced with  1.5 mL (per well/per vessel) of   growth media as follows.
+    1.  culture 6390 row A: DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i  
+    2. culture 6390 row B: E89C
+    3. culture 6391 row A: E810C
+    4. culture 6391 row B: E811B
+  7. Returned vessel to incubate on the shaker: 15:32
+    1. [X]  37ºC, 5% CO2 (mammalian cells)
+    2. [ ]  40ºC, 5% CO2 (aviary cells)
+    3. [ ]  Thermo Incubator (ID #13)
+    4. [ ]  Top Sanyo Incubator (ID #25)
+    5. [ ]  Bottom Sanyo Incubator
+    6. [ ]  Top Binder Incubator
+    7. [X]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s) 6390 and 6391.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+DMEM/F12 + 20% FBS + 1x P/Sm4215  
+  
+ P38i (20mM stock)mix #3978  
+  
+E89C, E810C, E811Bsee lab book entry from 13/04/20  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

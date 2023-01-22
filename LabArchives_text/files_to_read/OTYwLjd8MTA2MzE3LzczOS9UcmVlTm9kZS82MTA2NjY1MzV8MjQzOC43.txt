@@ -1,0 +1,242 @@
+
+
+Equilibrate microcarriers in culture medium before use
+
+  1. Prior to use, aliquotted | 6.75 | mL of sterilized microcarriers ( 20 g/L stock) suspended in dPBS into | 3  |  x | E125  | tubes/containers/flasks
+  2. Rinsed microcarriers in | 6.75 | mL culture medium (50 mL/g Cytodex). (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and as much supernatant as possible was removed.
+  4. The microcarriers were resuspended to the desired volume of culture medium ( | 30 | mL ). in each culture vessel.
+  5. The culture vessel was transferred to the incubator for at least 1 hour or overnight so that the microcarriers and culture medium could equilibrate. |   15:56   am/pm | 
+    * 37 degrees, 5% CO2, Incubator #  | 67  |  
+
+  
+
+
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175  
+From microcarrier WCB2  
+6603-DOLLY12_11E7-Sheep P9-1of6  
+6604-DOLLY12_11E7-Sheep P9-2of6  
+6605-DOLLY12_11E7-Sheep P9-3of6  
+6606-DOLLY12_11E7-Sheep P9-4of6  
+6607-DOLLY12_11E7-Sheep P9-5of6  
+6608-DOLLY12_11E7-Sheep P9-6of6  
+  
+E125  
+6657-DOLLY12_11E7-Sheep P10-1of2  
+6658-DOLLY12_11E7-Sheep P10-2of2  
+  
+T175  
+From planar WCB2  
+6609-DOLLY12_11E7-Sheep P9-1of3  
+6610-DOLLY12_11E7-Sheep P9-2of3  
+6611-DOLLY12_11E7-Sheep P9-3of3E125  
+6659-DOLLY12_11E7-Sheep P10-1of2  
+6660-DOLLY12_11E7-Sheep P10-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     92    mL in     2x50mL    tubes
+  2.  dPBS (for washing and neutralising):     92    mL in    2x50mL    tubes
+  3. Growth media (for pellet resuspension):     5    mL in     50mL    tubes
+  4. Growth media (for seeding): See equilibration of flasks above.   
+
+Time that all aliquots were placed in the water bath the warm before use
+16:00   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     16:05   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     16:29 -  (Planar) 16:37 - (Microcarrier)   a/pm 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a
+2x50mL tubes (planar)     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:51-16:56 (planar)  17:01-17:06  a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1.5mL (P) 2.0mL (MC)    mL     growth
+media     17:03 (planar)  a/pm
+
+11\. Aliquoted    2 x 10uL      of resuspended cells into a microcentrifuge
+tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:       4504000 (MC) 4614000 (PC)      
+
+  2. Volume of cell suspension required for subculture was:           
+  3. Cell density per vessel:    2252000 (MC) 2307000 (PC)        
+
+
+
+
+13\. For each cell resuspension (planar/microcarrier), transferred 1/2 of the
+volume  into two E125 flasks containing pre-warmed      30    mL Growth media:
+
+14\. Moved the flasks to shake in the bottom binder incubator in the library
+lab at 120rpm      17:50 a/pm  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+cytodex 1 microcarriers  
+4203  
+  
+Tryple4308  
+dPBS (for washing & neutralising)4381  
+Growth Media4567  
+p38i (20mM stock)3978  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Imaging observation: Cells originating from adherent culture flasks are much
+more confluent rather than microcarrier derived cells which appear to be more
+sparse.
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+From microcarrier cultures:
+
+6603: https://mia-capture.vow.tools/#/session/recu3R05SoZPf5Z3q/images
+
+6604: https://mia-capture.vow.tools/#/session/recKA63I7EkJRqJGc/images
+
+6605: https://mia-capture.vow.tools/#/session/rec4rCQgCbzsxVr0O/images
+
+6606: https://mia-capture.vow.tools/#/session/rec8MG9dQzQ0AoUVw/images
+
+6607: https://mia-capture.vow.tools/#/session/recfansfaZFWEQjjS/images
+
+6608: https://mia-capture.vow.tools/#/session/recm0Pfp2uqsA4rXg/images
+
+From Planar cultures:
+
+6609: https://mia-capture.vow.tools/#/session/rec8qiC53czoRFQAm/images
+
+6610: https://mia-capture.vow.tools/#/session/recZZUFGznOLxNtj0/images
+
+6611: https://mia-capture.vow.tools/#/session/recDfeUXFnGuD1izn/images
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

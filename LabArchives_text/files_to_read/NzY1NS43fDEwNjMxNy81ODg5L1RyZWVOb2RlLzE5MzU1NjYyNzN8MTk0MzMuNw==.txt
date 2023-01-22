@@ -1,0 +1,165 @@
+Aim
+
+
+To determine the optimal feeding rate to maximise cell survival in DOLLY12
+MuSC differentiation, using both E6 media and 2% HS media.
+
+
+Hypothesis
+
+
+The current 100% daily feed with E6 differentiation media may be a
+contributing cause to the cell loss observed during Q3 and prior.
+
+
+Background:
+
+
+This experiment was aimed at troubleshooting the observed cell loss during Q3
+and prior, as it is extremely important for us to have cells able to survive
+differentiation and maturation in order to meet company-wide objectives.
+Common practice is to perform 100% media change on a daily basis during our
+differentiation assays. It is well-known that cells communicate with
+themselves and with each other through the secretion of autocrine and
+paracrine molecules respectively, and that these signalling pathways play
+important roles in basic cell functions including cell survival, proliferation
+and fusion, as well as cell death. Our current feeding regime replenishes the
+nutrients up-taken by cells and removes their waste products on a daily basis
+however, may also be removing autocrine and paracrine signalling molecules
+secreted by cells into the media. This may be a contributing factor to the
+observed cell loss during Q3 and prior. For this reason we decided to evaluate
+the effect of six different feeding regimes on cell survival and
+differentiation of DOLLY12 WCB cells in E6 and DMEM + 2%HS (control). For both
+E6 and 2%HS, the feeding regimes consisted of a 50% or 100% media change
+either on a daily basis or every second day, as well as a negative control
+that did not experience media change throughout the differentiation assay (0%
+feed).
+
+
+Summary of events:
+
+
+  1. D1: Thaw DOLLY12 WCB cells and seed into 3 x T175 
+  2. D2: Feed DOLLY12 WCB cells with growth media
+  3. D4: Passage DOLLY12 WCB cells into 4 x 96 wp
+  4. D6: 50% feed DOLLY12 WCB cells with growth media
+  5. D0D: Change to E6 and 2%HS differentiation media and fix 1 x 96wp
+  6. D1D: Feed DOLLY12 WCB cells
+  7. D2D: Feed DOLLY12 WCB cells
+  8. D3D: Feed DOLLY12 WCB cells
+  9. D4D: Feed DOLLY12 WCB cells and fix 1 x 96wp
+  10. D5D: Feed DOLLY12 WCB cells
+  11. D6D: Feed DOLLY12 WCB cells
+  12. D7D: Feed DOLLY12 WCB cells and fix 1 x 96wp
+  13. D8D: Feed DOLLY12 WCB cells
+  14. D9D: Feed DOLLY12 WCB cells
+  15. D10D: Fix remaining 1 x 96 wp
+
+
+Key results and findings:
+
+
+See Results and Data Analysis section.
+
+
+Discussion and limitations:
+
+
+Cell loss was observed in numerous occasions during Q3 and prior in our main
+primary cell line, DOLLY12 cells. In this experiment we aimed to determine the
+optimal feeding regime to maximise cell survival in differentiation assays
+using DOLLY12 MuSC. For this reason, a controlled differentiation assay was
+composed for DOLLY12 cells. All cells were exposed to the same growth and
+differentiation media (either 2%HS or E6), and were handled by the same
+operator.
+
+1 x 96 well plate containing a total of 20 wells in E6 and 20 wells in 2%HS
+differentiation media were fixed at Days 0, 4, 7 and 10 of differentiation.
+Once the experiment was finalised, cells in the fixed plates were stained with
+DAPI and imaged on the Zaber. The data obtained after processing the images
+through a DAPI counting macro was used to calculate the mean and standard
+error of each of the feeding conditions. This data was then input into R and
+used to create the graphs that can be found in Results and Data Analysis.
+Cells were also stained with MyoG and MF20 to evaluate the effect of the
+different feeding conditions on DOLLY12 cell differentiation and maturation.
+
+DOLLY12 cells experienced a noticeable decrease in cell numbers in 2%HS media
+between days 0 and 4 of differentiation in all feeding conditions. This is a
+rare finding however, there are several reasons that could explain it. The
+first one being a possible contamination of the 2%HS differentiation media
+with ethanol and/or copper sulphate. The reason behind this is that the cell
+numbers in the 0% feeding condition, which was the only condition that did not
+experience any media change throughout the differentiation assay, increased
+after day 4 of differentiation, indicating some degree of cell recovery.
+Nevertheless, this is highly unlikely given the media required to perform
+feeds was aliquoted on a daily basis from the 2%HS stock bottle into smaller
+urine pots. The second reason could be harsh operator handling however, if
+this were the case, a similar issue would have been observed in the plates
+containing E6 differentiation media. Thus, the most probable explanation for
+the cell loss observed in 2%HS is the incorrect formulation and preparation of
+the 2%HS stock by operators.
+
+Regarding the plates containing E6 differentiation media, at day 4 of
+differentiation both the daily and every second day 100% feeding conditions
+contained the greatest number of cells amongst all. At day 7 of
+differentiation, the number of cells in these feeding conditions drastically
+decreased, suggesting harsh handling conditions, contamination of the
+aliquoted E6 differentiation media or the drying out of cells. At day 10 of
+differentiation, the 0% and the two 50% feeding conditions had a greater
+number of cells when compared to the two 100% feeding conditions.
+Nevertheless, there is a lot of variability between replicates (see the SE
+bars in Graph 2) in the former conditions, making it difficult to accurately
+conclude that the 0% and the two 50% feeding regimes result in greater cell
+survival during differentiation than the two 100% feeding conditions.
+
+Moreover, there was an increasing trend throughout the differentiation assay
+in MyoG expression in the 0% feed in 2%HS differentiation media potentially
+indicating transition of the cells in these wells from proliferating myoblasts
+to differentiating myotubes. Given the observed cell loss in the rest of the
+feeding conditions in 2%HS differentiation media, it was expected to observe
+none to very little MyoG signal in these wells. Furthermore, in E6
+differentiation media the two 100% feeding conditions showed the greatest MyoG
+expression amongst all feeding conditions at day 4 of differentiation;
+however, this expression dropped at day 7 of differentiation, potentially as a
+result of the observed drop in cell numbers. At day 10 of differentiation, the
+two 50% feeding conditions had the greatest MyoG expression.
+
+The data also showed <1% expression of MHC in the 0% feed in 2%HS
+differentiation media by day 10 of differentiation. Once again, given the
+observed cell loss in the rest of the feeding conditions in 2%HS
+differentiation media, it was expected to observe none to very little MHC
+(detected with the MF20 antibody) signal in these wells. In E6 differentiation
+media, there was a consistent expression of MHC amongst all feeding conditions
+both at day 0 and day 4 of differentiation. It is worthwhile mentioning that
+throughout the differentiation assay, there was an increasing trend in MHC
+expression in both the 50% daily and every second day feeding conditions.
+
+Given the cell loss observed in the plates containing 2%HS differentiation
+media, it is very difficult to evaluate which one of the feeding conditions
+resulted in the greatest DOLLY12 cell survival during differentiation and
+maturation of DOLLY12 cells. For more accurate results, it is suggested to
+perform this experiment again and normalise the obtained data against cell
+count. It would also be interesting to further investigate whether or not
+there are signalling molecules secreted by cells into the media that are
+important for cell survival as well as differentiation and maturation in order
+to determine whether there should be changes made to our current daily 100%
+media change.
+
+
+Future direction:
+
+
+\- Make sure we do not lose the cells in our 2% HS control plates throughout
+the differentiation assay, as this will allow us to accurately evaluate the
+suitability of E6 as a differentiation media for DOLLY12 cells
+
+\- Evaluate the suitability of E6 on other primary cell lines
+
+\- Perform this experiment again in order to obtain accurate results that can
+then dictate our feeding rate and schedule in the lab
+
+-Perform significance statistics on this data set
+
+-Optimise our image processing Macro given this has been one of the major blockers in the write up of this final report 
+
+

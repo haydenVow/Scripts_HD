@@ -1,0 +1,188 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175
+
+7020-DOLLY12-Sheep P9-1of6
+
+7022-DOLLY12-Sheep P9-2of6
+
+7023-DOLLY12-Sheep P9-3of6
+
+7024-DOLLY12-Sheep P9-4of6
+
+7025-DOLLY12-Sheep P9-5of6
+
+7026-DOLLY12-Sheep P9-6of6
+
+  
+7093-DOLLY12-Sheep P10-1of2  
+7094-DOLLY12-Sheep P10-2of2  
+7095-DOLLY12-Sheep P10-1of1  
+2x 4CF + 1x 2CF  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. (FORGOT TO TAKE
+IMAGES BEFORE TYPLE)
+
+2\. Gelatin coated    2 X 4CF + 2 X 2CF       vessel  with sterile filtered
+0.1% gelatin solution and then incubated all coated flasks at 37˚C. (Will seed
+onto a 4CF and any spare cells into the 2CF)
+
+  1. Time when all vessels(s) placed into the incubator      09:45 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      60   mL in      1   tub.
+  2.  dPBS (At 37 degrees for washing):        60 mL in       1 tubes
+  3.  dPBS (at RT neutralising):      60   mL in    1    tubes
+  4. Growth media (for pellet resuspension):     20mL   in 1 tube  
+
+  5. Growth media (for seeding):   1.5       mL in       3  bottles
+
+Time that all aliquots were placed in the water bath the warm before use
+11:30
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    11:40
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    11:45-11:57 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into 2x
+50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   12:10-12:15 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     10    mL     growth   media     12:20  
+
+11\. Aliquoted     50     of resuspended cells into a microcentrifuge tube for
+cell count (x2).
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:      7.7M       
+
+  2. Volume of cell suspension required for subculture was:     entire        
+
+  3. Cell density per vessel:     3.1M into each 4CF 770,000 into 1.5M into 2CF       
+
+
+
+
+13\. Transferred       1.9mL   of cell suspension to the pre-warmed      300
+mL Growth media, and     4mL   of cell suspension to each of the the pre-
+warmed      600    mL Growth media:     12:27  
+
+14\. Transferred cell suspension into the pre-gelatin coated     2x 4CF and 1x
+2CF       vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle    12:30-13:00  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) thermo incubator
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution A4795 and A4787  
+  
+Tryple A4619  
+  
+dPBS (for washing & neutralising) A5110  
+  
+Growth Media 5154,5129,5130  
+  
+p38i (20mM stock) 4928  
+  
+  
+  
+
+
+
+
+Observations/Summary: n/a  
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable): forgot to image prior to passage  
+
+  
+
+

@@ -1,0 +1,232 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: LL VB  
+
+
+
+
+Culture IDs
+
+Harvested fask IDs  
+Flask TypeSeeded flask IDs  
+Flask Type  
+Conditions  
+  
+8792-F_CHOMP09-Crocodile P8-1of1  
+100 mm plate 8894-F_CHOMP_09-Crocodile P9-1of2  
+24-WP  
+Conditions 1&3, Control 1  
+  
+8793-F_CHOMP09-Crocodile P8-1of1  
+  
+8794-F_CHOMP09-Crocodile P8-1of1  
+  
+8795-F_CHOMP09-Crocodile P8-1of1  
+  
+8796-F_CHOMP09-Crocodile P8-1of1  
+  
+8797-F_CHOMP09-Crocodile P8-1of1  
+8895-F_CHOMP_09-Crocodile P9-2of2  
+12-WP  
+Conditions 2&4, Controls 2-5  
+  
+8798-F_CHOMP09-Crocodile P8-1of1  
+  
+8799-F_CHOMP09-Crocodile P8-1of1  
+  
+8800-F_CHOMP09-Crocodile P8-1of1  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleAliquot 7592  
+  
+dPBS (for washing & neutralising)Aliquot 7539, Aliquot 7382  
+  
+Growth MediumMix 7929  
+  
+IGF-1  
+  
+FGF-B  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    50   mL in    2 x 50 mL  tubes
+  2.  dPBS (for washing & neutralising):    95   mL in 2 x 50 mL tubes
+  3. Growth media (for pellet resuspension):    10   mL in 2 x 15 mL tubes
+  4. Growth media (for seeding):      mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+13:16
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+3\. Removed vessel(s) from the incubator  
+
+4\. Washed the vessel(s) with dPBS (warmed).
+
+5\. Added    5  mL tryple/vessel and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   group 1 13:40 - 13:51  
+  2. Start/Finish for TrypLE was   group 2 13:44 - 13:53    
+
+6\. Neutralised with    5 mL    dPBS/vessel and combined cell suspension into
+9 x 15 mL  tubes.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    14:03 - 14:08 
+  2. Start/Finish time for centrifugation was    14:09    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    0.2  mL    growth    medium
+
+11\. Aliquoted    10 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+Plate  
+Condition  
+Count 1Count 2Cell count (average)  
+Volume cell suspension for seeding (uL)  
+Vessel type being seeded  
+  
+Cell density (cells/cm2)  
+  
+  
+8792  
+Condition 1 10 uM P53i, 300 mj/cm2 UV  
+16,00016,00016,000  
+200  
+24-WP  
+8,421  
+  
+8793  
+Condition 2 10 uM P53i, 150 mj/cm2 UV  
+41,60032,00036,500  
+200  
+12-WP  
+10,428  
+  
+8794  
+Condition 3 30 uM P53i, 300 mj/cm2 UV  
+4,0004,8004,400  
+200  
+24-WP  
+2,315  
+  
+8795  
+Condition 4 30 uM P53i, 150 mj/cm2 UV  
+37,60020,00028,500  
+200  
+12-WP  
+8,142  
+  
+8796  
+Control 1 0 uM P53i, 300 mj/cm2 UV  
+2,4001,600320020024-WP1,684  
+8797  
+Control 2 0 uM P53i, 150 mj/cm2 UV  
+144,00020,00082,000  
+ ~~60  ~~200 (Accidentally added entire cell suspension)  
+12-WP  
+ ~~7,000  ~~23428 ~~  
+~~  
+8798  
+Control 3 30 uM P53i, 0 mj/cm2 UV  
+172,800  
+164,800  
+  
+  
+12-WP  
+  
+8799  
+Control 4 0 uM P53i, 0 mj/cm2 UV, + heat (12.5 min)  
+294,400  
+284,800  
+  
+  
+12-WP  
+  
+  
+8800  
+Control 5 0 uM P53i, 0 mj/cm2 UV  
+ ~~220,800~~ 616,000  
+  
+12-WP  
+  
+  
+  
+  
+
+
+
+
+12\. Transferred    µl of cell suspension to the pre-warmed    mL Growth
+medium.
+
+13\. Transferred cell suspension into the   x    vessel(s).
+
+14\. Transferred vessel(s) to incubate at:  16:45  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)  
+  
+Incubator (# ), Lab [main, library, production]
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

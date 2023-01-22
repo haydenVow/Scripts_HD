@@ -1,0 +1,56 @@
+Key Result(s)
+
+  * doubling time in 3:1 mix at highest density reached was 24h 
+  * maximum cell density reached in routine culture was ~3M cells/mL (97% viable)
+  * total transfer time was 17 days
+
+
+Discussion of Results
+
+
+In this instance, technology transfer describes the critical aspect of moving
+cell culture processes from onsite at Vow to commercial manufacturing at Esco
+Aster, manufacturing partner in Singapore. The purpose of this EPIC was to
+trial the tech transfer process at a smaller scale from Vow to offsite at the
+Biologics Innovation Facility at The University of Technology Sydney.
+
+Briefly, cryopreserved cells frozen in Freestyle media (as per GMP
+specifications) were transported to UTS on dry ice and revived into Freestyle
+'GMP' media. Cells were cultured as per the provided tech transfer protocol
+initially obtained from Nuvonis (the parent company responsible for cell line
+establishment) in 'GMP' media for 4 days. Following this period, a portion of
+cells were cryopreserved as a MCB in GMP media. Cells were then cultured in a
+mix of GMP media and an in-house media formulation at a ratio of 1:1 for ~4
+days. Cells were then passaged in a 100% in house formulation after reaching
+1M cells/mL density. Following this period, a portion of cells were
+cryopreserved as a WCB in 3:1 media. This process was carried out over a total
+of 17 days.
+
+Data show that cells grew at a rate comparable to growth observed onsite at
+Vow (24 hours). Maximum cell density, however, was of a much higher value than
+previously observed under normal culture conditions (50k cells/mL seeding
+density, 3-4 days passage in 3:1 RPMI:Hycell in house mix), where cells
+typically reach a density of 1M cells/mL. Passaging cells at a higher density,
+200k instead of 50-100k cells/mL, may easily increase final cell densities at
+the end of a passage cycle.
+
+These data form the groundwork on which a final tech transfer process can be
+confirmed for transfer to manufacturing partner, Esco Aster, once an in-house
+media formulation has been established and verified.
+
+
+Conclusions, limitations & future directions
+
+
+This EPIC provides a starting point from which to further refine tech transfer
+protocols. However, this EPIC was limited by the lack of finalised and
+validated in-house media formulation of choice. Thus, protocols may require
+alteration depending on the performance and growth rate of the cells in a
+different medium. This process should be trialled and validated once an in-
+house formulation suitable for manufacturing has been established and
+verified.
+
+
+
+
+

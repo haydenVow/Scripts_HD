@@ -1,0 +1,145 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T75s8902-F_CHOMP_07-Crocodile P7-1of1  
+T75  
+9090-F_CHOMP_07-Crocodile P8-1of1  
+  
+8903-F_CHOMP_09-Crocodile P8-1of1  
+9091-F_CHOMP_09-Crocodile P9-1of1  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleAliquot 7592  
+  
+dPBS (for washing & neutralising)Mix 7586  
+  
+Growth Medium: DMEM/F12 + 20% FBS + 1X P/S  
+Mix 8154  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   11  mL in   1 x 15 mL  tube
+  2.  dPBS (for neutralising & washing):   21  mL
+  3. Growth media (for pellet resuspension):  5 mL (2mL per pellet)  
+
+  4. Growth media (for seeding): 2x   12  mL
+
+Time that all aliquots were placed in the water bath the warm before use    15
+:30  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+3\. Removed vessel(s) from the incubator     15:43  
+
+4\. Washed the vessel(s) with 5 mL per flask dPBS (warmed).
+
+5\. Added   5  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:53 - 16:04      
+
+6\. Neutralised with   5 mL per flask   dPBS and moved the cell suspension
+into   2 x 50 mL  tubes.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was  16:13 - 16:18Centrifuged twice as pellet appeared dislodged:  16:20-16:25  
+
+
+
+
+8\. Aspirated the supernatant.
+
+9\. Resuspended pellet in   3  mL   growth   medium    :  
+
+10\. Aliquoted   11 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+11\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was: 
+    1. CHOMP09: 1,148,000
+    2. CHOMP07: 956,000
+  2. Volume of cell suspension required for subculture was:  
+    1. CHOMP09: 0.490 mL
+    2. CHOMP07: 0.588 mL
+  3. Cell density per vessel:   7500 cells/cm2     
+
+
+
+
+12\. Transferred    uL   µl of cell suspension to the pre-warmed   12 mL
+Growth medium (remember to remove a volume of GM equivalent to the cell
+suspension being added  
+
+13\. Transferred cell suspension into   2x T75  vessels.
+
+14\. Transferred vessel(s) to incubate at: 16:57  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+10x Magnification, Phase
+
+4x Magnification, Phase  
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8902: https://mia-capture.vow.tools/#/session/recOoqgDZ6CjKyDud/images  
+8903: https://mia-capture.vow.tools/#/session/recoCwZnn7aosEOvO/images
+
+

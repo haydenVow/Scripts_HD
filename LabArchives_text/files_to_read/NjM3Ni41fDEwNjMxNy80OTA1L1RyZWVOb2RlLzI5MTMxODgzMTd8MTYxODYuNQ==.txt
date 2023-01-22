@@ -1,0 +1,136 @@
+Key findings:
+
+
+  * No cells from either DOLLY12 or NANDO3 cultures were adapted to suspension culture. Additionally, this was irrespective of which stage the cells originated from, i.e., RI/MCB/WCB.
+  * Cells isolated from MCB samples regularly recorded higher total cell counts across the 30-day culturing period compared to raw isolate and WCB conditions, across both the DOLLY and NANDO cell species. 
+  * Complete lack of viable cells and debris during the manual count indicated that the cell pellets may have been accidentally aspirated during one of the early Opentrons feeding sessions.
+  * Include redundancies in the suspension pipeline to ensure conditions that demonstrate a lack in cell viability are not maintained in culture across the entire 30-day period. A potential solution to mitigate this could be a manual hemocytometer check on day 15. 
+  * Incubator incident (see here for full details) highlights the need for environmental monitoring, especially for long term critical suspension projects
+
+
+Results/Discussion:
+
+
+The focus of this experiment was to adapt either DOLLY12 or NANDO3 fibroblasts
+to suspension culture. An additional focus also included evaluating which
+stage of cell isolation (raw isolate, master cell bank, working cell bank)
+from DOLLY and NANDO fibroblasts is advantageous during the adaption process.
+Similar to previous experiments conducted in Q3, this involved seeding
+fibroblast cells originating from either raw isolate (RI), master cell banks
+(MCB), or working cell banks (WCB), into bioreactor spin tubes. Throughout the
+culturing period samples of each treatment were intermittently retrieved and
+stained to capture cell count data using a FIJI-designed macro. Following the
+conclusion of the culturing period, each condition was manually assessed for
+cell viability with any promising candidates permitted to remain in culture.
+
+Subsequent to fibroblast thawing and seeding, samples of each trial condition
+were retrieved, stained and Zaber imaged 7 days post-seeding. Initial
+assessment of total cell counts highlighted that the stained cell numbers were
+relatively low after approximately 1 week in culture when compared to the
+initial seeding density (1,000,000 cells) (Figure 1). Cells cultured from
+NANDO raw isolate (RI) samples exhibited the highest total cell count (~5000),
+with the DOLLY WCB and NANDO MCB conditions also exhibiting similar counts
+(Figure 1). However, despite the low cell numbers at day 7, viability
+estimates highlighted that all cultures were close to 100% viability (Figure
+2). Due to issues in capturing data from earlier time points (see
+limitations), day 7 represented the first sampling time point in which cell
+counts were quantified. As the culturing period progressed, all conditions had
+a drastic reduction in cell counts by day 11 and only marginally recovered by
+day 14. DOLLY12 MCB samples displayed the highest counts on day 14 indicating
+the largest recovery (Figure 1).  Majority of the treatment groups maintained
+their cell numbers across to day 17, whilst the DOLLY12 MCB samples exhibited
+a subsequent reduction. Low cell counts obtained on day 11 revealed
+substantial declines in viabilities, in particular, the NANDO RI and MCB
+samples (Figure 2). All conditions had increased in cell counts by day 21,
+ranging from a total of ~5000 cells per mL for the DOLLY12 MCB to
+approximately ~1500 total cells for the DOLLY12 RI (Figure 1). All treatments
+displayed a decline in cell numbers by day 28, with day 32 manual counts
+revealing a complete absence of viable cells. It is interesting to note that
+images captured of the manual counts revealed not only an absence of cells but
+debris, with most images appearing completely empty (not shown here). Whilst
+this confirms that no condition had viable cells at the conclusion of the
+culturing period, we have frequently observed in previous suspension adaption
+experiments the presence of debris and/or cells after 30 days. Consequently,
+the lack of debris may suggest that at some timepoint the cell pellets were
+mistakenly aspirated from the culture vessels, with only a marginally few left
+remaining. Despite the continual reduction in cell numbers from day 21
+onwards, the cell viabilities remained close to 100% until the conclusion of
+the experiment (Figure 2).
+
+Figure 1: Total cell counts (mean ± SEM)  for 50 mL bioreactor spin tube
+cultures throughout the 30-day culturing period. Each condition performed in
+triplicate (n=3).
+
+  
+
+Figure 2: Cell viability (mean ± SEM) for 50 mL bioreactor spin tube cultures
+throughout the 30-day culturing period. Each condition performed in triplicate
+(n=3).
+
+
+Limitations:
+
+
+A major limitation experienced in the current study was concerned with the
+lack of cells and debris during the manual hemacytometer checks. During
+previous experiments, the majority of manual checks, to some degree, contain
+debris produced by the suspension culture conditions. However, this was not
+observed in a single condition from this study. Whilst it remains unclear was
+the root issue was a potential explanation is that the cell pellet along with
+any debris was accidentally aspirated during one of the early Opentrons
+feeding sessions. As this experiment was performed with a relatively new
+feeding protocol, it was difficult to perform a water run before its
+deployment. As such any aspiration settings that were not optimised may have
+resulted in cell culture being aspirated during the media change. A potential
+solution to mitigate this could be to perform 75% media changes instead of
+100%. As such the aspiration level would be able to be adjusted to a
+sufficient height such that it avoids any cell pellets. Additionally, it may
+be necessary to include some sort of redundancy to examine cultures if they
+contain any viable cells before the conclusion of the 30-day period. Primary
+because a substantial number of resources are devoted to ensuring cells are
+kept in culture during the entire 30-day period. Potentially, this could be in
+the form of a manual check similar to was ifs performed at day 30, however
+would be scheduled at an earlier timepoint such as day 15. On a separate note,
+the first time point at which a sample was stained and imaged was on day 7.
+Historically, cell cultures in suspension are characterised by mass cell death
+within the first 1-3 days in culture. These typically provide the most context
+on how the cultures are performing. Wherein any days later than this and the
+counts are expected to be too low to gauge how the cultures are performing
+since being seeded. Furthermore, by day 7 cell counts are usually too low to
+assess if a particular culture is performing well without any earlier data
+being captured. Moreover, it was difficult to extrapolate which cell isolation
+stages are advantageous in terms of attempting to adapt cells to suspension.
+As previously discussed, this was attributed to the lack of data captured
+between days 1-7, which is where the most drastic reductions in cell viability
+are normally seen. Finally, an incident in the incubator that housed these
+culture vessels was accidentally switched and remained off for 4 days (Notion
+page). However, despite this occurring on day 28 of the culturing period, it
+is likely the majority of the cells were either lost or not viable at this
+point.
+
+
+Conclusion:
+
+
+Unfortunately, cells from RI, MCB, and WCB samples across both DOLLY12 and
+NANDO3 fibroblasts were unable to be adapted to suspension culture. All
+cultures demonstrated a mass reduction in cell viabilities within one week
+evidenced by the low cell numbers of the first data capture time point (day
+7).  Results also indicated that there were no major differences between the
+cell isolation stage (RI v MCB v WCB) on the cells' ability to adapt to
+suspension. Wherein no condition from the three stages had adapted to
+suspension or performed significantly better when compared to each other.
+Finally, the incubator incident, which was switched off for 4 days, has
+highlighted the importance of having environmental monitoring for long-term
+suspension culture experiments.
+
+
+Future Directions:
+
+
+  * Evaluate the effectiveness of 75% media changes compared to 100% in terms of removing debris whilst maintaining cell pellet integrity. Additionally, to avoid any instances in which the cell pellet may be accidentally aspirated. 
+  * Standardise the cell staining and imaging protocol in order to prioritise data capture for the most critical time points (days 1-2), particularly during the first week in suspension culture. 
+  * Incorporate learnings from incubator incident to develop preventative measures to ensure situations like this are not repeated. 
+  * Repeat comparison of RI, MCB, and WCB cell samples using crocodile fibroblasts, primarily as crocodile cells are to be used in Vows' first product. 
+
+

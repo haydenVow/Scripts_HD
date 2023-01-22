@@ -1,0 +1,80 @@
+Aim/Purpose
+
+
+Background
+
+Using the foundations built up during the "Buffalo Wings" prototype work, we
+will trial tissue engineering at larger scales, using suspension adapted cells
+(Nuvonis fibroblasts predominantly) and monitor the tissue development over
+time (4-16 days). This work is part of the Mini-Tissues workstream for the
+Second Product, more can be read about this here. Initial Buffalo Wings
+experimental plans and lab books can be found here.
+
+Aim
+
+To understand the tissue maturation time for tissue engineering in moulds
+using suspension Nuvonis cells.
+
+Hypothesis
+
+Tissue-engineered tissues seeded with suspension Nuvonis cells will develop
+similarly to those prepared with adherent cells, and will improve in
+structural and textural complexity over time due to increased matrix
+production and tissue maturation.
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Collagen I, 10x DMEM/F12, 0.1M Sodium Hydroxide and Matrigel. This allows the
+formation of tissues via the process of tissue gelation, condensation and
+self-assembly around 2 attachment points (Figure 1) - See Notion page for
+summary of approach.
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+  
+
+Experiment Layout
+
+We will seed 4 plates containing tissue engineering moulds with 3 tissues
+each, at a single cell density (5M cells per mL), and we will mature the
+tissues for 4 different lengths of time (4, 8, 12, 16 days).
+
+Figure 2. Tissue eng mould plate layout for experiment 2 - 4 separate moulds
+in 4 plates, each with 3 tissue replicates
+
+  
+
+
+
+
+Before Starting
+
+  * Calculate approximate cell requirements for experiment 1
+    * = Approx 240 million cells for 4 plates at the 5M/mL
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=561508067
+    * Total volumes for experiment:
+      * Collagen I = 19.5ml
+      * 10x DMEM/F12 = 2.4ml
+      * 0.1M NaOH = 2.9ml
+      * Matrigel = 4.3ml
+  * Autoclave 4x large Nylon scaffolds, forceps and mould weights 
+  * Make up PDMS and spin coat plates (DONE)
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+
+

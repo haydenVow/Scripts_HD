@@ -1,0 +1,168 @@
+  
+  
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Bonnie Tangey
+
+
+
+
+Note/ summary
+
+  * KAHKIK cultures thawed on both 20/6 and 21/6 were discarded today due to failure to thrive post thaw. 
+  * Cultures thawed on 21/06 were harvested today, with the plan of seeding suspension adaption trials, but only MUSCO contained enough cells to seed into the suspension experiment (2 cultures with 2M cells per culture). Cells harvested from KAHKIO and DUCKEYE were discarded due to lower than expected numbers (will use cells thawed on 20/6 for the experiment instead with a view to harvesting and seeding those tomorrow (25/6/22)
+  * Cell counts were much lower than expected. An investigation into potential cell loss during centrifugation with be performed at the next harvest. 
+
+
+
+
+Observations and imaging of cultures (cultures thawed 20/6)
+
+Culture ID Media  
+Observations  
+Mia link  
+12597 DUCK EYE  
+OptiPRO + 4mM Glutamax  
+60% confluent. largely fibroblast-like morphology
+https://ranger.vow.tools/#/session/recwXnmSdaZXub8EB/images  
+  
+12598, 12599, 12600 MUSCO5-10% confluent. A lot of cells with senescent/ fried
+egg morphology. https://ranger.vow.tools/#/session/recsBKIerYUguoYit/images  
+  
+12596 KHAKIO  
+85% confluent. Morphology typical of endothelial than
+fibroblasts.https://ranger.vow.tools/#/session/recnfEjRH8ZQos3lU/images  
+  
+12601 MUSCKDMEM/F12 + 10% KSR  
+Very few cells attached, discarded culture today  
+
+
+  
+  
+Observations and imaging of cultures (cultures thawed 21/6)
+
+Culture ID Media  
+Observations  
+Mia link  
+12607 DUCK EYE  
+OptiPRO + 4mM Glutamax  
+85% confluent. Majority fibroblast-like morphology, with cluster of
+cobblestone cells https://ranger.vow.tools/#/session/recbzggShnIqRX544/images  
+  
+12608 MUSCO75% confluent, largely fibroblastic morphology.
+https://ranger.vow.tools/#/session/reckoTyDpsxLw1UKC/images  
+  
+12609 KHAKIO  
+65% confluent, Morphology typical of endothelial than
+fibroblasts.https://ranger.vow.tools/#/session/recNXRNk0ONPeopEG/images  
+  
+12610 MUSCKDMEM/F12 + 10% KSR  
+Very few cells attached, discarded culture today
+
+
+  
+  
+Reagent prep
+
+1\. Aliquotted the required volume of each reagents and placed in the 37C
+water bath > 20 mintues prior to use.
+
+  * TrypLE:    20   mL in   1x 50mL   tubes
+  * dPBS (for washing and neutralising)     40  mL in     1 x 50mL   tubes
+  * Suspension media for resuspension    20  mL in     1 x 50mL   tubes
+
+2\. Added 8mL of Suspension media to 10x 50mL bioreactor tubes and placed in a
+37C, 5% CO2 incubator to warm and equilibriate > 20 minutes prior to use
+
+
+
+
+Passage
+
+  1. Washed the flask(s) with dPBS (5mL for T75s and 10mL for T175s).
+  2. Added Tryple (5mL for T75s and 10mL for T175s) to each vessel/well and incubated at 37˚C for   10     min.
+  3. After checking >90% of cells detached, neutralised with    5 or 10mL  dPBS (warmed) and transferred to    50mL   tubes.
+  4. Centrifuged for 5min at 500g. 
+
+
+
+
+Count
+
+  1. Aspirated the supernatant(s)
+  2. Re-suspended cell pellets in 5mL each of pre-warmed suspension media
+  3. Took 30uL aliquots from each culture for counting
+  4. Performed a cell count using the haemocytometer and recorded the cell count data in widget or the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below): 
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+Total cell number were:  
+KHAKIO: 660,000  
+MUSCO: 3,860,000  
+DUCKEYE: 714,000
+
+11\. 2 million cells were seeded into each per suspension culture for MUSCO.
+KHAKIO and DUCKEYE cells discarded (see note)
+
+12\. Added addition suspension media to cultures, as needed to make up to 10mL
+
+14\. Transferred flask/plate(s) to incubate at:
+
+  * [ x ]  37ºC, 5% CO2, at shaking speeds of either 175RPM or 200RPM
+
+
+
+
+Passage details
+
+Passaged ID Cell line  
+VesselSeeded vesselSeeded IDShaker Speed  
+14808KHAKIO  
+T75N/A  
+  
+12607DUCKEYET75N/A  
+  
+12608MUSCOT17550mL shakers12671  
+200RPM  
+12672  
+175RPM  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleA12348  
+dPBS (for washing & neutralising)A12364  
+Nuvonis suspension media 12213  
+FGF21229  
+IGF LR312080  
+EGF12011  
+  
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): See table above with links to mia
+images.
+
+

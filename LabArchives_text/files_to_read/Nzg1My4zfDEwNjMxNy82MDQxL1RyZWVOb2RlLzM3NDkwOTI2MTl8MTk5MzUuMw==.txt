@@ -1,0 +1,207 @@
+Aim
+
+
+To investigate the effect of different feeding frequencies and volumes on the
+survival, differentiation and maturation of DOLLY12 WCB muscle stem cells
+(MuSCs), using E6 and 2% HS.
+
+
+Hypothesis
+
+
+Cell survival and maturity will be unaffected by changes in feeding volume and
+frequency when compared to the controls over a 10-day differentiation period.
+
+
+Background
+
+
+Over Q3 2021, cell loss during the differentiation phase was observed in many
+of our experiments. It is imperative that the cause of this issue is
+identified so that future efforts directed towards improving the maturation
+process of muscle stem cells is not impeded.
+
+At present, proliferation of DOLLY12 WCB MuSCs occurs in growth media for 3-4
+days until the wells are 95-100% confluent, at which point they are switched
+into E6 differentiation media. From then on, 100% of the media is replaced
+every day for 10-14 days, after which the wells are fixed, stained and
+analysed to determine maturation.
+
+It is known that during the differentiation process, cells secrete factors
+that support growth and maturation, but also produce waste products that may
+cause counterproductive effects (i.e. cell death). Hence, the frequency and
+volume of media that cells are fed may be an important factor affecting cell
+survival and maturation.
+
+As such, the current experiment was designed to test 5 different feeding
+schedules:
+
+  1. 100% media change, daily (D)
+  2. 100% media change, every second day (ESD)
+  3. 50% media change, D
+  4. 50% media change, ESD
+  5. 0% media change (negative control)
+
+All of these conditions were tested using two separate differentiation media
+(resulting in a total of 10 different feeding conditions):
+
+  * E6 (animal component-free media consisting of a basal medium with equal parts DMEM and F12, along with LAA2P, transferrin, insulin, sodium selenium and sodium bicarbonate)
+  * Basal media (DMEM + F12) with 2% HS (which acted as the control)
+
+Maturation was quantified using two key metrics:
+
+  * The proportion of viable cells expressing myogenin, an early stage marker of differentiation (MyoG : DAPI)
+  * Normalised MF20 area, which represented the total well area occupied by myotubes divided by the total number of viable cells
+
+
+Summary of Events
+
+
+Proliferation Phase
+
+  * D-7: Thaw DOLLY12 WCB cells and seed into 3 x T175 
+  * D-6: 50% feed DOLLY12 WCB cells with growth media
+  * D-4: Passage DOLLY12 WCB cells into 4 x 96wp
+  * D-2: 50% feed DOLLY12 WCB cells with growth media
+
+Differentiation Phase
+
+  * D0D: Change to E6 and 2% HS differentiation media and fix 1 x 96wp (plate 8413)
+  * D1D: Feed DOLLY12 WCB cells (daily wells only)
+  * D2D: Feed DOLLY12 WCB cells (all wells)
+  * D3D: Feed DOLLY12 WCB cells (daily wells only)
+  * D4D: Feed DOLLY12 WCB cells (all wells) and fix 1 x 96wp (plate 8414)
+  * D5D: Feed DOLLY12 WCB cells (daily wells only)
+  * D6D: Feed DOLLY12 WCB cells (all wells)
+  * D7D: Feed DOLLY12 WCB cells (daily wells only) and fix 1 x 96wp (plate 8415)
+  * D8D: Feed DOLLY12 WCB cells (all wells)
+  * D9D: Feed DOLLY12 WCB cells (daily wells only)
+  * D10D: Fix remaining 1 x 96 wp (plate 8416)
+
+
+Key Findings
+
+
+Refer to Results and Data Analysis.
+
+
+Discussion and Limitations
+
+
+Experimental Overview
+
+In 4 x 96wps, 40 wells (B3 to F10) were seeded with DOLLY12 WCB cells at a
+density of 2000 cells / cm2 (640 cells / well). 20 of these wells were fed
+with the different E6 conditions (5 different feeding conditions each with 4
+replicates), with the remaining wells fed using 2% HS in an identical manner.
+The four plates were fixed at different time points (Day 0, 4, 7 and 10) to
+record the progression of cell survival and maturity during the
+differentiation process. At Day 10, after the final plate was fixed, all of
+the plates were primary, secondary and DAPI stained and imaged using the
+Zaber. The images were analysed using a macro that quantified DAPI and MyoG
+counts, as well as MF20 area (which effectively represented areas where
+myotubes / intracellular myosin heavy chain was present).
+
+  
+
+Cell Survival
+
+[E6] Across the 10 days, there was an initial increase in the DAPI counts for
+the E6 feeding conditions at Day 4, a decrease at Day 7, with the counts
+plateauing by Day 10. The initial increase in counts may be attributed to the
+cells retaining some proliferative capacity even after being switched into
+differentiation media*. At Day 7, the decrease in the number of cells is
+suggestive of non-optimal handling conditions and / or contamination of the
+aliquoted E6 media.
+
+[HS] At Day 4, there was a significant decrease in the number of cells in the
+wells corresponding to the 100% HS feeding conditions (this included the wells
+that were fed daily and every second day, ESD - refer to the bottom graph in
+Figure 1). Since the HS conditions were meant to serve as our positive
+controls, close to complete cell loss here may invalidate / weaken any
+findings found in this experiment. Several factors could have led to the cell
+loss experienced, including contamination of the HS media and operator-related
+handling errors (e.g. removing 100% of the supernatant could have dried up the
+wells). Keeping this in mind, it is crucial that the experiment be repeated to
+ensure meaningful comparisons can be made in the future. Overall, the other HS
+feeding conditions also showed an increase in the DAPI counts at Day 4,
+returning to a baseline value by Day 7 of differentiation (*this is likely due
+to the same reasons stated above).
+
+  
+
+Myogenin Expression
+
+[E6] An increase in the proportion of MyoG+ cells over the 10-day period was
+observed in two main conditions: 50% E6 Daily and 50% E6 ESD (Figure 2). This
+suggests that lower volume media changes at a lower frequency may promote the
+differentiation of DOLLY12 WCB MuSCs.
+
+[HS] Due to the loss of cells in the 100% HS feeding conditions, normalising
+the MyoG counts with the DAPI counts resulted in an artefact where the MyoG :
+DAPI was amplified. As such, the effect of the 100% HS feeding conditions on
+the expression of MyoG could not be accurately quantified. In terms of the 50%
+HS feeding conditions, there was no observable increase in the expression of
+MyoG with time. This result was once again unexpected since HS was selected as
+the positive control in this experiment. As such, a meaningful comparison
+between the E6 and HS 50% feeding conditions could not be made.
+
+  
+
+Myotube Formation / Myosin Heavy Chain (MyHC) Expression
+
+[E6] Similar to the trend observed with regards to myogenin expression over
+time, there was an increase in the normalised MF20 area in the 50% E6 ESD
+condition (Figure 3). This trend was not reliably seen in the 50% E6 Daily
+condition, further reinforcing the idea that a lower feeding volume and
+frequency may promote myotube formation and maturation.
+
+[HS] Once again, due to the loss of cells in the 100% HS feeding conditions,
+normalising the MF20 area with the DAPI counts resulted in an artefact where
+the normalised MF20 area was increased. The effect of the 100% HS feeding
+conditions on the expression of MyHC could not be accurately quantified. In
+terms of the 50% HS feeding conditions, there was no observable increase in
+the expression of MyHC with time.
+
+  
+
+Summary and Limitations
+
+The 50% E6 ESD feeding condition showed the most reliable increase in the
+maturation markers (MyoG : DAPI and normalised MF20 area) that were used for
+this study, as evinced by Figure 2 and 3. Although the 50% HS feeding
+conditions did not show any increase in the expression of MyoG or MyHC (which
+was expected from the positive control), the cells remained viable across the
+10-day period, allowing for comparisons to be made with the 50% E6 feeding
+conditions.
+
+Significant cell loss was observed in the 100% HS feeding conditions (between
+Day 0 and 4) which may be attributed to some form contamination of the HS
+media and / or operator-related handling errors - although this is still
+uncertain. A potential step that could be implemented for next time is to
+image all the wells everyday, so that the timeframe in which the cell loss
+event may have taken place can be narrowed. Replicate variability was also
+high and could have been due to the nature of the training experiment (i.e.
+errors related to technique may have occurred more frequently). Macros were
+also an ongoing blocker which prevented any quantitative analysis from being
+conducted. Further optimisation in the way images are captured and analysed
+may yield more reliable results.
+
+To conclude, despite not having reliable control conditions, the results
+indicate that a lower feeding volume and frequency may be more beneficial for
+cell survival and maturity, thus, disproving the initial hypothesis.
+
+
+Future Directions
+
+
+  * Repeat the experiment to verify that the 2% HS acts as a positive control (in terms of the expression of maturation markers), and that cells fed using this media survive the differentiation process
+  * Evaluate the suitability of E6 differentiation media on other primary cell lines
+  * Design an experiment to study the effect of different handling conditions on cell survival
+
+  
+
+
+
+
+

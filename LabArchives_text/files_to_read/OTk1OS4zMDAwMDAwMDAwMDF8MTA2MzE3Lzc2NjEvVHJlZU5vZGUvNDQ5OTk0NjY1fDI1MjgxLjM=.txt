@@ -1,0 +1,60 @@
+Performed by:  ST LL
+Flask IDFlask ConditionLocation  
+11541CHO-T1-SF + SoyMain Lab, Shaking Incubator #146 (37'C, 10% CO2, 120 RPM)  
+11542  
+ ~~11543~~ CHO-T1-SF + Potato/Soy  
+  
+ ~~11544~~  
+ ~~11545~~ CHO-T1-SF + Pea/Soy  
+  
+ ~~11546~~  
+11547CHO-T1-SF + Yeast/Soy  
+  
+11548  
+11549 CHO-T1-SF + Yeast  
+  
+11550  
+11551Control (3:1 RPMI/HyCell + 3 mg/mL yeast + Nuvonis ingredients)  
+11552
+
+
+Process
+  
+  
+  1. Aliquoted 20 mL of respective growth media into tubes (10 mL per rep)
+  2. Added IGF-1-LR3, EGF and transferrin to CHO-T1-SF aliquots as described in table below (CHO-T1-SF growth media is in main lab fridge (either large fridge near second anteroom or small fridge near 2L bioreactor) in 5 x 250 mL media bottles labelled with their respective peptone additive (e.g. soy, potato + soy etc.) 
+    1. Volume20  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+CHO-T1-SF base mediumNANANA19.97  
+IGF-1 LONG R30.000050.050.0010.020  
+EGF0.000010.050.0000.004  
+Transferrin0.0051000.1000.001  
+  3. Made up 20 mL of control media as shown in table below (RPMI and HyCell media mixes are in small fridge in main lab near 2L bioreactor in 250 mL media bottles. HyCell CHO mix has a ranger label, RPMI mix has "RPMI + 3mg/mL yeast + Nuvonis ingredients" written on it)
+    1. Volume20  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+RPMI + 3mg/mL yeast + nuvonis ingredients (75%)NANANA14.8  
+HyCell CHO + Nuvonis ingredients (25%)NANANA4.9  
+Difco Yeast Extract UF110020.0000.200  
+IGF-1 LONG R30.000050.050.0010.020  
+EGF0.000010.050.0000.004  
+  4. Placed all aliquots in water bath for ~5 min 
+  5. Retrieved flasks from incubator 
+  6. Discarded cultures 11543 - 11546 due to poor performance
+  7. Transferred all cultures to 50 mL tubes 
+  8. Centrifuged at 500 x g for 5 minutes 
+  9. Removed 10 mL of media from each tube 
+  10. Added 10 mL of warmed growth media to respective tubes
+  11. Strained cell suspensions through 70 um cell strainers to remove aggregates and moved cultures to new E-125s. 
+  12. Returned flasks to incubate at 37'C, 10% CO2, 120 RPM
+
+  
+
+

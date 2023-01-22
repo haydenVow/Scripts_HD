@@ -1,0 +1,149 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by:  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)  
+Seeded Flask Type  
+2315-Culture-6303-Vial-36of115 , 2316-Culture-6303-Vial-37of115  
+  
+8743-F_DOLLY12-Sheep P8-1of2  
+D/F+10%FBS+1XP/S  
+T25  
+8744-F_DOLLY12-Sheep P8-2of2  
+  
+8745-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(og)  
+  
+8746-F_DOLLY12-Sheep P8-2of2  
+  
+8747-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(newRICHCORE)  
+  
+8748-F_DOLLY12-Sheep P8-2of2  
+  
+8749-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(AKRON)  
+  
+8750-F_DOLLY12-Sheep P8-2of2  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media DMEM + 10% FBS + 1X P/S  
+Mix 7491  
+  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (5mL per T25, for seeding):    40 mL 
+  * Growth media (for re-suspending during cell count):   5 mL     
+
+  * Time that aliquot was placed in the water bath to warm before use:  14 :28      
+
+
+
+
+## Thaw and seed vial:  
+
+2\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:39 -14:42  
+
+Location where cryovial was collected from:
+
+Vial details:   2   x   F_DOLLY12 cryovials at   1M  cells each for a total of
+2M  cells
+
+Brew
+
+Tower/Bucket # 2
+
+Box/Cane #2  
+
+Vial location:D8, D9  
+
+Vial ID(s): 2315-Culture-6303-Vial-36of115 , 2316-Culture-6303-Vial-37of115  
+
+`3. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`4.  Added  ``500 µL`` of Growth Media (to generate a total volume of 1mL in
+the cryovial) to the cryovial, resuspended the cell suspension gently to
+reduce osmotic shock. `
+
+`5. Took 1 x 10 uL sample from 1 mL cell suspension for cell count`  
+
+`6. Collected the entire 1 mL of cell suspension & transferred into the pre-
+warmed tube of 5 mL of Growth Media. `
+
+`7. Performed cell count. Count = 1,608,000  
+`
+
+`8. Transferred `` 5.2 mL`` to growth medium for seeding to make up to  40mL
+with  1,400,000  cells. (remember to remove 5.2mL from the 40mL aliquot before
+adding the cell suspension). `
+
+`9. Transferred 5 mL of cell suspension to each T25 flask  
+`
+
+`9. Transferred flasks to incubate at:   15:48  
+`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

@@ -1,0 +1,84 @@
+
+
+Adaptation of adherent anchorage dependent mammalian cells can generally be
+performed using two separate approaches. In the direct approach the cells are
+quickly switched from adherent culture into suspension systems whereas
+sequential adaptation or weaning employs the use of several steps of gradual
+adaptation. PPP has historically performed suspension adaptation utilising the
+first approach; however, the literature has shown that undertaking a gradual
+adaption to serum free media may be beneficial to adapting cells to
+suspension.
+
+
+
+Slow suspension adaptation processes are defined by the gradual reduction of
+serum in growth media prior to the transition of cells into suspension
+culture. A study conducted by Jukic and colleagues undertook a slow adaptation
+process that took about 130 days. In this process CHO cells were grown in
+standard DMEM growth media supplemented with 10% FBS and were adapted to serum
+free media conditions in T-flasks by gradual reduction of FBS content from 10%
+to 5% to 3% and finally 1% in the DMEM medium [1]. Due to a reduction in cell
+viability in the 1% FBS treatment group the CHO cells were grown in a serum-
+free HyQ medium containing 0% FBS and grown for 50 days until stable growth
+characteristics were obtained [1]. A similar approach was undertaken by Chun
+et al., in which CHO 1-62 cells grown in MEM alpha medium containing serum
+were adapted to a protein-free suspension culture using a two-step procedure
+[2]. The first step was a sequential reduction of the serum concentration in
+static culture, and the next step was the selection of CHO cells showing an
+elevated cell growth rate in suspension culture [2]. The authors reported a
+stepwise reduction in serum during the weaning period from 2.5%, 1.25%, 0.5%,
+0.25% and finally to the protein free GC-CHO-PI medium [2]. Despite a
+reduction in the growth rate following each decrease in serum concentrations,
+cell viability remained high at about 93-97% [2].  It was reported that after
+15 subcultures (approximately 48 population doublings levels) the CHO cell
+line was successfully adapted to growth in protein-free medium. Other papers
+in the literature support the notion that it may be beneficial to adapt cells
+initially to low serum or even serum free media prior to subjecting cells to
+suspension conditions [3][4][5][6]. Any drops in culture viability or
+significant lag in doubling time following a decrease in serum concentration
+may be able to be maintained if the serum level is returned to the previous
+value prior to the switch [7]. Therefore, it may be necessary to institute a
+more gradual decline in serum concentration with these cells. Alternatively,
+hydrolysates can be used to supplement cell cultures to encourage cell
+proliferation in the absence of serum, providing additional amino acids [8].
+
+
+
+  
+
+References:
+
+[1] Jukić, S., Bubenik, D., Pavlović, N., Tušek, A.J. and Srček, V.G., 2016.
+Adaptation of CHO cells in serum‐free conditions for erythropoietin
+production: Application of EVOP technique for process optimization.
+Biotechnology and applied biochemistry, 63(5), pp.633-641.
+
+[2] Chun, B.H., Bang, W.G., Park, Y.K. and Woo, S.K., 2001. Stable expression
+of recombinant human coagulation factor XIII in protein-free suspension
+culture of Chinese hamster ovary cells. Cytotechnology, 37(3), pp.179-187.
+
+[3] Miki, H. and Takagi, M., 2015. Design of serum-free medium for suspension
+culture of CHO cells on the basis of general commercial media. Cytotechnology,
+67(4), pp.689-697.
+
+[4] Rasmussen, B., Davis, R., Thomas, J. and Reddy, P., 1998. Isolation,
+characterization and recombinant protein expression in Veggie-CHO: a serum-
+free CHO host cell line. In Cell Culture Engineering VI (pp. 31-42). Springer,
+Dordrecht.
+
+[5] Keen, M.J. and Rapson, N.T., 1995. Development of a serum-free culture
+medium for the large scale production of recombinant protein from a Chinese
+hamster ovary cell line. Cytotechnology, 17(3), pp.153-163.
+
+[6] Ozturk, S.S. and Palsson, B.O., 1991. Physiological changes during the
+adaptation of hybridoma cells to low serum and serum‐free media. Biotechnology
+and bioengineering, 37(1), pp.35-46.
+
+[7] https://bioscience.lonza.com/lonza_bs/AU/en/download/content/asset/29284
+
+[8] Sung, Y.H., Lim, S.W., Chung, J.Y. and Lee, G.M., 2004. Yeast hydrolysate
+as a low-cost additive to serum-free medium for the production of human
+thrombopoietin in suspension cultures of Chinese hamster ovary cells. Applied
+microbiology and biotechnology, 63(5), pp.527-536.
+
+

@@ -1,0 +1,62 @@
+
+
+Phase contrast imaging of wells prior to staining.  
+1\. Imaged wells at 5x and 10x magnification  
+Images: https://mia-capture.vow.tools/#/session/recKmwnz89tqy25Ye/images
+
+
+
+
+Killing cells in control wells
+
+N= 4 wells were exposed to ethanol to kill cells, and act as a positive
+control for Dapi dead cell staining.
+
+1\. Media aspirated from n=4 unstained wells  
+2\. 70ul of 70% ethanol added to the wells.  
+3\. plate left in the BSC with the lid off for 30 minutes to kill cells
+
+13:50-14:20
+
+4\. Ethanol aspirated from wells  
+5\. Washed 2 x with 200ul PBS.  
+6\. Proceeded to live Dapi staining protocol
+
+
+
+
+Live Dapi staining protocol.
+
+  
+NOTE: Dapi staining concerntration reduced from 10ug/ml to 5ug/ml due to
+persistent residual florescence seen up to 7 days post staining.  
+
+  1. Prepared dapi stain by adding 20ul of Dapi to 4ml PBS   
+
+  2. Removed culture medium fromall wells (N=16) in 96 well plate #6329 and replaced with 100ul/well Dapi/media mix.
+  3.  Incubated at 37°C for 5 minutes, protected from light. 14:4-14:50
+  4. Washed with 2x with 200ul PBS.  
+
+  5. Replace with fresh PBS and image.  
+  
+Reagents  
+Dapi:2193  
+  
+PBS: 4355
+
+  
+
+
+
+
+Observations and Images
+
+Ethanol exposure did not appear to kill the cells in the way planned. Instead,
+it appears to have had the affect of fixing the cells.  
+There was no distinct difference in the number, or brightness of stained
+nuclei between conditions. Cells that were exposed to ethanol, are also
+stained in the cytopplasm, illuminating the entire cell.
+
+Mia link: https://mia-capture.vow.tools/#/session/recKmwnz89tqy25Ye/images  
+
+

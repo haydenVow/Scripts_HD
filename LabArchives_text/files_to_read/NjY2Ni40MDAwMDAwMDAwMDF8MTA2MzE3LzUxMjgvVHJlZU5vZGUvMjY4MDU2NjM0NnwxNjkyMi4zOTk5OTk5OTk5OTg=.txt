@@ -1,0 +1,77 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+The overarching aim of this study is to assess variations in doubling times
+between F_CHOMP07/09 cell lines and between their MCBs versus WCBs. In
+addition we will take the opportunity to look at the effect of different
+culture media compositions on F_CHOMP cell doubling times.
+
+
+Hypothesis
+
+
+1\. There will be no significant difference between the average cell doubling
+times of F_CHOMP07 and F_ CHOMP09 MCBs  
+2\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP07 and F_ CHOMP09 WCBs  
+3\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP07 and F_ CHOMP09 MCBs compared to their respective WCBs  
+4\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCB cells cultured in ACF media containing fresh 100ng
+each of FGF, IGF1, PDGF + 0.1% chemically defined lipid concentrate.  compared
+to those cultured in media containing a thawed 'bullet' of the same growth
+factors.  
+5\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCBs when cultured in DMEM/F12 + 20% FBS compared to 20%
+KSR without growth factors.  
+6\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCB cells in ACF media containing 100ng each of FGF, IGF1,
+PDGF + 0.1% chemically defined lipid concentrate, compared to those containing
+no growth factors (KSR only).  
+7\. There will be no significant difference between the average cell doubling
+times of F_ CHOMP09 WCBs when cultured in DMEM/F12 + 20%  FBS compared to
+Fibrolife base media supplemented with 100ng each of FGF, IGF1, PDGF + 0.1%
+chemically defined lipid concentrate.
+
+  
+
+
+Technical Gap
+
+
+Currently, F_CHOMP07 and F_CHOMP09 cell lines have only been grown to p7 and
+p8 respectively and we do not have an understanding of their proliferative
+limits.  We have also previously only cultured these cells in DMEM/F12 and
+M199 based media containing 20% FBS (see lab books here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDE4Ny4zfDEwNjMxNy8zMjIxLTI0NzI0L1RyZWVOb2RlLzc4ODA3OTIzNXwxMDYyOS4z).
+We saw dramatic differences in cell doubling times in DMEM/F12 versus M199
+media, and it is likely that with further media optimisation, we can also
+optimise cell growth.
+
+
+Method/Procedure
+
+
+  
+
+D0: Thaw CHOMP09 and CHOMP07 WCB and MCB vials and seed at a density of 7,500
+cells/cm in 7x 96 well plates, following the plate map shown below.  
+D1-D7: Fix 1 plate per day. For all remaining plates, perform a 50% media
+change with respective medias every 48hrs.  
+D7- After all plates have been fixed, stain with dapi and image on the Zaber.
+Use Mia Dapi counting macro to perform nuclei counts and determine cell
+numbers.  
+  
+After all data has been collected, import to GraphPad Prism to determine cell
+doubling times and perform comparative analysis between groups.
+
+  
+
+  
+
+

@@ -1,0 +1,155 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+Plate Map
+
+  
+
+  
+
+
+
+
+## Performed by: Adrian Kotevski
+
+
+
+
+Growth Media:
+
+[x] E6
+
+  
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+Well LocationsComments  
+  
+48-well plate  
+7222-DOLLY12-Sheep P13-1of2  
+  
+7223-DOLLY12-Sheep P13-2of2  
+Fibroblast ECM scaffolds seeded with MuSCA1-A8, B1-B8, C1-C4, D1-D4, E1-E4,
+F1-F4 (See plate map above)Only half the samples for each condition were
+stained with CMFDA (i.e. A1-A2, B1-B2, C1-C2 etc)  
+  
+Cell FreeC5-C8  
+Only half the samples for each condition were stained with CMFDA (i.e. A1-A2,
+B1-B2, C1-C2 etc)  
+  
+  
+  
+
+
+
+
+Process:
+
+Before undertaking any of the staining transfer half of the samples into one
+96-well plate. This plate will stained with CMFDA, imaged, then kept in
+culture until the following week to be fixed and stained with MyoG.
+
+Live staining:
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+3\. Transfer 10 uL of the 1mM CMFDA stock solution to 5 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution.
+
+4\. Prepare a separate    5  mL of DMEM/F12 PRF growth media.
+
+  1.  Transfer both the CMFDA working stock solution and DMEM/F12 PRF growth media into the water bath to be pre-warmed    11:50      
+
+5\. Aspirate the media from all the wells both cell seeded and cell free
+scaffolds
+
+6\. Add    200    uL of pre-warmed DMEM/F12 PRF growth media to the wells from
+each plate as a rinse step to remove any residual serum.
+
+7\. Aspirate the rinsing media from both plates
+
+8\. Add     200  uL of pre-warmed CMFDA working solution to the each well in
+both plate and incubate for 30 minutes at 37'C covered in foil to protect
+samples from light.
+
+  1. Start/Finish time was:   12:08 - 12:38   
+
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Remove    150    uL of staining solution from each well
+
+10\. Image all wells from both plates on the Zaber fluorescence microscope
+(channel AF488 for CMFDA [Live cells]). Remember to image both sides.
+
+11\. Transfer all the scaffolds into a new 96 well plate.
+
+12\. Replace all wells with 200 uL fresh E6 growth media
+
+13\. Return plate to the incubator.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+DMEM/F12 PRFS2116  
+  
+CMFDAS916  
+  
+DMSOA3931  
+  
+Growth Media (E6)  
+M5915  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- Either no or very little amount of cells on the scaffolds
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because... no cells on scaffolds
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recrlgGisNALFrpxZ/images (7222),
+Thursday July 08
+
+

@@ -1,0 +1,131 @@
+
+
+Reagent preparation:
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+  1.2 µL   Secondary #1 AF488 goat anti-mouse IgG1  (1:1000  ) +  1.2 µL
+Secondary #2 AF555 goat anti-mouse IgG2b   (1:1000  ) +  1.2  mL Blocking
+Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+4\. Prepared DAPI mix:
+
+  1.2 mL  PBS +  1.2  uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Process:
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 14:19 - 14:24 a/pm
+
+ 14:25 - 14:30 a/pm
+
+ 14:31 - 14:36 a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  14:38 - 15:40 a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  15:41 a/pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 15:41 - 15:46 a/pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 15:47 - 15:52 a/pm
+
+ 15:53 - 15:58 a/pm
+
+4\.  Replaced dPBS.
+
+ 16:00 a/pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+### Image on Zaber
+
+  1. Plates were imaged on the Zaber on 5x magnification with the following settings:
+    1. 1 image per well (in the centre) per channel
+    2. DAPI: exposure 25, illuminator lamp: 35 
+    3. AF488: exposure 400, illuminator lamp: 37
+    4. AF555: exposure 800, illuminator lamp: 100
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+secondary stained 18 wells of 96 wp #6616
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Bufferm4785  
+  
+dPBSm4826  
+  
+AF555 goat anti-mouse IgG2b  
+s1966  
+  
+AF488 goat anti-mouse IgG1  
+s1606  
+  
+DAPI (1:1000)m2193  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

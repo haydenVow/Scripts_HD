@@ -1,0 +1,52 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Determine if the type of water (MilliQ [Type 1 water] vs distilled ultrapure
+vs RO [type 3 water] vs industrial distilled vs tap water) used to
+reconstitute the Hycell CHO media affects the survival and subsequent
+proliferation of Nuvonis suspension cells
+
+
+Hypothesis
+
+
+No significant differences in Nuvonis cell survival and proliferation will be
+observed between Hycell media reconstituted in each of the water treatment
+conditions.
+
+
+Technical Gap
+
+
+All commercially available media powders used at Vow are reconstituted in
+MilliQ (Type 1) water. It is unclear whether Nuvonis suspension cells can
+survive in growth media reconstituted in other water types. This experiment
+will determine whether the water used to reconstitute powdered growth media
+affects cell survival and proliferation.
+
+
+Method/Procedure
+
+
+Process:
+
+  1. Prepare 150 mL of Hycell media in each water treatment (see below)
+    1. Add 25.4 g/L of Hycell CHO powder, 2.2 g/L of sodium bicarbonate and 1 g/L of poloxamer 188
+    2. Stir until dissolved
+    3. Sterile filter through a 0.22 um filter unit
+  2. Seed 5x E125 flasks with Nuvonis suspension cells (1.5M cells per flask)
+    1. Condition 1: Hycell media with MilliQ (Type 1 water)
+    2. Condition 2: Hycell media with distilled ultrapure water
+    3. Condition 3: Hycell media with reverse osmosis (Type 3 water)
+    4. Condition 4: Hycell media with industrial distilled water
+    5. Condition 5: Hycell media with tap water
+  3. Perform a cell count approximately 24 hours after seeding to assess cell survival
+  4. Passage the cells 4 days after seeding and retrieve samples for a total cell count and viability for each condition
+  5. Allow the cells to remain in culture for an additional 4 days and perform a final cell count and viability check for each condition
+
+

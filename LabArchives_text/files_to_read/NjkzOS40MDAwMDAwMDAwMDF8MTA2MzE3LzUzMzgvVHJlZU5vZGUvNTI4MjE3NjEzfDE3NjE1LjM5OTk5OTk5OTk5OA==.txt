@@ -1,0 +1,122 @@
+Key findings:
+
+
+  * No culture treatment condition was able to be adapted to suspension culture, irrespective of basal media composition and inclusion of additives (trace elements, vitamins and essential/non-essential amino acids).  
+  * Cultures supplemented with additives in both the D/F12 and RPMI treatment groups contained viable cells after 30 days and continued to survive until day 35.
+  * Media supplementation with additives appears to assist in promoting fibroblast cell survival. 
+  * Ready Flow probes appear to offer more consistent fluorescent signals of greater intensity compared to Ready Probe.  
+  * Significant levels of variance were observed between replicates of the same condition across all treatments. 
+  * Incubator incident (see here for full details) highlights the need for environmental monitoring, especially for long term critical suspension projects.  
+
+
+Results/Discussion:
+
+
+In the current work, a preliminary study was carried out to adapt adherent
+DOLLY12 fibroblasts to grow in suspension as individual cells. As the
+adaptation of anchorage-dependent cells to suspension culture solves scale-up
+limitations associated with monolayer cultures, it is considered as an
+attractive tool for industrial applications. Namely in expanding our current
+ability in obtaining sufficient cellular mass to include in a first release
+product. Similar to previous suspension experiments in the past, the
+adaptation procedure lasted 30 days, concluding with a manual check to
+evaluate if any cultures continued to survive to that time point.
+Additionally, this study sought to investigate if the addition of additives
+such as trace elements, vitamins, and amino acids enable fibroblasts to
+proliferate in suspension.
+
+  
+  
+
+Evident from the day 2 sampling time point was that all conditions exhibited a
+significant drop in cell numbers compared to their initial seeding density
+(1,000,000 cells) (Figure 1). Furthermore, this was irrespective if the cells
+were cultured in a basal media supplemented with additives (Figure 1).
+Fortunately, the total counts exceeded what was reported with the dead counts,
+suggesting that a portion of the cells were still viable, albeit quite low
+(Figure 2). As the culturing period progressed the total number of cells
+gradually decreased amongst all conditions, excluding the RPMI treatment which
+displayed a slight increase at day 9. A proportional decrease was observed in
+dead cell tally, validating the trend observed from the total counts.
+Surprisingly all the cultures saw an increase between days 9 and 21, with the
+D/F12 boost demonstrating the highest jump in total cells (approximately
+10,000). Unfortunately, day 24 recorded a loss in cell numbers similar to
+those seen from day 9 despite the previous increase. Unexpectedly, despite the
+majority of the cultures recording similar numbers across to day 28 the D/F12
+displayed a sharp increase in cells, upwards of ~350,000, despite the small
+number of cells recorded just 4 days prior. However, it remains unclear what
+the root cause for these high cell numbers was as the Zaber images captured of
+these cultures approximated fluorescent signals comparable to cells. Day 30
+manual counts revealed that there were no viable cells remaining in all but 2
+of the cultures tested, a replicate from each of the D/F12 Boost and RPMI
+boost treatments. These conditions maintained stable counts across to day 35,
+however following the incubator incident, manual hemocytometer checks
+confirmed that no viable cells remained.  
+
+  
+
+Figure 1: Total cell counts of DOLLY12 fibroblasts (mean ± SD) seeded in
+DMEM/F12 or RPMI basal media supplemented with or without additives (i.e.
+boost) across the duration of the culturing period.  Due to the high variance
+in the data captured several error bars are not represented completely in the
+figure. Each condition was performed in duplicate (n=2).
+
+  
+
+Figure 2: Dead cell counts of DOLLY12 fibroblasts (mean ± SD) seeded in
+DMEM/F12 or RPMI basal media supplemented with or without additives (i.e.
+boost) across the duration of the culturing period.  Due to the high variance
+in the data captured several error bars are not represented completely in the
+figure. Each condition was performed in duplicate (n=2).
+
+
+Limitations:
+
+
+A limitation concerning this study revolved around the lack of consistent
+fluorescent signals across the culturing period, particularly between days 10
+and 20. At several instances Zaber images were not captured due to being
+unable to observe any fluorescent signals that approximated cells. In addition
+at several instances a white precipitate formed, presumably the Hoechst 33342
+Ready Probe dye, obscuring the fluorescently labelled cells. Consequently, 2
+separate cellular stains were forced to be trailed during this experiment's
+duration without adequate testing beforehand; Hoechst 33342 Ready Probes and
+Hoechst 33342 Ready Flow. Therefore, this could have resulted in the
+characteristic rise and fall of cell counts observed across the culturing
+period. Furthermore, it remained elusive as to why one particular culture
+exhibited a sharp increase in cell counts towards the conclusion of the
+experiment. Despite a high cell count and appearing similar to other Zaber
+imaged cultures this treatment unfortunately did not contain viable cells at
+the conclusion of this investigation. Separately, the original intention of
+this study was to investigate the effect of removing magnesium and calcium
+from the cell culture medium. Wherein, these 2 compounds are presumed to play
+a role in how cells maintain adherence between other cells and/or substrates.
+Unfortunately, due to procurement issues these culture mediums could not be
+obtained prior to the commencement of this experiment. Finally, as depicted in
+the graphs for both the total and dead cell counts, at almost every time point
+for each culture there was a high level of variance between replicates. In
+several instances only one replicate from each condition recording cell
+numbers whilst the other was either 0 or incredibly low.
+
+
+Conclusion:
+
+
+The results of this study were unsuccessful in adapting fibroblast cells to
+suspension culture conditions, irrespective of the basal media utilised or the
+inclusion of media additives. Despite these results, it appears the the
+addition of trace elements, vitamins and MEM essential and non-essential amino
+acids promoted survival of fibroblast whilst in suspension. Wherein, cultures
+in these conditions routinely demonstrated the highest cell counts. However
+the high level of variance observed between replicates makes it difficult to
+determine if these additives can promote fibroblast proliferation, and
+therefore required further investigation.
+
+
+Future Directions:
+
+
+  * Investigate basal medium compositions lacking calcium and magnesium. 
+  * Further exploration on the impact of trace elements, vitamins, and MEM essential and non-essential amino acid mixes on fibroblast survival in suspension. Both the D/F12 and RPMI conditions supplemented with additives consistently recorded the highest cell counts amongst all treatments evaluated. 
+
+

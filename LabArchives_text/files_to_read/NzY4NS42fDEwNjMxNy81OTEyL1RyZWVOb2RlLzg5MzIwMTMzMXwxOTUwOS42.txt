@@ -1,0 +1,173 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: ST, LL  
+
+
+
+
+Media
+
+ ~~~~ ~~~~
+
+1\. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM
+glutamax + 1xP/S + IGF + PDGF + P53i
+
+Note: only add growth factors to aliquots immediately before the medium
+change.
+
+
+
+
+Reagents used:
+
+Name
+
+Details (reagent ID)  
+  
+FGF  
+m5705  
+IGF1  
+m7963  
+  
+p53 (100mM)  
+m6789  
+  
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Culture ID  
+Location  
+9600-F_DOLLY12-Sheep P10-1of1  
+Bottom Sanyo next to Zaber (sorry I don't remember the incubator number).
+Should be the only non-stickered flask
+
+
+  
+  
+1\. Aliquoted growth media for each condition and added growth factors - See
+suspension trail #7 on the media spreadsheet for details here:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+
+  
+  
+  
+  
+  
+  
+  
+
+Media  
+  
+Reagent IDPurpose  
+  
+Volume of Media (mL)  
+  
+Number of tubes (Split between DOLLY12 and CHOMP)  
+  
+Total per feed  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 4mM
+L-glutamine +  100ng/mL each FGF, IGF1, PDGF (to be added after aliquotting)
+\+ 1x p/sM8653  
+  
+E125 feed  
+  
+  
+901  
+90  
+  
+2\. Added growth factors (IGFand FGF) to all aliquots of CD CHO growth media
+according to the below table:
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+For 15 mL aliquots:  
+  
+
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.01230  
+IGF10.00010.050.01230  
+p53i100 uM5  
+0.09  
+  
+  
+
+ 3\. Added the following reagents to the water bath and media to incubator and
+warm at 37°C
+
+  
+
+
+
+
+Process:  
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min :
+  5. Washed flasks with 10 mL of dPBS
+  6. Aspirated  75% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. 
+  7. Topped up each 50 mL centrifuge tube with 5 mL of fresh prewarmed media and resuspended cell pellet. 
+  8. Gently pipette-mixed cultures, and pooled cultures using serological and transferred to new flask
+  9. Took 100 uL samples from each culture and loaded onto a 96 well plate according to the plate map. 
+  10. Returned E125s to incubator 14:36
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining and imaging:  
+1\. Prepared dead stain buffer in 15 mL amber or black tube by combining the
+following:
+
+  * 1 mL of dPBS 
+  * 1 drop of NucGreen Dead Af488 stain
+    * Vortex mix for ~5 seconds, then stored in dark until ready to use.
+
+2\. Prepared live stain solution in 15 mL black tube by combining the
+following:
+
+  * 4750 uL MilliQ
+  * 250 uL Hoechst Trichloride trihydrate solution (1 mg/mL)
+    * Vortex mix for ~5 seconds, then stored in dark until ready to use.
+
+  1. Added 20 uL live stain solution directly to cells
+  2. Added 80 uL of dead stain solution directly to cells
+  3. Incubated for 30 minutes in the dark at room temperature Timestamp: :
+  4. Made 25% and 12.5% dilutions of the sample in dPBS   
+
+  5. Centrifuged plates at 300 RCF for 1 minute   :
+  6. EPIC28333, Plate 1  
+Plate ID: 9368, Well G1 - G3  
+Plate map:  
+Mia Link: https://mia-capture.vow.tools/#/session/recSwW2GttosiZHV4/images
+
+  
+
+
+
+
+Observations/Summary  
+Zaber observations  
+
+

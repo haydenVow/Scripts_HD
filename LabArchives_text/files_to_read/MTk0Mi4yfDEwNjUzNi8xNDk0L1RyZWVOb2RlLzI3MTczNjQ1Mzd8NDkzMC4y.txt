@@ -1,0 +1,19 @@
+
+
+Procedure
+
+
+
+
+Entered the manual haemocytometer counts into the widget above. However, when
+calculating the seeding density of the E5000, the two Quad counts were used
+instead (due to it being lower / a more conservative estimate).
+
+Firstly, the two Quad counts were averaged (420k + 710k / 2 = 565k cells /
+mL). Assuming that the E500 (volume = 200 mL) had a density of 565k cells /
+mL, the seeding density of the E5000 was calculated by doing the following:  
+(565k cells / mL x 200 mL) / 2200 mL* = ~51364 cells / mL  
+  
+*Note: The final volume of the E5000 was ~2200 mL, which was a result of adding the cell suspension from the E500 (~200 mL) with 2 L of fresh media.
+
+

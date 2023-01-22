@@ -1,0 +1,180 @@
+
+
+## Performed by: AV  
+
+
+
+
+Culture IDs
+
+Flask ID(s) Vessel TypeNew Flask ID  
+New Vessel Type  
+  
+11361  
+E250  
+  
+E250  
+  
+  
+Location: Eppendorf shaking incubator (top) #.159  , Main lab,
+
+
+
+
+Cell Count:
+
+1\. Harvested 100ul per flask for cell count
+
+2\. Diluted 1:2 with trypan blue
+
+3\. Recorded cell counts in spreadsheet
+
+Flask ID(s)Live cell densityTotal live cells in flask  
+11361  
+1.484M cells/mL  
+44.52M  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+HyCell Nuvonis suspension medium  
+M11229  
+  
+EGF  
+
+### M10586  
+  
+IGF  
+M10584  
+  
+  
+###  
+
+  
+
+
+
+
+Perform:
+
+  1. Cell count
+  2. Take 20M -> spin down (20/44.52 * 28 = 12.579 mL required)
+  3. Resuspend in 1mL Hycell with growth factors
+  4. 200ul in first 4 wells
+  5. 100uL Hycell in next 11 wells across (prepare 11*4*100uL*1.1 ~= 5mL total) ~~~~
+  6. 1:2 dilution until K
+  7. Leave 0 as blank
+  8. Take OD at 600 nm
+
+  
+
+Platemap
+
+  
+  
+  
+  
+  
+  
+201052.51.250.6250.31250.156250.0781250.03906250.019531250  
+201052.51.250.6250.31250.156250.0781250.03906250.019531250  
+201052.51.250.6250.31250.156250.0781250.03906250.019531250  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+E250-1E5000-1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+E250-2E5000-2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+E250-3E5000-3  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Passage
+
+  1. Prepared 88mL HyCell media 
+    * Added growth factors 18 uL EGF 88 uL IGF as per media calculator
+    * placed media in water bath and heated for xx minutes
+  2. Added newly prepared, warmed media into new E250 flask
+  3. Removed flask from incubator, removed 12mL and added to new E250 flask to bring total volume to 100mL
+  4. Returned flask to incubator
+  5. This flask is for Biostat A 2L training
+
+Main lab, incubator #159, 120 RPM
+
+
+
+
+Observations:
+
+  * 
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

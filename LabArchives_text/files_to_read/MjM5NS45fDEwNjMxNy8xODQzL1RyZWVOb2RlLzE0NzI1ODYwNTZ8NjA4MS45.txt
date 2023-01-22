@@ -1,0 +1,155 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Nathan  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+6wp  
+6995  
+T25s  
+7126-F_DOLLY12_1I4-Sheep P4-1of1  
+7127-F_DOLLY12_1J19-Sheep P4-1of1  
+7128-F_DOLLY12_1L20-Sheep P4-1of1  
+7129-F_DOLLY12_2N19-Sheep P4-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM). 
+
+
+
+
+### Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     9    mL in    1x15mL     tubes
+  2.  dPBS (for washing and neutralising):      9   mL in    1x15mL    tube
+  3. Growth media (for seeding):     4x5mL    mL in    4x15mL     tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+10:33   a/pm
+
+2\. 10:35-10:43 Took image of vessel with the zaber on Phase, settings: 4x3
+grid under 5x magnification, 6ms exposure time, all 6 wells on the plate were
+imaged, 1.23 lamp intensity.
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     2    mL tryple to each well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     10:50-11:05   a/pm 
+
+7\. Neutralised each well with     2    dPBS and transferred cell suspensions
+into separate    15mL     tubes. Added an additional 2mL of dPBS to each tube
+so that tighter pellets would form during centrifugation.  
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     11:21-11:26   a/pm 
+
+
+
+
+13\. Aspirated and discarded supernatant from each tube, Transferred each of
+the     5mL     growth media aliquots to separate 15mL tubes containing
+clones.    11:40    a/pm
+
+14\. Transferred cell suspensions into separate T25 flasks.  
+
+16\. Transferred vessel(s) to incubate at: 11:50
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple4949  
+  
+dPBS (for washing & neutralising)5067  
+  
+Growth Media4870  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+n/a
+
+
+
+
+SOPs used:
+
+### n/a
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6995 prior to passage: https://mia-
+capture.vow.tools/#/session/rec99cgTjOzPDcR5Z/images#group1
+
+

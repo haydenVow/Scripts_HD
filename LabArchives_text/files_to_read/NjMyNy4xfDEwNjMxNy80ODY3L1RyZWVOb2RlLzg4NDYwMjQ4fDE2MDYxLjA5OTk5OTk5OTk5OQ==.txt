@@ -1,0 +1,507 @@
+
+
+## Performed by: Eva, Kylie, Addy, Bec  
+
+
+
+
+Perform passage using below volumes:
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175 - C2C128784 - 8786  
+96 WP  
+  
+  
+8815-C2C12-Mouse P5-7of12  
+8816-C2C12-Mouse P5-8of12  
+8817-C2C12-Mouse P5-9of12  
+8818-C2C12-Mouse P5-10of12  
+8819-C2C12-Mouse P5-11of12  
+8820-C2C12-Mouse P5-12of12  
+  
+8822-C2C12-Mouse P5-1of2  
+8823-C2C12-Mouse P5-2of2  
+  
+T175 - DOLLYL12 MCB8751 - 8753  
+96 wp  
+  
+2CF, 24WP, 12 WP  
+8805-DOLLY12-Sheep PP-various-1of4  
+8806-DOLLY12-Sheep PP-various-2of4  
+8807-DOLLY12-Sheep PP-various-3of4  
+8808-DOLLY12-Sheep PP-various-4of4  
+  
+8821-DOLLY12-Sheep P7-1of1  
+8824-DOLLY12-Sheep P7-1of1  
+  
+T175 - DOLLY12 WCB8788 8791  
+  
+  
+8809-DOLLY12-Sheep P10-1of12  
+8810-DOLLY12-Sheep P10-2of12  
+8811-DOLLY12-Sheep P10-3of12  
+8812-DOLLY12-Sheep P10-4of12  
+8813-DOLLY12-Sheep P10-5of12  
+8814-DOLLY12-Sheep P10-6of12  
+  
+4CF - C2C12 (diff)  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM7508  
+  
+Tryplem7713  
+  
+dPBS (for washing & neutralising)A7479, 7481, 7480  
+  
+Growth Mediaa7526, a7530, 7520  
+  
+p38i (20mM stock)m7354  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. Include link in
+image section
+
+2\. Gelatin coated    1 x 4CF           1x2CF          1x24 wp          2x12wp
+16 x 96wp       vessel  with sterile filtered 0.1% gelatin solution and then
+incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       11:40   am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      280   mL in 
+  2.  dPBS (At 37 degrees for washing):     280    mL    11:48  am 
+  3.  dPBS (at RT neutralising):    280     mL 
+  4. Growth media (for pellet resuspension):     10 + 3 + 3 + 2    mL 
+  5. Growth media (for seeding):      300 mL + 600 mL + 12 mL + 24 mL + 14mL + 85.36mL + 71.28mL  
+
+Time that all aliquots were placed in the water bath the warm before use
+13:40  pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+DOLLY12 MCB + DOLLY12 WCB + C2C12
+
+  
+
+4\. Removed vessel(s) from the incubator     14:20   pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:36 - 14:49 pm 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a  2 x
+50 ml (MCB) & 1 x 50 ml (WCB)  tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+DOLLY12: Start/Finish time for centrifugation was     15:00 -15:05  pm
+
+C2C12: Start/Finish time for centrifugation was     14:54 - 14:59   pm
+
+  
+
+C2C12 (DIFF)
+
+4\. Removed vessel(s) from the incubator     14:20 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:24 - 14:34  pm 
+
+7\. Neutralised with     200     dPBS and combined cell suspension into a
+2 x 225 mL   tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:54 - 14:59   pm 
+
+
+
+
+DOLLY12 MCB
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     2    mL   DMEM/F12 + 20% FBS + 1x P/S + p38i
+media    15:43  pm
+
+11\. Aliquoted          of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+  
+
+DOLLY12 WBC
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    0.5   mL   DMEM/F12 + 20% FBS + 1x P/S + p38i
+media     15:23 pm
+
+11\. Aliquoted          of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+  
+
+C2C12
+
+9\. Aspirated the supernatant(s).
+
+Resuspended 1 pellet in 1mL of Growth media and combined cells into 1 x
+pellet. Centrifuged at 650 x g for 5 min at RT 15:17 - 15:22 pm
+
+Aspirated supernatant, weighed pellet
+
+PELLET WEIGHT = 12.921 - 12.888 = 0.033 g
+
+10\. Resuspended pellet(s) in     5   mL    Growth Media      media   15:25 pm
+
+11\. Aliquoted     10uL      of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+  
+
+C2C12 DIFF
+
+Centrifuged start/end: 15:57-16:02
+
+  
+
+  
+
+
+
+
+DOLLY12 MCB
+
+
+
+
+DOLLY12 WCB
+
+
+
+
+C2C12
+
+
+
+
+C2C12 (DIF)
+
+
+
+
+Freezing
+
+C2C12 - DIFF  
+
+  1. Weight 3.706g 
+  2. Re-sus in warm media or D/F and take cell count
+  3. centrifuge sample 
+  4. remove supernatant
+  5. Wash with ice cold PBS 
+  6. centrifuge sample 
+  7. remove supernatant 
+  8.  weigh sample 
+  9. Freeze at -80 degrees
+
+  
+
+DOLLY12 MCB (if left over)  
+
+  1. Weight tube - 12525.4 - 12484 =  40.9mg
+  2. Re-sus in warm media or D/F and take cell count
+  3. centrifuge sample 
+  4. remove supernatant
+  5. Wash with ice cold PBS 
+  6. centrifuge sample 
+  7. remove supernatant 
+  8.  weigh sample 
+  9. Freeze at -80 degrees
+
+  
+
+C2C12  
+
+  1. Weight cells :0.033 g
+  2. Re-sus in warm media or D/F and take cell count
+  3. centrifuge sample 
+  4. remove supernatant
+  5. Wash with ice cold PBS 
+  6. centrifuge sample 
+  7. remove supernatant 
+  8.  weigh sample 
+  9. Freeze at -80 degrees
+
+
+
+
+## Seeding
+
+Summary:
+
+DOLLY12 MCB
+
+1\. Cell death experiment (BS, ECN)
+
+2\. Nutrition benefit expansion (KK)  \- seed 1 x 4CF
+
+3\. Protein quantification (SS) - 24WP
+
+4\. E-Stim (CO, AV) - 2x 12wp seeded out for e-sim
+
+5\. Weigh samples and freeze for analysis  (KK)
+
+  
+
+DOLLY12 WCB
+
+1\. cell death experiment (BS, ECN)
+
+2\. Weigh samples and freeze for analysis (optional) (KK)
+
+  
+
+C2C12
+
+1\. cell death experiment (BS, ECN)
+
+2\. cell expansion (KK) - seed 4M into a 4CF
+
+3\. Weigh samples and freeze for analysis (KK)
+
+  
+
+C2C12 (DIFF)
+
+1\. Weigh samples and freeze for analysis (KK)
+
+
+
+
+Cell death investigation seeding - DOLLY12 MCB + WBC  
+
+13\. Transferred      0.50688    mL of DOLLY12 MCB cell suspension to the pre-
+warmed       85.36   mL Growth media:  
+
+14\. Transferred      330     µl of DOLLY12 WCB cell suspension to the pre-
+warmed      14    mL Growth media:  
+
+14\. Transferred cell suspension into the        4 x 96wp     pre-gelatin
+coated vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     15:49  \-
+16:19 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:     #118        
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+Cell death investigation seeding - DOLLY12 MCB  \+ C1C12
+
+13\. Transferred     see above (506uL in 85.36mL)  ml of DOLLY12 MCB cell
+suspension to the pre-warmed Growth media:  
+
+14\. Transferred      873     µl of C2C12 cell suspension to the pre-warmed
+71.28   mL Growth media:  
+
+14\. Transferred cell suspension into the       12 x 96wp      pre-gelatin
+coated   vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      15:34  \-
+16:04 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:      #118       
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+DOLLY12 MCB: for nutrition benefit (into diff)
+
+13\. Transferred        1.187    ml of cell suspension to the pre-warmed
+300     mL Growth media:  
+
+14\. Transferred cell suspension into the       1 x 2CF      pre-gelatin
+coated vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle    17:20  \-
+17:40 pm
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:      17:40 pm     
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+DOLLY12 MCB: Protein quantification
+
+13\. Transferred      27.078    µl of cell suspension to the pre-warmed
+12    mL Growth media:  
+
+14\. Transferred cell suspension into the       24 wp      pre-gelatin coated
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      17:20  \-
+17:50 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:      17:50 pm     
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+DOLLY12 MCB: E-stim
+
+13\. Transferred        4.1176470588   ml of cell suspension to the pre-warmed
+24    mL Growth media:
+
+14\. Transferred cell suspension into the       2 x 12 wp      pre-gelatin
+coated vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     17:  \-
+17: pm
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:       17: pm     
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+ ~~  
+~~
+
+ ~~C2C12 Seeding: for cell  expansion into M-STIM  
+~~
+
+~~13\. Transferred          ml of cell suspension to the pre-warmed     600
+mL Growth media:      :    a/pm ~~
+
+ ~~14\. Transferred cell suspension into the       1 x 4CF      pre-gelatin
+coated vessel.~~
+
+ ~~15\. Left at RT in the BSC for 30 min to allow cells to settle      :  \-
+: a/pm  ~~
+
+ ~~16\. Transferred vessel(s) to incubate at:  ~~
+
+  *  ~~[x]  37ºC, 5% CO2 (mammalian cells)  Incubator:           ~~
+  *  ~~[ ]  40ºC, 5% CO2 (avian cells)~~
+
+
+
+
+Observations/Summary:
+
+Not enough cells to freeze DOLLYMCB or C2C12
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+DOLLY12 MCB
+
+https://mia-capture.vow.tools/#/session/receBmAFGvep4XalP/images
+
+https://mia-capture.vow.tools/#/session/recXGmZ7UB0IW962j/images
+
+  
+
+DOLLY12 WCB
+
+https://mia-capture.vow.tools/#/session/recW6Ogis0s5vKjfu/images
+
+https://mia-capture.vow.tools/#/session/recPrSoRkw4mUrwwM/images
+
+  
+
+C2C12
+
+https://mia-capture.vow.tools/#/session/recEm8KozcuKQxjbl/images
+
+https://mia-capture.vow.tools/#/session/recnjvOWbbvTZ33EA/images
+
+https://mia-capture.vow.tools/#/session/recWSTLEFz27CDlyv/images
+
+  
+
+C2C12 -DIFF
+
+https://mia-capture.vow.tools/#/session/recBK23H5Jthwc0cm/images
+
+

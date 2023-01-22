@@ -1,0 +1,135 @@
+Introduction:
+  
+  
+Currently, the process for measuring maturation in myogenic cells at Vow is
+primarily focused on fluorescent antibody staining and subsequent image
+analysis. While this approach has proved useful for adherent cultures, it
+remains difficult to measure maturation on three-dimensional cultures at Vow
+due to complex overlapping structures that often fail to be captured
+accurately with microscopy (even with our Zaber imaging platform). Considering
+the recent success of culturing myoblasts in 3D gels undergoing mechanical
+stimulation, it's imperative that tools to accurately measure 3D cultures be
+constructed. One possible approach that has come to light is the enzyme-linked
+immunosorbent assay (ELISA) that is commonly used to detect and quantify
+proteins and antibodies in biological samples. Moreover, the ELISA could also
+be implemented in our adherent cultures to obtain more accurate and instant
+quantitative data regarding the maturation of our myoblasts. A working and
+reliable ELISA pipeline also allows immediate quantification and analysis via
+the in house plate reader.
+
+However, a key area for the success of the ELISA are the washing steps to
+remove the unbound primary antibody before adding the secondary antibody.
+Given the repeated washing and plate transfer steps, the ELISA and Janus Green
+protocols form ideal candidates for automation. Having a fully automated
+pipeline for maturation analysis would rapidly increase our throughput,
+allowing us to conduct more maturation studies in paralell. This experiment
+explored the success of the ELISA on our primary cells and it's translation of
+it's workflow to our Opentron II robots.
+
+  
+
+
+Protocol summary:
+  
+  
+Figure 1: Plate map for both plates  
+  
+  
+
+
+
+
+The feasibility for the assay to be translated on liquid handling robots was
+assessed by performing some preliminary tests. These tests were small but
+important steps in the manual process such as:
+
+  * Washing
+  * Transferring the culture plate supernatant to a new plate
+  * Adding a specified amount of antibody
+
+These steps were performed on the OT2 successfully and allowed tweaks to be
+made that would then form the final protocol.
+
+Two plates containing primary DOLLY12 myoblasts were then cultured for 14 days
+and then primary stained manually (see plate map above). The original
+experimental plan depicted that one plate would be secondary stained on the
+automation platform and the other done manually. Thus, any effects resulting
+from the automation would become clear and could then be improved on (if any
+arose).
+
+In light of low absorbance values from the first run, the second run was
+instead run through automation with a more potent antibody dilution. Hence, a
+comparison between manual and automated was not possible.
+
+
+Key findings:
+  
+  
+Figure 2: Abs values for Column B containing 2000 cells per well. Columns 2 -
+6 stained for MyoG and columns 7 - 11 stained for MF20. Columns 6 and 11 are
+not stained with a primary antibody.
+
+Figure 3: Abs values for Column C containing 3000 cells per well. Columns 2 -
+6 stained for MyoG and columns 7 - 11 stained for MF20. Columns 6 and 11 are
+not stained with a primary antibody.
+
+
+  
+  
+Findings from Run 1:
+
+  * Automation of the ELISA is successful, despite some unwarranted calibration issues with the OT2.
+  * ELISA is very sensitive to either cell density and/or plate position (see Figures 1 and 2 above).
+  * An increase in absorbance was not observed with increasing cell density for MyoG and MF20.
+  * Cell free controls showed low absorbance compared to the rest of the wells.
+  * When performing ELISA on primary cells, these results suggest a lower dilution antibody mix (as evidenced by dramatically low Abs values).
+  * As expected, MF20 values are higher than MyoG due to the higher amounts of myosin present at Day 14 than myogenenin.
+
+Findings from Run 2:
+
+  * An increase from sub 0.1 values to ~ 0.2 values was observed when the antibody dilution was changed from 1:50,000 to 1:20,000.
+  * Despite identical automation steps, the absorbance readings observed do NOT correlate with their treatment. Moreover, values observed within replicates are very different - no distinct pattern can be observed here.
+
+See:
+https://docs.google.com/spreadsheets/d/1673_rqP6wqQKeMa98CfECZoynUyZxwJh2sJLsY4SUT4/edit#gid=958816564
+
+
+Limitations/Discussion:
+
+
+Automation protocol:
+
+  * Overall, this experiment has been successful in translating the manual steps of the ELISA over to an automated platform.
+  * Some investigation will need to be done in repeat experiments to determine whether strange biological results stem from the engineering or the biology.
+
+Replicates display inconsistent data:
+
+  * The inconsistent data observed in the second run points to perhaps a difference in cultureware between the first and second automation run. It is possible a tissue treated 96 well plate was used in the plate reader which augmented the path. However, despite this, no changes in the automation protocol were introduced. Hence, a repeated experiment will shed some light on this issue and narrow down the source of these values.
+
+High background (in no pAB control):
+
+  * When conducting a manual vs automated workflow - introduce plate "tapping" or "blotting" during washing steps on absorbent tissue to improve washing. If a reduction in background absorbance is seen compared to the automated ELISA then this step will need to be implemented somehow.
+  * Substrate is being exposed to light while in the OT2 for more than 10 minutes. Since TMB is light sensitive, this may be affecting the background absorbance (according to ThermoFisher ELISA troubleshooting guide).
+  * The volume of antibody added is 75uL per well, perhaps this is an excessive amount and it should be 50uL to keep consistent with immunofluorescent antibody amounts. This will need to be investigated in a seperate experiment in the future.
+
+Low absorbance values:
+
+  * In the first automated run, the antibody dilution used was 1:50,000 and resulted in sub 0.1 values. This compromised the validity of the results as the MyoG values started to resemble the background values (no pAb). Hence, a dilution of 1:20,000 was used for the second plate which resulted in slightly higher values at ~ 0.2 abs units. In light of this, future ELISA workflows should feature a 1:10,000 dilution to obtain values with in the 0.5 - 1.0 abs unit range.
+  * It is possible that longer incubation times with TMB may increase absorbance values. Many manufacturer protocols recommend 15 - 30 mins.
+
+
+Conclusion/future direction:
+
+  * An automated workflow was constructed, tested and run for the ELISA resulting in considerable success (in relation to the engineering)
+  * The runs highlighted some biological issues that arose from using primary cells that will need to be optimized in the next quarter.
+  * High background absorbance and non-specific binding issues again suggest that the washing steps require optimisation.
+  * Strategies to reduce background absorbance and other shortcomings of the ELISA as outlined in the section above, will be implemented manually first.
+  * Once the manual workflow has been optimised, it can then be put through this automated workflow once again.
+
+
+
+
+
+
+
+

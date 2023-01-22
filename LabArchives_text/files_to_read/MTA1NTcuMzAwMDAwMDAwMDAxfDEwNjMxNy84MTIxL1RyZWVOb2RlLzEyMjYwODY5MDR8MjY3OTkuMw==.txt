@@ -1,0 +1,110 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+75:25 RPMI:CHO HD + NuvonisM12689  
+
+
+  
+  
+Flask typeSeeded flask IDConditionLocation  
+E-1251216950:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 141 (Main Lab)  
+  
+  
+12203  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+1217050:50 RPMI:CHO HD + Nuvonis  
+  
+12204  
+75:25 RPMI:CHO HD + Nuvonis  
+  
+1217150:50 RPMI:CHO HD + Nuvonis  
+  
+12205  
+75:25 RPMI:CHO HD + Nuvonis  
+
+
+  
+  
+  
+
+  1. Took 2 x 560 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (510 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+Average vicell total cell count  
+12169 14,600,000  
+14,270,000  
+12169 13,940,000  
+  
+12170 11,720,000  
+12,730,000  
+  
+1217013,740,000  
+  
+1217114,220,000  
+14,430,000  
+  
+1217114,640,000  
+  
+122039,960,000  
+9,580,000  
+  
+122039,200,000  
+  
+122048,200,000  
+8,400,000  
+  
+122048,600,000  
+  
+122057,060,000  
+7,390,000  
+  
+122057,720,000  
+  
+  
+  
+
+  3. Aliquotted 60 mL of each;  
+(1) 50:50 RPMI:CHO Part A + Nuvonis and  
+(2) 75:25 RPMI:CHO Part A + Nuvonis  
+(3) CHO HD basal medium + Nuvonis  
+  
+and, added 60uL of IGF and 12 uL of EGF to each aliquot.  
+  
+
+  4. Aliquoted the following mL of cell suspension into 6 x 15 mL tubes, out of which every 2 will come from the same culture and contain the same volume of cell suspension:  
+  
+Flask IDVolume of cell suspension used to re-seed flask @ 100k cells/mL having
+a total of 2M cells/ flask (mL)  
+  
+12169 x 2  
+2.803  
+  
+12170 x 2  
+3.142  
+  
+12171 x 2 2.772  
+122034.175  
+  
+122044.762  
+  
+122055.413  
+  
+  
+*Note: 50/50 flasks were used to reseed the 100% CHO HD basal medium + Nuvonis flasks lost due to bacterial contamination. That is the reason why there will be 2 x 15 mL tubes per 50/50 cell suspension.  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. In the meantime, washed each flask with ~10mL dPBS, removed it and then added 20 mL of each pre-warmed media into each E-125, having a total of 3 x E-125 with 50:50 and 3 x E-125 with 75:25 media.
+  7. After centrifugation, aspirated the supernatant and resuspended cell pellet in 1 mL of respective medium using a 1 mL pipette. Then dispensed cell suspension into its respective E-125.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

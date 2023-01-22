@@ -1,0 +1,266 @@
+Aim / Goal
+
+
+To seed "Pork bun" gel to determine the following:
+
+\- Effect of vit C in media
+
+\- Addition of a secondary material
+
+ULTIMATE GOAL: Cells to survive in biomaterials and hopefully proliferate.
+
+
+Hypothesis
+
+
+I believe the cells can proliferate through the gel when kept in a suspension
+form on a shaker to increase perfusion throughout the scaffold.
+
+Things to be mindful of:
+
+\- Scaffold to media concentration
+
+\- Perfusion throughout scaffold
+
+\- Cell clustering and necrotic cores
+
+
+Protocol
+
+
+Pork Bun Gel Creation
+
+  1. Weigh out all biomaterial powders (see below) and combine together into a homogenous powder.
+    1. 2% (w/v) Low viscosity alginate
+    2. 2% (w/v)  Metho cellulose (Sigma Aldrich Brand)
+    3. 1% (w/v) Xanthan Gum
+    4. 1% (w/v) Glucomannan
+  2. Hydrate various biomaterials to required volume in PBS. Stir with a spatula until mostly dissolved. If clumps form, try pushing against the side of the jar.
+  3. Leave for 1hr in room temperature
+  4. Stir to ensure a homogenous biogel, incorporate air in to form bubbles
+  5. Autoclave for 30 mins at 121C on liquid setting. Or pressure cook at similar settings with water in pan.
+  6. Refrigerate remaining gel overnight at 4C.
+
+Cell Seeding Protocol - FOR PORK BUN GEL
+
+  1. Add growth factors to the growth media. 
+  2. Place growth media aliquot in the waterbath (37C) for minimum 20 minutes
+  3. Bring other reagents and biogel to RT for 1 hour. 
+  4. Perform cell count. Density for experiments: 20 million cells / mL (required density to be proven). 
+  5. Passage cells. Put required cell volume into 50mL centrifuge tubes.
+  6. Centrifuge cell suspension for 5 mins at 500g.
+  7. Based on cell count, use c1V1=c2V2 to determine amount of biogel required.
+  8. Using a 5 mL syringe, stir biogel and draw up required amount and transfer to sterile specimen jar.
+  9. Remove supernatant from cells, resuspend in media (~30uL / mL of biogel). Transfer to biogel in jar with a 1mL pipette, slowly stirring into ink as you do. Make sure to get into tip of cartridge and that it entirely incorporated (~1.5 min).
+  10. Draw up into a syringe and add to anchor moulds in a 24WP.
+  11. Add CaCl2 solution (100mM) to drops and crosslink for 15 mins.
+  12. Following crosslink, remove scaffolds with anchor moulds to a 6 well plate.
+  13. Wash scaffolds in media at RT according to this:
+    1. 1x 1 min wash
+    2. 1x 5 min wash
+    3. x 10 min wash at 37 C
+  14. After scaffolds are washed of all excess CaCl2, culture in media.
+  15. Leave for 1 day prior to feeding to ensure stabilisation of construct.
+  16. Feed according to schedule.
+
+Cell Seeding Protocol - FOR SECONDARY MATERIAL CONSTRUCTS
+
+Preparing secondary materials
+
+  1. Using a sterile biopsy punch cut 5mm wide discs from material sheets, or alternatively aliquot some of the secondary material powder into a beaker.
+  2. Place in 50mL of PBS and autoclave for 30 mins. 
+  3. Remove PBS and replace with fresh PBS, wash by gentle swirling and remove PBS. Replace with RPMI/HiCell (50:50) media.
+
+Seeding secondary materials (Sheets or chips)
+
+  1. Place a hole punch of each material into a single well each of a 24WP.
+  2. Perform cell count. Density for experiments: 20 million cells / mL (required density to be proven). 
+  3. Passage cells. Put required cell volume into 50mL centrifuge tubes.
+  4. Centrifuge cell suspension for 5 mins at 500g.
+  5. Based on cell count, use c1V1=c2V2 to determine amount of biogel required.
+  6. Using a 5 mL syringe, stir biogel and draw up required amount and transfer to sterile specimen jar.
+  7. Remove supernatant from cells, resuspend in media (~30uL / mL of biogel). Transfer to biogel in jar with a 1mL pipette, slowly stirring into ink as you do. Make sure to get into tip of cartridge and that it entirely incorporated (~1.5 min).
+  8. Draw up into a syringe and add to anchor moulds in a 24WP.
+  9. Add CaCl2 solution (100mM) to drops and crosslink for 15 mins.
+  10. Following crosslink, remove scaffolds with anchor moulds to a 6 well plate.
+  11. Wash scaffolds in media at RT according to this:
+    1. 1x 1 min wash
+    2. 1x 5 min wash
+    3. x 10 min wash at 37 C
+  12. After scaffolds are washed of all excess CaCl2, culture in media.
+  13. Leave for 1 day prior to feeding to ensure stabilisation of construct.
+  14. Feed according to schedule.
+
+Seeding Vit C Condition
+
+**Repeat method for seeding pork bun gel, however dose final culture media
+with 50ug/mL of Vitamic C (Ascorbic Acid)**
+
+Feeding Schedule
+
+Everyday feeds
+
+  1. Take 3 images at 5x and 3 images at 10x
+  2. Check for signs of contamination.
+  3. Remove 50% of RPMI/HiCell (50:50) and replace with 50% fresh RPMI/HiCell (50:50) every day.
+
+Staining Protocol
+
+Hoechst 33342 /Propidium Iodide
+
+  1. Transfer scaffolds to to a 24 WP on days 0, 3, 7
+  2. Remove any excess media.
+  3. Add in fresh media with 2 ug/mL of Hoechst and 2 ug/mL Propidium Iodide.
+  4. Incubate for 15 mins on a shaker plate.
+  5. Remove media and wash 2x with PBS.
+  6. Replace with fresh PBS and image on Zaber.
+
+Presto Blue Assay
+
+  
+
+
+Results
+
+
+Pork Bun Gel Creation
+
+ComponentSKULOT  
+BrandSTK ID:  
+Methyl Cellulose  
+M0512  
+079K0054  
+Sigma  
+863  
+Alginic Acid - Low Viscosity  
+A1112  
+SLCH7413  
+Sigma  
+6805  
+  
+Glucomannan  
+6513  
+3203529  
+NOW  
+6898  
+Xanthan Gum  
+G1253  
+SLCD3849  
+Sigma  
+865  
+PBS  
+  
+  
+Aliquot ID: 10923  
+Parent: Mic 10905  
+  
+Pork Bun Gel
+
+Cell culture parent ID: 12589
+
+Cell seeding density: 16 million / mL
+
+Secondary material candidates
+
+Cass Materials Bacterial NanoCellulose Sheets
+
+Cass Materials Bacterial Nanocelluose Fleece
+
+Jellagen Collagen Scaffolds
+
+ConditionsNumberBiogel Vol / Well (uL)Cell Density  
+Pork Bun Gel440016 million / mL  
+Pork Bun Gel + Vit C (50ug/mL)440016 million / mL  
+  
+Bacterial NanoCellulose Sheets  
+440016 million / mL  
+  
+Bacterial Nanocelluose Fleece (10mg/400uL Biogel)  
+440016 million / mL  
+  
+Jellagen Collagen Scaffolds (+BioGel)  
+440016 million / mL  
+  
+Jellagen Collagen Scaffolds (-Biogel)4N/A16 million / mL  
+  
+  
+Media Used
+
+RPMI / HiCell 50:50 with Growth Factors
+
+Mix ID: 12801 (NoGF), 12811 (+GF 1%PS)
+
+Vit C : Concentration = 50ug /mL. 8mL required = 400ug. Stock con. = 100mg/mL.
+Required vol. = 4uL
+
+Cell Count:
+
+160 million cells resuspended in 300 uL = 50uL / Condition
+
+Final cell suspension vol = 1.2mL
+
+25.6 million cells / condition = 200 uL per condition
+
+Crosslinking Time
+
+Crosslinker: 100 mM CaCl2 in PBS (Mix ID: 12883)
+
+Start Time / Finish Time: 1855/1710
+
+1st wash (Start/Finish): 1712/1714
+
+2nd wash (Start/Finish): 1718/1723
+
+3rd wash (Start/Finish): 1929/1939
+
+  
+
+Final Incubation
+
+Incubator 52 Main Lab - 37C 5% CO2
+
+  
+
+Culture IDS
+
+12662-Nuvonis Quail Suspension341-P-6of6
+
+12661-Nuvonis Quail Suspension341-P-5of6
+
+12660-Nuvonis Quail Suspension341-P-4of6
+
+12659-Nuvonis Quail Suspension341-P-3of6
+
+12658-Nuvonis Quail Suspension341-P-2of6
+
+12657-Nuvonis Quail Suspension341-P-1of6
+
+
+Observations/Notes
+
+
+During autoclaving of the biogel, it changed colour to a dark amber from its
+initial translucent beige. Thickness and consistency also changed, when hot it
+will be the consistency of semi firm fetta (not a great comparison), while
+when it cooled to room temperature it was similiar to marmalade without the
+stickinesss, when cooled further to 4C it become more liquidy.
+
+Trying to syringe up the gel was highly difficult and an accurate volume could
+not be achieved. Suggest for future experiments to determine the density and
+measure out volumes by weight instead.
+
+Using large number of cells (160 million) contributes to a large amount of the
+suspension volume. This will need to be taken into account when determining
+the final dilution of the biogel, or when attempting to resuspend the cells in
+the gel.
+
+Gel did not adhere to secondary components well, for future experiments we
+will need to incorporate it as part of a mould.
+
+
+Conclusion
+
+
+Quick summary of your findings
+
+

@@ -1,0 +1,58 @@
+
+
+Performed by: VP & CO
+
+
+
+
+Reagents & materials
+
+ItemID  
+IGF ELISA Kit (Cloud Clone)Cloud clone, Cat# SEA050Bo (Bovine)  
+10x RIPA Buffer (Milipore)STK-158  
+Protease inhibitor cocktail (Sigma)STK-2503  
+IGF-LR3 0.05mg/mLMIX-12969 (Bovine)
+
+
+  
+  
+Process
+
+For buffer preparation and assay protocol specifics, please see experimental
+plan entry  
+
+  1. Prepared unknown samples to 1mg/mL final concentration and spiked with IGF-LR3. G-sheet with sample preparation and plate layout here 
+  2. Prepared wash buffer
+  3. Reserved unused wells from plate frame and stored in plate packaging 
+  4. Prepared standards in RIPA buffer as per manufacturer's recommendations
+  5. Added 100uL standards and unknown samples to plate, careful not to touch. Sealed with provided plate seal sticker
+  6. Started incubation at 37degC 11:22 AM 
+  7. Retrieved from incubator at 12:40 PM
+  8. Removed liquid from wells and immediately added 100uL per well of detection reagent A
+  9. Returned to incubator at 12:45 PM
+  10. Retrieved from incubator at 13:47 PM
+  11. Aspirated solution, rinsed with 350uL per well wash solution 3 times. Blotted excess
+  12. Added 100uL per well detection reagent B, covered with plate sealer
+  13. Returned to incubator at  14:02 PM (30 mins)
+  14. Retrieved from incubator at 14:30 PM
+  15. Aspirated solution, rinsed with 350uL/well wash solution 5 times. Blotted excess
+  16. Added 90uL per well detection substrate solution, covered with plate sealer. Added at Incubation time 10-20 minutes. Check plate every 5 minutes and inspect colour change. 14:54 Stopped when curve resolved with distinctive gradient after 15 minutes
+  17. Added 50uL per well Stop solution. Gently tapped plate to ensure uniform mixing
+  18. Ensured plate bottom was clear of marks/droplets and no bubbles in wells 
+  19. Read absorbance at 450nm in plate reader
+  20. See attached for exported data
+  21. See G-sheet for standard curve and data summary
+
+  
+
+
+
+
+Observations, notes & summary
+
+  * incubation time for TMB substrate was 15 minutes (protocol specified variable period between 10-20 mins) before stop solution was added
+  * IGF-LR3 spiked condition was accidentally prepared at 10x desired concentration (see data G-sheet). This is not problematic - purpose of the spike was to demonstrate that kit could detect IGF-LR3 variant in addition to wild-type. Large spike in absorbance reading for this condition compared to non-spiked condition is indicative of this, even if absorbance reading was outside the window of relative values in standard curve
+  * 50ng/mL concentration is too high for a standard, and absorbance was outside of the linear range of the kit. Removed this point from the standard curve with 25ng/mL as the highest, and R^2 of trendline was 0.995. Therefore, 25ng/mL is acceptable as upper limit for standard curve concentration
+  * IGF concentration was ~3.0 higher than IGF concentration in quail meat. Not yet determined how this compared to published values for comparable tissue. Unclear if background contributed to these levels of absorbance.
+
+

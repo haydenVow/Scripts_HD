@@ -1,0 +1,99 @@
+Methods and Experiment Layout
+
+
+Performed By: Alex
+
+
+
+
+Experiment Layout
+
+This experiment will compare multiple conditions and timepoints of suspension
+cells + adherent re-adapted cells. Conditions are as follows:
+
+  * Suspension - 3x E125 flasks seeded with 250k/mL in 30mL of 50:50 RPMI:Hycell GM cultured for 24 hours (conditions #1-3)
+  * Suspension - 3x E125 flasks seeded with 250k/mL in 30mL of 50:50 RPMI:Hycell GM cultured for 4 days (conditions #4-6)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of 50:50 RPMI:Hycell GM cultured for 24 hours (conditions #7-9)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of 50:50 RPMI:Hycell GM cultured for 4 days (conditions #10-12)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + ITS + 18.8mg/ml BSA + P/S cultured for 24 hours (conditions #13-15)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + ITS + 18.8mg/ml BSA + P/S cultured for 4 days (conditions #16-18)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + FBS + P/S cultured for 24 hours (conditions #19-21)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + FBS + P/S cultured for 4 days (conditions #22-24)
+
+  
+
+
+
+
+Preparation for Harvest
+
+  1. Prepare 3 falcon tubes for cell harvest for 3 conditions - Suspension cells (#1-6), re-adherent cells (#7-24) and Immunostaining for characterisation (LAB BOOK LINK)
+  2. Media preparation for harvest and seeding: 50-50 RPMI/Hycell mix
+    1. Aliquot 180mL of 50-50 RPMI/Hycell  growth medium (GM) and add growth factors (concentration listed in the E8 Calculator)
+    2. Aliquot 150mL of  DMEM/F12+10%FBS
+    3. Aliquot 120mL of  DMEM/F12+18mg/ml BSA+ITS 
+
+Cell Harvest for mould seeding - Nuvonis suspesion protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+    1. Total yield flask #12589 =    440 million   
+
+    2. Total volume per flask #12589 =    134.35mL  
+    3. Cell concentration # =     3.26M cells/mL  
+  3. Aliquot cell suspension from the culture flask into 3x falcon tubes:
+    1.  Conditions #1-6 =  45M   cell total required for Suspension conditions. Aliquot a cell suspension total volume of =    14mL  # into a 50mL falcon tube and complete with  6mL  GM
+    2. Conditions #7-24 =   63M   cell total required for Suspension conditions. Aliquot a cell suspension total volume of =    19.3mL  # into a 50mL falcon tube and complete with  0.7mL  GM
+    3. Immunostaining characterisation expt =   960k   cell total required for Suspension conditions. Aliquot a cell suspension total volume of =    0.3mL  # into a 50mL falcon tube and complete with  19.7mL  PBS
+  4. Centrifuge at 500g for 5 minutes: start  : am 
+  5. Resuspend pellets in   600uL of 50-50 Media 
+  6. Then measure out exactly how much the cells has increased the volume by using the P1000.
+  7. Top up the cell suspension to  1843.8uL 
+  8. Aliquot the respective volumes of cell+media needed per condition.  
+    1. 9% Matrigel: 413.7 uL
+    2. 6% Matrigel: 445.2 uL 
+    3. 3% Matrigel: 476.7 uL
+    4. 0% Matrigel: 508.2 uL 
+  9. Proceed to matrix additions below. 
+
+  
+
+Matrix formation for scaffold seeding - 4 Matrigel conditions (6
+tissues/condition)
+
+N.B. Repeat this gel formation for each Eppendorf tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     426.3uL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =    51.45iL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =    64.05uL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume needed to each (for each condition)
+      1. 9% Matrigel  94.5uL  
+      2. 6% Matrigel  63uL  
+      3. 3% Matrigel  31.5L  
+      4. 0% Matrigel   0uL  
+    2. Matri
+  5. Remove pluronic from wells
+  6. Seed    150uL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well. 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add     ~13 mL   50-50 Media to entire dish, ensure entire mould is covered
+  9. Culture at 37°C overnight before checking. 
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+

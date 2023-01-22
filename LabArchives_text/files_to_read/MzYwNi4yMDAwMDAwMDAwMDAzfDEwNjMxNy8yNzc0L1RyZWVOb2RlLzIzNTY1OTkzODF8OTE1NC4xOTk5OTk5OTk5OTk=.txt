@@ -1,0 +1,24 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+Hypothesis
+Technical Gap
+Method/Procedure
+
+
+  1. Day 0 - Revive MuSCs, seeding directly into 1 x 96-well plate at 1,000 cells / well  
+Half plate + p38i  
+Half plate - p38i
+
+  2. Day 1 - 50% Feed all wells with respective media
+  3. Day 3 - Fix all wells
+  4. Primary Stain for MyoD/MyoG (to confirm myogenicity and also differentiation)
+  5. Secondary Stain for AF488/555 (correlating to primary isotypes)
+  6. Zaber image all stained wells for DAPI/AF488/AF555.
+  7. Calculate % of MyoG+MyoD+ cells out of all DAPI+ cells for both conditions (±p38i)
+  8. Generate graph and calculate statistics between 2 groups.
+
+

@@ -1,0 +1,110 @@
+Passage 1 - Thaw XX vials into XX
+
+
+# Procedure \- Thaw and Seed
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.
+
+1\. Place new seeding flasks into the 37'C incubator to pre-warm.
+
+2\. Extract required growth media into aliquots as listed in the table below
+and place into a heated 37'C water bath for 20 minutes.
+
+50% Growth Media Feed  
+100% Growth Media Feed  
+  
+Flask Type
+
+Volume of Media Required per flask (mL)
+
+Flask Type
+
+Volume of Media Required per flask (mL)  
+  
+T17515T17530  
+2CF1502CF300  
+4CF3004CF600  
+5CS3755CS750  
+10CS75010CS1500  
+  
+3\. Select the vial/s for thawing. Note the location of the vial in Liquid
+Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)
+
+4\. Obtain selected number of cryovial/s from LN Dewar and thaw in the 37'C
+water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.
+
+5\. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and
+transfer into the Biohazard Safety Cabinet (BSC).
+
+6\. Slowly add 500uL of growth media into the/each vial. This will produce a
+total of 1mL cell suspension per vial.
+
+7\. Resuspend the cells gently and transfer all contents from the vial to the
+bottom of a 50mL falcon tube. *NOTE: Dispensing suspension of cells on the
+sides of the tube will risk loss of cells in Step 11.
+
+8\. Add an additional 500uL of growth media to each vial to collect remaining
+cells and add into the centrifuge tube. A total of 1.5mL will be in each vial.
+
+9\. Resuspend cells thoroughly and immediately extract 50uL into a
+microcentrifuge tube.
+
+10\. Perform cell count (Refer to VSOP-007) from collected sample and use the
+Cell Counting Widget (below) to enter data.
+
+11\.  Extract all contents from the centrifuge tube and dispense into the
+prepared growth media. Wash the tube with 5-10 mL of the same growth media to
+extract remaining cells attached to the tube.  
+12\. Transfer the pre-warmed flasks from the 37C incubator into the BSC.  
+13\. Add required volume of growth media to each flask, ensuring the entire
+surface is coated. Use the 'Bec Drop' to lay down the flasks.``
+
+14\. Transfer and incubate overnight at 37C.
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required  
+37'C, 5% CO2  
+  
+  
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+
+From Batch 27 (P2)
+50% Feed on 1x10CF and 2x4CF
+
+
+# Procedure - Feed
+
+# Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.  
+
+  1. Turn on the water bath and set to 37'C.
+  2. Aliquot  required growth media into a sterile container/s and place into the water bath. 
+  3. Place in the water bath and heat for at least 20 minutes.
+  4. Observe the cell flasks for confluence under the microscope using 4 x magnification and take images as required. Note: The confluence of cells must be <50% to perform cell feeding in P1-P3 and <80% in P4 prior to the cell differentiation stage. 
+  5. Transfer flasks to the BSC and remove required volume of media from each flask (according to the Table below).
+  6. Replace the same volume into each flask with the prepared growth media.
+  7. Return the flasks to the incubators
+
+  
+References  
+  
+BLT: VLBT-004 Media Change  
+SOP: Section 8 under VSOP-008 Cell Feeding  
+
+``
+
+

@@ -1,0 +1,97 @@
+
+
+## Completed by: Chris
+
+
+Aim/Purpose
+
+
+To assess if we can precipitate Nuvonis cell suspensions using flocculants.The
+resulting aggregation is intended to promote ECM secretion and provide an
+otherwise smooth cell suspension with additional biomass and texture.
+
+
+Hypothesis
+
+
+Clarification techniques from scientific literature can be applied in an
+industrial context (at scale) to flocculate cells. The flocculation will
+provide texture to the centrifugate due to cells excreting ECM after
+flocculation (semi-adherent state)
+
+chrome-
+extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.researchgate.net/profile/Kenneth-
+Kang-5/publication/280256601_What_can_cell_culture_flocculation_offer_for_antibody_purification_processes/links/56800a1f08ae1e63f1e944e9/What-
+can-cell-culture-flocculation-offer-for-antibody-purification-processes.pdf
+
+
+Technical Gap
+
+
+We have no data supporting the hypotheses that:
+
+1\. our cells are compatible with the flocculants
+
+2\. an E flask model system (if successful) is an indication the same
+phenomenon may be transferable to 25/200/2000L bioreactors
+
+3\. the texture provided is desirable
+
+4\. cells will supply sufficient ECM to provide significant textural benefits
+
+
+Method/Procedure
+
+
+Experiment Timeline:
+
+  1. obtain viable Nuvonis suspension cells from Program1/2
+    1. transfer equal volumes into E flasks and allow to equilibrate/proliferate further for 1 day (or longer?). This is to get the cells used to the new environment.
+    2. alternatively thaw vials directly into E flasks and let proliferate for 1 week?
+  2. Once desired cell density is reached (there might be a minimum density required for flocculation to work?!), add flocculants
+  3. If flocculation occurs, allow precipitates to continue in culture for x days to allow for ECM deposition
+  4. harvest all flasks and compare biomass yield.
+  5. Assess texture using scientific tools or tasting experiments.
+
+  
+
+Flocculation conditions Calcium Phosphate:
+
+Calcium chloride and dipotassium hydrogen phosphate were purchased from
+Sinopharm Chemical Reagent Co., Ltd. The 5 M calcium chloride and 2 M
+dipotassium hydrogen phosphate were prepared as stock solutions. First, the 5
+M calcium chloride was added to the shake flask of 30 mL CCF containing the
+mAb1 to reach the desired concentration. Then, the flask was mildly shaken for
+2 min followed by addition of 2 M dipotassium hydrogen phosphate to reach the
+desired concentration. The addition order of calcium chloride and dipotassium
+hydrogen phosphate could be reversed.
+
+In brief, Chen et al., showed that the addition of calcium ions at 15-60 mM
+was sufficient for flocculation at a pH of 7.
+
+In more detail, as the concentration of calcium ions and phosphate ions
+increased, the turbidity reduced. High turbidity reduction was observed at
+high concentrations of calcium ions and phosphate ions. The turbidity reduced
+significantly with increase of the concentration of calcium ions, indicating
+that calcium ions played an important role in turbidity reduction. As the
+concentration of phosphate ions increased, a lower turbidity reduction was
+achieved. A higher turbidity reduction was seen when the phosphate ions added
+were below 50 mM, indicating that addition of phosphate ions prior to calcium
+ions could induce larger particles precipitation and result in improvement of
+clarification efficiency.
+
+  
+
+targets:
+
+1\. Calcium  15-60mM
+
+2\. Phosphate <50mM
+
+  
+
+Materials:
+
+  
+
+

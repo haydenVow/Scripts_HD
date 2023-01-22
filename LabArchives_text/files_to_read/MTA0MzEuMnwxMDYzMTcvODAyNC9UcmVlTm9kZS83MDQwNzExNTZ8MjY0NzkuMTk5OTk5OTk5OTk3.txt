@@ -1,0 +1,273 @@
+
+
+## Completed by: Ella
+
+
+
+
+Writeup also found here: https://www.notion.so/vow/Flocculation-for-texture-
+reading-notes-EH-30a70fe49f1841c880cf545ec783f7b7
+
+Flocculation is the collection of cells into aggregates by the addition of
+multivalent cations, metal salts or polymers.
+
+Flocculation allows for an easier separation of cells and cell debris. For
+example, when producing antibodies in Chinese hamster ovary (CHO) cells, the
+antibody product is expressed into the supernatant, and the induction of flock
+formation enables easier cell removal without compromising product yield.
+
+At Vow we are interested in the idea of flocculation as a means of unifying
+cell mass and creating texture (i.e. an improved meat like mouth feel when our
+cells are cooked and eaten).
+
+Since mammalian cell surfaces are negatively charged, flocculation is usually
+performed using cationic polymers to bridge the particles. Common polymers
+used for cell flocculation include polyethylenimine (PEI),
+polydiallyldimethylammonium chloride (pDADMAC), polyamines and chitosan.
+
+Considering we intend to use flocculation to form a food product we are only
+interested in flocculants that are edible, non-toxic and non-animal derived.
+Flocculants that potentially meet these criteria include:
+
+1 Chitosan
+
+2\. Calcium Phosphate
+
+3.polydiallyldimethylammonium chloride (PDADMAC)
+
+
+
+
+
+
+
+# PDADMAC (cationic poymer)
+
+Lower cytotoxicity than PEI but still cytotoxic.
+
+See: https://www.researchgate.net/profile/Kenneth-
+Kang-5/publication/280256601_What_can_cell_culture_flocculation_offer_for_antibody_purification_processes/links/56800a1f08ae1e63f1e944e9/What-
+can-cell-culture-flocculation-offer-for-antibody-purification-processes.pdf
+
+
+
+
+# Chitosan
+
+Chitosan is an ideal flocculant for biotechnology applications as it is
+inexpensive (∼$60/kg) produced from non-mammalian sources, a food grade
+material, and is also available in a highly purified form that is low in heavy
+metals, volatile organics and microbial materials.
+
+Chitosan is a polymer of deacetylated chitin. The deacetylation imparts
+limited solubility on insoluble chitin and the amino groups on the polymer
+result in a polycationic material at acidic and neutral pH that can interact
+with polyanions, such as DNA and cell culture debris (typically negatively
+charged). Likely the interaction of chitosan with cell culture particulate
+forms a germinal center for further interaction and agglomeration of
+particulates thereby reducing the solubility of these materials resulting in
+their settling out into the solid phase.
+
+The use of chitosan as a flocculant with mammalian cells was investigated by
+Riske et al., 2006. Riske et al., performed multiple experiments to identify
+the appropriate conditions for flocculation including chitosan content (w/v),
+pH, neutral salt concentration and settling time.
+
+In brief, the preferred condition for the flocculation of cells and debris
+from NS0 cell culture harvest was >30 min of 0.02 to 0.06% chitosan exposure
+(in acetic acid), 0-0.2 M additional NaCl and a pH range of 5.5-7.5.
+
+Whereas ≥300 mM and a pH of >7.5 increased turbidity. Suggesting that
+flocculation of chitosan and cellular debris was inhibited by an ionic
+interaction between Cl− and polymer, or Na + and negatively charged debris (at
+the neutral pH of the harvest,∼7.0-7.4) and that hydroxide ion interaction
+with polymer also interfered with debris polymer flocculation.
+
+The chitosan used in the work by Riske et al., 2006. is from arthropod shells
+i.e. it is animal derived (and a common allergen). It will be important for
+our purposes that we use fungal chitosan. Furthermore, the natural sourcing of
+chitosan could lead to variability between lots of the flocculant as well as
+the potential for introduction of impurities from environmental sources, and
+this should be considered in our decision for a flocculant moving forward.
+
+.
+
+  * Further details of these experiments is noted below.
+
+In the Riske et al., study chitosan was added to an NS0 cell (rodent cancer
+cell line) culture harvest containing a ∼160,000 Da IgG4 monoclonal antibody
+(MAb) of pI 6.2-6.8, the material allowed to flocculate, and the flocculants
+separated by continuous flow centrifugation followed by depth and absolute
+filtration.
+
+Chitosan is not directly soluble in water but is soluble in acidic solutions.
+A 1% chitosan stock solution (50-200 mPas at 20 ◦C) was prepared by dissolving
+chitosan powder in 1% acetic acid (w/v) and stirring the material for several
+hours.
+
+In an initial set of experiments the appropriate conditions for flocculation
+including chitosan content (w/v), pH, neutral salt concentration and settling
+time were determined in 0.25 L flasks with 0.20 L of harvest.
+
+In these initial experiments, chitosan was added to a final concentration of
+
+0.05-1% (w/v) at about 0.05-0.2 L/L of harvest/min, to NS0 harvest containing
+an IgG4 MAb (0.5-1 g/L). In these experiments the Chitosan-treated harvest was
+stirred for 30 min and then allowed to stand for1 h. A sample of the
+supernatant was removed and the
+
+absorbance measured at 600 nm (A600nm ), a metric for material turbidity. The
+absorbance of harvest without chitosan addition was the control.
+
+After choosing the appropriate settling time for chitosan harvest interaction
+low speed centrifugation (200 × g) for 5 min was used to rapidly separate the
+particulate material in the next three experiments.
+
+These experiments were performed to determine the appropriate harvest
+conditions and chitosan amount for maximal particulate flocculation in NS0
+cell culture harvest.
+
+In the first experiment chitosan at 0-0.1% (v/v) was added to harvest (pH
+7.4). In
+
+the second experimental set the harvest was previously adjusted to a pH of
+5.0-9.0 and chitosan was added to a final concentration of 0.02%. In the third
+experiment, harvest was previously adjusted with additional NaCl (0-800 mM)
+and chitosan was added to a final
+
+concentration of 0.02%. In all three experiments, a 1% chitosan stock solution
+was added at 5-10 ml/min to 200 ml aliquots of harvest (250 ml beakers), the
+samples stirred for 30 min and then an aliquot removed and particulates
+separated by centrifugation. The A600nm of
+
+the supernatants was used as the metric of material clarity.
+
+A reduction in supernatant turbidty (A600nm ) was noted at all chitosan
+concentrations
+
+studied but was optimal at 0.02% and 0.05% chitosan. Thirty minutes of
+chitosan-harvest interaction, prior to solid separation, was sufficient for a
+marked reduction
+
+in supernatant turbidity.
+
+Based on the results of these experiments a condition of 0.02% chitosan
+addition to unadjusted (pH and NaCl) cell culture harvest was chosen for
+further evaluation by continuous flow centrifugation followed by normal flow
+filtration on depth and absolute filters. In these studies, 20 ml of a 1%
+chitosan stock was added (50-200 ml/min) per litre of stirred harvest (100 rpm
+using a 7.6 cm marine impeller) contained in a 50 L polypropylene circular
+container (Nalgene). The material was mixed for 30 min and then separated
+(14-24 L at 0.3-0.5 L/min) at 8200-9470 rpm using a disk stacked continuous
+flow centrifuge.
+
+Particulate flocculation was greatest at 0.02-0.05% chitosan.
+
+The concentration of chitosan was then set to 0.02% and a neutral salt (NaCl)
+range was studied. Supernatants were assayed for antibody concentration and
+for turbidity (A600nm ). The chitosan flocculation of debris was most
+effective at NaCl additions of ≤200 mM (340 mM total NaCl as the media
+contains140 mM NaCl). The turbidity increased at ≥300 mM
+
+NaCl addition suggesting that the flocculation of chitosan and cellular debris
+was inhibited by an ionic interaction between Cl− and polymer, or Na + and
+negatively charged debris (at the neutral pH of the harvest,∼7.0-7.4).
+
+In the last experiment of this series the concentration of chitosan was fixed
+at 0.02%, additional NaCl was not added and the pH of the harvest was adjusted
+to set points between pH 5.0 to pH 9.0. Supernatants were assayed for antibody
+concentration and for turbid-
+
+ity (A600nm ). Chitosan flocculation was most effective at a pH range of
+5.5-7.5. At pH > 7.5 the turbidity increased dramatically suggesting hydroxide
+ion interaction with polymer interfering with debris polymer flocculation.
+
+  * Purchasing Chitosan
+
+
+
+
+# Calcium Chloride & potassium phosphate
+
+Recently, the addition of "generally recognized as safe" flocculation reagents
+such as calcium chloride and potassium phosphate has been studied to avoid
+potential issues related to polymer or residual monomer toxicity and the need
+for their removal through subsequent purification steps.
+
+These two compounds, when combined, produce calcium phosphate, which is
+insoluble and can interact with proteins through ionic and metal-chelate
+interactions. The amount required can be very low, e.g., 20-60 mM calcium
+chloride with an equimolar amount of phosphate added to form calcium phosphate
+(Coffman et al., 2006).
+
+The mechanism is thought to be related to the co-precipitation of calcium
+phosphate with cells, cell debris and impurities.
+
+Coffman J. Flocculation of antibody-producing mammalian cells with
+precipitating solutions of soluble cations and anions. International
+Conference on Recovery of Biological Products XII. Abstact # M3; 2006 Apr 2
+-7; Litchfield, Arizona.
+
+As mentioned in link.
+
+The use of calcium phosphate flocculation with mammalian cells was
+investigated by Chen et al., 2017. In this study, flocculation by calcium
+phosphate was investigated in the harvest process of ATF perfusion Chinese
+hamster ovary (CHO) cell culture fluid (CCF) with high cell densities and
+product titers, to improve clearance of cell and cell debris, and reduce
+process and product-related impurities. Moreover, the effects of flocculation
+conditions (flocculant concentration, addition order of flocculants, pH,
+operation time) on the turbidity and mAb recovery yield in the CCF were
+determined in the flocculation process.
+
+Calcium chloride and dipotassium hydrogen phosphate were purchased from
+Sinopharm Chemical Reagent Co., Ltd. The 5 M calcium chloride and 2 M
+dipotassium hydrogen phosphate were prepared as stock solutions. First, the 5
+M calcium chloride was added to the shake flask of 30 mL CCF containing the
+mAb1 to reach the desired concentration. Then, the flask was mildly shaken for
+2 min followed by addition of 2 M dipotassium hydrogen phosphate to reach the
+desired concentration. The addition order of calcium chloride and dipotassium
+hydrogen phosphate could be reversed.
+
+The effect of addition order of calcium chloride and dipotassium hydrogen
+phosphate on flocculation efficiency was also examined in this study. After
+the CCF was adjusted to the required pH with solid Tris base and 2 M acetic
+acid, the flask was shaken in an Innova-2000 shaker (New Brunswick) at 150 rpm
+for predefined time. Solid Tris base was used to avoid much change of volume
+in flocculation. The CCF was then centrifuged (Beckman Coulter centrifuge
+Avanti J-26 XP) at 8000 rpm for 10 min for separation of precip- itate from
+supernatant. The turbidity was measured by a Hach 2100Q portable turbidimeter.
+
+In brief, Chen et al., showed that the addition of calcium ions at 15-60 mM
+was sufficient for flocculation at a pH of 7.
+
+In more detail, as the concentration of calcium ions and phosphate ions
+increased, the turbidity reduced. High turbidity reduction was observed at
+high concentrations of calcium ions and phosphate ions. The turbidity reduced
+significantly with increase of the concentration of calcium ions, indicating
+that calcium ions played an important role in turbidity reduction. As the
+concentration of phosphate ions increased, a lower turbidity reduction was
+achieved. A higher turbidity reduction was seen when the phosphate ions added
+were below 50 mM, indicating that addition of phosphate ions prior to calcium
+ions could induce larger particles precipitation and result in improvement of
+clarification efficiency.
+
+As the pH decreased from 7 to 5, the turbidity reduced due to precipitation
+induced by pH but pH 7 was more suitable for flocculation than pH 5 or 6. In
+this study for the CCF with different turbidity levels, the operation time of
+120 min was, therefore, sufficient for turbidity reduction.
+
+Concerns:
+
+If we were to pursue calcium phosphate as a flocculant we will need to
+research what level is safe in food. Calcium phosphate has a chalky texture
+and results in a rigid and granular precipitate that may be undesirable in our
+food (Felo et al., 2015).
+
+Other considerations:
+
+Calcium phosphate is a good source of calcium and could be pitched as a health
+benefit (especially valid for plant based diets which without dairy based
+milk, yoghurt and cheese can be lacking in calcium).
+
+

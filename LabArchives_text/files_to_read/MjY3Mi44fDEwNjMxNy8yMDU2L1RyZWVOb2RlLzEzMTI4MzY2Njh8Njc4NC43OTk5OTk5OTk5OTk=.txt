@@ -1,0 +1,204 @@
+Background:
+
+
+  
+
+Figure 1. Schematic diagram of experimental plan.
+
+  
+
+Figure 1 highlights the different conditions employed during the fibroblast
+ECM optimisation experiment . All samples were separated into two groups based
+on what type of media the cells received (changed every 3 days regardless of
+media type).  
+  
+In brief, the conditions in group one received the standard growth media
+(DMEM/F12 + 20% FBS + 1X P/S) from the day of seeding, however in the 48 hrs
+prior to harvest this condition group was treated with growth media containing
+50 ug/mL L-ascorbic acid and 5 ng/mL TGF-B. Conditions in group two on the
+other hand received the standard growth media supplemented with 50 ug/mL
+L-ascorbic acid and 5 ng/mL TGF-B from the day of seeding. Each condition had
+a 100% media change every three days.  
+  
+In addition to the two media conditions the effects of gelatin coating,
+collagen coating and seeding in a collagen gel:growth media mix was
+simultaneously evaluated.  
+
+
+
+
+The purpose of this experiment was to assess if it was possible to obtain
+viable ECM scaffold sheets, derived from fibroblast cells grown in different
+culture conditions, as shown in Figure 1. As a primary focus of the DoE
+project is to continuously scout and evaluate new scaffolds in its pipeline it
+was first necessary to determine whether we could achieve fibroblast scaffolds
+of sufficient thickness and structural integrity to serve as scaffolds that
+could then have MuSC seeded onto them. To achieve this, we seeded 8 different
+conditions (n=2 for each condition) onto petri dishes and cultured them
+continuously for a period of ~2 weeks and subsequently decellularised them
+using a freeze thaw procedure previously described in the literature [1]. Any
+viable candidates were then taken forward as scaffolds and seeded with MuSC.
+Additionally, in order to evaluate the impact of treatment conditions and
+whether certain culture combinations (previously described in the table above)
+contributed to an increase in fibroblast ECM production all conditions were
+weighed pre-seeding (petri dish only) and re-weighed prior to the freeze thaw
+cycle which served as endpoint indication Here we highlight the key findings.  
+
+
+Results
+
+
+Subsequent to the freeze thaw and overnight drying, only samples which were
+seeded in the Pure EZ collagen gel solutions were suitable for taking forward
+as scaffold material. Unfortunately, due to the overnight drying the remainder
+of the conditions had substantially reduced in size (an approximate surface
+area of 0.5 cm x 0.5 cm) and hardened to the base of the culture vessel.
+Consequently, this resulted in majority of the samples being too small for
+subsequent use as scaffolds and so these were discarded. However, in the case
+of the collagen seeded conditions, although the fibroblast-gel matrix had
+hardened and adhered to growth surface the samples had not reduced
+significantly in size. Thus, following rehydration (immersion in DMEM media)
+the collagen gel samples could be lifted from the culture surface and cut into
+8-10 pieces approximately 4 mm by 4 mm (Figure 2, Figure 3). However, despite
+detaching the collagen gel samples, due to the gelatinous nature of the
+material it was not possible to obtain homogenously sized pieces. Accordingly,
+the gel like nature of the material resulted in scaffolds being cut into
+samples of varying size and shape, as exemplified by Figure 4.
+
+  
+
+  
+
+Figure 2: Representative image of Pure EZ collagen gel seeded with fibroblast
+cells following rehydration in DMEM. Collagen gel cell sheet samples exhibited
+a gelatinous like appearance subsequent to overnight drying and re-hydration
+in DMEM growth media.  
+
+  
+
+Figure 3: Representative image of samples following the freeze thaw cycle and
+overnight dry in the BSC. Images are representative of all conditions tested,
+with the exception of the Pure EZ collagen suspension samples, and all
+exhibited significant shrinking after overnight drying. (a) Cells seeded onto
+gelatin coated dish whilst supplemented with continuous Vitamin C and TGF-B
+treatment. (b) Non-coated condition in continuous treatment. (c) Collagen
+coated sample with continuous treatment.
+
+  
+
+An additional finding arising from this optimisation study was that all
+conditions, excluding the collagen seeded fibroblast gel suspension, had
+prematurely detached from the growth surface, following exposure to Vitamin C
+and TGF-B. Moreover, similar results were observed irrespective of the media
+condition or coating solution employed. After approximately one week all
+conditions treated continuously with Vitamin C and TGF-B had completely
+detached from the growth surface and either formed an aggregated cell clump or
+rolled into a thin filamentous rod. Conditions lacking Vitamin C and TGF-B
+supplementation the growth media had remained adhered to the growth surface
+during continuous culture. However, following exposure to Vitamin C and TGF-B
+in the 48 hours prior to harvest these conditions had similarly lifted from
+the culture dish and formed aggregates. Interestingly the application of
+gelatin coating appeared to delay the effects of cellular detachment in
+response to Vitamin C and TGF when compared to the non-coated and collagen
+coated dishes. Additionally, fibroblast cells seeded in the collagen gel
+matrix appeared to have slowed growth whilst encapsulated within the gel
+material. Whilst it was initially observed that the gel encapsulation
+supported cell survival these cells required more time to reach a confluence
+equivalent to cells seeded in adherent culture. Lastly, upon weighing all the
+samples, it was found that the sheets treated with Vitamin C and TGF-B at 48
+hours prior to harvest resulted in a slightly larger mass than the continually
+treated conditions (see Table 1).
+
+  
+
+  
+
+Figure 4. Cut up scaffold pieces placed into wells of 48-well plate awaiting
+seeding of MuSC. 1.8 and 2.8 refers to the fibroblast cells that were seeded
+in the Pure EZ collagen gel suspension and treated continuously with Vitamin C
+and TGF-B.
+
+  
+
+ Table 1. Mass of fibroblast ECM conditions post experiment
+
+Condition
+
+Weight (g) Duplicate 1
+
+Weight (g) Duplicate 2
+
+Average (g)  
+  
+Gelatin coated (48hr treatment)
+
+0.59
+
+0.30
+
+0.44  
+  
+Non gelatin coated (48hr treatment)
+
+0.69
+
+0.29
+
+0.49  
+  
+Collagen coated (48hr treatment)
+
+0.71
+
+0.26
+
+0.61  
+  
+Collagen seeded (48hr treatment)
+
+2.97
+
+2.75
+
+2.86  
+  
+Gelatin coated (continuous treatment)
+
+0.33
+
+0.30
+
+0.32  
+  
+Non gelatin coated (continuous treatment)
+
+0.25
+
+0.26
+
+0.26  
+  
+Collagen coated (continuous treatment)
+
+0.31
+
+0.26
+
+0.29  
+  
+Collagen seeded (continuous treatment)
+
+0.55
+
+0.94
+
+0.74  
+  
+References:
+
+[1] Xing, Q., Yates, K., Tahtinen, M., Shearier, E., Qian, Z. and Zhao, F.,
+2015. Decellularization of fibroblast cell sheets for natural extracellular
+matrix scaffold preparation. Tissue Engineering Part C: Methods, 21(1),
+pp.77-87.
+
+

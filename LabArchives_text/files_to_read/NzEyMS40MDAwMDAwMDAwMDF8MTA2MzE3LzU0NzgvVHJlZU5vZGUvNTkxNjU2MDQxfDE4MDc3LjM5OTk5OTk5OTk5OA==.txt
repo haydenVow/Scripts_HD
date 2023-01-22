@@ -1,0 +1,252 @@
+
+
+## Performed by: kylie and chris  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+  
+
+Process:
+
+  1. Removed culture plate/s from incubator and removed existing media in wells.
+  2. BUFFY, DOLLY, C2C12 Washed each well/sample twice with PBS for 5 minutes  11:17 - 11:38 am 
+  3. NANDO, GOBLR, DAISY Washed each well/sample twice with PBS for 5 minutes   11:40 - 11:59 am 
+
+For adherent cultures, protein values can be normalised to cell counts
+obtained from DAPI images. Perform a Hoescht stain of all relevant wells.
+
+  1. Prepared 42 mL Hoescht/PBS mix (1 drop of Hoescht stain for every 2mL of PBS)
+  2. Added     300 uLHoescht 33342/PBS mix to each well and incubated for 15 minutes in the dark at RT 
+    1.  buffy 11:37 - 12:00 pm 
+    2.  dOLLY 11:43 - : a/pm  
+    3. c211:49 - : a/pm  
+    4.  goblr:12:00 - 12:   
+    5.  DAISY 12:04 -    
+    6.  NANDO 12:08 -     
+
+  3. Imaged relevant wells on Zaber on DAPI channel at 5x.
+  4. Removed Hoescht/PBS mix from wells and added    150 uL  of PBS (Note: use the minimum amount to cover all wells evenly).
+  5. Cut and applied PCR plate seal or similar to seal the lid and the body of the well plate, ensuring no liquid is able to penetrate.
+
+Freeze - thaw:
+
+  1. Filled the inside space of a styrofoam box lid 3/4 fully with liquid nitrogen.
+  2. Ensure plate is thoroughly sealed/eppendorf tubes are fully capped.
+  3. Submerged samples, freezing in liquid nitrogen for 3 minutes, then thawed in water bath at 37 degrees for 3 minutes. Performed for three freeze-thaw cycles.
+
+  14:25 - 14:35 pm
+
+  14:40 - 14:55 pm
+
+  15:00 - 15:15 pm
+
+4\. Aspirated lysate supernatant from each well and transferred into marked
+Eppendorf tubes.
+
+5\. Centrifuged tubes for 5 mins at 650g using microcentrifuge   16:18 - 16:23
+pm
+
+Note: Keep tubes at 4 degrees when not in use
+
+Preparing standard curve dilutions:
+
+  1. Made up a stock 2mg/mL solution by weighing 20 mg of BSA powder and dissolve into 10 mL of PBS.
+  2. Constructed dilutions of BSA stock for standard curve in Row A of a non-treated 96 well plate (see plate map for location) using the volumes in PBS and BSA stock in the table below:
+
+  
+
+2000 (ug/ml)  
+
+1500 (ug/ml)  
+
+1000 (ug/ml)
+
+750 (ug/ml)  
+
+500 (ug/ml)  
+
+250 (ug/ml)  
+
+125 (ug/ml)  
+
+25 (ug/ml)  
+
+12.5 (ug/ml)  
+
+6.75 (ug/ml)  
+
+0 (ug/ml)  
+  
+  
+BSA (uL)
+
+200
+
+150
+
+100
+
+75
+
+50
+
+25
+
+12.5
+
+2.5
+
+1.25
+
+0.675
+
+0  
+  
+PBS (uL)  
+
+0
+
+50
+
+100
+
+125
+
+150
+
+175
+
+187.5
+
+197.5
+
+198.75
+
+199.325
+
+200
+
+  
+  
+  
+  
+
+Performing the Bradford assay:  
+
+  1. Tested the appropriate sample volume to use with Bradford reagent by pipetting 5uL, 10uL and 20uL of sample/s supernatant (use more than one sample for testing if a large variation in total protein is anticipated) with 250uL of Bradford reagent. Monitored for 5 minutes to determine which volume yields a grey/blue colour change. 
+  2. Added 250uL of Bradford reagent to each of the standard and sample areas as outlined in the plate map.
+  3. Added     uL of each standard dilution to the corresponding triplicate wells containing Bradford reagent. This should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  4. Added     uL of each of the sample supernatants to the corresponding triplicate sample wells containing Bradford reagent (see plate map). This volume should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  5. Repeated step 4 for additional plates if required (each 96 well plate holds 12 samples)
+  6. Using a multichannel pipette, mixed each well containing Bradford and sample/standard thoroughly.
+  7. Centrifuged each plate for 1 minute at 650g to minimise bubbles.
+  8. Read absorbance using Nanostar plate reader at 595 nm.
+  9. Attached .csv files to lab book
+
+  
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS (non-sterile)  
+m8113  
+  
+Hoescht 33342  
+s4018  
+  
+Bradford reagent (Coomassie Brilliant Blue)  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+DOLLY: https://mia-capture.vow.tools/#/session/recH3d3tpu2Rjxf98/images
+
+It would appear that the cells are beginning to die and peel off. Compared to
+a week ago, the cells had myotubes, however no there are rounded detached
+cells. We may be too late in this assay.
+
+  
+
+C2C12: https://mia-capture.vow.tools/#/session/recTTGeBpG6tq9Dy9/images
+
+There appears to be a lot of cell death -round cells floating everywhere and
+also attached to base of well. It covers the live cells. Media also orange
+tinge. Furthermore, you can visibly see the cells when youi look at the base
+of the well. Cloudy white.
+
+  
+
+BUFFY: https://mia-capture.vow.tools/#/session/recuY7Bjm9yGahGrT/images
+
+There appears to be two types of morphology/cells. The typical muscle cell
+type on the base of the well and a fat blob like cell which is significantly
+larger. Furthermore, the blob like structures are also floating within the
+media.
+
+  
+
+DAISY https://mia-capture.vow.tools/#/session/recvjzypPwuZrTPZk/images
+
+Many dead cells in the center (round morphology). Appears that the cells did
+not differentiate.
+
+  
+
+NANDO: https://mia-capture.vow.tools/#/session/recK10Lzc8DJvPKZM/images
+
+Uneven seeding. first column has no cells.
+
+  
+
+GOBLR: https://mia-capture.vow.tools/#/session/recoTQJMLrwFj2eXt/images
+
+Uneven seeding. Some wells have no cells. Cells are clustered in the middle of
+the well. Some overly confluent, some only a few cells, and some evenly
+spaced.
+
+  
+
+

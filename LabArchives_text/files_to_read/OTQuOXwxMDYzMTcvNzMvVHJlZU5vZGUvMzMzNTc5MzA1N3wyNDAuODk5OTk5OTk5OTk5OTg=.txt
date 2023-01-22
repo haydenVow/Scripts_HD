@@ -1,0 +1,237 @@
+Fibroblasts & MuSC co-culture
+
+
+Using fibroblasts to produce a collagen network to facilitate increased MuSC
+adherence: background.  
+  
+  
+The use of Vitamin C to increase fibroblast aggregates:
+
+Vitamin C, also known as ascorbic acid, has previously been shown to increase
+fibroblast adhesion. After fibroblasts were treated for 30 minutes with
+Vitamin C, fibroblast adhesion to fibronectin increased by 4.7x [1]. There is
+also evidence to that Vitamin C aids in the production of collagen by
+fibroblasts. Specifically, Vitamin C acts as a co-factor for the proline and
+lysine hydroxylases that stabilise the collagen molecule tertiary structure
+and also promotes collagen gene expression. Given that collagen formation int
+he skin is mostly carried out by fibroblasts in the dermis, this is why
+Vitamin C is thought to be great for skin health and is a component of so many
+moisurisers and soaps. In the absence of vitamin C, there is degreased total
+synthesis of and decreased crosslinking of collegen. There is also evidence
+that Vitamin C increases proliferation and migration of fibroblasts [2].
+
+Based on this previous research, it appears that adding vitamin C could
+increase fibroblast collagen production which could be excellent for
+facilitating MuSC adherence to scaffolds. We should explore this further in
+our co-culture experiments.  
+  
+In addition, if we are attempting to generate aggregates of fibroblasts for
+generation of fibroblast scaffolds for for generation of cell paste for meat
+products, then incorporating Vitamin C could increase the collagen
+concentration of a fibroblast pellet and affect its texture. In addition, it
+could increase proliferation of the fibroblasts or make it more likely that
+they will bind together. A concentration of 50ug/mL of Vitamin C has been used
+to affect fibroblast collagen production previously and may be a good
+concentration to start with [3].
+
+  
+
+The use of TGFb to increase fibroblast aggregation
+
+TGFb is an important mediator of fibrosis (in which connective tissue replaces
+normal tissue to the extent that it goes unchecked, leading to considerable
+tissue remodelling and the formation of permanent scar tissue). It does so in
+part by stimulating the synthesis and assembly of matrix proteins such as
+fibronectin and collagen. TGFb also promotes formation of myofibroblasts,
+which are activated fibroblasts responsible for the generation of contractile
+force [4]. TGFb has also been demonstrated to promote the proliferation,
+collagen formation, and differentiation of dermal fibroblasts. It manages this
+through up-regulation of miR-21 and the PTEN/AKT signalling pathway [5]. TGFb
+is typically produced by immune cells such as macrophages and it stimulates
+extracellular matrix production (i.e. collagens and fibronectin) in
+fibroblasts directly [6].
+
+Based on this previous research, it seems that TGFb is an additional means by
+which we can activate fibroblasts and produce greater amounts of cells as well
+as increased extracellular matrix proteins such as collagen and fibronectin.
+This could be very useful for facilitating increased adherence of MuSCs to
+scaffolds by way of fibroblastic matrix proteins. It also could facilitate
+increased adherence and formation of fibroblast aggregates. 10ng/mL is a
+concentration of TGFb that has been shown to induce increased collagen
+production in fibroblasts [7], so that may be a good place to start
+concentration-wise.
+
+  
+
+Increasing the amount of collagen, while decreasing the number of fibroblasts
+might be particularly important based on this information from Chris
+
+Cells mechanosense over relatively short distances, roughly the width of an
+adjacent cell5; thus, in a tissue, a cell is unlikely to sense mechanical
+forces beyond its near neighbor. Cells cultured on top of feeder cells adopt a
+phenotype reflecting the stiffness of the feeder layer, consistent with short-
+range mechanosensing and suggesting that cell- cell interactions are similar
+to cell-matrix interactions. Myoblasts, for example, form striations only when
+co-cultured on top of glass-attached myoblasts (with a stiffness of 12-15
+kPa), not when on top of a softer layer of glass-attached fibroblasts (2-5
+kPa).5
+
+  
+
+1. https://pubmed.ncbi.nlm.nih.gov/17325628/
+
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5579659/  
+3. https://rupress.org/jcb/article-pdf/34/1/83/1068361/83.pdf
+
+4. https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.10621
+
+5. https://www.nature.com/articles/srep32231
+
+6. https://www.nature.com/articles/s41598-020-74179-6
+
+7.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597442/
+
+  
+
+
+
+
+# Bioengineered constructs combined with exercise enhance stem cell-mediated
+treatment of volumetric muscle loss
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5481841/
+
+Key take-aways: after having trouble with adhesion to scaffolds, this group
+found inclusion of collagen 1 in hydrogels was effective in maintaining MuSC
+viability/adhesion. Our fibroblasts theoretically produce a collagen network,
+so this paper suggests co-culture with fibroblasts may increase
+adhesion/viability of MuSCs.
+
+In addition, co-culture of MuSCs with other muscle resident cells (MRCs) led
+to sustained viability of MuSCs. Specifically, endothelial cells are the
+critical MRC for this phenomenon. MRCs studied in this report included
+fibroadipogenic progenitors (FAPs) and macrophages as well as endothelial
+cells. The endothelial cells were also capable of engrafting and contributing
+to vasculogenesis. Thus, endothelial cells might be a good 3rd cell type to
+isolate.
+
+  
+
+
+
+
+Fibroblasts influence muscle progenitor differentiation and alignment in
+contact independent and dependent manners in organized co-culture devices  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3537877/pdf/nihms408273.pdf  
+Key takeaway:  Fibroblasts influence muscle progenitor differentiation and
+alignment in contact independent and dependent manners in organized co-culture
+devicesAs the title indicates, this paper looks at co-culturing fibroblasts
+and myoblasts. When fibroblasts and myoblasts were co-cultured in contact
+dependent manner they found increased alignment of myoblasts but reduced
+muscle cell differentiation. Also they didn't find a significant impact on
+myoblast differentiation when using conditioned media from fibroblasts
+cultures. It also appears that there needs to be a balance between the right
+amount of fibroblast and myoblast cells in that they must be seeded in certain
+ratios.
+
+-From Adrian
+
+
+Endothelial Cells & MuSCs
+
+
+# Bioengineered constructs combined with exercise enhance stem cell-mediated
+treatment of volumetric muscle loss
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5481841/
+
+Key take-aways: Co-culture of MuSCs with other muscle resident cells (MRCs)
+led to sustained viability of MuSCs. Specifically, endothelial cells are the
+critical MRC for this phenomenon. MRCs studied in this report included
+fibroadipogenic progenitors (FAPs) and macrophages as well as endothelial
+cells. The endothelial cells were also capable of engrafting and contributing
+to vasculogenesis. Thus, endothelial cells might be a good 3rd cell type to
+isolate.
+
+  
+
+# A Muscle Stem Cell Support Group: Coordinated Cellular Responses in Muscle
+Regeneration
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075730/
+
+This is a fantastic review of muscle regeneration & the different cell-type
+influencing this process. This image shows expansion of different cell types
+during the process of muscle regeneration:
+
+  
+
+  
+
+#  
+
+# Muscle Satellite Cells and Endothelial Cells: Close Neighbors and Privileged
+Partners
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1838982/
+
+Key findings: Endothelial cell (EC) cultures specifically enhanced MuSC
+growth, through production of IGF-1, HGF, bFGF, PDGF-BB, and VEGF. Individual
+myogenic cell differentiation is spatiotemporally associated with new vessel
+formation via ECs. Bidirectional signaling between ECs and differentiating
+MuSCs is likely at work during muscle regeneration.
+
+
+
+
+Important notes for working with endothelial cells:  
+  
+Google drive link for all previous work done on endothelial cell culture &
+isolation:  
+https://docs.google.com/document/d/1ZF3KyDbb0iYbhCovtVvmDyz3Gi-
+Zz490aGZmSx7CZjs/edit
+
+If working with endothelial cells, we can probably use DMEM/F12+20%FBS+1x PS
+as our serum-containing media for starters. Additions such as hEGF,
+hydrocortisone, VEGF, hFGF-B, R3-IGF-1, Ascorbic Acid, and/or Heparin may be
+added to supplement media if needed, but hopefully these can all be found in
+the FBS already and 20% should be more than sufficient.
+
+https://www.labome.com/method/Cell-Culture-Media-A-Review.html
+
+
+
+
+# Understanding mechanobiology in cultured endothelium: A review of the
+orbital shaker method
+
+https://www.sciencedirect.com/science/article/pii/S0021915019303636  
+Endothelial cells at the edge of the wells exhibit elongation and alignment
+whereas cells in the centre are unaligned. Cells at the centre of the well are
+also more compliant than those at the edge. Cells at the centre of the well
+exhibit increased rates of proliferation  and apoptosis relative to the edge.
+
+-From Chris
+
+
+Additional tri-culture systems
+
+
+A triple co-culture method to investigate the effect of macrophages and
+fibroblasts on myoblast proliferation and migration  
+  
+https://www.future-science.com/doi/pdf/10.2144/btn-2017-0100
+
+Key take-away: A significant increase in myoblast proliferation and migration
+was observed following coculture with either macrophages or fibroblasts
+respectively. However, triple co-culture of macrophages, fibroblasts, and
+myoblasts showed that the presence of macrophages prevented fibroblasts from
+maintaining this positive effect on myoblast migration. Macrophages, on the
+other hand, continued to promote myoblast proliferation whether in the
+presence of fibroblasts or not. This triple co-culture system highlights the
+significance of multicellular communication in regulating myoblast
+proliferation. Katie's note - the increase in myoblast proliferation was
+likely driven by LIF/IL-6 or another proinflammatory cytokine  
+  
+
+

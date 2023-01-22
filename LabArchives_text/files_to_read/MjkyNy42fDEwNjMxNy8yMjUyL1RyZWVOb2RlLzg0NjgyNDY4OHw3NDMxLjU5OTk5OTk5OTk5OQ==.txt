@@ -1,0 +1,161 @@
+Culture ID(s)  
+Vessel type  
+Culture Type  
+No. of wells to stain  
+  
+7285-DOLLY12-15D11-Sheep P13-1of1  
+24 WPMicrocarrier Derived  
+3  
+7286-DOLLY12-15D11-Sheep P13-1of1  
+24 WPPlanar Derived  
+3  
+  
+  
+
+  
+
+
+
+
+
+
+
+## Performed by:
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    7 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  1.3 µL   IgG (H&L) AF488   (1:1000  ) +  1.3  mL Blocking Buffer (PBST (0.1%
+Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+  1.3 mL  PBS +   1.3 mL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 14:00 - 14:05
+
+ 14:05 - 14:10
+
+ 14:10 - 14:15
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  14:15 - 15:15
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  15:15
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 15:20 - 15:25  
+
+3\.  Washed in PBS 2 x 5 min at RT in the dark. (No Triton)
+
+ 15:25 - 15:30  
+
+ 15:30 - 15:35  
+
+4\.  Replaced dPBS.
+
+ 15:35  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Many dead cells. Some fixed healthy looking cells. Stains not showing up very
+well. Hard to see anything for the Ki67 stain.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM5703  
+  
+dPBSM5385  
+  
+PBSTM5481  
+  
+Secondary AntibodyS245  
+  
+DAPI (1:1000)M2193  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ X]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+The stains do not show up very well, including DAPI.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7285 (MCD)
+
+https://mia-capture.vow.tools/#/session/recYuOeQLuJ8ACuiC/images
+
+7286 (PD)
+
+https://mia-capture.vow.tools/#/session/rec1QOaOi9wur5k9m/images
+
+  
+
+

@@ -1,0 +1,57 @@
+
+
+Experimental Plan:
+
+[DAY 1] - Seed 4 x 96 well plates with 2240 cells/well in 140 uL/well
+
+  1. Thaw 1 WCB of F-DOLLY12 and seed 4x96 well-plates with 4 conditions columns (6 wells per column):  
+i. commerical DMEM/F12 + 10% FBS + P/S  
+ii. in house lot 1 + 10% FBS + P/S  
+iii. in house lot 2 + 10% FBS + P/S  
+iv. freeze thawed commercial DMEM/F12  \+ 10% FBS + 1% P/S
+
+  2. Label 4x 96 well plates as a designated time point: 24 h, 48 h, 72 h, and 96 h.
+  3. Place plates in the incubator.
+
+Note: dPBS in every well around the plate.
+
+[Day 2] - 24 hours later, fix and DAPI stain one plate. On the remaining 3
+plates, do a 50% media change.  
+
+  1. Use an OT2 protocol to fix & dapi, as well as to perform the 100% media change.
+
+[Day 3] \- Fix and DAPI stain 48 h plate using the Opentrons? and image with
+Zaber using MIA capture
+
+[Day 4] - Fix and DAPI stain 72 h plate using the Opentrons? and image with
+Zaber using MIA capture
+
+[Day 5] \- Fix and DAPI stain 96h plate using the Opentrons? and image with
+Zaber using MIA capture
+
+  
+
+[Day 6] - Analysis of images
+
+In order to process data from this assay we must:
+
+  1. Process images using https://vowfood.retool.com/apps/Mia
+  2. Copy each time point of each condition into Prism
+  3. Create proliferation graph for each condition
+  4. Identify doubling time for each condition
+  5. Add graphs and doubling time on Notion
+
+Acceptance criteria:
+
+  * Proliferation graphs created for each condition
+  * Doubling time for each condition
+
+  
+
+For more information see the notion page:
+https://www.notion.so/vow/Proliferation-assay-
+template-344282efa88e4afab325c3ef621cf4a4
+
+  
+
+

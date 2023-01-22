@@ -1,0 +1,189 @@
+
+
+## Completed by: Shaleen Sharma
+
+
+Aim/Purpose
+
+
+To develop a serum free media formulation that allows suspension derived
+fibroblasts (e.g. Nuvonis quail fibroblasts) to adhere and ideally proliferate
+in tissue culture treated flasks.
+
+
+Hypothesis
+
+
+A serum free basal medium supplemented with adherent facilitating factors will
+increase the adherence and growth of Nuvonis fibroblasts.
+
+
+Technical Gap
+
+
+Currently, the Freestyle-based ACF adherent medium for Nuvonis fibroblasts is
+not suitable for our experiments due to poor adherence and growth of Nuvonis
+cells. In contrast, serum containing media provides healthy adherence and
+growth of Nuvonis fibroblasts. In accordance with the overarching goal of the
+second product team, an ACF adherent media formulation will need to be
+developed for various tissue engineering strategies.  
+  
+Hence, this experiment aims to investigate the efficacy of various media
+additives and coatings to facilitate the adherence and growth of suspension
+derived Nuvonis fibroblasts.
+
+
+Method/Procedure
+
+
+Measurables:  
+Cell number. Cells will be fixed and DAPI + Phalloidin (actin) stained. We can
+measure DAPI with a FIJI macro we have however we dont have a Phalloidin stain
+macro to get quantitative data - so data will be qualitative.  
+  
+This experimental design aims to answer the following:
+
+  * Which media additives mimic the capability of serum media to allow adherence and growth of Nuvonis cells?
+  * What rough concentrations of these media additives mimic the capability of serum media to allow adherence and growth of Nuvonis cells?
+  * What plate coatings facilitate adherent (and consequential growth) of Nuvonis cells?
+  * Do our cells in fact adhere in the suspension media they are accustomed to? (see: Column 7 in "Controls" section).
+  * What is the effect of combining media additives with coatings on adherence and proliferation?
+
+And de-risk the following scenarios:
+
+  * Seeing no effect due to the literature derived concentrations being too high/too low concentrations. (De-risked by "+" and "-"  in each condition below).
+  * Having Albumin, ITS and FGF-2 produce no effect individually - however might when all are combined together effectively acting as a serum replacement formulation (see Column 2 of "Controls" plate).
+  * Selected media additives having no effect alone and adherence and growth is only seen in conjunction with a coating (arguably unlikely, however it is possible)
+  * The ACF formulation found here will not be transferrable to other cell lines. The additives included in this study are components of serum and the components (e.g. KSR) parallel with the ACF media Bonnie has been using to develop embryonic suspension/adherent cell lines (e.g. DMEM/F12 + 20% KSR)
+
+Controls:
+
+  * Positive control - DMEM/F12 + 20% FBS + 1X P/S
+  * Negative control \- ACF Nuvonis Freestyle media
+  * Basal media control (non-treated) - DMEM/F12
+
+
+  
+  
+Figure 1: Visual representation of conditions and scope of experiment. Note:
+"+" and "-" refer to a 25% increase and decrease respectively in literature
+derived concentrations. ITS is an abbreviation of an Insulin-Transferrin-
+Selenium mixture. Suspension media condition in "Controls" plate is the
+suspension media that the Nuvonis cells were cultured in prior to seeding in
+adherent well plates.  
+  
+  
+
+
+
+
+Note - Collagen, Gellagen, Fibronectin are being assessed as coatings, the
+rest as media additives. Only the media components are being tested at + and
+-.
+
+  
+
+Additive/coating
+
+Concentration in serum
+
+Concentration in media (mimicking 20% serum)
+
+Reference  
+  
+KSR
+
+  
+
+20% (v/v)
+
+N/A  
+  
+Albumin
+
+23 mg/ml
+
+  
+
+Gstraunthaler, G., 2003. Alternatives to the use of fetal bovine serum: Serum-
+free cell culture. ALTEX, pp.257-281.  
+  
+ITS
+
+  
+
+1X (comes in a 100X stock)
+
+N/A  
+  
+FGF-2
+
+  
+
+10 ng/ml
+
+https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/133/584/hbfgfrobul.pdf  
+  
+Collagen I
+
+  
+
+5 ug/cm2 (coating)
+
+James H protocol  
+  
+Fibronectin
+
+  
+
+5 ug/cm2 (coating)
+
+James H protocol  
+  
+Gellagen
+
+  
+5ug/cm2James H protocol
+
+
+Timeline:
+  
+  
+Task
+
+Day  
+  
+  * Coat plates with Collagen I, Fibronectin, Gellagen
+  * Prepare 12 media conditions in 15mL falcon tubes (8mL ea)
+  * Prepare control plate media
+
+Wednesday (morning)  
+  
+  * Count suspension culture and obtain 3.2 million cells
+  * Aliquot 60,000 cells into each media condition tube
+  * Seed plates as per Figure 1 and incubate for 48-72 hours
+
+Wednesday (afternoon)  
+  
+  * Remove supernatant, fix and DAPI
+  * Image plates using Zaber 
+
+Friday
+
+
+Next steps:
+  
+  
+In the scenario that any individual conditions perform significantly well -
+these can be taken forward to a combinatorial DSD where they can be optimised
+toward a serum free formulation. Alternatively a concentration study can be
+performed to optimise the concentration of the ingredient for Nuvonis -
+however this concentration may not translate to other cell types we use in the
+future and hence may not be worth doing.
+
+Once a rough ACF formulation is found for Nuvonis, all tissue engineering
+strategies in second product can move away from serum containing media.
+
+  
+
+

@@ -1,0 +1,73 @@
+Performed by: LL
+Vessel IDs  
+Condition  
+Location  
+  
+  
+12646-Nuvonis Quail Suspension341-P-1of2
+
+12647-Nuvonis Quail Suspension341-P-2of2  
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Shaking incubator 146  
+  
+  
+12681-Nuvonis Quail Suspension341-P-1of2
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+  
+12682-Nuvonis Quail Suspension341-P-2of2  
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (+ 4 mM L-Glutamine + 3 g/L glucose)  
+
+
+Process
+  
+  
+  1. Took 1 x 560 uL aliquot from each E250 and E500 and performed counts on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Left 50/50 flask as is for seeding EPIC31430 tomorrow 
+  4. Strained 75/25 cell suspensions through 40 um cell strainers into 2 x 250 mL centrifuge tubes 
+  5. Spun cells at 500 x g for 5 min 
+  6. Removed 100% of supernatant 
+  7. Re-suspended each cell pellet in 100 mL of media
+  8. Added 3.82 mL of sterile glucose + L-glutamine supplement to 1 x tube 
+  9. Transferred cells to 2 x E250s 
+  10. Replaced in incubator 
+
+
+
+
+Note mistake in text above (cannot currently edit) - added glucose and
+l-glutamine separately, they do not come in a combined supplement. Added each
+according to table below.
+
+75/25 RPMI/CHO R&D additives (WIP)
+
+  
+  
+  
+  
+  
+Volume (mL)100  
+  
+  
+  
+  
+Desired conc in final vol (g)Stock conc (mg/mL)Total mg in final volVol to add
+(mL)  
+IGF-1 LONG R30.000050.050.0050.100  
+EGF0.000010.050.0010.0200  
+L-glutamine0.50921.9250.9002.3221  
+Glucose3200300.0001.5000  
+  
+  
+  
+Total medium vol (mL)3.942
+
+

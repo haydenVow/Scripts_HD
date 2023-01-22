@@ -1,0 +1,118 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+## Performed by: Shaleen Sharma
+
+
+
+
+Differentiation Media:
+
+For plate testing gelatin as a coating:
+
+  * [X]  E6 (all wells)
+
+For plate testing gelatin as an ingredient:
+
+  * [X]  E6 + 0 mg/mL Gelatin 
+  * [X]  E6 + 1 mg/mL Gelatin
+  * [X]  E6 + 5 mg/mL Gelatin
+  * [X]  E6 + 10 mg/mL Gelatin
+  * [X]  E6 + 20 mg/mL Gelatin
+
+Total media required: 150uL per well,
+
+Only 2.4mL is required for E6 + Gelatin conditions (16 wells per condition)
+however a large excess has been aliquotted (5.5mL) as a comfortable excess and
+in case of spillage, mistakes etc.
+
+  
+
+
+
+
+                  Gelatin as an ingredient                                           Gelatin as a coating 
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+96 well plate7074-C2C12-Mouse P4-1of2  
+  
+96 well plate7075-C2C12-Mouse P4-2of2  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Placed pre-aliquotted    1 x 15mL (E6) 5 x 5.5mL (E6 + Gelatin)  mL of  E6
+Media and E6 + Gelatin (X mg/mL) Media into  water bath   10:50 a/pm
+
+2\. Imaged the topmost wells of each plate (excluding PBS wells on the edges)
+under 5X or 4X magnification and linked MIA capture link below.
+
+*** Upon inspection and imaging of both plates, C2C12s cells appear to have
+died and have detached from the base of the plastic well, cells will have to
+be re-thawed and seeded into a new set of 2 x  96 well plates ***
+
+See: https://mia-capture.vow.tools/#/session/recjoKSAIaPmTy54u/images
+
+
+
+
+### Observations/Summary:
+
+Experiment will be restarted due to cell death.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6M5236  
+  
+Gelatin powderS700See experiment plan/previous entries  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because growth media and all conditions were kept the same as KK assay which was seeded at the same time. Possible reason of death may be the two specific vials that were thawed may not have been viable.
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+#7074: https://mia-capture.vow.tools/#/session/recjoKSAIaPmTy54u/images
+
+  
+
+

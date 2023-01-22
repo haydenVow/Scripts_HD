@@ -1,0 +1,83 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6769  
+1  
+  
+6768  
+1  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 17:00 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x 20uL samples of the suspension were taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to a well on a 96 well plate and mixed it with 80uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+  4. Returned cultures to the incubator  `| 17:05 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 22 minutes.  `| 17:05-17:27 am/pm |`
+  6. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| 17:28 am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.036ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. A1- A3 for reach flask. A1 being well 1, A3 being well 3. 
+  9. plate was discarded after imaging. 
+
+  
+
+
+
+
+### Observations/Summary:
+
+### Cells were present on carriers in both flasks. There was a lot of debris
+in the supernatant from flask 6768.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS  
+  
+  
+Poloxomer 88  
+  
+  
+Hoechst 333422454  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6769:https://mia-capture.vow.tools/#/session/recL0QQBVb3ah2vIi/images#group0
+
+6768: https://mia-capture.vow.tools/#/session/recvurfXxy8oN6HyD/images#group0
+
+

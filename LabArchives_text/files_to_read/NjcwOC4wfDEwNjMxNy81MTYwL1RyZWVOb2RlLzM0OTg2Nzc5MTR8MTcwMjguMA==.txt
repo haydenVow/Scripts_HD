@@ -1,0 +1,173 @@
+Introduction
+
+
+Alginate for cell encapsulation and muscle tissue engineering
+
+The naturally occurring polysaccharide alginate has been widely used in
+biomedical applications because of its non-antigenicity, good
+biocompatibility, and reasonable biodegradability. An additional attribute of
+alginate, is that in the presence of divalent cations (Ca2+), it can be
+ionically crosslinked in an manner which is mild, cell compatible, easy to
+apply and cost-effect. As a result alginate has been popularly employed as a
+drug-delivery system, a cell carrier, and a cell-laden bioink in a 3D
+bioprinting (Ahn, Lee, Bonassar, & Kim, 2012).
+
+Furthermore, owing to the processability of alginate, alginate scaffolds can
+be readily processed into various morphologies including microspheres, 3D
+sponges, nanofibers, and microscale cell-laden struts. Consequently, alginate-
+based materials have already been applied in numerous tissue-engineering
+applications e.g., skin, cartilage, and bone (Kim, Ahn, Kim, Cho, & Chun,
+2011; Markstedt et al., 2015; Wang, Xia et al., 2015).
+
+An additional benefit of alginate, for the purposes of clean meat engineering,
+is the biocompatibility and edibility of this material type. Wherein, sodium
+alginate derived from brown algae or seaweed such as kelp is already an
+accepted food product, present as an emulsifier in products such as ice cream,
+salad dressing, fruit juice, and yoghurt. In addition, the commonly employed
+alginate cross-linker 'calcium chloride' is used as an additive in the food
+industry; as a way of enhancing the salty taste of food products such as
+pickles without increasing their sodium content.
+
+Thus, due to it's known biocompatibility and processability alginate hydrogels
+represent a promising material candidate for investigation for cellular
+agriculture using MuSCs. Despite this, limited literature can be found on
+alginate for the application of tissue engineering for clean meat production
+(an occurrence which is likely due to both the novelty and the industrial
+nature of this research area). Consequently, relevant information on alginate
+in combination with muscle cells should be sourced from biomedical research,
+including the following literature:
+
+Muscle tissue engineering using gingival mesenchymal stem cells encapsulated
+in alginate hydrogels containing multiple growth factors, Ansari et al., 2017
+(DOI: 10.1007/s10439-016-1594-6)
+
+In brief, Ansari et al., demonstrated that an RGD coupled alginate hydrogel
+encapsulation system supported the viability of gingival mesenchymal stem
+cells (GMSCs) and their myogenic differentiation capacity. In terms of
+differentiation, it was found that alginate hydrogels with an elasticity
+between 10 and 16 kPa, in comparison to softer (<5kPa) or stiffer (>20kPa)
+hydrogels, demonstrated the highest capacity for myogenic differentiation as
+evidenced by an upregulation of myogenic genes, including myogenin, MyoD, and
+Myf5 GMSCs. With a higher expression than that of encapsulated human bone
+marrow mesenchymal stem cells (hBMMSCs), which were stated as the gold
+standard of MSC therapy.
+
+Thus, the elasticity of the alginate hydrogel in the experiments by Ansari et
+al., was shown to control the myogenic fate of the encapsulated cells.
+Subsequently, when we test alginate with our MuSCs at Vow, we should consider
+a range of alginate moduli, by adjusting factors such as cross-linker
+concentration, crosslinking time and/or polymer concentration, as this will
+likely influence the behavior of our cells, as well as their capability for
+myogenesis.
+
+Moreover, Ansari et al., showed that their alginate hydrogels possess a porous
+microstructure 16 , which is an attribute that enables the diffusion of
+oxygen, nutrients and growth factors to the encapsulated cells. Thus, it was
+stated that alginate with an optimised matrix elasticity of 10-16 kPa presents
+a highly suitable scaffold biomaterial for muscle tissue engineering.
+
+In previous studies in house, we never observed cell differentiation inside
+alginate, probably due to insufficient cell seeding density. In this study we
+are hoping to overcome this limitation and enable alginate as a viable
+candidate for cell encapsulation.
+
+  
+
+### References:
+
+1\. Hydrogels for Skeletal Muscle Regeneration (DOI:
+10.1007/s40883-019-00146-x)
+
+2\. Nano/microscale topographically designed alginate/PCL scaffolds for
+inducing myoblast alignment and myogenic differentiation (DOI:
+10.1016/j.carbpol.2019.115041)
+
+3\. Synthesis of Injectable Alginate Hydrogels with Muscle-Derived Stem Cells
+for Potential Myocardial Infarction Repair
+(https://doi.org/10.3390/app7030252)
+
+4\. Functional 3D Tissue Engineering Scaffolds: Materials
+(books.google.com.au) Ying Deng, Jordan Kuiper * 2017
+
+
+Summary
+
+
+## Study setup:
+
+  1. Cell expansion of C2C12s
+  2. Preparation of materials (4% alginate, autoclaved, and 100mM CaCl2, sterile-filtered)
+  3. Day 0: Cell harvest and seeding into gel matrices in inserts vs controls (see platemap below)
+  4. Day 1: 100% switch media to E6 and start differentation
+  5. Day 2: assess viability using CMFDA or MTT assay for half of each sample sacrificed other half fix (and stain with Day6 samples) , 100% feed
+  6. Day 3: 100% feed
+  7. Day 4: 100% feed
+  8. Day 5: 100% feed
+  9. Day 6: assess maturity of muscle using immunostaining or total protein quant.
+
+
+Key Findings
+
+  1. Alginate gels were successfully seeded into conical inserts without major warping
+  2. Cell viability was maintained inside Alginate gels, but no adhesion and consequently, no differentiation was observed.
+  3. no gel contraction was observed due to cells not adhering to the hydrogel matrix
+  4. spherical cell-laden alginate constructs were also synthesized and will be further investigated in future studies
+  5. Bradford results were reflective of cell density for 2% Alginate gels but not for 1% alginate.Further optimization needed
+
+
+Discussion and Limitations
+
+
+Discussion:
+
+The preparation of cell-laden alginate spheres was surprisingly
+straightforward and is a promising step towards scaling the maturation process
+(scaffolding). We included this sample format as a promising option to provide
+maturation scaffolds suitable for suspension-capable bioreactors (e.g. bubble
+reactor). Gels cultured on conicalinserts were aiming to replicate results
+seen on Collagen and fibrinogen where contraction and cell adhesion was
+observed, but with Alginate using a more sustainable, scalabe (cost!) and
+animal free material.
+
+However, using Alginate matrices only, no cell adhesion or contraction was
+observed, most likely due to lack of binding sites. An alternative explanation
+is unsuitable matrix stiffness despite trialling 2 different stiffnesses
+reported to be suitable. We did however not test the actual stiffness of the
+gels generated due to lack of testing infrastructure (rheometer).
+
+Imaging of these gels still proved challenging due to high cell densities and
+background fluorescence from other focal planes.
+
+The Bradford results collected from this study were inconclusive since the gel
+fragments investigated were not always the same size/weight/cell density.
+However, for 2% gels clear trends for total protein content could be compared
+for cell-laden samples vs controls for both insert and insert-free samples.
+
+  
+
+Limitations:
+
+  1. The preparation of alginate gels took quite long, and cells were exposed to non-ideal conditions (high calcium, room temp, no media) for extended periods of time. This could have affected experiment outcomes.
+  2. Some of the gels were extremely fragile and essentially disintegrated when moved. It was also difficult to remove gels from the inserts and therefore some of the samples were lost. - no contraction of gel was seen.
+  3. The inconsistent sample size obtained from insert-cell containing samples made Bradford analysis challenging and no "per-cell" protein content could be deduced.
+
+
+Conclusion
+
+
+We found that high density encapsulation alone does not enable cells to adhere
+and differentiate in matrices (such as alginate) that lack natural (ECM)
+binding sites. Although cells survived inside alginate, they were not able
+contract the gel matrix regardless of gel stiffness (1% vs 2%). Despite the
+alginate matrix being optically clearer compared to previously studied gels
+(collagen and fibrin), IF staining and imaging were not significantly easier
+and alternative methods of maturation analysis need to be assessed.
+
+
+Future Directions
+
+
+  * include ECM proteins as a minor component to the alginate matrix
+  * move to a sample format that allows for direct comparison between conditions without having to slice and weigh samples or normalize to cell counts in order to analyze degree of maturation, e.g. the meat ball format will allow for easy direct comparison of protein content for different samples
+
+

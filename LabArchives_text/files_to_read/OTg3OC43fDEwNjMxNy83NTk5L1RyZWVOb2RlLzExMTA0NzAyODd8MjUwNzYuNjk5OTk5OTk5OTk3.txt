@@ -1,0 +1,748 @@
+
+
+18/11/21 Ellen placed an order for 10 x Label Free Quantitative Proteomics
+analysis
+
+
+
+
+16/111/2021 Chris O'Keefe dropped off 10 samples
+
+
+
+
+22/11/21 Kyline sent the following sample details:  
+  
+ The samples that Chris dropped off earlier are the following:  
+ \- P006 - Sheep myoblast  
+ \- P007 - Sheep fibroblast grown on roller bottles  
+ \- P008 - Sheep fibroblast grown on planar culture  
+ \- P009 - Water Buffalo myoblast  
+ \- P010 - Cow myoblast  
+ \- P011 - Mouse myoblast  
+ \- P012 - Crocodile fibroblast grown on planar culture  
+ \- P013 - Crocodile fibroblast grown on roller bottles  
+ \- P014 - Store bought Impossible patty for alternative protein comparison  
+ \- P015 - Store bought Crocodile tail fillet tissue
+
+All the samples have been washed with cold dPBS. We removed as much of the
+dPBS as possible, but I suspect that the pellets still retain some of it. The
+weight varies per tube, but are within the range of 30mg - 120 mg, which
+should be enough for analysis.
+
+
+
+
+23/11/21
+
+Water buffalo (Bubalus bubalis) has 2321 sequences in Uniprot.
+
+Shashikumar etal Theriogenology 110 p52-60 2018 used a IPI Bovine database
+(IPI has closed down).
+
+Brito etal Reprod in Dom Animals 2018 used the B. bubalis RefSeq Assembly
+(Accession Number: GCF_000471725.1) > the NCBI page is here which has 72,808
+sequences for tax id 89462.
+
+There are 10 genomes:
+
+The NCBI Release 102 protein FASTA file was downloaded and set up on the
+Mascot server.
+
+Saltwater crocodiles (Crocodylus porosus) are the predominant species that are
+farmed so it was assumed that all the crocodile samples were from salties.  
+
+ The CroPor_comp1 protein sequences were downloaded and set up on the Mascot
+server.
+
+The Impossible patty is mainly soy based according to the Gille'd website.
+
+  
+
+  
+
+
+
+
+22/11/2021
+
+Sample
+
+Wet Weight Taken (mg)Urea/Thiourea added (uL)Homogenisation method  
+P006 Sheep Myoblast25.5255Tip Probe  
+P007 Sheep fibroblast grown on roller bottles26.0260Tip Probe  
+P008 Sheep fibroblast grown on planar culture21.0210Tip Probe  
+  
+P009 Water buffalo myoblast28.3283Tip Probe  
+  
+P010 Cow myoblast32.4324Tip Probe  
+  
+P011 Mouse myoblast26.3263Tip Probe  
+  
+P012 Crocodile fibroblast grown on planar culture 65.9660Tip Probe  
+  
+P013 Crocodile fibroblast grown on roller bottles 20.3203Tip Probe  
+  
+P014 Store bought Impossible patty 97.11000Tip Probe  
+  
+P015 Store bought Crocodile tail fillet tissue 115.51000Hand held homogoniser
++ tip probe  
+  
+  
+
+~ 20-30 mg wet weight cell culture taken and added to lysis buffer (U/TU) to a
+ratio of 10uL buffer/1mg cells
+
+~ 100mg tissue/mince added to 1ml Lusis buffer.
+
+Samples dissolved by tip probe sonicator or homogemiser.
+
+23/11/2021
+
+100uL of each sample was taken out and centrifuged at 20,000g for 30min @4degC
+
+Supernatant was taken (avoiding fatty layer at top) and 100uL MilliQwater was
+added and vortexed
+
+Proteins were precipitated using a chloroform/methanol cleanup protocol, r/c
+in 100uL lysis buffer and quantified using Qubit
+
+SampleReadingConcentration (mg/ml)Total protein (in 100uL) (ug)Volume of 100ug
+(uL)Volume U\TU added2nd QUBIT (post digest) ug in 30uL)  
+0063.510.7070.0100056  
+00723.304.88488208071  
+00812.602.52252406069  
+0097.471.49149673336  
+0104.640.9393.0100046  
+01115.303.05305336740  
+0124.300.8686100036  
+0134.210.8484.0100035  
+01413.62.72272376351  
+01521.84.374372377146  
+  
+Samples were normalised to ~100ug/100uL, reduced with 10mM DTT, alkylated with
+25mM IAA, diluted 1 in 5 with HEPES buffer (50mM, pH 7.8) and 2ug trypsin was
+added.  Sample were digested o/N at 37degC in a thermomixer.
+
+  
+
+24/11/2021
+
+Samples were acidified by adding 100% TFA to a concentration of 1% TFA,
+centrifuged at  16000g for 5 min and  supernatant collected.
+
+Samples were then cleaned up using HLB cartridges, eluted in 500uL 50% ACN,
+0.1% TFA and dried down overnight
+
+25/11/2021
+
+Samples were reconstituted in 30uL water and a qubit quantification was done
+(see table above)
+
+Samples were diluted so that  ~1ug/3uL was loaded onto the HFX3
+
+Samples were run in triplicate
+
+
+
+
+Run Order:
+
+14, 11, 9, 6, 7, 8, 10, 12, 13, 15
+
+
+
+
+First injection TICs
+
+P006  
+
+P007
+
+P008
+
+  
+
+P009
+
+  
+
+P010
+
+  
+
+P011
+
+P012
+
+  
+
+P013
+
+P014
+
+P015
+
+
+
+
+Second & Third injection TICs
+
+P006_2
+
+P006_3
+
+P007_2
+
+  
+
+P007_3
+
+P008_2
+
+P008_3
+
+P009_2
+
+P009_3
+
+P010_2
+
+P010_3
+
+P011_2
+
+P011_3
+
+P012_2
+
+P012_3
+
+P013_2
+
+P013_3
+
+P014_2
+
+P014_3
+
+P015_2
+
+P015_3
+
+
+
+
+29/11/21  SSTs
+
+Run722 RT722 Counts% CovNo PepScore  
+826.592.27E847304,733  
+926.377.03E745287,675  
+1026.341.10E854139,362  
+1126.371.08E8721915,454  
+1226.391.54E849308,448  
+1326.391.10E849308,567  
+1426.371.03E847297,657  
+1526.401.02E849308,518  
+1626.411.13E851128,710  
+1726.391.19E847298,697  
+1826.421.15E8351213,954  
+  
+1926.411.04E847298,773  
+  
+BSA No 9
+
+  
+
+BSA No 19
+
+
+
+
+28/11/21
+
+The data was processed using PD 2.5 and Mascot 2.8.  Aside from the species
+specific databases the PD settings were:
+
+For the bovine samples, SwissProt with taxonomy 'Cows' was used:
+
+
+
+
+29/11/21 PD File-by-File searches
+
+SampleProteins Prot GrpPep GrpPSMMSMS  
+6-1 Sheep myoblast1419247884003156779155489  
+6-2 Sheep myoblast  
+1242842173352253300158604  
+6-3 Sheep myoblast  
+1186239943176252311159302  
+7-1 Sheep fibroblast roll bot1498151244386564002162563  
+7-2 Sheep fibroblast roll bot  
+1354245553791863178164916  
+7-3 Sheep fibroblast roll bot  
+1298243963672362992163408  
+8-1a Sheep fibroblast planar1510151934393563814159571  
+8-2 Sheep fibroblast planar  
+1347045103685762447162738  
+8-3 Sheep fibroblast planar  
+1326844553683462657161204  
+9-1 Water buffalo myoblast1685955164743667358157418  
+9-2 Water buffalo myoblast  
+1476448153960064855160062  
+9-3 Water buffalo myoblast  
+1427546413860664322158262  
+10-1 Cow myoblast  
+262424062130039018164643  
+10-2 Cow myoblast  
+267124392137239227164505  
+10-3 Cow myoblast  
+264824032108239340162011  
+11-1 Mouse myoblast1622558315041070707161996  
+11-2 Mouse myoblast  
+1422750984126366591164366  
+11-3 Mouse myoblast  
+1392550384032766388162041  
+12-1 Croc fibroblast roll bot  
+768437572947849313163006  
+12-2 Croc fibroblast roll bot  
+7471  
+3649  
+28550  
+48042  
+163427  
+  
+12-3 Croc fibroblast roll bot  
+738536402801648004160134  
+13-1 Croc fibroblast planar  
+81024008  
+3088650936142809  
+13-2 Croc fibroblast planar  
+804739893073750503163454  
+13-3 Croc fibroblast planar  
+788339252980850012160554  
+14-1 Impossible patty897825301428932751150092  
+14-2 Impossible patty  
+8022223212413  
+33354154275  
+14-3 Impossible patty  
+8191  
+2248  
+12425  
+33724  
+154000  
+  
+15-1 Croc tail fillet266913041428632106155476  
+15-2 Croc tail fillet  
+285913731440732278155854  
+15-3 Croc tail fillet  
+280213331421431939155918
+
+
+  
+  
+29/11/21 PD Grouped triplicate searches
+
+TriplicateProteinsProt GrpPep GrpPSMMSMS  
+6 Sheep myoblast  
+15,2425,22354,017161,435473,395  
+7 Sheep fibroblast roll bot  
+16,4075,59059,726189,229490,887  
+8 Sheep fibroblast planar  
+16,6585,63559,764188,073  
+483,513  
+9 Water buffalo myoblast  
+18,4025,95764,114195,529475,742  
+10 Cow myoblast  
+2,9482,70029,849117,435491,159  
+11 Mouse myoblast  
+17,6586,32567,902202,831488,403  
+12 Croc fibroblast roll bot  
+8,7944,29642,198144,826486,567  
+13 Croc fibroblast planar  
+9,2584,58544,494150,822486,817  
+14 Impossible patty  
+10,2122,95119,47899,706458,367  
+15 Croc tail fillet  
+3,2981,59520,11296,132467,248
+
+
+  
+  
+30/11/21 Top 10 hits from triplicate searches
+
+6 Sheep myoblast
+
+7 Sheep fibroblast roll bot
+
+8 Sheep fibroblast planar
+
+  
+
+9 Water buffalo myoblast
+
+10 Cow myoblast
+
+11 Mouse myoblast
+
+12 Croc fibroblast roll bot
+
+13 Croc fibroblast planar
+
+14 Impossible patty (uniprot)
+
+14 Impossible patty (refseq)
+
+15 Croc tail fillet
+
+  
+
+
+
+
+30/11/21
+
+One of the Impossible patty samples (14_1) was researched, this time against
+soy and the whole of SwissProt:
+
+The search his 18,854 proteins, 2694 (up from 2530) protein groups, 13,146
+peptide groups, 30,847 PSM from 150,092 MSMS.
+
+The top 20 non-soy protein matches were:
+
+
+
+
+1/12/21
+
+To double check the Swissprot bovine database, samples 10_1 and 14_1 were
+researched against the NCBI bovine reference proteome.
+
+PD settings:
+
+Sample proteins Prot GrpPep GrpPSMMSMS  
+10-1 Cow myoblast (vs SW-Cow)  
+2,6242,40621,30039,018164643  
+10-1 Cow myoblast (vs NCBI Cow)14,3374,77639,35364,660164643  
+14-1 Impossible patty  (vs NCBI Cow)429116361558150092  
+  
+As a result of the big increase in hits with the NCBI/RefSeq database the
+Sample 10 triplicate search was repeated.
+
+
+
+
+1/12/21
+
+At the request of Chris from Vow Foods, the soy samples searches were repeated
+using this RefSeq database:
+
+  
+
+When loaded in to PD, the RefSeq is smaller than the Uniprot DB:
+
+  
+
+Comparison of the group triplicate searches vis the two different databases:
+
+SampleProteinsProt GrpPep Grp PSMMSMS  
+14 Impossible patty (uniprot)  
+10,2122,95119,47899,706458,367  
+14 Impossible patty (refseq)7,0642,87619,30599,066458,367
+
+
+  
+  
+3/12/21
+
+When generating the mascot reports it was noticed that PD had split the mascot
+search over multiple (usually 4) separate search's before compiling the
+results.  So there isn't a mascot report corresponding to each of the
+triplicate searches.  To get around this the 3 .raw files for each sample were
+converted to 1 .mgf file and searched directly in mascot.
+
+e.g.
+
+
+
+
+MaxQuant Processing
+
+  
+
+Summary table
+
+File/Run MSMS submittedPeptides IdentifiedProtein GroupsOrganism/ FASTA file  
+P006  
+  
+  
+Sheep/ Oaries-Merino_GCF_016772045-1_ARS-UI_Ramb_v2pt0_protein  
+  
+20211125_QEHFX3_AC_Vowfoods_P006_1  
+83964  
+33550  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P006_2  
+97452  
+25255  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P006_3  
+10685026006  
+  
+  
+  
+Combined288266  
+41478  
+4133  
+  
+P007  
+  
+  
+  
+Sheep/Oaries-Merino_GCF_016772045-1_ARS-UI_Ramb_v2pt0_protein  
+  
+20211125_QEHFX3_AC_Vowfoods_P007_1  
+58878  
+37420  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P007_2  
+57558  
+32005  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P007_3  
+5686130873  
+  
+  
+  
+Combined173297  
+47286  
+4790  
+  
+P008  
+  
+  
+Sheep/Oaries-Merino_GCF_016772045-1_ARS-UI_Ramb_v2pt0_protein  
+  
+20211125_QEHFX3_AC_Vowfoods_P008_1  
+44862  
+19675  
+  
+  
+  
+20211125_QEHFX3_AC_Vowfoods_P008_1a  
+85320  
+37392  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P008_2  
+96618  
+30703  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P008_3  
+96244  
+30535  
+  
+  
+  
+Combined323044  
+49474  
+4922  
+  
+P009  
+  
+  
+ Water Buffalo/Bbubalis_NDDB_DH1_RefSeq_GCF019923925.1_2011126  
+20211125_QEHFX3_AC_Vowfoods_P009_1  
+78962  
+40850  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P009_2  
+91660  
+33362  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P009_3  
+93534  
+32589  
+  
+  
+  
+Combined264156  
+51112  
+5059  
+  
+P010  
+  
+  
+Cow/ Btaurus_Cow_ARS-UCD1.2_RefSeqGCF00_2263795.1_20111201  
+  
+20211125_QEHFX3_AC_Vowfoods_P010_1  
+99664  
+32675  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P010_2  
+97804  
+33606  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P010_3  
+99812  
+32886  
+  
+  
+  
+Combined297280  
+44597  
+4554  
+  
+P011  
+  
+  
+Mouse/ Mouse_uniprot_UP000000589_20200714  
+  
+20211125_QEHFX3_AC_Vowfoods_P011_1  
+81462  
+43637  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P011_2  
+94434  
+35117  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P011_3  
+97714  
+34263  
+  
+  
+  
+Combined273610  
+54303  
+5314  
+  
+P012  
+  
+  
+Crocodile/ Cporosus_Croc_CroPor_comp1_RefSeq_GCF_001723895.1_20211126  
+20211125_QEHFX3_AC_Vowfoods_P012_1  
+101606  
+23018  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P012_2  
+104638  
+22473  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P012_3  
+105182  
+22024  
+  
+  
+  
+Combined311426  
+31010  
+3505  
+  
+P013  
+  
+  
+Crocodile/ Cporosus_Croc_CroPor_comp1_RefSeq_GCF_001723895.1_20211126  
+  
+20211125_QEHFX3_AC_Vowfoods_P013_1  
+93026  
+24787  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P013_2  
+95370  
+24312  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P013_3  
+98206  
+23503  
+  
+  
+  
+Combined286602  
+33292  
+3754  
+  
+P0014  
+  
+  
+Soy/Gmax_uniprot-Glycine_max_soy_20211122  
+20211125_QEHFX3_AC_Vowfoods_P014_1_20211125125556  
+117508  
+9465  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P014_2  
+126622  
+8264  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P014_3  
+126642  
+8244  
+  
+  
+  
+Combined370772  
+12058  
+2214  
+  
+P015  
+  
+  
+Crocodile/ Cporosus_Croc_CroPor_comp1_RefSeq_GCF_001723895.1_2021112  
+  
+20211125_QEHFX3_AC_Vowfoods_P015_1  
+119180  
+10784  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P015_2  
+117878  
+10897  
+  
+  
+  
+20211126_QEHFX3_AC_Vowfoods_P015_3_rpt  
+118976  
+10712  
+  
+  
+  
+Combined356034  
+13837  
+1271  
+
+

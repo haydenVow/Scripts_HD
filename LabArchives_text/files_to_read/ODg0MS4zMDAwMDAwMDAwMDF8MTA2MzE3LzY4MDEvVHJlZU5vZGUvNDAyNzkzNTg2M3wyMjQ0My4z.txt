@@ -1,0 +1,39 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/30890?cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://ranger.vow.tools/#/biomaterial/experiment/670
+
+RELATED TO OKR:  Release of first product. Program team 1
+
+AIM/PURPOSE: Determine if Nuvonis quail fibroblast suspension cells can
+survive and proliferate alternative basal mediums
+
+HYPOTHESIS: At least one of the following alternative suspension basal
+mediums; DMEM/F12, RPMI and Hycell CHO will enable the cells to survive and
+proliferate in suspension culture conditions
+
+RESULTS SUMMARY:
+
+  
+
+Figure 1: Proliferation of Nuvonis quail fibroblast cells in different basal
+growth mediums.
+
+CONCLUSIONS:
+
+Of the 3 alternative basal mediums tested, only the Hycell CHO media was able
+to support growth and proliferation of the Nuvonis cells. Both the RPMI and
+DMEM/F12 appear unsuitable for Nuvonis cell growth without further
+optimisation. Additionally, compared to Freestyle 293 expression medium, cells
+grown in the Hycell CHO were able to surpass the Freestyle condition in terms
+of total cell numbers and cell per mL, reaching a peak density >10M cells/mL.
+
+NEXT STEPS:
+
+  * Repeat with sufficient technical replicates (n ≥ 3) for statistical analysis to determine the performance of different basal media types relative to the control conditions.
+  * Continue optimising the basal media to wean cells off from Hycell CHO, by sequential adaptation (i.e., 50:50 RPMI:Hycell mix) or eliminating the media completely. 
+
+

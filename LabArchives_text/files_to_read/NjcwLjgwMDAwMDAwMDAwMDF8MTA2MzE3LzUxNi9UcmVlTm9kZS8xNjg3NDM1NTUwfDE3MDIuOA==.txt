@@ -1,0 +1,66 @@
+
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs:` 6679, 6677
+
+  2. Used sterile tweezers to carefully transfer `the` scaffold pieces to separate wells in the same format on a 96 well plate.
+
+  3. Washed the pieces on the 96 well plate 2 times in 230 ul of PBS for  `5`  minutes at room temperature.
+
+    1. 15:21 - 15:26
+    2. `15:30-15:35`
+  4. Added   230 uL of 4% PFA to each scaffold and incubate for  `15`  min at room temperature.  `15:39 - 15:55`
+
+  5. Rewashed with PBS 15:58 - 16:03  
+  
+
+  6. Aspirate PBS and stain the pieces with 200 uL of DAPI in PBS (1:1000) (17 x 200 ul = 3400 ul -> 3.4 ul of DAPI required)  
+  
+for 5 minutes in the dark. `16:06 - 16:11  
+`
+
+  7. Wash the pieces 2 times for   5   `minutes in` 200 ul of PBS.
+
+    1. `16:14 - 16:20`
+    2. `16:23 - 16:28`
+  8. Aspirate the PBS and leave the scaffold pieces just covered by fresh PBS. 16:35
+
+`label the plate halves with the respective culture IDs and date of fixing
+and/or staining`
+
+  
+
+Placed in the biomaterials fridge. 16:40
+
+  
+
+Observations
+
+Fungal contamination in well plate 6677 G10 Serum Cell Free Control. White
+fluffy appearance. Slimy feel with tweezers. Surrounded the sample and present
+in the rest of the well.  
+10x and 5x microscopy images indicate fungal contamination:
+
+Plate 6677
+
+https://mia-capture.vow.tools/#/session/recn190mjbzoLPPlv/images  
+  
+JB -  Just one well appeared contaminated. All samples were moved to a new
+plate to be fixed so that any cells on the bottom of the well weren't stained
+and imaged. The original plate was then parafilmed and placed it in the yellow
+biosafety bin for disposal. All samples were fixed and killed on this time
+point, contamination was contained.
+
+
+
+
+Reagents Used
+
+PBS: M4826
+
+DAPI:  M2193
+
+PFA: A3113
+
+

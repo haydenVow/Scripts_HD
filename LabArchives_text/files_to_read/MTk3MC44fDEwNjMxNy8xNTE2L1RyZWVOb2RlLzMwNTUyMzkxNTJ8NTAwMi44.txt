@@ -1,0 +1,90 @@
+
+
+## Performed by:
+
+
+
+
+Culture IDs to image
+
+Vessel type(s)  
+Vessel ID  
+Number of wells being imagedWhole or inner well  
+  
+6731-6733  
+6  
+inner (1 image at the centre)  
+  
+  
+6860  
+6  
+inner (1 image at the centre)  
+  
+  
+  
+  
+
+
+
+
+[13:35]: removed the plates from the fridge in the library lab, left at room
+temperature under foil wrap to warm to room temp.
+
+
+
+
+Loading plate and opening software
+
+  1. Loaded plate into Zaber with A1 at top left position (hold back retention clip that holds plate in place, settle plate into place, release clip). Timestamp:    14:00  a/pm 
+  2. Ensured culture ID label was present on the plate being imaged to enable scanning the QR code for Mia integration 
+  3. Opened "User Guide to Zaber imaging" linked below for instructions on how to open MicroManager (zaber imaging software) and set up plate for imaging. https://www.notion.so/vow/User-Guide-to-Zaber-imaging-ad19527eee9e42ed9db96faa911d6536
+
+
+
+
+Setting up plate for imaging
+
+  1. Channel(s) used (delete those that do not apply): [DAPI / 488 / 555]
+  2. Set Exposure. Exposure used: (see Multi-D aquisition screenshot below)
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  3. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  4. Important \- Copied exposure value from Micromanager into the "Exposure" box on "Multi-Dimensional Acquisition" window that corresponds with the configuration you are using.
+  5.   
+
+  6.   7.   8. Ensured that Z-stacks is unchecked on Multi-Dimensional Acquisition (this is for imaging 3D cultures) 
+  9. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. 
+      * Rows/Columns:  1 / 1    
+
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+    6.   10. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  11. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). For reference, there should be 1000-2000 images for a full 96-WP on Zaber 1. (Stats for Zabers 2 and 3 to come)
+    * Total number of images:            
+  12. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up. 
+  13. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID.
+  14. Clicked acquire (clicked yes when asked about creating a new root directory). 
+    * Plate 1 (6731 )    14:10-14:19  a/pm 
+    * plate 2 ( 6732)      14:20-14:26  a/pm  
+    * Plate 3 (  6733 )    14:27-14:28, plate was imaged twice as the first run was done without a plate cover.  a/pm
+    * Plate 4 ( 6860 (planar starvation assay  )    14:30-14:32 plate was imaged twice as the first run was done without proper focusing a/pm
+  15. Returned plates to fridge    14:32  a/pm 
+
+
+
+
+Could not identify any myotubes in any of the wells.  
+  
+Also contrary to what is recorded in the lab book, Each plate has the top row
+labelled at HS (Horse serum) and the bottom row labelled as E6. It is unclear
+which wells have been fed what media. The lab book records that E6 was added
+to the top row for each feed and HS was added to the bottom row.  
+  
+MyoG was only noticable in the bottom row of plates fixed on Day 7 and 10 of
+Diff.  
+  
+No myoG or MF20 was evident on the plate fixed after 7 days of starvation.
+
+

@@ -1,0 +1,56 @@
+Aim
+
+
+Expand GTO6s-p Sea Turtle fibroblast cells to a MCB.
+
+
+Hypothesis
+
+
+Continued culture of an initial population of 1M GTO6s-p Sea Turtle fibroblast
+cells will allow for a bank of ~100 million cells within 3 passages.
+
+
+Technical gap
+
+
+We have not cultured dolphin fibroblasts before, therefore we do not know how
+well they will grow in adherent culture or what their doubling times will be.
+
+
+Method/procedure
+
+
+Experimental Plan (Approximate timeline - we do not know how these cells will
+grow so this is very prone to change, we will need to continually monitor for
+confluence)  
+D1: seed 562.5K into 1xT75 (7500 cells/cm2)  
+D2: feed  
+D5: passage into 2xT175 (assuming flask is at least 80% confluence, seed at
+7500 cells/cm2 i.e. 1.3M per T175 flask)  
+D8: feed  
+D12: feed  
+D13: passage 2xT175 into 1x 4CF (assuming flask is at least 80% confluence,
+seed at 7500 cells/cm2, i.e. 1.9M per 4CF)  
+D17: feed  
+D21 bank 1 x 4CF  
+
+Expansion passages  
+Following SOP_Passaging Adherent Cells V_04
+
+Banking  
+Bank WCB following Banking-Template_V2
+
+Sea Turtle cell growth conditions:  
+Growth medium: RPMI-1640 with 10% fetal bovine serum (FBS). Antibiotics can
+also be used at concentrations of 1%  
+penicillin/streptomycin (10,000 U/mL stock), 1% amphotericin B (250 μg/mL
+stock)  
+Incubation temperature (°C): 30  
+Incubation CO2 (%): 5%
+
+Information sheet from ARI-TOX Marine Wildlife CellBank
+
+Link to all culture conditions for cells from Griffith.
+
+

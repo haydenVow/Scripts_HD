@@ -1,0 +1,229 @@
+Introduction
+  
+  
+Perhaps the one of the most important characteristics of Vow's research is the
+high-throughput manner it must be conducted. Often the success of timely and
+challenging research problems is yielded with increased high throughput
+platforms and consequently larger experimental scale. Hence unsurprisingly,
+most of our research accomplishments at Vow have been made possible by the
+platforms and tools provided by our Engineering team. One such tool is the
+liquid handling robot (Opentron II or OT2) which have the potential to
+automate the vast majority of manual pipetting that scientists perform
+routinely. In the past, these robots have shown to be able to automate routine
+tasks with great success (e.g. suspension feeds, single cell cloning passaging
+etc.)
+
+The bulk of manual tasks for the maturation team in particular involve the
+daily maintenance of cultures and immunoflourescent staining. These daily
+media changes are simple routine tasks that have the potential to be automated
+on the OT2. Moreover, antibody staining involves repeated wash steps which are
+desirable tasks to be automated. Specifically, the maturation team primarily
+deals with assays in a well plate format - a format that is well suited for
+automation on the OT2. However, when dealing with live muscle cells, a
+plethora of measures must be taken to ensure high cell viability, growth and
+differentiation. Along with straightforward liquid handling, these measures
+also must be translated to the OT2. Hence, it is not immediately clear whether
+the process of manual feeds will be able to be performed on the OT2 without
+affecting the viability, growth and differentiation capability of our
+cultures.  
+  
+On the other hand, the majority of manual operations for immunostaining has
+been previously shown to be successfully translated to the OT2 (see here).
+While this is a remarkable proof of concept, the protocol is limited in scope
+as the plate format, active wells and number of plates are not flexible. There
+remains to be a flexible immunostaining protocol that is able to encompass a
+variety of plate formats and active wells. By acheiving this, maturation team
+members can customise protocols to their own plate format. By achieving this
+possibility, it is more likely that OT2 immunostaining will be a dependable
+and reliable tool for the entire team to use consistently.
+
+This experiment aimed to test the feasibility of media changes on the OT2 as
+well as develop a flexible OT2 immunostaining workflow.
+
+
+Summary of experiment
+
+
+  * Protocol for feeding a 12 well plate and 96 well plate was developed in Python3 for the Opentrons API.
+  * Water runs were conducted using this protocol and pipette handling methods were optimised for speed and viability of cells.
+  * 1 x 96 well plate and 1 x 12 well plate were fed on the OT2. An identical set of control plates were fed in a BSC using manual pipetting techniques.
+  * All four plates were fixed and immunostained on the OT2. MyoG, MF20 and DAPI were used to quantify differences between myogenin and MyHC expression as well as any variation in cell viability.
+
+
+Key findings
+
+  * Daily OT2 media changes resulted in hindered differentiation in comparison to manual media change.
+  * Immunostaining was able to be mostly translated on the OT2, with the cultures yielding similar images to manually immunostained plates.
+  * A higher retention of cells was observed from plates immunostained on the OT2 in contrast with patches of cell loss seen commonly on manually immunostained cultures.
+
+
+       
+  
+Figure 1: C2C12 culture fed using manual pipetting techniques. 5X
+magnification, AF555 channel.  
+
+Figure 2: C2C12 culture fed using an OT2. 5X channel, AF555 channel.  
+
+
+  
+  
+Task
+
+Protocol duration  
+  
+Feed: 1 x 12wp, 1 x 96wp
+
+14 minutes  
+  
+Fix: 2 x 96wp
+
+1 hour 9 minutes  
+  
+Fix: 2 x 12wp
+
+2 hours 34 minutes  
+  
+pAb stain: 2 x 96wp
+
+1 hour 19 minutes  
+  
+pAb stain: 2 x 12wp
+
+N/A (estimate: 1 hour 30 mins)  
+  
+sAb stain + DAPI: 2 x 96wp
+
+1 hour 23 minutes  
+  
+sAb stain + DAPI: 2 x 12wp
+
+2 hours  
+  
+Table 1: Reported timings of each protocol in hours/minutes  
+  
+  
+
+
+  
+  
+Figure 3: Violin plot of %MF20 area (determined using FIJI image analysis)
+
+Table 2: Results from unpaired, two-tailed student t-test from %MF20 area
+between automated and manual conditions.  
+  
+  
+
+
+Discussion and limitations
+
+
+Media change study:
+
+As suggested from a qualitative comparison of Figure 1 and 2, the culture fed
+manually underwent a higher degree of maturation in comparison with the OT2
+fed culture. This is evidenced, by the presence of longer and aligned myotubes
+in the manual culture. Moreover, an interesting morphological aspect
+distinctly separates the two cultures. It has been found when differentiating
+and maturing C2C12 cells, the formation of circular growths attached to
+myotubes is common. This is not observed with primary cells and oftentimes
+such growths are inherent to healthy and mature C2C12 cells. These growths can
+be found commonly on the images taken from the manually fed cultures, however
+are far less common on the plates fed on the OT2. Further investigation is
+needed to identify these growths and to determine whether they are indicative
+of a healthy culture - or potentially the opposite.
+
+The slow maturation of the OT2 fed cultures could be resultant of several
+reasons (e.g. light exposure to E6 during feeds, cooling down of media etc.).
+However, the most plausible explanation may be the incomplete media changes
+that occur when performing a liquid transfer on the OT2. While we often
+perform 100% media changes manually, on the Opentrons this is inherently not
+possible. Despite it's ability to remove anywhere between 70-80% of pre-
+existing media consistently, it is not able to fully remove all liquids from
+wells. This is due to the fact that the robot pipette is unable to tilt or
+angle plates to completely remove expended media.
+
+When dealing with C2C12 cells, it is often likely that the media is expended
+extremely quickly in 24 hours. The hallmarks of this occurence is slightly
+discoloured (sometimes yellow) media. In this experiment, this yellowing of
+expended media was consistently observed across both conditions. Moreover, a
+working volume of 120uL was used in both cultures, which likely may not have
+been sufficient to maximise the maturation of both conditions. Furthermore, an
+incomplete media change (exclusive to the OT2 liquid transfer) leaves less
+fresh media for the cells to be exposed to daily. In light of this, it is
+likely that incomplete media changes hindered the differentiation and
+maturation process of the OT2 fed plate. In comparison, the manually fed plate
+consistently received a 100% media change for the 4 days of
+differentiation/maturation.
+
+In particular, the qualitatively similar levels of DAPI signal observed (not
+pictured) between conditions suggests that cell viability is retained when
+performing media changes on the OT2. The variability of %MF20 signal between
+conditions was assessed using ImageJ analysis and a student t-test was also
+performed (see Figure 3). While the variability of the MF20 area of the OT2
+fed cultures is significantly lower, the ImageJ analysis is not able to
+encompass all myotubes in both cultures. Hence, while this is a good
+preliminary indication, this data cannot be used to make a conclusive
+statement until the ImageJ analysis has been rectified.
+
+In summary, the main challenge observed in the automated workflow is the slow
+progess of C2C12 MuSC differentation when compared to the traditional manual
+workflow.
+
+
+
+
+Immunostaining study:
+
+In comparison to the automated media changes, the immunostaining process on
+the OT2 was largely successful. Figures 1 and 2 evidence the fluorescent
+images obtained from the process. In comparison with a culture that was
+immunostained manually (not pictured), it is clear that important maturation
+attritubes such as aligned myotubes and the (suspected) aforementioned
+circular growths are also captured in an automated staining process. This is
+also the case when comparing AF488 (MyoG) and DAPI fluorescent images (not
+pictured).
+
+Immunostaining using the OT2 pipettes poses several advantages over a manual
+process. Often it is found that when perform manual liquid transfers using
+pipettes, the pipette tips make contact with the bottom of the well resulting
+in a loss of cells in particular patches (see Figure 3) . While this is
+technically an operator error, this can be inevitable to remove liquids
+completely from wells even with high caution and care. In contrast, the OT2
+pipette and gantry is able to be instructed to move to up to 0.1mm distances
+and thus can be ensured not to make contact with the bottom of the well. The
+tradeoff however, is an incomplete liquid transfer as discussed above. Hence,
+with a vast majority of the wells stained manually, the entirety of the cell
+density is retained during immunostaining. This is highly advantageous, as
+maturation factors such as MyHC II are observed to form in more confluent
+areas. Furthermore, a higher population of samples in each well ensures a
+higher confidence in the quantitative analysis of such maturation specific
+factors.
+
+
+Conclusion
+
+
+An experiment assessing the feasibility of automating routine manual pipetting
+on the Opentron II liquid handling robots was conducted. While much of the
+handling is able to be translated on the OT2, comparatively hindered
+differentiation was observed on the cultures undergoing automated media
+changes. All cultures were also immunostained on the OT2 which was largely
+succesfull, producing similar images to manually immunostained C2C12 cells.
+The implications of automated immunostaining reduces a large amount of
+scientist effort and manual handling and it is anticipated that this technique
+will shift to an automated platform soon. In contrast, automated media changes
+require further troubleshooting and testing before it is moved to the same
+platform.
+
+
+Future directions
+
+
+  * Repeat media change study with increased working volumes (e.g. 200uL) and monitor for any reduction in difference between automated and manually maintained cultures.
+  * Test whether a reduction in timings is possible by reducing wash volumes for 12wp (while increasing number of washes to compensate for this).
+  * Create Notion document and host training on independently performing (and troubleshooting) immunostaining protocols on the OT2.
+  * Iterate and implement a fully automated immunostaining protocol by incorporating aluminum tube racks blocks to keep antibody cold for long protocol durations. Furthermore, in order to reduce dead volumes PCR plates or similar will be used for multichannel additions of antibody.
+  * Increase the low light conditions for staining on the OT2 by aluminium foil wrapping of existing padding.
+  * Potentially look into a GUI for flexible immunostaining protocols, enabling users to create their custom protocols (e.g. select wells to stain, choose plate type, number of plates).
+
+

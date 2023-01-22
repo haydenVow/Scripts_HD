@@ -1,0 +1,314 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A
+
+
+  
+  
+## Performed by:
+
+
+
+
+  
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+8182-C2C12-Mouse P4-1of3  
+96 well plate96  
+8183-C2C12-Mouse P4-2of3  
+96 well plate (fix only)96  
+8184-C2C12-Mouse P4-3of3  
+96 well plate (fix only)96  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Process:
+
+### Step 1: Fix wells with 4% PFA
+
+  1. Removed flask(s)/plate(s) from the incubator.    11:45   a/pm   
+  2. Removed media and washed wells with    200uL   non-sterile dPBS.  
+  3. Remove wash and wash once more with     200uL  non-sterile dPBS. 
+  4. Remove dPBS and add    100uL   of 4% PFA and incubate at RT for 15 minutes.   1:08  \-  1:23  a/pm  
+  5. Remove the PFA and wash wells twice with    200uL   dPBS.  
+  6. Remove dPBS and replaced with fresh    200uL   of dPBS 
+  7. Proceed to primary antibody or store the plates at 4 degrees parafilmed until ready for immunostaining.
+
+Fridge location
+
+ID  
+  
+Fixing and Staining fridge top shelf  
+  
+  
+  
+*All cultures were fixed on 23/09*
+
+
+
+
+### Step 2: Permeabilise and block cells
+
+Permeabalise:
+
+*Culture 8183 is being primary and secondary stained*
+
+1\. Removed PBS from each well.
+
+2\. Added   100  uL PBST (0.2% Triton-X) to each well for 15 min:    10:04  \-
+10:19  a/pm  
+
+3\. Aspirated PBST for each well.
+
+  
+
+Block
+
+1\. Added  100  uL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour).    10:22  -  11:22
+a/pm  
+
+2\. While incubating, prepare primary antibody solutions (see next steps)
+
+
+
+
+Antibodies used:
+
+Antibody
+
+#Stock ID
+
+Primary/Secondary
+
+IgG form
+
+Volume of antibody used (uL)
+
+Volume of blocking buffer (mL)  
+  
+Antibody Primary - Mouse Anti-Myosin (MF20), MIgG2b, Kappa Light Chain (AKA MF
+20-s)  
+#2467  
+Primary  
+IgG2b  
+160uL  
+8mL  
+  
+HRP conjugated Secondary Antibody - Mouse Anti-Myosin (MF20)  
+  
+  
+Secondary  
+IgG2b  
+1uL  
+10mL  
+  
+  
+  
+
+  
+
+
+
+
+### Step 3: Primary stain cells
+
+Prepare Antibody solution(s)
+
+Use this spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+3\. Prepared Primary Antibody Mixes as desired and noted information in table
+above.
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed. DO NOT VORTEX ANTIBODIES!!
+
+  
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well
+
+2\. Added     50  uL  of primary antibody solution.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   11:30  -  13:00  a/pm  
+
+3\. Parafilmed plates and stored at 4ºC in fridge.
+
+Fridge location
+
+ID  
+  
+Fixing and staining fridge  
+101  
+  
+  
+  
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+### Step 3: Secondary stain cells with ELISA secondary antibodies
+
+Antibody  
+Dilution  
+Volume of secondary antibody  
+Volume of blocking buffer  
+Volume of previous dilution taken  
+Volume of diluent  
+  
+ELISA MF20 Secondary antibody  
+1:10,000  
+1uL  
+10mL  
+N/A  
+N/A  
+  
+ELISA MF20 Secondary antibody  
+1:50,000  
+N/A  
+N/A  
+1mL  
+4mL  
+  
+ELISA MF20 Secondary antibody  
+1:100,000  
+N/A  
+N/A  
+1mL  
+1mL  
+  
+  
+  
+
+  1. Prepared ELISA and fluorescent secondary antibody mixes as per the table above (pipette from the top/supernatant of antibody solution)
+    1. If using AlexaFluor fluorescent secondary antibodies then the max concentration should be 1:500 (typically used at 1:1000)
+    2. Pipette-mixed antibody mix and stored refrigerated away from light until needed.
+  2. Removed sample vessels from fridge (if incubated in primary antibodies overnight).
+  3. Washed 3,4 or 5 times for 5 min with ELISA Wash Buffer at RT.
+
+  13:02  -  13:08  a/pm  
+
+  13:10  \-  13:15  a/pm  
+
+  13:18  \-  13:23  a/pm  
+
+  13:26  \-  13:31  a/pm  
+
+  13:32  \-  13:38  a/pm  
+
+  13:40  \-  13:46  a/pm  
+
+    4\. Incubated respective wells with corresponding secondary antibody mixtures in the dark at RT for 1 hour.    14:03  -  15:03  a/pm     
+  
+From this step onwards protect from the light by wrapping plates in foil and
+perform experiment in the dark
+
+
+
+
+### Step 3: Enzymatic reaction (TMB substrate conversion)
+
+Please note critical steps to ELISA workflow are highlighted in
+bold/underlined.
+
+  1. Removed 2nd antibody solution.     15:05   a/pm    
+  2. Washed in  200 uL   dPBS 4, 5 OR 6 times for 5 min at RT in the dark. (No Triton)  
+  15:09  \-  15:15  a/pm  
+  15:20  \-  15:25  a/pm  
+  15:28  \-  15:33  a/pm  
+  15:37  \-  15:42  a/pm  
+  15:46  \-  15:51  a/pm  
+  3.   15:46  \-  15:51  a/pm  
+  4.   15:55  -  16:00  a/pm  
+  5. Started peroxidase reaction by adding     75uL  of TMB substrate solution to respective wells and incubated plate at RT for 15 mins.  
+  16:10  -  16:25  a/pm  
+  6. Quenched reaction with an equal volume of 0.5 M HCl or   75  uL   STRICTLY after 15 minutes and observed cyan to yellow colour change.
+  7. Pipette mixed and transferred   100uL   of the yellow supernatant to a non-treated 96 well plate.  
+Do not use a cell culture treated 96 well plate!  
+If continuing with Janus Green stain, wash original plate immediately with PBS
+(see Janus Green staining template for more detail)
+
+  8. Spun down plate in centrifuge for 1 min at 1000 rpm to remove bubbles and droplets.
+  9. Placed plate in NanoStar plate reader and measured absorbance values at 450nm (ELISA 405 preset program).
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+4% PFA  
+  
+dPBS (non-sterile)  
+  
+PBST (0.2% Triton)m7043  
+  
+Blocking Bufferm7044  
+  
+TMB substrate  
+  
+0.5 M HCl (for quenching)  
+  
+  
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+
+
+
+ Data (for further analysis):
+
+

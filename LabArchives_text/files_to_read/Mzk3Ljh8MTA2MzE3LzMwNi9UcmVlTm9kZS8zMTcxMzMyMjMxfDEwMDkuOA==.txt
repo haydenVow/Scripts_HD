@@ -1,0 +1,138 @@
+Day -1: Setup bioreactor and perform sterility test  
+StepTaskDescriptionReferenceDoneChecked  
+23Calibrate peristaltic pumps  
+  
+  
+  
+  
+24Transport the sterile bioreactor vessel to the work benchOnce the
+autoclaving chamber has cooled to 60-70 deg C, open the chamber and check
+connections to make sure that all vessels remain sealed. In the event that any
+tubing has popped off, rinse connections with 70% ethanol and reconnect; or,
+re-autoclave the entire assembly. Use a trolley to transport the assembly to
+the work bench.Operating manual page(s) 70  
+  
+  
+25Fit and connect the heating blanket  
+Operating manual page(s) 70, 72  
+  
+  
+26Fit and connect the exhaust heater  
+Operating manual page(s) 70, 29  
+  
+  
+27Connect the pH probe  
+Operating manual page(s) 70, 29  
+  
+  
+28Connect the dissolved oxygen probe  
+Operating manual page(s) 70, 29  
+  
+  
+29Connect the level sensor probe  
+Operating manual page(s) 70, 29  
+  
+  
+30Connect the gas line(s) to the gas inlet filters  
+Operating manual page(s) 70, 74  
+  
+  
+31Mount the stirrer motor  
+Operating manual page(s) 71  
+  
+  
+32Turn on bioreactor control tower  
+Operating manual page(s) 80  
+  
+  
+33Fill adjustment agent bottlesIf not autoclaved inside the vessels, dispense
+the adjustment agents using a sterile filling process.https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+34Fit the solution lines into the peristaltic pumps  
+Operating manual page(s) 70, 77  
+  
+  
+35Prime the feed tubesFill the corrective reagent tubes. If the tubes are not
+filled with the appropriate reagent, the control unit may malfunction, because
+it will initially feed air into the culture vessel instead of liquid reagent.  
+Set the totaliser to 0 after priming all tubes.https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+36Add the culture mediumUse the "SUBS-A" pump as it is the fastest. Pump out
+the waste liquid and add fresh growth medium  
+  
+  
+  
+37Turn on the gas supply to the control tower  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+38Set the air flow rateEnsure that the line is unclamped to the air inlet. Set
+to 0.05 L/minhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+39Set the temperatureTo 37 deg
+Chttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+40Set the impeller speedFound that 90 RPM was adequate to keep microcarriers
+suspended in 700 mL  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+41Set the pHTo 7.5https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+42Perform sterility testOvernight or for 24 hoursOperating manual page(s) 81  
+  
+  
+  
+  
+
+
+
+
+Extra notes:
+
+Set SUBS-A setpoint to 0 before calibration.
+
+Check foil wrapped pieces to feel if they have popped off during autoclaving.
+
+Inspect screws and attachments for loose pieces
+
+Ensure the exhaust filter incrementor has been checked off after autoclaving
+
+Stir tank bioreactor: Lowest working volume = 1/3 of the maximum working
+volume.
+
+Connect up your autoclaved bottles before the heating blanket
+
+O rings on autoclaved schott bottles may be sticky, When fixing the autoclaved
+bioreactor lids to the schott bottle ensure lid detaches easily. otherwise
+transfer the contents of your innoculum to the autoclaved schott bottle.
+
+Anything bottles containing liquids going into the culture should be connected
+to the multiport on the top of the reactor.
+
+The arrows below each pump on the biostat A indicate the flow of liquid once
+the tubes are connected.
+
+Heating blanket is orange. Smooth side to the glass, foam side facing out. Try
+not to cover the volume measurements on the side of the glass.
+
+Make sure you've unclamped all your lines after everything is connected.
+
+Anti-foam and base lines should always go to anti-foam and base pump
+respectively because they are automatically controlled.
+
+Don't connect microcarrier containing innoculum to the multiport, it will
+block the tube.
+
+Need to add steps for configuring pH control in base pump and CO2.
+
+Need to add steps for exhaust heater.  
+
+

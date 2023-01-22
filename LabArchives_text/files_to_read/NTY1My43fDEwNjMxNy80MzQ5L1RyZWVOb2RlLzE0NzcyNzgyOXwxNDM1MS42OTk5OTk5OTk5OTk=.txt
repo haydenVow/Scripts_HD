@@ -1,0 +1,70 @@
+
+
+## Completed by: Andrew Gia, Tom Tarento
+
+
+Aim/Purpose
+
+
+To confirm that DOLLY12 and CHOMP fibroblasts in CD CHO basal medium can adapt
+to suspension
+
+
+Hypothesis
+
+
+That DOLLY12 and CHOMP fibroblasts will adapt to suspension in CD CHO basal
+medium conditions as shown by previous experiments
+
+
+Method/Procedure
+
+
+Figure 1. Experimental overview of F_DOLLY12 suspension culture adaptation
+procedure
+
+
+
+
+Figure 2. Experimental overview of F_CHOMP suspension culture adaptation
+procedure
+
+
+
+
+D0: Seed cells to suspension culture in 50mL culture tubes and E125 flasks
+
+Thaw F_DOLLY12 and F_CHOMP into T175 flasks. For each cell type, 6x50mL shake
+culture tubes and 6xE125 flasks will be seeded with a total of 3M (500,000
+each) and 18M cells (3M each) from initial adherent cultures respectively.
+
+6x 50 mL culture tubes and 6x E125 flasks will be split into the following
+conditions:
+
+  1. DOLLY12_F in 5 mL (3x culture tubes) and  30 mL (3x E125s) CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM L-glutamine +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+  2. DOLLY12_F in 5 mL (3x culture tubes) and  30 mL (3x E125s) DMEM/F12 + 10% FBS + 1x p/s
+  3. CHOMP_F in 5 mL (3x culture tubes) and  30 mL (3x E125s) CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM L-glutaminne +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+  4. CHOMP_F in 5 mL (3x culture tubes) and  30 mL (3x E125s) DMEM/F12 + 10% FBS + 1x p/s
+
+D4, D8, D12, D16, D20, D24, 28
+
+Feed
+
+Perform 100% media changes every 4 days by centrifuging cell suspensions at
+300xg for 5 minutes, discard the supernatant and resuspend cells in their
+respective growth medias. Take 100 uL of resuspended sample for imaging and
+cell counts.  
+
+Cell counts
+
+Transfer 100 uL sample to a 96 well-plate. Add 100 uL of stain buffer (Hoechst
+33342 Readyflow) to the cells and incubate at room temperature and in the dark
+for 30 minutes. Prepare serial dilutions (50%, 25%, 12.5%) of the stained cell
+preparation in subsequent wells, diluting with dPBS. Image all wells using the
+Zaber and analyse using MIA.  
+
+  
+
+  
+
+

@@ -1,0 +1,128 @@
+Performed by: EC
+Ranger log
+ReagentID  
+100% CHO + Nuvonis  
+M12687  
+  
+90/10 RPMI/CHO + Nuvonis  
+M12748  
+
+
+Flasks
+  
+  
+  
+
+Flask typeHarvested Flask IDSeeded Flask IDConditionLocation  
+E-12512382  
+12468  
+90/10 RPMI/CHO159 (Main Lab)  
+  
+12469  
+  
+12470  
+  
+12471  
+  
+12472  
+  
+12383  
+12473  
+  
+12474  
+  
+12475  
+  
+12476  
+  
+12477  
+  
+  
+  
+
+Flask typeHarvested flask IDSeeded flask IDConditionLocation  
+E-125  
+1236912458  
+  
+100% CHO  
+  
+159 (main lab)  
+  
+12459  
+  
+12460  
+  
+12461  
+  
+12462  
+  
+12463  
+  
+12464  
+  
+12465  
+  
+12466  
+  
+12467  
+
+
+  
+  
+  
+
+  1. Took 1 x 560 uL samples from each culture (2 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+100% CHO  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+  
+12369  
+21,000,000  
+  
+  
+ 90/10 RPMI/CHO
+
+Flask ID  
+Vicell total cell counts (viable cells)  
+  
+12382  
+5,720,000  
+  
+12383  
+6,420,000  
+  
+  
+  
+
+  3. Aliquoted 205mL 100% CHO + Nuvonis, and added 205uL of IGF and 41uL of EGF.
+  4. Aliquoted 205mL 90/10 RPMI/CHO, and added 205uL of IGF and 41uL of EGF.
+  5. Aliquoted the following mL of cell suspension into 20 x 15 mL tubes:  
+  
+Flask IDVolume of cell suspension used to re-seed flask @ 50k cells/mL having
+a total of 1M cells/ flask (mL)  
+  
+12369 x 10  
+0.952  
+  
+12382 x 5  
+3.497  
+  
+12383 x 5  
+3.115  
+  
+  
+
+  6. Centrifuged the tubes @ 500 xg for 5 minutes.
+  7. After centrifugation, aspirated the supernatant and resuspended cell pellet in 20 mL of respective medium. Then re-seeded cell suspension into every flask.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+  9. Aliquoted the 5mL excess of both 100% Hycell + Nuvonis and 90/10 RPMI/Hycell + Nuvonis into 2 x 15 mL tubes and placed in the -80 freezer.
+
+  
+
+
+
+
+

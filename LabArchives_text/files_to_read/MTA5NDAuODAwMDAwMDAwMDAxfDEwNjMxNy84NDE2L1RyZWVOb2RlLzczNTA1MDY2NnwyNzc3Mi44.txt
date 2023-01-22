@@ -1,0 +1,157 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Location  
+  
+1x E500  
+108  
+12443  
+  
+ E500  
+125  
+  
+  
+  
+  
+  
+  
+  
+E500  
+125  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+MIX 12739 + MIX 12737 +MIX 12752  
+  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Passage:
+
+  1. Cell counts with the Vicell was performed:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+12425  
+  
+Performed byVB  
+  
+  
+Total volume of the suspension culture 108mL  
+  
+Volume of sample taken from the cell count  
+ 550uL  
+  
+Timestamp of the cell count14:50  
+  
+  
+Results  
+  
+  
+Cell count viable (cells / mL)=  
+3.48M cell/mL  
+  
+  
+% viability99.8%  
+  
+  
+Total cell count in the suspension culture 375,840,000  
+  
+  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+  1.  250mL aliquot was taken into 1 x 500mL sterile pot. 
+  2. Growth factors were added to the growth media aliquot.
+    1.  250uL of IGF-LR3 (mesokine) added
+    2.  50uL of rEGF (mesokine) added  
+Note: Calculate the amount of growth factor needed for the volume of aliquoted
+growth medium by using the E8 Calculator.
+
+  3. Aliquot placed in water bath 15 : 20 pm
+  4. 21.5 mL of suspension Cells seeded into 250mL of prewarmed growth media. 136mL aliquotted into 2 x E500 flask (One flask has 132mL).
+  5. A second cell count was performed using the Vicell
+    1. Cell Count Information Ranger Culture ID Culture ID  
+  
+12504  
+12505  
+  
+Performed byRSRS  
+  
+Total volume of the suspension culture 136136  
+Volume of sample taken from the cell count  
+ 550uL 550uL  
+Timestamp of the cell count 4:30  
+4:30  
+Results (Measured by the Vicell)  
+  
+  
+Cell count viable (cells / mL)  
+0.2*10^6/mL  
+ 0.2*10^6/mL  
+  
+% viability 100%  
+99.5%  
+  
+Total cell count in the suspension culture 27.2M  
+26.4M  
+  
+    2. Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the master cell count spreadsheet, with the respective culture ID and the volume of growth medium the cells are being cultured in.
+  6. Placed flask in the incubator  4:40 a/pm (37 C, 5% CO2, 120 RPM)  
+
+Seed flask details:
+
+  * Seeding density: 0.2 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  mL
+  * Flask size: E  (flat bottom / baffled)
+
+
+
+
+## Summary/ Results
+
+__ cells were expanded from 1 x E_ flask into 1 x E_ flask.  
+  
+
+

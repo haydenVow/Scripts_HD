@@ -1,0 +1,65 @@
+Introduction
+
+
+While the immediate priority for Vow is the suspension adaptation of
+fibroblast cells, future products will likely contain muscle. However, the
+underlying reasons behind this choice while may seem obvious, lack the
+quantitative data to justify them. For example, it may be commonly assumed
+that muscle provides nutritional benefits over fibroblasts - however these
+benefits have not been made clear and supported with the scientific method at
+Vow. Hence, an opportunity to characterise the nutritional benefits of mature
+(and immature) muscle opens up.  
+  
+One attractive benefit of agricultural meat is the high protein content that
+many products inherently contain. This often is
+
+
+Aim:
+
+
+To identify the difference in protein content between:
+
+  * Mature myoblasts
+  * TGF-b \+ Vit C treated fibroblasts
+
+and also to highlight the difference between BCA and Bradford quantification
+assays.
+
+
+Hypothesis:
+
+
+Mature muscle cells yield higher total protein than TGF-b and Vit-C treated
+fibroblasts.  
+  
+The BCA assay captures higher protein across all samples due to its
+flexibility with protein-protein uniformity within the samples.
+
+
+Timeline and protocol:
+
+
+Protocol (fibroblasts):
+
+  * Seed fibroblasts into T-flask and expand for several days
+  * Passage fibroblasts into 24 well plate
+  * Treat with 10 ng/mL TGF-b and 50mg/mL Vit-C when confluent 
+  * Monitor for signs of peeling and stain with DAPI before peeling can occur.
+  * Perform Bradford/BCA on same day as stain.
+
+Protocol (myoblasts):
+
+  * Seed myoblasts into 24 well plates after expansion in T-flasks.
+  * Differentiate myoblasts for 14 days.
+  * DAPI stain, then perform Bradford/BCA assay on same day.
+  * If available, repeat DAPI stain and quantification process on MuSCs.
+
+Protocol (Freeze-thaw):
+
+  * Seal plate sides with adhesive foil and freeze plates in LN2 bath for 3 minutes
+  * Thaw plates for 3 mins in water bath.
+  * Repeat freeze-thaw cycle three more times  
+
+  
+
+

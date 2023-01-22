@@ -1,0 +1,170 @@
+
+
+## Performed by: VP, JH, AV
+
+
+
+
+Prepare reagents:
+
+Prepare working solutions of thrombin to yield 6U/mL and 12U/mL final
+concentration when adding 25uL working solution to 200uL fibrinogen hydrogel
+solution. Stock concentration is 12U/uL.
+
+  * 3uL stock into 250uL dH2O (96U/mL). Add 25uL working solution to gel preparation (200uL) for final concentration of 12U/mL
+  * 1.5uL stock into 250uL dH2O (48U/mL). Add 25uL working solution to gel preparation (200uL) for final concentration of 6U/mL
+  * 1uL stock into 1000uL dH2O (8U/mL). Add 25uL working solution to gel preparation (200uL) for final concentration of 1U/mL
+  * keep at 4°C
+
+
+
+
+Media/reagents:
+
+  
+
+NameReagent ID (Stockyard)  
+20% FBS DF12 Growth MediumA9127  
+8U/ul, 0.0792mg/uL thrombin (100uL per aliquot)M9953  
+20mg/mL fibrinogen (200uL per aliquot)M9934  
+3% (w/v) alginate solutionN/A - alginate powder does not have an ID  
+FBSS3746  
+Bradford Assay ReagentS3589  
+  
+  
+
+  
+
+
+
+
+Experimental notes and emendations
+
+  * compared to previous pilot experiment, some changes have been made to following iteration based on observations
+  * No cells were used in this iteration - only hydrogel formulation was plated for staining and imaging to observe gel protein structure
+  * new concentrations trialled for this iteration have been adapted from Vorwald et al 2020
+    * fibrinogen content has been altered to 10mg/mL final concentration of fibrin in hydrogel (previously 8mg/mL)
+    * alginate altered to 1.5% (w/v) final concentration in hydrogel
+    * thrombin final concentration in hydrogel has been varied (previously 12.5U/mL final)
+    * incubation times altered: ECM+alginate component 30 minutes at 37°C followed by alginate cross linking for 10 minutes at room temperature
+
+
+
+
+Process  
+
+Conditions
+
+  * A = Fibrinogen + alginate low thrombin concentration (1U/mL)
+  * B = CHOMP ECM precipitate + alginate
+  * C = Fibrinogen + alginate medium thrombin concentration (6U/mL)
+  * D = Fibrinogen + alginate medium thrombin concentration (12U/mL)
+
+Plate Layout
+
+  
+1 (Condition A)2 (Condition B)3 (Condition C)4 (Condition D)5 (blank)6 (blank)  
+A  
+  
+  
+  
+  
+  
+  
+B  
+  
+  
+  
+  
+  
+  
+C  
+  
+  
+  
+  
+  
+  
+D  
+  
+  
+  
+  
+  
+  
+  
+Method
+
+1\. Cut strip of parafilm and overlaid on empty P10 tip box. Used eppendorf
+tube to make indentations in tip spaces to create wells in parafilm
+
+2\. Label eppendorf tubes A-D
+
+3\. Draw up alginate using 10mL syringe. Fix needle to syringe, keep in falcon
+tube until needed
+
+4\. Added 100uL alginate to each eppendorf tube, using tube graduations as
+indication of volume dispensed.
+
+5\. Added 100uL fibrinogen/ECM to eppendorf tube
+
+6\. Added 25uL of thrombin working solution to eppendorf tube and gently mixed
+by stirring motion with pipette. (Added to tube only when ready to pipette)
+
+7\. Used P200 to dispense droplets onto parafilm in each well. Dispensed ~10
+droplets per formulation
+
+8\. Incubated at 37°C for 30 minutes (entire strip of parafilm placed in a 6cm
+dish and placed in incubator)
+
+9\. Removed from incubation and added CaCl2 directly onto parafilm to bathe
+droplets, and cross-link alginate
+
+10\. Incubated parafilm strip at room temperature in BSC for 10 minutes
+
+11\. Aspirated media from parafilm. Used tweezers to push microbeads into well
+containing PBS as per plate layout above.  
+
+  
+
+No plate ID was created - hydrogels were stained and imaged. Following
+imaging, hydrogels were discarded.
+
+  
+
+
+
+  
+
+
+
+
+Staining & Imaging
+
+  1. Gels were stained with Coomassie blue stain using Bradford reagent
+  2. Added 0.5mL staining reagent per well and incubated at 30°C for 5 minutes
+  3. Aspirated stain and rinsed 3 times with DPBS 
+
+
+
+
+Observations:
+
+  * parafilm dispensing technique is easier handling compared to syringe dispensation. However would require more creative thinking for scaleable dispensation 
+  * Coomassie blue staining indicates some structure in CHOMP ECM precipitate-alginate encapsulation formula (see imaging). Less structure visible in collagen I and Matrigel formulations
+
+
+
+
+Related Images
+
+Imaged under 'dummy culture' ID:
+
+
+
+
+SOPs used:
+
+Encapsulation protocol (written by James Henstock, see attached)
+
+

@@ -1,0 +1,139 @@
+
+
+## Performed by:
+
+
+
+
+Culture IDs to image
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to image  
+Whole or inner well  
+  
+6712-DOLLY12_11E7-Sheep P11-1of3  
+6713-DOLLY12_11E7-Sheep P11-2of3  
+6714-DOLLY12_11E7-Sheep P11-3of3  
+96 well plates (Microcarrier derived)  
+6ea  
+Inner well  
+  
+6715-DOLLY12_11E7-Sheep P11-1of3  
+6716-DOLLY12_11E7-Sheep P11-2of3  
+6717-DOLLY12_11E7-Sheep P11-3of3  
+96 well plates (Planar derived)  
+6ea  
+Inner well  
+
+
+  
+  
+Loading plate and opening software
+
+  1. Loaded plate into Zaber with A1 at top left position (hold back retention clip that holds plate in place, settle plate into place, release clip). Timestamp:    :  a/pm 
+  2. Ensured culture ID label was present on the plate being imaged to enable scanning the QR code for Mia integration 
+  3. Opened "User Guide to Zaber imaging" linked below for instructions on how to open MicroManager (zaber imaging software) and set up plate for imaging. https://www.notion.so/vow/User-Guide-to-Zaber-imaging-ad19527eee9e42ed9db96faa911d6536
+    1. DAPI 90ms exposure, 55 lamp intensity
+    2. AF488, 150ms exposure, 75 lamp intensity
+    3. AF555, 400ms exposure, 75 lamp intensity. 
+
+Plate  
+Time imaged  
+Time returned to fridge  
+Channels used.  
+  
+6713  
+13:11  
+13:30  
+DAPI, AF488, AF555  
+  
+6716  
+13:17  
+^  
+^  
+  
+  
+6717  
+13:19  
+^  
+  
+^  
+  
+  
+6714  
+13:21  
+^  
+  
+^  
+  
+  
+6712 (imaged twice, forgot to add the black cover to the plate on the first
+imaging run)  
+13:25  
+^  
+  
+^  
+  
+  
+6715  
+13:28  
+^  
+  
+^  
+  
+
+
+  
+  
+Setting up plate for imaging
+
+  1. Channel(s) used (delete those that do not apply): [PHASE / DAPI / 488 / 555]
+  2. Set Exposure. Exposure used:   ms
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  3. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  4. Important \- Copied exposure value from Micromanager into the "Exposure" box on "Multi-Dimensional Acquisition" window that corresponds with the configuration you are using (e.g. in the image below, the user has selected Phase for their configuration, and has entered 25.0058 in the Phase Exposure setting. See exposure and lamp intensity adjustments in the rich text entry above.  
+
+  5. Ensured that Z-stacks is unchecked on Multi-Dimensional Acquisition (this is for imaging 3D cultures) 
+  6. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. 
+      * Rows/Columns: 2 R / 1 C  
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+  7. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  8. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). For reference, there should be 1000-2000 images for a full 96-WP on Zaber 1. (Stats for Zabers 2 and 3 to come)
+    * Total number of images:      36 images per plate, 6 plates        
+
+  9. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up. 
+  10. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID
+  11. Clicked acquire (clicked yes when asked about creating a new root directory). 
+
+
+
+
+Observations:
+
+  * There looked to be a lot of holes and tears between nuclei on each of the 96 well plates imaged. Unsure if the cells have dislodged during storage in the fridge or if pipetting during staining has scraped them off.
+  * There was almost no signal for both AF488 labelled MyoG and AF555 labelled MF20 in any of the wells imaged. In instances where signals could be seen it may be likely that these wells contain antibody artifacts.
+  * Preliminary assessment is that the cells in these WCB_2 vials are not able to differentiate or fuse regardless of culturing conditions (microcarrier or planar).
+
+
+
+
+Reference images:
+
+6717: https://mia-capture.vow.tools/#/session/recgwkD46Rr2i0YqD/images#group0
+
+6716: https://mia-capture.vow.tools/#/session/recNJ6Wb5EeVvkTkZ/images#group1
+
+6715: https://mia-capture.vow.tools/#/session/recY2TBa5GalSVCDC/images#group0  
+  
+6714: https://mia-capture.vow.tools/#/session/rec86r7QPVtYcPXKB/images#group1  
+  
+6713: https://mia-capture.vow.tools/#/session/recV0Urujdv3YtqIR/images#group0
+
+6712: https://mia-capture.vow.tools/#/session/recYIFuU1WleyEFbT/images#group0
+
+

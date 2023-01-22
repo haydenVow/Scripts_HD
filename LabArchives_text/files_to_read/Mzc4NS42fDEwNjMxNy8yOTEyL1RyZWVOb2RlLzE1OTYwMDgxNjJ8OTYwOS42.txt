@@ -1,0 +1,129 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+384wp  
+7414  
+96 wp  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem5076  
+  
+dPBS (for washing)a5618  
+  
+Growth Mediaa5886  
+  
+  
+  
+
+
+
+
+### Process:
+
+  1. Took images of vessel on phase on the Zaber.
+  2. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+TrypLE:    1  mL
+
+ dPBS (for washing):     1.5 mL    mL
+
+Time that all aliquots were placed in the water bath the warm before use
+14:36 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+  
+
+  1. Added 200uL/well of Growth Media to 20 well of  a 96-well plate and placed the plate in incubator 14:30 
+
+
+
+
+4\. Removed vessel(s) from the incubator     15:03 pm
+
+5\. Washed the vessel(s) with dPBS (warmed) (50uL/well).
+
+6\. Added    25uL/well tryple and incubated at room temp. Start time for
+TrypLE was  
+
+Note: for wells in columns 20-23, warm PBS and tryple was used. For wells in
+columns 16-19, room temperature pbs and tryple was used.
+
+  1. wells B20-23: 15:19 ( 20 min)  
+
+  2. wells C20-23: 15:20 (30 min)
+  3. wells D20-23: 15:22 (60 min)
+  4. wells E20-23: 15:23 (90 min)
+  5. wells F20-23: 15:25 (120 min)
+  6. wells B16-19: 16:12 (20 min)
+  7. wells C16-19: 16:13 (20 min)
+  8. wells D16-19: 16:14 (30 min)
+  9. wells E16-19: 16:15 (60 min)
+  10. wells F16-19: 16:16 (90 min)
+  11. wells G16-19: 16:17 (120 min)
+
+8\. Transferred cell suspension from each source well to the corresponding
+destination well in 96-well plates.
+
+Placed back in incubator at 37C, 5% CO2   17: 40. After this point, plate was
+taken in and out of the incubator when cells needed to be seeded  
+
+
+
+
+Observations/Summary:
+
+tryplised 4 wells for each condition at room temp. Transferred cells after
+incubation from 384 wp to 96 wp
+
+  * warm tryple, 20 min incubation
+  * warm tryple, 30 min incubation
+  * warm tryple, 60 min incubation
+  * warm tryple, 90 min incubation
+  * warm tryple, 120 min incubation
+  * room temp tryple, 20 min incubation
+  * room temp tryple, 30 min incubation
+  * room temp tryple, 60 min incubation
+  * room temp tryple, 90 min incubation
+  * room temp tryple, 120 min incubation
+
+cells were able to detach with room temp tryple, and room temp incubation
+after as little as 20 min. It's possible 15 min would have been enough too (as
+cells looked round under the microscope) but no cells were seeded from 15 min
+time point
+
+results TBD - we may hoescht or dapi stain cells to count and compare growth
+between different tryple timing and temperature
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+images captured throughout incubations under culture 7414
+
+

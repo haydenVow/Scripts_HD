@@ -1,0 +1,162 @@
+Isolation and Expansion of CD31+ cells from a Frozen Muscle Biopsy
+
+
+4,000 CD31+ cells were isolated by FACS from a previously digested sheep
+muscle biopsy.
+
+Approximately 2 million cells which originally made up ~1g of the DOLLY15
+muscle biopsy were stained with an APC-CD31 antibody. These cells had been
+isolated from the DOLLY15 muscle biopsy several months ago. Following
+isolation, the mixed single cell suspension was frozen at -80 and stored in
+liquid nitrogen for approximately 6 months. These cells had been isolated from
+muscle biopsies that were stored overnight at four degrees before being
+processed the following day. See the linked notion lab notebook for more
+details of the initial isolation process: https://www.notion.so/vow/Isolation-
+DOLLY14-15-88ca5fcb177b4eaea300a95621a85b0c#31db0127c6074767b7850aaeb0543192.
+
+By FACS, 4,000 CD31+ cells were isolated from this larger cell population.
+This is approximately 0.2% of the viable cells in the single cell suspension
+from the muscle biopsy.
+
+CD31, also known as platelet endothelial cell adhesion marker 1 (PECAM1), is
+considered a standard marker of endothelial cells [1]. Approximately 0.5-1% of
+viable cells from a muscle biopsy are expected to be endothelial cells [2].
+With ~0.2% of our viable cells being CD31+, this is within the range of
+expected numbers for endothelial cells in a muscle biopsy. Perhaps this
+particular sheep muscle was low in endothelial cells due to its age, health,
+or other biologic condition. In addition, leaving the biopsy for 24h prior to
+processing may have led certain cell types to die at a higher prevalence, e.g.
+the endothelial cells. Either of these circumstances could have contributed to
+a lower than expected yield of CD31+ cells.
+
+Ideally we would have liked to isolate CD31+ cells from a fresh muscle biopsy
+but this was not possible given our time frame to achieve this objective. In
+addition, we were unable to find raw isolate from DOLLY11, DOLLY12, or DOLLY13
+in our liquid nitrogen storage. These other three isolates were processed
+immediately following biopsy collection, rather than after 24h at four
+degrees. This points towards the importance of having a well organised frozen
+cell library, which we are currently taking steps to rectify.
+
+Cells isolated by FACS were expanded in media containing serum, IGF1, FGF,
+EGF, and VEGF.
+
+Although the CD31+ cells were slow to begin growing, within a month the cells
+appeared to be proliferating well. Cells were grown in DMEM/F12 containing 20%
+serum and 1 x PS along with four growth factors spiked in (40ng/mL FGF,
+10ng/mL IGF1, 10ng/mL EGF, and 5ng/mL VEGF). These growth factors have been
+shown to stimulate endothelial cell growth and are commonly included in
+commercially produced endothelial growth media [3]. Unfortunately due to the
+very low number of cells, we were not able to consistently measure the cell
+mean doubling time. 4k to 244k cells is approximately 6 doublings, which would
+yield a mean cell doubling time of 100 hours over 25 days. However, given the
+confluence of the cells over time, it appears that this doubling time was
+likely lower immediately following FACS sorting and higher after 20 days of
+culture. In addition, although we sorted 4,000 viable, CD31+ cells, we may
+have had additional cell loss following FACS sorting as the cells adjusted to
+culture.
+
+244,000 cells were banked for future staining and expansion to MCB  
+244,000 cells were banked in one vial. Ideally these cells would have been
+banked into two separate vials; I need to clarify best practices for these
+situations to the fibroblast team or any team at Vow working on isolating new
+cell types.
+
+In the future, these cells should be thawed and expanded to an MCB. In
+addition, a small number of cells should be set aside for staining. We need to
+determine whether these cells have retained their CD31+ character to verify
+that they are endothelial cells.
+
+A second method to verify endothelial cell identify is by assessing their
+formation when confluent. Endothelial cells traditionally take on a
+"cobblestone like" morphology (see figure below). However, most images of
+endothelial cells found online are from umbilical cords, veins, or arteries. I
+have not found good images in the literature of endothelial cells isolated
+from muscle, so at this stage it is not clear whether these cells are indeed
+endothelial cells. Future experiments should verify endothelial character in
+addition to expanding the population of cells.
+
+Traditional Endothelial cells (image from
+https://www.mdpi.com/1422-0067/20/18/4411/htm)
+
+Our isolated cells:
+
+  
+
+Proposed Use of CD31+ Cells in the Context of Meat at Vow
+
+CD31+ endothelial cells are capable of spontaneously forming tubular
+structures. These tubes form through the process of angiogenesis, which occurs
+in response to VEGF stimulation. VEGF is released by fibroblasts, particularly
+stressed or dying fibroblasts [4]. These tubes are potentially very useful to
+Vow for generation of larger tissues or muscle biomass. We currently have the
+capability to form fibroblast sheets (see EPIC 17048 for more details).
+Perhaps we could generate thicker sheets if endothelial cells were used to
+generate vessel-like structures that would allow for nutrient transfer to
+cells within the centre of the tissue that would otherwise senesce due to lack
+of nutrients. This would allow us to generate larger biomasses and achieve
+goals of producing well over 100g of product per production cycle.  
+  
+Incorporation of endothelial cells into our final product could also allow for
+differences in taste or texture, depending on the innate taste and textural
+properties of these cells. In addition/alternatively, the presence of
+endothelial cells in healing tissues is known to increase following the
+expansion of MuSCs [5]. There may be endothelial-MuSC interactions at play
+which assist these expanding MuSCs in the differentiation and maturation
+processes, so it will be worth exploring this phenomenon.
+
+  
+
+Limitations of the study
+
+As mentioned above, there are a number of qualifications around the initial
+single cell suspension from which these CD31+ cells were isolated. Because the
+biopsy was not processed until over 24 hours following collection, some cell
+viability may have been lost. In addition, the single cell suspension from the
+biopsy was frozen for ~6 months rather than being processed immediately for
+CD31+ cell isolation; this also may have impacted our yield of CD31+ cells and
+their viability.
+
+  
+
+Overall Conclusion  
+  
+4,000 CD31+ cells were isolated from a muscle biopsy, expanded to a population
+of 240,000, and banked down. These cells are proposed to be endothelial cells
+and may be useful for Vow's future efforts to expand into co-culture, to
+facilitate increased maturation of MuSCs, and to produce bigger amounts of
+biomass through formation of tubular structures which may be able to mediate
+media diffusion and transport of nutrients to cells within a biomass.
+
+  
+
+Future Directions
+
+As mentioned above, the next steps for this experiment are to thaw the frozen
+vial of isolated cells, expand the population, bank it down into an MCB, and
+stain the cells for CD31 to verify their endothelial character. In addition,
+if we observe spontaneous generation of tube-like structures in the context of
+co-culture of these cell types with fibroblasts (particularly stressed or
+dying fibroblasts which will secrete endothelial cell stimulatory factor
+VEGF), this will provide good evidence that these cells are indeed endothelial
+cells [4]. We do not have immediate plans for this, as it will likely occur in
+a future project and in a different quarter.
+
+  
+
+References
+
+1\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938961/
+
+2\. https://pubmed.ncbi.nlm.nih.gov/26401916/
+
+3\. https://www.rndsystems.com/products/endothelial-cell-growth-
+media_ccm027?gclid=Cj0KCQjw78yFBhCZARIsAOxgSx3Zeroaqi5k1nF8tYVyXEW4EEv27rxayqZdMpjJpt7i5ieWgpW5acYaAlj-
+EALw_wcB
+
+4\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3192859/
+
+5\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6075730/
+
+  
+
+

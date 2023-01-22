@@ -1,0 +1,218 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Nathan, Bec, Jared, Shaleen
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+384 wp(s)  
+6952-BUFFY6-Water Buffalo P0-10of11, 6953-BUFFY6-Water Buffalo P0-11of11  
+96wp  
+6984-BUFFY6-Water Buffalo P1-4of4  
+  
+  
+384 wp(s)  
+  
+6950-BUFFY6-Water Buffalo P0-8of11, 6951-BUFFY6-Water Buffalo P0-9of11  
+96wp  
+  
+6985-BUFFY6-Water Buffalo P1-3of4  
+  
+  
+384 wp(s)  
+  
+6946-BUFFY6-Water Buffalo P0-4of11, 6947-BUFFY6-Water Buffalo P0-5of11,
+6948-BUFFY6-Water Buffalo P0-6of11, 6949-BUFFY6-Water Buffalo P0-7of11  
+96wp  
+  
+6986-BUFFY6-Water Buffalo P1-2of4  
+  
+  
+384 wp(s)  
+  
+6943-BUFFY6-Water Buffalo P0-1of11, 6944-BUFFY6-Water Buffalo P0-2of11,
+6945-BUFFY6-Water Buffalo P0-3of11  
+96wp  
+  
+6987-BUFFY6-Water Buffalo P1-1of4  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+
+
+
+### Process:
+
+1\. Images captured of single cell clone plates from 3/6/21 were processed
+using the machine learning algorithm to identify wells for picking.
+
+2\. wells with cell numbers in the 95% percentile of those on the plate were
+picked for expansion to 96 well plates. This ended up being wells with 3 or
+more cells per well.
+
+3\. Clone picking maps were generated [12-2pm] in the following spreadsheet
+based on this selection criteria.
+https://docs.google.com/spreadsheets/d/1YB6I5aMkVNGZpw7XywnhXbE1x1eTlTawCxAFSpn9BTo/edit?usp=sharing
+
+  
+
+2\. Gelatin coated     4     x     96wp     with sterile 50uL filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      14:27 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     8    mL in    1x15mL     .
+  2. Growth media (for seeding):     80    mL in     1x120mL    container. 
+
+Time that all aliquots were placed in the water bath the warm before use
+14:40   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Once 96 well plates had incubated for 1h with gelatin the gelatin was
+removed and replaced with 200uL of the prewarmed growth media. The plates were
+left inside the incubator, 37 degrees, 5% CO2.  
+
+Wells due for passaging from the 384 well plates were marked on the outside of
+the lid and inside well edge.
+
+Removed 384 wp vessel(s) from the incubator  
+Plate 1   16:00  
+
+Plate 2  16:29
+
+Plate 3 16:35
+
+Plate 4-10 (not tracked)
+
+  
+5\. Washed wells identified from the picklist generated below with 50uL of
+dPBS after removing and discarding growth media.
+
+
+
+
+
+
+
+6\. Aspirated and discarded the dPBS and incubated the same wells in     0.02
+mL tryple at 37˚C.
+
+  1. Start/Finish for TrypLE (20 minutes) was  
+Plate 6943    16:26  
+Plate 6944    16:30  
+Plate 6945    16:36  
+Plate 6946   17:04  
+Plate 6947   17:11  
+Plate 6948   17:20  
+Plate 6950   17:28  
+Plate 6951   16:45  
+Plate 6952   17:44  
+Plate 6953   17:49  
+  
+
+7\. Neutralised by aspirating the tryple contents for each well and combining
+it with the destination well on the 96 well plates as per the plate maps
+above.
+
+8\. Returned 96 well plates to incubate at 37 degrees, 5% CO2.
+
+  * Plate 4: 18:20
+  * Plate 2: 18:40
+  * Plate 1: 17:40
+  * Plate 3:  (not tracked)
+
+Some wells did not have tryple added to them as the inside oft he well was not
+labelled prior to tryple addition. Passaging of these unfortunately missed.
+These included the following wells.
+
+Wells, D7, D8, D9 and F12 on plate 2.  
+Wells, A5, A12, and B1 on plate 3.
+
+The plate maps in the google spreadsheet were updated to reflect this change
+
+
+
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM4790  
+  
+TrypleM4949  
+  
+dPBS (for washing & neutralising)  
+  
+Growth MediaM5237  
+  
+p38i (20mM stock)M3978  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  * Manual handling during the washing, tryple addition, neutralising and addition to 96 well plates was the most time consuming process and most limiting to further throughput.
+  * Jared, Bec and Nathan were all involved in the expansion of 384 well plates, Each passaged ~96 clones over the 4 hours, with Shaleen swapping out for Bec at one point. 
+
+
+
+
+SOPs used:
+
+### n/a
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+n/a
+
+

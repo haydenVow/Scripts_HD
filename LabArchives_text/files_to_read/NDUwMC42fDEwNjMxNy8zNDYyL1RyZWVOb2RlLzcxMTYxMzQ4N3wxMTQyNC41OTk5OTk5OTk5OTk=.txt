@@ -1,0 +1,83 @@
+
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Process:
+
+  
+
+  
+  
+  
+Starting deck state  
+  
+  
+
+Startup and calibration:
+
+  1. Switched on HEPA filter (top of robot, switch on left) and the OT2 robot.
+  2. Wiped the base/desk of the robot with 70% (v/v) EtOH. Do not wipe the sides (clear acrylic panels) with ethanol. OT2 should be treated like a BSC for maintaining sterility. Spray and wipe any items with ethanol before placing into OT2. 
+  3. Connected to the robot from a lab computer by using the OpenTrons app. 
+  4. Uploaded desired protocol to the app. Download the protocol file you need from Google Drive:  https://drive.google.com/drive/u/1/folders/12S3szo_L9g5Z79TkIwZo8bcm2bOdGSzG.
+  5. Clicked  Proceed to calibrate. 
+  6. Arranged labware and reagents on the OT2 as shown in the deck layout. 
+  7. Calibrated to labware by following the instructions on the app and then ran the protocol.  
+
+Start time:   3:40 pm
+
+Summary of protocol:
+
+  *   
+
+End time:       5:35 pm
+
+  
+
+Termination and cleaning:
+
+  1. Once the protocol is complete, discarded tips in the yellow biowaste bin. Sprayed and wiped the trash tray with ethanol before returning it to the robot. Liquid waste should be collected in bottles, and PFA waste should be discarded into the PFA waste container. OT2 reservoirs are reusable. They should be sprayed with Viraclean if they contained cell suspensions and then washed in eucalyptus disinfectant. Then they need to be soaked in water, dried, and autoclaved.'
+  2. Removed all labware from OT2 and wipe the base/deck of the OT2 with ethanol. The pipette head can also be cleaned with 70% ethanol. Wiped the sides (clear acrylic panels) with working solution of bleach (10-15%) and then dried with a RediWipe.   
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+SOP_Using OpenTrons V_01
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,49 @@
+
+
+Passaging of Clones:
+
+  
+
+Images were captured of clones on the 7/7/22, images were reviewed to find
+clones that contained 90-100% confluence. Wells that appeared confluent were
+selected for passaging Tryple passaging with 1/5 of the Trypalised cell volume
+transferred to a fresh well containing new growth media (DMEM/F12+20%FBS +
+1xP/S) (pick lists can be found here)
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1823686943  
+  
+These pick lists were used to generate an opentron clone picking protocol. The
+protocol was used for the cell passage.
+
+Plates were initially loaded into the wrong order after plates were added to
+the opentron origin positions that did not align with their pick list in the
+protocol.  
+  
+Therefore on first passage the following plates filled the open in the
+following order.
+
+ORIGIN_A: 12612  
+ORIGIN_B: 12634  
+ORIGIN_C:12636  
+ORIGIN_D: 12613  
+ORIGIN_E: 12615
+
+Plates were returned to incubate at 30 degrees, 5% CO2 after the passage and
+the new culture was given a culture ID (Culture 12900)
+
+The following day (15/7/22) The protocol was run again with the plates in the
+correct order.
+
+Origin_A = 12234  
+Origin_B = 12236  
+Origin_C = 12612  
+Origin_D = 12613  
+Origin_E = 12615  
+  
+This culture was given a new culture ID (12901)  
+  
+The origin plates were then discarded once they had been passaged.  
+  
+
+  
+
+

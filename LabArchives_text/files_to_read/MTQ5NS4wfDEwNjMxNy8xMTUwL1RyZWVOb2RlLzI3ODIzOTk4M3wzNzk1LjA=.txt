@@ -1,0 +1,192 @@
+
+
+NOTE: Flask 6770 was discarded without being passaged as I did not need this
+many cells.
+
+
+
+
+Perform passage using below volumes:  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+ T175 6772 96 well plate 6815  
+  
+ T175 6773  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution 3994  
+  
+Tryple 4588  
+  
+dPBS (for washing & neutralising) 4809  
+  
+Growth Media 4767  
+  
+p38i (20mM stock) 4928  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [x ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Imaged flasks. see 6773: https://mia-
+capture.vow.tools/#/session/recaearY7IEMOhv1h/images and 6772: https://mia-
+capture.vow.tools/#/session/recaearY7IEMOhv1h/images
+
+2\. Gelatin coated   1   x     96 well     vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      10:20   
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     30    mL 
+  2.  dPBS (for washing and neutralising):       30  mL 
+  3. Growth media (for pellet resuspension):       30 mL 
+  4. Growth media (for seeding):    20     mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+11:30
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    12:18
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     15    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    12:25-12:35   
+
+7\. Neutralised with      15    dPBS per flask and combined cell suspension
+into a       50ml  tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     4    mL       growth   media     :   a/pm
+
+11\. Aliquoted       80   of resuspended cells into a microcentrifuge tube for
+cell count (3x counts performed)  
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the widget in the next entry.
+
+Average cell number:        509,333/mL  
+
+See cell count data here:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+240,000 cells wanted in 12ml (20,000/mL) 0.4712mL of cell suspension added to
+11.5288mL of growth media to obtain starting cell dilution.  
+
+See following entries for plate seeding information.
+
+
+
+
+Seeding Dilutions
+
+Cell suspensions for each seeding density were prepared from taking aliquots
+of the density above and diluting with growth media.  
+At 5000 cells/cm, cells were prepared at 20,000 cells/ml (5000/250ul) in 12ml
+(240,000 cells total). A 9ml aliquot was then taken from this and diluted with
+an additional 1ml growth media to create a suspension of 4500cells/250ul.
+These steps were repeated using the table below. After thorough mixing, 250ul
+of the respective cell suspensions was then transferred to each well of the 96
+well plate.
+
+After seeding, plate was left in the BSC for 30minutes before being
+transferred to the cell culture incubator at 37 degrees (Main Lab Thermo).
+
+
+
+  
+500045004000350030002500200015001000500  
+% previous mix used 1.0000.9000.8890.8750.8570.8330.8000.7500.6670.500  
+  
+VolumeVolumeVolumeVolumeVolumeVolumeVolumeVolumeVolumeVolume  
+Total volume of mix12.010.09.08.07.06.05.04.03.02.0  
+Previous suspension  
+9.08.076.05.043.02.01  
+Additional media added  
+1.01.01.01.01.01.01.01.01.0  
+  
+  
+
+
+
+
+96 well Plate layout.
+
+CellsCellsCellsCellsCellsCellsCellsCellsCellsCellsControls  
+500100015002000250030003500400045005000Cell Free  
+500100015002000250030003500400045005000Cell Free  
+500100015002000250030003500400045005000Cell Free  
+500100015002000250030003500400045005000Cell Free  
+500100015002000250030003500400045005000Blank  
+500100015002000250030003500400045005000Blank  
+500100015002000250030003500400045005000Blank  
+500100015002000250030003500400045005000Blank  
+  
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+

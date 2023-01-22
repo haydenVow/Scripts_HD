@@ -1,0 +1,115 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+7213-C2C12-Mouse P3-1of1  
+96WP8  
+  
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Prepared   2 mL  PBST (0.2% Triton-X)
+
+2\. Prepared   2 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :   10 µL   Primary #1 MyoG (Santa Cruz)
+(1:200) +   40 µL   Primary #2 MF20 (DSHB) (1:50) +   1950 uL  Blocking Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG1gG1AF4881:200  
+MF201gG2bAF5551:50  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+  1. Aspirated dPBS. Added 200 uL/well of PBST and incubated for 15 min. Timestamp: 9:34 - 9:52
+
+
+
+
+Blocking
+
+1\. Added  200 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes:   9:54 - 10:39  
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min at RT:  10:41 - 12:13  
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm5285  
+  
+PBST (0.2% Triton)m5481  
+  
+MyoG primary antibody  
+s1451  
+  
+MF20 primary antibody  
+s694  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Primary stained C2C12 cells on zein scaffolds with MyoG and MF20 antibodies
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+na
+
+

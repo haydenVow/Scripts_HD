@@ -1,0 +1,153 @@
+
+
+## Completed by: AV
+
+
+Aim/Purpose
+
+
+To determine the optimal impeller tip speed required to promote high Nuvonis
+suspension cell proliferation and density in 50:50 RPMI:CHOin1 media.
+
+
+Hypothesis
+
+
+Cells will demonstrate a preference for a particular tip speed characterised
+by a higher final density and a faster doubling time.
+
+
+Background & Technical Gap
+
+
+The rationale is similar to the previous iteration of this experiment. The
+optimal impeller tip speed will also inform Vow on what parameters to use when
+operating larger scale bioreactors. The aim of the second round of stop-and-
+fix experiments is to improve the consistency of our in-house production
+processes.
+
+
+Method/Procedure
+
+
+The culture conditions and process is comparable to the previous iteration of
+this experiment, with some minor differences.
+
+Bioreactor Culture Conditions
+
+ParameterSettings  
+pHPID control loop, 7.5 set point, lower by base addition and increase by
+sparging CO2  
+Temperature37degC set point  
+Air sparging0.1 vvm (or 20 mL/min)  
+Agitation4 stirring rates being tested (one for each bioreactor)  
+150, 270, 390, 510 RPM (0.2 - 0.7 m/s)  
+  
+# Process
+
+DAY -4 (Thursday 23/06/22)
+
+[1] Take 500 mL of 100% CHO media to UTS \+ add it to the 1 L of 3:1 RPMI:CHO
+media -> final media will be 50:50 R:C at a total volume of 1.5 L. Also take 2
+x 2 L roller bottles, 4 x E500s and ~2 mL of IGF and EGF
+
+[2] Sub-culture Nuvonis cells from existing flasks at UTS
+
+  * Need to adapt cells from 3:1 R:H/CDM4 to 1:1 R:CHOin1
+  * Passage / seed cells at the highest possible density to ensure they are ready to inoculate 4 x 200 mL (AMBR vessels) + 2 x 30 mL (satellite flasks) at 200k cells / mL on Monday (ideally seed 2 x E500s at a density of 300-400k cells/mL)
+  * This translates to ~180M (172M) cells required in total for inoculation on Monday (180 mL at a density of 1M cells / mL)
+
+  
+
+DAY -3 (Friday 24/06/22)
+
+[3] Take 2 x boxes of AMBR vessels to UTS (4 vessels in total) + 4 x E125s
+(for satellite flasks)
+
+[4] Monitor culture flasks at UTS
+
+[5] Hydrate vessels overnight (over weekend)
+
+  * Clean hardware with 70-80% EtOH. Do not spray directly into the vessel ports or onto the hardware. Spray onto sterile lint-free wipe only and wipe down
+  * Bring sterile vessels into BSC
+  * Fill each of the 4 x AMBR vessels with 180 mL of 1:1 R:C media and AF (20 uL) in the main vessel chamber + 20 mL of feed media and AF (200 uL) \+ 20 mL of base (sodium bicarbonate)
+  * The AMBR will dose 2 mL of feed volume containing enough AF for the entire vessel volume (200 mL) -> this means that each 2 mL bolus of feed media needs to contain 200 / 10,000 = 20 uL of AF. Therefore, in 20 mL of feed media, 10x the amount of AF is needed = 200 uL
+  * Ensure all openings and clamps are sealed before removing from the BSC
+  * Place vessels in hardware overnight or over weekend
+  * It is not necessary to open the run time software. This can be started on the day of inoculation
+
+[6] Load the vessels onto the system and let the media equilibriate and pH
+patches soak over the weekend
+
+  
+
+DAY 0 (Monday 27/06/22)  
+
+[7] Set up the run time software and inoculate the vessels (refer to steps
+below)
+
+  1. Turn on TCU (temperature control unit) before run set up or inoculation. Ensure temperature of TCU is set to 0degC
+  2. Open the run-time software and load the Vow_1 protocol. This protocol contains the essential steps for proper bioreactor set up. All parameters including agitation, gassing/sparging and control loops can be edited from the run-time software before starting
+  3. Connect the pH probes to the hardware
+  4. Load the bioreactors and engage all
+  5. Select the 'Process' tab -> 'Vow 1' -> locate the 'Conditioning and Calibration' tab -> select 'Stir speed on' step / phase -> right click 'Edit' -> select the RPMs that are being tested
+  6. Under the 'Set point' enter the following parameters: 150, 270, 390, 510 (RPM for the four bioreactors respectively)
+  7. Edit the volumes of the batch by selecting 'Vow 1' -> 'Volumes' -> 'Batch media' in the 'Components' table -> change the volume to 190 mL
+
+  8. Set up the reservoirs:
+
+    1. Select 'Process' -> 'Vow 1' -> 'Pumps A-E'
+
+    2. Assign the role of 'Pump A' as the feed (consisting of 1:1 RPMI:CHO + GFs + antifoam)
+
+    3. Assign the role of 'Pump B' as the base (1M sodium bicarbonate)
+
+    4. Ensure the remainder of the pumps are marked as 'Not used'
+
+  9. Select 'Process' and explore around the screen to locate the 'Steps on days within phase' table and change the sample volume to 2 mL (1 mL x 2; once to purge the line and another to take the sample)
+
+  10. Delete any 'Calculated antifoam bolus' steps (as the AF will be added to the feed media at a higher concentration to dose the entire bioreactor volume during scheduled feeds)  
+
+  11. Start bioreactors
+  12. Enter spot calibration data using QR code and webcam -> Save data
+  13. Go to 'Bioreactor 1' -> select 'Borrow' -> choose all bioreactors and press 'Disengage' (make sure to remove the headplate and pH probe)
+  14. Fill Reservoirs A and B with feed media (+ GFs + antifoam) and base respectively inside a BSC, 20mL per reservoir
+  15. Return the vessels to the AMBR system and attach headplates and pH probe
+  16. Select 'Bioreactor 1' -> press 'Return' -> select 'All bioreactors' -> press 'Engage'
+    * Let the system warm up the media inside the vessel (may need to wait 20-30 mins for the 'Wait until at temperature' step)
+
+    * If it fails, select 'Failed bioreactors' -> then press 'Retry' (this will add in a duplicate step to repeat the failed step)
+
+    * For any step that takes too long, the wait time can be changed by going to 'Process' -> selecting the relevant step in the 'Conditioning and calibration' table (e.g. 'Check for pH drift') -> 'Edit' -> 'Timing' -> select 'Maximum wait time' (e.g. 2m, 5m) -> 'oKaY'
+
+    * To change the pH set point and dead band:
+
+    * Go to 'Process' -> 'Vow 1' -> 'Control loops' -> Edit 'pH lower' and 'pH upper'; from this menu, the CO2 gas flow rate can also be changed by editing the 'Maximum (mL / min)' - can be used to alter the rate at which the pH changes
+
+    * Go to 'Bioreactor 1' -> 'pH' -> 'Set' -> change set point
+
+  17. Sample 5mL from each bioreactor for pH offset calibration
+    1. Follow prompts to sample from each bioreactor. Draw 5mL and deposit in 50mL falcon tube
+    2. use offline pH probe to measure pH for each reactor
+    3. Follow prompts to enter offline pH calibration value for each reactor
+    4. allow system to calibrate pH before adding inoculum
+  18. Once pH is within spec, borrow bioreactors and add inoculum at 200k cells/mL (= 40M cells in 20 mL). This will bring total volume of reactor to 200 mL
+    * Inoculate the AMBR with growth medium dosed with 1:10 000 Antifoam C, 1:1000 IGF (50ng/mL) and 1:5000 EGF (10ng/mL)
+    * Seed 2 x satellite flasks (E125s) using the same inoculum
+  19. Return bioreactors and engage all
+  20. Follow prompts to sample 2 mL from each bioreactor. Purge the line by drawing 1 mL and discarding. Draw 1 mL again and deposit into 1.5 mL tube
+  21. Cell count offline and record
+  22. Reserve 250 uL of the sample for biochemical analysis (add to an eppendorf tube containing 250 uL of ultra pure water, spin down and store supernatant from each of the BRs as well as the satellite flask)
+
+  
+
+DAYS 1-4 (Tuesday 28/06/22 - Friday 01/07/22)
+
+[8] Sampling, monitoring and packdown of equipment
+
+  * Sample 1 mL from each vessel and discard. Sample 1 mL and perform cell count using the NucleoCounter as well as a manual count.
+  * Record online pH, dO, and temperature
+  * Reserve 250 uL of the sample for biochemical analysis (add to an eppendorf tube containing 250 uL of ultra pure water, spin down and store supernatant from each of the BRs as well as the satellite flask)
+  * Packdown on final day
+
+

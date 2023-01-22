@@ -1,0 +1,128 @@
+
+
+Hoechst staining protocol.
+
+Trial staining was first performed on N=1 scaffold (seeded by JB on 15/04/21)-
+Non sterile
+
+  
+
+1. N=1 scaffold (seeded by JB on 15/04/21) #6403 was transferred to a new 96 well plate.  
+
+2\. 5ul of Hoechst stain was added to 245ul of growth media.  
+
+3\. Scaffold covered with 100ul/well of Hoechst/media mix and incubated cells
+at 37°C for 10 minutes, protected from light. 13:20-13:30
+
+4\. Wash with 2x with 200ul PBS for 5 minutes. 13:32, 13:37  
+5\. Imaged.  
+
+  
+
+After successful trial staining, Hoechst staining was performed on more
+scaffolds.
+
+Note: Perform all staining in the BSC.
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use Hoechst at 20ul/mL.
+
+  
+
+  1. Prepared Hoechst stain by adding 2800ul of Hoechst to 3ml of growth media. 16:00
+  2. Hoeschst/media mix was sterilised using a syringe filter. 
+  3. Media was removed from N=4 cell seeded scaffolds and N=4 cell free scaffolds in plate 6405 as well N=4 2D wells on plate 6392  
+
+  4. Covered these wells with 100ul hoechst/media mix and incubate cells at 37°C for 10 minutes, protected from light. 16:
+  5. Removed hoechst/media mix. 
+  6. Wash with 2x with 200ul PBS for 5 minutes.
+  7. Replaced PBS with fresh growth media for imaging. 
+  8. Imaged. 
+  9. After imaging returned to plates incubate at 37°C and 5% CO2.  
+  
+Reagents  
+Hoeschst: 1403  
+DMEM/F12 + 20%FBS +1x p/s: 4235, p38i 3978  
+PBS: 4218
+
+  
+
+  
+
+
+
+
+Live Dapi staining protocol.
+
+Note: Perform all staining in the BSC.
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use DAPI at 10 ug/mL (10x amount used for fixed cells).
+
+  
+
+  1. Prepare dapi stain by adding 20ul of Dapi to 2ml growth media.   
+
+  2. Removed culture medium from N=4 wells in 96 well plate #6329 and replaced with 100ul/well Dapi/media mix. Incubated at 37°C for 5 minutes, protected from light. 17:05-17:10
+  3. Wash with 2x with 100ul PBS for 5 minutes. 17:10-17:15, 17:15-17:20  
+
+  4. Replace PBS with fresh E6 media. 
+  5. Image. 
+  6. After imaging return to plates incubate at 37°C and 5% CO2.   
+  
+Reagents  
+Dapi: 2193  
+DMEM/F12 + 20% FBS +1x p/s: 4235 + p38i 3978  
+PBS: 4218
+
+  
+
+
+
+
+Images and observations
+
+When staining with Hoechst, far fewer cells were seen attached to the scaffold
+on plate 6405 (EPL coated samples) compared to the trial scaffold taken from
+plate 6403 (non-coated). This was unexpected because the same seeding and
+staining protocol was used. The low attachment of cells to scaffolds on plate
+6405 may be due to the long (overnight) EPL coating time used in this
+experiment (normally only 1hr).  
+
+Images of trial hoechst staining. : https://mia-
+capture.vow.tools/#/session/recXQRBKW0y9Rf0mq/images
+
+Images of hoechst stained plate 6392 (2D) https://mia-
+capture.vow.tools/#/session/recKmwnz89tqy25Ye/image
+
+Images of hoechst stained plate 6405 (Cell seeded scaffolds - coated with EPL
+O/N)  https://mia-capture.vow.tools/#/session/recfj48eWC370lc1G/images
+
+Images live Dapi stained plate 6392: https://mia-
+capture.vow.tools/#/session/recKmwnz89tqy25Ye/images
+
+
+
+
+SCAFFOLDS DISCARDED - Due to the low apparent attachment of cells to scaffolds
+on plate 6405, this plate was discarded. EPL coating on these scaffolds was
+performed overnight, rather than for the usual 1 hour. See: https://au-
+mynotebook.labarchives.com/. It is theorised that this has affected cell
+attachment. This arm of the experiment will need to be repeated.  
+  
+Test for effects of Hoechst on cell survival will continue with the remaining
+2D seeded cells which did not endure EPL coating.
+
+
+
+
+Observations -  
+The media in the wells of plate 6405 containing the EPL coated and dried
+scaffolds was very pink on D1 after seeding. Whereas samples on the 6403 plate
+(non coated wet and dry scaffolds) were yellow in colour by D1. The pink media
+colouration suggested a lower cell presence in these wells. This pink
+colouration could infer that the presence of EPL had a negative effect on cell
+survival. Wherein, typically even cells growing on the base of the well will
+cause media discolouration.  
+
+

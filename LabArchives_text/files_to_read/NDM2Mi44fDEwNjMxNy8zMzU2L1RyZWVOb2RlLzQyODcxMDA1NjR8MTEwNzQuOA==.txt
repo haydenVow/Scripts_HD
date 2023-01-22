@@ -1,0 +1,49 @@
+
+
+Background
+
+For biomanufacturing purposes, rapid protocols for the adaption of anchorage
+depended cells to suspension culture are often recommended. In some instances
+however, successful adaptation has been demonstrated by employing a slower and
+more gradual process which also utilises a pre-adaption step in planar
+culture.
+
+Jukic et al performed a slow adaption of CHO cells to low serum media in
+adherent culture before moving into suspension [1]. They gradually reduced the
+serum proportion of the media from 10% to 1%. At 1% they say a 90% drop in
+cell viability and therefore moved cells in 2.5% serum to a commercially
+available serum free media,  HyQ CCM5CHO [1]. The researchers found that it
+was not possible to adapt cells directly from 10% serum media to this
+commercial product.  It took 50 days for CHO cells to show stable
+proliferation in suspension culture [1]. To date, our unsuccessful suspension
+adaption trials at Vow have typically been terminated at 30 days however this
+study demonstrates that longer trial periods may be warrened.  
+
+Another study also found that long adaption times of over 10 months were
+required to move human lung adenocarcinoma cells (A549) to suspension culture
+[2]. These researchers also failed to adapt cells directly from serum
+containing media to commercial medias, CDM4HEK239 and HyCell TransFxH.
+Instead, they took a month to gradually reduced the serum content from 10% to
+1% in adherent culture before transitioning to suspension cultures using these
+commercial medias [2]. Interestingly, cells had stable viability but no growth
+in CDMHEK239 however when moved to a bioreactor, cell growth improved after
+just a few weeks [2]. It took 10 months of culture within the bioreactor for
+cells to be fully adapted, and to grow in suspension without aggregation [2].
+The approximate doubling time in this system was 30 hours [2].
+
+A protocol of pre-adaption to serum free media prior to suspension adaptation
+was also adopted by Shittu et al. Here, chicken iPSCs were adapted to knockout
+serum replacement (KSR) media in planar culture, before transitioning to
+suspension culture [3]. Once in suspension, the researchers gradually
+decreasing the KSR portion of the media from 20% to 1% (They experienced
+significant drop in proliferation at 1%) over a period of 4 months [3].
+
+
+
+1.            Jukić, S., et al., Adaptation of CHO cells in serum‐free conditions for erythropoietin production: Application of EVOP technique for process optimization. 2016\. 63(5): p. 633-641.
+
+2.            Moreira, A.S., et al., Establishing Suspension Cell Cultures for Improved Manufacturing of Oncolytic Adenovirus. 2020\. 15(4): p. 1900411.
+
+3.            Shittu, I., et al., Development, characterization and optimization of a new suspension chicken-induced pluripotent cell line for the production of Newcastle disease vaccine. 2016\. 44(1): p. 24-32.
+
+

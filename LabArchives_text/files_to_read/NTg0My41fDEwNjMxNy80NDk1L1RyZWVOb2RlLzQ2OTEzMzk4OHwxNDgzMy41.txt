@@ -1,0 +1,366 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: VB & AK  
+
+
+
+
+Culture IDs:
+
+Harvested Flask ID(s)Seeded Flask ID(s)  
+Flask ConditionFlask Type  
+8371-F_DOLLY12-Sheep P13-1of1  
+8472-F_DOLLY12-Sheep P14-1of1  
+1T75  
+8372-F_DOLLY12-Sheep P13-1of1  
+8474-F_DOLLY12-Sheep P14-1of1  
+2T25  
+8373-F_DOLLY12-Sheep P13-1of1  
+8475-F_DOLLY12-Sheep P14-1of1  
+3T25  
+8374-F_DOLLY12-Sheep P13-1of1  
+8476-F_DOLLY12-Sheep P14-1of1  
+5T25  
+8375-F_DOLLY12-Sheep P13-1of1  
+8477-F_DOLLY12-Sheep P14-1of1  
+RPMI controlT25  
+8376-F_DOLLY12-Sheep P13-1of1  
+8478-F_DOLLY12-Sheep P14-1of1  
+Serum controlT25  
+8423-F_DOLLY12-Sheep P13-1of1  
+Not passaged  
+6T25  
+  
+8424-F_DOLLY12-Sheep P13-1of1  
+Not passaged  
+7T25  
+  
+8425-F_DOLLY12-Sheep P13-1of1  
+Not passaged  
+8T25  
+  
+8426-F_DOLLY12-Sheep P13-1of1  
+Not passaged  
+9T25  
+  
+8427-F_DOLLY12-Sheep P13-1of1  
+Not passaged  
+EMEM-alpha controlT25  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 5% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 5% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S (EMEM-alpha control)  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlM6934  
+  
+GM - Condition 1M7247  
+  
+GM - Condition 2  
+M7248  
+  
+GM - Condition 3  
+M7249  
+  
+GM - Condition 5M7250  
+  
+GM - RPMI controlM7251  
+  
+GM - Condition 6  
+M7252  
+  
+GM - Condition 7  
+M7253  
+  
+GM - Condition 8  
+M7254  
+  
+GM - Condition 9  
+M7255  
+  
+GM - EMEM-alpha controlM7256  
+  
+TrypleA5780  
+  
+dPBSA5495  
+  
+  
+  
+
+
+
+
+Prep of growth media: NOT REQUIRED FOR THIS PASSAGE  
+
+1\. Prep growth media mixes and store at 4'C
+
+*Growth Media: RPMI + 5% FBS + 1X P/S + hydrolysate (5g/L)
+
+In order to make media with hydrolysates at 5g/L just add 5 mL of the
+hydrolysate concentrate to 100 mL of growth media.  
+
+ConditionRPMIFBSPen/strepDifco Soytone Conc. Stock (100g/L) Difco select
+Phytone UF Conc. Stock (100g/L)Bacto Malt Extract Conc. Stock (100g/L)  
+ BBL Phytone peptone Conc. Stock (100g/L)  
+  
+1  
+  
+  
+mLN/AN/A  
+N/A  
+2  
+  
+  
+N/AmL  
+N/A  
+N/A  
+3  
+  
+  
+  
+N/A  
+N/A  
+mL  
+N/A  
+  
+5  
+  
+  
+N/A  
+N/A  
+N/A  
+mL  
+  
+RPMI control  
+  
+  
+  
+N/A  
+N/A  
+N/A  
+N/A  
+  
+  
+2\. Prep growth media mixes and store at 4'C
+
+*Growth media: EMEM-alpha + 5% FBS + 1X P/S + hydrolysate (5g/L)
+
+Condition  
+EMEM-alpha  
+FBS  
+Pen/Strep  
+Difco Soytone Conc. Stock (100g/L)  
+ Difco select Phytone UF Conc. Stock (100g/L)  
+Bacto Malt Extract Conc. Stock (100g/L)  
+ BBL Phytone peptone Conc. Stock (100g/L)  
+  
+6  
+  
+  
+  
+  
+N/A  
+N/A  
+N/A  
+  
+7  
+  
+  
+  
+N/A  
+  
+N/A  
+N/A  
+  
+8  
+  
+  
+  
+N/A  
+N/A  
+  
+N/A  
+  
+9  
+  
+  
+  
+N/A  
+N/A  
+N/A  
+  
+  
+EMEM control  
+  
+  
+  
+N/A  
+N/A  
+N/A  
+N/A  
+
+
+  
+  
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    18   mL in  1x 50 mL  tube  16:38   
+
+  2. dPBS (for neutralising)   36  mL in  1x 50 mL  tube  16:38  
+
+  3. Growth media (for seeding/pellet resuspension):  
+ 13 mL (Condition 1/2/3/5/Serum control/RPMI control)  1 mL for pellet
+resuspension   16:38  
+
+  4. Times that all aliquots were placed in the water bath to warm before use
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    3   mL tryple to each vessel/well and incubated at 37˚C for   15
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was  17:03  -  17:18   
+
+4\. Neutralised with    3 mL   dPBS (warmed) and combined cell suspension into
+separate    15 mL  tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  17:29  \-  17:34   
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      1  mL    growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+9\. Total cell number was:
+
+Condition 1:   580,000  
+
+Condition 2:  372,000  
+
+Condition 3:  472,000  
+
+Condition 5:  532,000  
+
+RPMI control:   500,000  
+
+Serum control:  968,000  
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was:  
+all uL (Condition 1)  
+
+all uL (Condition 2)  
+
+all uL (Condition 3)  
+
+all uL (Condition 5)  
+
+all uL (RPMI control)
+
+310 uL (Serum control) - 250,000 cells per T75  
+
+12\. Transferred   required volume of cell suspension to the pre-warmed   12
+mL Growth Media aliquots.
+
+13\. Transfer cell suspension into (non-gelatin coated)  T75 flasks.
+
+14\. Transfer flask/plate(s) to incubate at:  18:30  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8371: https://mia-capture.vow.tools/#/session/recULEovTLyNtetMh/images
+
+8372: https://mia-capture.vow.tools/#/session/recX43Gr4boJVRTkq/images
+
+8373:https://mia-capture.vow.tools/#/session/recIc3KcjIb0Fh4iS/images
+
+8374: https://mia-capture.vow.tools/#/session/recXURyuoZpDflrZa/images
+
+8375:https://mia-capture.vow.tools/#/session/recfeB20FmOxTaBpN/images
+
+8376:https://mia-capture.vow.tools/#/session/recpbYy4lncafBzeO/images
+
+

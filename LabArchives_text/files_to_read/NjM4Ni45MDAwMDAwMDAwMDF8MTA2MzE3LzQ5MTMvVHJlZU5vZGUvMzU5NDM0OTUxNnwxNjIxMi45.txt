@@ -1,0 +1,166 @@
+Background:
+
+
+Comparing the nutritional profiles of various cell types has significant
+implications for the composition of cultured meat products. Specifically at
+Vow, the comparison of fibroblast, myoblast and muscle cell nutritional
+profiles allows compositional decisions to be made for long term products.
+Moreover, a nutritional characterization of our cell types can be used to
+elucidate signature bio-molecules specific to cell type. By identifying these
+signature bio-molecules, we can begin to understand the biological basis for
+the taste, mouthfeel, texture and colour of muscle. Naturally, this
+understanding will also inform decisions about the composition of Vow's
+product lineup in several years.
+
+A particularly important makeup of a nutritional profile is the total protein
+content offered. Each cell type likely contains protein to varying degrees
+however the total protein content specific to each cell type has not yet been
+established at Vow. In-house protein kits were identified as a useful and
+precise tool to address this technical gap, namely the widely used Bradford
+and BCA assays which hinge on a colourmetric change based on the amount of
+total protein in a sample. These assays have proven to be accurate and easy to
+use in biological analysis techniques such as Western Blotting [1]. While
+their use to measure total protein content may not be as robust as popular
+measurement techniques for food such as the Kjedahl method and NMR, they are
+likely to provide a preliminary estimate. This preliminary data can then be
+validated and re-assessed using the aforementioned methods closer to the
+launch of our products.
+
+With both the Bradford and BCA assays, it remains unclear which method can be
+used to obtain reliable protein values from our cell types. The ideal assay
+would be easy-to-use, cost-effective, sensitive and able to account for total
+protein accurately with minimal variability between replicates. Based on these
+attributes, both assays form ideal candidates for a reliable protein assay
+that can be used routinely at Vow. Hence, an assessment of the two assays is
+warranted to inform the decision on which protein assay will be used routinely
+at Vow. Perhaps the most important attribute is the minimal variability
+between replicates in both assays. Hence, this will be the primary factor to
+inform a final decision.  
+  
+This experiment aimed to conduct an assessment of both the Bradford and BCA
+assay and also characterise the protein content for the DOLLY12 fibroblast,
+myoblast and muscle cell types.
+
+
+Summary of events:
+
+
+  * DOLLY12 Fibroblast and myoblast cultures were seeded.
+  * Fibroblast cultures were then passaged into a well plate format and grown to confluency
+  * Fibroblasts were treated with TGF-b and Vit-C and then lysed the following day.
+  * Lysates were analysed using the Bradford and BCA assay (same day).
+  * Myoblasts were differentiated in E6 for 15 days, however were not analysed due to cell stress/senescent-like morphology.
+  * Another MCB-derived myoblast culture was seeded which also gave rise to similar morphology.
+
+
+Key results and findings:
+  
+  
+Figure 1: Plot of average protein values obtained from every fibroblast
+culture (each well) in a 24 well plate using the Bradford and BCA assay.
+
+Table 1: T-test of protein values obtained from the Bradford and BCA assays of
+fibroblasts in a 24 well plate (data from Figure 1).  
+  
+  
+
+
+Discussion and limitations:
+
+
+Figure 1 depicts the variability of both the Bradford and BCA assays. Both
+assays were performed using the same protein solutions obtained from cell
+lysis of the plate and hence each Bradford and BCA derived protein value was
+derived from the same samples. From this plot, it is apparent that the
+Bradford assay displays a greater spread between replicates when compared to
+the BCA assay. This is further evidenced by the comparison of the standard
+deviations between the assays (BCA - SD:5 ug, Bradford - SD:9 ug).  
+  
+Interestingly, while the BCA assay is more inclusive of various proteins (thus
+being more representative of total protein), it appears to display lower
+average protein values across all 24 replicate wells in comparison to the
+Bradford assay. This is higlighted by the mean of the Bradford derived protein
+values (53 ug) when compared with BCA derived values (40 ug). While this could
+suggest that the BCA assay in fact, is not able to capture the same amount of
+protein that the Bradford assay does (specifically for our cells), it could
+also point to potential false positives/overestimation depicted by the
+Bradford assay.
+
+While both assays use active reagents of different natures and binding
+mechanisms - it was anticipated that each assay would produce similar protein
+values. However, as evidenced by Table 1 - the assays produce statistically
+significant protein values from one another. Currently, one PBS wash is
+performed prior to the addition of Hoescht/PBS to remove the serum. This wash
+step is important to prevent non-specific binding of the binding reagent with
+the amino acid profile found in DMEM/F12. Noteably, the Bradford assay is
+especially sensitive to Lysine, Arginine and Histidine [2] all of which are
+found in DMEM/F12. Considering the basal medium for E6 is DMEM/F12, perhaps
+more than one (or two including Hoescht/PBS incubation step) is warranted to
+remove all traces of amino acids and other reagents. It is possible that
+insufficient (and possibly inconsistent) washes may be responsible for the
+larger variation observed in the fibroblast lysates quantified with the
+Bradford assay. The BCA assay while also sensitive to the amino acids present
+in DMEM/F12, is sensitive to a wider range of proteins rather than specific
+amino acids (Lysine , Arginine and Histidine) as the Bradford assay is. Hence,
+the effect of inconsistent washes giving rise to varying amounts of residual
+DMEM/F12 in each well may be lessened with when analysing with the BCA assay
+(although some variation is to be expected as evidenced in Figure 1).
+
+Moreover, while a clear increase in variation between replicates is observed
+with the Bradford assay - the BCA assay also features some variation. It is
+important to note that the data generated features no normalisation to cell
+density per well. The fibroblast cultures were expanded in growth media and
+hence may give rise to variations in cell density despite each well being
+seeded with even amounts. This would be largely due to variations in relative
+doublings times and growth rates between wells. However, the assumption made
+in the data presented in Figure 1, is that all cultures are comparable and
+have the same density - which is likely not the case. Moreover, some
+peeling/sheet formation is observed in all fibroblast cultures to varying
+degrees. This also has not been factored into the final protein values. The
+Hoescht staining and imaging of each well allows the images to be run through
+ImageJ macro analysis, thus providing a means of accounting for cell (and
+consequently protein) differences between wells. Currently, no Zaber
+compatible ImageJ macro is available for 24 well plates and thus the
+normalisation of protein to cell density has not been done for this data.
+Future image analysis work will allow the development of well plate macros,
+allowing for normalisation when doing protein assays in the future. It is
+anticipated that the variation for both the BCA and Bradford assays may be
+lessened by normalisation to cell counts from each well.
+
+A comparison between DOLLY12 fibroblasts and myoblasts was unable to take
+place. This is largely due to ongoing bouts of cell death and senescence in
+both WCB and MCB derived myoblast cultures during differentation. This issue
+is extremely important and is being investigated external to this experiment.
+Hence, the discussion of the senescence-like morphology of the myoblast
+cultures is beyond the scope of this experiment and will be discussed under
+the "Cell Loss Investigation" EPIC.
+
+Despite, the preliminary comparison depicted in this experiment - it is not
+sufficient to make a conclusive decision regarding the routine use of one
+protein assay over the other. While the BCA assay appears to provide less
+variability in it's protein estimation, this comparison must be repeated and
+monitored to see if the same results are reproduced.
+
+
+Future directions:
+
+
+  * This experiment will be repeated and monitored to see if similar results are obtained. One approach is to obtain lysates from cell suspensions rather than cells seeded and grown in a well plate format. While a means to normalise protein values against cell density is being developed (e.g. a 24wp DAPI macro) - this approach will allow protein values to be normalised against cell count numbers.
+  * As mentioned above, a robust means to normalise protein values to relative cell density in each replicate will be developed.
+  * Quality control measures such as increasing the number of PBS washes (post-E6 removal) will be implemented and the effect on variability for each assay will be monitored.
+  * The comparison of the total protein obtained from each cell type is being investigated on a larger scale to this experiment. Hence, this aspect of this experiment will not be repeated on this scale and rather is being translated to this EPIC.
+
+
+References:
+
+
+[1] Noble, J. E., Knight, A. E., Reason, A. J., Di Matola, A., & Bailey, M. J.
+A. (2007). A comparison of protein quantitation assays for biopharmaceutical
+applications. Molecular biotechnology, 37(2), 99-111.
+
+[2] Lu, T. S., Yiao, S. Y., Lim, K., Jensen, R. V., & Hsiao, L. L. (2010).
+Interpretation of biological and mechanical variations between the Lowry
+versus Bradford method for protein quantification. North American journal of
+medical sciences, 2(7), 325-328\. https://doi.org/10.4297/najms.2010.2325
+
+

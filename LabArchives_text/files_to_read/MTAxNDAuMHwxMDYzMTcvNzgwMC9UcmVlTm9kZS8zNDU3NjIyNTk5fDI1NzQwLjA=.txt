@@ -1,0 +1,132 @@
+Performed by: LL
+Flask IDFlask location  
+11624-Nuvonis Quail Suspension341-P-1of12  
+Main lab, incubator 141  
+  
+116245-Nuvonis Quail Suspension341-P-2of12  
+  
+11626-Nuvonis Quail Suspension341-P-3of12  
+  
+11627-Nuvonis Quail Suspension341-P-4of12  
+  
+11628-Nuvonis Quail Suspension341-P-5of12  
+  
+11629-Nuvonis Quail Suspension341-P-6of12  
+  
+11630-Nuvonis Quail Suspension341-P-7of12  
+  
+11631-Nuvonis Quail Suspension341-P-8of12  
+  
+11632-Nuvonis Quail Suspension341-P-9of12  
+  
+11633-Nuvonis Quail Suspension341-P-10of12  
+  
+11634-Nuvonis Quail Suspension341-P-11of12  
+  
+11635-Nuvonis Quail Suspension341-P-12of12  
+  
+11844-Nuvonis Quail Suspension341-P-1of4  
+  
+11845-Nuvonis Quail Suspension341-P-2of4  
+  
+11846-Nuvonis Quail Suspension341-P-3of4  
+  
+11847-Nuvonis Quail Suspension341-P-4of4  
+
+
+  
+  
+  1. Removed flasks from incubator 
+  2. Took 2 x 50 uL samples from each flask 
+  3. Performed cell counts and averaged for each flask and each condition (recorded in table below)
+  4. Aliquoted 40 mL of media with growth factors and warmed in water bath. 
+  5. Removed 1M cells from cultures 11624 - 11635 and 2M cells from cultures 11844 - 11847 and transferred to 16 x 50 mL tubes
+  6. Centrifuged at 500 x g for 5 min
+  7. While centrifuging tubes, washed E-flasks with sterile dPBS to remove cell debris from walls
+  8. Aspirated supernatant from all tubes
+  9. Added 20 mL of warmed, respective media to each tube, strained culture using a 40 or 70 um cell strainer (marked on culture which was used - one of each per condition), and transferred back into E-flasks
+  10. Returned cultures to incubate at 37'C, 5% CO2, 120 RPM
+
+
+Flask IDAve flask count  
+Ave condition count  
+Formulation  
+11630-Nuvonis Quail Suspension341-P-7of12  
+14,120,000  
+14,840,000  
+M1: 75/25 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+  
+11631-Nuvonis Quail Suspension341-P-8of12  
+15,560,000  
+  
+11632-Nuvonis Quail Suspension341-P-9of12  
+960,000  
+1,440,000  
+M2: 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+  
+11633-Nuvonis Quail Suspension341-P-10of12  
+1,920,000  
+  
+11634-Nuvonis Quail Suspension341-P-11of12  
+6,360,000  
+4,900,000  
+M3: 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride \+ 1 g/L
+poloxamer-188 + IGF & EGF \+ FGF  
+  
+11635-Nuvonis Quail Suspension341-P-12of12  
+3,440,000  
+  
+11624-Nuvonis Quail Suspension341-P-1of12  
+25,840,000  
+28,720,000  
+C1: 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+  
+11625-Nuvonis Quail Suspension341-P-2of12  
+31,600,000  
+  
+11626-Nuvonis Quail Suspension341-P-3of12  
+6,200,000  
+3,680,000  
+C2: 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+  
+11627-Nuvonis Quail Suspension341-P-4of12  
+1,160,000  
+  
+11628-Nuvonis Quail Suspension341-P-5of12  
+32,730,000  
+36,105,000  
+C3: Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+11629-Nuvonis Quail Suspension341-P-6of12  
+39,480,000  
+  
+11844-Nuvonis Quail Suspension341-P-1of4  
+4,080,000  
+4,080,000  
+M4: RPMI + 3 mg/mL yeast + 0.04 mg/mL L-Ornithine monohydrochloride + 0.06
+mg/mL Putrescine dihydrochloride + Glucose + Lipids + Ammonium Iron (III)
+Citrate + Sodium selenite + 1 g/L poloxamer-188 + IGF + EGF + FGF  
+Note: currently this flask is 50/50 M3 and M4  
+  
+11845-Nuvonis Quail Suspension341-P-2of4  
+4,080,000  
+  
+11846-Nuvonis Quail Suspension341-P-3of4  
+10,320,000  
+9,180,000C4: RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+11847-Nuvonis Quail Suspension341-P-4of4  
+8,040,000  
+
+

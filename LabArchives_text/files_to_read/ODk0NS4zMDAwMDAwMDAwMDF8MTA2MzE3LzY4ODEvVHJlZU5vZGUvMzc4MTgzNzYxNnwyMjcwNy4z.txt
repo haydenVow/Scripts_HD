@@ -1,0 +1,644 @@
+
+
+Performed by: VP/AK
+
+
+
+
+## Materials
+
+
+NameDetails (reagent ID)  
+1M Sodium bicarbonate solution  
+M10565  
+  
+IGF  
+M10586  
+  
+EGF  
+M10584  
+  
+Growth Media  
+M10509; M10152  
+  
+Mobius Single-use 3L unit  
+LOT#: T21J62866  
+  
+  
+  
+
+
+
+
+## Procedure
+
+
+
+
+Checked hardware power, network connection and software access
+
+  1. Turned on the control tower by pressing the yellow button on the bottom right.
+  2. Switched the control device (e.g. tablet or computer) WIFI network to "Vowse"
+  3. Navigated to https://192.168.0.250/ from a web browser window
+  4. Logged into the Biostat web app using the details in the operating manual (see reference).
+    1. Username: "admin" (all lower case)
+    2. Password: "709aA0"
+
+ReferenceOperating manual page(s) 45  
+Operator initialsVP  
+  
+Checked by operator initialsAK  
+  
+Timestamp12:04 22/2/22  
+  
+Procedure variations and other notesN/A  
+  
+  
+  
+
+
+
+
+Calibrated the pH probe
+
+  1. Gathered 2 reference buffers (preferably pH 7 and pH 10, pH 4 can also be used) in small beakers (ideally a 50 mL falcon tube with 5 mL of reference buffer), a wash bottle, and a spare wash beaker.
+  2. Connected the pH probe up to the control tower.
+  3. Ran the pH calibration program. 
+    1. Navigate to the web browser window from the previous step
+    2. Select pH from the list of options in the centre of the screen
+    3. Click on calibration
+    4. Click measure and follow the instructions
+      1. Washed the probe tip thoroughly with deionized water (MilliQ) and wiped with a lint-free wipe before placing it in the reference buffers.
+      2. Followed the instructions in the calibration program
+      3. Washed the probe tip thoroughly with deionized water and wiped with a lint-free wipe
+  4. After calibration, seal the probe in an autoclave bad ready for sterilization. *Place the probe end such that it sits with that end facing the opening part of the autoclave bag  
+  
+
+ReferenceOperating manual page(s) 43, 67  
+Operator initialsVP  
+  
+Checked by operator initialsCB  
+  
+Timestamp  
+12:26  
+  
+Procedure variations and other notes  
+N/A  
+  
+  
+  
+
+
+
+
+Ensured that the dissolved oxygen probe was working
+
+  1. Washed the probe tip thoroughly with deionized water and wiped with a lint-free wipe
+  2. Screwed the DO probe into one of the free ports using fingers (not tools).
+  3. Connected the dissolved oxygen probe to the control tower
+  4. Waited for a signal (the probe should initially begin at 0% and rise to between 7-15% once submerged in MilliQ) *These results may vary
+  5. Once signal is confirmed, disconnect the dissolved oxygen probe and seal it in an autoclave bag ready for sterilization *Place the probe end such that it sits with that end facing the opening part of the autoclave bag
+
+ReferenceOperating manual page(s) 67  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp  
+17:00 22/2/22  
+  
+Procedure variations and other notes  
+\- put 1L MilliQ water in Biostat A glass vessel  
+\- placed dO2 probe in vessel. Wiped down before use with dH20. Connected to
+O2 line  
+\- attached silicon tubing to controller and vessel. Turned on air at
+regulator  
+\- dO2 probe read 0%  
+\- removed probe and changed membrane cap to new membrane (kept in probe
+storage box  
+\- removed electrolyte from old probe cap and placed in new cap  
+\- dO2 probe read ~300% in ambient air  
+\- placed probe back in vessel and reconnected  
+\- sparged water with max and turned stirrer on  
+\- calibrated this to 100% slope calibration  
+\- removed probe, rinsed, placed for autoclaving in bag  
+\- removed tubing and turned controller off. Emptied water from vessel  
+  
+  
+  
+
+
+
+
+Prepared the liquid addition, waste and harvest bottles
+
+  1. Prepared clean bottles:
+    * Feed (suggested 2000 mL)
+    * Seed (suggested 250 mL)
+    * Base (suggested x2 250 mL bottles)
+    * Filled with 1 mol/L solution of sodium bicarbonate
+      * 16.8014g in 200mL MilliQ water
+    * Harvest (suggested 2000 mL)
+  2. Attached the pressure equalization lids to each bottle.
+  3. Used cable ties and a tension gun to secure the pressure equalization filters.
+  4. Covered the filters with aluminium foil.
+  5. Put pieces of tubing on the top of the dip tube connector on each bottle.
+  6. Attached male STT connectors to the free end of each piece of tubing.
+  7. Used cable ties and a tension gun to secure the tubing.
+  8. Clamped the tubing shut close to the lid end ONLY if the bottles contained liquid.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsVP  
+  
+Checked by operator initialsTT  
+  
+Timestamp14:37  
+  
+Procedure variations and other notesN/A  
+  
+  
+  
+
+
+
+
+Performed a final check
+
+  1. Ensured that cable ties are screwed to each of the tubing ends connected to the bottle and the filter units.
+  2. Ensured that the silicone tubes attached to the base bottle is clamped.
+  3. Prepare antifoam concentrate for autoclaving, if required.
+
+ReferenceN/A  
+  
+Operator initialsVP  
+  
+Checked by operator initialsTT  
+  
+Timestamp  
+14:38  
+  
+Procedure variations and other notes  
+No anti-foam prepared/autoclaved  
+  
+  
+  
+
+
+
+
+Autoclaved the equipment
+
+  1. Transported the probes and bottles to the autoclave using a trolley.
+  2. Placed the autoclave liquid temperature probe in a bottle containing 500 mL of room-temperature tap water, then placed the bottle and probe on the bottom level in the autoclave
+  3. Placed the vessel and bottles into the autoclave chamber.
+  4. Set the autoclave to the liquid sterilization cycle (to prevent rapid cooling that may cause lines to pop off).
+  5. Set the autoclave to use the liquid temperature probe
+  6. Ran the sterilization cycle.
+
+ReferenceN/A  
+  
+Operator initialsVP  
+  
+Checked by operator initialsAK/SL  
+  
+Timestamp  
+17:15 22/2/22  
+  
+Procedure variations and other notes  
+N/A  
+  
+  
+  
+
+
+
+
+Prepared growth medium
+
+  1. Gathered materials to make 2 L of growth medium.
+    1. Freestyle 293 expression medium + L-Ornithine monohydrochloride, 20 mg/L \+ Putrescine dihydrochloride, 20 mg/L + IGF-1 LONG R3, 50 μg/L + EGF, 10 μg/L + Anti-clumping agent, 1:100 \+ 50 ppm (100 uL) of 20% antifoam C emulsion
+  2. Sterile-filtered the growth medium ingredients into 2 x 1 L bottles and 2 x 0.5 L bottles and stored in fridge
+
+  
+
+Referencehttps://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/156/018/a8011pis.pdf  
+https://www.dow.com/content/dam/dcc/documents/en-us/mark-prod-
+info/26/26-2038-01-choosing-correct-antifoam-concentration.pdf?iframe=true  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp11:55  
+  
+Procedure variations and other notes\- prepared growth factors  
+\- added growth factors to 2L media  
+\- sterile filtered  
+  
+  
+  
+
+
+
+
+Calibrated the peristaltic pumps
+
+  1. Gathered 100 mL of water in a beaker, a 100 mL measuring cylinder and an arms-length piece of 6 mm (1/4 inch) silicone tubing
+  2. Ran the calibration program:
+    1. Followed the instructions in the calibration program
+      1.  The arrows below each pump on the biostat A indicate the flow of liquid once the tubes are connected. 
+      2.  First prime the line ensuring that the complete line is filled with liquid
+      3.  Switch the pump (i.e., SUBS-A to automatic and pump out an arbitrary volume of water i.e., 30 mL, into the measuring cylinder)
+      4.  The sartorius control tower will measure the time it takes for the liquid to be pumped and after calibration indicate the volume pumped, which will be used to determine the flow rate. 
+    2. For pump SUBS-A and SUBS-B, set Mode: OFF in the first menu and Mode: Automatic in the second menu
+
+ReferenceOperating manual page(s) 43  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp  
+12:00  
+  
+Procedure variations and other notes  
+Did not calibrate Level-T pump as it was not required  
+  
+  
+  
+
+
+
+
+Moved the sterile bioreactor vessel and bottles from the autoclave to near a
+BSC (all connections are required to made in a BSC for sterility)
+
+  1. Removed outer bag
+  2. Sprayed down and put into a BSC
+  3. Removed inner bag
+  4. Connector lines:
+    * Harvest line at the bottom (big line with a clamp)
+    * Seed line - at the top, connected to thicker tube for the cells
+    * Media line - hooked up to a large line with a clamp
+    * Insert the probes (pH and dissolved oxygen probes) into the vessel. Remove the rubber plug on the top of the bioreactor to insert the probes.
+  5. Waited for the autoclaving chamber to cool to 60-70'C
+  6. Opened the chamber and checked connections to make sure that all vessels remained sealed. In the event that any tubing popped off, rinsed the connections with 70% ethanol and reconnected, and autoclave again; or, re-autoclaved the entire assembly.
+  7. Placed the vessel and bottles on a trolley and moved the trolley next to a BSC.
+
+ReferenceOperating manual page(s) 70  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp12:16 23/2/22  
+  
+Notes\- Seed: at the top, small diameter line turns into a larger line,
+single-direction feed  
+\- Media: at the bottom, suspicious leaking port (zip tied), has clamp fitted
+to line, not-single direction line  
+\- bicarb: above the sample port, single-direction feed  
+\- cable tied the port at the front of the vessel which has known leakage
+problems (see attached photo)  
+  
+  
+  
+
+
+
+
+Added the culture medium
+
+  1. Place the vessel on mat on bench. Orient so that the sample valve is at the front (for routine sampling/cell counting)
+  2. Clamped the harvest bottle line and unclamped the media bottle line.
+  3. Place the tubing connecting the feed media bottle and the bioreactor into the SUBS-A pump slot. 
+  4. Ensure that the tubing is the correct way round as the pumps turn only in one direction.
+  5. Pumped in ~2000 mL of fresh growth medium
+
+ReferenceN/A  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp12:51  
+  
+NotesNote the media line still drips with cable tie in place.  
+  
+  
+  
+
+
+
+
+Mounted the stirrer motor
+
+  1. Loosened the screw on the side of the motor sleeve.
+  2. Fit the adapter into the head of the Mobius 3L bioreactor and slot into position
+  3. Attach the second part of the adaptor the prevent it from moving
+  4. Pushed the motor sleeve down firmly onto the shaft coupling on the head-plate until it could not be pushed down any further.
+  5. Tightened the screw on the side of the motor sleeve until finger tight.
+
+ReferenceOperating manual page(s) 71, 55  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:00  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Set the impeller speed set point  
+
+  1. Opened the STIRR menu
+  2. Set the impeller speed SETPOINT to 180 RPM as this was equivalent to a safe tip speed of 0.7 m/s
+    1. Use the bioprocess calculator to convert between RPM and tip speed
+  3. Set the MODE to AUTOMATIC
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:01  
+  
+NotesSet to 70 RPM  
+  
+  
+  
+
+
+
+
+Fitted and connected the heating blanket
+
+  1. Fitted the heating blanket around the lower portion of the glass vessel (tough side touching the glass and soft spongy side facing out).
+    1. Heating blanket is orange. Smooth side to the glass, foam side facing out. Try not to cover the volume measurements on the side of the glass. Don't cover sample port with blanket
+  2. Ensured that the heating blanket was connected to the control tower.
+
+ReferenceOperating manual page(s) 70, 72  
+Operator initialsVP  
+  
+Checked by operator initialsAK  
+  
+Timestamp13:10  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Fitted and connected the exhaust heater
+
+  1. Stretched the flaps of the heater over the exhaust filter (so that the filter is "sandwiched" between the tough flaps).
+  2. Ensured that the heater was connected to the control tower.
+
+ReferenceOperating manual page(s) 70, 29  
+  
+Operator initialsVP  
+  
+Checked by operator initialsAK  
+  
+Timestamp13:13  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Connected the pH probe
+
+  1. Attached the pH probe cable to the pH probe head
+
+ReferenceOperating manual page(s) 70, 29  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:14  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Connected the dissolved oxygen probe
+
+  1. Attached the dissolved oxygen probe cable to the dissolved oxygen probe head
+
+ReferenceOperating manual page(s) 70, 29  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:14  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Connected the gas line
+
+  1. Connected the gas line to the sparger inlet filter.
+  2. Ensured all 4 gas outlets merged into the gas line.
+  3. Unclamped the line after it was connected.
+
+ReferenceOperating manual page(s) 70, 74  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:25  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Turned on the gas supply to the control tower
+
+  1. Pulled the regulator cap up until it "pops" and a yellow ring shows.
+  2. Turned the cap in the direction indicated to increase the output pressure to 1 Bar (100 kPa or 15 PSI).
+  3. Pushed the regulator cap back down to lock it in place.
+  4. Repeated for each gas type.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:28  
+  
+NotesCould only turn on "air" as the other lines were not connected to a
+supply  
+  
+  
+  
+
+
+
+
+Set the air flow rate and oxygen set point
+
+  1. Ensured that the air inlet line was unclamped.
+  2. Set the oxygen control strategy to minimize foaming:
+    1. Opened "pO2" menu.
+    2. Set each "N2", "O2" parameters to "0" for all 5 "OUT" levels (0 - 100%)
+    3. Set "STIRR" to "90 RPM" for all 5 "OUT" levels
+    4. Set "Air" to "0" for 0% "OUT" level, and "20 ccm" for all other "OUT" levels
+    5. Set "pO2" set point to 80%
+    6. Set the MODE to AUTOMATIC
+    7. Closed the menu
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:31  
+  
+NotesRe-calibrated the dO2 probe in media. Slope calibration single point to
+set 100%.  
+  
+  
+  
+
+
+
+
+Set the temperature set point
+
+  1. Opened the TEMP menu
+  2. Set the temperature to 37 °C.
+  3. Ensured that the heating blanket was installed correctly and the pH probe was submerged in culture medium.
+  4. Set the MODE to AUTOMATIC
+  5. Closed the menu
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:15  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Set the pH set point
+
+  1. Opened the pH menu
+  2. Set the pH to 7.5
+  3. Set the MODE to AUTOMATIC
+  4. Closed the menu
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:15  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Set the exhaust heater
+
+  1. Opened the EXHST menu
+  2. Set Setpoint to 50%
+  3. Set MODE to AUTOMATIC
+  4. Closed the menu
+
+ReferenceN/A  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:33  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Set BASET pump control
+
+  1. Open the BASET menu
+  2. Set MODE to AUTOMATIC
+  3. Close the menu
+
+ReferenceN/A  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:32  
+  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Set all other accessories MODE to OFF
+
+  1. Open the menu
+  2. Set MODE to OFF
+  3. Close the menu
+
+ReferenceN/A  
+  
+Operator initialsAK  
+  
+Checked by operator initialsVP  
+  
+Timestamp13:36  
+  
+NotesN/A  
+  
+  
+  
+
+

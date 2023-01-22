@@ -1,0 +1,70 @@
+
+
+
+
+
+Process
+
+  1. Prepare OT2 for mixing protocol
+    1. Add `14mL` of `"DMEM/F12"` to wells 1 and 2 of a 12 well reservoir.
+    2. Add `1.2mL`of 50x E6 bullet to A3 of the stock plate.
+      1. 120 uL of 500x E6 bullet + 1.080 mL of "DMEM/F12"
+  2. Immediately prior to running the OT2 mixing protocol, use a multichannel pipette to thoroughly mix the working stocks by pipetting the solutions up and down 5-10 times within their respective wells.  DO NOT MIX THE WORKING STOCKS WITH EACH OTHER!
+  3. Run the following OT2 mixing protocol to make DSD conditions (attached).
+    1. start run: 4:23:30 PM
+    2. run time: 03:07:27
+  4.  ~~While the OT2 mixing protocol is running, prepare controls and warm in waterbath at 37 degrees:~~
+    1.  ~~4 mL DMEM/F12 + 2% HS + 1x P/S~~
+    2.  ~~4 mL E6 (x0.2 P/S) made from fresh~~
+    3.  ~~4 mL E6 (x0.2 P/S) made from bullet~~
+  5.  ~~Once the OT2 mixing protocol is completed, add`1.266mL`of each control to the stock plate in the following arrangement:~~
+    *  ~~2% HS control in wells H11 and C12~~
+    *  ~~fresh E6 control in wells A12 and D12~~
+    *  ~~E6 bullet control in wells B12 and ~~~~~~E12~~~~
+  6. Cover the stock plate with adhesive sealing mat, wrap with foil, and store in the fridge (4° C).
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+E6 from freshn/a  
+E6 from bulletn/a  
+E6 bulletm4575  
+DMEM/F12 + 2% HS + 0.2x P/Sn/a  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+ran media mixing protocol on OT2
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

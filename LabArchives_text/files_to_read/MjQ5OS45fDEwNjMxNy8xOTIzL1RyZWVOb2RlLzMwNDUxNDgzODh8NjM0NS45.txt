@@ -1,0 +1,108 @@
+
+
+  
+
+Operator: Shaleen Sharma
+
+Aim: To replicate/validate the equilibration time for pH and DO values in the
+bioreactor vessel.
+
+Preparation:
+
+  1. Spare growth media from Production was used. This included 750mL of Phenol-red containing Growth Media (10% FBS) and 750mL of PRF Growth Media (20% FBS). It was decided that in order to mimic our growth conditions as much as possible, 750mL of media containing 20% FBS would be used first and then topped up with 10% FBS containing media until desired volume for probe submersion was achieved.
+  2. 750mL of each media type was used to make up the 1.5L of media inside Wash-E.
+  3. All 1.5L of media was used to make total working volume of 1.5L inside Wash-E
+  4. Lid of Wash-E was closed and all probes attached.
+  5. Medium was allowed to come to 37.4 degrees temperature.
+
+Test parameters:
+
+  1. Flow of gas
+
+Temperature
+
+pH
+
+Dissolved Oxygen (DO)
+
+Time
+
+Ratio of CO2/Air sparged  
+  
+037.5  
+N/A  
+N/AN/A  
+20/80  
+37.56.8  
+1.63 +- 0.01V15:15  
+20/80  
+  
+20/80  
+37.5  
+7.1  
+1.84+- 0.01V  
+16:15  
+20/80  
+  
+20/80  
+37.5  
+7.2  
+1.88+- 0.01V  
+17:04  
+20/80  
+  
+20/80  
+37.5  
+7.3  
+1.90+-0.01V  
+17:46  
+20/80  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Learnings:
+
+Upon presenting data at science showcase, Tom pointed out that the relative
+value of the rotameter for both gases DOES NOT correspond to the ratio of
+respective gas molecules being sparged into the culture medium. Hence,
+previous work is not characterising the intended ratios but rather unknown
+ratios which will have to be calculated.
+
+  
+
+Notes:
+
+Media IDs: A5266 (10% FBS) A4699 (20% FBS PRF)
+
+Penstrep aliquots:A4905 A4906
+
+Observations: See above  
+
+

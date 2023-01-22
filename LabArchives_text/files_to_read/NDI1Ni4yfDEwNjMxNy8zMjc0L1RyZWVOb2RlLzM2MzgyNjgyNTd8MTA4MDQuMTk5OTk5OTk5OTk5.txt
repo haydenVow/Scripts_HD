@@ -1,0 +1,168 @@
+
+
+## Performed by: Jared Bergman  
+
+
+
+
+Culture IDs to stain
+
+Vessel type(s)Vessel ID  
+12 well plate  
+7450-DOLLY12-Sheep P10-1of2  
+  
+  
+  
+
+
+
+
+## Protocol
+
+Prepare CMFDA
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker (used
+due to not being able to locate Calcein)
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+2\. Briefly centrifuge the tube to pellet the CMFDA powder
+
+3\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a
+70 mL pot submerged in silica-gel desiccant beads for a short period for one
+series of experiments.
+
+4\. Prepare enough volume of solution to cover your samples using 2ul per ml
+(12 mL) of the 1mM CMFDA stock solution to pre-warmed DMEM/F12 PRF growth
+media in a light safe tube to protect it from light. Vortex the solution to
+ensure thorough mixing. The resulting solution is approximately 2 uM CMFDA
+working solution.  
+  
+NOTE - if keeping the cells in culture after staining (i.e. only staining with
+CMFDA not propidium iodide, then sterile filter the media mix to ensure
+sterility)
+
+NOTE - only use the working solution once (do not store) so only make up as
+much as you need
+
+5\. Place the CMFDA-media mix in the water bath at 37'C for a minimum of 10
+minutes (14:15 - 14:45)
+
+
+
+Stain the samples
+
+5\. Remove media from your sample of interest and then add 1 mL per well (or
+enough to cover the sample) of the pre-warmed DMEM/F12 PRF growth media to the
+sample.  
+  
+ NOTE - If the media on your sample previously contained serum you can wash
+gently with serum free media or PBS before the addition of the CMFDA - as
+serum can interfere with the staining)
+
+6\. Cover your plate in foil and place in the incubator at 37'C for 30 min.
+(14:45 - 15:15)
+
+7\. After 30 min you add 5ul per ml (60 uL total for 12 mL) of your Propidium
+Iodide stain directly into the media (already containing the CMFDA) and leave
+to incubate on the bench at room temp for 5 minutes.  
+
+Note - Propidium Iodide is pre-prepared as a frozen aliquot in main lab
+freezer (concentration is 0.2 mg/mL, it was originally 1 mg/mL but has since
+been diluted 201 uL in 799 uL of dPBS) RETURN TO FREEZER IMMEDIATELY AFTER
+USE.
+
+8\. Image your samples on the Axio (channel AF488 for CMFDA [Live cells] and
+AF 555 for propidium iodide [Dead cells]). Green cells indicate living cells,
+red cells indicate dead cells. Do not move samples in between imaging on each
+channel (in case you want to overlay these images later). Take 3 images per
+channel of the same sample in different locations, all on the same
+magnification.
+
+Note  \- You can either remove the dye and keep the cells in pre-warmed media
+for imaging, or leave samples in the dye-media mix (if you are imaging
+quickly, as propidium iodide will have a negative effect on cell survival
+overtime).
+
+
+
+Analysis
+
+For each image taken in each location count how many cells were stained green
+(channel AF488, alive) and how many were stained red (channel AF555, dead).
+From this you can calculate percent survival/viability.
+
+Add together the live and dead cell count to obtain a total cell count. Then
+divide the live cell count by the total cell count to calculate the percentage
+viability/survival.
+
+Number of live cells + number of dead cells = Total cells
+
+(Number of live cells/total cells) X 100 = % viability  
+  
+  
+ Optional:
+
+It may be easier for calculating percent survival to have your images
+overlaid. Once you have your paired images from each channel you can colourise
+your images on Image J. Colourise channel AF488 as green for CMFDA [Live
+cells] and channel AF 555 as red for propidium iodide [Dead cells]). Then
+overlay your images to get an image which resembles the following:  
+
+
+
+
+### Observations/Summary:
+
+The CMFDA clearly lights up cells in all wells. The PI stain is harder to see
+but still is visible in all wells. Cells which demonstrate morphology
+indicating living or dead cells under phase microscopy are primarily clearly
+stained by CMFDA or PI stain respectively. However, the PI stain under the
+zaber microscope stained all the same cells as the CMFDA, and did not only
+stain the nucleus, which was unexpected. It is likely the zaber scanning
+protocol requires more investigation and development to ensure this stain is
+imaged correctly.
+
+No clear difference between the conditions can be seen using microscopy at
+this stage.  
+  
+The PI stain should be removed from the media after 5 mins, so a pbs wash and
+replacement media should follow PI staining in the next staining protocol.
+
+
+
+
+Reagents used:
+
+NameDetailsVolume used (mL)  
+CMFDAS912  
+24 ug  
+  
+PI  
+M6317  
+60 uL  
+DMSO  
+A3931  
+24 uL  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7450
+
+https://mia-capture.vow.tools/#/session/recllAC9PA8Ex6XlD/images
+
+

@@ -1,0 +1,61 @@
+
+
+## Performed by: LL TT BT
+
+
+
+
+### Process
+
+  1. Took 2 x 1000 uL sample from cultures 7694 & 7673 during 100% feeds
+  2. Split each 1000 uL sample into 2 x 500 uL sample, for a total of 8 x 500 uL samples and labelled as such:
+    1. 7694, dead, NW (no wash)
+    2. 7694, live, NW (no wash)
+    3. 7694, dead, W (wash)
+    4. 7694, live, W (wash)
+    5. 7673, dead, NW (no wash)
+    6. 7673, live, NW (no wash)
+    7. 7673, dead, W (wash)
+    8. 7673, live, W (wash)
+  3. Removed 50 uL from each live sample for regular stain and count - each live sample now contains 450 uL
+  4. Placed 4 x 500 uL samples (2 from each culture) into the drying oven at 50'C for 15 - 30 minutes to kill cells (negative controls) 16:19 - 16:45
+  5. Prepared CMFDA working solution (protocol adapted from this lab book entry)
+    1. Removed the CMFDA powder from the freezer (main lab) and allowed it to warm to room temperature. Each aliquot is 50 ug.
+    2. Briefly centrifuged the tube to pellet the CMFDA powder
+    3. Added 50 uL DMSO to the powder and pipette up and down until well suspended. This will yield a 1 mM stock solution.
+      * NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+    4. Transfer 4 uL of the 1 mM CMFDA stock solution to 2 mL of prepared dPBS in a light safe 15 mL falcon tube to protect it from light. Vortex to ensure thorough mixing with the resulting solution being approximately 2 uM CMFDA working solution.
+  6. Centrifuged all cell samples (live & dead) labelled "W" (wash) for 5 minutes at 650 x g 16:57 - 17:02   
+
+  7. Removed supernatant from cell pellets and replaced with 500 uL dPBS. Gently resuspended cells using a P1000, then centrifuged again for 5 minutes at 650 x g17:05 - 17:10   
+
+  8. Removed dPBS from pellets and replaced with 500 uL of 2 uM CMFDA working solution
+  9. Added 1 uL of 1 mM CMFDA stock solution to all cell samples (live & dead) labelled "NW" (no wash) to make up 2 uM CMFDA solution in medium
+  10. Placed all aliqouts in incubator at 37'C, 5% CO2 17:15
+  11. After 15 minutes incubation, took 100 uL aliquots from each sample and add to separate wells of 96-well plate. Replace samples in incubator.
+  12. Imaged plate on Zaber Plate 8142 wells H1-H4, H6-H9   
+
+    1. H17673, live, W (wash) 
+    2. H27673, dead, W (wash)
+    3. H37694, live, W (wash)
+    4. H47694, dead, W (wash)
+    5. H67673, live, NW (no wash)
+    6. H77673, dead, NW (no wash)
+    7. H87694, live, NW (no wash)
+    8. H97694, dead, NW (no wash)
+  13. After 30 minutes incubation (from start), took 100 uL aliquots from each sample and add to separate wells of 96-well plate. Replace samples in incubator.
+  14. Imaged plate on Zaber Plate 8142 wells F1-F4, F6-F9   
+
+    1. F17673, live, W (wash) 
+    2. F27673, dead, W (wash)
+    3. F37694, live, W (wash)
+    4. F47694, dead, W (wash)
+    5. F67673, live, NW (no wash)
+    6. F77673, dead, NW (no wash)
+    7. F87694, live, NW (no wash)
+    8. F97694, dead, NW (no wash)
+
+MIA link to all images: https://mia-
+capture.vow.tools/#/session/recp9u3HN058HkqQ7/images
+
+

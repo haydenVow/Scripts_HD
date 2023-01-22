@@ -1,0 +1,255 @@
+
+
+## Completed by: Ella Hodder  
+
+
+Aim/Purpose
+
+
+ Aim:
+
+To assess the cell adhesion and differentiation of DOLLY12 MuSCs on porous soy
+scaffolds provided by DaNaGreen.  
+  
+
+
+Hypothesis
+
+
+# Hypothesis:
+
+DOLLY12 MuSC cells will adhere well and differentiate on porous soy scaffolds
+provided by DaNaGreen after 14 days in ACF E6 differentiation media.
+
+#  
+
+
+Technical Gap
+
+
+# Technical Gap:
+
+In previous experiments we have seen good cellular adhesion (DOLLY12 MuSCs) to
+our in-house TVP scaffolds made with textured soy protein. However, we have
+not yet tested DaNaGreen scaffolds made with soy.
+
+
+Method/Procedure
+
+
+Experiment in clubhouse:  
+https://app.clubhouse.io/vowfood/story/21538/epic-21508-screening-of-
+danagreen-scaffolds-experiment-skeleton  
+  
+
+Experiment timeline:
+
+D-3 Sterilise scaffolds (40 needed for experiment, sterilise 45 in case of
+loss/droppage)
+
+Using tweezers spread out 45 scaffolds across multiple glass petri dishes with
+lids and autoclave at 121'C for 20min (normal run) Leave dishes to cool in the
+autoclave or BSC then parafilm edges of dishes until usage (within 1 week)
+
+D-3 Autoclave well inserts (enough inserts and trays for 2x 24 well plates)  
+
+D-3 Plate scaffolds ready for seeding (in untreated 24-well plates, no inserts
+yet)
+
+Parafilm plates and leave in BSC until seeding
+
+D-3 Make up ACF media for 100% and 50% feeds of cell factories  
+
+D-2 100% feed cell factories with ACF media (performed Friday before Monday
+harvest
+
+D-1 50% feed cell factories with ACF media  
+
+D0 Harvest cells for scaffold seeding  
+
+D0 Seed scaffolds  
+
+Pre-wet/wash all scaffold samples with seeding media 2x for 10min then remove
+any excess media from the samples until seeding
+
+Seed the scaffolds with 3 seeding densities 0.5, 0.8 and 1.5M cells/scaffold
+(see plate maps below)
+
+Seed either under either static or shaking conditions (based on company
+recommendations)
+
+Static seeding (24 well plate):
+
+  * Add an appropriate number of cells in suspension per scaffold in media, use a volume of cell suspension which saturates the scaffold but does flood the sample (i.e. cause media run off, which results in cells adhering to the plastic)
+  *  Leave the saturated samples in the BSC for 30 min
+  * Then fill the wells with pre-warmed media (add media gently and not directly at the scaffold)  
+
+  * Place the plate in the incubator (37'C, 5% CO2 on a static shelf)  
+  
+  
+Shaking seeding (24 well plate):  
+1\. Add an appropriate number of cells in suspension per scaffold in media,
+use a volume of cell suspension which fills the well (not so full that shaking
+will cause media to spill over the walls of the well)  
+2\. Place the plate in on an orbital shaker or a rocker in an incubator (37'C,
+5% CO2, 15 RPM) for 24h to ensure all cells have a chance to encounter the
+scaffold and attach to it.  
+  
+Static plate:
+
+  
+
+Shaking plate:
+
+  
+
+D1 24h after seeding stop shaking and stain (live with hoechst or CMFDA, fixed
+with DAPI) and image D1 samples  (note if cannot get good images on zaber take
+images on the axio)
+
+D1 Calculate seeding efficiency (tryplise cells from base of well and perform
+cell count)  
+See the following link for a guide on how to perform this method.  
+
+D1 Move scaffolds to new plate (all samples for imaging to go into 24-well
+plates without inserts for imaging)
+
+D1 Zaber image scaffolds (CMFDA or Hoechst for live imaging, fix and DAPI for
+destructive sampling)  
+  
+See the following link for a guide on how to use the main lab zaber for
+imaging scaffolds.  
+
+If for some reason you cannot achieve good images on the zaber try on the
+axio, we need to know if cells have adhered! If you have issues with the Zaber
+try to check with Lily (our in house pro at scaffold imaging).  
+
+D1 100% Media feed, move all samples into 24-well plates with inserts, add
+pre-warmed proliferation media and place in the incubator (all static now)  
+
+D1 Make up E6 with p/s for diff feeds (starting next day)
+
+Diff D0 100% E6 feed (remove all proliferation media and replace with E6)
+
+Diff D1 100% E6 feed  
+
+Diff D2 100% E6 feed  
+
+Diff D3 100% E6 feed  
+
+Diff D4 100% E6 feed  
+
+Diff D5 100% E6 feed  
+
+Diff D6 100% E6 feed
+
+Diff D7 (live with hoechst or CMFDA, fixed with DAPI) and image D7 samples on
+the zaber (note if cannot get good images on zaber take images on the axio)
+
+See the following link for a guide on how to use the zaber for imaging.  
+  
+Diff D7 100% E6 feed  
+
+Diff D8 100% E6 feed  
+
+Diff D9 100% E6 feed
+
+Diff D10 100% E6 feed  
+
+Diff D11 100% E6 feed
+
+Diff D12 100% E6 feed  
+
+Diff D13 100% E6 feed
+
+Diff D14 ANALYSE FOR DIFFERENTIATION (ELISA? WESTERN BLOT? PROTEIN ASSAY? Fix
+and Primary stain with MyoG and MF20?)  
+
+Secondary Diff analysis step (for antibody staining and ELISA Secondary stain)
+
+Zaber image scaffolds or Measure via Plate Reader (D14 Diff) or run
+electrophoresis -  this depends on the analysis method used.
+
+Analysis  
+
+Report write up
+
+Internally review report  
+
+Externally review report
+
+
+
+  
+
+  
+
+
+
+
+Full-factorial experiment planned in JMP:
+
+  
+
+  
+
+3-level continuous factor (seeding density - 0.5M, 0.8M, 1.5M cells/scaffold)  
+
+2-level categorical factor (static vs shaking seeding - static 0rpm and
+shaking 15rpm)
+
+0.5M 0rpm  (n=4)
+
+0.5M 15rpm (n=4)
+
+0.8M 0rpm (n=4)
+
+0.8M 15rpm (n=4)
+
+1.5M 0rpm (n=4)
+
+1.5M 15rpm (n=4)
+
+Total of 24 cell-laden ACF samples
+
+0.5M x 8 = 4M
+
+0.8M x 8 = 6.4M
+
+1.5M x 8 = 2.25M
+
+= 12.65M ACF cells required  (14.5M adjusted for error)
+
+Positive control
+
+Serum media, samples seeded with 0.8M cells at either 0rpm or 10rpm,  n=4
+samples per condition = 8 samples
+
+0.8M x 8 = 6.4M Serum cells required (8M adjusted for error)  
+  
+Cell free control
+
+n=8 samples.  
+  
+Cell demand for 1 timepoint (i.e. live imaging of cells on d1 and d7):
+
+14.5 M ACF cells
+
+8 M Serum cells
+
+NOTE
+
+If we are going to have 2 timepoints with destructive sampling (fixing) at
+both points (rather than live hoechst or CMFDA staining then would need to
+multiply cell demands by 2, i.e. 29M ACF cells and 16M serum cells).
+
+If we are going to have 3 timepoints (d1 prolif, d7 diff, d14 diff) then we
+would multiply by 3 and need 44M ACF cells and 24M serum cells.  
+  
+  
+  
+  
+
+  
+
+

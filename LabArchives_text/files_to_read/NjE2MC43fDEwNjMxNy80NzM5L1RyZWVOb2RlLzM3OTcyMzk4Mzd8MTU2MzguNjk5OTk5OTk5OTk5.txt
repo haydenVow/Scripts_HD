@@ -1,0 +1,99 @@
+  
+  
+Performed by: LL MG VB  
+
+
+
+
+Culture IDs:
+
+Vessel typeFlask IDCondition  
+24-well plate8687-F_CHOMP09-Crocodile P8-1of6  
+UV plate 1: 5 j/m2  
+8688-F_CHOMP09-Crocodile P8-2of6  
+UV plate 2: 15 j/m2  
+8689-F_CHOMP09-Crocodile P8-3of6  
+UV plate 3: 75 j/m2  
+8690-F_CHOMP09-Crocodile P8-4of6  
+UV plate 4: 60 mj/cm^2  
+8691-F_CHOMP09-Crocodile P8-5of6  
+UV plate 5:  
+  
+8692-F_CHOMP09-Crocodile P8-6of6  
+P53i & control  
+  
+  
+  
+
+
+
+
+## Process
+
+Artificial UVB irradiation
+
+  1. Labelled plates according to how much irradiation they are receiving 
+
+  2. Set up UVB lamp inside BSC
+
+    1. Checked UV reading on UV meter at ~10 cm from lamp (used N50 pen to measure rough distance) 0.36 mW/cm2
+
+  3. Placed Growth Medium aliquots (prepared in previous lab book entry) in water bath at 30'C 14:12
+
+  4. Aliquted 50 mL of sterile, RT dPBS.   
+
+  5. Brought plates one at a time into BSC, starting with plate 1. 
+
+  6. For each plate:
+
+    1. Removed growth medium and washed with 1 mL dPBS. Replaced with 1 mL fresh dPBS.
+
+    2. Placed plate on frozen ice block
+
+    3. Placed plate ~10 cm from lamp and turned on light.
+
+  7. Exposed plate 1 to UV for 12.5 seconds (5 mj/cm^2).
+
+    1. Replaced dPBS with fresh, warmed growth medium + 100 ng/mL FGF-B and IGF-2
+
+  8. Exposed plate 2 to UV for 37.84 seconds (15 mj/cm^2).
+
+    1. Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+  9. Exposed plate 3 to UV for ~~75~~ 71 seconds (30 mj/cm^2).
+
+    * Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+  10. Exposed plate 4 to UV for 150 seconds (60 mj/cm^2). 
+    * Replace dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2
+
+  11. Wrapped half of Plate 5 with parafilm then foil to sterilely block UV light from 4 control wells 
+  12. Exposed plate 5 to UV for 750 seconds (300 mj/cm^2).
+
+    * Replaced dPBS with fresh, warmed growth medium \+ 100 ng/mL FGF-B and IGF-2  
+  
+  
+P53i treatment  
+  
+  
+
+  13. Labelled wells according to which concentration of P53i they are receiving
+
+  14. Brought plates into BSC. 
+
+  15. Replaced growth medium in treatment wells with varying concentrations of P53i supplemented fresh growth medium + 100 ng/mL FGF-B and IGF-2
+
+  16. Replaced growth medium in P53i control wells with DMSO supplemented growth medium + 100 ng/mL FGF-B and IGF-2
+
+  17. Replaced growth medium in "ultimate control" wells with fresh growth medium + 100 ng/mL FGF-B and IGF-2 (no P53i, no DMSO)
+
+  18. Replaced in incubator at 30'C 5%CO2 
+
+
+
+
+Observation
+
+  * No precipitate observed immediately following media change to P53 inhibitor.
+
+

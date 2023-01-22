@@ -1,0 +1,737 @@
+
+
+# Some interesting fundamental notes on Estim for clinical practice:
+
+Straight from:
+https://media.lanecc.edu/users/thorpeb/pta101lab/FoundationsofEstim/FoundationsofEstim_print.html  
+  
+
+Foundations of Electrical Stimulation  
+PTA 101 Introduction to Clinical Practice
+
+# Instructional Use Statement
+
+The following information is used for instructional purposes for students
+enrolled in the Physical Therapist Assistant Program at Lane Community
+College. It is not intended for commercial use or distribution for commercial
+purposes. It is not intended to serve as or take the place of medial advice or
+treatment.
+
+
+
+Contact thorpeb@lanecc.edu for permission
+
+
+
+# Introduction
+
+Electrical stimulation use dates back to ancient time when electric eels were
+used to treat painful spines and limbs. In this lesson, we will study the
+characteristics of electricity and its use in rehabilitation. By understanding
+how different wave forms effect muscle and nerve function, we can safely and
+effectively select a variety of electrical stimulation options to maximize
+patient progress toward goals in the plan of care.
+
+
+
+## Lesson Objectives
+
+After completing this lesson, the successful student will be able to:
+
+  1. Describe the key terms, principles, and theory of electrical stimulation.
+  2. Describe the physiologic effects of electrical stimulation.
+  3. Describe procedures for administering electrical stimulation, including informed consent.
+  4. Describe expected goals and outcomes for application of electrical stimulation.
+  5. Identify the role of the PTA during application of electrical stimulation.
+  6. Discuss how the patients's age and medical status may influence selection and outcome of treatment.
+
+
+
+
+
+  
+
+# Instruction
+
+## Therapeutic Goals
+
+
+
+There are several Types of Electrical Stimulation covered in Behrens text:
+
+Type of Electrical Stimulation
+
+Goal  
+  
+Electrical Muscle Stimulation (EMS)
+
+stimulation of denervated muscle to maintain viability  
+  
+Electrical Stimulation for Tissue Repair (ESTR)
+
+stimulation for edema reduction, increased circulation, and wound management  
+  
+Neuromuscular Electrical Stimulation (NMES)
+
+stimulation of innervated muscle to restore function including muscle
+strength, reduction of spasm/spasticity, prevention of atrophy, increase ROM,
+and muscle reeducation  
+  
+Functional Electrical Stimulation (FES)
+
+neural implantation for long term muscle activation to perform functional
+activities  
+  
+Transcutaneus Electrical Nerve Stimulation (TENS)
+
+portable, superficial stimulation across the skin for pain management  
+  
+  
+
+  
+
+# Characteristics of Electricity and Current Flow
+
+To safely and effectively apply electrical stimulation to the human body, it
+is importance to understand the characteristics of electricity and current
+flow.
+
+Key Terms: Charge = Strength
+
+Current = Rate of Flow
+
+Voltage = Driving Force
+
+Resistance or Impendence = opposition
+
+  
+
+## Ohm's Law Ohm's
+
+Law defines the relationship between electrical current, voltage, and
+resistance. Current = Voltage/Resistance
+
+
+
+  
+
+  * Current flow is directly proportional to voltage: INCREASE Voltage = INCREASE Current, DECREASE Voltage = DECREASE Current
+
+
+
+  * Current flow is inversely proportional to resistance: INCREASE Resistance = DECREASE Current, DECREASE Resistance = INCREASE Current
+
+
+
+
+
+  
+
+  
+
+  
+
+Biological tissues such as nerve and muscle membrane have the ability to
+simultaneously store and electric charge and oppose change in current flow.
+This characteristic is called capacitance. Skin and adipose act as resistors,
+or oppose current slow. Current always takes the "path of least resistance"
+when faced with multiple resistors.
+
+
+
+Current will flow under 2 conditions:
+
+  1. There is an energy source creating a difference in electrical potential
+  2. There is a conducting pathway between the two potentials
+
+
+
+Ionic Flow occurs in the body because like charges REPEL and opposite charges
+ATTRACT.
+
+
+
+  
+
+Anode = positive (+) electrode
+
+Anion = negative (-) ion
+
+
+
+Cathode = negative (-) electrode, often referred to as"active" electrode
+
+Cation = positive (+) ion
+
+
+
+Note the names are paired by attraction
+
+
+
+At rest, a nerve holds a positive charge on the inside and negative on the
+outside.
+
+  
+
+  
+
+  
+
+
+
+* * *
+
+  
+
+
+
+
+
+  
+
+Chemical reactions that occur under each electrode (Brethren Figures 8-2 and
+8-3)
+
+
+
+Cathode: positive Nan+ sodium ions migrate to the negative pole and combine
+with water to form Nao sodium hydroxide Base = increased alkalinity, promotes
+liquification of protein, and tissue softening
+
+Anode: negative chlorine (Cl-) ions migrate to the positive pole and combine
+with water to form hydrochloric acid (HCL) = increased acidity, promotes
+coagulation of protein, and hardening of tissues.
+
+
+
+Circulation improves as the body attempts to balance back to homeostasis and
+neutral pH level.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##  
+
+  
+
+## Impedance
+
+Impedance, or resistance to current flow, and conductivity is influenced by:
+
+  * Tissue Type: Tissue impedance and conductivity vary through the body tissues depending on water content
+    * High water content decreases impendance and increased conductivity: deeper layers of the skin, nerve, and muscle
+    * Low water content increases impedance: bone, fat, tendon, and fascia are poor conductors due to low water content, also the outer layer of the skin called epidermis
+  * Tissue Health: tissue health will change impedance
+    * Impedance Increases with edema, ischemia, atherosclerosis, scarring, and denervation
+    * Impedance Decreased with open wounds and abrasions.
+
+
+
+Impedance should be minimized as much as possible in order to use the lowest
+intensity for patient comfort. Impendence can be reduced by:
+
+  1. Cleaning the patient's skin with alcohol to remove oil and dirt before electrode application
+  2. Clipping excess body hair under electrodes
+  3. Warming the treatment area of the body prior to stimulation
+
+
+
+  * Clinical Considerations:
+    * Since adipose (fat) is a resistor, causing increased impedance, a body part covered with a thick layer of adipose tissue may require an increase in intensity to elicit the desired response. That intensity may not be tolerated by the patient, rendering electrical stimulation an unappropriate modality for that patient
+
+
+
+Constant Current vs. Constant Voltage Stimulator
+
+Constant Current Stimulators produce a contant current independent of
+resistance encountered. The voltage adjusts to maintain constant current flow.
+The advantage of this type of of stimulator is to ensure a consistency
+physiologic response during the treatment. The negative is potential pain when
+the voltage increases to overcome resistance.
+
+  
+
+Constant Voltage Stimulators, conversely, produce a constant voltage. The
+current adjusts to depending on changes in resistance. This unit is
+advantageous in preventing discomfort with changes in resistance, such as an
+electrode losing full contact, but quality of response can be decreased with
+these automatic resistance changes.
+
+  * To determine constant current versus constant voltage on an electrical stimulation unit, slowly start to peel one electrode off the skin while the machine is on. If the current sharpens, the machine is constant current; if the current lessens, the machines is constant voltage if the current lessens when the electrode is being peeled away.
+
+  
+
+  
+
+  
+
+# Current Classification
+
+There are three basic waveforms used in commercial therapeutic electrical
+stimulation units: direct current, alternating current, and pulsed current.
+
+  1. Direct Current (DC) or Galvanic
+    * Continuous unidirectional flow of charged particles with a duration of at least 1 second.
+    * One electrode is always the anode (+) and one is always the cathode (-) for the entire event.
+    * There is a build-up of charge since it is moving in one direction causing a strong chemical effect on the tissue under the electrode
+  2. Alternating Current (AC)
+    * Uniterupted bidirectional flow of charged particles changing direction at least once per second.
+    * Electrodes continuously changes polarity each cycle, therefore no build-up of charge under the electrodes
+    * Often used in interferential or Russian commercial stimulators
+  3. Pulsed Current (pulsed)
+    * Can be unidirectional (like DC) or bidirectional (like AC)
+    * Flow of charged particles stops periodically for less than 1 second before the next event
+    * Pulses can occur individually or in a series
+
+##  
+
+## Waveforms
+
+According to the Behrens text, "Waveform is a visual representation of the
+pulse. Waveforms are diagrammatic only and rarely reflect what is actually
+going into the patient."
+
+Classification of Waveforms
+
+  1. Monophasic\- single phase, unidirectional pulse from baseline to either positive OR negative
+    * Do not confuse this with Direct Current (DC). The similarity is that one electrode is always positive and one electrode is always negative, however, pulsed monophasic waves have interuptions, shorter duration, and less strength than DC making this wave unable to perform like DC. Monophasic waveforms do not cause the same magnitude of chemical changes as DC.
+    * High voltage comercial machines
+  2. Biphasic\- two phase, bidirectional wave with one positive phase and one negative phase.
+    * Like Alternating Current in that the electrodes change polarity
+    * Can be symmetrical (identical phases that cancel each other out) or asymmetrical (non-identical phases that can be either balanced with no net charge or unbalance yielding a net charge )
+    * Most commercial TENS units and some battery powered neuromuscular units produce asymmetrical biphasic waves; Variable Muscle Stimulator (VMS) units and some battery powered neuromuscular units produce symmetrical biphasic waves
+  3. Polyphasic\- bidirectional wave with three or more phases in bursts
+    * All polyphasic pulses are bursts but not all bursts are polyphasic
+
+
+
+* * *
+
+### Clinical Considerations
+
+Waveform Comfort
+
+  * Symmetrical biphasic waveforms are most often reported to be most comfortable.
+  * Symmetrical biphasic was preferred to stimulate large muscle groups.
+  * No biphasic preference for stimulation of smaller muscle groups.
+  * Preference varied by person and another waveform tried if one is not tolerated well.
+
+
+
+Waveform Selection
+
+  * All waveforms are capable of activating peripheral nerves.
+  * Symmetrical biphasic waveforms pose the least risk for skin reaction.
+  * Monophasic waveforms are most appropriate for wound healing.
+  * Asymmetrical balanced biphasic waveforms may be more useful to stimulate small muscle groups.
+  * Monophasic and symmetrical biphasic waveforms generate greater torque with muscle contraction and were less fatiguing than polyphasic waveforms.
+
+  
+
+  *   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+## Clinical Levels of Stimulation and Vacabulary
+
+It is important to know the vocabulary listing in the and goal of these
+levels.
+
+Behrens Table 8-3
+
+Clinical Levels of Stimulation  
+  
+Subsensory
+
+No nerve fiber activation
+
+No sensory awareness  
+  
+Sensory
+
+Tingling, prickling, or pins and needles
+
+Cutaneous A-beta nerve fiber activation  
+  
+Motor
+
+Strong paresthesias
+
+Muscle contraction
+
+A-alpha nerve fiber activation  
+  
+Noxious
+
+Strong, uncomfortable paresthesias
+
+Strong muscle contraction
+
+Sharp or burning pain sensation
+
+A-delta and C-fiber activation  
+  
+Frequency \- number of electrical pulses delivered to the body in one second
+
+  * Also called pulses per second (pps), hertz (Hz) with AC
+  * Higher frequencies cause higher levels of fatigue due to less time between bursts/pulses
+  * Impendence decreases when frequency increases
+  * Frequencies of 1-120pps meets most therapeutic goals
+  * Stimulation at 50pps tends to be more comfortable than 35pps
+
+Duty Cycle \- ratio of on time to off time
+
+  * Current flows during 'on time' and ceases during 'off time'
+  * Percentage of on time divided by the sum of the on and off time
+  * Example, on time is 5 seconds, off time is 20 seconds = 1:4 ratio or 5 sec/(5+20sec) = 20%
+  * Clinically speaking, muscle contractions elicited through electrical stimulation are more fatiguing, so longer off time allows for recovery/rest and fends off fatigue.
+
+
+
+
+
+
+
+
+
+* * *
+
+
+
+  
+
+Ramp Time \- gradual increase in amplitude over time from zero to peak
+amplitude.
+
+  * Can use ramp up and/or ramp down, variable
+  * Fixed on some commercial machines, ranging from 1 - 8 seconds
+  * 2 second ramp up is often adequate for comfort
+  * Ramp down or off can increase patient comfort and provides opportunity to actively hold a contraction after the stimuli has ended.
+
+Accommodation \- nerve cell will not generate an action potential after a
+period of time, no longer responding to electrical current, without an
+increase in intensity. Modulation, or varying one or more parameter, can
+prevent adaptation to the stimulus.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+* * *
+
+
+
+## Electrical Stimulation Motor Unit Recruitment
+
+Below is a table view of the difference between a contraction elicited through
+normal central nervous system function as compared that via use of electrical
+stimulation means.
+
+Motor Unit Recruitment - Central Nervous System
+
+Motor Unit Recruitment and Contraction - Electrical Stimulation  
+  
+Active
+
+Passive  
+  
+Small type I motor units are recruited first then larger type II motor units
+for smooth and gradual tension
+
+Large superficial fatigable type II motor units are recruited first, then
+smaller motor units  
+  
+Asynchronous firing in off and on pattern - energy efficient and slower onset
+of fatigue
+
+Synchronous firing - motor units stimulated continue to fire until stimulus
+removed, causing quick onset of fatigue  
+  
+Action potential moved away from the nerve cell body
+
+Action potential generated in two directions, away from the cell body and back
+toward the cell body  
+  
+  
+
+  
+
+  
+
+# Treatment - Clinical Application
+
+## Indications
+
+  * Pain Management
+  * Muscle Strengthening
+  * Stimulation of degenerated muscle
+  * Wound care
+  * Fracture Healing
+  * Increase joint range of motion (ROM)
+  * Deliver Medication through the skin (Iontophoresis)
+  * Replace Orthotics
+  * Reduce spasm and spasticity
+  * Reduce scoliosis
+
+
+
+## Contraindications
+
+  * Pregnancy - except during labor for pain control
+  * Pacemaker or other cardiac implants for interference
+  * Cancer - risk metastasis
+  * Location of thrombophlebitis or phlebothrombosis for risk of embolism
+  * Active Tuberculosis
+  * Over carotid sinus
+  * Area of active hemorrhage
+
+  
+
+## Precautions
+
+  * Obesity - insulator
+  * Absent or diminished sensation
+  * Skin conditions - eczema, psoriasis, acne, dermatitis, infection
+  * Diabetes - fragile thin skin
+  * Peripheral neuropathies or areas of denervation
+  * Metal - internal or external
+  * Range of Motion or exercise limitations
+  * Cognitive Impairments - unable to follow directions or provide feedback
+  * Spinal Cord Injury - dysreflexia
+
+
+
+There are times clinically when a Physical Therapist may decide to use a
+modality that is normally contraindicated after discussion with the patient's
+physician. For example, a patient with a history of cancer in the distant past
+or application of the modality at an extremity away from the cancer site may
+not pose more risk than benefit.
+
+  
+
+Procedure, Safety, and Documentation for electrical stimulation will be
+covered in lab
+
+  
+
+  
+
+  
+
+# Electrodes - Material and Care
+
+ There are many choices of electrode shape, size, and configuration to fit the
+need of the patient and therapeutic goal for electrical stimulation.
+
+## Types of Electrodes
+
+  * Metal Plate Electrodes \- early version, limited sizes, required wet sponge conduction medium, difficult to secure in place
+  * Carbon - Impregnated Rubber Electrodes \- degrade over time and become non-uniform with "hot spots", many shapes and sizes, rinse and dry after each use and replaced every 12 months to ensure conductivity.
+
+  * Self-Adhering or Single use Electrodes \- flexible conductors, convenient application, no strapping or taping to keep in place, resealable bag for multiple uses, often high impendence, possibility of cross-contamination, used most frequently these days.
+
+  
+
+Electrode Size and Current Density
+
+  * Current density is the concentration of current under an electrodes.
+  * Electrode surface area is inversely proportional to current flow. (Larger electrode = current is less dense as it is distributed over a larger area; the smaller the electrode, the more intense the same current becomes over a smaller area.
+  * Keep the electrode in proportion with size of body area being treated. If the electrode is too large for the area, there could be unwanted carryover to other surrounding structures; if too small, the current is too dense and may not be tolerated to elicit the desired response.
+
+  
+
+Completing the Circuit - an electrical stimulation treatment must include a
+full circuit. To complete the circuit, there must be:
+
+  1. A source of energy creating an electrical potential difference
+  2. A conductive pathway - including electrodes, leads, and a conductive surface with good contact
+
+  
+
+  
+
+  
+
+## Techniques for Application of Electrical Stimulation
+
+  
+
+Table 9-1 Channel Set Up and Lead Management
+
+Treatment Goal
+
+# Leads and Electrodes
+
+Monopolar
+
+Bipolar
+
+Quadpolar  
+  
+Muscle (motor) Stimulation
+
+One lead per muscle with both electrodes on the same muscle, two leads if it
+Is a larger muscle or if the device has more than one head
+
+
+
+X
+
+  
+  
+Sensory Stimulation
+
+One or two leads depending on the size of the area; use as many electrodes as
+possible to sensory stimulation
+
+
+
+One lead if only one lead and two electrodes fit in the treatment area
+
+
+
+One lead with one electrode at the spinal nerve root and the other in the
+sensory area
+
+
+
+
+
+
+
+
+
+
+
+X
+
+X
+
+X
+
+
+
+
+
+
+
+
+
+  
+  
+Delivery of Medication
+
+One lead and one electrode in the treatment area and the other more proximally
+placed on soft tissue
+
+X
+
+
+
+  
+  
+  
+
+Table 9-2 in the Behrens text had information regarding Potential Causes and
+Remedies for Patient Complaints of Prickling and itching Sensation Underneath
+the Electrodes.
+
+  
+
+Terminology for Configuration of Electrode Set Up
+
+  1. Monopolar - single electrode from one channel
+
+    * Active electrode placed directly over target tissue, often smaller in size; greatest perception will be over target tissue
+  2. Bipolar - two electrodes from one channel, usually equal size and shape
+    * Patient will feel excitatory response under both electrodes, eliciting motor response or electrode placed over motor point, other electrode over muscle belly and may be larger
+  3. Quadpolar - electrodes from 2 or more channels, each lead with 2 electrodes
+    * Interferential, large area, pain management, sensory stimulation of larger fiber
+
+
+
+Application Guidelines \- this will be covered in depth in lab, along with the
+Electrical Stimulation Decision Making Tree on page 159 in your Behren's text.
+
+
+
+  
+
+## Clinical Decision Making and Role of the PTA
+
+
+
+The PTA is given a Physical Therapy evaluation with patient medical history,
+diagnosis, goals, and plan of care (POC). Often, simply 'modalities' or
+'electrical stimulation' is listed but no specific treatment parameters. Based
+on this information and subjective information gathered from the patient at
+the time of treatment, the PTA determines the most appropriate modality and
+parameters for that specific treatment as it falls within the POC. Patient
+response to treatment is always monitored and reported back to the PT. It is
+the responsibility of the PTA to make modifications within the plan of care
+and consult with the PT as needed. Since there is an object or substance being
+applied to the body, remember skin checks before and after application of any
+modality.
+
+
+
+Communication with the patient is crucial, including informed consent, and
+checking for changes in the patient's medical history since the last visit.
+There may have been a medical test, appointment with a physician, or changes
+in physician's orders since the previous therapy appointment. The PTA must
+decide if and how the changes may affect the impending treatment and
+communicate with appropriate staff.
+
+  
+
+  
+
+# End of Lesson
+
+
+
+Consider using the "Why Do I Need to Know About..." and "Patient Perspective"
+boxes in your textbook to understand the concepts presented. Discussion
+questions and Case Studies are a great way to check your level of
+understanding. Use the CAN YOU HELP ME forum to share your thoughts with
+classmates.
+
+  
+
+Source:
+
+https://media.lanecc.edu/users/thorpeb/pta101lab/FoundationsofEstim/FoundationsofEstim_print.html
+
+

@@ -1,0 +1,110 @@
+
+
+## Completed by: Katie
+
+
+
+
+Use of the hanging drop cell culture technique
+
+Hanging drop cell culture is typically used to grow organoids in 3D culture
+systems, rather than relying on the typical 2D culture system of adherent
+cells. The following protocol is recommended for growing cells in hanging drop
+cell culture:
+
+  1. Remove the lid from a 60 mm tissue culture dish and place 5 mls of PBS in the bottom of the dish. This will act as a hydration chamber.
+
+  2. Invert the lid and use a 20 μl pipettor to deposit 10 μl drops onto the bottom of the lid. Make sure that drops are placed sufficiently apart so as to not touch. It is possible to place at least 20 drops per dish.
+
+  3. Invert the lid onto the PBS-filled bottom chamber and incubate at 37°C/5% CO2/95% humidity, monitor the drops daily and incubate until either cell sheets or aggregates have formed. A stereo microscope can be used to assess aggregate formation.
+
+  4. Once sheets form, they can be transferred to round-bottom glass shaker flasks containing 3 mls of complete medium and incubated in a shaking water bath at 37°C and 5% CO2 until spheroids form.
+
+  
+
+See [1] for further details of this protocol, as well as the additional images
+below.
+
+  
+
+The hanging drop cell culture technique may allow cells to adapt to suspension
+without harmful shear stresses.
+
+Cellular exposure to shear stresses, as when cells are exposed to the movement
+of liquid in a bioreactor or a shaker flask, has a biological impact on cells
+[2]. These shear stresses can lead to cellular damage [3]. At Vow, we have
+been including 0.1% pluronic in our suspension cultures, as this appears to
+preserve viability of our cells (Suspension Culture Round #4, Q2), likely by
+reducing the damage to cells caused by shear stresses [4]. However, it may be
+worth attempting the hanging drop method to understand if this might help
+cells adapt to growth in suspension, as they will not need to also adapt to
+the damaging shear stresses simultaneously.  
+  
+In time, the suspension-adapted cells would need to be able to survive
+exposure to the shear stresses of a bioreactor, but allowing the cells to
+adapt to suspension in an environment with no shear stresses could prove a
+useful intermediate step.
+
+For this experimental trial, we will include 1:100 anti-clumping agent in our
+media, in the hope that this will prevent the fibroblasts in hanging drop
+culture from clumping together to form aggregates. Hanging drop culture is
+typically used to promote formation of organoids, and thus aggregation of
+cells seem likely. Hopefully we can slow formation of aggregates by including
+the anti-clumping agent, which we have also demonstrated helps adapt cells to
+suspension (See Suspension Culture Round #2 from Q2).
+
+  
+
+Images which may help with getting the hanging drop culture method running:
+
+  
+
+See [5]
+
+  
+
+See [6]
+
+  
+
+  
+
+See [7]
+
+See [8]
+
+This technique can be used as above to generate cardiomyocytes (super
+interesting!). See [9] for more details.
+
+  
+
+  
+
+1\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3197119/
+
+2\. https://ibidi.com/content/303-why-cell-culture-under-flow
+
+3\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166560/
+
+4\. https://pubmed.ncbi.nlm.nih.gov/18327558/
+
+5\.
+https://www.researchgate.net/publication/318889892_3D_modeling_of_cancer_stem_cell_niche/figures?lo=1&utm_source=google&utm_medium=organic
+
+6\. http://ams.cstam.org.cn/article/2019/0567-7718-35-2-329.html
+
+7\. https://laney.edu/doug_bruce/cell_culture_stem_cell_training/
+
+8\.
+https://www.researchgate.net/publication/316927101_Three_dimensional_tumor_models_for_cancer_studies/figures?lo=1&utm_source=google&utm_medium=organic
+
+9\.
+https://www.researchgate.net/publication/329598973_Combinatorial_Utilization_of_Murine_Embryonic_Stem_Cells_and_In_Vivo_Models_to_Study_Human_Congenital_Heart_Disease/figures?lo=1&utm_source=google&utm_medium=organic
+
+  
+
+  
+
+  
+
+

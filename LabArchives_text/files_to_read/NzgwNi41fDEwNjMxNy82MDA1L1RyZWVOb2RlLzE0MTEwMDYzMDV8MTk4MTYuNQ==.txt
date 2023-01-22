@@ -1,0 +1,92 @@
+
+
+Discussion with Ira Deveson from the Garvan Nanopore sequencing facility
+(Genomics Technologies group: https://www.garvan.org.au/research/kinghorn-
+centre-for-clinical-genomics/research-programs/genomic-technologies) regarding
+the use of Nanopore for our transcriptomics and feasibility of developing
+capacity in-house.
+
+To discuss:
+
+•    Ongoing projects
+
+o    Multiomic comparison across species - Nanopore sequencing for
+transcriptomic (rather than short read seq (e.g. Illumina))
+
+o    Profiling of the transcriptomes of cells undergoing fast suspension
+adaptation (with Marie) to understand cell stress responses that occur after
+adaptation
+
+•    What we need to know?
+
+o    Is an in-house nanopore sequencer worthwhile in comparison to
+outsourcing?
+
+o    Would they help in advisory capacity in setup?
+
+o    Scale of what would be needed (e.g. MinION, GridION, PromethION)
+
+•    Future uses for Vow?
+
+o    SNP profiling in key genes (e.g. tumor suppressor genes)
+
+o    STR profiling
+
+o    In-house transcriptomics
+
+•    Data analysis
+
+o    Back-end base calling - who and how?
+
+o    Front-end alignment - outsource or in-house?
+
+•    Other?
+
+o    cDNA seq, cDNA-amplification + seq and direct RNA seq?
+
+  
+
+Outcomes:
+
+•    Service remains open for any transcriptomics that we may need (did not
+discuss discounts for larger scale…)
+
+•    Price is slightly higher than short-read sequencing (Illumina at GWCCG),
+but we will better pick up transcript isoforms and variants (potential
+alignment with proteomic isoform specific data??)
+
+o   also, because no PCR amplification is required, transcript reads are
+highly quantitative
+
+•    Ira suggests that an in-house sequencing platform (especially something
+low-throughput like a single minion) might be more hassle than worth for
+library preps, optimisation, in-house base-calling etc. and that outsourcing
+is probably cheaper because of ONTs graded price structure
+
+o    e.g. $790USD per flow cell for 12, ~$500USD per flow cell for 48
+
+o    On this note, promethION costing for them is a total of $450k (AUD) -
+mostly flow cells
+
+•    Advisory is possible - but seems they would prefer to keep the facility
+relationship (understandably)
+
+•    MinION alone would be worthwhile for smaller scale, regular work, such as
+SNP or STR profiling, but not enough for transcriptomics (read depth needs
+etc.)
+
+•    Their data analysis service includes the base-calling and QC - they will
+then give us a fastq file and a report
+
+o    Willing to help with first time alignments by sharing linux/unix commands
+for 'Minimap'
+
+o    Great paper comparing ONT approaches for processing and analysis:
+https://www.biorxiv.org/content/10.1101/2021.04.21.440736v1.full.pdf
+
+•    Need to send them the data from Garvan Molecular Genetics (RNA conc.,
+cDNA conc.)
+
+  
+
+

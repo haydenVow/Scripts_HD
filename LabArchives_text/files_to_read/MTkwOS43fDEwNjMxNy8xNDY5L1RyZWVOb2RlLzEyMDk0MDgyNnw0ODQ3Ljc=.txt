@@ -1,0 +1,347 @@
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 9:10 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 10-20uL sample of the suspension was taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to a well on a 96 well plate and mixed it with 80-90uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+  4. Returned cultures to the incubator  `| 9:12 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `| 9:15 am/pm |`
+  6. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| 9:25 am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.024ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. (B1-B3, well 1 - 3
+  9. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+  1. Coat 11x384 well plates with 20uL of 0.1% gelatin for at least 1h at 37 degrees, 5% CO2  [ last well plate coated 10:40 -  11:40]. 
+  2. Once coated remove the gelatin from the wells and fill each well with 50uL/well of DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM) Growth Media. 
+  3. Prepare two styrofoam boxes to transfer to the Garvan. 
+    1. BOX A with the 12 x pre-growth media-filled 384-well plates, parafilmed, an ice pack, Hoechst (ddH20), extra FACS Buffer (PRF DMEM/F12 + 2% FBS + 10uM P38i) and the tubes containing cells.
+    2. BOX B with 22 sheets of parafilm for sealing plates closed (11 needed, 11 excess) and spare tubes for the operator. 
+  4. Prepare 5mL of DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i growth media and store in the fridge at 4 degrees.
+
+
+
+
+
+
+
+## Performed by: Nathan
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+  
+
+Seeded vessel ID(s)
+
+  
+  
+  
+6884
+
+  
+
+6943-BUFFY6-Water Buffalo P0-1of11
+
+6944-BUFFY6-Water Buffalo P0-2of11
+
+6945-BUFFY6-Water Buffalo P0-3of11
+
+6946-BUFFY6-Water Buffalo P0-4of11
+
+6947-BUFFY6-Water Buffalo P0-5of11
+
+6948-BUFFY6-Water Buffalo P0-6of11
+
+6949-BUFFY6-Water Buffalo P0-7of11
+
+6950-BUFFY6-Water Buffalo P0-8of11
+
+6951-BUFFY6-Water Buffalo P0-9of11
+
+6952-BUFFY6-Water Buffalo P0-10of11
+
+6953-BUFFY6-Water Buffalo P0-11of11
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+All solutions contained 1% w/v poloxamer 188.  
+
+  1. dPBS (for washing before Trypsinization),:    60     mL in    1x120mL     container
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:    2x30     mL in     2x50mL    tubes
+  3. Growth media (for neutralizing, equal volume to trypsin) :     2x30    mL in    2x50mL     tubes
+  4. dPBS (for washing microcarriers after Trypsinization), :    2x30mL     mL in    2x50mL    tubes
+  5. Growth media (for pellet resuspension):     5    mL in     1x15mL    tubes (put into fridge at 10:20  
+
+Time that all aliquots were placed in the water bath the warm before use
+10:20   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+## Remove the flask from incubator
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker [10:45]
+  3. Restart the shaker
+  4. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the fresh, pre-warmed Trypsin/EDTA + poloxamer 188 solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker
+  3. Restart the shaker at the `speed required for detachment` \- see the table below.
+  4. After `15 `minutes [10:58-11:13], stop the shaker
+  5. Remove the flask from the shaker
+  6. Restart the shaker
+  7. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E250
+
+195  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+## Neutralize the detachment reagent:
+
+  1. Add fresh, pre-warmed growth medium to the flask
+  2. Mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## First wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## Second wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+# Passed the cell suspension through a 40 - 100 um pore-size sieve to remove
+any errant microcarrier during all cell collection steps into 50mL tubes prior
+to centrifugation.
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Centrifuge the tubes at 650 - 700 RCF for 5 minutes
+  2. Aspirate supernatants
+  3. Resuspend pellets in 1 mL of fresh, pre-warmed growth medium
+  4. Combine the cell suspensions into 1x 50 mL centrifuge tube
+  5. Wash out each tube with the remainder of the fresh, pre-warmed growth medium and combine with the cell suspension
+
+  
+
+
+
+
+## Performed cell count:
+
+  1. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in the widget below  
+
+  1.  Total cell number was:     8,204,400      
+  2. Volume of cell suspension required for subculture was:     5.3mL        
+
+
+
+  1. Resuspended cells in 5.3mL of of cold growth media in a 15mL tube. 
+  2. Placed the cell suspension on ice in BOX A. 
+  3. Drive cells to the Garven [   1:05-1:40   ] 
+  4. For FACS operator to do
+    1. Collect the entire 5 mL cell suspension in Growth Media (DMEM/F12 + 20% FBS + 1X P/S + 10uM p38i). Sample name = BUFFY6
+    2. Add Hoechst (1:100) (50 µL) to the sample tube and mix well.
+    3. Incubate at RT for 10 min.
+    4. Centrifuge at 300 x g for 5 min at 4ºC.
+    5. Aspirate supernatant. Add 5mL cold FACS Buffer (PRF DMEM/F12 2% FBS + 10uM P38i) to the pellet (without dislodging it).
+    6. Centrifuge at 300 x g for 5 min at 4ºC.
+    7. Aspirate supernatant carefully from the tube.
+    8. Resuspend pellet in 1mL FACS Buffer (PRF DMEM/F12 containing 2% FBS).
+    9. Sort cells based on forward and side scatter and then PI- & Hoechst+ into individual wells of 12 x 384-well plates. 15 events to A1, A24, P1 and P24,  1 event for the remaining wells. 
+    10. After sort, parafilm plates and then close with lid. Parafilm the edges of the sealed plates.
+    11. Centrifuge plates at 300 x g for 10 min at RT at the Garvan.
+    12. Stored plates at 30 degress, 5% CO2 until transport back to Vow. 
+  5. [17:30-18:00] Transport plates in a styrofoam box WITHOUT an ice pack (remove ice pack so box is ~ RT) back to VOW HQ. Removed parafilm and left plates to incubate at 37ºC degrees, 5% CO2, in VOW (Library lab). 
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4790  
+  
+Trypsin-Edta  
+5054, 5049  
+  
+dPBS (for washing & neutralising)5191  
+  
+Growth Media5189  
+  
+p38i (20mM stock)3978  
+  
+Poloxamer 10% w/v  
+4915  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+### n/a
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6884 before harvest: https://mia-
+capture.vow.tools/#/session/recXJ0nD1oUNPuiIr/images
+
+

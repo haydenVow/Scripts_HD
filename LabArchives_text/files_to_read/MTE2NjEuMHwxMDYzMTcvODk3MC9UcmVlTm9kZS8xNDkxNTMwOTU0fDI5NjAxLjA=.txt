@@ -1,0 +1,53 @@
+Performed by: ST LL
+Harvested vessel IDs  
+Seeded vessel IDCondition  
+Location  
+  
+  
+12743-Nuvonis Quail Suspension341-P-1of2
+
+13013-Nuvonis Quail Suspension341-P-1of1  
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (with 4 mM L-Glutamine & 6 g/L glucose final conc.)  
+Main lab, incubator #86  
+12744-Nuvonis Quail Suspension341-P-2of2  
+
+
+Process
+  
+  
+  1. Took 1 x 550 uL aliquot from each E250 and performed counts on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+    * Note: SarahT performed cell count then discovered suspected yeast contamination in flask she handled yesterday. She did not change her lab coat between yesterday and today, so there is some risk of transferral. Flasks were wiped down by LilyL with Trigene 1:100 and left for 20+ min, then wiped down with 70% ethanol before being handled again. A small amount of the supernatant was kept in a flask to check for yeast growth over the course of the next few weeks. 
+  3. Calculated volume of cell suspension required for a total of 180M cells to seed EPIC31439 (lab book)
+    * Have 202M cells total in 200 mL = 1.10M cells/mL 
+    * Need 178.3 mL for 180M cells 
+  4. Moved cell suspensions into 1 x E250 and gently re-suspended with 50 mL serelogical 
+  5. Transferred 178.3 mL to 1 x 250 mL centrifuge tube for ECPI31439
+    * 13 mL with ~13M cells remained in flask
+  6. Added 80 mL of warmed 50/50 RPMI/CHO Nuvonis suspension medium + GFs (with glucose and L-glut) to flask to bring volume up to 93 mL and cell seeding density to ~130K/mL 
+  7. Returned flask to incubator
+
+
+
+
+
+ID
+
+Flask type
+
+Final volume  
+(mL)Cell density (cells/mL)Total cell number in flask  
+50/50 12743
+
+E250
+
+100970,00097,000,000  
+50/50 12744
+
+E250
+
+1001,050,000105,000,000
+
+

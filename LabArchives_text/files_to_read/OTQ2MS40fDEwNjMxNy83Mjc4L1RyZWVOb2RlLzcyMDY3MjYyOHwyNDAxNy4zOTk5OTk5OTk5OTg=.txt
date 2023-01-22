@@ -1,0 +1,102 @@
+Passage 1 - Thaw 1x vial (1 million cells, Cell line ID: GTO6s-p Sea Turtle) into 1xT75.
+
+
+Sea Turtle cells:  
+Growth medium: RPMI-1640 with 10% fetal bovine serum (FBS). Antibiotics can
+also be used at concentrations of 1%  
+penicillin/streptomycin (10,000 U/mL stock), 1% amphotericin B (250 μg/mL
+stock)  
+Incubation temperature (°C): 30  
+Incubation CO2 (%): 5%  
+  
+1M cells/mL in 1ml per vial  
+  
+Seed at 7500 live cells/cm2 \- 562.5K cells into 1x T75  
+  
+Remove 600ul from vial then re-freeze remaining cells back down still in DMEM
++ GlutaMax with 10% fetal bovine serum (FBS)1% penicillin/streptomycin (10,000
+U/mL stock), supplemented with 10% dimethyl sulfoxide (DMSO).  
+
+
+
+
+# Procedure \- Thaw and Seed
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.
+
+2\. Placed 10mL of sea turtle growth media in water bath: 11:40am - 12:00pm  
+  
+NOTE - 50% GM feed for a T75 would be 5ml, 100% feed would be 10ml  
+
+  
+
+50% Growth Media Feed  
+100% Growth Media Feed  
+  
+Flask Type
+
+Volume of Media Required per flask (mL)
+
+Flask Type
+
+Volume of Media Required per flask (mL)  
+  
+T17515T17530  
+2CF1502CF300  
+4CF3004CF600  
+5CS3755CS750  
+10CS75010CS1500  
+  
+3\. Select the vial/s for thawing. Note the location of the vial in Liquid
+Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)
+
+GTO6s-p vial was located in:
+
+Tower 6 Box 6 C5
+
+4\. Obtain selected number of cryovial/s from LN Dewar and thaw in the 30'C
+water bath on a foam floater for a maximum of 5 minutes. 11:58 - 12:03
+
+5\. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and
+transfer into the Biohazard Safety Cabinet (BSC).
+
+6\. 600uL of cell suspension was transferred to 9.6mL of growth media.
+
+9\. Resuspend cells thoroughly and immediately extract 2 x 20uL into a
+microcentrifuge tubes. First, 60uL of trypan blue was added which made the
+cell suspension too dilute. To the second aliquot taken, 20uL was added to
+constitute a 1:1 dilution.
+
+10\. Perform cell count (Refer to VSOP-007) from collected sample and use the
+Cell Counting Widget (below) to enter data.
+
+11\.  Extract all contents from the centrifuge tube and dispense into the
+prepared growth media. Wash the tube with 5-10 mL of the same growth media to
+extract remaining cells attached to the tube.  
+12\. Transfer the pre-warmed flasks from the 30C incubator into the BSC.
+12:25pm  
+13\. Add required volume of growth media to each flask, ensuring the entire
+surface is coated. Use the 'Bec Drop' to lay down the flasks.``
+
+14\. Transfer and incubate overnight at 30C.
+
+If seeding fromThen...Incubation Conditions  
+VialIncubate overnight before a 50% change the day after seeding30'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required  
+30'C, 5% CO2  
+  
+  
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+

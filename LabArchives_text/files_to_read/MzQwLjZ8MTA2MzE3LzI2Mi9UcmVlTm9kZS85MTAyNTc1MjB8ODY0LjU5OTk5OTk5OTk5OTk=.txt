@@ -1,0 +1,63 @@
+
+
+
+
+
+Process:
+
+  1. Removed cultures from the incubator and placed them in the BSC  
+    1. plate 1 (#6390)`| 13: 24 |`
+    2. `plate 2 (#6391) `| 13: 42 |``
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  and proceeded with staining.
+    1. `plate 1: | 13:27 |`
+    2. `plate 2: | 13:45 |`.
+  5. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  6. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes. 
+    1. plate 1 `| 13:32 - 13:47  |`
+    2. `plate 2 `| 13:47 - 14:02  |
+  7. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  8. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| 13:50|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+
+
+
+Media/Reagents used:
+
+ReagentsReagent IDs  
+dPBSm4217  
+  
+Hoechsts1403  
+
+
+  
+  
+Observations/Summary:
+
+Hoechst stained and imaged samples from cultures 6390 and 6391. Cells seemed
+to have adhered to microcarriers in all media conditions!
+
+
+
+
+Results:
+
+  * Results were;
+    * [X ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,38 @@
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+MILESTONE: Optimise ACF media to promote >50% cell fusion on at least one
+scaffold  
+
+AIM/PURPOSE: To test which ACF media formulation used during proliferation
+results in the most amount of differentiation. To confirm the findings from
+our first two 16 factor DSDs.
+
+HYPOTHESIS: Adding ingredients that were found to improve differentiation in
+EPIC12970 (ethanolamine, p38i, IL-6, IGF-LR3) as well as removing ingredients
+that were found to be detrimental for differentiation in EPIC12970 and
+EPIC15448 (GABA, EGF, LIF) from E810C media will result in a proliferation
+media that allows at least 10 cell doublings followed by differentiation in
+E6. Differentiation after proliferation in this media will be better than
+using serum based proliferation media or just E810C.
+
+RESULTS SUMMARY:
+
+Because the cells in ACF media did not proliferate as expected, we were not
+able to test the downstream effect of these media on differentiation of cells.
+
+CONCLUSIONS: The hypothesis could not be tested.
+
+NEXT STEPS:
+
+We should explore other ACF media formulations to find media that better
+support cell doublings in long-term culture of muscle stem cells. Therefore,
+we will test the use of 'Beefy-9' media that was described by Stout et al 2021
+for our cells. In addition, we will test the passaging method detailed in the
+paper which involved the delayed addition of albumin to ACF media to allow
+better adhesion of cells. We will also test the use of coatings such as
+vitronectin or laminin. See EPIC 19442 for details.  
+
+

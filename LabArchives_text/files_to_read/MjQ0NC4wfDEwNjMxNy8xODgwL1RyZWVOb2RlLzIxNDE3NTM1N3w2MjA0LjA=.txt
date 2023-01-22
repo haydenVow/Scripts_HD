@@ -1,0 +1,232 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+## Performed by:
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mixes (pipette from the top/supernatant of
+antibody solution):
+
+Secondary AntibodyStock #IDAmount of Antibody SolutionAmount of Blocking
+BufferDilution  
+Goat Anti-Mouse (IgG1)  
+5uL5 mL1:1000  
+5uL5mL  
+Goat Anti-Mouse (IgG2b)  
+  
+5uL1:1000  
+5uL5mL  
+HRP-conjugated Goat Anti-Mouse (IgG1)  
+1uL100mL1:100,000  
+HRP-conjugated Goat Anti-Mouse (IgG2b)  
+  
+1uL100mL1:100,000  
+  
+  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+  
+
+4\. Prepared DAPI mix:
+
+   mL  PBS +    uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+  
+
+5\. Prepare the HRP stop solution by mixing acetic acid, TMB and 0.03% H202
+with the volume ratio of 4:1:5.  (Chris thinks the bottle already has the H2O2
+etc in the mix, but check!) Remove PBS+0.05%Tween20 and dispense the HRP
+solution (enough to cover cells) and incubate the plate at in dark for 15 mins
+(this will have to be kept constant going forward to be able to compare
+samples and experim
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ : - : a/pm
+
+ : - : a/pm
+
+ : - : a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  : - : a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Remove secondary
+
+1\.  Removed 2nd antibody solution.  : a/pm
+
+2\.  Washed in 200uL PBS 5 x 5 min at RT in the dark. (No Triton)
+
+ : - : a/pm
+
+ : - : a/pm
+
+ : - : a/pm
+
+  
+
+DAPI staining: Only for MyoD + MF20 fluorescent side
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ : - : a/pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ : - : a/pm
+
+ : - : a/pm
+
+4\.  Replaced dPBS.
+
+ : a/pm
+
+5\. Confirmed staining on microscope by imaging.
+
+  
+
+  
+
+Addition of TMB substrate: Only for MyoD ELISA and MF20 ELISA sections.  
+
+4\. Started peroxidase reaction by adding 100uL of HRP stop solution (acetic
+acid, TMB and 0.03% H202 with the volume ratio of 4:1:5) to respective wells
+(see plate map) and incubating plate at RT for 15 mins.
+
+ : - : a/pm
+
+5\. Quenched reaction with 100uL of 0.5M HCl strictly after 15 minutes and
+observed cyan to yellow colour change.
+
+6\. Pipette mixed and transferred 100uL of the yellow supernatant to a new
+non-treated 96 well plate.
+
+7\. Placed plate in NanoStar plate reader and measured absorbance values at
+450nm
+
+  
+
+
+
+
+  
+
+  * Remove all remaining reagent and wash with PBS 3x to remove and neutralize the HCl.
+  * continue using this original plate for Janus Green as well (on the same samples as ELISA)
+
+Janus Green:
+
+  1. Aspirated PBS from each well.
+  2. Add 1X Janus Green Stain (0.3% solution in PBS) (#M4399) per well, sufficient to cover the cells (100uL in this case for a 96 well plate) and incubate at RT for 5 minutes:
+    1. Start:   a/pm
+  3. Remove dye, wash 5 times in deionized water (200uL each wash) or until excess dye is removed.
+  4. Remove last water wash, add 100uL 0.5 M HCl and incubate for 10 min. : - : a/pm
+  5. Transferred 50 uL of the stained supernatant into the wells of an untreated 96w plate and read absorbance at 605 nm using the NanoStar plate reader.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer  
+  
+dPBS  
+  
+PBST  
+  
+Secondary Antibody Mix  
+  
+DAPI (1:1000)  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

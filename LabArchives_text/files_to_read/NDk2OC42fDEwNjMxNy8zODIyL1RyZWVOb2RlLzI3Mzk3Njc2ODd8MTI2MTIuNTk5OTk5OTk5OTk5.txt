@@ -1,0 +1,203 @@
+
+
+## Performed by:  LL  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Feed information:
+
+Vessel type(s)Vessel IDGrowth MediumVessel location (weekend only)  
+Growth media location (weekend only) Other comments eg media container
+(weekend only)  
+50 mL bioreactor spin tubes  
+  
+  
+
+7665-F_DOLLY12-Sheep P8-1of1
+
+0.1% MC  
+  
+  
+  
+7666-F_DOLLY12-Sheep P8-1of1  
+0.3% MC  
+  
+  
+  
+7667-F_DOLLY12-Sheep P8-1of1  
+0.45% MC  
+  
+  
+  
+7668-F_DOLLY12-Sheep P8-1of1  
+0.6% MC  
+  
+  
+  
+7669-F_DOLLY12-Sheep P8-1of1  
+1% MC  
+  
+  
+  
+7670-F_DOLLY12-Sheep P8-1of1  
+Serum control  
+  
+  
+  
+E125
+
+7671-F_DOLLY12-Sheep P8-1of1
+
+0.45% MC  
+  
+  
+  
+7672-F_DOLLY12-Sheep P8-1of1  
+1% MC  
+  
+  
+  
+7673-F_DOLLY12-Sheep P8-1of1  
+Serum control  
+  
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Process:
+
+### 50 mL shake tubes
+
+  1. Collected 50 mL shake tubes from shaker
+  2. Centrifuged tubes at 300 x g for 5 min.   11:46 - 11:51    
+
+  3. Aspirated   4.5 mL (500 uL remaining)  of supernatant leaving 0.5 mL in the tube, taking extra care to not disrupt or aspirate pellet
+  4. Gently pipette-mixed cultures and took 20 uL samples from each culture and stored in separate microtubes until ready to count
+  5. Loaded 10 x samples onto haemocytometers and observed cells and performed cell counts
+  6. Discarded all cultures as no live cells were found 
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Relevant Images/Figures:
+
+7665: https://mia-capture.vow.tools/#/session/recv8E33FEH1C8imi/images
+
+7666: https://mia-capture.vow.tools/#/session/rec1hA5r5H8Eyqi40/images
+
+7667: https://mia-capture.vow.tools/#/session/recEGJyTRfNLm0rPb/images
+
+7668: https://mia-capture.vow.tools/#/session/recz0XrnfAB6zH6Ww/images
+
+7669: https://mia-capture.vow.tools/#/session/recHNwf5xCX9HhUja/images
+
+7670: https://mia-capture.vow.tools/#/session/recwLSls8cXtbRhWU/images
+
+
+
+
+### Observations/Summary:
+
+7665: lots of debris, no cells
+
+7666: lots of debris, some dead cells, no live cells
+
+7667: lots of debris, some dead cells, no live cells
+
+7668: lots of debris, some dead cells, no live cells
+
+7669: lots of debris, some dead cells, no live cells
+
+7670: minimal to no debris, a few dead cells, no live cells
+
+  
+
+It appears that the methylcellulose precipitates out of solution, based on
+observations of debris with similar appearance in all MC cultures and a lack
+of debris in the control culture (see below)
+
+7670 (control)
+
+7668 (0.6% MC)
+
+

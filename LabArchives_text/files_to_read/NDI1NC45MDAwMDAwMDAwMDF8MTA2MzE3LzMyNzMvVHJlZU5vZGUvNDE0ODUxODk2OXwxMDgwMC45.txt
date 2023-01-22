@@ -1,0 +1,167 @@
+
+
+Completed by Kylie
+
+
+
+
+Introduction
+
+This study focuses primarily on stimulating differentiation and alignment of
+DOLLY12 cells using passive mechanical stimulation. This is achieved through
+employing pin inserts and conical constructs, both of which have been cited
+techniques in literature that promote maturation of cells. For pin inserts,
+there have been several studies including Mei Li and Brittany L. Rodriguez
+that have reported success in obtaining mature muscle stem cells whilst
+employing pin inserts in their experiments. Similarly, the use of conical
+inserts have also resulted in matured muscle formation, as evident in the
+recent patent by Mosa Meats.
+
+In the experiment preceding this, we observed that collagen gel was a suitable
+matrix that allowed cells to proliferate, differentiate and to some degree
+mature. The study however saw that the collagen samples in the pin inserts
+contracted so much that it detached from the pin and a ball formed within the
+first few days in culture. Therefore the full effects on the pin insert could
+not be analysed. In the current study, specifically run 1, we looked into
+increasing the volume of gel + cell mix to observe if this would prevent the
+gel from detaching from the pin and instead create a coherent gel between the
+pins that produced tension. The tension would  enhance myoblast maturation and
+allow us to analyse the effects of the pin insert on cell maturation. In
+addition to this, we were interested to see if different designs and
+specifically steepness to the conical insert would vary the degree of
+contraction and possibly maturation. In run 1, we tested the three different
+conical construct with varying steepness, where n = 1 for each construct and
+in run 2 re-test with more samples and controls to further enhance our study
+and strengthen our results.
+
+  
+
+
+
+
+Key takeaway
+
+  * DOLLY12 cells are able to survive up to 14 days within a collagen matrix and show signs of differentiation and possibly signals for later stage myogenesis (MF20 +)
+  * Fluorescent microscopy is not a suitable method to analyse maturation of 3D structures if no further treatment (slicing) is performed 
+  * Greater contractions of the entire gel occurs when using a conical insert that is less steep (up to a certain degree) 
+  * A greater amount of gel + cell mix is able to prevent the gel from contracting in on itself (for pin insert and no insert cell containing samples) 
+
+  
+
+
+
+
+Results
+
+  
+Run 1 Run 2  
+CMFDA staining  
+Figure 1. D2 CMFDA stain of cell containing pin insert  
+Figure 2. D7 CMFDA stain of cell containing conical insert sample  
+Sample after removing inserts  
+Figure 3. Collagen samples after pin and conical inserts were removed  
+Figure 4. Collagen samples after conical inserts were removed  
+  
+DAPI stain  
+Figure 5. DAPI - conical insert cell containing sample  
+Figure 6. DAPI - conical insert (high steepness) cell containing sample  
+MyoG stain  
+Figure 7. MyoG - conical insert cell containing sample  
+Figure 8. MyoG - conical insert (high steepness) cell containing sample  
+MF20 stain  
+Figure 9. MF20 - conical insert cell containing sample  
+Figure 10. MF20 - conical insert (high steepness) cell containing sample  
+  
+  
+
+
+
+
+Discussion
+
+CMFDA stain
+
+  * For both run 1 and 2, the CMFDA stain showed that there is live cells present in the gel matrix at day 2 for run 1 (figure 1) and day 7 for run 2 (figure 2). Whilst it appears that a large amount of cells are alive, due to absence of dead cell stain, we are unable to determine if live cells make up the majority of cells present. 
+  * For run 1 there are a small amount of cells that appear more elongated, suggesting that differentiation may have occurred. The elongated cells is more prominent in run 2 at day 7, where we observe more and longer elongated cells. Whilst this appears promising, it is difficult to conclude whether or not differentiation has occurred based on images alone. CMFDA is not typically used for tracking differentiation, but rather to show live cells. Therefore we can not rely heavily on the stain to provide conclusive evidence of cells differentiating within the gel matrix. 
+
+  
+
+Appearance of gel sample
+
+  * For run 1 (figure 3), cell containing pin insert samples and no insert sample appear to have little to no contraction. Apart from the white appearance, the gels is almost identical to the control in terms of size and shape. This suggest that having more of the gel + cell mix, may hinder the ability of the gel to contract, given that a previous experiment that used a smaller volume (less than half) of gel + cell mix saw significant contraction. 
+  * In contrast, the conical insert sample, which used a significantly lower volume of gel + cell mix (less than half), saw significant contractions compared to the controls.The contractions furthermore seemed to have varied across the different steepness of the conical inserts, with the least steep insert resulting in the greatest contraction. This is evident in figure 3, where the least steep sample produced the smallest and most contracted ring.
+  * This was confirmed when repeating the study in run 2 (figure 4) with only conical inserts of different steepness. The result showed that the steeper the insert the lower the contraction and larger the ring formation was around the base of the comical insert staff. 
+  * In both run 1 and 2, when the cell containing conical insert gels were removed (using an acupuncture needle), the ring like gel was able to withstand stretching, however did not spring back upon releasing the tension. Furthemore, when samples were cut, often a long thin string like thread would appear as the samples were drawn apart (similar to a stretchy cheese being pulled apart or the thread-like string from a lotus root). This occurrence is expected to be a property of the cells themselves, as the controls did not behave in this manner.    
+
+  
+
+Fluorescent images with DAPI, MyoG and MF20
+
+  * This study is limited by the amount of data that can be drawn from the fluorescent images. Many challenges were faced when taking images of the samples. Due to the 3D structure of the gel, the cells are present throughout the gel matrix, making it difficult to focus on any one region. As a result the images appear as a transparent bright cloud, that is blurry due to the background fluorescent of the out-of-focused cells. In addition to this, the sheer quantity of cells further makes it difficult to obtain a image that is not overexposed, as each cell will fluoresce and in turn will appear as a bright clump of fluorescent. 
+  * This phenomenon occurs in all the fluorescent images with DAPI, MyoG and MF20 stain for both run 1 and 2 (Figure 5 to 10). It is therefore difficult to gather any conclusive quantitative data form the fluorescent images. 
+  * There were attempts to adjust the image brightness/contrast and merge the DAPI, MyoG and MF20 images together with colour overlay using ImageJ, however the results of this did not yield useful information. When overlaying, the whole gel seemed to be fluorescing one main colour; either blue for DAPI, green for MyoG or red for MF20, making it difficult to see any other florescent. This was a result of one of the images being more overexposed or brighter and therefore dominating over the other images that were less bright. As a result, it had a false impression that there is more of a particular stain present. In addition to this, the gel included the florescent from both the background and focused cells, resulting in a blurry coloured image. Refer to figures in result and analysis lab book. As a result, it did not seem useful to overlay the images and in fact would have been be less accurate to draw conclusions from these merged images.   
+  * Based on the individual monochrome images, we are able to conclude that cells were able to survive up to 14 days. Although difficult to see, we can gather from the positive MyoG stain, that the cells have differentiated and have even begun to express MF20 signals. We are unable to conclude if the cells actually formed myotubes given that the images do not show the long fluorescent stain that is characteristic of a well developed myotube. Rather there a small bright spots. It is not obvious why this is the case, but some possible causes may be that the cells have switched to producing MF20, however have not fully fused with many neighbouring cells on different planes to form long myotubes. Another reason may be that the cells have not been detected given the amount of background noise present. 
+
+  
+
+
+
+
+Limitations
+
+Image analysis
+
+  * Being a 3D structure, there are too many cells on different planes of the structure, causing the overall image to appear as a bright semi transparent clouds and with majority of the stained cells being indistinguishable. The large amount of cells present in each sample further contribute to overexposed and patchy images with bright spots.  
+  * The zaber image is able to capture the whole scaffold, however at 2.5 x objective, it is difficult to distinguish individual signals. Upon imaging with the axio, we are able to see more clearly the individual signals, however they still appear over exposed. 
+  * Smaller samples were taken from the gels to image, and therefore the fluorescent images themselves may not be reflective of the whole sample 
+  * Due to the overexposure and background noise, we are unable to overlay the images nor obtain any quantifiable results. 
+
+  
+
+Feed limitations
+
+  * Due to the fragile nature of the gel, we are unable to move the cells immediately after seeding. This may be an issue as the media is yellow the day after seeding. Even after daily 100% feeds over the next couple days, the media turns yellow. This is a indication that the cells have depleted the nutrients present in the media and have released metabolites, which in high concentrations would be fatal to the cells. This occurrence is not ideal, and may have resulted in some cell death. Compared to other experiments and practices, significantly less cells have been seeding in the given volume of media present. For this experiment, on average around 10.5 M cells were seeded into one of the gels, which if compared with regular 2D culture, is over 400x more cells despite providing the same volume of media. 
+  * For run 1, during feeds, the pin inserts would often lift out of the gel samples. Therefore the effects of the pin insert cannot be conclusive given that it detached from the sample entirely and rendered in unless. 
+
+  
+
+Other limitations
+
+  * This study was performed with DOLLY12 cells, therefore we cannot conclude if this technique will work for other cell lines 
+  * The sample size is relatively small and therefore only one sample could be sacrificed for CMFDA staining. Therefore it is a possibility that it does not representation of the rest of the population
+
+  
+
+
+
+
+Future directions
+
+  * Modify design of the pin insert so that the inserts can not easily detach from the pin when removing the plate. For example the pins could be attached to a circle disc, in which the disc would sit on the bottom of the well plate. This would prevent the gel from detaching when the lid is lifted or if the pins were to move. It would have a side view of: ∐ . 
+  * having thinner samples during staining to minimise exposure from unfocused cells through slicing thinly or using other techniques like confocal microscopy to image 
+  * trial with another cell line to see if there are differences between cell type 
+  * include more samples during the staining events 
+  * re-testing with different amounts of gels to see if this has an impact on contraction and fusion 
+  * provide samples for product team to test 
+
+
+
+
+Reference
+
+Li, M., Dickinson, C., Finkelstein, E., Neville, C. and Sundback, C., 2011.
+The Role of Fibroblasts in Self-Assembled Skeletal Muscle. Tissue Engineering
+Part A, 17(21-22), pp.2641-2650.
+
+Robert Yaman. 2021. Patent Analysis: Mosa Meat and Scalable Differentiation --
+Robert Yaman. [online] Available at: <https://www.robertyaman.com/blog/patent-
+analysis-mosa-meat-and-scalable-differentiation> [Accessed 5 October 2021].
+
+Rodriguez, B., Florida, S., VanDusen, K., Syverud, B. and Larkin, L., 2018.
+The Maturation of Tissue-Engineered Skeletal Muscle Units Following 28-Day
+Ectopic Implantation in a Rat. Regenerative Engineering and Translational
+Medicine, 5(1), pp.86-94.
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+Process:
+
+Pipeline calculator:
+https://docs.google.com/spreadsheets/d/1QSLvrJT51UKVEmEKlh1LCGbbrXWJ_W2-G4nBaXvj6O8/edit#gid=1593670137
+
+  1. Prepare the following reagents:
+    * ~`65mL"DMEM/F12"`
+      * `32.5 mL` DMEM
+      * `32.5 mL`  F12
+      * `0.130 mL` pen/strep
+      * `35.3 mg` sodium bicarb
+      * filter sterilise
+  2. Any reconstitution buffers identified in this experiment's pipeline calculator
+  3. Prepare working stocks of each factor
+    1. Refer to the "Factor Calcs" tab of your pipeline calculator to find uL amounts of `"DMEM/F12"` and concentrated stock needed to create a working stock for each factor.
+    2. Label one 96 Deep Well Plate as "Stock Plate", and add the uL amount of `"DMEM/F12"`for each factor in the following arrangement:
+      1. Factor 1 through 8- A1 through H1
+      2. Factor 9 through 16- A2 through H2
+    3. Next, add the uL amount of `concentrated stock` for each factor to the stock plate using the same arrangement as above.
+  4. Seal plate with adhesive plate seal and store in the fridge (4 degrees C).
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+F12s1960  
+DMEMs1640  
+P/Sa3715  
+Sodium bicarbs639 (35mg)  
+B-27 supplements1545  
+GDNFm4516  
+NT3m4518  
+NT4m4517  
+aFGFm4521  
+VEGF-165m4395  
+CNTFm4627  
+CT-1 (cardiotrophin-1)m4576  
+BDNFm4519  
+BMP2m4520  
+hLIFa4530  
+hEGFm4297  
+IGF1-LR3 from ORFm3644  
+fibronectins883  
+vitronectinfrom advanced biomatrix. Cat no. 5051-0.1MG  
+poloxamer 188 (F68) 100g/L stockm3252  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Made working stocks of 16 factors according to linked excel sheet.
+
+B-27 supplement stock is a yellow colour, it's working stock is also yellow
+(as opposed to pink for the other working stocks). It's possible once it's
+diluted to make the conditions it will be fine.
+
+There was only 100uL of BMP2 (instead of the planned 115.2uL) so 15.2 uL of
+"DMEM/F12" was added to that well to make up the difference.
+
+A drop of the pluronic 188 went into well containing CNTF working stock.
+
+While pipetting concentrated stock of vitronectin into the DWP, the tip fell
+off into the adjacent well (which contained DMEM/F12 and was designated to be
+the well for P188). I reattached the tip and added to the correct well. It
+didn't look like any of it had gone flowed out of the tip while it had fallen
+into the wrong well but noting it here just in case.
+
+  
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

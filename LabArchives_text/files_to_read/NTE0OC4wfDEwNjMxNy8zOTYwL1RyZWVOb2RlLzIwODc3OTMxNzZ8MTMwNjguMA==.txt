@@ -1,0 +1,252 @@
+  
+  
+Perform passage using below volumes:  
+
+
+
+
+Performed by: Bonnie  
+
+
+
+
+Media
+
+DMEM/F12 +20% FBS + 1 x P/S
+
+M199 + 20% FBS +1x p/s
+
+
+Harvested Culture ID  
+Harvested vessel type  
+Seeded Vessel ID  
+Seeded Vessel Type  
+  
+7973 and 7972  
+T75  
+T1758053  
+8054  
+T175  
+8055  
+8056
+
+
+  
+  
+50% feed on remaining cultures  
+
+vessel typeFrom Digestion methodCulture ConditionsCoatingTemp IDMia Link  
+6-well plate  
+T25  
+30 C Collagen  II + DispaseM199 + 20% FBS + 1x P/SNone  
+308000  
+8003  
+https://mia-capture.vow.tools/#/session/recA7zVZQ7m1rIJ7m/images  
+https://mia-capture.vow.tools/#/session/recIKqVdZwV4Bb8U8/images  
+  
+T175Trypsin DMEM/F12 +20% FBS + 1x P/SNone  
+307999  
+8002  
+https://mia-capture.vow.tools/#/session/recwimQD88w25IjQu/images  
+https://mia-capture.vow.tools/#/session/recvoXLlhWmEaYhrv/images  
+  
+6-well plateTrypsin M199 + 20% FBS + 1x P/SNone  
+308001  
+https://mia-capture.vow.tools/#/session/recCADYoaVYmu5sMD/images  
+
+
+  
+  
+### Process:
+
+For feeds: Heat the following to 30C in the water bath
+
+1. 30mL DMEM + 20% FBS + 1 x PS (for cultures 7999 and 8002)  
+2. 9mL M199 + 20% FBS + 1 x PS (for cultures 8001, 8000 and 8003)  
+
+For Passage: Heat the following to 30C in the water bath
+
+  1. TrypLE:     15  mL in      1   tubes
+  2.  dPBS (for neutralising):     15 mL
+  3.  dPBS (for washing):       15 mL
+  4. DMEM + 20% FBS + 1 x PS for pellet resuspension):     5   mL
+  5. DMEM + 20% FBS + 1 x PS  for seeding     90    
+
+Time that all aliquots were placed in the water bath the warmed to 30C before
+use   11:31  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Feed  
+1\. 50% media removed from each vessel  
+2 Replaced with 50% respective fresh media (see table below)  
+3\. Returned to cell culture incubator #77, 5% CO2, 30C. 11:52
+
+
+
+
+Passage and freeze  
+
+  1.  Removed vessel(s) 7973 and 7972 from the incubator   11:54   
+
+  2. Washed the vessel(s) with dPBS (warmed).
+  3. Added 10ml (T175) and 5mL (T75) tryple to each vessel/well and incubated at 30˚C.
+  4. Start/Finish for TrypLE was     12:00-12:10  
+
+  5. Neutralised each with with   dPBS (equal to volume of tryple) and transferred to   15 mL    tubes.
+  6. Centrifuged at 650 x g for 5 min.
+  7. Start/Finish time for centrifugation was   12:15-12:20  
+
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in   5  mL   growth   media
+  10.  Aliquoted   30uL  of resuspended cells into a microcentrifuge tube for cell count.
+  11. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+  
+
+    1. Total cell count was: approximately 11.0M cells
+    2. Re-seeded approximately 5M cells into 4x T175 flasks, giving a seeding density of 7K/cm 
+    3.   
+
+    1. 13\. Incubate at 30C and 5% CO2. 13:000
+    2. The remaining cells were frozen as described bellow  
+
+
+
+
+
+
+
+Cryo-preservation of cells
+
+Because so many cells were harvested, it was decided to bank some cells as an
+MCB. When we thawed a vial of CHOMP homogenate last recently, it took over 10
+days for them to adhere to the the culture vessel and these cells have not
+been proliferating well. To assess the affects of freezing protocols on these
+cells, the cells banked today were frozen in 1 of 3 freeze medias. 2 vials of
+500K cells were frozen in each freeze medium type. Note: a small amount of
+cell suspension was lost due to the pippete tip falling off onto the bench, so
+I was only able to freeze the 9x  vials at 500K each.
+
+1\. Cryosofree (DMSO free cryostor)  
+2\. Cryostor standard  
+3\. FBS +10 % DMSO
+
+1\. 3x 1.5M cell suspension was transferred into 3x 15M tubes 13:20  
+2\. Centrifuged at 650g for 5min 13:30-13:35  
+3\. Resuspended cell pellet in one of the above medias for each tube  
+4\. Transferred to cryovials in 500ul cell suspensions (500k cells/vial)  
+5\. Placed in Mr Freeze, 4th freeze, with foam, and placed in -80C freezer
+13:50
+
+  
+
+  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+  
+7972  
+7972
+
+  
+
+9  
+500K  
+CRYOSTOR WITHOUT FREEZE MEDIA  
+3428-Culture-7972-Vial-1of3  
+3429-Culture-7972-Vial-2of3  
+3430-Culture-7972-Vial-3of3  
+  
+CRYOSTOR FREEZE MEDIA  
+3424-Culture-7972-Vial-1of3  
+3426-Culture-7972-Vial-2of3  
+3427-Culture-7972-Vial-3of3  
+  
+FBS + 10% DMSO  
+3431-Culture-7972-Vial-1of3  
+3432-Culture-7972-Vial-2of3  
+3433-Culture-7972-Vial-3of3  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple A6097  
+  
+dPBS (for washing & neutralising) A6414  
+  
+Growth Media DMEM/F12 M6790  
+  
+Growth Media M199 M6778  
+  
+Cryostor  
+S 2770  
+  
+Cryostor without DMSO  
+S3641  
+  
+DMSO  
+A 3931  
+  
+FBS  
+A6443  
+  
+  
+  
+
+
+
+
+  
+
+vessel typeFrom Digestion methodCulture ConditionsCoatingTemp IDMia Link  
+T25  
+T175  
+30C Collagenase +Dispase  
+DMEM/F12 +20% FBS +1x p/s  
+None  
+30  
+7972  
+7973  
+https://mia-capture.vow.tools/#/session/recguKUz1t7cwir5n/images  
+https://mia-capture.vow.tools/#/session/recl9nBiq0UHdtjIs/images  
+  
+6-well plate  
+T25  
+30 C Collagen  II + DispaseM199 + 20% FBS + 1x P/SNone  
+308000  
+8003  
+https://mia-capture.vow.tools/#/session/recA7zVZQ7m1rIJ7m/images  
+https://mia-capture.vow.tools/#/session/recIKqVdZwV4Bb8U8/images  
+  
+T175Trypsin DMEM/F12 +20% FBS + 1x P/SNone  
+307999  
+8002  
+https://mia-capture.vow.tools/#/session/recwimQD88w25IjQu/images  
+https://mia-capture.vow.tools/#/session/recvoXLlhWmEaYhrv/images  
+  
+6-well plateTrypsin M199 + 20% FBS + 1x P/SNone  
+308001  
+https://mia-capture.vow.tools/#/session/recCADYoaVYmu5sMD/images  
+
+

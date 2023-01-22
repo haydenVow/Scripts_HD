@@ -1,0 +1,189 @@
+
+
+## Completed by: LL VB  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used  
+Growth/Proliferation Mediam7929  
+90 mL  
+  
+IGF-1  
+a7964  
+90 uL  
+  
+FGF-Bm5077  
+180 uL  
+  
+dPBSa7539  
+135 mL  
+  
+P53i  
+m6879  
+220 uL  
+  
+  
+  
+
+
+
+
+Culture IDs
+
+Flask ID(s)  
+ConditionSeeded Flask Type  
+8792-F_CHOMP09-Crocodile P8-1of1  
+Condition 1  
+10 uM P53i, 300 mj/cm2 UV100 mm plate  
+8793-F_CHOMP09-Crocodile P8-1of1  
+Condition 2  
+10 uM P53i, 150 mj/cm2 UV  
+8794-F_CHOMP09-Crocodile P8-1of1  
+Condition 3  
+30 uM P53i, 300 mj/cm2 UV  
+8795-F_CHOMP09-Crocodile P8-1of1  
+Condition 4  
+30 uM P53i, 150 mj/cm2 UV  
+8796-F_CHOMP09-Crocodile P8-1of1  
+Control 1  
+0 uM P53i, 300 mj/cm2 UV  
+8797-F_CHOMP09-Crocodile P8-1of1  
+Control 2  
+0 uM P53i, 150 mj/cm2 UV  
+  
+8798-F_CHOMP09-Crocodile P8-1of1  
+Control 3  
+30 uM P53i, 0 mj/cm2 UV  
+  
+8799-F_CHOMP09-Crocodile P8-1of1  
+Control 4  
+0 uM P53i, 0 mj/cm2 UV, + heat (12.5 min)  
+  
+8800-F_CHOMP09-Crocodile P8-1of1  
+Control 5  
+0 uM P53i, 0 mj/cm2 UV  
+
+
+  
+  
+Procedure
+
+  1. Assign and label each plate to a condition as listed below:
+    1. Condition 1: 10 uM P53i, 300 mj/cm2 UV
+
+    2. Condition 2: 10 uM P53i, 150 mj/cm2 UV
+
+    3. Condition 3: 30 uM P53i, 300 mj/cm2 UV
+    4. Condition 4: 30 uM P53i, 150 mj/cm2 UV
+
+    5. Control 1: 0 uM P53i, 300 mj/cm2 UV
+
+    6. Control 2: 0 uM P53i, 150 mj/cm2 UV
+
+    7. Control 3: 30 uM P53i, 0 mj/cm2 UV
+
+    8. Control 4: 0 uM P53i, 0 mj/cm2 UV, + heat (12.5 min)
+
+    9. Control 5: 0 uM P53i, 0 mj/cm2 UV
+
+  2. Prepared media aliquots and reagents. Placed in water bath 12:05
+
+    1. 20 mL x  dPBS + 40 uL P53i (10 uM)
+
+    2. 30 mL x  dPBS + 180 uL P53i (30 uM)
+
+    3. 30 mL x  dPBS (no P53i) 
+
+    4. 90 mL x growth medium + 100 ng/mL IGF-1 and FGF-B 
+
+  3. Set up UV lamp inside BSC clamped in retort stand.  
+
+  4. Bring "Condition 1" plate into BSC. Remove growth medium and wash with 5 mL dPBS. Replace with 10 mL dPBS + 10 uM P53i.  
+
+  5. Place on ice block
+
+  6. Place plate under lamp (~10 cm from bulb) and turn on light. 
+
+  7. Remove plate after 12.5 min (300 mj/cm^2).
+
+  8. Replace dPBS with fresh, warmed growth medium + 100 ng/mL FGF-B and IGF-2  
+
+  9. Repeat steps 5-9 for conditions 2-4 and controls with P53i and UV levels as listed in table below. For "Condition 6", leave cells in dPBS + P53i for 12.5 minutes before replacing with growth medium. For "Control 5" plate, simply perform a 100% feed with growth medium + 100 ng/mL IGF-1 and FGF-B. 
+
+  
+P53i conc. (uM)P53i vol  (uL/mL)UV-irradiation (mj/cm2)UV-irradiation
+(minutes)Timestamp for lamp exposure  
+  
+Condition 110230012.513:03 - 13:15  
+  
+Condition 21021506.2512:39 - 12:45  
+  
+Condition 330630012.513:03 - 13:15  
+  
+Condition 43061506.2512:39 - 12:45  
+  
+Control 1  
+0030012.513:03 - 13:15  
+  
+Control 2  
+0  
+0  
+150  
+6.25  
+12:39 - 12:45  
+  
+Control 3  
+30  
+6  
+0  
+0  
+Foil covered in hood away from light - 13:03 - 13:15  
+  
+Control 4  
+0  
+0  
+0  
+12.5  
+13:03 - 13:15  
+  
+Control 5  
+0  
+0  
+0  
+0  
+N/A (100% fed at 13:00)  
+  
+
+
+
+
+  
+
+Condition 1-4:
+
+8792: https://mia-capture.vow.tools/#/session/recx2AHH9fEOVUUiw/images
+
+8793: https://mia-capture.vow.tools/#/session/recxNPYlOAWF1Px5i/images
+
+8794: https://mia-capture.vow.tools/#/session/recH7RqPnZEOMhGA0/images
+
+8795: https://mia-capture.vow.tools/#/session/receOtW3vglQqTGlv/images
+
+  
+
+Control 1-5:
+
+8796: https://mia-capture.vow.tools/#/session/recvlMM18Wvy8D8fg/images
+
+8797: https://mia-capture.vow.tools/#/session/recGzLA5axkE7j9wG/images
+
+8798: https://mia-capture.vow.tools/#/session/recFFMG8nJCsPkdmY/images
+
+8799: https://mia-capture.vow.tools/#/session/recMCUL2w3pFPjlEi/images
+
+8800: https://mia-capture.vow.tools/#/session/rec336x5dQy1kntPo/images
+
+

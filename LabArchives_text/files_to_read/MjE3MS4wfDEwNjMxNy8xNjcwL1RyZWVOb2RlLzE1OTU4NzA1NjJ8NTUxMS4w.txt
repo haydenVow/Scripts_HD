@@ -1,0 +1,160 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+6812  
+96wp  
+80  
+
+
+  
+  
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    40 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  12 µL   Secondary #1   (1:1000 ) +  12 µL   Secondary #2   (1:1000 ) +  12
+mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+ ~~4\. Prepared DAPI mix:  ~~
+
+ ~~   mL  PBS +    uL  of DAPI~~
+
+ ~~ ~~Vortexed DAPI mix and stored refrigerated away from light until
+needed.~~~~
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG  
+IGg1  
+AF488  
+1:1000  
+  
+MF20  
+IGg2b  
+AF555  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aspirated primary antibody mix.
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 16:13 - 16:18  
+
+ 16:20 - 16:25  
+
+ 16:25 - 16:30
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  16:30 - 17:30  
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed secondary antibody mix.  17:30  
+
+ ~~2.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark. ~~
+
+ ~~  : - : a/pm ~~
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 17:30 - 17:35  
+
+ 17:35 - 17:40  
+
+4\.  Replaced dPBS.
+
+ 17:45
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Scaffolds stained with AF488 and AF555 secondary antibodies
+
+\- Preliminary look under the Axio showed no signal on either channel, however
+DAPI signal is still strong
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+dPBSm5282  
+  
+Secondary Antibody AF488s1606  
+  
+Secondary Antibody AF555  
+s1966  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...expected to see at least MyoG on gelatin scaffolds
+    * [x]  Need to be further analysed - need to image entire plate on zaber 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+### Secondary stained images here (6812-DOLLY12-Sheep P13-1of2 - Wednesday, 9
+June 2021): https://mia-capture.vow.tools/#/session/recLU9Djvva57qYjS/images
+
+

@@ -1,0 +1,180 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Culture IDs:
+
+Clone  
+Harvest flask IDCryovial ID  
+  
+ZIC1 1E  
+11835  
+11836  
+14684  
+  
+ZIC1 3B  
+11789  
+14690  
+14691  
+  
+ZIC1 2C  
+11834  
+14688  
+14689  
+  
+IGFBP4 4B  
+11792  
+14682  
+14683  
+  
+ZIC1 3A  
+11788  
+14678  
+14679  
+  
+PTEN + PABPC1 2E  
+11790  
+14680  
+14681  
+  
+ZIC1 1F  
+11787  
+14676  
+14677  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem10659  
+  
+dPBS (for washing & neutralising)a12072  
+  
+Cryostor CS10  
+s5336  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent at room temp  
+
+  1. TrypLE:     80    mL 
+  2.  dPBS (for neutralising):     80    mL
+  3.  dPBS (for washing):     80   mL  
+
+  
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10mL   tryple to each vessel/well and incubated at 30˚C.
+
+7\. Neutralised with     equal volume    dPBS  and combined cell suspension
+into   7 x 50mL     tubes.
+
+8\. Centrifuged at 500 x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellets in    2  mL of cryostar CS10, cells were then
+transferred to 2 cryotubes (1ml/cryotube) and placed in a Mr Frosty and moved
+to the -80 freezer in library lab.  
+  
+
+
+
+
+Observations/Summary:
+
+Re. cultures prior to harvest (see images on mia capture for reference):
+
+\- Culture ID 11790 (P+P 2E) had a lot of debris.
+
+\- Culture ID 11788 (ZIC1 3A) showed beautiful alignment and was evenly
+confluent.
+
+\- Culture ID 11792 (Igfbp4 4B) showed uneven seeding thus, confluence.
+
+\- Culture IDs 11835 and 11836 (ZIC1 1E) did not show 100% confluence however,
+given there were 2 x T175 seeded with this ZIC1 clone and I wanted to bank all
+T175 at the same time thus, I proceeded to do so.
+
+I was meant to bank 4 x cryovials of clone ZIC1 1E however, after having a
+look at the pellet size and observing it was comparable to the pellet size of
+the rest of the clones, I decided to only bank 2. I spilt one of them inside
+the BSC so I ended up only banking one cryovial for this clone.
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

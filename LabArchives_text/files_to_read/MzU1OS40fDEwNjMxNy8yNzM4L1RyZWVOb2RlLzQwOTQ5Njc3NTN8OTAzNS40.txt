@@ -1,0 +1,80 @@
+
+
+Adaptation of fibroblasts to suspension culture is critical if we want to
+achieve hand off of this product to production by the end of Q3.
+
+Vow aims to feed billions of people. To achieve this scale, we need to be
+growing cells in suspension in a large bioreactor. Thus, we need to achieve
+suspension culture of fibroblasts as soon as possible.
+
+Fibroblasts were not successfully adapted to suspension in this trial.
+
+Fibroblasts placed into a 50mL tube in DMEM/F12+20%FBS+1xPS declined in number
+and viability rapidly. By Day 5 post-suspension adaption, there were
+approximately 500k cells left in suspension and by Day 7, over 90% of those
+remaining cells were dead. These control cells mirrored the results seen in
+suspension adaptation attempt #1. Fibroblasts treated with 1:500 anti-clumping
+agent behaved similarly. Fibroblasts treated with 1:100 anti-clumping agent
+recorded 6 days of proliferation and achieved ~95% viability. Fibroblasts
+treated with 1:100 Revita cell (a ROCK inhibitor) also achieved ~95%
+viability, though not as quickly as the fibroblasts treated with anti-clumping
+agent. It appears that the incorporation of 1:100 anti-clumping agent may
+assist with adaptation to suspension culture and the combination of ROCKi with
+anti-clumping agent should be explored.
+
+The media may not be optimised for suspension culture
+
+There are a number of specific medias that are supposedly optimised for
+suspension culture. These include HyClone CDM4Avian, HyClone HEC293, HyClone
+ActiPro, and HyClone CHO cells. We will order some of these basal medias which
+have more concentrated micro and macronutrients to support growth of cells at
+a higher density in suspension. These medias also may include ingredients that
+specifically support suspension culture of cells.
+
+Including other components to the media may also allow us to achieve
+suspension. RGD and YIGSR peptides are commercially available and bind
+fibroblast integrins. Fibroblast integrins typically bind other fribroblasts
+or the bottom of a plastic flask or plate in adherent culture. Thus, binding
+these intergrins may induce signalling that compels fibroblast to proliferate
+in suspension as if they were bound to a plastic culture plate.
+
+In addition, serum contains a variety of proteins that facilitate cell
+adherence. Perhaps reducing the amount of serum in our media will encourage
+adaptation of fibroblasts to suspension. Inclusion of components like knock-
+out serum replacement or growth factors like IGF, PDGR, or FGF may encourage
+proliferation of fibroblasts even in the absence of serum.  
+  
+50mL tubes successfully supported these experiments.
+
+This was the first time we trialed using 50mL tubes for suspension adaptation.
+It appears that we can successfully use this model in the future.
+
+  
+
+Proposed next steps for subsequent trials of suspension culture adaptation
+
+5 x conditions: Hyclone suspension medias + 10% FBS + RGD & YIGSR peptides +
+1:100 anti-clumping agent
+
+5 x conditions: Hyclone suspension medias  \+ Knockout serum replacement + RGD
+& YIGSR peptides \+ 1:100 anti-clumping agent
+
+5 x conditions: Hyclone suspension medias  \+ 100ng/mL FGF, IGF1, PDGF + RGD &
+YIGSR peptides \+ 1:100 anti-clumping agent + (ACF edition)
+
+  
+
+  
+
+In addition, we should try to adapt fibroblasts to suspension from an earlier
+stage, i.e. directly after fibroblasts are isolated from a biopsy or from a
+nearly-raw isolate stage. We have a new biopsy coming in the first week of
+July that we can test this with. We can also test it with chicken fibroblasts
+that were just barely isolated before being frozen down. The fibroblasts used
+in this experiment have been grown with 20% FBS for ~10 passages and thus may
+be adapted to prefer adherent culture and large amounts of serum more than
+cells frozen down at a very early passage.
+
+  
+
+

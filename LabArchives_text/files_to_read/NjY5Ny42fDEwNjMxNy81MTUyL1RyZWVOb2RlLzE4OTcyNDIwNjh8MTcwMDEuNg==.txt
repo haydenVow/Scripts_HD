@@ -1,0 +1,81 @@
+
+
+## Completed by: AK
+
+
+
+
+Single cell cloning (SCC) is the process by which a single cell is isolated
+from a multiclonal or heterogonous population of cells to generate a clonal
+population that is genetically identical [1]. Traditional SCC protocols used
+at Vow are characterised by FACS sorting individual cells into separate wells
+of a 384-well plate, such that any population derived from those cells are
+classified as "clonal". Wherein, each daughter cell originates from a single
+parent cell and are thus genetically identical. However this attempt at SCC
+intends to combine the current SCC pipeline for adherent cells with ultra low
+attachment (ULA) plates and/or coatings. ULA plates and coatings are designed
+to prevent cell adhesion onto culture-ware surfaces, thus resulting in a
+rudimentary prototype to evaluate our current suspension SCC pipeline. ULA
+plates are typically purchased commercially, however their limited
+availability and substantially high price limits the high throughput
+capabilities required to process a significant number of clones per month.
+Therefore to mitigate this issue, ULA coatings will be tested as alternatives
+to the standard commercial products in their effectiveness in preventing cell
+adhesion, specifically crocodile fibroblasts. The rationale is that by
+preventing cell adhesion, ULA coatings will result in the crocodile
+fibroblasts being suspended in growth medium due to being unable to adhere, as
+such mimicking suspension culture conditions. If successful, crocodile
+fibroblasts will be sorted into 384-well plates coated with these compounds
+and processed using the newly developed suspension SCC pipeline.
+
+  
+
+Background on ULA plates and coatings:
+
+According to manufactures of ULA plates, these products are designed using a
+covalently bound hydrogel layer that effectively inhibits cellular attachment
+whilst simultaneously minimising protein absorption and cellular activation
+[2]. ULA attachment plates are typically used for the generation of spheroids,
+which are cell aggregates that self-assemble in an environment that prevents
+cell attachment to a flat surface [3]. Due to FACS sorting individual cells it
+is not currently anticipated that this will be an issue. However if the ULA
+plates prevent cell adhesion and the crocodile cells survive in suspension,
+they may potentially form spheroids as they divide close to one another.
+Previous experiments investigating the hanging drop technique found that
+fibroblast cells did not survive once they formed spheroids, likely due to
+necrotic cores [4]. In addition to testing ULA plates, ULA coatings will be
+investigated for their ability to prevent cellular attachment, in the hopes of
+expanding our throughput beyond the commercial ULA plates. Typical coatings
+involve agarose, polyHEMA, pluronic F-127 and poloxamer 407. Unfortunately
+several of these of these coatings have not been evaluated in preventing
+adhesion for primary crocodile fibroblasts. Consequently they will need to
+troubleshooted prior to incorporating them in this current suspension SCC
+experiment. Fortunately, agarose and pluronic F-127 have been evaluated in a
+previous experiment, however the agarose was found to degrade and detach from
+the T-25 flask surface it was coated in and the pluronic F-127 did not prevent
+the attachment of fibroblast cells, at a concentration of 0.1% [4]. Therefore
+prior to including these coatings they will first have to be evaluated in
+preventing cell attachment in 96 well plates. If successful they will then be
+included in addition to commercial ULA plates and processed using the
+suspension SCC pipeline.
+
+  
+
+  
+
+References:
+
+[1] Longo, P.A., Kavran, J.M., Kim, M.S. and Leahy, D.J., 2014. Single cell
+cloning of a stable mammalian cell line. Methods Enzymol, 536, pp.165-172.
+
+[2] https://www.sigmaaldrich.com/AU/en/product/sigma/cls7007
+
+[3] Białkowska, K., Komorowski, P., Bryszewska, M. and Miłowska, K., 2020.
+Spheroids as a type of three-dimensional cell cultures--Examples of methods of
+preparation and the most important application. International journal of
+molecular sciences, 21(17), p.6225.
+
+[4] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDg5MC42fDEwNjMxNy8zNzYyL1RyZWVOb2RlLzIxODMwNDE3MTZ8MTI0MTQuNTk5OTk5OTk5OTk5
+
+

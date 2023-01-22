@@ -1,0 +1,260 @@
+
+
+## Performed by: kk  
+
+
+
+
+
+
+
+## Culture IDs
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2CF  
+8990-BUFFY6-Water Buffalo P7-2of2  
+NA  
+  
+  
+2CF  
+8824-DOLLY12-Sheep P7-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Reagent preparation:
+
+  1. Aliquot reagents following the table below: 
+
+Note: Tryple needs to be completely warm before using otherwise cells will not
+detach
+
+ReagentStandard QuantityQuantity used Timestape
+(waterbath/incubator)Mix/Aliquot/Stock ID  
+Growth media (seeding)T175 = 30 mL  
+4CF = 600 mL  
+5CS = 750 mL  
+10CF/CS = 1500 mLna  
+na  
+  
+  
+Growth media (re-suspension)T175 = 1 - 1.5 mL  
+4CF= 10 mL  
+5CS = 10 mL  
+10CF/CS = 20 mL  
+  
+  
+  
+  
+p38iVolume of prepared growth media / 2000  
+  
+  
+  
+TrypleT175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+200 ml  
+14:30  
+a5229  
+  
+dPBS (wash - 37)T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+200 ml  
+14:30  
+  
+a7481  
+  
+dPBS (neutralise - ambient temp) T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+200 ml  
+  
+  
+a7481  
+  
+  
+Gelatin T175 = 15 mL  
+4CF= 250 mL  
+5CS = 300 mL  
+10CF/CS = 500 - 550 mL  
+na  
+na  
+na  
+  
+  
+  
+
+
+
+
+## Image flask
+
+  1. Observed flask under the microscope at 4x or 5x objective for even cell distribution and < 50% confluency. Refer to VSOP006_0
+  2. Took at least 3 images per flask and returned flask back to incubator.
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask 
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+
+
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. Flask 1 `Time stamp`: 15:25 - 15:35 (DOLLY)
+    2. Flask 2 `Time stamp`:15:25 - 15:35 (BUFFY)
+    3. Flask 3 `Time stamp`:
+
+  
+
+
+
+
+  1. Collected TrypLE solution into 225mL centrifuge tubes
+  2. Wash flask with ambient temperature dPBS and transferred into centrifuge tube. 
+  3. Centrifuged at 650 x g for 5 minutes. 
+    1. `Start time stamp` :15:40 - 15:45
+    2. `End time stamp` : 16:04 - 16:09 (re run)
+
+  
+
+
+
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirated the supernatant from the tubes, prioritising those with cells first *. Discarded supernatant. Removed remaining supernatant with a 1mL pipette.
+  2. Resuspend the pellet in 1 mL of growth media at a time. Pooled into one tube. Washed tubes labeled with * with remaining growth media by transferring media from one tube to the next.
+  3. Measure the total volume of the cell resuspension using a serological. Total resuspension volume = 10 mL of PBS
+  4. Using the same serological, pipette mix cell suspension to ensure a homegenous cell suspension is obtained. 
+  5. Immediately aliquot 1 x    10 uL  of cell resuspension into cell count tubes. Volume of cell suspension is below:  
+
+  
+
+
+
+
+  1. Triturated the obtained cell suspension 10 times (careful not to make bubbles) and transfer into trypan blue.
+  2. Triturated the cells suspended in trypan blue at least 10 times (careful not to make bubbles) and transfer 10 uL onto haemocytometer.
+  3. Performed cell count and enter details into "Seed Calculator" (see below). DOLLY (12720000) first followed by BUFFY (8920000)
+
+
+
+
+Seeding density table:
+
+
+
+
+Freeze samples
+
+  * estimate of 2 mg for proteomics and 12 mg for lipodomic studies
+  * After centrifuging cells, remove tryple/PBS and resuspend in growth media. 
+  * Measure weight of 1 x 50 mL tube
+  * Combine cell pellets into one the 50 mL tube and centrifuge 
+  * Remove growth media and resuspend/wash cells in ice cold PBS
+  * Centrifuge and remove  PBS
+  * Weigh 50 mL tube with cells and record cell mass
+    * BUFFY WEIGHT: 126.8MG
+    * DOLLY WEIGHT: 293.4MG 
+  * Wash with ice cold PBS and distribute amongst 6 tubes  
+  * Centrifuge and remove  PBS 
+  *  freeze at -80 
+
+  
+
+Sample weight:
+
+DOLLY12
+
+1\. 48mg
+
+2\. 48mg
+
+3\. 33.6mg
+
+4\. 73.1 mg
+
+5\. 73.1mg
+
+6\. 65.2mg
+
+  
+
+BUFFY6
+
+1\. 28.3mg
+
+2\. 26.8mg
+
+3\. 29.2mg
+
+4\. 40mg
+
+5\. 37.8mg
+
+6\. 38.2mg
+
+
+
+
+### Observations/Summary:
+
+  * For the BUFFY6 cells, PBS was not removed after the wash. Tryple was added directly into the PBS wash. (Not sure what this will result in - serum reacting with tryple?) Cells still detached like normal. 
+  * Was able to get enough cell mass for proteomics and lipodomics, however 1 mg does not equal 1M cells. 
+
+###  
+
+  
+
+Relevant Images/Figures (if any):
+
+
+
+
+Handling cell factories:  
+
+For cell factories, majority of steps involving removing or adding large
+amount of media will be performed by carefully pouring liquid in or out of the
+cell factory.
+
+Quick tips:
+
+  * Both caps on the cell factory need to be removed when adding and removing liquid. This prevents the liquid for gurgling and forming bubbles. (vid: 2:16 - 2:44)
+  * Avoid touching the waste bottle with the cell factory opening. (sterile urine waste containers are easier to pour into)
+  * After adding liquid into the cell factory, make sure to equalise it. To equalise, return lids to cell factory and place it on its side (blue lid at the bottom side). Allow liquid to equalise before lifting it to an upright position. (vid: 0.51- 1:16)
+  * When transferring 4CF into the BSC, wipe down with ethanol sprayed ready wipe.
+  * Any accidental spills on the BSC should be wiped up with an ethanol sprayed ready wipe.
+  * Any spills on the cell factory and the slides of the opening should be wiped up with a ethanol sprayed kimwipe. (never wipe the top of the cell factory opening)
+  * If a lid of the cell factory is compromised (dropped or an object passes over it) use a replacement lid (replacements can be found in the lab draws)
+  * 
+
+

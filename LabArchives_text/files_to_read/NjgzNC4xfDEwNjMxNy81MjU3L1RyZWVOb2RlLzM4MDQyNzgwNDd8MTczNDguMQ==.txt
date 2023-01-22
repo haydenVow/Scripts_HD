@@ -1,0 +1,131 @@
+
+
+## Feed performed by: Shaleen Sharma  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDsVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+24 WP9017-C2C12-Mouse P6-1of1  
+  
+PLATE LOCATION: 118  
+Biomaterial fridge  
+prefilled plate with E6 media  
+ OR  
+50 mL falcon tube  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6M8120  
+~40mL  
+CMDFA Stock Solution2116  
+  
+  
+  
+  
+
+
+
+
+##  
+
+
+
+
+## Reagent Prep
+
+Live staining with CMFDA: SEE GUIDE ON CMFDA STAINING HERE  
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM CFDA stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. If a large amount of stock solution is left, then any remaining solution should be aliquoted and frozen at < \- 20°C. Avoid repeated freeze-thaw cycles, and protect from light. 
+
+
+
+
+## Sample Selection
+
+  1. Using sterile tweezers, select 1 "meatball"from each cup in rows 1 and 2
+    1. row 3 is cell-free and does not need to be treated
+  2. transfer into a new well on a 96w or 24w plate prefilled with warm PBS (to remove media and serum if any)
+  3. Proceed with CMFDA protocol as below
+
+
+
+
+## CMFDA protocol
+
+  1. Aliquot    1     mL PBS for washing the samples and place in waterbath   11:30  . (This is only necessary for samples containing serum as serum interferes with the CMFDA stain)
+  2. Transfer    4    uL of the 1mM CMFDA stock solution to    2     mL of prepared PBS in a light safe falcon tube to protect it from light. 
+  3. Vortex to ensure thorough mixing with the resulting solution being approximately 2 uM CMFDA working solution. (2uL of 1mM CMFDA stock solution: 1mL of D/F media.)
+  4. Place in the water bath to be pre-warmed   11:30am    
+
+  5. Add    0.5     mL of pre-warmed PBS to the wells from each plate as a rinse step to remove any residual serum.
+  6. Aspirate the rinsing media 
+  7. Add    1 (each well)     mL of pre-warmed CMFDA working solution to the samples and incubate for 30 minutes at 37'C covered in foil to protect samples from light.
+    1. Start/Finish time was:  11:45 - 12:15pm   
+
+    2. If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+  8. Remove    1000     uL of staining solution from each well
+  9. Image all wells from plates on the Zaber fluorescence microscope or AXIO (channel AF488 for CMFDA [Live cells]). Remember to image both sides or use z-stacking (200 uM slices for 3mm meatballs)
+    1. Alternatively, image representative areas on the Axio at relevant magnification
+
+
+
+
+Process:
+
+  1. Warm up pre-aliquotted  E6 Media  in 24w plate ( 1.5 mL per well approx) 
+    1. if media is provided in tube, plate out 1.5 mL per well into a new 24wp a per platemap
+  2. Placed tube in waterbath or plate in incubator for > 30min at   11:54 a/pm    
+
+  3. Removed sample plates from the incubator and place in BSC (lights off)
+  4. transferred sample plate (tray with cups) and feed plate into BSC.
+  5. Remove parafilm from feed and sample plate. 
+  6. Transferred all samples to fresh media plate by lifting tray over to new plate
+  7. Parafilmed sample plates and returned vessel to incubate at:      a/pm    
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+  * Incubator (XXX), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+Meatball
+
+
+
+
+Relevant Images/Figures (if applicable):  
+https://mia-capture.vow.tools/#/session/rec6PY7uovV4qwo6c/images
+
+  
+
+

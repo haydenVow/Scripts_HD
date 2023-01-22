@@ -1,0 +1,80 @@
+
+
+
+
+
+## Performed by: Marie, Avani  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Hoechst  
+s2563  
+  
+PI  
+s1129  
+  
+PBS  
+a5616 for resuspending pellets, a5729 for staining solution  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+  1. Syringe filter 5 mL of PBS into a 15 mL tube. Use this for the following steps:
+    1. Prepare 1 mL of staining solution by adding 5 uL of PI and 20 uL of Hoescht in PBS
+  2. Add 100uL/well of the staining solution to 8 wells of 96 wp. (A1-A4, B1-B4)
+  3. Centrifuge cultures (7218, 7219, 7220, 7221 ) at 300g for 5 min
+  4. Remove supernatant and save it in 50 mL tubes.
+  5. Resuspend pellets in 10 mL PBS. Take 500uL aside ("sample").
+  6. Centrifuge cultures again at 300g for 5 min.
+  7. Remove supernantant and discard.
+  8. Resuspend pellets in the growth media that we saved earlier.
+    1. For culture 7219 media was accidentally discarded. Fresh media was used instead.
+  9. From the 500uL samples, take 20uL and add them to wells of 96 well plate containing 100uL of the staining solutions (duplicates for each culture).
+  10. Incubate for 20 min 15:04-15:24.
+  11. centrifuge plate at 650g for 1 min.
+  12. imaged on the Zaber under culture ID 7383 on 5x magnification. Took images of the centre of each well as well as the whole well.
+    1. Exposure for Hoescht: 70. Exposure for PI: 250.
+  13. Prepared another 1 mL of the staining solution.
+  14. Added 100uL/well of the staining solution to 8 more well of 96 wp (A9-12, B9-B12).
+  15. Added 10 uL from culture 7219 sample into well A9. Added 20uL of the same culture to well B9. Performed the same step for other cultures, adding 10 uL to row A, and 20uL into row B of wells.
+  16. Incubated in the dark for 20 min 16:26 - 15:46.
+  17. centrifuge plate at 650g for 1 min.
+  18. Image on the Zaber as described earlier.
+
+  
+
+
+
+
+Observations/Summary:
+
+Results need to be further analysed using an ImageJ macro to count cells
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,117 @@
+
+
+## Completed by: Avani
+
+
+
+
+This experiment is based on replicating the study performed by Stout et al
+2021 (https://www.biorxiv.org/content/10.1101/2021.05.28.446057v1.full). In
+this paper, the authors created an ACF medium called Beefy-9 which consists of
+B8 media with albumin. This was used for long term culture of bovine satellite
+cells over seven passages. An average doubling rate of 39 hours was observed
+during this period. The authors also describe a passaging protocol where
+albumin is added 24 after seeding cells to allow cells to adhere. This media
+would be a lot simpler to prepare than our current ACF media (E810C) as it has
+less ingredients. Therefore, it would likely be cheaper as well. Additionally,
+we have observed a substantial decrease in cell numbers when we switch our
+cells to ACF media and it is possible that this medium, along with the
+passaging protocol could reduce this issue.
+
+Differences between the article and practices at Vow have been summarised in
+the table below. It would be worthwhile to look into these further.
+
+
+  
+Vow - what we have been doingVow - what we will try in this experimentStout et
+al 2021  
+Basal mediaPRF DMEM/F12 (for production):  
+Gibco #21041-025  
+  
+DMEM:  
+Gibco #11965092  
+F12:  
+Gibco #11765-054DMEM:  
+Gibco #11965092  
+F12:  
+Gibco #11765-054  
+DMEM/F12:  
+Thermo #11320033  
+LAA2PSigma #8960  
+conc: 64ug/mLSigma #8960  
+conc: 200ug/mLSigma #49752  
+conc: 200ug/mL  
+InsulinBiogems #10365  
+conc: 19.4ug/mLBiogems #10365  
+conc: 20ug/mLSigma #91077C  
+conc: 20ug/mL  
+TransferrinBiogems  
+#10-366  
+conc: 10.7ug/mLBiogems  
+#10-366  
+conc: 20ug/mLInVitra  
+#777TRF029  
+conc: 20ug/mL  
+  
+Sodium seleniteSigma  
+#S5261  
+conc: 14ng/mLSigma  
+#S5261  
+conc: 20ng/mLSigma  
+#S5261  
+conc: 20ng/mL  
+  
+FGF2PeproTech  
+#100-18B  
+conc: 100ng/mLPeproTech  
+#100-18B  
+conc: 40ng/mLPeproTech  
+#100-18B  
+conc: 40ng/mL or 5ng/mL  
+NRG1not usednot in-house currently so won't be usedPeproTech  
+#100-03  
+conc: 0.1ng/mL  
+TGFbTGFb1  
+PeproTech  
+#100-21C  
+conc: 2 ng/mLTGFb1  
+PeproTech  
+#100-21C  
+conc: 0.1ng/mL  
+TGFb3  
+R&D Systems  
+#8420-B3-005/CF  
+conc: 0.1ng/mL  
+Sodium bicarb543ug/mL543ug/mLnot used  
+UltraPure Waternot used5.8% v/v5.8% v/v  
+  
+Antibiotic0.2% v/v1% v/v1% v/v  
+Albumin150ug/mL 800ug/mL800ug/mL  
+Media prepMake separate frozen aliquots of each ingredient, then add these to
+DMEM/F12 + P/S + sodium bicarb.  
+Make separate frozen aliquots of each ingredient, then add these to DMEM/F12 +
+P/S + sodium bicarb. (We can test the alternative method later).  
+Make frozen aliquots of LAA2P at 2000x, Make frozen aliquots containing
+mixture of all other ingredients at 2000x. Add these aliquots to DMEM/F12 +
+water + antibiotic.  
+Media storagewithin 2 weeks1 month after making1 month after making  
+Culture vessel coating0.1% w/v gelatin1.5ug/cm^2 vitronectin for cells in ACF,
+0.1% w/v gelatin  for cells in serum containing media  
+1.5ug/cm^2 truncated vitronectin for cells in ACF, 0.25ug/cm^2 iMatrix
+laminin-511 for cells in serum containing media  
+Seeding density1000 cells/cm^2Test 1000 cells/cm^2 and 2500 cells/cm^22500
+cells/cm^2  
+Feeding50% feed every 2 days.100% feed every 2 days.  
+100% feed every 2 days.  
+  
+PassagingThaw into serum. On the next day, change to ACF media. Passage into
+ACF media as you would with serum cells.Thaw into serum. On the next day, wash
+with PBS and then change to Beefy-9. When passaging, seed into B8 media. On
+the next day, add albumin to make Beefy-9.  
+Thaw into serum. On the next day, wash with PBS and then change to B9. When
+passaging, seed into B8 media. On the next day, 100% change to Beefy-9 media.  
+Cellssheep (DOLLY12) muscle stem cells starting at passage 9  
+sheep (DOLLY12) muscle stem cells starting at passage 9Bovine satellite cells,
+starting at passage 2
+
+

@@ -1,0 +1,64 @@
+
+
+## Completed by: AK
+
+
+
+
+Methylcellulose (MC) is a chemically modified compound derived from cellulose
+and is used as a thickener and emulsifier in various food products, as well as
+a bulk-forming laxative. Its application in suspension cell culture systems is
+primarily as an anti-clumping agent, helping to prevent the formation of
+cellular aggregates responsible for cell apoptosis, as well as preserving cell
+function in suspension [1]. It's appeal as a suspension supplement was
+highlighted in a relatively recent published article, in which Li and
+colleagues were able to develop an efficient large-scale culture system, that
+offered serial expansion of human embryonic stem cells with a yield of about
+1.5 × 109  (1,500,000,000) cells per 1.5-L culture, whilst simultaneously
+maintaining good pluripotency [2]. Based on previous suspension experimental
+results and the literature, clump formation represents the main concern in
+static and dynamic suspension for causing cell death, reducing viability, and
+impacting proliferation [2][3]. Fortunately, the addition of MC has been shown
+to prevent cell conglobation and prevent clump formation by increasing
+viscosity of the growth media liquid suspension [3]. However, it is unclear
+within the literature in regards to the appropriate working concentration of
+MC to add into growth media solution. The typical working concentration of MC
+in hematopoietic cell culture is 1% [4]. Whilst the higher concentrations of
+MC can reduce the fusion of cellular aggregates, collection of cells via
+centrifugation for culture media exchange or subculture can be hampered by the
+resulting increase in viscosity [3]. It appears a concentration between 0.3% -
+0.6% is most appropriate such that it provides the best compromise between
+fusion repression and viscosity increase [3][5]. Additionally, the lower
+viscosity results in easy handling during medium changing, passaging, etc.
+Therefore in this experimental study we will be assessing a number of working
+MC concentrations between 0.1% and 1% to assess its impact in promoting
+fibroblast adaptation to suspension conditions.
+
+  
+
+References:
+
+[1] Stewart, G.J., Wang, Y.U.Q.I.N. and Niewiarowski, S., 1995.
+Methylcellulose protects the ability of anchorage-dependent cells to adhere
+following isolation and holding in suspension. Biotechniques, 19(4),
+pp.598-604.
+
+[2] Li, X., Ma, R., Gu, Q., Liang, L., Wang, L., Zhang, Y., Wang, X., Liu, X.,
+Li, Z., Fang, J. and Wu, J., 2018. A fully defined static suspension culture
+system for large-scale human embryonic stem cell production. Cell death &
+disease, 9(9), pp.1-9.
+
+[3] Otsuji, T.G., Bin, J., Yoshimura, A., Tomura, M., Tateyama, D., Minami,
+I., Yoshikawa, Y., Aiba, K., Heuser, J.E., Nishino, T. and Hasegawa, K., 2014.
+A 3D sphere culture system containing functional polymers for large-scale
+human pluripotent stem cell production. Stem cell reports, 2(5), pp.734-745.
+
+[4] Lu, S.J., Feng, Q., Caballero, S., Chen, Y., Moore, M.A., Grant, M.B. and
+Lanza, R., 2007. Generation of functional hemangioblasts from human embryonic
+stem cells. Nature methods, 4(6), pp.501-509.
+
+[5] Jiang, B., Xiang, Z., Ai, Z., Wang, H., Li, Y., Ji, W. and Li, T., 2015.
+Generation of cardiac spheres from primate pluripotent stem cells in a small
+molecule-based 3D system. Biomaterials, 65, pp.103-114.
+
+

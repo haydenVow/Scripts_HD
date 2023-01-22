@@ -1,0 +1,44 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/25114/hoechst-stain-and-ot2-passaging-
+of-cells-3-times?cf_workflow=500000866&ct_workflow=all&vc_group_by=day  
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recMFTHgZS1sTrczI?blocks=hide
+
+RELATED TO MILESTONE: Generate 3 production ready cell lines. KR2: Generate
+>1500 clones per month starting September 1st
+
+AIM/PURPOSE: To test how many times Hoechst can be used in the cloning
+pipeline to quantify cells. i.e. To test whether Hoechst staining cells
+multiple times affects viability
+
+HYPOTHESIS: Hoechst staining cells 3 times and then passaging them will not
+affect cell viability/cell numbers compared to unstained control.
+
+RESULTS SUMMARY:
+
+Cells stained with Hoechst ReadyFlow reagent were observed to be fluorescing
+more brightly than cells stained with Hoechst ReadyProbes reagent. Cell death
+was observed in wells that did not receive a 100% feed after staining with
+Hoechst ReadyFlow.
+
+Cell clumping was observed after the second passage, most likely because cells
+became over confluent. Accurate cell counts cannot be obtained from images of
+clumped cells so the experiment was terminated.
+
+CONCLUSIONS:
+
+The aim was not achieved and the hypothesis could not be investigated
+sufficiently.
+
+NEXT STEPS:
+
+  * This experiment should be repeated with the following changes:
+    * Some wells from the unstained control should be 'sacrificed' (i.e. stained) after each passage to obtain cell counts for the control.
+    * Cells should be passaged into larger and larger vessels each time to prevent them from becoming overconfluent and clumping.
+    * When cells are expanded to 24 wp, passage them manually to 6wp whilst the OT2 protocol is being optimised.
+  * Optimise the passaging protocol for 24 wp to 6 wp so that a large number of cells are not left behind
+
+

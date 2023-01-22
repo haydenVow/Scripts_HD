@@ -1,0 +1,237 @@
+
+
+# Thaw 9 vials into 1x2CF
+
+* * *
+
+Date: 13/05/2021  
+Start time: 17:20pm  
+End time: 18:23 pm  
+
+* * *
+
+Culture IDs
+
+Thawed Vial ID/s Seeded Culture ID/s  
+  
+2385-Culture-6303-Vial-106of115  
+2386-Culture-6303-Vial-107of115  
+2387-Culture-6303-Vial-108of115  
+2388-Culture-6303-Vial-109of115  
+2389-Culture-6303-Vial-110of115
+
+6742-DOLLY12-Sheep P8-1of1  
+  
+2391-Culture-6303-Vial-112of115  
+2392-Culture-6303-Vial-113of115  
+2393-Culture-6303-Vial-114of115  
+2394-Culture-6303-Vial-115of115  
+  
+  
+  
+NOTE: 2390-Culture-6303-Vial-111of115 was not in the Dewar.
+
+  
+
+* * *
+
+Procedure
+
+                                                                         
+
+  1. Coat flasks with 0.1% gelatin solution per flask and place in the 37C Incubator for 1 hour. Refer to V-SOP-002 for gelatin preparation if required.  
+`Number of flasks coated`: N/A  
+Time stamp: N/A  
+
+  2. Extract required growth media into aliquots as listed in the table above and place into a heated 37C water bath for at least 20 minutes.   
+Time in water bath:
+
+  3. Select the vial/s for thawing. Note the location of the vial in Liquid Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)
+
+  4. Obtain selected number of cryovial/s from LN Dewar and thaw in the 37C water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.  
+`Time stamp`: 17:30-17:35 PM  
+
+  5. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and transfer into the Biohazard Safety Cabinet (BSC).
+  6. Slowly add 500uL of growth media into the/each vial. This will produce a total of 1mL cell suspension per vial.
+  7. Resuspend the cells gently and transfer all contents from the vial to the bottom of a 50mL falcon tube. *NOTE: Dispensing suspension of cells on the sides of the tube will risk loss of cells in Step 11.
+  8. Add an additional 500uL of growth media to each vial to collect remaining cells and add into the centrifuge tube. A total of 1.5mL will be in each vial.
+  9. Resuspend cells thoroughly and immediately extract 50uL into a microcentrifuge tube.
+  10. Perform cell count (Refer to VSOP-007) from collected sample and use the Cell Counting Spreadsheet  to enter data.
+
+  
+Seeding DataCount 1Count 2  
+Total suspension volume8.4mL  
+  
+  
+Extracted volume from total suspension  
+50uL50uL  
+Volume from suspension aliquot  
+25uL25uL  
+Volume of 4%Trypan blue  
+25uL25uL  
+Dilution factor  
+22  
+Live cell count  
+10,113,60010,147,200  
+Dead cell count  
+1,344,0001,344,000  
+Total cell count  
+11,457,60011,491,200  
+Average live cell count10,130,400  
+  
+  
+Seeding density7919  
+  
+  
+Cells seeded/flask10,009,800  
+  
+  
+  
+11\. Extract all contents from the centrifuge tube and dispense into the
+prepared growth media. Wash the tube with 5-10 mL of the same growth media to
+extract remaining cells attached to the tube.  
+12\. Transfer the gelatin coated flasks from the 37C incubator into the BSC.  
+13\. Add required volume of growth media to each flask, ensuring the entire
+surface is coated. Use the 'Bec Drop' to lay down the flasks.
+
+14\. Transfer and incubate overnight at 37C.  
+`Time of incubation` : 17:48PM  
+
+Incubation Conditions:
+
+        [X]  37ºC, 5% CO2 (mammalian cells)  
+        [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+        [  ]  Top Left Binder Incubator  
+        [X]  Bottom Left Binder Incubator  
+        [  ]  Top Right Binder Incubator  
+        [  ]  Bottom Right Binder Incubator
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 48 hrs before a 50% change (or passage) is required  
+37'C, 5% CO2  
+  
+  
+#  
+
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+
+
+
+
+# 50% Feed on XX
+
+* * *
+
+Date: 14/05/2021  
+Start time: 11:00 am  
+End time: 11:25 am
+
+* * *
+
+Culture IDs
+
+  
+
+  
+
+* * *
+
+  
+  
+
+# Procedure
+
+Number of Aliquots x Growth Media Volume
+
+Number of Aliquots x p38i Volume  
+  
+1x150mL  
+N/A  
+  
+  
+Warmed to 37C in Waterbath  
+  
+Time Placed In
+
+11:00 AM  
+  
+  
+Time Taken Out
+
+11:18 AM  
+  
+  
+Media Change (%)
+
+Amount x Flask Type
+
+Volume Aspirated per Flask
+
+Volume Replaced per Flask  
+  
+50  
+1X2CF  
+150mL  
+150mL  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+  1. Turn on the water bath and set to 37'C.
+  2. Aliquot  required growth media and place into the water bath. 
+  3. Place in the water bath and heat for at least 20 minutes.
+  4. Observe the cell flasks for confluence under the microscope using 4 x magnification and take images as required. Note: The confluence of cells must be <50% to perform cell feeding in P1-P3 and <80% in P4 prior to the cell differentiation stage. 
+  5. Transfer flasks to the BSC and remove required volume of media from each flask (according to the Table above).
+  6. Replace the same volume into each flask with the prepared growth media.
+  7. Return the flasks to the incubator.  
+`    Time of incubation` : 11:25am  
+
+Incubation Conditions:
+
+        [ x ]  37ºC, 5% CO2 (mammalian cells)  
+        [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+        [  ]  Top Left Binder Incubator  
+        [ x ]  Bottom Left Binder Incubator  
+        [  ]  Top Right Binder Incubator  
+        [  ]  Bottom Right Binder Incubator
+
+  
+
+## References
+
+BLT: VLBT-004 Media Change
+
+SOP: Section 8 under VSOP-008 Cell Feeding
+
+  
+
+  
+
+

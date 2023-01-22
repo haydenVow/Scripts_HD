@@ -1,0 +1,99 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * E6 (1X P/S)
+  * DMEM/F12 + 20% FBS + 1X P/S (with or without 50ug/mL L-ascorbic acid)
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+24-well plate6496-DOLLY12-Sheep P11-1of1  
+  
+  
+
+
+
+
+Process:
+
+1\. Prepare E6 media (150 mL total) according to the google spreadsheet
+calculator below:  
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1366115577
+
+2\. Aliquotted  30  mL of  E6 (1X P/S) into  wells from row 3-6 (2 mL each),
+4mL of DMEM/F12 mixture without L-ascorbic acid for wells A2 and C2 and 4 mL
+of DMEM/F12 mixture with L-ascorbic acid for wells B2 and D2   . Placed in
+incubator for at least 30 minutes prior to transferring inserts   11:10
+
+3\. Carefully remove inserts from original plate containing proliferation
+media and transfer into new plate containing pre-warmed E6 differentiation
+media.
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [x]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6496-DOLLY12-Sheep P11-1of1
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6 Differentiation MediaM452430  
+Growth Media  
+M4247  
+8  
+  
+LAA2P  
+M2717  
+0.002  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

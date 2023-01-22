@@ -1,0 +1,103 @@
+
+
+Performed by: LL, TT  
+
+
+
+
+7218-F-DOLLY12-Sheep P10-of : 1:100 Anti-clumping agent + RGD peptide  
+7219-F-DOLLY12-Sheep P10-of : 1:100 Anti-clumping agent + YIGSR peptide  
+7220-F-DOLLY12-Sheep P10-of : 1:100 Anti-clumping agent control  
+7221-F-DOLLY12-Sheep P10-of : 1:100 Anti-clumping agent (low serum)
+
+
+
+
+Process:
+
+  1. Syringe filter 5 mL of PBS into a 15 mL tube. Use this for the following steps:
+    1. Prepare 1 mL of staining solution by adding 5 uL of PI and 20 uL of Hoescht in PBS
+  2. Add 100uL/well of the staining solution to 8 wells of 96 wp. (A1-A4, B1-B4)
+  3. Centrifuge cultures (7218, 7219, 7220, 7221 ) at 300g for 5 min 14:04 - 14:09
+  4. Remove supernatant ~~  and save it in 50 mL tubes.~~
+  5. Resuspend pellets in 10 mL PBS. Take 500 uL aside ("sample").
+  6. Centrifuge cultures again at 300 x g for 5 min. 14:25 - 14:30
+  7. Remove supernantant and discard.
+  8. Resuspended pellets in fresh, warmed growth media and returned to incubator 14:40
+  9. From the 500 uL samples, take 20 uL and add them to wells of 96 well plate containing 100 uL of the staining solutions (duplicates for each culture).
+  10. Incubate for 20 min 14:26 - 14:46 / retry: 15:30 - 15:50
+  11. Centrifuged plate at 650 g for 1 min. 14:47 - 14:48 / retry: 15:52 - 15:53
+  12. Imaged on the Zaber under culture ID 7383 on 5x magnification. Took images of the centre of each well as well as the whole well.
+    1. Exposure for Hoescht: 70. Exposure for PI: 250.  
+  
+Couldn't get signal on Zaber so checked work - realised 5 uL PI and 20 uL
+Hoechst were added to 15 mL rather than 1 mL of PBS so had to re-start. Did
+all staining in one go (i.e. 20 uL and 10 vs 20 uL tests)  
+  
+
+  13. Prepared another 1 mL of the staining solution.
+  14. Added 100 uL/well of the staining solution to 8 more well of 96 wp (A9-12, B9-B12).
+  15. Added 10 uL from culture 7219 sample into well A9. Added 20 uL of the same culture to well B9. Performed the same step for other cultures, adding 10 uL to row A, and 20uL into row B of wells.
+  16. Incubated in the dark for 20 min
+  17. Centrifuged plate at 650g for 1 min. 
+  18. Imaged on the Zaber as described earlier.
+
+  
+
+
+Growth Media incl 1:100 ACA  
+Sum (cells total)  
+  
+Live cells  
+  
+Growth Media incl 1:100 ACA (low serum 5% FBS)  
+Sum (cells total)  
+  
+  
+Live cells  
+  
+Growth Media incl 1:100 ACA + RGD Peptide  
+Sum (cells total)  
+  
+  
+Live cells  
+  
+Growth Media incl 1:100 ACA + YIGSR Peptide  
+Sum (cells total)  
+  
+  
+Live cells  
+  
+  
+  
+
+ 100  % media changed on vessel(s)
+
+
+
+
+Observations:
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+  
+Growth Media incl 1:100 ACA  
+M 5928  
+  
+Growth Media incl 1:100 ACA (low serum 5% FBS)  
+M 5926  
+  
+Growth Media incl 1:100 ACA + RGD Peptide  
+M 5927  
+  
+Growth Media incl 1:100 ACA + YIGSR Peptide  
+M 6159  
+  
+  
+  
+
+

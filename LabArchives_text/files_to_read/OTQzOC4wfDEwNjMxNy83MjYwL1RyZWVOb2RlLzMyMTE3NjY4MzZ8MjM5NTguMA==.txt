@@ -1,0 +1,317 @@
+
+
+## Experiment Design
+
+
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+12 x 6wp  
+11064, 11065: ZIC1  
+11066: ZIC1 (Top) & ZIC1 + CDKN1A (Bottom)  
+11067: ZIC1 + DHRS3 (Top) & CDKN1A + CDKN1B (Bottom)  
+11068, 11069: Control  
+11070, 11071: ZIC1 + CDKN1A  
+11072, 11073: ZIC1 + DHRS3  
+11074, 11075: CDKN1A + CDKN1B  
+5 x T75  
+5 x 50 ml shake tubes  
+8 x 96 wp  
+11110- ZIC adherent  
+11111- ZIC suspension  
+11112- Control adherent  
+11113- Control suspension  
+11114- ZIC1 + CDKN1A adherent  
+11115- ZIC1 + CDKN1A suspension  
+11121- ZIC1 + CDKN1A suspension  
+11116- ZIC1 + DHRS3 adherent  
+11117- ZIC1 + DHRS3 suspension  
+11118- CDKN1A + CDKN1B adherent  
+11119- CDKN1A + CDKN1B suspension  
+11120- CDKN1A + CDKN1B suspension  
+11122-11129- as shown below  
+  
+  
+  
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2 x 6 well plates (ZIC1)  
+11064, 11065  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+  
+  
+11111 - shake tube  
+11110 - T75  
+  
+  
+2 x 6 well plates (Control)  
+11068, 11069  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+11113 - shake tube  
+11112 - T75  
+  
+  
+2x 6 well plates (ZIC1 + CDKN1A) 11070, 11071  
+2 x 50 ml bioreactor tube;  
+1 x T75  
+11115, 11121- shake tube  
+11114- T75  
+  
+2 x 6 well plates (ZIC1 + DHRS3)  
+  
+11072, 11073  
+1 x 50 ml tube; 1 x 75 flask  
+11117- shake tube  
+11116- T75  
+  
+2 x 6 well plates (CDKN1A + CDKN1B)  
+11074, 11075  
+2 x 50 ml bioreactor tube;  
+1 x T75  
+11119, 11120 - shake tube  
+11118 - T75  
+  
+2 x 6 wp (sorted on the Melody at UNSW)  
+11067 (ZIC1 + DHSR3; CDKN1A + CDKN1B)  
+11066 (ZIC1; ZIC1 + CDKN1A)  
+8 x 96 wp  
+11122, 11123- ZIC1 + DHSR3  
+11124, 11125- CDKN1A + CDKN1B  
+11126, 11127- ZIC1  
+11128, 11129- ZIC1 + CDKN1A  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Suspension media mixM10137; S4605  
+  
+Adherent media mixa10861  
+  
+Tryplem10658  
+  
+dPBSa10945; a10657  
+  
+  
+  
+
+
+Procedure
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent below, placed all aliquots
+to warm in the bead bath for a minimum of 20 minutes prior to use:
+
+  1. TrypLE:  2mL per well 
+  2.  dPBS (for neutralising & washing):  4mL per well 
+
+3\. Time that all aliquots were placed in the water bath the warm before use
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+Suspension cultures and adherent cultures were set up prior to 13pm by NH and
+EC. Passage started at 10:44am. Cultures harvested for FACS sorting were
+passaged after lunch by  starting at 13:30
+
+  * [EC] ZIC1, ZIC1 + CDKN1A (suspension and adherent culture setup)  
+
+  * [NH] ZIC1 + DHRS3, CDKN1A + CDKN1B + Control (suspension and adherent culture setup)   
+
+The following passaging protocol was followed for each knockout/control group,
+The supernatants from all wells was also collected at all steps prior to
+centrifugation following neutralization of tryple. All conditions were kept in
+separate tubes.
+
+* * *
+
+4\.  Collected culture supernatant and washed each well GENTLY with 1mL of
+dPBS (warmed).  
+
+5\. Collected dPBS wash with previous supernatant and added   2  mL tryple to
+each well, cells were then incubated at 37˚C for 8 minutes.  
+
+6\. Collected supernatants into 50mL tubes alongside previous supernatants and
+empty wells were washed with 1.5 ml  of dPBS. dPBS washes were then also
+collected.  
+
+7\. Centrifuged collections at 400 x g for 5 min.  
+
+8\. Aspirated and discarded the supernatant(s) from cell pellets.
+
+9\. Using dPBS, Resuspended and combined pellets into one tube, taking care to
+rinse out tubes with a small aliquot of dPBS. Total volumes of cell suspension
+at this step for each cell pellet was 2mL.
+
+10\. Aliquoted 10uL of cell suspension for counting using a hemocytometer,
+mixing 1:5 with Trypan blue. *This step was not followed during FACS prep of
+culture X , Cells were moved straight to FACS prep protocol after dPBS
+resuspension.
+
+11\. Cell suspensions were counted and total cell number was determined for
+each group in the document below.
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2154:2156  
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2158:2158
+
+ZIC1: 1,800,000 cells/mL  
+
+ZIC1 + DHRS3: 3,096,000 cells/mL
+
+ZIC1 + CDKN1A: 5,140,000  cells/mL
+
+CDKN1A + CDKN1B: 5,080,000 cells/ml
+
+Control: 2,480,000 cells/mL  
+
+* * *
+
+  
+
+12\. Estimated volume of cell suspension needed to seed 1xT75 flask seeded at
+7000 cells/cm^2 for each condition (5.25x10^5 cells).  
+13\. Estimated volume of cell suspension needed to take for DNA extraction and
+subsequent PCR (3x10^4 cells).
+
+ConditionVol to take for adherent culture (uL)Vol to take for suspension
+culture (uL)  
+Vol to take for DNA extraction (uL)  
+ZIC1  
+292  
+1691  
+17  
+  
+ZIC1 + DHRS3  
+170  
+1615  
+10  
+  
+ZIC1 + CDKN1A  
+102  
+973  
+6  
+  
+CDKN1A + CDKN1B  
+103  
+984  
+6  
+  
+Control (wild type) 212  
+1776  
+12  
+  
+  
+14\. Aliquoted the volumes of cell suspension listed above into individual
+1.5mL tubes
+
+
+
+
+SETTING UP ADHERENT POOLED CULTURES
+
+  1. 1.5mL tubes containing cells for adherent culture were centrifuged for 5 min at 300g.
+  2. Supernatant was removed and each pellet was resuspended in 1mL of DMEM/F12 + 20% FBS + 1xP/S growth media. 
+  3. Each cell suspension was then transferred to a separate T75 flask containing 12mL of the same growth media. 
+  4. Flasks were left to incubate at 30 degrees, 5% CO2 (incubator #140 ) static. 
+
+  
+
+
+
+
+SETTING UP SUSPENSION POOLED CULTURES
+
+  1. Once aliquots for adherent cultures and DNA extraction had been taken from the cell suspension, the remaining cells were centrifuged for 5 minutes at 400g. 
+  2. Supernatant was removed from each tube and replaced with 5mL of Hycell Cho basal media + KSR + FGF-b + IGF1-LR3
+  3. Cells from each condition were then resuspended and transferred to separate 50mL bioreactor tubes. 
+  4. Tubes were placed in incubator 120 (main lab), at 30 degrees C, 5% CO2, shaking at 210 rpm
+
+  
+
+
+
+
+FACS SORTING SUSPENSION CELLS
+
+  1. The collected cell suspension for each condition was transferred to a 1.5mL tube and centrifuged at 300g for 5 minutes. 
+  2. Supernatant was removed. 
+  3. Cells were resuspended in 500uL of FACS buffer 
+  4. An esky box was packed for transport to the FACS facility 
+    1. Pre-filled (medium) multi-well plates (8x96wp), parafilmed around the edges
+    2. An ice pack
+    3. Extra FACS Buffer prepared earlier. 
+    4. 4x 0.22um filter capped tubes. 
+  5. Once at the FACS facility: 
+    1. Samples were passed though 0.22um filter lids into sample collection tubes
+    2. A live dead stain was added to each of the sample tubes, 5uL of 7-AAD stain (invitrogen) 
+    3. Cells from each condition were sorted into 2 x 96 well plates each containing adherent growth media, 1 cell per well (see FACS preparation for media compositions). 
+  6. Plates were transported back to Vow and moved directly to the incubator at 30 degrees, 5% CO2 (Incubator number #140, library lab ) (17:38) 
+
+
+
+
+FREEZING PELLETS FOR DNA EXTRACTION
+
+  1. Added an additional 1mL of dPBS to each aliquot of cells taken for DNA extraction. 
+  2. Centrifuged tubes at 300g for 5 minutes to pellet cells. 
+  3. Removed supernatant from each tube then added all tubes to a yellow lid pot labelled with the epic number and date. 
+  4. Stored cell pellets at −20°C in the bottom shelf of the freezer in library lab. 
+
+  
+
+  
+
+
+
+
+## Observations
+
+Cell counts for cells in both CDKN1A groups were much higher than the other
+groups and control.
+
+
+
+
+## Reference Images.
+
+No images were taken of the plates prior to passage since the imaging system
+was down, the top 3 wells of all plates were inspected under the microscope.
+No abnormal morphology was seen. All wells were 95-100% confluent at the time
+of passage.
+
+  
+
+
+
+
+

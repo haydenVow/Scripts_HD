@@ -1,0 +1,179 @@
+Summary of Cultures Sectioned, Stained, and Imaged
+IDCondition (cell density)  
+Descriptor (and link to Images on Rangers)Cell LineCreated
+DateLocationNotesExperimentVessel TypeVessel #Vessel TotalBase Media  
+1296215M - A12962-Nuvonis Quail Suspension341-P-1of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMMain Lab -Ambient(H&E stained)  
+and Stains Fridge 4C  
+PFA Fixed tissue-engineered tissuesMini Tissue Expt 4Glass Slides  
+1  
+PBS  
+1296315M - B12963-Nuvonis Quail Suspension341-P-2of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 42  
+PBS  
+1296415M-X(first expt)  
+12964-Nuvonis Quail Suspension341-P-3of12341-Fib-Nuvonis Quail Suspension-
+NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered tissuesMini Tissue
+Expt 43  
+PBS  
+1296520M - A12965-Nuvonis Quail Suspension341-P-4of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 44  
+PBS  
+1296620M - C12966-Nuvonis Quail Suspension341-P-5of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 45  
+PBS  
+1296725M - A12967-Nuvonis Quail Suspension341-P-6of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 46  
+PBS  
+1296825M - B12968-Nuvonis Quail Suspension341-P-7of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 47  
+PBS  
+1296925M - C12969-Nuvonis Quail Suspension341-P-8of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 48  
+PBS  
+1297040M - A12970-Nuvonis Quail Suspension341-P-9of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 49  
+PBS  
+1297140M - B12971-Nuvonis Quail Suspension341-P-10of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 410  
+PBS  
+1297260M - A12972-Nuvonis Quail Suspension341-P-11of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 411  
+PBS  
+1297360M - B12973-Nuvonis Quail Suspension341-P-12of12341-Fib-Nuvonis Quail
+Suspension-NoBiopsy7/21/2022, 8:57:41 AMPFA Fixed tissue-engineered
+tissuesMini Tissue Expt 412  
+PBS  
+  
+  
+
+
+Performed By: AW VB
+Experimental Plan
+
+
+Processing and Sectioning
+
+Tissues produced in experiment 4 were sent for processing, embedding,
+sectioning and staining at the Garvan histopathology facility. 12 tissues were
+sent for histology, briefly the sectioning and staining protocol was as
+follows:
+
+  1. The first ~100um of each tissue were discarded until a full face of the tissue was present in the section.
+  2. 20 sections were cut at 4um thickness per tissue
+  3. 2 sections were placed on each slide (10 slides per tissue)
+  4. Every other slide (5 total) was stained with Haematoxylin and Eosin
+  5. The other 5 slides were left unstained
+
+  
+
+Staining plan
+
+We will first image H&E stained slides to determine cell distribution and
+whether we should proceed with further staining for cell-specific markers. If
+we proceed, we will stain one slide per condition (cell density) with Alpha-
+Smooth Muscle Actin (1:2000), Phalloidin (1:1000) and Hoechst (1:1000)
+
+
+Method
+
+
+Reagent preparation
+
+  * Ethanol in milliQ: 100% (500mL), 95% (250mL), 70% (250mL), 50% (250mL)
+  * Citrate Buffer: (not available) 
+  * Histochoice: Use undiluted - can be re-used at least 4-5 times - to store after use, filter through 70um cell strainer into Schott bottle (stored in flammables cabinet)
+  * Permeabilisation and Staining buffer: 3% Bovine Serum Albumin in PBS with 0.1% Triton-X
+  * Wash buffer: PBS with 0.1% Triton-X
+
+Image H&E Stained Tissue Sections
+
+  1. 2 Sections per condition imaged (slide postion '5' \- which is roughly central to tissue sample), with 2-4 images taken per magnification (4x and 20x).
+
+Tissue staining - Deparaffinise and Rehydrate
+
+  1. Deparaffinise sections with 3x5min washes in HistoChoice clearing agent 
+  2. Perform 2x5min washes in 100% Ethanol
+  3. Perform 1x5min washes in 95% Ethanol 
+  4. Perform 1x5min washes in 70% Ethanol
+  5. Perform 1x5min washes in 50% Ethanol 
+  6. Perform 1x5min washes in MilliQ water
+  7. Tap off remaining water
+
+
+
+Tissue staining - Antigen Retrieval
+
+  1. Make up 10mM Sodium Citrate buffer in mQ water
+  2. Place sections into citrate buffer and place in microwave for 5 minutes - perform this with "extra/dummy" slide first, as the sections may lift off due to low adhesion of tissue to slide, if this happens, need to steam them, not boil
+  3. Leave to cool down for at least 30 mins
+  4. Wash 2x5 mins in PBS
+
+N.B - No Sodium Citrate left, so skipped the Antigen retrieval this time and
+went straight to blocking
+
+  
+
+Tissue staining - Permeabilisation and Blocking
+
+  1. Blot slides dry and draw around tissue sections with 1) Wax pen or 2) Vaseline - to create hydrophobic barrier
+  2. Add ~50/100uL Perm and Stain buffer to each section - incubate for 45 mins
+  3. Wash ~~2x 5min  ~~in 0.1% TritonX in PBS.
+    1. Only one wash in Triton 
+  4. Wash 1x 5min in PBS. 
+  5. Wipe excess wash (gently). 
+  6. Mounting (in 90%Glycerol+ 10% PBS). 
+  7. Wipe excess Glycerol and coat edges with nail polish. 
+  8. Allow to dry. 
+  9. Wipe clean with 70% EtOH (gently). 
+  10. Image using the Zaber.
+
+SirCol and GAG staining
+
+  1. Add 100uL of SirCol or Blue GAG buffer to 1x slide each stain - incubate for 15 and 5 minutes respectively.
+  2. Wash 1x in PBS 5minutes 
+  3. Mounting (in 90%Glycerol+ 10% PBS). 
+  4. Wipe excess Glycerol and coat edges with nail polish. 
+  5. Allow to dry. 
+  6. Wipe clean with 70% EtOH (gently). 
+  7. Image using the Zaber. 
+
+  
+
+Store 4C (Staining Fridge I Main Lab)
+
+  
+
+  
+
+  
+
+
+
+
+## Outcome/ Results
+
+  * 2x tissue sections (H&E stained) for each tissue condition were imaged at 4x and 20x (2-4 images per magnification) in phase. 
+    * Refer to Ranger to observe images taken for the following cultures (linked in the table above). 
+    * All tissue sections revealled region of cellular distribution which was highly packed and comparable to tissue, and they also all had regions which were very low in cells/ empty and minimal collagen matrix).
+    * Observation of patterns (very biased) during imaging: with increasing cell density there was greater number of regions which were highly packed, with longer projecting myofibroblast-like phenotype. They were more often found along the periphery of the tissue sections. The 60M cells/mL conditions did not follow this pattern as it appeared to have less dense tissue regions and a great number of packed spherical cells. 
+    * All tissues reveal a number of spherical cells, which increased in number (and proximity to each other) as the cell seed density increased. We need to determine if these spherical objects are live or dead/ apoptotic cells in the stained sections.   
+  
+
+  * We observed fluorescent stains to not correctly labelled their specific markers when observing under Zaber micropscope. Similarly, the Sircol and the GAG stains were not observable under the microscope in phase. 
+  * Our staining protocols needs to be optimised.
+
+## Next Step
+
+  * Conduct a staining optimisation experiment to improve the protocol. Link to optimisation experiment plan 
+
+

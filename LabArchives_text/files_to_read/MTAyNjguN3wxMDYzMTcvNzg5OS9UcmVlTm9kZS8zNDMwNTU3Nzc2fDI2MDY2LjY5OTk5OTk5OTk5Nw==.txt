@@ -1,0 +1,168 @@
+Aim:
+
+
+To assess the effect of various macro-molecular crowders on the ECM production
+and deposition of Nuvonis Quail fibroblasts.
+
+
+Hypothesis:
+
+
+The addition of various macromolecular crowders to growth media will stimulate
+the production and deposition of ECM in Nuvonis Quail fibroblasts.
+
+
+Technical Gap:
+
+
+Currently at Vow, our first generation product consists of a single cell paste
+derived from Nuvonis Quail fibroblasts grown up in suspension. For our second
+product (and possibly for the launch of our first product), we will need to
+achieve a unique and engaging texture with our cell mass. While post-culture
+modifications may aid in developing interesting and engaging textures and
+fibrosity, ultimately we may be able to achieve a better outcome by leveraging
+biological processes during culture. For fibroblasts in particular, we may be
+able to up regulate ECM production to achieve a tissue-like structure as has
+been previously done at Vow and regularly in the field of tissue engineering.  
+  
+Macro molecular crowding (MMC) is one approach to achieve such structures. The
+principle revolves around mimicking the endogenous macro-molecule environment
+in-vivo that leads to tissue formation (e.g. wound healing, scar tissue
+formation). In cell culture, macro-molecules are diluted heavily in solvent
+(media) thus not replicating the concentrated environment seen in nature.
+Hence, MMC replicates this environment to an extent, driving forward cellular
+processes (such as fibre and tissue production) which we can exploit to create
+irresistible food for the Singapore market.
+
+
+  
+  
+Figure 1: A schematic depicting the phenomena of MMC in-vitro [1]  
+  
+  
+
+
+Plan:
+  
+  
+Figure 2: Visual representation depicting each MMC condition in roller bottles
+(in triplicate) and a corresponding T-flask control.  
+  
+  
+
+
+
+
+Conditions:
+
+  * 15 x 850 cm2 Corning Roller Bottles (conditions + media control)
+  * 5 x T75 flasks (T-flask controls for each media condition/controls)
+
+
+
+
+Condition
+
+Crowding agent
+
+Concentration of crowder in media*
+
+Amount needed to supplement media  
+  
+DMEM + 20% FBS + Vit C + Ficoll PM70
+
+Ficoll PM70
+
+37.5 mg/ml
+
+26.25g  
+  
+DMEM + 20% FBS + Vit C + Ficoll PM400
+
+FIcoll PM400
+
+25 mg/ml
+
+17.5g  
+  
+DMEM + 20% FBS + Vit C + DxS
+
+DxS (Dextran)
+
+100 ug/ml
+
+70mg  
+  
+DMEM + 20% FBS + Vit C + CN
+
+Carrageenan
+
+75 ug/ml
+
+52.5mg  
+  
+DMEM + 20% FBS + Vit C (control)
+
+None
+
+0 mg/ml
+
+0 mg  
+  
+*Concentrations are derived from Raghunathan and co-workers [1]
+
+
+Timeline:
+
+
+Tasks
+
+Day of experiment
+
+Tentative date
+
+Measures for success  
+  
+Obtain Nuvonis cells and seed all flasks in untreated media
+
+0
+
+03/06
+
+Cell count prior to seeding  
+  
+Monitor all flasks for attachment and anchorage (24 hours)
+
+0 - 1
+
+04/06
+
+Imaging and visual signs of anchorage and attachment  
+  
+Media change to conditioned media
+
+1
+
+04/06
+
+N/A  
+  
+Monitor for ECM production and deposition
+
+1 - 7
+
+04/06 - 11/06
+
+Cell sheet formation, phenol red colour change
+
+
+References:
+  
+  
+[1]: Satyam, A., Kumar, P., Fan, X., Gorelov, A., Rochev, Y., Joshi, L.,
+Peinado, H., Lyden, D., Thomas, B., Rodriguez, B., Raghunath, M., Pandit, A.
+and Zeugolis, D., 2014. Macromolecular Crowding Meets Tissue Engineering by
+Self-Assembly: A Paradigm Shift in Regenerative Medicine. Advanced Materials,
+26(19), pp.3024-3034.
+
+

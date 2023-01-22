@@ -1,0 +1,42 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/24808?cf_workflow=500000005&ct_workflow=all&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recQnhCKbTC0SzSjL?blocks=hide
+
+RELATED TO MILESTONE:  KR1 Develop and complete ≥1 run of a HTP platform for
+cell density & viability analysis of >90 suspension cultures.
+
+AIM/PURPOSE: To determine which factors (species, basal media, anti-clumping
+agent, KSR, pluronic, FBS) interact in which concentrations to optimally help
+fibroblasts adapt to suspension culture.
+
+HYPOTHESIS: That DoE will shed new light into how different factors interact
+and support adaptation of fibroblasts to suspension culture
+
+RESULTS SUMMARY:
+
+  * No cells were adapted to suspension
+  * F_NANDO3 total cell counts were consistently higher than F_DOLLY12 cell counts
+  * Increasing the concentration of anti-clumping agent lead to a decrease in total cell count 
+  * Most cultures were terminated at day 28 due to persistently low cell counts
+  * The remaining 12 cultures (triplicates from 4 conditions) were terminated at day 42 due to persistently low cell counts
+
+CONCLUSIONS:
+
+The conditions tested were not appropriate for adaptation of F_DOLLY12 or
+F_NANDO3 cells to suspension. However:
+
+  1. F_NANDO3 appears to survive better than F_DOLLY12 during suspension adaptation
+  2. Anti-clumping agent appears unnecessary for suspension adaptation
+
+NEXT STEPS:
+
+  * Identify and fix the cause of the blue fluorescent debris that interferes with total cell counting - see EPIC26777
+  * Use E125 flasks and discontinue use of 50 mL bioreactor tubes for suspension adaptation of F_DOLLY12
+  * Discontinue suspension adaptation of F_NANDO3 due to lack of WCB vials
+  * Discontinue use of anti-clumping agent in suspension adaptation experiments
+
+

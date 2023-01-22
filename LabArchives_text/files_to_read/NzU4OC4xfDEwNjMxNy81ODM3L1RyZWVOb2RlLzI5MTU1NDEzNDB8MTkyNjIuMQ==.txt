@@ -1,0 +1,265 @@
+
+
+Written by: Andrew
+
+
+Background
+
+
+A major focus for the suspension culture adaptation pipeline is to develop a
+high-throughput platform to maintain and monitor large numbers of suspension
+cultures. A critical requirement for this purpose is the ability to generate
+cell counts in an upscalable and reproducible manner to enable large-scale
+screens of culture conditions to determine the optimal workflow for the
+generation of suspension adapted cell lines. The currently used workflow for
+attaining cell counts involves staining cells with fluorescent nucleic acid
+stains that are either permeable (total cell counts) or impermeable (dead cell
+counts) to live cell membranes. Stained cells are then imaged using the Zaber
+automated fluorescence microscopy imaging system. Cell counts are then
+automatically generated using the image processing tool FIJI, that is able to
+identify and count "cells" from the captured images. Previous experiments have
+identified Hoechst Readyflow to be an appropriate live nuclear stain for this
+workflow due to its ability to stain cells with high contrast and produce
+counts that are comparable to counts obtained via trypan blue exclusion.  
+  
+However, as seen in recent suspension culture experiments, Readyflow at times
+appears to cause the formation of precipitate that is visible in the DAPI
+channel during Zaber microscopy. This in turn can impair the accuracy cell
+counts obtained from the automated FIJI macro. Combined with its relatively
+high cost it was deemed necessary to explore cheaper and more reliable
+alternatives.
+
+
+Key results
+
+
+1\. At a final concentration of 5 ug/mL both Hoechst trihydrochloride
+trihydrate as initial powdered stock or in solution produced comparable image
+quality to Hoechst Readyflow when imaged under the DAPI filter.
+
+2\. Readyflow staining can result in false positives during cell counting,
+likely due to precipitate/fluorescent particle formation.
+
+3\. Both solid and solution Hoechst trihydrochloride trihydrate products,
+particularly when used to stain cells without dPBS dilution, produced
+comparable cell counts in suspension cultures grown in media that did not
+contain phenol red (CD CHO).
+
+4\. Hoechst trihydrochloride trihydrate as powdered stock is the most cost
+effective option, with the lowest cost/unit and cost/sample.
+
+
+
+
+Graphpad Prism Analysis:
+https://drive.google.com/file/d/1XOR7KEUnrMsR6Qc3xDoukc1AXxMQ-f3W/view?usp=sharing
+
+
+Discussion
+
+
+Image quality
+
+In a qualitative assessment of microscopy images, cells that were stained with
+Hoechst Readyflow fluoresced brighter when imaged under DAPI in DMEM/F12
+cultures compared to both Hoechst trihydrochloride trihydrate products (Figure
+1). However, there was an apparent increased level of background fluorescence,
+that was particularly evident in samples of CD CHO cultures. Furthermore,
+visible precipitate was only observed in wells stained with Readyflow (Figure
+2). This phenomenon has been observed in previous experiments where Readyflow
+was used for cell imaging and enumeration.
+
+Cell Counts  
+In DMEM/F12 control suspension cultures that had noticeably fewer cells and
+more cell clumping, staining with Hoechst Readyflow generated higher total
+cell counts compared to the other two stains.(Figure 3). This disparity was
+less pronounced in CD CHO culture cell counts (Figure 4). In addition, for all
+Hoechst products, generally higher cell counts were obtained when concentrated
+stain was applied directly to cells without PBS dilution in both DMEM/F12. For
+2 of the CD CHO cultures (8640 and 8641) cell counts were comparable between
+all 3 stains, particularly when used undiluted to stain cells (Figure 4). All
+dilutions of Hoechst trihydrochloride trihydrate solution failed to stain
+cells and produce cell counts.  
+  
+A side by side comparison of undiluted Hoechst trihydrochloride trihydrate and
+Hoechst Readyflow staining during routine suspension culture monitoring,
+Hoechst Readyflow produced higher cell counts although differences between
+cell counts were found to be non significant (unpaired ttest, p=0.0582)
+(Figure 5). It is a possibility that staining with Hoechst Readyflow can
+produce false positive signals explaining the higher cell counts obtained.
+Review of the debugging files of the Readyflow stained samples showed that the
+precipitate formed during Readyflow staining was being identified as cells by
+the ImageJ macro, and were included in the cell count (Figure 6). Note the
+irregularity of some of the counted "cells" that are not consistent with usual
+nucleus appearance. The potential for Readyflowto produce false positives was
+further shown when Readyflow was added to DMEM/F12 media that did not contain
+cells (Figure 7). Despite the absence of cells, visible particles were
+observed from microscopy images and were even counted by the automated macro,
+resulting in a cell count of 1,720 cells/mL. This phenomenon has been
+previously described in the literature, where Readyflow alongside SYBR Green 1
+stains produced fluorescent colloidal particles in the absence of DNA
+(Dlusskaya et al. 2019).
+
+  
+Additional data was obtained from EPIC28384 to compare counts obtained from
+manual trypan blue exclusion counts vs Hoechst trihydrochloride trihydrate
+staining during the seeding of 6 DOLLY suspension cultures. Cell counts
+between both methods were comparable and not significantly different (unpaired
+t-test, p=0.2796) (Figure 8). This data further suggests that Hoechst
+trihydrochloride trihydrate (solid) staining is suitable for accurate cell
+counting.  
+  
+Cost
+
+Solid Hoechst trihydrochloride trihydrate is the most cost effective option in
+comparison to the other Hoechst stains (Table 1). On a cost per sample basis,
+the reconstituted Hoechst powder when used at a final concentration of 5 ug/mL
+is 100 times cheaper than the Hoechst solution and 7000 times cheaper than
+Hoechst Readyflow at the working concentration used (12.3 uL/sample). At an
+economic level, where the desired purpose is to analyse a large number of
+suspension cultures the price point alone justifies the use of the solid
+Hoechst trihydrochloride trihydrate over its more expensive counterparts.
+
+
+
+
+Table 1. Reagent cost for the three trialled Hoechst stains. Cost was
+calculated based on a sample volume of 100 uL of suspension culture. Hoechst
+Readyflow working concentration is based on concentrations that were used for
+previous suspension experiments.
+
+ReagentCost/unitUnit sizeNumber samples/unitCost/sample  
+Hoechst trihydrochloride trihydrate (powder)$199100 mg200,000 (5 ug/mL final
+concentration)$0.0001  
+Hoechst trihydrochloride trihydrate (solution)  
+$26710 mg/mL20,000 (5 ug/mL final concentration)  
+$0.01  
+Hoechst Readyflow$3105 mL406.5 (12.3uL/sample)$0.76  
+  
+  
+
+  
+
+
+
+
+Figure 1. Comparison of Hoechst trihydrochloride trihydrate and Hoechst
+Readyflow staining to enumerate cells in suspension cultures (EPIC25749)
+
+
+
+
+Figure 2. Visible precipitate under 5x magnification when suspension cells
+cultured in DMEM/F12 media were stained with Hoechst Readyflow. Cells were
+stained at a final concentration of 5 ug/mL and 12.3 uL/mL for Hoechst
+trihydrochloride trihydrate(solid and solution) and Hoechst Readyflow
+respectively.
+
+
+
+
+Figure 3. Comparison of cell counts of DMEM/F12 cultures obtained from
+staining with 4 different concentrations of Hoechst trihydrochloride
+trihydrate (reconstituted solid stock),  Hoechst trihydrochloride trihydrate
+(solution) and Hoechst Readyflow.  
+Figure 4. Comparison of cell counts of CD CHO cultures obtained from staining
+with 4 different concentrations of Hoechst trihydrochloride trihydrate
+(reconstituted solid stock),  Hoechst trihydrochloride trihydrate (solution)
+and Hoechst Readyflow.
+
+
+
+
+Figure 5. Comparison of total cell counts obtained from staining with
+concentrated Hoechst trihydrochloride trihydrate (solid) (5 ug/mL) or Hoechst
+Readyflow (3 drops/mL). n=1  
+  
+
+Figure 6. Debug images from automated cell counts of cells stained with
+Hoechst Readyflow.
+
+Figure 7. Precipitate was observed in a negative control, when Hoechst
+Readyflow was added to DMEM/F12 media with no cells at a concentration of 3
+drops/mL. Well C11, Plate 9018.
+
+
+
+
+  
+
+Figure 8. Comparison of cell counts obtained via manual trypan blue exclusion
+vs Hoechst trihydrochloride trihydrate (solid) staining (n=6). Counts were
+obtained from the seeding of F_DOLLY12 cells  for the commencement of
+EPIC28384.
+
+  
+
+
+Limitations
+
+
+1\. Due to low cell counts and the presence of aggregates/precipitate from
+suspension cultures trypan blue counts were unable to obtained to be used as a
+comparator to determine cell count accuracy.  
+2\. These suspension cultures have relatively low cell number, resulting in
+sample variance that may explain differences in cell number for some of the
+tested stain conditions.
+
+3\. At the time, the cultures used for this experiment were valuable. To avoid
+oversampling from a single culture, multiple cultures were used as technical
+replicates which made comparisons challenging.
+
+4\. Dilutions of the Hoechst trihydrochloride trihydrate solution failed to
+stain, it is possible this was a result of human error while making the
+dilutions.
+
+  
+
+
+Conclusions
+
+
+ Hoechst trihydrochloride trihydrate (solid) is the best choice of the Hoechst
+33342 stain products tested for cell counting in high throughput suspension
+culture workflows.
+
+
+Next steps
+
+
+1\. Edit suspension culture (https://au-
+mynotebook.labarchives.com/share/Templates/NzM0LjV8MTE3MTM1LzU2NS9UcmVlTm9kZS8yNzU4NjI3ODQyfDE4NjQuNQ==
+)and Hoechst staining for clone picking ( https://au-
+mynotebook.labarchives.com/share/Templates/NzU2LjZ8MTE3MTM1LzU4Mi9UcmVlTm9kZS8zMjAzNjY1NjQxfDE5MjAuNg==
+) lab book templates to include staining protocol using Hoechst
+trihydrochloride trihydrate (solid)  
+2\. Compare counts to Trypan Blue exclusion method to confirm and further
+improve staining method accuracy.  
+3\. Test the staining method on another cell type, preferably a proliferative
+suspension culture, against the Trypan Blue exclusion method.
+
+
+References
+
+
+Żurek-Biesiada D, Kędracka-Krok S, Dobrucki JW. UV-activated conversion of
+Hoechst 33258, DAPI, and Vybrant DyeCycle fluorescent dyes into blue-excited,
+green-emitting protonated forms. Cytometry. 2013;83A:441-451\. doi:
+10.1002/cyto.a.22260.
+
+Karg TJ, Golic KG. Photoconversion of DAPI and Hoechst dyes to green and red-
+emitting forms after exposure to UV excitation. Chromosoma.
+2018;127(2):235-245. doi:10.1007/s00412-017-0654-5  
+Dlusskaya, E. A., Atrazhev, A. M. & Ashbolt, N. J. Colloid chemistry pitfall
+for flow cytometric enumeration of viruses in water. Water Research X 2,
+100025 (2019).
+
+  
+
+
+
+
+
+
+
+

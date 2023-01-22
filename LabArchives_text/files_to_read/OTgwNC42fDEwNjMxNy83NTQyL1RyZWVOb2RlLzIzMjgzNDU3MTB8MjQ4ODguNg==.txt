@@ -1,0 +1,24 @@
+Performed by:
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+Process
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 6 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 8,680,000
+    * 50/50 RPMI/HyCell: 1,480,000
+    * 75/25 RPMI/HyCell: 2,480,000
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Left 50/50 and 75/25 flasks as is due to low cell counts and returned to incubator - will check counts again on Monday 
+  6. Removed 6M cells from Freestyle flask to seed ACA experiment (lab book) 
+  7. Removed a further 3.5 mL containing 1.5M cells to leave ~1M cells
+  8. Topped culture back up to a total of 20 mL (50K cells per mL final cell density) with Freestyle medium
+  9. Returned flask to incubator
+
+

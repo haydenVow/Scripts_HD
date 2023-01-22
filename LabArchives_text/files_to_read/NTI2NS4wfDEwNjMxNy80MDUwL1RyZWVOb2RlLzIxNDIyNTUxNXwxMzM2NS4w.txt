@@ -1,0 +1,81 @@
+
+
+## Performed by: Shaleen  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Bradford reagentS3589  
+  
+PBS  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+  
+  
+Figure 1: Plate map for Bradford quantification  
+  
+  
+
+
+
+
+Process:
+
+Preparing BSA standard curve:
+
+  * Make up stock of 2 mg/ml BSA solution
+  * Perform serial dilutions to make up 1000, 750, 500, 250, 125, 25, 12.5, 10, 7.5, 5, 0 ug/ml solutions of BSA in triplicate (see plate map). Place on ice.
+
+Improved freeze-thaw lysis method:
+
+  * Remove media from wells and wash multiple times with PBS to remove serum proteins that may affect analysis. Last PBS wash should be just enough to cover wells ( 200uL)
+  * Seal plate thoroughly with adhesive foil
+  * Place the plate directly in LN2 bath for 3 minutes.
+  * Thaw in water bath for 3 minutes.
+  * Repeat process 3 more times.
+
+Cycle 1: 14:52 - 14:58  
+
+Cycle 2: 14:59 - 15:05  
+
+Cycle 3:  15:06 - 15:12  
+
+  * Transferred lysate to 1.8mL microfuge tube.
+  * Centrifuge tube/s at 650g for 5 mins.  15:22 - 15:27 am/pm
+  * Aspirate 100uL of supernatant and transfer to corresponding well on a fresh non treated 96 well plate. Keep plate cold by placing on ice.
+  * Perform dilutions in the well plate using water or PBS (ensure that whichever one that is used is also used as the blank) as the diluent.
+  * Prepare parent, 1:2, 1:5 dilutions of sample in triplicate
+  * In a new 96 well plate, add 230uL bradford reagent to the corresponding wells.
+  * Add 20uL of the sample to each of the corresponding wells.
+  * Mix well and spin plate down for 5 mins to remove bubbles (also the incubation time).
+  * Read at 595nm using plate reader.
+
+
+
+
+Observations/Summary:
+
+  * 150uL PBS was fine for freeze/thaw.
+  * 20/230uL ratio shows up in the lower end of the curve (just below middle).
+  * Tested 40uL and 30uL of sample and the abs value was around 0.47 which is desirable.
+  * Need to use 40uL of BSA for standard curve and 40uL of sample instead of 20uL when dealing with immature cells.
+
+  
+
+
+
+
+

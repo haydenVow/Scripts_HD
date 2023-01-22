@@ -1,0 +1,401 @@
+
+
+Discussed the direction of this passage with Tom and Shaleen the previous day.
+The harvest today will follow the following adjustments to the protocol.
+
+  * For 1 flask in each of the 2xE125 flask set 
+    * Trypsin-EDTA containing poloxomer 188 (1% w/v) will be used for the harvest. 
+    * Growth media containing 1% w/v poloxomer 188 will be used to neutralise the trypsin. 
+    * dPBS containing poloxomer 188 (10% w/v) will be used to wash carriers after neutralised cells are collected. 
+    * dPBS washes and neutralised cells in trypsin will be kept in separate tube to compare recovery.  
+  * 1 flask in each of the 2xE125 flask set will be harvested as per regular protocol below
+    * No poloxomer during typsin incubation
+    * No poloxomer in dPBS washes
+    * no poloxomer in neutralising media. 
+
+
+
+
+Made up 60mL of growth media containing 1% poloxomer in the main lab,
+transferred the contents to the library lab.
+
+Aliquoted 67mL of 10% w/v Poloxomer 188 in the main lab and transferred to the
+library lab.
+
+
+
+
+Equilibrate microcarriers in culture medium before use
+
+  1. Prior to use, aliquotted two lots of | 28.125 | mL of sterilized microcarriers ( 20 g/L stock) suspended in dPBS into |  2 |  x | E500  | flasks.
+  2. Rinsed microcarriers in | 30 | mL culture medium (50 mL/g Cytodex). (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and as much supernatant as possible was removed.
+  4. The microcarriers were resuspended to the desired volume of culture medium ( | 120 | mL ) in each vessel.
+  5. The culture vessel was transferred to the incubator for at least 1 hour or overnight so that the microcarriers and culture medium could equilibrate. |   13:58   am/pm | 
+    * 37 degrees, 5% CO2, Incubator #  |  67 |  
+
+  
+
+
+
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Flask type:
+
+Harvester
+
+Seeded Vessel ID(s)  
+  
+6657-DOLLY12_11E7-Sheep P10-1of2  
+6658-DOLLY12_11E7-Sheep P10-2of2
+
+E125
+
+Nathan
+
+6718-DOLLY12_11E7-Sheep P11-1of1 (Microcarrier derived)  
+  
+6659-DOLLY12_11E7-Sheep P10-1of2  
+6660-DOLLY12_11E7-Sheep P10-2of2
+
+E125
+
+Shaleen
+
+6719-DOLLY12_11E7-Sheep P11-1of1 (Planar derived)  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+  
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:     60    mL in     Small Urine Container    tubes, moved from freezer to waterbath (13:36)   
+
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:     120    mL in    in 12x15mL (10mL each)     tubes
+  3. Growth media (for neutralizing) 100 mL per g Cytodex 1:     60mL    mL in    small 70mL      pot
+  4. dPBS (for washing microcarriers after Trypsinization), 100 mL per g Cytodex 1:    60mL     mL in    small 70mL    pot
+  5. Growth media (for pellet resuspension):     2    mL in    1x15     tubes.   
+
+Moved the poloxomer containing growth media and dPBS into the waterbath 13:46  
+
+Time that all aliquots were placed in the water bath the warm before use
+13:46   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+## Sample and stain (before harvest):
+
+  1. Removed 4 x E125s from incubator and placed in BSC after wiping with isopropanol soaked wipe.
+  2. Aliquotted 20uL of culture from each flask after swirling evenly to distribute carriers into 3 wells per flask (3 replicates per flask).
+    1. A1-A3: 6657
+    2. B1-B3: 6658
+    3. C1-C3: 6659
+    4. D1-D3: 6660
+  3. Added 80uL of non sterile dPBS to each well.
+  4. Added 2uL of Hoescht stain to each well and mixed stain evenly using P200 pipette ensuring no bubbles are formed in the process. Labelled the plate with culture id 6701. 
+  5. Incubated plate in the dark for 15 mins at RT: 11:50 - 12:06
+  6. Imaged using the zaber in the main lab [13:30]. Images uploaded to P cloud.   
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes [14:08]
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer half of the fresh, pre-warmed dPBS (15mL) for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Combined all Trypsin-EDTA aliquots into one 120mL container. 
+  5. Transfer the fresh, pre-warmed Trypsin/EDTA solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap.
+    1. Nathan: 30mL of trypsin EDTA was added to flask [ ] 27mL of Trypsin-EDTA was added to flask 6657 along with 3mL of 10% w/v Poloxomer 188 (final conc ~1% w/v).
+    2. Shaleen: 30mL of trypsin EDTA was added to flask [ ] 27mL of Trypsin-EDTA was added to flask 6660 along with 3mL of 10% w/v Poloxomer 188 (final conc ~1% w/v).
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker
+  3. Restart the shaker at the `speed 155rpm` \- see the table below. [Nathan: 14:49]
+  4. After `7 `minutes, stop the shaker
+  5. Remove the flask from the shaker [Shaleen 14:57]
+  6. Cells were sampled (100uL) at the 10 minute mark for Nathan and Shaleen, observed some free floating cells as a result of detachment under 4X objective (Primo) however a significant amount of cells appeared to be still attached. Hence, it was decided to leave cells in shaker for an additional 5 mins.
+  7. At 15:04, flasks were sampled once again to observed detachment, cells still appeared to be attached and not free floating single cells as desired. Hence, cells were placed back in the incubator for another 5 mins.
+  8. At 15:16, flasks were sampled once again to observed detachment, cells still appeared to be attached and not free floating single cells as desired. Hence, cells were placed back in the incubator for another 5 mins.
+  9. All four flasks were removed from shaker at 15:22
+  10. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E125
+
+155  
+E250112  
+E500104  
+E100090  
+E200081  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+## Gelatin coat 6 x Diff plates:
+
+## 1\. B2-B4, C2 - C4 of 6 x 96 well plates were coated with 100uL of Gelatin
+and transferred into the incubator at: 14:56
+
+## Neutralize the detachment reagent:
+
+  1. Added 30mL of fresh, pre-warmed growth medium containing 1% w/v poloxomer 188 to flasks 6660 and 6657. Added 30mL of fresh, pre-warmed growth without poloxomer to flasks  6659 and 6658.
+  2. Mixed the suspensions using a P10 serological pipette multiple times. 
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilted the flask to an angle of approximately 30 degrees from vertical
+  5. Removed the cap and transferred the supernatant from each flask to centrifuge tubes using a serological pipet. For each flask set, poloxomer 188 treated supernatant was kept separate from non poloxomer treated supernatant. 
+
+  
+
+
+
+
+## First wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Added 15mL of fresh, pre-warmed dPBS solution containing 10% w/v poloxomer 188 to flasks 6660 and 6657. Added dPBS solution without poloxomer to flasks  6659 and 6658.
+  3. Pipet-mixed the suspension vigorously
+  4. Allow the microcarriers to settle for at least 2 minutes
+  5. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  6. Removed the cap and transferred the supernatant from each flask to centrifuge tubes using a serological pipet. For each flask set, poloxomer 188 treated supernatant was kept separate from non poloxomer treated supernatant
+
+  
+
+
+
+
+## Second wash to recover additional cells:
+
+  1. Repeated the first wash procedure (steps 1-6 above) once more with fresh dPBS with/without poloxomer.
+  2. 10mL of fresh dPBS was added to each harvested E flask to resuspend microcarriers. 
+
+  
+
+
+
+
+#  ~~ ~~Optional: sieve cell suspension to remove microcarriers~~~~
+
+  1.  ~~ ~~Pass the cell suspension through a 40 - 100 um pore-size sieve to remove any errant microcarriers.~~~~
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Centrifuged all supernatant tubes at 650 - 700 RCF for 5 minutes ( Nathan: 15:49-15:54) (Shaleen 15:56 - 16:01)
+  2. Aspirated supernatant from each tube.
+  3. Resuspended pellets in each tube in 1 mL of fresh, pre-warmed growth medium in each tube.
+  4. Cell resuspensions for each flask were combined into one respective 50mL tube for counting. 
+  5. Washed out empty tubes with 400-500uL of remainder of the fresh, pre-warmed growth medium and combine with the cell suspension for their respective flasks
+
+  
+
+
+
+
+## Performed cell count:
+
+  1. Aliquoted    10uL      of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+  3. https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1043:1046
+
+  1.  Total cell number was: 
+    1.  6657: 2,934,400  
+
+    2.  6658: 4,118,000  
+
+    3.  6659: 1,680,200  
+
+    4.  6660: 2,095,600
+  2. Pellets were combined into one 50mL tube based on their original WCB_2 status (Planar vs Microcarrier derived) (flask 6657 with 6658, flask 6659 with 6660).
+    1. Total volume of cell suspension (derived 6657 + 6658) = 6.5mL containing 7,052,400 cells.
+    2. Total volume of cell suspension (6659 + 6660) = 6mL containing 3,777,600 cells.
+
+DIFF ASSAY SEEDING:
+
+  1. Aliquoted 4mL of growth to two 15mL tubes. Tubes were labelled 1 and 2.
+  2. Added 2uL of p38i to each tube.
+  3. To tube 1, 100k cells (92uL) of cell suspension from cultures 6657+6658 was added.
+  4. To tube 2, 100k cells (158uL) of cell suspension from cultures 6659+6660 was added.
+  5. Each cell suspension was distributed across 6 wells on 3 96 well plates respectively (B2-4, C2-4)
+  6. Cell density per vessel:     5000 cells/well       
+
+  7. Transferred 6 x seeded 96 well plates to incubator 17:20  
+
+  
+
+E500 (+E250) SEEDING:
+
+  1. Two equilibrated E500 flasks were removed from the incubator.
+  2. Flasks were labelled 'Microcarrier derived' and 'Planar derived'
+  3. 60mL of equilibrated microcarriers were removed from the 'planar derived' flask and aliquoted into an E250. 
+    1. The remaining 3677600 cells counted from flasks 6659 and 6660 were added to this E250 flask.
+  4. The remaining 6952400 cells counted from flasks 6657 and 6658 were added to the 'microcarrier derived' E500 flask.
+  5. Flasks were placed in the bottom incubator in the library lab (incubator #68). Shaking at 110rpm continuously. [17:49]
+
+Excess equilibrated microcarriers in the 'planar' E500 flask were placed in
+the fridge (#104).
+
+
+
+
+## Sample and stain (after harvest):
+
+  1. Aliquotted 10uL of culture from each flask after swirling evenly to distribute carriers into 5 wells per flask (5 replicates per flask).
+  2. Added 90uL of non sterile dPBS to each well.
+  3. Added 2uL of Hoescht stain to each well and mixed stain evenly using P200 pipette ensuring no bubbles are formed in the process.\
+  4. Incubated plate in the dark for 15 mins at RT: 18:40 - 18:50
+  5. Imaged using the Axio in the main lab.18:51
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Trypsin-Edta  
+80, 26, 43, 57, 46, 74, 70, 63, 56, 72, 62, 49.  
+  
+Poloxomer 188 (10% w/v)  
+3252  
+  
+dPBS (for washing & neutralising)4381  
+  
+Growth Media4805  
+  
+p38i (20mM stock)3978  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Trypsin aliquots appeared to have different colours, some were very yellow
+while others were very pink. Decided to combine the aliquots into one 120mL
+container and distribute the trypsin to each flask from there just so each
+flask didn't experience different Trypsin conditions.
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See p cloud account for the following file: 2021-05-11-6701NHSSDAPIROUND3
+
+  
+
+After harvest:
+
+6657
+
+https://mia-capture.vow.tools/#/session/recGlhlShRhEJ7Zba/images
+
+6658
+
+https://mia-capture.vow.tools/#/session/rec7RolUx32Igrtok/images
+
+6659
+
+https://mia-capture.vow.tools/#/session/recNQRThTsPTdG7VX/images
+
+6660
+
+https://mia-capture.vow.tools/#/session/recpW5ewmyfqtRb0L/images
+
+

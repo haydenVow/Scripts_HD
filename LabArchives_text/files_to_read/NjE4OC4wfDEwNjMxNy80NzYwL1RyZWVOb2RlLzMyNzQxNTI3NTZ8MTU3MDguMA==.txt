@@ -1,0 +1,56 @@
+
+
+## Completed by: AG, TT
+
+
+
+
+A major focus for the suspension culture adaptation pipeline is to develop a
+high-throughput platform to maintain and monitor large numbers of suspension
+cultures. A critical requirement for this purpose is the ability to generate
+cell counts in an upscalable and reproducible manner to enable large-scale
+screens of culture conditions to determine the optimal workflow for the
+generation of suspension adapted cell lines. The currently used workflow for
+attaining cell counts involves staining cells with fluorescent nucleic acid
+stains that are either permeable (total cell counts) or impermeable (dead cell
+counts) to live cell membranes. Stained cells are then imaged using the Zaber
+automated fluorescence microscopy imaging system. Cell counts are then
+automatically generated using the image processing tool FIJI, that is able to
+identify and count "cells" from the captured images. Previous experiments have
+identified Hoechst Readyflow to be an appropriate live nuclear stain for this
+workflow due to its ability to stain cells with high contrast and produce
+counts that are comparable to counts obtained via trypan blue exclusion.  
+  
+However, as seen in recent suspension culture experiments, Readyflow at times
+appears to cause the formation of precipitate that is visible in the DAPI
+channel during Zaber microscopy. This in turn can impair the accuracy cell
+counts obtained from the automated FIJI macro. Combined with its relatively
+high cost it was deemed necessary to explore cheaper and more reliable
+alternatives.
+
+
+
+
+Manual: https://www.thermofisher.com/document-connect/document-
+connect.html?url=https://assets.thermofisher.com/TFS-
+Assets%2FLSG%2Fmanuals%2Fmp21486.pdf
+
+
+
+
+
+StainWebpageRecommended working concentration  
+Notes  
+Hoechst 33342 Trihydrochloride trihydrate, 100 mg (H1399)  
+https://www.thermofisher.com/order/catalog/product/H1399  
+0.2 - 5ug/mL Reconstitute in water (NOT PBS) to give stock of 10 mg/mL  
+Hoechst 333258 Pentahydrate 10mg/mL (H3659)  
+https://www.thermofisher.com/order/catalog/product/H3569  
+0.2 - 5ug/mL  
+  
+  
+Hoechst 33342 Readyflow  
+https://www.thermofisher.com/order/catalog/product/R37165  
+2 drops/mL  
+
+

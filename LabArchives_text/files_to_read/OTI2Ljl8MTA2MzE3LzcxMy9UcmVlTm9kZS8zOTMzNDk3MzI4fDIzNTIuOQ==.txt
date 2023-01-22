@@ -1,0 +1,137 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6618  
+1  
+  
+6617  
+1  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed flasks from the incubator and placed them in the BSC  
+    1. flask 1`| 15:59 am/pm| (columns 1-3)  
+`
+
+    2. `flask 2 `| 16:06 am/pm| (columns 3-6)   
+``
+
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 10uL sample of the suspension was taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to a well on a 96 well plate and mixed it with 90uL of staining mix containing dPBS with 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+    1. Vol of staining mix required = 4.5mL, 
+      1. vol of dPBS added: 3.96
+      2. vol of 10% w/v poloxomer added: 0.450mL
+      3. vol of Hoechst 33342 added (20uL/mL): 90uL.
+      4. Reagents were mixed together in a 15mL tube, poured into a single use reservoir then 90uL was applied to each well (except wells G1 and H1, there was not enough media remaining).
+  4. Returned cultures to the incubator  
+    1. `flask 1| 16:06 am/pm|`
+    2. `flask 2`| 16:13 am/pm|``
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 10 minutes.  `| 16:20-16:30 am/pm |`
+  6. After incubation the wells were inspected under 5x objective on the zaber in the main lab.
+  7. Flask 6617 was scanned for reference so that images captured could be traced back to the culture IDs in MIA capture.
+  8. Exposure time set for DAPI channel was 60ms, Fluorescent Lamp intensity: 70.0783
+  9. Exposure time set for Phase channel was 35ms, Lamp intensity: 2.323.
+  10. Columns 1-6 were imaged using the HCS feature as per the setup below after the plate was calibrated to Well A1. All images were aquired first on the DAPI channel, then again using the Phase channel
+
+  
+
+  
+
+  * After imaging the images were inspected in MIA capture and it was found that the stitching was not done correctly for images captured form either channel. Below are images captured from Well A2 of the 96 well plate being incorrectly stiched on both channels.
+
+Decided to repeat the imaging process but taking one image per well, see setup
+below. [17:23]
+
+Noticed in some phase images there were some bright spots that might interfere
+with the MIA 'uCarrier cell count plastic' tool. Also noticed that the images
+were not getting uploaded to MIA capture. Unsure of how long it takes for the
+zaber to time out of a selected plate.
+
+After waiting 10 minutes the images had still not been uploaded to MIA
+capture. Perhaps since the images are not requiring any stitching they are not
+being uploaded? should consult stan.
+
+[18:00] With Lily's help we managed to capture a Z stack image for wells A1-A3
+with 50um spacing to see if the Z stack projection can be analysed using the
+MIA tool as well. So far these images have not appeared in MIA.
+
+Repeated the Z stack capture but with 20um spacing between each image.
+
+[18:34] Discarded the plate.
+
+
+
+
+Stanley requested the /z/ file locations for the images captured today, he
+said he can manually add the plate locations.  
+
+  
+
+
+
+
+### Observations/Summary:
+
+Noticed that the zaber needs a plate ID in order to upload images to MIA
+capture. This poses a potential problem for capturing images of a 96 well
+plate that contains samples from multiple cultures. Wells will have to be
+individually selected from the HSC plate map and each image ID will need to be
+scanned then imaged using Phase and DAPI channels, This will need to be
+repeated for each culture that is present on the plate. This inevitably slows
+down throughput. An ideal situation would be to send the images of the 96 well
+plate into MIA without Plate ID information and then to assign the plate IDs
+in MIA capture.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS 4490  
+(see entry)  
+  
+10% w/v Poloxomer 883252  
+(see entry)  
+  
+Hoechst 333421403  
+  
+(see entry)  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...
+    * Mia stitcher did not stitch images correctly. 
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+Entry below contains all images of the 96 well plate, however all image of
+columns 4-6 correspond to culture 6618 not culture 6617
+
+https://mia-capture.vow.tools/#/session/recBE1V5JJ8O7DtBe/images
+
+

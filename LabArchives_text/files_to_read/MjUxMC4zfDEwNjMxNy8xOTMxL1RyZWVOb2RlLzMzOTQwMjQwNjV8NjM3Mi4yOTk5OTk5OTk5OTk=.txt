@@ -1,0 +1,321 @@
+
+
+  
+
+Condition 1 (Freeze thawed)  
+  
+
+Sample 1.1
+
+Sample 1.2
+
+Sample 1.3
+
+Sample 1.4
+
+Sample 1.5
+
+Sample 1.6
+
+Sample 1.7
+
+Sample 1.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)DMEM/F12 + 20% FBS + 1X P/SDMEM/F12 + 20% FBS +
+1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-BYesYesYesYesNoNoNoNo  
+Collagen coatedNoNoYesNoNoNoYesNo  
+Cells seeded in collagen solutionNoNoNoYes (Seeded in PureEZ Collagen gel
+solution and DMEM/F12 + 20% FBS + 1X P/S media in ratio of 4:1
+respectively)NoNoNoYes (Seeded in PureEZ Collagen gel solution and DMEM/F12 +
+20% FBS + 1X P/S media in ratio of 4:1 respectively)  
+  
+  
+
+Condition 2 (Freeze thaw duplicate)  
+ Sample 2.1Sample 2.2Sample 2.3  
+Sample 2.4  
+Sample 2.5  
+Sample 2.6  
+Sample 2.7  
+Sample 2.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-B  
+YesYesYesYesNoNoNoNo  
+Collagen coated  
+NoNoYesNoNoNoYesNo  
+Cells seeded in collagen solution  
+NoNoNoYes (Seeded in PureEZ Collagen gel solution and DMEM/F12 + 20% FBS + 1X
+P/S media in ratio of 4:1 respectively) NoNoNoYes (Seeded in PureEZ Collagen
+gel solution and DMEM/F12 + 20% FBS + 1X P/S media in ratio of 4:1
+respectively)  
+  
+  
+
+  
+
+
+
+
+
+
+Perform feed using below volumes:
+
+
+
+
+## Feed performed by: Adrian Kotevski
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required:
+
+  1. 80 mL of growth media without Vit C/TGF-B (Samples 1.1 - 1.4, 2.1 - 2.4)
+  2. 80 mL of growth media containing Vit C/TGF-B (Samples 1.5 - 1.8, 2.5 - 2.8)
+
+
+
+
+Culture IDs:
+
+Vessel TypeFlasks ID(s) Freeze thaw  
+Flask ID(s) Freeze thaw duplicate  
+Media Condition  
+  
+100 mm Petri dish1.1  
+7051-F_DOLLY12-Sheep P11-1of8  
+2.1  
+7059-F_DOLLY12-Sheep P11-1of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.2  
+7052-F_DOLLY12-Sheep P11-2of8  
+2.2  
+7060-F_DOLLY12-Sheep P11-2of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.3  
+7053-F_DOLLY12-Sheep P11-3of8  
+2.3  
+7061-F_DOLLY12-Sheep P11-3of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.4  
+7054-F_DOLLY12-Sheep P11-4of8  
+2.4  
+7062-F_DOLLY12-Sheep P11-4of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.5  
+7055-F_DOLLY12-Sheep P11-5of8  
+2.5  
+7063-F_DOLLY12-Sheep P11-5of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.6  
+7056-F_DOLLY12-Sheep P11-6of8  
+2.6  
+7064-F_DOLLY12-Sheep P11-6of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.7  
+7057-F_DOLLY12-Sheep P11-7of8  
+2.7  
+7065-F_DOLLY12-Sheep P11-7of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.8  
+7058-F_DOLLY12-Sheep P11-8of8  
+2.8  
+7066-F_DOLLY12-Sheep P11-8of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+  
+  
+
+  
+
+  
+
+  
+
+
+
+
+Process:
+
+1\. Aliquotted  160 mL  mL of  Growth Media into  2x 120 mL (80 mL in each)
+pot. To one of the pots add 200 uL of TGF-B and 40 uL of Vit C (this will be
+for samples 1.5-1.8 & 2.5-2.8). Placed in water bath 10:38
+
+2\. Removed  100 % of supernatant from vessel.
+
+3\. Replaced with  10 mL (per vessel) of  the respective growth   media.
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 82), Lab [Main]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7051-F_DOLLY12-Sheep P11-1of8 (Freeze thaw)
+  2. 7052-F_DOLLY12-Sheep P11-2of8
+  3. 7053-F_DOLLY12-Sheep P11-3of8
+  4. 7054-F_DOLLY12-Sheep P11-4of8
+  5. 7055-F_DOLLY12-Sheep P11-5of8
+  6. 7056-F_DOLLY12-Sheep P11-6of8
+  7. 7057-F_DOLLY12-Sheep P11-7of8
+  8. 7058-F_DOLLY12-Sheep P11-8of8  
+  
+
+  9.   7059-F_DOLLY12-Sheep P11-1of8 (Freeze thaw duplicate)
+  10. 7060-F_DOLLY12-Sheep P11-2of8
+  11. 7061-F_DOLLY12-Sheep P11-3of8
+  12. 7062-F_DOLLY12-Sheep P11-4of8
+  13. 7063-F_DOLLY12-Sheep P11-5of8
+  14. 7064-F_DOLLY12-Sheep P11-6of8
+  15. 7065-F_DOLLY12-Sheep P11-7of8
+  16. 7066-F_DOLLY12-Sheep P11-8of8  
+  
+\- samples 1.6 and 2.7 have peeled off almost completely and formed a small
+aggregate in the petri dishes.  
+
+\- Interestingly of all the Vit C and TGF treated samples the dishes that were
+coated with gelatin display the least amount of peeling off from the growth
+surface. Perhaps the gelatin provides a substrate that prevents the fibroblast
+cells from detaching off the growth surface.  
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Growth/Proliferation MediaA5368  
+  
+TGF-BM3363  
+  
+Vit C  
+A2717  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Conditions that will be freeze thawed prior to MuSC seeding:
+
+https://mia-capture.vow.tools/#/session/recs2i6beBlVzVBht/images (7051),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recbVsknOL1PGkUHL/images (7052),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recaXffzOvNtLjLo6/images (7053),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recZgD2m71iuiPpig/images (7054),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recOmsaCQCQPo61fi/images (7055),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recuHkRZfreWsP3dF/images (7056),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recDojmh4Vdb9zSFA/images (7057),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recSA8OpzlEgsVCGu/images (7058),
+Thursday June 17
+
+  
+
+Duplicate samples of group 1 that will undergo freeze thawed prior to MuSC
+seeding:
+
+https://mia-capture.vow.tools/#/session/rec2tx8aNzR7xobSL/images (7059),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recovucnLtkCu7GoV/images (7060),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/rec1Ac1yUbriZ3fxO/images (7061),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/rectZFuySe2F5e28l/images (7062),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recH9y2WdeBxB8iAv/images (7063),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/rec3G5goG9wOQvri9/images (7064),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/rec1mHats0A1sdzOr/images (7065),
+Thursday June 17
+
+https://mia-capture.vow.tools/#/session/recsrGM7Rpz8Jrcgr/images (7066),
+Thursday June 17
+
+

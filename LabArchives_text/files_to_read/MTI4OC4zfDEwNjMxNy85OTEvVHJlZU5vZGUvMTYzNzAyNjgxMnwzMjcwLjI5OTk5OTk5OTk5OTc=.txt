@@ -1,0 +1,219 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175  
+6720-DAISY4_16G9-Cow P7-1of3  
+T175  
+
+  
+  
+  
+T175  
+6721-DAISY4_16G9-Cow P7-2of3  
+  
+T175  
+  
+  
+T175  
+6722-DAISY4_16G9-Cow P7-3of3  
+  
+T175  
+  
+  
+  
+  
+T175  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     3     x     T175     vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      14:07    a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     30    mL in     1 x 50 mL Centrifuge    tubes
+  2.  dPBS (for washing and neutralising):     30    mL in   1 x 50mL Centrifuge     tubes
+  3. Growth media (for pellet resuspension):     5    mL in     120mL Urine Container    tubes
+  4. Growth media (for seeding):     90    mL in     120mL Urine Container    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+14:28
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    14:50   a/pm
+
+5\. Washed the vessel(s) with 10mL dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+Flasks were checked at [15:10] and only 50% detachment was observed .
+
+Flasks were checked again at [15:17] and ~ 80% detachment was observed.
+
+  1. Start/Finish for TrypLE was     14:59 - 15:24   a/pm 
+
+7\. Neutralised with     10mL     dPBS and combined cell suspension into a
+2 x 50mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     15:32 (Start Time) - 15:38  a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     3    mL    Growth Media      media
+
+11\. Aliquoted      20uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:     ~ 1.2 million      
+
+  2. Volume of cell suspension required for subculture was:      N/A       
+
+  3. Cell density per vessel:      N/A      
+
+
+
+
+Cells had been seeded at 1.1 million seeds 2 days prior and cells were
+harvested today at 1.2 million cells total. Hence, due to obviously poor
+growth rates - cells were discarded.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM4319  
+  
+TrypleM4308  
+  
+dPBS (for washing & neutralising)M4827  
+  
+Growth MediaM4805 (Re-suspension) M4837 (Seeding)  
+  
+p38i (20mM stock)A3978  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Flasks were checked under the library lab Primo microscope to find that every
+flask had achieved confluency. Images of 6722 (see below) were taken as
+evidence of this. Hence it was decided instead of a scheduled feed, cultures
+would receive a passage to 3 x T175 to calculate doublings (Nathan to do) and
+monitor growth rate (to see if it has picked up).
+
+Cell morphologies still appear to be irregular despite confluency being
+acheived.
+
+Cells took longer in Tryple to detach than the typical 10-15 min window - this
+phenomenon was also observed with BUFFY6 clonal populations (potentially a
+trait specific to clones of MuSCs)
+
+NOTE: CELLS WERE DISCARDED DUE TO POOR GROWTH RATES OVER 2 DAYS.
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because of irregular morphologies and POOR growth rates of DAISY clones
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+#6722: https://mia-capture.vow.tools/#/session/recqQ5rajV5q4bsmM/images
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

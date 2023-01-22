@@ -1,0 +1,139 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+To achieve proliferating suspension-adapted fibroblast cells using growth
+media (DMEM/F12 + 2% FBS + 1X P/S) supplemented with methylcellulose.
+
+
+Hypothesis
+
+
+That the addition of methylcellulose to our standard culture medium (DMEM/F12
++ 10% FBS + 1X P/S) will enable DOLLY12 fibroblast cells in proliferate and
+survive in suspension culture.
+
+
+Technical Gap
+
+
+Currently, the primary technical challenge is the inability for fibroblast
+cells to proliferate in suspension culture for an extended period (> 14 days),
+without a substantial loss in cell viability or cell numbers. In order to
+accomplish our objective of generating at least 1 fibroblast cell line adapted
+to suspension (according to our metrics), it's necessary to continuously
+evaluate different media supplementations. Therefore to identify a promising
+avenue that enable us to grow cells in suspension we will be assessing one new
+compound; methylcellulose.
+
+
+Method/Procedure
+
+
+Experimental Plan:
+
+1. Test preparation of methylcellulose (MC) stock solution 
+
+*See notes below on how to prepare MC stock solution
+
+2. Collect 3x vials of DOLLY12 fibroblasts - 1M in each vial for a total of 3M
+
+*These cells will be directly seeded into 6-well plates at 600,000 cells, 3 mL total per condition (200,000 cell/mL)
+
+Conditions to seed (see plate map below):
+
+  1. DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+  2. DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188 + 0.1% MC (w/v)
+  3. DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188 \+ 0.3% MC (w/v)
+  4. DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188 \+ 0.45% MC (w/v)
+  5. DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188 \+ 0.6% MC (w/v)
+  6. DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188 \+ 1% MC (w/v)
+
+  
+
+*GM - Growth Media (DMEM/F12 + 2% FBS + 1X P/S + Anticlumping agent 1:100 + 0.1% Poloxamer 188), MC - Methylcellulose 
+
+3. Thaw the DOLLY12 fibroblast into each condition as per the map plate at 200,000 cells/mL. Each well will contain 3 mL of growth media plus the intended amount of MC dissolved into the media (from 0.1% - 1%). Set on a plate shaker at ___RPM
+
+4. Perform a 100% feed 24 hours following thaw
+
+5. Perform a 100% feed every 3 days, filtering the cell through a 70 µm filter, and perform a cell count to assess cell viability and total numbers
+
+6. Track viability and cell counts over a 30 day period, noting down trends and/or observations
+
+  
+
+Preparation of methylcellulose stock solution:
+
+Since the in-house MC is non sterile it will need to be filtered prior to use
+in any cell culture experiments. MC can be dissolved using cold water, however
+preparing a solution of MC with cold water is difficult because as the powder
+comes into contact with water, a gel layer forms around it, dramatically
+slowing the diffusion of water into the powder, hence, the inside remains dry.
+A more appropriate way is to first mix the powder with hot water, so that the
+MC particles are well dispersed (consequently have a higher surface area), in
+the water and cool down this dispersion while stirring, should ultimately lead
+to more rapid dissolution of the MC particles.
+
+  1. Heat up ___ mL of ultrapure MilliQ water to 80°C . Add ____ g MC powder and agitate until particles are evenly dispersed - with vigorous shaking. A white precipitate should form on surface of the liquid.  
+  
+
+  2. Immerse the vessel containing the MC into room temperature tap water for 5 minutes shaking and swirling the vessel intermittently until the solution becomes clear and contains no visible solids.  
+  
+
+  3. Pass through a 0.22 µm to sterilise the solution. Prepared solution may be aliquoted and stored at 4°C for up to 12 months. MC serves as a non-cytotoxic, inert, suspending agent to enhance cell-cell adhesion and discourage the formation of an adherent cell monolayer. 
+
+
+
+
+Solubility and gelation of Methylcellulose (MC):
+
+MC is readily soluble in cold water up to approximately 55°C, whilst when it
+is dissolved in an aqueous solution it exhibits thermal gelation at elevated
+temperatures. A paper investigating the generation of mesenchymal stem cell
+sheets found that aqueous MC solutions at varying concentrations (6-15% w/v)
+could be prepared in heated water with the addition of PBS. Following
+equilibration at 4°C overnight, necessary to obtain homogenous MC solutions,
+the prepared solutions were autoclaved for 30 min at 121°C for sterility
+control. Even at concentrations as high as 6% (w/v), concentrations well above
+what project pool party (PPP) is planning to use in MC cultures, the gelation
+temperature was between 37-41°C in all the PBS solution groups (see figure
+below). The authors suggest that the salt in the PBS solution had a greater
+affinity for water than the polymer (MC). This results in the removal of water
+of hydration from the polymer thus dehydrating or "salting out" the polymeric
+molecules. This can further increase the hydrophobic interaction among MC
+molecules and lead to a decrease in their gelation temperature. However PBS
+isn't used as a supplement in growth media for cell culture, with its primary
+application being a wash reagent to remove residual serum. As a result, the MC
+will need to be prepared in ultrapure MilliQ water which means there are two
+possible ways in PPP can prepare a MC stock solution:
+
+1\. Prep a concentrated stock 10% (w/v), according to the the standard
+procedure, i.e. heat up MC powder in solution to 80°C then cool rapidly in
+room temperature water to dissolve the powder. Immediately sterile filter the
+solution through a 0.22 um filter (if at all possible) for cell culture
+experiments and store at 4°C until required.
+
+2\. If it is not possible to sterile filter the 10% (w/v) MC solution it can
+potentially be autoclaved. Prepare the MC as described in option 1, however
+once dissolved store the solution at 4°C overnight to equilibrate. Sterilise
+the solution by autoclaving it at 121°C for 30 minutes. However, it is unclear
+how the authors manage to retain the solution in a liquid phase as the high
+temperature should theoretically have resulted in the MC solution to gelate.
+The solution could potentially have been re-cooled to 4°C to enable to MC
+solution to return to a liquid suspension.
+
+  
+
+  
+
+Reference: Chen, C.H., Chang, Y., Wang, C.C., Huang, C.H., Huang, C.C., Yeh,
+Y.C., Hwang, S.M. and Sung, H.W., 2007. Construction and characterization of
+fragmented mesenchymal-stem-cell sheets for intramuscular injection.
+Biomaterials, 28(31), pp.4643-4651.
+
+

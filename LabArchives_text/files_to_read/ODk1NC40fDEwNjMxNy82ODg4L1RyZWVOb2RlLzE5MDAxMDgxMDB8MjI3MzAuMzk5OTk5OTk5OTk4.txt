@@ -1,0 +1,38 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/30919?cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://ranger.vow.tools/#/biomaterial/experiment/673
+
+RELATED TO OKR: First product release, program team 1
+
+AIM/PURPOSE: Grow Nuvonis quail fibroblast cells in a single use 3L bioreactor
+system
+
+HYPOTHESIS: N/A. This work is a proof of concept process not an experiment
+
+RESULTS SUMMARY:
+
+  * Nuvonis cells were cultured in a stir-tank bioreactor vessel
+    * 70 RPM (0.28m/s tip speed)
+    * 20 ccm (20mL/min) gas flow rate, microsparging
+    * 5 day batch time on average
+  * Cells doubled in cell density 24 hours after performing draw and fill at 80% harvest 
+    * Draw and fill performed consecutively twice 
+  * Cells decreased in cell density and viability following an increase in agitation to 90 RPM
+
+CONCLUSIONS:
+
+  * initial parameters established for Nuvonis stir-tank culture. These require further optimisation from this point. 
+  * the above optimisation will require a finalised media (e.g. mass transfer and sparging rates dependent upon material properties inherent to media formulation)
+
+NEXT STEPS:
+
+  * using parallelised bioreactor system, optimise:
+    * tip speed
+    * sparging rate and type (dependent on medium formulation)
+    * optional - batch feeding program
+
+

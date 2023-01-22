@@ -1,0 +1,97 @@
+
+
+Performed by: VP  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-1000  
+  
+ 10786  
+  
+NA  
+NA  
+  
+  
+  
+
+
+
+
+Cell Count  
+100ul sample was taken from the flask. Diluted samples with an equal volume of
+trypan blue. Either use
+
+  * Scepter 3.0 cell counts performed (see attached for guide); OR 
+  * Manual count
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+IDTypeCounting methodLive count totalLive count per mL  
+10786  
+FlatTrypan blue151,200,000  
+432,000  
+  
+10786  
+FlatScepter 3NA  
+NA  
+  
+  
+  
+AVERAGE  
+  
+  
+  
+  
+
+
+
+
+Feed
+
+  
+
+      Information & Rationale
+
+  * Overall WCB goal is 500 000 000 cells total
+  * Cells are maintained between densities of 50 000 - 800 000 cells/mL, passaged when they reach a density of 800 000 - 1 000 000 cells/mL, and re-seeded at a density of of 50 000 cells/mL
+  * The recommended working volume of an E1000 flask is 350mL but we have used a max of 500mL in a single vessel. 
+    * If possible, dilute entire volume of cell suspension with fresh media (growth factors to be added before use) to achieve an overall density within the limit specified above preferably towards the lower end of that limit (50 000 - 300 000 cell/mL), provided the entire volume does not exceed 500mL
+    * If not possible, cells are passaged into new vessels (E-1000s), diluted with newly prepared media to bring to a density of 50 000 cells/mL in a total of 350mL volume. Do not pellet the cells by centrifugation.
+
+     
+
+ Process
+
+  1. Removed cells from incubator and took 100uL sample from cell suspension. Returned cells to incubator immediately after sampling and cell counted. Recorded counts as per table above. Cells are at a good density for culture so no further action was taken. 
+  2.  ~~Calculated required media for dilution within current vessel OR prepared new E1000 flasks with required media for 50 000 cells/mL in 350mL (made up of old cell suspension and new media)~~
+  3.  ~~Added required growth factors to media~~
+  4.  ~~Incubated media at             °C for             minutes~~
+  5.  ~~ ~~Removed vessel from incubator and performed media change/passage <please indicate here which was performed> ~~~~
+  6. Returned vessel to shaking incubation at 37°C
+
+Location: Incubator: #.   78   , 37°C,      120    RPM, Library Lab
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis suspension media  
+  
+  
+EGF  
+  
+  
+IGF  
+  
+  
+  
+  
+
+

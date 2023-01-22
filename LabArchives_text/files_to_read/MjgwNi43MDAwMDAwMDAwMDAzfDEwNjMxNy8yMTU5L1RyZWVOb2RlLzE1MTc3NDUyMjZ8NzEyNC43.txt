@@ -1,0 +1,218 @@
+
+
+## Completed by: Katie + Bonnie
+
+
+
+
+HyClone medias are commercial ACF medias designed for use in large scale
+suspension cultures. They have been specifically developed for established
+cell lines, CHO, HEK293 as well as avian cells such as EB66, which are
+commonly used in suspension culture for recombinant protein and vaccine
+manufacturing. While there is little published data on the ability of these
+medias to support cells from other species or other cell types in the process
+of adapting to suspension culture, we hypothesis that they will provide a
+nutrient profile that is more appropriate for fibroblasts in suspension than
+our  previous medias which used a DMEM/F12 base (see below for links to
+previous trials). We also believe that the addition of growth factors such as
+basic fibroblast growth factor (bFGF), insulin-like growth factor (IGF1) and
+platelet-derived growth factor (PDGF) to these commercial medias will further
+improve fibroblast survival and proliferation in suspension culture.
+
+We have ordered 5 different Hyclone medias for this study (see next section
+for details) however their delivery has unfortunately been very delayed. We
+will therefor begin the trial using HyClone4 Avian and HyClone4CHO only, as
+they are expected to arrive first along with CD CHO which we already have in
+stock. In addition to these medias we will trial DMEM/F12 medias supplemented
+with additional growth factors, vitamins and metal ions with a view to
+mimicking the profiles of common commercial medias.  
+
+See previous suspension trials 1-6 here:  
+  
+1: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzA3LjJ8MTA2MzE3LzU0NC0yNDk0L1RyZWVOb2RlLzIxNzgwMTk2MTN8MTc5NS4xOTk5OTk5OTk5OTk4
+
+2\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTE4OC4yfDEwNjMxNy85MTQtNDg1NS9UcmVlTm9kZS8xMTI0ODcxMTA5fDMwMTYuMg==  
+3\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTkxMi4zfDEwNjMxNy8xNDcxLTk2MjQvVHJlZU5vZGUvMjA0ODgzNDg2M3w0ODU0LjM=  
+4\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjUyMi4wfDEwNjMxNy8xOTQwLTE0MTc3L1RyZWVOb2RlLzQxOTgyNzMwNDl8NjQwMi4w  
+5\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjkzNC4xfDEwNjMxNy8yMjU3LTE1ODMxL1RyZWVOb2RlLzIyOTQzNDE0MjN8NzQ0OC4wOTk5OTk5OTk5OTk=  
+6\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjUyMC43MDAwMDAwMDAwMDAzfDEwNjMxNy8xOTM5LTEzNjI0L1RyZWVOb2RlLzgzOTM5NjAzOHw2Mzk4Ljc=
+
+
+
+
+Planned conditions  
+
+6- well plate format  
+10 x 50ml Shaker tubes will be seeded with suspension cultures. Half with
+F_DOLLY12 cells, and the other with F_NANDO3.
+
+F_NANDO3 cells will be thawed directly into suspension from frozen isolates
+and suspended at 100,000/mL.  F_DOLLY12 will be taken from planar culture and
+placed into suspension at 1,000,000/mL.
+
+Each of the basal medias below will be supplemented with 10% Knockout serum
+replacement + 1:100 anti-clumping agent + 0.1% pluronic + 100ng/mL each FGF,
+IGF1, PDGF.  
+
+1\. DMEM/F12  
+2\. CDM4 Avian  
+3\. CDM4 CHO  
+4\. CD CHO  
+5\. RPMI
+
+E125 flask format  
+In addition to the 6-well plates, we would like to trial our most promising
+formulations in E125 flasks. This is so that we can increase the number of
+cells in culture, and thereby increase the probability of successfully
+adapting a proportion of these cells to suspension.
+
+Condition 1: 1 x E125: Direct thaw F_NANDO3 cells at 100K/ml into 25mL in CDM4
+Avian \+ 10% Knockout serum replacement + 1:100 anti-clumping agent + 0.1%
+pluronic + 100ng/mL each FGF, IGF1, PDGF. *  
+Condition 2: 1 x E125: F_DOLLY12 cells from adherent culture into 25mL at
+1M/mL in CD CHO + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF.  **  
+  
+Note:  
+*The avian CHO media is specifically designed for avian cells, so this is our "best guess" for chicken cell suspension
+
+**We have had difficulty getting the other medias in stock however the CD CHO
+is not from Cytiva and may therefore be more easily accessible. We are
+therefore trialling this media as out best bet for F_DOLLY12 cells.
+
+House blend  
+At a later stage, we will also aim to trial a RPMI basal media supplemented
+with additional supplements as shown below. This will not be included in this
+initial trial however as some of the reagents are yet to arrive.
+
+  * 6mM Ciccin acid (anti-clumping properties, affects metabolism)
+  * 6mM Sodium succinate (is the base form of ciccinic acid)
+  * 10nM Vitamin D2 
+  * 1.08uM D-alpha tocopherol
+  * 1.08uM D-L alpha tocopheryl acetate.
+  * 0.5mM (0.132mg/mL) Ferric ammonium citrate
+  * 10uM Hydroxy-L-proline
+  * 60uM ethanolamine
+  * 0.5ug/mL L-glutathione (reduced)
+  * 1:100 Trace Elements B
+  * 1:100 Trace Elements C
+
+
+
+
+Media
+
+ Notes  
+  
+CD CHO
+
+  * Protein and serum free, optimised for CHO cells in suspension. 
+
+  
+  
+HyClone CDM4Avian
+
+  
+
+  * Designed for avian suspension cells such as EB66 (duck embryonic stem cells) which are used in vaccine manufacturing. 
+
+  
+  
+Hyclone CDM4CHO
+
+  * Developed for, and tested on CHO (Chinese hamster ovary) cells. Designed to increase yield in recombinant protein production. 
+  * Demonstrated use in shaker culture and bioreactors. 
+
+  
+  
+HyClone CDM4HEK293
+
+  * Designed for HEK293 (human embryonic kidney) cells used in protein manufacturing 
+
+  
+  
+HyClone ActiPro
+
+  * Designed for CHO cells 
+  * Manufacturer claims it should be used with HyClone ActiSM and Cell Boost 7a as well as Cell Boost 7b supplements 
+
+  
+  
+HyClone Hycell CHO
+
+  * For CHO cells in shaker flasks or bioreactors. 
+
+
+  
+  
+Media
+
+ Catalog #
+
+ Expected arrival
+
+ URL  
+  
+CD CHO
+
+10743029
+
+In stock
+
+https://www.thermofisher.com/order/catalog/product/10743029#/10743029  
+  
+HyClone CDM4Avian
+
+SH31036.02
+
+5-Aug-2021
+
+https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-cdm4avian-media-p-05971  
+  
+HyClone CDM4CHO
+
+SH30557.02
+
+5-Aug-2021
+
+https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-cdm4cho-cell-culture-
+media-p-06206  
+  
+HyClone CDM4HEK293
+
+SH30858.02
+
+26-Aug-2021
+
+https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-cdm4hek293-media-p-06207  
+  
+HyClone ActiPro
+
+SH31039.02
+
+TBA
+
+https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-actipro-cell-culture-
+media-p-06205  
+  
+HyClone Hycell CHO
+
+SH30934.01
+
+TBA
+
+https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-hycell-cho-cell-culture-
+media-p-06304
+
+

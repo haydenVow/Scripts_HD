@@ -1,0 +1,261 @@
+Brief background
+
+
+This experiment will repeat our previous process of expanding a clonal cell
+population to a size that's usable by the science team for RnD purposes
+(https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTMzLjl8MTA2MzE3LzEwMy9UcmVlTm9kZS8zNjQ3ODU2ODQ2fDMzOS45)  
+  
+Having a vast supply of cell lines derived from single cells is of great value
+to Vows mission. A highly characterized cell line helps lower biological
+variability and improves confidence in the reproducibility of our RnD and
+manufacturing. Such cell lines will also allow us greater control over our
+product development, with the hypothesis that different cell lines will
+perhaps provide greater nutritional benefit to our product or help improve its
+textural profile. In order to meet this reality we need to expand the size of
+our clonal cell populations to number that enables their repeated use in RnD
+and production. This experiment aimed to expand one additional clonal
+population to a suitable size for RnD purposes, the DAISY4_16G9 cell line,
+isolated through single cell cloning
+(https://www.notion.so/vow/EPIC15097-Single-Cell-Cloning-
+DAISY4-Cells-1-31ac18338fa840ba95bc16c7e5663c7e)
+
+
+Key results
+
+
+DAISY4_16G9 was not expanded to WCB due to poor doubling times and cell
+morphologies that indicated cellular senescence. The experiment pivoted to
+expansion of DOLLY12_15D11
+
+The clone DOLLY12_15D11 was expanded from post-clone master cell bank (MCB_2)
+to a working cell bank (WCB_2). The expansion was achieved using both planar
+and microcarrier culture. One vial containing 5x10^5 cells was grown up to
+3.48x10^6 cells over three days using planar culture.  2.61x10^6 cells were
+then seeded into an E125 flask for expansion on cytodex 1 microcarriers while
+7.7x10^5 cells were left to continue expansion in planar culture. (https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTE4Ni45fDEwNjMxNy85MTMvVHJlZU5vZGUvNDI3MTI3NDkzNHwzMDEyLjg5OTk5OTk5OTk5OTY=)
+
+Expansion of cells grown in continuous planar culture was stopped after a
+total of 10 days from the original thaw date. Cells had reached a cell count
+of 1.76x10^7 cells. 34 vials cells at 5x10^5 cells/vial were banked
+(https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTUyMi4zfDEwNjMxNy8xMTcxL1RyZWVOb2RlLzE1ODk0NDAxMDB8Mzg2NC4yOTk5OTk5OTk5OTk3)  
+
+Expansion of cells grown in suspension culture was stopped after a total of 15
+days in culture from the original thaw date. Cells had reached a cell count of
+4.17x10^6 cells. 9 vials of cells at 4.59x10^5 cells/vial were banked
+(https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTY5My45fDEwNjMxNy8xMzAzL1RyZWVOb2RlLzE5OTkwMDkzMjh8NDI5OS45).
+Cell recovery from microcarrier suspension cultures was improved using a
+custom made 70um filtration aspirator.
+
+A 10 day differentiation assay was set up using DOLLY12_15D11 and DAISY4_16G9
+cells passaged three days after thaw. Immunofluorescent staining showed few
+MyoG positive events and no evidence of MF20 expression after 4, 7 and 10 days
+in either E6 or DMEM/F12 + 2% HS + 1xP/S differentiation media. These results
+indicated that the DOLLY12_15D11 MCB_2 clones had differentiation capacity but
+no fusion capacity by day 10 of culture.
+
+
+
+
+
+Discussion
+
+
+Two separate MCB_2 vials of DAISY16G9 cells were thawed with the aim of
+generating a second working cell bank (WCB_2) using planar and microcarrier
+culture practices for future RnD. During both expansion attempts the cells in
+planar culture developed a splattered morphology that indicated cellular
+senescence (Figure 2, A and B) and were accompanied by low doubling rates
+(Figure 1). It was decided that DAISY4_16G9 would be incapable of producing
+the high cell counts required to generate a WCB_2. Focus shifted to generating
+a WCB_2 using our second best DOLLY12 clone, DOLLY12_15D11, obtained from a
+previous experiment (https://www.notion.so/vow/EPIC13644-Single-Cell-Cloning-
+DOLLY12-cells-1-058de4d0ea1b404ebd382ff6cb7df401). This clone showed much
+greater average doubling rates than the DAISY4_16G9 clone over an average 10
+day culture period (Figure 1). DOLLY12_15D11 cells also exhibited a healthier,
+smooth edged cell morphology (Figure 2, C)
+
+  
+
+  
+
+  
+
+Figure 1: Average doubling rates of clone populations over 10 day expansion in
+planar culture. Cells were cultured in DMEM/F12 + 20% FBS + 1xP/S + 10uM p38i
+and passaged once confluence reached ~70% or time in culture reached 6 days.
+
+
+
+
+
+
+ Figure 3: Cell morphologies of clonal cell lines in planar culture 6 days
+after thaw. (A) DAISY4_16G9 cells from cryovial 2453 examined under 20x
+objective. (B) DAISY5_16G2 cells from cryovial 2455 examined under 10x
+objective. (C) DOLLY12_15D11 cells thawed from cryovial 2133. All images were
+captured under using a basler camera attached to a Zeiss primovert microscope
+using Phase microscopy.
+
+
+
+  
+
+
+
+
+During the first DOLLY12_15D11 suspension culture expansion steps were taken
+to investigate and optimise our harvesting practices. The aim of these efforts
+being to improve cell detachment and cell recovery. Our gold standard practice
+of microcarrier sedimentation and supernatant collection left a lot of free
+floating cells present in the supernatant even after carriers have been washed
+twice with dPBS. The 0.22W/kg energy dissipation rate during incubation in
+Trypsin-EDTA + 1% w/v poloxamer 188 was also not sufficient to achieve 100%
+cell detachment (Figure 3, A and B). On the subsequent passage the following
+adjustments were made to improve the process.
+
+  1. The time cultures were left to incubate in Trypsin-EDTA + 1% w/v poloxamer 188 was extended to 15 minutes. 
+  2. Incubation was extended by an additional 5 minutes using a 0.28w/kg energy dissipation rate. 
+  3. A 70um mesh filtration device, nicknamed the 'Taipan' filter (Figure 4) was used to during all supernatatant collection steps.
+
+These changes led to 100% cell detachment upon examination of Hoechst 33342
+stained microcarriers under the 5x objective post harvest using Phase and DAPI
+filter settings (Figure 3, C and D). The number of cells harvested using these
+methods was also consistent total cell estimates in the culture obtained
+though Trypan blue staining. Staining was performed using an aliquot of
+supernatant taken from the suspension culture directly after incubation with
+the detachment reagent then once again after all collected cells had been
+resuspended in a small aliquot of growth media.  
+  
+
+Figure 3: Hoechst stained DOLLY12_15D11 cells on cytodex microcarriers before
+and after being subjected to different harvest strategies. (A and B) Cells
+were subjected to 10min incubation with orbital shaking to achieve an energy
+dissipation rate of 0.22W/kg, with supernatant collected following
+microcarrier sedementation. (C and D) Cells were subjected to 20min incubation
+with oribital shaking to achieve an energy dissipation rate of 0.22w/kg for 15
+minutes and 0.28W/kg for 5 minutes, with supernatant collected through a 70um
+mesh rod while culture was agitated by hand. Microcarrier images were captured
+under Phase (grey) and UV (cyan) channels using a Basler camera attached to a
+Zeiss Axiovert microscope using a 5x objective. Phase and UV images were
+overlayed using FIJI.
+
+  
+Figure 4: 'Taipan' 70um mesh filtration device used for supernatant
+collection.
+
+
+
+  
+
+
+
+
+A differentiation assay was also performed using DOLLY12_15D11 cells passaged
+three days after thaw from MCB_2 state to validate the myogenic capacity of
+the cell line post thaw (Figure 5). Results showed that the DOLLY12_15D11 line
+was capable of differentiation in 2% horse serum containing media, with MyoG
+expression present up to 10 days after the swap to diff media. MF20
+expression, although faint, was only present in samples that had been exposed
+to horse serum containing media for 10 days. DOLLY12_15D11 cells cultured in
+E6 media showed no MyoG or MF20 expression over the 10 days culture duration.
+
+The same differentiation process outlined above was performed using
+DAISY4_16G9 cells six days after their thaw from MCB_2 state with cells fixed
+7, 10 or 13 days after change to differentiation media. There was no MF20 or
+MyoG expression in either the E6 or 2% horse serum treated groups on any of
+these days, likely due to the senescent nature of the cells observed during
+their expansion.
+
+After banking DOLLY12_15D11 cells expanded in planar culture, a subset of
+these cells was passaged and left unattended for 7 days in a trial of a
+starvation differentiation assay. The goal of this assay was to limit the
+hands on time needed to obtain information on the myogenic capacity of clones
+at each banking step and was adapted from literature1. No MyoG or MF20
+expression was observed in these cells after 7 days of culture (Figure 6).
+
+Figure 5: DOLLY12_15D11 MCB_2 10 Day differentiation assay. Cells were grown
+to 95% confluent using DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i growth media
+before being swapped to either horse serum differentiation media or serum free
+E6 media. 100% Media changes were performed daily with cells fixed using 4%
+PFA at the time points displayed above. Fixed cells were stored at 4 degrees
+in dPBS until all time points had been collected. Cells were labeled with
+immunofluorescent antibodies specific to MyoG (Green) and MF20 (Red), DAPI
+(Blue) was used to stain cell nuclei. All images were captured using a basler
+camera attached to a zaber imaging system using a 5x objective and AF488,
+AF555 and UV filter cubes. Channels were overlayed using FIJI.
+
+
+
+Figure 6: DOLLY12_15D11 starvation differentiation assay. Cells expanded in
+planar culture were seeded at 15625 cells/cm^2 on their 4th passage after thaw
+from MCB_2 cyovials. Cells were left for 7 days in DMEM/F12 + 20% FBS + 1xP/S
++ 10uM P38i without a media change. Cells were then fixed, stained and imaged
+using the process outlined in Figure 5.  
+
+
+
+  
+
+
+Limitations
+
+
+  * A positive control was not included in the DOLLY12_15D11 differentiation assay to confirm that the E6 mix used was capable of inducing differentiation and fusion. Therefore there may have been a problem with our E6 media that prevented cell differentiation or fusion. 
+  * The growth media used for the starvation assay was not identical to the media outlined in literature. The media used in our experiment contained twice the feotal bovine serum content and p38 inhibitor.
+
+
+Conclusion
+
+
+The clonal DOLLY12_15D11 line was successfully expanded, in place of the
+senescing DAISY4_16G9 cell line, from a MCB_2 cryovial (~5x10^5 cells) by both
+planar and microcarrier culture to a collective 2.77x10^7 million. This
+produced 34 WCB_2 (planar) cryovials and 9 WCB_2 (microcarrier) cryovials for
+later use.
+
+The DOLLY12_15D11 MCB_2 cells were also confirmed to have maintained a high
+proliferative capacity and ability to differentiate, with MyoG expression seen
+in cells grown for up to 10 days in 2% horse serum containing media. However,
+these cells failed to demonstrate proper fusion capacity. The ability to
+differentiate was not replicated using serum free E6 media.
+
+Finally, we were able to improve the efficiency of our cell harvesting and
+cell recovery processes when handling microcarrier cultures. This was achieved
+by increasing our cell incubation time in our trypsin-edta detachment reagent,
+increasing our culture shaking speeds to achieve an energy dissipation rate of
+0.28W/kg and lastly using a custom made filtration device during supernatant
+colleciton steps.
+
+
+Future Direction(s)
+
+
+  * We should implement these changes to our microcarrier harvesting strategy in all future handling of microcarrier cultures. 
+  * We may need to revisit our DAISY4_16G9 clonal line to understand why it is senescing. It may be going through the M2 phase of cell immortalization2 (see https://www.notion.so/vow/Proposal-for-mutageneis-7a1ba652eb55436eb96aaca371c030b7)
+  * It may be prudent for us to assess whether immortalization of cells should occur prior to single cell sorting so as to prevent non immortalised, fast growing cells from reaching MCB_2 stage as 'false positive' immortal cells. 
+  * We may be able to revist the starvation differentiation assay by modifying the growth media used. 
+
+
+References
+
+
+1Stout, A. J., Mirliani, A. B., Soule-Albridge, E. L., Cohen, J. M., & Kaplan,
+D. L. (2020). Engineering carotenoid production in mammalian cells for
+nutritionally enhanced cell-cultured foods. Metabolic Engineering, 62,
+126-137\. https://doi.org/https://doi.org/10.1016/j.ymben.2020.07.011
+
+2Ramirez, R. D., Herbert, B. S., Vaughan, M. B., Zou, Y., Gandia, K., Morales,
+C. P., Wright, W. E., & Shay, J. W. (2003). Bypass of telomere-dependent
+replicative senescence (M1) upon overexpression of Cdk4 in normal human
+epithelial cells. Oncogene, 22(3), 433-444\.
+https://doi.org/10.1038/sj.onc.1206046
+
+Energy dissipation rates were calculated using the following calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223
+
+

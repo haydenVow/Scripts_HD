@@ -1,0 +1,127 @@
+Report by Lily Logan
+Quick summary of main findings
+
+
+\- E6 with 0.4 ug/mL of collagen, laminin and fibronectin, and 0.1 ug/mL of
+vitronectin supports prolonged cell adhesion to Zein scaffolds over 14 days in
+culture significantly better than regular E6
+
+\- Scaffolds in conditions 1 and 2 both did not significantly differ in
+confluence from scaffolds in regular E6  
+
+\- EPL coating appeared to improve adhesion initially (Day 1), however it did
+not significantly impact prolonged cell adhesion to Zein scaffolds relative to
+the uncoated Zein scaffolds
+
+
+Results and Discussion
+
+
+The zein scaffolds employed in this experiment were prepared in-house and were
+either left uncoated on the day of seeding or were coated with EPL (a
+positively charged food additive). In the experimental design we had planned
+for the cells to be seeded at a density of 0.8M cells per scaffold, with 5
+conditions and 6 replicates per condition. However, the harvest of cells from
+ACF-medium was notably low (6.1M per 4CF in ACF-medium vs. 22.3M per 4CF in
+serum-medium). Thus, the low cell availability necessitated a change to reduce
+the experiment's cell requirement. Subsequently, the seeding density was
+reduced from 0.8M to 0.7M cells/scaffold (with 4 conditions and 3 replicates
+per condition). The decision to lower the seeding density, as opposed to
+replicates or condition number, was a decision based on previous findings, in
+which we have seen high seeding efficiency using 0.7M cells per scaffold
+(EPIC16070 Day 1 results).
+
+The cell seeding efficiency on Zein scaffolds was calculated 24 hours after
+seeding, on Day 1 of proliferation. Observationally, cells which were seeded
+onto scaffolds in ACF-medium had a higher seeding efficiency than those which
+were cultured and seeded in serum-containing medium (79.3 and 81.2% vs. 63.4
+and 60.4%, respectively). However, due to a lack of replicates, no
+statistically significant conclusions could be drawn from the seeding
+efficiency data.  
+  
+On day 1 of proliferation the scaffolds were stained with Hoechst dye and
+imaged using the Main Lab Zaber microscope. Scaffold confluence was assessed
+using MIA analysis. The MIA analysis demonstrated that EPL-coated scaffolds in
+serum-containing media were significantly more confluent than than all other
+conditions (Figures 1 & 2). Given the seemingly lower seeding efficiency of
+cells in serum-medium, this is an interesting result. The discrepancy is
+likely due to inherent issues with calculating seeding efficiencies, such as
+the lack of replicates, cells remaining stuck to plasticware after
+Tryplisation, and inconsistencies between technician's cell counts.
+
+After 7 days in differentiation medium, samples were again stained with
+Hoechst and imaged on the Main Lab Zaber microscope. Unfortunately, the
+microscope plate stand was improperly secured, which resulted in the samples
+being shaken during the imaging session. Consequently, the obtained image set
+was too blurry to be used for analysis (Figure 3), and thus no data was
+available for Day 7 analysis. The plate stand has since been secured by Team
+Engineering to ensure this does not happen in the future.
+
+After 14 days in differentiation medium, the scaffolds were fixed with 4% PFA
+and stained with DAPI. The scaffolds were not immunostained for MyoG and MF20,
+as previous results from EPIC19524 had demonstrated that antibody staining is
+not compatible with cells adhered to zein scaffolds. The DAPI-stained
+scaffolds were imaged using the Library Lab Zaber microscope. Confluence was
+scored using MIA, and the data was analysed in JMP.
+
+In graphical form, the data appeared to show limited statistically significant
+variation between media conditions (Figure 4). However, sorted parameter
+estimates (performed on JMP) revealed that scaffolds in condition 3 media were
+significantly more confluent than scaffolds grown in any other condition (P <
+0.05) (Figure 5). Wherein, condition 3 is E6 medium containing the "middle"
+levels of all the tested ECM ingredients (0.4 ug/mL of collagen, laminin and
+fibronectin, and 0.1 ug/mL of vitronectin). Condition 3 in this experiment was
+a replicate of the most promising condition from the previous EPIC16065, in
+which condition 11 also demonstrated the highest confluence out of all other
+conditions tested (EPIC16065 results). Thus, the results obtained in this
+experiment verify that condition 3 (11in the previous DSD experiment),
+comprising of E6 with 0.4 ug/mL of collagen, laminin and fibronectin, and 0.1
+ug/mL of vitronectin, does in fact promote the prolonged adhesion of cells to
+Zein scaffolds, relative to E6 and the other ECM combinations tested.
+
+EPL was determined to have no significant impact on cell adhesion to Zein by
+day 14 in differentiation medium (P = 0.725) (Figures 6 & 7), and is a finding
+which correlates with the results from EPIC16065, which also found coating
+(Pectin) to play no significant role in long term cell adhesion.
+
+  
+
+
+Limitations
+
+
+The main limitation experienced in this experiment was the poor cell growth
+observed in ACF-medium. As a consequence of the reduced cell growth in ACF the
+cell requirements for the experiment had to be altered, and this resulted in a
+reduced number of conditions being tested as well as fewer replicates being
+run and a lower seeding density being used. Subsequently, we were not able to
+assess all of the comparisons intended and the power of our experiment was
+negatively effected. To avoid this limitation in the future we should adjust
+our cell estimates from ACF flasks, to anticipate for lower cell yields.
+
+
+Future Directions
+
+
+\- Differentiation assays on Zein scaffolds should now be performed using
+condition 3 (E6 with 0.4 ug/mL of collagen, laminin and fibronectin, and 0.1
+ug/mL of vitronectin) to promote prolonged cell adhesion
+
+\- Media condition 3 should also be employed when performing differentiation
+assays to test new scaffolds
+
+\- EPL should not be used in future scaffold experiments as it does not
+provide any benefits in terms of long-term cell adhesion to Zein scaffolds
+
+
+Conclusion
+
+
+Overall, it was determined that E6 with 0.4 ug/mL of collagen, laminin and
+fibronectin, and 0.1 ug/mL of vitronectin significantly improves cell adhesion
+to Zein over 14 days in culture, compared with regular E6 medium. EPL coating
+does not significantly impact cell adhesion to Zein after 14 days in
+differentiation medium, and is therefore not necessary in future scaffold
+experiments.
+
+

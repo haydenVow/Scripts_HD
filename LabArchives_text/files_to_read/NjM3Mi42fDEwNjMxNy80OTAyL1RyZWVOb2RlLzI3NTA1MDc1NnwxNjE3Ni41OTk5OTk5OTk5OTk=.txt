@@ -1,0 +1,264 @@
+
+
+Perform bank using below volumes:
+
+
+
+
+## Performed by:AK
+
+
+
+
+Banking Culture IDs
+
+Harvested FlasksConditionBanked into # vials# of cells per vial Vial ID(s)  
+8606-F_DOLLY12-Sheep P15-1of1  
+11  
+1.7M  
+3756-Culture-8606-Vial-1of1  
+  
+8607-F_DOLLY12-Sheep P15-1of1  
+21  
+1.1M  
+3757-Culture-8607-Vial-1of1  
+  
+8608-F_DOLLY12-Sheep P15-1of1  
+31  
+2.1M  
+3758-Culture-8608-Vial-1of1  
+  
+8609-F_DOLLY12-Sheep P15-1of1  
+51  
+2.7M  
+3759-Culture-8609-Vial-1of1  
+  
+8610-F_DOLLY12-Sheep P15-1of1  
+RPMI control1  
+3.2M  
+3760-Culture-8610-Vial-1of1  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 5% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 5% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S (EMEM-alpha control)  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlM7401  
+  
+GM - Condition 1M7723  
+  
+GM - Condition 2  
+M7724  
+  
+GM - Condition 3  
+M7725  
+  
+GM - Condition 5M7726  
+  
+GM - RPMI controlM7731  
+  
+GM - Condition 6  
+M7727  
+  
+GM - Condition 7  
+M7728  
+GM - Condition 8  
+M7729  
+  
+GM - Condition 9  
+M7730  
+  
+GM - EMEM-alpha controlM7446  
+  
+TrypleM7713  
+  
+dPBSM7408  
+  
+Freeze mediaM7931  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  60 mL in | 1x 70 mL pot | 
+  2.  dPBS (for neutralising)  120  mL in | 1x 120 mL pot | 
+  3.  Growth media (for pellet resuspension):   1 mL in | 6x 15 mL | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:  13:13
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 10 |mL tryple to each vessel/well and incubated at 37ºC for | 20 |
+min
+
+  1.  Start/Finish time for TrypLE was:   13:41 - 14:01
+  2.  Note that fibroblasts typically require 15-18 minutes of tryple incubation. 
+
+4\. Neutralised with | 10 | dPBS (warmed) and combined cell suspension into a
+| 6x 50 mL | tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   14:20 - 14:25 
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 1 |mL | respective growth | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was:
+
+Condition 1:  | 1,680,000 |
+
+Condition 2:  | 1,116,000 |
+
+Condition 3:  | 2,100,000 |
+
+Condition 5:  | 2,706,000 |
+
+RPMI control:   | 3,208,000 |
+
+Serum control:    | 7,590,000 |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~2E6 (2M) cells/mL. ~1 million fibroblasts per cryovial
+should be frozen.
+
+
+
+
+11\. Prepared  5 mL Freeze Medium: (FBS + 10% DMSO). ID #  M7931
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  15:40 - 15:45
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials.
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 1 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted | 1000 |µL into | 5 | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   15:55
+
+  * [ ]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [ ]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [x]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+  * N/A
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images (if any):
+
+8606: https://mia-capture.vow.tools/#/session/recDlE7CzRQquVOFh/images
+
+8607: https://mia-capture.vow.tools/#/session/recDbQJYqnc8k293G/images
+
+8608: https://mia-capture.vow.tools/#/session/reczlak8VFI2dNJHD/images
+
+8609: https://mia-capture.vow.tools/#/session/rec96s6W2QUkZr6LZ/images
+
+8610: https://mia-capture.vow.tools/#/session/recjulU1Zn38CFHNj/images
+
+8611: https://mia-capture.vow.tools/#/session/recjoj8gSWU8NejzN/images
+
+8676: https://mia-capture.vow.tools/#/session/recPQfINbHISlIsaW/images
+
+8677: https://mia-capture.vow.tools/#/session/recV7WRFjtISsdS9K/images
+
+8678: https://mia-capture.vow.tools/#/session/recOW2dicd7lPBwBE/images
+
+8679: https://mia-capture.vow.tools/#/session/recETqFwJAIaKSFGW/images
+
+8680: https://mia-capture.vow.tools/#/session/reczjknyeNJAZlk0Y/images
+
+8681: https://mia-capture.vow.tools/#/session/recJpf4ZbqvxmGlTM/images
+
+

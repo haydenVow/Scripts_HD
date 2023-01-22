@@ -1,0 +1,43 @@
+
+
+## Performed by: LL, AK  
+
+
+
+
+  
+
+  1. Aspirated media from   6 (ACF) 3 (SERUM)   wells of each treatment (ACF + EPL, ACF - EPL, serum + EPL, serum - EPL) and pipetted into  4   x 15 mL tubes 
+  2. Added 100 uL of PBS to each well in the now empty cell-laden 96-well plate (wash step)
+  3. Removed PBS from all wells and pipetted into same tube containing media (so any washed away cells from this step will still be included in the count)  
+
+  4. Added 100 uL of Tryple to each well.
+  5. Placed plate in the incubator for 10 min until cells lifted. Time stamp:  15:07 - 15:20    
+
+  6. Removed tryple from wells and added to tubes containing media and PBS. 
+    1. Removed tryple and added to tubes containing media, tryple and PBS.
+  7. Took 1 x 10 uL sample from each 8 x cell suspensions and added   10 uL    trypan blue 
+  8. Loaded onto Haemocytometer and performed cell counts. (Subtract the cell count from initial seed density of this condition and divide by number of wells.)
+
+
+
+
+Cell count:
+
+  1. Cell count ( ACF + EPL,   868,000): 6 wells - 144666 per well
+    * Efficiency: ((700000 - 144666)/700000)*100 =    79.3   %
+  2. Cell count ( ACF - EPL ,   788,800): 6 wells - 131466 per well
+    * Efficiency: ((700000 - 131466)/700000)*100  =    81.2    %
+  3. Cell count ( SERUM + EPL ,   768,000): 3 wells - 256000 per well
+    * Efficiency: ((700000 - 256000)/700000)*100 =    63.4    %
+  4. Cell count ( SERUM - EPL ,  832,000): 3 wells - 277333 per well
+    * Efficiency: ((700000 - 277333)/700000)*100 =    60.4    %
+
+
+
+
+dPBS: a5487
+
+Tryple: a4615
+
+

@@ -1,0 +1,403 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Performed by: AG +BT  
+
+
+
+
+Feed information:
+
+Harvested Vessel type(s)Harvested Vessel IDSeeded flask typeSeeded flask
+IDCondition  
+10CS9519-CHOMP09-Crocodile P8-1of2  
+9520-CHOMP09-Crocodile P8-2of2  
+21 x E125
+
+9638-F_CHOMP09-Crocodile P9-1of3
+
+9639-F_CHOMP09-Crocodile P9-2of3
+
+9640-F_CHOMP09-Crocodile P9-3of3
+
+CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 100 ng/mL NT-3  
+  
+  
+9641-F_CHOMP09-Crocodile P9-1of3
+
+9642-F_CHOMP09-Crocodile P9-2of3
+
+9643-F_CHOMP09-Crocodile P9-3of3
+
+Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S + 100 ng/mL NT-3  
+  
+  
+9644-F_CHOMP09-Crocodile P9-1of3
+
+9645-F_CHOMP09-Crocodile P9-2of3
+
+9646-F_CHOMP09-Crocodile P9-3of3
+
+CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 100 ng/mL EGF  
+  
+  
+9647-F_CHOMP09-Crocodile P9-1of3
+
+9648-F_CHOMP09-Crocodile P9-2of3
+
+9649-F_CHOMP09-Crocodile P9-3of3
+
+Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S + 100 ng/mL EGF  
+  
+  
+9650-F_CHOMP09-Crocodile P9-1of3
+
+9651-F_CHOMP09-Crocodile P9-2of3
+
+9652-F_CHOMP09-Crocodile P9-3of3
+
+CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9653-F_CHOMP09-Crocodile P9-1of3
+
+9654-F_CHOMP09-Crocodile P9-2of3
+
+9655-F_CHOMP09-Crocodile P9-3of3
+
+Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9656-F_CHOMP09-Crocodile P9-1of3
+
+9657-F_CHOMP09-Crocodile P9-2of3
+
+9658-F_CHOMP09-Crocodile P9-3of3
+
+CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S  
+  
+  
+9659-F_CHOMP09-Crocodile P9-1of3
+
+9660-F_CHOMP09-Crocodile P9-2of3
+
+9661-F_CHOMP09-Crocodile P9-3of3
+
+Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S  
+  
+4CF9521-F_DOLLY12-Sheep P8-1of2  
+9522-F_DOLLY12-Sheep P8-1of2  
+6x E125
+
+9662-F_DOLLY12-Sheep P9-1of3
+
+9663-F_DOLLY12-Sheep P9-2of3
+
+9664-F_DOLLY12-Sheep P9-3of3
+
+CD CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S  
+  
+  
+9665-F_DOLLY12-Sheep P9-1of3
+
+9666-F_DOLLY12-Sheep P9-2of3
+
+9667-F_DOLLY12-Sheep P9-3of3
+
+Hycell CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple  
+9072, A9176  
+  
+dPBS (washing & neutralising)  
+A9192, S3940, A96177  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 20% KSR)  
+A8658, A8644  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 20% KSR)  
+A9007, A9005  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 10% KSR)  
+A8658, A8644  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 10% KSR)  
+A9007, A9005  
+  
+D/F + 10% FBS + 1x P/S  
+M8970  
+  
+D/F + 20% FBS + 1x P/S  
+A8776  
+  
+KSR  
+A9194, A9078, A9199  
+  
+IGF-1  
+M9190  
+  
+b-FGF  
+M5708  
+  
+NT-3M9202  
+  
+EGFM9201  
+  
+Defined lipid concentrateA9205  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   
+  500  mL x 2  
+ 300  mL x 2
+
+  2.  dPBS (for neutralising):   500 mL +  200 mL 
+  3.  dPBS (for washing):   500 mL +  200 mL 
+  4. Growth medium (for pellet resuspension):   30  mL
+    * GM = D/F+20%FBS+1xP/S  
+GM = D/F+10%FBS+1xP/S  
+  
+
+  5. Growth media conditions (for seeding):   10 x 60 mL aliquots (1 x 60 mL aliquot/condition)    
+  
+Condition Basal mediaVolume KSR (mL)  
+Additional growth factors  
+1CD CHO + 20% KSR12  
+NT-3  
+2Hycell CHO + 20% KSR12  
+NT-3  
+3CD CHO + 20% KSR  
+12  
+EGF  
+4Hycell CHO + 20% KSR  
+12  
+EGF  
+  
+5CD CHO + 20% KSR  
+12  
+Chemically defined lipid concentrate  
+6Hycell CHO + 20% KSR  
+12  
+Chemically defined lipid concentrate  
+  
+7CD CHO + 20% KSR  
+12  
+N/A  
+8Hycell CHO + 20% KSR  
+12  
+N/A  
+9CD CHO + 10% KSR6  
+N/A  
+10Hycell CHO + 10% KSR6  
+N/A  
+  
+  
+
+  6. Growth medium vol (mL)60  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.006120  
+IGF10.00010.050.006120  
+EGF/NT-30.00010.050.006120  
+  
+Chemically defined lipid concentrate
+
+  
+  
+  
+600  
+
+Time that all aliquots were placed in the water bath the warm before use
+13:55  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Collected supernatant in sterile 2L bottle.
+
+5\. Washed the vessel(s) with dPBS (warmed). Collected dPBS in sterile 500 mL
+bottle.  
+
+6\. Added  500  mL TrypLE to each 10 CS and  200  mL TrypLE to each 4CF and
+incubated at 30˚C.
+
+  1. Start/Finish for TrypLE was   4CF 1: 14:25, 4CF 2: 14:30  
+10CS1 : 14:27, 10CS2: 14:35  
+
+7\. Neutralised flasks with   500 mL   dPBS/10CS and   200 mL   dPBS/4CF and
+combined cell suspension into   8 x 250 mL  tubes (for 2x 10CS) and 4x 250 mL
+tubes (2x 4CF)
+
+8\. Centrifuged neutralised cells at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was
+    1.  14:51
+    2. 14:58
+    3. 15:09
+    4.  Respun chomps due to small pellet 15:17  
+
+
+
+
+9\. Aspirated the supernatant(s).  
+
+11\. Resuspended pellet(s) in    20   mL   growth   media
+
+12\. Aliquoted   2 x 100 uL  of resuspended cells into a microcentrifuge tube
+for cell count. Diluted to 1:25 in trypan blue.  
+
+13\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet  
+  
+        DOLLY
+
+  1. Total cell number was:     107,730,000    
+
+  2. Volume of cell suspension required for subculture was:     8.771mL x 2    
+
+  3. 2x 8.77mL (30M cells each) transferred to 2 x 50mL tubes  
+
+  4. Centrifuged 650G for 5min  
+
+  5. pellets resuspended in 30mL of either   
+\- CD CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S OR  
+\- Hycell CHO +10% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S  
+Cell density per vessel:   10Mcells= 500,000cells/mL  
+  
+CHOMP
+
+    1. Total cell number was:     262,800,000   
+
+    2. Volume of cell suspension required for subculture was:     1.4 mL (10,000,000/7,3000,000)   
+
+    3. Cell density per vessel:   10,0000,000cells/flask = 500,000 cells/mL   
+  
+
+
+
+
+NOTE: During sampling for cell staining, aprrox 1-2ml of the cell suspension
+was spilt for the DOLLY Hycell replicate 3 and will therefore be starting with
+a lower, unknown cell number.  
+9667-F_DOLLY12-Sheep P9-3of3  
+  
+
+
+
+
+14\. Transferred 4.2mL (CHOMP) 8.771 nL (DOLLY) of cell suspension to each
+pre-warmed  60  mL Growth media aliquot  
+
+15\. Transferred of each aliquot into E-125 flasks (3 reps of 10 conditions =
+30 total E-125 flasks)
+
+16\. Took 1 x 100 uL aliquot from each E-125 flask and transferred to 2 x
+96-well plate for staining & cell count (see "staining" rich text entry below)
+
+17\. Transferred E-125s to shaking platform (120 RPM) to incubate at:  17:00
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) (dolly)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells) (chomp)  
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature 17:05 - 17:35
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute 17:41-17:42  
+  
+
+  6. Prepared plate map: https://docs.google.com/spreadsheets/d/1ZVgCa-JBCanVCIUo6lrGax99heNIoE7B2V1QfiNLvVU/edit?usp=drive_web&ouid=112350845195625657554  
+Plate ID: 9668, MIA Link: https://mia-
+capture.vow.tools/#/session/recBmWsirOSWAECT2/images
+
+  
+
+
+
+
+Observations/Summary:  
+  
+Zaber  
+Due to overwhelming cell numbers and presence of aggregates, only cell counts
+for the 4x and 8x dilutions will be averaged and recorded in the master
+suspension cell count spreadsheet. Some wells had strange hemispherical
+appearance with aggregates on one side of the well, likely due to
+centrifugation of plate (see image below, well F4 Culture ID 9651)  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+9521 https://mia-capture.vow.tools/#/session/recJAxswdMY5eqmKy/images
+
+9522 https://mia-capture.vow.tools/#/session/recofiAUghxWe3dm2/images
+
+

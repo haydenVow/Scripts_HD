@@ -1,0 +1,265 @@
+
+
+## Completed by: Avani and Andrew
+
+
+Aim/Purpose
+
+
+To adapt F_DOLLY12 cells to suspension
+
+To test the effect of BDNF, EGF, and HGF on suspension adaptation of F_DOLLY12
+
+
+Hypothesis
+
+
+The addition of either BDNF, EGF, or HGF to CD-CHO + KSR + 10G media will
+allow better suspension adaptation of F_DOLLY12 cells (as measured by cells/mL
+throughout the process)
+
+
+Technical Gap
+
+
+We have so far been unable to successfully adapt cells to suspension culture.
+Our previous results suggest that adapting DOLLY12 cells in CD-CHO + 10% KSR +
+6G may be a promising approach. However, we have not tested the effect of
+adding growth factors such as EGF, HGF, and BDNF in media when adapting cells
+to suspension.
+
+
+Method/Procedure
+
+
+Things to note
+
+  * Cells will be harvested when the flasks reach ~100% confluence, hence being unable to assign a specific day for seeding
+  * The base/control medium for the DOLLY experiment is CD CHO + 10% KSR + 1:100 ACA + 1:100 glutamax +  1xP/S + 100 ng/mL IGF + 100 ng/mL FGF  and Hycell CHO + 10% KSR + 1:100 ACA + 1:100 glutamax  \+ 1xP/S + 100 ng/mL IGF + 100 ng/mL FGF    
+The base/control medium for the CHOMP experiment is CD CHO + 20% KSR + 1:100
+ACA + 1:100 glutamax + 1xP/S + 100 ng/mL FGF + 100 ng/mL 100 ng/mL IGF + 100
+ng/mL FGF and Hycell CHO+ 20% KSR + 1:100 ACA + 1:100 glutamax + 1xP/S + 100
+ng/mL IGF and 100 ng/mL  FGF
+
+    * The medium can be prepared ahead of time without the KSR and growth factors. When preparing the medium for the experiment, leave 10% or 20% of volume free for KSR addition. 
+    * The KSR and 100 ng/mL FGF/IGF as well as the designated growth factors (EGF, HGF, BDNF) will be added on the day of feeding directly to media aliquots 
+
+Resources
+
+  * Medium ingredient calculators: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+  * Notion planning page: https://www.notion.so/vow/Big-ol-suspension-adaptation-experiments-2e6e7c0b09064e90a720cc03a0ed1d35
+  * Materials estimate spreadsheet: https://docs.google.com/spreadsheets/d/1IZ_v-dD1nthjQlDBfBMR_pAU4HrWgGbraCHoVDWc2lI/edit#gid=2084269312
+
+Experimental Plan  
+
+  1. D0: Thaw 30 million F_DOLLY12 cells into 2 x 2CFs in DMEM/F12+10%FBS+1xP/S and 85 million F_CHOMP09 cells into 3x4CFs in  DMEM/F12+20%FBS+1xP/S   
+  
+
+  2. D3: Perform 50% feed with DMEM/F12 + 10% FBS + 1xP/S for F_DOLLY12 cells and DMEM/F12 + 20% FBS + 1xP/S for F_CHOMP09 cells  
+  
+
+  3. D6: Perform 50% feed with:  
+\- CD CHO + 10% KSR + 1xP/S for 1x 4CF of F_DOLLY12 cells  
+\- Hycell CHO + 10% KSR + 1x P/S for 1x 4CF of F_DOLLY12 cells  
+\- CD CHO + 20% KSR + 1xP/S for 1x 10CS of F_CHOMP09 cells  
+\- Hycell CHO + 20% KSR + 1xP/S for 1x 10CS of F_CHOMP09 cells  
+  
+
+  4. D~8: (1 day prior to harvesting) Prepare experimental media  
+  
+DOLLY
+
+    1. Prepare base medium without KSR or 6G supplement:  
+500 mL of CD CHO + 10% KSR + 1:100 ACA + 1:100 glutamax +  1xP/S  
+CD CHO Calculations
+
+      * For seeding: 20 mL x 3 flasks = 60 mL
+      * For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 3 flasks x 8 =360 mL  
+  
+
+      * For basal medium with Poloxamer and without L-Glutamine
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)500  
+Base Medium87435  
+  
+KSR1050  
+  
+ACA15  
+  
+Pen/Strep15Total percent  
+Glutamax15100  
+  
+  
+    2. 500 mL of Hycell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S.  
+Hycell CHO Calculations
+
+      * For seeding: 20 mL x 15 flasks = 300 mL
+      * For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 15 flasks x 8 =1800 mL  
+  
+
+      * For basal medium with Poloxamer and without L-Glutamine
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)500  
+Base Medium87435  
+  
+KSR1050  
+  
+ACA15  
+  
+Pen/Strep15Total percent  
+Glutamax15100  
+      *   
+  
+  
+CHOMP
+
+        1. Prepare base medium without KSR or 6G supplement:  
+2000 mL of CD CHO + 20% KSR + 1:100 ACA + 1:100 glutamax +  1xP/S  
+CD CHO Calculations
+
+          * For seeding: 20 mL x 12 flasks = 240 mL 
+          * For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 12 flasks x 8 = 1440 mL  
+  
+  
+
+          * For basal medium with Poloxamer and without L-Glutamine
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)1680  
+Base Medium771293.6  
+  
+KSR20336  
+  
+ACA116.8  
+  
+Pen/Strep116.8Total percent  
+Glutamax116.8100  
+        2. 2000 mL of Hycell CHO + 20% KSR + 1:100 ACA + 1:100 Glutamax + 1xP/S.  
+Hycell CHO Calculations
+
+          * For seeding: 20 mL x 12 flasks = 240 mL
+          * For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 12 flasks x 8 =1440 mL  
+  
+
+          * For basal medium with Poloxamer and without L-Glutamine
+
+  
+  
+Growth medium vol (mL)  
+  
+% VolumeVolume (mL)1680  
+Base Medium771293.6  
+  
+KSR20336  
+  
+ACA116.8  
+  
+Pen/Strep116.8Total percent  
+Glutamax116.8100  
+  
+  
+  
+    3. Prepare EGF, HGF, and BDNF aliquots
+      1. Reconstitute these growth factors according to instructions from the product sheet.
+      2. Aliquot and store in -20°C freezer  
+  
+
+  5. D~9: (when ~100% confluent) Prepare medium and seed 6 x E-125 flasks with F_DOLLY12 cells  
+    1. Prepare media. Note: see schematic diagrams at bottom of step 5 for visual aid in media prep and seeding setup   
+
+  
+
+\- Aliquot: 216 mL of CD CHO media
+
+      * Add 6G supplement ingredients and KSR to 380 mL aliquot as described in table below (this will result in ~240 mL aliquot)   
+
+      * Split 240 mL aliquot into 4x 60 mL aliquots
+      * Add EGF, HGF, and BDNF to 6 x 60 mL aliquots as described in table below  
+  
+  
+  
+[TBD - calculations are dependent on the stock concentration of growth
+factors. This will be based on the manufacturer's recommendations for
+reconstitution]  
+  
+\- Aliquot: 54 mL of Hycell CHO media
+
+      * Add 6G supplement ingredients and KSR to 54 mL aliquot as described in table below (this will result in ~60 mL aliquot)   
+
+      * Add EGF, HGF, and BDNF to 6 x 60 mL aliquots as described in table below
+      * [TBD - calculations are dependent on the stock concentration of growth factors. This will be based on the manufacturer's recommendations for reconstitution]
+  
+  
+
+    2. Add growth media in triplicates to E-125 and seed each flask with ~10M cells (see diagram below) 
+    3. Take 1 x 100 uL sample from each E-125 and move into separate wells of 1 x 96WP. Stain with Hoechst ReadyFlow and capture image using Zaber microscope to procure cell counts .  
+    4. Place E-125s on shaker platforms in incubator (37'C, 5%CO2) and set to shake at 120 rpm  
+  
+
+
+
+  6. D~10: (when ~100% confluent) Prepare medium and seed 12 x E-125 flasks with F_CHOMP09 cells  
+    1. Prepare media. Note: see schematic diagrams at bottom of step 5 for visual aid in media prep and seeding setup   
+
+  
+
+      * Aliquot: 192 mL of Hycell CHO medium 
+      * Add 6G supplement ingredients and KSR to 192 mL aliquot as described in table below (this will result in 240 ~ mL aliquot)   
+
+      * Split 240 mL aliquot into 4 x 60 mL aliquots
+      * Add EGF, HGF, and BDNF to 6 x 60 mL aliquots as described in table below  
+  
+[TBD - calculations are dependent on the stock concentration of growth
+factors. This will be based on the manufacturer's recommendations for
+reconstitution]  
+
+    2. Add growth media in triplicates to E-125 and seed each flask with ~10M cells (see diagram below) 
+    3. Take 1 x 100 uL sample from each E-125 and move into separate wells of 1 x 96WP. Stain with Hoechst ReadyFlow and capture image using Zaber microscope to procure cell counts .  
+    4. Place E-125s on shaker platforms in incubator (37'C, 5%CO2) and set to shake at 120 rpm  
+  
+  
+  
+  
+
+7\. D~14: Perform 75% feed on DOLLY E-flasks every Monday and Thursday, and
+CHOMP E-flasks every Tuesday and Friday for minimum 30 days (use linked
+spreadsheet to calculate volumes to add for 75% feeds)
+
+  1. At every feed, stain, dilute and image samples from all E-flasks and zaber image for FIJI cell count analysis 
+
+  2. At every second feed, once cultures have been removed from the E-flask for centrifuging, wash all flasks with 10 mL sterile dPBS 
+
+  3. On Day 28 feed, perform haemocytometer counts alongside staining and imaging
+
+8\. Collate and graph all cell counts and perform statistical analysis  
+[Peer Review]
+
+9\. Make amendments and Sign off]
+
+10. [Report writing (Draft)]
+
+11\. [Review & fill out Report (Full)]
+
+12\. Ensure all lab books are complete & assign for review]
+
+13. [Review Lab Books, results, report]
+
+14\. [Make necessary amendments and confirm with reviewer that experiment is
+complete]
+
+15\. [Release note on Project Updates]  
+
+  
+
+

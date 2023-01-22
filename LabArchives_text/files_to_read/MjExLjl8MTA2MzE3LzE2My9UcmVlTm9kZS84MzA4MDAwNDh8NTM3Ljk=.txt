@@ -1,0 +1,816 @@
+
+
+Thaw DOLLY12 Fibroblasts - Mar 29, 2021 (Completed by Adrian Kotevski)
+
+  
+
+Perform following process using above volumes:
+
+  
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)  
+2113-Culture-5951-Vial-1of156224-DOLLY12-Sheep P5-1of1  
+  
+  
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+
+  
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  Growth media (for seeding):   30 mL in  1x 50 mL  tube 
+
+Time that aliquot was placed in the water bath to warm before use: 09:38
+
+2. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 5 min  10:06 - 10:11 
+
+Location where cryovial was collected from:
+
+ Brew  1 Tower / Bucket # 5
+
+Box / Cane # 2
+
+Vial location: A6  
+
+Vial ID(s): 2113-Culture-5951-Vial-1of15
+
+3\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+4\. Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock.
+
+5\. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media.
+
+6\. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  30 mL of pre-warmed Growth Media (prepared in Step 2).
+
+7\. Transfered  30 mL to each   1x T175  flask
+
+8. Transfered flask/plate(s) to incubate at: 10:16 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+###  
+
+### Summary:
+
+  * `2113-Culture-5951-Vial-1of15` thawed into 1 x T175
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+Growth MediaM4006  
+  
+###  
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+###  
+
+### Relevant Images/Figures:
+
+N/A
+
+
+
+
+50% Feed (1x T175 flask) DOLLY12 Fibroblasts - Mar 30, 2021 (Completed by
+Adrian Kotevski)
+
+Perform following process using above volumes:
+
+  
+
+Culture IDs
+
+Flask ID(s)Flask Type  
+6224-DOLLY12-Sheep P5-1of1T175  
+  
+  
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+
+Total growth media required: `15 mL`
+
+  
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  Growth media:  15 mL in 1x 50 mLtube 
+  2.  Time that all aliquot was placed in the water bath to warm before use: 14:22  
+
+2\. Removed 50% of supernatant from  1x T175 flask.
+
+3\. Replaced with 15 mL of   Growth media   in     1x T175   flask.
+
+4. Transfered flask to incubate at: 14:36 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [x]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+  
+
+### SOPs used:
+
+  * SOP_Thawing Cells Into Adherent Culture V_02
+
+  
+
+Summary:
+
+Replaced 50% of supernatant from 1x T175 flask of DOLLY12 Fibroblasts
+(6224-DOLLY12-Sheep P5-1of1) and replaced with fresh 15 ml growth media.
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+Growth MediaM4006  
+  
+  
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures:
+
+  
+
+  
+  
+  
+
+  
+
+
+
+
+Passage DOLLY12 Fibroblasts (1x T175 flask) - Apr 1, 2021 (Completed by Adrian
+Kotevski)
+
+Perform following process using above volumes:
+
+  
+
+Growth Media:
+
+DMEM/F12 + 20% FBS + 1X P/S
+
+  
+
+Passage Culture IDs
+
+Harvested Flask ID(s)Flask TypeSeeded Flask ID(s)Seeded Flask Type  
+6224-DOLLY12-Sheep P5-1of1T1756247-DOLLY12-Sheep P6-1of5  
+6248-DOLLY12-Sheep P6-2of5  
+6249-DOLLY12-Sheep P6-3of5  
+6250-DOLLY12-Sheep P6-4of5  
+6252-DOLLY12-Sheep P6-5of5T175  
+  
+  
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  10mL  in  1x 15 mL  tubes 
+  2.  dPBS (for neutralising)   20 mL  in  1x 50 mL  tubes 
+  3.  Growth media (for pellet resuspension):   240 mL  in  1x 500 mL pot  
+  4.  Growth media (for seeding):   5 mL  in  1x 15 mL  tubes 
+  5.  Time that all aliquots were placed in the water bath to warm before use:  13:51 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added  10 mL tryple to each vessel/well and incubated at 37ºC for  18  min
+
+  1.  Start/Finish time for TrypLE was:   14:11 - 14:29 
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+4\. Neutralised with  10 mL  dPBS (warmed) and combined cell suspension into a
+|1x 50 mL| tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   14:33 - 14:38 
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in  5 mL  Growth  media.
+
+8\.  Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 5,340,000 |
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11. Volume of cell suspension required for subculture was: |  5 mL  | 
+
+12\. Transfer  5000 µL of cell suspension to the pre-warmed  150 mL Growth
+Media.
+
+13\. Transfer cell suspension into (non-gelatin coated)   5x T175
+flasks/plates.
+
+14. Transfer flask/plate(s) to incubate at: 15:13 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+TrypleM3920  
+dPBS (for washing)M3918  
+dPBS (for neutralising)M3918  
+Growth MediaM4006  
+  
+  
+
+### Observations/Summary:
+
+  * DOLLY12 Fibroblasts were passaged into 5 T175 flasks.
+
+  
+
+### SOPs used:
+
+  * SOP_Passaging Adherent Cells V_04
+
+  
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+  
+
+  
+
+
+
+
+50% Feed DOLLY12 Fibroblasts (5x T175 flasks) - Apr 5 2021 (Completed by Lily
+Logan)
+
+  
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+
+  
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+T175 Flask6247-DOLLY12-Sheep P6-1of5  
+T175 Flask6248-DOLLY12-Sheep P6-2of5  
+T175 Flask6249-DOLLY12-Sheep P6-3of5  
+T175 Flask6250-DOLLY12-Sheep P6-4of5  
+T175 Flask6252-DOLLY12-Sheep P6-5of5  
+  
+  
+
+  
+
+Process:
+
+1\. Place pre-aliquotted  75 mL  mL of  Growth Media into water bath  8:37 am
+
+  1.  Note* Media is in #104 short fridge. labelled MON Feed 
+  2.  Note* This media does not require p38i so no need to add it. 
+
+2\. Removed  50 % of supernatant from vessels.
+
+3\. Replaced with  15 mL (per vessel) of  Growth  media.
+
+4\. Returned vessel to incubate at   9:30 am
+
+                    [x]  37ºC, 5% CO2 (mammalian cells)
+
+                    [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+                    [x]  #67 - Top Binder Incubator
+
+  
+
+### Observations/Summary:
+
+50% media changed on vessel(s)
+
+  1. 6247-DOLLY12-Sheep P6-1of5 
+  2. 6248-DOLLY12-Sheep P6-2of5 
+  3. 6249-DOLLY12-Sheep P6-3of5 
+  4. 6250-DOLLY12-Sheep P6-4of5 
+  5. 6252-DOLLY12-Sheep P6-5of5
+
+  
+
+Media/Reagents used:
+
+NameDetails  
+Growth MediaM4006  
+  
+###  
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures:
+
+  
+
+
+
+
+Passage DOLLY12 Fibroblasts (5 x T175 flasks) - Apr 6, 2021 (Completed by
+Adrian Kotevski)
+
+  
+
+  
+
+Perform following process using above volumes:
+
+  
+
+Passage Culture IDs
+
+Harvested Flasks ID(s)Harvested Flask TypeSeeded Flask ID(s)Seeded Flask Type  
+6247-DOLLY12-Sheep P6-1of5  
+6248-DOLLY12-Sheep P6-2of5  
+6249-DOLLY12-Sheep P6-3of5  
+6250-DOLLY12-Sheep P6-4of5  
+6252-DOLLY12-Sheep P6-5of5T1756303-DOLLY12-Sheep P7-1of14CF  
+  
+  
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  50 mL  in  1x 50 mL  tubes 
+  2.  dPBS (for neutralising and washing)   100 mL  in  2x 50 mL  tubes 
+  3.  Growth media (for pellet resuspension):   15 mL  in  1x 15 mL  tubes 
+  4.  Growth media (for seeding):   600 mL  in  1x 500 mL pot and 1x 120 mL pot  
+  5.  Time that all aliquots were placed in the water bath to warm before use: 14:23 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added  10 mL tryple to each vessel/well and incubated at 37ºC for  26  min
+
+  1.  Start/Finish time for TrypLE was:   14:49 - 13:15  
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+4\. Neutralised with  10 mL  dPBS (warmed) and combined cell suspension into a
+|3x 50 mL| tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   15:32 - 15:37 
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in  15 mL  Growth  media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 36,540,000  |
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was: |  15 mL  |
+
+12\. Transfer  15000 µL of cell suspension to the pre-warmed  600 mL Growth
+Media.
+
+13. Transfer cell suspension into (non-gelatin coated)   1x 4CF  flask 
+
+14. Transfer flask/plate(s) to incubate at: 16:40 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+TrypleM3920  
+dPBS (for washing)M3918  
+dPBS (for neutralising)M3918  
+Growth MediaM4006  
+  
+  
+
+### Observations/Summary:
+
+  * Passaged 5x T175 flasks and seeded into 1x 4CF.
+
+###  
+
+### SOPs used:
+
+  * SOP_Passaging Adherent Cells V_04
+
+###  
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+6247-DOLLY12-Sheep P6-1of5  
+  
+
+6248-DOLLY12-Sheep P6-2of5
+
+  
+
+6249-DOLLY12-Sheep P6-3of5
+
+  
+
+6250-DOLLY12-Sheep P6-4of5
+
+6252-DOLLY12-Sheep P6-5of5
+
+  
+
+
+
+
+Bank DOLLY12 Fibroblasts for WCB - Apr 9, 2021 (Completed by Adrian Kotevski,
+Lily Logan and Katie Day)
+
+Perform following process using above volumes:
+
+  
+
+  
+
+Banking Culture IDs
+
+Harvested FlasksBanked into # vials# of cells per vialVial ID(s)  
+6303-DOLLY12-Sheep P7-1of11151 Million2277-Culture-6303-Vial-1of115  
+2281-Culture-6303-Vial-2of115  
+2282-Culture-6303-Vial-3of115  
+2283-Culture-6303-Vial-4of115  
+2284-Culture-6303-Vial-5of115  
+2285-Culture-6303-Vial-6of115  
+2286-Culture-6303-Vial-7of115  
+2287-Culture-6303-Vial-8of115  
+2288-Culture-6303-Vial-9of115  
+2289-Culture-6303-Vial-10of115  
+2290-Culture-6303-Vial-11of115  
+2291-Culture-6303-Vial-12of115  
+2292-Culture-6303-Vial-13of115  
+2293-Culture-6303-Vial-14of115  
+2294-Culture-6303-Vial-15of115  
+2295-Culture-6303-Vial-16of115  
+2296-Culture-6303-Vial-17of115  
+2297-Culture-6303-Vial-18of115  
+2298-Culture-6303-Vial-19of115  
+2299-Culture-6303-Vial-20of115  
+2300-Culture-6303-Vial-21of115  
+2301-Culture-6303-Vial-22of115  
+2302-Culture-6303-Vial-23of115  
+2303-Culture-6303-Vial-24of115  
+2304-Culture-6303-Vial-25of115  
+2305-Culture-6303-Vial-26of115  
+2306-Culture-6303-Vial-27of115  
+2307-Culture-6303-Vial-28of115  
+2308-Culture-6303-Vial-29of115  
+2309-Culture-6303-Vial-30of115  
+2310-Culture-6303-Vial-31of115  
+2311-Culture-6303-Vial-32of115  
+2312-Culture-6303-Vial-33of115  
+2313-Culture-6303-Vial-34of115  
+2314-Culture-6303-Vial-35of115  
+2315-Culture-6303-Vial-36of115  
+2316-Culture-6303-Vial-37of115  
+2317-Culture-6303-Vial-38of115  
+2318-Culture-6303-Vial-39of115  
+2319-Culture-6303-Vial-40of115  
+2320-Culture-6303-Vial-41of115  
+2321-Culture-6303-Vial-42of115  
+2322-Culture-6303-Vial-43of115  
+2323-Culture-6303-Vial-44of115  
+2324-Culture-6303-Vial-45of115  
+2325-Culture-6303-Vial-46of115  
+2326-Culture-6303-Vial-47of115  
+2327-Culture-6303-Vial-48of115  
+2328-Culture-6303-Vial-49of115  
+2329-Culture-6303-Vial-50of115  
+2330-Culture-6303-Vial-51of115  
+2331-Culture-6303-Vial-52of115  
+2332-Culture-6303-Vial-53of115  
+2333-Culture-6303-Vial-54of115  
+2334-Culture-6303-Vial-55of115  
+2335-Culture-6303-Vial-56of115  
+2336-Culture-6303-Vial-57of115  
+2337-Culture-6303-Vial-58of115  
+2338-Culture-6303-Vial-59of115  
+2339-Culture-6303-Vial-60of115  
+2340-Culture-6303-Vial-61of115  
+2341-Culture-6303-Vial-62of115  
+2342-Culture-6303-Vial-63of115  
+2344-Culture-6303-Vial-64of115  
+2345-Culture-6303-Vial-65of115  
+2343-Culture-6303-Vial-66of115  
+2346-Culture-6303-Vial-67of115  
+2347-Culture-6303-Vial-68of115  
+2348-Culture-6303-Vial-69of115  
+2349-Culture-6303-Vial-70of115  
+2350-Culture-6303-Vial-71of115  
+2351-Culture-6303-Vial-72of115  
+2352-Culture-6303-Vial-73of115  
+2353-Culture-6303-Vial-74of115  
+2354-Culture-6303-Vial-75of115  
+2355-Culture-6303-Vial-76of115  
+2356-Culture-6303-Vial-77of115  
+2357-Culture-6303-Vial-78of115  
+2358-Culture-6303-Vial-79of115  
+2359-Culture-6303-Vial-80of115  
+2360-Culture-6303-Vial-81of115  
+2361-Culture-6303-Vial-82of115  
+2362-Culture-6303-Vial-83of115  
+2363-Culture-6303-Vial-84of115  
+2364-Culture-6303-Vial-85of115  
+2365-Culture-6303-Vial-86of115  
+2366-Culture-6303-Vial-87of115  
+2367-Culture-6303-Vial-88of115  
+2368-Culture-6303-Vial-89of115  
+2369-Culture-6303-Vial-90of115  
+2370-Culture-6303-Vial-91of115  
+2371-Culture-6303-Vial-92of115  
+2372-Culture-6303-Vial-93of115  
+2373-Culture-6303-Vial-94of115  
+2374-Culture-6303-Vial-95of115  
+2375-Culture-6303-Vial-96of115  
+2376-Culture-6303-Vial-97of115  
+2377-Culture-6303-Vial-98of115  
+2378-Culture-6303-Vial-99of115  
+2379-Culture-6303-Vial-100of115  
+2380-Culture-6303-Vial-101of115  
+2381-Culture-6303-Vial-102of115  
+2382-Culture-6303-Vial-103of115  
+2383-Culture-6303-Vial-104of115  
+2384-Culture-6303-Vial-105of115  
+2385-Culture-6303-Vial-106of115  
+2386-Culture-6303-Vial-107of115  
+2387-Culture-6303-Vial-108of115  
+2388-Culture-6303-Vial-109of115  
+2389-Culture-6303-Vial-110of115  
+2390-Culture-6303-Vial-111of115  
+2391-Culture-6303-Vial-112of115  
+2392-Culture-6303-Vial-113of115  
+2393-Culture-6303-Vial-114of115  
+2394-Culture-6303-Vial-115of115  
+2396-Culture-6303-Vial-116of115  
+2397-Culture-6303-Vial-117of115  
+  
+  
+
+Growth Media (for resuspension):
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1x P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+
+  
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  200 mL in | 2x 120 mL | pots 
+  2.  dPBS (for neutralising)   400 mL in | 1x 500 mL | pot 
+  3.  Growth media (for pellet resuspension):   30 mL in | 1x 50 mL | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:  11:07 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 200 |mL tryple to each vessel/well and incubated at 37ºC for | 37
+| min
+
+  1.  Start/Finish time for TrypLE was:   11:36 - 12:13  
+
+4\. Poured Tryple out of the 4CF into 1x 500 mL pot.
+
+5\. Aliquoted cell suspension into 8x 50 mL tubes (make sure to weight one
+tube and label it- this will be the tube that all the cell suspension will be
+transfered into) Tube weight:  12.450g  
+
+6\. Added 100 mL dPBS to 4CF, washed 4CF, then poured into the 500 mL pot
+
+7\. Repeated steps 5-6.
+
+8\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   12:30 - 12:35 
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspend pellet(s) in | 30 |mL | Growth | media.
+
+11\. Took 1 x 100 uL samples from the cell suspension. From the 100 uL sample,
+took 1 x 10 uL sample.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+13\. Total cell number was: | 114,465,000 |
+
+14\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1E6 (1M) cells/mL.
+
+15\. Prepared  58 mL Freeze Medium: (FBS + 10% DMSO). ID #  
+
+Stored at 4ºC until use to keep chilled. 5.8mL DMSO + 52.2mL FBS
+
+16. Centrifuged cells at 650 x g for 5 min.  14:04 - 14:09 
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.
+
+17\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+18\. Weight the tube with cell pellet inside. Tube weight with cell pellet:
+13.041g, weight of pellet = 0.591 g
+
+19\. Resuspended the pellet in | 57.5 |mL freeze media (chilled, to reduce
+DMSO toxicity).
+
+20\. Aliquotted | 500 |µL into | 117 | x cryovials (already labelled).
+
+21\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   15:05pm
+
+22\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+  
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+TrypleM3920  
+dPBS (for washing)M3918, M3917  
+dPBS (for neutralising)M3918, M3917  
+Growth Media (for resuspending)M4119  
+Freeze Media  
+  
+  
+  
+
+Observations/Summary:
+
+Banked down DOLLY12 Fibroblasts from 1x 4CF into 117 vials.
+
+###  
+
+### SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+###  
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...  a lot of cells
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+  
+
+  
+
+

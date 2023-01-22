@@ -1,0 +1,100 @@
+
+
+## Performed by:
+
+Avani
+
+
+
+
+Media made:
+
+  * E810C
+
+Volume of media being made:    180mL each
+
+
+
+
+## Process
+
+  1. Prepared 0.2M solution of GABA by adding 0.103 g in 5 mL PBS.
+  2. Prepared 100mM glyoxylic acid solution by adding 0.092g in 10mL DMEM/F12.
+  3. Prepared 1M hypoxanthine solution by adding 0.272g in 2mL of DMEM/F12.
+  4. Made 180 mL of E8 (0.2xP/S) medium (do not filter yet) using E8 media calculator
+  5. Opened E8_9C Media Calculator spreadsheet
+  6. Prepared 1:100 dilution of ethanolamine
+  7. Added ACF ingredients to E8 to make 180mL of E8_10C 
+    1. E810C includes: 50uM Glyoxylic acid: used   90uL of 100mM stock
+    2. E810C includes: 2mM hypoxanthine: used 360 uL of 1M stock
+    3. 40uM GABA: 36 uL of 0.2M stock 
+  8. Wrapped bottle with foil to protect from light  
+  9. Labelled and stored in fridge.
+
+
+Reagent  
+details  
+  
+pbs  
+S5063  
+  
+dmem  
+s2319  
+  
+F12  
+s2224, s2125  
+  
+LAA2P  
+m2716  
+  
+P/S  
+a4903  
+  
+FGF2  
+m5077  
+  
+TGF  
+m4445  
+  
+Sodium bicarb  
+s639  
+insulin  
+m5032  
+  
+sodium selenium  
+a1681  
+  
+transferrin  
+m3916  
+  
+hypoxanthine  
+s143  
+  
+GABA  
+s696  
+  
+glyoxylic acid  
+s162  
+  
+albumin  
+s1803  
+  
+trace elements b  
+s1076  
+  
+ethanolamine  
+s680  
+  
+p38i  
+m4928  
+  
+LIF  
+m5079  
+  
+EGF  
+m4297  
+  
+lipids  
+a5012  
+
+

@@ -1,0 +1,179 @@
+
+
+## Completed by:
+
+
+Preliminary notes
+
+
+Suspension adaptation pipeline
+
+  * Having a flat bottom should be ok
+  * Having to do multiple aspirate and dispense for each well should be ok
+  * But people said that they are not imaging the plates so makes sense to optimize for the feeds rather than imaging
+  * So preference is to use spin tubes
+  * Run the processes side-by-side with a human
+    * From the same mixed cell culture, get the sample split into 3 tubes for OT and 3 tubes for human to test
+  * Process
+    * Humans manually spin the tubes
+    * Rack up the spun tubes
+    * Place rack in the OT deck - aseptic deck with HEPA filter
+    * OT on slow aspiration speed will aspirate down to whatever we determine as the safe level for 100% medium change
+      * How deep does the tip go during this step? How fast does it aspirate?
+    * OT will have to do 4-5 aspirate-dispense cycles per tube
+    * Repeat in reverse as it puts in fresh medium
+    * Gently pipette mix to resuspend cells
+      * How deep does the tip go during this step? How fast does it aspirate?
+    * Humans manually put the lids back on and return to incubator
+  * First time round everything is on best guess or default settings
+  * Then keep repeating until it works
+    * We can reuse samples for each run - having two should be adequate
+  * Once the protocol appear to be working then can compare with manual counts against human operator to confirm that cells are not lost
+  * Refer to earlier experiments to see how to set up the experiment, lab book and protocol
+  * E.g. of lab book entry for Opentron protocol https://www.notion.so/vow/Fix-DAPI-4h-plate-ca3377bbe0e0477da6f82c06a3159c48
+
+Media optimization pipeline
+
+What do we need to test?
+
+  * OpenTrons - using the 8-channel P300 head to sample the 24-well plates - can it easily sample from 24 well plates, is it accurate enough? We will test 20 uL sample volume. Have replicate wells to compare counts between replicates, also take replicate samples from each well
+  * Can we use existing cells or do we need to order good suspension adapted line(s)? Stick with existing cells to ensure the results and the development of the platform are actually representative of the cells we will use in future
+  * Need mixing step before sampling to make sure suspension is even and clumps are removed? Test different mixing times over several days with live cells.
+  * Preload 96-well plates with 40 uL Hoechst solution, add 20 uL sample, wait 10 minutes of incubation, add 40 uL of PI solution, wait 5 minutes
+  * Centrifuge imaging plates for 5 minutes at different xg to see the effect on the cell monolayer after centrifugation (test 150 - 500 xg range)
+  * Transfer the plate to the Zaber, image the center of each well (1 image per well) - phase, blue and red channels
+  * Analyze using Nathan's macro? Need to look into this more - TT to contact Nathan, Bonnie and Adrian to get trained by Nathan
+  * 3 counts over 8 days - 0, 4, 8, each well counted in triplicate each time
+  * V-well plates required in order to change medium, which is really important to clear dying cells and cell debris
+
+  
+
+What do we need?
+
+  * Bonus materials for other experiments - CMFDA and/or calcein for live cell counting only
+  * Training for a few of us on designing OT protocols from Derek
+
+How long will it take?
+
+  
+
+Who will do it?
+
+  
+
+  
+
+
+Technical Gap
+Method/Procedure
+
+
+Experimental Plan - media optimization  
+
+D0. Establish cells in suspension culture
+
+  *  Harvest F_DOLLY12 for adherent culture and re-suspend at 1M cells/mL in growth media  (DMEM/F12 + 10% FBS + 1x P/S)- Retain excess suspension for centrifugation optimisation (see bellow)
+  *  Add 1mL of cell suspension to 9x wells each of 3x  V-bottom 24 well plates. 3 separate plates should be used so that the effects of different centrifugation speeds can be assessed during feeds.
+  * Incubate plates at 37 degrees C and 5% CO2 on the shaking platform at 206RPM. 
+
+D0. Establish optimal centrifugation speed for obtaining monolayer of cells in
+96 well plates.  
+
+  * Preload 4 x 96 well plates with 20uL Hoechst in PBS (40ul/mL) - 3 wells per plate. 
+  * Using the cell suspension retained in the previous step, take 12x 20ul samples, and add to the Hoechst loaded plates.
+  * Incubate at 37 decrees C and 5% CO2 for 10 minutes.
+  * Add 40ul Propidium iodide in PBS (3ug/mL) to each well and incubate for a further 5 minutes.
+  * Centrifuge for 5 min at 150xg (plate 1), 300xg (plate2) or 500xg (plate3). 
+  * Image using the Zaber, and trial performing cell counts with ImageJ. This will help to determine which centrifugation speed results in the optimal monolayer formation, for ease of counting.
+
+D2, D4, D6,D8, D10- Perform 100% feed.
+
+  * Perform a 100% media change every 2 days- Pellet cells by centrifuging the plate for 5 min at 150xg (plate 1), 300xg (plate2), 500xg (plate3) or 650xg (plate 4) Remove spent media and replace with 1mL fresh growth media. Resuspend pellets following by mixing using the OT, 5x, 10x or 20x.
+
+D0, D5, D12- Perform cell counts
+
+  * Preload 54 wells of a 96 well plate with 20uL Hoechst in PBS (40ul/mL) 
+  * Before taking the samples, the OT should be programmed to pipet mix the cell suspensions 5x, 10x or 20x as shown on the plate Map below (replicate for each plate).  
+  * Use the OT to mix and collect 2x20ul samples from each well and transfer to the Hoechst loaded 96 well plate.
+  * Incubate at 37 decrees C and 5% CO2 for 10 minutes.
+  * Add 40ul Propidium iodide in PBS (3ug/mL) to each well and incubate for a further 5 minutes.
+  * Centrifuge for 5 min at ??? (Speed to be determine in monolayer optimisation on D0) 
+  * Image using the Zaber and perform cell counts with ImageJ. 
+
+  
+
+  
+
+  
+
+
+
+
+Experimental Plan: Opentrons Media Change
+
+1\. Prepare 12 channel reservoir(s) as required.
+
+2\. Remove suspension culture(s) (50 mL bioreactor spin tubes) from the
+incubator.
+
+3\. Centrifuge culture vessels at 300 x g for 5 minutes.
+
+4\. Transfer culture vessels into the Opentrons deck.
+
+  1. Ensure process is completed aseptically in the Opentrons with the HEPA filter
+
+5\. Remove the lids from each culture vessel.
+
+  1. Load the OT2 spin tube media change (Link) in the Opentrons designer webpage. Before undertaking this step, please have a read of the assumptions below, which is necessary to optimize the protocol for performing the media change. 
+
+Assumptions:
+
+  * The media within the culture vessel spin tubes and replacement reservoir is 5 mL
+  * The media removed from the culture vessels is 4.5 mL, to prevent aspiration of the cell pellet 
+  * The height at which the p1000 pipette removes media and its aspiration speed have not been modified for any of the steps in the procedure. This will need to be adjusted through trial and error when physically operating the OT2 protocol
+  * The protocol will only start mixing (for pellet resuspension) once the 4.5 mL of fresh media is added
+
+
+
+7\. Place lids back onto the culture vessels and return them to the incubator
+resuming the shaker plate.
+
+
+Materials
+Item  
+Notes  
+Catalog number  
+Quantity  
+Unit price  
+Subtotal  
+URL  
+  
+24 well plates - regular untreated  
+Need 1 box (~100 plates), can use existing if they are in stock at the Vowse  
+  No need to order, we have them in stock.  
+24 well plates - deep round well, V-shaped bottom untreated  
+Need 1 box (~100 plates)  
+ Could not find any deep well U bottom plates online, was decided to use V
+bottom plates only.  
+24 well plates - deep square well, V-shaped bottom untreated  
+Need 1 box (~100 plates)  
+ 1144A73  1x 50 units$225 $225https://www.thomassci.com/Laboratory-
+Supplies/Plates/_/24-Well-Plates-U-Bottom-for-
+Automation?q=24%20Well%20Round%20Bottom  
+  
+Gas permeable plate sealing film e.g. Sigma BreatheEasy  
+Need enough for 500 plates (~500)  
+ Z380059-1PAK  5x 100 units $152.25
+$761.25https://www.sigmaaldrich.com/AU/en/product/sigma/z380059?context=product  
+  
+Well plate clamps for ThermoFisher MaxQ shaker platform  
+Need enough well plate clamps to cover the entire platform, clamps should work
+for any well plate  
+   14512314  
+ 6 $43.00  $258https://www.fishersci.com/shop/products/maxq-shaker-universal-
+clamps/14512314  
+
+
+
+
+

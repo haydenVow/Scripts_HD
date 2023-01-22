@@ -1,0 +1,214 @@
+
+
+Batch Overview (P3 Results)
+
+Batch Goals:
+
+  * Optimisation: Improve upon previous experimental findings and continue to find new ways to increase batch yield in adherent cultures 
+
+Experimental Questions:
+
+  1. Can cells be seeded in TGFb?
+    1. Does this increase the final biomass yield?
+  2. How do cells respond (peel/aggregate/stay adhered) to numerous treatment conditions: 
+    1. VitC alone @24hrs?
+    2. VitC + TGFb @24hrs?
+    3. Seeded with TGFb and treated with VitC @48hrs?
+    4. Seeded with TGFb and treated with VitC @96hrs?
+
+Reasons for Investigating these Questions:
+
+  1. Prolonged VitC treatment alone has been shown to be effective in increasing the final biomass yield, however this outcome is limited by the consistent aggregation of cells with this treatment after reaching very high confluence (We need cells to stick down for longer). The effects of prolonged TGFb treatment alone on final biomass yield have not been investigated yet. We would like to investigate if TGFb has a similar effects to VitC and if aggregates will form once very high confluence is reached. These results can be directly compared to VitC experiments. 
+  2. We believe roller bottles can be used effectively to achieve higher yields and faster harvests. To find the optimal conditions to achieve this, a series of treatments are being investigated. 
+
+Experimental Timeline/Overview:
+
+Cells from P2 harvest were divided into three groups:
+
+* The 10CS grown for P4 is no discussed in this overview (See Batch [16] Overview P4 Results)
+
+  
+
+Experimental Deviations:
+
+Original Plan
+
+Amended Plan  
+  
+  
+  
+  
+  
+  
+Roller Bottles  
+100% media changes performed 24 or 48 hrs after seeding on all conditions:
+This was done to minimise the effect of unexpected aggregate formation and a
+large amount of floating cells in the media on adhered cell health.  
+*Harvests were performed once peeling was observed  
+  
+  
+  
+T175  
+Change of harvest date and addition of VitC treatment: Because peeling had not
+yet occurred and 100% confluence had not been achieved, the decision was made
+to continue the experiment (not harvest), and at a later date, treat the
+flasks with VitC ONLY. 3xT175 were kept as TGFb controls and continued to be
+treated with only TGFb every 48 to 72hrs. 4xT175 were treated with VitC ONLY
+from D11 onwards to see how this changed their growth and final weight.  
+*Flasks were harvested when peeling was observed (only the 4xT175 flasks displayed peeling but all 7xT175 were harvested on the same day)
+
+  
+  
+  
+Full Batch Summary (Excluding 1x10CF for P4):
+
+P1 - 5 days in between passage  
+P2 - 6 days in between passage  
+P3 - Cells seeded into 5xRoller Bottles and 7xT175
+
+Roller Bottles:  
+Bottle/Set 1: Harvested at D5 (no treatment)  
+Bottle/Set 2: Treated with TGFb and VitC for 3 days. Harvested at D4  
+Bottle/Set 3: Treated with VitC for 3 days. Harvested at D4  
+Bottle/Set 4: Treated with TGFb for 5 days and VitC for 3 days. Harvested at
+D5  
+Bottle/Set 5: Treated with TGFb for 5 days and VitC for 1 days. Harvested at
+D5
+
+7xT175:  
+3xT175 (TGFb control): Treated with TGFb for 18 days. Harvested at D18  
+4xT175 (TGFb and VitC Treated): Treated with TGFb for 11 days and then VitC
+for 7 days. Harvested at D18
+
+Experimental Outcomes:
+
+Roller Bottles:
+
+Pictures and observations found here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/NDcwLjZ8MTA2NTM2LzM2Mi9UcmVlTm9kZS80MjExMzk4NTA5fDExOTQuNg==
+
+  
+  
+  
+ (1) Control(2) VitC + TGFb @24hrs(3) VitC alone @24hrs(4) Seed TGFb + VitC on
+Wednesday(5) Seed TGFb + VitC on Friday  
+  
+Pellet Weight (g)  
+  
+0.41960.47060.52240.71770.4711  
+  
+        
+
+* Graph 1 displays the pellet weight from each roller bottle (n=1)  
+* Graph 2 displays the time in treatment for each roller bottle (n=1). For Bottles 4 and 5 the first (bottom) portion of he bar displays the time in VitC + TGFb treatment and the second (top) portion of the bar displays the time in TGFb ONLY treatment (see labels on graph). For bottles 2 and 3 all treatment was administered at the same time.
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+  1. Can cells be seeded in TGFb? 
+
+Yes. Cells were able to stick down when seeded in TGFb and nothing abnormal
+was initially observed.
+
+                    1\. Does this (TGFb) increase the final biomass yield? 
+
+This is not likely based off the current results. Bottles 4 and 5 were exposed
+to TGFb for the same amount of time (5 days) but had differing exposures to
+VitC treatment. Bottle 4 experienced 2 days of TGFb ONLY and 3 days of VitC
++TGFb treatment producing a final yield of 0.7177g, whilst Bottle 5
+experienced 4 days of TGFb ONLY and 1 day of VitC + TGFb treatment producing a
+final yield of 0.4711g. When comparing both bottles to the control (1) which
+received no treatment (0.4196g) there is very little difference in the final
+outcome of bottle 5 but a big increase in the final outcome of bottle 4.
+Therefore, the amount of days exposed to VitC seems to be the main contributor
+to an increased final yield (not the amount of days exposed to TGFb).
+
+ However the results of the 7xT175 flask experiment (below) will investigate
+this further.
+
+  1. How do cells respond (peel/aggregate/stay adhered) to numerous treatment conditions?
+
+It is hard to know exactly how cells respond to all of these conditions as the
+seeding itself produced some complications. Unexpected/premature aggregate
+formation was visible from 24hrs are seeding, this is thought to be the result
+of a high seeding density. Therefore the behaviors of the cells in these
+conditions could have been disrupted by this complication. However a
+combination of TGFb and VitC treatment (either separately or at the same time)
+is worth investigating in future roller bottle experiments. One major
+unexpected learning is that cells need to be seeded into roller bottles are
+lower densities.
+
+  
+
+7xT175 flasks seeded with TGFb:  
+
+  
+  
+  
+ Control (VitC Confluence Exp.)VitC Pre-confluence (VitC Confluence Exp.)  
+VitC 100% confluence (VitC Confluence Exp.)  
+VitC Post-confluence (VitC Confluence Exp.)  
+TGFb Control (3xT175)  
+TGFb then VitC (4xT175)  
+  
+  
+Pellet Weight (g per T175)  
+  
+0.058010.17450.10830.079110.073630.0952  
+  
+Pictures and observations found here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/NTQyLjF8MTA2NTM2LzQxNy9UcmVlTm9kZS8zOTg2ODEyNzUzfDEzNzYuMQ==
+
+  
+
+* Graph 1 displays the average pellet weight from one T175. All results with '(VitC Confluence Exp.)' are taken from the 'VitC Confluence Experiment' previous performed by production, further details on this experiment can be found here:https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/NDcxLjkwMDAwMDAwMDAwMDAzfDEwNjUzNi8zNjMvVHJlZU5vZGUvNTE1MDI3OTA0fDExOTcuODk5OTk5OTk5OTk5OQ==. All VitC Confluence Exp. are n=7, TGFb Control (3xT175) is n=3, and TGFb then VitC (4xT175) is n=4. Error bars are not displayed because the pellet weight was not obtained from each individual T175 flask, instead all cells were combined into one falcon tube which was weighed and this result was divided by the number of T175s in this group to display the average pellet weight per T175 above.  
+* Graph 2 displays the time in treatment for each group of T175s (same n numbers as above). For the group 'TGFb then VitC (4xT175)' the first (bottom) portion of the bar displays the time in TGFb (ONLY) treatment and the second (top) portion of the bar displays the time in VitC (ONLY) treatment (see labels on graph). For all other groups only one treatment was administered.
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+1\. Can cells be seeded in TGFb?
+
+Yes. This does not seem to affect the sticking down of cells to the surface of
+the flask, however, it does seem to effect their growth pattern. Cells seeded
+in TGFb grow in clumps leaving circular gaps on the surface of the flask and
+do not seem to reach 100% confluence (even after 2 weeks of proliferation).
+Looking at the confluence images on the 7xT175 "Observations" page
+(https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/NTQyLjF8MTA2NTM2LzQxNy9UcmVlTm9kZS8zOTg2ODEyNzUzfDEzNzYuMQ==)
+it looks like the cell reach a particular confluence in TGFb but then do not
+go beyond this point, however, once the cells are exposed to VitC (alone)
+their confluence begins to increase again and they are able to reach 100%.  
+
+                    1\. Does this increase the final biomass yield?
+
+TGFb alone appears to have a very slight effect on the final biomass yield
+compared to the VitC Confluence Exp. Control which received no treatment,
+however this effect is very minimal and could have been influenced by the
+slightly different environments in these different experiments. When VitC
+treatment following seeding in TGFb (4xT175), this result seems most
+comparable to VitC treatment at 100% confluence (no pre-treatment) despite the
+confluence of these flasks being most similar to the VitC pre-confluence
+condition. The TGFb then VitC condition also had the same amount of time in
+treatment as the VitC pre-confluence condition but produce a lot less biomass
+at the final harvest. Therefore seeding with TGFb may minimise or change the
+effects of VitC treatment on fibroblasts.
+
+  
+
+Unanswered Questions:
+
+  1. How do cells respond (peel/aggregate/stay adhered) to numerous treatment conditions? This was not clear due to the unforeseen difficulties with high seeding densities (see above)
+
+  
+
+Overall Key Findings:
+
+  * Cells can be seeded in TGFb but this may affect their growth pattern, rate and how VitC impacts the final yield.
+  * Seeding cells at a high density (50kcells/cm2) in roller bottles does not work as it results in premature aggregation/peeling
+
+  
+
+

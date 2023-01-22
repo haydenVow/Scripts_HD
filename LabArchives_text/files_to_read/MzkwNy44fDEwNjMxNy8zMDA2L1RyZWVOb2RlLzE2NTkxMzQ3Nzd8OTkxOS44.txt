@@ -1,0 +1,75 @@
+User manual
+Testing
+
+
+Testing out solar UVB and UVA detection.
+
+1\. Detach the light sensing probe from the body of the device.
+
+2\. Turn the device on using the power button. Place the probe under the
+reptile solar lamp at a distance of 10cm and record the UV intensity after 15
+seconds (mw/cm^2 measures)
+
+3\. Move the lamp to various heights from the UV meter probe and record the
+differences in UV intensity.
+
+4\. Determine time required to reach a irradiation dose of 600,000 J/m^2 for
+each height using the formulas below.
+
+Observations + UV intensities
+
+Height of Lamp above probemW/cm^2 intensityTime (min) required for 600,000
+J/m^2Additional observations  
+10cm2.90344 (~5 h 42min)  
+best option, though we'll only be able to reach just over 100,000 J/m^2 in 1h.  
+20cm  
+2.03492 (~8h 12min)  
+  
+  
+30cm1.06943  
+  
+  
+40cm0.691449  
+  
+  
+  
+  
+
+  
+
+
+
+
+UV light intensity to UV energy conversions:  
+
+Intensity * time = energy  
+  
+mW/cm2 x seconds = mj/cm2
+
+0.1 mJ/ cm2 = 1 J/m2
+
+  
+
+The desired energy in our samples we want will be 600,000 joules/m^2 which
+should give us roughly 4-6 times greater mutational frequency compared to non
+irradiated controls (1).
+
+  
+
+600000 joules/m^2 = 60000mJ/cm^2.  
+If we wanted to input this energy over 1 h (3600 seconds)...
+
+60000mJ/cm^2 / 3600 seconds = 16.6mW/cm^2
+
+  
+
+If we wanted to accomplish the same dose of UV energy in 30 minutes (1800
+seconds) we would require double the UV intensity (33.2mW/cm^2)
+
+  
+1\. Robert, C., Muel, B., Benoit, A., Dubertret, L., Sarasin, A., & Stary, A.
+(1996). Cell survival and shuttle vector mutagenesis induced by ultraviolet A
+and ultraviolet B radiation in a human cell line. The Journal of investigative
+dermatology, 106(4), 721-728\. https://doi.org/10.1111/1523-1747.ep12345616
+
+

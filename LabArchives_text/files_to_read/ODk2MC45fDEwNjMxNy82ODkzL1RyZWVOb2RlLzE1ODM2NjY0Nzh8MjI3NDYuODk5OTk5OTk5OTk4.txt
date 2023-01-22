@@ -1,0 +1,134 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions. Links to other pages in LabArchives or Notion where this work is tracked are highly recommended
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Key Result(s)
+
+
+  * Nuvonis cells were successfully cultured in Freestyle media (prescribed by Nuvonis tech transfer document) in a 2-3L benchtop bioreactor. This was not described in tech transfer documentation. 
+  * Cells proliferated at a comparable rate compared with shake flask conditions under best approximations for bioreactor conditions including:
+    * Stirring speed, 70 RPM (revolutions per minute)
+    * Sparging: 20 CCM (cubic centimeters per minute, equivalent to 20 mL/min) using the microsparger (opposed to open pipe sparger fitted in Mobius system)
+    * Dissolved oxygen: 70% set point
+    * pH set point 7.5
+    * Temperature set point 37degC
+  * cells decreased in viability and underwent cell death upon increasing agitation to 90 RPM
+  * cells maintained growth rate following draw and fill (80% broth harvested and replenished with newly prepared media)
+
+
+Discussion of Results
+
+
+Overall, data indicate that Nuvonis cells are suitable for bioreactor culture,
+proliferating at a comparable rate to growth in shake flask culture, and are
+able to proliferate following a draw and fill protocol. Bioprocess parameters
+such as stirring speed/impeller tip speed, sparging rate and mode, and batch-
+feed schedule have not yet been established for this cell line. Data described
+here give a starting point from which optimisation can proceed.
+
+  
+
+For this experiment, agitation power as a function of impeller speed was
+extrapolated from a tech-transfer document-provided RPM speed used in smaller
+spinner flasks. This extrapolation was calculated using an in-house bioprocess
+calculator tool (developed by Tom Tarento) and grounded on a number of
+physical property assumptions (e.g. viscosity of media - not measured but
+assumed). While optimisation is still required, a working equivalent tip
+speed/volumetric agitation power can be constrained and, given known larger
+vessel parameters along with already tested assumptions, a stirring speed can
+be extrapolated for larger stir-tank vessels such as 200L and 2000L (sizes of
+stir-tanks in Vow's current 2000L pilot plant manufacturing line).
+Constraining tip speed at 0.28m/s (data calculated from runs described here),
+RPM of 23 can be assumed for the STR-200 (Sartorius) vessel. It should be
+noted, however, that impeller blades vary in their design between the Mobius
+3-segment pitch impeller and the double impeller design for the 200 and 2000L
+Sartorius units. Optimisation will be required to further refine a tip speed
+to promote the best growth and can be achieved using a smaller paralellised
+system such as the AMBR250 (Sartorius), which has a comparable impeller
+design.
+
+Sparging was conducted using the microsparger rather than the open-pipe
+sparger. The openings of pipe- and micro- spargers differ in diameter and
+produce bubbling of different diameters. Open-pipe spargers produce larger
+bubbles with a larger surface area to volume ratio, while microspargers
+produce smaller bubbles with a smaller surface area to volume ratio. Thus,
+microspargers are more efficient for mass transfer and provision of oxygen to
+cultures. However, rupturing of bubbles produced by microsparging can
+adversely affect cell viability by increasing shear stress. While cells
+tolerated microsparging as indicated by continual growth in the vessel,
+further optimisation is also required. Experiments should aim to firstly
+determine the mass transfer coefficient of the final desired medium (an ideal
+formulation has not yet been confirmed), and then the metabolic requirements
+of the cells should be assessed to determine their requirement for oxygen
+supply. Following this or in parallel, cells should be assessed for growth in
+various sparging conditions and rates. Overall, data indicate that cells may
+tolerate microsparging in a 2-3L vessel.
+
+Nuvonis tech transfer documentation describes cell seeding densities and
+matched timelines for culture feeding/passaging. E.g. 50k/mL for a 4-day
+cycle, 100k/mL 3-day cycle etc. Cells in the Mobius bioreactor were harvested
+upon reaching 1M/mL in cell density, upon which 80% of the total volume was
+harvested and the same volume replenished with newly prepared medium
+supplemented with growth factors. This 'draw and fill' process was repeated
+twice, where cells demonstrated a doubling in population 24h following
+harvest, matching the described doubling time reported in the tech transfer
+documentation. Feasibly, this process may be scaled to a larger volume and
+increase the rate at which cell mass can be produced over time, in comparison
+to an end-to-end batch cycle approach. It should be noted that for quality
+control purposes and process design, there should be a limited number of time
+this procedure is able to be performed to ensure consistency in process and
+product. This remains an open question to be determined.
+
+
+Limitations
+
+
+The purpose of this experiment was to pilot conditions for culturing Nuvonis
+cells in a bioreactor culture. The Mobius system provides a comparable,
+scaled-down model of larger stirred vessels (200 and 2000L Sartorius vessels).
+However, it should be noted that there are some design differences between
+vessels including:
+
+  * sparger types. Mobius unit features either open pipe sparger or microsparger. Sartorius units feature ring sparger or microsparger
+  * impeller design differs between the units, where Mobius features 3-segmented pitch blade, upward pumping marine scope, while the sartorius units feature double impeller designs. Assumptions of agitation power will not be comparable between the two
+
+Moreover, the experiment was prematurely halted due to cell death following an
+increase in stirrer RPM.
+
+
+Conclusion(s)
+
+
+Overall, data here show that Nuvonis cells are suitable for bioprocess
+culture. Starting values for bioprocess culture parameters including stirrer
+RPM, pH set point, sparging rate and type, and batch feed schedule have been
+established. Further experiments should look to optimise these parameters in a
+given medium suitable for culture in large volumes (200-2000L) in a smaller
+parallelised system.
+
+
+Future Direction(s)
+
+
+  * Experiments should aim to firstly determine the mass transfer coefficient of the final desired medium (an ideal formulation has not yet been confirmed), and then the metabolic requirements of the cells should be assessed to determine their requirement for oxygen supply. Following this or in parallel, cells should be assessed for growth in various sparging conditions and rates.
+  * Optimisation will be required to further refine a tip speed to promote the best growth and can be achieved using a smaller paralellised system such as the AMBR250 (Sartorius), which has a comparable impeller design.
+  * It should be noted that for quality control purposes and process design, there should be a limited number of time this procedure is able to be performed to ensure consistency in process and product. This remains an open question to be determined. 
+
+

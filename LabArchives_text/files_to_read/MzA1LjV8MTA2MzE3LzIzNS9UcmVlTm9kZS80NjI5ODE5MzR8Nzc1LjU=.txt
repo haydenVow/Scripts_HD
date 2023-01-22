@@ -1,0 +1,35 @@
+
+
+Intermittent agitation to facilitate adhesion (SP: 3)
+
+  1. Passaged cells following Passaging Template_V3.
+  2. Transferred cell suspension containing  272k cells/wellin to the 3mL/well of equilibrated microcarrier suspension in 6 well plates. Add cells into 3 wells per condition.
+    1. Note: removed 200uL/well from serum based media before adding cells to keep volumes consistent across all conditions. Volume of cell suspension added per well:  
+
+      *  0.548mL/well for serum  
+
+      *  0.301mL/well for E89C
+      * 0.333 mL/well for E810C
+      * 0.312 mL/well for E811B  
+  3. Transferred vessel to incubate at: `16:23
+    1. [x]  37ºC, 5% CO2 (mammalian cells)
+    2. [ ]  40ºC, 5% CO2 (aviary cells)
+  4. Began the seeding schedule for 6 hours using the KASA app and smart plug, 2 minutes shaking, 28 minutes static. 
+    1. The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing
+      * Shake speed used = 90rpm
+    2. The seeding schedule may be reduced or extended by removing or adding 30 minute cycles as required. Generally, at least 3 but up to 12 hours are required to allow the maximum number of the inoculated cells to adhere.
+    3. Started shaking at 16:23. The timer shaker was set to shake for 2 min, then stay static for 28 min. Then repeat. It was set to shake continuously from 10.23pm.
+  5. At the conclusion of the seeding period the vessel was left to shake continuously overnight.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+

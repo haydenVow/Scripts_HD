@@ -1,0 +1,202 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Andrew  
+
+
+
+
+Passage Culture IDs
+
+Harvested Flask ID(s)Harvested Flask TypeSeeded Flask ID  
+Media Conditions  
+Seeded Flask Type  
+  
+10565-C2C12-Water Buffalo P12-1of2
+
+  
+  
+
+10566-C2C12-Water Buffalo P12-2of2
+
+  
+T175  
+  
+T175  
+
+10565-C2C12-Water Buffalo P12-1of2
+
+  
+DMEM/F12 + 20% FBS + 1X P/S without CO2  
+  
+T175  
+  
+  
+10566-C2C12-Water Buffalo P12-2of2
+
+  
+DMEM/F12 + 20% FBS + 1X P/S with CO2  
+  
+  
+10603-C2C12-Water Buffalo P13-3of5
+
+  
+L-15 + 20% FBS + 1xP/S  
+  
+  
+10604-C2C12-Water Buffalo P13-4of5
+
+  
+PRF DMEM/F12 + 20% FBS + 10 mM HEPES + 1x P/S  
+  
+  
+10605-C2C12-Water Buffalo P13-5of5
+
+  
+DMEM/F12 + 20% FBS + 1X P/S  
+4CF  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7009  
+  
+TrypleA9733  
+  
+dPBS (for washing & neutralising)M10268  
+  
+Growth Media (DMEM + 20% FBS + 1xP/S)  
+M10207  
+  
+Growth Media (L-15 + 20% FBS + 1xP/S)  
+M10458  
+  
+Growth Media (PRF D/F + 20% FBS + 10 mM HEPES 1xP/S)  
+  
+M10457  
+  
+p38i (20mM stock)M10003  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated 2x T175 vessel with sterile filtered 0.1% gelatin solution
+and then incubated all coated flasks at 37˚C.  
+
+  1. Time when all vessels(s) placed into the incubator       
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  1x 20 mL  
+
+  2.  dPBS 1x40mL   
+
+  3. Growth media (for seeding):  600 mL + 300 uL p38i  
+
+Time that all aliquots were placed in the water bath the warm before use
+15:56
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+PASSAGE - 2XT175
+
+4\. Removed vessel(s) from the incubator  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start for TrypLE was  16:40 - 16:50
+
+7\. Neutralised with     10mL     dPBS and combined cell suspension into a
+50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   16:56-17:01  
+
+
+
+
+C2C12 PASSAGE - 2XT175
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1 mL    Growth      media
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was: C2C12  4,440,000    
+
+  2. Volume of cell suspension required for subculture was:         
+C2C12 4Cf:285 uL, T175: 80 uL per 30 mL media  
+
+  3. Cell density per vessel:   500/cm2     
+
+
+
+
+C2C12 PASSAGE - 2XT175
+
+13\. Transferred      As above     µl of cell suspension to the pre-warmed
+growth media
+
+14\. Transferred cell suspension into the pre-gelatin coated      4xT175s,
+1x4CF   vessels
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle   17:52  
+
+16\. Transferred vessel(s) to incubate at: 18:31
+
+  * [X] 37ºC, 5% CO2 (mammalian cells) Incubator 119 (4CF and 10566)
+  * [X]  37ºC, 0% CO2 (mammalian cells) Incubator 118 (Remaining T175s
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10565: https://ranger.vow.tools/#/session/recBzSXPvXO13gFtr  
+10566: https://ranger.vow.tools/#/session/recLj49m2qwF6ilvO
+
+

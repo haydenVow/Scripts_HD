@@ -1,0 +1,306 @@
+
+
+## Experiment Design
+
+
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+10 x 6wp  
+11178, 11179: Control  
+11180, 11181: LOX  
+11182, 11183: LARS  
+11184, 11185: BCL2L11  
+11212: LOX (top) + LARS (bottom)  
+11213: BCL2L11 (top)  
+4 x T75  
+4 x 50 ml shake tubes  
+6 x 96 wp  
+11280- Control Adherent  
+11281-Control Suspension  
+11282-LARS Adherent  
+11283-LARS Suspension  
+11284-LOX Adherent  
+11285-LOX Suspension  
+11286-BCL2L11 Adherent  
+11287-BCL2L11 Suspension  
+11288, 11289- LOX sorted  
+11290, 11291-LARS sorted  
+11292, 11293-BCL2L11 Sorted  
+  
+  
+  
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2 x 6 well plates (LOX)  
+11180, 11181  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+  
+  
+11284- Adherent  
+11285- Suspension  
+  
+  
+  
+2 x 6 well plates (Control)  
+11178, 11179  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+11280 - Adherent  
+11281- Suspension  
+  
+  
+  
+2x 6 well plates (LARS)11182, 11183  
+1 x 50 ml bioreactor tube;  
+1 x T75  
+11282- Adherent  
+11283- Suspension  
+  
+  
+2 x 6 well plates (BCL2L11)  
+  
+11184, 11185  
+1 x 50 ml tube;  
+1 x 75 flask  
+11286- Adherent  
+11287- Suspension  
+  
+  
+2 x 6 wp (sorted on the Melody at UNSW)  
+11212 (LOX & LARS)  
+11213 (BCL2L11)  
+6 x 96 wp  
+11288, 11289 (LOX)  
+11290, 11291 (LARS  
+11292, 11293 (BCL2L11)  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Suspension media mixm11399  
+  
+Adherent media mixm10861 (adherent flasks), 10866 (96well plates)  
+  
+Tryplem10658  
+  
+dPBSm10945  
+  
+  
+  
+
+
+Procedure
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent below, placed all aliquots
+to warm in the bead bath for a minimum of 20 minutes prior to use:
+
+  1. TrypLE:  2mL per well 
+  2.  dPBS ( 2mL for neutralising & 1mL for washing):  3mL per well 
+
+3\. Tryle added to water bath at 9:54
+
+Suspension cultures and adherent cultures were set up prior to 13pm by NH and
+EC. Passage started at 10:44am. Cultures harvested for FACS sorting were
+passaged after lunch by  starting at 13:30
+
+  * [EC]   
+
+  * [NH]   
+
+The following passaging protocol was followed for each knockout/control group,
+The supernatants from all wells was also collected at all steps prior to
+centrifugation following neutralization of tryple. All conditions were kept in
+separate tubes.
+
+* * *
+
+4\.  Collected culture supernatant and washed each well GENTLY with 1mL of
+dPBS (warmed).  
+
+5\. Collected dPBS wash with previous supernatant and added   2  mL tryple to
+each well, cells were then incubated at 37˚C for 8 minutes.  
+
+6\. Collected supernatants into 50mL tubes alongside previous supernatants and
+empty wells were washed with 1.5 ml  of dPBS. dPBS washes were then also
+collected.  
+
+7\. Centrifuged collections at 400 x g for 5 min.  
+
+8\. Aspirated and discarded the supernatant(s) from cell pellets.
+
+9\. Using dPBS, Resuspended and combined pellets into one tube, taking care to
+rinse out tubes with a small aliquot of dPBS. Total volumes of cell suspension
+at this step for each cell pellet was 2mL.
+
+10\. Aliquoted 10uL of cell suspension for counting using a hemocytometer,
+mixing 1:5 with Trypan blue. *This step was not followed during FACS prep of
+culture X , Cells were moved straight to FACS prep protocol after dPBS
+resuspension.
+
+11\. Cell suspensions were counted and total cell number was determined for
+each group in the document below.
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2738:2741
+
+LOX cell count -  3,096,000 cells/mL  
+LARS cell count - 3,126,000 cells/mL  
+BCL2C11 cell count - 2,130,000 cells/mL  
+Control cell count - 2,898,000 cells/ml  
+
+* * *
+
+  
+
+12\. Estimated volume of cell suspension needed to seed 1xT75 flask seeded at
+7000 cells/cm^2 for each condition (5.25x10^5 cells).  
+13\. Estimated volume of cell suspension needed to take for DNA extraction and
+subsequent PCR (3x10^4 cells).
+
+ConditionVol to take for adherent culture (uL)Vol to take for DNA extraction
+(uL)  
+Vol to take for suspension culture (uL)  
+Final density in 5mL suspension culture (cells/mL)  
+  
+Lox  
+170  
+10  
+1820  
+1126944  
+  
+Lars  
+168  
+10  
+1822  
+1137864  
+  
+Bcl2l11  
+230  
+13  
+1757  
+748482  
+  
+Control  
+181  
+10  
+1809  
+1048200  
+  
+  
+14\. Aliquoted the volumes of cell suspension listed for DNA extraction above
+into individual 1.5mL tubes. Aliquoted the volumes above for suspension
+cultures into 15mL tubes.
+
+
+
+
+SETTING UP ADHERENT POOLED CULTURES
+
+  1. Volumes of cell suspensions in dPBS listed above for adherent cultures were aliquoted directly into T75 flasks containing 12mL of growth media. 
+  2. Flasks were left to incubate at 30 degrees, 5% CO2 (incubator #140 ) static. 
+
+  
+
+
+
+
+SETTING UP SUSPENSION POOLED CULTURES
+
+  1. 15mL tubes containing cell suspensions were centrifuged at 500g for 5 minutes.
+  2. Supernatant was removed from each tube and replaced with Hycell Cho basal media + KSR + FGF-b + IGF1-LR3 to a maximum final concentration of 1 million cells/mL (Minimum volume in each tube was 5mL). 
+  3. Cells from each condition were then resuspended and transferred to separate 50mL bioreactor tubes. 
+  4. Tubes were placed in incubator 82 (main lab), at 30 degrees C, 5% CO2, shaking at 210 rpm
+
+  
+
+
+
+
+FACS SORTING SUSPENSION CELLS
+
+  1. The collected cell suspension for each condition was transferred to a 1.5mL tube and centrifuged at 300g for 5 minutes. 
+  2. Supernatant was removed. 
+  3. Cells were resuspended in 500uL of FACS buffer 
+  4. An esky box was packed for transport to the FACS facility 
+    1. Pre-filled (medium) multi-well plates (8x96wp), parafilmed around the edges
+    2. An ice pack
+    3. Extra FACS Buffer prepared earlier. 
+    4. 4x 0.22um filter capped tubes. 
+  5. Once at the FACS facility: 
+    1. Samples were passed though 0.22um filter lids into sample collection tubes
+    2. A live dead stain was added to each of the sample tubes, 5uL of 7-AAD stain (invitrogen) 
+    3. Cells from each condition were sorted into 2 x 96 well plates each containing adherent growth media, 1 cell per well (see FACS preparation for media compositions). 
+  6. Plates were transported back to Vow and moved directly to the incubator at 30 degrees, 5% CO2 (Incubator number #140, library lab ) (17:38) 
+
+
+
+
+FREEZING PELLETS FOR DNA EXTRACTION
+
+  1. Added an additional 1mL of dPBS to each aliquot of cells taken for DNA extraction. 
+  2. Centrifuged tubes at 500g for 5 minutes to pellet cells. 
+  3. Removed supernatant from each tube then added all tubes to a yellow lid pot labelled with the epic number and date. 
+  4. Stored cell pellets at −20°C in the bottom shelf of the freezer in library lab. 
+
+  
+
+  
+
+
+
+
+## Observations
+
+Morphology of cells in the control group appeared more 'healthy' (circular
+morphology with clear halos when observed under the microscope during Trypan
+blue count. Cells in other groups appeared more amorphous in their morphology
+when inspected down the microscope at 10x.
+
+
+
+
+## Reference Images.
+
+the top 3 wells of all plates were inspected under the microscope and imaged,
+1 image per well. No abnormal morphology was seen. All wells were 95-100%
+confluent at the time of passage. There were no obvious differences in cell
+morphology evident between groups during this inspection.
+
+  
+
+
+
+
+

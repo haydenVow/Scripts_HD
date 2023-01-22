@@ -1,0 +1,242 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+6983-C2C12-Mouse P4-1of1  
+96 well plate64  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+## Performed by: Shaleen Sharma
+
+
+
+
+Reagent preparation:
+
+1\. Prepared Secondary Antibody mixes (pipette from the top/supernatant of
+antibody solution):
+
+Antibody (inc. Stock ID)Volume used (uL)Dilution in blocking buffer  
+HRP-conjugated MyoG #1967 ab97240 IgG1 Goat-Anti-Mouse  
+1uL in 10mL1:10,000  
+HRP-conjugated MyoG #1967 ab97240 IgG1 Goat-Anti-Mouse  
+1uL in 50mL1:50,000  
+  
+HRP-conjugated MyoG #1967 ab97240 IgG1 Goat-Anti-Mouse  
+1uL in 100mL1:100,000  
+  
+HRP-conjugated MF20 #2870 ab97250 IgG2b Goat-Anti Mouse  
+1uL in 10mL  
+1:10,000  
+  
+HRP-conjugated MF20 #2870 IgG2b Goat-Anti Mouse  
+1uL in 50mL  
+1:50,000  
+  
+HRP-conjugated MF20 #2870 IgG2b Goat-Anti Mouse  
+1uL in 100mL  
+1:100,000  
+  
+  
+  
+
+
+
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times with 200uL of PBS at RT.
+
+15:27 pm
+
+15:30 pm
+
+15:32 pm
+
+3\. Added 75uL of secondary HRP antibody mixtures (refer to plate map) to each
+well.
+
+4\. Incubated the cells with secondary HRP antibody mixtures overnight at 4
+degrees.  16:04 - Overnight a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+ELISA protocol:
+
+*Plate was frozen when taken out of the fridge (17/06) placed in Thermo incubator to thaw.
+
+5mL of TMB substrate solution (#S1862) and 5mL of 0.5M HCl stop solution
+(#M5491) was aliquotted separately.
+
+1\.  Removed 2nd antibody solution.  09:45 a/pm
+
+2\.  Washed with PBS 4 times for 5 minutes:
+
+ 09:55 - 10:00 a/pm
+
+ 10:02 - 10:10 a/pm
+
+ 10:13: - 10:20 a/pm
+
+ 10:23 a/pm
+
+PBS was removed and plate was blotted onto 2x layered rediwipes to ensure all
+PBS has been removed.
+
+3\.  Added 75uL of TMB substrate solution to each well of the 96 well plates
+(4.8mL total) and incubated for 15 mins in the dark (used stopwatch to
+precisely monitor time).
+
+ 11:04 - 11:19 a/pm
+
+Observation: TMB solution is clear and upon addition of solution to each well
+after a few seconds, colour changed from clear to blue.
+
+  
+
+4\.  Added stop solution (0.5M HCl) in an equal volume (75uL) to each well at
+the end of 15 mins incubation period. Make observation on colour change and
+take picture if possible.
+
+11:19 a/pm
+
+Figure 2: After quenching with 0.5M HCl
+
+5\. Immediately removed 100uL of supernatant from each well after pipette
+mixing and transferred to a new non-treated 96 well plate.
+
+6\. Read absorbance at 450nm on the NanoStar microplate reader.
+
+  
+
+
+
+
+Janus Green protocol:
+
+6\. Wash original plate 3x with 200uL of PBS:
+
+ 11:49 a/pm
+
+ 11:53 a/pm
+
+Observation: It seems cells adhered at the bottom of the wells are retaining a
+purple hue despite supernatant colour changing from yellow to clear as a
+result of multiple PBS washes.
+
+ 11:59 a/pm
+
+1\. Aspirated PBS from each well and added 100uL of 1X Janus Green (0.3% w/v
+in PBS) (#M4399) per well.
+
+2\. Incubated plate at RT for 5 minutes.
+
+ 13:30 -13:35 a/pm.
+
+  
+
+3\. Removed dye and washed 5 times with 200uL of deionised water.
+
+4\. Removed last water wash and added 200uL of 0.5M HCl.
+
+5\. Incubated plate at RT for 10 minutes.
+
+13:51 - 14:01 a/pm
+
+6\. Transferred 100uL of the supernatant after pipette mixing into a new
+untreated 96 well plate.
+
+Observation: Visual inspection shows that Column 3 has no cells as expected
+
+7\. Read absorbance on the NanoStar plate reader at 605 nm.
+
+  
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+See individual entries for observations.
+
+Summary: ELISA pipeline tested for the first time. Secondary stained with HRP
+conjugated antibody at different concentrations (with fluorescent control)
+then peroxidase reaction was performed and colourmetric measure was observed
+using plate reader. Janus Green protocol was performed on same plate to
+quantify cell concentration per well.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM5480, M5479  
+  
+dPBSM5385  
+  
+PBSTN/A  
+  
+Secondary Antibody MixSee above entries  
+  
+DAPI (1:1000)N/A  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recU0E9k3YAmF4mAk/images
+
+

@@ -1,0 +1,132 @@
+
+
+## Performed by: NH  
+
+
+
+
+DNA Extractions:
+
+Cell LineTreatmentDate of DNA extraction  
+CHOMP07 - Culture 10436 IGBFBP4 knockout 16/02/2022 (from cell pellet frozen
+on 10/2/22)  
+CHOMP07 - Culture 10437-10438 PTEN and PABPC1 knockout16/02/2022 (from cell
+pellet frozen on 10/2/22)  
+  
+CHOMP07 PTEN knockout  
+16/02/2022 (from cell pellet frozen on 9/2/22)  
+  
+  
+CHOMP07 PABPC1 knockout 16/02/2022 (from cell pellet frozen on 9/2/22)  
+  
+  
+CHOMP07Wildtype  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+quick extract  
+a10469  
+  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+IGFBP4 primer pair: P7-P8  
+PTEN primer pair: P11-P12  
+PABPC1 primer pair: P1-P2  
+
+Quick mix DNA extractions of CHOMP07 were prepared using the bento lab
+following the protocol below
+
+  1. To each well add 25μl QE
+  2. pipette up and down
+  3. Place tubes into the PCR machine and run at:
+    * 65°c 6 mins
+    * 98°c 2 mins
+
+PCRs were then set up using the method below.
+
+  1. Made up a master mix for 4x reaction for primer sets PTEN and PABPC1. Made up a master mix for 3x reactions for IGFPB4. Volumes listed below are intended for 1 reaction.
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table below. 
+
+SamplesPrimers used DNA sample used  
+1PTEN P11/12PTEN knockout  
+2PTENPTEN + PABPC1 knockout  
+3PTENWild Type  
+4PABPC1 P1/2  
+PABPC1 knockout  
+5PABPC1PTEN + PABPC1 knockout  
+6PABPC1Wild type  
+7IGFBP4 P7/8  
+IGFBP4 knockout  
+8IGFBP4Wild type  
+9PTENNo DNA control  
+10PABPC1No DNA control  
+11IGFPB4No DNA control  
+  
+  
+
+  1.  Added 2μl of corresponding DNA extractions to each sample tube as per the table above. Added 3uL of MilliQ to each tube to make a total reaction volume of 30uL.
+  2. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C.  
+
+  3. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  4. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. PCR products from IGFBP4, AQP1 and PTEN made using Quick extracted DNA amplified at UNSW were also loaded onto the gel as positive controls. 
+    1. BENTO LAB Gel loading order consisted of the following  
+Lane 1: Ladder  
+Lane 2-12: Samples 1-11 respectively.
+
+
+
+
+## Observations:
+
+Frozen cell pellets were not visible upon visual inspection prior to addition
+of QuickExtract. Tubes were spun in the minifuge for 15 seconds before
+QuickExtract was added to ensure cells were at the base of the tube. The
+resulting DNA extractions were not very viscous compared with previous Quick
+extract testing. Since the cell pellets were much smaller than what was used
+previously it may be the case that there is a lower DNA concentration in these
+extractions. As a result, 2uL of DNA extract was added to each PCR mix instead
+of 1uL
+
+Only two bands were seen on the gel, there was a strong band in lane 8 and
+lane 9, (IGFBP4 mutant and IGFBP4 wild type respectively.  
+  
+These PCR products were sent to AGRF for sequencing to validate whether the
+CRISPR-CAS9 system had successfully mutated DNA at the expected site.
+
+
+
+
+## Reference Images
+
+Gel result from the BENTO lab (see lane order above)
+
+
+
+
+

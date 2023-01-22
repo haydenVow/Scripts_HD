@@ -1,0 +1,88 @@
+Aim/Purpose
+
+
+Background
+
+Using the foundations built up during the "Buffalo Wings" prototype work, we
+will trial tissue engineering at larger scales and using suspension adapted
+cells (Nuvonis fibroblasts predominantly). This work is part of the Mini-
+Tissues workstream for the Second Product, more can be read about this here.
+Initial Buffalo Wings experimental plans and lab books can be found here.
+
+Aim
+
+To understand the optimal cell density for tissue engineering in moulds using
+suspension Nuvonis cells.
+
+Hypothesis
+
+Tissue-engineered tissues have a critical, optimum cell density (at the time
+of seeding), above this critical cell density, tissue formation is inhibited.  
+  
+Note -  this hypothesis is based on the finding that adherent cells did not
+form tissues over 10M/ml
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Collagen I, 10x DMEM/F12, 0.1M Sodium Hydroxide and Matrigel. This allows the
+formation of tissues via the process of tissue gelation, condensation and
+self-assembly around 2 attachment points (Figure 1) - See Notion page for
+summary of approach.
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+  
+
+Experiment Layout
+
+We will seed 2 plates containing tissue engineering moulds with 12 tissues
+each, at a number of different cell densities, ranging from 2 million to 15
+million cells per mL (2M, 5M, 7.5M, 10M and 15M). One plate will be with the
+above gel matrix components, untreated, and we will add TGF-beta to the other.
+TGF-beta will be added to both the gel matrix during tissue formation and to
+the media at 5ng/ml.
+
+Figure 2. Tissue eng mould plate layout for experiment 1 - this will be
+replicated with and without TGF-beta, total volume of 4mls per well
+
+  
+
+
+
+
+Before Starting
+
+  * Calculate approximate cell requirements for experiment 1
+    * = Approx 360 million cells for 2 plates at the above densities
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+    * Total volumes for experiment:
+      * Collagen I = 40.6ml
+      * 10x DMEM/F12 = 5ml
+      * 0.1M NaOH = 6.1ml
+      * Matrigel = 9ml
+  * Autoclave 2x large Nylon scaffolds, 2% agar (for embedding moulds), forceps and mould weights (Jesi - Aluminium rods in PDMS)
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+
+Timeline:
+
+Typically harvesting at 7 days for small tissues and 10 days for larger ones.
+But this is still in optimisation. A visual assessment of the tissues will be
+performed every other day with media changes.
+
+

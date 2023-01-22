@@ -1,0 +1,178 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T75s9227-CHOMP07-Crocodile P9-1of1  
+T75  
+9386-CHOMP07-Crocodile P10-1of1  
+  
+9229-CHOMP09-Crocodile P10-1of1  
+9388-CHOMP09-Crocodile P11-1of1  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleA7592  
+  
+dPBS (for washing & neutralising)A8295  
+  
+Growth Medium: DMEM/F12 + 20% FBS + 1X P/S  
+M8614  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   16  mL in   1 x 50 mL  tube. Placed in waterbath: 11:21    
+
+  2.  dPBS (for neutralising & washing):   35  mL. Placed in waterbath:  11:21   
+
+  3. Growth media (for pellet resuspension):  5 mL (2mL per pellet) Placed in waterbath:  11:30    
+
+  4. Growth media (for seeding): 2x   12  mL Placed in waterbath: 11:30  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+CHOMP07  
+Removed vessel from the incubator  11:35  
+
+1\. Remove media and keep in a 50mL tube  
+2\. Add 5mL dPBS to wash the flask. Then remove the dPBS and keep in the same
+50mL tube containing the media.  
+  
+3\. Add 5mL tryple to the flask and place in the incubator for a minimum of
+15min. Timestamp: 11:52 - 12:30  
+  
+4\. Place the 50mL tube containing the dPBS wash and media in the centrifuge
+for 5 minutes at 650g. Timestamp: 11:58-12:03  
+5\. Remove the supernatant and add 5mL of dPBS. Resuspend the pellet well.
+Then Centrifuge at 650g for 5 min. Timestamp: 12:08-12:13  
+6\. Centrifuge the tube down again and remove the dPBS and add 5mL of tryple.
+Place in the incubator for a minimum of 15 minutes. Time stamp: 12:18 - 12:  
+7\. Remove both the flask and 50mL tube containing the CHOMP07 cells.  
+8\. Neutralise each in 5mL of dPBS and combine the cells into a single tube.  
+8\. Centrifuge at 650g for 5minutes. Timestamp: 12:34 - 12:39  
+9\. Remove the supernatant and resuspend in 2 mL of media.  
+10\. Take 10uL sample for the cell count.
+
+  
+
+CHOMP09
+
+3\. Removed vessel(s) from the incubator   11:35  
+
+4\. Washed the vessel(s) with  5 mL per flask dPBS (warmed).
+
+5\. Added   5  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     11:55 - 12:10    
+
+6\. Neutralised with   5 mL per flask   dPBS and moved the cell suspension
+into   2 x 50 mL  tubes.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was  12:23 - 12:28   
+
+
+
+
+8\. Aspirated the supernatant.
+
+9\. Resuspended pellet in   2  mL   growth  medium  
+
+10\. Aliquoted   11 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+11\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:  
+    * CHOMP07: 2,504,000   
+
+    * CHOMP09: 2,280,000   
+
+  2. Volume of cell suspension required for subculture was:  
+    1. CHOMP07: 0.449   
+
+    2. CHOMP09: 0.493
+  3. Cell density per vessel:   7500 cells/cm2     
+
+
+
+
+12\. Transferred the cell suspension of the following volume into the pre-
+warmed   12 mL growth medium:  
+
+  * CHOMP07:   0.449 uL     
+
+  * CHOMP09:   0.493uL   
+
+13\. Transferred cell suspension into   2x T75  vessels.
+
+14\. Transferred vessel(s) to incubate at:  13:20  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+10x Magnification, Phase
+
+4x Magnification, Phase  
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+9091, chomp09: https://mia-
+capture.vow.tools/#/session/reclcT2HaybXkA29F/images  
+9090, chomp07: https://mia-
+capture.vow.tools/#/session/rechQBXV3rcPpBhDJ/images
+
+

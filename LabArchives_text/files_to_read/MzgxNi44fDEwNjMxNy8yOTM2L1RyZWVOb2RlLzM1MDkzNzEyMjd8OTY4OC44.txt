@@ -1,0 +1,72 @@
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+
+
+
+Make a 'picklist' on a google sheet to record which wells are to be picked.
+
+  
+
+Green = 80-100% confluent
+
+Purple = 100% confluent (large colony)
+
+Red = FACS seeded 15+ events (not clonal population)
+
+  
+
+Note* This protocol will talk about source wells and destination wells  
+Source wells = the original well that the clonal population is in  
+Destination wells = the location in the new plates where the clonal population
+of cells will be seeded
+
+  1. Added 3mL of Growth media to 5 x wells of a TC treated 6-well plate + 500uL/well of Growth media 1 x full 24-well plate + 16 wells of 1 x 24-well plate. Incubate at 37ºC 12:10 pm.
+  2. Aliquotted 5mL dPBS. Incubate at 37C. 12:39 pm.
+  3. Aliquotted 3mL 1x Tryple. Incubate at 37C. 12:40 pm.
+  4. Use a permanent marker to circle around the wells selected on the lid of the multi-well plates (so that when you are in the BSC you know which wells are to be selected) 13:22 pm
+  5. Aspirate supernatant.
+  6. Wash each selected well with 100 uL dPBS. 13:40 last well had dPBS added.
+  7. Add 50uL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min. [Note* cells at early stages of cloning usually take longer to detach than later passage]  
+Plate 1: 13:45 - 14:01  
+Plate 2: 13:49 - 14:08  
+Plate 3: 13:53 - 14:09
+
+  8. Check regularly under the microscope to see if cells across all wells are detaching.
+  9. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with pre-warmed growth media (from the destination well)
+    2. Mix cell suspension well and collect entire cell suspension (cells, tryple and neutralising growth media)
+    3. Collect in a pipette and transfer into its designated destination well (the destinatinon well already contains growth media).
+    4. Mix well to disperse the cells evenly throughout the well.
+    5. Do not move the destination plate, allow the cells to attach.
+    6. If you accidentally move the destination plate, pipette in each well keeping the tip pressed to the side and pipetting up and down repetitively to create even dispersion of cells throughout the well (this will help avoid clumping of cells in the centres of the wells).
+  10. Transfer flask to incubate at 37ºC, 5% CO2. 14:37 pm
+
+  
+
+  
+
+Plates seeded:
+
+7441-F_DOLLY12-Sheep P2-1of1 (24-well plate)  
+7442-F_DOLLY12-Sheep P2-1of1 (24-well plate)  
+7443-F_DOLLY12-Sheep P2-1of1 (6-well plate)
+
+
+Reagent  
+Sv2 ID  
+  
+Growth Media  
+M 5894  
+  
+Tryple  
+M 5076  
+  
+dPBS  
+A 5618  
+
+

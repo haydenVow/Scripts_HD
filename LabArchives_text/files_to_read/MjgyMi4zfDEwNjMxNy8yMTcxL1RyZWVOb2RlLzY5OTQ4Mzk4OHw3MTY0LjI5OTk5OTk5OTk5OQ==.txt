@@ -1,0 +1,50 @@
+
+
+***James: Note that these reports are still being finalised due to
+optimisation of the macro & the potential need to reanalyse data.  
+  
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Background
+
+
+A high-throughput screening (HTS) platform for suspension culture should have
+the following characteristics:  
+  
+    Greater than 100 parallel cultures - this is based on definitive screening design of 21 conditions with 5 replicates as a minimum experiment  
+    Less than 10 mL (ideally in 1-4 mL range)  
+    Shear stresses should be in a similar range to those experienced in bioreactor (due to agitation)  
+    Gas transfer should be in a similar range to those experienced in bioreactor (due to agitation)  
+    Temperature, pH, humidity regulated  
+    Facilitates fast, parallel viable cell quantification  
+  
+Based upon the experience of Bec, Marie and Tom, and discussions with
+engineering, the solution is likely to consist of 3 components:  
+  
+    An incubator and shaker to provide a suitable environment and agitation for the cultures  
+    Culture vessels with working volumes in the 1 - 10 mL range, with a membrane to allow gas exchange with the incubator environment, and a mechanism to fix those vessels in place on the shaker  
+    A system for viable cell counting that can analyze the vessels rapidly (ideally 100 cultures in <10 minutes)
+
+
+Key results
+Discussion
+Limitations of the study
+Conclusion
+Future directions

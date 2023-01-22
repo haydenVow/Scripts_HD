@@ -1,0 +1,103 @@
+Protocol
+
+
+Passaging Suspension Cells - E-flasks
+
+Morning
+
+  1. Turn on the water bath and set temperature to 37°C.
+  2. Retrieve a sample from each suspension flask in culture. See VSOP-082.
+  3. Perform a cell count and record the total number of cells and the number of viable cells for each culture sampled.
+    1. Cells are usually passaged when they reach a density of around 3,000,000 cells/mL.
+    2. Cells are passaged by diluting them in fresh 37°C warm medium.
+  4. Post on slack channel regarding the number of available cells.
+
+Afternoon
+
+  1. Place the aliquot(s) of growth media into a pre-warmed water bath and warm them in the water bath for at least 20 minutes before use.
+  2. Transfer the growth media aliquot(s) and flask(s) required for passaging into the BSC, ensuring to wipe down containers with 70% EtOH during the transfer.
+    1. Refer to Table A for the appropriate volumes of growth media for each E-flask type which will depend on the quantity of cells in the culture(s).
+  3. Transfer the required volume of cell suspension (see Table A) from the exisiting culture(s) to the required volume of fresh growth media.
+    1. If using a new flask: 
+      1. Pour required volume of warm growth media (minus the volume of the cell suspension) into new E-flask. 
+      2. Add in cell suspension.
+    2. If re-using a flask:
+      1. Pour out contents of flask into a 2L bottle. 
+      2. Use a serological pipette and some of the previous media wash down sides of flask, and add back into 2L bottle.
+      3. Use sterile PBS to perform a final rinse of E-Flask and discard the PBS into waste.
+      4. Pour required volume of warm growth media (minus the volume of the cell suspension) into E-flask. 
+      5. Add in cell suspension.
+  4. Transfer the newly seeded flasks to an incubator at 37°C, 5% CO2, and the recommended shaking speed for at least 2 minutes to evenly distribute the cells. See Table B for required shaking speeds.
+  5. Place harvested cells (remaining cell suspension in 2L bottle) to a static 37°C, 5% CO2 incubator.
+  6. Continue incubation at 37°C, 5% CO2 and the recommended RPM until the cells require a passage as outlined in step 3 of this VSOP.
+
+Table A. Seeding densities and volumes
+
+DaySeeding Density (cells/mL)Flask Volume  
+Monday400,0002000  
+Thursday200,0001000  
+  
+Table B. E-flask working volume and RPM speeds.
+
+  
+
+Reference:
+
+VSOP-081_0 https://www.notion.so/vow/VSOP-081_0-Passaging-Nuvonis-quail-
+fibroblast-cells-QH9-2-1-into-suspension-culture-
+flasks-7ba42e1e7abd4d10b9d2909b4f572fac
+
+
+Morning Cell Count
+Date07/07/22
+
+Performed By:
+
+SR  
+Flask ID1273512736  
+  
+Flask Volume20002000  
+  
+Cell Density (cells/mL)4,704,000  
+4,815,333  
+  
+  
+Cell Viability97.14%98.01%  
+  
+Cell Count in Flask9,408,000,000  
+9,630,666,000  
+  
+  
+Total Cell Count19038666000  
+  
+Seeding Density for Passage (cells/mL)200,000  
+Number of E5000 flasks for passage2  
+Volume in E5000 for passage1500 each  
+# Cells Required for Passage600,000,000  
+Remaining Cells for Harvest18,988,000,000  
+  
+Link to cell count spreadsheet:  
+https://docs.google.com/spreadsheets/d/1OW3eWSXF5SMSs_i_eulgZgYwU0wd7QnKyL8J8HDLHL4/edit?usp=sharing
+
+
+Passage and Harvest
+
+
+HARVEST
+
+MMC Project Requirements: 1,060,000,000 cells
+
+Harvest Flask: B
+
+Cell Density: 4,815,333 cells/mL
+
+Volume Required: ~249mL
+
+EXCESS CELLS
+
+Spun down and frozen for Culinary. Mass:
+
+NOTE: Flask A passaged into A, B into B. Flask B used for seeding redundancy
+flask.
+
+

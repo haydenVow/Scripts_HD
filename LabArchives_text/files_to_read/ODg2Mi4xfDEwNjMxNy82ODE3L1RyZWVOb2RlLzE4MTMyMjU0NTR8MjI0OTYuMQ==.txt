@@ -1,0 +1,258 @@
+
+
+## Experiment Design
+
+
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2.5 x 6 well plates - RIPK1  
+  
+1 x 50 ml;  
+1 x T75,  
+3x96 well plates low attachment  
+1x96 wp (adherent)  
+10741 - suspension  
+10742 - adherent  
+10765-10767 96wp ultra low attachment  
+10768 96wp adherent  
+  
+2.5 x 6 well plates -ZIC1  
+  
+1 x 50 ml;  
+1 x T75  
+3x 96 well plates (low attachment)  
+1x 96wp (adherent)  
+10739 - suspension  
+10740 - adherent  
+10769-10771 96wp low attachment  
+10772 96wp adherent  
+  
+1 x 6 well plates - Wild type controls  
+10387  
+1 x 50 ml  
+ 1xT75  
+10735 - T75  
+10736 - 50mL suspension  
+  
+2 x 6wp PTEN  
+  
+1x 50mL suspension culture  
+10738  
+  
+2x 6wp PABPC1  
+  
+1x50mL suspension culture  
+10737  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Suspension media mixSee FACS preparation page  
+  
+Adherent media mixSee FACS preparation page  
+  
+TrypleA9733  
+  
+dPBSA8790  
+  
+  
+  
+
+
+Procedure
+
+
+PREPARE DESTINATION VESSELS
+
+  1. Removed adherent and suspension media mixes from the fridge (See FACS preparation lab book entry for this EPIC) 
+  2. 6 x 96 well ultra low attachment plates were filled with 200uL of Hycell Cho growth media. 
+  3. 2x 96 well adherent plates were filled with 200uL of DMEM/F12 + 20% FBS + 1xP/S growth media. 
+  4. 5mL of Hycell Cho growth media was added to 4 x 50mL bioreactor tubes. 
+  5. 12mL of DMEM/F12 + 20% FBS + 1xP/S growth media was added to 3 x T75 flasks. 
+  6. 96 well plates were parafilmed before closing the lid (sterile-side down, facing wells, as demonstrated in image below) & then lids and plates were parafilmed together (same fashion as is done for fix and stained plates in fridge) for transport to FACS sorting facility. 
+  7. Media for bioreactor tubes and flasks were placed in the water bath at 30 degrees to warm.
+
+
+
+
+
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent below, placed all aliquots
+to warm in the bead bath for a minimum of 20 minutes prior to use:
+
+  1. TrypLE:   72   mL across   1 x 120 ml  container.
+  2.  dPBS (for neutralising & washing):   140   mL across 2x 120mL containers (70mL each) 
+  3. dPBS was used for counting cells and was aliquoted at the time of counting.
+
+3\. Time that all aliquots were placed in the water bath the warm before use
+10:50 am  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+The cells from each corresponding knockout well were passaged and pooled
+respectively before being split for adherent, suspension or FACS destinations.
+All washes and supernatant were collected to save any potentially suspension
+adapted cells.  
+
+  * Group 1 - PTEN [ST]  
+
+  * Group 2 - PABPC1 [ST]  
+
+  * Group 3 - RIPK1 [NH]  
+
+  * Group 4 - ZIC1 [NH]  
+
+  * Group 5 - Control [ST]   
+
+* * *
+
+4\. Washed each well GENTLY with 2mL of dPBS (warmed).
+
+5\. Added   2  mL tryple to each well and incubated at 37˚C.
+
+6\. Empty wells were neutralised with  2 ml  of dPBS.
+
+7. Cell suspensions were collected in 50mL tubes after trypalisation alongside their washes.
+
+7\. Centrifuged all tubes at 300 x g for 5 min.  
+
+8\. Aspirated the supernatant(s).
+
+9\. Resuspended pellet(s) in  Group 3-4 6mL of dPBS, Groups 1, 2 and 5 were
+resuspended in X  medium.  
+
+10\. Aliquoted 10uL of cell suspension for counting using a hemocytometer, and
+performed the necessary dilution with Trypan blue (see Cell Count
+Spreadsheet).
+
+11\. Cell suspension was counted and the total cell number was determined for
+each group.
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2066:2071
+
+  1. Group 1 5,450,000
+  2. Group 2: 7,000,000
+  3. Group 3 5,160,000
+  4. Group 4 5,160,000
+  5. Group 5 6,550,000
+
+
+
+
+FACS SORTING SUSPENSION CELLS
+
+  1. Aliquoted 1/5 of the volume of counted cell suspension from groups 3 and 5 into 1.5uL tubes. 
+    1. (see cell totals above to determine 1/5)
+  2. cells were centrifuged at 400g for 5 minutes
+  3. supernatant was removed
+  4. Cells were resuspended in FACS buffer (0.5mL)
+  5. Cells were then transported on ice to the UNSW sorting facility along with the 8 96 well plates.
+  6. inside a BSC at UNSW cells were passed through a 0.22 filter lid collection tube.
+  7. 5uL of 7-AAD stain from invitrogen was added to the cell suspensions and cells were incubated for 5 minutes at room temperature
+  8. Once at the FACS facility Groups were sorted into 3 x 96 well plates (low attachment each along with 1x96 well plate (adherent), 1 cell per well
+  9. Plates were transported back to Vow and moved directly to the incubator at 30 degrees, 5% CO2 (Incubator number #68, 17:15) 
+
+
+
+
+SETTING UP SUSPENSION POOLED CULTURES
+
+  1. For all groups, 3/5 of the counted cell suspensions were transferred to an individual 50mL bioreactor tube containing 5mL of Hycell Cho medium. 
+  2. Tubes were left to incubate at 30 degrees, 5% CO2 (incubator # ) shaking at 206 rpm 
+
+  
+
+
+
+
+SETTING UP ADHERENT POOLED CULTURES
+
+  1. For groups 3-5, 1/5 of the counted cell suspension of passaged cells was transferred to individual T75 flasks containing 12mL of DMEM/F12 + 20% FBS + 1xPS media prepared earlier.    
+
+  2. Flasks were left to incubate at 30 degrees, 5% CO2 (incubator #120 ) static. 
+
+
+
+
+DNA EXTRACTION
+
+Screening PCR protocol - DNA extraction of adherent CHOMP
+
+1.    Transferred a sample of cells from each group into separate 1.5 ml tubes (1/10 of counted cell suspension roughly) 
+
+  1. Group 1: [Cell total] 
+  2. Group 2: [Cell total]
+  3. Group 3:[Cell total] 
+
+2.    Centrifuged cells down to form a pellet (300g for 5 minutes)
+
+3.    Aspirated off media
+
+4.    Resuspended pellet in 100 ul PBS
+
+5.    Centrifuged cells down to form a pellet (300g for 5 minutes) 
+
+6.    Aspirated off PBS
+
+7.    Resuspended in 50 μL HotShot solution and transfer to 0.5 mL tube
+
+8.    Incubated at 95°C for 30 min in the thermocycler using the bentolab
+
+9.    Cooled plates to room temperature, and added 50 μL neutralising buffer, mixing well by pipetting up-and-down with a P200 multichannel pipette.
+
+10.    Stored DNA extractions at 4°C for up to two weeks, or at −20°C for up to 1 year. (fridge/Freezer ID #) 
+
+  
+
+  
+
+
+
+
+## Observations
+
+-Froze down 100 000 cells for each of the target genes and the wild type and stored at -20 C freezer.
+
+-Froze down 1 561 500 PTEN nucleofected cells for RNA extraction (-80 C freezer).
+
+-Froze down  1 097 500 PABPC1 nucleofected cells for RNA extraction (-80 C freezer).
+
+-Froze down 1 745 500 wildtype cells for RNA extraction (-80 C freezer).
+
+  
+
+
+
+
+## Reference Images
+
+  
+
+
+
+
+

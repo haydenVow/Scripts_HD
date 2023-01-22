@@ -1,0 +1,78 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Determine if the addition of Vitamin C (L-ascorbic acid) during cell seeding
+or post 4 days after seeding, affects the proliferation and/or aggregation of
+Nuvonis quail fibroblast suspension cells.
+
+
+Hypothesis
+
+
+Inclusion of Vitamin C (L-ascorbic acid) during cell seeding will increase the
+proliferation rate of Nuvonis suspension cells. In addition it's addition
+after the cells have been in culture for 3 days post seeding will result in
+the formation of aggregates and production of ECM mass.
+
+
+Technical Gap
+
+
+Previous experimental with DOLLY_12 and CHOMP_09 fibroblasts demonstrated that
+treating cells with Vitamin C (L-ascorbic acid) resulted in enhancing the
+production of ECM protein and subsequent aggregation of adherent cultures. In
+addition this aggregation resulted in a texture that was more meat-like during
+the product team testing demonstrations. Replicating this finding with quail
+fibroblast cells in suspension can result in a greater product yield due to
+the increase in ECM production. Therefore, this proof of concept experiment
+will determine if the addition of Vitamin C during seeding or post seeding is
+sufficient to increase the cells proliferation rate and cause an increase in
+ECM production.
+
+
+Method/Procedure
+
+
+Process:
+
+Growth medium:
+
+Freestyle 293 medium supplemented with:
+
+• Difco Yeast Extract UF, 1g/l: add 10 ml YE stock (100g/l) per liter medium
+
+• L-Ornithine monohydrochloride, 20 mg/l; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• Putrescine dihydrochloride, 20 mg/ml; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• IGF-1 LONG R3, 50 μg/l; add 50 μl stock (1 mg/ml) per liter medium
+
+• EGF, 10 μg/l; add 10 μl stock (1 mg/ml) per liter medium
+
+• Anti-clumping agent, 1:100; add 10 ml stock per liter medium
+
+  
+
+Treatment groups: Vitamin C (L-ascorbic acid 50 ug/mL)
+
+  
+
+  1. Seed 9x E125 flask at 50K cells/mL with Nuvonis quail fibroblast suspension cells in the following conditions:
+    1. Control group (n=3, no treatment, seeded in the standard growth medium, see above)
+    2. Treatment group (n=3, group treated with Vitamin C post 3 days harvest and monitored for 48 hrs)
+    3. Treatment group (n=3, group seeded in Vitamin C and harvested after 4 days
+  2. Sample each condition for cell count
+  3. Post 3 days after seeding add Vitamin C (50 ug/mL) to treatment condition group 2.
+  4. Monitor treatment group 2 for 48 hours, noting any observations
+  5. After 48 hrs of treatment harvest treatment group 1 and 2 weighing the final pellet mass, to determine difference in weight
+
+Make a drawing of this
+
+

@@ -1,0 +1,494 @@
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Moved the sterile bioreactor vessel and bottles from the autoclave to near a
+BSC
+
+  1. Waited for the autoclaving chamber to cool to 60-70 deg C
+  2. Opened the chamber and checked connections to make sure that all vessels remained sealed. In the event that any tubing popped off, rinsed the connections with 70% ethanol and reconnected; or, re-autoclaved the entire assembly.
+  3. Placed the vessel and bottles on a trolley and moved the trolley next to a BSC.
+
+ReferenceOperating manual page(s) 70  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp13:15  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Prepared base solution bottle:
+
+  1. Sterile filtered 1 mol/L sodium hydroxide solution
+  2. Transferred the solution to the pre-autoclaved "base" bottle
+
+Prepared growth medium:
+
+  1. Sterile filtered 400 mL of DMEM, 400 mL of F12, 200 mL of FBS and 10 mL of P/S into a 1 L bottle.
+  2. Repeated step 1.
+
+Prepared microcarrier bottle:
+
+  1. Aspirated and discarded supernatant from microcarriers.
+  2. Resuspended microcarriers in growth medium.
+  3. Waited for 2 minutes until microcarriers settled.
+  4. Aspirated and discarded supernatant from microcarriers.
+  5. Resuspended microcarriers to in fresh growth medium to a volume of 600 mL.
+  6. Transferred suspension to the addition/harvest bottle.
+
+Prepared feed bottle:
+
+  1. Transferred the remaining fresh medium to the feed bottle.
+
+Prepared seed bottle:
+
+  1. Resuspended cells in 50 mL of fresh growth medium.
+  2. Transferred suspension to feed bottle.
+
+  
+
+DescriptionStockyard IDAmount  
+Sodium hydroxide, 1 M, for cell biologySV1 26650 mL  
+DMEMS1624, S1634, S2015, S2026800 mL  
+F12S1694, S1696, S1930, S1945800 mL  
+FBSS1825400 mL  
+P/SA2450, A3181, A3728, A380420 mL  
+Cytodex 1 microcarriersM30572.5 g (250 mL of suspension)  
+P38i  
+FORGOT TO ADD P38i  
+FORGOT TO ADD P38i  
+
+
+  
+  
+Filled the liquid addition bottles
+
+  1. Thoroughly wiped down each of the bottles and their attachments with 70% ethanol
+  2. Placed all of the bottles in a BSC EXCEPT for the seed bottle.
+  3. Emptied the water in the bottles into a waste container.
+  4. Filled the bottles with their respective liquids (if required).
+    1. Amount of cells: 30 million in 50 mL of growth medium
+    2. Amount of microcarriers: 10 million (2.33 g) in 600 mL of growth medium
+    3. Amount of base: 50-100 mL of 1 M NaOH, sterile filtered.
+  5. Closed the lids and left the bottles in the BSC.
+
+Referencehttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:30  
+  
+NotesO rings on autoclaved schott bottles may be sticky, When fixing the
+autoclaved bioreactor lids to the schott bottle ensure lid detaches easily.
+otherwise transfer the contents of your innoculum to the autoclaved schott
+bottle.  
+  
+  
+  
+
+
+
+
+Connected the liquid addition bottles to the bioreactor vessel
+
+  1. Thoroughly wiped down the female STT connectors attached to the tubes that are attached to the bioreactor vessel.
+  2. Placed the female STT connectors in the BSC.
+  3. Removed the cap from a female STT connector with two hands
+  4. While still holding the female STT connector in one hand, removed the cap from the male STT connector with one hand and connected the male and female parts together.
+  5. Ensured that the correct male and female parts were connected.
+  6. Unclamped all of the lines after everything was connected.
+  7. Repeated the previous steps for all female/male STT connector pairs EXCEPT for the seed bottle.
+  8. Removed the bottles from the BSC and placed on the trolley with the bioreactor vessel.
+  9. Transferred the bottles and vessel to the bench next to the control tower.
+
+Referencehttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:40  
+  
+NotesGenerally, bottles containing liquids going into the culture should be
+connected to the multiport on the top of the reactor. Don't connect
+microcarrier containing innoculum to the multiport, it will block the tube.
+Instead, fill via the harvest tube  
+  
+  
+  
+
+
+
+
+Added the culture medium & microcarriers
+
+  1. Fitted pump A to pump OUT of the line connected to the harvest dip tube.
+  2. Clamped the harvest bottle line and unclamped the waste bottle line.
+  3. Pumped out the waste liquid until bubbles emerged from the dip tube inside the waste bottle.
+  4. Clamped the waste bottle line and unclamped the microcarrier/harvest bottle line.
+  5. Reversed the pump direction to pump IN to the line connected to the harvest dip tube.
+  6. Pumped in the fresh growth medium until bubble emerged from the harvest pipe inside the bioreactor vessel.
+  7. Ensured that there was enough growth medium to completely submerge the impeller, sparger and probes, and enough to reach the bottom of the sample dip tube.
+  8. Clamped the microcarrier/harvest bottle line
+  9. Reversed pump A again to pump OUT of the line connected to the harvest dip tube.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:00  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+    Fitted the liquid addition/removal lines into the peristaltic pumps
+
+  1. Opened the peristaltic pump heads.
+  2. Placed the tubing from each bottle in the respective persitaltic pump head.
+  3. Ensured that the tubing was the correct way round as the pumps turn only in one direction.
+  4. Closed the pump heads.
+  5. Placed the feed bottle in the bar fridge under the bioreactor bench.
+
+ReferenceOperating manual page(s) 70, 77  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:50  
+  
+NotesAnti-foam and base lines should always go to anti-foam and base pump
+respectively because they are automatically controlled.  
+  
+  
+  
+
+
+
+
+Primed the feed tubes
+
+  1. Ran each persitaltic pump from the Biostat control software to fill the liquid addition tubes.
+  2. Set the totaliser to 0 after priming all tubes.
+    1. Priming the tubes and the setting the totalizer to 0 ensures that the control unit will record the correct volume of liquid during the run.  
+  
+
+Referencehttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesThe arrows below each pump on the biostat A indicate the flow of liquid
+once the tubes are connected.  
+  
+  
+  
+
+
+
+
+Fitted and connected the heating blanket
+
+  1. Fitted the heating blanket around the lower portion of the glass vessel (tough side touching the glass and soft spongy side facing out).
+  2. Ensured that the heating blanket was connected to the control tower.
+
+ReferenceOperating manual page(s) 70, 72  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+NotesHeating blanket is orange. Smooth side to the glass, foam side facing
+out. Try not to cover the volume measurements on the side of the glass.  
+  
+  
+  
+
+
+
+
+Fitted and connected the exhaust heater
+
+  1. Stretched the flaps of the heater over the exhaust filter (so that the filter is "sandwiched" between the tough flaps).
+  2. Ensured that the heater was connected to the control tower.
+
+ReferenceOperating manual page(s) 70, 29  
+Operator initials  
+  
+Checked by operator initialsTT  
+  
+Timestamp15:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Connected the pH probe
+
+  1. Attached the pH probe cable to the pH probe head
+
+ReferenceOperating manual page(s) 70, 29  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Connected the dissolved oxygen probe
+
+  1. Attached the dissolved oxygen probe cable to the dissolved oxygen probe head
+
+ReferenceOperating manual page(s) 70, 29  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp15:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Connected the level sensor probe
+
+  1. Attached the level sensor probe cable to the level sensor probe head.
+
+ReferenceOperating manual page(s) 70, 29  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:00  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Connected the gas line
+
+  1. Connected the gas line to the sparger inlet filter.
+  2. Ensured all 4 gas outlets merged into the gas line.
+  3. Unclamped the line after it was connected.
+
+ReferenceOperating manual page(s) 70, 74  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Mounted the stirrer motor
+
+  1. Loosened the screw on the side of the motor sleeve.
+  2. Pushed the motor sleeve down firmly onto the shaft coupling on the headplate until it could not be pushed down any further.
+  3. Tightened the screw on the side of the motor sleeve until finger tight.
+
+ReferenceOperating manual page(s) 71, 55  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp15:50  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Turned on the gas supply to the control tower
+
+  1. Pulled the regulator cap up until it "pops" and a yellow ring shows.
+  2. Turned the cap in the direction indicated to increase the output pressure to 1 Bar (100 kPa or 15 PSI).
+  3. Pushed the regulator cap back down to lock it in place.
+  4. Repeated for each gas type.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set the air flow rate
+
+  1. Ensured that the air inlet line was unclamped.
+  2. Set the air flow rate to 20 cc/min.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set the temperature
+
+  1. Set the temperature to 37 °C.
+  2. Ensured that the heating blanket was installed correctly and the pH probe was submerged in culture medium.
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set the impeller speed  
+
+  1. Set the impeller speed to 90 RPM as this was adequate to keep microcarriers suspended in ~700 mL of culture medium
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set the pH
+
+  1. Set the pH to 7.5
+
+Referencehttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+ ~~Start sterility test~~
+
+  1.  ~~Leave the bioreactor to run overnight~~ ~~~~
+
+Reference Operating manual page(s) 81  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:10  
+  
+NotesNOT CONDUCTED DUE TO NEED TO SEED IMMEDIATELY  
+  
+  
+  
+  
+
+

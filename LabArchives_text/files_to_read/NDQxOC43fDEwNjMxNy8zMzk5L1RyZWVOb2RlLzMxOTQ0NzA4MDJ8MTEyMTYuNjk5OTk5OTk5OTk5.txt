@@ -1,0 +1,60 @@
+
+
+## Completed by: Katie
+
+
+Aim/Purpose: To achieve adaptation of adherent cells to suspension
+Hypothesis: Using media with low calcium and magnesium will help facilitate adaptation to suspension.
+Technical Gap: We have not yet trialed using D/F without calcium and magnesium to adapt cells to suspension. We have also not really considered the effects of osmolarity on our cells within suspension medias.
+Method/Procedure
+
+
+D0: Seed cells to suspension culture in 50mL bioreactor tubes.  
+F_DOLLY12 cells should be seeded into culture vessels at 1M cells/mL, directly
+from WCB vials.  
+  
+50mL tubes - 5 conditions  
+5ml of each of the basal medias below supplemented with 2% FBS + 10% Knockout
+serum replacement + 1:100 anti-clumping agent + 0.1% pluronic + 100ng/mL each
+FGF, IGF1, PDGF.
+
+1\. DMEM/F12  
+2\. DMEM/F12 without calcium and magnesium  
+3\. RPMI
+
+4\. D/F BOOST
+
+5\. DMEM/F12 without calcium and magnesium BOOST
+
+6\. RPMI BOOST
+
+RPMI or D/F boost media:  
+Basal media with the following additives:
+
+  1. 1:100 Trace Elements B
+  2. 1:100 Trace Elements C
+  3. 1:100 RPMI Vitamin mix
+  4. 1:50 MEM essential amino acids mix
+  5. 1:50 MEM non-essential amino acids mix
+
+  
+  
+D4, D8, D12, D16, D20, D24, D28  
+Perform 100% media changes every 4 days by centrifuging the cell suspensions
+at 300xg for 5 minutes, discarding the supernatant and resuspending cells in
+their respective growth medias.
+
+D14, D16, D18, D20, D22, D24, D26, D28, D30  
+After cells have been in suspension for 2 weeks, begin sampling every 2 days
+for live/dead staining and counting. Cell counts are performed by centrifuging
+suspensions at 300xg for 5 min and then resuspending in 500ul. 20ul samples
+are then taken for counting using a Hoechst/Propidium iodine staining
+protocol. On non-feed days, medium can be retained and returned to cells after
+the count. Ideally, this process will be completed using the newly developed
+OT2 protocol.
+
+  
+
+  
+
+

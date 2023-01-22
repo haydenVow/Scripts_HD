@@ -1,0 +1,148 @@
+Performed by:
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+112981  
+FS1  
+Feed with 2 g/L glucose & 2 mM ala-gln every 48h from D3 onwards (inclusive of
+D3). Exclusively on D3, Ala-gln will be topped up with 3mM. Main lab, #159
+(top shaking incubator)  
+212982  
+  
+312983  
+412984  
+512985FS2  
+Feed with 3 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+612986  
+712987  
+812988  
+912989FS3  
+Feed with 2 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+1012990  
+1112991  
+1212992  
+1312993FS4  
+Feed with 2 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 4.5 g/L  
+  
+1412994  
+1512995  
+1612996  
+1712997FS5  
+Feed with 4 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 3 g/L  
+  
+1812998  
+1912999  
+2013000  
+2113001  
+Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and HT)  
+2213002  
+  
+2313003  
+  
+2413004  
+  
+2513005  
+Control2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and without HT)  
+  
+2613006  
+  
+2713007  
+  
+2813008  
+
+
+Counting & sampling process
+  
+  
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 510 uL samples from each flask into ViCell counting cups
+  3. Put aside any cups with samples from flasks #13-20 for glucose testing
+  4. Loaded all other samples into ViCell carousel for counting. 
+  5. Repeated steps 1-4 twice more with remaining flasks in a batch of 10, then 8
+  6. Tested glucose levels in samples from flasks #13-20 using Accu-Chek Instant S blood glucose meter:
+    1. Insert the metallic end of a test strip into the meter. The meter will turn on. 
+    2. When a flashing drop symbol appeared, took 1 x 5 uL sample from 510 uL aliquot using P20 pipette 
+    3. Ejected drop onto gloved fingertip (to mimic a drop of blood when doing a finger prick test) 
+    4. Touch the yellow edge of the test strip to the drop of media. Remove your finger from the test strip when the flashing hourglass symbol appears. Do not put sample on top of the test strip.
+    5. Copy value into table below
+
+
+Feeding process
+
+  1.  ~~For flasks 13-16 recording 4.5 g/L or less:~~
+  2.  ~~Added glucose stock solution to bring glucose levels up to 7.4 g/L (75 uL = 1 g/L)~~
+  3.  ~~For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up.  ~~
+    1.  ~~If 1 day has passed, add 150 uL per flask (1 mM)~~
+    2.  ~~If 2 days have passed, add 300 uL per flask (2 mM)  ~~
+    3.  ~~If 3 days have passed, add 450 uL per flask (3 mM)~~
+    4.  ~~Etc.~~
+  4.  ~~For flasks 17-20 recording 3 g/L or less:~~
+    1.  ~~Added glucose stock solution to bring glucose levels up to 7.4 g/L (75 uL = 1 g/L)~~
+    2.  ~~For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up.  ~~
+      1.  ~~If 1 day has passed, add 150 uL per flask (1 mM)~~
+      2.  ~~If 2 days have passed, add 300 uL per flask (2 mM)  ~~
+      3.  ~~If 3 days have passed, add 450 uL per flask (3 mM)~~
+      4.  ~~Etc.~~
+  5. Recorded which flasks were fed in table below
+
+
+Results
+
+
+  
+
+Flask #ConditionGlucose reading (mM)Glucose reading (g/L)  
+Notes/observationsg/L glucose added  
+(if none added write N/A)mM ala-gln added  
+(if none added write N/A)  
+  
+13FS4E-3  
+"your blood glucose may be extremely high or a meter or a test strip error has
+occurred"  
+N/AN/A  
+14FS432.65.86  
+  
+  
+15FS432.75.88  
+  
+  
+16FS4E-3  
+"your blood glucose may be extremely high or a meter or a test strip error has
+occurred"  
+  
+17FS5HI>6  
+  
+  
+18FS5HI>6  
+  
+  
+19FS5HI>6  
+  
+20FS5HI>6  
+  
+  
+4FS1HI>6  
+  
+  
+5FS233.35.99  
+  
+10FS3HI>6  
+  
+  
+21CTRL121.03.78  
+  
+27CTRL 223.74.26  
+
+
+Accu Chek manual

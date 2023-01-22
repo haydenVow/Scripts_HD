@@ -1,0 +1,28 @@
+
+
+## Completed by: AK
+
+
+
+
+Single cell cloning (SCC) is the process by which a single cell is isolated
+from a multiclonal or heterogonous population of cells to generate a clonal
+population that is genetically identical [1]. Traditional SCC protocols used
+at Vow are characterised by FACS sorting individual cells into separate wells
+of a 384-well plate, such that any population derived from those cells are
+classified as "clonal". Wherein, each daughter cell originates from a single
+parent cell and are thus genetically identical. However this attempt at SCC
+intends to utilise the best performing DOLLY12 fibroblast cells that have been
+in suspension culture > 40 days and sort individual cells into ULA 384 well
+plates. ULA plates and coatings are designed to prevent cell adhesion onto
+culture-ware surfaces. The rationale is that by utilising fibroblast cells
+that have been growing
+
+  
+
+References:
+
+[1] Longo, P.A., Kavran, J.M., Kim, M.S. and Leahy, D.J., 2014. Single cell
+cloning of a stable mammalian cell line. Methods Enzymol, 536, pp.165-172.  
+
+

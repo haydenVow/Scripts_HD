@@ -1,0 +1,244 @@
+
+
+REPORT
+
+Key Results
+
+  1. Plastic adherent populations of cells were established by digesting crocodile muscle tissue with collagenase + dispase at 30°C.
+  2. Plastic adherent populations of cells were established by digesting crocodile muscle tissue with collagenase and dispase at 37°C. 
+  3. Plastic adherent populations of cells were established by digesting crocodile muscle tissue with trypsin at 30°C.
+  4. We were were unable to establish a plastic adherent population of cells from outgrowth culture of macerated muscle tissue.
+  5. Plastic adherent CHOMP cells showed a greater rate of proliferation when cultured at 30°C compared to at 37°C. 
+  6. Plastic adherent CHOMP cells will showed a greater rate of proliferation when cultured in DMEM/F12 based media compared to those cultures in M199 based media.
+  7. 2 Cell lines, CHOMP07 and CHOMP9 were expanded to MCBs of 12.5 and 13M cells respectively.   
+  
+Biopsy ID Digestion MethodMediaCulture tempAdherent population emerged MCB
+generated  
+CHOMP06Outgrowth DMEM/F12 +20% FBS + 1x P/S37°CNoNo  
+DMEM/F12 +20% FBS + 1x P/S  
+30°C  
+  
+
+No
+
+  
+
+No  
+  
+M199 +20% FBS + 1x P/S  
+30°C  
+NoNo  
+CHOMP07  
+Trypsin digestion 30°CDMEM/F12 +20% FBS + 1x P/S  
+37°C  
+NoNo  
+DMEM/F12 +20% FBS + 1x P/S  
+30°C  
+YesYes  
+M199 +20% FBS + 1x P/S  
+30°C  
+YesNo  
+CHOMP08  
+Collagenase + dispase digestion 37°C  
+DMEM/F12 +20% FBS + 1x P/S  
+37°C  
+YesNo  
+CHOMP09  
+  
+Collagenase + dispase digestion 30°C  
+DMEM/F12 +20% FBS + 1x P/S  
+37°C  
+NoNo  
+DMEM/F12 +20% FBS + 1x P/S  
+30°C  
+YesYes  
+M199 +20% FBS + 1x P/S  
+30°C  
+YesNo  
+
+Discussion  
+
+Cell isolation protocols  
+We have demonstrated the successful isolation, culture and expansion of
+plastic adherent crocodile cells using 2 different cell isolation protocols.
+The first being a collagenases + dispase digestion protocol performed 30°C,
+and the 2nd being a trypsin digestion protocol, also performed at 30°C. Except
+for lowering the digesting temperature from 37°C to 30°C , the collagenase +
+dispase process performed was identical to Vows existing cell isolation
+protocol, which is routinely used at Vow for the isolation of satellite cells
+and fibroblasts from mammalian muscle tissue. The trypsin digestion protocol
+was adapted from previously published examples reporting reptilian cell
+isolations via the incubation of tissue in trypsin-EDTA (Mansell, Jacobson,
+Gaskin, & biology, 1989; Xu et al., 2018). If CHOMP07 continues to perform as
+well as CHOMP09 with continued expansion to WCB, it may be beneficial to use
+the trypsin isolation protocol instead of the collagenase + dispase digestion
+for future reptilian cell isolations. The trypsin based procedure is simpler
+and less time consuming than the collagenase + dispase, which would allow
+scientists to process more biopsies in the same amount of time, increasing the
+diversity of our cell banks.
+
+Failure of outgrowth cultures  
+Our attempts to establish a culture of adherent cells from dermal tissue
+outgrowths was not successful. This is despite the fact that the successful
+culture of reptilian cells following similar methods has being extensively
+reported (Clark et al., 1970; Ezaz et al., 2008; Fukuda et al., 2018; Kawai et
+al., 2007; Moghanjoghi et al., 2018; Work, Dagenais, Weatherby, Balazs, &
+Ackermann, 2017). It would be of benefit for Vow to obtain fibroblast cells
+from a range of tissues, including muscle and dermal tissue, in order to
+increase the diversity of our cell stocks. Outgrowth culture should therefore
+be re-attempted in future.  Alternative methods could be investigated, such as
+a combinatory approach involving partial digestion of dermal tissue prior to
+plating. In theory, this may allow easier migration of cells from the tissue,
+facilitating attachment to the culture vessel.
+
+Media optimisation  
+This study showed a marked difference in cell proliferation between cells
+cultured in DMEM/F12 based media compared to M199 based media. This may
+partially account for our failure to establish an adherent cell population
+from our first CHOMP biopsies, which were cultured in M199. See lab book here:
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzU2My4zfDEwNjMxNy8yNzQxLTIwNTcwL1RyZWVOb2RlLzI5NTk4NjQ2Mzh8OTA0NS4z.
+While it is clear that DMEM/F12 + 20% FBS + 1 x P/S supports greater rates of
+proliferation of adherent CHOMP cells than M199 + 20% FBS + 1 x P/S, it is
+likely that further media optimisation would facilitate even greater
+performance by these cells. Performing a proliferation assay comparing a
+variety of growth medias, would allow us to gain further insight into the
+optimal culture conditions for these cells. Growth medias used in the
+literature for the culture of reptilian primary cell lines include bases of
+DMEM only, DMEM/F12, MEM, Hams12 and EBM along with the addition of 10-20% FBS
+and other additives such as fish serums and embryo extracts, bFGF and NEAAs
+(see literature review in the background section of this experiment)
+
+Culture temperature  
+It is unsurprising that CHOMP cells had a greater rate of proliferation, and
+shorter cell doubling times when cultured at 30°C compared to 37°C.  Reptile
+cells generally require lower culture temperatures than mammalian cells, with
+an approximate correlation between the species natural climate and the optimal
+culture temperature (Clark, Cohen, Karzon, & Medicine, 1970; Herbst, Sundberg,
+Shultz, Gray, & Klein, 1998).
+
+Delayed attachment to culture plastic  
+We found that CHOMP cells took a long time (up to 8 days) to adhere to culture
+plastic. This indicates that these cells were able to survive while unattached
+to the culture vessel for several days. It is hoped that this natural
+tolerance for being in suspension, may make these cells more amenable to
+suspension culture. CHOMP cells should therefore be expanded to WCBs as soon
+as possible so that they can be used by the science team for suspension
+experiments.
+
+Limitations
+
+After performing the 37°C collagenase + dispase digestion protocol, cells were
+culture in one condition only, which was DMEM/F12 +20% FBS + 1x P/S media,
+incubated at 37°C. As we now know that CHOMP cells grow much better at 30°C
+compared to 37°C, it is unclear if this culture failed  to thrive due to the
+high incubation temperature, or because the 37°C digestion temperature itself
+was detrimental to the cells. We believe however that it is likely to be a
+combination of both of these factors.  
+  
+Only 2 media compositions were trialled in this study. As mentioned above, and
+in the literature review located in the background section for this
+experiment, reptilian cells have reportedly been cultured in a broad range of
+media formulations and the 2 medias selected for this study may not be optimal
+for Salt Water Crocodile cells specifically.  
+  
+We were unable to obtain an adherent cell population from our dermal outgrowth
+culture, limiting us to muscle derived cells, and restricting the diversity of
+our cell banks.
+
+Conclusions  
+For the first time in Vows history, we have successfully isolate, culture and
+expand plastic adherent reptilian cells. We were able to do this following 2
+distinct protocols, which were developed in house by adapting previously
+published methods (see review in background section). We saw that DMEM/F12
+based media was more suitable than M199 based medias for these cells, and that
+a culture temperature of  30°C is preferred to 37°C.  Further optimisation of
+cell culture conditions should be performed (as discussed below). As our
+dermal cultures failed, methods for dermal outgrowth  will need to be further
+developed if Vow would like to add these cells to their arsenal in future.  
+  
+Future Directions  
+ The CHOMP07 and CHOMP09 MCBs banked will need to be expanded to WCBs for use
+by the Production and Science teams. Production have requested banks of >300M
+cells for each of these cell lines. During this expansion, the cell lines
+should be tracked and compared in terms of cells morphology and doubling
+times. This will allow us to make inferences about which of the two cell
+isolation protocols resulted produced the healthiest, and most prolific cell
+line.  
+  
+To further understand the differences between our CHOMP07 and CHOMP09 lines, a
+proliferation assay should be performed to compare their growth rates/ cell
+doubling times. Additionally, pa proliferation assay will provide the
+opportunity to compare the affects of different media formulations on cell
+proliferation. As discussed, a broad range of medias have been reportedly used
+for the culture of adherent reptilian cells (see literature review in the
+background section of this experiment). Media optimisation for Salt Water
+Crocodile cells specifically may facilitate greater survival and proliferation
+of our CHOMP cells.  
+  
+The development of effective outgrowth culture methods would allow us to
+diversify our cell banks to include dermal fibroblasts, in addition to our
+muscle derived fibroblast cells. Outgrowth should therefore be re-attempted
+when biopsies are next collected. As an example, more finely macerating, or
+partially enzymatically digesting tissue prior to plating may aid cell
+migration from the tissue, and facilitate cell detachment to the culture
+vessel.
+
+Here we found that CHOMP cells took a long time (up to 8 days) to adhere to
+culture plastic, and that adherent cell populations could be established from
+tissue digested with collagenase + dispase at 37°C. It is therefore possible
+that the cells isolated from our initial CHOMP biopsy (see lab book here:
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzU2NS45fDEwNjMxNy8yNzQzLTIwNTc0L1RyZWVOb2RlLzE1ODg4OTMwNzN8OTA1MS45)
+are viable but that they were not cultured for long enough to adhere to the
+plastic during the initial thaw (see lab book here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzYyNy4wfDEwNjMxNy8yNzkwLTIwODg1L1RyZWVOb2RlLzM0MjMxMTgwNjJ8OTIwNy4w).
+These cells were also initially cultured in M199 based media, which we now
+know is not optimal for CHOMP cells. We will therefore trial thawing more
+CHOMP01-05 isolate, and culturing at 30°C in DMEM/F12 based media to assess
+viability and proliferative capacity.
+
+REFERENCES
+
+Clark, H. F., Cohen, M. M., Karzon, D. T. J. P. o. t. S. f. E. B., & Medicine.
+(1970). Characterization of reptilian cell lines established at incubation
+temperatures of 23 to 36. 133(3), 1039-1047.
+
+Ezaz, T., O'Meally, D., Quinn, A. E., Sarre, S. D., Georges, A., & Graves, J.
+A. M. J. C. (2008). A simple non-invasive protocol to establish primary cell
+lines from tail and toe explants for cytogenetic studies in Australian dragon
+lizards (Squamata: Agamidae). 58(3), 135-139.
+
+Fukuda, T., Eitsuka, T., Donai, K., Kurita, M., Saito, T., Okamoto, H., . . .
+Uchida, T. J. S. r. (2018). Expression of human mutant cyclin dependent kinase
+4, Cyclin D and telomerase extends the life span but does not immortalize
+fibroblasts derived from loggerhead sea turtle (Caretta caretta). 8(1), 1-15.
+
+Herbst, L. H., Sundberg, J. P., Shultz, L. D., Gray, B. A., & Klein, P. A. J.
+C. M. (1998). Tumorigenicity of green turtle fibropapilloma-derived fibroblast
+lines in immunodeficient mice. 48(2), 162-167.
+
+Kawai, A., Nishida-Umehara, C., Ishijima, J., Tsuda, Y., Ota, H., Matsuda, Y.
+J. C., & research, g. (2007). Different origins of bird and reptile sex
+chromosomes inferred from comparative mapping of chicken Z-linked genes.
+117(1-4), 92-102.
+
+Mansell, J. L., Jacobson, E. R., Gaskin, J. M. J. I. v. c., & biology, d.
+(1989). Initiation and ultrastructure of a reptilian fibroblast cell line
+obtained from cutaneous fibropapillomas of the green turtle, Chelonia mydas.
+25(11), 1062-1064.
+
+Moghanjoghi, S. M., Ganjibakhsh, M., Gohari, N. S., Izadpanah, M., Rahmati,
+H., Gorji, Z. E., . . . Farzaneh, P. J. C. (2018). Establishment and
+characterization of rough-tailed gecko original tail cells. 70(5), 1337-1347.
+
+Work, T. M., Dagenais, J., Weatherby, T. M., Balazs, G. H., & Ackermann, M. J.
+J. o. V. (2017). In vitro replication of chelonid herpesvirus 5 in organotypic
+skin cultures from Hawaiian green turtles (Chelonia mydas). 91(17),
+e00404-00417.
+
+Xu, H., Zhu, X., Li, W., Tang, Z., Zhao, Y., & Wu, X. J. J. o. c. b. (2018).
+Isolation and in vitro culture of ovarian stem cells in Chinese soft‐shell
+turtle (Pelodiscus sinensis). 119(9), 7667-7677.
+
+

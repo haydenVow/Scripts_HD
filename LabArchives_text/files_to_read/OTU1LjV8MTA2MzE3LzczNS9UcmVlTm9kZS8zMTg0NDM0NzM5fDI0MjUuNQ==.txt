@@ -1,0 +1,187 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6628  
+2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Changed oxygen control strategy to minimize foaming:
+
+  1. Opened "pO2" menu.
+  2. Set each "N2", "O2" parameters to "0" for all 5 "OUT" levels (0 - 100%)
+  3. Set "STIRR" to "90 RPM" for all 5 "OUT" levels
+  4. Set "Air" to "0" for 0% "OUT" level, and "20 ccm" for all other "OUT" levels
+  5. Set "MODE" to "AUTOMATIC"
+
+
+
+
+Fed the culture
+
+  1. Opened the "SUBS-B" pump menu (SUBS-B was attached to the growth medium feed bottle)
+  2. Opened the "TOTALIZER" sub-menu
+  3. Set "MODE" to "MANUAL: ON"
+  4. Started timer
+  5. Monitored totalizer value and timer
+  6. After ~20 minutes elapsed and a volume of ~400 mL had been transferred, turned "MODE" to "AUTOMATIC"
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp14:41 - 15:01  
+  
+NotesOnly required if not automated. 500 mL for a day 2 feed, 1000 mL for a
+day 4 feed.  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connecedt a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew sample.
+  7. Disconnected sample syringe and transferred sample to vessel(s) for subsequent analysis.
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp14:45  
+  
+NotesTook 3 mL  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Transferred the aliquot(s) to a well on a 96 well plate and mixed it with 80-90uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342.
+  2. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 33 minutes.  `| 14:50 - 15:23 |`
+  3. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  4. Using https://mia-capture.vow.tools/#/, 1 set of images using the DAPI and PHASE channels were captured for each well `| 15:25 - 15:35|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  5. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  6. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+Programmed the feed for weekend. To program the pump to turn on after 2 days
+(48 hours) for 40 minutes (~800 mL at ~20 mL/minute), followed the
+instructions below:  
+
+  1. Opened the SUBS-B pump menu
+  2. Changed the SUBS-B MODE to MANUAL:OFF  
+
+  3. Opened the PROFILE sub-menu
+  4. Set a timepoint for 000:00:00 with 0% pump output.
+  5. Set a timepoint for 048:00:00 with 0% pump output.  
+
+  6. Set a timepoint for 048:00:01 with 100% pump output.
+  7. Set a timepoint for 048:40:00 with 100% pump output.
+  8. Set a timepoint for 048:40:01 with 0% pump output.
+  9. Changed the SUBS-B MODE to PROFILE
+  10. Closed the menu  
+
+
+
+
+### Observations/Summary:
+
+There was a ~30 mm layer of foam on top of the liquid surface at the
+commencement of this procedure. After changing the oxygenation strategy to
+only gas when the pO2 dropped below 90%, the gas flow stopped and the foam
+dissipated.  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+  
+dPBS Not used  
+Not used  
+  
+Poloxomer 88Not used  
+Not used  
+  
+Hoechst 33342Not used  
+Not used  
+  
+Growth medium  
+M4693  
+400 mL  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See images from session: https://mia-
+capture.vow.tools/#/session/rech05YADTjKyFohm/images#group2
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2  
+  
+V3  
+  
+  
+  
+
+

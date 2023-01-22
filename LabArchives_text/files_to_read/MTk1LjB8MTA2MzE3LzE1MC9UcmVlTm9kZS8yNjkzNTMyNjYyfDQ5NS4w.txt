@@ -1,0 +1,100 @@
+
+
+Experimental Plan/Timeline
+
+Which media to test? 10C, 11C, 11E, 9C, Serum control
+
+  1. 12-April-2021 Preparation of zein (3SP) 
+  2.  ~~13-April-2021 Thaw 3 vials of cells (2 SP)  ~~(receiving cells expanded by cell expansion team)
+  3.  ~~14-April-2021 50% feed flasks (1 SP)~~
+  4.  ~~16-April-2021 Passage flasks into 4CFs (serum) (3 SP)~~
+  5. 15-April-2021 Receive cells from cell expansion team 
+  6. 15-April-2021 Make up 2L x E8, then 2 L x 9C medium (put aside 200 mL of 9C without lipids to make up other ACF iterations) (2 SP)
+  7. 15-April-2021 Make up 50 mL each of 10C, 11E, 11B & 9C
+  8. 16-April-2021 Plate zein samples
+  9. 16-April-2021 100% media change with ACF (9C) medium
+  10. SAT 17-April-2021 50% media change T175s with serum-medium
+  11. SUN 18-April-2021 50% media change 4CF with 9C medium
+  12. 19-April (Day 0) Harvest flasks & seed scaffolds (0.8M cells/scaffold) (3-5 SP)
+  13. 20-April-2021 (Day 1) Move 1/2 seeded scaffolds to 1 x 24-well-plate and 100% feed with ACF (1 SP)
+  14. 20-April-2021 (Day 1) Fix, DAPI stain & image remaining seeded scaffolds to assess adhesion (2 SP)
+  15. 20-April-2021 (Day 1) Calculate seeding efficiency (tryplisation and count from base of wells, subtracted from initial seed density) (1-2 SP) 
+  16. 21-April-2021 (Day 2) Fix, DAPI stain and Image at least n=1 sample from each condition, if cells appear confluent and there is a good cell coverage across the material/scaffold surface then these cells are ready for transition to E6, see next step
+  17. 22-April-2021 (Day 0 Diff) 100% feed of samples with E6 media (if above step applies, if not may leave the cells in growth media for a couple days longer and try again, if no proliferation observed the experiment would be ended early)
+  18. 23-April-2021 (Day 1 Diff) 100% E6 Feed
+  19. SAT 24-April-2021 (Day 2 Diff) \- 100% E6 Feed
+  20. SUN 25-April-2021 (Day 3 Diff) \- 100% E6 Feed
+  21. 26-April-2021 (Day 4 Diff) \- 100% E6 Feed
+  22. SAT 17-April-2021 (Day 5 Diff) \- 100% E6 Feed
+  23. SUN 28-April-2021 (Day 6 Diff) \- 100% E6 Feed
+  24. 29-Arpil-2021 (Day 7 Diff) \- Fix, DAPI, MyoD stain, MyoG (?) stain
+  25. Analyse and interpret based on images for each condition
+  26. Report write up
+
+
+
+
+12-April-2021 Preparation of zein (3SP)
+
+  1. Dissolve zein powder in a 1:5 w/v conc. in 80% ethanol solution (using stir bar at room temp) (20-60 mins)
+  2. Add 200 uL of sterile MilliQ water to each well of 3 x 96WPs 
+  3. Add 50 uL of zein solution to the water in each well of 3 x 96WPs
+  4. Leave zein to precipitate for ~1H (monitor throughout) 
+  5. Once zein has formed a skin that can be manipulated with tweezers, separate from the edges of wells with sterile spatula and then use sterile tweezers to transport to a plate containing DMEM 
+  6. Parafilm plate once you had ~50 scaffolds in 10 mL of DMEM and store (labelled) in fridge 
+
+
+
+
+13-April-2021: monitor zein drying to determine optimal drying time before
+seeding  
+
+  1. Move 2 pieces of zein from DMEM to 2 wells of 96WP 
+  2. Remove supernatant off of each piece
+  3. Monitor throughout the day
+  4. How dry do they get after 2hrs, 4hrs, 5hrs? Write observations and take image on phone/tablet.
+  5. At end of day remove 2 more pieces of zein from media, remove supernatant and leave in a plate with the lid ajar to dry overnight
+  6. Observe next morning. Write observations and take image on phone/tablet.
+
+
+
+
+15-April-2021 Receive cells from cell expansion team
+
+  1. Receiving cells passaged on Monday from cell expansion team 
+  2. Need 25.6M in ACF for Monday (2 x 4CFs seeded low-ish?) 
+  3. Need 6.4M in serum for Monday (5-6 x T175s?)
+
+
+
+
+15-April-2021 Make up 2 L x E8 and then make into 9C (without lipids)
+
+Quick calculations (how much ACF to make)
+
+ACF (9C) If I do a 100% feed on Friday, I need (600x2) + (300x2) mL of 9C =
+1.8 L
+
+ACF needs for: equilibrating (200 uL per scaffold = 48 x 200 = 9.9 mL),
+seeding (9.9 mL) and feeding (48 mL) = 67.8 mL + error = 75 mL  
+
+Put aside 200 mL of 9C before adding lipids to make up other ACF iterations
+for equilibrating, seeding and feeding.
+
+E8 and 11E/ACF calculator:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=0
+
+  1. Make 2 L of E8 according to calculator linked above (no need to filter - make in 2 L Schott bottle?) 
+  2. Add ingredients to make into 9C (do not add lipids) 
+  3. Pour into 2 x 1 L 0.2 um sterile filter units and filter 
+  4. Pipette 200 mL of 9C medium into a sterile 250 mL pot (for making up ACF iterations for seeding scaffolds)
+  5. Add lipids to 1.8 L x filtered 9C medium 
+
+
+
+
+15-April-2021 Make up 50 mL of each 10C, 11B & 11E
+
+  
+
+

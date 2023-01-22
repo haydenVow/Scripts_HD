@@ -1,0 +1,139 @@
+
+
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer  
+  
+dPBS  
+  
+PBST  
+  
+  
+Secondary Antibody Mixs1966, 172  
+  
+DAPI (1:1000)M966  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  0.5 µL   Secondary #1   (1:1000  ) +  0.5 µL   Secondary #2   (1:1000  ) +
+0.5  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+   0.5 mL  PBS +    0.5 uL  of DAPI (1:1000)
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+Mouse Anti-MyoG (IgG1) MyoG  
+IgG1  
+1:200  
+Goat Anti-Mouse (IgG1)  
+1:1000  
+  
+Mouse Anti-MF20 (IgG2b) MF20  
+IgG2b)  
+1:50  
+Goat Anti-Mouse (IgG2b)  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ : - : pm
+
+ : - : pm
+
+ : - : pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  : - : pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  : pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+: pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+: pm
+
+: pm
+
+4\.  Replaced dPBS.
+
+: pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+na
+
+
+
+
+Relevant Images/Figures (if applicable):na
+
+  
+
+

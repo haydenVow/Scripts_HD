@@ -1,0 +1,39 @@
+
+
+Culture IDs: 6370, 6368
+
+Imaging:
+
+  1.  Removed plates 6370 and 6368 from 4 degrees conditions to image. Plates had been primary and secondary stained the day prior.  
+
+  2. Set up MIA capture imaging session with alternating images on DAPI and AF 555 channels using the 10X objective.  
+
+  3. All 6 wells one each plate were imaged.
+  4. The Axio microscope failed to capture fluorescent spots on AF488 and AF555 channels, hence each of the primary and secondary stain reagents were checked to ensure no errors in the staining process had occured to generate no signal.
+  5. It was hypothesised that perhaps the lower intensity of the lamp on the Axio microscope library lab was the cause of no signal being visible
+  6. Zaber 1 was used with a high lamp intensity to investigate any signals present.
+  7. Upon detection of MF20 and MYOG signals on both AF488 AND AF555 channels, Zaber 1 was used to capture images with a higher lamp intensity succesfully with the following settings.
+  8. 488 Exposure: 200
+  9. 555 Exposure: 400
+  10. DAPI Exposure: 10  
+
+
+
+
+11\. Low amounts of MF20 signal were observed despite adjusting both lamp
+intensity and exposure settings on the Zaber and it was hypothesised that this
+was due to the premature fixing of the plates on Day 6 of differentiation.
+
+
+
+
+Individual color channels were extracted from the fused images in the zip file
+above.
+
+Plate 6370
+
+  
+
+  
+
+

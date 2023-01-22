@@ -1,0 +1,31 @@
+
+
+## Completed by: Bec Screnci
+
+
+Background
+
+
+A recent Mosa meat blog indicated their use of an f-actin (filamentous actin)
+stain to demonstrate the cytoskeleton of their muscle fibers.
+
+Snip from Mosa meat's blog showing their f-actin stain (Green), myosin heavy
+chain (red) and DAPI (blue), demonstrating the cytoskeletal structure of the
+fibers.
+
+
+
+Currently, Vow has staining capabilities for immunofluorescence using
+antibodies that will mark transcription factors MyoD, Pax7, MyoG and the
+cytoskeletal protein marker Myosin heavy chain. Myosin heavy chain, stained
+for with an anti-MF20 antibody, is commonly used to visualise myotube
+formation. However, it produces a weak signal when conjugated to an AF555
+secondary antibody. This results in difficulty understanding the cytoskeletal
+structures such as striations seen along myotubes. Filamentous actin (aka
+microfilaments) are proteinous components found universally in eukaryotic
+cytoskeletons. In this EPIC we aim to develop a suitable fluorescent stain for
+f-actin and assess its muscle-specificity.
+
+  
+
+

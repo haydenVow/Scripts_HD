@@ -1,0 +1,105 @@
+Performed by: LL
+Ranger info
+Flask IDConditionLocation  
+11953-Nuvonis Quail Suspension341-P-1of6  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGFMain lab,
+incubator 141  
+11954-Nuvonis Quail Suspension341-P-2of6  
+  
+11955-Nuvonis Quail Suspension341-P-3of6  
+  
+11956-Nuvonis Quail Suspension341-P-4of6  
+75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+11957-Nuvonis Quail Suspension341-P-5of6  
+  
+11958-Nuvonis Quail Suspension341-P-6of6  
+
+
+Reagent  
+ID  
+  
+RPMI Nuvonis suspension medium  
+M12499  
+  
+HyCell Nuvonis suspension medium  
+M12394  
+  
+IGF-1-LR3  
+M12475  
+  
+EGF  
+M12321  
+  
+  
+  
+
+
+Process
+
+
+  1. Aliquoted the following media (with growth factors): 
+    1. 60 mL x 50/50 
+    2. 60 mL x 75/25 
+  2. Placed media in waterbath to warm 
+  3. Took 2 x 550 uL samples from each flask 
+  4. Performed cell counts using ViCell and recorded in table below, along with observations on cell morphology, clumping etc. 
+  5. Transferred 4M cells from each culture into 6 x 50 mL tubes (seeding at double what we usually do because ViCell counts are about double manual counts)
+  6. Centrifuged at 500 x g for 5 min
+  7. While centrifuge was running, washed E-flasks with sterile dPBS
+  8. Aspirated supenatants 
+  9. Added 20 mL of respective media to each tube 
+  10. Re-suspended cells in media 
+  11. Strained cell suspension with 40 um cell strainer and returned to E-flasks
+  12. Placed in incubator (37'C, 5%CO2, 120 RPM) 
+
+
+Counts & observations
+Flask IDFlask count  
+Ave flask count  
+Ave condition countCommentsMedia condition  
+  
+11953  
+10,160,000  
+  
+  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+  
+  
+1195413,180,000  
+12,910,000  
+  
+  
+12,640,000  
+  
+1195510,920,000  
+11,050,000  
+  
+  
+11,180,000  
+  
+1195611,140,000  
+10,440,000  
+  
+  
+75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+9,740,000  
+  
+11957  
+12,880,000  
+  
+  
+  
+  
+1195811,780,000  
+11,540,000  
+  
+  
+11,300,000  
+
+

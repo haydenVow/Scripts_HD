@@ -1,0 +1,29 @@
+Discussion of Results
+
+
+Context/Background
+
+The primary purpose of this experiment was to provide training for members on
+the team technology group to operate a single use bioreactor, from setup to
+shutdown, and ultimately seed it with cultures. Given that the Nuvonis
+suspension cells were still in process of expansion at this point, CHO-S cells
+were utilised instead. These cells were expanded prior to bioreactor
+inoculation and once at a suitable density they were seeded directly into the
+Mobius 3L system. The cells were cultured over a period of 5 days, with
+samples intermittently retrieved to gauge culture performance, with the run
+eventually terminated on day 6.
+
+  
+
+Key learnings:
+
+  * As exemplified in figure 1, the first 4 days of the CHO-S bioreactor run were characterised by exponential growth. From an initial seeding of 136 million, the cells had doubled a total of 5.42 times at a doubling time of 17.7 hours for a count of 5.83 billion. Post day 4 samples highlighted that the cells entered a large phase and eventually decreased in numbers from day 5 onwards. At this point the bioreactor run was terminated and the cells harvested. The loss in cell viability is likely due to a depletion of growth media nutrients. Previous experiments with CHO-S cells have only cultured them in the same medium for 5 days. This study was the first in which the cells were kept in continuous culture for a period longer than 5 days, without any media replacement. 
+  * Across the time-course of the bioreactor run 2x 200 mL bottles of sodium bicarbonate (SB) solution were used. For context SB is used as a buffer used to ensure the pH of the growth medium is maintained at optimal levels, in this case a value of 7.5. However, in previous bioreactor runs only a small quantity has been required. During the process of cellular respiration, cells release carbon dioxide as a waste product, which decreases the pH of the solution, resulting in a more acidic environment. As soon as the pH probe detects a reading below the dead-band (an arbitrary value set by the controller) SB solution is pumped in to equilibrate the pH. However unbeknownst at the time was that the dead-band was set to a value of 0.05. In essence this meant whenever the pH drifted by a value of 0.05 from the setpoint (7.5) the control tower would immediately add in SB solution. Given such a small threshold, the system would routinely attempt to over-correct itself and therefore result in a substantial amount of SB being added.
+  * This particular batch of Mobius 3L units have a faulty leak for one of the seed lines. Wherein, the connection between the leur lock and the tubing is not sufficiently tight and as a result growth medium began to leak whilst it was pumped in. An intermediate solution to this was to cable tie the connection which was sufficient in negating the issue.
+  * Ensure any tubing that is fitted with clamps are unclamped before liquid is pumped through them. This may be obvious, however during this particular run the line that connected the media bottle to the bioreactor remained clamped whilst the pump was working. This resulted in media spraying out of one of the connectors, potentially contaminating the run. Fortunately agar streak plates prepared from samples retrieved directly from the bioreactor did not reveal any signs of contamination, however is critical to keep an eye out for this, particularly with more critical bioreactor runs.
+  * Ensure that any instructions relating to the bioreactor setup are as clear as possible. Despite having Tom overseeing the entire operation, at several instances certain setup steps were missed, as this was the first time the majority of the people were setting up a bioreactor. Baby-proof them as much as possible. 
+  * Centrifugation still remains to be an inefficient method of harvesting the CHO-S cells from the culture medium. Aliquots taken from the supernatant of samples centrifuged at 3000 x g revealed a portion of cells had not pelleted. A potential alternative method is using microfluidics devices developed by a lab group at UTS, however the principal researcher that could have assisted with this was submitting his PhD.
+
+Figure 1: Proliferation time-course of CHO-S in the Mobius 3L bioreactor
+
+

@@ -1,0 +1,151 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+To determine an optimal impeller tip speed (m/s) for Nuvonis suspension cells
+cultured in a stir-tank setting in 3:1 RPMI:Hycell media formulation
+
+
+Hypothesis
+
+
+Cells will demonstrate a preference for a particular tip speed (m/s)
+demonstrated by a faster doubling time at this speed
+
+
+Technical Gap
+
+
+Vow has successfully completed tech transfer of quail suspension cells
+purchased from Nuvonis for culturing and expanding cells in shake flasks.
+Minimal optimisation has been carried out for culture of quail suspension
+cells in bioreactor conditions including agitation and gas sparging. 'Tip
+speed' is a metric which describes the speed of the impeller in a stir-tank
+(the tip speed is equal to pi x diameter (m) x agitation (cycles per sec) to
+give a speed in m/sec). Impeller tip speed influences mixing time and oxygen
+transfer as well as how cells are kept in suspension. Usually tip speed
+(rather than agitation speed) is kept constant across scales. Optimisation is
+required to maximise mass transfer, and minimise shear force to cells. Thus,
+this experiment aims to compare the growth of quail suspension cells in the
+current best performing in-house media formulation across a range of impeller
+tip speeds.
+
+
+Method/Procedure
+
+
+Process
+
+  
+
+Day 0
+
+  1. Hydrate vessels overnight (over weekend)  
+    * Clean hardware with 70-80% EtOH. Do not spray directly into the vessel ports or onto the hardware. Spray onto sterile lint-free wipe only and wipe down
+    * Bring sterile vessels into BSC 
+    * Add 195mL media per vessel to hydrate (growth factors and anti-foam are not required at this stage)
+    * Ensure all openings and clamps are sealed before removing from the BSC
+    * Place vessels in hardware overnight or over weekend
+    * It is not necessary to open the run time software. This can be started on the day of inoculation. 
+
+Day 1
+
+  1. Turn on TCU (temperature control unit) before run set up or inoculation. Ensure temperature of TCU is set to 0degC
+  2. Open the run-time software and load the Vow_1 protocol. This protocol contains the essential steps for proper bioreactor set up. All parameters including agitation, gassing/sparging and control loops can be edited from the run-time software before starting
+  3. Connect the pH probes to the hardware
+  4. Load the bioreactors and engage all
+  5. Select the 'Process' tab -> 'Vow 1' -> locate the 'Conditioning and Calibration' tab -> select 'Stir speed on' step / phase -> right click 'Edit' -> select the RPMs that are being tested
+  6. Under the 'Set point' enter the following parameters: 200, 300, 400, 500 (RPM for the four bioreactors respectively)
+  7. Edit the volumes of the batch by selecting 'Vow 1' -> 'Volumes' -> 'Batch media' in the 'Components' table -> change the volume to 190 mL
+
+  8. Set up the reservoirs:
+
+    1. Select 'Process' -> 'Vow 1' -> 'Pumps A-E'
+
+    2. Assign the role of 'Pump A' as the feed (consisting of 3:1 R:H + GFs + antifoam)
+
+    3. Assign the role of 'Pump B' as the base (1M sodium bicarbonate)
+
+    4. Ensure the remainder of the pumps are marked as 'Not used'
+
+  9. Select 'Process' and explore around the screen to locate the 'Steps on days within phase' table and change the sample volume to 2 mL (1 mL x 2; once to purge the line and another to take the sample)
+
+  10. Delete any 'Calculated antifoam bolus' steps (as the AF will be added to the feed media at a higher concentration to dose the entire bioreactor volume during scheduled feeds)  
+
+  11. Start bioreactors
+  12. Enter spot calibration data using QR code and webcam -> Save data
+  13. Go to 'Bioreactor 1' -> select 'Borrow' -> choose all bioreactors and press 'Disengage' (make sure to remove the headplate and pH probe)
+  14. Fill Reservoirs A and B with feed media (+ GFs + antifoam) and base respectively inside a BSC, 20mL per reservoir
+  15. Return the vessels to the AMBR system and attach headplates and pH probe
+  16. Select 'Bioreactor 1' -> press 'Return' -> select 'All bioreactors' -> press 'Engage'
+    * Let the system warm up the media inside the vessel (may need to wait 20-30 mins for the 'Wait until at temperature' step)
+
+    * If it fails, select 'Failed bioreactors' -> then press 'Retry' (this will add in a duplicate step to repeat the failed step)
+
+    * For any step that takes too long, the wait time can be changed by going to 'Process' -> selecting the relevant step in the 'Conditioning and calibration' table (e.g. 'Check for pH drift') -> 'Edit' -> 'Timing' -> select 'Maximum wait time' (e.g. 2m, 5m) -> 'oKaY'
+
+    * To change the pH set point and dead band:
+
+    * Go to 'Process' -> 'Vow 1' -> 'Control loops' -> Edit 'pH lower' and 'pH upper'; from this menu, the CO2 gas flow rate can also be changed by editing the 'Maximum (mL / min)' - can be used to alter the rate at which the pH changes
+
+    * Go to 'Bioreactor 1' -> 'pH' -> 'Set' -> change set point
+
+  17. Sample 5mL from each bioreactor for pH offset calibration
+    1. Follow prompts to sample from each bioreactor. Draw 5mL and deposit in 50mL falcon tube
+    2. use offline pH probe to measure pH for each reactor
+    3. Follow prompts to enter offline pH calibration value for each reactor
+    4. allow system to calibrate pH before adding inoculum
+  18. Once pH is within spec, borrow bioreactors and add inocculum at 100k/mL (=20M cells in 10mL). This will bring total volume of reactor to 200mL
+  19. Return bioreactors and engage all
+  20. Follow prompts to sample 2mL from each bioreactor. Purge the line by drawing 1mL and discarding. Draw 1mL again and deposit into 1.5mL tube
+  21. Cell count offline and record
+
+Days 2-5
+
+  1. Follow prompts to sample 2mL from each bioreactor. Purge the line by drawing 1mL and discarding. Draw 1mL again and deposit into 1.5mL tube
+  2. Cell count offline and record
+
+Day 5
+
+  1. Packdown bioreactors
+  2.   
+
+
+
+
+Culture parameters & calculations:
+
+See bioprocess calculator for sums and formulae.
+
+Antifoam
+
+Previously used in 2, 200 and 2000L bioreactors at 1:10 000. Equates to 20uL
+in 200mL of media in each reactor. Feed schedule to offset x2 1mL draw every
+day will contain antifoam at a volume to dose the entire 200mL reactor volume
+(i.e. 20uL in every 2mL delivered, equates to 200uL antifoam in 20mL total
+feed/antifoam reservoir
+
+Air sparging
+
+Previously used 50L/min in 2000L reactor. This equates to 0.1 vvm (vvm =
+volume of air sparged per unit volume of growth media per minute, calculated
+by dividing airlfow rate (L/min) by total media volume (L)). e.g. 0.02 mL/min
+÷ 2L = 0.01
+
+0.1 vvm in 200mL scale is equal to 20mL/min flow rate
+
+Agitation
+
+RPMs to be tested: 150, 250, 350, 450 RPM. Previously used tip speeds used in
+2-2000L bioreactors include 0.2 - 0.7 m/s. AMBR250 manual recommends speeds
+between 150-500 RPM for mammalian cell culture.
+
+Above: from AMBR250 operation manual
+
+  
+
+

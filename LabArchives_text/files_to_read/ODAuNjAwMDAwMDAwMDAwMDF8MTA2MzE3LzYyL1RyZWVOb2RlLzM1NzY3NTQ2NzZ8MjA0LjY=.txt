@@ -1,0 +1,376 @@
+
+
+Please add any notes or useful info you find here. It does not have to
+immediately seem relevant, but anything that helps or that we should keep in
+mind, useful resources for hardware or information, contractors that can help
+us build things etc.
+
+\--> For every new comment, please insert a new Rich Text section
+
+  
+
+
+
+
+Prototype names:
+
+  1. Flo-rider
+  2. Un-sink-able
+  3. Titanic II (because the previous one had a hole)
+
+
+
+  1. "Factors" may include media components
+  2. Protein yield measurement is dependent on introduction of suitable (non-microscopy) analytical techniques to specifically assess cellular protein content.
+  3. Protein content of a cell is ~ 20%? https://www.ncbi.nlm.nih.gov/books/NBK21473/
+  4. For mature muscle, this may increase to 60%: https://www.ncbi.nlm.nih.gov/books/NBK218163/ 
+
+  
+
+
+
+
+shelves and trays for holding samples:
+
+  1. https://www.sigmaaldrich.com/catalog/product/sigma/p7481?lang=en&region=AU&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-5
+  2. https://www.sigmaaldrich.com/catalog/product/sigma/baf189830000?lang=en&region=AU&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-3
+  3. https://shop.pall.com/us/en/biotech/cell-culture/bioreactors/zidhw7uq21i
+
+## Multiplate bioreactor for adherent cell culture
+
+  * Closed and single-use to reduce risk of contamination
+  * 2D multiplate design allows easy scale up from traditional multitray systems
+  * Real-time control and monitoring ensures reproducibility and traceability
+  * Single-use closed bioreactor, from vessel to sensors, reduces risk of contamination
+  * Multiple sizes available to match the scale required
+  * Compatible with Pall's mPath™ benchtop bioreactor control tower
+
+The Xpansion multiplate bioreactor system is a closed, single-use system that
+has been specifically designed for the scale-up of shear-sensitive, adherent
+mammalian cells under controlled conditions. It is suitable for multiple
+applications but is especially well suited for seed train operations for the
+iCELLis® bioreactor as well as for adherent stem cell culture..
+
+The Xpansion bioreactor system was developed for efficient scale-up of
+traditional 2D cell cultures. The multiplate structure  
+is comprised of a large cell growth surface area (up to 122,400 cm2), while
+the compact design enables the elimination of the gas  
+phase between the plates. This gas phase is replaced by an automatically
+controlled aeration system via disposable pH and  
+dissolved oxygen (DO) sensors. Temperature monitoring and agitation control
+are also included.
+
+The Xpansion bioreactor system provides a similar microenvironment to a
+multitray stack but in a much more compact space and with fully automated
+environmental control. The 80 cm high Xpansion 200 bioreactor provides the
+same cell growth area as a 4 m high stack of multitray vessels.
+
+  
+
+The 80 cm high Xpansion 200 bioreactor provides the same cell growth area as a
+20 multitray vessels  
+  
+
+## System Overview
+
+### Single-Use Bioreactor with Stacked Multiplate Design
+
+Standard Cell Environment Preservation
+
+Similar to multitray stacks, cells adhere and grow on hydrophilized
+polystyrene plates and are harvested using a cell dissociation reagent.
+
+Because of its design, the system maintains the same environment as T-flasks
+or multitray stacks, and processes designed on these systems are easily
+adapted to the Xpansion system.
+
+Cell Culture Parameters (pH, DO) Control and Temperature Monitoring
+
+The Xpansion bioreactor head plate includes ports for single-use, optical,
+non-invasive measurement of pH and DO. Depending on the DO and pH measurement,
+gas regulation is activated via the controller according to users'
+requirements.
+
+Temperature is measured for monitoring via a PT100 reusable sensor installed
+in a thermowell of the bioreactor. Heating is provided by placing the
+consumable in an incubator or warm room.
+
+Aeration System
+
+Gas aeration occurs depending on user-specified pH and DO set-points measured
+using the pH and DO sensors. Gas from the controller enters the bioreactor and
+passes through thin silicone tubing placed in the central column formed by
+stacking the plates where it diffuses into the surrounding medium. The gas
+inlet and outlet include pre-installed hydrophobic aeration filters.
+
+The Xpansion bioreactor aeration system
+
+Homogenization by Medium Circulation
+
+Each plate contains 16 radial channels allowing medium to flow through and up
+the plates. The rotation of the impeller pushes the liquid upward, first
+vertically through the first plate channel, then horizontally over the plate,
+then up again to the second plate, etc.
+
+Circulation of culture medium throughout the Xpansion bioreactor plates
+
+
+
+
+can we use the T-flask lids (and sawed-off necks) to build our own gas
+equilibration membrane? Prob easier to just have a tubing connector with a
+membrane filter hooked up to it for now. Then we can later repurpose the
+tubing connector for perfusion (with gas-equilibrated media)
+
+  
+
+
+
+
+Connectors
+
+https://www.pacificlab.com.au/shop/connectors-1
+
+https://www.mcmaster.com/
+
+https://www.thomassci.com/Molecular-Diagnostics/Liquid-
+Handling/Reservoirs/_/Reagent-Reservoirs15?q=Reservoirs%20Automation
+
+https://ecatalog.corning.com/life-
+sciences/b2b/EUOther/en/Genomics-%26-Molecular-Biology/Automation-
+Consumables/Automation-Reservoirs/Axygen%C2%AE-Reagent-Reservoirs/p/RES-
+SW96-HP
+
+https://www.thermofisher.com/order/catalog/product/1200-1300#/1200-1300
+
+Sieves and vessels
+
+https://www.labfriend.com.au/test-sieves-200-x-50mm-1-to-125mm-5454
+
+https://shop.sciencefirst.com/fieldmaster/3024-sieve-set-20cm-diameter-with-
+lid-catchpan.html
+
+https://www.mydeal.com.au/gardenhome-metal-stainlesssteel-meaty-garden-riddle-
+soil-sieve-mesh-6mm-12mm-gb-3472773?gclid=CjwKCAjw6qqDBhB-
+EiwACBs6x7D0OBnjOWjKW9B6e_Jopme1pDhtK8fkdF1-GsyRExOUAFrntnhlchoCTFcQAvD_BwE
+
+https://www.thomassci.com/Laboratory-Supplies/Sieves/_/3-Diameter-ASTM-
+Stainless-Steel-Round-Test-Sieves?q=Sieve%20400
+
+https://www.pirtek.com.au/products  
+https://www.heyhey.com.au/products/soga-30l-stainless-steel-insulated-stock-
+pot-dispenser-hot-cold-beverage-container-with-
+tap?variant=12005036261412&currency=AUD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=CjwKCAjwjbCDBhAwEiwAiudByz6ZtQOU50jihe14MTeGF44laCrT7T7ktRCkile9bQx3AZVNXhpzvxoCPo0QAvD_BwE
+
+https://www.amazon.com.au/Prettyia-Portable-Stainless-Pallete-
+Painting/dp/B07MQ5NWZR/ref=asc_df_B07MQ5NWZR/?tag=googleshopdsk-22&linkCode=df0&hvadid=341774442466&hvpos=&hvnetw=g&hvrand=2189502668142773585&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000286&hvtargid=pla-758031076460&psc=1
+
+
+
+
+Alliance Tooling Company - CNC Tooling Manufacturing - Caringbah NSW
+
+https://www.dnb.com/business-directory/company-
+profiles.alliance_tooling_company_pty_limited.5a53dc8c732d97cf69182d6508459cd0.html
+
+Contact craig@alliancetooling.com.au
+
+Used previously for manufacturing pneumatic ventilator parts. Well priced.
+
+
+
+
+MAKER SPACE & CO
+
+12 Gerald St Marrickville - 13 min drive from Vow.  
+
+
+Membership covers access to wood and metal shop. $50 induction.
+
+Membership $280 a month or 5 day pass $250 which can be spread out over 3
+months.
+
+
+
+Digital fabrication not included in membership.
+
+Laser cutter (CO2 laser acrylic and thin wood) $25 per hour. $50 induction.  
+ CNC router $250 induction. $50 per hour.  
+  
+ Up to 4 (5 max) people per induction.
+
+
+
+https://www.makerspace.org.au/contact
+
+
+
+
+Mosa Meats patent for maturation bioreactor:
+
+https://www.robertyaman.com/blog/patent-analysis-mosa-meat-and-scalable-
+differentiation
+
+Patent Analysis: Mosa Meat and Scalable Differentiation
+
+Scalable Differentiation
+
+It is well known that scalability is one of the major challenges for cell-
+based meat. This can be further broken down into:
+
+  1. Scalable proliferation: Cells from livestock animals are generally much more difficult to culture than bacterial or fungal cells. In order to proliferate, animal cells tend to require specific nutrient compositions and growth factors, as well as an environment with certain pH levels, temperature, and oxygen content. Additionally, animal cells tend to require a surface to grow on, making it challenging to use the stirred-tank bioreactors traditionally used in other industries.
+
+  2. Scalable differentiation: Once there are enough cells, a further challenge is turning those cells into meat. A piece of meat involves many muscle fibers running in the same direction. These fibers are formed when multiple muscle precursor cells fuse together. One kind of solution to the scalable differentiation problem involves letting the fibers form on structure that emulates the role of bone or cartilage. However, this leads to the further challenges of seeding the cells homogeneously throughout the structure, and later harvesting the fibers which tend to want to stay on the structure.
+
+While the technology in this patent application doesn't attempt to solve the
+first problem, it does present a possible solution to scalable differentiation
+that mitigates the challenge of harvesting.
+
+## Cell Migration
+
+  
+
+I found the mechanics behind this technology somewhat confusing, so I'll start
+with an analogy. Imagine putting a small rubber band around the tip of your
+finger--the squeezing tension in the rubber band might cause it to roll from a
+thicker part of your finger to a thinner part of your finger. Given enough
+tension, it might roll off your finger completely.
+
+The culture vessel utilizes a similar phenomenon-the rubber band is like the
+cells and your finger like the vessel itself.
+
+During differentiation, muscle fibers link to form muscle tissue. These links
+create tension that pulls the muscle fibers together. The insight behind this
+new culture vessel design is that this tension can move the cell mass to a
+part of the culture vessel where it is easier to harvest the cells. The muscle
+fibers are formed at the base of a partial cone (the cone is referred to here
+as the inner wall, colored in green). Once the cells differentiate, the
+tension between the fibers moves the cells up the cone into a harvesting area
+(colored in purple), just like the rubber band moved to a thinner part of your
+finger.
+
+## The Culture Vessel
+
+The main component of the culture vessel is a circular trough where the cells
+are initially deposited. The cells are enclosed by a straight outer wall, and
+a slanted inner wall, which prevents the initial liquid from spilling. As the
+cells differentiate, tension forms between the cells and fibers. Since the
+mass of cells is encircling the inner wall of the trough, the tension moves
+the cells up the inner wall to the harvesting area
+
+A cross section of a single culture vessel. The complete vessel can be
+visualized by rotating the cross section about the dotted line. The cells
+begin in the trough, then migrate up the inner wall as they differentiate,
+eventually reaching the harvesting area.
+
+Figure 6 from the patent application, showing the inner pole around which the
+troughs sit. Each divot in the pole is a harvesting area. The groove marked by
+"152" is for sliding a blade during harvesting.
+
+The harvesting area is detachable from the rest of the vessel to make it
+easier to harvest the cells. There is a groove running from top to bottom of
+the harvesting area where the circular fiber can be sliced. Since the rings of
+tissue are held in place only by their grip, cutting them causes them to fall
+off easily.
+
+The system is scaled by increasing the number of culture vessels. Multiple
+culture vessels can be stacked around a single inner pole, and many of these
+stacks can be placed side-by-side.
+
+It's important to note that each vessel contains a very small number of cells
+[1]. If the troughs were too big, media would not be able to reach the insides
+of the cell mass, causing those cells to die. Therefore, in any production
+system at scale, there would likely be an extremely large number of these
+culture vessel stacks.
+
+## The Process
+
+To create meat using these vessels, Mosa Meat first deposits a cell mixture
+into the troughs. They can do this in a number of different ways. For example,
+they can slide tubes in between the stacks of culture vessels, and deposit the
+mixture over the outer walls. Alternatively, the inner pole itself can have
+holes through which they deposit the mixture. This has the added benefit of
+making it easier to provide media to the inner layer of cells later in the
+process.
+
+The initial cell mixture is made up of proliferated cells, plus a hydrogel
+[2]. Initially, the hydrogel is not crosslinked, which allows the mixture to
+be poured into the trough. After the mixture is in place, the hydrogel is
+crosslinked. Depending on which hydrogel is used, crosslinking can be achieved
+though heat, UV radiation, or some other method. The crosslinked chain then
+forms a scaffold in which cells can grow.
+
+A hydrogel is used as the scaffolding for a number of reasons. Firstly, it
+makes it easier to pour the initial mixture into the troughs, since the
+scaffolding can be structured later in the process via crosslinking. Secondly,
+the scaffolding that the hydrogel forms is relatively soft, allowing the cells
+to move freely to restructure themselves. As the cells differentiate, they
+pull closer together, pushing out excess water. In a more rigid scaffolding
+structure, cells may be less able to migrate to the harvesting area.
+
+After the hydrogel is crosslinked, Mosa Meat submerges the entire culture
+vessel in differentiation media, causing media to flow into each of the
+troughs. The differentiation media causes the cells to form fibers and begin
+their migration.
+
+After the cells have migrated to the harvesting area, Mosa Meat removes the
+inner tube along with all of the differentiated cells. While the troughs are
+re-used for the next batch, Mosa Meat moves the inner tube to a further vessel
+where the muscle tissue can mature.
+
+When the muscle tissue is ready, Mosa Meat finally harvests the tissue by
+slicing along the groove on the inner poles. This severs the fibers covering
+the groove and causes the muscle to fall off.
+
+Figures 14-16 from the patent application, illustrating the differentiation
+process after the stack of culture vessels has been submerged in
+differentiation media. The cells start out in the troughs, migrate up the
+inner wall, and end up in the harvesting area.
+
+Mosa Meat doesn't provide a model of how cost effective this system could be.
+However, if a sufficient number of cells can be harvested per vessel, it may
+be a feasible solution to the problem of scalable differentiation.
+
+* * *
+
+Thank to Alene Anello for feedback on drafts of this post, and Jonathan
+Breemhaar for providing additional information on the mechanics behind the
+patent application.
+
+## Footnotes
+
+[1] The patent application doesn't specify particular dimensions, but it gives
+some possible ranges. The length of the center pole can be between 20 and
+1,000 millimeters, the diameter of the pole can be between 2 and 10
+millimeters, the length of the inner harvesting area can be around 800
+microns, the troughs can be vertically spaced 1 to 5 millimeters apart, and
+the troughs themselves can contain between 40 and 1,000 microliters of liquid.
+
+Assuming the inner pole is 1,000 millimeters long and the troughs are 10
+millimeters tall spaced 5 millimeters apart, up to 66 troughs could be
+contained on a single inner pole.
+
+[2] A hydrogel is a substance somewhere in between a solid and a liquid. It
+involves a chain of hydrophilic molecules, linked together through some
+chemical bond (called "crosslinking"). Because these polymers are made up of
+hydrophilic molecules, they attract water (or in this case, media), and keep
+it in a semi-solid structure.
+
+  
+
+
+
+
+https://benchtopbioreactors.com/customize
+
+
+
+
+OSPIN - a german contractor specialising in building bioreactors, including
+for cultured meat
+
+https://ospin.de/bioreactorplatform/#Bioprocessing-Modules
+
+  
+
+

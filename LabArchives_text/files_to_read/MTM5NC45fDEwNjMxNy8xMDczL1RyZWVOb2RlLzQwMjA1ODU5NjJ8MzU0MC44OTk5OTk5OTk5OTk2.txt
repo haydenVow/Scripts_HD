@@ -1,0 +1,177 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+6597-DAISY4_16G9-Cow P8-1of3  
+96w Plate  
+6  
+  
+6598-DAISY4_16G9-Cow P8-2of3  
+96w Plate  
+6  
+  
+6599-DAISY4_16G9-Cow P8-3of3  
+96w Plate  
+6  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+## Performed by: Shaleen Sharma  
+
+
+
+
+Secondary #1 Goat Anti-Mouse (IgG1) AF488 (1:1000  ) + Secondary #2 Goat Anti-
+Mouse (IgG2b) AF555 (1:1000  )+  1.2  mL Blocking Buffer (PBST (0.1% Triton X
++ dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI mix:
+
+   1.2mL  PBS +    1.2uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG  
+IgG1  
+Secondary #1 Goat Anti-Mouse (IgG1) AF488 (1:1000  ) (#1606)  
+1:1000  
+  
+MF20  
+IgG2b  
+Secondary #2 Goat Anti-Mouse (IgG2b) AF555 (1:1000  ) (#1966)  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ #6597 11:27 - 11:32 a/pm
+
+ #6598 11:30 - 11:33 a/pm
+
+ #6599 11:31 - 11:35 a/pm
+
+ #6597 11:33 - 11:37 a/pm
+
+ #6598 11:34 - 11:37 a/pm
+
+ #6599 11:35 - 11:38 a/pm
+
+ #6597 11:38 - 11:40 a/pm
+
+ #6598 11:39 - 11:41 a/pm
+
+ #6599 11:39 - 11:42 a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  12:12 - 13:15 a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  13:17 a/pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 13:19 - 13:24 a/pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 13:26 - 13:31 a/pm
+
+ 13:32 - 13:36 a/pm
+
+4\.  Replaced dPBS.
+
+ 13:39 a/pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer4442  
+  
+dPBSA4491  
+  
+PBSTN/A  
+  
+Secondary Antibody MixSee above  
+  
+DAPI (1:1000)2193  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

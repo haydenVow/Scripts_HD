@@ -1,0 +1,137 @@
+
+
+See the attached for details/calculations:
+https://docs.google.com/spreadsheets/d/1LJ8o3Vk9UI4z1t0zF-
+dHdsyM1I83PEtl0xqi00w4_Yw/edit#gid=1244524761
+
+
+
+
+## Performed by: AS/BT
+
+
+
+
+Culture IDs:
+
+Harvested Flasks ID(s)Confluence \+ observations  
+Cell line  
+Media  
+  
+13138-4290%KHAKIOOptiPRO + 4 mM Glutamax
+
+
+  
+  
+Media/Reagents used:
+
+NameID  
+DBPS13299  
+  
+Tryple13300  
+OptiPRO + 4 mM glutamax  
+13309  
+  
+CCK8  
+
+
+  
+  
+  
+
+Plate Layout: Cells per well
+
+  
+
+  
+
+
+
+
+Harvest Process:
+
+Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath > 30 minutes prior to use
+
+  1. Observed cultures under the microscope and recorded confluence in the table above. 
+  2. Imaged cultures on 10x magnification (captured in Mia)
+  3. TrypLE:   50   mL 
+  4. dPBS (for washing & neutralising)   100 mL
+  5. Growth media (for pellet resuspension and seeding):   30 mL
+  6. Washed the flask(s) with dPBS.
+  7. Added   10 mL  tryple to each vessel/well and incubated at 37˚C for    10 mins 
+  8. Neutralised with   10 mL dPBS (warmed) and combined cell suspension into a   50 tube.
+  9. Centrifuged at 650 x g for 5 min.
+  10. Aspirated+ discarded supernatant
+  11. Resuspended pellet(s) in     20mL media.  
+Performed cell count triplicates using the hemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  12. Total cell number was: 49,900,000 
+
+
+
+
+Cell Plating Process:
+
+  1. Calculated the total number of cells needed for this assay + margin of error.
+  2. Calculated volume of resuspension for column 2 + margin of error. See attached calculations as an example: https://docs.google.com/spreadsheets/d/1LJ8o3Vk9UI4z1t0zFdHdsyM1I83PEtl0xqi00w4_Yw/edit#gid=1244524761 
+  3. Centrifuged required cells at 650 g x 5 mins: 
+  4. Aspirated + discarded supernatant. 
+  5. Resuspended pellet in required volume: 1920 ul 
+  6. Dispensed 200 ul of cells per well to column 2.
+  7. Added 100 ul of media per well to each dilution columns and blank columns: columns 1 & 3-10
+  8. Aspirated 100 ul of cells per well from column 2 and mixed into column 3 with media. 
+  9. Repeated step 8 into each subsequent column for serial dilution until column 9. 
+  10. Aspirated and discarded 100 ul per well from column 9. 
+
+  
+
+
+
+
+Assay Process:
+
+  1. Added 10 ul of WST-8 Solution per wells. 
+  2. Measured the absorbance increase at 460nm at time points below:
+
+Incubation Time (hrs)Time WST-8 was addedTime Plate Read  
+114:54  
+14:04  
+  
+214:54  
+16:54  
+
+
+Raw Data
+  
+  
+Celleca
+
+
+
+
+2 hr Time Point
+
+
+
+
+1 hr (10 min) Time Point
+
+
+
+
+
+Results
+
+
+See attached spreadsheet: https://docs.google.com/spreadsheets/d/1cBTMEj_-
+WuFO00TQBBfb9lcDc9zkSYEmt90Oc6uYAcw/edit#gid=1502556462
+
+  
+
+

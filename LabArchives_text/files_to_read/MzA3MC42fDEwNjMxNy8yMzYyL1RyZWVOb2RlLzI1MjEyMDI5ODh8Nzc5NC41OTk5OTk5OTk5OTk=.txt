@@ -1,0 +1,217 @@
+Aim: To implement and automate ELISA for scaffolds and adherent cultures
+Hypothesis: A portion of the ELISA pipeline is capable of being automated using our liquid handling robots
+Technical Gap: We currently perform the ELISA workflow through manual pipetting with limited reproducibility
+Method/Procedure
+
+
+Background:
+
+Currently, the process for measuring maturation in myogenic cells at Vow is
+primarily focused on fluorescent antibody staining and subsequent image
+analysis. While this approach has proved useful for adherent cultures, it
+remains difficult to measure maturation on scaffolds at Vow due their 3D
+structure and complex overlapping structures that often fail to be captured
+accurately even with our Zaber imaging platform. Considering the maturation
+process occurs primarily on scaffolds in cultured meat applications, it is
+imperative to quantify maturation content on scaffolds at Vow. One possible
+approach that has come to light is the enzyme-linked immunosorbent assay
+(ELISA) that is commonly used to detect and quantify proteins and antibodies
+in biological samples.
+
+However, as evidenced by previous implementations of this assay at Vow - it
+proves to be a labour intensive process largely due to washes to reduce non-
+specific binding. This is amplified when the Janus Green workflow is also
+implemented and multiple plates and conditions are factored in. An attractive
+alternative to this, is automation of intensive workflows such as ELISA using
+liquid handling robots. Considering that the capabilities of liquid handling
+robots extend as far as most manual pipetting workflows - automating the ELISA
+pipeline appears to be feasible.  
+  
+At Vow, this would be possible using our Opentron II liquid handling robots.
+Automation of ELISA while is attractive from a time-saving perspective also
+allows for greater reproducibility between experiments. Currently, the entire
+ELISA and Janus Green process (post-primary staining) takes 4 hours if done
+manually. Moreover, consistency within the pipeline itself is highly important
+as absorbance readings are highly sensitive to small changes between
+replicates. Automation reduces sources of error such as operator-driven
+mistakes as well as variation between pipetting technique from user to user.
+
+Hence, the ELISA and Janus Green protocol form the ideal candidates to be
+automated using Vow's in-house liquid handling robots.
+
+
+
+
+The entire process of ELISA is particularly long and repetitive at times.
+However, automating the entire process start to finish in one run results in
+only one plate able to be performed per run. This is due to the starting deck
+state being completely filled with reagents and labware for the entire
+process. Hence, to increase throughput - it is more worthwhile segmenting each
+phase of the process in different runs so that more samples can be analysed in
+parallel.  
+  
+However, prior to testing these segments, it is imperative to assess whether
+the crucial pipetting techniques involved in ELISA are able to be translated
+to the OT2 robots. Hence, some preliminary testing is required to assess the
+feasibility of automating ELISA. These tests are outlined below:
+
+Preliminary testing:
+
+  * Assessing what dead volumes are required
+  * Assessing what pause times are required for desired incubation times
+  * Testing and optimizing PBS washes
+  * Testing and optimizing supernatant plate transfer
+  * Testing and optimizing pipette mixing
+
+Test runs (segmented to increase throughput):
+
+  * Addition of HRP-conjugated secondary antibody and incubation
+  * Addition of TMB substrate and peroxidase reaction
+  * Addition of Janus Green stain.
+
+
+Preliminary testing:
+
+
+Preliminary tests:
+
+Supernatant plate transfer
+
+Pipette mixing  
+  
+Protocol:
+
+  * Transfer 150uL/well to original plate.
+  * Incubate for 5 mins.
+  * Transfer 100uL from original plate to new plate
+  * Transfer 100uL from new plate to waste
+
+Monitor for:
+
+  * Accuracy of supernatant transfer
+  * Whether complete transfer of 100uL to waste is successful (dead volumes)
+  * Whether dispensing occurs above each well to ensure no contamination.
+  * Whether 5 minute incubation time is accurate
+
+Protocol:
+
+  * Add 75uL of red dye to plate.
+  * Add 75ul of water to same plate.
+  * Pipette mix 100uL with five repetitions.
+
+Monitor for:
+
+  * Successful and complete mixing of dye with water
+
+
+Water run:
+  
+  
+Addition of "secondary antibody"
+
+TMB Reaction
+
+Janus Green Protocol  
+  
+Protocol:
+
+  * Transfer 100uL/well of red dye to plate 
+  * Aspirate red dye from plate
+  * Add 200uL water to first half of plate, then add 200uL to second half.
+  * Remove water.
+  * Repeat wash twice more.
+  * Add red dye ("secondary") to specific wells of plate using P1000
+
+Monitor for:
+
+  * Gravimetric analysis of plates (before and after mass) to see if volume transfer is accurate
+  * Total run time for removal of primary, addition of secondary and 3 x PBS washes 
+  * Success of "blowout" technique
+  * Success of using P1000 multi-dispensing technique to add secondary antibody
+
+  
+
+Protocol:
+
+  * Add 75uL of red dye ("TMB substrate")
+  * Incubate for 15 minutes
+  * Quench with 75uL of copper sulfate ("HCl")
+  * Transfer 100uL of supernatant to new plate
+
+Monitor for:
+
+  * Gravimetric analysis of plates (before and after mass) to see if volume transfer is accurate
+  * Total run time
+  * Pipette mixing technique success when transferring supernatant to new plate.
+
+  
+
+Protocol:
+
+  * Remove 50uL of remaining supernatant (red dye)
+  * Wash 3x with 200uL of water
+  * Add 100uL of red dye ("Janus Green") 
+  * Incubate for 5 minutes
+  * Wash 5 times with water ("PBS")
+  * Add 100uL  copper sulfate ("HCl")
+  * Incubate for 10 minutes.
+  * Transfer 50uL of supernatant to new plate.
+
+Monitor for:
+
+  * Gravimetric analysis of plates (before and after mass) to see if volume transfer is accurate
+  * Total run time
+  * Pipette mixing technique success when transferring supernatant to new plate.
+  * PBS washing success.
+
+  
+
+
+Cell run:
+  
+  
+The optimised workflow from the water runs will be implemented for the cell
+run. However, one important consideration that will be kept in mind is
+aspiration heights due to the presence of a layer of cells. This will be
+monitored during the water runs and adjusted for the cell run if needed.
+
+The cell run will test out the OT2 protocol on cells and assess its success.
+However, this is also an opportunity to form a calibration/baseline for DOLLY
+cells for future ELISA data (e.g. DSD experiments) to be compared against.
+
+The following can be investigated in this cell run:
+
+  * The effect of increased cell densities on OD values.
+  * The normal OD values to be expected from DOLLY12 cells.
+  * The success of the ELISA run compared to manual ELISA workflow.
+
+  
+  
+  
+Figure 1: Plate map for each plate (out of two) for the cell run on the ELISA
+OT2 protocol.  
+  
+Storyboard:
+
+Two 96 well plates will be seeded in this run. The first will undergo the
+ELISA protocol on the OT2 and the other will undergo ELISA via manual methods
+as has been done before. The results of each plate will be compared.
+
+DayTask  
+0Thaw and seed cells into 2 x 96 well plates (as per plate map)  
+1Switch to E6  
+2100% feed  
+3100% feed  
+4100% feed  
+5100% feed  
+6100% feed  
+7100% feed  
+8100% feed  
+9100% feed  
+10100% feed  
+11Fix cells with 4% PFA (manually)  
+12Primary stain (manual)  
+13Perform ELISA protocol (automated for one plate, manual for one plate)  
+14Results writeup and data analysis
+
+

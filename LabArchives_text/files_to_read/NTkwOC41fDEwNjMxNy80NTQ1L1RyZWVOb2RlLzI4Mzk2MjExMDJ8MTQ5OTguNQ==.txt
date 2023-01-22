@@ -1,0 +1,58 @@
+
+
+## Completed by: Avani Bhojwani
+
+(with help from Bonnie T, Andrew G, and Tom T)  
+
+
+Aim/Purpose
+
+
+To develop a OT2 protocol for feeding a 24 deep well plate and maintain
+sterility during this process.
+
+
+Hypothesis
+
+
+We can successfully perform a 100% feed of a 24 deep well plate on OT2.
+
+Using adhesive covers for a 24 deep well plate will allow us to maintain
+sterility.
+
+
+Technical Gap
+
+
+We have not used 24 deep well plates for culturing cells before. Instead, we
+have been using 50 mL shake tubes. Before we use these plates for growing
+cells, we will need to create a OT2 protocol that makes it easy to perform
+media changes when handling a high number of cultures.
+
+
+Method/Procedure
+
+
+  
+
+  1. Calculate/find recommended volume and shaking speed for 24 well plate. Test this to see if fluid in the deep well is aggitating as expected. 
+    1. https://www.enzyscreen.com/videos_24_deepwell_mtp.htm
+    2. https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?pli=1#gid=1121358223
+  2. Measure plate and make labware definition. Dimensions can be found here:
+    1. https://i-labpro.com/product/kf10us-24-n/
+  3. Design the protocol in protocol designer for a 100% feed and also for aliquoting a sample into 96 wp for staining.
+  4. Perform a water run of the protocol.
+  5. Perform a growth media run of the protocol. Growth media will not include Pen/Strep to make it easier to detect contamination if it does occur.
+    1. Check cost of these media and use the cheaper option:
+      1. CD-CHO + 10% KSR 
+      2. DMEM/F12 + 10% FBS
+  6. On 2-3 days after the feed, take samples for contamination testing.
+    1. 10-20uL onto microscope slides. Check under the microscope for contamination. Follow this SOP.
+    2. Take aliquots for T25 flask. Parafilm T25 flask in case it is contaminated.
+  7. After the weekend (~approx 2 days later), check T25 flask for contamination.
+
+  
+
+  
+
+

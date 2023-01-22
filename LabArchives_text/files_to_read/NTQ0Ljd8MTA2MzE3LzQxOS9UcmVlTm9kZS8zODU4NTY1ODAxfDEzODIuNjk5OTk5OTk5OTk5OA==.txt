@@ -1,0 +1,138 @@
+
+
+MTT STAINING PROTOCOL
+
+Reagent Preparation (Example dilution is 75 mg MTT in 15 mL Diluent - so 5mg
+of MTT per mL)
+
+ReagentMix/Stock/Aliquot NumberVolumes/Mass  
+  
+MTT
+
+88430 mg  
+  
+DMEM16246 ml  
+  
+  
+ Protocol:
+
+  1. Aliquotted 6 ml of DMEM media and placed in water bath , 11:48
+  2.  Retrieve N = 1 alginate from bioreactor and N = 1 alginate from the 6 well plate and N = 1 cell seeded zein from the 24 well plate
+  3. Weighed out 30 mg of MTT (Stock #884) into a falcon tube then add  6 ml of the pre-warmed DMEM.  
+  4. Pipetted up and down until re-suspended. Yellow colour should form. Cover tube with foil.
+  5. Removed the vessels containing the alginate samples from the incubator
+  6. Using a sterile spatula, transferred samples to new wells of a 24-well plate
+  7. Covered each sample with 1.5 ml per well of the MTT DMEM PRF media. 
+  8. Protected the plate from light using foil and placed in the incubator for 1h (37ºC, 5% CO2). 12:20
+  9. Replaced media with PBS for better visibility of the sample colour.
+  10. Took pictures of the samples in the MTT plate using a phone/camera and attach below.  13:20
+  11. Imaged samples down the microscope (phase), 3 images per sample. Upload images below. 13:30-14:00
+
+Note - purple coloration indicates live cells - samples which remain yellow
+suggest no cells or dead cells
+
+General observations:
+
+All samples showed a black stain with good cell coverage. More cell coverage
+on one side of the zein than the other.
+
+  
+
+Phone Camera Images
+
+MTT Stained Samples in PBS
+
+Zein Side 1
+
+Zein Flipped (Side 2)
+
+  
+
+MIA Images
+
+Alginate 6WP Control Plate 6453  
+
+https://mia-capture.vow.tools/#/session/rectSSlyK4XRiaPJr/images
+
+Zein 24WP Control Plate 6441
+
+https://mia-capture.vow.tools/#/session/rec4U5lvFdsGdPkgX/images
+
+Alginate Maturation Bioreactor Plate 6440  
+
+https://mia-capture.vow.tools/#/session/recRZSkq27pqN9T7t/images
+
+  
+
+
+
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs:` 6440-DOLLY12-Sheep P12-1of2 (24w plate),  
+6441-DOLLY12-Sheep P12-2of2 (reactor, 300 mL), 6453-DOLLY12-Sheep P12-3of3 (6w
+plate) containing scaffolds from the incubator.
+
+  2. Used sterile tweezers to carefully transfer   `17`  scaffold pieces to separate wells on a 96 well plate.
+
+  3. Washed the pieces on the 24 well plate 2 times in 230 ul of PBS for  `5`  minutes at room temperature.
+
+    1. `14:34 - 14:39`
+    2. `14:40 - 14:45`
+  4. Added   230 uL of 4% PFA to each scaffold and incubate for  `15`  min at room temperature.  `14:57 - 15:02`
+
+  5. Washed pieces once more for   `5`    minutes in PBS at room temperature.  `15:04 - 15:09`  
+  
+Realised PFA needs 15 min not 5 min incubation.  
+Added 4% PFA again for an additional 10 mins 15:21 - 15:31  
+  
+Rewashed with PBS 15:31 - 15:36  
+  
+
+  6. Aspirate PBS and stain the pieces with 200 uL of DAPI in PBS (1:1000) (17 x 200 ul = 3400 ul -> 3.4 ul of DAPI required)  
+  
+for 5 minutes in the dark. `15:39 - 15:44  
+`
+
+  7. Wash the pieces 2 times for   5   `minutes in` 200 ul of PBS.
+
+    1. `15:48 - 15:53`
+    2. `15:53 - 15:58`
+  8. Aspirate the PBS and leave the scaffold pieces just covered by fresh PBS. 16:00
+
+`label the plate halves with the respective culture IDs and date of fixing
+and/or staining`
+
+  
+
+Placed in the biomaterials fridge. 16:02  
+
+  
+
+
+
+
+Maturation Bioreactor Additional Observations
+
+\- Media Colour: Normal
+
+\- Bioreactor Lid: Residue present after autoclaving. Possibly oxidation of
+the metal.
+
+\- Tray Insert: No visible defects colouring or residues.
+
+\- Bioreactor Base: Deposits present on the bottom of the base. Organic
+material present which looks like zein that may have stuck to the metal.
+Beneath the organic deposit the coating on the base has come away to reveal
+the bare metal beneath the coating, which appears black in the photos compared
+to the silver coating.
+
+Bioreactor base deposits images:
+
+  
+
+  
+
+  
+
+

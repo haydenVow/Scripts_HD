@@ -1,0 +1,119 @@
+Performed by: Anushka
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+13062-Nuvonis Quail Suspension341-P-1of2  
+  
+13063-Nuvonis Quail Suspension341-P-2of2  
+113077FS1  
+Feed with 2.5 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 4.5 g/L  
+Main lab, #159 (top shaking incubator)  
+213078  
+313079  
+413080FS2  
+Feed with 4 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 3 g/L  
+  
+513081  
+613082  
+713083Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine and HT)  
+813084  
+913085  
+1013086Control 2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine and without HT)  
+  
+1113087  
+1213088  
+1313089Control 3  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine, HT and pyruvate)  
+  
+1413090  
+1513091  
+1613100  
+FS3  
+Feed with 2.5 g/L glucose when glucose concentration hits 4.5 g/L (NO
+L-glutamine)  
+1713101  
+1813102  
+1913103FS4  
+Feed with 4 g/L glucose when glucose concentration hits 3 g/L (NO L-glutamine)  
+  
+2013104  
+2113105  
+2213106Control 4  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose,
+L-glutamine)  
+  
+2313107  
+2413108
+
+
+Counting & sampling process
+  
+  
+*Note: Please remember to label all samples on the Vicell Software in the following way: Date followed by Sample ID (Do not use flask number as it will prevent counts from being uploaded automatically onto Ranger).
+
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 550 uL samples from each flask into ViCell counting cups
+  3. Put aside any cups with samples from flasks 13077-13082 and 13100-13105 for glucose testing.
+  4. Repeated steps 1-4 with remaining flasks.
+  5. Tested glucose levels in samples from flasks 13077-13082 and 13100-13105 using Accu-Chek Instant S blood glucose meter:
+    1. Insert the metallic end of a test strip into the meter. The meter will turn on. 
+    2. When a flashing drop symbol appeared, took 1 x 5 uL sample from 510 uL aliquot using P20 pipette 
+    3. Ejected drop onto gloved fingertip (to mimic a drop of blood when doing a finger prick test) 
+    4. Touch the yellow edge of the test strip to the drop of media. Remove your finger from the test strip when the flashing hourglass symbol appears. Do not put sample on top of the test strip.
+    5. Copy value into table below
+  6. Once the last sample is loaded on the carousel, feel free to leave the lab. Counts will be recorded automatically on Ranger and will be recorded on the Team Media spreadsheet on Monday.
+
+
+Feeding process
+
+
+ ~~Glucose and ala-gln aliquots are located in pouches in the -20 Freezer in
+Main Lab.~~
+
+  1.  ~~For flasks 1-3 recording 4.5 g/L glucose or less:~~
+    1.  ~~Added glucose stock solution to bring glucose levels up to 7 g/L.~~
+    2.  ~~For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up.  ~~
+      1.  ~~If 1 day has passed, add 150 uL per flask (1 mM)~~
+      2.  ~~If 2 days have passed, add 300 uL per flask (2 mM)  ~~
+      3.  ~~If 3 days have passed, add 450 uL per flask (3 mM)~~
+      4.  ~~Etc.~~
+  2.  ~~For flasks 4-6 recording 3 g/L glucose or less:~~
+    1.  ~~Added glucose stock solution to bring glucose levels up to 7 g/L.~~
+    2.  ~~For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up.  ~~
+      1.  ~~If 1 day has passed, add 150 uL per flask (1 mM)~~
+      2.  ~~If 2 days have passed, add 300 uL per flask (2 mM)  ~~
+      3.  ~~If 3 days have passed, add 450 uL per flask (3 mM)~~
+      4.  ~~Etc.~~
+  3. For flasks 16-18 recording 4.5 g/L glucose or less:
+    1. Added glucose stock solution to bring glucose levels up to 7 g/L.
+  4.  ~~For flasks 19-21 recording 3 g/L glucose or less:~~
+    1.  ~~Added glucose stock solution to bring glucose levels up to 7 g/L.~~
+  5. Recorded which flasks were fed in table below
+
+
+
+
+Topped up flasks 16-18
+
+
+Results
+
+
+Used this spreadsheet to input the glucose reading per flask and determine how
+much volume needed to top up flasks to 7g/L if their glucose level dropped
+below the provided thresholds. Note this was calculated on an individual
+basis, meaning no two flasks were topped up with the same volume of glucose
+unless they had the exact same glucose reading.
+
+
+Accu Chek manual
+Notes
+
+
+

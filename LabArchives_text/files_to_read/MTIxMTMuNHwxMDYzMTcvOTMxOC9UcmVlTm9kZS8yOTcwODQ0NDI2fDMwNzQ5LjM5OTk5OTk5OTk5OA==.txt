@@ -1,0 +1,58 @@
+Performed by: LL
+Ranger data
+Harvested vessel IDSeeded vessel IDsCondition  
+13358 & 1335913392-Nuvonis Quail Suspension341-P-1of8  
+E-125  
+  
+Note: These cultures are also being used as controls in experiment 828. In
+that experiment they are labelled 13380, 13381 & 13382  
+  
+13393-Nuvonis Quail Suspension341-P-2of8  
+  
+13394-Nuvonis Quail Suspension341-P-3of8  
+  
+13395-Nuvonis Quail Suspension341-P-4of8  
+50 mL bioreactor tube  
+13396-Nuvonis Quail Suspension341-P-5of8  
+  
+13397-Nuvonis Quail Suspension341-P-6of8  
+  
+13398-Nuvonis Quail Suspension341-P-7of8  
+ULA round-bottomed 96-wp  
+  
+13399-Nuvonis Quail Suspension341-P-8of8  
+ULA flat-bottomed 96-wp
+
+
+ReagentID  
+  
+RPMI:CHO-in-1 (50:50)
+
+M13503
+
+
+  
+  
+  1. Added IGF and EGF to 120 mL of growth medium 
+  2. Place aliquot in incubator or water bath to warm 
+  3. Add 200 uL of sterile dPBS to wells of both ULA 96-well plates as specified in plate map below
+  4. Perform cell count on continuous culture vessel being used for seeding (most likely will be taking cells from MFG)
+  5. Transfer aliquot containing 24M cells from continuous culture vessel to falcon tube 
+  6. Centrifuge for 5 min at 500 x g 
+  7. Aspirate supernatant 
+  8. Re-suspend in 125 mL of warm growth medium (200K cells/mL) 
+  9. Transfer cell suspension as follows: 
+    1. 30 mL to each of 3 x E125s
+    2. 5 mL to each of 3 x 50 mL bioreactor tubes 
+    3. 200 uL to each of 21 x wells in 2 x ULA 96-well plate as shown in plate map below
+  10. Incubate E125s at 37'C, 120 RPM
+  11. Incubate E125s at 37'C, 205 RPM
+  12. Incubate ULA 96-wps at 37'C, 0 RPM (no agitation) 
+
+
+Plate map
+
+
+  
+
+

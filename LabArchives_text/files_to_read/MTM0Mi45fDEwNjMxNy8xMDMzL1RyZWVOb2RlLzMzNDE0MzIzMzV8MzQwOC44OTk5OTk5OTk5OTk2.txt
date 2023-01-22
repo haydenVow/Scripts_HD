@@ -1,0 +1,265 @@
+
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)  
+  
+6673 (E125 flask grown in 'serum' \- i.e. DMEM/F12 + 20% FBS + 1x P/S + 10uM
+p38i
+
+6675 (E125 flask grown in E810C media)  
+  
+  
+
+
+
+
+### Prepared materials:
+
+Prepared 32 mL of 1:200 protease inhibitor cocktail in PBS solution by adding
+160 uL of protease inhibitor cocktail stock into 32 mL of PBS.
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:     2x30    mL in     2x50mL    tubes (30mL per tube)   
+
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:     60    mL in    2x30     tubes (30mL per tube)  
+
+  3. Growth media (for neutralizing) 100 mL per g Cytodex 1:     1x30   mL in    1x50mL     tubes
+  4. dPBS + protease inhibitor:    30    mL in    1x50     container  
+
+  5. dPBS (for washing microcarriers after Trypsinization), 100 mL per g Cytodex 1:     2x30    mL in    2x50mL    tubes
+  6. Growth media (for pellet resuspension):     3    mL in     1x15    tubes
+  7. Growth media (ACF) (for pellet resuspension):     3    mL in     1x15    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+14:57  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+## Remove the flask from incubator
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker
+  3. Restart the shaker
+  4. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer half of the fresh, pre-warmed dPBS fro prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the fresh, pre-warmed Trypsin/EDTA solution + 10% w/v poloxamer 188 to final conc 1% w/v to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker 15:29
+  3. Restart the shaker at the `speed required for detachment` \- see the table below.
+  4. After `7 min, removed flasks from incubator. They had tipped over during the incubation.  
+`
+
+  5. `Added 100 uL from each flask into 1 well of 24 well plate. Added 400 uL PBS to each of these wells. Observed under microscope to look for detachment. From the serum flask sample, detached cells were visible. For the E810C, it was hard to tell as not many cells were present at all. E810C flask was returned to the shaker at 180rpm but I saw that it was about to topple over. Therefore, it was just incubated static for 2 more min.`
+  6. Remove the flasks from the shaker
+  7. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E125
+
+195  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+## Neutralize the detachment reagent:
+
+  1. Cell suspensions from both flasks (ACF and serum) were split between 2x50mL tubes each
+  2. Added fresh, pre-warmed growth medium to one tube in each set (15mL), Added protease inhibitor in dPBS to the other 50mL tube (15mL). So we had 4 conditions total:
+    1. proliferated in serum, neutralised in serum
+    2. proliferated in serum, neutralised with protease inhibitor
+    3. proliferated in E810C, neutralised in serum
+    4. proliferated in E810C, neutralised with protease inhibitor
+  3. Mixed the suspension vigorously
+  4. Allow the microcarriers to settle for at least 2 minutes
+  5. Gently tilt the tube to an angle of approximately 30 degrees from vertical
+  6. Remove the cap and transfer the supernatant to new centrifuge tubes using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## First wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## Second wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Centrifuge the tubes at 650 - 700 RCF for 5 minutes 16:16  \- 16:21
+  2. Aspirate supernatants
+  3. Resuspend pellets in 1 mL of fresh, pre-warmed growth medium.
+
+  
+
+
+
+
+## Performed cell count:
+
+  1. Aliquoted    10 uL   of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:  
+    1.  proliferated in serum, neutralised with serum:     1 656 000 cells
+    2. proliferated in serum, neutralised with protease inhibitor:    1 784 000  cells   
+    3. proliferated in E810C, neutralised with serum:   28 000 cells   
+    4. proliferated in E810C, neutralised with protease inhibitor:   60 000 cells   
+  2. The entire cell suspension (1 mL) was used to seed E125 flasks from the following:
+    1.   proliferated in serum, neutralised with serum
+    2. proliferated in serum, neutralised with protease inhibitor
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+trypsin  
+a4820, a4813  
+  
+dPBS (for washing & neutralising)a4809  
+  
+E810C  
+see linked lab book entry  
+  
+DMEM/F12 + 20% FBS + 1x P/S  
+a4767  
+p38i (20mM stock)m3978  
+Poloxamer 188 10% w/v  
+4915  
+  
+protease inhibitor cocktail  
+s1050  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  * Flasks toppled over on the shaker during the 7 minute shaking at 195rpm. The rubber mat shaker can't support shaking speeds that high, we'll need to swap out the shaker for one with clamps to support shaking speeds that allow for 0.22W/Kg energy dissipation rates. 
+  * There still appeared to be quite a lot of positive hoechst staining on the carriers in flask 6675 after harvest with Trypsin. When observing the carriers under phase though there was no distinctly clear outline of cells on any of the carriers.
+  * Cell yields from flask 6675 were very low, decided not to subculture. 
+  * Cell yields from flask 6673 were higher than cells input (though not by much). 
+  *   
+
+  
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+6673 After harvest https://mia-
+capture.vow.tools/#/session/recjdTlC151VJtP5Z/images#group0
+
+6675 After Harvest: https://mia-
+capture.vow.tools/#/session/recPsopEtCdNP59F6/images#group0
+
+

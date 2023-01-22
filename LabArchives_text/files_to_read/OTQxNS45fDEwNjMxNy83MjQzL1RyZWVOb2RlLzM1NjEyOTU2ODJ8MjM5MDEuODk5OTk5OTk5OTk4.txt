@@ -1,0 +1,151 @@
+
+
+## Performed by: ST  
+
+
+
+
+DNA Extractions:
+
+Cell LineTreatmentDate of DNA extraction  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+quick extract  
+a10469  
+  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+Quick mix DNA extractions of our pooled samples with DNA extracted
+
+  1. Made up a master mix for 2x reactions for primer sets above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer  
+5  
+  
+MilliQ  
+11.1  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table above
+  4. Added 5μl  DNA extract to each tube according to the table below to make a total reaction volume of 30uL.
+
+Samples
+
+Sample numberSample DNA  
+primer pair  
+  
+  
+  
+PTEN 39/40  
+  
+  
+  
+PABPC1 1/2  
+  
+  
+  
+IGFBP4 7/8  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  1. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  2. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  3. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1.   
+
+  
+
+
+
+
+## Observations:
+
+
+
+
+## Reference Images
+
+  
+
+  
+
+
+
+
+

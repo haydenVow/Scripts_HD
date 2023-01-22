@@ -1,0 +1,124 @@
+
+
+Introduction
+
+Cells in culture secrete extracellular matrix proteins such as collagen, which
+have value for Vow and, if possible, should be recovered from the waste media.
+Our in-house data also supports the view that additional components of the
+secretome, lipids, mitotic debris, and even the components of dead cells
+present an opportunity to harvest additional products from the waste media
+stream that can be incorporated into the final product, or recycled into
+future cultures, e.g. as biological matrices (scaffolds) for next generation
+products.
+
+The objective of this research theme is to identify a suitable method for
+separating proteins, lipids, and other high-value biomolecules from the waste
+media. Considerations for viable approaches are:
+
+  * Non-toxic. The method must not result in toxic reagents in the end product or waste
+  * Food safe. The method should ideally use food safe reagents
+  * Non-denaturing. The biomolecular structure of the product should be unaltered
+  * Flavour. The processing/reagents should not impart a strong flavour
+  * Scalable. Very high centrifugation speeds, expensive/scarce reagents should be avoided
+
+
+
+Materials/Methods
+
+Trichloroacetic acid protocol
+
+  1. Dissolve 500g TCA into 350ml H2O and store at room temperature
+  2. Cool media to 4°C if possible (i.e. store in fridge)
+  3. Add TCA solution to waste media in a 1:4 ratio, e.g. 200ml TCA solution to 800ml media
+  4. Incubate for 10 minutes at 4°C
+  5. Centrifuge at max possible speed (4,000G for Falcon tubes) for 5 minutes.
+  6. Remove supernatant (toxic). A whitish pellet of protein should be visible
+  7. Wash pellet with acetone. Use 200μl acetone per ml TCA
+  8. Centrifuge at max possible speed (4,000G for Falcon tubes) for 5 minutes and discard supernatant (toxic)
+  9. Repeat Acetone wash step at least once to remove residual TCA
+  10. Dry pellet in a flow hood or well-ventilated drying oven to evaporate residual acetone (BP 60°C)
+  11. Final protein pellet can now be used for further research applications
+
+Method: Waste media from CHOMP production runs was used. This media was
+DMEM/F12 (50:50) with 20% FCS and no phenol red or antibiotics. Media was
+collected after 2-3 days incubation with cell layers in 10 layer cell
+factories. A negative control comprising fresh media (no contact/incubation
+with cells) was also run.
+
+Results
+
+Initial results were very encouraging, and large quantities of cloudy protein
+precipitated almost immediately upon addition of TCA solution to cold media
+(fig. 1). After centrifugation, large pellets were observed with a volume
+fraction of 30-40% (15ml loose/wet mass from a 40ml media volume of waste
+CHOMP media), with the incubation media containing substantially larger pellet
+than the control (fig. 2). It was noted at this stage that the CHOMP-
+conditioned media precipitate was more diverse in appearance and apparently
+more viscous than the control, implying a greater range of larger molecular
+weight proteins. Careful decanting the supernatant from the loose pellet
+revealed a cloudy/loose mass of precipitated protein (fig. 3), which became
+more 'granular' after the acetone wash steps (fig. 4). A final drying step at
+1h at room temperature evaporated most of the acetone (fig. 5.). Small samples
+of the precipitate were tasted, but found to be unpleasant (acetone was still
+evident, and a very acidic taste was attributed to residual TCA).
+
+Fig. 1. Precipitated proteins from waste media using the TCA method, imaged
+after Protocol step #4
+
+
+
+Fig. 2. Pellets precipitated from 40ml waste media using the TCA method,
+imaged at Protocol step #5. Left tube contains FCS-only control (not-incubated
+with cells), right tube is from cell-incubated media (CHOMP cells, 3 day
+incubation)
+
+
+
+
+
+Fig. 3. Pellets precipitated from 50ml waste media using the TCA method,
+imaged at Protocol step #6. Tube is from cell-incubated media (CHOMP cells, 3
+day incubation)
+
+
+
+Fig. 4. Pellets precipitated from 50ml waste media using the TCA method,
+imaged at Protocol step #9 following the final acetone wash. Left tube
+contains FCS-only control (not-incubated with cells), right tube is from cell-
+incubated media (CHOMP cells, 3 day incubation)
+
+
+
+Fig. 5. Protein precipitated from waste media using the TCA method, after 1h
+drying (Protocol Step 10).  
+
+Discussion
+
+The TCA protocol is one of the most widely used methods for recovering
+dissolved proteins for analysis, and is usually used for small scale
+applications prior to detailed analysis (e.g. proteomics). Therefore many of
+the existing protocols use 1ml volumes and microcentrifuge tubes at high
+speed, which is not suitable for Vow's multi-litre requirements.  
+
+Evaluation of protocol:
+
+  * Non-toxic. FAIL. The TCA reagent is highly toxic, and whilst removed from the final product, could be hard to eliminate entirely to pass regulations. The TCA in the waste media is highly toxic and must be heavily diluted before it can be discarded. At the volumes needed for Vow, this is impractical. Acetone is toxic in high concentrations, but is highly volatile and can be eliminated through evaporation.
+  * Food safe. FAIL. TCA is not food safe (it is used pharmaceutically as industrial wart remover and denatures proteins).
+  * Non-denaturing. FAIL. Proteins are denatured. Unclear what effect this would have on proteins for food/cooking applications.
+  * Flavour. FAIL. The processing/reagents should not impart a strong flavour. A small, controlled sample tasting revealed that the method results in a product with an overwhelmingly unpleasant taste, with acetone being detectable, and the residual TCA imparting a very acidic taste. The texture was minimal, somewhat granular.
+  * Scalable. FAIL. TCA is relatively inexpensive, and acetone is a cheap solvent, but the large volume of toxic waste would be problematic for disposal. Evolving large volumes of acetone at the drying step would cause atmospheric pollution.
+
+
+
+Conclusions and future directions / next steps
+
+The initial method proved useful for generating proof of concept that large
+quantities of protein were present in the waste media stream. The TCA method
+though is not suitable for Vow's requirements, chiefly due to the toxicity of
+the reagents involved. With further processing (e.g. dialysis?) this could
+have some limited usefulness for generating ECM-derived or
+functionalised/hybrid scaffold materials for next generation products.
+
+
+
+

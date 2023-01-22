@@ -1,0 +1,141 @@
+Aim/Purpose
+
+
+Background
+
+Using the foundations built up during the "Buffalo Wings" prototype work, we
+will trial tissue engineering at larger scales and using suspension adapted
+cells (Nuvonis fibroblasts predominantly). This work is part of the Mini-
+Tissues workstream for the Second Product, more can be read about this here.
+Initial Buffalo Wings experimental plans and lab books can be found here.
+
+Currently we are utilising a tissue gel matrix that contains Matrigel.
+Matrigel is a expensive component that makes scale up of this project
+challenging and thus needs to be removed or replaced in a way that does not
+diminish the self-assembly processes that enable the complex 3D tissue
+structure to form.
+
+Aim
+
+To determine the minimal ratios of Matrigel and Collagen needed to create
+complex 3D tissue structure during maturation.
+
+Hypothesis
+
+Tissue-engineered tissues will maintain structural and textural complexity
+during the maturation period at a lower ratio of Matrigel in the gel matrix.
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+The method followed here will be very similar to the one used for the Buffalo
+Wings prototype large scale harvest. Briefly, this method will use Nuvonis
+cells, embedded in a tissue gel matrix consisting of defined ratios of:
+Collagen I, 10x DMEM/F12, 0.1M Sodium Hydroxide and Matrigel. This allows the
+formation of tissues via the process of tissue gelation, condensation and
+self-assembly around 2 attachment points (Figure 1) - See Notion page for
+summary of approach.
+
+  
+
+Figure 1. Myoblast tissues self assembled around 2 attachment points of a 3D
+printed solid mould (white)
+
+Experiment Layout
+
+We will seed 1 plates (include plate dimensions here) containing tissue
+engineering moulds with 12 tissues, at a single cell density (5M cells per
+mL), and we will mature the tissues for XXXX days).
+
+  
+
+  
+1 23  
+A  
+Condition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1Condition B  
+6% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition C  
+3% Matrigel in tissue gel matrix  
+Replicate 1  
+  
+BCondition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition B  
+6% Matrigel in tissue gel matrix  
+Replicate 2  
+Condition C  
+3% Matrigel in tissue gel matrix  
+Replicate 2  
+  
+CCondition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition B  
+6% Matrigel in tissue gel matrix  
+Replicate 3  
+Condition C  
+3% Matrigel in tissue gel matrix  
+Replicate 3  
+  
+DCondition D  
+0% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition D  
+0% Matrigel in tissue gel matrix  
+Replicate 2  
+Condition D  
+0% Matrigel in tissue gel matrix  
+Replicate 3  
+  
+  
+  
+
+Figure 2. Tissue eng mould plate layout for experiment4 - 1 mould in 1 plate.
+There are 4 conditions with 3 tissue replicates
+
+  
+
+
+
+
+Before Starting
+
+  * Calculate approximate cell requirements for experiment 3 
+    * 12 tissues = 9 million cells for 1 plate (12 wells) at the 5M/mL (each well has a volume of 0.15mL with 0.75 Million cells per well)
+    * 3 tissues = 2.25 million cells 
+    * 1 tissue = 0.75 million cells  
+  
+
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=561508067
+    * Total volumes for experiment:
+      * Matrix Component Volume Required for this experiment  
+ (1x plate) (mL)  
+Collagen I  
+0.7308  
+10x DMEM/F12  
+0.0882  
+0.1M NaOH  
+0.1098  
+Matrigel  
+0.1620  
+  
+  * Autoclave 1 ~~x large Nylon scaffold~~ ~~s~~ , forceps and mould weights  (DONE) 
+  * Make up PDMS and spin coat plates (DONE)
+  * Ensure matrix reagents are made up fresh at required concentrations (DONE excluding collagen) 
+  * Wash the scaffold mounted on the petri dish in MilliQ 2 times and then submerge in 70% EtOH until use. (DONE 22 June 22) 
+  * Autoclave water to dilute the collagen (0.5L) (DONE) 
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+
+

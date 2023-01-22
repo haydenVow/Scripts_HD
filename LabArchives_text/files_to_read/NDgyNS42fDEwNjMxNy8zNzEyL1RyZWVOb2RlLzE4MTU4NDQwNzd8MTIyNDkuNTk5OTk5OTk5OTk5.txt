@@ -1,0 +1,22 @@
+
+
+## Completed by: Avani
+
+
+
+
+During the early stages of the SCC pipeline, we need to monitor cell growth of
+a large number of wells. Based on this information, we can decide which clones
+growing nicely and should be passaged to larger vessels.
+
+Previously, we have a machine learning model to determine the number of cells
+in each well. During our first cloning run of this quarter (EPIC20859), we
+observed some inaccuracies with this model, where some high confluence wells
+were listed as '0' cells. So, to avoid the risk of missing any good clones, we
+attempted staining with Hoechst to determine cell counts for our second
+cloning run (EPIC21181). However, we observed cell death a couple of days
+after performing this process. Therefore, this experiment aims to confirm
+whether Hoechst staining cells affects their viability and which method of
+staining is best of maintaining viability.
+
+

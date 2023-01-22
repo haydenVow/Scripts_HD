@@ -1,0 +1,85 @@
+
+
+5mg of p53i in stock
+
+https://www.scbt.com/p/pifithrin-alpha-p-nitro-cyclic-60477-38-5
+
+MW = 299.35
+
+We need 100uM  
+
+Soluble in DMSO (2.5 mg/ml)
+
+  
+
+
+
+
+  1. Sterile filter 5mL DMSO
+  2. Resuspend 5mg of p53i in 3.34mL of sterile DMSO.
+  3. Aliquot (10mM conc) 150uL into 23 x aliquots (sterile eppendorf tubes) and store at -20ºC
+
+
+
+
+Aliquot 6mL of dPBS into 2 x tubes (6mL each).
+
+Add 120uL of 5mM p53i to 1 of the tubes.
+
+Add 120uL of DMSO to the other tube.
+
+Remove growth media from wells, add 500uL/well of 100mM p53i/dPBS solution to
+3 wells on each plate.
+
+Add 500uL/well of DMSO/dPBS solution to 3 wells on each plate.
+
+  
+
+  
+
+  
+
+
+
+
+  1. Remove the growth media and wash all plates with 5mL dPBS. Split the plates into 4 groups (G1-G4)
+
+  2. Add 10mL of fresh dPBS with/without 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) to each plate (see table below for which plates require p53 inhibitor) PLEASE SEE THIS DOCUMENT PRIOR TO HANDLING P53 INHIBITOR
+
+  3. GroupUV irradiation p53 inhibitor.   
+G1NoNo  
+G2NoYes  
+G3YesNo  
+G4YesYes  
+  4. Inside the BSC, Wrap plates from G1 and G2 in foil and leave in the BSC. 
+
+  5. Set up the reptile solar lamp inside the BSC at a distance that is 30cm from the plate surface, using the UV meter, detect the UV intensity emitted by the lamp and record it (mW/cm^2). Perform a calculation to determine the length of time required to generate a 600,000 J/m^2 UV energy dose using the following formulas.  
+  
+mW/cm2 x seconds = mj/cm2
+
+0.1 mJ/ cm2 = 1 J/m2
+
+  6.  ~1 mW/cm2 x 3600 (1h) = 3600 mj/cm2 = 36,000J/m2
+
+  
+
+Note* the light is simply too dim. Holding 1 x 24-well plate (empty) without a
+lid directly up to the light (touching), still only yields a UV intensity of
+0.7mW. This would take far too long to expose. The cells are also under-
+confluent and need time.
+
+  
+
+  
+
+Plan:
+
+RS to source a much stronger UV lamp over the weekend.
+
+100% Feed all cells today to allow them to grow over the weekend.
+
+Re-attempt on Monday (3 days from now)
+
+  
+
+

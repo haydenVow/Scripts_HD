@@ -1,0 +1,160 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Chris, Shaleen  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2477-Culture-6475-Vial-1of200  
+
+7848-DOLLY-12-Sheep P9-1of4
+
+7849-DOLLY-12-Sheep P9-2of4
+
+7850-DOLLY-12-Sheep P9-3of4
+
+7851-DOLLY-12-Sheep P9-4of4
+
+  
+4x T175  
+  
+Growth Media: (DMEM/F12 +20% FBS + 1XP/S +P38i (10uM))  
+2477-Culture-6475-Vial-1of200  
+
+7852-DOLLY-12-Sheep P9-1of2
+
+7853-DOLLY-12-Sheep P9-2of2
+
+  
+2xT175  
+  
+Growth Media + VitC: (DMEM/F12 +20% FBS + 1XP/S +P38i (10uM) + LAA2P (50ug/L))  
+  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Gelatin coated   6 x  T175  flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC  (Note: 1 vial
+is seeded into 3 x T175)
+
+  * Time when all flasks placed into the incubator  14:33    
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  * Seed media 1 (4 flasks): Growth media  (DMEM/F12 + 20% FBS + 1xP/S):    120 mL in 120 mL   tubes 
+  * Seed media 2 (2 flasks): Growth media (DMEM/F12 + 20% FBS + 1xP/S) and add Vitamin C (aka LAA2P) [stock concentration 100mg/mL] to a working concentration of 50ug/mL in the growth media i.e. 500uL per 1L of media.   60 mL in 120 mL   tubes (30 uL of LAA2P stock added)
+  * Time that aliquots were placed in the water bath to warm before use:  14:42   
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 5 min  15:00   
+
+  2. Location where cryovial was collected from: 
+
+Vial details:   1   x  DOLLY12  WCB cryovials at   1 M  cells each
+
+Brew
+
+Tower/Bucket # 4
+
+Box/Cane # 1
+
+Culture 2477
+
+Vial location: A1  
+
+Vial ID(s): 2477
+
+``
+
+  1. `Ethanol sprayed & transferred the vial(s) to the BSC.`
+  2. `One vial will be seeded into and grown up in regular growth media and the other will use the altered growth media + VitC.`
+  3. `Added 500 µL of each growth media type (to generate a total volume of 1 mL in the cyrovial) to one cyrovial, resuspended the cell suspension gently to reduce osmotic shock. `
+  4. `Collected the 333 uL of cell suspension and transfer into the prewarmed tube of Vit C containing Growth Media.  
+`
+
+  5. `Collected the 666 uL of cell suspension and transfer into the prewarmed tube of normal Growth Media.  
+`
+
+  6. `Using a serological pipette, resuspend and distribute the cells evenly in the  60 mL of pre-warmed Vit C Growth media and 120mL of normal Growth Media.  
+`
+
+  7. `Transferred   30 mL to each pre-coated   T175 flask/well, allow to rest in the BSC at RT for 30 minutes  15:20 ```
+  8. `Transferred flask/plate(s) to incubate at: 15:50`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) THERMO
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solution5517  
+  
+Growth Media6470  
+  
+p38i (20mM stock)90 uL,5607  
+  
+LAA2P  
+30 uL,5670  
+  
+  
+###  
+
+  
+
+
+
+
+Relevant Images/Figures: na  
+
+  
+
+

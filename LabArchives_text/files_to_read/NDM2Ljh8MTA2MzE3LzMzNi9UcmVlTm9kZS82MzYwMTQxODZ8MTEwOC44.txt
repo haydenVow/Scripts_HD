@@ -1,0 +1,292 @@
+
+
+Equilibration of microcarriers:
+
+  1. Prior to use, 6.75mL of sterilized microcarriers in dPBS were aliquoted to a E125mL flasks. Allowed carriers to settle and the supernatant decanted.
+  2. The microcarriers were rinsed in warm culture medium (20-50 mL/g Cytodex) (6.7mL) (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and the supernatant removed.
+  4. The microcarriers were resuspended in 30mL volume of culture medium.
+  5. The culture vessel was transferred to the incubator to equilibrate for at least 1h [10:14]
+
+Notes: P38i still needs to be added, culture media was DMEM/F12 + 20% FBS +
+1xP/S
+
+Reagents used:
+
+Cytodex 1: m4203
+
+Culture media/Growth media: m4380
+
+
+
+
+Equilibration of 2xE125 flasks containing cytodex 1 microcarriers:
+
+  1. Prior to use, 6.75mL of sterilized microcarriers in dPBS were aliquoted to a E125mL flasks. Allowed carriers to settle and the supernatant decanted.
+  2. The microcarriers were rinsed in warm culture medium (20-50 mL/g Cytodex) (6.7mL) (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and the supernatant removed.
+  4. The microcarriers were resuspended in 30mL volume of culture medium.
+  5. The culture vessel was transferred to the incubator to equilibrate for at least 1h [1:45]
+
+Notes: P38i still needs to be added, culture media was DMEM/F12 + 20% FBS +
+1xP/S
+
+Reagents used:
+
+Cytodex 1: m4203
+
+Culture media/Growth media: m4336
+
+
+
+
+Equilibration of three more E125 flasks:
+
+  1. Cytodex 1 microcarrier suspension, 3 x 6.8 mL (~21 mL @ 7 mg/mL = 147 mg), was transferred to 1 x E125
+  2. The microcarrier suspension was diluted in 60 mL of growth medium
+  3. The flask was swirled to resuspend the microcarriers
+  4. The microcarriers were allowed to settle  
+
+  5. The supernatant was aspirated, measured and discarded
+  6. Fresh growth medium was added to the flask to make the volume up to 90 mL (~1.6 mg/mL)
+  7. The original flask was swirled to resuspend the microcarriers
+  8. An aliquot of 30 mL was transferred to another E125 flask
+  9. The previous 2 steps were repeated
+  10. The flasks were transferred to the incubator
+  11. Cytodex 1 microcarrier suspension, 37 mL (~37 mL @ 7 mg/mL = 258 mg), was transferred to 1 x 100 mL jar  
+
+  12. The tube was diluted with growth medium to 100 mL  
+
+  13. The microcarriers were allowed to settle  
+
+  14. The supernatant was aspirated  
+
+  15. The remaining microcarrier volume was measured and a third transferred to each of the E125 flasks  
+
+
+
+
+  
+
+Seed cells onto microcarriers
+
+
+
+
+### Process:
+
+Intermittent agitation to facilitate adhesion
+
+  1. Transferred cell suspension (from Culture 6434) containing `15 million cells` in   9 mL to the equilibrated microcarrier suspension in the culture vessel.
+
+Seeding vessels
+
+Culture ID
+
+ Flask Type
+
+Cells Added
+
+Microcarrier Density
+
+Flask Volume  
+  
+6454  
+
+E125  
+
+5M  
+
+  
+30ml  
+  
+  
+6455  
+
+E125  
+5M  
+  
+30 mL  
+  
+  
+6456  
+
+E125  
+5M  
+  
+30 mL  
+  
+  
+  
+
+  1. Transferred vessel to incubate at:
+
+  * [ X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+  
+
+  1. Began the seeding schedule for 6 hours (below) using the KASA app.
+    1. The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing
+      * Shake speed used = 120 RPM  
+
+    2. The seeding schedule may be reduced or extended by removing or adding 30 minute cycles as required. Generally, at least 3 but up to 12 hours are required to allow the maximum number of the inoculated cells to adhere.
+
+
+
+
+Seeding schedule:
+
+Time elapsed from seeding
+
+Activity
+
+Time started - time finished  
+  
+0.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+1.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+1.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+2.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+2.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+3.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+3.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+4.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+4.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+5.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+5.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+6.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+Commencement of continuous agitation
+
+  1. At the conclusion of the seeding period the vessel was left to shake continuously overnight.
+
+
+
+
+### SOPs used:
+
+  
+
+
+
+
+### Observations/Summary:
+
+  
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Cytodex 1  
+M3957  
+  
+0.1% gelatin solution  
+  
+Tryple  
+  
+dPBS (for washing & neutralising)  
+  
+Growth MediaM4234 & A4380  
+  
+p38i (20mM stock)  
+
+
+  
+  
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+### Relevant Images/Figures (if applicable):
+
+  
+
+  
+
+

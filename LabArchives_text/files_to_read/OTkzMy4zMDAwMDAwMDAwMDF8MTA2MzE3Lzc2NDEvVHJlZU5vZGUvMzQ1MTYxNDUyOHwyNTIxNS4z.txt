@@ -1,0 +1,69 @@
+Performed by: LL
+Harvested Flask IDsHarvested Flask ConditionsSeeded Flask IDSeeded Flask
+Condition  
+11421  
+75/25 + no ACA  
+11541CHO-T1-SF + Soy  
+11542  
+11543CHO-T1-SF + Potato/Soy  
+  
+11544  
+11545CHO-T1-SF + Pea/Soy  
+  
+11546  
+11423  
+75/25 + 1:100 ACA  
+11547CHO-T1-SF + Yeast/Soy  
+  
+11548  
+11549 CHO-T1-SF + Yeast  
+  
+11550  
+11551Control (3:1 RPMI/HyCell + 3 mg/mL yeast + Nuvonis ingredients)  
+11552
+
+
+Prepare media
+  
+  
+  1. Aliquoted 80 mL of each of the 5 x CHO-T1-SF media into 5 x 120 mL urine containers (wrapped containers in foil to protect from light) 
+  2. Added IGF, EGF, and transferrin to each aliquot as described in table below 
+  3. Aliquoted 100 mL of 75/25 RPMI/HyCell + 3 mg/mL yeast + 1 g/L poloxamer + 0.02 mg/mL putrescine + L-ornothine 
+  4. Added IGF and EGF as described in table below 
+  5. Added 40 mL of each media type to 2 x E125s (20 mL/E-125) for a total of 12 x E-125s
+  6. Placed CHO-T1-SF E-125s in incubator at 37'C, 10% CO2 to warm and equilibrate. Placed RPMI/HyCell E-125s in incubator at 37'C, 5% CO2. 
+
+
+CHO-T1-SF additives
+Volume80  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+CHO-T1-SF base mediumNANANA79.736  
+IGF-1 LONG R30.000050.050.0040.080  
+EGF0.000010.050.0010.016  
+Transferrin0.0051000.4000.004
+
+
+RPMI/HyCell additives
+Volume100  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+IGF-1 LONG R30.000050.050.0050.100  
+EGF0.000010.050.0010.020
+
+
+Seed cells
+  
+  
+  1. Received 12M cells from EPIC31221 (lab book link)
+  2. Retrieved E-125s from incubator 
+  3. Added 1M cells to each E-125 
+  4. Returned E-125s to incubator 
+
+

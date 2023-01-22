@@ -1,0 +1,116 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+384 well plate  
+7452-F_DOLLY12-Sheep P9-1of1  
+96 well plate  
+7516-F_DOLLY12-Sheep P10-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem5076  
+  
+dPBS (for washing & neutralising)a5618  
+  
+Growth Mediaa5886  
+  
+  
+  
+
+
+
+
+### Process:
+
+  1. Took image of vessel on Zaber on phase setting.
+  2. Aliquotted 22 mL of growth media and left it at room temperature while preparing OT2 deck.  
+
+  3. Prepared a 384 wp with PBS and tryple as shown in the image. 50uL/well of PBS was added to the left half of the plate and 40uL/well tryple was added to the right half of the plate. 
+    1.   4. Added 200uL/well of growth media (that was room temperature) to a 96 well plate.
+  5. Uploaded the attached protocol and set up the OT2 deck as shown below. Note: this protocol passages wells A1 to P6 of the 384 wp.
+    1. 
+
+
+
+  1. Removed 384wp from the incubator    14:50  and placed in OT2 in position 7
+  2. Calibrated OT2 and started run 14:58
+    1. Run time: 02:17:08
+  3. 96 well plate placed in the Thermo incubator at: 17:22 
+    * [X]  37ºC, 5% CO2 (mammalian cells)
+
+
+
+
+Observations/Summary:
+
+Passaged wells A1 to P6 of a 384 wp to a 96 wp using OT2.
+
+Bubbles at the end of the pipette tip were observed which were not seen in
+water runs. This was probably due to the protein in growth media. Avoiding
+blowout, or pre-wetting the tip, or aspirating a higher volume, or dispensing
+faster will be tested to prevent this.
+
+Future protocol changes will also include the use of a Thermo 96 wp rather
+than Corning as Thermo plates will be available more going forward.
+
+There were many cells left in the 384 wp (compared to what I've observed when
+doing this process manually). I would like to try aspirating a higher volume
+at the final step to ensure we can collect all the cell suspension before
+transferring it to the 96 wp.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Images of wells with cells remaining after the passaging on OT2
+
+  
+
+For comparison, this is what wells looked like after a manual passage (lab
+book entry)
+
+

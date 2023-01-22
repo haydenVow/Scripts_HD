@@ -1,0 +1,177 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T75  
+7072 (E8 + goodies)  
+7130-F_DOLLY12-Sheep P12-1of1  
+  
+  
+T75  
+7071 (Serum ctrl)  
+7131-F_DOLLY12-Sheep P12-1of1  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ] DMEM/F12 + 20% FBS + 1X P/S
+  * [ ] E8 + goodies
+
+
+
+
+### Process:
+
+  
+
+Note* due to Fibrolife flask containing almost 0 adherent cells, it was
+decided to discard these and move forward with E8 + goodies.
+
+  
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    10     mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     20   mL in    1    tubes
+  3. Growth media (for pellet resuspension):    1     mL of each media in    1   tube each  
+
+  4. Growth media (for seeding):      12   mL of each media in    1     tube
+
+Time that all aliquots were placed in the water bath the warm before use
+10:33 am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     10:43   am
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      5   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    10:47 am 
+
+7\. Neutralised with     5     dPBS and combined cell suspension into a
+15mL    tube for each media type.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    11: 02  am 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL      respective    media     :   am
+
+11\. Aliquoted     10uL each    of resuspended cells into a microcentrifuge
+tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:      E8 + goodies: 412,000  
+Serum control ~2M  
+
+  2. Volume of cell suspension required for subculture was:      E8 + goodies: all  
+Serum control: 271uL  
+
+  3. Cell density per vessel:       412,000 cells per `100mm plate     
+
+
+
+
+13 E8 + Goodies . Transferred      all     µl of cell suspension to the pre-
+warmed       10    mL Growth media:      11:30    am
+
+13 Serum control . Transferred      271     µl of cell suspension to the pre-
+warmed       10    mL Growth media:      11:30    am
+
+14\. Transferred cell suspension into the pre-gelatin coated      100mm plates
+vessel.
+
+  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 4949  
+  
+dPBS (for washing & neutralising)A 5067  
+  
+Growth MediaM 4867  
+  
+E8 + goodies  
+Not recorded due to time required to add details to Sv2  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- Fibrolife cells 99% detached from surface of flask
+
+Successful passage of fibroblasts in E8 + goodies and serum control into 100mm
+plates each
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ X ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A due to grey button on library lab primovert not working for camera
+
+

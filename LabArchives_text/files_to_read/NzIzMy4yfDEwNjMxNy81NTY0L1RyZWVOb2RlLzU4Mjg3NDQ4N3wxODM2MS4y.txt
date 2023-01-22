@@ -1,0 +1,72 @@
+Background
+
+
+Currently, Vow has staining capabilities for immunofluorescence using
+antibodies that will mark transcription factors MyoD, Pax7, MyoG and the
+cytoskeletal protein marker Myosin heavy chain. Myosin heavy chain, stained
+for with an anti-MF20 antibody, is commonly used to visualise myotube
+formation. However, it produces a weak signal when conjugated to an AF555
+secondary antibody. This results in difficulty understanding the cytoskeletal
+structures such as striations seen along myotubes. Filamentous actin (aka
+microfilaments) are proteinous components found universally in eukaryotic
+cytoskeletons. In this EPIC we aim to develop a suitable fluorescent stain for
+f-actin and assess its muscle-specificity.
+
+
+Results Summary
+
+
+The Phalloidin-iFluor 488 stain (Abcam) is suitable for staining f-actin,
+showing the cytoskeletal structure of our cells. As per Figure 1., the
+fluorescent signal comparing the 20-minute and 30-minute incubations of the
+cells in Phalloidin-iFluor-488 (1:1000 in dPBS) shows that either 20 or 30
+minutes of incubation are suitable to obtain a clear signal.
+
+Biologically, the signal of the f-actin stain in the cells differentiated in
+2% HS (horse serum) is stronger than that of cells differentiated in E6 media.
+This indicates that actin production is media-dependent for differentiating
+Myoblasts.
+
+
+Discussion
+
+
+Staining for f-actin is achievable with the Phalloidin-iFluor-488 stain and
+provides great detail of cytoskeletal structure, showing alignment and
+distribution of cellular cytoplasm. The stain is easy-to-use (1:1000 dilution
+in dPBS) and requires a 20-30 minute incubation at room temperature. The stain
+is not muscle-specific, as seen in Figure 2., overlaying the 488 and 555
+channel images for each well demonstrates that phalloidin is present in every
+cell, whereas myosin heavy chain is isolated to specific myotubes.
+
+Whilst there is some bleed-over of the phalloidin stain into the 555 channel
+(when imaged), the phalloidin stain results in a strong signal showing
+intricate cytoskeletal structures. Therefore, it is not recommended to co-
+stain for MF20-AF555 alongside Phalloidin-iFluor-488 to avoid this bleed-over
+of signals. Alternatively, the concentration of the phalloidin stain could
+possibly be reduced to avoid the strong bleed-over (as it is more obvious in
+the strong signal samples than those with a weaker signal).
+
+Biologically, the results indicate that E6 differentiation media is less
+effective at encouraging f-actin synthesis compared to the 2% HS
+differentiation media. This observation is out of the scope of this
+experiment, but will be included in future directions to assess why this may
+be the case.
+
+
+Limitations
+
+
+  * This experiment did not include a negative control
+  * This experiment stained only BUFFY6 cells, and therefore the stain has not been assessed in other species cell lines (however f-actin is highly conserved so it is assumed that the stain will work for all eukaryotic cells)
+
+
+Next steps
+
+  * Determine why the intensity of the signal is much higher in the 2% HS samples compared to the E6 samples.
+  * Assess the effectiveness of this stain on cells from multiple species.
+  * Design ImageJ macros to use the f-actin stain to determine alignment of cell directionality.
+  * Test out the stain at a lower concentration to determine whether this will mitigate the bleed-through of signal to the 555 channel.
+  * Develop an SOP for Phalloidin-iFluor-488 staining.
+
+

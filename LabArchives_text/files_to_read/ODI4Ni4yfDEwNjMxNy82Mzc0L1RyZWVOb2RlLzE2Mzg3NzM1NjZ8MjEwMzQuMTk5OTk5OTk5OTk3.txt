@@ -1,0 +1,105 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)ConditionSeeded Flask Type  
+  
+  
+
+13104-FrzCul-C2C12-Vial-79of81
+
+  
+
+10299-C2C12-Mouse P-1of1
+
+  
+
+L-15 + 20% FBS  \+ 1x P/S, 0% CO2
+
+4x T175  
+  
+10298-C2C12-Mouse P-3of3
+
+  
+DMEM/F12 + 20% FBS + 1x P/S, 0% CO2  
+  
+  
+10297-C2C12-Mouse P-2of3
+
+  
+DMEM/F12 + 20% FBS + 1x P/S, 0% CO2  
+  
+  
+10296-C2C12-Mouse P-1of3
+
+  
+DMEM/F12 + 20% FBS + 1x P/S, 5%CO2  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+L-15 + 20% FBS  \+ 1x P/S + 10mM p38i  
+M10000  
+15  
+DMEM/F12 + 20% FBS + 1x P/S + 10mM p38i  
+A9998  
+45  
+P38i (20mM stock)M7354  
+7.5 uL, 22.5 uL  
+  
+  
+
+
+
+
+Process:
+
+  1. Place media aliquots in water bath: 14:40  
+ 15 mL of  L-15 + 20% FBS  \+ 1x P/S  \+ 7.5 uL p38i  
+ 45 mL  mL of  DMEM/F12 + 20% FBS + 1x P/S  \+ 22.5 uL p38i
+
+  2. Imaged 3 locations on each flask at 10x on the Primo microscope. 
+  3. Removed  50% of supernatant from vessels. 
+  4. Replaced with 15mL (per vessel) of  growth media as indicated (L-15 for ID 102999, remaining cultures receive D/F)
+  5. Returned vessel to incubate at: 15:38
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells), incubator 120, ID:10296
+  * [X ]  37ºC, 0% CO2 (mammalian cells), incubator 118, ID:10297, 10298, 10299
+
+  
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. Vessels listed above
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10298: https://ranger.vow.tools/#/session/reciTnjBb8mNF6nWm/images  
+10296: https://ranger.vow.tools/#/session/recpxVIGtn2NNGXKe/images  
+10299: https://ranger.vow.tools/#/session/recUdpaotzfo9533J/images  
+10297: https://ranger.vow.tools/#/session/recJBR3q6ll66irHU/images
+
+

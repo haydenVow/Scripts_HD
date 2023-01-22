@@ -1,0 +1,479 @@
+
+
+\- zein/gluten scaffolds were not able to be removed from wells
+
+\- zein scaffolds shrunk considerably after <24H in cell culture conditions
+(in growth media, 37'C, 5%CO2)
+
+\- zein scaffolds became amorphous after 1 day in culture conditions -
+difficult to handle - stuck to tweezers when transferring
+
+\- could not "flip" zein scaffolds to image other side due to their blob-like
+morphology
+
+\- zaber images show seemingly good confluence on the zein scaffolds on d1
+prolif and d8 diff
+
+\- zaber images show no cells remaining adhered to the zein/gluten scaffolds
+on d8 diff
+
+
+
+
+Plate map
+
+Confluence % from Fiji analysis vs EH & LL scoring manually
+
+Blue = low, white = middle, red = high  
+
+  
+
+
+
+
+Day 1 proliferation - Zein scaffold confluence results table (based off manual
+scoring)
+
+  
+
+Condition
+
+Replicate
+
+Confluence
+
+Average
+
+Stdev  
+  
+1.3 WZ
+
+1
+
+90
+
+88.33
+
+2.89  
+  
+1.3 WZ
+
+2
+
+85  
+  
+1.3 WZ
+
+3
+
+90  
+  
+1.3 DZ
+
+1
+
+90
+
+93.33
+
+2.89  
+  
+1.3 DZ
+
+2
+
+95  
+  
+1.3 DZ
+
+3
+
+95  
+  
+0.7 WZ
+
+1
+
+85
+
+75.00
+
+17.32  
+  
+0.7 WZ
+
+2
+
+55  
+  
+0.7 WZ
+
+3
+
+85  
+  
+0.7 DZ
+
+1
+
+70
+
+80.00
+
+10.00  
+  
+0.7 DZ
+
+2
+
+80  
+  
+0.7 DZ
+
+3
+
+90  
+  
+0.5 WZ
+
+1
+
+90
+
+35.00
+
+47.70  
+  
+0.5 WZ
+
+2
+
+10  
+  
+0.5 WZ
+
+3
+
+5  
+  
+0.5 DZ
+
+1
+
+70
+
+73.33
+
+5.77  
+  
+0.5 DZ
+
+2
+
+80  
+  
+0.5 DZ
+
+3
+
+70  
+  
+0.7 Serum DZ
+
+1
+
+80
+
+83.33
+
+2.89  
+  
+0.7 Serum DZ
+
+2
+
+85  
+  
+0.7 Serum DZ
+
+3
+
+85  
+  
+0.7 Serum WZ
+
+1
+
+60
+
+46.67
+
+12.58  
+  
+0.7 Serum WZ
+
+2
+
+35  
+  
+0.7 Serum WZ
+
+3
+
+45  
+  
+  
+  
+Day 7 differentiation - Zein scaffold confluence results table (based off
+manual scoring)
+
+Condition
+
+Replicate
+
+Confluence
+
+Average
+
+Stdev  
+  
+1.3M, wet, ACF
+
+1
+
+15
+
+31.67
+
+24.66  
+  
+2
+
+20  
+  
+3
+
+60  
+  
+1.3M, dry, ACF
+
+1
+
+15
+
+43.33
+
+27.54  
+  
+2
+
+70  
+  
+3
+
+45  
+  
+0.7M, wet, ACF
+
+1
+
+65
+
+46.67
+
+36.17  
+  
+2
+
+5  
+  
+3
+
+70  
+  
+0.7M, dry, ACF
+
+1
+
+25
+
+46.67
+
+18.93  
+  
+2
+
+55  
+  
+3
+
+60  
+  
+0.5M, wet, ACF
+
+1
+
+X
+
+7.50
+
+3.54  
+  
+2
+
+5  
+  
+3
+
+10  
+  
+0.5M, dry, ACF
+
+1
+
+25
+
+31.67
+
+25.66  
+  
+2
+
+10  
+  
+3
+
+60  
+  
+0.7M, wet, serum
+
+1
+
+25
+
+36.25
+
+25.62  
+  
+2
+
+10  
+  
+3
+
+40  
+  
+4
+
+70  
+  
+0.7m, dry, serum
+
+5
+
+65
+
+27.50
+
+25.00  
+  
+6
+
+15  
+  
+7
+
+15  
+  
+8
+
+15  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+
+Fig.1 Graph to show confluence of Zein scaffolds seeded under different
+conditions after 7 days in differentiation medium (E6)  
+(n=3) Error bars represent the standard deviation. Outliers not removed.
+
+Fig.2 Graph to show confluence of Zein scaffolds seeded under different
+conditions after 7 days in differentiation medium (E6)  
+(n=3) Error bars represent the standard deviation. Outliers manually removed.
+
+  
+
+Note - Zein/gluten samples showed a significant loss of confluence by day 7 in
+differentiation medium, wherein very little to no cells were observed on any
+of the samples, and for this reason were not included in the above graph. A
+reason for this cell loss could likely be related to the inability to move the
+scaffolds during cell culture. Wherein, from day 1 it was difficult to
+visualize whether the cells seeded had adhered predominantly to the base of
+the 96-wells or to the scaffold itself. Regardless of using non-tissue
+cultured treated plates, we have typically observed high cell adhesion and
+confluence on the base of wells following cell seeding, and for this reason we
+move scaffolds to new plates following seeding (day 1). Thus, as these
+scaffolds could not be moved it is likely that the cells on the base of the
+wells became overly confluent during the total 9 day cell culture period and
+subsequently became apoptotic and/or de-laminated from the base of the wells
+and were lost during the daily media changes. In addition, over confluent and
+dying cells on the base of the well will have released apoptosis signals and
+detrimental by-products into the media, and this may have had a negative
+effect on any cells which had initially adhered to the zein/gluten, and would
+explain the lack of scaffold confluence on these samples.  
+  
+Based on the graphs above (Fig.1-2) it can determined that a seeding density
+of >0.5M may be better for achieving higher scaffold confluence. However,
+based on the data without outlier removal this was not a significant finding.
+Wherein, based on one-way ANOVA analysis only the scaffold type condition
+(zein and zein/glurten) was identified as a significant influencing factor on
+scaffold confluence (see Fig.3 below), with zein only scaffolds having a
+significantly higher confluence than the zein/gluten, which lost all cells by
+day 7 in differentiation. Whereas seeding density and scaffold wetness did not
+have a significant effect on confluence.
+
+When outliers were removed from the data set it could be inferred that the
+0.7M seeding condition resulted in higher confluence than the 0.5M and 1.3M
+cells/scaffold seeding approaches. In addition, the wet treatment appeared to
+have a positive effect on confluence relative to dry scaffold condition when
+seeded with 0.7M, but the benefit of wet versus dry seeding was not seen for
+the other two seeding densities. Despite, these observation it should be noted
+that with outliers removed the replicate number for each condition (except
+0.5M wet) was reduced to n=2 and consequently cannot be considered a reliable
+finding.
+
+Fig.3 One-way ANOVA output  
+  
+It should also be noted that the high variation between the zein scaffold
+conditions (with and without outliers) was likely caused by the shrinking
+effect observed for the zein scaffolds (Fig.4-5). Wherein, upon placing in
+cell culture conditions the scaffold material shrunk and 'scrunched up'. It
+was also observed that the degree of 'scrunching' varied between the
+scaffolds. Wherein, the non-seeded side of the scaffolds enclosed and
+scrunched over the seeded area of the scaffolds, covering and distorting
+imaging of the scaffold (Fig.5). As a result, it is difficult to rely on only
+DAPI imaging of these scaffolds to represent true confluence. In this way,
+analysis may be better suited to our upcoming ELISA platform. In which janus
+green elution from the scaffolds would give a more accurate representation of
+how many cells remained on the scaffold by day 7, whereas our fluorescent
+imaging analysis was clearly hindered by the changing scaffold morphology
+(scrunching/shrinking).  
+
+  
+
+Fig.4  Photograph to show Zein scaffold shrinking
+
+Fig.5 Zaber DAPI fluorescent image (5x) to show Zein scaffold
+shrinking/scrunching
+
+  
+
+

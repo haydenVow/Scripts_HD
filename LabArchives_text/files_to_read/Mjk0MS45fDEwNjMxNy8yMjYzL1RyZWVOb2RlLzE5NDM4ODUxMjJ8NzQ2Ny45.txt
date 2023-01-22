@@ -1,0 +1,74 @@
+
+
+
+
+
+## Performed by: Avani
+
+
+
+
+Process:
+
+7267-DOLLY12-Sheep P9-2of3 is in Thermo incubator.
+
+  1. Stain with sterile filtered Hoechst (stock ID 2463) by adding 20uL/mL to each well. Because each well has 140uL/well of media, this would equal to 2.8uL/well of Hoechst.
+    1. Note: only 18 wells need staining (column 2, 3, and 4 of the plate). Edge wells contain PBS only.
+  2. Incubate for 10 min. Confirm staining on Axio. Incubate for 10 min more if needed. 15:34 - 15:54
+    1. Cells were not stained even after 20 minutes. So fix + DAPI was performed.
+  3. Wash wells twice with 150uL/well of PBS
+  4. Fix cells for 15 minutes with 4% PFA (100uL/well) at room temp. 16:05-16:20
+  5. Stain cells with DAPI (1:1000 in PBS) by adding 100uL/well and incubating for 5 min. 16:22-16:27
+  6. Wash wells twice with 150uL/well of PBS for 5 minutes each.
+  7. Image on the Zaber on 5x (one image per well).
+  8. Parafilm plate and store in fridge (4 degrees C).
+
+  
+
+
+
+
+Observations/Summary:
+
+Fixed and DAPI stained culture 7267. Imaged on Zaber (5x). Hoescht staining
+the cells did not work.
+
+
+
+
+Reagents used:
+
+PFA: a3098
+
+DAPI: m2193
+
+PBS: m5385
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because... We expected live cells to stain with Hoechst 
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

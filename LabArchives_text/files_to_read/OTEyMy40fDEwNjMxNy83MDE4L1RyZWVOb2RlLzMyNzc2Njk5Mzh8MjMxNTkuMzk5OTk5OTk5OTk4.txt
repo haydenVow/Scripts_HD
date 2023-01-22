@@ -1,0 +1,210 @@
+
+
+## Performed by:
+
+
+
+
+PROCESS:  
+  
+On the 30-50,000 cells set aside at harvest, run bradford assay to measure
+total crude protein in cells from each creatine media condition.
+
+
+
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+  
+  
+Figure 1: High level workflow for the Bradford assay
+
+
+  
+  
+  
+
+Process:
+
+  1. Removed culture plate/s from incubator and removed existing media in wells.
+  2. Washed each well/sample twice with PBS for 5 minutes  : - : a/pm 
+
+For adherent cultures, protein values can be normalised to cell counts
+obtained from DAPI images. Perform a Hoescht stain of all relevant wells.
+
+  1. Prepared Hoescht/PBS mix (1 drop of Hoescht stain for every 2mL of PBS)
+  2. Added     uL Hoescht 33342/PBS mix to each well and incubated for 15 minutes in the dark at RT  : - : a/pm 
+  3. Imaged relevant wells on Zaber on DAPI channel at 5x.
+  4. Removed Hoescht/PBS mix from wells and added    uL  of PBS (Note: use the minimum amount to cover all wells evenly).
+  5. Cut and applied PCR plate seal or similar to seal the lid and the body of the well plate, ensuring no liquid is able to penetrate.
+
+Freeze - thaw:
+
+  1. Filled the inside space of a styrofoam box lid 3/4 fully with liquid nitrogen.
+  2. Ensure plate is thoroughly sealed/eppendorf tubes are fully capped.
+  3. Submerged samples, freezing in liquid nitrogen for 3 minutes, then thawed in water bath at 37 degrees for 3 minutes. Performed for three freeze-thaw cycles.
+
+  : - : a/pm
+
+  : - : a/pm
+
+  : - : a/pm
+
+4\. Aspirated lysate supernatant from each well and transferred into marked
+Eppendorf tubes.
+
+5\. Centrifuged tubes for 5 mins at 650g using microcentrifuge   : - : a/pm
+
+Note: Keep tubes at 4 degrees when not in use
+
+Preparing standard curve dilutions:
+
+  1. Made up a stock 2mg/mL solution by weighing 20 mg of BSA powder and dissolve into 10 mL of PBS.
+  2. Constructed dilutions of BSA stock for standard curve in Row A of a non-treated 96 well plate (see plate map for location) using the volumes in PBS and BSA stock in the table below:
+
+  
+
+2000 (ug/ml)  
+
+1500 (ug/ml)  
+
+1000 (ug/ml)
+
+750 (ug/ml)  
+
+500 (ug/ml)  
+
+250 (ug/ml)  
+
+125 (ug/ml)  
+
+25 (ug/ml)  
+
+12.5 (ug/ml)  
+
+6.75 (ug/ml)  
+
+0 (ug/ml)  
+  
+  
+BSA (uL)
+
+200
+
+150
+
+100
+
+75
+
+50
+
+25
+
+12.5
+
+2.5
+
+1.25
+
+0.675
+
+0  
+  
+PBS (uL)  
+
+0
+
+50
+
+100
+
+125
+
+150
+
+175
+
+187.5
+
+197.5
+
+198.75
+
+199.325
+
+200
+
+  
+  
+  
+  
+
+Performing the Bradford assay:  
+
+  1. Tested the appropriate sample volume to use with Bradford reagent by pipetting 5uL, 10uL and 20uL of sample/s supernatant (use more than one sample for testing if a large variation in total protein is anticipated) with 250uL of Bradford reagent. Monitored for 5 minutes to determine which volume yields a grey/blue colour change. 
+  2. Added 250uL of Bradford reagent to each of the standard and sample areas as outlined in the plate map.
+  3. Added     uL of each standard dilution to the corresponding triplicate wells containing Bradford reagent. This should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  4. Added     uL of each of the sample supernatants to the corresponding triplicate sample wells containing Bradford reagent (see plate map). This volume should be the same as the optimal sample volume that gives a grey/blue change in step 1 above.
+  5. Repeated step 4 for additional plates if required (each 96 well plate holds 12 samples)
+  6. Using a multichannel pipette, mixed each well containing Bradford and sample/standard thoroughly.
+  7. Centrifuged each plate for 1 minute at 650g to minimise bubbles.
+  8. Read absorbance using Nanostar plate reader at 595 nm.
+  9. Attached .csv files to lab book.
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS (non-sterile)  
+  
+  
+Hoescht 33342  
+  
+  
+Bradford reagent (Coomassie Brilliant Blue)  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,218 @@
+
+
+## Author: Kylie  
+
+
+
+
+Clubhouse Link: https://hooks-
+cal.clubhouse.io/hooks/v1/5f42e8b1-d297-47c5-97d1-5692a3220b09/60e7f41e-4eb5-4102-96b9-78d2065a4c56/calendars/epics/23355
+
+
+Aim/Purpose
+
+
+To stimulate differentiation and alignment through passive mechanical
+stimulation using DOLLY12 cells encapsulated in a greater volume of collagen
+gels on 3D printed anchor point or conical shaped constructs.
+
+
+Hypothesis
+
+
+DOLLY12 cells will survive the collagen encapsulation process and demonstrate
+elongation and alignment between the anchor points and across the conical
+inserts placed within the a greater volume of gel.
+
+
+Technical Gap/Background
+
+
+In a previous experiment we confirmed MuSC survival following cell
+encapsulation in PureCol EZ Gel solution (ratio of 4:1 with DMEM/F12, see
+here) on conical and pin inserts, up to 4 days in E6 culture conditions. The
+gels containing cells contracted significantly. Therefore we are interested to
+see if a greater volume of gel inside the inserts will prevent the gels from
+contracting and detaching from the inserts early on in the experiment, whilst
+still allowing DOLLY12 MuSCs to survive, migrate, align and mature between 3D
+printed anchor points. Previously we used  300 uL of cell + gel for the no
+inserts and pin insert samples, and 150 uL of gel for conical inserts samples.
+For this experiment we will increase the gel amount to 800 uL of cell + gel
+for the no inserts and pin insert samples, and 300 uL of gel for conical
+inserts samples.  
+  
+
+
+Method/Procedure
+
+
+Brief summation:
+
+  * We will prepare cell-laden and cell free collagen gels with or without conical inserts or anchor point inserts (inserts added before gel setting). 
+  * Subsequently, we will observe the samples, assessing for cell migration/alignment over 14 days. We will image cells with CMFDA live cell tracker at day 2, to see if there is any effects of changing from prolif media to E6. 
+  * On day 14 in diff media we will measure the thickness and width of samples with digital calipers while still on the construct, then remove samples with forceps from anchor-point construct for analysis and weigh them. 
+  * On D14 samples will be primary and secondary stained for MyoG and MF20 (and also DAPI stained) and imaged.  
+  
+Experiment Plan
+
+Samples:  
+
+n=3 cell-laden collagen hydrogels on anchorpoint inserts  
+
+n=3 cell-laden collagen hydrogels on conical inserts  
+
+n=3 cell-laden collagen hydrogels without inserts  
+
+n=3 cell free collagen hydrogels without inserts
+
+n=2 cell free collagen gels on conical inserts
+
+n=2 cell free collagen gels on Anchorpoint inserts
+
+  
+
+= 9 cell-laden samples total
+
+= 16 samples overall  
+  
+
+  
+
+Cell containing:
+
+Anchor points and no insert samples will contain: 640ul collagen sol: 160ul
+cell suspension (4:1) - final volume of 800 uL in each well
+
+Conical insert samples will contain: 240ul collagen sol: 60ul cell suspension
+(4:1) - final volume of 300 uL in each well
+
+Cell free:
+
+No cells anchor point  samples and no insert samples: 640 uL collagen sol :
+160uL growth media - final volume of 800uL per well.
+
+No cell conical insert samples will contain: 240ul collagen sol: 60ul growth
+media  (4:1) - final volume of 300 uL in each well
+
+Media requirements:
+
+Cell free:  
+Collagen: ~3.680 mL  
+Media (no cells): 0.920 mL
+
+Cell containing:  
+Collagen: 4.560 mL  
+Media with cells : 1.140 mL (95M cells in 1140uL of cell suspension media.
+Each sample has a seeding density of 16.67M cells per mL)
+
+  
+
+Experiment timeline and methods
+
+D-10 Culture cells
+
+D-1 Sterilise all inserts and trays (autoclave at least 4 anchor point inserts
+and 4 conical inserts and 2 trays)
+
+D-1 Prepare media for the experiment:
+
+For seeding:  DMEM/F12 + 20% FBS + 1x P/S (with phenol red) ~40ml
+
+For D1 feeds onward: Differentiation media E6 + 1x P/S (with phenol red)
+~130ml for 1 week (make again on D6 diff)  
+
+D0 Harvest and encapsulate cells  
+
+  
+
+Prepare plate:
+
+  1. Add sterile inserts into a sterile tray and place the tray onto a non-treated 24-well plate (see plate map below). Place lid ontop and parafilm. Place the plate with the tray and inserts into the fridge for a minimum of 30min before seeding
+
+Cell free seeding in gel
+
+  1. Remove PureCol® EZ Gel solution from 4°C storage (fridge)
+  2. Remove the 24 well plate from fridge and remove parafilm
+  3. Add 920uL of cold growth media to 3.680 mL of PureCol® EZ Gel 
+  4. Whilst suspension is still cold, transfer cell free mix into the wells: 
+    1. No insert: 800 uL directly in the middle (n=3)
+    2. pin insert: 800 uL to the pin insert, making sure the gel surrounds the pin (n=2)
+    3. Conical insert: 300 uL onto the conical inserts (n=2) 
+
+Cells-laden seeding in gel
+
+  1. Prepare cell suspension (95M cells in 1.140 ml in GM and place in fridge at 4'C for a minimum of 10 minutes (~1hr max). 
+  2. Remove PureCol® EZ Gel solution from 4°C storage (fridge)
+  3. Add 1.140ml of the cold cell suspension to 4.56 ml of cold PureCol® EZ Gel solution (ratio of 4:1 gel:cells, based on: https://advancedbiomatrix.com/purecol-ezgel.html) 
+  4. Remove the 24 well plate from fridge and remove parafilm
+  5. Whilst the cell-gel mix is still cold seed the inserts (IMPORTANT TO BE QUICK SO MIX STAYS COLD):
+    1. anchor points: 800ul per well around and between the insert legs (n=3)
+    2. conical inserts: 300ul per well around the perimeter trough of the insert (n=3)
+    3. no inserts: 800ul to the center of the well (n=3 )  
+  
+
+  6. Move the plate containing the gels into the incubator (37°C, 5% CO2). Gelation will occur within 40 minutes, but allow approximately 60 to minutes for firm gel formation (should start almost immediately).
+  7. After 60 minutes (or until gel is firm can take up to 90 min) add pre-warmed proliferation media to each well (DMEM/F12 + 20% FBS + 1x P/S + p38i, enough media to fully immerse samples ~1.5mls per well).  
+  
+Note - add media gently to the side of the well so as not to dislodge the gels
+from the insert
+
+  
+
+D0 100% media change (E6)
+
+D1 100% media change (E6)
+
+D1 Stain with CMFDA and image
+
+D2 100% media change (E6)
+
+D3 100% media change (E6)
+
+D4 100% media change (E6)
+
+D5 100% media change (E6)
+
+D6 100% media change (E6)  
+
+D7 100% media change (E6)
+
+D7 Stain with MyoG and MF20 and DAPI (possible)  
+
+D8 100% media change (E6)
+
+D9 100% media change (E6)
+
+D10 100% media change (E6)
+
+D11 100% media change (E6)
+
+D12 100% media change (E6)  
+
+D13 100% media change (E6)
+
+D14 Measure thickness and width of samples with digital calipers while still
+on the construct. Remove samples with forceps from anchor-point construct for
+analysis and weigh on a standard lab balance.
+
+D10/14 Primary antibody staining (MyoG, MF20)
+
+Secondary antibody staining and DAPI (MyoG, MF20)
+
+Image samples
+
+Analysis
+
+Write report
+
+Update Header page  
+
+Ensure all lab books are complete & assign for review  
+
+Have entries and report peer reviewed
+
+Make amendments
+
+  
+
+

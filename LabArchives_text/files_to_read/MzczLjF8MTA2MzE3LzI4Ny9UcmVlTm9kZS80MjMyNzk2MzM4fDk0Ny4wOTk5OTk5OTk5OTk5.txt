@@ -1,0 +1,305 @@
+
+
+## Culture IDs
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4CFs and 2CFs6497-DOLLY12-Sheep P11-1of3  
+6500-DOLLY12-Sheep P11-2of3  
+6501-DOLLY12-Sheep P11-3of3  
+6502-DOLLY12-Sheep P11-1of2  
+6503-DOLLY12-Sheep P11-2of2  
+
+2CFs
+
+  
+
+6525-DOLLY12-Sheep P12-1of4
+
+6526-DOLLY12-Sheep P12-2of4
+
+6527-DOLLY12-Sheep P12-3of4
+
+6528-DOLLY12-Sheep P12-4of4
+
+6529-DOLLY12-Sheep P12-1of6
+
+6530-DOLLY12-Sheep P12-2of6
+
+6531-DOLLY12-Sheep P12-3of6
+
+6532-DOLLY12-Sheep P12-4of6
+
+6533-DOLLY12-Sheep P12-5of6
+
+6534-DOLLY12-Sheep P12-6of6
+
+  
+  
+  
+  
+
+
+
+
+## Reagent preparation:
+
+  1. Gelatin coat    10    x    2CF      vessel   with sterile filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C. (min incubation: 1 hr for T175 and 2 hr for 4CF)  
+Start: 12:05  
+End:
+
+  2. Aliquot reagents following the table below: 
+
+Note: Tryple needs to be completely warm before using otherwise cells will not
+detach
+
+ReagentStandard QuantityQantity used - 4CFTimestape
+(waterbath/incubator)Mix/Aliquot/Stock ID  
+Growth media (re-suspension)T175 = 30 mL  
+2CF = 300 mL  
+4CF = 600 mL10 x 300 = 3000 mL11:40  
+  
+A2175 - 2178  
+Growth media (seeding)T175 = 1 - 1.5 mL  
+2CF = 5 mL  
+4CF= 10 mL10 x 5 = 50 mL11:40  
+  
+2179  
+p38iVolume of prepared growth media / 20003050/2000 = 1.525 mLNA  
+M4398  
+  
+TrypleT175 = 10 mL  
+2CF = 100 mL  
+4CF= 200 mL10 x 100 = 1000 mL11:40  
+  
+M4393  
+dPBS (wash - 37)T175 = 10 mL  
+2CF = 100 mL  
+4CF= 200 mL10 x 100 = 1000 mL11:40A4488, A4484, A4452, A4487  
+dPBS (neutralise - ambient temp) T175 = 10 mL  
+2CF = 100 mL  
+4CF= 200 mL10 x 100 = 1000 mL11:40  
+  
+A4451, A4454, A4486, A4489  
+Gelatin T175 = 15 mL  
+2CF = 125 mL  
+4CF= 250 mL10 x 125 = 1250 mL12:30A4501  
+  
+  
+
+
+
+
+## Image flask
+
+  1. Observed flask under the microscope at 4x or 5x objective for even cell distribution and < 50% confluency. Refer to VSOP006_0
+  2. Took at least 3 images per flask and returned flask back to incubator.
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask (for cell factory, carefully poured growth media ideally into a >500 mL waste bottle).
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+
+
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. Flask 1 `Time stamp`: 1:05pm
+    2. Flask 2 `Time stamp`: 1:06pm
+    3. Flask 3 `Time stamp`: 1:08pm
+    4. Flask 4 `Time stamp`: 1:10pm
+
+  
+
+
+
+
+  1. Collected TrypLE solution into 50mL centrifuge tubes (labelled *).
+  2. Wash flask with ambient temperature dPBS and transferred into 50 mL centrifuge tube.  (for cell factories, preform the wash twice with 100 mL of dPBS each time)
+  3. Centrifuged at 650 x g for 5 minutes. `Time stamp` : 13:30 (for 4CF 1 and 2)
+
+  
+
+
+
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirated the supernatant from the tubes, prioritising tubes labeled with *. Discarded supernatant. Removed remaining supernatant with a 1mL pipette.
+  2. Resuspend the pellet in 1 mL of growth media at a time. Pooled into one tube. Washed tubes labeled with * with reamaining growth media by transferring media from one tube to the next.
+  3. Measure the total volume of the cell resuspension using a serological. Total resuspension volume = 38 mL
+  4. Using the same serological, pipette mix cell suspension to ensure a homegenous cell suspension is obtained. 
+  5. Immediately aliquot 2 x   100 uL  of cell resuspension into cell count tubes. Volume of cell suspension is below:  
+
+  
+
+Harvest sizeVolume of aliquot for countQuantity of aliquot  
+1-10 x T17520 uL2  
+1 - 6 X 4CF100 uL2  
+> 6 X 4CF200 uL2
+
+
+  
+  
+Cell count
+
+  1. Prepare a haemocytometer for cell count VSOP-007. 
+
+  
+Count 1Count 2Count 3  
+Extracted Volume from total suspension100ul100ul  
+  
+100ul  
+Sample volume from suspension aliquot10ul10ul10ul  
+Volume  of 4% Trypan blue20ul20ul20ul  
+Dilution Factor333  
+Total cell suspension volume383838  
+Total cell count  
+  
+  
+  
+  
+  
+
+
+
+
+  1. Triturated the obtained cell suspension 10 times (careful not to make bubbles) and transfer into trypan blue.
+  2. Triturated the cells suspended in trypan blue at least 10 times (careful not to make bubbles) and transfer 10 uL onto haemocytometer.
+  3. Performed cell count and enter details into Cell Count Calculator: 
+  4. Repeat process to the second aliquot of cell resuspension to get the second cell count.     
+Note: if the cell counts differ more than 10% of each other, perform a third
+cell count.
+
+  5. Average total cells in suspension : 55,746,000
+
+
+
+
+Seeding for continuous culture
+
+  1. Determine the required volume of suspension media and dispense into pre-aliquoted growth media.
+
+2CF seeding:  
+Total cells required: 2M per 2CF (19M for 10 x 2CF)  
+Seeding density :19000000/(2528x5) = 1503 cells per cm^2  
+Total volume of cell suspension for 2CF : 13.46mL
+
+
+
+
+  1. Transfered flasks from the incubator into the BSC. Discard gelatin.
+  2. Resuspend above volume of cells into designated growth media.
+  3. Transfered growth media into each flask. 
+  4. Allow flask to rest inside the BSC at room temperature for 20 minutes for 4CF or 30 minutes for T-Flask.  
+Start time: 16:30  
+End time :  17:00
+
+  5. Transfer the flasks into the 37C incubator.  
+Incubation time: 17:05
+
+  
+
+Incubation Conditions:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:
+
+  * [x]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+  
+
+
+
+
+Project title (Chris)
+
+`Total cells required: 50M `  
+`Total volume of cell suspension: 24.540 mL  `  
+`Link to lab book: `
+
+Project title (lead)
+
+`Total cells required:  `  
+`Total volume of cell suspension:   `  
+`Link to lab book: `
+
+  
+
+Project title (lead)
+
+`Total cells required:  `  
+`Total volume of cell suspension:   `  
+`Link to lab book: `
+
+
+
+
+### Observations/Summary:
+
+  * Lower than expected cell count
+
+###  
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+Relevant Images/Figures (if any):
+
+6497-DOLLY12-Sheep P11-1of3  
+https://mia-capture.vow.tools/#/session/recUdbLe70201DCm8/images  
+  
+6500-DOLLY12-Sheep P11-2of3  
+https://mia-capture.vow.tools/#/session/rec6hqWeLRKkMKMDp/images  
+  
+6501-DOLLY12-Sheep P11-3of3  
+https://mia-capture.vow.tools/#/session/recolk90aTIHZgNHI/images  
+  
+6502-DOLLY12-Sheep P11-1of2  
+https://mia-capture.vow.tools/#/session/recWWhkkMu7hdmN6d/images  
+  
+6503-DOLLY12-Sheep P11-2of2  
+https://mia-capture.vow.tools/#/session/recFA5kkKo2qNLorD/images  
+
+
+  
+  
+Handling cell factories:  
+
+For cell factories, majority of steps involving removing or adding large
+amount of media will be performed by carefully pouring liquid in or out of the
+cell factory.
+
+Quick tips:
+
+  * Both caps on the cell factory need to be removed when adding and removing liquid. This prevents the liquid for gurgling and forming bubbles. (vid: 2:16 - 2:44)
+  * Avoid touching the waste bottle with the cell factory opening. (sterile urine waste containers are easier to pour into)
+  * After adding liquid into the cell factory, make sure to equalise it. To equalise, return lids to cell factory and place it on its side (blue lid at the bottom side). Allow liquid to equalise before lifting it to an upright position. (vid: 0.51- 1:16)
+  * When transferring 4CF into the BSC, wipe down with ethanol sprayed ready wipe.
+  * Any accidental spills on the BSC should be wiped up with an ethanol sprayed ready wipe.
+  * Any spills on the cell factory and the slides of the opening should be wiped up with a ethanol sprayed kimwipe. (never wipe the top of the cell factory opening)
+  * If a lid of the cell factory is compromised (dropped or an object passes over it) use a replacement lid (replacements can be found in the lab draws)
+  * 
+
+

@@ -1,0 +1,99 @@
+
+
+This quick and small experiment was done ad hoc, hence it did not go through a
+formal experimental plan review process with Ella. The plan was reviewed by
+James H before execution. In future, it will be made sure that all experiments
+even ad hoc ones should be reviewed formally.
+
+
+Aim:
+
+
+To determine whether recombinant albumin is able to facilitate adherence
+similar to bovine serum derived albumin in Nuvonis fibroblasts.
+
+
+Rationale:
+
+
+Based on the previous experiments, albumin has been identified as a key factor
+in promoting suspension Nuvonis cell adherence. This study aims to determine
+if Human Recombinant Albumin achieves the same effect and if so, at what
+concentration.
+
+
+Layout:
+  
+  
+Figure 1: Experimental plate layout depicting an increasing concentration
+range of Human Recombinant Albumin with a positive serum control.  
+  
+  
+
+
+
+
+Conditions:
+
+  
+
+  
+
+Column 1
+
+Column 2
+
+Column 3
+
+Column 4
+
+Column 5
+
+Column 6
+
+Column 7
+
+Column 8
+
+Column 9
+
+Column 10
+
+Column 11  
+  
+Concentration (mg/ml)
+
+0 (negative control)
+
+3.75
+
+7.5
+
+11.25
+
+15
+
+18.75
+
+22.5
+
+26.25
+
+30
+
+33.75
+
+37
+
+
+  
+  
+Analysis:
+
+Metrics for success:
+
+  * Highest measure of cells per well compared to control (DAPI cell count for each concentration of Albumin (mg/ml)/Serum control)
+
+  
+
+

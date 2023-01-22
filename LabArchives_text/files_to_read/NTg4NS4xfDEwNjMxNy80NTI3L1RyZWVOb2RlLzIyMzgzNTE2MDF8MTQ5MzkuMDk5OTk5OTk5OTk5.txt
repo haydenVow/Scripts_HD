@@ -1,0 +1,134 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: VB  
+
+
+
+
+Feed information:
+
+Vessel type(s)
+
+Vessel ID
+
+Media/ConditionsVessel location (weekend only)Growth media location (weekend
+only) Other comments eg media container (weekend only)  
+  
+  
+
+  
+
+T25
+
+  
+  
+
+8492-F_DOLLY12-Sheep P1-1of2
+
+DMEM/F12 + 10% FBS + 1X P/S
+
+120 Ralph St-Main Lab-Sanyo Incubator 3
+
+  
+  
+  
+  
+8493-F_DOLLY12-Sheep P1-2of2
+
+DMEM/F12 + 10% FBS + 1X P/S
+
+  
+  
+  
+  
+8494-F_DOLLY12-Sheep P1-1of2
+
+E8_10C ACF Growth Medium
+
+  
+  
+  
+  
+8495-F_DOLLY12-Sheep P1-2of2
+
+E8_10C ACF Growth Medium
+
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)Volume used (mL)  
+  
+DMEM/F12 + 10% FBS + 1X P/S
+
+Mix 7386  
+  
+  
+ E8Mix 7453  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Imaged 4X T25s, 2x each at 10X magnification.
+  2. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+    * Growth media:
+      1. 11 mL x D/F + 10%FBS + 1xP/S  
+
+      2. 11 mL x E8_10C
+    * Time that all aliquots were placed in the incubator to warm before use  14 :24     
+
+  3. Collected 4X T25s from incubator, wiped with ethanol-sprayed Rediwipe, and brought into a BSC.
+  4. Removed   100 % of supernatant from vessel. 
+  5. Replaced with  5 mL (per T25 vessel) of each respective media. 
+  6. Returned vessel to incubate at: 15:02
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Incubator (# 120 ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+One of the control 10% FBS flasks appear to be marginally more confluent (ID
+8492). Appears to be 40% confluent versus 30% seen in other flasks.
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Links to mia capture for each flask:
+
+  * 8492: https://mia-capture.vow.tools/#/session/recTaD7c2gA00ciWE/images
+  * 8493: https://mia-capture.vow.tools/#/session/rec8Ah88EA6w5Wusg/images
+  * 8494: https://mia-capture.vow.tools/#/session/recTnKPcpqolq2AsA/images
+  * 8495: https://mia-capture.vow.tools/#/session/recfzyr6mc4EAPZ7P/images
+
+

@@ -1,0 +1,126 @@
+
+
+## Performed by:  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+  
+  
+KSR  
+  
+  
+Lipids  
+  
+  
+IGF-1  
+A7963  
+  
+b-FGF  
+M5077  
+  
+ ~~YIGSR~~  
+None available  
+  
+RGD  
+M5606  
+  
+Soy peptone stock solutionM8625  
+  
+Malt extract stock solution  
+M8627  
+  
+Lupin stock solution  
+M8624  
+  
+Wheat stock solution  
+M8623  
+  
+Pea stock solutionM8626  
+  
+  
+  
+
+
+
+
+## Procedure  
+
+  * Aliquot 286 mL of base medium
+  * Add 6G supplement ingredients and KSR to 286 mL aliquot as described in table below (this will result in ~320 mL aliquot)   
+
+  * GM + KSR + 6G supplement  
+  
+  
+  
+  
+Final growth medium vol (mL)320  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+Basal mediumNANANA286016.89  
+KSRNANANA32000  
+Lipid supplementNANANA320.00  
+FGF0.00010.050.032640.00  
+IGF10.00010.050.032640.00  
+ ~~PDGF  ~~(out of stock) ~~  
+~~0.00001 0.010.003320.00  
+RGD0.00013.460.0329.24  
+ ~~YIGSR  ~~(out of stock) ~~  
+~~0.0001 0.590.03253.87  
+  
+  
+  
+Total supplement vol (uL)33983.11  
+  
+  
+  
+Total medium vol (mL)320  
+  * Split 320 mL aliquot into 7 x 45 mL aliquots
+
+
+
+
+## Procedure
+
+  * Add Soy, malt extract, pea, wheat and lupin peptones to 6 x 45 mL aliquots as described in table below. Leave 1 x 45 mL aliquot as is (control). 
+  * *One of the aliquots would contain two hydrolysate (wheat & soy) supplements   
+  
+  
+Growth medium vol (mL)45  
+  
+  
+  
+  
+  
+Desired conc (g/L)Stock conc (mg/mL)Volume required (mL)Vol to add (mL)
+(C2*V2/C1)  
+Soy peptone (5g/L)510045  
+2.25  
+  
+Lupin peptone (5g/L)  
+510045  
+2.25  
+  
+Wheat peptone (5g/L)  
+510045  
+2.25  
+  
+Pea peptone (5g/L)  
+510045  
+2.25  
+  
+Malt extract peptone (5g/L)  
+510045  
+2.25  
+  
+  
+  
+
+

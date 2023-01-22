@@ -1,0 +1,61 @@
+
+
+## Completed by: Avani & Lily
+
+
+
+
+### Issue
+
+We have observed fluorescent debris on DAPI channel when performing suspension
+feeds and counts on 2 occasions. As a result, we can't obtain any cell count
+data obtained from these days. Restaining samples on the same day would
+require a significant time of unplanned work. Because it has only occurred
+occasionally and we haven't been able to identify the cause, it is difficult
+to conclude what workflow changes need to occur to prevent this from happening
+again.
+
+### Dates observed in cultures
+
+  * Monday 11th Oct DoE (EPIC24808)
+  * Monday 11th Oct (EPIC24485)
+  * Thursday 30th Sep (EPIC24485)
+
+Well after staining, normal conditions (without debris)
+
+  
+
+Example of debris seen on 30th Sep (left), Example of debris seen on 11th Oct
+(right):
+
+
+
+  
+
+  
+
+### Potential causes
+
+  * Something precipitating out of Hoechst dye
+    * Interacting with Cytox stain
+    * Interacting with dPBS
+  * Non-sterile pipette tips
+  * Debris in suspension cultures
+  * Growth media reacting with staining solution
+  * Sytox stain
+  * Non-sterile PBS
+  * Doing staining & dilutions in open/non-sterile environment
+
+  
+
+Because we've only seen this issue occur occasionally rather than every time,
+the cause is unlikely to be due to the stains, PBS, or growth media reacting
+together or precipitating. Instead, it is more likely from causes where debris
+could be introduced randomly (for example from non-sterile equipment,
+reagents, and environment).
+
+This experiment will aim to isolate the cause of debris.
+
+###  
+
+

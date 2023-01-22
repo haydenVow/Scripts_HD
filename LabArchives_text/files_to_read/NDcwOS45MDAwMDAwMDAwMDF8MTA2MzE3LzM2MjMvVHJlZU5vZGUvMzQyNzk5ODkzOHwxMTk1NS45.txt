@@ -1,0 +1,189 @@
+
+
+Perform bank using below volumes:
+
+  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+7822-F_DOLLY12-Sheep P14-1of4  
+7825-F_DOLLY12-Sheep P14-2of4  
+7826-F_DOLLY12-Sheep P14-3of4  
+7827-F_DOLLY12-Sheep P14-4of4  
+18  
+1 million  
+3405-Culture-7822-Vial-1of18  
+3406-Culture-7822-Vial-2of18  
+3407-Culture-7822-Vial-3of18  
+3408-Culture-7822-Vial-4of18  
+3410-Culture-7822-Vial-5of18  
+3411-Culture-7822-Vial-6of18  
+3412-Culture-7822-Vial-7of18  
+3413-Culture-7822-Vial-8of18  
+3414-Culture-7822-Vial-9of18  
+3415-Culture-7822-Vial-10of18  
+3416-Culture-7822-Vial-11of18  
+3417-Culture-7822-Vial-12of18  
+3418-Culture-7822-Vial-13of18  
+3419-Culture-7822-Vial-14of18  
+3420-Culture-7822-Vial-15of18  
+3421-Culture-7822-Vial-16of18  
+3422-Culture-7822-Vial-17of18  
+3423-Culture-7822-Vial-18of18  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)a6331  
+  
+Growth Mediaa6456  
+  
+freeze mediam6545  
+  
+  
+
+  
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  41 mL in | 1 | tubes
+  2.  dPBS (for washing and neutralising)   82 mL in | 1 | tubes 
+  3.  Growth media (for pellet resuspension):   10.5 mL in | 1 | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:   9 :43  
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 10 |mL tryple to each vessel/well and incubated at 37ºC for | 15 |
+min
+
+  1.  | 10:06 - 10:21 | 
+
+4\. Neutralised with | 10mL/vessel | dPBS (warmed) and combined cell
+suspension into |2x 50 ml  | tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   10:30 - 10:35    
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 10 |mL | growth | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 18 320 000 |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL.
+
+
+
+
+11\. Prepared  30 mL Freeze Medium: (FBS + 10% DMSO). ID #  
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  10:55  \-  11: 00
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 18 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted | 1000 |µL into |18  | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.  11 :20   a/pm
+
+  * [X]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [ ]  2nd Freeze
+  * [X]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+Banked 18 million late passage DOLLY12 fibroblasts.
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

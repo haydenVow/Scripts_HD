@@ -1,0 +1,256 @@
+
+
+## Performed by: AK  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Condition  
+Seeded Flask Type  
+  
+1739-Culture-4362-Vial-5of5
+
+8037-F_DOLLY12-Sheep P3-1of3  
+8038-F_DOLLY12-Sheep P3-2of3  
+8039-F_DOLLY12-Sheep P3-3of3
+
+DOLLY raw isolate  
+50 mL bioreactor spin tubes  
+2119-Culture-5951-Vial-4of15  
+2117-Culture-5951-Vial-2of15  
+2118-Culture-5951-Vial-3of15  
+8040-F_DOLLY12-Sheep P5-1of3  
+8041-F_DOLLY12-Sheep P5-2of3  
+8042-F_DOLLY12-Sheep P5-3of3  
+DOLLY MCB  
+  
+2306-Culture-6303-Vial-27of115  
+2303-Culture-6303-Vial-24of115  
+2305-Culture-6303-Vial-26of115  
+8043-F_DOLLY12-Sheep P8-1of3  
+8044-F_DOLLY12-Sheep P8-2of3  
+8045-F_DOLLY12-Sheep P8-3of3  
+DOLLY WCB  
+  
+1370-Culture-3905-Vial-17of32  
+8046-F_NANDO3-Chicken P3-1of3  
+8047-F_NANDO3-Chicken P3-2of3  
+8048-F_NANDO3-Chicken P3-3of3  
+NANDO raw isolate  
+  
+3376-Culture-7768-Vial-2of11  
+3377-Culture-7768-Vial-3of11  
+3378-Culture-7768-Vial-4of11  
+8049-F_NANDO3-Chicken P5-1of3  
+8050-F_NANDO3-Chicken P5-2of3  
+8051-F_NANDO3-Chicken P5-3of3  
+NANDO MCB  
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12 + 5% FBS + 1X P/S + 0.1% pluronic + ACA (1:100)
+
+*All culture conditions are in the same media
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM mixM6806  
+  
+###  
+
+
+
+
+Process:
+
+  1. Aliquoted 3x 21 mL + 1x 16 mL aliquots of growth media:
+    * Placed in water bath  10:16   
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (2 drops Hoechst and 1 drop Sytox per 1 mL of dPBS):
+    * 3 mL of filtered dPBS (does not have to be sterile - filtered to remove debris)
+    * 6 drops of ReadtFlow Hoechst 33342
+    * 3 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark/coloured tube until ready to use.  :  
+
+  
+
+50 mL shake tubes
+
+  1. Added protocol being used for feed as link below Process
+  2. Loaded protocol linked below on computer next to OT2 and set up deck as described at calibration step
+  3. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  4. Collected 15 x 50 mL shake tubes being fed from shaker 
+  5. Centrifuged at 300 x g for 5 min.  10:29 - 10:34    
+
+  6. Set up staining plate reagents (titled "staining plate" in protocols)
+    1. For 6 or fewer samples: 
+      1. Loaded 150 uL of stain buffer into column 1 of 96-well plate.
+      2. Loaded 100 uL of filtered dPBS into columns 3 & 4 of 96-well plate.
+    2. For 7-12 samples:
+      1. Loaded 300 uL of stain buffer into column 1 of 96-well plate.
+      2. Loaded 100 uL of filtered dPBS into columns 3, 4, 7 & 8 of 96-well plate.
+  7. If applicable, added 100 uL samples from E-flasks to appropriate wells to be stained by OT2
+  8. Ethanol-sprayed  15 x 50 mL shake tubes and loaded on OT2 
+  9. Collected 2 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of media tube rack is intended for culture in A1 of culture tube rack
+  10. Order of culture IDs in culture tube rack (placed in ascending order of culture IDs):
+    * A1: 8037 (DOLLY12 RI #1)
+    * A2: 8038 (DOLLY12 RI #2)
+    * A3: 8039 (DOLLY12 RI #3)
+    * B1: 8040 (DOLLY MCB #1)
+    * B2: 8041 (DOLLY MCB #2)
+    * B3: 8042 (DOLLY MCB #2)
+  11. Order of culture IDs in culture tube rack (placed in ascending order of culture IDs):
+    * A1: 8043 (DOLLY12 MCB #1)
+    * A2: 8044 (DOLLY12 MCB #2)
+    * A3: 8045 (DOLLY12 MCB #3)
+    * B1: 8046 (NANDO RI #1)
+    * B2: 8047 (NANDO RI #2)
+    * B3: 8048 (NANDO RI #3)
+  12. Order of culture IDs in culture tube rack (placed in ascending order of culture IDs):
+    * A1: 8049 (NANDO MCB #1)
+    * A2: 8050 (NANDO MCB #2)
+    * A3: 8051 (NANDO MCB #3)
+    * B1: Empty
+    * B2: Empty
+    * B3: Empty
+  13. Calibrated for protocol 
+  14. Ran protocol  
+    1. Start time: 10:49:28 AM
+    2. End time: 11:46
+    3. Total run time: 53 min
+  15. Plate map of culture IDs in 96-WP for imaging:
+    * Col 1Col 2 50%Col 3 25%Col 4 12.5%Col 5 12.5%Col 6 50%Col 7 25%Col 8 12.5%Col 9 12.5%  
+  
+  
+  
+  
+A8037  
+8045  
+  
+  
+  
+  
+  
+B8038  
+8046  
+  
+  
+  
+  
+  
+C8039  
+8047  
+  
+  
+  
+  
+  
+D8040  
+8048  
+  
+  
+  
+  
+  
+E8041  
+8049  
+  
+  
+  
+  
+  
+F8042  
+8050  
+  
+  
+  
+  
+  
+G8043  
+8051  
+  
+  
+  
+  
+  
+H8044  
+  
+  
+  
+  
+  
+  
+  
+
+  16. Returned vessels to incubator   11:57    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+  1. Incubated culture in stain at RT in dark for 20 - 30 minutes  12:04 - 12:34   
+
+  2. Performed serial dilution by hand to achieve a 12.5% final dilution: 
+    1. Pipette mixed and moved 100 uL of 50% stain solution + cell suspension into wells containing 100 uL of filtered dPBS 
+    2. Pipette mixed and moved 100 uL of 25% stain solution + cell suspension + dPBS into wells containing 100 uL of filtered dPBS
+    3. Pipette mixed and moved 100 uL of 12.5% stain solution + cell suspension + dPBS into empty wells for 100 uL of 12.5% dilution 
+  3. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp: 12:40 - 12:41
+  4. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:  8408     
+
+  5. Ran Mia analysis tool for suspension counts 
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recZFQCLfwdGdL3Vt/images
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+N/A
+
+Zaber observations/issues:
+
+N/A
+
+General observations:
+
+ 100   % media changed on vessel(s)
+
+  1. 8037-F_DOLLY12-Sheep P3-1of3
+  2. 8038-F_DOLLY12-Sheep P3-2of3
+  3. 8039-F_DOLLY12-Sheep P3-3of3
+  4. 8040-F_DOLLY12-Sheep P5-1of3
+  5. 8041-F_DOLLY12-Sheep P5-2of3
+  6. 8042-F_DOLLY12-Sheep P5-3of3
+  7. 8043-F_DOLLY12-Sheep P8-1of3
+  8. 8044-F_DOLLY12-Sheep P8-2of3
+  9. 8045-F_DOLLY12-Sheep P8-3of3
+  10. 8046-F_NANDO3-Chicken P3-1of3
+  11. 8047-F_NANDO3-Chicken P3-2of3
+  12. 8048-F_NANDO3-Chicken P3-3of3
+  13. 8049-F_NANDO3-Chicken P5-1of3
+  14. 8050-F_NANDO3-Chicken P5-2of3
+  15. 8051-F_NANDO3-Chicken P5-3of3
+
+

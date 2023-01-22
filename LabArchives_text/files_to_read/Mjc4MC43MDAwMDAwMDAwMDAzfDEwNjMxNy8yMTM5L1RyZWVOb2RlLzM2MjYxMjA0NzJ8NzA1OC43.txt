@@ -1,0 +1,201 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Observations/Summary:
+
+\- Cells not passaged as all cells in ACF-media are no longer adhered and are
+therefore presumed dead
+
+\- Flasks discarded
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Culture 7240 (serum-control)  
+
+
+
+  
+
+Culture 7241  
+
+
+
+  
+
+  
+
+Culture 7243  
+
+
+
+  
+
+Culture 7244  
+
+
+
+
+
+
+PASSAGE SUMMARY
+
+T25 flasks passaged from:Growth  mediaVessel locationGrowth media locationT25
+flasks passaged into:  
+  
+7240-DOLLY12-Sheep P9-1of4
+
+DMEM/F12 + 20% FBS + 1x P/S + 10uM p38iThermoMini-fridge under bioreactor  
+  
+7241-DOLLY12-Sheep P9-2of4  
+E810C (Reprokine FGF)Thermo  
+  
+7243-DOLLY12-Sheep P9-3of4  
+E810C (PeproTech FGF)Thermo  
+  
+7244-DOLLY12-Sheep P9-4of4  
+E810C (no FGF)Thermo(optional passage, this flask is negative control)  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     3 or 4      x     T25     vessel with sterile filtered
+0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       :   a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     10-13    mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     20-26    mL in   1     tubes
+  3. Growth media (for pellet resuspension):     1    mL of each media in     3    tubes
+  4. Growth media (for seeding):     5    mL of each media in     3    tubes
+
+Time that all aliquots were placed in the water bath the warm before use     :
+a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     :   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     3    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     :   a/pm 
+
+7\. Neutralised with    3      dPBS and combined cell suspension into a
+tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     :   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL   of respective growth   media
+:   a/pm
+
+11\. Aliquoted      10 uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:  
+    1. serum:         
+    2. 10C(Reprokine):          
+    3. 10C(PeproTech):         
+    4. 10C(no FGF): optional         
+  2. Volume of cell suspension required for subculture was equivalent to 25 000 cells:   
+    1. serum:         
+    2. 10C(Reprokine):          
+    3. 10C(PeproTech):         
+    4. 10C(no FGF): optional         
+  3. Cell density per vessel:      1000 cell/cm^2     
+
+
+
+
+13\. Transferred           µl of cell suspension to the pre-warmed      5
+mL Growth media for each condition:      :    a/pm
+
+14\. Transferred cell suspension into the pre-gelatin coated      T25
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      :  \-  :
+a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Tryple  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...all cells in ACF-media are dead (see images below - cultures 7241, 7243, 7244) 
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+

@@ -1,0 +1,38 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+Determine the maximum cell density achievable for Nuvonis cells before
+viability is negatively affected, using provided media formulation and culture
+protocols given in tech transfer SOP
+
+
+Hypothesis
+
+
+It is hypothesised that Nuvonis cells will be able to achieve a maximum cell
+density of 4M cells/mL before viability is negatively affected
+
+
+Technical Gap
+
+
+Nuvonis cells have not yet been cultured routinely by Vow. The purpose of this
+experiment is to determine how Nuvonis suspension cells perform in our hands
+
+
+Method/Procedure
+
+
+  
+
+  1. Seed 1x E125 flasks with Nuvonis suspension quail cells 50,000 cells per mL in Nuvonis suspension media formulation
+  2. Sample cells approximately 24 hrs after seeding and count every second day, and read pH (take sample and pipette onto pH strip indicator). Take 3x cell counts using Trypan blue, counting both live and dead cell populations
+  3. If any of the conditions have reached a density of 2,000,000 cells/mL, perform 80% media change (full media changes would unable to be performed in a bioreactor setting)
+  4. Continue to monitor cell counts and pH over time
+
+

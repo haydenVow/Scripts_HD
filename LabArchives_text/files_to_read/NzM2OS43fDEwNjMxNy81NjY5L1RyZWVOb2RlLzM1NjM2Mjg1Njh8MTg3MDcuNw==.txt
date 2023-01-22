@@ -1,0 +1,132 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+96-well plate9415-CHOMP09-Crocodile P1-1of4  
+9416-CHOMP09-Crocodile P1-2of4  
+9417-CHOMP09-Crocodile P1-3of4  
+9418-CHOMP09-Crocodile P1-4of4  
+Incubator #68 (library lab)  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediaM8863  
+85  
+  
+  
+
+
+
+
+Feed process:
+
+  1. Aliquotted  85 mL  mL of  Growth Medium  
+    1. This allows for ~8 mL excess GM
+  2. Placed in water bath  10:29 am 
+  3. Removed  100 % (200 uL) of supernatant from vessels. 
+    1. Use a sterile Opentrons 12-well reservoir (e.g. pictured below). Each "well" in reservoir holds 15 mL max, so you will need to fill several of them for this feed, or just continue topping up the same well. 
+    2. Use a multichannel pipette.  
+
+  4. Replaced with  200 uL per well of  growth   medium. 
+  5. Returned 3 out of the 4 vessels to incubate at: 11:20  
+
+    1. [x]  30ºC, 5% CO2 (reptilian cells)
+    2. Incubator (#68), Lab [Main/Library/Production]
+  6. Loaded the fourth plate onto Zaber and imaged as described in rich text entry below (If you do this in the afternoon, I would recommend either doing it on the Zaber that is closest to the OT2 because it doesn't have fluorescence capacity and so won't be needed for suspension experiments). Repeat for all four plates.
+
+
+
+
+## Imaging process
+
+  1. ##   
+
+Scan 4 x 96-well plates on Zaber imaging platform on Phase, 5x Magnification
+
+    * Exposure: 
+
+    * Imaging sites: _R_C
+
+  * Note: remember to add '-SCC' to the end of the ID (in the entry box labelled 'directory root') to ensure these images are sent to the ML Model.
+
+  * Follow Zaber image user guide
+
+Zaber image user guide
+
+Plate ID
+
+Time started
+
+Time finished  
+  
+9415-CHOMP09-Crocodile P1-1of4
+
+12:06  
+12:13  
+  
+  
+9416-CHOMP09-Crocodile P1-2of4
+
+11:55  
+12:02  
+  
+  
+9417-CHOMP09-Crocodile P1-3of4
+
+11:40  
+11:49  
+  
+  
+9418-CHOMP09-Crocodile P1-4of4
+
+11:45  
+11:52  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. Vessels listed above
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+9415: https://mia-capture.vow.tools/#/session/recX6P70z5mzVhwdR/images
+
+9416: https://mia-capture.vow.tools/#/session/recCRfZHfwvwoXio0/images
+
+9417: https://mia-capture.vow.tools/#/session/recMqmSgjyi8aviQ0/images
+
+9418: https://mia-capture.vow.tools/#/session/recCFOHHLmXyAavee/images
+
+

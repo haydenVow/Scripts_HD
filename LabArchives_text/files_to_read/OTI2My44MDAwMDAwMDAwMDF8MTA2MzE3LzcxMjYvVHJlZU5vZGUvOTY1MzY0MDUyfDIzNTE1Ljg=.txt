@@ -1,0 +1,33 @@
+
+
+Data
+
+Data were collated in a google sheets doc. Mean values, variance, and SEM were
+calculated for viable cell count (cells/mL) and % viable cells over time.
+
+See graphs below
+
+Cell counts increased over time while cell viability remained unchanged for
+densities approaching 1 million cells per mL. Experiment was terminated before
+cells reached densities beyond this.
+
+pH appeared to decrease slightly as cell density approached 1 million cells
+per mL. It should be noted that the accuracy of indicator strips is likely
+variable and is not an objective measure. Care should be taken to carefully
+monitor pH of cell densities greater than 1million/mL
+
+Handover
+
+This experiment was terminated (3/3/2022) early prior to completion due to
+redundancy with other experiments carried out by Adrian Kotevski. See Lab
+Archives entries here. Handover was completed via Slack with the following
+suggestions made:
+
+  * measure media pH by colour indicator strips
+  * measure cell counts in triplicate to calculate variance/SEM
+  * measure total dead cell count in addition to viable cells to determine % viable over time
+  * only carry out 80% partial media changes rather than 100% media changes above cell densities of 1 million cells/mL (this better reflects limitations of bioreactor culture, where entire-volume media changes are not possible) 
+
+  
+
+

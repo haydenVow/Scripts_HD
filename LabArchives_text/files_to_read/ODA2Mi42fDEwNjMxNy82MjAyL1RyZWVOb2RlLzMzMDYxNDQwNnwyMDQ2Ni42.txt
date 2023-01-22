@@ -1,0 +1,179 @@
+
+
+## Performed by: AG  
+
+
+
+
+Feed information:
+
+Seeded flask typeSeeded flask IDLid LabelCondition  
+21 x E125
+
+9638-F_CHOMP09-Crocodile P9-1of3
+
+9639-F_CHOMP09-Crocodile P9-2of3
+
+9640-F_CHOMP09-Crocodile P9-3of3
+
+1.1  
+1.2  
+1.31\. CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 100 ng/mL NT-3  
+  
+  
+9641-F_CHOMP09-Crocodile P9-1of3
+
+9642-F_CHOMP09-Crocodile P9-2of3
+
+9643-F_CHOMP09-Crocodile P9-3of3
+
+2.1  
+2.2  
+2.3  
+2\. Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 100 ng/mL NT-3  
+  
+  
+9644-F_CHOMP09-Crocodile P9-1of3
+
+9645-F_CHOMP09-Crocodile P9-2of3
+
+9646-F_CHOMP09-Crocodile P9-3of3
+
+3.3  
+3.4  
+3.53\. CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 100 ng/mL EGF  
+  
+  
+9647-F_CHOMP09-Crocodile P9-1of3
+
+9648-F_CHOMP09-Crocodile P9-2of3
+
+9649-F_CHOMP09-Crocodile P9-3of3
+
+4.1  
+4.2  
+4.34\. Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF,
+IGF1 + 1x P/S + 100 ng/mL EGF  
+  
+  
+  
+
+9651-F_CHOMP09-Crocodile P9-2of3
+
+9652-F_CHOMP09-Crocodile P9-3of3
+
+  
+5.2  
+5.35\. CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9653-F_CHOMP09-Crocodile P9-1of3
+
+9654-F_CHOMP09-Crocodile P9-2of3
+
+9655-F_CHOMP09-Crocodile P9-3of3
+
+6.1  
+6.2  
+6.36\. Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF,
+IGF1 + 1x P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9656-F_CHOMP09-Crocodile P9-1of3
+
+9657-F_CHOMP09-Crocodile P9-2of3
+
+9658-F_CHOMP09-Crocodile P9-3of3
+
+7.1  
+7.2  
+7.37\. CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S  
+  
+  
+9659-F_CHOMP09-Crocodile P9-1of3
+
+9660-F_CHOMP09-Crocodile P9-2of3
+
+  
+
+8.1  
+8.2  
+8\. Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+dPBS  
+A9356  
+  
+  
+  
+
+
+
+
+
+
+Process:  
+
+  1. Took 100 uL samples from each culture and loaded onto a 96 well plate according to the plate map. 
+  2. Returned E125s to incubator 
+
+30° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells 
+  3. Incubated for 30 minutes in the dark at room temperature 11:51-12:21
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 12:50
+  5. Centrifuged plates at 300 RCF for 1 minute   
+  
+
+  6. Prepared plate map: https://docs.google.com/spreadsheets/d/1UENBgVfADZeDDCiS8j3Pb6lK18I3uXK1PA4Acz_RILg/edit?usp=sharing  
+Plate ID: 9668, MIA Link: https://mia-
+capture.vow.tools/#/session/recBmWsirOSWAECT2/images
+
+  
+
+
+
+
+Observations/Summary:  
+  
+Due to low cell counts (sub 10,000), all CHOMP cultures were disposed of.  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+

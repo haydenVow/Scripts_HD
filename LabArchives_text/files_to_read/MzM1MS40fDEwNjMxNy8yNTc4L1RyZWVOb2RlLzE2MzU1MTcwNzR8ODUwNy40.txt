@@ -1,0 +1,169 @@
+
+
+Below are some notes adapted from my Honours thesis on electrical stimulation
+and electrode design. While the thesis focussed on therapeutic neural
+electrical stimulation, some of the basic principles apply to electrical
+stimulation of other cells in vitro as well. - Jared
+
+Stimulation
+
+In most applications of electrical stimulation of tissue, balanced biphasic
+current pulses are used, resulting in a net charge of zero per pulse (Cogan,
+2008). However, a net charge will accumulate on the electrode and corrosion
+may occur if irreversible electrochemical reactions occur during balanced
+biphasic stimulation. More charge delivered during the cathodic phase of an
+unbalanced waveform can reduce corrosion of metal electrodes like platinum or
+stainless steel. Stimulation waveforms come in a variety of frequencies and
+shapes.
+
+Energy efficiency, stimulation selectivity and tissue damage are also other
+important considerations for the correct waveform. The underlying mechanisms
+of tissue damage from electrical stimulation is still under investigation.
+However, a simple relation is commonly used for avoiding damaging electrical
+stimulation parameters. This is known as the Shannon model of stimulation
+induced injury (Grill, 2018). It approximates a boundary between safe and
+unsafe charge injections using the equation:
+
+log(q) = k- log(Q)
+
+where q is charge density (µC/cm2/phase), Q is charge (µC/phase) and k is a
+constant determined by observation (Shannon, 1992), usually set between 1.5 to
+1.8 for clinical devices. Some therapeutic neural stimulation devices can
+stimulate above the Shannon limit, however this usually requires a warning
+label. The damage threshold for cochlear implants is commonly regarded as a
+maximum charge density of 30µC/cm2, based on the threshold used for deep brain
+stimulators and histological studies (Cogan et al., 2016). The electrode
+geometric surface area is used to define current and charge densities rather
+than the electrochemical surface area, which may be difficult to determine
+depending on porous surfaces or coatings (Cogan, 2008).
+
+When a metal electrode is placed into the extracellular fluid of tissue, an
+interface forms between the solid and fluid phases. At this interface, a
+transient transfer of electrons occurs, resulting in opposing charges between
+the solid and fluid phases at the interface. The net orientation of polar
+molecules in the electrolyte and chemical species adsorbed to the electrode
+also separate the charge. Thus, a change in potential occurs during
+equilibrium across the electrode-electrolyte interface. Electrical stimulation
+relies on charge injection at this interface, which can occur via two primary
+mechanisms, capacitive or faradaic. Capacitive, also known as non-faradaic,
+charge transfer can be modelled as a  simple double layer capacitor. Charging
+and discharging of the double layer will cause charge distribution but no
+electron transfer to occur. Faradaic charge transfer relies on electron
+transfer between the electrode and electrolyte which causes reduction and
+oxidation of chemical species in the solution. This form of charge injection
+creates products in the electrolyte which can diffuse away from the electrode
+and will not be recovered by reversing the current direction. Thus, faradaic
+reactions are classed as reversible or irreversible. However, the amount of
+reversibility depends on the relative rates of kinetics and mass transport.
+The products created by faradaic reactions can damage the surrounding tissue
+and the electrode, so it is desirable to avoid irreversible faradaic
+reactions. Since the exchange current density is a measure of the kinetic rate
+of the reaction, reducing the amount of current needed to stimulate tissue is
+a desired aspect in electrode design (Merrill et al., 2005).
+
+"The potential range that occurs before the reduction of water (H2 formation)
+or oxidation of water (O2 formation) is defined as the water window. Platinum
+electrodes have reported charge injection limits between 50-150 μC/cm2 using
+biphasic 0.2 ms pulses, safely within limits of the water window." (Wellman,
+2018).
+
+The charge density which polarises the electrode to the point of inducing
+water reduction or oxidation is a limiting aspect for maximising the
+injectable charge from an electrode, since this can result in gas formation
+and pH excursions (Cogan et al., 2016). Electrode polarisation simply
+describes the state of the electrode in electrolyte once a current is applied,
+forcing the electrode potential away from equilibrium (Merrill et al., 2005).
+Electrode polarisation during pulsing and electrode impedance can be reduced
+by increasing the electrode contact surface area for a standard waveform. By
+decreasing electrode polarisation, more charge can be injected before inducing
+water hydrolysis or electrode dissolution, which can damage local tissue
+(Cogan et al., 2016). The higher the electrode impedance, the higher the
+voltage across the electrode-tissue interface. High voltages can lead to
+decreased battery life due to increased energy consumption. This can lead to
+saturation of the current source and shorten the range of stimulation (Wilk et
+al., 2016).
+
+Materials
+
+One of the most important components of a neural interface electrode is the
+conductor which delivers current to the site of tissue recording or
+stimulation. The traditional choice of conductive materials for neural
+electrodes are metals, with nearly 50 years of use to date. The conductive
+materials used for implanted electrodes requires careful consideration of the
+conductivity, biocompatibility, mechanical stability and corrosion resistance.
+Nobel metals and alloys, due to their low reactivity over chronic timescales,
+display many of these properties. This is the main reason gold (Au), platinum
+(Pt) and iridium (Ir) have long been the most popular materials for neural
+electrodes. Non-nobel metals such as tungsten (W), tantalum (Ta), titanium
+(Ti) and stainless steel are also used due to their high resistance to
+corrosion (Wellman et al., 2018, Cogan, 2008, Won et al., 2018).  
+  
+For electrodes made of noble metals such as platinum and platinum-iridium
+alloys, charge transfer is classified as pseudocapacitive faradaic. This is
+because electron transfer occurs across the electrode-electrolyte interface,
+but faradaic reactions are confined to a surface monolayer, with the
+reversible adsorption of hydrogen onto the platinum surface. Thus, these
+metals inject via both faradaic reactive and capacitive double-layer charging.
+This is one of the reasons platinum and platinum-iridium are the predominant
+materials used for electrode contacts in neural implants (Merrill et al.,
+2005, Cogan, 2008). Platinum-iridium electrodes have a lower impedance than
+bare platinum, and are commonly used with cardiac pacemakers (Geddes and
+Roeder, 2003). Other noble metals such as palladium (Pd) and rhodium (Rh) are
+also used for neural stimulation. Charge is injected mainly via double layer
+capacitance when using non-noble metals such as titanium, tantalum and
+stainless steels for stimulating electrodes (Wellman et al., 2018).
+
+  
+Below is an example calculation of the charge density for a stimulating
+cochlear electrode:  
+  
+
+  
+
+It should be noted that cochlear electrodes are much smaller than what we
+require for in vitro electrical stimulation of muscle cells, but the
+principles remain the same in regard to staying within the water window.
+
+  
+
+References:
+
+COGAN, S. F. 2008. Neural stimulation and recording electrodes. Annu. Rev.
+Biomed. Eng., 10, 275-309.
+
+COGAN, S. F., LUDWIG, K. A., WELLE, C. G. & TAKMAKOV, P. 2016. Tissue damage
+thresholds during therapeutic electrical stimulation. Journal of neural
+engineering, 13, 021001.
+
+  
+
+GEDDES, L. A. & ROEDER, R. 2003. Criteria for the selection of materials for
+implanted electrodes. Annals of biomedical engineering, 31, 879-890.
+
+  
+
+MERRILL, D. R., BIKSON, M. & JEFFERYS, J. G. 2005. Electrical stimulation of
+excitable tissue: design of efficacious and safe protocols. Journal of
+neuroscience methods, 141, 171-198.
+
+  
+
+WELLMAN, S. M., ELES, J. R., LUDWIG, K. A., SEYMOUR, J. P., MICHELSON, N. J.,
+MCFADDEN, W. E., VAZQUEZ, A. L. & KOZAI, T. D. 2018. A materials roadmap to
+functional neural interface design. Advanced functional materials, 28,
+1701269.
+
+  
+
+WILK, M., HESSLER, R., MUGRIDGE, K., JOLLY, C., FEHR, M., LENARZ, T. &
+SCHEPER, V. 2016. Impedance changes and fibrous tissue growth after cochlear
+implantation are correlated and can be reduced using a dexamethasone eluting
+electrode. PloS one, 11.
+
+  
+
+WON, S. M., SONG, E., ZHAO, J., LI, J., RIVNAY, J. & ROGERS, J. A. 2018.
+Recent advances in materials, devices, and systems for neural interfaces.
+Advanced Materials, 30, 1800534.
+
+

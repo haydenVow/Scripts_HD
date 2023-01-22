@@ -1,0 +1,115 @@
+Key Result(s)
+
+
+  1. RPMI+CDM4Avian, RPMI+HyCellCHO, CDM4Avian+HyCellCHO and F10+HyCellCHO had significantly higher mean cells/mL than all other media conditions (their means were not significantly different from each other)
+  2. F10+HyCellCHO observationally appeared to cause more cell clumping than RPMI+HyCellCHO 
+  3. RPMI+HyCellCHO is the best basal media candidate for further optimisation 
+
+
+Discussion of Results
+
+
+Our current priority at Vow is to extensively scale up the culture of the
+Nuvonis suspension Quail cell line. The main blocker to achieving this is the
+Freestyle 293 basal medium used to grow these cells; this medium is extremely
+expensive (262AUD/L) [1], we cannot purchase enough to seed our 2 kL
+bioreactor, and the composition is proprietary, meaning we are unable to
+produce it in-house thereby removing the potential for us to further decrease
+media costs in the future. The aim of this experiment was to determine whether
+we could find an alternative basal medium to support the Nuvonis cells
+sufficiently to then further optimise (in future experiments) to meet the same
+proliferation rates and density seen in Freestyle 293.
+
+Nuvonis suspension cells were seeded into 7 different basal media and a 1:1
+mix of all combinations of the 7 (21 total conditions). The additional medium
+ingredients (yeast, ACA, IGF-1-LR3, EGF, putrescine dihydrochloride and
+l-ornithine monohydrochloride) were kept at the concentrations recommended by
+Nuvonis for all conditions. On day 4, a live/dead stain was performed using
+Hoechst and Sytox green. The plates were imaged on DAPI and AF488 channels
+using the Zaber microscope and the images were then run through the MIA
+suspension cell count macros. The cell count data was exported to Prism, where
+statistical analysis was performed (1-way ANOVA, Tukey post-hoc).
+
+RPMI+CDM4Avian, RPMI+HyCellCHO, CDM4Avian+HyCellCHO and F10+HyCellCHO had
+significantly higher mean cells/mL than all other media conditions (their
+means were not significantly different from each other) (Figure 1, Table 1).
+Given our ultimate aim is to reduce costs and to produce our own medium in-
+house, we decided to focus upon mixes containing commercially available media,
+i.e. RPMI and F10. Cell counts for cells grown in CDM4 and HyCellCHO alone
+were not significantly different from each other, and were also not
+significantly different than cells grown in Freestyle 293 (Figure 1). However,
+CDM4Avian is more expensive than HyCellCHO (141AUD vs. 132AUD/L) [2] [3], and
+is therefore a less desirable media given it does not outperform HyCellCHO.
+Based on this information and our results, F10+HyCellCHO and RPMI+HyCellCHO
+appeared to be the best candidates to take forward for further optimisation
+work. Upon closer inspection of the live/dead stained images, it became clear
+that cells growing in F10+HyCellCHO formed more clumps than cells growing in
+RPMI+HyCellCHO (Figures 2 & 3). This finding makes sense, as RPMI is usually
+recommended as as "good place to start" when developing a media for suspension
+cells [4].  
+
+Figure 1. Mean cell/mL count (n=7) in each media condition. Error bars are
+SEM.  
+  
+Table 1. 1-way ANOVA  
+
+ ANOVA summary  
+  
+  F21.97  
+  P value<0.0001  
+  P value summary****  
+  Significant diff. among means (P < 0.05)?Yes  
+  R square0.7772  
+  
+  
+
+
+
+  
+
+
+Limitations
+
+
+  1. No D0 count was acquired using live/dead staining with the macro due to time constraints on kick-off day. We therefore had to rely on observations of images and the ML cell counting model to determine that cells had been seeded evenly in wells, neither of which are overly reliable. 
+  2. MEME+HyCellCHO was erroneously not included as a condition. However, MEME caused the most severe cell clumping among all media tested, and MEME+CDM4Avian performed very poorly. We can therefore fairly confidently hypothesise that this condition would have been unlikely to yield positive results, and will not pursue testing it. 
+  3. The variability of data for some conditions was extremely high, making it difficult to draw absolute conclusions from. However given that the data overwhelmingly makes sense based on background knowledge and observations of the cells as they grew, we can be fairly confident that it is mostly accurate. 
+
+
+Conclusion(s)
+
+
+RPMI+HyCellCHO is the most suitable media condition for further optimisation
+work on our Nuvonis quail suspension cell line.
+
+
+Future Direction(s)
+
+
+Lily will run a 12-factor DSD using a 75:25 mix of RPMI and HyCellCHO as the
+basal media. It will focus on each Nuvonis ingredient (yeast, ACA, IGF-1-LR3,
+EGF, putrescine dihydrochloride and l-ornithine monohydrochloride) as well as
+an additional 6 ingredients believed to improve cell viability and
+proliferation in suspension.
+
+EPIC link: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/OTEzMS4yfDEwNjMxNy83MDI0L1RyZWVOb2RlLzIyNjk4NDg1ODN8MjMxNzkuMTk5OTk5OTk5OTk3
+
+
+References
+
+
+[1]
+https://www.thermofisher.com/order/catalog/product/12338018?s_kwcid=AL!3652!3!558254975171!e!!g!!freestyle%20293%20medium&ef_id=CjwKCAiAyPyQBhB6EiwAFUuakp9AxhD3vSIUc3osLrh1QZV9AiUrjtwa_xHhqHtoCimY6LsSONu1thoCOWIQAvD_BwE:G:s&s_kwcid=AL!3652!3!558254975171!e!!g!!freestyle%20293%20medium&cid=bid_clb_pex_r01_co_cp0000_pjt0000_bid00000_0se_gaw_bt_pur_con&gclid=CjwKCAiAyPyQBhB6EiwAFUuakp9AxhD3vSIUc3osLrh1QZV9AiUrjtwa_xHhqHtoCimY6LsSONu1thoCOWIQAvD_BwE
+
+[2] https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-cdm4avian-
+media-p-05971#overview
+
+[3] https://www.cytivalifesciences.com/en/us/shop/cell-culture-and-
+fermentation/media-and-feeds/specialty-media/hyclone-hycell-cho-cell-culture-
+media-p-06304
+
+[4] https://www.vanderbilt.edu/viibre/CellCultureBasicsEU.pdf
+
+

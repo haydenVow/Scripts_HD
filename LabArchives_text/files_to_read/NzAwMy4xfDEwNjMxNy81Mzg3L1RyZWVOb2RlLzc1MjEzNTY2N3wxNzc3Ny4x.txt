@@ -1,0 +1,170 @@
+
+
+Perform feed using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by: Avani B, Varshana B
+
+
+
+
+Culture IDs to feed
+
+EPIC  
+Vessel IDGrowth mediaMedia ID  
+EPIC27984  
+9097-F_DOLLY12-Sheep P8-1of1  
+CD-CHO + 10% KSR + 6G  
+m8264  
+  
+9099-F_CHOMP09-Crocodile P8-1of1  
+D/F + 20% FBS + 1x P/S  
+a8092  
+  
+9100-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 10G  
+m8265  
+  
+EPIC28374  
+9098-F_DOLLY12-Sheep P8-1of1  
+CD-CHO + 10% KSR + 6G  
+m8266  
+  
+9102-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 8G  
+m8267  
+  
+9103-F_CHOMP09-Crocodile P8-1of1  
+HyCell pro + 20% KSR + 10G  
+m8275  
+  
+9101-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 6G  
+m8268  
+  
+  
+  
+
+
+
+
+Reagents used:
+
+NameDetailsVolume used (mL)  
+KSR  
+a8135, a8139, a8136, a8141  
+  
+  
+glutamax  
+s3694  
+  
+  
+lipids  
+s3200  
+  
+  
+FGFm5705  
+  
+  
+IGF  
+m7963  
+  
+  
+PDGF  
+m7680  
+  
+  
+  
+  
+
+
+
+
+Reagent preparation
+
+  1. Aliquot 'basal media' mixes that were prepared yesterday (containing P/S, ACA, P188) into containers. This involves aliquotting the amount needed to make 150 mL total by using the sheet titled 'EPIC27984' on this spreadsheet: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit?skip_itp2_check=true#gid=1517203146 (screenshots below).
+  2. Add KSR and other supplements (except RGD and YIGR peptides) to create the appropriate media formulations.
+  3. Aliquot 150 mL of D/F + 20% FBS + 1x P/S as well.
+  4. Warm media at 37 degrees C (in waterbath) for EPIC27984.  16:00 -16:45
+  5. Warm media at 30 degrees C (in incubator) for EPIC28374. ~approx 16:30 - 17:00
+  6. Perform 50% feed following the instructions below.
+
+
+
+
+EPIC27984
+
+  
+
+
+
+
+  
+
+## EPIC28374
+
+  
+
+  
+
+  
+
+
+
+
+Cell factory Process
+
+  1. Unscrew white cap and remove blue cap and place aside.
+  2. Removed  `50`  % of supernatant (300 mL) from 1 x 2CF by carefully pouring into a waste container with 150mL marked.
+  3. Replaced with  `150` mL (per flask) of  `growth`   media by carefully pouring media through the white cap opening (alternatively you may use a 50mL serological to add media.)
+  4. Place caps back and equalise 2CF by placing it on its side (blue cap on the bottom and white cap on the top, see image below:)  
+  
+
+4\. Returned vessel to incubate at: 17:35
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator #77  
+
+  * [X]  30ºC, 5% CO2 (reptilian cells), incubator #78  
+
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+9097-F_DOLLY12-Sheep P8-1of1  
+9098-F_DOLLY12-Sheep P8-1of1  
+9099-F_CHOMP09-Crocodile P8-1of1  
+9100-F_CHOMP09-Crocodile P8-1of1  
+9101-F_CHOMP09-Crocodile P8-1of1  
+9102-F_CHOMP09-Crocodile P8-1of1  
+9103-F_CHOMP09-Crocodile P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+9098, 15M DOLLY: https://mia-
+capture.vow.tools/#/session/rec1RvsRZ4GQJDoQd/images  
+9099, 21M CHOMP: https://mia-
+capture.vow.tools/#/session/recJ3hvRKOj4J9foC/images  
+9100, 21M CHOMP: https://mia-
+capture.vow.tools/#/session/recd07kfoWTWP0Qx5/images  
+9101, 15M CHOMP: https://mia-
+capture.vow.tools/#/session/recs8oElxZrN2Ruhy/images  
+9102, 15M CHOMP: https://mia-
+capture.vow.tools/#/session/recJ3hvRKOj4J9foC/images  
+9103, 15M CHOMP: https://mia-
+capture.vow.tools/#/session/recuL1EskZZzqvsCu/images
+
+

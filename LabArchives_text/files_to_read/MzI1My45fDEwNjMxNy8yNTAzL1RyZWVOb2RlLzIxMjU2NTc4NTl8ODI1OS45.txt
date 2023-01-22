@@ -1,0 +1,101 @@
+Report written by Lily Logan
+Quick summary of main findings
+
+
+  1. Positive MF20 and MyoG antibody staining was seen on the planar adherent culture samples, this demonstrated that C2C12 MuSCs were able to form mature myofibres. 
+  2. No difference could be observed between the cultures stained with a 1:1000 dilution vs. a 1:500 dilution of secondary antibodies in planar culture or on zein.
+  3. No positive staining for MyoG nor MF20 was seen on C2C12s on Zein scaffolds. The lack of staining on zein was concluded to be either due to cells being unable to differentiate on this material, or the zein absorbing/interfering with the antibodies.
+
+
+Results and Discussion
+
+
+C2C12s passaged from MCB were seeded onto 8 x pieces of zein scaffolds (0.7M
+cells per scaffold) and 8 x wells of 96-well plate (7K cells per well). On day
+1 of proliferation, scaffolds were stained with Hoechst and imaged using the
+Zaber microscope in main lab. This confirmed that the C2C12s had successfully
+adhered to the Zein (Figure 1).
+
+Figure 1. Hoechst-stained cells on Zein scaffolds, Day 1 proliferation, 5X,
+DAPI
+
+On day 2 of proliferation, both scaffolds and adherent cultures received 100%
+feeds with differentiation (E6) medium (day 0 differentiation). By day 7 the
+planar culture samples appeared to have started forming mature myofibres,
+based on their tubular appearance seen under bright field microscopy (Figure
+2), and twitching was observed.
+
+Figure 1. Adherent cultures, D7, Phase, 4X
+
+Based on the previously stated observations which demonstrated maturation, the
+planar adherent cultures were fixed with 4% PFA and immunostained for Myogenin
+(MyoG) and Myosin Heavy-Chain (MF20). Half (4) of the samples were stained
+with a 1:1000 dilution of secondary antibodies (standard dilution used), and
+the other half stained using 1:500 dilutions. Regardless of the antibody
+dilution received (1:1000 or 1:500) all planar cultured samples demonstrated
+positively-stained cells, which inferrred the presence of MyoG and MF20
+(Figure 3), with no obvious difference between dilutions (Figures 4 & 5).
+
+Figure 2. Immunostained adherent planar cultures. Colourised using ImageJ.
+Blue is DAPI-stained nuclei, green is myogenin positive nuclei, and red is
+myosin heavy-chain positive myotubes.
+
+Figure 4. 1:500 dilution AF555 secondary stain
+
+Figure 5. 1:1000 dilution AF555 secondary stain
+
+Based on previous experiments on scaffolds the C2C12s on Zein were kept in
+culture until day 14 before being assessed for markers of differentiation. On
+day 14 they were fixed with 4% PFA and immunostained for MyoG and MF20, using
+the same antibody stock solutions used for the adherent culture. However on
+imaging, no positive staining was observed save for some random fluorescence
+(Figures 7 & 8).
+
+Figure 6. D14 cells, 10X, DAPI.
+
+Figure 7. D14 cells, 10X, AF488.  
+
+Figure 8. D14 cells, 10X, AF555.
+
+Two potential conclusions were drawn as to why the cells were not seeming to
+express MyoG or MF20. The first was that the zein was interfering with the
+secondary stain, most likely by absorbing it. The second was that Zein may be
+an unsuitable material for muscle cells differentiation and maturation.
+
+Based on these results, it was determined that immunostaining is not an
+appropriate method for determining MuSC differentiation and maturation on Zein
+scaffolds. This finding will be applied to EPIC18701 (EPL or non-coated Zein
+in ACF with/without ECM components - a verification experiment).
+
+
+
+
+
+
+
+
+Limitations
+
+
+No limitations.
+
+
+Future Directions
+
+
+  1. Immunostaining will no longer be employed for assessing differentiation and maturation of MuSC cells on Zein scaffolds 
+  2. ELISA will be trialed as an alternative method for determining cell differentiation and maturation on Zein scaffolds 
+  3. The 1:1000 dilution of secondary antibodies will remain as the standard dilution for immunostaining
+
+
+Conclusion
+
+
+Immunofluorescent microscopy using MyoG and MF20 is not an appropriate method
+for assessing MuSC differentiation and maturation on Zein. Wherein, the lack
+of cell specific antibody staining on zein, relative to planar cells, could be
+attributed to material inteference/absorbance of the stain, or due to zein
+being an unsuitable material for supporting MuSC differentiation and
+maturation.
+
+

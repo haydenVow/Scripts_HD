@@ -1,0 +1,29 @@
+Performed by: EC
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+Process
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 4 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 33,600,000
+    * RPMI/HyCell: 3,800,000
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Split HyCell culture into 2 equal aliquots of 10 mL ( ~1 900 000 cells per aliquot) 
+  6. Removed cells from each culture (3 cultures now) to leave 1 million cell remaining
+    * Removed 19.405 mL containing 32,600,000 cells from Freestyle culture 
+    * Removed 4.737 mL containing 900 000 cells from HyCell/RPMI culture 1
+    * Removed 4.737 mL containing 900 000 cells from HyCell/RPMI culture 2
+  7. Centrifuged HyCell/RPMI culture 1 and aspirated 100% of supernatant 
+  8. Re-suspended pellet in 20 mL of 75/25 RPMI/HyCell + Nuvonis ingredients + growth factors (Used 15 ml RPMI + Nuvonis Ingredients (ID M11402) and 5 ml of Hycell + Nuvonis Ingredients (ID M11401), and added 20 uL of IGF and 4 uL of EGF)  
+
+  9. Topped Freestyle & Hycell/RPMI culture 2 cultures back up to a total of 20 mL (50,000 cells per mL final cell density) with respective media
+    * Note: remembered to add growth factors to media aliquots (see "Nuvonis media" sheet on following spreadsheet for volumes to add https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1994431485)
+  10. Returned flasks to incubator
+
+

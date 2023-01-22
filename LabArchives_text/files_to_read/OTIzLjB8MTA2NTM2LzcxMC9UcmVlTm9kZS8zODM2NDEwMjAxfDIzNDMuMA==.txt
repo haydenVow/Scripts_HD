@@ -1,0 +1,109 @@
+
+
+Batch 25 Overview
+
+(CHOMP)
+
+Total Batch Weight: 66.14g
+
+Batch Objectives:
+
+  1. Test different treatment combinations/treatment times on 10CS/5CS/4CF
+    1. Test if there is a difference in CHOMP yield based of flask type as previously seen with DOLLY (eg. Nunc vs Corning)
+  2. Test different treatment conditions in roller bottles to see if any can improve their yield
+
+Treatments tested in each group:
+
+  * 10CS/5CS:
+    * Group 1: 1x 5CS/4CF/10CS Seeded in TGFb ONLY
+    * Group 2: 1x 5CS/4CF/10CS Seeded in VitC + TGFb
+    * Group 3: 1x 5CS/4CF10CS Seed in VitC, treat with TGFb + VitC at day 2
+    * Group 4: 1x 5CS/4CF/10CS Treated with VitC + TGFb at 60-80% confluence  
+  
+
+  * Roller Bottles:
+    * Group 1: 16x Seeded in TGFb ONLY
+      * After seeding it was decided to split this group further into a TGFb seeded ONLY group (1a) and a TGFb seeded then treated wth TGFb + VitC at day 2 (1b) group. 
+    * Group 2: 16x Seeded in VitC + TGFb
+    * Group 3: 16x Seed in VitC, treat with TGFb + VitC at day 2
+    * Group 4: 16x Treated with VitC + TGFb at 60-80% confluence
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P171x10CF and 2x5CS  
+P267x10CF and 1x5CS  
+P3Various (see below)4x4CF, 4X5CS, 4x10CS, and 64xR850  
+  
+  
+
+Notable Events:
+
+  * After seeding all of the roller bottle groups a portion of cells was left over, these were all put into 1xR850 and named "YOLO ROLO"
+    * This bottle was treated like group 3 (seeded in VitC then treated with VitC + TGFb) and a final weight recorded
+    * initially a lot of tiny aggregates were present in this bottle, as expected due to the high seeding density
+    * after 8 days these cells form one continuous aggregate that went around the entire bottle and looked similar to a tape worm. This was harvested and weighed.
+  * The 5CS in Group 1 became contaminated before the flask was harvested, therefore there is no 5CS weight recorded for this group
+  * 1xR850 from Group 1 and 1xR850 from Group 2 stopped rolling the day after seeding so these bottles were removed from the experiment leaving 15xR850 in group 2 and 7xR850 in group 1a.
+
+Batch/Experiment Results:
+
+  * In the running comparison between DOLLY and CHOMP, CHOMP remains the best in multilayered flasks and DOLLY the best in Roller Bottles
+  * With this batch we identified a new 'best' treatment for CHOMP fibroblasts in multilayered flasks
+    * VitC treatment for 2-3 days then treatment with both TGFb + VitC
+
+10CS/5CS/4CF:
+
+  * TGFb only treatment was the worst and does not seem to produce any substantial mass on its own. It also peels off the flasks in a very wispy broken manner and not as a continuous cell sheet.
+  * There was not much difference between seeding in VitC + TGFb and treating with VitC + TGFb at 60-80% confluence
+    * Therefore either of these treatment timelines can be used when treating with VitC + TGFb at the same time
+  * The best treatment tested was VitC alone followed by treatment with TGFb + VitC at Day 2
+    * This treatment type was previously tried in Batch 24 to prevent early peeling with VitC ONLY treatment however there are some notable differences between Batch 24 and this batch
+      * Batch 24: Treated with VitC at 60-80% confluence then treated with TGFb + VitC (50% feed) at day 2
+      * Batch 25: seeded in VitC ONLY then treat with TGFb + VitC (100% feed) at day 2
+  * Multiple flask types were used to compare the different surface coating of corning and Nunc (Thermo) flasks. Graph 2 shows that the Nunc (Thermo) flasks produced significantly less mass than the Corning flasks despite the same treatment regimes. Therefore as with DOLLY, only corning flasks should be used for CHOMP fibroblasts during the treatment phase. 
+    * 10CS and 5CS gave similar results for g/1000cm2.
+
+OVERALL: VitC ONLY followed by VitC + TGFb treatment in Corning flasks is the
+current best protocol for the final passage for CHOMP fibroblasts.
+
+* Graph 1 shows the raw pellet weight (g) from multiple flask types and treatment groups. There is no data for the Group 1 5CS because this became contaminated before harvest and was discarded.   
+* Graph 2 shows the pellet weight from multiple flask types and treatment groups relative to surface area (g/1000cm2). A two way ANOVA with Tukey's multiple comparison test was performed and showed a significant difference between the 4CF and 10CS in every treatment type. There was no significant difference between the 5CS and 10CS or 5CS and 4CF. * is P < 0.05.
+
+  
+
+* Graph 3 shows the days in culture/treatment time for multiple flask types and treatment groups. The lines present in some data groups show when a treatment was added or switched depending on the group. For all cultures seeded in a treatment, the treatment time is equal to the days in culture.
+
+Pictures:
+
+  
+
+Roller Bottles:
+
+  * All treatments (except Group 1a - TGFb Seeded ONLY) gave similar results, with Group 1b - TGFb Seeded then TGFb + VitC at Day 2 giving the best g/1000cm2.
+  * When compared to multilayered flasks, roller bottles still produced less mass relative to surface area 
+    * None of the known treatments are helping to increase the mass produced in roller bottles. It is hypohtesised that the shear stress on the cells caused by the rolling/movement of the media is resulting in premature peeling. Therefore in future experiments we should look at adjusting apparatus speed, flask type, surface coating, handling frequency, etc. to minimise these forces on the cells or enhance adherence see if this makes a difference to their time in culture before peeling.
+
+  
+
+  
+
+* Graph 1 shows the pellet weight from roller bottles in various treatment groups relative to surface area (g/1000cm2). Error bars display SEM.
+
+* Graph 2 shows the days in culture/treatment time from roller bottles in various treatment groups. The lines present in some data groups show when a treatment was added or switched depending on the group. For all cultures seeded in a treatment, the treatment time is equal to the days in culture. Error bars display SEM.  
+* Graph 3 compares the best treatments for roller bottles and multi-layered flasks. 4CF data was excluded from the comparison due to its perceived lower performance compared to the corning flasks. Error bars display SEM.
+
+Pictures:
+
+  
+
+  
+
+Achievements:
+
+  * Identified a new best treatment for CHOMP fibroblasts in multi-layered flasks
+  * Showed that corning flasks are also better for the treatment phase with CHOMP fibroblasts.
+
+  
+
+

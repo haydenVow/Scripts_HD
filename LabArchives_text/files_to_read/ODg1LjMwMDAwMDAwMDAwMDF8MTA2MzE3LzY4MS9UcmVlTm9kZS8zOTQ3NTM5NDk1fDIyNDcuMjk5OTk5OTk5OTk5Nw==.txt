@@ -1,0 +1,162 @@
+
+
+
+
+
+Process:
+
+  1. Warmed 40 mL E89C media in the waterbath. 9:27
+  2. warmed 2ml of serum containing growth media (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i) in the waterbath 10:12
+  3. Using a multichannel pipette, slowly removed all media from columns 2-4 of plate 1 (avoiding wells that are designated as serum controls. Replaced with warm E89C media (140uL/well)
+    1. Repeated this for remaining wells (3 columns at a time)
+  4. Removed all media from serum control wells:
+    1. plate 1: E8, B9, E6, E7
+    2. plate 2: E6, G3, E3
+    3. plate 3: G11, G3, E7, E4, B5
+  5. Replaced with serum containing media (140uL/well)
+  6. Incubated the plates at 37 degrees C, 5% CO2. 11:07
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+E89Ca4569  
+D/F + 20% FBS + 1x P/S  
+a4533  
+  
+p38i  
+m4398  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+100% media change on 3x 96 wp
+
+6613, 6614, 6615
+
+
+
+
+SOPs used:
+
+N/A
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+| ID    | Image
+| Culture                     | Plate Location | Image Type | Magnification |
+Notes | Created                  | Imaging Station | Experiment
+|  
+| ----- |
+---------------------------------------------------------------------------------------------------------------
+| --------------------------- | -------------- | ---------- | ------------- |
+----- | ------------------------ | --------------- |
+----------------------------------------- |  
+| 76238 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:48:53Z_recaPYe3sqEcUK0uw_1-Axio_BGwD9.png |
+6613-DOLLY12-Sheep P11-1of3 | C3             | Phase      | 5x            | 1
+| 2021-05-03T23:48:53.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76239 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:49:13Z_recaPYe3sqEcUK0uw_1-Axio_h64R9.png |
+6613-DOLLY12-Sheep P11-1of3 | G3             | Phase      | 5x            | 5
+| 2021-05-03T23:49:13.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76240 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:49:35Z_recaPYe3sqEcUK0uw_1-Axio_gPLvI.png |
+6613-DOLLY12-Sheep P11-1of3 | D6             | Phase      | 5x            | 3
+| 2021-05-03T23:49:35.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76241 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:50:09Z_recaPYe3sqEcUK0uw_1-Axio_22fqH.png |
+6613-DOLLY12-Sheep P11-1of3 | F8             | Phase      | 5x            | 4
+| 2021-05-03T23:50:09.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76242 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:50:46Z_recaPYe3sqEcUK0uw_1-Axio_rGfGD.png |
+6613-DOLLY12-Sheep P11-1of3 | B11            | Phase      | 5x            | 2
+| 2021-05-03T23:50:46.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76243 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:52:37Z_recjqmDZWzi9RmLE0_1-Axio_oTYXV.png |
+6614-DOLLY12-Sheep P11-2of3 | C3             | Phase      | 5x            | 1
+| 2021-05-03T23:52:37.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76244 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:52:59Z_recjqmDZWzi9RmLE0_1-Axio_l7dL8.png |
+6614-DOLLY12-Sheep P11-2of3 | G3             | Phase      | 5x            | 2
+| 2021-05-03T23:52:59.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76245 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:53:20Z_recjqmDZWzi9RmLE0_1-Axio_YwUDP.png |
+6614-DOLLY12-Sheep P11-2of3 | D6             | Phase      | 5x            | 3
+| 2021-05-03T23:53:20.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76246 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:53:44Z_recjqmDZWzi9RmLE0_1-Axio_dV6KU.png |
+6614-DOLLY12-Sheep P11-2of3 | F8             | Phase      | 5x            | 4
+| 2021-05-03T23:53:44.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76247 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:54:08Z_recjqmDZWzi9RmLE0_1-Axio_6mJJo.png |
+6614-DOLLY12-Sheep P11-2of3 | B11            | Phase      | 5x            | 5
+| 2021-05-03T23:54:08.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76248 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:55:39Z_recWv0GCFbpsnG1fj_1-Axio_pqGb0.png |
+6615-DOLLY12-Sheep P11-3of3 | C3             | Phase      | 5x            | 1
+| 2021-05-03T23:55:39.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76249 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:56:02Z_recWv0GCFbpsnG1fj_1-Axio_sKMaZ.png |
+6615-DOLLY12-Sheep P11-3of3 | G3             | Phase      | 5x            | 2
+| 2021-05-03T23:56:02.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76250 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:56:21Z_recWv0GCFbpsnG1fj_1-Axio_kEwT1.png |
+6615-DOLLY12-Sheep P11-3of3 | D6             | Phase      | 5x            | 3
+| 2021-05-03T23:56:21.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76251 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:56:40Z_recWv0GCFbpsnG1fj_1-Axio_wwS1m.png |
+6615-DOLLY12-Sheep P11-3of3 | F8             | Phase      | 5x            | 4
+| 2021-05-03T23:56:40.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |  
+| 76252 | https://storage.googleapis.com/microscope-image-
+archive/2021-05-03T23:56:51Z_recWv0GCFbpsnG1fj_1-Axio_TbfFm.png |
+6615-DOLLY12-Sheep P11-3of3 | B11            | Phase      | 5x            | 5
+| 2021-05-03T23:56:51.000Z | 1-Axio          | EPIC15448 - Differentiation
+Factor DSD #2 |
+
+

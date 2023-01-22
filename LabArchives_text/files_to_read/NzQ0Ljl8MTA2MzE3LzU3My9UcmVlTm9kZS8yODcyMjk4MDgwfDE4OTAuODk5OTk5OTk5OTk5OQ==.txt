@@ -1,0 +1,159 @@
+Culture ID(s)Vessel TypeNo. of wells to stain  
+6368  
+96 well plate  
+6  
+  
+6370  
+96 well plate  
+6  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Reagent preparation:
+
+1\. Aliquotted     mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+  1 µL   AF488 Secondary #1   (1:1000  ) +  1 µL   AF555 Secondary #2
+(1:1000  ) +  1  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI mix:
+
+   1mL  PBS +    1uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+Goat anti mouse (AF488)  
+IgG1 #1606  
+1:1000  
+Goat anti mouse (AF555)  
+IgG2b#1966  
+1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 14:50 - 15:43 a/pm
+
+ 15:49 - 15:55 a/pm
+
+ 15:58 - 16:04 a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  16:10 - 17:17 a/pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  17:18 a/pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 17:21 - 17:30 a/pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 17:30 - 17:35 a/pm
+
+ 17:36 - 17:41 a/pm
+
+4\.  Replaced dPBS.
+
+ 17:42 a/pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer4442  
+dPBS3915  
+PBST  
+  
+Secondary Antibody Mix  
+  
+DAPI (1:1000)3220  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

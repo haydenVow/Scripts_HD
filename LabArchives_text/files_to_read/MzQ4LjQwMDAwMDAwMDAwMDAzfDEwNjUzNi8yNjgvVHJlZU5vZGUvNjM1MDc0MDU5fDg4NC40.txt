@@ -1,0 +1,164 @@
+Passage 4 - 1x10CF into 2x5CS and 7xRoller Bottles
+
+
+# Procedure - Passage
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.
+
+1\. Turn on water bath and set temperature to 37'C.
+
+2\. Place new seeding flasks into the 37'C incubator to pre-warm.
+
+3\. Take the flasks for harvest and observe under the microscope at 4x
+objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per
+flask.
+
+4\. Aliquot required volume of dPBS (37'C), dPBS (ambient temp), TrypLE, and
+Growth Media in separate sterile pots. Refer to Table below for required
+volume.
+
+``
+
+5\. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until
+warmed. Note: Ensure TrypLE is thoroughly warmed.
+
+6\. Transfer aliquots and flasks required for harvest into the BSC.
+
+7\. Discard growth media from each flask.
+
+8\. Wash with warmed dPBS, then discard.
+
+9\. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the
+surface area.
+
+10\. Place in the incubator at 37'C. After 8-10 minutes, remove flasks and
+observe for 95-100% dissociation of cells. Incubate further until maximum
+dissociation level is reached.  
+NOTE: The flasks must be removed from the incubator within 18 minutes of
+initial incubation of TrypLE containing flasks.
+
+11\. Pour the TrypLE solution from the flask into 250mL centrifuge tubes.
+
+12\. Add ambient temperature dPBS to each flask as a final wash. To
+effectively remove remaining cells adhered to the flasks, mix thoroughly and
+then pour the dPBS into 250mL centrifuge tubes.
+
+13\. Centrifuge at 650 x g for 5 minutes.````
+
+14\. Gently remove centrifuge tubes from the machine, ensuring not to disturb
+the suspended pellets. Aspirate as much supernatant as possible from the
+tubes. Discard supernatant.
+
+15. Following cell harvest and centrifugation, re-suspend the cell pellets in each tube. Use the table below to determine the resuspension volume required.
+
+Tube TypeResuspension Volume Required (mL)  
+500uL vial0.5  
+50mL 1  
+250mL5  
+  
+16\. Once cells have been resuspended in the individual centrifuge tubes,
+combine all of the cell containing solution into one vessel carefully
+calculating the total volume each time solution is added.
+
+17\. After removing the cell containing solution from all centrifuge tubes,
+rinse the tubes with media to collect all reaming cells. After the rinse is
+complete, aspirate this solution and add it to the rest of the cell
+suspension. *Note: Be careful to calculate the total volume of the cell
+suspension each time solution is added, including during this rinse step.
+
+18\. Perform cell count (Refer to VSOP-007) and enter details into Production
+Cell Count Calculator: VBLT-001 and Cell Count Widget.
+
+19\. Triturate the obtained cell suspension 10 times using a 5mL serological
+pipette to ensure a homogeneous cell suspension is obtained.
+
+20\. Determine the required volume of suspension media (to achieve seeding
+density of roughly 6500-8500 cells/cm2)  and dispense into pre-aliquoted
+growth media. Use Production Cell Count Calculator: VBLT-001, and record the
+values in the seeding widget.
+
+21\. Transfer flasks from the incubator into the BSC.
+
+22\. Transfer required growth media + cells into each flask.
+
+23\. Transfer the flasks into the 37'C incubator. Refer to Appendix 3 for
+incubation conditions.
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required37'C, 5%
+CO2  
+  
+  
+
+References
+
+Referenced Method: Section 8 under VSOP-005 & VSOP-009
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+
+Procedure - Thawing Myoblasts
+
+                                                                          
+
+  1. Coat flasks with 0.1% gelatin solution per flask and place in the 37C Incubator for 1 hour. Refer to V-SOP-002 for gelatin preparation if required.
+  2. Extract required growth media into aliquots as listed in the table above and add p38i to each aliquot. Mix thoroughly and place into a heated 37C water bath for 20 minutes. 
+  3. Select the vial/s for thawing. Note the location of the vial in Liquid Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)
+
+  4. Obtain selected number of cryovial/s from LN Dewar and thaw in the 37C water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.
+  5. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and transfer into the Biohazard Safety Cabinet (BSC).
+  6. Slowly add 500uL of growth media into the/each vial. This will produce a total of 1mL cell suspension per vial.
+  7. Resuspend the cells gently and transfer all contents from the vial to the bottom of a 50mL falcon tube. *NOTE: Dispensing suspension of cells on the sides of the tube will risk loss of cells in Step 11.
+  8. Add an additional 500uL of growth media to each vial to collect remaining cells and add into the centrifuge tube. A total of 1.5mL will be in each vial.
+  9. Resuspend cells thoroughly and immediately extract 50uL into a microcentrifuge tube.
+  10. Perform cell count (Refer to VSOP-007) from collected sample and use the Cell Counting Spreadsheet  to enter data.
+  11. Extract all contents from the centrifuge tube and dispense into the prepared growth media. Wash the tube with 5-10 mL of the same growth media to extract remaining cells attached to the tube.
+  12. Transfer the gelatin coated flasks from the 37C incubator into the BSC.
+  13. Discard the gelatin and add required volume of growth media to each flask, ensuring the entire surface is coated and leave inside the BSC for 20 - 40 minutes. Use the 'Bec Drop' to lay down the flasks.
+  14. Transfer and incubate overnight at 37C.
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 48 hrs before a 50% change (or passage) is required37'C, 5%
+CO2  
+  
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+
+Passage on 1x10CF
+Seeding of 2x5CS
+Roller Bottles
+Thawing Myoblasts
+
+
+Note, cells we washed from their vials into a single 50 mL tube and topped up
+to 30 mL final volume with growth media.
+
+The 50 mL tube was then spun at 700 g for 5 minutes and the pellet was
+resuspended in 15 mL fresh growth media (to remove the cryopreservant prior to
+counting and culturing).
+
+
+Seeding Roller Bottles
+Set 1 (Control) and 2 (Seed with TGFb) - ONLY Fibroblasts
+Sets 3 (MUSC alone - 1,650), 4 (MUSC+Fibro 1:1 - 1,650), 5 (MUSC+Fibro 3:1 - 1,650), 6 (MUSC 1,650 + Fibro 7,500), 7 (MUSC+Fibro 1:1 - 7,500)

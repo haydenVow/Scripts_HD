@@ -1,0 +1,109 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: AS
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flasks ID(s)Confluence  
++observations  
+Cell lineMediaSeeded Flask TypeSeeded Flasks ID(s)Seeding density  
+13018, 1301980-90%SILKIENuvonis suspension media + IGF + EGF + FGFE125 13047
+~1.3M cells/mL  
+13018, 13019  
+80-90%  
+SILKIE  
+DMEM/F12 + 10% KSRT17513048 ~7,000/cm  
+  
+13018, 13019  
+80-90%  
+SILKIE  
+Cryostor1 mL cryovials15449-581M cells/mL  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameID  
+Nuvonis suspension media13112  
+  
+IGF12080  
+  
+EGF12011  
+FGF12229  
+  
+DPBS1282  
+  
+Tryple13101  
+  
+DMEM/F12 + 10% KSRNo ID made  
+Cryostor CS10  
+S5336  
+  
+  
+  
+
+
+
+
+Process:
+
+Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath > 30 minutes prior to use
+
+  1. Observed cultures under the microscope and recorded confluence in the table above. 
+  2. Imaged cultures on 10x magnification (captured in Mia)
+  3. TrypLE:     400 mL 
+  4. dPBS (for washing & neutralising)   1000 mL
+  5. Growth media (for seeding):   30 mL for each
+  6. Removed spent media.
+  7. Washed the flask(s) with dPBS. Repeat to remove KSR.
+  8. Added  150 and 250  mL tryple to each vessel/well and incubated at 37˚C for  30 minutes   
+  9. Neutralised with   150 and 250  mL dPBS to each vessel (warmed) and combined cell suspension into two 500  mL tubes.
+  10. Centrifuged at 650 x g for 5 min.
+  11. Aspirated + discarded supernatant
+  12. Resuspended pellet(s) in  30  mL media.
+  13. Strained cell suspension to make a single cell suspension.   
+Performed a cell count using the hemocytometer and recorded the cell count
+data in widget or the Google Doc spreadsheet called 'Cell Count Spreadsheet'
+(see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  14. Total cell number was:  49,800,000 cells
+
+  15. 6.4 mL was separated into another 50 mL tube for cryopreservation. 
+
+  16. Centrifuged at 650 x g for 5 min.
+  17. Re-seeded cells as per table above.
+
+  18. Transferred flasks to incubate at 37ºC, 5% CO2, library lab incubator #77.
+
+  
+
+For Cryopreservation:
+
+17\.  Aspirated supernatant and resuspended cell pellet in 10 mL cryostor.
+
+10\. Dispensed 1 mL of cell suspension into each cryovial to freeze down at 1M
+cells/mL.
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): See Mia
+
+

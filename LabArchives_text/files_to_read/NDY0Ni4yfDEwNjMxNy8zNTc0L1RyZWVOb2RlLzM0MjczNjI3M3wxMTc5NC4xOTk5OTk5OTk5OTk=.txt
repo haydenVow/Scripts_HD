@@ -1,0 +1,254 @@
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+  
+1  
+2  
+3  
+  
+A  
+Serum Control  
+GM + 0.1% MC  
+GM + 0.3% MC  
+  
+B  
+GM + 0.45% MC  
+GM + 0.6% MC  
+GM + 1% MC  
+  
+  
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+E-Flasks
+
+  1. Aliquoted:
+    1. 5 mL  of  each of the following growth media conditions above: 0.1%, 0.3%, 0.45%, 0.6% MC in GM
+    2. 30 mL of GM + 1% MC
+    3. 30 mL of serum control media
+    4. 30 mL of GM + 0.45% MC  
+Placed in water bath: 30 mL aliquots: 10:20
+
+  2. Collected E-flasks from shakers, wiped with ethanol-sprayed cloth and brought into BSC (if necessary, paused shakers by pressing the "play" button on the controller on the side wall of the incubator)
+  3. Using a 5 mL serological pipette for the E125 flasks, gently pipette-mixed cultures for ~1 minute to break up cell clumps
+  4. Pipetted suspensions though 70 um cell strainer into 3 x 50 mL flasks (kept E125 flask and 50 mL tubes in BSC as cultures will be returned to these post centrifugation) 
+  5. Centrifuged at 300 x g for 5 min.
+    1. Timestamp:10:41 - 10:46   
+
+  6. Aspirated supernatants, taking care to not disrupt or aspirate pellet
+  7. Replaced with 30 mL fresh, warmed media in all cultures 
+  8. Gently pipette-mixed cultures again before moving back to E125 flask 
+  9. Took 100 uL sample from each culture and loaded into separate wells a 96-well plate, as follows:
+    1. 0.45MC: A1
+    2. 1%MC: B1
+    3. Control: C1
+  10. Returned E-flasks to incubator and replaced in clamp. If shaker was paused, remembered to press play to restart shaking. Timestamp:   10:56    
+
+  * Incubator (#81), Lab [Main]
+
+50 mL tubes
+
+  1. Placed 5 mL aliquots in water bath 11:17  
+
+  2. Prepared stain buffer by combining the following:
+    1. 4 mL of dPBS
+    2. 4 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    3. 4 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+  3. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  4. Collected 6 x 50 mL shake tubes being fed from shaker 
+  5. Centrifuged at 300 x g for 5 min. 11:36 - 11:41  
+
+  6. While tubes were centrifuging, loaded protocol linked above on computer next to Otis and set up deck as described at calibration step (used 96WP with pre-loaded E-flask samples)
+  7. Ethanol-sprayed 6 x shake tubes and loaded on OT2 (Otis)
+  8. Collected 6 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  9. Order of media/culture ID in rack and final destination well in 96WP:
+    1. 0.1% MC/7665 - 9H
+    2. 0.3% MC/7666 - 9G
+    3. 0.45% MC/7667 - 9F
+    4. 0.6% MC/7668 - 9E
+    5. 1% MC/7669 - 9D
+    6. Control/7670 - 9C
+  10. Calibrated for protocol 
+  11. Ran protocol  
+    1. Start time: 11:49:48 AM
+      1. ERROR AT ~5 MIN IN, RE-CALLIBRATED, ADJUSTED PROTOCOL TO START PARTWAY THROUGH, RE-STARTED RUN
+    2. Start time: 12:07:38 PM
+      1. Same error again, this time immediately on aspirating from same 15 mL tube that was the issue before
+  12. Removed culture tubes and re-centrifuged 12:11 - 12:16
+  13. Performed rest of stain and feed by hand as cultures had already been out of incubator for almost an hour
+  14. Returned vessels to incubator 12:26  
+  
+NOTE: all cells imaged have been serially diluted to be at 12.5% of original
+concentration in staining buffer
+
+
+
+
+Processed cell count
+
+  1. Incubated stained plate for at least 20 minutes at room temperature in the dark
+    1. Incubation for E125 cultures:   12:30 - 12:51   
+
+    2. Incubation for 50 mL bioreactor tube cultures:  12:30 - 12:51     
+
+  2. Centrifuged plate for 1 min at 650 x g
+  3. Took whole-well images using the Zaber
+  4. Stored images under culture 7820 labelled EPIC22603-23-AUG
+  5. Plate map was as follows:
+    1. 9H - 0.1% MC/7665 
+    2. 9G - 0.3% MC/7666 
+    3. 9F - 0.45% MC/7667 
+    4. 9E - 0.6% MC/7668
+    5. 9D - 1% MC/7669 
+    6. 9C - Control/7670 
+    7. A1 - 0.45MC
+    8. B1 - 1%MC
+    9. C1 - Control
+    10. A5, B5, C5 - Negative controls (stain, no cells)
+  6. Noted that cell-free stain had a lot of fluorescing debris - hypothesised that the reusable 12-well reservoir is introducing debris into staining samples. Re-did stain with sterile tube
+    1. Incubated stained plate for at least 20 minutes at room temperature in the dark 14:10 - 14:32
+    2. Centrifuged plate for 1 min at 650 x g
+    3. Took whole-well images using the Zaber
+    4. Stored images under culture 7820 labelled EPIC22603-23-AUG-REDO
+    5. Plate map was as follows:
+      1. D4 7661
+      2. E4 7672
+      3. F4 7673
+      4. G4 0.1% MC/7665
+      5. H4 0.3% MC/7666
+      6. D8 0.45% MC/7667
+      7. E8 0.6% MC/7668
+      8. F8 1% MC/7669
+      9. G8 Control/7670
+      10. H8 - Negative control (stain, no cells)
+
+
+
+
+### Observations/Summary:
+
+1) OT2 pipette tip slightly lifting 15 mL tube when aspirating fresh medium.
+Rack is solidly in place in deck and tube is in hole, so may need to set it to
+aspirate from higher than 0.1  mm
+
+2) On aspiration from second 15 mL tube, this error appeared:
+
+Run encountered an error. Reset run to run protocol again. Please contact
+support if you need help resolving this issue.
+
+SmoothieError: SmoothieError: M907 A0.1 B0.05 C0.3 X0.3 Y0.3 Z0.8 G4 P0.005 G0
+Z162.91 returned ALARM: Hard limit +Z
+
+3) 488 images look good - clean, obvious cells, good contrast. DAPI images
+show almost zero cells.
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recmddZ2UAmCVSIPJ/images
+
+

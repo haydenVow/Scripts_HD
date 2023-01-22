@@ -1,0 +1,373 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+1x E500  
+135.45  
+12504  
+  
+ E500  
+136  
+12504  
+For cell density experiment  
+159 - shaker incubator  
+  
+  
+1x E500  
+115.55  
+12536  
+  
+E500  
+20012536  
+Expansion  
+  
+1x E500  
+124.4512537  
+E500  
+20012537  
+Expansion  
+  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+MIX 12751 + Mix12737+12739  
+  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Cell Counts:
+
+  1. Cell counts with the Vicell was performed:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+  
+125041253712536  
+  
+Performed byJD ZMZM  
+ZM  
+  
+Total volume of the suspension culture 135.45mL124.45mL  
+115.55mL  
+  
+Volume of sample taken from the cell count 550uL 550uL550uL  
+  
+Timestamp of the cell count9:109:10  
+9:10  
+  
+Results  
+  
+  
+  
+Cell count viable (cells / mL)= 3.82M cell/mL3.03M cells/mL3.15M cells/mL  
+  
+% viability99.3%99.6%99.6%  
+  
+Total cell count in the suspension culture 517.4M cells  
+377.1M cells  
+364.0M cells  
+  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+It was noted that the density of 12504 was lower than expected so a second
+Vicell count was taken:
+
+Cell Count Information (Measured by the Vicell)  Ranger Culture ID  
+  
+12504  
+Performed byZM  
+Total volume of the suspension culture134.9mL  
+  
+Volume of sample taken from the cell count 550uL  
+Timestamp of the cell count10:10  
+Results  
+  
+Cell count viable (cells / mL)= 4.14M cell/mL  
+% viability99.3%  
+Total cell count in the suspension culture 558.5M cells  
+  
+  
+A manual count was also taken for 12504
+
+Mean Count  
+Dilution Factor  
+Improved Neubauer Constant  
+Total Volume (mL)  
+Cells/mL  
+Total Cells  
+  
+56.4  
+10  
+10000  
+135.5  
+5640000  
+764220000  
+  
+  
+Although the manual count was higher than the Vicell count, it was still lower
+than the expected density of ~6M cells/mL.
+
+## Steps for harvest and feed of flask 12537 (ZM)
+
+250.4 M cells were harvested from the E500 flasks with a Ranger ID of: 12537
+and given to the scaffolds stream. The remaining cells (161M) were placed into
+a new flask and topped up with media.
+
+1\. The initial volume, density and total cells of 12537 was noted as 123.9mL,
+3.30M cells/mL, 375.4 M cells, respectively.
+
+2\. 158.74mL of 50/50 Hycell/RPMI media was aliquoted to a 500mL container
+
+3\. 0.159mL of IGF and 0.032mL of EGF were added to the 158.74mL of media
+
+4\. 41.26mL of the cells from 12537 were deposited into the 500mL jar
+containing 158.74 mL of media (\+ 0.159mL of IGF and 0.032mL of EGF)
+
+5\. The cells and media were then pipetted into a new E500 flask, total
+working volume in flask 200mL (41.26 + 158.74)
+
+6\. A cell count was taken using the Vicell before returning to the incubator
+at 15:00 (37 C, 5% CO2, 120 RPM):
+
+Cell Count InformationCulture ID  
+Original ID  
+12537  
+Performed byJD  
+Total volume of the suspension culture200  
+  
+Volume of sample taken from the cell count550uL  
+Timestamp of the cell count16:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.805 x 10^6  
+% viability 99.9%  
+Total cell count in the suspension culture cells  
+161M  
+  
+7\. The remaining 82.64mL (123.9 - 41.26) of cells (3.03M cells/mL, 250.4M
+cells) in the original E500 flask were given to the scaffolds stream
+experiments
+
+Seed flask details:
+
+  * Seeding density: 0.805 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  200 mL
+  * Flask size: E500 flat bottom
+  * Refer to summary table above
+
+## Steps for harvest and feed of flask 12536 (ZM + JD)
+
+240 M cells were harvested from the E500 flasks with a Ranger ID of: 12536 to
+be spun down and frozen. The remaining cells (145M) were placed into a new
+flask and topped up with media.
+
+1\. The initial volume, density and total cells of 12536 was noted as 115.9mL,
+3.15M cells/mL, 365.1 M cells, respectively.
+
+2\. 160.29mL of 50/50 Hycell/RPMI media was aliquoted to a 500mL container
+
+3\. 0.160mL of IGF and 0.032mL of EGF were added to the 160.29mL of media
+
+4\. 39.71mL of the cells from 12536 were deposited into the 500mL jar
+containing 160.29 mL of media (\+ 0.160mL of IGF and 0.032mL of EGF)
+
+5\. The cells and media were then pipetted into a new E500 flask, total
+working volume in flask 200mL (39.71 + 160.29)
+
+6\. A cell count was taken using the Vicell before returning to the incubator
+at 15:00 (37 C, 5% CO2, 120 RPM):
+
+Cell Count InformationCulture ID  
+Original ID  
+12536  
+Performed byJD  
+Total volume of the suspension culture200  
+  
+Volume of sample taken from the cell count 550uL  
+Timestamp of the cell count16:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.725 x 10^6  
+% viability 100%  
+Total cell count in the suspension culture cells  
+145M  
+  
+7\. The remaining 76.19mL (115.9 - 39.71) of cells (3.15M cells/mL, 240 M
+cells) in the original E500 flask were centrifuged at 500g for 5 minutes
+
+8\. The remaining cell pellet was harvested, weighed and placed in a -20C
+freezer
+
+Seed flask details:
+
+  * Seeding density: 0.725 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  200 mL
+  * Flask size: E500 flat bottom
+  * Refer to summary table above
+
+## Cell seeding density experiment 12504 (JD)
+
+ 1\. The flask containing the seed density experiment was reseeded at the
+following density. The remaining cells were spun down, weighed and frozen.
+
+Cell Count InformationCulture ID (cell density exp.)  
+  
+Original ID  
+12504  
+  
+Performed byJD  
+Total volume of the suspension culture136  
+  
+Volume of sample taken from the cell count550uL  
+  
+Timestamp of the cell count18:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.729 x 10^6 M cells/mL  
+  
+% viability 98.3%  
+  
+Total cell count in the suspension culture cells  
+99.14 M cells  
+  
+  
+
+Seed flask details:
+
+  * Seeding density: 0.729 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  136 mL
+  * Flask size: E500 flat bottom
+  * Refer to summary table above
+
+  
+
+
+
+
+## Summary/ Results
+
+Cell counts with the Vicell was performed on the 16 JUN 22:
+
+  1. Cell Count InformationCulture ID Culture IDCulture ID (cell density exp.)  
+  
+Original ID  
+125361253712504  
+  
+Performed byJDJDJD  
+Total volume of the suspension culture as of 16 JUN 116.416124.5135.5  
+  
+Volume of sample taken from the cell count 550uL 550uL550uL  
+  
+Timestamp of the cell count11:0011:0011:00  
+Results (Measured by the Vicell)  
+  
+  
+  
+Cell count viable (cells / mL)2.83 2.686.79  
+% viability 99.9%99.9%99.8%  
+Total cell count in the suspension culture cells  
+329,457,280333,660,000920,045,000  
+
+\- Shaleen used 550uL + 550uL + 1484uL = 2584uL on Wednesday and the count was
+1.43M cells/mL.
+
+Seeding new flasks and feeding was performed on the 17 JUN 22.
+
+Culture 12537 was reseeded into a new E500 flask (after 250.4 M cells were
+harvested for scaffolds stream):
+
+Cell Count InformationCulture ID  
+Original ID  
+12537  
+Performed byJD  
+Total volume of the suspension culture200  
+  
+Volume of sample taken from the cell count550uL  
+Timestamp of the cell count16:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.805 x 10^6  
+% viability 99.9%  
+Total cell count in the suspension culture cells  
+161M  
+  
+Culture 12536 was reseeded into a new E500 flask (after 240 M cells were
+harvested, spun down and frozen):
+
+Cell Count InformationCulture ID  
+Original ID  
+12536  
+Performed byJD  
+Total volume of the suspension culture200  
+  
+Volume of sample taken from the cell count 550uL  
+Timestamp of the cell count16:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.725 x 10^6  
+% viability 100%  
+Total cell count in the suspension culture cells  
+145M  
+  
+Culture 12504 was reseeded into a new E500 flask (remaining cells were
+harvested, spun down and frozen):
+
+Cell Count InformationCulture ID (cell density exp.)  
+  
+Original ID  
+12504  
+  
+Performed byJD  
+Total volume of the suspension culture136  
+  
+Volume of sample taken from the cell count550uL  
+  
+Timestamp of the cell count18:30  
+  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)0.729 x 10^6 M cells/mL  
+  
+% viability 98.3%  
+  
+Total cell count in the suspension culture cells  
+99.14 M cells
+
+

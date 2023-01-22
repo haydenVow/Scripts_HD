@@ -1,0 +1,56 @@
+  
+  
+Summary
+
+Some media components are supporting maturation (NAD+), but literature is not
+always clear on numbers and mechanisms. However, 5mM Creatine has been shown
+to promote the fusion of myoblasts assessed by an increased number of nuclei
+incorporated within myotubes by 40%. Expression of myosin heavy chain type II
+also increased by 1300%, troponin T by 65% and titin by 40%.
+
+The recommendation is to try the following:
+
+  * add 5 mM Creatine to differentiation media in a dish vs non-creatine control and assess maturation levels in planar culture using ELISA or IHC staining.
+  * If successful, incorporate into a reactor run and use in combination with scaffolds
+
+
+
+
+MEDIA COMPONENTS promoting maturation (please insert main finding and
+reference):
+
+1. Creatine supplementation:When creatine supplementation is combined with heavy resistance training, muscle insulin like growth factor (IGF-1) concentration has been shown to increase.  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407788/ 
+
+2. NAD+ supplementation: There is no evidence that primary (embryonic) myogenesis requires modulation of NAD+ levels in vivo. There is, however, data indicating that secondary (fetal) myogenesis may integrate nutrient sensing with NAD+ levels and SIRT1 activity to mediate muscle growth in vivo.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5840929/
+
+3. Steroids: https://www.medicalnewstoday.com/articles/246373#types https://www.webmd.com/a-to-z-guides/ss/slideshow-steroids-101
+
+4\. Creatine supplementation: 5mM Creatine also promoted the fusion of
+myoblasts assessed by an increased number of nuclei incorporated within
+myotubes (+40%, P &lt; 0.001). Expression of myosin heavy chain type II
+(+1,300%, P &lt; 0.001), troponin T (+65%, P &lt; 0.01), and titin (+40%, P
+&lt; 0.05) was enhanced by creatine
+
+https://journals.physiology.org/doi/full/10.1152/ajpcell.00162.2007#:~:text=Creatine%20improves%20growth%20and%20differentiation,total%20cell%20number%20(3)
+
+5\. Review article pdf full link: Summary HGF, FGF2, TGF-, and PDGF are
+essential during early phases of muscle regeneration, they are known to
+inhibit subsequent differentiation into mature muscle. This highlights the
+importance of the highly regulated and temporal expression of growth factors
+throughout skeletal muscle regeneration. Other growth factors, including
+insulin-like growth factor 1 (IGF-1) and 2 (IGF-2), stimulate both
+proliferation and differentiation of SCs. Myofiber maturation is also highly
+dependent on revascularization of the tissue and the generation of
+neuromuscular junctions.
+
+
+
+  
+
+  
+
+  
+
+

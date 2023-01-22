@@ -1,0 +1,476 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: AG
+
+
+
+
+Media
+
+ ~~~~1\. DMEM/F12 + 10% FBS + 1x p/s ~~~~
+
+2\. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM
+L-glutamine  \+ 1x p/s + 100 ng/mL each FGF, IGF1, PDGF
+
+Note: only add growth factors to aliquots immediately before the medium
+change.
+
+
+
+
+Reagents used:
+
+Name
+
+Details (reagent ID)  
+  
+FGF  
+m5705  
+IGF1  
+m7963  
+  
+PDGF  
+m7680  
+  
+  
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vial ID passagedSeeded Flask ID(s)Seeded Flask Type  
+  
+4CF - 8496-F_DOLLY12-Sheep P10-1of2
+
+4CF - 8497-F_DOLLY12-Sheep P10-2of2
+
+8630-F_DOLLY12-Sheep P11-1of3  
+8631-F_DOLLY12-Sheep P11-2of3  
+8632-F_DOLLY12-Sheep P11-3of3  
+8633-F_DOLLY12-Sheep P11-1of3  
+8634-F_DOLLY12-Sheep P11-2of3  
+8635-F_DOLLY12-Sheep P11-3of36x 50 mL shake tubes  
+  
+8636-F_DOLLY12-Sheep P11-1of3  
+8637-F_DOLLY12-Sheep P11-2of3  
+8638-F_DOLLY12-Sheep P11-3of3  
+8639-F_DOLLY12-Sheep P11-1of3  
+8640-F_DOLLY12-Sheep P11-2of3  
+8641-F_DOLLY12-Sheep P11-3of3  
+6x E125
+
+
+  
+  
+F_CHOMP Culture IDs
+
+Vessel ID passaged Seeded Flask ID(s)Seeded Flask Type  
+4CF- 8461-F_CHOMP09-Crocodile P6-1of1  
+  
+8643-F_CHOMP09-Crocodile P7-1of3  
+8644-F_CHOMP09-Crocodile P7-2of3  
+8645-F_CHOMP09-Crocodile P7-3of3  
+8646-F_CHOMP09-Crocodile P7-1of3  
+8647-F_CHOMP09-Crocodile P7-2of3  
+8648-F_CHOMP09-Crocodile P7-3of3  
+6x 50 mL shake tubes  
+  
+  
+8649-F_CHOMP09-Crocodile P7-1of3  
+8650-F_CHOMP09-Crocodile P7-2of3  
+8651-F_CHOMP09-Crocodile P7-3of3  
+8652-F_CHOMP09-Crocodile P7-1of3  
+8653-F_CHOMP09-Crocodile P7-2of3  
+8654-F_CHOMP09-Crocodile P7-3of3  
+6x E125 flasks  
+  
+
+
+  
+  
+1\. Aliquoted growth media for each condition and added growth factors - See
+suspension trail #7 on the media spreadsheet for details here:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+
+  
+  
+  
+  
+  
+  
+  
+
+Media  
+  
+Reagent IDPurpose  
+  
+Volume of Media (mL)  
+  
+Number of tubes (Split between DOLLY12 and CHOMP)  
+  
+Total per feed  
+DMEM/F12 + 10% FBS + 1x p/sM7401  
+M8222  
+  
+Shaker tube feed16232  
+DMEM/F12 + 10% FBS + 1x p/s  
+  
+M7401  
+M8222  
+  
+E125 feed  
+  
+902180  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent \+ 4mM
+L-glutamine +  100ng/mL each FGF, IGF1, PDGF (to be added after aliquotting)
+\+ 1x p/sM7507  
+M8152  
+Shaker tube feed  
+  
+  
+16232  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 4mM
+L-glutamine +  100ng/mL each FGF, IGF1, PDGF (to be added after aliquotting)
+\+ 1x p/sM7507  
+M8152  
+  
+E125 feed  
+  
+  
+902180  
+  
+2\. Added growth factors (IGF, PDGF, FGF) to all aliquots of CD CHO growth
+media according to the below table:
+
+For 16mL aliquots:
+
+Total (mL)16  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.001632  
+IGF10.00010.050.001632  
+PDGF0.00010.010.0016160  
+  
+  
+
+For 90 mL aliquots:
+
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.009180  
+IGF10.00010.050.009180  
+PDGF0.00010.010.009900  
+  
+ 3\. Added the following reagents to the water bath and media to incubator and
+warm at 37 degrees Celsius 11:05, 14:00 (90mL)
+
+  
+
+  * Growth media (for seeding) shaker tubes: 1x16mL D/F media, 1x16mL CD CHO 
+
+  * Growth media (for seeding) E125 flasks:  1x 90 mL D/F media , 1x90mL CD CHO  
+  
+
+  * 3\. Added the following reagents to the water bath and media to incubator and warm at 30 degrees Celsius 11:05, 14:00 (90mL)
+  * Growth media (for seeding) shaker tubes: 1x16mL D/F media, 1x16mL CD CHO 
+  * Growth media (for seeding) E125 flasks:  1x 90 mL D/F media , 1x90mL CD CHO
+
+
+
+
+Process:  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min 14:06 -14:11
+  5. Aspirated  100% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. Leave approximately 1 mL of supernatant in the 50 mL tube to avoid disturbing the pellet. 
+  6. Resuspend pellet in remaining supernatant using a P1000 pipette
+  7. Added  30 mL of fresh, warmed growth media to each 50 mL tube
+  8. Took 100 uL samples from each culture and stored in separate microtubes until ready to stain alongside 50 mL shake tubes.
+  9. Gently pipette-mixed cultures using serological, before moving cell suspension back to E125s
+  10. Returned E125s to incubator 15:39
+
+30° C Incubator (#), Lab [Main/Library/Production]
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Process:
+
+50 mL shake tubes
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected shake tubes from shaker 
+  3. Centrifuged at 300 x g for 5 min
+    1. Timestamp  11:18-11:23
+  4. While tubes were centrifuging, loaded protocol linked below (added protocol as attachment) on computer next to OT2 and set up deck as described at calibration step
+  5. Ethanol-sprayed  shake tubes and loaded on OT2
+  6. Collected media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquot deck positions matched up with intended feed tube positions.
+  7. Calibrated the pipet head. Note: OT2 will attempt to calibrate to position A1 of Media Rack 2, this is expected run proceeded as normal.
+  8. Ran protocol  
+    1.  Start time  11:36:11 AM
+    2.  END TIME 12:14 PM  
+
+    3. Total run time: 00:38:00
+  9. Replaced caps and returned tubes to the incubator  13:18
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+30° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining and imaging:  
+1\. Prepared stain buffer in 15 mL amber or black tube by combining the
+following:
+
+  * 1 mL of dPBS 
+  * 1 drop of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+    * Vortex mix for ~5 seconds, then stored in dark until ready to use.
+
+  1. Added 100 uL of dPBS + NucGreen solution directly to each well with cells
+  2. Added 100 uL of dPBS to columns 3, 4, 9 and 10 according to the below plate map
+  3. Perform serial dilution of cells by transferring 100 uL of cell suspension to subsequent well
+  4. A third plate (labelled plate 2) was setup according to previous lab entries (1 mL dPBS, 3 drops Hoechst Readyflow, 1 drop Nucgreen Dead 488 cell stain with 100 uL added to cells)
+  5. Incubated for 30 minutes in the dark at room temperature Timestamp: 14:37 (Plate 1), 16:12 (plate 2), 17:05 (plate 3)
+  6. Made 25% and 12.5% dilutions of the sample in dPBS   
+
+  7. Centrifuged plates at 300 RCF for 1 minute  14:03, 16:42
+  8. Plate map of culture IDs in 96-WP for imaging:  
+
+      Plate 1 ID 8905 EPIC25749 50mLshake tubes D/F media https://mia-capture.vow.tools/#/session/recseLG3V0IkuQmR1/images  
+  
+
+Column notes ->EMPTY50% sample25% sample12.5% sample12.5% sampleBLANKEMPTY50%
+sample25% sample12.5% sample12.5% sampleBLANK  
+  
+123456789101112  
+A  
+8630  
+  
+  
+  
+  
+8645  
+  
+  
+  
+  
+B  
+8631  
+  
+  
+  
+  
+8646  
+  
+  
+  
+  
+C  
+8632  
+  
+  
+  
+  
+8647  
+  
+  
+  
+  
+D  
+8633  
+  
+  
+  
+  
+8648  
+  
+  
+  
+  
+E  
+8634  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+F  
+8635  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+8643  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+8644  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+    Plate 2 ID 8906  EPIC25749 E125 flasks https://mia-capture.vow.tools/#/session/recFXkkUmKlZfP7i8/images  
+
+Column notes ->Stain buffer50% sample25% sample12.5% sample12.5%
+sampleBLANKStain buffer50% sample25% sample12.5% sample12.5% sampleBLANK  
+  
+123456789101112  
+A  
+8636  
+  
+  
+  
+  
+8651  
+  
+  
+  
+  
+  
+B  
+8637  
+  
+  
+  
+  
+8652  
+  
+  
+  
+  
+  
+C  
+8638  
+  
+  
+  
+  
+8652  
+  
+  
+  
+  
+  
+D  
+8639  
+  
+  
+  
+  
+8654  
+  
+  
+  
+  
+  
+E  
+8640  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+F  
+8641  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+8649  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+8650  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary  
+Opentron observations/issues  
+  
+  
+  
+Zaber observations  
+  
+
+

@@ -1,0 +1,230 @@
+
+
+## Completed by: LL & AS
+
+
+Aim/Purpose
+
+
+To determine the optimal concentration of glucose, L-glutamine, L-alanyl-l-
+glutamine, hypoxanthine, and thymidine in Nuvonis media on day 0 to maximise
+peak cell density
+
+
+Hypothesis
+
+
+That the following concentrations of each ingredient will result in the
+highest maximum cell density:
+
+  1. Glucose: 9 g/L
+  2. L-Glutamine/L-Alanyl-L-Glutamine: 0.58 g/L
+  3. Hypoxanthine: 0.007 g/L
+  4. Thymidine: 0.002 g/L
+
+
+Technical Gap
+
+
+We have tried supplementing the media to bring glucose and L-glutamine
+concentrations up to 6 g/L and 4mM (from 4 g/L and 1 mM, respectively), which
+was observed to improve cell growth and reduce clumping. We have not tried any
+other concentrations. We have also not yet tried adding hypoxanthine or
+thymidine. These are both involved in the production of nucleosides, and could
+therefore improve DNA replication rate and thereby cell proliferation rate.  
+
+
+Method/Procedure
+
+
+Overview of design
+
+  * Design type: Response Surface Design, CCD-Uniform Precision
+  * Number of factors: 5
+  * Number of levels: 5
+  * Number of centre points: 6
+  * Number of runs: 32
+
+
+
+
+Overview of plan
+
+  * Make up stock solutions of each factor in 50/50 RPMI/CHO Nuvonis suspension medium
+    * Glucose: 400 g/L (testing 6 - 10g/L)
+    * L-Glutamine: 29.2 g/L (200 mM) (testing 1-5mM)
+    * L-Alanyl-L-Glutamine: 43.4 g/L (200 mM) (testing 1-5mM) 
+    * Hypoxanthine: 2 g/L 
+    * Thymidine: 1 g/L 
+  * Make up each media condition 
+    * Conditions 1-26 are all individual mixes 
+    * Conditions 27-32 are all identical so can make it up as one single mix to then split between 6 x E125s
+  * Seed 32 flasks @ 200K cells per mL in 30 mL per flask (6M per flask, 192M cells total required) 
+  * Grow cells for 7 days 
+    * Cell count every day 
+    * Biochemical analysis every second day
+
+
+DayDateTask(s)NotesReviewer comments  
+Day -1Thursday 7-July
+
+  1. Make up stock solutions of each factor and filter sterilise
+  2. Make up 1L of sterile 50/50 RPMI/CHO medium with growth factors 
+  3. Make up first 26 conditions in 26 x E-125s
+  4. Make up 200 mL of "centre point media" for conditions 27-32
+  5. Take 250 uL from each condition for Day 0 biochemistry analysis
+  6. Transfer 30 mL of centre point media to 6 x E-125s
+  7.  ~~Place flasks in incubator (37 'C, 5%CO2) to warm and equilibrate overnight~~ Parafilm lids and place flasks in fridge at 4'C overnight
+
+ ~~  
+~~
+
+ ~~~~Sarah: Do the flasks need to be in the incubator overnight before cells
+are added? or can they be placed into the incubator the next morning to
+equilibrate? I am worried that overnight at 37 rather than fridge temp the
+ingredients are more likely to degrade. Proteins degrade at a far higher rate
+at 37 than at 4 degrees  
+  
+Day 0Friday 8-July
+
+  1. Remove parafilm from flask lids and place in incubator at 37'C to warm & equilibrate
+  2. Count 50/50 RPMI/CHO WCB expansion flasks
+  3. Transfer 200M cells (8M extra for buffer) to 250 mL falcon tube
+  4. Centrifuge (500 x g, 5 min) 
+  5. Re-suspend in 33 mL x 50/50 RPMI/CHO Nuvonis suspension media (no added factors) 
+  6. Transfer 32 x E-125s with equilibrated media from incubator to 3 x BSCs
+  7. Using a P1000, add 1 mL of cell suspension to each flask 
+  8. Return flasks to incubate (37'C, 5% CO2, 120 RPM)
+
+  * Three scientists will seed flasks. 
+  * Each will take 10-12 flasks into separate BSCs to minimise contamination risk
+  * Flasks will be randomly assigned to scientists to minimise the effect of technician bias 
+
+  *   
+
+  
+  
+Day 1Saturday
+
+  1. Count flasks on ViCell XR
+  2. Take samples for biochemistry analysis
+
+  
+
+  
+
+  
+  
+Day 2Sunday
+
+  1. Count flasks on ViCell XR
+
+  
+
+Sarah: Do we need to do Biochem testing every day? I propose every second day
+is more feasible and will reduce the number of hands needed in the lab on
+alternate days  
+  
+Day 3Monday
+
+  1. Count flasks on ViCell XR
+  2. Take samples for biochemistry analysis
+
+  
+  
+  
+Day 4 Tuesday
+
+  1. Count flasks on ViCell XR
+
+  
+  
+  
+Day 5Wednesday
+
+  1. Count flasks on ViCell XR
+  2. Take samples for biochemistry analysis
+
+  
+  
+  
+Day 6Thursday
+
+  1. Count flasks on ViCell XR
+
+  
+  
+  
+Day 7Friday
+
+  1. Count flasks on ViCell XR
+  2. Take samples for biochemistry analysis
+
+  
+  
+  
+Day 7-10Friday - Monday
+
+  1. Analyse data and write report 
+
+  
+  
+
+
+
+
+
+Design matrix
+
+
+
+Media condition recipes
+  
+  
+Spreadsheet link:
+
+https://docs.google.com/spreadsheets/d/1QF5EU6Z7pBhJgYM9uZbgOGPCnI4ICxClfT3hGHbDxIc/edit#gid=0
+
+Matrix(values in mL)  
+  
+  
+  
+  
+  
+  
+  
+L-GlutamineL-Alanyl-L-GlutamineGlucoseHypoxanthineThymidineMediaTotal volume  
+1.000.1500.1500.2250.0610.03529.37930.000  
+2.000.1500.1500.2250.1430.08129.25130.000  
+3.000.1500.1500.3750.0610.03529.22930.000  
+4.000.1500.1500.3750.1430.08129.10130.000  
+5.000.1500.4500.2250.0610.03529.07930.000  
+6.000.1500.4500.2250.1430.08128.95130.000  
+7.000.1500.4500.3750.0610.03528.92930.000  
+8.000.1500.4500.3750.1430.08128.80130.000  
+9.000.4500.1500.2250.0610.03529.07930.000  
+10.000.4500.1500.2250.1430.08128.95130.000  
+11.000.4500.1500.3750.0610.03528.92930.000  
+12.000.4500.1500.3750.1430.08128.80130.000  
+13.000.4500.4500.2250.0610.03528.77930.000  
+14.000.4500.4500.2250.1430.08128.65130.000  
+15.000.4500.4500.3750.0610.03528.62930.000  
+16.000.4500.4500.3750.1430.08128.50130.000  
+17.000.0000.3000.3000.1020.05829.24030.000  
+18.000.5990.3000.3000.1020.05828.64030.000  
+19.000.3000.0000.3000.1020.05829.24030.000  
+20.000.3000.6000.3000.1020.05828.64030.000  
+21.000.3000.3000.1500.1020.05829.09030.000  
+22.000.3000.3000.4500.1020.05828.79030.000  
+23.000.3000.3000.3000.0200.05829.02230.000  
+24.000.3000.3000.3000.1840.05828.85930.000  
+25.000.3000.3000.3000.1020.01228.98730.000  
+26.000.3000.3000.3000.1020.10528.89430.000  
+27-361.9982.0002.0000.6800.388192.934200.000  
+SUM9.7919.8009.8003.3311.899945.379980.000
+
+
+Power analysis of design
+
+
+

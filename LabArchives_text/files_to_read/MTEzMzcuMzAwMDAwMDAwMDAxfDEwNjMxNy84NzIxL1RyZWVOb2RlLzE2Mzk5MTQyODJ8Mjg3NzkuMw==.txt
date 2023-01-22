@@ -1,0 +1,138 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+E50001398 mL  
+12684  
+2xE50001000 mL (each)12735  
+12736Expansion 146 - shaker incubator  
+  
+  
+E5000  
+1398 mL12685  
+N/A  
+  
+Used in product 2 experiments146 - shaker incubator  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+12801 (UPDATE)  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Cell Counts:
+
+  1. Cell counts with the Vicell was performed at 11:00am:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+12684 (A)12685 (B)  
+Performed byZMZM  
+Total volume of the suspension culture1398 mL1398 mL  
+Volume of sample taken from the cell count 1ml 1 ml  
+Timestamp of the cell count11:0011:00  
+Results  
+  
+  
+Cell count viable (cells / mL)= 2.72 x 10^62.78 x 10^6  
+% viability99.8%99.7%  
+Total cell count in the suspension culture 3802 million cells  
+3886 million cells  
+  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+  
+
+## Flask 12685 - Harvested:
+
+1\. All 3886 million cells in flask 12685 were harvested for 2nd product
+experiments
+
+  
+
+## Flask 12684 - Harvested and Passaged:
+
+1\. 426.47 mL of RPMI and 426.47 mL of Hycell (852.94 mL total RPMI/Hycell)
+was aliquoted into one 1000L bottle
+
+2\. 426.47 mL of RPMI and 426.47 mL of Hycell (852.94 mL total RPMI/Hycell)
+was aliquoted into another 1000L bottle
+
+3\. 1.00 mL of IFG and 0.2mL of EGF was added two each 1000L bottle (2.00 mL
+of IGF and 0.4mL of EGF total)
+
+4\. The bottles with media and growth factors were placed into a water bath at
+37 degrees for 20 minutes
+
+5\. The media and growth factors from each bottle were placed into 1xE5000
+flask each
+
+6\. 147.06 mL of flask 12684 were aliquoted into each E5000 flask (total
+volume 1000mL in each E5000)
+
+7\. The 2xE5000 flasks were placed into shaker incubator 4:30pm (37 C, 5% CO2,
+90 rpm)
+
+8\. The remaining cells in 12684 were harvested for 2nd product experiments
+
+  
+
+
+
+
+## Summary/ Results
+
+800 million cells were expanded from 1 x E5000 flask into 2 x E5000 flask
+
+  
+
+Seed flask 12735 details:
+
+  * Seeding density: 0.4 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  1000 mL
+  * Flask size: E5000  (flat bottom / baffled)
+  * Refer to summary table above
+
+Seed flask 12736 details:
+
+  * Seeding density: 0.4 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  1000 mL
+  * Flask size: E5000  (flat bottom / baffled)
+  * Refer to summary table above
+
+  
+  
+
+

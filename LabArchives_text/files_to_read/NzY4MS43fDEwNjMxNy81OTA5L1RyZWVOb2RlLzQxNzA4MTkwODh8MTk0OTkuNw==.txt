@@ -1,0 +1,105 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+Performed by: AK, ST, LL  
+
+
+
+
+Growth Media:
+
+  * RPMI + 20% FBS + 1X P/S + ACA (1:100) + 0.1% pluronic + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax  \- GM 1  
+
+  * Hycell CHO + 20% KSR + 1X P/S + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax - GM2
+  * CD CHO + 20% KSR + 1X P/S + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax - GM3
+  * RPMI + 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic \+ FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax - GM4
+  * FreeStyle CHO + 8mM L-Glutamine + 1X P/S (for CHO-S only) - GM5
+
+
+Reagent  
+Reagent ID  
+  
+Anti adherence solution  
+S4209  
+  
+RPMI  
+S3619  
+  
+CD-CHO  
+S3956  
+  
+FreeStyle  
+S4105  
+  
+Hycell  
+A9005  
+  
+GM 1  
+M9165  
+  
+GM 1  
+M9166  
+  
+GM 3  
+M9167  
+  
+GM 4  
+M9168  
+  
+GM 5  
+M8634  
+
+
+  
+  
+Process:
+
+Prepare additional 19x 384 well plates (non-tissue culture treated, with black
+walls) with Anti-adherent rinsing solution to prevent cellular attachment
+(Plates 2-20)  
+*Perform process in non-tissue culture treated 384 plates  
+  
+  
+NOTE: For all cell types, Anti-Adherence Rinsing Solution is required during
+plate preparation steps to ensure optimal performance. Anti-Adherence Rinsing
+Solution prevents cell adhesion and promotes efficient EB and spheroid
+formation.  
+  
+  
+1. Warm basal medium (i.e. RPMI, CD-CHO, Hycell, etc) and complete medium (RPMI + FBS/KSR/PS etc).  
+  
+2. Pre-treat 384 wells with Anti-Adherence Rinsing Solution as described below.  
+a. Add Anti-Adherence Rinsing Solution to each well to be used, as follows:  
+• 384-well plate: 20 µL  
+• 24-well plate: 500 µL  
+• 6-well plate: 2 mL  
+b. Centrifuge plate at 1300 x g for 5 minutes in a swinging bucket rotor
+fitted with plate holders. NOTE: Plates must be well balanced. Prepare a
+balance plate using a standard plate filled with water to match the weight and
+position of the plate.  
+c. Observe plate under a microscope to ensure that bubbles have been removed
+from microwells. If bubbles remain trapped in any microwells, centrifuge at
+1300 x g for an additional 5 minutes.  
+d. Aspirate Anti-Adherence Rinsing Solution from the wells.  
+  
+3. Rinse each well with warm basal medium, as follows:  
+• 384-wellplate: 50 µL  
+• 24-wellplate: 2 mL  
+• 6-wellplate: 5 mL  
+  
+4. Aspirate medium from the well.  
+  
+5. Add warm complete medium to each well to be used, as follows:  
+• 384-wellplate: 50 µL  
+• 24-wellplate: 1 mL  
+• 6-wellplate: 2.5 m  
+  
+Additional resources outlined here
+
+

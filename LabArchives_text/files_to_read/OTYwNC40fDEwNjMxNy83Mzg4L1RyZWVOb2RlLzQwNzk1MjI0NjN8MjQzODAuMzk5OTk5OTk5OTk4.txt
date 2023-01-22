@@ -1,0 +1,76 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Determine if treating Nuvonis quail fibroblast suspension cells with Vitamin C
+(50 ug/mL) across 8 days in continuous culture results in an increase in cell
+mass yield
+
+
+Hypothesis
+
+
+Addition of Vitamin C during the 8 day culturing period of the Nuvonis
+suspension cells will result in an increase in pellet weight following
+harvesting
+
+
+Technical Gap
+
+
+Previous experimental with DOLLY_12 and CHOMP_09 fibroblasts demonstrated that
+treating cells with Vitamin C (L-ascorbic acid) resulted in enhancing the
+production of ECM protein and subsequent aggregation of adherent cultures. In
+addition this aggregation resulted in a texture that was more meat-like during
+the product team testing demonstrations. Replicating this finding with quail
+fibroblast cells in suspension can result in a greater product yield due to
+the increase in ECM production. Therefore, this experiment will determine if
+the addition of Vitamin C during 8 days of culturing is sufficient to an
+increase in ECM production and subsequent increase in yield.
+
+
+Method/Procedure
+
+
+Process:
+
+  1. Seed 16x E250 flasks at 50,000 cells/mL (total volume 50 mL - 2,500,000 cells per flask, 40,000,000 million cells total) in the following conditions:
+    1. Control n=8 (Hycell CHO suspension media without Vitamin C, see below)
+    2. Treatment n=8 (Hycell CHO suspension with Vitamin C, see below)  
+  
+Growth Media:  
+• Hycell CHO (25.4 g/L Hycell CHO powder + 2.2 g/L sodium bicarbonate + 1g/L
+Poloxamer 188)  
+• Difco Yeast Extract UF, 1g/l: add 10 ml YE stock (100g/l) per liter medium  
+• L-Ornithine monohydrochloride, 20 mg/l; add 1 ml stock (20 mg/ml) per liter
+medium  
+• Putrescine dihydrochloride, 20 mg/l; add 1 ml stock (20 mg/ml) per liter
+medium  
+• IGF-1 LONG R3, 50 μg/l; add 50 μl stock (1 mg/ml) per liter medium  
+• EGF, 10 μg/l; add 10 μl stock (1 mg/ml) per liter medium  
+• Anti-clumping agent, 1:100; add 10 ml stock per liter medium  
+• Glutamax, 1:50; add 20 mL stock per litre medium  
+• Vitamin C (L-ascorbic acid) 50ug/mL - only required for the treatment group
+
+  2. Leave the cells in culture for a period of 4 days
+  3. On the fourth day, harvest each of the cell suspensions
+    1. Weigh out 16x 50 mL tubes
+    2. Transfer cell suspension in centrifuge tubes
+    3. Spin at 300 x g for 10 mins
+    4. Remove supernatant, being careful not to disrupt the pellet
+    5. Weigh each tube and calculate cell mass weight using the difference between the empty tube and the tube weighed with cells in it.
+    6. Resuspend each of the cell pellets in fresh growth media and transfer each cell suspension in a separate shake flask
+  4. Leave the flasks in culture for an additional 4 days
+  5. On the eighth day repeat step 3 for a final pellet weighing
+
+*See diagram below for a schematic representation of the experimental plan
+
+  
+
+  
+
+

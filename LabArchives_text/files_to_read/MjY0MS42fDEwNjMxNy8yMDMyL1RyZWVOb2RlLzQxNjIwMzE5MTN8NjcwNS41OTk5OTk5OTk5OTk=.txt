@@ -1,0 +1,133 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Method summary
+
+50 L of phenol red free (PRF) DMEM/F12 was made in-house. From this, 100 mL
+was put aside at the beginning of the filtration process and another 100 mL
+was put aside near the end of the filtration process.
+
+F_DOLLY12 was thawed into 3xT25 flasks in either:
+
+  * commercial DMEM/F12 + 10% FBS
+  * in-house DMEM/F12  \+ 10% FBS (from early filtration)
+  * in-house DMEM/F12 + 10% FBS (from later filtration)
+
+A 50% feed was performed the following day. On day 6 after thawing, all flasks
+were passaged and used to seed 3x 96 well plates for a proliferation assay. 3x
+T25 flasks were also seeded using the passaged cells with the intention of
+culturing cells in their respective media conditions over a longer time
+period.
+
+On day 1 after seeding proliferation assay, 1x 96 wp was Hoechst stained and
+imaged. 1x 96 wp was fixed and DAPI stained on day 3 and day 6.
+
+Results & Discussion
+
+After 2 passages and a total of 14 days in culture, cells in all T25 flasks
+appeared to be dead as they did not show attachment to flasks (see images
+below). Flasks were therefore discarded. Even the positive control (containing
+commercial DMEM/F12) showed cell death. The cause of death is unclear but
+could be:
+
+  * a bad batch of FBS
+    * However, other members of team science would have also reported cell death if this was the case.
+  * contamination
+    * No contamination was visible in the images. However, regular mycoplasma testing should be used to eliminate this cause
+  * the incubators used
+    * Other scientists using the same incubator at this time did not report unusual cell death
+  * the culture vessels used
+    * We do not record which brand of culture vessel is used for each passage
+  * passaging technique or time cells were left outside of incubator
+    * This has not been an issue in the past
+  * PBS or Tryple used when passaging
+    * Should be compared with other experiments that were being performed at the same time to determine whether others who used the same reagents experienced the same issue
+
+We have observed unexpected cell death in ACF media experiments previously
+this quarter. Therefore, this spreadsheet was prepared to compare the reagents
+used and check whether there was a common factor which may explain cell death.
+However, there were so many variables involved and no clear cause was
+identified from this investigation.
+
+  
+
+  
+
+Data from day 1 of proliferation assay could not be used. Unfortunately, the
+lab book did not have enough detail to recall what happened. It's possible the
+Hoechst staining was too faint, or an error occurred when imaging so the
+images did not go to MIA-Capture. From day 3 data, it appears that cell counts
+from late filtration media were significantly lower than early filtration
+media. On day 6, there was a significant difference between commercial media
+and late filtration in-house media.
+
+  
+
+
+
+  
+
+Limitations
+
+The impact of using commercial DMEM/F12 versus in-house DMEM/F12 on DOLLY12
+fibroblasts over several passages could not be assessed because cells in all
+T25 flasks died after 2 passages.
+
+There was no day 1 data available for the proliferation assay which makes it
+difficult to confirm whether cells were seeded evenly for all conditions. Cell
+counts were only available for 2 data points so a growth curve cannot be
+produced.
+
+Cell death investigation is very time consuming and difficult to perform as
+information about reagents and equipment used is dispersed across many lab
+book entries and experiments. Additionally, due to the large number of
+variables involved, it can be difficult to determine the cause even when the
+data is collated into a spreadsheet.
+
+Conclusion
+
+Given the cell death seen across all conditions, including controls, our
+results are inconclusive.  Initial proliferation assay findings suggest that
+using this batch of in-house DMEM/F12 from late filtration may result in
+significantly lower cell numbers than using commercial DMEM/F12.  However,
+this finding needs to be confirmed by performing a proliferation assay with
+more time points, especially day 1 data.  Potential issues with the in-house
+media may stem from the large aluminum pot used to make the media.  Green and
+grey coloration was seen in the media, especially in the last bits of media
+being filtered from the bottom of the pot.  While additional investigation
+into this discoloration was not performed, it is possible this had something
+to do with the poor results seen in our late filtration media condition.
+
+Next Steps
+
+Repeat proliferation assay with more time points.
+
+The impact of in-house DMEM/F12 on cell growth over a longer period needs to
+be assessed again after the cause of cell death in T25 flasks is determined.
+
+Create LabArchives lab books/widgets that will assist in easier record
+keeping. This will ensure that all growth conditions will be recorded in a
+standardised format, making it easier to compare cells, media reagents, and
+incubators used across multiple experiments.  
+
+

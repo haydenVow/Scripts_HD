@@ -1,0 +1,63 @@
+
+
+Aliquot 6mL of dPBS into 2 x tubes (6mL each). Warmed in 37C water bath. 14:10
+pm
+
+Add 120uL of 5mM p53i to 1 of the tubes.
+
+Add 120uL of DMSO to the other tube.
+
+Remove growth media from wells, add 500uL/well of 100mM p53i/dPBS solution to
+3 wells on each plate.
+
+Add 500uL/well of DMSO/dPBS solution to 3 wells on each plate.
+
+  
+
+  
+
+  
+
+
+
+
+  1. Remove the growth media and wash all plates with 5mL dPBS. Split the plates into 4 groups (G1-G4)
+
+  2. Add 10mL of fresh dPBS with/without 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) to each plate (see table below for which plates require p53 inhibitor) PLEASE SEE THIS DOCUMENT PRIOR TO HANDLING P53 INHIBITOR
+
+  3. Inside the BSC, Wrap plates 2of2 from each cell line in foil and leave in the BSC. 
+
+  4. Set up the reptile solar lamp inside the BSC at a distance that is 30cm from the plate surface, using the UV meter, detect the UV intensity emitted by the lamp and record it (mW/cm^2). Perform a calculation to determine the length of time required to generate a 600,000 J/m^2 UV energy dose using the following formulas.  
+  
+mW/cm2 x seconds = mj/cm2
+
+0.1 mJ/ cm2 = 1 J/m2
+
+  5.  4mW/cm2 x 7200 (2h) = 3600 mj/cm2 = 288,000J/m2
+
+Start time: 14:44 pm
+
+Finish time: 16:44 pm
+
+  
+
+
+
+
+  1. Prepared 2 x 3mL of DMEM/F12 + 10% FBS + 1X P/S (for F_NANDO3 cells)
+    1. Added 60uL of p53i to 1 x aliquot
+    2. Added 60uL of sterile filtered DMSO to 1 x aliquot
+  2. Prepared 2 x 3mL of DMEM/F12 + 20% FBS + 1X P/S (for F_DOLLY12_3P23 cells)
+    1. Added 60uL of p53i to 1 x aliquot
+    2. Added 60uL of sterile filtered DMSO to 1 x aliquot
+  3. Warmed at 37C until UV is turned off.
+  4. Replaced media on all wells (with and without p53i respectively to what they were incubated in) = 500uL/well
+
+
+
+
+DMEM/F12 + 20% FBS + 1X P/S = Mix #6859
+
+DMEM/F12 + 10% FBS + 1X P/S = Mix #6779
+
+

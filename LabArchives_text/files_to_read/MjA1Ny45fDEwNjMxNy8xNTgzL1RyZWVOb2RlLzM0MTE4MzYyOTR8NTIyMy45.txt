@@ -1,0 +1,198 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani Bhojwani  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T25  
+6938  
+T75  
+6976-DOLLY12-Sheep P12-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    T75      x      1    vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       10:44   
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    3.5     mL in     1    tubes (10 : 30)   
+
+  2.  dPBS (for washing and neutralising):     6.5    mL in    a    tubes (10 : 30)   
+
+  3. Growth media (for pellet resuspension and seeding):      13   mL in     1    tubes (10:35)  
+
+Time that all aliquots were placed in the water bath the warm before use
+indicated  in brackets  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     3    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    10 :51 - 11:06   a/pm 
+
+7\. Neutralised with      3    dPBS and combined cell suspension into a    1
+tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    11 : 10 - 11:15  a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.2    mL     GROWTH     media
+
+11\. Aliquoted     10 uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:      611 000       
+
+  2. Volume of cell suspension required for subculture was:        16.4 uL     
+
+  3. Cell density per vessel:     50 000 cells in T75 flask      
+
+
+
+
+13\. Transferred       16.4    µl of cell suspension to the pre-warmed
+12    mL Growth media:  
+
+14\. Transferred cell suspension into the pre-gelatin coated       T75
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     11 : 46 -
+12:16  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA4495  
+  
+TrypleA4615  
+  
+dPBS (for washing & neutralising)A5063  
+  
+D/F + 20% FBS + 1X P/S  
+A4775  
+  
+p38i (20mM stock)M4928  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+All T25 flasks with ACF were not confluent enough for a passage.
+
+T25 containing cells in serum were passaged to a T75 flask  (with 50k cells)
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

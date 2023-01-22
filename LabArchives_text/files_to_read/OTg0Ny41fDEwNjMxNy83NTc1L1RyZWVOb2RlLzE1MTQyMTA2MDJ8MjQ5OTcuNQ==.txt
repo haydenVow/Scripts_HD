@@ -1,0 +1,117 @@
+
+
+## Performed by: Bonnie  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis Suspension Media baseA10904  
+  
+EGF (added to all medias)M 9201  
+  
+IGF (added to all medias)M 3644  
+  
+YIGSRM 11643  
+RGDM 11643  
+  
+  
+
+
+
+
+Note
+
+Cell numbers had dropped significantly today indicating that the additional
+yeast extract as well as essential AA added at the previous feed were not
+successful in kickstarting proliferation, and may even have been detrimental
+to the cells. As the total cell number in the CDM4 Avian culture has now
+dropped below 50,000, they will not be continued beyond this point. A feed was
+therefore performed only on the culture containing the standard Nuvonis media
+(without FGF, additional yeast or amino acids), along with peptide antagonists
+100ng/mL YIGSR and RGD.
+
+Justification for the addition of YIGSR and RGD  
+Up until today, cell counts have remained relatively stable for the past 10
+days, and cells have a healthy morphology. Cell survival, without
+proliferation is unusual, and not something we have commonly seen in our
+previous suspension adaption experiments at Vow, where cells typically develop
+a stressed morphology, produce a considerable amount of debris and
+consistently decline in numbers. The cells therefore surviving, but appear to
+be in cell cycle arrest. In some instances, cell survival in suspension is
+mediated by G1/GS, which confers anoikis resistance. If this freeze in the
+cell cycle is initiated due to a lack adhesion, then it may be possible to
+circumvent this by mimicking adhesion is suspension culture, ie with synthetic
+binding peptides such as YIGSR and RGD. In order to determine if the cell
+cycle arrest is reversible, we will also plate a small number of cells into a
+single well of a 96 well plate, in OptiPRO + 4mM Glutamax (original planar
+culture media for these cells prior to suspension adaption) and monitor for
+proliferation.
+
+YIGSR and RGD are well characterised peptides derived from the ECM proteins,
+laminin and fibronectin and are involve in cell adhesion to the ECM through
+integrin binding [1]. Synthetic YIGSR and RGD are commonly used to promote
+cellular attachment to culture vessels and other biomaterials [2] however they
+can also be employed to prevent cellular adhesion in suspension cultures. When
+media is supplemented with soluble YIGSR and/or RGD, cell attachment receptors
+can become saturated and adhesion is inhibited [3, 4].  Whole protein
+fibronectin and laminin in media do not inhibit cell attachment. This is
+thought to be due to the low affinity of the large molecules to cells. Small
+peptides of YIGSR and RGD are highly soluble and are therefore more able to
+bind to cells in suspension [3].
+
+  1. Boateng, S.Y., et al., RGD and YIGSR synthetic peptides facilitate cellular adhesion identical to that of laminin and fibronectin but alter the physiology of neonatal cardiac myocytes. 2005\. 288(1): p. C30-C38.
+  2. Huettner, N., T.R. Dargaville, and A.J.T.i.b. Forget, Discovering cell-adhesion peptides in tissue engineering: beyond RGD. 2018\. 36(4): p. 372-383.
+  3. Ruoslahti, E.J.M.N.p.i.c.a.R. and i. Science, Pierschbacher. 1987\. 238: p. 491-497.
+  4. Dai, W., J. Belt, and W.M.J.B.T. Saltzman, Cell-binding peptides conjugated to poly (ethylene glycol) promote neural cell aggregation. 1994\. 12(8): p. 797-801.
+
+  
+  
+
+
+
+
+Process:  
+
+  1. Place media in water bath >15min prior to use
+  2. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 
+  3. Using a 25 mL serological pipette, gently pipette-mixed culture for a few minutes to break up cell clumps
+  4. Passed 5-7 times through 20G needle to break up cell clumps
+  5. Transfer suspension into 50 mL tubes.
+  6. Centrifuged 50 mL tubes at 300 x g for 5 mins 
+  7. Aspirated  75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet.
+  8. Resuspended each pellet in the remaining 5mL of media, and took 2x 10ul samples from each culture for hemocytometer counts 
+  9. Performed  hemocytometer counts (see below for counts).
+  10. Topped up each 50 mL centrifuge tube with 15 mL of fresh pre-warmed media and resuspended cell pellet. 
+  11. Pipette-mixed cultures, and transfer all cultures to E250 flask
+  12. Took a 100ul sample and plated into a single well of a 96 well plate, along with 100ul of OptiPro media +4mM glutamax. 
+  13. Returned E250 to incubator 
+
+incubator 78 Library Lab, 37C, 5% CO2
+
+
+
+
+Total cell counts (reported as total in culture)
+
+  
+
+  
+
+Line  
+Cells originally grown in  
+Current MediaCell count  
+BOBBO  
+OptiPRO + 4mM Gluatamax  
+Nuvonis suspension media  
+402,000  
+CDM4 Avian + 2.5mM Glutamax  
+34,000 - terminated today  
+  
+  
+  
+  
+
+

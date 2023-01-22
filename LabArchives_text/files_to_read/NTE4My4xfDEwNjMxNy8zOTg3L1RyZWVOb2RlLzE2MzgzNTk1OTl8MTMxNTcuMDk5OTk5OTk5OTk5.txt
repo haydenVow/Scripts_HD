@@ -1,0 +1,153 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175  
+7997-F_NANDO3-Chicken P5-1of1  
+24-well plate(s)  
+8063-F_NANDO3-Chicken P6-1of2  
+8064-F_NANDO3-Chicken P6-2of2  
+(6 wells of each plate)  
+  
+T175  
+8004-F_DOLLY12_3P23-Sheep P6-1of1  
+24-well plate(s)  
+8065-F_DOLLY12_3P23-Sheep P7-1of2  
+8066-F_DOLLY12_3P23-Sheep P7-2of2  
+(6 wells of each plate)  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 6540  
+  
+dPBS (for washing & neutralising)M 6414  
+  
+Growth Media (10% FBS)  
+M 6789  
+  
+Growth Media (20% FBS)  
+M 6790  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   15   mL in    1   tubes
+  2.  dPBS (for neutralising):   15   mL
+  3.  dPBS (for washing):   15    mL
+  4. Growth media (for pellet resuspension):   4   mL
+  5. 20% FBS Growth media (for seeding F_DOLLY12_3P23 cells):   6  mL 
+  6. 10% FBS Growth media (for seeding F_NANDO3 cells):   6  mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+14:43 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator    15:02 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   15   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   15:07 pm 
+
+7\. Neutralised with     15mL     dPBS and combined cell suspension into a
+50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   15:16 - 15:21 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     4    mL   Growth  media    15:25 pm
+
+11\. Aliquoted       10uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:        1.68M    
+
+  2. Volume of cell suspension required for subculture was:     100uL       
+
+  3. Cell density per vessel:     Note* miscalculation. Original plan to sed 3,500 cells / cm2. However, upon calculation, RS calculated 3,500 cell / well.  
+Therefore, RS asked BT for 42,000 F_NANDO3 cells (from other passage), and
+they were put aside after harvest for RS to use.  
+The decision was made that instead of seeding 6-well plates, 6 wells of
+24-well plates were seeded with 3,500 cells per well (1.9cm2, therefore 1842
+cells / cm2 was the final seeding density).  
+
+
+
+
+13\. Transferred      100     µl of F_DOLLY12_3P23 cell suspension to the pre-
+warmed       6    mL Growth media:
+
+13\. Transferred      42K cells (aliquotted by BT after F_NANDO3 harvest) of
+F_NANDO3 cell suspension to the pre-warmed     6    mL Growth media:
+
+14\. Transferred 500uL/well of each cell suspension into the 6 x wells of 2 x
+24-well plates for each cell line.
+
+16\. Transferred vessel(s) to incubate at: 15:59 pm  
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+F_NANDO3 cells and F_DOLLY12_3P23 cells were each seeded into 12 x wells of
+24-well plates (~1800 cells / cm2).
+
+
+
+
+SOPs used:
+
+###  
+
+

@@ -1,0 +1,80 @@
+Performed By: Bec Screnci
+
+
+According to this paper, CMFDA was used at a final concentration on cells of
+0.25uM before FACS.
+
+  
+
+To achieve this concentration when adding 25uL of solution onto the existing
+50uL of media within the wells, a 3X concentration needs to be made (i.e.
+0.75uM) so that the final concentration on the cells is 0.25uM.
+
+  
+
+The Stock concentration of Vow's CMFDA stain is 5mM (in DMSO).
+
+  
+
+  
+
+3 concentrations of CMFDA were prepared, in 2 types of diluent (dPBS and
+Growth Media).
+
+Mix 1: 2mL dPBS + 0.375uL CMFDA (1X)  
+Mix 2: 2mL Growth Media + 0.375uL CMFDA (1X)  
+Mix 3: 1mL dPBS + 0.375uL CMFDA (2X)  
+Mix 4: 1mL Growth Media + 0.375uL CMFDA (2X)  
+Mix 5: 0.5mL dPBS + 0.375uL CMFDA (4X)  
+Mix 6: 0.5mL Growth Media + 0.375uL CMFDA (4X)  
+  
+  
+25uL of Mix 1 was added to wells A22-A24
+
+25uL of Mix 2 was added to wells B22-B24
+
+25uL of Mix 3 was added to wells C22-C24
+
+25uL of Mix 4 was added to wells D22-D24
+
+25uL of Mix 5 was added to wells E22-E24
+
+25uL of Mix 6 was added to wells F22-F24
+
+of Plate #7631
+
+Placed in incubator for 20 min from 13:52 - 14:12 pm
+
+
+
+
+When observed at 20 min:
+
+\- All wells with dPBS-diluted CMFDA had no indicative signal of cell presence
+on the AF488 channel.
+
+\- Wells with the lowest CMFDA concentration in Growth Media appeared to over-
+saturate the light intensity in the wells. When the laser intensity was
+lowered, the background still existed so no cells could be identified.
+
+\- Wells with the medium and high concentrations of CMFDA in Growth Media had
+to much background signal to see any cell presence.
+
+  
+
+The lowest concentration of CMFDA in Growth Media was diluted 1:1 and 1:3 in
+Growth Media.
+
+The 1:1 dilution was added to wells G22-G24.
+
+The 1:3 dilution was added to wells H22-H24.
+
+Plate returned to incubate at 37C 14:22 pm.
+
+  
+
+  
+
+Plate imaged on Zaber on Phase and AF488 14:35 pm.
+
+

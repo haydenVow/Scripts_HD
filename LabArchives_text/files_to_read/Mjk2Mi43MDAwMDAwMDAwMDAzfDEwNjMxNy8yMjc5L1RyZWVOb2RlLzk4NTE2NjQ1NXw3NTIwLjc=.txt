@@ -1,0 +1,130 @@
+Brief Background
+
+
+The aim of this experiment was to generate at least one clonal DOLLY12
+fibroblast cell line growth in adherent culture by sorting single isolated
+cells into 4x 384 well plates. Generating clonal cells lines (derived from 1
+isolated cell) allows for those that have spontaneously developed mutations
+resulting in longevity or immortality to out-compete other clonal populations
+and in turn, indicates to us which populations may achieve more doublings and
+hence be useful for producing meat for billions of people.
+
+A mixed population of Sheep fibroblasts were FACS sorted into 4 x 384-well
+plates (1 cell per well), and surviving/proliferating colonies were expanded
+further into vessels with a larger surface area to accomodate proliferation.
+
+Unfortunately in this experiment, no clonal populations were able to surpass
+T25 flask stage and were all subsequently discarded and the experiment was
+stopped. There are, however, some learnings we can take from this experiment
+to assist with subsequent attempts.
+
+
+Metrics
+
+
+Number of 384-well plates sorted into:  4 x 384-well plates
+
+Cell line:  F_DOLLY12 WCB (2282-Culture-6303-Vial-3of115)
+
+Sorted with: `Hoechst⁺ and PI⁻`
+
+Imaged/screened with: `2 x Zaber imaging platforms inside black server boxes
+with temperature regulation to ~32ºC`
+
+Growth Media: `DMEM/F12 + 20% FBS + 1X P/S`
+
+
+Key Results
+
+
+https://docs.google.com/spreadsheets/d/1rv-
+Awy3Yt1EZS2qsDzK9m9UyIpCkZV4GkcqcJkz7dho/edit#gid=0
+
+  
+
+From the 4 x 384-well plates, 101 populations were selected and expanded into
+96-well plate on Day 8-post sort.
+
+6 days after seeding into 96-well plate, 10 colonies were expanded into
+24-well plate format.
+
+6 days after seeding into 24-well plate, 4 colonies were expanded into 6-well
+plate format.
+
+These 4 colonies demonstrated very slow growth, but were passaged into T25
+flasks 8 days after being seeded in the 6-well plates to see if a passage
+would encourage proliferation.
+
+These 4 final clones were:
+
+F_DOLLY12_1I4  
+  
+F_DOLLY12_1J19  
+  
+F_DOLLY12_1L20  
+  
+F_DOLLY12_2N19  
+  
+However, upon inspection 6 days after seeing into the T25 flasks, very few
+cells were seen and it was decided to discard the flasks.
+
+  
+
+
+Discussion
+
+
+This round of single cell cloning was Vow's first ever attempt at cloning
+fibroblast cells. All previous attempts were performed using MuSCs (muscle
+stem cells), and the systems set up were optimised for MuSC identification
+(Derek's Machine Learning model to identify cells). Based on results from
+Single cell cloning BUFFY6 MuSCs, it was determined that 384-well plates could
+be used in future cloning experiments as opposed to the 96-well plate format
+previously used.
+
+At Day 8 of 384-well plate culture, wells identified with >15 cells per well
+were selected to proceed to 96-well plate (resulting in 101 populations). This
+picklist was generated using the ML model developed to identify MuSCs. Based
+on the results, the ML model performed exceptionally well identifying
+fibroblasts, indicating that the morphologies may be close enough to each
+other to allow the same model to be used on both cell types.
+
+Based on literature, fibroblasts seeding densities usually lie between 5,000 -
+10,000 cells / cm2. This may be the reason that our cells did not perform
+well, as the densities that the cells were seeded at was significantly lower
+than this (15 cells in a 96-well 0.32cm2, whereas even the lower end of
+recommended seeding densities would suggest 1600 cells should be seeded in
+this surface area).
+
+
+Limitations
+
+
+We need a better understanding of the minimum seeding density when working
+with fibroblasts to encourage population proliferation.
+
+We also need a better understanding of whether conditioned media (supernatant
+from a confluent flask of the same cells) would assist in the early stages of
+clonal growth when 1 cell is alone in a well. Conditioned media should contain
+growth factors that encourage proliferation, but we need to address this in a
+controlled experiment.
+
+
+Conclusion
+
+
+This cloning experiment with Sheep fibroblasts was unsuccessful in generating
+high performance clonal cell lines, however it did indicate that our process
+needs to be optimised for fibroblast cell growth, and that the ML model
+designed to identify MuSCs works equally as well for fibroblast cells from
+Zaber-generated images.
+
+
+Future Directions
+
+
+  1. Attempt the same cloning run with conditioned media.
+  2. Allow cells to grow to a higher confluence before expanding.
+  3. Confirm the ML model's performance with a larger dataset of fibroblast images.
+
+

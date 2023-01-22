@@ -1,0 +1,95 @@
+  
+  
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To test an animal-component free medium for long-term culture of primary
+muscle stem cells which consists of E8 media + albumin. To test a new
+passaging protocol using this medium which involves the delayed addition of
+albumin after passaging.
+
+
+Hypothesis
+
+
+The use of B8 + albumin, as well as the delayed addition of albumin after
+passaging will result in better doubling times than our existing ACF media
+(E810C).
+
+
+Technical Gap
+
+
+We have not tested  the use of 'Beefy-9' media for culturing our cells.
+Additionally, we have not tried testing the use of a vitronectin coating for
+vessels when culturing cells in ACF media.
+
+
+Method/Procedure
+
+
+08-June-2021
+
+  1. Gelatin coat 6x T25 flasks.
+  2. Thaw DOLLY12 into serum containing media (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+  3. Seed 1 flask at a density of 2500 cells/cm^2 and seed the remaining flasks at 1000 cells/cm^2. 
+
+09-June-2021:
+
+  1. Wash flasks with PBS.
+  2. Perform a 100% feed with different media conditions:
+    1. condition 1: 1000 cells/cm^2, serum containing media
+    2. condition 2: 1000 cells/cm^2, E810C (will be used as gelatin control later)
+    3. condition 3: 1000 cells/cm^2, E810C
+    4. condition 4: 1000 cells/cm^2, Beefy-9
+    5. condition 5: 2500 cells/cm^2, Beefy-9
+    6. condition 6: 1000 cells/cm^2, Beefy-10C
+
+11-June-2021:
+
+  1. Gelatin coat 2x T25 flasks. Coat 4x T25 flasks with vitronectin (1.5ug/cm^2)
+  2. Passage cells following standard practices (using Tryple)
+  3. Perform cell counts for all conditions. Record in this spreadsheet to calculate doublings: https://docs.google.com/spreadsheets/d/19Foy6WldT2AJsA3H5ZR9gXnKBxG-E4D2RnTgPx-MWgE/edit#gid=539719673
+  4. Seed conditions as follows:
+    1. cells from condition 1: gelatin coated flask (1000 cells/cm^2) in serum media
+    2. cells from condition 2: gelatin coated flask (1000 cells/cm^2) in E810C media
+    3. cells from condition 3: vitronectin coated flask (1000 cells/cm^2) in E810C media
+    4. cells from condition 4: vitronectin coated flask (1000 cells/cm^2) in B8 media
+    5. cells from condition 5: vitronectin coated flask (2500 cells/cm^2) in B8 media
+    6. cells from condition 6: vitronectin coated flask (1000 cells/cm^2) in B8+10C media
+
+12-June-2021:
+
+  1. Add 800ug/mL of albumin into the flasks for conditions 4,5 and 6.
+
+13-June-2021
+
+  1. Perform a 100% feed of all cultures.
+
+14-June-2021 and onwards
+
+  1. Maintain cells in culture by passaging as described under 11-June when cells get to 50-70% confluent. Perform a 100% feed every 48 hours. 
+  2. Monitor cell doublings so that when cells are close to 10 doublings, expand them into at least 1x T75 flask per condition.
+  3. Seed cells into 96 well plate/s (7000 cells/well) to perform a differentiation assay. Seed some back into T25 flask for continuous culture.
+    1. Replicates as follows (this may change depending on cell numbers):
+      1.  2x 96 wp with 10 wells from each condition in each plate.
+  4. When cells in 96 wp reach 100% confluence, feed with differentiation media:
+    1. 5x replicates per condition per plate with Neurobasal/L15+IGF1+EGF
+    2. 5x replicates per condition per plate with E6 (x0.2 P/S)
+  5. After 4 days in differentiation, fix 1x 96 wp.
+  6. After 7 days in differentiation, fix 1x 96 wp.
+  7. Stain both plates for MyoG and MF20.
+  8. Image on the Zaber.
+  9. Analyse % MyoG positive cells and MF20 area.
+
+  
+
+  
+
+
+
+
+

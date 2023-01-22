@@ -1,0 +1,165 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Clone  
+Harvest flask IDSeeded vessel typeSeeded flask ID / Cryovial ID  
+  
+ZIC1 1E  
+11800  
+11801  
+T175  
+11836  
+11835  
+  
+ZIC1 2C  
+11663  
+T175  
+11834  
+  
+ZIC1 2F  
+11784  
+Banked  
+14618  
+  
+IGFBP4 4C  
+11783  
+Banked  
+14616  
+  
+ZIC1 2A  
+11793  
+Banked  
+14617  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem10659  
+  
+dPBS (for washing & neutralising)a10944  
+  
+Growth Mediam11638  
+  
+Cryostor CS10  
+s4439  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent at room temp  
+
+  1. TrypLE:     2x50    mL 
+  2.  dPBS (for neutralising):     1x50    mL
+  3.  dPBS (for washing):     1x50    mL
+  4. Growth media (for seeding):     3x30    mL across 3xT175 flasks, flasks placed at 30 degrees, 5% CO2.   
+
+  
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10mL (T175) or 5mL (T75)    tryple to each vessel/well and
+incubated at 30˚C.
+
+7\. Neutralised with     equal volume    dPBS  and combined cell suspension
+into    50mL     tubes.
+
+8\. Centrifuged at 500 x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellets for clones 2A, 2F and IGFBP4 4C in      1   mL of
+cryostar CS10, cells were then transferred to 1.2mL cryotubes and placed in a
+Mr Frosty and moved to the -80 fridge in the main lab.  
+
+11\. Resuspended pellets for clones 1E and 2C in 1mL of dPBS. Split clone 1E
+across two T175 flasks containing 30mL of growth media (500uL in each flask).
+Transferred all of clone 2C suspension to a T175mL flask containing 30mL of
+growth media.  
+
+12\. Moved flasks to incubate at 30 degrees, 5% CO2.  
+
+
+
+
+Observations/Summary:
+
+Upon thaw cells should be placed back into a T175 flask.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

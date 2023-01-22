@@ -1,0 +1,288 @@
+
+
+## Performed by: LL AK  
+
+
+
+
+Culture IDs:
+
+Vessel ID(s)ConditionVessel TypeComments  
+  
+7923-F_DOLLY12-Sheep P8-1of2  
+7928-F_DOLLY12-Sheep P8-2of2
+
+DMEM/F1250 mL bioreactor spin tubes100 ng/mL of FGF, IGF1 and PDGF will need
+be added to the aliquot  
++  
+Use serial dilutions for the staining  
+  
+7929-F_DOLLY12-Sheep P8-1of2  
+7930-F_DOLLY12-Sheep P8-2of2  
+DMEM/F12 Boost100 ng/mL of FGF, IGF1 and PDGF will need be added to the
+aliquot  
++  
+Use serial dilutions for the staining  
+  
+7931-F_DOLLY12-Sheep P8-1of2  
+7932-F_DOLLY12-Sheep P8-2of2  
+RPMI100 ng/mL of FGF, IGF1 and PDGF will need be added to the aliquot  
++  
+Use serial dilutions for the staining  
+  
+7933-F_DOLLY12-Sheep P8-1of2  
+7934-F_DOLLY12-Sheep P8-2of2  
+RPMI Boost100 ng/mL of FGF, IGF1 and PDGF will need be added to the aliquot  
++  
+Use serial dilutions for the staining  
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12
+
+[x] RPMI
+
+[x] DMEM/F12 Boost
+
+[x] RPMI Boost
+
+For composition of each media refer to the media preparation lab book entry
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 mixm6710  
+  
+RPMI mixm6712  
+  
+DMEM/F12 Boost mixm6711  
+  
+RPMI Boost mixm6723  
+  
+  
+###  
+
+
+
+
+Process:
+
+  1. Aliquoted growth media as follows:
+    * DMEM/F12 with growth factors - 10 mL
+    * DMEM/F12 Boost with growth factors - 10 mL
+    * RPMI with growth factors - 10 mL
+    * RPMI Boost with growth factors - 10 mL
+      * Placed in water bath  13:35   
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (2 drops Hoechst and 1 drop Sytox per 1 mL of dPBS):
+    * 3 mL of filtered dPBS (does not have to be sterile - filtered to remove debris)
+    * 3 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * 6 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark/coloured tube until ready to use.  
+
+  
+
+50 mL shake tubes
+
+  1. Added protocol being used for feed as link below Process
+  2. Loaded protocol linked below on computer next to OT2 and set up deck as described at calibration step
+  3. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  4. Collected 8 x 50 mL shake tubes being fed from shaker 
+  5. Centrifuged at 300 x g for 5 min.  14:11 - 14:16    
+
+  6. Set up staining plate reagents (titled "staining plate" in protocols)
+    1. For 6 or fewer samples: 
+      1. Loaded 150 uL of stain buffer into column 1 of 96-well plate.
+      2. Loaded 100 uL of filtered dPBS into columns 3 & 4 of 96-well plate.
+    2. For 7-12 samples:
+      1. Loaded 300 uL of stain buffer into column 1 of 96-well plate.
+      2. Loaded 100 uL of filtered dPBS into columns 3, 4, 7 & 8 of 96-well plate.
+  7. If applicable, added 100 uL samples from E-flasks to appropriate wells to be stained by OT2
+  8. Ethanol-sprayed 8 x 50 mL shake tubes and loaded on OT2 
+  9. Collected 8 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of media tube rack is intended for culture in A1 of culture tube rack
+  10. Order of culture IDs in culture tube rack (placed in ascending order of culture IDs):
+    * A1: 7923-F_DOLLY12-Sheep P8-1of2
+    * A2: 7929-F_DOLLY12-Sheep P8-1of2
+    * A3: 7931-F_DOLLY12-Sheep P8-1of2
+    * B1: 7933-F_DOLLY12-Sheep P8-1of2
+    * B2: empty
+    * B3: empty
+  11. Order of culture IDs in culture tube rack (placed in ascending order of culture IDs):
+    * A1: 7928-F_DOLLY12-Sheep P8-2of2
+    * A2: 7930-F_DOLLY12-Sheep P8-2of2
+    * A3: 7932-F_DOLLY12-Sheep P8-2of2
+    * B1: 7934-F_DOLLY12-Sheep P8-2of2
+    * B2: empty
+    * B3: empty
+  12. Calibrated for protocol 
+  13. Ran protocol  
+    1. Start time: 2:22:45 PM
+    2. End time: 2:50 PM
+    3. Total run time: 27 min 43 seconds
+  14. Plate map of culture IDs in 96-WP for imaging:
+    *   
+Col 1  
+Col 2 50%Col 3 25%Col 4 12.5%Col 5 12.5%Col 6 50%Col 7 25%Col 8 12.5%Col 9
+12.5%  
+  
+  
+  
+  
+A  
+7923  
+7673  
+  
+  
+  
+  
+  
+B  
+7929  
+7694  
+  
+  
+  
+  
+  
+C  
+7931  
+  
+  
+  
+  
+  
+  
+D  
+7933  
+  
+  
+  
+  
+  
+  
+E  
+7928  
+  
+  
+  
+  
+  
+  
+F  
+7930  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+7932  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+7934  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  15. Returned vessels to incubator    14:57    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+  1. Incubated culture in stain at RT in dark for 20 - 30 minutes   2:50 - 3:17   
+
+  2. Performed serial dilution by hand to achieve a 12.5% final dilution: 
+    1. Pipette mixed and moved 100 uL of 50% stain solution + cell suspension into wells containing 100 uL of filtered dPBS 
+    2. Pipette mixed and moved 100 uL of 25% stain solution + cell suspension + dPBS into wells containing 100 uL of filtered dPBS
+    3. Pipette mixed and moved 100 uL of 12.5% stain solution + cell suspension + dPBS into empty wells for 100 uL of 12.5% dilution 
+  3. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp:   3:24 - 3:25 
+  4. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:  8029--Sheep P-of 
+  5. Ran Mia analysis tool for suspension counts 
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recGOMJp1SJRBUMu6/images
+
+
+
+
+Reagents:
+
+NameDetailsVolume used (mL)  
+  
+  
+  
+ dPBS  
+  
+  
+Sytox Green  
+  
+  
+Hoechst  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+Pipette tip appeared to be much closer to bottom of 50 mL tube when aspirating
+supernatant - using 3D-printed tube racks and concered the height may be
+slightly different than on OT2 ones which could impact how high we want the
+pipette tip to go
+
+Zaber observations/issues:
+
+General observations:
+
+ 100   % media changed on vessel(s)
+
+  1. 7923-F_DOLLY12-Sheep P8-1of2
+  2. 7928-F_DOLLY12-Sheep P8-2of2
+  3. 7929-F_DOLLY12-Sheep P8-1of2
+  4. 7930-F_DOLLY12-Sheep P8-2of2
+  5. 7931-F_DOLLY12-Sheep P8-1of2
+  6. 7932-F_DOLLY12-Sheep P8-2of2
+  7. 7933-F_DOLLY12-Sheep P8-1of2
+  8. 7934-F_DOLLY12-Sheep P8-2of2
+
+

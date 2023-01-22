@@ -1,0 +1,98 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents
+
+ReagentRanger ID  
+50:50 CHO-in-one:RPMI MFG formulationALQ-13387  
+L-glutamineALQ-13304  
+IGF-1-LR3ALQ-13184  
+EGFALQ-13365  
+  
+  
+
+
+
+
+Culture IDs
+
+Culture IDCulture VesselNew Culture IDNew Culture Vessel  
+13132E500013160E2000
+
+
+  
+  
+Process
+
+  1. Performed cell count (haemocytometer) and recorded in manufacturing cell count spreadsheet
+  2. Prepared required fresh medium and heated in water bath at 37degC at 18:10 PM
+  3. Performed passage: added new medium to new vessel and added cell suspension
+  4. Returned to incubation at 18:55 PM:
+    * 120 RPM
+    * 37degC 5% CO2
+    * Incubator ID: 86 (Binder) Main lab
+
+  
+
+
+
+
+Passage Calculations
+
+  * cell count: 1 396 000 cells/mL
+  * required for experiments: 200 000 cells/mL in 30mL total for 30 flasks = 180M cells required. Prepare 250M total to ensure excess
+  * required concentration for cell stock: 400 000 cells/mL, require 250M total
+  * 400 000/mL = 250M/625mL = 320M/800mL in E2000
+  * required cell suspension = 230mL
+  * prepare fresh media: 570mL  
+
+  
+
+Media Preparation Calculations
+
+  *   
+  
+  
+  
+  
+  
+  
+Volume (mL)570  
+  
+  
+  
+  
+  
+Desired Additive Conc (g/L)Stock conc (g/L)Stock conc (mM)Total mg in final
+volVol to add (mL)  
+IGF-1 LONG R30.000050.05  
+0.0290.570  
+EGF0.000010.05  
+0.0060.1140  
+L-glutamine0.43529.228200247.9508.4833  
+ ~~Antifoam C~~ N/AN/AN/AN/A0.057  
+  
+  
+  
+  
+Total additive vol (mL)9.224  
+  
+  
+  
+  
+Media to add (mL)560.776  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+

@@ -1,0 +1,65 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Sample and count performed by: Tom Tarento  
+
+
+
+
+Culture information:
+
+Vessel type  
+Vessel ID  
+  
+E500  
+9700-CHO-S-Chinese Hamster P5-1of2  
+9701-CHO-S-Chinese Hamster P5-2of2  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Removed flasks from incubator 16:15
+  2. Agitated culture by manual swirling action
+  3. Took 500 uL sample, returned flask to incubator, and performed cell count:
+    1. Flask 9700: (167 + 222 + 180 + 132 + 119)/5 = 164 cells per square x 10,000 squares/mL x 2 (dilution factor) = 3.28 million cells/mL x 200 mL = 656 million cells
+    2. Flask 9701: (96 + 75 + 98 + 105 + 101)/5 = 95 cells per square x 10,000 squares/mL x 2 (dilution factor) =  1.90 million cells/mL x 200 mL = 380 million cells
+    3. Total: 656 + 380 = 1036 million cells
+    4. Doubling time since last feed: ~15 hours (10-fold cell count increase in 48 hours)
+  4. Returned vessels to incubate at: 16:20
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 116 ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+Almost no dead cells, very fast proliferation.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None
+
+

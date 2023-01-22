@@ -1,0 +1,347 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma (E250), Nathan Hawkins (E500)
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Vessel size
+
+Seeded Vessel ID(s)
+
+Seeded vessel size  
+  
+6768
+
+E500
+
+6859-DOLLY12_11E7-Sheep P13-1of1
+
+E500  
+  
+6769
+
+E250
+
+6858-DOLLY12_11E7-Sheep P13-1of1
+
+E250  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM). 
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS with 1% w/v poloxomer 188 (for washing before Trypsinization), 1 mL per 9.6mg Cytodex 1:     180    mL in     1x250mL    container
+  2. Trypsin/EDTA + 1% poloxomer 188, 1mL per 4.5mg Cytodex 1:     180    mL in     6x50mL    tubes
+  3. Growth media (for neutralizing) 1 mL per 4.5 mg Cytodex 1:     180    mL in    1x250mL     container
+  4. dPBS with 1% w/v poloxomer 188 (for washing microcarriers after Trypsinization), 1 mL per 9.6mg Cytodex 1:     180mL    mL in    1x250mL    container
+  5. Growth media (for pellet resuspension):     15    mL in     1x15mL    tubes
+
+Initially, 1.8mL of Poloxamer 188 was added to the specified aliquots, however
+realising that this was not 1%, 18mL of each aliquot was discarded and
+replaced with 18mL of 10% P188 [15:06]  
+
+Time that all aliquots were placed in the water bath the warm before use
+15:12   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 14:25 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x20uL samples of the suspensions were taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate wells on a 96 well plate and mixed each with 80uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+  4. Returned cultures to the incubator  `| 14:28 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 14:30-14:42 am/pm |`
+  6. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 1 set of same frame images using the DAPI and PHASE channels were captured for each well `| 14:43 am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.023ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Decided to leave the carriers for a further 20 minutes as the stain didn't appear to have taken effect. 
+  9. Re-imaged each well once more as per step 7 at [15:15] 
+  10. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  11. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+## Remove the flask from incubator
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker
+  3. Restart the shaker
+  4. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer half of the fresh, pre-warmed dPBS fro prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the fresh, pre-warmed Trypsin/EDTA solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker
+  3. Restart the shaker at the `speed required for detachment` \- 180rpm (for both flasks) - calculated from the Bioprocess calculator
+  4. After `7-15 `minutes, stop the shaker. (15:45 - 16:00)
+  5. Remove the flask from the shaker
+  6. Culture was sampled (100uL) from each flask in a 24 well plate to monitor detachment, 60-70% detachment was observed.
+  7. Flasks were returned to shake at 180RPM for a further 5 mins (16:05- 16:10)
+  8. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E125
+
+180rpm (0.22W/kg energy dissipation)  
+  
+E250180rpm (0.28 W/kg energy dissipation).  
+  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+## Neutralize the detachment reagent:
+
+E250
+
+  1. Add fresh, pre-warmed growth medium to the flask
+  2. Mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+E500:
+
+  1. Transferred the entire suspension to a 500mL container.  
+  2. Add fresh, pre-warmed growth medium to the empty E flask then moved the growth media to the same 500mL container to neutralise the culture.
+  3. Mixed the suspension vigorously
+  4. While carriers were still in suspension, used the taipan aspirator attached to a 50mL syringe tube to aspirate the supernatant, leaving behind the carriers. 
+  5. Remove the cap and transfer the supernatant to centrifuge tubes.
+
+
+
+
+## First wash to recover additional cells:
+
+E250
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution containing 1%w/v poloxomer 188 (30mL) to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+E500:
+
+  1. Added fresh, pre-warmed dPBS solution containing 1%w/v poloxomer 188 to the 500mL container (60mL).
+  2. Mixed the suspension vigorously
+  3. While carriers were still in suspension, used the taipan aspirator attached to a 50mL syringe tube to aspirate the supernatant, leaving behind the carriers. 
+  4. Transferred the supernatant to centrifuge tubes.
+
+
+
+
+## Second wash to recover additional cells:
+
+  1. Repeated the procedure used for the first wash once more for each flask. 
+
+  
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Centrifuge the tubes at 650 - 700 RCF for 5 minutes
+  2. Aspirate supernatants
+  3. Resuspend pellets in 1 mL of fresh, pre-warmed growth medium
+  4. Combine the cell suspensions into 1x 50 mL centrifuge tube
+  5. Wash out each tube with the remainder of the fresh, pre-warmed growth medium and combine with the cell suspension
+
+  
+
+
+
+
+## Performed cell count (E250):
+
+  1. Aliquoted     20uL (E250)     of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in "Seed Calculator" widget (see below).  
+
+## Performed cell count (E500):
+
+  1. Aliquoted     20uL (E500)     of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in "Seed Calculator" widget (see below).
+
+
+
+
+Stained and imaged microcarriers post harvest  
+
+  1. Resuspended harvested carriers in the 500mL container in 30mL of dPBS, repeated this process for harvested carriers remaining in the E250 flask.  
+  2. Removed a 20uL sample from each of these vessels as well as the counted cell resuspension (cell resuspensions contained some microcarriers) and transferred them to separate wells on a 96 well plate BSC  `| 17:40 am/pm|`
+  3. Mixed each with 80uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. 
+  4. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `| 17:42-16:02 am/pm |`
+  5. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  6. Using https://mia-capture.vow.tools/#/, 1 set of same frame images using the DAPI and PHASE channels were captured for each well `| 16:03 am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.023ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionN/A  
+  
+TrypsinStock 198  
+  
+dPBS (for washing & neutralising)STOCK: 31790  
+  
+Growth MediaM5036  
+  
+p38i (20mM stock)3798  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Suspension after neutralising with growth media was sampled to see number
+of free floating cells. 1mL aliquot was taken after swirling and 10uL of this
+aliquot was loaded under a hemocytometer to observe. Approx 4 cells per
+quadrant was observed, which was calculated to be ~ 4.8M in 120mL. Considering
+this flask was seeded at 2.8M cells, this means that detached cells are
+largely found in suspension and not on carriers at time of neutralising.
+
+\- There were a lot of hiccups using the Taipan filter. The filter did manage
+to aspirate all of the supernatant during each collection step, leaving the
+microcarrier pellets in a PVC glue like consistency. Proper aseptic technique
+was difficult to maintain using the Taipan however. The design will need to be
+improved to better maintain aseptic technique.
+
+\- We managed to get more microcarriers out of the E500 than we put in! really
+nice news. The cells were added back into a fresh E500 to expand further but
+it appears the taipan may be helping us.
+
+\- Almost no cells were observed on microcarriers or in the supernatant of
+harvested carriers after passaging the E500 flask. When analysing the MIA data
+for this flask we should be able to determine the harvest yield compared to
+the culture cell density.  
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [x]  Need to be further analysed
+    * MIA images need to be analysed to determine cell density at time of passage. 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+### 6768-DOLLY12_11E7-Sheep P12-1of2 (E500):
+
+ https://mia-capture.vow.tools/#/session/recvurfXxy8oN6HyD/images
+
+### 6769-DOLLY12_11E7-Sheep P12-2of2 (E250):
+
+https://mia-capture.vow.tools/#/session/recL0QQBVb3ah2vIi/images
+
+

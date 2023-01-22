@@ -1,0 +1,57 @@
+Performed by: LL
+Ranger info
+Harvested Vessel ID  
+Vessel conditionSeeded Vessel IDVessel condition  
+Location  
+  
+12136-Nuvonis Quail Suspension341-P-1of1  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+12158-Nuvonis Quail Suspension341-P-1of6  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Main lab, 141  
+  
+12159-Nuvonis Quail Suspension341-P-2of6  
+  
+12159-Nuvonis Quail Suspension341-P-3of6  
+  
+12160-Nuvonis Quail Suspension341-P-4of6  
+75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+  
+12161-Nuvonis Quail Suspension341-P-5of6  
+  
+12162-Nuvonis Quail Suspension341-P-6of6  
+
+
+Reagent  
+ID  
+  
+75/25 mediumM12638  
+  
+50/50 mediumM12636  
+IGF  
+M12475  
+  
+EGF  
+M12321  
+
+
+Process
+  
+  
+  1. Took 1 x 510 uL sample from culture 
+  2. Performed count using ViCell 
+    1. Cell count: 10,880,000
+  3. Transferred 3.7 mL (1M cells) from culture to 6 x 50 mL centrifuge tube
+  4. Centrifuged at 500 x g for 5 min
+  5. Aspirated 100% of supernatant
+  6. Added 20 mL of 50/50 medium to 3 tubes and 75/25 medium to 3 tubes and re-suspended pellets
+  7. Strained cell suspensions using 50 um strainer into 6 x new E-125s
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+

@@ -1,0 +1,207 @@
+
+
+Perform bank using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+11016 (ZIC1 + Igfbp4)  
+11017 (AQP1 + ZIC1)  
+11018 (Control)  
+11019 (AQP1 + IGFBP4)  
+82.5M cells/vial14370, 14371 (ZIC1 + Igfbp4)  
+14372, 14373 (ZIC1 + AQP1)  
+14374 (Control)  
+14375 (AQP1 + Igfbp4)  
+  
+Harvested Flasks  
+Passaged into #Flasks  
+Flask IDs  
+  
+11016 (ZIC1 + Igfbp4)  
+11017 (AQP1 + ZIC1)  
+11018 (Control)  
+11019 (AQP1 + IGFBP4)  
+4 x T175  
+11151 (ZIC1 + Igfbp4)  
+11152 (ZIC1 + AQP1)  
+11153 (control)  
+11154 (AQP1 + Igfbp4)  
+
+
+  
+  
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Tryplem10658  
+  
+dPBS (for washing & neutralising)a10945  
+  
+Growth Mediaa10861  
+  
+Freeze mediaS4439  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  40 mL in 1 x 50 ml tubes
+  2.  dPBS (for neutralising)  40 ml  in 1 x 50 ml tubes 
+  3.  Growth media (for pellet resuspension):   10 mL in 1 x 15 ml tube
+  4. Growth media: 120 ml for reseeding
+  5.  Time that all aliquots were placed in the water bath to warm before use:    14:42 - 15:05 pm 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added 10mL tryple to each vessel/well and incubated at 30ºC for 8 min
+
+4\. Neutralised with 10 ml dPBS (warmed) and combined cell suspension into 4 x
+50 ml tube.
+
+5\. Centrifuged at 400 x g for 5 min  
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in 5mL growth media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was:
+
+ZIC1 + Igfbp4: 5,680,000 cells
+
+ZIC1 + AQP1: 4,520,000
+
+Control: 2,940,000 cells
+
+AQP1 + Igfbp4: 3,040,000 cells
+
+10\. Calculate the required volume cell suspension & freeze medium:
+
+ZIC1 + Igfbp4: 1.999 ml (There will be 2 frozen vials containing about 2.27M
+cells/ml)
+
+ZIC1 + AQP1: 1.871 ml (There will be 2 frozen vials containing about 1.69
+cells/ml)
+
+Control: 3.065 ml (There will be 1 frozen vial containing 1,802,500 cells/ml)
+
+AQP1 + Igfbp4: 3.129 ml (There will be 1 frozen vial containing 1,902,500
+cells/ml)
+
+11\. Calculate the required volume cell suspension for continuous cultures
+(seeding density 6500 cells/cm^2; 1,137,500 cells in total):
+
+ZIC1 + Igfbp4: 1.001 ml
+
+ZIC1 + AQP1: 1.258 ml
+
+Control: 1.935 ml
+
+AQP1 + Igfbp4: 1.871 ml
+
+
+
+
+12\. Took the amount of cell suspension for reseeding and put it into 30 ml of
+pre-warmed growth media for each condition.
+
+13\. Centrifuged remaining cell suspension at 400 x g for 5 min.  17:15  \-
+17:20 pm
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+14\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+15\. Resuspended the pellet in 1 mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+16\. Aliquotted 1 mL into each cryovial (already labelled).
+
+17\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   17:45 pm
+
+18\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Instead of removing the supernatant of all conditions prior to adding the
+cryostor into the 50 ml tube and then into the cryovial, I did one condition
+at a time. This may have affected the viability of those cells that were in
+cryostor (in Mr. Frosty) for too long.
+
+\- I was a bit worried when I centrifuged my cells to then resuspend them in
+cryostor that I couldn't see a cell pellet.
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Took 2 x images of each flask
+
+

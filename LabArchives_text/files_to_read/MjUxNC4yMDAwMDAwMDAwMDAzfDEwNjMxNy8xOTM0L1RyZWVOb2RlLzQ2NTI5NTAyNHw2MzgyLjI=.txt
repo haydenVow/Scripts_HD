@@ -1,0 +1,172 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by:
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+  
+7117-BUFFY6_21L10-Water Buffalo P4-1of1  
+T175  
+7150-BUFFY6_21L10-Water Buffalo P5-1of1  
+  
+  
+  
+7118-BUFFY6_25K6-Water Buffalo P4-1of1  
+T175  
+7151-BUFFY6_25K6-Water Buffalo P5-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM
+
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    2      x     T175     vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       12:00   a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     15    mL in     1x50mL    tubes
+  2.  dPBS (for washing and neutralising):     25    mL in    1x50    tubes
+  3. Growth media (for seeding):     2x30    mL in     2x50mL    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+12:15   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) 7117 and 7118 from the incubator     12:20   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     6    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     12:40-12:55   a/pm 
+
+7\. Neutralised with     6     dPBS and collected cell suspensions in separate
+15mL    tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     13:00-13:05   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL     growth     media     13:20
+a/pm
+
+13\. Transferred each cell suspension to separate pre-warmed growth media
+aliquots of    30     mL.
+
+14\. Transferred cell suspension into one pre-gelatin coated       T175
+vessel each.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      13:22  -
+13:52 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4788  
+  
+Tryple4949  
+  
+dPBS (for washing & neutralising)5067  
+  
+Growth Media5382  
+  
+p38i (20mM stock)4928  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  * Clone = 21L10 appears to be growing faster than clone 25K6 after inspection. Clone 27B2 hasn't appeared to have grown much at all (confluence still <10% in the T25 flask) 
+  * 6 well plate was discarded. 
+
+
+
+
+SOPs used:
+
+### n/a
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7117 (21L10): https://mia-
+capture.vow.tools/#/session/recbKlQ6rT9mMEBzA/images#group0  
+7118 (25K6): https://mia-
+capture.vow.tools/#/session/rec9VUVLKsxIpnVYI/images#group0
+
+

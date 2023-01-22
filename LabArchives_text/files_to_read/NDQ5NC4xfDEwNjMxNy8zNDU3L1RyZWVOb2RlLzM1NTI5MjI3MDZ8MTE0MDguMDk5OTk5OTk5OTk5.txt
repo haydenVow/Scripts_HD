@@ -1,0 +1,141 @@
+
+
+## Begin EStim Process:
+
+Open Arduino (search in 'Activities'). This should open the previously used
+script in the Micromanager, which should be 'stimjimPulser.ino'. If this
+script does not open, it can be opened by heading to
+Home>Arduino<stimjimPulser>stimjimPulser.ino and opening this file.
+
+In the Arduino script, comments are denoted with two forward slashes --> //  
+Code which runs operations on the StimJim microcontroller does not have these
+forward slashes.
+
+  
+
+To run a test run of the stimulation
+
+#### Uncomment the two lines of code, underneath the comment --> //check if
+the pulseTrain is finished; if so, exit  
+By using two forward slash keys --> //
+
+Like so:  
+
+Click Verify to check the code is still accepted and no mistakes have been
+made:
+
+Click Upload to upload the firmware onto the StimJim microcontroller.
+
+####  
+
+#### To run the stimulation non-stop
+
+#### Comment out the two lines of code underneath the comment --> //check if
+the pulseTrain is finished; if so, exit  
+By using two forward slash keys --> //
+
+Like so:  
+
+Click Verify to check the code is still accepted and no mistakes have been
+made:
+
+Click Upload to upload the firmware onto the StimJim microcontroller.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Test run   18:22  
+
+Stimulated with parameters:
+
+S0,0,0,500000,10000000; 3000,1000,6000; -3000,-1000,6000
+
+Executed with command T0.
+
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+  period:    500000 usec (0.500 sec, 2.000 Hz)  
+  duration:  10000000 usec (10.000 sec)  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     3000mV     1000mV  
+    1     6000 usec    -3000mV    -1000mV  
+\----------------------------------
+
+Started T train with parameters of PulseTrain 0  
+Train complete. Delivered 20 pulses.  
+Current/Voltage by stage:  
+           Ch0                Ch1    
+Stage 0  1777mV,             633mV,  
+Stage 1 -1318mV,            -500mV,
+
+  
+
+Oscilloscope output:
+
+  
+
+Start run:  18:30  
+
+Altered code to eliminate duration limit (so no feedback) and ran the above
+stimulation parameters continuously. Executed with command T0.
+
+S0,0,0,500000,10000000; 3000,1000,6000; -3000,-1000,6000
+
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+  period:    500000 usec (0.500 sec, 2.000 Hz)  
+ ~~  duration:  10000000 usec (10.000 sec)~~  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     3000mV     1000mV  
+    1     6000 usec    -3000mV    -1000mV  
+\----------------------------------  
+  
+Started T train with parameters of PulseTrain 0
+
+  
+
+  
+
+
+
+
+## Cleaning the Electrodes
+
+When finished with the electrode lid, it will need to be cleaned and stored
+away for later use.
+
+1\. Inspect the wiring connections to the electrode to ensure no corrosion or
+damage is present and all wiring is still connected as expected.  
+2\. Inspect the electrodes closely to ensure no damage or dissolution has
+occurred to the metal.  
+3\. Spray down the used electrode lid with ethanol.  
+4\. Fill the wells of a clean 12WP base with ethanol and place the electrode
+plate in this base so the electrodes are immersed in ethanol.
+
+A spare 'wash plate' is kept in the 'Electrodes' box.
+
+5\. Place the 12WP assembly inside the ultrasonic bath so that the water of
+the bath is at the line where the 12WP lid meets the base.  
+6\. Set the ultrasonic bath temperature to room temperature and the time of
+sonication for 15 minutes.  
+7\. Reinspect the electrodes. If any media or other organic residue is still
+present on the electrodes, repeat step 6.  
+8\. Store the electrode lid by placing it onto a clean 12WP base. Ensure the
+lid is dry before storage. Optional: Place the lid in the drying oven upside
+down at 50C for 15 minutes to increase drying time.  Alternatively, to reuse
+the lid immediately, proceed to the UV sterilisation process.
+
+

@@ -1,0 +1,56 @@
+
+
+Performed by: VP & CO
+
+
+
+
+Reagents & materials
+
+ItemID  
+BCA Assay kit (Thermo Fisher)Thermo Fisher; Cat #23227 (No stock ID)  
+10x RIPA Buffer (Milipore)STK-158  
+Protease inhibitor cocktail (Sigma)STK-2503
+
+
+  
+  
+Process:
+
+  1. Prepared 10mL 1x RIPA buffer from 10x concentrate in MilliQ water. 
+  2. Prepared 10mL 1x RIPA buffer with 1:200 protease cocktail inhibitor (50uL inhibitor solution) - returned to fridge
+  3. Prepared RIPA standards as per attached protocol, returned to fridge
+  4. Pre-cooled centrifuge to 4degC with 15mL centrifuge buckets
+  5. Performed tissue lysis as described in Experiment Plan. Briefly:
+    * used 2mL of RIPA + protease inhibitors
+    * Process note: needle is too short to use with 1.5mL tube, longer needles required (to be ordered). 
+    * Cell paste would not pass through 27G needle for shearing. sonicated sample by incubation in sonicator water bath for 2 minutes instead
+  6. Performed cell pellet lysis as described in experimental plan. Briefly:
+    * Used spare frozen cell pellet of Nuvonis cells for cell lysis: 'ST15 WCB pellet 22/06/22'
+    * added 200uL RIPA directly to cell pellet
+    * moved cell pellet to 1.5mL tube using P200
+    * sheared using 27G needle 10-15 times
+    * Process note: as above, needle is too short and shearing may not have been as effective as longer needle
+  7. Centrifuge does not reach 12 000 xg - max is 5525 xg. Cells were instead centrifuged at 4degC for 12 mins at 5525 xg
+  8. Re-sheared cell lysis sample - cloudy supernatent with precipitate visible and centrifuge again in benchtop microfuge with 1.5mL rotor, but not chilled
+  9. Aspirated supernatent and deposited into new labelled tubes
+  10. Prepared BCA reagent 1 as per manufacturer's instruction
+  11. Prepared BCA plate as per layout below
+  12. Incubated for 30 mins at 37degC 
+  13. Read absorbance using plate reader at 562 nm
+  14. See G-sheet for results
+
+  
+
+
+
+
+Observations, Notes & Summary
+
+  * James H (author of tissue lysis protocol) recommended that further lysis is not required following mincing and LN2 treatment  
+  * in both tissue and cell lysate samples, white precipitate still left after centrifuging. Tried to avoid precipitate during pipetting. May be that lysis and removal of debris is insufficient. May contribute to background signal in ELISA- to be determined. Further optimisation of extraction may be required if so.  
+
+
+
+
+

@@ -1,0 +1,130 @@
+
+
+## Performed by: Bec Screnci  
+
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+8920-DOLLY12-Sheep P7-3of6  
+8921-DOLLY12-Sheep P7-4of6  
+8922-DOLLY12-Sheep P7-5of6  
+8923-DOLLY12-Sheep P7-6of6  
+  
+  
+  
+8926-C2C12-Mouse P5-3of6  
+8927-C2C12-Mouse P5-4of6  
+8928-C2C12-Mouse P5-5of6  
+8929-C2C12-Mouse P5-6of6  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+dPBSM 8241  
+  
+DAPI (1:1000)M 3220  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+  
+
+1\. Prepared DAPI mix:
+
+  50 mL  PBS +  50  uL  of DAPI (1:1000)
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Counter staining C2C12 plates (D4/D7)  
+
+Note* 8 x 96-well plates being DAPI stained may result in longer than 5 min
+incubation times. The process will happen column-by-column (aspirate dPBS, add
+DAPI, then move to next column to repeat the steps). Washes will allow
+residual DAPI to be excluded from wells to mitigate.
+
+1\.  Removed dPBS from wells.  12:38 pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 12:38 - 12:48 pm
+
+3\.  Washed in PBS 2 x 5 min at RT in the dark. (No Triton)
+
+ 12:48 - 13:13 pm
+
+ 13:13 - 13:34 pm
+
+4\.  Replaced dPBS.
+
+ 13:34 pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+Counter staining DOLLY plates (D4/D7)  
+
+Note* 8 x 96-well plates being DAPI stained may result in longer than 5 min
+incubation times. The process will happen column-by-column (aspirate dPBS, add
+DAPI, then move to next column to repeat the steps). Washes will allow
+residual DAPI to be excluded from wells to mitigate.
+
+1\.  Removed dPBS from wells.   12:56 pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 12:56 - 13:05 pm
+
+3\.  Washed in PBS 2 x 5 min at RT in the dark. (No Triton)
+
+ 13:05 - 13:24 pm
+
+ 13:24 - 13:47 pm
+
+4\.  Replaced dPBS.
+
+ 13:47 pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+8 X 96-WELL PLATES DAPI STAINED & ZABER IMAGED (C2C12 AND DOLLY12 cells in
+both E6 and 2% HS for days 4 and 7 of differentiation)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

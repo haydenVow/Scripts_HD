@@ -1,0 +1,161 @@
+
+
+B12 concentrations to try:
+
+\- Literature used 1M cells in suspension and added different conc of B12
+(1ng, 5ng and 20ng B12 per 1M cells), so if we adapt this to our T175 platform
+and seed densities we can calculate the B12 needed per mL of culture media for
+each concentration.
+
+\- 4xT175 seeded with F_CHOMP07 fibroblasts @7500 cells/cm2 = 1,312,500 cells
+per T175 flask seeded.
+
+Therefore, if we use the cell seed # as the basis of the B12 values, we need
+1.3125 x 1ng, 5ng and 20ng per T175 flask upon seeding and on each media
+change thereafter.
+
+Total volume of GM per T175 flask to be used (in all flasks) = 30 mL
+
+Conc # 1 = 1.3125 ng B12 per T175 flask (0.04375 ng/mL in this media stock -
+rounded to 0.05 ng/mL) 75mL
+
+Conc # 2 = 6.5625 ng B12 per T175 flask (0.21875 ng/mL in this media stock \-
+rounded to 0.25 ng/mL) 75mL
+
+Conc # 3 = 26.25 ng B12 per T175 flask (0.875 ng/mL in this media stock \-
+rounded to 0.9 ng/mL) 75mL
+
+Conc # 4 = 0 ng B12 per T175 flask (0 ng/mL in this media stock)
+
+  
+
+Notes on stock preparation of B12:
+
+We need 90 ng B12 for this whole experiment. If we make up a stock of B12 that
+is 1000,000x concentrated, we will be weighing in the mg range (a million
+times more than we need). We cannot weigh ng accurately, so must make a way
+more concentrated stock to draw from. A two-stage dilution process is required
+due to the extremely small quantities of B12 needed.
+
+Initial stock:
+
+10 mg (0.01 g) weighed out and solubilised in 10 mL MilliQ water (1mg/mL stock
+concentration). This is a 1,000,000 ng/mL stock.
+
+Working stock:
+
+Dilute the 1,000,000 ng/mL initial stock in plain DMEM/F12 to make the working
+stock. Dilute 0.01 mL of initial stock in 9.990 mL DMEM/F12 (1 in 10,000
+dilution) to make a working stock of 100 ng/mL
+
+Amount required per group:
+
+Conc # 1 = 1.3125 ng B12 per T175 flask (0.05 ng/mL) 75mL = 2000x dilution of
+working stock (75/2000) = 0.0375mL into 74.9625mL complete GM
+
+Conc # 2 = 6.5625 ng B12 per T175 flask (0.25 ng/mL) 75mL = 400x dilution of
+working stock (75/400) = 0.1875mL into 74.8125mL complete GM
+
+Conc # 3 = 26.25 ng B12 per T175 flask (0.9 ng/mL) 75mL = 111.11x dilution of
+working stock (75/111.11) = 0.675mL into 74.325mL complete GM
+
+Conc # 4 = 0 ng B12 per T175 flask (0 ng/mL in this media stock)
+
+
+Introduction
+
+
+Cell Culture:
+
+"The expression of TCblR is linked to the cell cycle with highest expression
+in actively proliferating cells."
+
+"Cells were cultured in Dulbecco's modified Eagle's minimal essential medium
+(DMEM) with 10% fetal bovine serum (Hyclone), 2 mM Glutamax (Gibco) and 50
+units/ml penicillin with 50 μg/ml streptomycin (Invitrogen)"
+
+"Binding and uptake of TC-Cbl was determined by incubating 10^6 cells with
+10,000 CPM [ 57Co]Cbl (30 pg = 0.022pmoles) bound to TC in 1 ml medium at 37
+◦C for 1 h."
+
+"For measuring the uptake of TC-Cbl, internalization of TCblR-TC-Cbl complex
+and reappearance of internalized TCblR, cells (5-10 × 106 ) were incubated in
+serum-free DMEM in a humidified 5% CO2 incubator for 1 h at 37 ◦C with excess
+TC-Cbl (1 ng of Cbl bound to TC = 0.74pmoles) that was not radiolabeled to
+induce uptake and internalization. Cells were washed twice with 1 ml of HBSS
+to remove residual TC-Cbl and then incubated in serum-free DMEM at 37 ◦C for
+10-60 min."
+
+  
+
+Source: https://s3.us-west-2.amazonaws.com/secure.notion-
+static.com/254b3364-c5d5-4c75-946e-6cb5aabfa823/1-s2.0-S001448272030505X-main.pdf?X-Amz-
+Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-
+Credential=AKIAT73L2G45EIPT3X45%2F20220204%2Fus-
+west-2%2Fs3%2Faws4_request&X-Amz-Date=20220204T022841Z&X-Amz-
+Expires=86400&X-Amz-
+Signature=c599875b7c94540be92463a8e5483d935f43675f1ffc13077ab0c821240c1cb5&X-Amz-
+SignedHeaders=host&response-content-
+disposition=filename%20%3D%221-s2.0-S001448272030505X-main.pdf%22&x-id=GetObject
+
+
+Aim:
+
+
+Pump CHOMP cells full of B12 during proliferation
+
+
+Hypothesis:
+
+
+If we expose cells to media conditioned with B12 during their highly
+proliferative phase, we may see increased uptake due to high expression of
+TCblR (TransCobalamin Receptor)
+
+
+Timeline and protocol:
+
+
+  1. Prepare a working stock of B12 in GM, sterile-filter (or whatever can be weighed in and serially diluted)
+    1. A two-stage dilution process is required due to the extremely small quantities of B12 needed.
+
+Stage 1: Initial stock
+
+100 mg (0.1 g) weighed out and solubilised in 100 mL MilliQ water (1mg/mL
+stock concentration). This is a 1,000,000 ng/mL stock.
+
+Stage 2: Working stock
+
+Dilute the 1,000,000 ng/mL initial stock in plain DMEM/F12 to make the working
+stock. Dilute 50 uL of initial stock in 49.95 mL DMEM/F12 (1 in 10,000
+dilution) to make a working stock of 100 ng/mL
+
+  2. Prepare B12-containing media for duration of the experiment:
+    1. Total volume of GM per T175 flask to be used (in all flasks) = 30 mL
+    2. Complete GM = DMEM/F12 + 20% FBS
+    3. Conc # 1 = 1.3125 ng B12 per T175 flask (0.05 ng/mL) 75mL = 2000x dilution of working stock (75/2000) = 0.0375mL into 74.9625mL complete GM
+
+Conc # 2 = 6.5625 ng B12 per T175 flask (0.25 ng/mL) 75mL = 400x dilution of
+working stock (75/400) = 0.1875mL into 74.8125mL complete GM
+
+Conc # 3 = 26.25 ng B12 per T175 flask (0.9 ng/mL) 75mL = 111.11x dilution of
+working stock (75/111.11) = 0.675mL into 74.325mL complete GM
+
+Conc # 4 = 0 ng B12 per T175 flask (0 ng/mL in this media stock) - make 100 mL
+total of complete media for the control group and for use in resuspending the
+freshly thawed vial of cells.
+
+  3. Aliquot 30mL of each of the media types made in the step above and warm them in a water bath at 30C for 20 minutes prior to use in the next step. Label each aliquot with the group # from above to tell them apart easily.
+    1. prepare 2x aliquots of B12-free GM for flasks 4 and 5
+  4. Thaw 1x cryovial (10M cells per vial) and quickly transfer into a larger GM volume
+    1. e.g. 10 mL of warm GM for a cell conc. of 1M/mL
+  5. Perform a cell count and record live and dead cell #'s.
+    1. Calculate live cells/mL
+  6. Seed the flasks for each group with 1,312,500 live cells/mL (this is equivalent to 7500 live cells/cm2). Place the seeded flasks directly into the 30C incubator (do not leave them in the BSC for 30 minutes).
+  7. On day 4, perform a 100% media change using the remaining aliquot of media for each group.
+    1.  At this stage, also switch the media in flask 4 to Media formulation 2
+  8. On day 7, harvest cells and count the cells from each flask with trypan blue individually to assess cell survival and infer a proliferation rate via total cell number (compared to how many cells were seeded). Record for each B12 concentration condition total cell number, number of dead cells. Note - live cells do not take up Trypan Blue, but dead cells are permeable and take up the dye.
+  9. Wash pellet 3x with ice cold PBS (IMPORTANT: to remove any unbound B12 and reduce assay background!!!)
+  10. Freeze dry pellet at -80C until analysis
+
+

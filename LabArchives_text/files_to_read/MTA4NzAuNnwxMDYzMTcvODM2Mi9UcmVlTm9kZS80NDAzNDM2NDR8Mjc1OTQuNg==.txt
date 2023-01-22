@@ -1,0 +1,191 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+Test the presence of growth factors in cellular product at end-stage to
+demonstrate comparable levels to meat product
+
+
+Hypothesis
+
+
+Growth factor presence within cellular product will be a safe level for human
+consumption, and comparable or less than concentrations found within similar
+meat products
+
+
+Background & Technical Gap
+
+
+For sale of Morsel as a food product in Singapore, Vow must submit a safety
+dossier to the Singapore Food Authority (SFA) to gain approval for sale.
+Please see dossier requirements <here>. The SFA have specified that data
+included in the dossier should demonstrate that growth factor concentrations
+in the final Morsel product should be less than or equal to comparable meat
+product, Japanese quail meat. Therefore, experiments described here will aim
+to determine the final concentrations of IGF and EGF in Morsel, and compare
+this to concentrations in Japanese quail meat sourced from Australia. These
+values will be compared to previously published values for validation.
+
+External consulting agency, Vireo, have prepared an overview of growth factors
+used in Vow's process, detailing purpose of addition, structural
+characteristics, synthesis and mode of action (in human), impact of food
+processing on levels of substance, absorption/digestion and bioavailability of
+substance, consumption and any other scientific concerns defined in the
+literature. This report can be found here.
+
+Brief descriptions of growth factors have been included here:
+
+IGF
+
+Insulin growth factor (IGF)s regulate a variety of biological effects such as
+cell growth, metabolism, proliferation, and differentiation. IGF-1 is a key
+factor in the insulin signaling pathway and a key growth factor related to
+various biological properties such as cell proliferation, differentiation,
+maturation, and survival. Vow utilise the IGF-LR3 (bovine) factor produced by
+Mesokine. Long arginine 3-IGF-1, abbreviated as IGF-1 LR3 or LR3-IGF-1, is a
+synthetic protein and lengthened analogue of human insulin-like growth factor
+1 (IGF-1). It differs from native IGF-1 in that it possesses an arginine
+instead of a glutamic acid at the third position in its amino acid sequence
+("arginine 3"), and also has an additional 13 amino acids at its N-terminus
+(MFPAMPLLSLFVN) ("long"), for a total of 83 amino acids (relative to the 70 of
+IGF-1).The consequences of these modifications are that IGF-1 LR3 retains the
+pharmacological activity of IGF-1 as an agonist of the IGF-1 receptor, has
+very low affinity for the insulin-like growth factor-binding proteins
+(IGFBPs), and has improved metabolic stability. As a result, it is
+approximately three times more potent than IGF-1 and possesses a significantly
+longer half-life of about 20-30 hours (relative to IGF-1's half-life of about
+12-15 hours).
+
+EGF  
+
+Epidermal growth factor (EGF) acts by binding with high affinity to epidermal
+growth factor receptor (EGFR) on the cell surface. This stimulates ligand-
+induced dimerization, activating the intrinsic protein-tyrosine kinase
+activity of the receptor (see the second diagram)The tyrosine kinase activity,
+in turn, initiates a signal transduction cascade that results in a variety of
+biochemical changes within the cell - a rise in intracellular calcium levels,
+increased glycolysis and protein synthesis, and increases in the expression of
+certain genes including the gene for EGFR - that ultimately lead to DNA
+synthesis and cell proliferation.
+
+  
+
+Publications here detail endogenous levels of growth factor in meat as a
+saleable product.
+
+  
+
+mRNA expression in human dataset by tissue accessed from Human Protein Atlas,
+showing data from Consensus database
+
+  
+
+
+Method/Procedure
+
+
+See G-sheet here for plate layout, raw data and data analyses
+
+Layout & conditions:
+
+All unknown conditions prepared to 1mg/mL final concentration
+
+Kits:
+
+1) IGF: Cloud Clone Corp, CAT# SEA050Bo, see attached for product spec sheet
+and assay protocol
+
+2) EGF: Cloud Clone Corp, SEA560Bo, see attached for product spec sheet and
+assay protocol
+
+Notes for kit usage:
+
+  * carefully add samples to wells and mix gently to avoid foaming. Do not touch the well wall. 
+  * For each step in the procedure, total dispensing time for addition of reagents or samples to the assay plate should not exceed 10 minutes. This will ensure equal elapsed time for each pipetting step, without interruption. 
+  * To ensure accurate results, proper adhesion of plate sealers during incubation steps is necessary. Do not allow wells to sit uncovered for extended periods between incubation steps. Once reagents are added to the well strips, DO NOT let the strips DRY at any time during the assay.
+  * The wash procedure is critical. Complete removal of liquid at each step is essential for good performance. After the last wash, remove any remaining Wash Solution by aspirating or decanting and remove any drop of water and fingerprint on the bottom of the plate. Insufficient washing will result in poor precision and false elevated absorbance reading.
+  * Observe the change of color after adding TMB Substrate (e.g. observation once every 10 minutes), if the color is too deep, add Stop Solution in advance to avoid excessively strong reaction which will result in inaccurate absorbance reading. 
+  * TMB Substrate is light sensitive
+
+Sample preparation
+
+1\. Prepare 1x RIPA buffer with protease inhibitors. Dilute 10x stock to 1x
+using MilliQ water (e.g. 9mL water + 1mL RIPA) and add 1:200 protease
+inhibitor cocktail (50uL for 10mL). Keep cold.
+
+2\. Extraction (see attached for protocol for cell pellet):
+
+For tissue:
+
+  * Tissues were rinsed in ice-cold PBS to remove excess blood thoroughly
+  * Weighed before homogenization and recorded weight
+  * Minced the tissues to small pieces using shears in mortar
+  * Added liquid nitrogen to homogenized tissue and froze small pieces of tissue in liquid nitrogen, then crush with a pestle and mortar
+  * Resuspended ground/powdered tissue sample in cold RIPA buffer with protease inhibitors. 2mL lysis buffer used for ~100mg tissue (weight before processing)
+
+For cell pellet:
+
+  * Use frozen cell pellet
+  * Added cold RIPA (200-400uL) with protease inhibitors directly to cell pellet and move to 1.5mL tube using P200
+  * Sheared using 21G needle 10-15 times
+  * Centrifuged at 12 000 xg for 12 minutes at 4degC
+  * Reserved supernatant in new, labelled tube
+
+3\. Perform BCA as per manufacturer's instruction (see attached manufacturer's
+instruction and quick start protocol) and adjust concentrations to be 1mg/mL
+for both with additional RIPA to dilute.
+
+Reagent & Kit Preparation
+
+  1. Thaw lysates on ice from -20 storage. All lysates are prepared to 1mg/mL. 
+  2. To prepare the 'Morsel spiked condition', calculate the amount of IGF-LR3 to add to lysate to achieve 10ng/mL final concentration
+  3. The reconstituted Standards, Detection Reagent A and Detection Reagent B can be used only once.
+  4. Buffer requirements for 1/2 plate run: 
+    * A =100uL per well x 48 wells  = ~6.0 mL
+    * B = 100uL per well x 48 wells = ~6.0 mL
+    * TMB = 90uL per well x 48 wells = ~4.5 mL
+    * Stop = 50uL per well x 48 wells  = ~3.0mL
+    * Wash = 350uL per well x8 times x 48 wells x 1.1 = ~150mL
+  5. Bring all kit components and samples to room temperature before use. If the kit will not be used up in one time, please only take out strips and reagents for present experiment, and leave the remaining strips and reagents in required condition.
+  6. Reconstitute the Standard with 1.0mL of 1x RIPA buffer with protease inhibitors. The concentration of the standard in the stock solution is 40 ng/mL. 
+  7. Dilute the stock solution to 10 ng/mL: 250uL standard + 750uL Standard diluent 
+  8.  The diluted standard serves as the highest standard (10ng/mL). Then prepare 7 tubes containing 0.5 mL Standard Diluent and use the diluted standard to produce a 1:2 dilution series according to the picture shown below. Set up 7 points of diluted standard such as 10 ng/mL, 5 ng/mL, 2.5 ng/mL, 1.25 ng/mL, 0.625 ng/mL,0.312 ng/mL, 0.156 ng/mL, and the last EP tubes with Standard Diluent is the blank as 0 ng/mL.
+  9. Briefly spin or centrifuge the stock Detection A and Detection B before use. Dilute them to the working concentration 100-fold with Assay Diluent A and B, respectively.
+    * 60 uL Detection A + 5940uL Diluent A for 6mL total
+    * 60 uL Detection B + 5940uL Diluent B for 6mL total 
+  10. Dilute 5mL of Wash Solution concentrate (30×) with 145mL of deionized or distilled water to prepare 150mL of Wash Solution (1×).
+
+Plate set up
+
+  1. Add 100μL each of dilutions of standard blank and samples into the appropriate wells (as per plate layout above). Cover with the Plate sealer. Incubate for 1 hour at 37°C.
+  2. Aspirate from each well, don't wash
+  3. Add 100μL Detection Reagent A working solution to each well, cover the wells with the plate sealer and incubate for 1 hour at 37°C.
+  4. Aspirate the solution and wash with 350μL 1× Wash Solution to each well using a squirt bottle, multi-channel pipette, manifold dispenser or autowasher, and let it sit for 1~2 minutes. Remove the remaining liquid from all wells completely by snapping the plate onto absorbent paper. Totally wash 3 times. After the last wash, remove any remaining Wash Buffer by aspirating or decanting. Invert the plate and blot it against absorbent paper.
+  5. Add 100μL of Detection Reagent B working solution to each well, cover the wells with the plate sealer and incubate for 30 minutes at 37oC. 6. Repeat the aspiration/wash process for total 5 times as conducted in step 4.
+  6. Add 90μL of Substrate Solution (TMB) to each well. Cover with a new Plate sealer. Incubate for 10- 20 minutes at 37°C (Don't exceed 30 minutes). Protect from light. The liquid will turn blue by the addition of Substrate Solution.
+  7. Add 50μL of Stop Solution to each well. The liquid will turn yellow by the addition of Stop solution. Mix the liquid by tapping the side of the plate. If color change does not appear uniform, gently tap the plate to ensure thorough mixing. 9. Remove any drop of water and fingerprint on the bottom of the plate and confirm there is no bubble on the surface of the liquid. Then, run the microplate reader and conduct measurement at 450 nm immediately. 
+
+Sensitivity
+
+The minimum detectable dose of EGF is typically less than 5.5pg/mL.
+
+The minimum detectable dose of IGF1 is typically less than 0.63ng/mL.
+
+
+
+
+Western blot considerations:
+
+  * Expected band size:
+    * EGF:
+    * IGF:
+  * Positive control selection  
+
+    * Western blot shows cell lines positive for IGF expression (30ug/mL): SK-N-SH, SK-N-AS, IMR32
+
+

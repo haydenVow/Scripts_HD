@@ -1,0 +1,108 @@
+
+
+Background  
+  
+The following strategies will be explored as potential strategies to
+upregulate myoglobin and hence, heme iron content in mature myotubes.
+Identified media supplements and concentrations used in previous literature
+are listed below. All supplements were used to treat cells 4-6 days following
+the commencement of myoblast differentiation in DMEM/F12 + horse serum
+differentiation media.  
+  
+
+CompoundWorking concentration Reference  
+Taurine5-100 mMSeidel (2020)  
+  
+Lipid mixture2.5-5% (v/v)Schlater (2013)  
+  
+Caffeine5 mMGraber 1986  
+  
+Hemin1, 5, 10, 20 uMYokakawa 2021  
+  
+  
+  
+
+
+Introduction
+
+
+Apart from haemoglobin, myoglobin is one of the major bioavailable forms of
+dietary heme iron present in vertebrate muscle. Heme iron is an essential
+nutrient from dietary proteins that are not otherwise found in plant-based
+diets. This is a valuable consideration in the production and marketing of
+cell culture-based meat production whereby we are given the unique opportunity
+to potentially upregulate cellular heme iron content in a standardised
+fashion, resulting in the potential presentation of our cells 'functional
+food'.
+
+
+Aim:
+
+
+To increase cellular content of heme iron by upregulating myoglobin by
+treating BUFFY myoblasts with different concentrations of taurine, lipids,
+caffeine and hemin as demonstrated in previous literature
+
+
+Hypothesis:
+
+
+Supplementing differentiation media with taurine, lipid mixture, caffeine and
+hemin will upregulate myoglobin and heme content of differentiated myoblasts.
+
+
+Timeline and protocol:
+
+
+Experimental plan: Taurine  
+  
+Table 1.Taurine concentrations to be trialled
+
+ConcentrationAmount to be added to media (g)Volume of E6 media needed  
+  
+  
+  
+
+
+  
+  
+Experimental plan: Lipid mixture  
+  
+Table 2. Lipid mixture concentrations to be trialled
+
+ConcentrationAmount to be added to media (uL)Volume of E6 media needed  
+  
+  
+  
+
+
+  
+  
+Experimental plan:Caffeine  
+  
+Table 3. Caffeine concentrations to be trialled
+
+ConcentrationAmount to be added to media (g)Volume of E6 media needed  
+  
+  
+  
+
+
+  
+  
+  
+
+  1. Aliquot 30mL of each of the media types made in the step above and warm them in a water bath at 30C for 20 minutes prior to use in the next step. Label each aliquot with the group # from above to tell them apart easily.
+    1. prepare 2x aliquots of B12-free GM for flasks 4 and 5
+  2. Thaw 1x cryovial (10M cells per vial) and quickly transfer into a larger GM volume
+    1. e.g. 10 mL of warm GM for a cell conc. of 1M/mL
+  3. Perform a cell count and record live and dead cell #'s.
+    1. Calculate live cells/mL
+  4. Seed the flasks for each group with 1,312,500 live cells/mL (this is equivalent to 7500 live cells/cm2). Place the seeded flasks directly into the 30C incubator (do not leave them in the BSC for 30 minutes).
+  5. On day 4, perform a 100% media change using the remaining aliquot of media for each group.
+    1.  At this stage, also switch the media in flask 4 to Media formulation 2
+  6. On day 7, harvest cells and count the cells from each flask with trypan blue individually to assess cell survival and infer a proliferation rate via total cell number (compared to how many cells were seeded). Record for each B12 concentration condition total cell number, number of dead cells. Note - live cells do not take up Trypan Blue, but dead cells are permeable and take up the dye.
+  7. Wash pellet 3x with ice cold PBS (IMPORTANT: to remove any unbound B12 and reduce assay background!!!)
+  8. Freeze dry pellet at -80C until analysis
+
+

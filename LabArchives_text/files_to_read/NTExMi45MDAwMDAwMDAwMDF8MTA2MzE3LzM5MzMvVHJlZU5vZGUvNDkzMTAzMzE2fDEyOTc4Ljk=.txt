@@ -1,0 +1,191 @@
+
+
+## Performed by: SL
+
+
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175
+
+8006-DOLLY12_11E7-Sheep P9-1of6
+
+8007-DOLLY12_11E7-Sheep P9-2of6
+
+8008-DOLLY12_11E7-Sheep P9-3of6
+
+8009-DOLLY12_11E7-Sheep P9-4of6
+
+8010-DOLLY12_11E7-Sheep P9-5of6
+
+8011-DOLLY12_11E7-Sheep P9-6of6
+
+  
+4CF8052-DOLLY12_11E7-Sheep P10-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA:4789  
+  
+TrypleA:6097  
+  
+dPBS (for washing & neutralising)A:6414  
+  
+Growth MediaM:6807  
+p38i (20mM stock)M:4166  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. If the flasks look
+as confluent as expected for day 3, you don't need to perform a cell count
+because all cells will be transferred to a 4CF.
+
+2\. Gelatin coated     1     x    4CF      vessel  with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       14:28   pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:         mL in 
+  2.  dPBS (At 37 degrees for washing):         mL 
+  3.  dPBS (at RT neutralising):         mL 
+  4. Growth media (for pellet resuspension):         mL 
+  5. Growth media (for seeding):         mL  
+  
+Sylvana put the entire bottle of mix/aliquots above into the water bath.
+
+Time that all aliquots were placed in the water bath the warm before use
+15:00   pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     16:30 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    16 :40 pm  \- 16:50 PM  
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a
+2X 50mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:58  pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     10    mL          media     17: 10  pm
+
+11\. Aliquoted     2x30uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+
+
+
+13\. Transferred     all      of cell suspension to the pre-warmed        600
+mL Growth media:      17:12    pm
+
+14\. Transferred cell suspension into the             pre-gelatin coated
+4CF     vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      17:12  \-
+17:35 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) thermo incubator or library lab incubator (if there's space)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

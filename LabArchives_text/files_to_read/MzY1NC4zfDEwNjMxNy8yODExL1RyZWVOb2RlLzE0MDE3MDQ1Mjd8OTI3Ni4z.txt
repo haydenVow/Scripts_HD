@@ -1,0 +1,130 @@
+
+
+## Performed by: AK  
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+7343  
+8  
+  
+7344  
+8  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Stopped the shaker
+  2. Removed flasks from incubator
+  3. Gently shook flasks to resuspend microcarriers
+  4. Aspirated 1 mL sample from each flask and transferred to a corresponding 1.5 mL Eppendorf tube
+  5. Returned flasks to the incubator
+  6. Restarted the shaker
+
+Reference  
+  
+Operator initialsAK  
+  
+Checked by operator initials  
+  
+Timestamp15:25  
+  
+NotesN/A  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Added 1 drop of Hoechst 33342 ReadyProbes reagent to each 1 mL sample
+  2. Mixed each tube by hand for 3 seconds
+  3. Left the tubes lying their sides in a dark place at room temperature for 10 - 20 minutes.  `| 15:26 - 15:41  |`
+  4. Mixed each tube by hand for 3 seconds
+  5. Transferred 20 uL of the even suspension to a well in a 96 well plate
+  6. Added 80 uL of PBS to make the volume up to 100 uL
+  7. Inspected the wells under the Axio microscope, 5x objective.
+  8. If the microcarriers overlapped then further diluted the samples
+  9. Using https://mia-capture.vow.tools/#/, took 3 sets of same frame images using the DAPI and PHASE channels for each well `| 15:48 |`
+  10. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  11. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+Nuclear Ejection
+
+  1. Removed 0.85 mL of the supernatant from the 1.5mL tubes carefully without aspirating the microcarriers.
+
+  2. Washed microcarriers using 0.85 mL of room temperature Dulbecco's phosphate buffered saline without Ca2+ and Mg2+ (DPBS-/-).
+  3. Aspirated and discarded the dPBS wash.
+  4. Added 0.85 mL of cell lysis solution to the microcarriers
+  5. Vortexed the 1.5 mL tube for 1 min at maximum speed to release nuclei.
+  6. Loaded 10uL of each Hoechst stained sample onto a countess slide and took four images of separate locations under the DAPI imaging channel on the Axio under the 5x objective.
+  7. Culture 7343 Calculated the cells/mL by converting the cells/mm2value shown in MIA capture
+    1. Average cell count = average(9.3, 4.7, 5.6, 7.8) =  6.85  cells/mm2
+    2. Average cell count = 6.85 x 10,000 =  68,500 cells/mL
+    3. Total cell count =  68,500 x 500 = 35,250,000 million cells
+  8. Culture 7344 Calculated the cells/mL by converting the cells/mm2value shown in MIA capture
+    1. Average cell count = average(8.0, 7.6, 6.3, 8.0 ) = 7.5 cells/mm2
+    2. Average cell count =  7.5 x 10,000 =  75,000 cells/mL
+    3. Total cell count =  75,000 x 500 =   37,500,000 million cells
+
+
+
+
+### Observations/Summary:
+
+###
+
+N/A
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+dPBS M5923  
+  
+Hoechst 33342S2464  
+  
+Lysis solution  
+M5221  
+
+
+  
+  
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recmskIv6YMc7YX6V/images (7343),
+Friday July 16
+
+https://mia-capture.vow.tools/#/session/recWO7eL0mRzd3d9b/images (7344),
+Friday July 16
+
+

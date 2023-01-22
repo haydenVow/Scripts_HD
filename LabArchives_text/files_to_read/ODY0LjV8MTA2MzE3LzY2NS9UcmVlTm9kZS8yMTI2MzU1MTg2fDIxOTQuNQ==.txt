@@ -1,0 +1,122 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 15mL
+
+Total p38i required: 7.5 uL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+E1256571-DOLLY12-Sheep P16-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   15mL  mL of  Growth Media into  1 x 50 mL     tube(s). Placed
+in water bath  13:20  a/pm
+
+2\. Sampled and stained microcarrier culture
+
+  1.  Sampled 20uL of culture microcarrier suspension into a blank well in a non tissue culture treated 96 well plate. Ensured that sample was taken after swirling on the flat surface of the BSC, while liquid was still in motion.
+  2. Added 80uL of dPBS to the well to make up a total volume of 100uL in the well.
+  3. Added 2uL of Hoescht stain to well and mixed gently with a P200 pipette, mixing the microcarriers to create an even and spread monolayer but ensuring no bubbles were formed in the process.
+  4. Incubated plate in the dark at RT for 15 mins. 13:33 - (approx) 14:00
+  5. Imaged Phase and DAPI channels at 10x. 
+
+  
+
+3\. Removed  50  % of supernatant from vessel.
+
+4\. Replaced with  15 mL (per well/per vessel) of  Growth Media  media.
+
+5\. Returned vessel to incubate at: [13:42]
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [X]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media4533  
+15mL  
+ P38i (20mM stock)  
+7.5uL  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/rec4mNMiQUTEz319D/images
+
+

@@ -1,0 +1,124 @@
+
+
+Key Findings
+
+Majority of papers around shear stress focus on:
+
+  * controlling the fate of stem cells 
+  * smooth muscle
+  * promoting endothelial (during early differentiation of embryonic stem cells)  eg Steady laminar shear stress promotes release of factors from endothelial cells that inhibit coagulation, migration of leukocytes, and smooth muscle proliferation, while simultaneously promoting endothelial cell survival.
+  * adipose stem cells acquiring bone cell responsiveness to fluid shear stress 
+  * bone formation 
+  * Fibroblast 
+  * Myoblast 
+
+  
+
+One group of researcher has done a large amount of research around the effects
+of shear stress on myoblast cultures. In particular they focuses on Couette
+Type of shear flow (whereby there is two parallel plates, one which is
+stationary and the other moving, resulting in shear between to rotating and
+stationary wall). The study shows that cells differentiation is accelerated at
+shear stress of 2 Pa, however cell activity is decreased. Some cells also
+exfoliate under the wall shear stress of 2Pa, however for those that are
+attached, they tend to align to the flow direction. Cells exposed to 1 Pa -
+1.5 Pa, also show capability in cell division and fusion and less exfoliation.
+
+  
+
+  
+
+
+
+
+Can SHEAR STRESS promote fusion (please insert main finding and reference):
+
+  
+
+1\. https://www.sciencedirect.com/science/article/pii/S0021915019303636,
+Understanding mechanobiology in cultured endothelium: A review of the orbital
+shaker method
+
+Summary: Endothelial cells at the edge of the wells exhibit elongation and
+alignment whereas cells in the centre are unaligned. Cells at the centre of
+the well are also more compliant than those at the edge. Cells at the centre
+of the well exhibit increased rates of proliferation  and apoptosis relative
+to the edge. This shear effect on ECs might be transferable to muscle cells?
+
+  
+
+2. Effect of Shear Stress on Myoblasts Cultured under Couette Type of Shear Flow between Parallel Disks
+
+http://www.mech.kogakuin.ac.jp/labs/bio/pdf/20203ZA666MKeri.pdf
+
+  * Using a couette type shear flow, whereby there is a rotating disk and a stationary dish, and the medium is sheared between a rotating wall and stationary wall. 
+  *   
+
+  * Study preformed on C2C12 myoblast 
+  * Study looks into the effect of shear stress feild (2Pa) on myoblast deformation, orientation and differentiation. 
+  * Cell were exposed to shear force 24hr after seeding, for 7 days. 
+  * Rotating disk device was mounted on the stage of the inverted phase contrast microscope and placed in incubator. This allowed for images to be taken every 30 minutes (under phase contrast) 
+  * cells detach under shear flow at the wall shear stress higher than 2Pa. 
+  * cell differentiated to myotubes under shear stress of 2Pa. 
+  * Both cell cycle and cell length tend to scatter in the wider range, and the longituinal axis of the cell tends to align to the flow direction by the shear stress of 1Pa
+
+  
+
+Further related studies:
+
+http://www.mech.kogakuin.ac.jp/labs/bio/pdf/2020BA620EStoma.pdf
+
+The interaction between cells governs the behavior of each cell. The
+orientation of each cell depends on the orientation of the neighbor cell. The
+interaction decreases with the distance between cells (Fig. 8). The angle
+between cells tends to increase with the distance between cells. The smaller
+cell follows the direction of the bigger cell. The angle between cells are at
+random, when the sizes of the cells are comparable order (Fig. 9). Under the
+shear stress field of 2 Pa, activity of each cell decreases. Some cells are
+exfoliated under the wall shear stress of 2 Pa. Under the shear stress field
+of 1.5 Pa, on the other hand, each cell at every direction makes division
+(Fig. 6). Although some cells are exfoliated, differentiation of myoblast to
+myotube is accelerated under the wall shear stress of 2 Pa. The myoblasts tend
+to align to the flow direction under the shear stress field of 2 Pa. The
+myoblast parallel to the flow are active to make division. The number of
+myoblast perpendicular to the flow tends to decrease.
+
+  
+
+  
+
+3. 3D printed oxidized alginate-gelatin bioink provides guidance for C2C12 muscle precursor cell orientation and differentiation via shear stress during bioprintin
+
+https://iopscience.iop.org/article/10.1088/1758-5090/ab98e4/meta
+
+https://www.semanticscholar.org/paper/Effect-of-Shear-Stress-in-Flow-on-
+Cultured-Cell-%3A-Hino-Hashimoto/806e57c2a100625cebd1e371e0c2150d71e8e158
+
+  * by the proper selection of nozzle size and extrusion pressure, the shear stress during extrusion-bioprinting of mouse myoblast cells (C2C12) can achieve cell orientation when using oxidized alginate-gelatin (ADA-GEL) hydrogel bionk. The cells grow in the direction of printing, migrate to the hydrogel surface over time, and differentiate into ordered myotube segments in areas of high cell density.
+  * 
+
+  
+
+  
+
+4\. Article: Modeling of Flow-Induced Shear Stress Applied on 3D Cellular
+Scaffolds: Implications for Vascular Tissue Engineering
+
+High level summary of what this article is about:
+
+  * The CFD model allowed for prediction of velocity and shear stress distribution within porous 3D scaffolds prefused with direct medium flow.  
+  * Uses a scaffold made from PLLA/PLGA using a salt leaching method to produce pores.  
+    * (scaffolds made through particle leaching method (materials packed into desired mold and loaded with polymer solvent. Heat treatment or condensation to create interconnected pores. Solvent removed and allowed to evaporate. Particles removed by leaching to create an interconnected pore structure.
+    * Study uses periodic spatial organisation, known as cubic close packing, which resulted in flow channels between the interconnected pores which are more convoluted and multidirectional. (suppose to result in a more complex flow feild and higher wall shear stress.) 
+  * Fibroblast cells are grown on the scaffold at different thickness (proliferating cell layer) for 5 - 7 days. 
+  * Then cultured in a perfusion bioreactor and exposed to flow rate of 10 mL/min for 1, 3 and 7 days. 
+  * Developed a computational fluid dynamic model of the complex 3D microsctructures of a porous scaffold incubated in a direct perfusion bioreactor:
+
+  * monitored five geometrically  variant  scaffolds  of  diversified  cell-layer thicknesses (0-125mm, Fig. 4D) under four in-flow velocity conditions (0.5-2 cm/s)
+  * The model provides estimation of the dynamic microenvironment to which cells are exposed to. A good tool for perfusion bioreactor system design. 
+
+  
+
+  
+
+

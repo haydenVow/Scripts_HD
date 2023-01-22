@@ -1,0 +1,93 @@
+
+
+After drying overnight the cell sheets had dried and hardened and as such
+could not be lifted from the petri dishes. With the exception of conditions
+1.8,2.8, 1.4 and 2.4 (i.e. the treatments seeded in the collagen gel
+suspension) the sheets had also completly shriveled up to less than 0.5cm by
+0.5cm size pieces. Whereas the collagen suspension cultures were still spread
+across the base of the plate. It was subsequently decided to try and re-
+hydrate the collagen suspension cultures. Approximately 5ml of plain DMEM was
+added to each dish (enough to cover the base of the plates) and the samples
+left for approximately 1hr.
+
+After the 1hr in growth media it was found that the sheets could again be
+lifted.
+
+Using a sterile scalpel, spatula and tweezers the sheets (cells in collagen
+fed with both media conditions) were cut into as many small (homogeneous in
+size by eye only) pieces as possible, then placed into a 48-wp.  
+  
+Based on the number of attained samples the following experimental plan was
+formulated and the samples plated as follows:  
+  
+
+New plan:
+
+Condition 1 (C1) = 1.8 and 2.8
+
+Condition 2 (C2) = 1.4 and 2.4
+
+  
+
+Total ACF cells needed = 18.4M
+
+Total Serum cells needed = 18.4M    (NOTE - If we do not have enough serum
+cells only do n=3 serum for each seeding density and use extra samples as cell
+free or add as an extra ACF replicate)
+
+  
+
+  
+
+  
+
+
+
+
+1x 2-level Categorical factor (scaffold type):  Condition 1 (1.8 and 2.8) and
+Condition 2 (1.4 and 2.4)
+
+1x 2-level Continuous factor (seeding density): 0.8M, 1.5M cells/96-well sized
+scaffold
+
+1x 2-level Continuous factor (media): ACF, Serum  
+  
+Cells seeded in 10C ACF media, then transitioned to E6 on D2 in proliferation
+media (= D0 of differentiation)
+
+  
+8 ACF conditions (seeded in 10C):  
+  
+(1) ACF, Condition 1, 0.8M cells/scaffold
+
+(2) Serum, Condition 1, 0.8M cells/scaffold
+
+  
+
+(3) ACF, Condition 1, 1.5M cells/scaffold  
+(4) Serum, Condition 1, 1.5M cells/scaffold
+
+(5) ACF, Condition 2, 0.8M cells/scaffold
+
+(6) Serum, Condition 2, 0.8M cells/scaffold
+
+  
+
+(7) ACF, Condition 2, 1.5M cells/scaffold  
+(8) Serum, Condition 2, 1.5M cells/scaffold
+
+  
+
+Replicates: n=4
+
+Total number of samples (4 x 8) = 32
+
+  
+
+1 Cell free control conditions (n=4):
+
+Condition 2
+
+  
+
+

@@ -1,0 +1,103 @@
+Performed by: EC AS
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+13062-Nuvonis Quail Suspension341-P-1of2  
+  
+13063-Nuvonis Quail Suspension341-P-2of2  
+113077FS1  
+Feed with 2.5 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 4.5 g/L  
+Main lab, #159 (top shaking incubator)  
+213078  
+313079  
+413080FS2  
+Feed with 4 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 3 g/L  
+  
+513081  
+613082  
+713083Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine and HT)  
+813084  
+913085  
+1013086Control 2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine and without HT)  
+  
+1113087  
+1213088  
+1313089Control 3  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, L-glutamine, HT and pyruvate)  
+  
+1413090  
+1513091  
+1613100  
+FS3  
+Feed with 2.5 g/L glucose when glucose concentration hits 4.5 g/L (NO
+L-glutamine)  
+1713101  
+1813102  
+1913103FS4  
+Feed with 4 g/L glucose when glucose concentration hits 3 g/L (NO L-glutamine)  
+  
+2013104  
+2113105  
+2213106Control 4  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose,
+L-glutamine)  
+  
+2313107  
+2413108
+
+
+Process
+  
+  
+  1. Took 1 x 510 uL sample from each flask in continuous culture (EPIC31425).
+  2. Performed counts using Vicell and recorded the counts on Team media spreadsheet.
+  3. Added 29 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose, L-glutamine, ala-gln, and HT) to 9 x E125s
+  4. Added 29 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose, L-glutamine, ala-gln, and without HT) to 3 x E125s
+  5. Added 29 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose, ala-gln, HT and pyruvate) to 3 x E125s
+  6. Placed all E125s in shaking incubator to warm and equilibrate media 
+  7. While media was warming, printed labels for flasks
+  8. Received 87.193mL of cell suspension from EPIC31425 containing 96M cells, leaving behind  312.807mL containing 344,400,000 cells in continuous culture
+  9. Centrifuged at 300 xg for 10 min 
+  10. Aspirated 100% of supernatant and re-suspended in 16 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (no additives)
+  11. Retrieved flasks from incubator and brought into BSC 10 at a time
+  12. Added 1mL of cell suspension to each flask (6M cells per flask, 200K cells/mL)
+  13. Added labels to each flask
+  14. Replaced flasks in incubator (37'C, 5% CO2, 120 RPM)   
+  
+  
+
+  15. After 'Media op weekly sync' meeting, we decided to add Control 4, FS3 and FS4 to this experiment.
+  16. Made up 300 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose to 7.4 g/L and L-glutamine to 4mM).
+  17. Added 29 mL of RPMI/CHO Nuvonis suspension media + GFs (with added glucose to 7.4 g/L and L-glutamine to 4mM) to 9 x E125s.
+  18. Placed all E125s in shaking incubator to warm and equilibrate media 
+  19. While media was warming, printed labels for flasks.
+  20. Received 348mL of cell suspension from EPIC31425 containing 60M cells, leaving behind ~50mL containing 9M cells in continuous culture that were seeded at 180K cells/mL in an E250 (kept for continuous culture).
+  21. Aspirated 100% of supernatant and re-suspended in 10 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs with added glucose to 7.4 g/L and L-glutamine to 4mM).
+  22. Retrieved flasks from incubator and brought into BSC 10 at a time
+  23. Added 1mL of cell suspension to each flask (6M cells per flask, 200K cells/mL)
+  24. Added labels to each flask
+  25. Replaced flasks in incubator (37'C, 5% CO2, 120 RPM) 
+
+
+Notes
+
+
+Performed a cell count on the extra mL of cell suspension used to seed flasks
+1-15 and cell density was pretty low, 3.63M cells/mL instead of 6M cells/mL.
+Also, performed a cell count on the extra mL of cell suspension used to seed
+flasks 16-24 and cell density was 4.705M cells/mL instead of 6M cells/mL. Very
+clumpy looking cells.
+
+Take a look at lab book entry for 2 August 2022 on EPIC31425 for more
+information.
+
+
+
+
+

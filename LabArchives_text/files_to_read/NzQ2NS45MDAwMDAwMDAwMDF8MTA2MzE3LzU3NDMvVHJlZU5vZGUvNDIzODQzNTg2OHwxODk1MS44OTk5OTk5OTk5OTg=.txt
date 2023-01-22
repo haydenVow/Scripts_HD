@@ -1,0 +1,161 @@
+
+
+## Completed by: LL/ST
+
+
+Aim/Purpose
+
+
+To adapt F_CHOMP09 cells to suspension using P53i and HDACs
+
+
+Hypothesis
+
+
+We hypothesise that HDACs and/or P53i will enable F_CHOMP09 cells to adapt to
+suspension
+
+
+Technical Gap
+
+
+We have so far been unable to successfully adapt cells to suspension culture.
+We have tested HDAC1 and HDAC2 in a past experiment (see here), however those
+cultures did not produce any suspension adapted cells. We hypothesise that
+that was due to the medium not being supplemented with key growth factors,
+such as IGF-1-LR3, b-FGF, and PDGF-BB. The cultures were also grown in 6-well
+plates, and thus far we have only seen promising adaptation results in E-125
+flasks. While we have tested a P53-inhibitor in adherent cultures (see here),
+it has not yet been trialed in suspension cultures.
+
+
+Method/Procedure
+
+
+Things to note
+
+  * Cells will be harvested when the flasks reach ~100% confluence, hence being unable to assign a specific day for seeding
+  * The two base/control media for this experiment is: 
+    1. HyCell CHO + 20% KSR + *5G supplement
+    2. CD CHO + 20% KSR + *5G supplement
+      * *5G supplement = 1:100 ACA + 4 mM Glutamax + 1xP/S + 100 ng/mL IGF-1-LR3 + 100 ng/mL FGF-b
+  * The medium can be prepared ahead of time without KSR, IGF-1-LR3 or FGF-B. When preparing the medium for the experiment, leave 20% of volume free for KSR addition. No need to leave room for growth factors as they account for very little volume. 
+  * The 20% KSR and growth factors will be added on the day of feeding directly to media aliquots 
+  * The mutagenesis cells will be seeded into CD CHO medium
+
+Resources
+
+  * Medium ingredient calculators: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+  * Notion planning pages:
+    * https://www.notion.so/vow/Big-ol-suspension-adaptation-experiments-2e6e7c0b09064e90a720cc03a0ed1d35
+    * https://www.notion.so/vow/Suspendarama-84e25f83e2204492a83f1f225c03c81a
+  * Materials estimate spreadsheet: https://docs.google.com/spreadsheets/d/1IZ_v-dD1nthjQlDBfBMR_pAU4HrWgGbraCHoVDWc2lI/edit#gid=2084269312
+
+Experimental Plan  
+
+  1. D0: Thaw 110M F_CHOMP9 cells into 6 x 4CFs in DMEM/F12+20%FBS+1xP/S. 
+    * Note: only 3 of the 4CFs will be used for this experiment - the remaining 3 will seed EPIC28843
+  2. D3: Perform 50% feed with DMEM/F12 + 20% FBS + 1xP/S (repeat every 3-4 days until close to 100% confluent)
+  3. D19: Perform 50% feed with DMEM/F12 + 20% FBS + 1xP/S
+  4. D20: (1 day prior to harvesting) Prepare experimental media (need 3500 mL total for seeding and feeds - round up to 3600 mL) 
+    1. Prepare base medium without KSR or growth factors
+      * Calculations
+        1. For seeding: 20 mL x 25 flasks = 500 mL + error (240 mL Hycell CHO, 260 mL CD CHO)
+        2. For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 25 flasks x 8 = 3000 mL (1440 mL Hycell CHO, 1560 mL CD CHO)
+      * Make up 1800 mL basal media for each media type
+      *   
+  
+  
+  
+  
+    2. Prepare HDAC aliquots
+      1. Remove HDAC1 and HDAC2 vials from -80'C freezer 
+      2. Allow to thaw at RT 
+      3. Centrifuge vials and transfer to BSC 
+      4. Make up aliquots of following volumes:
+        1. HDAC1: 2.42 uL
+        2. HDAC2: 11.58 uL 
+      5. Place back in -80'C freezer  
+
+  5. D21: (when ~100% confluent) Prepare medium and seed 24 x E-125 flasks with F_CHOMP09 cells and 1 x E-125 flask with mutagenesis cells.
+    * Prepare media. Note: see schematic diagrams at bottom of step 5 for visual aid in media prep and seeding setup
+
+      * Aliquot: 195 mL of HyCell CHO and 211 mL CD CHO 
+      * Add KSR and growth factors to 2 x aliquots as described in tables below (this will result in 1 x 245 mL aliquot and 1 x 265 mL aliquot)   
+
+GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)245  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Basal medium (HyCell CHO)NANANA195.26  
+KSRNANANA49  
+FGF0.00010.050.0190.37  
+IGF10.00010.050.0190.37  
+  
+  
+  
+Total medium vol (mL)245.00  
+      * GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)265  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Basal medium (CD CHO)NANANA211.04  
+KSRNANANA53  
+FGF0.00010.050.0240.48  
+IGF10.00010.050.0240.48  
+  
+  
+  
+Total medium vol (mL)265.00  
+      * Split the HyCell CHO aliquot into 4 x 60 mL aliquots, and the CD CHO aliquot into 3 x 60 mL and 1 x 80 mL aliquots
+      * Add HDAC1, HDAC2 and P53i to 6 x 60 mL (3 per media type) aliquots as described in table below  
+
+    * Add growth media in triplicates to E-125s and seed each flask with ~10M cells, or the total cell count divided by 24 (see diagram below)
+      * Note: UV-irradiated cells will be seeded into the 25th E-125, using entire cell suspension from mutagenesis cultures for 1 x E-125
+    * Take 1 x 100 uL sample from each E-125 and move into separate wells of 1 x 96WP. Stain with Hoechst and Sytox and capture image using Zaber microscope to procure cell counts .  
+    * Place E-125s on shaker platforms in incubator (30'C, 5%CO2) and set to shake at 120 rpm  
+
+  
+CD CHO  
+HyCell CHO  
+  
+
+  6. D24: Perform 75% feed on E-flasks every Monday and Thursday for minimum 30 days (use linked spreadsheet to calculate volumes to add for 75% feeds)
+
+    1. At every feed, stain, dilute and image samples from all E-flasks and zaber image for FIJI cell count analysis 
+
+    2. At every feed, rinse E-flasks with sterile dPBS while cultures are centrifuging
+
+    3. On Day 28 feed, perform haemocytometer counts alongside staining and imaging
+
+  7. Collate and graph all cell counts and perform statistical analysis    
+  
+
+  8. [Peer Review]
+  9. [Make amendments and Sign off] 
+  10. [Report writing (Draft)]
+  11. [Review & fill out Report (Full)]
+  12. [Ensure all lab books are complete & assign for review]
+  13. [Review Lab Books, results, report]
+  14. [Make necessary amendments and confirm with reviewer that experiment is complete
+  15. [Release note on Project Updates]  
+
+

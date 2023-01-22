@@ -1,0 +1,100 @@
+Performed by: LL, AS, EC
+Ranger log
+
+
+Reagent
+
+ID
+
+Volume (mL)  
+  
+50/50 RPMI/CHO + NuvonisM129013 x 363  
+IGF-1L3M124750.372  
+EGFM123210.074
+
+
+Harvested vessel ID  
+Condition  
+Location  
+  
+  
+12646-Nuvonis Quail Suspension341-P-1of2
+
+12647-Nuvonis Quail Suspension341-P-2of2  
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF + 2g/L glucose + 0.435 g/L L-glutamine  
+Shaking incubator 159  
+  
+  
+  
+  
+
+Seeded vessel IDpHSeeding density (cells/mL)Location  
+12686-126897.21100kShaking incubator 159  
+12690-12693  
+200k  
+12694-12697  
+400k  
+12698-127017.52100k  
+12702-12705200k  
+12706-12709400k  
+12710-127137.81100k  
+12714-12717200k  
+12718-12721400k
+
+
+Process
+  
+  
+  1. Took 1 x 560 uL aliquot from each E500 and performed counts on ViCell.
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Added 3.63mL of 200mg/mL glucose stock solution and 7.2037mL of L-glutamine 21.92 mg/mL stock solution to make up the concentration of these analytes in the final media 6g/L and 4mM, respectively.
+  4. Confirmed pH hadn't changed by taking a 2 mL aliquot per media condition and measuring the pH value using the Hanna pHmeter (Hi5522).
+  5. Added 372uL IGF-1L3 and 74uL of EGF per media bottle.
+  6. Aliquoted 2mL of media into a 15mL tube for pH reading (see table below).
+  7. Once pH has been measured, take 250 uL from the 2 mL sample of media taken for pH reading and dilute by adding 250uL MiliQ water. Then, freeze down aliquots in the -20'C.
+  8. Combined 50/50 RPMI/CHO cultures into 1 x 500mL pot, containing a total of 358,800,000 cells in 400mL. 
+  9. Took 3 x 93.645mL each of cell suspension containing 84M cells and dispensed into 3 x 250mL tubes, where each tube will be used to seed the flasks containing media with a starting pH of either 7.21, 7.52 or 7.81.
+  10. Centrifuged 3 x 250mL at 500xg for 5 minutes.  
+  
+The following steps should be performed for each media condition- pH 7.21, pH
+7.52 & pH 7.81:  
+  
+
+  11. While 3 x 250mL tubes are centrifuging, added the following volumes of media alone into the indicated number of E-125:
+    1. 29 mL of media alone into 4 x E125 (these will be seeded at 100k cells/mL)
+    2. 28 mL of media alone into 4 x E125 (these will be seeded at 200k cells/mL)
+    3. 26 mL of media alone into 4 x E125 (these will be seeded at 400k cells/mL)
+  12. Following centrifugation, wiped down each tube with a 70% ethanol-soaked RediWipe before moving to BSC 
+  13. Aspirated the supernatant and resuspended cell pellet in each tube into 28 mL of media, so that the cell suspension in each tube corresponds to a different media condition- pH 7.21, pH 7.52 & pH 7.81.
+  14. Dispensed:
+    1. 1 mL of cell suspension into 4 x E125 (these will be seeded at 100k cells/mL)
+    2. 2 mL of cell suspension into 4 x E125 (these will be seeded at 200k cells/mL)
+    3. 4 mL of cell suspension into 4 x E125 (these will be seeded at 400k cells/mL)  
+
+  15. Returned flasks to incubate at 120 RPM, 5% CO2, 37'C.  
+  
+
+Starting pH of media  
+  
+7.21  
+7.52  
+7.81  
+
+  
+
+
+Observations/notes
+
+
+\- Didn't confirm total cell count after combining 2 x E500.
+
+\- Didn't confirm total cell count after aliquoting 84M cells into each 250mL
+tube. After spinning down and resuspending into 28mL of medium, didn't check
+whether cell density was 3M cells/mL.
+
+This may explain some of the variation in cell count.
+
+

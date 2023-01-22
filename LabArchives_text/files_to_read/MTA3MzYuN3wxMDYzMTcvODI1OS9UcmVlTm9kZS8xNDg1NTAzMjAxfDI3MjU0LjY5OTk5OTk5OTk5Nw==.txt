@@ -1,0 +1,37 @@
+
+
+## Completed by: LL
+
+
+
+
+Cost per L of RPMI/CHO-in-1 media (before negotiations/scale cost reduction)
+
+  * 0/100: US$16.50
+  * 50/50: 8.25 + 1.36 = US$9.61
+  * 75/25: 4.125 + 2.04 = US$6.165
+  * 90/10: 1.65 + 2.448 = US$4.098
+
+
+
+
+We have tested the maximum density we can achieve with Nuvonis cells in both
+100% Freestyle and 100% HyCell Nuvonis suspension media. It was found that
+"cells grown in Hycell CHO exhibited...a max concentration of 11.5M cells/mL.
+The freestyle treatment displayed...a max concentration of 8.07M cells/mL."
+(see EPIC report here).
+
+Given cost and supply constraints, we have had to move out of Freestyle and
+HyCell media for manufacturing and scale-up. The substitute high-density
+medium we have chosen to replace these (until we can create our own) is CHO-
+in-1 from HiMedia (see HD-media screening EPIC). This will then be diluted
+with RPMI to further reduce costs (see cost breakdown in entry above).
+
+The maximum cell density (cells/mL) that CHO-in-1 medium can support has thus
+far not been tested. Given our goal is to maximise output (cell yield) per
+cost of inputs (primarily growth media), we want to determine the maximum
+density that different RPMI/CHO-in-1 ratios can achieve. This will inform the
+optimal media formulation for maximising cells per $ which we will take
+forward to manufacturing.
+
+

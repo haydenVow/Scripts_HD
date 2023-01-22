@@ -1,0 +1,174 @@
+Aim/Purpose
+
+
+Trial 2-pillar scaffold designs for initial tissue engineering experiment
+using C2C12 myoblasts - details outlined here:
+https://www.notion.so/vow/Buffalo-Wings-Tissue-Engineering-
+plan-e0e4d39308564b6383514d5fc3691b07
+
+This first trial will use 2 different matrix compositions (Collagen I vs.
+Fibrinogen/Thrombin), 2 different scaffold sizes (Small vs. Large) and, for
+small scaffolds, 2 different pillar formats. Each condition will have 3
+replicates and each scaffold contains 12 wells total.
+
+This will be a repeat of 10-FEB-22, which was unsuccessful - The primary
+differences here are as follows:
+
+  * Scaffolds are made exclusively from Nylon (Hayden Davis)
+  * Scaffolds now have rounded edges - not rectangular
+  * 2 different scaffolds will be used at the small scale - regular pillars (circular) and different pillar types (oval, square, rectangle)
+  * Scaffolds are fully mounted in a thin layer of PDMS - See 01-MAR-2022
+
+
+
+
+Perform passage using below volumes:
+
+  
+
+
+Methods and Experiment Layout
+
+
+
+
+
+Performed By: Alex
+
+
+
+
+Before Starting
+
+  * Calculate required cell densities and volumes of matrix ingredients for large or small scaffolds here: https://docs.google.com/spreadsheets/d/1m_sWubKFB2EWQrjBoTzb8xiSJnHh7G-AWl7iilwNxAg/edit#gid=0
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Thrombin to 200U/mL - stock is at 8U/uL - dilution factor 1:60 in dPBS
+      * need ~550 uL total (prep 750 uL) for 4x small and 1 x large scaffold
+    * Fibrinogen already at 20mg/mL
+      * need about 1 mL total
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+
+
+
+
+Scaffold sterilisation and coating
+
+  1. Ethanol sterilise (completely submerge in 70% Ethanol) for 30 minutes, then leave to air dry in BSC with lids off
+    1. small dishes start ethanol =   12 : 05  am  start dry =   12 : 35  am 
+    2. large dishes start ethanol =   12 : 05  am  start dry =   12 : 35  am 
+  2. UV irradiate for 30 minutes under the mobile UV lamp - start    13 : 20  am 
+  3. Pre-coat with 0.2% Pluronic solution for 1 hour (to prevent adhesion), start    13 : 20  pm 
+
+
+
+
+Cell Harvest for scaffold seeding
+
+Note: If using small vessels for culture (e.g. T175), cell counts should be
+done before centrifugation step. Steps should be taken to reduce the volume of
+TryplE and Neutralising buffer (PBS or DMEM+FBS) to as low as possible. This
+prevents the need to centrifuge twice and over-stress cells prior to seeding
+into scaffold.
+
+Suggestion: If not possible to avoid two centrifugations, consider using ROCKi
+(Y-27632 Dihydrochloride) in tissue matrix to reduce stress to cells when
+seeded
+
+  1. Wash cells with    200mL   PBS, start   14 : 30  pm 
+  2. Dissociate cells (in a 10CF) with TryplE for 15-20 minutes - try to use as low volume as possible (for 4CF normally = 200mL, try 100mL), start    13 : 05  pm 
+  3. Neutralise using    200mL PBS  
+  4. If possible, count cells at this point and use the total volume of TryplE + Neutralising buffer as dilution factor, then jump to step 8 in 15/50mL falcons. If not (i.e using 10CF), proceed to step 5
+  5. Centrifuge at 650g for 5 minutes: start    14 : 45  pm 
+  6. Gently flick cells to dislodge pellet and resuspend in   6mL  Growth Media
+    1. N.B. Try for low volume for resuspension, so that yield is well in excess of cell density needed (Aim here for ~1.5M cells per 100uL to be safe)
+  7. Count cells with haemocytometer for total yields:
+    1. Total yield =    112million   
+
+    2. Total volume =     6mL  
+    3. Cell concentration. =    18M cells/mL  
+  8. Separate required cell number into     6x  15mL falcons up to desired volume with Growth Media:
+    * Small Scaffold, Matrix #1:   250.2uL    
+
+    * Large Scaffold, Matrix #1:   750.6uL  
+    * Small Scaffold, Matrix #2:   349uL  
+    * Large Scaffold, Matrix #2:   1047uL  
+  9. Quantity of cell and media for each falcon tube (#1-6):
+    1. Matrix comp 1, 1x10^7cells/mL - small scaffold (   167.5uL Cell matrix + 82.5uL Media )
+    2. Matrix comp 1, 1.5x10^7cells/mL - small scaffold (    250.2uL Cell matrix   )
+    3. Matrix comp 2, 1x10^7cells/mL - small scaffold (   234.5uL Cell matrix + 115.5uL Media )
+    4. Matrix comp 2, 1.5x10^7cells/mL - small scaffold (   349uL Cell matrix   )
+    5. Matrix comp 1, 1x10^7cells/mL - large scaffold (  500uL Cell matrix + 250uL Media )
+    6. Matrix comp 2, 1x10^7cells/mL - large scaffold (   702uL Cell matrix + 345uL Media  )
+
+
+
+
+Seeding cells for Matrix Composition 1
+
+N.B. Perform these steps on ice in the BSC
+
+  3. Add CollagenI (Devro: final concentration 2.6mg/ml) and mix well with pipette tip (not resuspending):
+    1. Small:    258uL   
+    2. Large:    774uL   
+  4. Add 10xDMEM/F12 (* 10x L-15 used in this experiment) and mix with pipette tip:
+    1. Small:    30.9uL   
+    2. Large:   115.2uL   
+  5. Add 0.1M Sodium Hydroxide and mix with pipette tip:
+    1. Small:    38.4uL   
+    2. Large:    136.8uL   
+  6. Add Matrigel/ECM gel and mix:
+    1. Small:    57uL   
+    2. Large:    171uL   
+  7. Remove pluronic from wells
+  8. Seed    150uL    gel/matrix gently into small scaffold and    450uL   into large scaffold, ensuring good distribution around pillars in the well 
+    1. NOTE FOR 1ST TRIAL: Due to low cell number, number of replicates, 200 uL too much, leading to overflowed in the PLA. For this reason only resin scaffold will be used as the small condition. Placed 175 uL/well on the plate was more cleanly seeded. Neither mixture was viscous. Spillage may have been due to poor seal to bottom of plate
+  9. Leave for    180    minutes to gel at 37°C (once Matrix comp 2 is done) - start time    17:55 pm  
+  10. Add Growth Medium, approx. 200uL/well for small and 500 uL for large scaffolds 
+    1. NOTE FOR 1ST TRIAL: add media to top of well, to top of scaffold. before adding media test viscosity with 200 uL pipette tip.
+  11. Culture for 3-4 days in Growth Medium before moving into differentiation medium Returned to incubator at    20:55 pm  
+
+
+
+
+Seeding cells for Matrix Composition 2
+
+N.B. Perform these steps on ice in the BSC
+
+  3. Prepare a second tube (Tube 2 \- 1.5mL Eppendorf), ensure this is all done as quick as possible from here!
+  4. In Tube 2, add Fibrinogen (20mg/mL):
+    1. Small:    111uL   
+    2. Large:    333uL   
+  5. Add Matrigel/ECM gel to Tube 2:
+    1. Small:    126.9uL   
+    2. Large:    380.7uL   
+  6. Add Thrombin (200U/mL) to Tube 1: (accidentally added all together into 1 tube, added cells to on top of fibrinogen + ECM + thrombin)
+    1. Small:    47.6uL   
+    2. Large:    142.8uL   
+  7. Gently pipette 75uL Tube 1 (Thrombin + Cells) into small scaffold and 225uL into large scaffold
+  8. Distribute 75uL of Tube 2 (Fibrinogen + Cells) into Thrombin in small scaffold and 225uL into large scaffold quickly and evenly
+  9. Allow to gel for    180    minutes at 37C - start time     18:05 pm   
+  10. Add Growth Medium, approx. 200uL/well for small and 500uL for large scaffolds, and culture for 3-4 days, before changing to differentiation medium (Returned to incubator:    20:55 pm  )
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * Matrix composition 1
+    * When pelleting cells, make sure they are completely dry
+    * Flick pellet to dislodge before adding medium
+    * Add Medium first to pellet to prevent clumping and cell death
+    * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+    * As soon as you add the NaOH, be quick as the Col starts to gel
+    * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+    * Add cells slowly!
+  * Matrix composition 2
+    * Move quickly with the thrombin, as there may be some enzymatic activity in the Matrigel that clots it
+    * Add fibrinogen to thrombin, not other way around!
+
+

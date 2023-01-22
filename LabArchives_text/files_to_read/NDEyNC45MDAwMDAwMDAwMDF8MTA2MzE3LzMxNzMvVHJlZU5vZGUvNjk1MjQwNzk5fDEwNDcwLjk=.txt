@@ -1,0 +1,143 @@
+
+
+
+
+
+## Performed by: kk  
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+Well Locations  
+24 wp7509-DOLLY12-Sheep P12-1of1 (Fibrogenin)  
+Cell with no inserts1  
+24 wp7510-DOLLY12-Sheep P12-1of1 (Collagen)  
+Cell with no inserts  
+1  
+  
+  
+
+
+
+
+Collagen plate - 7510
+
+ Fibrin - 7509
+
+
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+F12s2957  
+  
+DMEMs3183  
+  
+dPBS (for washing)a5729  
+  
+CMFDAs915  
+  
+DMSOa3931  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+Live staining with CMFDA: SEE GUIDE ON CMFDA STAINING HERE  
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM CFDA stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+
+
+
+Note: the method below is for staining 2 wells. 1 well will contain a slice of
+cell-laden fibrin gel and the other 1 well a slice of cell-laden collagen gel.
+
+  
+
+3\. Aliquot     3    mL PBS or DMEM/F12 for washing the samples and place in
+waterbath    11:07   . (This is only necessary for samples containing serum as
+serum interferes with the CMFDA stain)
+
+5\. Transfer     6    uL of the 1mM CMFDA stock solution to     3    mL of
+prepared DMEM/F12 PRF growth media in a light safe falcon tube to protect it
+from light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution. (2uL of 1mM CMFDA stock solution:
+1mL of D/F media.)
+
+  1.  Place in the water bath to be pre-warmed    11:10    
+
+ 5\. Sacrifice a concial insert for the collagen gel and a segment of no
+insert sample for fibrin gel.
+
+6\. Add    1.5     mL of pre-warmed DMEM/F12 PRF growth media or PBS to the
+wells from each plate as a rinse step to remove any residual serum.
+
+7\. Aspirate the rinsing media
+
+8\. Add     1    mL of pre-warmed CMFDA working solution to the samples and
+incubate for 30 minutes at 37'C covered in foil to protect samples from light.
+
+  1. Start/Finish time was:  11:35 - 12:05   
+
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Remove 500 uL of staining solution from each well (too much liquid will
+make it difficult to image)
+
+10\. Image all wells  on the Zaber fluorescence microscope or AXIO (channel
+AF488 for CMFDA [Live cells]). Remember to image both sides.
+
+
+
+
+Observations/Summary:
+
+Both samples showed a promising amount of live cells.
+
+The cells stain for fibrin samples appeared to be stretched out.
+(differentiated cells?)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Refer to mia: Aug 2 images
+
+Fibrin:
+
+https://mia-capture.vow.tools/#/session/recbaVQpPR9R8u7To/images
+
+  
+
+Collagen:
+
+https://mia-capture.vow.tools/#/session/recilJIgtkSgxsuWq/images
+
+

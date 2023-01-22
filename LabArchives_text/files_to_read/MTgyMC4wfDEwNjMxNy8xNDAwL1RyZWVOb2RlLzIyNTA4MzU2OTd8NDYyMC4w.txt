@@ -1,0 +1,332 @@
+
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Harvested Vessel Type
+
+Seeded Vessel ID(s)
+
+Seeded Vessel Type  
+  
+#6828
+
+E125
+
+6884-BUFFY6-Water Buffalo P11-1of1
+
+E250  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 16:20 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x20uL samples of the suspension were taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate wells on a 96 well plate and mixed it with 80uL of dPBS and 20uL/mL of Hoechst 33342. 
+  4. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `| 16:33 - 16:58 am/pm |`
+  5. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  6. Using https://mia-capture.vow.tools/#/, 1 sets of same frame images using the DAPI and PHASE channels were captured for each well `| 17:00 am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.024ms]. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  7. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. (A1-A3, A1 = well 1, A3 = well 3) 
+  8. Images captured were then selected for analysis using the 'uCarrier cell count' tool from MIA capture. 
+
+*** Strangely, the MIA count reveals a total of ~ 3M cells in culture before
+the passage, when in reality a total of 5.6M were harvested.
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent (with Poloxamer 188 [1%] -
+except Growth Media for resuspension) and then placed all aliquots to warm in
+the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:    30     mL in     1 x 50mL Falcon    tubes
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:     30    mL in     1 x 50mL Falcon    tubes
+  3. Growth media (for neutralizing) 100 mL per g Cytodex 1:     30mL    mL in     1 x 50mL Falcon    tubes
+  4. dPBS (for washing microcarriers after Trypsinization), 100 mL per g Cytodex 1:     30mL    mL in     1 x 50mL Falcon   tubes
+  5. Growth media (for pellet resuspension):     5    mL in    1 x 15mL Tube     
+
+Time that all aliquots were placed in the water bath the warm before use
+16:13   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+## Remove the flask from incubator
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker
+  3. Restart the shaker
+  4. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer half of the fresh, pre-warmed dPBS fro prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the fresh, pre-warmed Trypsin/EDTA solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker
+  3. Restart the shaker at the `speed required for detachment` \- 195 RPM
+  4. After `7-15 `minutes, stop the shaker
+  5. Remove the flask from the shaker
+  6. Restart the shaker
+  7. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E125
+
+123  
+E250112  
+E500104  
+E100090  
+E200081  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+## Neutralize the detachment reagent:
+
+  1. Add fresh, pre-warmed growth medium to the flask
+  2. Mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## First wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+## Second wash to recover additional cells:
+
+  1. Transfer half of the fresh, pre-warmed dPBS solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension
+  2. Pipet-mix the suspension vigorously
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. Remove the cap and transfer the supernatant to centrifuge tubes using aserological pipet - keep the tip only 5-10 mm below the surface during this procedure
+
+  
+
+
+
+
+# Used Taipan to aspirate supernatant from Trypsin+GM suspension and
+subsequent PBS washes.
+
+  
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Centrifuge the tubes at 650 - 700 RCF for 5 minutes
+  2. Aspirate supernatants
+  3. Resuspend pellets in 1 mL of fresh, pre-warmed growth medium
+  4. Combine the cell suspensions into 1x 50 mL centrifuge tube
+  5. Wash out each tube with the remainder of the fresh, pre-warmed growth medium and combine with the cell suspension
+
+  
+
+
+
+
+## Performed cell count:
+
+  1. Aliquoted     20uL     of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in Seed Calculator Widget  
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:      5.6M      
+
+  2. Volume of cell suspension required for subculture was:       2.5mL     
+
+  3. Cell density per vessel:     3.5M      
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionN/A  
+  
+TrypsinA4824  
+  
+dPBS (for washing & neutralising)A4915  
+  
+Growth MediaA5036  
+  
+Poloxamer 188  
+4915  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Remaining cells were discarded so as to not overseed the E250 vessel prior to
+SCC. It appears from DAPI images that carriers were fairly overconfluent which
+could affect the viability of the clones generated from the SCC run on the
+31st.
+
+
+
+
+SOPs used:
+
+### N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+#6828: https://mia-capture.vow.tools/#/session/rec5bc7wChTLUTwrd/images
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

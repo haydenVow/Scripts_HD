@@ -1,0 +1,96 @@
+
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Culture IDs:
+
+6718-DOLLY12_11E7-Sheep P11-1of1 (E500)
+
+6719-DOLLY12_11E7-Sheep P11-1of1 (E250)  
+
+Process:
+
+  1. Removed cultures from incubator 11:11 
+  2. Sampled 20uL of culture microcarrier suspension into a blank well in a non tissue culture treated 96 well plate. Ensured that sample was taken after swirling on the flat surface of the BSC, while liquid was still in motion.
+  3. Transferred cultures back into incubator #68 shaking at 110 RPM. 11:19
+  4. Added 80uL of dPBS to the well to make up a total volume of 100uL in the well.
+  5. Added 2uL of Hoescht stain to well and mixed gently with a P200 pipette, mixing the microcarriers to create an even and spread monolayer but ensuring no bubbles were formed in the process.
+  6. Incubated plate in the dark at RT for 15 mins. 11:30 - 12:00
+  7. Imaged Phase and DAPI channels at 5x on the Axio microscope in main lab.
+
+Imaged:
+
+6718: https://mia-capture.vow.tools/#/session/rechTVN271m1jGnO0/images
+
+6719: https://mia-capture.vow.tools/#/session/recb8VYrCjnLjYNZa/images
+
+
+
+
+Media/Reagents used (N/A):
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Tryple  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Images seem to be really bright, not clear on how to fix on Axio microscope -
+to follow up with Nathan and Tom.
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because images were too bright
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

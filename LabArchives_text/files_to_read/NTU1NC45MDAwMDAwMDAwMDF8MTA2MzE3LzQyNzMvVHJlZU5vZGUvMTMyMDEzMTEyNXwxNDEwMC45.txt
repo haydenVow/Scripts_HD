@@ -1,0 +1,148 @@
+Introduction
+
+
+Skeletal muscle makes up a large component of what makes 'meat' meat. At Vow,
+one of the fundamental challenges we need to address is how we can effectively
+grow this tissue at large enough quantities to feed billions of people. The
+process of growing up skeletal muscle tissue requires an understanding of the
+biology of a cell type known as a myoblast. In the body, muscle injury can
+lead to the activation of quiescent satellite cells which triggers the
+proliferation of myoblasts. After undergoing several cycles of cell division,
+myoblasts terminally differentiate to form myocytes. The eventual alignment
+and fusion of myocytes results in the formation of myotubes, which are
+essentially the basic contractile unit of muscle. Vow's mission is to collect
+and build a vast library of 'meat' cells from different kinds of animals
+(primary cell lines) to make food out of. To enhance the maturation of primary
+myoblasts we have been exploring the effectiveness of a few different
+stimulation modes, one of which is electrical stimulation.
+
+Although preliminary estim studies with sheep myoblasts appeared to promote
+the formation of mature muscle, subsequent studies were unable to replicate
+these findings due to unexpected cell death experienced while culturing
+primary cells - an issue which is being troubleshooted separately.
+Additionally, since the process of growing up primary cell lines is a time
+consuming process (mainly because the cells take longer to proliferate and
+mature), the team opted to continue the estim experiments using C2C12 cells,
+which are an immortalised mouse myoblast cell line that proliferates and
+matures rapidly. However, during the process of differentiating these cells,
+severe delamination from the TC-treated polystyrene wells was observed, with
+mature C2C12s forming sheets / clumps / balls that had the chance of being
+aspirated during the washing steps involved in primary and secondary staining.
+This is an issue that has been cited in literature, with a few papers
+suggesting pre-coating the cultureware with biomaterials like ECM proteins
+[1]. Other suggested coatings that promote adhesion of myoblasts and other
+cells types are Laminin, collagen and gelatin [2].
+
+The aim of this study is to identify a cultureware coating that enables us to
+prevent mature muscle delamination and perform downstream analysis of our
+stimulated maturation cultures.
+
+  
+
+References:
+
+1\. https://www.nature.com/articles/srep28855.pdf
+
+2\. https://www.mdpi.com/2227-9059/9/1/16/htm
+
+
+Summary
+
+
+We coated 7 different materials into the cultureware typically used in our
+e-stim experiments (12 well plates) in an attempt to improve adhesion of the
+mature cell/muscle constructs during the downstream analysis workflow.The
+coatings chosen were extracellular matrix components known to promote cell
+adhesion, all coatings were evaluated in triplicate.
+
+  1. Fibrin
+  2. Collagen
+  3. laminin
+  4. Gelatin
+  5. ECM
+  6. MyoCult adhesion supplement
+  7. Alginate hydrogel
+
+Materials were applied to the cultureware surfaces as detailed in experimental
+plans/lab book entries and freshly harvested C2C12 myoblasts were seeded into
+each well at 60-80k cells/well. After one day of proliferation, when ~90%
+confluence was achieved, the growth media was replaced with differentiation
+media (E6). Over the course of 6 days, Diff media was changed daily (100%) and
+wells were imaged at least every 2 days to track the progress of maturation as
+well as monitoring for delamination.
+
+After the full course of maturation all samples were fixed and those that
+exhibited promising uniformity of cell coverage, state of maturation and no
+obvious delamination were taken forward into immunostaining (myoG and MF20).
+Plates were then imaged using the Zaber fluorescent microscope and analyzed
+manually.
+
+  
+
+
+Key Findings
+
+
+  * Gelatin, Laminin and MyoCult coatings resulted in the most uniform cell coverage (Figure 1) and myoblast maturation (myotube formation). However, when moving on to fixing and staining, the repeated washes and pipette operations led to partial delamination in some wells in the form of a coherent muscle-ECM sheet
+  * others coatings  (fibrin, ECM, topical Alginate) were hard to process or resulted in non-uniform cell coverage. Alginate coatings delaminated after a few days in culture, detaching the cells from the cultureware surface as a results. This has previously been observed for Alginate coated onto cell-seeded Zein scaffolds and is not surprising.
+
+  
+
+  
+  
+  
+Figure 1: Phase image (4x) demonstrating the uniformity of C2C12s adhering to
+laminin-coated surfacesFigure 2: Phase image (4x) demonstrating the patchiness
+of C2C12s adhering to collagen-coated surfaces  
+  
+  
+  
+Figure 3: Composite image (4x) of MF20 (red), MyoG(green) and DAPI (blue)
+stained mature mouse *(C2C12) muscle on Laminin. Some delamination due to
+handling during immunostaining is notioceable  
+  
+Figure 4: Composite image (4x) of MF20 (red), MyoG(green) and DAPI (blue)
+stained mature mouse *(C2C12) muscle on Gelatin.  
+  
+  
+  
+  
+
+
+Discussion and Limitations
+
+
+  * For most wells, the formation of dead cell aggregates (cell "blobs") was observed. This may be due to C2C12s being seeded at excessively high density or growing too confluent before starting the differentiation course. When maturing, the growing myotubes then start pushing off excess cells, which have no choice but to die and aggregate into "blobs". Hypothesis: if the cells are less confluent they have more space to expand as myotubes and don't have to push off other cells
+  * Likewise the fact that the switch to Diff media was made after only 1 day in growth media (as frequently done in our experiments) may cause the cells to not have sufficient time to "get comfortable", securely attach and lay down ECM for sustainable adhesion. 
+  * Despite excellent uniformity of cell coverage and no visible delamination during the maturation process, some of our best candidate coatings, in particular Gelatin (Figure 3), still exhibited some delamination during the fixing/washing steps required for downstream analysis. Any experiments performed using Gelatin will still have to be handled with care during immunostaining.
+  * Some of the coatings used are either costly or cumbersome to apply (at scale) or both. Furthermore from an ethical perspective, most of the ECM coating used are animal-based and will most likely be incorporated at scale at Vow.
+  * Some coatings such as ECM or collagen resulted in non-uniform cell distribution and "patchy"maturation (see Figure 2 above) and are deemed less suitable for e-stim studies going forward.
+  * 
+  
+  
+Figure 5: Cell "blobs" generated due to displacement of excess myoblasts due
+to expanding C2C12 myotubes  
+  
+Limitations:
+
+  * non-coated wells were not investigated as a negative control to replicate the results obtained in the previous quarter
+
+
+Conclusion
+
+
+Gelatin, Laminin and Myocult were found to be suitable ECM coatings allowing
+for downstream analysis of mature muscle constructs in 12wp.
+
+
+Future Directions
+
+
+  
+
+  1. Future experiments should aim to seed cells lower and proliferate to only ~70% confluence before switching to E6 media. The proliferation stage could be extended to 2 days to allow for ECM generation and improve the likelihood of success
+  2. Choose our best coatings (Laminin and Gelatin) and apply electrical stimulation.
+
+  
+
+

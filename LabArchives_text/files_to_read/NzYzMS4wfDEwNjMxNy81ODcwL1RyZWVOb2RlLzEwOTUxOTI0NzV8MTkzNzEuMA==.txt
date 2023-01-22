@@ -1,0 +1,44 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+
+
+Summary
+
+Immediately post revival, cell numbers between Cryostor and FBS +DMSO
+preserved cells were relatively similar at 412K and 424K cells respectively
+while the count for those preserved in DMSO-free Cryostor was lower at 340K.  
+  
+At the first passage, 6 days after thaw, the cell doubling time was shorted
+for those preserved in DMSO-free Cryostor, followed by standard Cryostor and
+then FBS+ DMOS freeze media. While the doubling time of cells in DMSO-free
+media was almost half that of cells in FBS+ DMSO, statistical significance can
+not be inferred due to their being only N=1 of each type.  
+
+
+
+
+Data
+
+Post Thaw  
+DAY06  
+CHOMP9 Pre-MCB freeze media countcount  
+Cryostor (standard)412,0001,816,000  
+DMSO free Cryostor340,0002,816,000  
+FBS +10% DMSO 424,0001,260,000  
+  
+  
+
+Post Thaw  
+  
+CHOMP9 Pre-MCB freeze media
+
+p3-4  
+Doubling rateDoubling time (Days)  
+Cryostor (standard)0.252.80  
+DMSO free Cryostor0.351.97  
+FBS +10% DMSO 0.183.82
+
+

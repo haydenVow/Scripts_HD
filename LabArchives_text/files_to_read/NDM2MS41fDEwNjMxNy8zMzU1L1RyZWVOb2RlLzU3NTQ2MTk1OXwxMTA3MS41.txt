@@ -1,0 +1,45 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:  https://hooks-
+cal.clubhouse.io/hooks/v1/5f42e8b1-d297-47c5-97d1-5692a3220b09/60e7f41e-4eb5-4102-96b9-78d2065a4c56/calendars/epics/23333
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recsvMMxxRZmYEE79?blocks=hide
+
+RELATED TO MILESTONE: Generating at least 1 suspension-adapted fibroblast cell
+line which is >95% viable and proliferates for >14 days.  
+
+AIM/PURPOSE: To adapt DOLLY fibroblasts to suspension culture
+
+HYPOTHESIS: That DOLLY fibroblasts will adapt more easily to suspension
+culture if they are first adapted to grow in Knockout Serum Replacement medium
+in adherent culture
+
+RESULTS SUMMARY:
+
+DOLLY fibroblasts in DMEM/F12 + 10-20% KSR appeared to proliferate faster than
+those in DMEM/F12 + 10% FBS medium, based on micrographs. However, the
+formation of cell sheets during growth made a single cell suspension
+impossible to achieve, and therefore no cell count could be obtained. This
+sheet formation is likely a result of the vitamin C content of KSR.
+Fibroblasts in medium containing DMEM/F12 + 10-20% KSR did not re-adhere after
+passaging, and subsequently died. Fibroblasts in DMEM/F12 + 5% KSR + 5% FBS
+medium had a greater proliferative ability than those in DMEM/F12 + 10% FBS
+medium. However, proliferation declined rapidly after FBS concentration fell
+below 5%, and ceased entirely at 1%. Fibroblasts were unable to be
+successfully adapted to serum-free medium using KSR.
+
+CONCLUSIONS: Our hypothesis was not supported; DOLLY fibroblasts in adherent
+culture were unable to be successfully adapted to serum-free medium using
+Knockout Serum Replacement and therefore could not be seeded into and adapted
+to suspension culture.
+
+NEXT STEPS:  
+Since the conclusion of this experiment, we have seen success in our
+suspension cultures with KSR medium (suspension trial #7). It therefore seems
+that KSR is more suitable for use in suspension culture where passaging with a
+dissociation is not required. For our next F_DOLLY12 suspension experiment, we
+will grow adherent cells in FBS-containing medium, and change to KSR medium
+only when seeded into suspension to avoid the formation of sheets.
+
+

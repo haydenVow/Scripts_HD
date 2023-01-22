@@ -1,0 +1,62 @@
+
+
+Observations from production:
+
+  
+
+Harvest:
+
+  *  For larger vessel like the cell factories and cell stacks, a longer gelatine incubation is required. Up to 2.5hrs is ideal as it takes a longer time for it to warm up and coat the flask. 
+  * Make sure the the flask are evenly placed in the BSC or incubator. If it is on a slight slant, it can causes issues around seeding, gelatin coating, cell distribution, effectiveness of tryple etc. 
+  * Tryple must be completely warm before use (eg over 30 minutes of warming). When tryple is added in the 4CF it will not warm up further in the incubator, rather the incubator will maintain the tryple at the same temperature it was added in.  (4CF, unlike T175, has more air trapped inside the flask which prevent it from reaching the incubator temperature during the short period of tryple incubation). 
+  * Make sure PBS is completely warm - similar to above, the wash needs to be warm to prevent the 4CF flask from cooling down 
+  * When harvesting many 4CF (eg above 5) it may be worth staggering the event to prevent flask from drying out (when media is removed), and flask being exposed to tryple for too long. 
+  * To minimise handling time, for 1x4CF, tryple is harvested into 4x50 mL tubes (even though they have not been neutralised with PBS, tryple is not overly harsh on the cells, having said that, these tubes must be prioritised and after centrifuging should have the supernatant removed first). 
+  * The 4CF wash requires 200 mL of PBS. This is performed as 2 washes of 100 mL each. This is to remove the maximum amount of cells. These are added into 4 x 50mL centrifuge tubes. 
+  * According to previous harvest, PBS wash saves about 5% of cells  
+  * When removing centrifuge tubes from the centrifuge, be extra careful not to disturb the pelet. When placing into the tube rack, have the tubes on a very slight tilt (eg 8 degree tilt) to prevent the tubes from jostling as you walk to the BSC. 
+  * When aspirating the supernatant using a hand held aspirator, be very careful not to disturb the pellet. Aspirate from the top and center of the supernatant to prevent the tube from shaking from the force of the vacuum. 
+  * When collecting cell suspension for cell count, make sure you use a serological to 1) re-suspend the cells and 2) to measure the total volume of cell suspension (choose appropriate serological that can fit the volume of cell suspension) 
+  * When performing cell counts, it is best practice to obtain at least 2 samples of the cell re-suspension for more accuracy. If cell counts vary more than 10%, take another count. 
+  * When preparing sample for cell count, pipette vial of cell suspension up and down on the sides of the tube and then the center to re-suspend cells. Transfer to a seperate tube and add trypan blue the same way.
+  * For greater accuracy on cell count (particularly determining cell count for experimental seeding), have two people perform the cell count. 
+
+Imaging flask
+
+  * For larger vessel, it can be difficult to image the flask. If the vessel is too big (eg 5CS and 4CF), remove the condenser from the microscope, place the flask under and replace the condenser
+  * If using a larger vessel that cannot fit under the microscope at all, it is good practice to seed out a T175 at the same density to view the confluency of the cells overtime. Whilst this is not as accurate as viewing the larger vessel, it can at least provide some information. 
+  * When the vessel is removed fromt he incubator, if often fogs up and condenses, making it difficult to image. Try to image around the foggy area (typically the sides of the flask) as this will give clearer images. Alternatively if you work quick enough, you can avoid this (prepare imaging station, MIA etc before bringing your flask out).   
+
+Feeds:
+
+  * For a 4CF feed, use a 250 mL corning bottle to measure out 300 mL ( where the bottle starts to curve) 
+  * Use a bottle marked with 300 mL to measure out the spent media. 
+  * Make sure to remove both caps to prevent the air from getting trapped and gurgling. 
+
+Seeding:
+
+  * When it come to adding and re-suspending cells, swirl the bottle after adding cells instead of pipette mixing. (volume is too large to pipette mix effectively) 
+  * Try to either have the cell in the entire media, otherwise split evenly between media when seeding. Eg if you are seeding a 4CF and have 2 x 300 mL bottles of growth media, add the cells evenly in both 300 mL bottles and pour into the 4CF. Do not add all the cells in only one and pour one at a time into the 4CF as the cells will be unevenly distributed in the flask. 
+
+  
+
+  
+
+
+
+
+5CF
+
+  1. Surface area: 3180 cm2 
+  2. Volume for
+    1. Resuspension: 20 mL for resuspension and washing  
+    2. Seeding: 750 mL  
+    3. PBS wash: 250 mL
+    4. Tryple wash: 250 mL 
+    5. Gelatin: 200 mL
+  3. Tryple incubation: 10 mins - 20 mins 
+  4. Time for gelatin coating: 2.5hrs
+  5. How to equilise: same as 4CF 
+  6. Image flask: cannot image (use T175 as reference)
+
+

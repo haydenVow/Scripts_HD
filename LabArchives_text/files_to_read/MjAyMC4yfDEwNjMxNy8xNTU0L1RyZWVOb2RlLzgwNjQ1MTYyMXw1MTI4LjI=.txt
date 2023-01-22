@@ -1,0 +1,61 @@
+
+
+Key Findings:
+
+The cells in ACF media died within 3 weeks and did not stay alive beyond 2
+passages. Our fibrolife media and the E8+goodies media were not capable of
+sustaining fibroblast growth, even when albumin was added. Our control cells
+in DMEM/F12 + 20% FBS grew and thus there were no issues with the cells
+themselves, only with the cell culture media.
+
+It appears that a key ingredient or several key ingredients for fibroblast
+growth may be missing from our cell culture media. These key ingredients must
+be present in serum, and thus allowed our control cells to proliferate, but
+are not present in the ACF media formulations as they currently stand.
+
+Limitations & Future Directions:
+
+In the future, we will undoubtedly return to our efforts to focus on growing
+primary fibroblasts in ACF media, though in the short term we will focus on
+adapting adherent fibrolasts to suspension culture using FBS.  
+  
+In the long run, fibroblast do grow well when knock-out serum replacement
+(KSR) is used in place of FBS. KSR contains the following ingredients:
+
+1\. Amino Acids: Glycine, L-histidine, L-isoleucine, L-methionine,
+L-phenylalanine, L-proline, L-hydroxyproline, L-serine, L-threonine,
+L-tryptophan, L-tyrosine, L-valine (essential aa)  
+2\. Vitamins/Antioxidants: Thiamine, reduced glutathione, ascorbic acid
+2-PO43.
+
+3\. Trace Elements: Ag+, Al3+, Ba2+, Cd2+, Co2+, Cr3+, Ge4+, Se4+, Br−, I−,
+F−, Mn2+, Si4+, V5+, Mo6+, Ni2+, Rb+, Sn2+, Zr4+  
+4\. Proteins: Transferrin (iron-saturated), insulin, lipid-rich albumin
+(AlbuMAX)  
+  
+The fibrolife media contained the following ingredients:
+
+50ug/mL LAA2P (100mg/mL) 1:2000 dilution (0.02mL = 20µL)  
+5ng/mL FGF (25ug/mL stock)  1:5000 dilution) (0.008mL = 8µL)  
+5ug/mL Insulin  
+5ng/mL EGF (0.1mg in 1mL dPBS (14.28uM conc.)  1:2000 dilution) (0.02mL =
+20µL)  
+30pg/mL TGFb (2ug/mL) 1:66,666 dilution (0.0006mL = 0.6µL)  
+500ug/mL albumin (ID 1803) (200000ug/mL 1:4 dilution)  
+0.6uM Linolic acid L1376-5G      stock 0.92g/mL (fatty acid)  
+L-glutamine (7.5mM)  
+1X P/S Antibiotics
+
+  
+KSR does however lead to formation of fibroblast sheets and cells do not make
+it past the passaging steps, perhaps due to the concentration of vitamin C in
+KSR. Thus, 50ug/mL Vit C found in the fibrolife formulation may be a more
+effective concetration.  
+  
+Our current ACF formulations may be missing some lipids found in KSR (e.g.
+lipid-rick albumax, compared to linolic acid). Reduced glutathione or thymine
+may also be important, and we could try supplementing our media with trace
+elements in the future as well. D/F should contain most of the trace elements
+and
+
+

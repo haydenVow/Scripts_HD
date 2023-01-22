@@ -1,0 +1,166 @@
+
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Process:
+
+  
+
+*Insert snapshot of starting deck state here*
+
+  
+  
+  
+Starting deck state  
+  
+  
+
+Startup and calibration:
+
+  1. Switched on HEPA filter (top of robot, switch on left) and the OT2 robot.
+  2. Wiped the base/desk of the robot with 70% (v/v) EtOH. Do not wipe the sides (clear acrylic panels) with ethanol. OT2 should be treated like a BSC for maintaining sterility. Spray and wipe any items with ethanol before placing into OT2. 
+  3. Connected to the robot from a lab computer by using the OpenTrons app. 
+  4. Uploaded desired protocol to the app. Download the protocol file you need from Google Drive:  https://drive.google.com/drive/u/1/folders/12S3szo_L9g5Z79TkIwZo8bcm2bOdGSzG.
+  5. Clicked  Proceed to calibrate. 
+  6. Arranged labware and reagents on the OT2 as shown in the deck layout. 
+  7. Calibrated to labware by following the instructions on the app and then ran the protocol.  
+
+Addition of secondary antibody:
+
+Start time:   12:38   a/pm
+
+End time:     N/A  a/pm
+
+Total run time:   N/A   a/pm
+
+Incubation of secondary:     13:21 - 14:51 a/pm
+
+Plate transfer and TMB reaction:  
+
+Start time:    14:49  a/pm
+
+End time:     15:42  a/pm
+
+Total run time:    55 mins (approx)  a/pm
+
+Reaction time with TMB substrate:     15 mins  a/pm
+
+Addition of Janus Green:  
+
+Start time:    16:00  a/pm
+
+End time:     16:29  a/pm
+
+Total run time:    29 mins (approx)  a/pm
+
+Incubation with JG:     16:28 -16:40 a/pm
+
+Janus Green reaction and transfer:  
+
+Start time:    16:41  a/pm
+
+End time:     17:28  a/pm
+
+Total run time:    46 mins (approx)  a/pm
+
+Incubation with JG:    15 mins a/pm
+
+Termination and cleaning:
+
+  1. Once the protocol is complete, discarded tips in the yellow biowaste bin. Sprayed and wiped the trash tray with ethanol before returning it to the robot. Liquid waste should be collected in bottles, and PFA waste should be discarded into the PFA waste container. OT2 reservoirs are reusable. They should be sprayed with Viraclean if they contained cell suspensions and then washed in eucalyptus disinfectant. Then they need to be soaked in water, dried, and autoclaved.'
+  2. Removed all labware from OT2 and wipe the base/deck of the OT2 with ethanol. The pipette head can also be cleaned with 70% ethanol. Wiped the sides (clear acrylic panels) with working solution of bleach (10-15%) and then dried with a RediWipe.   
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+ELISA Wash Buffer  
+M6348, M6347  
+  
+MyoG Primary Antibody mix  
+See previous lab book entry for details  
+  
+MF20 Primary Antibody mix  
+See previous lab book entry for details  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:  
+
+Addition of secondary protocol:
+
+  * Otis Opentron appeared to jump out of calibration by shifting the heights of the protocol up by ~ 1cm or so.
+  * Robot was restarted however this problem persisted, occuring after every step it went wrong on previously.
+  * After 2 PBS washes, it was decided that the remainder of this protocol would be done manually as the operator was quite hungry and needed lunch.
+
+TMB plate transfer protocol:
+
+  * A dry run was performed to monitor the heights and everything up until the 1st PBS was removal was fantastic.
+  * Hence it was decided that this protocol would be done on the OT2.
+  * Volumes were highest in row A and slowly decrease as you go down the plate.
+  * Column 12 and Row A are higher than the rest - monitor if trend is reproduced in signals.
+
+Janus Green Addition:
+
+  * OT picked up tips incorrectly, operator did one PBS wash removal
+
+  
+
+General:
+
+  * Could implement a step after final PBS wash where another aspirate is done to make sure all volumes are equal/all wells have been equally aspirated before the addition of antibody/substrate/stain.  
+
+  * Maybe a good idea to add a mix step when aspirating reagents to boost/ensure uniformity between replicates.
+
+
+
+
+SOPs used:
+
+SOP_Using OpenTrons V_01
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

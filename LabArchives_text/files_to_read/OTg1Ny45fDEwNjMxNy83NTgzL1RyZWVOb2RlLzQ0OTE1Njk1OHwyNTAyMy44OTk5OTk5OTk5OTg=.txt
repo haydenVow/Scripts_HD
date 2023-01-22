@@ -1,0 +1,163 @@
+
+
+Perform bank using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by: SS VB  
+
+
+
+
+Banking Culture IDs
+
+Type of vesselHarvested FlasksBanked into # vials# of cells per vialVial IDs  
+  
+4CF
+
+11464-Chond_NANDO415-P1-1of240x cryovials2M cells per cryovial  
+  
+11465-Chond_NANDO415-P1-2of2  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleALQ11014  
+  
+dPBS (for washing & neutralising)ALQ10906  
+  
+Growth MediaALQ11637  
+  
+Freeze mediaALQ11641,11642 (FBS)  
+STK4916 (DMSO)  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  400mL in 500mL container 
+  2.  dPBS (for neutralising)   800 mL in 1L container 
+  3.  Growth media (for pellet resuspension):   40mL in | 70mL yellow lid container | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:   11 :30 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 200 |mL tryple to each vessel/well and incubated at 37ºC for
+|12:25 - 12:41 | min
+
+4\. Neutralised with | 200 | dPBS (warmed) and combined cell suspension into
+2x and 2x 50mL flacon tubes| 250mL | tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   13:15 - 13:20 a/pm   
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in |110 |mL |growth  | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: |538,000,000|
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL.
+
+
+
+
+11\. Prepared 40mL Freeze Medium: (FBS + 10% DMSO).
+
+Stored at 4ºC until use to keep chilled.
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+Since we have 5.3M per mL, Aliquot 15.5mL of cell suspension, to bank 82.15M
+cells.
+
+Centrifuge down the 15.5mL of cells at 650g for 650g for 5minutes 15:57 -
+15:03
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in |40|mL freeze media (chilled, to reduce DMSO
+toxicity).  
+(FBS+10%DMSO= 36mL FBS+4mL DMSO)
+
+15\. Aliquotted | 1000 |µL into | 40 | x cryovials (already labelled). (2M
+CELL PER VIAL)
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.  14:20
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+  
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10x PHASE magnification
+
+

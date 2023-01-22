@@ -1,0 +1,188 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+  
+
+
+
+
+## Feed performed by: Tom Tarento  
+
+
+
+
+Weekend feed information:
+
+Vessel type(s)Vessel IDVessel locationGrowth media locationOther comments  
+6-well plate7502-F_DOLLY12-Sheep P8-1of2  
+7503-F_DOLLY12-Sheep P8-2of2  
+Library lab, incubator #68  
+Top shelf fridge 104, Tube rack with "saturday" written in tape around
+aliquotsIn 5 x 1.5 mL microtubes in a 50 mL tube container  
+3 of the wells contain the same media as used for E125 feed, so there is
+enough media in the E125 aliquots for these three wells.  
+E1257504-F_DOLLY12-Sheep P8-1of3  
+7505-F_DOLLY12-Sheep P8-2of3  
+7506-F_DOLLY12-Sheep P8-3of3  
+Library lab, incubator #68  
+Top shelf fridge 104, Tube rack with "saturday" written in tape around
+aliquots  
+  
+In 3 x 50 mL tubes (17 mL in each, enough for 50% feed of E125s and 50% feed
+of each matching 6WP feed)  
+  
+  
+  
+
+
+
+
+Plate Maps:
+
+  
+
+Plate 1  
+1  
+2  
+3  
+  
+A  
+Serum control  
+  
+GM + HDAC1  
+  
+B  
+GM + HDAC1 + HDAC2  
+  
+GM + HDAC2  
+  
+  
+  
+
+Plate 2  
+1  
+2  
+3  
+  
+A  
+GM + Difco Select Phytone UF  
+  
+GM + Difco Select Phytone UF + HDAC1 + HDAC2  
+  
+B  
+GM + BBL Phytone Peptone  
+  
+GM + BBL Phytone Peptone + HDAC1 + HDAC2  
+  
+  
+  
+
+E125 flask: Serum Control (DMEM/F12 + 10% FBS + 1X P/S) - flask 7504
+
+E125 flask: GM + HDAC 1 - flask 7505
+
+E125 flask: GM + HDAC 2 - flask 7506
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)a6189  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2  
+m6282  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L BBL Phytone Peptone  
+m6283  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L Difco Select Phytone UF  
+m6284  
+  
+GM + 0.1 ug/mL HDAC1  
+m6285  
+  
+GM + 0.1 ug/mL HDAC2  
+m6286  
+  
+GM + 5 g/L BBL Phytone Peptone  
+m6287  
+  
+GM + 5 g/L Difco Select Phytone UF  
+m6288  
+  
+  
+###  
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + HDAC 1 (0.1ug/mL)
+
+[x] GM + HDAC 2 (0.1ug/mL)
+
+[x] GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+
+HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)
+\+ HDAC 2 (0.1ug/mL)
+
+
+
+
+Process:
+
+  1. Place pre-aliquoted aliquots in water bath to be warmed:  
+Placed in water bath:   10:45  
+
+  2. Collected culture vessels from shakers, wiped with ethanol-sprayed cloth and brought into BSC (if necessary, paused shakers by pressing the "play" button on the controller on the side wall of the incubator)     
+  3.  ~~Using a p1000 for the 6-well plate cultures and a 5 mL serelogical pipette for the E125 flasks, gently pipette-mixed cultures for ~1 minute to break up cell clumps~~
+  4.  ~~Pipetted suspensions though 70 um cell strainer into 8 x 15 mL tubes  and 3 x 50 mL tubes (keep E125 flask and 6-well plates in BSC as cultures will be returned to these post centrifugation) ~~
+  5. Centrifuged at 300 x g for 5 min. Timestamp:11:17 - 11:22 and 11:24-11:29         
+
+  6. Aspirated 50% of supernatants (1.5 mL for 6-well plate cultures and 15 mL for E125 cultures), taking care to not disrupt or aspirate pellet
+  7. Re-suspended all cultures in 1.5 mL (6-well plate) or 15 mL (e125) of their respective growth media (see plate map above). 
+  8. Gently pipette-mixed cultures again before moving back to E125 flask and 2 x 6-well plates 
+  9. Returned vessels to incubator and replaced in clamp. If shaker was paused, remembered to press play to restart shaking. 6-well plates should be shaking at 150 RPM and E125 at 120 RPM) Timestamp:  11:50 and 11:55        
+
+  * Incubator (#68), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. 7502-F_DOLLY12-Sheep P8-1of2
+    1. Volume in wells was ~2 mL, so medium change was closer to 75%
+  2. 7503-F_DOLLY12-Sheep P8-2of2
+    1. Volume in wells was ~2 mL, so medium change was closer to 75%
+  3. 7504-F_DOLLY12-Sheep P8-1of3
+  4. 7505-F_DOLLY12-Sheep P8-2of3
+  5. 7506-F_DOLLY12-Sheep P8-3of3
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

@@ -1,0 +1,253 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T1756442-DOLLY12-Sheep P9-1of10  
+6443-DOLLY12-Sheep P9-2of10  
+6444-DOLLY12-Sheep P9-3of10  
+6445-DOLLY12-Sheep P9-4of10  
+6446-DOLLY12-Sheep P9-5of10  
+6447-DOLLY12-Sheep P9-6of10  
+6448-DOLLY12-Sheep P9-7of10  
+6449-DOLLY12-Sheep P9-8of10  
+6450-DOLLY12-Sheep P9-9of10  
+6451-DOLLY12-Sheep P9-10of10  
+4CF  
+6462-DOLLY12-Sheep P10-1of2  
+6463-DOLLY12-Sheep P10-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    2      x    4CF      vessel and spare    8     x
+T175      with sterile filtered 0.1% gelatin solution and then incubated all
+coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       10:50 am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     100    mL in     120 mL    tubes
+  2.  dPBS (At 37 degrees for washing):     100    mL in     120 mL    tubes
+  3.  dPBS (at RT neutralising):     100    mL in     120 mL    tubes
+  4. Growth media (for pellet resuspension):     13   mL in    15 ml     tubes
+  5. Growth media (for seeding):     600 mL x 2    mL in     500 mL    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+12:00 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     14:15   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:26 - 14:36  pm 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a    4
+x 50 mL   tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:51 - 14:56 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in      13    mL      growth    media     :   a/pm
+
+11\. Aliquoted      20 uL    of resuspended cells into a microcentrifuge tube
+for cell count. (Re-suspended in 40 uL trypan blue
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:     17,082,000      
+  2. Volume of cell suspension required for subculture was:       6.088 mL      
+
+  3. Cell density per vessel:     4M     
+
+
+
+
+13\. Transferred       6.088 mL     of cell suspension to the pre-warmed
+1200    mL Growth media:  
+
+14\. Transferred cell suspension into the pre-gelatin coated       4cf
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      16:43 -
+16:03 pm
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) thermo incubator
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Remaining 9082000 of cells in cell suspension was seeded onto gelatex
+scaffolds (n=1 zein, n=1 gelatin) and a previously prepared autoclaved and
+freeze-dried agarose sample at 3M per scaffold.
+
+2\. Prepare 25 mL growth media in a 50 mL tube and place in waterbath   16:48
+- 17:02 pm
+
+1\. Centrifuged cell suspension at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:50 - 16:55 pm
+
+2\. Aspirate supernatant and resuspend in 180 uL of growth media  
+
+3\. Dispirbute 60 uL of cell suspension onto each scaffold.
+
+4\. Allow cells to adhere for 30 minutes    17:16 - 16:46 pm
+
+5\. Transfer 8mL of pre-warmed growth media into each well.
+
+6\. Place plate into the incubator (thermo)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM4387  
+  
+TrypleM4391  
+  
+dPBS (for washing & neutralising)A4351  
+  
+Growth MediaA4376, 4370  
+  
+p38i (20mM stock)m4398  
+  
+  
+  
+
+
+
+
+Observations/Summary:n/a
+
+  
+
+
+
+
+SOPs used: N/A  
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...
+      * Obtain way more cells than expected (9M over expectations) 
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

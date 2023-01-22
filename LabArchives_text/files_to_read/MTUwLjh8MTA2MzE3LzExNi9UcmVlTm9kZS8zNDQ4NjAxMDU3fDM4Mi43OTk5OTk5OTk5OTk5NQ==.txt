@@ -1,0 +1,401 @@
+Passaging thawed cells (9/4/21)
+
+
+  
+
+  
+
+Perform following process using above volumes:
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Harvested Vessel Type
+
+Seeded vessel ID(s)
+
+Seeded vessel type  
+  
+6304, 6305, 6306, 6307
+
+T175s
+
+6327-DOLLY12_11E7-Sheep P7-1of8  
+6328-DOLLY12_11E7-Sheep P7-2of8  
+6329-DOLLY12_11E7-Sheep P7-3of8  
+6330-DOLLY12_11E7-Sheep P7-4of8  
+6331-DOLLY12_11E7-Sheep P7-5of8  
+6332-DOLLY12_11E7-Sheep P7-6of8  
+6333-DOLLY12_11E7-Sheep P7-7of8  
+6334-DOLLY12_11E7-Sheep P7-8of8
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+Growth Media:
+
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+### Process:
+
+2\. Removed 3x Gelatin coated    T175      vessels with sterile filtered 0.1%
+gelatin solution from the fridge and then incubated all coated flasks at 37˚C.
+These flasks were coated with gelatin 24 hours prior but were not used after
+incubating for 1h at 37 degrees, they were refridgerated until now.
+
+Gelatin coated 6 wells on 1x96 well plate and placed in the incubator for 1h
+at 37 degrees  
+
+  1. Time when all vessels(s) placed into the incubator       13:30   a/pm (T flasks)    13:45   a/pm (96 well plate).   
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     40    mL in    1x50mL     tubes
+  2.  dPBS (for neutralising):     40    mL in    1x50mL    tubes
+  3. Growth media (for pellet resuspension):     5    mL in     1x15    tubes
+  4. Growth media (for seeding):     2x45mL + 1x1mL     in    2x50mL tubes and 1x15mL tubes respectivley    .   
+
+Time that all aliquots were placed in the water bath the warm before use
+13:52   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+4\. Removed vessel(s) from the incubator     14:00   a/pm for imaging. Took
+image of vessels with the primo microscope on phase setting, 4x objective.
+Determined that the flasks were not confluent enough to ensure we would have
+enough cells to seed an E125 flask with. Decided to expand the clones up from
+4xT175 to 8xT175 flasks.
+
+  1. Removed the growth media for seeding from the waterbath, combined them to a 250mL container and toppped up the container to 250mL using fresh growth media, returned the container to the waterbath to warm at 37 degrees [14:52] 
+  2. Gelatin coated 5xT175 flasks and placed in the incubator    [14:56]
+
+5\. Washed the vessel(s) with dPBS.
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:11-15:21   a/pm 
+
+7\. Neutralised with     10     dPBS (warmed) and combined cell suspension
+into a    2x50mL     tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     15:32-15:37   a/pm 
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL     growth     media, pellets were
+then combined and the empty resuspension tube was washed with 1mL of growth
+media before being combined with the cell pellet.     :   a/pm
+
+11\. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=919:919
+
+  1.  Total cell number was:       2,608,000     
+
+  2. Volume of cell suspension required for subculture was:       all     
+
+  3. Cell density per vessel:     326,000      
+
+13\. Removed the pre-warmed      240     Growth media from the waterbath and
+added 120uL of p38i. Transferred      2mL      of cell suspension to the
+warmed growth media.  
+
+14\. Transferred 30mL of cell suspension into each of the 8 pre-gelatin coated
+T175      vessels after aliquoting and discarding excess gelatin.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      16:26  \-
+16:56 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells), incubator #68
+  *   
+
+Media/Reagents used:
+
+Name
+
+Details (reagent ID)  
+0.1% gelatin solution3844  
+Tryple3920  
+dPBS (for washing & neutralising)3917  
+Growth Media4119  
+p38i (20mM stock)3978  
+  
+  
+  
+
+Observations/Summary:
+
+  * Flasks only appeared 30% confluent upon inspection under the primovert microscope. We did not expect to have enough cells to start an E125 microcarrier culture. Instead it was decided to further expand the 4xT175 flasks into 8xT175s.
+  * I suspect after consulting with Katie that the clone may be slowing down in growth. We will have to monitor the growth of these cells going forward to ensure their proliferation rate is not slowing down.
+
+  
+
+SOPs used:
+
+  
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+      * Cell proliferation rate was slower than expected. 
+
+  
+
+Relevant Images/Figures (if any):
+
+  
+
+6304-DOLLY12-Sheep P6-1of4
+
+https://mia-capture.vow.tools/#/session/rec9DHHFzTuzY5F24/images 9-Apr
+
+  
+6305-DOLLY12-Sheep P6-2of4
+
+https://mia-capture.vow.tools/#/session/recU4e8xwTZV4MV7J/images 9-Apr
+
+  
+6306-DOLLY12-Sheep P6-3of4
+
+https://mia-capture.vow.tools/#/session/recLjhLorMJ7HLMjH/images 9-Apr
+
+  
+6307-DOLLY12-Sheep P6-4of4
+
+https://mia-capture.vow.tools/#/session/rec2uygJVNGlHE8hy/images 9-Apr
+
+  
+
+  
+
+  
+
+  
+
+
+Seeding Microcarriers
+
+
+### Process:
+
+Intermittent agitation to facilitate adhesion
+
+  1. Transferred cell suspension (from Culture XXXX) containing `X million cells` in   mL to the equilibrated microcarrier suspension in the culture vessel.
+
+Seeding vessels
+
+Culture ID
+
+ Flask Type
+
+Cells Added
+
+Microcarrier Density
+
+Flask Volume  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  1. Transferred vessel to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  1. Began the seeding schedule for 6 hours (below) using the KASA app.
+    1. The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing
+      * Shake speed used =
+    2. The seeding schedule may be reduced or extended by removing or adding 30 minute cycles as required. Generally, at least 3 but up to 12 hours are required to allow the maximum number of the inoculated cells to adhere.
+
+Seeding schedule:
+
+Time elapsed from seeding
+
+Activity
+
+Time started - time finished  
+  
+0.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+1.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+1.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+2.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+2.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+3.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+3.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+4.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+4.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+5.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+5.5
+
+Agitate culture for 2 mins
+
+  
+  
+  
+6.0
+
+Agitate culture for 2 mins
+
+  
+  
+  
+  
+
+Commencement of continuous agitation
+
+  1. At the conclusion of the seeding period the vessel was left to shake continuously overnight.
+
+### SOPs used:
+
+  *   
+
+### Observations/Summary:
+
+  *   
+
+### Reagents used:
+
+Name
+
+Details (Reagent ID)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+* * *
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+### Relevant Images/Figures:
+
+  
+
+

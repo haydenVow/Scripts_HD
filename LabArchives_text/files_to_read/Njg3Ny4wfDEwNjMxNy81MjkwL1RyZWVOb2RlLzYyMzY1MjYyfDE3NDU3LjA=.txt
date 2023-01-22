@@ -1,0 +1,155 @@
+Introduction
+
+
+Although preliminary estim studies with sheep myoblasts appeared to promote
+the formation of mature muscle, subsequent studies were unable to replicate
+these findings due to unexpected cell death experienced while culturing
+primary cells - an issue which is being troubleshooted separately.
+Additionally, since the process of growing up primary cell lines is a time
+consuming process (mainly because the cells take longer to proliferate and
+mature), the team opted to continue the estim experiments using C2C12 cells,
+which are an immortalised mouse myoblast cell line that proliferates and
+matures rapidly. However, during the process of differentiating these cells,
+severe delamination from the TC-treated polystyrene wells was observed, with
+mature C2C12s forming sheets / clumps / balls that had the chance of being
+aspirated during the washing steps involved in primary and secondary staining.
+
+In our preceding study, we successfully resolved the delamination issue using
+a Gelatin or Laminin cultureware coat, enabling us to move on to testing the
+effect of certain electrical stimulation patterns on myblast behaviour
+(alignment of myotubes,myogenic potential) and maturation (increased protein
+expression), as reported in multiple scientific studies [1-10].
+
+  
+
+References:
+
+1\. Cogan, S.F., 2008. Neural stimulation and recording electrodes. Annu. Rev.
+Biomed. Eng., 10, pp.275-309.2\. Donnelly, K., Khodabukus, A., Philp, A.,
+Deldicque, L., Dennis, R.G. and Baar, K., 2010. A novel bioreactor for
+stimulating skeletal muscle in vitro. Tissue Engineering Part C: Methods,
+16(4), pp.711-718.3\. Geddes, L.A. and Roeder, R., 2003. Criteria for the
+selection of materials for implanted electrodes. Annals of biomedical
+engineering, 31(7), pp.879-890.4\. Hyun Ko, U.H., Park, S., Bang, H., Kim, M.,
+Shin, H. and Shin, J.H., 2018. Promotion of myogenic maturation by timely
+application of electric field along the topographical alignment. Tissue
+Engineering Part A, 24(9-10), pp.752-760.5\. Merrill, D.R., Bikson, M. and
+Jefferys, J.G., 2005. Electrical stimulation of excitable tissue: design of
+efficacious and safe protocols. Journal of neuroscience methods, 141(2),
+pp.171-198.6\. Mobini, S., Leppik, L. and Barker, J.H., 2016. Direct current
+electrical stimulation chamber for treating cells in vitro. Biotechniques,
+60(2), pp.95-98.7\. Naumann, K. and Pette, D., 1994. Effects of chronic
+stimulation with different impulse patterns on the expression of myosin
+isoforms in rat myotube cultures. Differentiation, 55(3), pp.203-211.8\.
+Serena, E., Flaibani, M., Carnio, S., Boldrin, L., Vitiello, L., De Coppi, P.
+and Elvassore, N., 2008. Electrophysiologic stimulation improves myogenic
+potential of muscle precursor cells grown in a 3D collagen scaffold.
+Neurological research, 30(2), pp.207-214.9\. Shahin-Shamsabadi, A. and
+Selvaganapathy, P.R., 2020. Tissue-in-a-Tube: three-dimensional in vitro
+tissue constructs with integrated multimodal environmental stimulation.
+Materials Today Bio, 7, p.100070.10\. van der Schaft, D.W., van Spreeuwel,
+A.C., Boonen, K.J., Langelaan, M.L., Bouten, C.V. and Baaijens, F.P., 2013.
+Engineering skeletal muscle tissues from murine myoblast progenitor cells and
+application of electrical stimulation. Journal of visualized experiments:
+JoVE, (73).
+
+
+Summary
+
+
+C2C12 cells were expanded and harvested, seeded into 12 well plates coated
+with either Gelatin or Laminin. 3 replicates were seeded for each of 4
+conditions per coating:
+
+  1. Stimulation at ~5.4V max amplitude
+  2. Stimulation at ~3.4V max amplitude
+  3. electrode control, no voltage
+  4. no electrode control (standard cell culture condition)
+
+Both plates were treated with differentiation media for 2 days prior to
+starting stimulation (see table below for detail). At conclusion of electrical
+stimulation, 1 well per condition was harvested for total protein analysis and
+the remaining replicates underwent fixing and IF staining as usual.
+
+DayProcedure  
+-2Precoat cultureware with Laminin and Gelatin (1 dish each) . Seed 2x 12WP control with 60k - 80k cells/well in DMEM/F12 + 20%FBS + 1XP/S growth media.  
+-150% media change with growth media.  
+0Switch to E6 differentiation media.  
+1-2Daily 100% media change with E6 differentiation media.  
+3Begin electrical stimulation. 100% media change with E6 differentiation
+media.  
+4-6Daily 100% media change with E6 differentiation media.  
+7MyoG/MF20 Antibody Staining (2 wells), total protein analysis (1 well)  
+  
+  
+
+
+Key Findings
+
+
+  * No significant difference between stimulated and non-stimulated conditions in both the gelatin- and laminin-coated plates (see images)
+  * No cell death observed due to electrical stimulation, though some cell loss occurred in wells A1, A2 & B1 of the gelatin-coated plate
+  * The OT2 fix protocol was successfully implemented, with no significant delamination being observed
+  * No significant delamination occurred post-stimulation during downstream analysis (primary and secondary staining), demonstrating the benefit of the cultureware precoating
+
+
+  
+Figure 1:  Representative areas from full-well immunstained Zaber images
+comparing the maturity of stimulated C2C12 cultures (left to right = Laminin
+5.4V, Gelatin 3.4V, Gelatin electrode control). Cell nuclei are stained using
+DAPI (blue) and MyoG (green), intracellular myosin heavy chain (stained red)  
+
+
+Discussion and Limitations
+  
+  
+Discussion:
+
+The Bradford total analysis data below confirm the results observed using
+immunostaining, where no significant benefit could be produced by applying a
+voltage to the cells during differentiation.
+
+  
+  
+Figure 2: Total Protein values per well obtained using Bradford assay  
+  
+A possibly coincidental difference between Laminin and Gelatin precoatings is
+that at Day4Diff (Day 2 e-stim) cells in some gelatin coated wells had
+delaminated, which could have been due to rough handling during a previous
+feed. This applies to Gelatin plate well A1, B1, A2.
+
+All immunostaining (excepts antibody addition) was performed on the opentrons
+and both coating were stable during the washes and the entirety of the
+process. Final images (Figure 1 above) show no major differences in myotube
+maturity or MF20 expression.
+
+  
+
+Limitations:
+
+  1. The current plate lid infrastructure is occasionally hard to connect with the electrical clamps and on at least one occasion cells went unstimulated overnight due to unreliable connection.
+  2. Cell coverage was of variable uniformity across the replicates - while seeding, one of the wells on the laminin plate was left empty due to insufficient seeding solution
+  3. Gelatin 6V condition was not assessed using immunostaining, since the only remaining well was used for Bradford analysis.
+  4. insufficient replicates were assessed per condition due to the low throughput infrastructure available currently.
+
+  
+
+
+Conclusion
+
+
+No significant difference was observed between stimulated and unstimulated
+conditions.This might be due to suboptimal stimulation profiles chosen or the
+start of e-stim at the wrong time in the maturation cycle
+
+
+Future Directions
+
+
+  1. Future experiments should aim to seed cells lower and proliferate to only ~70% confluence before switching to E6 media. The proliferation stage could be extended to 2 days to allow for ECM generation and improve the likelihood of success
+  2. start of e-stim for C2C12 cells might have to be earlier due to their faster maturation cycle (on Day 1 of Diff?)
+  3. A next generation e-stim lid infrastructure is desirable to increase throughput and enable statistical analysis of the conditions studies
+
+  
+
+

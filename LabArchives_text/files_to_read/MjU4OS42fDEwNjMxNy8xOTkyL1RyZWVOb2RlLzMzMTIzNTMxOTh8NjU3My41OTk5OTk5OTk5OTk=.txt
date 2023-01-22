@@ -1,0 +1,103 @@
+
+
+## Performed by: Nathan  
+
+
+
+
+Weekend imaging information.  
+
+Vessel ID  
+ Vessel type(s)  
+Vessel location  
+7154-DOLLY12-Sheep P12-1of9  
+7185-DOLLY12-Sheep P12-2of9  
+7186-DOLLY12-Sheep P12-3of9  
+  
+  
+E125  
+Top sanyo main lab (80)  
+  
+7187-DOLLY12-Sheep P12-4of9  
+7188-DOLLY12-Sheep P12-5of9  
+7189-DOLLY12-Sheep P12-6of9  
+50mL  
+bottom sanyo main lab (81), bottom shaker  
+  
+7190-DOLLY12-Sheep P12-7of9  
+7191-DOLLY12-Sheep P12-8of9  
+7192-DOLLY12-Sheep P12-9of9  
+  
+50mLbottom sanyo main lab (81), top shaker  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator (Top sanyo - 3xE125s) (bottom sanyo incubator two sets of 3x50mL spin tubes) and placed them in the BSC  `| 12:00 |`
+  2. Swirled culture(s) by hand inside the BSC to suspend the microcarriers, the lid was quickly removed and 3x20uL samples of each culture were taken while the carriers were still suspended. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate well on a 96 well plate and mixed 80uL of dPBS containing 20uL/mL of Hoechst 33342. 
+    1. Make up the dPBS and Hoechst mix in a 15mL tube then aliquot 80uL of the mix into each well. 
+    2. Use one row for each vessel group.  
+Row A, E125 flasks 1-3, (Flask 1: col 1-3, Flask 2: col 4-6, Flask 3: col 7-9)  
+Row B, 50mL shake tubes 4-6 (tube 4: col 1-3, tube 5: col 4-6, tube 6: col
+7-9)  
+Row C, 50mL shake tubes 7-9 (Tube 7: col 1-3, Tube 8: col 4-6, Tube 9: col
+7-9).  
+Plate ID 7200 was used for this round of imaging.
+
+  4. Returned cultures to the incubator  `| 12:15  |`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `| 12:20-12:40 |`
+  6. After incubation the wells were inspected under the Zaber microscope.
+  7. Captured images under the 5x objective of the centre of each well using Phase and DAPI channels (1 image per well).
+    1. Phase setting, lamp intensity = 2, Exposure time = 3ms
+    2. DAPI lamp intensity = 25, exposure time = 100
+  8. A second round of imaging was performed  
+    1. DAPI lamp intensity = 25, Exposure time = 150
+    2. Phase setting (unchanged)
+
+  
+
+
+
+
+### Observations/Summary:
+
+###  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used  
+dPBS 5385  
+  
+Hoechst 333422464  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

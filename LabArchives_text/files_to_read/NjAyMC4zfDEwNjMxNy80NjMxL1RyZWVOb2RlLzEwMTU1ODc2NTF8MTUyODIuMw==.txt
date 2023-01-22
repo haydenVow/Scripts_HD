@@ -1,0 +1,249 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by:AK  
+
+
+
+
+Culture IDs:
+
+Harvested Flask ID(s)  
+Seeded Flask ID(s)Flask ConditionFlask Type  
+8472-F_DOLLY12-Sheep P14-1of1  
+8606-F_DOLLY12-Sheep P15-1of1  
+1T75  
+8474-F_DOLLY12-Sheep P14-1of1  
+8607-F_DOLLY12-Sheep P15-1of1  
+2T75  
+8475-F_DOLLY12-Sheep P14-1of1  
+8608-F_DOLLY12-Sheep P15-1of1  
+3T75  
+8476-F_DOLLY12-Sheep P14-1of1  
+8609-F_DOLLY12-Sheep P15-1of1  
+5T75  
+8477-F_DOLLY12-Sheep P14-1of1  
+8610-F_DOLLY12-Sheep P15-1of1  
+RPMI controlT75  
+8478-F_DOLLY12-Sheep P14-1of1  
+8611-F_DOLLY12-Sheep P15-1of1  
+Serum controlT75  
+8482-F_DOLLY12-Sheep P14-1of1  
+Not passaged6T75  
+  
+8483-F_DOLLY12-Sheep P14-1of1  
+Not passaged  
+7T75  
+  
+8484-F_DOLLY12-Sheep P14-1of1  
+Not passaged  
+8T75  
+  
+8485-F_DOLLY12-Sheep P14-1of1  
+Not passaged  
+9T75  
+  
+8486-F_DOLLY12-Sheep P14-1of1  
+Not passaged  
+EMEM-alpha controlT175  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 5% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 5% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S (EMEM-alpha control)  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlM7401  
+  
+GM - Condition 1M7482  
+  
+GM - Condition 2  
+M7483  
+  
+GM - Condition 3  
+M7484  
+  
+GM - Condition 5M7485  
+  
+GM - RPMI controlM7486  
+  
+GM - Condition 6  
+M7487  
+  
+GM - Condition 7  
+M7488  
+  
+GM - Condition 8  
+M7489  
+  
+GM - Condition 9  
+M7490  
+  
+GM - EMEM-alpha controlM7446  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   30    mL in   1x 50 tube  11:38  
+
+  2. dPBS (for neutralising)   60  mL in   70 ml pot  11:38  
+
+  3. Growth media (for seeding/pellet resuspension):  
+  mL (Condition 1/2/3/5/RPMI control/Serum control)  1 mL for pellet
+resuspension  11:38  
+
+  4. Times that all aliquots were placed in the water bath to warm before use
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    5   mL tryple to each vessel/well and incubated at 37˚C for   20
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was  12:06  \-  12:26  
+
+4\. Neutralised with   5 ml  dPBS (warmed) and combined cell suspension into
+separate   15 ml   tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was    12:42   \-   12:47    
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      1  mL    growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+9\. Total cell number was:
+
+Condition 1:   860,000  
+
+Condition 2:   668,000  
+
+Condition 3:    1,040,000  
+
+Condition 5:   928,000  
+
+RPMI control:    892,000  
+
+Serum control:     1,400,000  
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was:  
+all uL (Condition 1)  
+
+all uL (Condition 2)  
+
+all uL (Condition 3)  
+
+all uL (Condition 5)  
+
+all uL (RPMI control)
+
+875 uL (Serum control)
+
+12\. Transferred   required volume of cell suspension to the pre-warmed   30
+Growth Media aliquots.
+
+13\. Transfer cell suspension into (non-gelatin coated)  T175 flasks.
+
+14\. Transfer flask/plate(s) to incubate at:  13:48  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8472: https://mia-capture.vow.tools/#/session/recp78zkC6sl3vDux/images
+
+8474: https://mia-capture.vow.tools/#/session/recE6U4L4VQesFUah/images
+
+8475: https://mia-capture.vow.tools/#/session/reclxRqyCdUITt7qg/images
+
+8476: https://mia-capture.vow.tools/#/session/rectJhUew0oNBlZtf/images
+
+8477: https://mia-capture.vow.tools/#/session/recQTmn6OzzQh1jc7/images
+
+8478: https://mia-capture.vow.tools/#/session/recSOva0Eqd8hIhSA/images
+
+

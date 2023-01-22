@@ -1,0 +1,55 @@
+Performed by: EC LL
+Equipment
+
+  1. 9 x non-treated 96-WPs (in cabinet below OT2) 
+  2. Hoechst solution 
+  3. Sytox green/Nuc green solution 
+  4. Non-sterile dPBS 
+
+
+Process
+
+  1. Prepared 7 mL of Hoechst solution (50 ug/mL / 1:20 dilution of 1 mg/mL stock in MilliQ). Stored in light-safe tube until ready to use. 
+  2. Prepared 25 mL of Sytox/Nuc Green solution (1 drop stock per 1 mL dPBS). Store in light-safe tube until ready to use.
+  3. Started up "Fox" OT2 and loaded "DSD 2 Staining 1" protocol attached below 
+  4. Set up deck as specified in protocol
+  5. Added non-sterile dPBS, Hoechst and Sytox to 12-well reservoir ("Media Vessel") as specified below
+    *         A1 of Media Vessel #1 on 1 : Media 1 - dPBS : 12000.00 uL
+        A2 of Media Vessel #1 on 1 : Media 1 - dPBS : 12000.00 uL
+        A3 of Media Vessel #1 on 1 : Media 1 - dPBS : 8000.00 uL
+        A4 of Media Vessel #1 on 1 : Media 2 - Hoechst : 3400.00 uL
+        A5 of Media Vessel #1 on 1 : Media 3 - Sytox : 12000.00 uL
+        A6 of Media Vessel #1 on 1 : Media 3 - Sytox : 800.00 uL
+
+  6. Ran deck calibration 
+  7. Started protocol 
+    1. Start time: 10:36:36 AM
+    2. Time first cells added to stain: 10:50
+    3. Time paused: 11:00 (~24 min)
+      * When protocol paused, replaced empty pipette boxes with 2 x full pipette boxes on spots 10 & 11, waited until 11:10 (20 min after first samples stained) then clicked "resume" 
+    4. Run time: 00:45:47
+  8. Once first plate has had serial dilutions performed by OT2, removed plate and began imaging on main lab Zaber microscope (DAPI & AF488) 
+    * Remembered to name plate with it's number in the "notes" section e.g. Plate 1, Plate 2 etc. Alternatively, make separate culture IDs for each staining plate. 
+  9. As each plate finished, removed from OT2 and place in box to protect from light, then imaged in order that they were stained (Plate 1 then Plate 2 etc.)
+  10. Left OT2 as is until imaging session for Plate 4 was started, then set up OT2 for second staining run (protocol attached below)
+  11. Added non-sterile dPBS, Hoechst and Sytox to 12-well reservoir ("Media Vessel") as specified below. 
+    *         A1 of Media Vessel #1 on 2 : Media 1 - dPBS : 12000.00 uL
+        A2 of Media Vessel #1 on 2 : Media 1 - dPBS : 12000.00 uL
+        A3 of Media Vessel #1 on 2 : Media 1 - dPBS : 1600.00 uL
+        A4 of Media Vessel #1 on 2 : Media 2 - Hoechst : 2560.00 uL
+        A5 of Media Vessel #1 on 2 : Media 3 - Sytox : 10240.00 uL
+
+  12. Ran deck calibration 
+  13. Started protocol 
+    1. Start time: 12:50:27 PM 
+    2. Time first cells added to stain: 13:01
+    3. Time paused: 13:10 (~20 min)
+      * When protocol paused, replaced empty pipette boxes with 2 x full pipette boxes on spots 10 & 11, waited until 13:20 (20 min after first samples stained) then clicked "resume" 
+    4. Run time: 00:43:51
+  14. Once first plate has had serial dilutions performed by OT2, removed plate and began imaging on main lab Zaber microscope (DAPI & AF488) 
+  15. As each plate finished, removed from OT2 and place in box to protect from light, then imaged in order that they were stained (Plate 6 then Plate 7 etc.) 
+  16. Shut down and cleaned OT2 
+
+
+Protocol: Staining 1
+Protocol: Staining 2

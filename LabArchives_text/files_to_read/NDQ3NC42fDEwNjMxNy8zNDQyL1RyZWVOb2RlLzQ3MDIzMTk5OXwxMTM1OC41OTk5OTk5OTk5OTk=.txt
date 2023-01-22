@@ -1,0 +1,212 @@
+
+
+Performed by: LL
+
+
+
+
+NANDO Culture IDs:
+
+Flask typeFlask ID  
+ 5x 50mL shake tube  
+7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+  
+E125 flask7700-NANDO3F-Chicken P3-1of1  
+  
+  
+  
+
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+50 mL spin tubes  
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Media
+
+1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF + 1x p/s  
+2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic +100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+3. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+4\. Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+5\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic  \+ 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+
+
+
+
+Prepare media  
+1\. Place the aliquoted media in waterbath: 14:14
+
+2\.  10mL  mL of each respective type of Growth Media
+
+3\.  25ml CD CHO and 25mL CDM4 Avian
+
+
+
+
+Process 50mL shaker flasks on OT2:
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected 6 x culture vessels from shaker
+  3. Centrifuged at 300 x g for 5 min. 14:21 - 14:26
+  4. Ethanol sprayed 5 x NANDO shake tubes and loaded on OT2 (Otis)
+  5. Ran "Media change 5 x 50 mL tubes suspension culture" protocol (attached above) 
+    1. Order of media in 12-well reservoir
+      1. control
+      2. RPMI
+      3. CD CHO
+      4. Avian
+      5. HyCell
+    2. Start time: 2:43:24 PM
+    3. End time: 15:00
+    4. Run time: 16 min 36 seconds
+  6. Returned vessels to incubator and repeated process with 5 x DOLLY 50 mL shake tubes
+  7. Centrifuge timestamp: 15:16 - 15:21
+    1. Protocol start time: 3:30:09 PM
+    2. Protocol end time: 15:44
+    3. Run time: 14 min 27 seconds
+  8. Returned vessels to incubator.
+
+Process E125 flasks:
+
+1\. Transfer culture vessels to BSC
+
+2\. Using a 5 mL serological pipette, gently pipette-mixed culture for 1
+minute to break up cell clumps
+
+3\. Pipetted suspension though 70 um cell strainer into 2 x 50 mL tube
+
+4\. Centrifuged at 300 x g for 5 min. 16:33 - 16:38
+
+5\. Aspirated supernatant, taking care to not disrupt or aspirate pellet
+
+6\. Re-suspended cultures in fresh 25 ml of appropriate media using
+serological.
+
+8\. Gently pipette-mixed cultures again before moving back to spin tubes
+
+9\. Returned vessel to incubator and replaced in clamp. 16:45  
+
+[X ]  37ºC, 5% CO2
+
+  
+
+  
+
+
+
+
+Stain and image:
+
+  1. Took 100 uL samples of each culture, transferred to wells in 96 well plate
+  2. Prepared two stain buffers of:
+    1. 1 mL dPBS and 5 drops Hoechst  
+    2. 1 mL dPBS and 5 drops NucGreen  
+  3. Added 20 uL of Hoechst stain buffer to each well, pipet mixed each well
+  4. Incubated at room temperature in the dark for 10 minutes  16:43 -16:53   
+
+  5. Added 20 uL of NucGreen stain buffer to each well, pipet mixed each well
+  6. Incubated at room temperature in the dark for 10 minutes  16:55 - 17:05   
+
+  7. Centrifuged at 650 RCF for 1 minute 17:09 - 17:10  
+
+  8. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7742  
+  9. Plate setup was as follows:
+    1. Row B, 2-5:
+      1. 7743
+      2. 7415
+      3. 7465
+      4. 7466
+    2. Row D, 2-11
+      1. 7689
+      2. 7690
+      3. 7691
+      4. 7692
+      5. 7693
+      6. 7694
+      7. 7695
+      8. 7696
+      9. 7697
+      10. 7698
+      11. 7699
+    3. Row G, 2-3
+      1. 7694
+      2. 7700
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+dPBS  
+a5729  
+  
+NucBlue Reagent Hoechst33342  
+s3594  
+  
+NucGreen Reagent Sytox green  
+  
+  
+  
+  
+
+
+
+
+Observations from watching OT2 process NANDO:
+
+\- dispense speed of new media to tube is very slow - we can speed this up a
+lot Increased to 700 uL/s
+
+\- could we also speed up aspiration from fresh medium? Q for Derek: Is it
+safe to do faster than "default"? Will it be accurate?  
+
+\- did not aspirate full 4.5 from cultures - think the cultures had less than
+5 mL in them, maybe from evaporation? Or just less exact measuring during
+feeds
+
+\- maybe slow down aspiration to be safer? It's already at default which is
+quite slow - probably being over-cautious with this one
+
+\- 500 uL of dead volume in 12-well reservoir works well, however Avani uses
+1.5 mL dead vol. Also, 12-well reservoir was slightly warped so the middle of
+the base came up higher than the edges - meant that the pipette was trying to
+aspirate but was touching the bottom of the well so couldn't get all media.
+Only impacted culture 7697, and the rest of the medium was added by hand after
+protocol. Given these issues, it might be best to use 15 mL tubes instead of a
+12 mL reservoir. Also more sterile.
+
+\- Add protocol with sampling step for end of each culture e.g. after mixing,
+takes 100 uL and puts in 96WP for staining
+
+  
+
+Observations from watching DOLLY
+
+\- 700 is too fast - generated bubbles on surface - going to adjust to 300 and
+see how next feed looks
+
+

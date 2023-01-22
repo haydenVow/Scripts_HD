@@ -1,0 +1,92 @@
+Quick summary of main findings
+
+
+All cells experience significant cell loss between days 4-10 of
+differentiation in E6 media (see Prism file for statistics and p values).
+However, the cell loss seen in BUFFY6, DAISY4 and C2C12 cells in E6 is low
+compared to the cell loss experienced in DOLLY12 cells in E6. DOLLY12 cells in
+E6 media experience a much higher degree of cell loss between Day 4 - Day 10
+compared to other cell lines.
+
+
+Discussion
+
+
+Cell loss has been witnessed repetitively throughout 2021 Q3, leading to a
+full Cell Loss Investigation in 2021 Q4. DOLLY12 cells were used for all
+differentiation assays (along with C2C12s in some cases), and regularly
+experienced cell loss which inhibited valuable data retrieval from each
+experiment. For this reason, a controlled differentiation assay was composed
+for DOLLY12, DAISY4, BUFFY6 and C2C12 cells. All cells were exposed to the
+same Growth media, the same differentiation media (each cell line had 8 x E6
+biological replicates for each time point and 8 x 2% HS biological replicates
+for each time point).
+
+E6 = differentiation media made in-house (Essential 8 Medium mix, minus FGF
+and TGFb) made as per this recipe
+
+2% HS = DMEM/F12 + 2% Horse Serum + 1x P/S differentiation media
+
+1 x plate containing 8 x wells in E6 and 8 x wells in 2% HS media was fixed
+for each cell line at Day 0, Day 4 and Day 10 of differentiation. Once all
+plates were fixed, cells were stained with DAPI and imaged on UV (on the Zaber
+imaging platform). Images were run through a DAPI counting macro, which uses
+FIJI (Fiji Is Just ImageJ), which results in a count output for each well. The
+data was then used to calculate mean values and standard deviation of each
+condition. The data was then fed into GraphPad/Prism 8 to generate Graph 1.
+
+Key findings from visualising the graph indicate that DOLLY12 cells in E6
+experience notable cell loss between days 4 - 10 of differentiation, whereas
+all other primary cell lines (DAISY4 and BUFFY6) do not exhibit the same
+behaviour. C2C12 cells also experience a reduction in cell numbers between day
+4 and day 10 in E6 differentiation media, however the remaining cell number in
+those samples is still much higher than all other samples.
+
+An interesting observation is that C2C12 cells in both types of
+differentiation media experience cell loss between Day 0 to Day 4. It is
+possible that this is due to over-population of C2C12 cells in the wells. It
+was also observed that the differentiation media was notably more yellow when
+pulled from the incubator before feeds, therefore the cell loss may be due to
+high acidity (as a result of high cell number within each well, compared to
+primary cells).
+
+Due to the fact that all cells were exposed to the exact same media, fed at
+the same time and handled by the same operator (each day) and all other
+primary cell lines in E6 maintained their cell numbers over 10 days, it is
+unlikely that the E6 media batch itself is the reason for such a loss of cells
+in DOLLY12 samples, but rather that E6, the way it is currently formulated, is
+not optimised for DOLLY12 cell survival over 10 days of culture.
+
+It is also possible, however, that the DOLLY12 cells used in this experiment
+are at such a late passage that they cannot survive the 10 days of
+differentiation, due to approaching the hayflick limit. This will be addressed
+in future experiments.
+
+
+Limitations
+
+
+  * Due to inconsistencies with cell proliferation rates, each cell line was seeded into its own 96-well plates, so plate-to-plate variability may be cause for some variability between cell lines.
+  * Without an intermediate time point between Day 4 and Day 10 of differentiation, it is unclear how early or late the DOLLY12 cells in E6 began to decrease in number significantly.
+
+
+Future Directions
+
+  * Verify the relationship between E6 and DOLLY12 cell loss
+  * Use BUFFY6 cells for future differentiation experiments, as it appears to be a more suitable primary cell line to differentiate in E6 media (as it is currently formulated)
+  * Perform DSD experiments to optimise E6 differentiation media to support cell survival of DOLLY12 MuSCs as well as all other primary MuSCs
+  * Compare DOLLY12 MCB and WCB cells to determine whether cells are being lost due to senescence (reaching the hayflick limit).
+
+
+Conclusion
+
+
+When comparing DOLLY12, DAISY4 and BUFFY6 primary MuSCs with C2C12
+(immortalised mouse myoblasts) in 10 days of differentiation, DOLLY12 cells in
+E6 differentiation media suffer the greatest cell loss compared to all other
+conditions.
+
+This is possibly due to senescence of the DOLLY12 cells (from a WCB), and will
+be further investigated.
+
+

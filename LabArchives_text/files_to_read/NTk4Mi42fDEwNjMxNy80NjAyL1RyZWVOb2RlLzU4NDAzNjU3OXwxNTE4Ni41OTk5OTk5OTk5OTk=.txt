@@ -1,0 +1,157 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: AB  
+
+
+
+
+Culture IDs:
+
+Flask typeflask IDflask location  
+Seeded vessel typeSeeded flask ID  
+T25  
+8445-F_DOLLY12_1A16-Sheep P16-1of1  
+#78  
+T25  
+8513-F_DOLLY12_1A16-Sheep P17-1of1  
+  
+T25  
+8446-F_DOLLY12_4C4-Sheep P16-1of1  
+#78  
+T25  
+8514-F_DOLLY12_4C4-Sheep P17-1of1  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)m7382  
+  
+Growth Mediam6860  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      6.5   mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     13  mL
+  3. Growth media (for pellet resuspension and seeding):      2x 6  mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+13:45  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   13 :53  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     3    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    13:58 -  14:13   .   
+
+7\. Neutralised with    3 mL   dPBS and combined cell suspension into a    15
+mL     tube for each flask.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:20 - 14:25      
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL     growth     media  
+
+11\. Aliquoted      10 uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was: 
+    1. 4C4:     1 092 000  cells       
+
+    2. 1A16:     108 000   cells.    
+
+  2. Volume of cell suspension required for subculture was: 
+    1. 4C4:    80  uL     
+
+    2. 1A16:    all uL      
+
+  3. Cell density per vessel:     175 000 cells per flask (7000 cells/cm^2)      
+
+
+
+
+13\. Transferred    175 000 cells to the pre-warmed      5     mL Growth
+media:  
+
+14\. Transferred cell suspension into        1x T25    for each clone.
+
+16\. Transferred vessel(s) to incubate at:   15 :07  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator #78  
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Passaged 2 clones:
+
+8445-F_DOLLY12_1A16-Sheep P16-1of1  
+8446-F_DOLLY12_4C4-Sheep P16-1of1
+
+Cell size for 1A16 cells looks big when seen under the microscope during
+haemocytomer count.
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8445: https://mia-capture.vow.tools/#/session/reckcfJzlBJ7HDYF4/images
+
+8446: https://mia-capture.vow.tools/#/session/recwBikD0Eeohi3EI/images
+
+

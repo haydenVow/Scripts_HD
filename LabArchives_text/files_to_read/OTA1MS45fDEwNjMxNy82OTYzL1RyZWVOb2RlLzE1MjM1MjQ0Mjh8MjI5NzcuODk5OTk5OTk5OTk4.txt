@@ -1,0 +1,221 @@
+
+
+Performed by: Bonnie Tangey
+
+
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+### Process: Passage and seed  
+
+  1. Observed vessels under the microscope (could not image as image capture not working).
+  2. Aliquoted seeding media, PBS and Tryple and then placed all aliquots in 37C water bath for a minimum of 20 minutes prior to use
+  3. Removed vessel(s) from the incubator
+  4. Washed the vessel(s) with dPBS (warmed).
+  5. Added    10 (T175s) or 100mL (2CF)   mL tryple to each vessel/well and incubated at 37˚C for 10min (OptiPro cultures) 15min (KSR cultures).
+  6. Neutralised with    10 (T175s) or 100mL (2Cf)   dPBS and combined cells from each group into seperate      50ml   tubes.
+  7. Centrifuged at 650 x g for 5 min.
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in 5-10mL PBS.   
+
+  10. Note: KSR flasks had considerable cell clumping that could not be broken apart with a pippet. They were filters through a 70um cell strainer to obtain a single cell suspension prior to the count. It is likely that a significant number of cells were lost during this process.   
+
+  11. Took 2x 30-50ul aliquots from each condition, and performed trypan blue counts  
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+CELL COUNTS  
+BOBBO: 37.62M  
+BOBBK: 9M  
+BIRDO: 4.455M  
+BIRDK: 12M
+
+  12. For each group, 3 x E125 flasks were seeded, and the remaining cells were banked as MCBs. One with each of the following medias  
+OptiPRO + 0.2% Pluronic + 2mM Glutamax  
+CDM4 Avian + 2.5mM Glutamax  
+Nuvonis supension media  
+BOBBO: 6M cells seeded into E-125 flasks (only 1M cells per flask due to low
+numbers of cells harvested). Remaining cells frozen in 7 vials as MCB in
+Cryostor.  
+BOBBK: 6M cells seeded into E-125 flasks (only 1M cells per flask due to low
+numbers of cells harvested). Remaining cells frozen in 3 vials as MCB in
+Cryostor.  
+BIRDYO: 3M cells seeded into E-125 flasks (only 1M cells per flask due to low
+numbers of cells harvested). Remaining cells frozen in 2 vials as MCB in
+Cryostor.  
+BIRDYK: 3M cells seeded into E-125 flasks (1M cells per flask, had intended to
+seed 2M per vial, but seeded 1M in error). Remaining cells frozen in 6 vials
+as MCB in Cryostor.  
+
+
+
+
+  
+
+Culture ID  
+Line  
+Media  
+NotesImages  
+  
+10703  
+10704  
+10705  
+BIRDKDMEM/F12 + 10% KSR  
+Variable morphology and confluence, 100% confluent in some areas. Fibroblastic
+and neural/glial looking.  
+Unable to image, microscope image capture not working.  
+  
+10706  
+10707  
+10708  
+BOBBK  
+DMEM/F12 + 10% KSR  
+largely fibroblastic, 100% confluent in some areas.  
+  
+10868  
+10867  
+BIRDO  
+OptiPRo + 4mM Glutamax  
+Largely fibroblastic, variable confluence, estimate 80% on average.  
+  
+10819  
+BOBBO  
+OptiPRo + 4mM Glutamax  
+Healthy, fibroblastic morphology. 95-100% confluent  
+
+
+  
+  
+Banking details
+
+Banked Culture IDs  
+Line  
+No of Vials Banked  
+No of cells/vial  
+Banked vial IDs  
+  
+10703  
+10704  
+10705  
+BIRDK  
+6  
+1.5M  
+14152,14153,14154,14155,14156,14157  
+  
+10867  
+10868  
+BIRDO  
+2  
+750K14150, 14152  
+  
+10706  
+10707  
+10708  
+BOBBK  
+3  
+1M  
+14158,14159,14160  
+  
+10819  
+BOBBO  
+7  
+4.5M  
+14161,14162,14163,14164,14165,14166,14167  
+  
+
+
+  
+  
+Seeding details
+
+Banked Culture IDs  
+Line  
+Seeded into mediaCulture IDs  
+  
+10703  
+10704  
+10705  
+BIRDK  
+OptiPro + 0.2% Pluronic + 2mM Glutamax  
+10926  
+  
+Nuvonis suspension media  
+10927  
+  
+CDM4 Avian + 2.5mM Glutamax  
+10928  
+  
+10867  
+10868  
+BIRDO  
+OptiPro + 0.2% Pluronic + 2mM Glutamax  
+10923  
+  
+Nuvonis suspension media  
+10924  
+  
+CDM4 Avian + 2.5mM Glutamax  
+10925  
+  
+10706  
+10707  
+10708  
+BOBBK  
+OptiPro + 0.2% Pluronic + 2mM Glutamax  
+10929  
+  
+Nuvonis suspension media  
+10930  
+  
+CDM4 Avian + 2.5mM Glutamax  
+10931  
+  
+10819  
+BOBBO  
+OptiPro + 0.2% Pluronic + 2mM Glutamax  
+10932  
+  
+Nuvonis suspension media  
+10933  
+  
+CDM4 Avian + 2.5mM Glutamax  
+10934  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+OptiPRO + 2mM Glutamax + 0.2% Pluronic  
+M 10521  
+  
+CDM4 Avian + 2.5mM Glutamax M 10626  
+  
+Nuvonis Suspension Media base  
+M 10615  
+  
+EGF  
+M9201  
+  
+IGF  
+M9190  
+  
+Tryple  
+M 9289  
+  
+PBS  
+M 10380  
+  
+Cryostor  
+S 4439  
+  
+  
+  
+
+

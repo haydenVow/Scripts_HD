@@ -1,0 +1,216 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL VB  
+
+
+
+
+Passage culture IDs:
+
+Harvested flask typesHarvested flask IDsMedia/conditionsSeeded flask types  
+Seeded flask IDs  
+Media/conditions  
+  
+T25
+
+8441-F_DOLLY12-Sheep P13-1of2  
+8442-F_DOLLY12-Sheep P13-2of2
+
+D/F+10%FBS+1xP/S  
+T258498-F_DOLLY12-Sheep P14-1of2  
+8499-F_DOLLY12-Sheep P14-2of2  
+D/F+10%FBS+1xP/S  
+  
+  
+8443-F_DOLLY12-Sheep P13-1of2  
+8444-F_DOLLY12-Sheep P13-2of2
+
+D/F+1%FBS+9%KSR+0.1xP/S  
+  
+8500-F_DOLLY12-Sheep P14-1of2  
+8501-F_DOLLY12-Sheep P14-2of2  
+D/F+1%FBS+9%KSR+0.1xP/S  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleMix 5225  
+  
+dPBS (for washing & neutralising)Mix 7357  
+  
+D/F+10%FBS+1xP/S  
+Mix 6934  
+  
+D/F+10%KSR  
+Mix 6810  
+  
+IGF-2  
+Mix 3644  
+  
+FGF-B  
+Mix 5077  
+  
+DMEM/F12  
+Mix 6700  
+  
+D/F+20%KSR+1XP/S  
+Mix 6762  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2-3 images of each vessel with microscope on phase setting at 10X
+magnification.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE: 13 mL in 1 x 15 mL tube 
+  2.  dPBS (for neutralising & washing):   25 mL in 1 x 50 mL tube
+  3. Growth media:
+    1. 11 mL x D/F + 10%FBS + 1xP/S  
+
+    2. 11 mL x D/F + 9%KSR + 1%FBS + 0.1xP/S + FGF-B + IGF-LR3 ~~\+ PDGF-BB  ~~(out of stock)   
+To make this aliquot, combined:
+
+      * 9.9 mL of D/F + 10%KSR with 1.1 mL of D/F + 10%FBS + 1xP/S
+      * Added 5.9 uL FGF, 10.89 uL IGF ~~and  ~~ ~~24.75 uL PDGF~~ to aliquot (as shown in table below). These growth factors are located in the top drawer of the right hand -20 freezer in Main Lab. See "Media/reagents used" table above to see Mix IDs to ensure you are using the correct growth factors, as there are many with similar names e.g. IGF-2 and FGF-A. 
+
+Time that all aliquots were placed in the incubator to warm before use
+13:35  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+Total (mL)9.9  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.000030.050.0002975.94  
+IGF10.000110.10.00108910.89  
+PDGF0.0000250.010.000247524.75
+
+
+  
+  
+4\. Removed vessel(s) from the incubator  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   15:18 - 15:34     
+
+7\. Neutralised with    3    dPBS and combined cell suspension into     4 x 15
+mL    tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   15 :45 - 15:50   
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL  respective growth  media  
+
+11\. Aliquoted  10uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Added data to doubling spreadsheet:
+https://docs.google.com/spreadsheets/d/1We8TyzxliP8WTA0vCIwBTs3LNHsSLCO5C9Aj8zYYcsM/edit#gid=0
+
+  1. Total cell numbers were: 
+    1. 8441 (D/F + 10%FBS +1xP/S): 572,000
+    2. 8442 (D/F + 10%FBS +1xP/S): 540,000  
+
+    3. 8443 (D/F+5%FBS+5%KSR+0.5xP/S): 144,000  
+
+    4. 8444 (D/F+5%FBS+5%KSR+0.5xP/S): 172,000  
+
+  2. Volumes of cell suspension required for subculture were:
+    1. 8441 (D/F + 10%FBS +1xP/S): 131 uL
+    2. 8442 (D/F + 10%FBS +1xP/S):   139 uL  
+
+    3. 8443 ~~ ~~ (D/F+2.5%FBS+7.5%KSR+0.25xP/S):  500 uL ~~  
+~~
+
+    4. 8444  (D/F+2.5%FBS+7.5%KSR+0.25xP/S):  436 uL  
+
+  3. Cell density per vessel:    7000 cells / cm2  
+
+
+
+
+13\. Transferred   above volumes  of cell suspension to the pre-warmed    4 x
+5mL Growth media:  
+
+14\. Transferred cell suspension into the   4 x T25  vessel.
+
+15\. Transferred vessel(s) to incubate at: 17:00
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) incubator 80
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:  
+
+1) Ran out of 10%KSR medium after adding 7.5 mL to aliquot so combined 1.2 mL
+of D/F+20%KSR+1xP/S with 1.2 mL of DMEM/F12 and added this 2.4 mL to 7.5 mL
+aliquot to make up to 9.9 mL. This means that this iteration will have
+slightly higher levels of P/S than last iteration of 9%KSR medium (__% vs
+0.1%)
+
+2) Cells in 9%KSR medium formed rafts/clumps during tryplisation - looks
+similar to when they formed large sheets in earlier iterations of this
+experiment but on a smaller scale (see images attached below)
+
+
+
+
+Relevant Images/Figures (if applicable)
+
+MIA Links  
+
+8441 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/recPno9Zmen0YFPVC/images
+
+8442 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/rec7RDe3j7uIWIGty/images  
+
+8443 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/rec68xPi7cXw8YnGQ/images
+
+8444 (Phase, 4X): https://mia-
+capture.vow.tools/#/session/rech27c7EtBwZqLyD/images
+
+Cells forming rafts/clusters during tryplisation in 9%KSR medium
+
+  
+
+

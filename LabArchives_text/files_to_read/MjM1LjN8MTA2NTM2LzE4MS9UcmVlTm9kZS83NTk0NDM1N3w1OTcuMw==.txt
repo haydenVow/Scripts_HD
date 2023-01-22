@@ -1,0 +1,221 @@
+
+
+Batch Overview
+
+Batch Goals:
+
+  * Optimisation: Improve upon previous experimental findings and continue to find new ways to increase batch yield in adherent cultures 
+
+Experimental Questions:
+
+  1. Do cells take longer to peel/aggregate during extended VitC treatment in Thermo/Nunc 10CF or Corning 10CS?
+    1. Can we replicate the yield increase previously produced with extended VitC treatment (Batch 14)?
+  2. Can we produce greater yields in E-Flasks?
+    1. Is the previously observed (Batch 14) loss in cell yield due to the E-flask environment/seeding or the treatment?
+    2. Does VitC alone produce greater yields in E-Flasks?
+  3. Can we produce greater yields in Roller bottles?
+    1. Do the cells stick down effective with our current roller apparatus settings?
+    2. Do cells peel off at the same rate as 10CS/CF in Roller bottles after extended VitC treatment?
+
+Reasons for Investigating these Questions:
+
+  1. In previous experiment (Batch 14) the experiment needed to be cut short because the aggregate sheets started to peel off the flasks. We wanted to investigate if there is a significant difference in adhesion time between the two brands of flasks to see if we should be using one over the other at the final/P4 stage.
+  2. In the previous batch (14) we found that aggregates could form in static E-flasks treated with VitC (50ug/mL) + TGFb (10ng/mL) for 24hrs. The purpose of these experiments is to optimise this further and see if it is a viable option for P5 of future batches.The previous batch (14) did not have a control condition so it was not clear if the observed loss in cell yield was a result of the E-Flask environment/seeding or the treatment itself. We have added a control to this experiment to determine this. We also didn't previously test VitC alone so will be doing that this time.
+  3. Roller bottles may allow us to further increase our cell yield and give us easy access to remove the biomass. We need to first establish the ideal conditions/setting for roller bottles and determine if our usual treatments behave the same in this flask. It is possible that the circular, continuous growth surface will allow the cells to stay adhered for longer during the Vitamin C treatment phase, thus allowing a greater yield to be reached.
+
+  
+
+Experimental Timeline/Overview (Original Plan):
+
+  
+
+  
+
+Experimental Deviations:
+
+Original Plan
+
+Amended Plan  
+  
+Earlier harvesting: 10CF (Thermo/Nunc) flasks were harvested earlier than
+anticipated due to peeling/aggregation formation in both the VItC treated and
+control flasks.  
+  
+Extended incubation time for Bottles A and B: Due to a lack of peeling, the
+incubation time of Bottles A and B were extended, at D9 post treatment still
+no peeling was observed but bottles were harvested anyway in order to acquire
+results and plan new experiments.  
+  
+  
+  
+Full Batch Summary:
+
+P1 - 4 days in between passage  
+P2 - 7 days in between passage  
+P3 - 6 days in between passage  
+P4 - 6 days in between Vitc treatment  
+A. VitC (50ug/mL) Treatment: 10CF (Thermo/Nunc) harvested 48hrs after VitC
+Treatment due to peeling/aggregate formation. 10CS (Corning) harvested 5 days
+after VitC Treatment due to peeling/aggregate formation.
+
+P5:
+
+B. E-Flasks: No Treatment, VitC (50ug/mL) (ONLY), VitC (50ug/mL) + TGFb
+(10ng/mL). All harvested after 24hr of treatment.  
+C. Roller Bottles: Bottle (C) VitC seeded was harvested on D9, Bottle (B) VitC
+treatment on D7 and harvested on D16, Bottle (A) Control harvested on D16.
+
+  
+
+Experimental Outcomes:
+
+VitC (50ug/mL) Treatment:
+
+Flask TypeTime taken to form aggregatesVitC Treated (1) Pellet weightVitC
+Treated (2) Pellet weight Control (Not treated) Pellet weight  
+10CS (Corning)48hrs4.41g5.47g2.62g  
+10CF (Thermo/Nunc)4-5 Days3.0g2.73g1.97g  
+  
+  
+
+  * VitC Treated data displayed as an average of the 2x10CF/CS treated with VitC. 10CS: average =  4.94, 10CF: average = 2.87 (n=2). Error bars display SD.
+  * Control data is from 1x10CS/CF (n=1)
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+1\. Do cells take longer to peel/aggregate during extended VitC treatment in
+Thermo/Nunc 10CF or Corning 10CS?
+
+Cells take longer to peel/aggregate in the 10CS (Corning). The VitC treated
+10CF showed signs of peeling/aggregation at 48hrs after treatment at which
+time the VitC treated 10CS showed no signs of peeling/aggregation. This
+occurred between days 4 and 5 in VitC treated 10CS, an extra 48-72hrs after
+the 10CF (Thermo/Nunc)
+
+  1. Can we replicate the yield increase previously produced with extended VitC treatment (Batch 14)?
+
+Yes. In the 10CS (Corning) we were able to produce double the biomass compared
+to the control therefore replicating the results of Batch 14. There was also a
+slight increase in biomass with the 10CF (Thermo/Nunc) but this was much
+smaller. In future, when VitC treating in multi-layered flasks, 10CS should be
+used not 10CF.
+
+  
+
+E-Flasks:
+
+Individual cell weight calculated in this experiment:
+
+From 6x10CS/CF Harvest:
+
+  * 2,126,580,000 cells were harvested
+  * with a weight of 10.624g
+
+Therefore the weight of one cell is: 10.624g / 2,126,580,000 cells = 4.996ng
+
+Each E-flask was seeded with 232,036,667 cells, therefore the weight put into
+each E-Flask was: 4.99ng * 232,036,667 =  1.159g
+
+Treatment Type (All Static)E125 (1)E125 (2)E125 (3)  
+No Treatment1.1331.1581.132  
+VitC (50ug/mL) ONLY1.2231.3981.156  
+VitC (50ug/mL) + TGFb (10ng/mL)1.2031.1991.221  
+  
+  * Results are displayed as an average of the results from 3xE125 (n=3)
+  * Error bars display SD
+  * Dotted line displays the estimated weight of cells put into each E125
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+2\. Can we produce greater yields in E-Flasks?
+
+In this experiment cells did not aggregate like seen in Batch 14. There were
+two main differences between the experiments that may have contributed to this
+result. The concentration of cells were significantly higher in this
+experiment (3.5Mcells/mL in Batch 14 compared to 10.5Mcells/mL in this
+experiment), the shape of the flask base was also different (E250 are flat,
+E125 have a baffled design *See picture below).
+
+More optimisation experiments would be required to see if E-flasks could be of
+benefit, however on our short time frame and the lack of obvious benefit
+currently present, this option will not be investigated any further.
+
+
+
+  1. Is the previously observed (Batch 14) loss in cell yield due to the E-flask environment/seeding or the treatment?
+
+This is still unclear. The current experiment does not show the same loss as
+seen in batch 14, however, there are still a number of factors that could be
+influencing these changes and the answer to the question cannot be determined
+without further investigation.
+
+
+
+Roller Bottles:
+
+  
+  
+Bottle (A) ControlBottle (B) VitC @D7Bottle (C) Seed with VitC  
+  
+Pellet Weight (g)  
+  
+0.50321.52520.5831  
+  
+  * Graph 1 displays the pellet weight produced by each roller bottle/condition (n=1).
+  * Graph 2 displays the time in treatment for each roller bottle (n=1). Bottle (A) was a control and not treated.
+
+Conclusions/Answers to Experimental Questions:
+
+3\. Can we produce greater yields in Roller bottles?
+
+YES! in terms of g/cm2 Roller Bottle (B) produced a yield that was DOUBLE the
+highest yield in 10CS. In addition, Roller Bottle (C) seeded in VitC produced
+a very similar yield (g/cm2) to the highest produced in VitC treated 10CS.
+
+        1\. Do the cells stick down effective with our current roller apparatus settings?
+
+Yes cells in all conditions cells adhered and reached 100% confluence. Bottle
+(A) and (B) never displayed any peeling/aggregation despite time in culture or
+treatment condition.
+
+        2\. Do cells peel off at the same rate as 10CS/CF in Roller bottles after extended VitC treatment?
+
+This depends on the time of treatment:
+
+  * In Roller Bottle (C) VitC Seeded, the cells stuck down for the same amount of time as seen in T175 flasks seeded with VitC (8 days) before peeling/aggregation was observed and produced a final yield (g/cm2) similar to the highest yield achieved in 10CS. 
+  * However, Roller Bottle (B) treated with VitC @D7 lasted significantly longer than 10CS VitC treated flasks and even at 9 treatment days no peeling/aggregation was observed (10CS VitC treated flasks peel between 2-4 treatment days). This resulted in DOUBLE the yield (g/cm2) in the roller bottle compared to the highest pellet weight achieved in 10CS. 
+
+Therefore despite having similar treatment lengths, the time at which this
+treatment is applied is highly important for roller bottles yields and
+treating later seems better than seeding in the treatment. It is also possible
+that a higher yield may have been achieved if the cells were grown for longer
+as no peeling was observed at the time of harvest. There was also no
+aggregation in the Control Roller Bottle (A) this is in contrast to 5CS/10CF
+which have shown aggregate formation after prolonged incubation time/very high
+confluence.
+
+  
+
+Unanswered Questions:
+
+  * Is the previously observed (Batch 14) loss in cell yield due to the E-flask environment/seeding or the treatment?
+
+  
+
+Overall Key Findings:
+
+  * If VitC treating in multi-layered flasks 10CS should be used NOT 10CF
+  * We can achieve 2x our highest yield in 10CS with Roller bottles!
+    * VitC treatment time is important for this. Treating later is better than seeding with VitC
+
+Batch Achievements:
+
+  * Increased the yield 2x AGAIN! We are now able to produce 4x our maximum yield at the start of Q3.
+  * Effectively used roller bottles for the first time 
+  * Identified an important difference between different brands of 10-layered flasks
+
+

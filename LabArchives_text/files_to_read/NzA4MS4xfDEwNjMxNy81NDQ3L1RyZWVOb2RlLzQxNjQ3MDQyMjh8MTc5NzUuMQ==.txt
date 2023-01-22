@@ -1,0 +1,101 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+Hypothesis
+Technical Gap
+Method/Procedure
+
+
+Things to note
+
+  * Cells will be harvested when the flasks reach ~100% confluence, hence being unable to assign a specific day for seeding
+  * The base/control medium for this experiment is CD CHO + 10% KSR + 1:100 ACA + 1:100 glutamax + 1xP/S + 6G supplement  
+    * The medium can be prepared ahead of time without the 10% KSR and 6G supplement. When preparing the medium for the experiment, leave 10% of volume free for KSR addition. No need to leave room for the 6G supplement as it only makes up ~600 uL per 100 mL of medium. 
+    * The 10% KSR and 6G supplement (100 ng/mL FGF/IGF, 10 ng/mL PDGF, lipid supplement 1:1000, RGD 100 ng/mL, YIGSR 100 ng/mL) will be added on the day of feeding directly to media aliquots 
+
+Resources
+
+  * Medium ingredient calculators: https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+  * Notion planning page: https://www.notion.so/vow/Big-ol-suspension-adaptation-experiments-2e6e7c0b09064e90a720cc03a0ed1d35
+  * Materials estimate spreadsheet: https://docs.google.com/spreadsheets/d/1IZ_v-dD1nthjQlDBfBMR_pAU4HrWgGbraCHoVDWc2lI/edit#gid=2084269312
+
+Experimental Plan  
+
+  1. D0: Thaw 110M F_DOLLY12 cells into 6 x 4CFs in DMEM/F12+10%FBS+1xP/S. Note: only 2 of the 4CFs will be used for this experiment - the remaining 4 will seed a further 2 suspension experiments
+  2. D3: Perform 50% feed with DMEM/F12 + 10% FBS + 1xP/S
+  3. D6: Perform 50% feed with CD CHO + 10% KSR + 1xP/S 
+  4. D~8: (1 day prior to harvesting) Prepare experimental media (need 2940 mL total for seeding and feeds - round up to 3000 mL) 
+    1. Prepare base medium without KSR or 6G supplement: 2,700 mL of CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S.  
+      * Calculations
+        * For seeding: 20 mL x 21 flasks = 420 mL 
+        * For feeds: (75% feeds, 2 x per week for 30 days = 8 feeds) 15 mL x 21 flasks x 8 = 2520 mL  
+  
+  
+  
+Prepare hydrolysate stock solutions (100 mL at 100g/L)  
+1\. Retrieve hydrolysates from the cell expansion fridge and/or ambient
+storage cabinet:  
+\- Difco soy hydrolysate S#3492  
+\- Bacto malt extract S#3493  
+\- Pea peptone S#3764  
+\- Wheat peptone S#3760  
+\- Lupin peptone S#3762  
+2\. Weigh out 10 g of each hydrolysate.  
+2\. Add the 10 g powder to 100 mL of Milli-Q water. According to this
+technical sheet the hydrolysates should be soluble in purified water and the
+solution should appear to be clear to slightly hazy.  
+3\. Sterile filtered the dissolved hydrolysate solution through a 0.22 um
+filter unit. This concentrate can then be used to add the hydrolysates into
+the growth media.  
+5\. Store solution at 4'C for 2-4 weeks.  
+  
+*Note: Please make sure that whenever media containing hydrolysates is required, that it is prepared on or as close to the day its required as possible. In order to make media with hydrolysates at 5g/L just add 1.5 mL of the hydrolysate concentrate to 30 mL of growth media.  
+  
+
+  5. D~9: (when ~100% confluent) Prepare medium and seed 21 x E-125 flasks with F_DOLLY12 cells  
+    1. Prepare media. Note: see schematic diagrams at bottom of step 5 for visual aid in media prep and seeding setup   
+
+  
+
+      * Aliquot: 380 mL of base medium
+      * Add 6G supplement ingredients and KSR to 380 mL aliquot as described in table below (this will result in ~420 mL aliquot)   
+  
+  
+  
+
+      * Split 420 mL aliquot into 7 x 60 mL aliquots
+      * Add _____ to 6 x 60 mL aliquots as described in table below  
+  
+  
+  
+
+    2. Add growth media in triplicates to E-125s and seed each flask with ~10M cells (see diagram below) 
+    3. Take 1 x 100 uL sample from each E-125 and move into separate wells of 1 x 96WP. Stain with Hoechst ReadyFlow and capture image using Zaber microscope to procure cell counts .  
+    4. Place E-125s on shaker platforms in incubator (37'C, 5%CO2) and set to shake at 120 rpm  
+
+  6. D~14: Perform 75% feed on E-flasks every Tuesday and Friday for minimum 30 days (use linked spreadsheet to calculate volumes to add for 75% feeds)
+
+    1. At every feed, stain, dilute and image samples from all E-flasks and zaber image for FIJI cell count analysis   
+
+    2. At every second feed, change cultures to new E-125 flasks
+
+    3. On Day 28 feed, perform haemocytometer counts alongside staining and imaging
+
+  7. Collate and graph all cell counts and perform statistical analysis    
+  
+  
+  
+
+  8. [Peer Review]
+  9. [Make amendments and Sign off] 
+  10. [Report writing (Draft)]
+  11. [Review & fill out Report (Full)]
+  12. [Ensure all lab books are complete & assign for review]
+  13. [Review Lab Books, results, report]
+  14. [Make necessary amendments and confirm with reviewer that experiment is complete
+  15. [Release note on Project Updates]  
+
+

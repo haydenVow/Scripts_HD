@@ -1,0 +1,242 @@
+Varying ratios of Dolly 12 Fibroblasts to Cytodex 1 microcarriers
+
+
+13/12/2021
+
+Seeding Dolly 12 Sheep Fibroblasts onto Cytodex 1 (17044801) microcarriers:
+
+  1. A constant microcarrier number (the manufacturer's recommended concentration) will be used in each of four Erlenmeyer flasks
+  2. Seeding density of fibroblasts will be titrated
+
+Our goal is seeding as few cells as possible for the greatest harvest in a
+reasonable timeframe. We will start by decreasing the number of cells per
+flask, using the manufacturer's recommended seeding density (3 g/L) a starting
+guide. 1 x 107 cells per 0.3 g microcarriers are recommended (i.e. 2,500,000
+cells and 0.075 g beads in each E125 flask containing 25 mL volume). We will
+create a cell dilution curve across four flasks, starting at 5 million cells
+per flask (double the recommended concentration) and titrating down to 0.625
+million cells.
+
+4 x E125 flasks, each containing 25 mL volume, were prepared such that each
+flask will contain ~75 mg microcarriers.
+
+Preparing Cytodex 1 microcarriers:
+
+  1. 0.35 g microcarriers weighed out (aiming for 0.3 g microcarriers)
+  2. Soak microcarriers in (Ca2+ and Mg2+ free) DPBS for 2 hours
+  3. Remove old DPBS and rinse microcarriers in fresh DPBS
+  4. Allow microcarriers to settle, remove supernatant, and made up to 20 mL in complete DMEM/F12 media
+
+Preparing Dolly 12 Dolly 12 Sheep Fibroblasts for seeding:
+
+  1. Each flask rinsed with 5 mL DPBS
+  2. 5 mL TrypLE added to each flask
+  3. Cells incubated at 37°C for 10 minutes
+  4. TrypLE inactivated via dilution with 5 mL DPBS
+  5. Cells collected in 4 x 50 mL tubes and spun at setting 6 for 10 minutes
+  6. Cell count: 24.25*10*104  = 4,225,000 cells/mL ∴ 500,000 cells per 118.3 μL.
+  7. Each of the 4 E125 flasks set up as follows in the below table:
+
+Number of cells per flasks5 million2.5 million1.25 million0.625 million  
+Volume of cell stock1183 μL592 μL296 μL148 μL  
+Volume of Cytodex 1 microcarrier stock5 mL5 mL5 mL5 mL  
+Volume of complete DMEM/F-1220 mL20 mL20 mL20 mL  
+  
+The remaining cells were seeded in 17 x T75 flasks, at a density of 500,000
+cells per flask (~7,000 cell/cm2).
+
+13/12/2021 lab maintenance:
+
+  1. Thawed out 50 mL frozen FBS in fridge
+  2. Made up 500 mL fresh media
+  3. Shaker installed in incubator
+
+15/12/2021
+
+One T75 flask split: 507,500 cells/mL split into two flasks seeded at 500,000
+cells per flasks.
+
+The cells in the remaining flasks were given a 50% fed.
+
+Observations and suggestions from today:
+
+  1. Tried to count cells on microcarriers using single-use haemocytometers. However, the microcarriers were unable to enter the opening on the haemocytometer. A glass slide and cover slip need to be used when counting cells on the microcarriers.
+  2. We also realised that we seeded the 0.625 million cells and 2.5 million cells into baffled flasks and the 1.25 million cells and the 5 million cells into non-baffled flasks. In future, we will keep the flask design consistent across single experiments. Our next experiments will all be performed in non-baffled flasks.
+  3. Using trypan blue to visualise cells on microcarriers does not work as the microcarriers absorb the dye very strongly and look very dark under the light microscope.
+  4. KEY OBSERVATION: 0.625 million cells per flask and 1.25 million cells per flask have a low number of cell per microcarrier; 2.5 million cells per flask and 5 million cells per flask have similarly higher numbers of cells per microcarrier (more cells in = more cells on). However, without a decent method with which to visualise cells (e.g. haematoxylin) we cannot determine the best seeding density. Brodie will bring haematoxylin from his lab tomorrow.
+
+15/12/2021 lab maintenance:
+
+  1. Made up 500 mL fresh media
+
+16/12/2021
+
+Adherent cells look healthy and ready for seeding on microcarriers tomorrow.
+
+Counting cells on microcarriers:
+
+  1. Most microcarriers in the flask seeded with 0.625 million cells were empty. The odd microcarrier had a single cell attached.  
+
+  2. 1.25 million cells per flask had very few cells per microcarrier--many microcarriers were empty, and those microcarriers that did have cells had only about 1-4 each.
+  3. 2.5 million cells per flask and 5 million cells per flask had significantly more cells per microcarrier. Between the three of us, we estimated 8 cells/microcarrier for the flask with 5 million cells, and 5-6 cells/microcarrier for the flask with 2.5 million cells.
+  4. For the next experiment, all flasks will be seeded with 5 million cells and the density of microcarriers will be varied.
+
+Observations and suggestions from today:
+
+  1. A 1:1 ratio of haematoxylin and DMEM/F-12 react to form clumpy debris which can make accurate cell counts hard. The longer the mixture of dye and media is left, the larger the aggregates. Going forward we will be sure to count cells immediately after the media and dye have been mixed so as to minimise time for aggregates to form.
+
+16/12/2021 lab maintenance:
+
+  1. Haematoxylin filtered
+  2. Weighed out 0.67 g Cytodex 1 microcarriers (to give approximately double the density of microcarriers per flasks as was used in the experiment set up on 13/12/2021)
+
+17/12/2021
+
+  1. To obtain at least 20 million cells, cells were collected from 12 flasks. Cells were incubated in TrypLE, spun down, resuspended in 10 mL media, and then counted using a 1 in 10 dilution in trypan blue (10 μL cells:90 μL dye).
+  2. Cell count: 227/8 x 10 x 104 = 2.83 x 106 cells/mL; 28,375,000 cells total ∴ 5 x 106 cells per 1.76 mL.
+
+Microcarriers soaked overnight from 16/12/2021 were rinsed in PBS and then
+made up to 20 mL with DMEM/F12 media.
+
+Microcarrier density compared to 13/12/2021 experiment0.5 x1 x2 x4 x  
+Number of cells per flasks5 million5 million5 million5 million  
+Volume of cell stock1.76 mL1.76 mL1.76 mL1.76 mL  
+Volume of Cytodex 1 microcarrier stock1.25 mL2.5 mL5 mL10 mL  
+Volume of complete DMEM/F-1223.75 mL22.5 mL20 mL15 mL  
+  
+The remaining cells were seeded in 5 x T75 flasks, at a density of 500,000
+cells per flask (178 μL cell stock; ~7,000 cell/cm2).
+
+19/12/2021
+
+  1. 50% media change performed for all T75 flasks. I.e. 6 mL DMEM/F12 media removed and replaced with 6 mL fresh DMEM/F12 media.
+  2. Cells in E125 flasks given 50 % fed. I.e. 12.5 mL media removed and replaced with 12.5 mL fresh DMEM/F-12.
+  3. Cells imaged and returned to 37°C incubator.
+
+20/12/2021
+
+Count cells on microcarriers seeded on 17/12/2021; stain with haematoxylin;
+apply to glass slide.
+
+Cell count (each value under the cells/microcarrier column represents a count
+for a single microcarrier):
+
+Bead densityCells/microcarrierAverage  
+0.58; 8; 7; 6; 10; 9; 9; 9; 12; 9~8.7  
+111; 13; 6; 10; 10; 17; 19; 11; 12; 11; 15; 17; 18~13.1  
+26; 7; 3; 2; 6; 4; 4; 7; 4; 6~4.9  
+45; 5; 6; 4; 7; 4; 8; 5; 1; 4~4.9  
+  
+CONCLUSION: The 1 x microcarrier density (~75 mg microcarrier per flask)
+recommended by the Cytodex 1 manufacturers (3g/L) was the optimal microcarrier
+density when seeded with 5 million cells.
+
+Preparing Cytodex 1 microcarriers:
+
+4 x density microcarriers left to soak in DPBS: 1.2  g microcarrier soaking in
+120 mL PBS
+
+Two tubes of 2 x density microcarriers left to soak in DPBS: 0.6  g
+microcarrier soaking in 55 mL PBS each
+
+  1. Soak microcarriers in (Ca2+ and Mg2+ free) DPBS for 2 hours
+  2. Remove old DPBS and rinse microcarriers in fresh DPBS
+  3. Allow microcarriers to settle, remove supernatant, and made up to 20 mL in complete DMEM/F12 media
+
+Preparing Dolly 12 Dolly 12 Sheep Fibroblasts for seeding:
+
+  1. 10 x T75 flasks rinsed with 5 mL DPBS
+  2. 5 mL TrypLE added to each flask
+  3. Cells incubated at 37°C for 10 minutes
+  4. TrypLE inactivated via dilution with 5 mL DPBS
+  5. Cells collected in 4 x 50 mL tubes and spun at setting 6 for 10 minutes
+  6. Resuspend cells in 10 mL media
+  7. Dilute cells 1 in 4 with trypan blue
+  8. Cell count: 44.375*4*104  = 1,975,000 cells/mL ∴ ~ 20 million cells (2 million cells per flask).
+  9. Each of the 3 E125 flasks set up as follows in the below table:
+
+Flask no.Bead density (x manufacturer's recommended conc.)Cell seeding
+numberAttachment time  
+11 x5 million5 min  
+21 x5 million15 min  
+32 x10 million15 min  
+  
+2.5 mL microcarriers used for 1 x bead density; 5 mL microcarriers used for 2
+x bead density.
+
+2.5 mL cell stock used for 5 million cells per flask; 5 mL cell stock used for
+10 million cells per flask.
+
+Cell counts for flasks no. 1 & 2 will be compared; cells counts for flasks no.
+2 & 3 will be compared.
+
+20/12/2021 Lab maintenance:
+
+  1. Water bath emptied and cleaned
+
+22/12/2021
+
+Cell on microcarriers seeded on 20/12/2021 were counted.
+
+Cells diluted 1:1 in haematoxylin.
+
+Cell count:
+
+Flask conditionsCells/microcarrierAverage  
+1 x bead density; 5 million cells; 5 minute attachment8; 5; 16; 8; 6; 14; 9;
+13; 12; 8; 99.8  
+1 x bead density; 5 million cells; 15 minute attachment  
+13; 10; 20; 12; 12; 11; 15; 7; 1512.8  
+2 x bead density; 10 million cells; 15 minute attachment  
+5; 16; 13; 9; 10; 5; 9; 15; 5; 9; 13; 1210.1  
+  
+The optimal conditions for obtaining the greatest number of cells on beads
+after 5 days appears to be 1 x bead density, 5 million cells, 15 minute
+attachment time. However, this semi-quantitative method for determining
+cells/microcarrier is not precise enough to say for sure that the slight
+difference we appear to have seen between the flask conditions is real or
+representative. Many more bead samples would need to be counted to confirm
+this is a real difference. For the moment, we are content to say that there is
+no drastic difference between the flasks.
+
+The microcarrier:cell ratio of 75 mg microcarriers:5 million cells may
+translate to a higher number of beads and cells per volume media.
+
+23/12/2021
+
+Cell count:
+
+Flask conditionsCells/microcarrierAverage  
+1 x bead density; 5 million cells; 5 minute attachment12; 12; 12; 12; 10; 12;
+13; 13; 14; 20; 19; 12; 18; 7; 612.8  
+  
+1 x bead density; 5 million cells; 15 minute attachment  
+8; 8; 9; 12; 19; 17; 10; 9; 13; 9; 15; 10; 9; 1811.06  
+2 x bead density; 10 million cells; 15 minute attachment  
+8; 18; 10; 10; 11; 13; 18; 10; 10; 8; 10; 4; 19; 9; 811.06  
+  
+The optimal conditions for obtaining the greatest number of cells on beads
+after 6 days appears to be 1 x bead density, 5 million cells, 15 minute
+attachment time. However, this change in values from yesterday is unlikely to
+be real a more likely a consequence of sampling difference. Indeed, semi-
+quantification appears to indicate no real difference between the flask
+conditions after 6 days.
+
+Cell count (varying bead density; 5 million cells per flask):
+
+Bead density (x manufacturer's recommended conc.)  
+Cells/microcarrierAverage  
+0.5Cells not discernible0  
+120; 21; 8; 7;19; 22; 8; 18; 20; 12; 18; 20; 15; 7; 7; 13; 27; 12; 6; 18; 28;
+19; 28; 9; 24; 23; 13; 15; 23; 2516.83  
+216; 12; 21; 5; 18; 6; 8; 12; 15; 14; 4; 14; 6; 3; 25; 15; 16; 7; 20; 4; 6; 8;
+20; 10 ;19; 3; 3; 5; 15; 511.16  
+410; 10; 13; 5; 5; 6; 13; 6; 8; 10; 13; 6; 0; 9; 1; 3; 17; 1; 3; 3; 1; 2; 3;
+6; 3; 6; 4; 0; 15; 186.26  
+  
+CONCLUSION: The optimal microcarrier concentration when seeding 5 million
+cells per flasks is 3g/L, as recommended by the manufacturer. This experiment
+replicates the results obtained on 20/12/2021 from the experiment set up on
+17/12/2021.
+
+

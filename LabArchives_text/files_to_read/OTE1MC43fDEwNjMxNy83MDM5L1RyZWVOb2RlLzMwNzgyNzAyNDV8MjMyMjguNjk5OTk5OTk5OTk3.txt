@@ -1,0 +1,85 @@
+
+
+Performed by: VP  
+
+
+
+
+Culture IDs:
+
+Harvest flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-1000  
+ 10882  
+  
+E12510885  
+  
+  
+  
+  
+
+
+
+
+Cell Count from Harvest Flask
+
+  
+100ul sample was taken from the flask. Diluted samples with an equal volume of
+trypan blue. Either use
+
+  
+IDCounting methodLive count totalLive count per mL  
+10786  
+Trypan blue250 600 000716 000  
+  
+Recorded counts in cell count spreadsheet
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis suspension media  
+A10511  
+  
+EGF  
+M9201  
+  
+IGF  
+M7681 (note this is double concentration than usual so half volume was used)  
+  
+  
+  
+
+
+
+
+Harvest and Seed
+
+  
+
+       Process
+
+  1. Removed vessel from incubator and took 100uL sample from cell suspension. Returned cells to incubator immediately after sampling and cell counted. Recorded counts as per table above.
+  2. Calculated required media for seeding E125 vessel at density of 50 000 cells/mL in a total volume of 30mL (made up of old cell suspension and new media)
+    * see seed calculator
+    * cell suspension to seed into new flask is 2.1mL for final volume of 30mL
+    * Required new media is therefore:
+      * ~28mL
+  3. Added required growth factors to media, calculated from Media Calculator
+  4. Incubated media at          37   °C for    30   minutes
+  5. Removed vessel from incubator and performed media change/ ~~passage~~ :
+    * added required newly prepared media into vessel as above
+    * added cell suspension as above
+    * Returned vessel to shaking incubation at 37°C
+
+Location: Incubator: #.   78   , 37°C,      120    RPM, Library Lab  
+  
+
+  
+
+  
+
+

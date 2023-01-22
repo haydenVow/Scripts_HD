@@ -1,0 +1,33 @@
+
+
+Process:
+
+1\. Download original templates developed for adherent 1-well picking on the
+Opentrons. Can be found on the Vow google drive. Three are required:
+
+  1. 384>96
+  2. 96>24
+  3. 24>6
+
+2\. Adapt all three protocols for suspension culture conditions. This involves
+eliminating the dPBS wash, tryple incubation. Consequently as the cells are
+grown suspended in the growth media each protocol will only contain an initial
+mixing step followed by a transfer step in which the cell resuspension is
+transferred into the new culture vessel.
+
+
+
+
+File for suspension 1-well picking for 384>96 well plates:
+
+
+
+
+File for suspension 1-well picking for 96>24 well plates:
+
+
+
+
+File for suspension 1-well picking for 24>6 well plates:
+
+

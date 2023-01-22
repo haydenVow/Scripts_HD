@@ -1,0 +1,226 @@
+
+
+## Performed by:
+
+XXXXXX
+
+
+
+
+Culture IDs to process:
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+4% PFA  
+  
+  
+dPBS (non-sterile)  
+  
+  
+PBST (0.2% Triton)  
+  
+Blocking Buffer  
+  
+TMB substrate  
+  
+0.5 M HCl (to quench TMB reaction)  
+  
+Primary  
+  
+  
+  
+  
+  
+Antibody used:
+
+AntibodyStock IDprimary or secondary?IgG formDilution factorVolume of blocking
+buffer to addVolume of antibody to add  
+  
+  
+Primary  
+  
+  
+  
+  
+MyoG HRP-conjugated secondary antibody  
+  
+SecondaryIgG1  
+1:50000  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+### Step 1: Fix samples
+
+  1. Removed flask(s)/plate(s) `culture IDs # XXXX  `from the incubator. 
+  2. Removed media and washed wells with  XXXX uL PBS.  
+  3. Remove wash and wash once more with  XXXX uL PBS. 
+  4. Remove dPBS and add  XXXX uL of 4% PFA and incubate at RT for 15 minutes. TIMESTAMP
+  5. Remove the PFA and wash wells twice with  XXXX ul dPBS.  
+  6. Remove dPBS and replaced with fresh XXXX uL of dPBS 
+  7. Proceed to primary antibody or store the plates at 4 degrees parafilmed until ready for immunostaining.
+
+Fridge location/ID: XXXX
+
+
+
+
+### Step 2: Permeabilize and block
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  XXXX µL PBST (0.2% Triton-X) to each well for 15 min:  TIMESTAMP
+
+3\. Aspirated PBST for each well.
+
+  
+
+Block
+
+1\. Added  XXXX µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   TIMESTAMP
+
+2\. While incubating, prepare primary antibody solutions (see next steps)
+
+
+
+
+### Step 3: Primary Stain
+
+Prepare Antibody solution(s)
+
+Use this spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+1\. Prepared     XXXX mL  PBST (0.2% Triton-X)
+
+2\. Prepared    XXXX mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3%
+bovine serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  XXXX µL   XXXXX   (1:XXXX  ) in  XXXX
+mL Blocking Buffer and  XXXX µL   XXXX  (1:XXXX) in  XXXX  mL Blocking Buffer
+and a combined mix of both antibodies in their respective dilutions for
+fluorescent control (in 5mL blocking buffer).
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed. DO NOT VORTEX ANTIBODIES!!
+
+  
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well
+
+2\. Added    XXXX uL  of primary antibody solution.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   TIMESTAMP
+
+3\. Parafilmed plates and stored at 4ºC in lab Fridge ID XXXX.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+### Step 4: Secondary Stain
+
+  1. Prepared Secondary Antibody mixes (pipette from the top/supernatant of antibody solution
+    1. Pipette-mixed antibody mix and stored refrigerated away from light until needed.
+  2. Removed sample vessels from fridge (if incubated in primary antibodies overnight).
+  3. Washed 3 times for 5 min with PBS at RT.  TIMESTAMPs  
+  4. Incubated the cells with secondary antibody mixture in the dark at RT for 1 hour.  TIMESTAMP
+    1. NOTE: from this step onwards protect from the light by wrapping plates in foil and perform experiment in the dark
+
+    2. Do not add any secondary in the TMB + HCL control 
+
+
+
+
+### Step 5: Enzymatic Reaction (TMB conversion)
+
+Please note critical steps highlighted in bold/underlined.
+
+  1. Removed 2nd antibody solution.   TIMESTAMP  
+  2. Washed in 200uL PBS ( Tween20 ) 5 times for 5 min at RT in the dark. (No Triton) 
+    1.   
+
+    2.   
+
+    3.   
+
+    4.   
+
+    5.   3. Started peroxidase reaction by adding 100 uL of TMB substrate solution to respective wells (see Figure 1 for plate map) and incubating plate at RT for 15 mins. TIMESTAMP 
+  4. Quenched reaction with an equal volume of 0.5 M HCl or 100 uL  STRICTLY after 15 minutes and observed cyan to yellow colour change.
+  5. Pipette mixed and transferred 100 uL of the yellow supernatant to a non-treated 96 well plate.
+    1. DO NOT USE A TREATED 96W PLATE!
+  6. Spun down plate in centrifuge for 1 min at 1000 rpm to remove bubbles and droplets
+  7. Placed plate in NanoStar plate reader and measured absorbance values at 450nm (ELISA 405 preset program)
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+Data (Plate Reader raw files and interpreted data):  
+
+

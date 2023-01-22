@@ -1,0 +1,178 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Vessel Flask ID(s)Vessel Flask Type  
+7502-F_DOLLY12-Sheep P8-1of2  
+7503-F_DOLLY12-Sheep P8-2of2  
+6-well plate  
+7504-F_DOLLY12-Sheep P8-1of3  
+7505-F_DOLLY12-Sheep P8-2of3  
+7506-F_DOLLY12-Sheep P8-3of3  
+E125
+
+
+  
+  
+Plate Maps:
+
+  
+
+Plate 1  
+1  
+2  
+3  
+  
+A  
+Serum control  
+  
+GM + HDAC1  
+  
+B  
+GM + HDAC1 + HDAC2  
+  
+GM + HDAC2  
+  
+  
+  
+
+Plate 2  
+1  
+2  
+3  
+  
+A  
+GM + Difco Select Phytone UF  
+  
+GM + Difco Select Phytone UF + HDAC1 + HDAC2  
+  
+B  
+GM + BBL Phytone Peptone  
+  
+GM + BBL Phytone Peptone + HDAC1 + HDAC2  
+  
+  
+  
+
+E125 flask: Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+E125 flask: GM + HDAC 1
+
+E125 flask: GM + HDAC 2
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)a6189  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2  
+m6282  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L BBL Phytone Peptone  
+m6287  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L Difco Select Phytone UF  
+m6284  
+  
+GM + 0.1 ug/mL HDAC1  
+m6285  
+  
+GM + 0.1 ug/mL HDAC2  
+m6286  
+  
+GM + 5 g/L BBL Phytone Peptone  
+m6288  
+  
+GM + 5 g/L Difco Select Phytone UF  
+m6283  
+  
+  
+###  
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + HDAC 1 (0.1ug/mL)
+
+[x] GM + HDAC 2 (0.1ug/mL)
+
+[x] GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+
+HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)
+\+ HDAC 2 (0.1ug/mL)
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 1.5 mL  of  each of the growth media conditions above   
+
+    2. 15 mL of DMEM/F12 + 10% FBS + 1X P/S 
+    3. 15 mL of GM + HDAC 1 (0.1ug/mL)  
+
+    4. 15 mL of GM + HDAC 2 (0.1ug/mL)  
+Placed in water bath:   12:10  
+
+  2. Collected culture vessels from shakers, wiped with ethanol-sprayed cloth and brought into BSC (if necessary, paused shakers by pressing the "play" button on the controller on the side wall of the incubator)
+  3. Using a p1000 for the 6-well plate cultures and a 5 mL serelogical pipette for the E125 flasks, gently pipette-mixed cultures for ~1 minute to break up cell clumps
+  4. Pipetted E125 suspensions though 70 um cell strainer into 3 x 50 mL tubes and 6-WP suspensions directly into 8 x 15 mL tubes (keep E125 flask and 6-well plates in BSC as cultures will be returned to these post centrifugation) 
+  5. Centrifuged 8 x 15 mL tubes at 300 x g for 5 min. Timestamp: 13:32 - 13:37   
+
+  6. Centrifuged 3 x 50 mL tubes at 300 x g for 5 min. Timestamp:  14:04 - 14:09        
+
+  7. Aspirated supernatants, taking care to not disrupt or aspirate pellet
+  8. Replaced fresh, warmed media in all cultures 
+  9. Gently pipette-mixed cultures again before moving back to E125 flask and 2 x 6-well plates 13:55,
+  10. Returned vessels to incubator and replaced in clamp. If shaker was paused, remembered to press play to restart shaking. 6-well plates should be shaking at 150 RPM and E125 at 120 RPM) Timestamp:   6-WPs: 13:55 E125s: 14:14    
+
+  * Incubator (#68), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7502-F_DOLLY12-Sheep P8-1of2
+  2. 7503-F_DOLLY12-Sheep P8-2of2
+  3. 7504-F_DOLLY12-Sheep P8-1of3
+  4. 7505-F_DOLLY12-Sheep P8-2of3
+  5. 7506-F_DOLLY12-Sheep P8-3of3
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recEa9pH2TRr5c8RX/images
+
+

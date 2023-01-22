@@ -1,0 +1,146 @@
+
+
+## Performed by: Adrian Kotevski  
+
+
+
+
+Perform thaw using below volumes:
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2285-Culture-6303-Vial-6of115  
+6861-F_DOLLY12-Sheep P8-1of2  
+6862-F_DOLLY12-Sheep P8-2of2  
+T175  
+  
+2286-Culture-6303-Vial-7of115  
+T175  
+  
+  
+  
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1x P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   60 mL in 1x 70 mL   pot   
+
+  * Time that aliquot was placed in the water bath to warm before use:  10:40 
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth MediaM4951  
+  
+  
+###  
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  10:55 - 11:00
+
+Location where cryovial was collected from:
+
+Vial details:  2  x  F_WCB  cryovials at   1M  cells each for a total of    2M
+cells
+
+Brew
+
+Tower/Bucket # 1
+
+Box/Cane # 2
+
+Vial location: A7, A8  
+
+Vial ID(s): 2285-Culture-6303-Vial-6of115, 2286-Culture-6303-Vial-7of115  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  60 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered  30 mL to each  T175  flask.`
+
+`9. Transfered flask/plate(s) to incubate at: `
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

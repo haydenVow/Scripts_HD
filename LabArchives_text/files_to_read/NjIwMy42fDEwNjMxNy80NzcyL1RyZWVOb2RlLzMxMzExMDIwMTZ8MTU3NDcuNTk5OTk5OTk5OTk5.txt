@@ -1,0 +1,107 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: AK  
+
+
+
+
+Culture IDs:
+
+Flask ID(s)Flask ConditionFlask Type  
+8606-F_DOLLY12-Sheep P15-1of1  
+1T175  
+8607-F_DOLLY12-Sheep P15-1of1  
+2T175  
+8608-F_DOLLY12-Sheep P15-1of1  
+3T175  
+8609-F_DOLLY12-Sheep P15-1of1  
+5T175  
+8610-F_DOLLY12-Sheep P15-1of1  
+RPMI controlT175  
+8611-F_DOLLY12-Sheep P15-1of1  
+Serum controlT175  
+8676-F_DOLLY12-Sheep P15-1of1  
+6T175  
+  
+8677-F_DOLLY12-Sheep P15-1of1  
+7T175  
+  
+8678-F_DOLLY12-Sheep P15-1of1  
+8T175  
+  
+8679-F_DOLLY12-Sheep P15-1of1  
+9T175  
+  
+8680-F_DOLLY12-Sheep P15-1of2  
+EMEM-alpha controlT175  
+  
+8681-F_DOLLY12-Sheep P15-2of2  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 5% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+[x] RPMI + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 5% FBS  \+ 1X P/S (RPMI control)
+
+  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Difco Select Phytone UF (5g/L) (Condition
+7)  
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM-alpha + 5% FBS  \+ 1X P/S (EMEM-alpha control)  
+
+
+
+
+Relevant Images (if any):
+
+8606: https://mia-capture.vow.tools/#/session/recDlE7CzRQquVOFh/images
+
+8607: https://mia-capture.vow.tools/#/session/recDbQJYqnc8k293G/images
+
+8608: https://mia-capture.vow.tools/#/session/reczlak8VFI2dNJHD/images
+
+8609: https://mia-capture.vow.tools/#/session/rec96s6W2QUkZr6LZ/images
+
+8610: https://mia-capture.vow.tools/#/session/recjulU1Zn38CFHNj/images
+
+8611: https://mia-capture.vow.tools/#/session/recjoj8gSWU8NejzN/images
+
+8676: https://mia-capture.vow.tools/#/session/recPQfINbHISlIsaW/images
+
+8677: https://mia-capture.vow.tools/#/session/recV7WRFjtISsdS9K/images
+
+8678: https://mia-capture.vow.tools/#/session/recOW2dicd7lPBwBE/images
+
+8679: https://mia-capture.vow.tools/#/session/recETqFwJAIaKSFGW/images
+
+8680: https://mia-capture.vow.tools/#/session/reczjknyeNJAZlk0Y/images
+
+8681: https://mia-capture.vow.tools/#/session/recJpf4ZbqvxmGlTM/images
+
+

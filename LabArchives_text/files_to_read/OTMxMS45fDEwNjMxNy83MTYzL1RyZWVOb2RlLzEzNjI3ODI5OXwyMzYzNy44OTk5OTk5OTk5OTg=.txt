@@ -1,0 +1,168 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: EC NH  
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flasks ID(s)Seeded Flasks ID(s)  
+10953 (AQP1 + ZIC1)  
+11017  
+  
+10955 (AQP1 + IGFBP4)  
+11019  
+  
+10957 (ZIC1 + IGFBP4)  
+11016  
+  
+10959 (CONTROL)  
+11018  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleA9712  
+  
+dPBS (for washing & neutralising)A10656  
+  
+Growth MediaM10561  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    20   mL in  1 x 70ml   tubes
+  2. dPBS (for neutralising)   20    mL in   1 x 70ml     tubes
+  3. Growth media (for seeding):    120   mL in   4 x 70ml (30mL per continer)    tubes
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added   5    mL tryple to each vessel/well and incubated at 37˚C for    8
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryplising was    15:10    \-    15:15   a/pm
+
+4\. Neutralised with    5   dPBS (warmed) and combined cell suspension into 4
+x    15 ml   tube.
+
+5\. Centrifuged at 400 x g for 5 min
+
+  1. Start/Finish time for centrifugation was    15:18    \-    15:23  pm 
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      1  mL PBS.
+
+8\. Performed a cell count using the haemocytometer, mixing 1:1 with trypan
+blue. Recorded the cell count data in the Google Doc spreadsheet called 'Cell
+Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2320:2323
+
+  
+
+
+
+
+9\. Total cell number can be found in the spreadsheet linked above  
+Control 3,160,000 cells  
+AQP1 + ZIC1 3,816,000 cells  
+AQP1 + IGFBP4 1,640,000 cells  
+ZIC1 + IGFBP4 2,216,000 cells
+
+10\. Seeded ~6666k cells per cm2 of the flasks/plates (500,000 cells). Note
+that fibroblasts prefer to be subcultured closely together.
+
+12\. Transfer   500K cells of each cell suspension to separate pre-warmed  30
+mL Growth Media aliquots
+
+13\. Transfer cell suspension into (non-gelatin coated)      T175
+flasks/plates.
+
+14\. Transfer flask/plate(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+  * [x]  30ºC, 5% CO2 (aviary cells), incubator 120
+
+Transferred the remaining cell suspensions to separate 1.5mL eppendorf tubes
+
+centrifuged tubes for 5 minutes at 300g.
+
+Removed supernatant and left raw pellet in each tube. Placed all 4 tubes in a
+yellow top lid 50mL container, labelled with the date, epic number and
+knockout conditions.
+
+Placed this yellow lid container in the bottom shelf of the -80 freezer in the
+library lab for future RNA extractions.
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+  
+  
+  
+
+

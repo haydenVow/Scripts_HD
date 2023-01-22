@@ -1,0 +1,41 @@
+
+
+## Completed by: Tom
+
+
+Aim/Purpose: To screen multiple combinations of live/dead immunofluorescent stains that can sufficiently label suspension cultures under florescence.
+Hypothesis: We hypothesise that we can improve the accuracy of the live/dead signal by using a different stain.
+Technical Gap: We currently do not have a good strategy to identify total numbers of viable cells in suspension. This is blocking the success of our attempts to adapt cells to suspension culture.
+Method/Procedure
+
+
+This experiment will look at the effect of the following variables on
+live/dead staining and counting:
+
+  * Cell age:
+    * Freshly thawed 
+    * In suspension for at least 2 weeks
+  * Live stains:
+    * Calcein
+    * CMFDA
+    * Hoechst33342
+  * Dead stains:
+    * DAPI
+    * Sytox green
+    * PI
+
+The control will be Trypan blue exclusion counts using a hemocytometer
+
+Method overview:
+
+  1. Transfer 100 uL of samples into 96 wp
+  2. Stain each well with 100 uL of respective stain buffer (100 uL of stain in 100 uL of sample for a 50% dilution)
+  3. Incubate for 20 min
+    1. While incubation is happening, perform Trypan blue counts for the new fresh and the old sample
+    2. Calculate live and dead cell counts
+  4. Prepare serial dilutions - 25% and 12.5%
+  5. Image every well on phase and all 3 fluorescence channels
+  6. Count fluorescent nuclei in every image using FIJI macro
+  7. Calculate live and dead cell counts for each stain buffer combo
+
+

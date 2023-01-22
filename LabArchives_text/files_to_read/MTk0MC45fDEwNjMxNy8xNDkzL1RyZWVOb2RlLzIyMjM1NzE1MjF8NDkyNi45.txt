@@ -1,0 +1,57 @@
+
+
+## Completed by: Shaleen Sharma
+
+
+Aim/Purpose: To investigate the effect of gelatin on maturation and proliferation
+Hypothesis: Coating gelatin plates at a concentration of 5 mg/ml will promote proliferation and maturation of C2C12 cells
+Technical Gap: The effect of various concentrations of gelatin on maturation and proliferation as a coating in our well plates and as an ingredient is not yet known.
+Method/Procedure
+
+
+Background:
+
+Gelatin is something that is available in-house at Vow and hence its potential
+on maturation can be easily explored. However, it must be sterile filtered
+(0.1uM) in order to be used so as to not result in contamination. Increasing
+concentrations of gelatin will be tested as both a coating in a 96 well plate
+and as a media supplement in E6 in seperate assays. Gelatin concentrations in
+Milli-Q water and in E6 will need to be made up and sterile filtered prior to
+use in the assay. In literature (see Background page) it was found that
+gelatin also promotes proliferation. Since, its potential is being explored
+here in the context of maturation - it is also worth exploring its effect on
+proliferation at the same time despite its irrelevance in this project stream.
+
+Two assays will be running simultaneously:
+
+  1. Maturation Assay \- coating and media supplement (2 x 96 well plates)
+  2. Proliferation Assay - coating and media supplement (2 x 96 well plates)
+
+Thawing out 2 x C2C12 WCBs to obtain 691,200 cells to seed both assays:
+
+  1. WED (02/06): Thaw out 2 x WCB vial (500K ea) of C2C12
+  2.  Coat 2 x 96 well plates for coating
+
+Maturation Assay (2 x 96 well plates):
+
+  1. FRI (04/06): Seed 2 x 96 well plate at 6000 cells/well 
+  2. SAT (05/06): 100% Feed - DAY 1
+  3. SUN (06/06): 100% Feed - DAY 2 
+  4. MON (07/06): 100% Feed - DAY 3
+  5. TUES (08/06): 100% Feed - DAY 4
+  6. WED(09/06): FIX and Primary Stain (MyoG, MF20) - DAY 5
+  7. THUR (10/06): Secondary Stain (MyoG, MF20) - DAY 6
+  8. FRI (11/06): Analyse Results
+
+Proliferation Assay (8 x 96 well plates - 4 x coating, 4 x supplementation):
+
+  1. FRI (04/06): Seed 4 x 96 well plate at 1200 cells/well
+  2. SAT (05/06): FIX + DAPI 24H Plate, 100% Feed 3 x 96 well plates
+  3. SUN (06/06): FIX + DAPI 48H Plate
+  4. MON (07/06): FIX + DAPI 72H Plate
+  5. TUES (08/06): FIX + DAPI 96H Plate
+  6. WED (09/06): Image 4 x 96w plates and analyse results
+
+  
+
+

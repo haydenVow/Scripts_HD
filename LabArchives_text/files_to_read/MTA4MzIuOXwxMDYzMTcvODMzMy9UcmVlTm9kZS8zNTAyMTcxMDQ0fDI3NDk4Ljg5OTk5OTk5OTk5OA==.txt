@@ -1,0 +1,31 @@
+
+
+## Completed by: LL
+
+
+
+
+Nuvonis recommends seeding their suspension line at between 50,000 and 200,000
+cells/mL, depending on what passaging schedule you are following (see tech
+transfer attached below). During early Nuvonis media optimisation work, we
+seeded our cultures at 50,000 cells/mL in order to reduce the initial cell
+requirements. Over time, we have noticed that higher seeding densities seem to
+outperform lower seeding densities in terms of growth rate (Figure 1.). We
+have also anecdotally noticed two occasions where cells were seeded lower than
+50,000 cells/mL and did not survive, however the same has not been observed
+when cells are seeded above 200,000 cells/mL (see here \- cells were seeded at
+300K cells/mL and grew from 9M to 41M over 3 days, which means they doubled
+more than once every 24H). This leads us to believe that higher seeding
+densities are preferable for improving growth rates in suspension Nuvonis
+cultures, however this hypothesis has not yet been properly tested.
+Determining this is crucial for optimising our seed train and bioreactor work,
+as we have experienced a number of runs where there is a large amount of
+unexplained cell death and/or poor growth, which could be due to seeding too
+low.
+
+Figure 1. Cell density and cell doubling rate of Nuvonis suspension cells in
+90/10 RPMI/HyCell medium
+
+
+
+

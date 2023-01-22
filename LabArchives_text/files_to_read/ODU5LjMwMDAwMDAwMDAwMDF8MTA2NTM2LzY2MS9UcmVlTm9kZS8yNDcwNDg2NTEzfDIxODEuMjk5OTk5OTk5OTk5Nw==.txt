@@ -1,0 +1,172 @@
+
+
+Batch 23 Overview
+
+(First CHOMP Batch)
+
+Total Batch Weight: 52.23g
+
+Batch Objectives:
+
+  * Successfully grow CHOMP for the first time in multi-layered flasks and roller bottles
+  * Test multiple treatment combinations to see which works best for CHOMP
+
+Batch Outline:
+
+  * Cells from the P3 passage were split into 10CS/5CS and Roller Bottles. 
+  * Within each flask type there were multiple treatment types tested:
+    * 10CS: VitC ONLY - This treatment was used for the majority of the flasks because this was the best known treatment for DOLLY
+    * 5CS: 2x5CS VitC Only and 2x5CS VitC + TGFb - In case CHOMP was very different to DOLLY we also created this small side group to compare VitC ONLY treatment to the combined VitC + TGFb treatment in the multi-layered flasks. These 5CS were also used as monitoring flasks to estimate the confluence of the 10CS and determine when treatment should be applied (at 60-80% confluence)
+    * Roller Bottles: These had 4 treatment groups
+      * Not treatment - Here cells were grown to 100% confluence and maintained for the duration of the experiment, no treatment was applied
+      * VitC ONLY
+      * TGFb ONLY
+      * VitC + TGFb
+  * Flasks were kept growing until peeling occurred at which point they were harvested if peeling was more than 50% in roller bottles and more than 80% in 10CS/5CS.
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P172x5CS  
+P292x10CF, 2x4CF  
+P3Various (see below)14x10CS, 4x5CS, 16xR850  
+  
+### Notable Events:
+
+  * CHOMP Fibroblasts were grown in 10% FBS for all of P1 and for the first 5 days of P2 before realising they should be grown in 20% FBS at which point a 100% media change was performed and 20% FBS was used for the remainder of the batch
+  * All 10CS/5CS were treated on Day 3 after seeding P3
+  * All Roller Bottles were treated on day 4 after seeding P3
+  * When feeding the VitC ONLY 10CS/5CS on treatment day 4 (Day 7 after seeding) some of the cell sheet started to flake off and come out with the media. After some shaking around of the flasks the sheets began to gradually peel off the flask. 
+    * Because of the lack of adherence of these cell sheets to the flask it was decided to harvest them.
+  * The 5CS treated with VitC + TGFb remained adhered and were fed as normal until significant peeling had occurred.
+  * The roller bottle groups were harvested at various times depending on the effects of the treatment:
+    * The VitC ONLY group was the first to peel (2xR850)
+    * Next was the controls, TGFb + VitC group, 1xTGFb ONLY and the remaining 1xR850 from the VitC ONLY group
+      * The control group grew well until it reached 100% confluence. At this point it began to flake off the flask in the form of tiny cell sheet fragments. (This is in great contrast to DOLLY which remains adhered to the flask even after multiple weeks at 100% confluence)
+      * The TGFb + VitC group peeled in a similar fashion to the other flasks, partial fragmented sheets but not rolled up the flask like the DOLLY aggregated
+    * The TGFb ONLY flasks lasted the longest. At one point it looked like they were peeling and you could see holes opening up under the microscope (see image below), but then over the next few days the cells appeared to regrow back over the peeled area. 
+      * Despite their longer incubation time there was no significant increase in yield from this treatment condition.
+
+Batch/Experimental Results:
+
+  * Best treatment identified for both 10CS and Roller bottles from this batch was VitC + TGFb
+  * Notable difference between CHOMP and DOLLY:
+    * The best treatment for DOLLY (VitC ONLY) was the worst performing for CHOMP
+    * CHOMP cells do not seem to adhere to the flask as well as DOLLY cells.
+      * DOLLY cells will stay stuck down for a very long amount of time unless a treatment is applied to them and require 18 minutes of TrypLE to be removed for a passage
+      * CHOMP cells will start to slightly aggregate and flake off the flask once 100% confluence is reached, they also require only 5 minutes of TyrpLE to be removed for a passage
+    * None of the treatments were able to produce DOLLY-like yields with CHOMP except for TGFb + VitC in 5CS which produced double the yield which was possible with DOLLY and its best treatment. (see graph below)
+
+* Graph 1 shows how different treatment conditions produce different yields in CHOMP and DOLLY in 10CS/5CS. Error bars display SEM  
+* Graph 2 shows how different treatment conditions produce different yields in CHOMP vs DOLLY in Roller Bottles. Error Bars display SEM
+
+  
+
+Batch 23 Results Summary Table:
+
+  
+
+TreatmentFlask IDPellet Weight (g)Days in Culture Treatment Time (Days)  
+  
+10CS  
+VitC ONLY
+
+89772.553574  
+89692.824874  
+89741.953674  
+89732.847874  
+89721.965174  
+89802.580574  
+89702.023874  
+89812.23174  
+89721.906974  
+89782.133474  
+89792.992474  
+89762.433174  
+89683.062874  
+89711.567174  
+  
+5CS  
+VitC ONLY
+
+89832.920574  
+89852.249474  
+  
+5CS  
+VitC + TGFb
+
+89824.51111310  
+89844.91681714  
+  
+3xR850  
+No Treatment
+
+89990.2154100  
+89970.228100  
+90020.261100  
+  
+3xR850  
+VitC ONLY
+
+90070.317373  
+90010.327373  
+90050.2637106  
+  
+3xR850  
+TGFb ONLY
+
+89960.4114106  
+90040.4133139  
+90030.43351410  
+  
+3xR850  
+VitC + TGFb
+
+89950.5884106  
+89980.5368106  
+90000.5637106  
+  
+  
+
+  
+
+  
+
+Roller Bottles:
+
+  
+
+* Graph 1 shows the pellet weight (g) for each roller bottle group. Error bars display SD.   
+* Graph 2 shows the number of proliferation days for each roller bottle group and when they were treated.
+
+  
+
+10CS/5CS:
+
+       
+
+  
+
+* Graph 1 shows the pellet weight (g) for each 10CS/5CS group. Error bars display SD.   
+* Graph 2 shows the number of proliferation days for each 10CS/5CS group and when they were treated.
+
+Pictures:
+
+Aggregates from 5CS treated with TGFb + VitC:
+
+  
+
+1\. Cell Sheets peeling off flask surface just from movement of the media
+(VitC ONLY treatment)  
+2\. Cell sheet breaking up into the fragments from being shaken around in the
+flask and after being poured out of the flask  
+
+  
+
+### Achievements:
+
+  * Identified a superior treatment condition to move forward with in CHOMP
+  * Identified some major differences between CHOMP and DOLLY
+  * Successful completed a full batch with CHOMP for the first time
+
+

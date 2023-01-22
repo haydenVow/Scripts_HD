@@ -1,0 +1,35 @@
+
+
+DAPI and AF488 images taken on the Zaber at 5x magnification were processed
+using the attached ImageJ macros.
+
+Note: in the files attached, 'old macro' refers to image processing performed
+using MIA. The analysis and graphs from the old macro are not shown here as
+this macro was initially made for processing 10x images captured using the
+Axio microscope. Instead data from processing images through the 'new macros'
+is shown on this page. The overall conclusion from the two methods was the
+same.
+
+
+
+
+DAPI counts and MyoG counts were used to calculate the percentage of MyoG
+positive cells in Excel. This data was then entered into GraphPad Prism for
+analysis. No outliers were identified using ROUT's method (Q=2%).
+
+There was a significant difference (p<0.05) in MyoG% in cells differentiated
+in 2% HS versus E6 (for both E6 made fresh and E6 made from frozen bullet). E6
+frozen bullet resulted in significantly lower percentage of MyoG positive
+cells compared to E6 made from fresh.
+
+Representative composite images from each condition are shown below:
+
+2% HSE6 freshE6 bullet
+
+
+
+
+
+
+
+

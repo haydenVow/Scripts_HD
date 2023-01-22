@@ -1,0 +1,95 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: Tom Tarento  
+
+
+
+
+Feed information:
+
+Original Vessel type(s)Original Vessel IDNew Vessel type  
+New Vessel ID  
+  
+E500  
+9699-CHO-S-Chinese Hamster P4-1of1  
+E500  
+9700-CHO-S-Chinese Hamster P5-1of2  
+9701-CHO-S-Chinese Hamster P5-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Pen/strepA8877  
+2 mL  
+  
+CD CHO medium  
+S3973  
+200 mL  
+  
+Glutamax  
+S4103  
+4 mL  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Removed flask from incubator
+  2. Mixed culture with p1000
+  3. Took 100 uL sample, returned flask to incubator, and performed cell count:
+    1. Count 1: (35 + 20 + 31 + 31 + 17)/5 = 26.8 cells per square x 10,000 squares/mL x 2 (dilution factor) = 0.536 million cells/mL x 200 mL = 107.2 million cells
+    2. Count 2: (25 + 22 + 22 + 31 + 23)/5 = 24.6 cells per square x 10,000 squares/mL x 2 (dilution factor) =  0.492 million cells/mL x 200 mL = 98.4 million cells
+    3. Average = 102.8 million cells
+    4. Doubling time roughly 1 day
+  4. Aliquotted   200 mL  mL of  __ Media directly into new flasks (100 mL per flask) at room temperature 11:40  
+
+  5.  ~~Placed in water bath  ~~ ~~  12:35~~
+  6. Removed flask from incubator
+  7. Transferred 95 mL of culture to 2x E500 flasks, using serological pipettes and avoiding aspiration of aggregates
+  8.  ~~Added with   180mL of warm growth medium~~
+  9. Returned vessels to incubate at: 12:55
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 116 ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+Macroscopic aggregates had formed
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None
+
+

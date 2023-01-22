@@ -1,0 +1,92 @@
+
+
+
+
+
+Prepare guides/cas9/Cas9 electroporation enhancer
+
+  1. Resuspend guide RNA in 1 x TE buffer to a final concentration of 44 uM (store at -20)
+  2. Make up Cas9 mix. Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.25 to get total volume required for experiment.
+
+ComponentAmount (uL)  
+Alt-R Cas9 (62 uM stock)0.3  
+Buffer R0.2  
+Total volume0.5  
+  
+3\. Make up the Cas9 + guide mix. Below is a 1 x mix for 1 well, multiply by
+number of wells you intend to make x 1.25 to get total volume required for
+experiment.
+
+Component Amount (uL)  
+sgRNA in TE buffer (44uM)0.5  
+Cas9 in R buffer (36 uM from above)0.5  
+Total volume1  
+  
+4\. Incubate mix for 10-20 min
+
+5\. while incubating, prepare the electroporation enhancer
+
+  1. resuspend in 1 x TE to get to a 100 uM stock solution (first use only)
+  2. make up mix for each experiment of a 10.8 uM solution using 1 x TE buffer. Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.25 to get total volume required for experiment.
+
+Component Amount (uL)  
+Electroporation enhancer (100 uM)0.22  
+1 x TE buffer 1.78  
+Total volume 2  
+  
+  
+
+  
+
+
+
+
+Prepare Cells for nucleofection
+
+  1. Prepare 6 well plates to receive nucleofected cells. You will need 3 wells per condition. Fill the number of wells required with 3 mL of DMEM/F12 + 20% FBS WITHOUT ANTIBIOTICS! 
+  2. Place in incubator to warm plates with media. 
+  3. Use cells that are of a low passage number, have been thawed and out of frozen storage for at least 3 days and appear happy and live. 
+  4. Remove media from cells, PBS wash with             mL PBS and triplise with           mL tryple
+  5. Neutralise tryple with             mL PBS. 
+  6. Place cells in a falcon tube 
+  7. Perform a cell count [Cell count               cells/mL)
+  8. Determine the number of cells required for the experiment. You will need 0.5 x 10^5 cells per well. Therefore for each condition you will need 1.5 x 10^6. However it is best to prepare extra in case of pipetting errors. Therefore 2 x 10^6 cells per condition are ideal. 
+  9. Pipette out the number of mL of cells required for the number of cells you need [             mL used for experiment]
+  10. Centrifuge at 300g for 10 mins at room temp [time in centrifuge             ]
+  11. Remove supernatant
+  12. Resuspend pellet in         mL 1x PBS 
+  13. Centrifuge at 300g for 5 mins at room temp [time in centrifuge            ] 
+  14. Remove supernatant. It is important to remove as much as possible. Use a 1 mL tip to remove most of the supernatant and then switch to a 200 uL pipette to remove a little more if necessary. Do not disturb the pellet.
+  15. Resuspend pellet in            uL R buffer (9uL R buffer per 5 x 10^5 cells)
+  16. Move cells into different 1.5 mL epindorf tubes for the different conditions being nucleofected. For each nucleofection make up a mixture as follows:
+
+ComponentAmount (uL)  
+RNP complex from above1  
+Cells in R buffer9  
+10.8 uM electroporation enhancer2  
+Total12  
+  
+17\. Set up nucleofection machine and retrive 6 well plates from incubator
+
+18\. Insert neon tip into the mix from above and draw up cell mix
+
+19\. Electroporate with the 3 conditions below
+
+  
+Voltage Pulse WidthPulse Number  
+1  
+  
+  
+  
+2  
+  
+  
+  
+3  
+  
+  
+  
+  
+20\. Place back in incubator for 72 hours
+
+

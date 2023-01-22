@@ -1,0 +1,47 @@
+Aim/Purpose
+
+
+Background
+
+In order to perform tissue-engineering experiments using suspension adapted
+cells, which were once an adherent line, we need to be able to understand how
+suspension cells can "re-adapt" to an adherent environment. It's been shown
+that the Nuvonis suspension line can adhere to tissue culture plastic under
+serum containing and serum free conditions. This type of "re-adaptation" or
+"phenotypic switching" of cells to adhere to a substrate will likely require
+broad transcriptional changes allowing cells to bind plastic, matrix or other
+biomaterial-based substrates.
+
+Aim
+
+To perform transcriptomic analysis on suspension cells and adherent re-adapted
+cells, in order to understand how this phenotypic switch occurs.
+
+Hypothesis
+
+Suspension adapted cells will increase levels of genes associated with
+adhesion (focal adhesion, cytoskeletal, integrins etc.)
+
+
+Methods and Experiment Layout
+
+
+Brief Method
+
+This experiment will compare multiple conditions and timepoints of suspension
+cells + adherent re-adapted cells. Conditions are as follows:
+
+  * Suspension - 3x E125 flasks seeded with 250k/mL in 30mL of 50:50 RPMI:Hycell GM cultured for 24 hours (conditions #1-3)
+  * Suspension - 3x E125 flasks seeded with 250k/mL in 30mL of 50:50 RPMI:Hycell GM cultured for 4 days (conditions #4-6)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of 50:50 RPMI:Hycell GM cultured for 24 hours (conditions #7-9)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of 50:50 RPMI:Hycell GM cultured for 4 days (conditions #10-12)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + ITS + 18.8mg/ml BSA + P/S cultured for 24 hours (conditions #13-15)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + ITS + 18.8mg/ml BSA + P/S cultured for 4 days (conditions #16-18)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + FBS + P/S cultured for 24 hours (conditions #19-21)
+  * Adherent re-adapted - 3x T175 flasks seeded with 20k/cm2 in 20mL of DMEM/F12 + FBS + P/S cultured for 4 days (conditions #22-24)
+
+  
+
+  
+
+

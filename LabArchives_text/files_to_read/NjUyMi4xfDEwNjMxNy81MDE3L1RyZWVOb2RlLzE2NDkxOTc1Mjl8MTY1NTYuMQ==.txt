@@ -1,0 +1,121 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Note: This thaw needs to be performed in the Library Lab, as any successful
+clones may be used in final food products
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask TypeLocation  
+Medium  
+  
+3613-Culture-8616-Vial-3of23  
+8876-F_CHOMP_09-Crocodile P8-1of2  
+T17568-Ralph St-Library Lab-Binder Incubator (bottom)  
+DMEM/F12 + 20% FBS + 1x P/S  
+  
+  
+8877-F_CHOMP_09-Crocodile P8-2of2  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth MediumMix 7929  
+  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):    60 mL 
+  * Time that aliquot was placed in the water bath to warm before use:   13:55 a/pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+2\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:22 - 14:25:30
+
+Location where cryovial was collected from:
+
+Vial details:  1   x  F_CHOMP09  cryovials at  2M  cells each for a total of
+2M  cells
+
+Brew
+
+Tower/Bucket #5
+
+Box/Cane #5
+
+Vial location: B3
+
+Vial ID(s): 3613-Culture-8616-Vial-3of23
+
+`3. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`4.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`5. Collected the entire 1 mL of cell suspension & transfer into the pre-
+warmed tube of Growth Media. `
+
+`6. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the   mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`7. Transfered  30 mL to each pre-coated  T175  flask (2 x T175s) `
+
+```````8.`` Transfered flask/plate(s) to incubate at: ``````14:40`
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+  * [x] 30ºC, 5% CO2 (replitian cells)
+
+Incubator (# ), Lab [main, library, production]
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+Relevant Images/Figures:
+
+NA
+
+

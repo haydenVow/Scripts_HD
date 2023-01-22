@@ -1,0 +1,135 @@
+Aim
+
+
+To determine the effect of drying out of cells and/or the pipetting force
+conditions  on cell loss and detachment.
+
+
+Hypothesis
+
+
+We hypothesise that the forceful handling and the drying out of our cells will
+result in greater cell detachment, eventually leading to greater cell loss.
+
+
+Background:
+
+
+This experiment was designed to determine whether operator handling was a
+contributing cause to the cell loss observed during Q3 and prior. We initially
+aimed to grow C2C12 cells and DOLLY12 WCB cells, seed them into 12 x 96 wp (6
+x 96 wp per cell line) and handle them in eighteen different ways when
+performing daily feeds. However, we did not grow enough DOLLY12 WCB cells to
+seed the 6 x 96 wp so we ended up using DOLLY12 MCB cells instead. In this
+case we would have not been able to make any conclusive statements on whether
+the handling conditions tested were contributing to the observed cell loss in
+Q3 and prior given during this period (and, usually) we had been using DOLLY12
+WCB and not DOLLY12 MCB cells to conduct our experiments. The day after
+seeding the 6 x 96 wp DOLLY12 MCB cells, the cells were dead. This was an
+unusual finding as it didn't resemble the characteristic cell loss that had
+been observed during differentiation in Q3 and prior. We think this could have
+been a result of the contamination of our growth media aliquot with either
+ethanol or copper sulfate, the reason being that the DOLLY12 MCB cells (from
+the same harvest) that were seeded in a simultaneous experiment survived and
+were proliferative. The only difference between the DOLLY12 MCB cells used to
+seed our 6 x 96 wp and the DOLLY12 MCB cells used in the experiment carried
+out simultaneously was the growth media aliquot used for seeding thus our
+assumption. Given only the DOLLY12 MCB cells died, we decided to use the 6 x
+96 wp seeded with C2C12 cells to conduct a pilot study aimed at familiarising
+ourselves with the pipetting force and the drying out conditions we were to
+use in our experiment, improving the protocol so that it was more effective
+and less time consuming, and gathering some observational data on the effects
+of pipetting force and drying out of cells on cell adhesion and
+differentiation.
+
+
+Summary of events:
+
+
+  1. Thaw C2C12 and DOLLY12 WCB cells and seed into 6 x T175 (DOLLY12 MCB cells we ended up using were initially thawed for another experiment)
+  2. Seed C2C12 and DOLLY12 MCB cells into 6 x 96 wp each
+  3. Discard the DOLLY12 MCB 6 x 96 wp
+  4. 50% feed C2C12 6 x 96 wp with growth media
+  5. D0D Fix 1 x 96 wp and discard 1 x 96 wp
+  6. D0D Change 4 x 96 wp to E6 differentiation media 
+  7. D1D Fix 1 x 96 wp
+  8. D1D 100% E6 feed of remaining 3 x 96 wp
+  9. D2D Fix 1 x 96 wp
+  10. D2D 100% E6 feed of remaining 2 x 96 wp
+  11. D3D Fix 1 x 96 wp
+  12. D3D 100% E6 feed of remaining 1 x 96 wp
+  13. D4D Fix 1 x 96 wp
+
+
+Key results and findings:
+
+
+Given the purpose of the study, we did not DAPI stain these plates hence,
+these are exclusively observational results.
+
+  1. No obvious differences observed between any of the conditions at D1D. Cell aggregates or 'blobs' can be seen in some of the wells. 
+  2. At D2D, it is observed in Image 1 that the drying out of wells results in greater (in size and number) formation of cell aggregates or 'blobs' when compared to the wells that are fed immediately in most of the forceful and gentle pipetting wells. The pipetting force doesn't seem to cause an evident difference in cell loss or adhesion.
+
+  
+
+  
+
+Image 1: C2C12 cells fed with E6 differentiation media in a harsh or gentle
+manner, respectively (top or bottom row), as well as left to dry out for 10
+seconds prior to feeding (first column) or fed immediately (second column).
+
+3\. At D3D and D4D, as seen in Image 2, there are no obvious differences in
+cell loss or detachment between any of the conditions - cell aggregates or
+'blobs' are observed in most wells regardless of treatment
+
+Image 2: C2C12 cells fed with E6 differentiation media in a harsh or gentle
+manner, respectively (top or bottom row), as well as left to dry out for 10
+seconds prior to feeding (first column) or fed immediately (second column) for
+days zero and four of differentiation.
+
+
+Discussion and limitations:
+
+
+Given we didn't fix nor stain these plates, the results presented in this
+report are purely observational. This is the main limitation of this pilot
+study, and makes it difficult to point out any differences accurately amongst
+the conditions tested thus address the main aim of this study. Nevertheless,
+we were able to obtain observational data that allowed us to modify the
+protocol we would then use in the experiment. For instance, we realised
+letting the cells dry out for 10 seconds prior to feeding extended the time it
+took to perform the feeds. Consequently, in the experiment we decided to test
+leaving a residual volume in the well and feeding immediately as a condition
+instead of letting the cells dry out for 20 seconds prior to feeding, which
+was one of the initial conditions we had planned to test. With the obtained
+observational data we were also able to better understand what to expect, in
+terms of the effect of the conditions on cell loss and attachment, when
+performing the experiment. In that regard, based on what was observed, there
+isn't any obvious effect of pipetting force on cell loss and adhesion during
+the first four days of differentiation of C2C12 cells. In terms of the drying
+out of cells, it is observed that at day two of differentiation there are more
+cell aggregates or 'blobs' in the wells left to dry out for 10 seconds when
+compared to those fed immediately, even if at day three of differentiation of
+C2C12 cells this no longer seems to be the case as there are a similar number
+of cell aggregates observed between both conditions (drying out vs. feeding
+immediately). These blobs are dissimilar to the cell loss observed in Q3 and
+prior, indicating that the drying out of wells whilst performing feeds in the
+first four days of differentiation is likely not the root cause of cell loss.
+They have also been observed in other experiments including electrical
+stimulation thus, may not be a direct cause of the drying out of cells even if
+this could result in an increased number of them, as seen in Image 1. We
+hypothesise these cell blobs to be a result of high confluence wells given we
+have mainly seen them with C2C12 cells that have greater proliferation rates
+than our primary cell lines.
+
+
+Future direction:
+
+
+  1. Repeat this experiment including all handling conditions in a single plate (temperature of the media, pipetting force and drying out)
+  2. Repeat this experiment with our main primary cell line (DOLLY12) in order to validate that what has been observed is consistent amongst cell lines
+  3. Use 2% HS 96 wp as a control 
+  4. Keep our plates in differentiation for a longer period of time in order to determine the 'longer-term' (up to day ten of differentiation) effect of these handling conditions on cell loss and differentiation
+  5. Stain our plates for DAPI, MyoG and MF20 to obtain quantitative data from our plates 
+
+

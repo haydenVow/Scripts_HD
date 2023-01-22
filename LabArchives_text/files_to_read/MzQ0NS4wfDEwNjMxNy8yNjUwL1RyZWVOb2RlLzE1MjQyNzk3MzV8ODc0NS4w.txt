@@ -1,0 +1,287 @@
+JMP Matrix/Table
+
+
+  
+
+
+Sample numbers and cell demands
+
+
+  
+
+
+Experiment timeline
+
+
+Example experimental timeline:
+
+  
+
+Before seeding:
+
+dd/mm/yyyy | D-5 Preparation of biomaterials, scaffold and coating (Story
+point: 1 - 5) *
+
+dd/mm/yyyy | D-4 Sterilise scaffold (Story point: 1 - 3) *
+
+dd/mm/yyyy | D-3 Distribute samples into plates for seeding (Story point: 1)
+
+dd/mm/yyyy | D -3, -4 or -5 Make ACF media (Story point: 3) *
+
+dd/mm/yyyy | D-3 100% Feed with ACF media (in cell expansion cycle) (Story
+point: 1)
+
+dd/mm/yyyy | D-1 50% feed with ACF media (in cell expansion cycle) (Story
+point: 1)
+
+Seeding + Prolif:
+
+dd/mm/yyyy | D0 Coat and and dry scaffolds (Story point: 1)
+
+dd/mm/yyyy | D0 \- Harvest flask (cell expansion)  (Story point: 3)
+
+dd/mm/yyyy | D0 Seed biomaterials/scaffold  (Story point: 1 - 2)
+
+dd/mm/yyyy | D1 Move scaffold into new plate and media  (Story point: 1)
+
+dd/mm/yyyy | D1 Calculate seeding efficiency (for new materials)  (Story
+point: 3 - 4)
+
+dd/mm/yyyy | D1 Prolif - Live Hoechst stain  (Story point: 1)
+
+dd/mm/yyyy | D1 Zaber image scaffolds (Story point: 1)
+
+Change into Differentiation media:
+
+dd/mm/yyyy | D0 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D1 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D2 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D3 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D4 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D5100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D6 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D7 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D7 Diff - Live Hoechst stain  (Story point: 1)
+
+dd/mm/yyyy | D7 Zaber image scaffolds (Story point: 1)
+
+dd/mm/yyyy | D8 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D9 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D10 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D11 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D12 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D13 100% Diff feed with E6 (Story point: 1)
+
+dd/mm/yyyy | D14 Fix, primary stain with MyoG and MF20 (Story point: 2 -3)
+
+dd/mm/yyyy | D15 DAPI, and secondary stain with MyoG and MF20 (Story point: 2
+-3)
+
+dd/mm/yyyy | D16 Zaber image scaffolds (Story point: 1)
+
+Analysis and report writing
+
+dd/mm/yyyy | D16 Analyse images and generate graphs (Story point: 5 - 8)
+
+dd/mm/yyyy | D17 Write report  (Story point: 5 - 8)
+
+dd/mm/yyyy | D18 Review report and provide feedback (Story point: 1 - 2)
+
+dd/mm/yyyy | D19 Edit report (Story point: 1 - 2)
+
+dd/mm/yyyy | D20 Final review, edits and submission (Story point: 1)
+
+  
+
+*See below for more detail  
+
+  
+
+
+
+
+Method for sterilization:
+
+  1. Autoclave
+  2. UV radiation
+  3. Dry heat 
+  4. Ethanol sterilization 
+
+  * Can be used in combination for ensured sterility. 
+  * The thickness of the material may have an impact on sterility (generally the thicker the material, the less likely the center of the material will be sterile) for this reason it is recommended that samples are cut to size prior to sterilisation (i.e. to fit the size of the well they will be seeded in).
+  * Autoclave sterilisation is the most effective sterilisation method against all types of microorganisms and spores. Dry heat requires higher temperatures (>/= 150'C) and longer durations (>/=2 hrs) to be considered effective and can easily be used in combination with UV. Where possible UV and ethanol sterilisation should not be solely relied on as these are the least effective sterilisation methods.
+
+  
+
+1\. Autoclave:
+
+Role: Autoclave sterilization works by using heat to kill microorganisms such
+as bacteria and spores. The heat is delivered by pressurized steam.
+Pressurization allows the steam to reach the high temperatures that are
+required for sterilization
+
+Method:
+
+  1.  Place samples in autoclave bag, glass plate or beaker sealed with aluminium foil
+  2.  Place inside autoclave. Follow instructions below to operate autoclave (generally operate on normal cycle 121'C for 30 minutes). Note - if using the normal cycle and glass ware you can increase the temperature above 121'C, if the material can withstand this. Just be sure to return the temperature for the next run, as these temperatures can be damaging to other users samples and re-usable plastic ware.
+
+How to use the autoclave:To open the autoclave step on the foot lever at the
+front and push down on the handle then release.Liquid cycle:Place the
+temperature probe attached to the wire into a bottle containing water, fill
+bottle based on the maximum maximum volume of liquid you are autoclaving (only
+once this volume has heated to 121'c will the autoclave reach temperature and
+hold temperature for sterilisation). Fix the probe in place using aluminium
+foil and autoclave tape so that the probe is under the water level. Make sure
+all lids on the bottle are screwed on loosely.Be careful handling the wire
+temperature probe, else water can get inside. Inspect regularly for cracks in
+the protective sheathing.On a liquid cycle you can not increase the speed of
+the steam coming in/out using the up/down buttons on the top left of the
+machine, this is to prevent liquid boil over.If there is a liquid boil over
+(i.e. gelatin etc overflows and spills into the autoclave) then clean this up
+while the autoclave is still warm! Pour warm water into the base of the
+autoclave and open the tap at the bottom, wash away until all is clear.Normal
+cycle:i.e. for autoclaving empty bottles, re-usable reservoirs, forceps, metal
+scissors and spatulas.For this cycle place the wire temperature probe inside
+the metal bucket, so that it is out of the way.If using autoclave bags ensure
+that these are contained within the metal buckets stacked within the autoclave
+and not touching the interior casing.When autoclaving metal items only (NOT
+GLASS OR PLASTIC) then you can increase the sterilising temperature (e.g. up
+to 135'C) to ensure sterility. Check the temperature of a normal run every
+time before you start! If you place glass or plastic in the autoclave when the
+temp is set above 121'C then this can result in the glass breaking and the
+plastic warping!On a normal run you can control the speed of the steam coming
+into the autoclave and venting from the autoclave using the up/down buttons on
+the top left of the machine, above the screen. This is so that you can speed
+up a cycle.Never try to open the autoclave whilst it is still at
+pressure.General maintenance:Before each run make sure the autoclave water
+level inside the autoclave is almost touching the bottom of the first metal
+bucket (can see the water level through the holes). Top this up regularly,
+just using normal tap water, reverse osmosis water (RO) (NOT ultrapure Type 1
+from the MilliQ as this corrodes the stainless steel!).Be careful when placing
+the round metal stacking baskets/trays into the chamber and avoid pinching or
+rubbing the probe wire as wear and tear in this way will result in failure of
+probe integrity.Approximately once a month check the temperature probe at the
+base of the autoclave (internal, under the bottom bucket/tray). Keep this
+clean! If any spills or scum cover the temperature probe the probe may think
+it is covered in water when it is not, and end up running dry.Regularly empty
+the waste water reservoir underneath the autoclave if this becomes full, this
+plastic containing waste water just pulls out, and can be poured
+away.Approximately once a month open the tap by the coil at the back of the
+autoclave, behind the waste reservoir and drain away.
+
+  
+
+2\. Dry heat
+
+Role: Heat treatment works through denaturing the proteins of an organism.
+Most organism are able to survive within a set temperature range, however
+outside of this range will result in death of the organism. Many organism are
+unable to survive high heat treatement, however there are few, such as
+thermophiles and spores, that can withstand high heat.
+
+Method:
+
+  1.  If using a dry heat safe nylon bag then line heating rack with aluminum foil. In case of melting plastic, glass ware is the suggested alternative.
+  2.  Place sample in sterile glass ware or heat stable nylon bag. (if using non sterile glassware, acetone wash or ethanol spray and place it he oven for 5 minutes to evaporate)
+  3.  Place temperature probe in dry heat oven 
+  4.  Set temperature (120'C) at an appropriate duration (e.g. 2 hour, current oven has a max duration of 1hr, so you will have to come back and re-start the oven for a second hour). 
+  5.  Place sample inside dry heat oven 
+  6. Keep an eye on material to ensure that it does not burn (until we have a more reliable oven we recommend including the temperature probe inside the oven with the sample, with the reader outside the oven, if this goes above 120'C by more than 3-5'C then stop oven and re-start process, check the oven every 10-30 mins)
+  7. Turn dry heat oven off and carefully remove samples  
+
+Caution:
+
+  * Materials that are thick may require longer heat treatment to ensure the center is completely heated. 
+  * Heat treatment can burn and change the material properties 
+
+  
+
+3\. Ethanol
+
+Role: Ethanol functions by denaturing the proteins and dissolving lipids in
+the phospholipid cell membrane, resulting in cell death. Thus effective
+against most bacteria, fungi and some viruses (innaffective against bacterial
+spores). It is most effective at 70% ethanol (with 30% MilliQ). If pure
+ethanol is used, it will only coagulate the proteins just beneath the cell
+wall and creates a barrier of coagulated proteins which seals and  prevents
+ethanol from further penetrating the cell. The organism, whilst inactive at
+this stage, can regenerate at favourable conditions. At 70% ethanol,
+coagulation of protein still occurs at a slower rate that allows for it to
+penetrate throughout the cell.
+
+Method:
+
+  1. Prepare 70% Ethanol solution by diluting in 30% MilliQ water. 
+  2. Sterile filter solution to ensure sterility and remove any fine particles 
+  3. Submerge scaffold into ethanol and allow to sit overnight in the BSC for solution to evaporate  (Note - the higher the volume the longer this will take to evaporate - smaller pieces and thus volumes suggested)
+  4. Wash three times with PBS for five minutes each 
+  5. Wash with DMEM/F12 (media may turn a different colour - suggest to wash until pink colour does not change)
+
+Caution
+
+  * Residual ethanol can damage cells 
+  * Ethanol may effect or damage the material 
+  * Ethanol can change the properties of the material (e.g. pH) 
+
+  
+
+  
+
+4\. UV radiation
+
+Role:  UV sterilization works by destroying nucleic acids and disrupting DNA,
+leaving the organism unable to perform vital cellular functions. UV light can
+have efficient inactivation of bacteria up to a distance of eight feet on
+either side and exposure time of 30 minutes is adequate
+
+Method:
+
+  1. Place glass petri-dish into a autoclave bag and autoclave at 121'C or higher for 30min
+  2. In the BSC, transfer samples into a pre-autoclaved glass petri dish (lid open)
+  3.  Place sample under the UV lamp in the BSC 
+  4.  Seal area (close BSC) to prevent damaging exposure of the user to UV 
+  5.  Turn on UV light for 1 hour.
+  6.  After time has elapsed, turn UV power off, open the BSC then flip sample (using sterile tweezers) or re-distribute if sterilizing a powder. Close BSC.
+  7. Turn UV lamp back on and repeat for another 1 hour on the other side.
+  8. Close the glass-petri dish and para-film edges
+
+Caution
+
+  * UV treatment is only effective in sterilising the surface of a material. For materials that are thick, it is likely that the UV has not sterilise the center of the material. 
+  * Extra precaution must be applied when using UV, as this can damage human DNA and vision upon exposure 
+
+
+
+
+## Make ACF media
+
+  1. Prepared 2M solution of GABA according to E8_9C Media Calculator instructions.  
+  2. Prepared 2M hypoxanthine solution according to E8_9C Media Calculator instructions.
+  3. Added   mL of F12 and   mLof DMEM to vessel 
+    * Note: For making 1 - 2.5 L, used a Schott bottle, for >2.5 L used a carboy)
+  4. Added all the ingredients needed for   mL of E8 media following E8 calculator spreadsheet.
+  5. Added ACF ingredients according to the E8_9C Media Calculator spreadsheet.
+  6. If making 10C, 11B, 11C or 11E, added following ingredient (referred to recipes for volume/concentration (E8_10 iterations  and E8_11 iterations)):
+    1. 10C: Glyoxylic acid 
+    2. 11B: IL-6 
+    3. 11C: Extra P38i
+    4. 11E: IGF-1-LR3
+  7. Sterile filtered medium.
+  8. Added   mL of concentrated lipid solution to media (E8_9C Media Calculator).
+  9. Wrapped bottle with foil to protect from light  
+  10. Labelled and stored in fridge 
+
+

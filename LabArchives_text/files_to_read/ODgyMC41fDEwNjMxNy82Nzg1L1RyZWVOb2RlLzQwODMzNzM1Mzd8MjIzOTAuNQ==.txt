@@ -1,0 +1,97 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+  1. To establish planar cultures of embryo derived crocodile cells.  
+  2. To adapt crocodile embryo derived cells to growth in serum free media in planar culture
+  3. To adapt crocodile embryo derived cells to growth in suspension culture. 
+
+
+Hypothesis
+
+
+1\. Cells which have been derived from 'dead in shell' crocodile embryos and
+placed immediately into suspension culture will begin to proliferate within 21
+days, in 1 or more of the following medias
+
+  1. Freestyle 293 medium supplemented with Yeast Extract, L-Ornithine monohydrochloride, Putrescine, IGF-1, EGF and ACA.
+  2. CDM4Avian medium supplemented with 2.5 mM GlutaMAX 
+  3. OptiPRO SFM + 0.2% Pluronic F-68 + \+ 4mM GlutaMAX 
+  4. Hycell CHO + 4mM Glutamax 
+  5. CDM4 HEK293 + 4mM Glutamax
+
+2\. Following a direct or gradual adaption process, cells derived from 11 day
+mongrel chicken and Cayuga duck embryos will be adapted to growth in one or
+more of the following medias, within 7 passages.
+
+  1. DMEM/ F12 + 20% FBS
+  2. DMEM/ F12 + 5% FBS
+  3. DMEM + 10% KSR
+  4. OpiPRO SFM + 4mM GlutaMAX 
+
+
+Technical Gap
+
+
+While still in the early stages, our attempts to adapt quail embryo derived
+cells to planar serum free culture, as well as suspension culture are showing
+promise. These results however may not be directly transferrable crocodile
+embryonic cells.  
+  
+As the 'dead in shell' eggs may have died anywhere up to 3 weeks prior to
+arriving at Vow, the cells may not be in peak health, or even viable.
+
+
+Method/Procedure
+
+
+Day 0 (11/02/2022)  
+Single cell homogenate prepared from 'dead in shell' embryos following the
+protocol outlined by James Henstock and cells seeded into either planar or
+suspension culture as follows.  
+  
+SUSPENSION  
+D0: E-125 flasks will be seeded with embryonic cell isolate in 1 of 5 medias.
+Flasks will then be incubated at 30C and 5% CO2 on a shaking plate at 120RPM.
+
+  1. Freestyle 293 medium supplemented with:  
+ Yeast Extract: 10ml YE stock (100g/ml) per litre of medium  
+ L-Ornithine monohydrochloride: 20mg/l; add 1ml stock (20mg/ml) per litre of
+medium  
+ Putrescine dihydrochloride: 20mg/ml; add 1ml stock (20mg/mg) per litre of
+medium  
+ IGF-1 LONG R3; 50ug/l; add 50ul stock (1mg/ml) per litre of medium  
+ EGF; 10ug/l; add 10ul stock (1mg/ml) per litre of medium  
+ Anti-Clumping agent (ACA) 1:100; add 10ml stock per litre of medium
+
+  2. CDM4Avian medium supplemented with 2.5 mM GlutaMAX 
+  3. OptiPRO SFM + 0.2% Pluronic F-68 + 4mM GlutaMAX 
+  4. Hycell CHO + 4mM Glutamax - Commercial suspension cell media designed for CHO cells that we already have in house. 
+  5. CDM4 HEK293 + 4mM Glutamax-  Commercial suspension cell media designed for HEK cells that we already have in house. 
+
+Ongoing: Suspension cultures will have a 50%-75% media change and cell count
+every 3-4 days following Vows establish protocols for suspension culture
+monitoring.
+
+ADHERENT  
+D0: A portion of the cell homogenate will be seeded into T25 flasks in each of
+the following medias
+
+  1. OptiPRO + 4mM Glutamax
+  2. DMEM/F12 + 10% KSR
+  3. DMEM/F12 + 20% FBS 
+  4. DMEM/F12 + 5% FBS
+
+Ongoing: All cultures will have a 50% media change every 48-72hrs after
+initial cell attachment, and be passaged when approx. 80% confluent and
+reseeded at 7500/cm. Any successfully adapted cultures will be expanded and
+placed into suspension adaption experiments. If we are able to establish
+cultures in serum containing media, but direct adaption to serum free media is
+not successful, then a gradual adaption to reduced or serum free media will be
+attempted.
+
+

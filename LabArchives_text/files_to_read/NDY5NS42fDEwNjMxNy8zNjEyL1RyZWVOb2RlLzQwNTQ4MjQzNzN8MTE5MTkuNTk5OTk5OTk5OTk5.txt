@@ -1,0 +1,79 @@
+Performed by: Avani
+
+
+Preparation:
+
+  
+
+  
+
+ReagentAmount to add (uL/well)Reagent ID  
+Growth media3000a6456  
+  
+PBS600a6331  
+  
+Tryple300m6540  
+  
+  
+  
+
+PositionPlate ID  
+Origin_A7758  
+  
+Passaging to 1
+
+  
+  
+  
+Passaging to 2  
+  
+Passaging to 3  
+  
+Passaging to 4  
+  
+Passaging to 5  
+  
+Passaging to 6  
+
+
+  
+  
+Protocol run:
+
+6 well plates with growth media warmed in incubator: 12:42 - 13:35
+
+Plate/s taken out from incubator: 13:35
+
+first run started at: 13:42. The OT2 wasn't aspirating media from the 24 well
+plate. The run was stopped. I checked the calibration again - in case the tip
+was calibration too high to reach the media in the well. It seems like this
+was not the case. Well A1 will therefore have a longer tryple time than rest
+of the wells.  
+
+second run started: 1:51:09 PM. I watched well C1 on the first step. Growth
+media did get aspirated, but because the well is larger, the dead volume must
+be larger so a lot the media still gets left behind. Guessing ~50% left
+behind. However, it does get diluted out with PBS wash.  
+
+Run time: 1:09:37  
+
+Plate/s returned to incubator: ~16:00
+
+Attach protocol and csv files below  
+
+
+
+
+Observations/Summary:
+
+most cells were still attached to their origin wells and did not get passaged.
+the dead volume remaining in the 24 wp was: approx 160 - 460uL
+
+
+
+
+Images
+
+  
+
+

@@ -1,0 +1,75 @@
+
+
+Method summary
+
+DOLLY12 fibroblasts in 384 well plate were passaged to a 96 well plate in
+different conditions (Figure 1). 4 replicates were used for each condition.
+For the first set of conditions (wells on the left in the image), PBS, tryple
+and growth media were warmed to 37 degrees. Also, after cells were transferred
+to 96 well plates, they were pipetted up and down in the growth media. For the
+second set of conditions (wells on the right in the image), reagents were not
+warmed. Also, after cells were transferred to 96 well plates, they were not
+pipetted up and down in the growth media as this would be a closer reflection
+of the OT2 protocol we've designed. However, for the 20 min time point a
+control was included (row B) which involved mixing in the final step. Although
+it wasn't ideal that I changed two factors (temperature and mixing), it was to
+make a better comparison between manual protocol vs OT2 protocol (performed
+manually). Cells for all conditions were tryplised at room temperature (i.e.
+they were not placed in the incubator during the tryple incubation).
+
+24 h after passaging, all wells received a 50% feed and on day 4 after
+passaging, cells were stained with Hoechst. One image of the centre of each
+well was captured on 5x on the Zaber. Images were then processed through MIA
+('DAPI count') to obtain cell counts per region of interest (ROI).
+Visualisation and statistical analysis was performed on GraphPad Prism.
+
+  
+
+Figure 1. Plate map of cell counts from 96 wp. Green + bold represents
+conditions that involved mixing in the final step whereas conditions in yellow
+did not involve mixing in the final step.
+
+
+
+
+
+
+Results
+
+  
+
+Brown-Forsythe and Welch ANOVA test revealed no significant difference between
+the 3 different tryple conditions that were tested when tryplising for 20
+minutes.
+
+  
+
+  
+
+  
+
+  
+
+An ordinary two-way ANOVA showed no significant difference between warm vs
+room temperature reagents at each time point. Also, there was no significant
+difference if we compare between time points within the same temperature.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+

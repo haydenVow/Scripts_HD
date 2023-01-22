@@ -1,0 +1,22 @@
+
+
+  1. The Aim and Hypothesis should be recorded in the EPIC header, not in the experiment plan.
+  2. Design your experiment with the next steps in mind. What are the next steps if the experiment succeeds? What are the next steps if the experiment fails? Design the experiment as best as possible so that there is compelling evidence for deciding on next steps.
+
+
+Method/Procedure
+
+
+Overview:
+
+  1. Seed 3 columns of a 96 well plate with 7000 cells/well in serum containing growth media (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+  2. Day 2 prolif - 50% feed with growth media
+  3. Day 4 prolif - switch to differentiation media
+    1. 1 column with DMEM/F12 + 2% HS + 1x P/S
+    2. 1 column with E6 made fresh
+    3. 1 column with E6 from bullet
+  4. Perform daily 50% feeds with respective differentiation media
+  5. Fix cells on day 7 of differentiation.
+  6. Primary and secondary stain for MyoG and MF20
+
+

@@ -1,0 +1,57 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/21699/suspension-adaptation-6-hdacs-and-
+hydrolysates?cf_workflow=500000005&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recT0PIHQpjtXk2CS?blocks=hide
+
+RELATED TO MILESTONE:  Generating at least 1 suspension-adapted fibroblast
+cell line which is >95% viable and proliferates for >14 days.
+
+AIM/PURPOSE: To adapt fibroblasts to suspension culture
+
+HYPOTHESIS: We hypothesise the inclusion of the p53 inhibitors histone
+deacetylases 1 and 2 (HDAC1, HDAC2) and/or the inclusion of plant-based
+hydrolysates will support the adaptation of fibroblasts to suspension culture.
+
+RESULTS SUMMARY: See results and data analyses summary here
+
+Results indicated that all treatment groups and controls exhibited a rapid
+loss of cells during the suspension adaption process. Manual haemocytometer
+counts with trypan blue exclusion confirmed that no conditions contained
+viable cells at the Day 30 timepoint. This indicated that no fibroblast cells
+were successfully adapted to suspension, irrespective of treatment condition,
+thus refuting the proposed hypothesis. No significant differences in cell
+survival and adaption between the p53 inhibitors (histone deacetylases 1 and
+2) and plant-derived hydrolysates were observed across all conditions.  
+
+CONCLUSIONS:
+
+Despite not achieving suspension adapted cells in this experiment, we have
+identified several shortcomings in our current methods such as live/dead
+staining. Namely the limitation of inconsistent levels of fluorescence in
+Zaber imaged cultures across multiple days made it difficult to quantify cell
+numbers. Additionally the use of the Opentrons reservoirs resulted in
+overestimated FIJI macro counts due to the presence of fluorescent debris that
+approximated the size and circularity of cells and were thus indistinguishable
+from suspension cells. Finally due to the lack of cell number data captured
+between days 2 and 16, this resulted in difficulties extrapolating trends
+across the culture conditions.
+
+NEXT STEPS:
+
+\- Discontinue use of Opentrons reservoirs from staining protocols due to
+presence of fluorescent debris.
+
+\- Continue optimising live/dead staining protocols to obtain consistent
+florescent results. Namely trialing the levels of fluorescent signals of
+different live and dead stains such as calcein, CMFDA, propidium iodide,
+Hoechst 33342 Ready Flow and DAPI are potential avenues.
+
+\- Evaluate the effect of hydrolysates in fibroblast adherent culture to
+determine if they are practical supplements to include in future suspension
+culture experiments (See here for continuation of this work).
+
+

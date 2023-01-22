@@ -1,0 +1,124 @@
+
+
+Problem: To get cells into suspension asap, we need to kick off the
+experiments most likely to successfully adapt cells to suspension asap. The
+purpose of this page is to list the ingredients that we suspect will aid in
+adaptation of cells to suspension and why. Then we can prioritise the
+conditions and begin to plan/kick-off experiments.
+
+
+Basal Media formulations
+
+
+DMEM/F12
+
+CDM4Avian liquid
+
+HyCell CHO liquid medium without L-glutamine and with HT
+
+ActiPro liquid medium
+
+DM4HEK293 liquid medium without phenol red, L-glutamine, HEPES
+
+CDM4CHO liquid medium with L-glutamine
+
+
+Serum-replacement formulations
+
+
+Hydrolysates
+
+KnockOut™ Serum Replacement
+
+  
+
+  
+
+Note that the 5% serum condition in suspension culture #4 looks better than
+the 20% serum cultures.
+
+
+Media Supplements
+
+
+FGF-b \- key growth factor for fibroblast proliferation. Has been suggested to
+add 100ng/mL to stimulate growth
+
+IGF-LR2 \- key growth factor for fibroblast proliferation. Has been suggested
+to add 100ng/mL to stimulate growth  
+  
+Anti-clumping agent - 1:500 concentration had no effect. 1:100 concentration
+lead to 6 days of proliferation and viabilities over 95%.  
+  
+RevitaCell - This ROCK inhibitor at a 1:100 concentration did not stimulate
+proliferation, but did allow cultures to achieve viabilities over 95%.  
+  
+Y-27632 dihydrochloride - 10uM and 20uM ROCK inhibitor tested. Neither
+appeared to help substantially with viability or proliferation. 10uM + 1:100
+ACA led to higher rates of viability and total numbers of cells relative to
+the negative control as well as the 10uM ROCKi condition. No cultures in this
+experiment (#3) achieved viabilities over 60% and we missed some counts due to
+the handover so this data is uncertain.
+
+Pluronic F-68 \- The condition with 0.1% w/v Pluronic F-68 (Poloxamer 188)
+achieved ~60% viability. (Compare to the control at 20-30% viability for the
+entire experiment). Cell numbers dropped much more slowly over the first 10
+days. (After the initial drop on day #2, they sustained their numbers until
+day 10). No pickup in cell numbers in the 16-20 day frame, but I wonder if we
+missed a rebound between days 2-8.
+
+RGD Peptide - Integrin binding peptide. Should help fibroblast maintain
+biologically critical signalling associated with adherence. 10mM RGD tested
+with 1:100 ACA. Suspension Culture #4. Only counts for ~6 days at the
+beginning. Bonnie says there is a lot of debris and will attempt another count
+tomorrow/Friday with Marie's system. Early results suggested RGD helped with
+viability relative to YIGSR.
+
+YIGSR Peptide - Integrin binding peptide. Should help fibroblast maintain
+biologically critical signalling associated with adherence. 1mM YIGSR tested
+with 1:100 ACA. Suspension Culture #4. Only counts for ~6 days at the
+beginning. Bonnie says there is a lot of debris and will attempt another count
+tomorrow/Friday with Marie's system.
+
+Histone Deactylase 1 (HDAC1) - p53 inhibitor, should encourage immortalisation
+& adaptation. Not tested, in house.  
+  
+Histone Deactylase 2 (HDAC2) - p53 inhibitor, should encourage immortalisation
+& adaptation. Not tested, in house.
+
+
+Cell lines
+
+
+Most of the adaptation experiments have been completed using DOLLY12 WCB.
+
+Suspension adaptation #5 focuses on p2 chicken fibroblasts and p1 alpaca
+fibroblasts.
+
+
+Key take-aways to date
+
+
+1) 1:100 ACA helps with proliferation & viability. We have seen this in 2 x
+experiments now.
+
+2) ROCK inhibition doesn't appear to substantially help with proliferation. It
+may help with viability but ACA does this better.  
+
+3) Pluronic F-68 may be worth further exploration, especially in the first 10
+days. There might be something interesting there that in combo with ACA or
+other ingredients, might get us over the top.
+
+  
+
+We absolutely need to trial some better basal medias as soon as they come in.
+
+_______________________________________________________________________________________________________________  
+4) 5% FBS might be better than 20% FBS, but the counting issue means that we
+only have a couple of days of data for this rather than the full 30. Bonnie
+will get some more counts on this later this week and this will hopefully be
+illuminating. Apparently these samples (all culture #4) had more debris than
+the others. RGD might also be better than YGSR/no peptide conditions, but
+similarly, hopefully Bonnie's info this week will be illuminating.
+
+

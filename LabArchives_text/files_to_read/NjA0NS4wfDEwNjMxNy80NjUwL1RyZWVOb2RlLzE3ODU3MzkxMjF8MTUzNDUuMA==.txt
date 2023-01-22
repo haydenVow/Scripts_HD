@@ -1,0 +1,318 @@
+
+
+## Performed by: AB  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDGrowth MediumVessel location (weekend only)  
+Growth media location (weekend only) Other comments eg media container
+(weekend only)  
+MuSC clone, 50 mL shake tubes  
+8158-DOLLY12_11E7-Sheep P12-1of3  
+8162-DOLLY12_11E7-Sheep P12-2of3  
+8163-DOLLY12_11E7-Sheep P12-3of3  
+RPMI + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+  
+  
+  
+  
+  
+8164-DOLLY12_11E7-Sheep P12-1of3  
+8165-DOLLY12_11E7-Sheep P12-2of3  
+8166-DOLLY12_11E7-Sheep P12-3of3  
+RPMI + 20%  KSR + 1:100 ACA + 0.1% w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+8167-DOLLY12_11E7-Sheep P12-1of3  
+8168-DOLLY12_11E7-Sheep P12-2of3  
+8169-DOLLY12_11E7-Sheep P12-3of3  
+CD-CHO + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+8170-DOLLY12_11E7-Sheep P12-1of3  
+8171-DOLLY12_11E7-Sheep P12-2of3  
+8172-DOLLY12_11E7-Sheep P12-3of3  
+CD-CHO + 20% KSR + 1:100 ACA + 0.1%v/w P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+  
+  
+  
+  
+  
+  
+  
+fibroblast clone, 50 mL shake tubes  
+8173-F_DOLLY12_4C4-Sheep P9-1of1  
+RPMI + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-BB~~  
+  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8174-F_DOLLY12_4C4-Sheep P9-1of2  
+8175-F_DOLLY12_4C4-Sheep P9-2of2  
+RPMI + 20%  KSR + 1:100 ACA + 0.1% w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8176-F_DOLLY12_4C4-Sheep P9-1of1  
+CD-CHO + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8177-F_DOLLY12_4C4-Sheep P9-1of2  
+8178-F_DOLLY12_4C4-Sheep P9-2of2  
+CD-CHO + 20% KSR + 1:100 ACA + 0.1%v/w P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Remove 18 shake tubes from the incubator 13:50
+  2. Mix Take 100uL sample from each culture and place into a well of 96 well plate. Take 20 uL from each culture and place into a 1.5 mL tube.
+  3. Returned vessels to incubator   14:15     
+
+  1. Plate map(s) of culture IDs in 96-WP for imaging
+    *   
+123456789101112  
+  
+stain sol'n50% dilution25% dilution12.5% dilution12.5% dilutionEMPTYEMPTY50%
+dilution25% dilution12.5% dilution12.5% dilution  
+  
+A  
+8158  
+  
+  
+  
+  
+8169  
+  
+  
+  
+  
+B  
+8162  
+  
+  
+  
+  
+8170  
+  
+  
+  
+  
+C  
+8163  
+  
+  
+  
+  
+8171  
+  
+  
+  
+  
+D  
+8164  
+  
+  
+  
+  
+8172  
+  
+  
+  
+  
+E  
+8165  
+  
+  
+  
+  
+8173  
+  
+  
+  
+  
+F  
+8166  
+  
+  
+  
+  
+8174  
+  
+  
+  
+  
+G  
+8167  
+  
+  
+  
+  
+8175  
+  
+  
+  
+  
+H  
+8168  
+  
+  
+  
+  
+8176  
+  
+  
+  
+  
+    * plate 2:
+    *   
+123456  
+  
+  
+  
+  
+  
+  
+A  
+8177  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+B  
+8178  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Incubator (#81), Lab [Main/Library/Production]
+
+
+
+
+### IF Staining Process
+
+  1. Prepared stain solution by combining the following (3 drops Hoechst and 1 drop Cytox per 1 mL of dPBS):
+    1. _4_ mL of filtered dPBS (does not have to be sterile - filtered to remove debris)
+    2. _12_ drops of NucBlue Live Cell Stain ReadyFlow Hoechst 33342
+    3. _4_ drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+  2. Added 100uL of stain solution from column 1 into column 2 and into column 8 of the 96 well plates.
+  3. Incubated plates in stain at RT in dark for 20 - 30 minutes    14:20 - 14:50     
+
+    1. while waiting, ensure you have 100uL/well of PBS in columns 3,4,9, and 10 of the 96 wp.  
+
+  4. Performed serial dilution by hand to achieve a 12.5% final dilution: 
+    1. Pipette mixed and moved 100 uL of 50% stain solution + cell suspension into wells containing 100 uL of filtered dPBS 
+    2. Pipette mixed and moved 100 uL of 25% stain solution + cell suspension + dPBS into wells containing 100 uL of filtered dPBS
+    3. Pipette mixed and moved 100 uL of 12.5% stain solution + cell suspension + dPBS into empty wells for 100 uL of 12.5% dilution 
+  5. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp:   15:30  
+  6. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488).  Timestamp:    15:30
+    * Culture ID images were stored under:     8158    
+    * When imaging, in the notes include: 'Day 28, plate 1, attempt2' or 'Day 28, plate 2, attempt2'  
+
+
+
+
+Haemocytomer count
+
+  1. 20uL of trypan blue was added to each 20uL sample and mixed. 10uL from this solution was loaded onto the haemocytometer for a count.
+  2. Phase, 10x was used to look at the haemocytometer slide. Example image below:
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recZYiqqFG6xM5Oi4/images
+
+
+
+
+Reagents:
+
+NameDetailsVolume used (mL)  
+  
+  
+  
+ dPBSa7357  
+  
+Sytox Greens3626  
+  
+  
+Hoechsts3811  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+Zaber observations/issues:
+
+IF stained 18 suspension culture (see IDs in the table at the top) and
+performed haemocytomer counts for all of them.
+
+There was signal visible on DAPI channel.
+
+When using the haemocytomer, no cells were visible for any cultures.
+Occasionally, there were small, mostly round objects visible that were assumed
+to be debris because they were much smaller than cells that we usually see.
+Therefore, the count was 0 for all cultures. Example of a representative
+haemocytomer slide is included.
+
+We also took images of the 96 wp on Phase to show the small cells (or possibly
+debris). It's possible that the suspension adaptation process has resulted in
+a change in size of the cells.
+
+
+
+
+phase, 5x image of a well from 96 well plate
+
+
+
+

@@ -1,0 +1,127 @@
+Aim:
+
+
+To determine the optimal individual and combinatorial concentrations of Ficoll
+PM 70 and Ficoll PM 400 to produce deposited ECM sheets through macro
+molecular crowding.
+
+
+Background
+
+
+Both Ficoll PM 70 and Ficoll PM 400 have been top candidates among the macro
+molecular crowders tested at Vow thus far and in literature [1]. We have
+employed concentrations recommended by literature for both of these crowders
+to varying success, however there still remains room for optimisation of these
+concentrations as while some ECM deposition is seen in sheets, a portion of
+the ECM remains suspended in the media. Moreover, this was demonstrated in
+crowded growth media containing a high amount of serum, and the concentrations
+determined in serum may not translate directly in the newfound ACF formulation
+we have developed. Thus, a concentration study is required to understand the
+ideal concentration for each crowder that deposits all of the ECM generated
+into the cell sheet rather than the media. Moreover, a combinatorial approach
+to MMC has shown success in literature and hence will be assessed in this
+experiment.
+
+
+Layout
+  
+  
+Figure 1: Layout of a 48 well plate depicting the condition of each cell. Each
+cell contains a combination of Ficoll PM 400/Ficoll PM 70 concentrations
+(mg/ml).  
+  
+  
+
+
+  
+  
+Figure 2: Table depicting the amounts of concentrated stock and basal media
+required to make each dilution for Ficoll 40.
+
+
+  
+  
+Figure 3: Table depicting the amounts of concentrated stock and basal media
+required to make each dilution for Ficoll 400
+
+
+  
+  
+Day
+
+Task
+
+Requirements  
+  
+0
+
+  * Seed 6 x 48 well plates with 20 million cells per well in ACF adherent media
+
+  * 6 x Corning 48 well Tissue Culture treated plates 
+
+  * ACF adherent media (DMEM/F12 + BSA (18.75 mg/ml) + LAA2P (150ug/ml) + 1X ITS + 1X P/S
+
+  
+  
+1
+
+  * Make up a 2X stock of 75 mg/ml Ficoll PM 70 in ACF adherent media (will become 1X when combined in 50/50 with F400)
+
+  * Make up a 2X stock of 50 mg/ml Ficoll PM 400 in ACF adherent media (will become 1X when combined in 50/50 with F70)
+
+  * Perform dilutions to achieve each of the dilutions outlined above.
+
+  * Perform media change and aliquot 150uL of Ficoll 70 and 150uL of Ficoll 400 (50:50) as outlined in Figure 1 with the respective concentrations.
+
+  * Ficoll PM 400
+
+  * Ficoll PM 70
+
+  * ACF adherent media (Basal Media)
+
+  * Opentrons Liquid Handling Robot (optional)
+
+  
+  
+7
+
+  * Fix each well with 4% PFA
+
+  * Quantify each cell sheet and media in each well with Sirius Red to analyse collagen content at 560nm.
+
+  * 4% PFA
+
+  * Sirius Red
+
+  * Spectrostar Nano Plate Reader
+
+  * Data analysis software
+
+
+Analysis
+  
+  
+Metrics for success:
+
+  * Collagen content deposited between conditions
+  * Collagen content deposited vs Collagen content suspended in media (ratio) between conditions
+  * Overall collagen produced between conditions
+
+  
+
+
+References
+
+
+[1] Zeiger, A., Loe, F., Li, R., Raghunath, M. and Van Vliet, K., 2012.
+Macromolecular Crowding Directs Extracellular Matrix Organization and
+Mesenchymal Stem Cell Behavior. PLoS ONE, 7(5), p.e37904.
+
+
+
+
+
+
+
+

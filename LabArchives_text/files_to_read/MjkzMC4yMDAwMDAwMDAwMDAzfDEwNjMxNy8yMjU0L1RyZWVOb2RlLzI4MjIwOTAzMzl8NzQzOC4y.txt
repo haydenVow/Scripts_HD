@@ -1,0 +1,129 @@
+
+
+Performed by Bonnie Tangey
+
+
+
+
+Growth Media:
+
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S + ROCKi 
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S + ROCKi + 1:100 ACA 
+  * [X ]  DMEM/F12 + 20% FBS + 1X P/S + Pluronic F-68
+
+
+
+
+Process:  
+
+1\. Place the pre-aliquotted  10 mL  mL of each respective type of Growth
+Media into the water bath  11:52 am
+
+2\. Placed shake tubes in centrifuge and centrifuge at 650 x g for 5 min at
+RT.   16:45 - 17:00
+
+Aspirated supernatant from each pellet
+
+Added 1mL of respective growth media to each tube and used a P1000 pipette to
+break up cell clumps.
+
+10uL of each culture taken for viability check
+
+Remaining 9mL of each respective media was added afterwards and triturated
+with 10mL serological pipette to break up cell clumps for each culture further
+and resuspend cells evenly.
+
+4\. Returned 4 x vessel to incubate at:   17:15 pm Shaking at 206 RPM
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells)
+  * Incubator (#67 ), Lab [Library]
+
+
+ Reagent  
+ ID  
+  
+ Cell Tracker  
+ S 911  
+  
+ PI  
+ S 1129  
+  
+ DMEM/F12  
+ M 5605  
+  
+  
+ DMEM/F12 + 20% FBS + 1X P/S
+
+ 5598  
+  
+  
+ DMEM/F12 + 20% FBS + 1X P/S +  ROCKi
+
+ 5877  
+  
+  
+ DMEM/F12 + 20% FBS + 1X P/S +  ROCKi + 1:100 ACA
+
+ 5876  
+  
+  
+ DMEM/F12 + 20% FBS + 1X P/S +  Pluronic F-68
+
+ 5733  
+
+
+  
+  
+Observations: It was extremely difficult to count cells, and to determine
+which were alive and dead. There was a high volume of debris in the counts and
+the cells were also very small. I do not trust the accuracy of these counts
+due to the subjectivity of live versus dead interpretations.
+
+Cells had also formed visible clumps in culture which were not broken up after
+a significant amount of pipetting, this may also have affected the counts.
+
+
+ CultureCulture ID  
+  
+  
+ Serum control Low  
+ 7049Sum (cells total)  
+105,000  
+Viability26.19%  
+ Serum control   High  
+ 7045 Sum (cells total)  
+5,310,000  
+Viability32.58%  
+  
+ ROCKi  
+ 7048Sum (cells total)  
+38,500  
+Viability28.57%  
+ ROCKi + 1:100 Anti-clumping agent  
+ 7047 Sum (cells total)  
+390,000  
+Viability18.59  
+  
+ Pluronic F-68 (Poloxamer 188)  
+ 7046Sum (cells total)  
+520,000  
+Viability  
+5.38%  
+  
+  
+
+  
+
+
+
+
+Images: trypan blue staining
+
+7045- https://mia-capture.vow.tools/#/session/recA4AMHiZjdMsdPe/images  
+7046- https://mia-capture.vow.tools/#/session/rec57bg0wAcvKee1h/images  
+7047- https://mia-capture.vow.tools/#/session/recOKBYVVYJGeIn2S/images  
+7048- https://mia-capture.vow.tools/#/session/recjL6crC4jQMf7VG/images  
+7049- https://mia-capture.vow.tools/#/session/recpZimaIKuetrOjq/images
+
+

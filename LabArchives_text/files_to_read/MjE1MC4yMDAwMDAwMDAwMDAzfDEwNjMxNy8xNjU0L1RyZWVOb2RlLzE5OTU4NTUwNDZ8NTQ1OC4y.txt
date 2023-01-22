@@ -1,0 +1,131 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+7213-C2C12-Mouse P3-1of1  
+96WP8  
+  
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Prepared   2 mL  PBST (0.2% Triton-X)
+
+2\. Prepared   2 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  5 µL   Primary #1 MyoG (Santa Cruz)
+(1:200) +  20 µL   Primary #2 MF20 (DSHB) (1:50) +   975 uL  Blocking Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG1gG1AF4881:200  
+MF201gG2bAF5551:50  
+  
+  
+
+
+
+
+Process:
+
+Fix cells
+
+  1. Aspirated media from wells 
+  2. Washed x 2 with 150 uL/well dPBS for 5 min
+    1. Timestamp 9:55- 10:00
+    2. Timestamp 10:01 - 10:06
+  3. Added 100 uL/well PFA and incubated for 15 min. Timestamp: 10:07 - 10:22
+  4. Aspirated PFA. Washed x 2 with 150 uL/well dPBS for 5 min.
+    1. Timestamp: 10:23 - 10:28
+    2. Timestamp: 10:29 - 10:34
+
+Permeabilise
+
+  1. Aspirated dPBS. Added 100 uL/well of PBST and incubated for 15 min. Timestamp: 10:34 - 10:49
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes:  10:51 - 11:36  
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min at RT:   11:40 - 13:12  
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm5285  
+  
+PBST (0.2% Triton)m5481  
+  
+dPBSm5385  
+  
+MyoG primary antibody  
+s1451  
+  
+MF20 primary antibody  
+s694  
+  
+PFA  
+a3098  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Primary stained C2C12 cells with MyoG and MF20 antibodies
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,86 @@
+
+
+14/1/22
+
+To further investigate the range in emPAI values being reported, samples from
+the same species were compared using the PD label-free quantitation (LFQ)
+node:
+
+
+
+  
+
+Grouping:
+
+
+
+  
+
+
+
+
+17/1/22
+
+The LFQ search identifed 19,356 proteins, 6,746 protein groups, 100,067
+peptide groups and 504,349 PSM from 1,756,099 MSMS.
+
+The top 10 hits were:
+
+  
+
+Sample abundance:
+
+Protein abundance after normisation:
+
+Heat map:
+
+  
+
+PCA:
+
+  
+
+Note samples P001,3 & 5 were run in one batch, whereas P006,7 & 8 were run on
+the same instrument (HFX3) but in a second batch at a later date.  
+
+  
+
+P001 vs P005 (tissue)
+
+P003 vs P005 (both tissue)
+
+P006 vs P005 (tissue)
+
+P007 vs P005 (tissue)
+
+P008 vs P005 (tissue)
+
+  
+
+
+
+
+17/1/22
+
+P001
+
+Highest mascot score: P60712    (emPAI: 20,668  \- this hit is for Bovin
+actin, Ovine actins were also high scoring members of the same group)
+
+Highest emPAI: XP_004020068.3 (emPAI:  29,734.18)
+
+P003
+
+Highest mascot score: XP_042100819.1 (emPAI:  84,976)
+
+Highest emPAI: XP_004021390.1 (emPAI:  619,840.23)
+
+P005
+
+Highest mascot score: XP_042100819.1 (86,074)
+
+Highest emPAI: XP_004004941.1 (emPAI:  420,385.84)
+
+  
+
+

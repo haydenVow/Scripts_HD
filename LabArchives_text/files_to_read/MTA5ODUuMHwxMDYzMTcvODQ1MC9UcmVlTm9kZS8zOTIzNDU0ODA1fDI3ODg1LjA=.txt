@@ -1,0 +1,188 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+1x E500  
+132  
+12504  
+  
+ E500  
+136  
+12504  
+For cell density experiment  
+159 - shaker incubator  
+  
+  
+1x E500  
+136  
+12505  
+  
+E500  
+119.5  
+12536  
+Expansion  
+  
+  
+  
+  
+  
+E500  
+125  
+12537  
+Expansion  
+  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+MIX 12751 + Mix12737+12739  
+  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Passage:
+
+  1. Cell counts with the Vicell was performed:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1250512504  
+Performed byJD ZM  
+  
+Total volume of the suspension culture 136mL132mL  
+Volume of sample taken from the cell count 550uL 550uL  
+Timestamp of the cell count16:3016:30  
+Results  
+  
+  
+Cell count viable (cells / mL)= 3.39M cell/mL3.8M cells/mL  
+% viability99.8%99.9%  
+Total cell count in the suspension culture 447.48516.8  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+## Steps for cell density experiment
+
+ID of culture used: 12504  
+Performed by Jesi D
+
+1\. 136mL aliquot was taken into 1 x 250mL sterile pot.
+
+2\. Growth factors were added to the growth media aliquot.
+
+  1.  136uL of IGF-LR3 (mesokine) added
+  2.  27uL of rEGF (mesokine) added  
+Note: Calculate the amount of growth factor needed for the volume of aliquoted
+growth medium by using the E8 Calculator.
+
+  3. Aliquot placed in water bath 17 : 02 pm
+  4. Centrifuge 5min 500g: 17.22 - 17:27
+
+  
+
+## Steps for cell expansion experiment
+
+ID of culture used: 12505  
+Performed by Zoe M
+
+  1. 191mL aliquot of Growth medium was taken into 1 x 250mL sterile pot. 
+  2. Growth factors were added to the growth media aliquot.
+    1.  250uL of IGF-LR3 (mesokine) added
+    2.  50uL of rEGF (mesokine) added  
+Note: Calculate the amount of growth factor needed for the volume of aliquoted
+growth medium by using the E8 Calculator.
+
+  3. Aliquot placed in water bath 17 : 02 pm  
+
+  4. Add 59mL of cell suspension into the 191mL of pre-warmed growth medium (total=250mL).
+  5. Aliqout 125mL of the cell suspension into 2 x E500 flask.
+  6. Centrifuge the remaining cell suspension at 500g for 5min 17:45-17:50
+  7. Harvest and weigh the remaining cell pellet
+    1. mass of harvest: 1.6953g
+  8. Place in a -20C freezer 18:30
+
+***
+
+  1. A second cell count was performed using the Vicell before returning to the 
+    1. Cell Count InformationCulture ID Culture IDCulture ID (cell density exp.)  
+  
+Original ID  
+125361253712504  
+  
+Performed byZM  
+ZM  
+ZM  
+  
+Total volume of the suspension culture 119.5125136  
+  
+Volume of sample taken from the cell count 550uL 550uL550uL  
+  
+Timestamp of the cell count18:30  
+18:30  
+18:30  
+  
+Results (Measured by the Vicell)  
+  
+  
+  
+Cell count viable (cells / mL)0.646  
+ 0.7391.68M cells/mL  
+  
+% viability 99.2%  
+99.7%  
+99.7%  
+  
+Total cell count in the suspension culture cells  
+77,197,000  
+92,375,000  
+228,480,000  
+  
+    2. Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the master cell count spreadsheet, with the respective culture ID and the volume of growth medium the cells are being cultured in.
+  2. Placed flask in the incubator  18:00 a/pm (37 C, 5% CO2, 120 RPM)  
+
+Seed flask details:
+
+  * Seeding density: x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  mL
+  * Flask size: E  (flat bottom / baffled)
+  * Refer to summary table above
+
+
+
+
+## Summary/ Results
+
+__ cells were expanded from 1 x E_ flask into 1 x E_ flask.  
+  
+
+

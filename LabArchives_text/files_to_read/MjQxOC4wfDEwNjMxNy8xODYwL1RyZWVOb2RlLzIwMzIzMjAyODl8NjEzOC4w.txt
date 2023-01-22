@@ -1,0 +1,115 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:  Marie  
+
+
+
+
+Feed information:
+
+All 6 wells are in the same 24 wp
+
+Vessel type(s)Vessel IDVessle locationGrowth media locationOther comments  
+1 well of 24 wp7120ThermoDMEM/F12 + 20% FBS + 1x P/S, E810C, B8 media, B8+ 10C
+media are in the mini-fridge under bioreactor.  
+  
+Albumin is in the mini-fridge in the biomaterials area.DMEM/F12 + 20% FBS + 1x
+P/S + 10uM p38i  
+1 well of 24 wp  
+7121ThermoE810C  
+1 well of 24 wp  
+7122ThermoE810C  
+1 well of 24 wp  
+7123ThermoBeefy-9 (i.e. B8 + albumin)  
+1 well of 24 wp  
+7124ThermoBeefy-9 (i.e. B8 + albumin)  
+1 well of 24 wp  
+7125ThermoBeefy-9+10C (i.e. B8+10C + albumin)  
+  
+  
+
+
+
+
+Process: Imaged cultures and terminated experiment
+
+1 ~~. Aliquot tubes containing 600uL of each media (after adding p38i or
+albumin) in the waterbath:     ~~
+
+  1.  ~~DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i (0.3 uL p38i required for 600uL of media)~~
+  2.  ~~E810C~~
+  3.  ~~E810C~~
+  4.  ~~Beefy-9 (600uL B8 + 2.4 uL albumin)~~
+  5.  ~~Beefy-9 (600uL B8 + 2.4uL albumin)~~
+  6.  ~~Beefy-9+10C (600uL B8+10C + 2.4 uL albumin)~~
+
+ ~~2\. Removed   100 % of supernatant from vessel (~500uL). Used a separate
+tip for each well.~~
+
+ ~~3\. Replaced with  0.5 mL of the respective growthmedia. ~~
+
+ ~~4\. Returned vessel to incubate at:  ~~ ~~:  ~~
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [X]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+cultures imaged and discarded: 7120 - 7125
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+albuminn/a  
+  
+D/F + 20% FBS +1x P/S  
+n/a  
+  
+p38i (20mM stock)n/a  
+  
+E810Cn/a  
+  
+B8 and B8+10C median/a  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [X ]  Other -- Terminated experiment-- all conditions except for serum control showed no cell attachment 
+
+
+
+
+Relevant Images/Figures (if applicable):Images saved as 7120 in MIA  
+
+  
+
+

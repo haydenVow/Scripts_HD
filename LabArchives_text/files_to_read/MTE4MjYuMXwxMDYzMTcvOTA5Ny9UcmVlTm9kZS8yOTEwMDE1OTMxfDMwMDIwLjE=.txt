@@ -1,0 +1,143 @@
+Protocol
+  
+  
+Passaging Suspension Cells - E-flasks
+
+Morning
+
+  1. Turn on the water bath and set temperature to 37°C.
+  2. Retrieve a sample from each suspension flask in culture. See VSOP-082.
+  3. Perform a cell count and record the total number of cells and the number of viable cells for each culture sampled.
+    1. Cells are usually passaged when they reach a density of around 3,000,000 cells/mL.
+    2. Cells are passaged by diluting them in fresh 37°C warm medium.
+  4. Post on slack channel regarding the number of available cells.
+
+Afternoon
+
+  1. Place the aliquot(s) of growth media into a pre-warmed water bath and warm them in the water bath for at least 20 minutes before use.
+  2. Transfer the growth media aliquot(s) and flask(s) required for passaging into the BSC, ensuring to wipe down containers with 70% EtOH during the transfer.
+    1. Refer to Table A for the appropriate volumes of growth media for each E-flask type which will depend on the quantity of cells in the culture(s).
+  3. Transfer the required volume of cell suspension (see Table A) from the exisiting culture(s) to the required volume of fresh growth media.
+    1. If using a new flask: 
+      1. Pour required volume of warm growth media (minus the volume of the cell suspension) into new E-flask. 
+      2. Add in cell suspension.
+    2. If re-using a flask:
+      1. Pour out contents of flask into a 2L bottle. 
+      2. Use a serological pipette and some of the previous media wash down sides of flask, and add back into 2L bottle.
+      3. Use sterile PBS to perform a final rinse of E-Flask and discard the PBS into waste.
+      4. Pour required volume of warm growth media (minus the volume of the cell suspension) into E-flask. 
+      5. Add in cell suspension.
+  4. Transfer the newly seeded flasks to an incubator at 37°C, 5% CO2, and the recommended shaking speed for at least 2 minutes to evenly distribute the cells. See Table B for required shaking speeds.
+  5. Place harvested cells (remaining cell suspension in 2L bottle) to a static 37°C, 5% CO2 incubator.
+  6. Continue incubation at 37°C, 5% CO2 and the recommended RPM until the cells require a passage as outlined in step 3 of this VSOP.
+
+Table A. Seeding densities and volumes
+
+DaySeeding Density (cells/mL)Flask Volume  
+Monday400,0002000  
+Thursday200,0001000  
+  
+Table B. E-flask working volume and RPM speeds.
+
+  
+
+Reference:
+
+VSOP-081_0 https://www.notion.so/vow/VSOP-081_0-Passaging-Nuvonis-quail-
+fibroblast-cells-QH9-2-1-into-suspension-culture-
+flasks-7ba42e1e7abd4d10b9d2909b4f572fac
+
+
+Morning Cell Count
+Date2/08/22ZM  
+  
+Flask ID130641306513066  
+Flask Volume20001500200  
+Cell Density (cells/mL)2.24 x 10^6 1.74 x 10^62.36 x 10^6  
+Cell Viability99.8%99.9%99.6%  
+Cell Count in Flask
+
+4480 000 000
+
+  
+2610 000 000  
+472 000 000  
+  
+Total Cell Count
+
+7562 000 000
+
+  
+  
+  
+Seeding Density for Passage (cells/mL)E500 at 200k cells/mL  
+2xE5000 at 465k cells/mL (1500 mL each)  
+1x E5000 at 500k cells/mL (2000 mL)  
+  
+  
+Number of E5000 flasks for passage1xE500 and 3xE5000  
+  
+Volume in E5000 for passage 200mL in E500 and 1500 in 2xE5000 and 2000 in
+1xE5000  
+  
+# Cells Required for Passage3082 000 000  
+  
+Remaining Cells for Harvest4480 000 000  
+  
+  
+Link to cell count spreadsheet:  
+https://docs.google.com/spreadsheets/d/1OW3eWSXF5SMSs_i_eulgZgYwU0wd7QnKyL8J8HDLHL4/edit?usp=sharing
+
+
+Passage and Harvest
+
+
+Media Usage
+
+  * Media made from 13061 (RPMI 2L), 13043 (Hycell 1L) and 13049 (Hycell 1L): Mix is 13287 (aliquots are 13288 and 13299)
+  * 13280 used, 13287 used, 13290 partly used (amount documented in ranger)
+
+FEED
+
+N/A
+
+PASSAGE
+
+Flask 13065
+
+  * Passaged into 13072 and 13073 and 13074
+    * Flask 13072: 400 mL taken from 13065, topped up to 1500 mL with media, 1.5 mL IGF, 0.3 mL EGF: Final 465 k cells / mL
+    * Flask 13073: 400 mL taken from 13065, topped up to 1500 mL with media, 1.5 mL IGF, 0.3 mL EGF: Final 465 k cells / mL
+    * Flask 13074: 517.24 mL taken from 13065 (remaining cells may be slightly more), topped up to 2000 mL with media, 2.0 mL IGF, 0.4 mL EGF: Final 500k cells / mL  
+
+Flask 13066 (Redundancy)
+
+  * Passaged into 13071: 16.96 mL taken from 13066, topped up to 200 mL with media, 2.0 mL IGF, 0.04 mL EGF: Final 200 k cells/mL  
+
+  
+
+HARVEST
+
+Flask 13064 was spun down and harvested for product.
+
+EXCESS CELLS
+
+N/A
+
+End of Day
+
+Date1/08/22ZM  
+  
+  
+Flask ID13071130721307313074  
+Flask Volume200150015002000  
+Cell Density (cells/mL)200000465000465000500000  
+Cell ViabilityN/AN/AN/A  
+  
+Cell Count in Flask40 000 000697 500 000697 500 000  
+1000 000 000  
+Total Cell Count2435000000  
+  
+  
+
+

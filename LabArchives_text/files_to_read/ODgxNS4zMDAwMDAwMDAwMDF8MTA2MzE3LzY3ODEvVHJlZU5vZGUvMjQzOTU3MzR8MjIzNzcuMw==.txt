@@ -1,0 +1,49 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Determine if the type of water (MilliQ [Type 1 water] vs bottled ultrapure vs
+RO [type 3 water]) used to reconstitute the Hycell CHO media affects the
+survival and subsequent proliferation of CHO-S cells
+
+
+Hypothesis
+
+
+No negative differences in CHO-S survival and proliferation will be observed
+between Hycell media reconstituted in each of the water treatment conditions.
+
+
+Technical Gap
+
+
+All commercially available media powders used at Vow are reconstituted in
+MilliQ (Type 1) water. It is unclear whether CHO-S can survive in growth media
+reconstituted in reverse osmosis water or bottled ultrapure water. This
+experiment will determine whether the water used to reconstitute powdered
+growth media affects cell survival and proliferation.
+
+
+Method/Procedure
+
+
+Process:
+
+  1. Prepare 150 mL of Hycell media in each water treatment (MilliQ, bottled ultrapure and reverse osmosis)
+    1. Add 25.4 g/L of Hycell CHO powder, 2.2 g/L of sodium bicarbonate and 1 g/L of poloxamer 188
+    2. Stir until dissolved
+    3. Sterile filter through a 0.22 um filter unit
+  2. Determine electrical conductivity and pH of each sample
+  3. Seed 3x E125 flasks with CHO-S cells (1x vial at 10M cells, 3.3M cells per flask)
+    1. Condition 1: Hycell media with MilliQ (Type 1 water)
+    2. Condition 2: Hycell media with bottled UltraPure
+    3. Condition 3: Hycell media with reverse osmosis (Type 3 water)
+  4. Perform a cell count approximately 24 hours after seeding to assess cell survival
+  5. Passage the cells 4 days after seeding and retrieve samples for a total cell count and viability for each condition
+  6. Allow the cells to remain in culture for an additional 4 days and perform a final cell count and viability check for each condition
+
+

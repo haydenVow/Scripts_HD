@@ -1,0 +1,160 @@
+  
+  
+MECHANICAL STIMULATION (please insert main finding and reference)
+
+The literature below reveals that mechanical stimulation can be used to
+improve myogenesis and maturation. However, the stimulus must be judiciously
+applied. Continuous cyclic stretching has been shown in some cases to inhibit
+both the differentiation of myogenic stem cells and the maturation of
+myotubes. It appears that waiting for myotubes to reach a certain level of
+maturity, and allowing myotubes long periods of rest between periods of
+stimulation, can greatly improve the maturation of myotubes. Mechanical
+stimulation can increase myotube diameter by 12 - 100%, or 25 - 300% increase
+in cross sectional area (Powell et al., 2002 and Somers et al., 2019).
+
+The recommendation is to try the following:
+
+  * Strain range: 0-15%
+  * Strain rate range: 0-20%/s
+  * Strain modes: periodic stretch and hold without relaxation (stretch over 0-16 days), continuous cyclic stretch and relaxation (0-1 Hz), periodic cyclic stretch and relaxation (0-1Hz, 0-6 hours per day)
+  * Onset of strain: 0-5 days after onset of differentiation
+  * Metrics: cell proliferation rate (should be close to zero), % cell alignment (should be close to 100%), % cell differentiation (should be close to 100%), mean myotube diameter (should be increased by mechanical stimulus compared to non-stimulated control), myosin heavy chain protein coverage % (should be increased by mechanical stimulus compared to non-stimulated control).
+  * Device: the stepper-motor-driven device designed for well-plate culture from: Powell, C. A., Smiley, B. L., Mills, J., & Vandenburgh, H. H. (2002). Mechanical stimulation improves tissue-engineered human skeletal muscle. American Journal of Physiology - Cell Physiology, 283(5 52-5), 1557-1565\. https://doi.org/10.1152/ajpcell.00595.2001
+
+  
+
+1\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7381147/
+
+Summary: cyclic stretch promoted cardiomyocyte alignment, maintenance, and
+maturation, with enhanced expression of typical mature cardiac markers
+compared to static controls. Total amount of collagen did not vary
+significantly along the culture. ECTs did not spontaneously beat.
+
+2\. https://pubmed.ncbi.nlm.nih.gov/26987444/
+
+Summary: response of vascular smooth muscle cells (vSMCs) cultured in
+different culture environments (2D cell monolayers and 3D cellularized
+collagen-based gels) in combination with mechanical stimulation (7% uniaxial
+cyclic strain, 1 Hz) for 2 and 5 days. Specifically, in 2D configuration,
+cyclic strain caused ∼50% of cell population to align nearly perpendicular
+(80-90 degrees) to the strain direction, while not influencing the
+contractile-phenotype protein expression, as compared to the 2D static
+controls.
+
+3\. https://journals.physiology.org/doi/full/10.1152/ajpcell.00595.2001
+
+Human bioartificial muscles (HBAMs) are tissue engineered by suspending muscle
+cells in collagen/MATRIGEL, casting in a silicone mold containing end
+attachment sites, and allowing the cells to differentiate for 8 to 16 days.
+The resulting HBAMs are representative of skeletal muscle in that they contain
+parallel arrays of postmitotic myofibers; however, they differ in many other
+morphological characteristics.  
+Repetitive stretch/relaxation for 8 days increased the HBAM elasticity two- to
+threefold, mean myofiber diameter 12%, and myofiber area percent 40%.
+
+  
+
+4\. https://www.sciencedirect.com/science/article/abs/pii/S1742706119304350
+
+The engineered grafts in strained groups were subjected to 10% strain
+amplitude for 6 h per day. We found that both static and cyclic uniaxial
+strains resulted in similar morphological and gene expres- sion outcomes.
+However, relative to 0% strain groups, there were stark increases in myotube
+diameter, myosin heavy chain (MHC) coverage, and expression of key myogenic
+genes (Pax 7, Troponin, MHC I, MHC IIb, MHC IIx) only if strain was applied at
+Days 5-7 rather than Days 3-7.
+
+5\. https://link.springer.com/article/10.1007/s11010-007-9651-y
+
+Previously, satellite cells were isolated from adult bovine muscle and it was
+shown that the cells are multipotent, i.e., capable of proliferating and to
+differentiating into both myoblasts and adipocytes. This study investigated
+the cellular mechanisms by which cyclic mechanical stretching modulates the
+proliferation and differentiation of adult bovine satellite cells. The
+application of cyclic stretch induced the proliferation of satellite cells and
+inhibited their differentiation into myotubes. This response is believed to be
+closely related to the stretch-mediated changes in the expression of myogenic
+and cell cycle regulatory factors. Cyclic stretching increased the level of
+extracellular signal-regulated kinase (ERK) phosphorylation, whereas a
+specific ERK inhibitor (PD98058) blocked the stretch-mediated inhibition of
+myogenesis in a dose-dependent manner.
+
+  
+
+YearAuthorDOIApparatusStimulus descriptionStrain rateFrequencyMax.
+strainDurationOutcome  
+2019Turner et al.10.1007/978-1-4939-8897-6_5TC-3 Bioreactor System (Ebers
+Medical Technology, ESP)Cyclic stretchNot specifiedNot specified5-15%8
+daysMyotube hypertrophy  
+Static stretch0.4 mm/s OR 0.033/sHeld10%1 hourSynergistic ablation  
+Continuous ramp0.35 mm/hNot specifiedNot specifiedNot specifiedStretch rate to
+stimulate in-vivo bone elongation  
+Resistance exercise0.4 mm/s OR 0.033/sNot specified10%30 minutesMuscle
+hypertrophy  
+2020Putame et al.10.1016/j.medengphy.2020.07.018Custom made tunable stretch
+bioreactorCyclic stretch0.2/s1 Hz10%7 daysDynamic stretching likely promoted
+hu- man cardiac progenitor cell differentiation  
+2007Grossi et al.10.1016/j.jbiomech.2007.05.007Magnet-induced stretch of
+magnetic substrate  
+  
+  
+  
+  
+  
+  
+2002Powell et al.10.1152/ajpcell.00595.2001The mechanical cell stimulator. A
+mechanical cell stimu-  
+lator device, version 4 (MCS4), was designed and built to mechanically load
+six HBAMs grown in silicone rubber tissue molds positioned in the wells of
+commercially available sixwell (35-mm diameter) tissue culture
+dishesContinuous unidirectional stretch day 1-4Not specifiedEvery 10
+minutes3.5 um4 daysRepetitive stretch/relaxation for 8 days increased the HBAM
+elasticity two- to threefold, mean myofiber diameter 12%, and myofiber area
+percent 40%  
+three sets of five stretch/relaxations every half hour  
+  
+Each set was separated by ~30 s of rest, with 28 min of rest after the third
+set; thus each cycle lasted ~30 minNot specifiedVaries5% (days 8-10)  
+10% (days 10-12)  
+15% (days 12-16)12 days  
+Boonen et al.2010https://doi.org/10.1016/j.jbiomech.2010.01.039  
+uniaxial ramp stretch (2%) followed by uniaxial intermittent dynamic stretch
+(4%) on C2C12 and murine muscle progenitor cells in a 2D and 3D environment  
+  
+  
+  
+  
+  
+stretch negatively influenced maturation in all cases, demonstrated by
+decreased expression of MRFs and sarcomere proteins at the RNA level and a
+delay in the formation of cross striations  
+Kook et al.2007https://doi.org/10.1007/s11010-007-9651-y  
+This study investigated the cellular mechanisms by which cyclic mechanical
+stretching modulates the proliferation and differentiation of adult bovine
+satellite cells  
+  
+  
+  
+The application of cyclic stretch induced the proliferation of satellite cells
+and inhibited their differentiation into myotubes. This response is believed
+to be closely related to the stretch-mediated changes in the expression of
+myogenic and cell cycle regulatory factors.  
+Somers et al.2019https://doi.org/10.1016/j.actbio.2019.06.024electrospun
+fibrin microfiber bundles for 7 days in custom-built bioreactor unitsThe
+engineered grafts in strained groups were subjected to 10% strain amplitude
+for 6 h per day.0.1/s0.5 Hz10%6 hours on, 18 hours offboth static and cyclic
+uniaxial strains resulted in similar morphological and gene expression
+outcomes. However, relative to 0% strain groups, there were stark increases in
+myotube diameter, myosin heavy chain (MHC) coverage, and expression of key
+myogenic genes (Pax 7, Troponin, MHC I, MHC IIb, MHC IIx) only if strain was
+applied at Days 5-7 rather than Days 3-7.  
+Not applicableContinuous10%6 hours on, 18 hours off  
+Bansai et al.201910.3390/mi10060399Custom-made culture device for imposing
+cyclic stretch stimulation using a motorized stage and the fiber-grab
+system.We used a cell-laden core-shell hydrogel microfiber as a three-
+dimensional culture to control the cellular orientation. Moreover, to mature
+the muscle tissue in the microfiber0.06/s1 Hz3%4 hours on, 20 hours off, for 4
+daysReduced proportion of undifferentiated cells and increased proportion of
+mature myotubes in construct
+
+

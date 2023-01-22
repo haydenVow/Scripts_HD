@@ -1,0 +1,386 @@
+
+
+Perform process using below volumes:
+
+  
+
+  
+
+
+
+
+Fixing
+
+Culture ID(s)Vessel typeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of124-well plate5  
+  
+  
+
+
+
+
+
+
+D1 MuSC Prolif samples- Fix, MyoD, TE7, DAPI stain and Image 1 sample from
+each condition. Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+Process:
+
+1\. Removed plate culture IDs: 6496-DOLLY12-Sheep P11-1of1  containing
+scaffolds from the incubator.
+
+2\. Used sterile tweezers to carefully transfer   5x (highlighted in bold in
+the image above)   scaffold pieces to separate wells on a 24 well plate.
+
+3\. Washed the pieces in the 24 well plate 3x in   2  mL of PBS for  5
+minutes at room temperature.
+
+  1.  10:48 - 10:53   
+
+  2.  10:54 - 10:59   
+
+  3.  11:00 - 11:05   
+
+  
+
+
+
+
+4\. Added 1500 uL of 4% PFA to each scaffold and incubate for  15  min at room
+temperature.  11:07 - 11:22  
+
+
+
+
+5. Wash the pieces 3 times for   5    minutes in   2  mL of PBS.
+
+  1.  11:24 - 11:29   
+
+  2.  11:30 - 11:35   
+
+  3.  11:36 - 11:41   
+
+  
+
+6\. Aspirate the PBS and leave the scaffold pieces just covered by fresh PBS.
+
+7\. Proceed with primary and secondary antibody staining.
+
+
+
+
+### Observations/Summary:
+
+-Leave scaffolds in the 24-well inserts to make the process of washing and fixing extremly easy. Not necessary to aspirate PBS each time. 
+
+  
+
+
+
+
+# Media/Reagents used:
+
+NameDetails  
+PBSM4490  
+PFAM3105  
+  
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+
+
+
+Primary Antibody Staining
+
+  
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared  7.5 mL  PBST (0.2% Triton-X)
+
+2\. Prepared 7.5 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix:  25 µL   Primary #1 MyoD (Santa Cruz)
+(1:200  ) +   50µL   Primary #2 TE-7   (1:100  ) +  4925µL Blocking Buffer  
+  
+Total volume required = 5000 ul
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Primary)  
+Anti TE-7 (Mouse anti fibroblast antibody)IgG1AF488 tagged to anti-mouse IgG1
+antibody1:100  
+MyoD (Mouse Anti-MyoD (IgG2b))  
+IgG2bAF555 tagged to anti-mouse IgG2b antibody1:200  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  1500 µL PBST (0.2% Triton-X) to each well for 15 min:  11:45 -
+12:00
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  1500 µL of blocking buffer per well (3% BSA in PBST [0.1%
+Triton-X]) and incubate for 45 minutes - 1hr at RT. (no more than 1 hour):
+12:01 - 12:51
+
+
+
+
+Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT: 13:03 -
+14:40
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM4442  
+PBST (0.2% Triton)M4441  
+dPBSM4490  
+Primary Antibody Mix (TE-7)S935  
+  
+Primary Antibody Mix (MyoD)S260  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Zein scaffolds seeded with fibroblasts and MuSC in the prescence of Vit C or
+no Vit C were stained with both primary antibodies for ~1 hr 30 mins.
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+  
+
+
+
+
+Secondary Antibody Staining
+
+  
+
+Culture ID(s)Vessel TypeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of1  
+96-well plate5  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    60 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+  5 µL   Secondary #1 AF488 IgG1   (1:1000  ) +  5 µL   Secondary #2 AF555
+IgG2b  (1:1000  ) +  4990  µL Blocking Buffer (PBST (0.1% Triton X + dPBS) +
+3% BSA)  
+
+Total volume required = 5000 ul
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI mix:
+
+  4.995 mL  PBS +   5 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Secondary)  
+Anti TE-7 (Mouse anti fibroblast antibody)IgG1AF488 tagged to anti-mouse IgG1
+antibody1:1000  
+MyoD (Mouse Anti-MyoD (IgG2b))IgG2bAF555 tagged to anti-mouse IgG2b antibody  
+1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 14:40 - 14:45
+
+ 14:47 - 14:52
+
+ 14:53 - 14:58
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  15:04 - 16:04
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  16:10
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 16:12 - 16:17
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 16:18 - 16:23
+
+ 16:23 - 16:28
+
+4\.  Replaced dPBS.
+
+ 16:28  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM4442  
+dPBSM4490  
+Secondary Antibody AF488 IgG1S1606  
+Secondary Antibody AF555 IgG2bS1629  
+DAPI (1:1000)S2193  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recTez0v0jNcoEKny/images \- Wednesday
+April 28
+
+

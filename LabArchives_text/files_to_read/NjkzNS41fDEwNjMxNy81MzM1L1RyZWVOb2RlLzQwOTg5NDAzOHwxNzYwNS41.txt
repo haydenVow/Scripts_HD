@@ -1,0 +1,103 @@
+
+
+
+
+
+## Performed by: KK and SS  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Hoescht 33342  
+S4017  
+  
+BSA  
+S1482  
+  
+dPBS M8113  
+  
+Bradford reagent  
+S3589  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Bradford:
+
+  1. Added 12 drops of Hoescht 33342 to 24mL of Milli-Q water.
+  2. Removed media supernatant from the 24 well plate and added 500uL of Hoescht/Milli-Q water mix.
+  3. Performed serial dilutions of BSA stock till all concentrations [2000,1500,1000,750.500,250,125,25,12.5,6.75,0 mg/ml]
+  4. Incubated in the dark at RT for 15 mins [15:19 pm - 15:34]
+  5. Imaged relevant rows on Zaber for cell normalisation.
+  6. Thawed v2 mince sample (in 50mL falcon tube) in water bath until room temp was acheived.
+  7. Weighed out 8 replicate samples of the v2 mince aiming for similar weights.
+  8. Submerged each mince sample in 1mL PBS
+  9. Ground up each sample using spatula, aiming for a slurry solution of mince in PBS.
+  10. Performed freeze-thaw lysis protocol on the 24 well plate and 8 eppendorf tubes containing the mince samples [ 16:21 - 16:27pm, 16:27 - 16:33 a/pm, 16:33 - 16:39 a/pm]
+  11. Centrifuged tubes for 5 mins at 1000g using micro-centrifuge.
+  12. Tested volumes of BUFFY and v2 mince supertnatant against 250uL of Bradford reagent until grey/brown colour is achieved.
+  13. Eventual ratio determined was 250uL of Bradford reagent with 20uL of sample.
+  14. Constructed a standard curve with BSA solution (2mg/mL) using the determined ratio from the previous step in triplicate.
+  15. Added 20uL of each v2 mince and BUFFY sample to 250uL of Bradford reagent in triplicate
+  16. Centrifuged all three plates for 3 mins at 300g.
+  17. Read absorbance at 595nm.
+
+v2 mince sample weights:
+
+Replicate 1: 63mg
+
+Replicate 2: 77.3mg
+
+Replicate 3: 60.9mg
+
+Replicate 4: 65.9mg
+
+Replicate 5: 64.7mg
+
+Replicate 6: 75.9mg
+
+Replicate 7: 56.4mg
+
+Replicate 8: 73.5mg
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

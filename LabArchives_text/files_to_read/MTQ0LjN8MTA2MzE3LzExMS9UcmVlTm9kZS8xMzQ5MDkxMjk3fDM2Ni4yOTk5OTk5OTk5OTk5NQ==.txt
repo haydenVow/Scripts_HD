@@ -1,0 +1,409 @@
+
+
+Experiment Plan
+
+  1. Book time for demo session
+  2. Collect materials required for demo
+    1. Siliconize the glass bioreactor vessel
+    2. Expired media
+    3. Expired filter
+    4. PBS
+    5. Zip ties
+    6. Tension gun
+    7. Alfoil
+    8. Microcarriers
+  3. Assembly and autoclaving session
+  4. Setup and overnight sterility test session
+  5. Seeding and operation session
+  6. Harvesting session
+  7. Cleaning session
+
+
+
+
+Schedule
+
+DayDateDescriptionMaterialsFill volumeNotes  
+-1Tue 20-AprAssemble and sterilize bioreactorPBS~200 mL  
+  
+0Wed 21-AprSetup and operate bioreactorWaste bottle, growth medium 600 mL,
+microcarriers, 10 million seed cells (optional)600 mL  
+  
+2Fri 23-Apr50% feed (drain and fill)Growth medium 300 mL600 mL  
+  
+4Sun 25-Apr50% feed (drain and fill)Growth medium 300 mL600 mL  
+  
+5/6Mon 26-AprHarvest cellsPBS 600 mL, Trypsin 200 mL, growth medium 200 mL,
+harvest bottle 1 L, waste bottle  
+  
+
+
+  
+  
+  
+
+Batch time (days)StepTaskDescriptionReferenceDoneChecked  
+  
+  
+-2  
+  
+SterilizeInspect components  
+Operating manual page(s)  85  
+  
+  
+Check software connectionTurn on control tower, connect to control tower web
+server from any lab computer (switching WIFI networks may be
+required)Operating manual page(s)  45  
+  
+  
+Calibrate the pH probeGather 2 reference buffers (perferably pH 7 and pH 10)
+in small beakers, a wash bottle, and a spare wash beaker. Connect the pH probe
+up to the control tower. Run the pH calibration program. Wash the probe tip
+thoroughly with deionized water and wipe with a lint-free wipe before placing
+it in the reference buffers.Operating manual page(s) 43,67  
+  
+  
+Ensure that the DO probe is working  
+Operating manual page(s) 67  
+  
+  
+  
+  
+  
+  
+  
+  
+Install impellerInstall the piece in the
+headplate.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Install spargerInstall the piece in the headplate. Put a piece of tubing on
+the top of it, press a gas filter into the end of the tubing, use a cable tie
+and tension gun to secure the tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Install dip tube for samplingInstall the piece in the headplate. Put a
+"BENCHMARK" single-use aspetic sampling tube on the top of it, use a cable tie
+and tension gun to secure the tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Install dip tube for harvestingInstall the piece in the headplate. Put a piece
+of tubing on the top of it, use a cable tie and tension gun to secure the
+tubing, and clamp it off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Install dip tube for drainingInstall the piece in the headplate. Put a piece
+of tubing on the top of it, use a cable tie and tension gun to secure the
+tubing, and clamp it off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Install multiport for liquid additionInstall the piece in the headplate. Put
+pieces of tubing on the top of it, use a cable tie and tension gun to secure
+the tubing, and clamp them
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Add 300 mL of water or PBS to the culture vessel for sterilization  
+Operating manual page(s) 69  
+  
+  
+Install headplatePut the top plate on carefully and align it correctly. Be
+careful to make sure that the installed parts and baffles are not touching
+each other.  
+Tighten knurled screws firmly by hand (no tool).https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Prepare the adjustment agent bottlesNot all corrective reagents can be
+sterilized in the autoclave. Instead of adding these kind of adjustment agents
+(ammonia solution, etc.), fill those with water and, after autoclaving (in a
+sterile work cabinet) replace the water with a filter-sterilized corrective
+reagent. This also applies to many substrate feeds, which can caramelize if
+heated.https://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Connect transfer lines  
+Operating manual page(s) 68  
+  
+  
+Clamp lines  
+Operating manual page(s) 69  
+  
+  
+Ensure that the pressure can equilibrate in all vessels through a gas
+permeable filter membraneCover filters with aluminium foil to prevent ingress
+of waterhttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Fit the pH probe  
+  
+  
+  
+  
+Fit the dissolved oxygen probe  
+  
+  
+  
+  
+Fit the level sensor probe  
+  
+  
+  
+  
+Fit the gas inlet filter  
+  
+  
+  
+  
+Fit the gas outlet filterCover the filter lightly with aluminium foil. Leave
+the exhaust filter open and do not clamp it off under any circumstances! This
+is essential for balancing the pressure during autoclaving.https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Autoclave the vessel at 121 deg C for at least 30 minutes  
+Operating manual page(s) 69  
+  
+  
+Calibrate peristaltic pumps  
+  
+  
+?  
+  
+-1SetupTransport the sterile bioreactor vessel to the work benchOnce the autoclaving chamber has cooled to 60-70 deg C, open the chamber and check connections to make sure that all vessels remain sealed. In the event that any tubing has popped off, rinse connections with 70% ethanol and reconnect; or, re-autoclave the entire assembly. Use a trolley to transport the assembly to the work bench.  
+  
+Operating manual page(s) 70  
+  
+  
+Fit and connect the heating blanket  
+Operating manual page(s) 70, 72  
+  
+  
+Fit and connect the exhaust heater  
+Operating manual page(s) 70, 29  
+  
+  
+Connect the pH probe  
+Operating manual page(s) 70, 29  
+  
+  
+Connect the dissolved oxygen probe  
+Operating manual page(s) 70, 29  
+  
+  
+Connect the level sensor probe  
+Operating manual page(s) 70, 29  
+  
+  
+Connect the gas line(s) to the gas inlet filters  
+Operating manual page(s) 70, 74  
+  
+  
+Mount the stirrer motor  
+Operating manual page(s) 71  
+  
+  
+Turn on bioreactor control tower  
+Operating manual page(s) 80  
+  
+  
+Fill adjustment agent bottlesIf not autoclaved inside the vessels, dispense
+the adjustment agents using a sterile filling process.https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Fit the solution lines into the peristaltic pumps  
+Operating manual page(s) 70, 77  
+  
+  
+Prime the feed tubesFill the corrective reagent tubes. If the tubes are not
+filled with the appropriate reagent, the control unit may malfunction, because
+it will initially feed air into the culture vessel instead of liquid
+reagent.https://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/  
+  
+  
+Add the culture mediumPump out the waste liquid and add fresh growth medium  
+  
+  
+  
+Turn on the gas supply to the control tower  
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Set the air flow rateTo 0.05
+L/minhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Set the temperatureTo 37 deg
+Chttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Set the impeller speedTo 120
+RPMhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Set the pHTo 7.5https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/  
+  
+  
+Perform sterility testOvernight or for 24 hoursOperating manual page(s) 81  
+  
+  
+  
+  
+0  
+  
+Start batchCalibrate dissolved oxygen probe  
+Operating manual page(s) 76, 43  
+  
+  
+Configure the operating parameters  
+Operating manual page(s) 37, 42  
+  
+  
+Start data logging  
+Operating manual page(s) 81, 46  
+  
+  
+Seed the batchAseptically transfer the seed cells to a sterile bottle. Make an
+aseptic connection between the bottle and the bioreactor mutliport. Pump the
+seed cells into the bioreactor.Operating manual page(s) 81, 46  
+  
+  
+0 to final dayOperate batchTake samplesUnscrew the "BENCHMARK" sample tube
+cover, spray down the tube end with 70% ethanol, connect a 5 mL sterile
+syringe, withdraw at least 3 mL (to purge line), discard the 5 mL syringe,
+connect a fresh sterile syringe, withdraw sample, disconnect sample syringe,
+spray sample tube end and cap with 70% ethanol, re-attach cap.Operating manual
+page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+  
+  
+Feed the cultureTurn off the impeller and as sparging, wait until the
+microcarriers settle, pump out half of the culture volume, pump in an
+equivalent volume of fresh culture medium, restart impeller and gas sparging.  
+  
+  
+  
+Final dayEnd batchHarvest the product  
+  
+  
+  
+  
+End the runStop logging, turn off all functions  
+  
+  
+  
+Turn off the gas supply to the bioreactor tower  
+  
+  
+  
+  
+Depressurize the gas lines  
+  
+  
+  
+  
+Decontaminate all "wet" surfaces of the culture vessel and accessories  
+Operating manual page(s) 83, 94  
+  
+  
+Turn off the power to the bioreactor control tower  
+  
+  
+  
+  
+Disconnect the heating blanket  
+  
+  
+  
+  
+Disconnect the exhaust heater  
+  
+  
+  
+  
+Disconnect the pH probeRinse thoroughly with tap water, wipe with a fresh
+lint-free paper, cover probe tip with end cap containing 3.5 M KCl solution,
+store upright in original box.  
+  
+  
+  
+Disconnect the dissolved oxygen probeRinse thoroughly with tap water, wipe
+with a fresh lint-free paper, cover probe tip with end cap containing tap
+water, store upright in original box.  
+  
+  
+  
+Disconnect the level sensor probeRinse thoroughly with tap water, wipe with a
+fresh lint-free paper, store in a padded box (to prevent crushing)  
+  
+  
+  
+Disconnect the gas line  
+  
+  
+  
+  
+Disconnect the feed bottlesRemove feed lines from the peristaltic pump heads,
+disconnect the lines from the bioreactor headplate, rinse tubing and bottles
+with deionized water and leave to dry.  
+  
+  
+  
+Disconnect the stirrer motor  
+  
+  
+  
+  
+Discard any waste from the reactor vessel  
+  
+  
+  
+  
+Clean all "wet" surfaces of the culture vessel and accessoriesAdd detergent to
+the empty vessel, fill with tap water until level reaches the underside of the
+headplate, allow to soak overnight  
+  
+  
+  
+Final day +1Prepare for storage or re-useThoroughly rinse and dry all "wet"
+surfaces of the culture vessel and accessoriesDrain the detergent solution
+from the bioreactor vessel, detach the headplate, rinse all internal surfaces,
+dip tubes and spargers thoroughly with deionized water and leave to dry.  
+  
+  
+
+

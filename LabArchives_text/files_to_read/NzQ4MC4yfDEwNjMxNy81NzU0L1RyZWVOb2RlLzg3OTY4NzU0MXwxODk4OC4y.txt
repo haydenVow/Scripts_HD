@@ -1,0 +1,159 @@
+
+
+## Performed by: AG  
+
+
+
+
+Perform feed using below volumes:
+
+
+
+
+Culture IDs to feed
+
+Vessel No.Vessel type(s)  
+Vessel ID  
+Vessel Location  
+Media Location (weekend only)  
+112 well plate  
+  
+9431Main Lab Sanyo ID#120  
+Fridge #117 next to biostat (brown falcon tubes with green top)  
+  
+212 well plate  
+9432  
+  
+  
+Main Lab Sanyo ID#120  
+  
+Refer to above (one aliquot for both plates)  
+  
+  
+  
+
+
+
+
+## Remove the Stimulation Lead Wire
+
+1\. Removed the hook test clips from the electrode connection pins on the
+culture dish lid  
+  
+The test hook can be released from the pin by squeezing the spring loaded test
+hook handle. It is best not to touch the metal electrode pins while doing
+this. Hold the plastic culture dish lid for stability. If any wires become
+dislodged and the operator is unsure about reattachment, contact experiment
+owner for assistance   Addy - 0432715545
+
+
+
+
+## Imaging
+
+1\. Prior to imaging, ensure that the numerical aperture (NA) of the Zaber is
+fully open (i.e. the toggle on the lens is moved all the way to the left).
+Using an exposure setting of 4 ms, select the 'Live' setting and focus the
+image on Phase.
+
+2\. Select the 'Plugins' tab and choose 'HCS site generator' on the drop down
+menu. Calibrate XY to well A1. When imaging 12wps, ensure 8 x 8 imaging sites
+are selected in the HCS site generator, remembering to change the spacing rule
+to 'Field of View' with 60 um overlap (refer to the image below). Ensure that
+the corner wells are relatively in focus by clicking on the 'Move' option and
+then selecting the centres of the 8 x 8 grid on wells A4, C1 and C4. Adjust
+the focus as required. Build the MM List.
+
+  
+
+  
+
+3\. Select 'Multi-D Acquisition' and ensure that only the 'Phase' option is
+selected and the exposure used in the 'Live' setting is the same as the value
+in the table (should be 4 ms). Scanned the QR code on the plate and entered
+the following in the comments section:
+
+05-12-21_estim_coatings_exp3_plate_9431 (for plate 9431)
+
+05-12-21_estim_coatings_exp3_plate_94312 (for plate 9432)
+
+4\. Confirm the number of images expected (usually > 700) in Multi-D Acq.
+
+5\. Acquired images for BOTH PLATES using the Zaber   Plate 1: 11am, Plate
+2:11:16.  
+
+6\. Imaged each well B using at 10X objective using the Primo microscope.
+11:28  
+
+  
+
+For information on how to use the Zaber, refer to:
+https://www.notion.so/vow/User-Guide-to-Zaber-imaging-
+ad19527eee9e42ed9db96faa911d6536. If assistance is required, please contact
+Addy - 0432715545  
+
+
+
+
+Media Change
+
+1\. Retrieved  40 mL  of  E6 Media from a   1 x 50 mL  tube from Fridge #117
+next to biostat (brown falcon tubes with green top).  
+  
+2\. Aliquots placed in water bath for 20 mins 10 : 04 am  
+
+3\. Carefully lifted the lid off the plate and placed it on the BSC surface
+such that the electrodes in contact with the cells do not touch anything. This
+can be achieved by flipping the plate upside down.
+
+4\. Removed 100% of supernatant (per well/per vessel) and replaced with 1.5 mL
+of E6 Diff media, ensuring to do so one well at a time. Changed tips between
+plates (can keep the same tip for all wells in a plate).
+
+5\. Returned vessels to incubate and connected the test hooks back up to the
+electrode pins on the culture dish lid so that each set of hooks connects to
+the corresponding wire colour and so that the black hooks are aligned on the
+left side of each well and the red hooks on the right (see wiring setup
+reference image below)   : a/pm
+
+6\. Ensured that the oscilloscope displayed a curved waveform for both the
+purple and yellow channels (you may need to wake up the oscilloscope by
+pressing on the knob directly underneath the word 'Horizontal').
+
+  
+
+(Reference image for Step 5)
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. All vessels
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6 Diff MediaA8902  
+ 36 mL  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+9431: https://mia-capture.vow.tools/#/session/recyuj4DNgeqYGZYv/images
+
+9432: https://mia-capture.vow.tools/#/session/recvz4HYbtpr6OAQB/images
+
+

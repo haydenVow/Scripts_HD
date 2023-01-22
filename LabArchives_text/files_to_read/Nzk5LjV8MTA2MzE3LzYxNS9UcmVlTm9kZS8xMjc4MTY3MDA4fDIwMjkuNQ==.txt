@@ -1,0 +1,85 @@
+
+
+Background
+
+The Biostat A (cell culture version), 2 L stirred-tank bioreactor is a system
+designed for the expansion of animal cells. Its key components are:
+
+  * Control tower (including mass-flow controllers for dosing gas and peristaltic pumps for dosing liquids)
+  * Reactor vessel (including pitched-blade impeller for low-shear, impeller motor, gas sparger, pH and dissolved oxygen probes, ports for addition and removal of liquids and gases)
+  * Reagent bottles (typically for anti-foam, base, feed and a spare for feed 2 or waste)
+
+It has some key advantages over uncontrolled suspension cell culture systems,
+such as Erlenmeyer flasks:
+
+  * Accurate control of and higher maximum gas transfer rates allows us to achieve higher cell concentrations
+  * Accurate control of temperature and pH to enable the use of these stimuli to control cell behavior
+  * Automated removal of spent growth medium and addition of fresh growth medium to eliminate manual handling
+
+The Biostat A has been widely used for microbial culture and mammalian
+suspension culture. However, there is very little evidence of use for
+microcarrier culture. The purpose of this experiment is to develop a set of
+standard procedures for operating microcarrier cultures in the bioreactor, and
+to concurrently train others in the operation of the bioreactor. The training
+manual (attached below) will form the basis for this user training and
+demonstration experiment.
+
+Most important findings
+
+The Biostat A was operated for the first time with microcarriers in batch
+mode. Despite being a cell-free run, there were many process learnings,
+including:
+
+  1. Configure the cell seed port with extra long tubing to reach into the BSC so that the seed bottle can be connected to the bioreactor the day AFTER setup (to allow time for overnight sterility check).
+  2. Don't connect the microcarrier innoculum to the multiport as the orifice is too small and the microcarriers will block the tube. Microcarriers should be added before the sterility check via the harvest port.  
+
+  3. Stirring speed of 90 RPM is probably adequate to keep microcarriers suspended
+  4. The harvest port needs to be configured with a Y-junction to allow for splitting the waste and cell harvest.
+  5. The external pump (Pump A) should be used for all draining and filling tasks during setup as it is up to 5x faster than the other pumps.
+  6. The "BENCHMARK" single-use sample tubes can be autoclaved.
+
+  
+Results
+
+The results of the run were annotated in the lab books entries for each day:
+
+  1. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/Mzk2LjV8MTA2MzE3LzMwNS9UcmVlTm9kZS8zODg5NDE1MzR8MTAwNi41
+  2. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/Mzk3Ljh8MTA2MzE3LzMwNi9UcmVlTm9kZS8zMTcxMzMyMjMxfDEwMDkuOA==
+  3. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/Mzk5LjF8MTA2MzE3LzMwNy9UcmVlTm9kZS8zNjAwMzY5ODM0fDEwMTMuMDk5OTk5OTk5OTk5OQ==
+  4. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDAwLjQwMDAwMDAwMDAwMDAzfDEwNjMxNy8zMDgvVHJlZU5vZGUvMzg4NDY2OTAxM3wxMDE2LjQ=
+  5. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDAxLjd8MTA2MzE3LzMwOS9UcmVlTm9kZS8xODI1OTg2MDMyfDEwMTkuNjk5OTk5OTk5OTk5OQ==
+  6. https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDAzLjB8MTA2MzE3LzMxMC9UcmVlTm9kZS80MjI4ODM2NTA2fDEwMjMuMA==
+
+They were used to write lab book templates for operating the bioreactor:
+
+  1. DRAFT - Day -2: Assemble and sterilize bioreactor vessel, calibrate pumps https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODAyLjF8MTA2MzE3LzYxNy9UcmVlTm9kZS8xMTczNDM5MjZ8MjAzNi4x
+  2. DRAFT - Day -1: Setup bioreactor and perform sterility test https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODA0Ljd8MTA2MzE3LzYxOS9UcmVlTm9kZS8yNzQ1OTAzMjUzfDIwNDIuNjk5OTk5OTk5OTk5OA==
+  3. DRAFT - Day 0: Start bioreactor run https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODA3LjMwMDAwMDAwMDAwMDF8MTA2MzE3LzYyMS9UcmVlTm9kZS8yNzAzODgzNzI5fDIwNDkuMjk5OTk5OTk5OTk5Nw==
+  4. DRAFT - Day 0 to Final: Operate bioreactor https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODA4LjZ8MTA2MzE3LzYyMi9UcmVlTm9kZS8zMTM4OTI0NTY1fDIwNTIuNg==
+  5. DRAFT - Day Final: End bioreactor run and shutdown https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODA5Ljl8MTA2MzE3LzYyMy9UcmVlTm9kZS8zNDM1MjYxMDc2fDIwNTUuOQ==
+  6. DRAFT - Day Final +1: Prepare bioreactor for reuse or storage https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODIwLjMwMDAwMDAwMDAwMDF8MTA2MzE3LzYzMS9UcmVlTm9kZS8xMzk2NjkxODQ3fDIwODIuMjk5OTk5OTk5OTk5Nw==
+
+Limitations
+
+This test run was performed cell-free so there will likely still be process
+developments to be made. Furthermore, problems with the setup meant that the
+bioreactor had to be exposed to the atmosphere after autoclaving, meaning that
+sterility after autoclaving could not be confirmed. Finally, serum-free basal
+medium was used so that the extent of foaming of serum-containing media could
+not be assessed.
+
+Conclusions
+
+The Biostat A was assembled, autoclaved and setup. A cell-free batch of
+microcarriers was successfully loaded and operated over 5 days in the
+bioreactor. The major problems with the initial operating procedures were
+identiifed and fixed for use in subsequent bioreactor operations. The
+bioreactor is ready for the first cell culture batch.
+
+Future Directions
+
+The bioreactor will be used to expand myogenic stem cell clones over the next
+2 months as a demonstration of capability. After this time, enough evidence
+will have been gathered to make decisions about further bioreactor purchases.  
+
+

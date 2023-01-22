@@ -1,0 +1,92 @@
+Performed by:
+Harvested flask ID  
+Harvested flask type  
+Seeded flask(s) ID  
+Seeded flask(s) type  
+  
+  
+11100-Nuvonis Quail Suspension341-P-1of2
+
+  
+E-12511145  
+96-wp (ULA)  
+  
+11146  
+  
+11147  
+  
+11148  
+
+
+Process
+  
+  
+  1. Took 2 x 50 uL aliquots from e-flask culture and performed 2 x cell counts. 
+    * Average cell count was: 7,146,666
+  2. Transferred 1.4 mL culture to 1 x 15 mL tube
+  3. Centrifuged at 500 x g for 5 minutes
+  4. Aspirated 100% of supernatant
+  5. Re-suspended in 6 mL of sterile dPBS (want 10,000 cells per well, so need 50,000 cells per mL in enough volume to seed all wells)
+  6. Set up OT2 deck with media-filled plates and cell suspension 
+  7. Ran cell seeding protocol on OT2 
+    1. Start time: not recorded
+    2. Run time: not recorded
+  8. Imaged plates on Zaber microscope (phase, 5X) and ran through ML model. Checked that wells received cells. 
+  9. Moved plates to incubator at 37'C, 5%CO2 (incubator #119, main/library/production lab)
+
+
+Observations
+
+
+The following wells did not receive cells from OT2 (surface tension overcame
+blowout step) and were seeded manually after Zaber imaging:
+
+Plate 1: C11, D11
+
+Plate 2: B3, C10, D9 note: D5 & D8 also did not receive cells but this was not
+noticed when watching the zaber, so these wells were not seeded.
+
+Plate 3: C2, B9, B6, B4, C4, C6, C9, D9, D6, D4, D2
+
+Plate 4: D3
+
+Other observations: Column 11 on plates 2 and 3 has a lot of cells. Plate 1 B4
+looked low on cells.
+
+
+ML model output
+
+
+  
+
+Plate 1
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A000000000000  
+B02890311872729712752171618022226163922960  
+C0331435533007174726331784264733753419150  
+D0272936283383341629923370279429912751300  
+E043113441293422953244354737563429262541090  
+F045563976362031372960291528402476287341580  
+G047244507413532443059219230793761360548780  
+H000000000000  
+  
+Plate 2
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A000000000000  
+B0494960440240114224416933183659507236590  
+C0508547504086302833933397355945804667180  
+D051734015344028355436462539471834440  
+E053203828403930893237365434874380401772850  
+F050664726407830053105340435444552498573490  
+G050764767379344404427392138124553471971580  
+H000000000000  
+  
+  
+
+  
+
+

@@ -1,0 +1,244 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+  
+6889 (new plate)
+
+  
+24wp  
+24  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Performed by:kk
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared   5 mL  PBST (0.2% Triton-X)
+
+2\. Prepared    10 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: 25  µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  100 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  5  mL Blocking
+Buffer
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+  
+
+4. Prepared Secondary Antibody Mix: 5  µL   Secondary Goat Anti-Mouse (IgG2b)    (1:1000  ) +  5 µL   Secondary Goat Anti-Mouse (IgG1)    (1:1000  ) +  5  mL Blocking Buffer 
+
+5\. Prepare 5 ul DAPI in 5 mL PBS
+
+  
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer for
+primary  
+  
+Antibody Primary - Mouse Anti-MyoG, MIgG1 Kappa Light Chain (AKA F5D-s
+Myogenin)  
+IgG1  
+Goat Anti-Mouse (IgG1)  
+1:200  
+  
+Antibody Primary - Mouse Anti-Myosin (MF20), MIgG2b, Kappa Light Chain (AKA MF
+20-s)  
+IgG2b  
+Goat Anti-Mouse (IgG2b)  
+1:50  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+Fixing
+
+1\. Remove media from each well
+
+2\. Wash with PBS three times
+
+3\. Fix with PFA for 15 minutes  11:07 - 11:22 am
+
+4\. Wash with PBS three times
+
+  
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  11:33 - 11:48
+am
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   11:51 - 12:50 pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   12:55 - 2:30 pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Secondary
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 2:30 - 2:35 pm
+
+ 2:35 - 2:40 pm
+
+ 2:40 - 2:45 pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  14:45 - 15:45 pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  15:45 pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 15:45 - 15:50 pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 15:51 - 15:56pm
+
+ 15:56 - 16:02 pm
+
+4\.  Replaced dPBS.
+
+ 16:04 pm
+
+5\. Confirmed staining on microscope by imaging.
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm5238  
+  
+PBST (0.2% Triton)m5170  
+  
+dPBSa5123  
+  
+Primary Antibody Mixs1451  
+  
+Primary Antibody Mix (if used)s2468  
+  
+Secondary  
+1606  
+  
+Secondary  
+1966  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary: n/a  
+
+###  
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable): n/a  
+
+

@@ -1,0 +1,147 @@
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 5076  
+  
+dPBS (for washing & neutralising)M 5618  
+  
+Growth MediaM 5894  
+  
+  
+  
+
+
+
+
+Make a 'picklist' on a google sheet to record which wells are to be picked.
+
+96 - 24-well expansion
+
+  
+
+24 - 6-well expansion
+
+  
+
+  
+
+6-well to T25 flask expansion
+
+  
+
+T25 flask -> larger Surface area vessel expansion
+
+  
+
+Based on images collected on 29-July-2021
+
+  
+
+  1. Used a permanent marker to circle around the wells selected on the lid of the multi-well plates (so that when you are in the BSC you know which wells are to be selected)
+
+Note* This protocol will talk about source wells and destination wells  
+Source wells = the original well that the clonal population is in  
+Destination wells = the location in the new plates where the clonal population
+of cells will be seeded
+
+Note* protocol proceeded in following order:
+
+96 -> 24-well  
+24 -> 6-well  
+6 -> T25 flask  
+T25 flask -> neutralise + count + seed into larger surface area.
+
+  
+
+1\. Aliquotted 88mL Growth Media (20mL to seed 4 x T25 flasks, 36mL to seed
+into T75s if enough cells for 3 x clones, additional media for 50% Feed all
+remaining clones that are not being passaged).  
+Filled 7 x wells of 1 x 24-well plate and 3 x wells of 1 x 6-well plate with
+Growth Media. Placed in incubator 13:10 pm
+
+2\. Aliquotted 18mL Tryple in 1mM EDTA.
+
+3\. Aliquotted 18mL dPBS (for washes)
+
+4\. Aliquotted 4 x 2mL dPBS (for neutralising cells from 6-well plate) and 3 x
+3mL dPBS (for neutralising cells from T25 flasks)
+
+5\. Placed all aliquots in water bath at 37C, 5% CO2. 13:14 pm
+
+96 -> 24-well
+
+  1. Aspirate supernatant. 13:45 pm
+  2. Wash each selected well with 100 uL dPBS.
+  3. Add 50uL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min.    13:51  \- 14:10 pm
+  4. Check regularly under the microscope to see if cells across all wells are detaching.
+  5. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with pre-warmed growth media (from the destination well)
+    2. Mix cell suspension well and collect entire cell suspension (cells, tryple and neutralising growth media)
+    3. Collect in a pipette and transfer into its designated destination well (the destinatinon well already contains growth media).
+    4. Mix well to disperse the cells evenly throughout the well.
+    5. Do not move the destination plate, allow the cells to attach.
+  6. Transfer destination plate to incubate at 37ºC, 5% CO2.   14:16 pm
+
+24 -> 6-well
+
+  1. Aspirate supernatant. 13:52 pm
+  2. Wash each selected well with 500 uL dPBS.
+  3. Add 200uL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min.    13:54  \-  14:06 pm
+  4. Check regularly under the microscope to see if cells across all wells are detaching.
+  5. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with pre-warmed growth media (from the destination well)
+    2. Mix cell suspension well and collect entire cell suspension (cells, tryple and neutralising growth media)
+    3. Collect in a pipette and transfer into its designated destination well (the destinatinon well already contains growth media).
+    4. Mix well to disperse the cells evenly throughout the well.
+    5. Do not move the destination plate, allow the cells to attach.
+  6. Transfer destination plate to incubate at 37ºC, 5% CO2.   14:11 pm
+
+  
+
+6 ->T25 Flask  
+
+  1. Aspirate supernatant.
+  2. Wash each selected well with 2mL dPBS.
+  3. Add 2mL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min.    13:59  \-  14 :14 pm
+  4. Check regularly under the microscope to see if cells across all wells are detaching.
+  5. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with 2mL/well dPBS and collect cell suspensions from each well into 1 x 15mL tube.
+    2. Centrifuge at 650 x g for 5 min at RT. 14:27 - 14:32 pm
+    3. Aspirate supernatant
+    4. Resuspend each pellet in 5mL warmed Growth Media
+    5. Transfer 5mL of each clones' cell suspension to 1 x T25 flask each.
+  6. Transfer destination plate to incubate at 37ºC, 5% CO2.   14:44 pm
+
+  
+
+T25 flask -> T75 Flask  
+
+  1. Aspirate supernatant.
+  2. Wash each selected well with 3mL dPBS.
+  3. Add 3mL/well 1X Tryple to each well. Incubate at 37ºC for 15-25 min.    14:10  \- 14:22 pm
+  4. Check regularly under the microscope to see if cells across all wells are detaching.
+  5. When ~80% of all cells have detached in all wells, work well-by-well as follows:
+    1. Neutralise each well with 2mL/well dPBS and collect cell suspensions from each well into 1 x 15mL tube.
+    2. Centrifuge at 650 x g for 5 min at RT. 14:27 - 14:32 pm
+    3. Aspirate supernatant
+    4. Resuspend each pellet in 0.5mL
+    5. Collect 10uL from each cell suspension, dilute with 10uL trypan blue and perform cell count on hemocytometer for each clone.
+    6. 2F13 -> 1 x T175 (30mL)  
+3E15 -> 1 x T75 (12mL)  
+3P23 -> 1 x T175 (30mL)
+
+    7. Resuspend each cell suspension in mL warmed Growth Media
+    8. Transfer required volume of each clones' cell suspension to 1 x T flask each.
+  6. Transfer destination plate to incubate at 37ºC, 5% CO2.   15:14 pm
+
+

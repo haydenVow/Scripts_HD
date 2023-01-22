@@ -1,0 +1,131 @@
+
+
+Microcarriers (TT):
+
+What we hope to achieve:
+
+A definitive screening design (DSD), which is a "design of experiments" (DoE)
+type of design that screens for main effects and 2-factor interactions with a
+minimum of runs, is required in order to determine the main factors that
+impact the microcarrier process (including seeding, growth and harvest).
+
+Below is an example of a typical DSD that we might use. This design screens 7
+factors (some continuous, some discrete) for the size of their effect on one
+or more important metrics of a microcarrier process. The full-factorial design
+would require 2x2x3x3x3x3x3 = 972 runs. In these cases, a run represents a
+unique culture. With 4 replicates, this would be 3888 individual cultures.
+
+Without replication or repeats, the DSD below requires only 22 runs. In order
+to determine the precision of the measurements, we also need to replicate each
+run - ideally 4 replicates. This means that a total of 88 cultures would be
+required for this experiment (4 x 22 = 88). We can screen factors in a much
+more efficient manner using DoE.
+
+X1-X5=3 level continuous factors (media ingredients, coatings, etc)
+
+X6 and X7= 2 level catagorical factors (different types of microcarriers,
+seeding densities, cell types, etc)
+
+  
+
+Current limitations:
+
+Despite achieving a 44-fold reduction in runs, the 88 cultures required in the
+DSD above is still much greater than the 4-6 cultures that a single operator
+can feasibly process in a day. Therefore, some form of higher throughput
+platform is required to run even a small DoE such as the DSD above. The
+diagram below summarizes the key points in the handling of microcarriers that
+are currently done manually and cannot be done in parallel (and therefore
+contribute to the current slow experimental throughput).
+
+  
+
+  
+
+Proposed improvements
+
+1\. Use fix and DAPI to remove time sensitivity of sample analysis, move
+staining to OT, imaging to Zaber and image analysis to MIA for checking
+proliferation
+
+2\. Move trypsinization and cell collection to OT for harvesting cells
+
+
+
+
+Biomaterials (EH):
+
+What we hope to achieve:  
+\- whole scaffolds imaged on the Zaber (Z-level, automatically stitched, whole
+well images) with imaging time of whole 96-well plates under 1hr (for Hoechst
+stained live cells - less time dependent for fixed cells) Imaging for all
+channels.
+
+\- quantitative read outs of these images using MIA to quantify
+confluency/percent coverage of scaffolds with cells (DAPI) and later also
+coverage with MyoD, MyoG and MF20.  
+  
+
+Current limitations:  
+\- out of focus regions and difficult scaffold topography for imaging
+
+\- need for manual stitching
+
+\- the need to flip scaffolds to find the seeded side  
+\- the 3D nature of our scaffolds (not just cells on the surface)
+
+\- Every extra slice we take for Z imaging and each channel images are taken
+on adds to the imaging time
+
+-currently estimating % confluence by eye, this can be highly variable and open to manual error   
+  
+Ideas (SL):
+
+ \-  If we don't need to image the entire well (including well edges), we can
+speed up the acquisition process and make it easier to run analysis later on.
+
+  
+
+8:59
+
+\- Each channels multiplies the imaging time, so we may need to capture a
+smaller portion of the well if our goal is to stay under 1 hr and have Z
+stacked images.
+
+  
+
+9:00
+
+\- We could try buying a lower magnification objective if we don't need phase
+contrast imaging.
+
+  
+
+  
+
+
+
+
+Advice from Soroush on automation:  
+  
+Think very carefully about the full pipeline (as you've started to do in this
+doc) and where the time actually goes, before tackling any automation
+opportunities. This is absolutely critical for impactful prioritisation. An
+example to illustrate my point:1\. Imagine there is a 5-step process for
+running a made up experimental pipeline X.  
+2\. Imagine that in this 5-step pipeline for experiment X, the individual
+steps take the following amounts of time in minutes when done manually: 10,
+10, 40, 120, 20.  
+3. Fully automating steps 1,2, 5 to take 0 minutes (3 whole steps automated! It might sound like a lot of automation) would only give you……a 20% overall reduction in total time.  
+4\. Instead, partially automating step 4 to reduce its time by 50% would give
+you…..a 30% reduction in total time, a bigger takeaway for potentially a much
+smaller investment.  
+So it's important to really deeply understand where your time is going to do
+effective process optimisation. I would think about what steps dominate the
+time to test a sample, or limits the total samples you can do in a single run
+-- this is the rate limiting step you want to go after.Of course, tackling
+multiple automation opportunities can be OK too, if there's a good
+understanding of the potential sizable impact and the relative investment
+required to achieve.
+
+

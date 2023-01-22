@@ -1,0 +1,65 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Note: 'staining solution' refers to a 1:1 Hoechst + PBS solution
+
+### Method summary
+
+DOLLY12 fibroblasts were thawed into a 96 well plate. A 50% feed was performed
+the following day. Then a staining solution containing Hoechst and PBS (1:1)
+was made. This was used to stain wells with the following conditions:
+
+  * No stain (control)
+  * Stain with 4 uL/mL for 1 h followed by 100% feed
+  * Stain with 4 uL/mL for 24 h
+  * Stain with 8 uL/mL for 1 h followed by 100% feed
+  * Stain with 8 uL/mL for 24 h
+
+24 h after commencing staining, 6 wells were passaged from each condition into
+a 24 well plate. Images of the centre of the well captured on DAPI channel on
+5x magnification were used for analysis.
+
+### Results
+
+  * Cell counts from the 96 well plate at 24 h after staining showed significantly lower cells in wells where staining occurred 8 uL/well for 24 h compared to other conditions.
+  * At 72 h, there was a significant difference between many of our conditions in the 96 well plate. When cells were stained for 24 h, we obtained lower cell counts than cells that were only stained for 1 h. This applies to both volumes of staining solution used (4uL/well and 8uL/well). There was no difference between 4uL/well and 8uL/well of staining when 1 h of staining time occurred. The same applies when comparing volumes at 24 h.
+  * At 72 h, wells that were passaged showed a significant difference between 4 uL/well (24 h staining) versus 8uL/well (24 h staining). The higher staining volume resulted in lower cell numbers.
+
+  
+
+  
+
+### Discussion
+
+  * There's a significant drop in cell viability when cells are Hoechst stained for 24 h versus 1 h. There is also a decrease in cell viability when 8uL/well of staining solution is used instead of 4uL/well. Moving forwards, we should use 4uL/well of staining solution for 1 hour for 96 well plates.
+  * This experiment was originally performed after we observed cell death in EPIC21181. After staining, cells appeared more faint compared to EPIC21181. Later, it was discovered that in EPIC21181, Hoechst ReadyFlow regent was used whereas in this experiment, Hoechst ReadyProbes reagent was used. Through other tests, we have confirmed that there is indeed a difference in brightness between these two reagents, most likely due to a difference in concentration of Hoechst. The concentration is proprietary so this is difficult to confirm. From the results of cell viability observed in this experiment, we should use Hoechst ReadyProbes in the SCC pipelines as the ReadyFlow reagent may cause more cell death.
+
+### Limitations and future considerations
+
+  * We did not obtain cell counts for our unstained control. Next time, the unstained control should be stained at the final time point for quantification.
+  * Hoechst fluorescence was very faint at 72 h for cells that were only stained for 1 hour and passaged. Therefore, we couldn't assess the impact of those conditions over a longer time period.
+  * Staining dead cells as well as the live cells could be used to get a better idea of viability.
+  * Staining volumes will need to be adjusted if we want to use Hoechst staining for different well sizes.
+  * If Hoechst staining is to be used in SCC pipeline, cells will require staining multiple times when moving to larger and larger well plates. We should test the effect of staining cells multiple times over multiple passages (see EPIC25114).
+
+

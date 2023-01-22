@@ -1,0 +1,266 @@
+
+
+## Completed by: Kylie
+
+
+Aim/Purpose
+
+
+The aim of this study is to identify the types of lipids and proteins and dive
+further into analysis on micronutrients (vitamins and minerals) and other
+relevant compounds identified in prior research, in myoblast, myotube,
+fibroblast and frozen tissue across relevant cell lines available at Vow.
+
+
+Hypothesis
+
+
+We will be able to obtain the cells masses required for different analysis and
+be able to identify and analyse the different components (lipids, proteins,
+myoglobin, B12) across fibroblast, myoblast, myotubes and frozen muscle tissue
+in different cell lines.
+
+
+Technical Gap
+
+
+  * We are not certain on what the weight of the cells obtained from a certain number cells or cell factories is  
+  * We have not differentiated cells in scale before using cell factories 
+  * We have not performed a passage on differentiated cells before and therefore will not be certain on the results 
+  * Apart from DOLLY12, we have not explored in depth the growth and doubling times of other cell lines, making it difficult to plan and estimate cell harvest amount
+  * Many analysis methods that will be identified and used have not been performed by vowsers, therefore there will be a learning curve
+
+
+Method/Procedure
+
+
+The method section will be split into three key sections:
+
+1\. Cell expansion
+
+This section will focus on how cells will be expanded for use in analysis. It
+will detail the timeline of the process and media/dry stock requirements
+
+  
+
+2\. Analysis methods
+
+This section will focus on what studies/analysis methods we will be performing
+to identify and measure specific compounds.
+
+Summary of study progress: KR3 tracker
+
+  
+
+3\. Interpretation of data
+
+This section will focus on how the studies will be analysed, including what we
+are after in each analysis
+
+
+
+
+##                          1\. Cell Expansion  
+
+
+
+
+### Experimental plan
+
+Test run with DOLLY12 MCB
+
+Aim: to determine how much cell mass corresponds to cell number and flask
+amount.
+
+Day 1 (Mon): Thaw cells
+
+Day 2 (Tues): Feed
+
+Day 4 (Thurs): Passage
+
+  * Seed lower - 1000 cells/cm2 
+  * Record cell number, cell weight 
+  * Seed assay for Cell troubleshooting
+
+Day 6 (Sat): Feed
+
+Day 8 (Mon): Passage
+
+  * Record cell number + cell weight 
+
+Day 10 (Wed): Feed
+
+Day 11 (Thus): Passage
+
+  
+
+Experimental plan
+
+First stage: Grow cells via expansion + extend for differentiated cells
+
+  * Day 1 (Mon - Fri): Preparation on Reagents (Growth Media, PBS, Gelatine, Tryple) 
+    * Calculate required reagents + dry stock for growth 
+  * Day 2 (Tue):Thaw cells 
+  * Day 3 (Wed): 100% Feed 
+  * Day 5 (Fri): Passage
+  * Day 7 (Sun): 50% Feed
+  * Day 8 (Mon): Passage 
+    * Start cell differentiation 
+      * seed 4M into 4CF for differentiation (1 x 4CF or 2CF)
+    * Seed cells for other assays 
+      * Seed 2 x 24wp for Bradford or BCA
+    * Freeze myoblast or continue expansion 
+      * At this stage, cells may be ready for freezing into 3 x 1mg (1M cells) samples and 3 x 10mg (10M cells)
+        * After obtaining cell pellet, wash with ice cold PBS and divide into correct sample weight 
+        * Centrifuge sample and aspirate ice cold PBS 
+        * Weight once more to obtain final reading 
+        * Freeze samples in tubes at -80 freezer 
+      * If the ideal cell mass cannot be obtained, continue with the cell expansion process. (See below)  
+
+  * Day 10 (Wed): 50% Feed
+  * Day 11 ( Thurs): Passage   
+    * Myoblast: Harvest cells + perform cell count + weigh samples + split into desired sample amount (see above) + freeze at -80. 
+
+  
+
+Second stage - Differentiated cells: (dates may change depending on
+confluency)
+
+  * Day 1 : Make E6 media  
+
+    * ~2.4 or 4.8L or 9.6L (depending on seeded vessel size and frequency of feed) 
+  * Day 1: 100% Feed E6
+    * Check confluency - 100% feed to E6 if 90% - 100% confluent
+  * Day 3: 100% Feed E6 
+  * Day 5: 100% Feed E6 
+  * Day 7: 100% Feed E6 
+  * Day 9 :Make E6 media 
+    * 1.8L or 3.6L or 7.2L  (depending on seeded vessel size and frequency of feed) 
+  * Day 9: 100% Feed E6 
+  * Day 11: 100% Feed E6 
+  * Day 13: 100% Feed E6 
+  * Day 15: Harvest 
+    * Requirement (dependant on vessel type) 
+      * Tryple: ~400 mL
+      * PBS: ~800mL 
+
+  
+
+Refer to cell expansion excel for reagent amount and cell number estimation.
+
+
+
+
+##                                 2\. Analysis  
+
+
+
+
+Analysis cell requirement
+
+AssayCell amounts (weight)Cell number  
+  
+ugmgg  
+  
+Proteomics 100010.001~ 1M  
+Lipidomic 10000100.01~ 10M  
+B12  
+  
+  
+  
+  
+BradfordN/AN/AN/A~ 50 000 cells for 1 x 24wp  
+BCA  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Experimental plan
+
+Proteomics and lipidomic - Harvest cells and freeze down
+
+Day 10 (Thurs): Obtain myoblast from harvest
+
+  * estimate of 2 mg for proteomics and 12 mg for lipodomic studies
+  * After centrifuging cells, remove tryple/PBS and resuspend in growth media. 
+  * Measure weight of 1 x 50 mL tube
+  * Combine cell pellets into one the 50 mL tube and centrifuge 
+  * Remove growth media and resuspend/wash cells in ice cold PBS
+  * Centrifuge and remove  PBS 
+  * Weigh 50 mL tube with cells and record cell mass
+  * Divide into 1g samples and freeze at -80 
+
+Day 7 - Day 21 (Mon): Obtain differentiated cells from harvest and keep in
+culture for up to 14 days in E6
+
+  * Repeat above steps with differentiated cells  
+  
+Send sample for proteomics and lipidomics
+
+  
+
+BCA assay - Harvest and seed plates
+
+Day 4 or 7 (Friday or Monday)
+
+  * Harvest cells 
+  * Seed onto 1 x 24wp for bradford assay 
+
+Protocol (fibroblasts):
+
+  * Treat with 10 ng/mL TGF-b and 50mg/mL Vit-C when confluent 
+  * Monitor for signs of peeling and stain with DAPI before peeling can occur.
+  * Perform Bradford/BCA on same day as stain.
+
+Protocol (myoblasts):
+
+  * Differentiate myoblasts for 14 days.
+  * DAPI stain, then perform Bradford/BCA assay on same day.
+  * If available, repeat DAPI stain and quantification process on MuSCs.
+
+Protocol (Freeze-thaw):
+
+  * Seal plate sides with adhesive foil and freeze plates in LN2 bath for 3 minutes
+  * Thaw plates for 3 mins in water bath.
+  * Repeat freeze-thaw cycle three more times
+
+  
+
+B12 -
+
+  * Instructions
+  * SDS
+  * Website link 
+
+  
+
+Myoglobin -
+
+  * How to perform western blotting  
+  * Where to purchase: Thermo , Protein simple
+  * Outsource: Genscript 
+
+  
+
+
+
+
+##                 3\. Data interpretation  
+
+
+
+
+Analysis aim:
+
+  * Identify all the different proteins and lipids in the sample and compare data across myotubes, differentiated cells, fibroblast and muscle tissue as well as across other cell lines. This is done to determine key differences and identify interesting compounds that could give our product a competitive edge 
+
+
+
+
+

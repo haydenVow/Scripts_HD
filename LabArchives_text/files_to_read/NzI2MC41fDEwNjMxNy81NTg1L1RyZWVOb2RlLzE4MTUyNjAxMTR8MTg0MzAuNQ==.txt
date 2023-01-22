@@ -1,0 +1,244 @@
+Performed by: LL
+
+
+Preparation:
+
+ReagentAmount to add (uL/well)Reagent ID  
+Growth media in 96 wp200A8697  
+  
+PBS in 384 wp (columns 1 - 12, rows A, C, E, G, etc)70A8295  
+  
+Tryple in 384 wp (column 13-24, rows B, D, F, H, etc)50A7592  
+  
+  
+  
+
+Harvested plate ID  
+Seeded plate ID  
+9080-F_CHOMP09-Crocodile P1-1of4  
+
+9415-CHOMP09-Crocodile P1-1of4  
+  
+9081-F_CHOMP09-Crocodile P1-2of4  
+
+9416-CHOMP09-Crocodile P1-2of4  
+  
+9082-F_CHOMP09-Crocodile P1-3of4  
+
+9417-CHOMP09-Crocodile P1-3of4  
+  
+9083-F_CHOMP09-Crocodile P1-4of4  
+9418-CHOMP09-Crocodile P1-4of4  
+
+
+  
+  
+Protocol run:
+
+All reagent plates placed in incubator: 8:13
+
+  
+
+Culture plate 1 (9080) taken out from incubator: 10:45
+
+Start run: 10:52:08 AM  
+
+Run time: 2H 16M  
+
+Culture plate 1 (9080) returned to incubator: 13:30  
+
+  
+
+Culture plate 2 (9081) taken out from incubator: 13:40
+
+Start run: 1:46:13 PM  
+
+Run time: 1H 59M  
+
+Culture plate 2 (9081) returned to incubator: 15:50  
+
+  
+
+Culture plate 3 (9082) taken out from incubator: 15:55
+
+Start run: 4:00:43 PM  
+
+Run time: not recorded (<2H 15M)  
+
+Culture plate 3 (9082) returned to incubator: 18:15  
+
+  
+
+Culture plate 4 (9083) taken out from incubator: 18:16
+
+Start run: 6:19:43 PM  
+
+Run time: 1H 59M  
+
+Culture plate 4 (9083) returned to incubator: 20:22  
+
+  
+
+
+
+
+Plate Maps for 96-WPs
+
+9415-CHOMP09-Crocodile P1-1of4
+
+RowsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column 8Column
+9Column 10Column 11Column 12  
+AA/J13A/C1A/F23A/G1A/K21A/F6A/D3A/E9A/A3A/A23A/F2  
+  
+BA/H2A/G14A/M13A/M16A/E22A/F15A/E8A/D6A/A8A/F24A/K1  
+  
+CA/H1A/B14A/N9A/A7A/H23A/L12A/K17A/B9A/C16A/C11A/B22  
+  
+DA/E7A/G10A/K7A/O3A/B8A/J1A/A16A/A9A/P20A/B11A/I15  
+  
+EA/F19A/B10A/G6A/L11A/H9A/D23A/C13A/C22A/O20A/N15A/G20  
+  
+FA/M20A/K15A/I7A/F10A/A6A/G12A/K13A/L16A/C10A/E20A/H24  
+  
+GA/A24A/G9A/I5A/M4A/L4A/C18A/H18A/H17A/P10A/A2A/F11  
+  
+HA/G21A/M9A/H11A/P19A/J5A/L15A/J11A/J22A/D9A/B3  
+  
+  
+  
+9416-CHOMP09-Crocodile P1-2of4
+
+RowsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column 8Column
+9Column 10Column 11Column 12  
+AA/E15A/D2A/M12A/G24A/G15A/P18A/H8A/A11A/C6  
+  
+  
+  
+BA/D19A/M1A/O18A/M19A/L16A/P23A/F21A/A9A/O9  
+  
+  
+  
+CA/K6A/D17A/B9A/I7A/B22A/J7A/O12A/E18A/D3  
+  
+  
+  
+DA/N13A/B7A/I13A/H23A/E7A/E2A/L24A/C18A/N12  
+  
+  
+  
+EA/F19A/I12A/A16A/J1A/B1A/C23A/D14A/G14  
+  
+  
+  
+  
+FA/H21A/E21A/F13A/L1A/K9A/A5A/A7A/D7  
+  
+  
+  
+  
+GA/F14A/O11A/E1A/J18A/J14A/M22A/E20A/J21  
+  
+  
+  
+  
+HA/L8A/C11A/C16A/C2A/A8A/F5A/L17A/J13  
+  
+  
+  
+  
+  
+9417-CHOMP09-Crocodile P1-3of4
+
+RowsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column 8Column
+9Column 10Column 11Column 12  
+AA/K6A/G23A/J11A/I8A/H4A/N21A/F2A/L5A/H17A/C24A/M19  
+  
+BA/O20A/O11A/P8A/J7A/B16A/D19A/J19A/D23A/F7A/H7  
+  
+  
+CA/A8A/K5A/I1A/H19A/I5A/C5A/G3A/N5A/J6A/P16  
+  
+  
+DA/E10A/B23A/J14A/F4A/D2A/A15A/G5A/J1A/G16A/C19  
+  
+  
+EA/L1A/C23A/L23A/M22A/P7A/F24A/A20A/L2A/O2A/D4  
+  
+  
+FA/B7A/C10A/L22A/C2A/M9A/A21A/M20A/I21A/I4A/G12  
+  
+  
+GA/E2A/P21A/I3A/F22A/O12A/M7A/D7A/P10A/G9A/C7  
+  
+  
+HA/C11A/I20A/G20A/O10A/E12A/B12A/A7A/F14A/B18A/I18  
+  
+  
+  
+9418-CHOMP09-Crocodile P1-4of4
+
+RowsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column 8Column
+9Column 10Column 11Column 12  
+AA/H19A/J9A/B13A/I20A/D14A/B23A/A12A/D22A/K11  
+  
+  
+  
+BA/C19A/G19A/O20A/O12A/O17A/C5A/M4A/N24A/I2  
+  
+  
+  
+CA/E24A/I21A/A9A/J13A/E2A/C23A/A22A/O21A/M18  
+  
+  
+  
+DA/L7A/K7A/H21A/F20A/D9A/J17A/P15A/G18A/F21  
+  
+  
+  
+EA/I14A/I9A/H18A/H12A/L12A/I6A/K12A/J5  
+  
+  
+  
+  
+FA/B1A/N4A/A14A/A17A/H22A/D1A/M24A/F22  
+  
+  
+  
+  
+GA/L22A/A10A/H6A/E15A/G17A/P22A/B17A/M23  
+  
+  
+  
+  
+HA/I8A/M22A/I12A/F12A/L20A/K18A/L8A/F6  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+CSV files mislabelled when I was tired last night - see below for what the
+numbers correlate to:
+
+8030 = culture 9080
+
+8031 = culture 9081
+
+8032 = culture 9082
+
+8033 = culture 9083
+
+  
+
+Looked at plates under microscope on phase and there appeared to be a lot of
+cell death - hypothesise that this is due to hoechst staining
+
+

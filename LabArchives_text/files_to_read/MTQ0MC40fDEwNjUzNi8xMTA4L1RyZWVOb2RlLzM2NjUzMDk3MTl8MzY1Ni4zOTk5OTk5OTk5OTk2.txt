@@ -1,0 +1,122 @@
+50% Feed on 6xT75 containing 30 BioNOC II macrocarriers
+
+
+# Procedure
+
+# 50% Feed:  
+
+  1. Turn on the water bath and set to 32'C.
+  2. Aliquot required growth media into a sterile container/s and place into the water bath for at least 20 minutes.
+  3. Once the media has reached the required temperature, transfer flasks to the BSC and remove required volume of media (see table below)
+  4. Place the same volume of pre-warmed fresh media into each flask.
+  5. Return the flasks to the incubators
+
+Flask TypeNo. of BioNOC Carrier100% Media Change50% Media Change  
+T1755030mL15mL  
+T753018mL9mL  
+T25105mL2.5mL  
+  
+  
+
+``
+
+
+
+
+Procedures for monitoring cell growth:
+
+DAPI Staining: All (2) Flasks
+
+* Images saved under 10748
+
+ethanol accidently left on for 29min instead of 15min.
+
+1. Take out 1 BioNOC from each (1) tube/flask using sterile forceps  
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image
+
+Results:
+
+  * Cells are still visibly attached but it is hard to tell if they are growing
+  * The 5,000cells/cm2 condition still looks like it has less cells than the other two groups
+
+Example Images of Cells:  
+  
+  
+  
+Dissociation and Cell Counting: All (1) Flasks
+
+  1. 1x BioNOC was removed from each (1) flask in each seeing condition
+  2. This was placed in a 15mL tube and 2mL of TrypLE was added at: 13:37
+  3. The tubes were agitated twice during this incubation period, at: 13:44 and 13:49
+  4. The TrypLE was removed at: 13:52 and placed in a clean 15mL tube
+  5. Once TrypLE was removed the BioNOC carriers were washed twice with 1mL dPBS. Each time the tubes were flicked/shaken multiple times during the dPBS wash. 
+  6. After each wash the dPBS was removed and added to the 15mL tube containing the TyrpLE
+  7. Once all cell suspension was collected the 15mL centrifuge tubes were spun at 700rpm for 5 minutes. Timestamp: 14:07
+  8. There was no visible pellet in the 15mL tubes so 3.75mL of supernatant was removed and the remaining solution (250uL) was used to re-suspend the pellet
+  9. A 2 factor dilution was performed with Trypan Blue (20uL cell suspension in 20uL Trypan Blue) and the cells were counted on a heamocytometer.
+
+Results:
+
+* See results in widget below  
+
+  * When comparing the recorded cells numbers to the expected cell numbers at various confluences, they are very inconsistent. 
+  * It is not clear if this is because of the actual cell density, the loss of cells during the process having a large impact on the outcome because of the small amount of cells present on 1 carrier, OR the harvesting process itself being ineffective.
+
+Expected Cells numbers assuming 50% confluent (20,000cells/cm2): 50,000cells
+
+Cell Numbers per BioNOC carrier at seeding:
+
+  * 5,000cells/cm2: 12,500 cells
+  * 7500cells/cm2: 18,750 cells
+  * 15000cells/cm2: 37,500 cells 
+
+DAPI Staining: TrypLEd (1) Flasks
+
+To test if the harvesting process was ineffective and whether or not cells
+still remained on the carriers, I stained the TrypLEd carriers with DAPI. (Due
+to a CHOMP feed, this wasn't done until an hour after the initial harvest,
+during which time the carriers were contained an a tube with no liquid).
+
+  1. Add 1mL 70% Ethanol to each well for 15 minutes
+  2. Remove ethanol and wash with dPBS 
+  3. Add DAPI (1:1000) in dPBS for 5min
+  4. Remove all liquid and image
+
+Results:
+
+  * Some cells were still attached but the vast majority were effectively removed, therefore it is likely that the cells were lost during the process. 
+  * Unusually, the 5000 group had the most cells still attached.
+  * In future this type of procedure to be done on a minimum of 3 carriers.
+
+Used Tryple ID A9758
+
+Example Images:
+
+*See images above for 'before TyrpLE' comparison
+
+  
+
+
+
+
+# Procedure
+
+# pH Check:
+
+  1. The media removed from the flask during the 50% feed was placed into clean 50mL falcon tubes and a pH recording was performed on each one.
+  2. Before use the pH probe was calibrated with the standard solutions (7.0pH and 4.0pH)
+  3. Following calibration the pH probe was placed into each waste media tube 1 by 1, and rinsed with MilliQ between tubes. 
+  4. The pH for each tube was listed in the table below
+
+Seeding condition / Flask NumberpH  
+5000 / 1 (10746)6.9  
+5000 / 2 (10745)7.2  
+7500 / 1 (10743)7.1  
+7500 / 2 (10744)6.9  
+15000 / 1 (10748)7.2  
+15000 / 2 (10747)7.2
+
+

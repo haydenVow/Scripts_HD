@@ -1,0 +1,164 @@
+
+
+11/1/22
+
+In late Dec Alex commented that the proteomic data was showing vastly
+differing emPAI scores across every sample and the challenges we have in
+normalising these for comparison across samples. The samples that show the
+greatest difference in max score values are as follows:
+
+Highest: P015 = ~100mill; P06 = ~10mill
+
+Lowest: P002 = ~7k; P001 = ~30k
+
+It was noted that the processing pipeline had evolved with each batch of
+samples, so it was decided to re-process the samples from jobs #1747 (P001-
+#1791 (P0 and #1799
+
+
+
+
+The best two runs for the following samples were re-searched using the smae
+method as for samples P013-P023. i.e. file conversion from .raw to .mgf using
+PD 2.5:  
+
+P001 Approx 0.5g of frozen sheep cells (Dolly12 Myoblast) from the -80 freezer
+
+P002 Approx 0.5g of frozen mouse cells (C2C12 differentiated) from the -80
+freezer
+
+P003 Approx 0.5g of frozen sheep (lamb) backstrap tissue from the -80 freezer
+
+P004 V2 mince (store-bought sample, flash-frozen, mostly soy protein, but also
+contains vegetable oils (tocopherol).
+
+P005 Store-bought sample, 'sheep biopsy 20/2/20', flash frozen
+
+  
+
+P006 - Sheep myoblast
+
+  
+
+P007 - Sheep fibroblast grown on roller bottles
+
+  
+
+P008 - Sheep fibroblast grown on planar culture
+
+  
+
+P009 - Water Buffalo myoblast
+
+  
+
+P010 - Cow myoblast
+
+  
+
+P011 - Mouse myoblast
+
+P012 - Crocodile fibroblast grown on planar culture
+
+  
+
+P013 - Crocodile fibroblast grown on roller bottles
+
+  
+
+P014 - Store bought Impossible patty for alternative protein comparison (Soy)
+
+  
+
+P015 - Store bought Crocodile tail fillet tissue  
+
+  
+
+
+
+
+11/1/22
+
+The .mgf files were searched using MASCOT 2.8:
+
+  
+
+
+
+
+11/1/22
+
+Summary of the results:
+
+SampleTypeSpeciesTop emPAI valueProt Families  
+P001Cell line Sheep29,734  
+3,039  
+P002Cell line  
+Mouse82,721  
+4,517  
+P003  
+TissueSheep  
+619,840  
+1,378  
+P004  
+FoodSoy3,186  
+1,379  
+P005  
+TissueSheep  
+420,385  
+1,480  
+P006  
+Cell line  
+Sheep  
+181,155  
+4,576  
+P007  
+Cell line  
+Sheep  
+32,545  
+4,950  
+P008  
+Cell line  
+Sheep  
+31,386  
+4,944  
+P009  
+Cell line  
+Buffalo20,074  
+5,240  
+P010  
+Cell line  
+Croc  
+9,892  
+4,708  
+P011  
+Cell line  
+Mouse  
+7,803  
+5,624  
+P012  
+Cell line  
+Croc1,8903,780  
+P013  
+Cell line  
+Croc3,2394,080  
+P014  
+FoodSoy2,667,331  
+2,757  
+P015  
+TissueCroc6,125,797  
+1,773  
+  
+The highest emPAI scoring (>6 million) protein family was in sample 15:
+
+The lowest scoring (<2000) protein family was sample 12:
+
+  
+
+ TIC for Sample 15 (3.59 e10)
+
+TIC for sample 12 (2.8 e10)
+
+
+
+

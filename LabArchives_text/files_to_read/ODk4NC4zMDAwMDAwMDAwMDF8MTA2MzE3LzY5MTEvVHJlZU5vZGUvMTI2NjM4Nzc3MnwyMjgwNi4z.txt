@@ -1,0 +1,237 @@
+Performed by: LL
+Flask ID Harvested Flask type harvestedFlask IDs seededFlask type seeded  
+10785  
+E12510831-Nuvonis Quail Suspension-Quail P-3of3  
+ULA 96-wp  
+  
+10830-Nuvonis Quail Suspension-Quail P2of3  
+
+  
+  
+10829-Nuvonis Quail Suspension-Quail P-1of3  
+
+
+  
+  
+  1. Took 2 x 50 uL sample from E-125 culture and performed a cell count. 
+    * Cell count average: 7.88M cells total, 364K cells per mL
+  2. Removed 7.5 mL (7.3 mL + 200 uL to account for error) from culture containing 2,650,000 cells (2,650,000 cells in 5.3 mL = 500K cells per mL with ~200 uL dead volume)
+  3. Centrifuged at 350 x g for 5 minutes 10:30
+  4. Aspirated 100% of supernatant 
+  5. Re-suspended in 5.3 mL sterile dPBS
+  6. Seeded cells manually into media plates (20 uL per well) using multi-channel pipette
+  7. Imaged plates on phase 5X on Zaber microscope and ran through ML model
+  8. Replaced plates in incubator at 37'C and 5% CO2 10:50 (#77)
+
+
+
+
+Plate 1  
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7  
+A4319  
+5836  
+5644  
+5015384228763540  
+B4292  
+4512  
+4414  
+3429280525142859  
+C4185  
+3716  
+4158  
+3445322230483396  
+D4999  
+4987  
+5095  
+3887421744564715  
+E4085  
+4581  
+4479  
+3300337536113456  
+F3322  
+3840  
+3441  
+2789268130132821  
+G4718  
+6495  
+5044  
+3811334032433450  
+H3270  
+3653  
+3774  
+3242242024122648  
+  
+Plate 2
+
+Rows\Columns
+
+Column 1
+
+Column 2
+
+Column 3
+
+Column 4
+
+Column 5
+
+Column 6
+
+Column 7  
+  
+A
+
+2990
+
+3755
+
+2799
+
+3216
+
+3625
+
+3526
+
+3698  
+  
+B
+
+2184
+
+2184
+
+3319
+
+3490
+
+2920
+
+3230
+
+2877  
+  
+C
+
+2130
+
+2337
+
+3190
+
+3472
+
+3242
+
+3053
+
+3085  
+  
+D
+
+3051
+
+3078
+
+3288
+
+3117
+
+3293
+
+3345
+
+3046  
+  
+E
+
+1745
+
+3379
+
+3653
+
+3472
+
+3402
+
+3870
+
+3201  
+  
+F
+
+2299
+
+2440
+
+3468
+
+3293
+
+3490
+
+2970
+
+2998  
+  
+G
+
+2692
+
+2246
+
+2212
+
+2729
+
+2614
+
+3262
+
+2133  
+  
+H
+
+4352
+
+4352
+
+3017
+
+4695
+
+3811
+
+3418
+
+3442  
+  
+Plate 3
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6  
+A5175  
+4261  
+4722  
+372928893360  
+B5123  
+5065  
+3892  
+303828883058  
+C5259  
+4629  
+3180  
+247829643591  
+D4380  
+4372  
+3251  
+269129783063  
+E5161  
+3742  
+3554  
+255932973284  
+  
+  
+
+

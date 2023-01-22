@@ -1,0 +1,192 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Chris and Tom  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+  
+1  
+2  
+3  
+  
+A  
+Serum Control  
+GM + 0.1% MC  
+GM + 0.3% MC  
+  
+B  
+GM + 0.45% MC  
+GM + 0.6% MC  
+GM + 1% MC  
+  
+  
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 5 mL  of  each of the following growth media conditions above: 0.1%, 0.3%, 0.6% MC in GM
+    2. 3 mL of  GM + 0.45% MC
+    3. 35 mL of GM + 1% MC
+    4. 35 mL of serum control media  
+Placed in water bath: 11:38  
+
+  2. Collected culture vessels from shakers, wiped with ethanol-sprayed cloth and brought into BSC (if necessary, paused shakers by pressing the "play" button on the controller on the side wall of the incubator)
+  3. Using a p1000 for the 50 mL spin tube cultures and a 5 mL serological pipette for the E125 flasks, gently pipette-mixed cultures for ~1 minute to break up cell clumps
+  4. Pipetted suspensions though 70 um cell strainer into 6 x 15 mL tubes  and 3 x 50 mL flasks (keep E125 flask and 50 mL tubes in BSC as cultures will be returned to these post centrifugation) 
+  5. Centrifuged at 300 x g for 5 min.
+    1. Timestamp for E125 cultures: 15:25 - 15:30    
+
+    2. Timestamp for 50 mL bioreactor tube cultures:      15:37 - 15:42      
+
+  6. Aspirated supernatants, taking care to not disrupt or aspirate pellet
+  7. Re-suspended all cultures in 500 uL of their respective growth media. 
+  8. Took 1 x 20 uL aliquots from all cultures and transferred to 80 uLof stain buffer, took images and performed cell count, recording counts in this spreadsheet https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit#gid=39786949 
+    1. Timestamp for E125 cultures: 15:52    
+
+    2. Timestamp for 50 mL bioreactor tube cultures:      16:XX    
+  9. Replaced fresh, warmed media in all cultures 
+  10. Gently pipette-mixed cultures again before moving back to E125 flask and 50 mL tubes
+  11. Returned vessels to incubator and replaced in clamp. If shaker was paused, remembered to press play to restart shaking. 50 mL spin tubes should be shaking at 206 RPM and E125 at 120 RPM) Timestamp:    16:03       
+
+  * Incubator (#68), Lab [Library]
+
+
+
+
+Cell counting method:
+
+  1. Prepared stain buffer
+  2. Added 20 uL of cell suspension to 80 uL of stain buffer
+  3. Incubated for at least 10 minutes at room temperature in the dark
+    1. Incubation for E125 cultures:  15:55 - 16:05
+    2. Incubation for 50 mL bioreactor tube cultures:  16:48 - 16:58
+      1. These images saved under culture ID 7673
+      2. A10 7665-F_DOLLY12-Sheep P8-1of1
+      3. B10 7666-F_DOLLY12-Sheep P8-1of1
+      4. C10 7667-F_DOLLY12-Sheep P8-1of1
+      5. D10 7668-F_DOLLY12-Sheep P8-1of1
+      6. E10 7669-F_DOLLY12-Sheep P8-1of1
+      7. F10 7670-F_DOLLY12-Sheep P8-1of1
+  4. Took whole-well images using the Zaber
+    1. E125 cultures were too dense so they were diluted a further 10x
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recFjPOe6FLkj69WF/images (7673),
+Wednesday 11 August
+
+

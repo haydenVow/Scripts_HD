@@ -1,0 +1,251 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by:
+
+
+
+
+Passage Culture IDs:
+
+ANIMAL IDBIOPSY ID  
+CELL LINE  
+ISOLATE ID  
+(seeded after isolation on 25/02/22) for Harvesting Today  
+Note on cultureHarvested Vessel Type  
+Seeded Vessel Culture ID(s)  
+  
+Seeded Vessel Type  
+  
+10013-Alpaca-Milton  
+10041-Liver-10013-Alpaca-Milton  
+385-Raw-H_KUZCO28-10041  
+10040-Iso-H_KUZCO28388  
+(gelatin-coated plate)  
+Isolation by Bec100mm plate  
+50% Feed  
+10041-Iso-H_KUZCO28389  
+(uncoated plate)  
+  
+10042-Liver-10013-Alpaca-Milton  
+386-Raw-H_KUZCO28-10042  
+10046-Iso-H_KUZCO28394  
+(uncoated plate)  
+Isolation by Michael  
+100mm plate  
+  
+10047-Iso-H_KUZCO28395  
+(gelatin-coated plate)  
+  
+10048-Iso-H_KUZCO28396  
+(collagen-coated plate)  
+  
+10043-Liver-10013-Alpaca-Milton  
+ 387-Raw-H_KUZCO28-10043  
+10042-Iso-H_KUZCO28390  
+(uncoated plate)  
+Isolation by Alex  
+100mm uncoated plate  
+  
+ 100mm plate  
+  
+  
+10043-Iso-H_KUZCO28391  
+(collagen-coated plate)  
+100mm collagen-coated plate  
+  
+  
+  
+  
+10044-Iso-H_KUZCO28392  
+(gelatin-coated plate)  
+100mm gelatin-coated plate  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Media/Reagents used:
+
+NameDetails (reagent ID)Used  
+  
+Tryplem10658  
+15mL (5mL each)  
+  
+dPBS (for washing & neutralising)a10357  
+30mL  
+  
+Growth Media: Williams Medium E + hepatocyte supplement + dexamethasonem10722  
+30mL + 6mL resuspension  
+passage: 30mL (10mL each plate)  
+feeds: 30mL (5mL each plate)  
+  
+Williams Medium E  
+S5367  
+  
+hepatocyte supplement (cell maintenance cocktail-B)  
+s5333  
+  
+Dexamethasone 10mM  
+s5334  
+  
+pent/strep a500uL  
+  
+## Making the Liver Growth Medium:
+
+Amount: 20mL of supplement and 70uL of dexamethasone for every 500mL of
+Williams Medium E (WME).
+
+1\. 200mL of growth medium (Williams Medium E + hepatocyte supplement +
+dexamethasone) was made up containing:
+
+  * 200mL WME 
+  * 8mL hepatocyte supplement 
+  * 28uL dexamethasone
+
+2\. Filter complete media with a 0.2um filter.
+
+3\. Aliquoted 55mL of the growth medium and added 550 uL  P/S
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    15   mL in  1x 50mL     tubes
+  2. dPBS (for neutralising)   30 mL in   1x 50mL   tubes
+  3. Growth media (for pellet resuspension):   15  mL in   1x  50mL tube    tubes
+  4. Growth media (for seeding):   45  mL in   50mL tube     tubes
+  5. Growth media (for 50%):   25 mL in   50mL tube     tubes
+  6. Times that all aliquots were placed in the water bath to warm before use  13:50 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+## 50% Feed
+
+ ~~0\. Take microscope images of the culture(s) at 5x,10x, 20x.  ~~no images
+taken due to ranger issue
+
+1\. Removed vessel(s) from the incubator.   16:07
+
+2\. Removed 50% of the supernatant.
+
+3\. Added 50% of the appropriate working volume for the vessel.
+
+4\. Returned to the incubator.   16:03
+
+
+
+
+## Passage
+
+ ~~0\. Take microscope images of the culture(s) at 5x,10x, 20x.~~ No
+microscope images were taken due to ranger issue. Images of the microscope
+screen were instead taken and have been attached below.
+
+1\. Removed vessel(s) from the incubator.  16:04
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added  10 mL tryple to each vessel/well and incubated at 37˚C for  16:05
+-16:24  min.
+
+\- After 15 minutes, the tryplised cells were pippeted up and down to help
+detachment from the plate surface
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+4\. Neutralised with    5mL (per plate)   dPBS (warmed) and combined cell
+suspension into    3 x 50mL falcon   tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  16:33   \-  16:38   
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      5  mL  alpaca liver growthmedia.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+ ~~9\. Total cell number was:  
+~~
+
+ ~~10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together. ~~ ~~~~
+
+11\. Each cell suspension was resuspended in 20mL of growth medium.
+
+13\. Transfer each cell suspension into 2x (non-coated)   100mm
+flasks/plates.
+
+14\. Transfer flask/plate(s) to incubate at: : am/pm  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10042-iso-H_KUZCO28
+
+4x
+
+20x
+
+20x
+
+10043-iso-H_KUZCO28
+
+20x
+
+

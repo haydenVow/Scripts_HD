@@ -1,0 +1,35 @@
+
+
+## Completed by: AK
+
+
+
+
+A major focus in achieving viable suspension cultures has been the process of
+developing a high-throughput platform to analyse large numbers of suspension
+cultures (>50) simultaneously. As a result it has become crucial to optimise
+separate processes' that enable the pool party team to obtain useful metrics
+such as cell numbers, to quantify performance of certain culture conditions.
+In the past this has predominantly been fluorescence based such that each
+individual culture condition are stained with both a live and dead cell
+tracker. These stains generally bind to nuclei acid material present in the
+nucleus or converted into a membrane impermeable molecule in the cytoplasm or
+organelle capable of florescence. All stained cultures are then imaged under
+the respective florescent channels, according to which stain was administered,
+using the automated fluorescence microscope system known as Zaber. To obtain
+cell counts on the live and dead stained images an image processing tool
+called FIJI is utilised to automatically analyse the images to identify
+"cells" according to their fluorescence, size and morphology. Despite this
+process being semi-automated with minimal human input there have been several
+shortcomings during it's development, namely the difficulties in obtaining
+consistent live/dead staining, and weak fluorescence observed from live cell
+stains. Consequently this has made it difficult in obtaining accurate cell
+counts using current macro codes. In addition it is unclear if the results
+obtained from current FIJI analyses are representative of actual cell numbers.
+Therefore in response to this we aim to screen multiple live/dead stains to
+identify a combination that produces the most consistent results across
+several factors. Furthermore it is also necessary to screen which live/dead
+stains can adequately fluorescence such that they can observed on the Zaber
+and detected using our current suspension macros.
+
+

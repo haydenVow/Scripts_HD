@@ -1,0 +1,107 @@
+
+
+## Performed by: Shaleen, Tim A  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Bradford reagentS3589  
+  
+PBS  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Preparing BSA standard curve:
+
+  * Make up stock of 2 mg/ml BSA solution
+  * Perform serial dilutions to make up 2000, 1500, 1000, 750, 500, 250, 125, 25 ug/ml solutions of BSA. Place on ice.
+
+Improved freeze-thaw lysis method:
+
+  * Remove E6 from wells and wash multiple times with PBS to remove serum proteins that may affect analysis.
+  * Place the plate directly in LN2 bath for 3 minutes.
+  * Thaw in water bath for 3 minutes.
+  * Repeat process 3 more times.
+
+Cycle 1: 14:47 - 14:53
+
+Cycle 2: 15:03 - 15:09
+
+Cycle 3: 15:12 - 15:18
+
+  * Ensure detachment by loading 10uL of lysate under haemocytometer slide. Keep plate on ice during this process.
+  * Transferred 3mL of lysate to 15mL falcon tube.
+  * Centrifuge tube/s at 650g for 5 mins. 15:35 - 15:40
+  * Aspirate 100uL of supernatant and transfer to corresponding well on a fresh non treated 96 well plate. Keep plate cold by placing on ice.
+  * Perform dilutions in the well plate using water or PBS (ensure that whichever one that is used is also used as the blank) as the diluent.
+  * Parent, 1:2, 1:10, 1:50, 1:100
+  * In a new 96 well plate, add 250uL bradford reagent to the corresponding wells.
+  * Add 5uL of the sample to each of the corresponding wells.
+  * Mix well and spin plate down for 5 mins to remove bubbles (also the incubation time).
+  * Read at 595 using plate reader.
+
+Calculations/Analysis:
+
+  * Prepare graph of standards (mg/ml on x axis, Abs on y axis)
+  * Calculate protein concentration using C1V1 = C2V2 (do not factor in amount of Bradford reagent added)
+
+
+
+
+Observations/Summary:
+
+Limitations:
+
+  * Plate didn't withstand LN2 well
+    * Warping when in LN2
+    * Parafilm is temperature sensitive - cannot be reliably used for this
+  * Sticky foil is a good alternative to seal the plate
+  * The parent lysate is too dilute. 5uL of it against 250uL of Bradford reagent was below the LOD (see raw CSV). 
+
+Other:
+
+  * 200uL of bradford was added to the remaining 2900uL of the lysate to see if the CBB is functional and whether our lysate does in fact contain protein. 
+  * After adding CBB, the colour change was immediate producing a deep blue colour.
+  * This indicates that the main area to optimise now is obtaining a concentrated cell lysate.
+
+  
+
+Future directions:
+
+  * Final wash with PBS should only be 100uL per well in order to obtain concentrated lysate
+  * The mature plate on Day 6 will be used as a practice plate for a newer and improved protocol that addresses the limitations highlighted in this protocol.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

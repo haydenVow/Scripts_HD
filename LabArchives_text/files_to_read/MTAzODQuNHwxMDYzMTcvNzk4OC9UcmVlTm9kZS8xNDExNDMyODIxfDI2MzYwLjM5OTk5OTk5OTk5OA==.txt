@@ -1,0 +1,126 @@
+Performed by: LL
+Harvested Flask ID(s)Condition(s)Seeded Flask ID(s)Condition(s)  
+Location  
+11953-Nuvonis Quail Suspension341-P-1of6  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF11953-Nuvonis
+Quail Suspension341-P-1of6  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+Main lab, incubator 141  
+11954-Nuvonis Quail Suspension341-P-2of6  
+11954-Nuvonis Quail Suspension341-P-2of6  
+  
+11955-Nuvonis Quail Suspension341-P-3of6  
+  
+12054-Nuvonis Quail Suspension341-P-1of3  
+  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+11955-Nuvonis Quail Suspension341-P-3of6  
+12055-Nuvonis Quail Suspension341-P-2of3  
+  
+12056-Nuvonis Quail Suspension341-P-3of3  
+  
+  
+  
+11956-Nuvonis Quail Suspension341-P-4of6  
+75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+11956-Nuvonis Quail Suspension341-P-4of6  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+11957-Nuvonis Quail Suspension341-P-5of6  
+11957-Nuvonis Quail Suspension341-P-5of6  
+  
+11958-Nuvonis Quail Suspension341-P-6of6  
+11958-Nuvonis Quail Suspension341-P-6of6  
+
+
+Reagent  
+ID  
+  
+RPMI Nuvonis suspension medium  
+M12499  
+  
+HyCell Nuvonis suspension medium  
+M12394  
+  
+IGF-1-LR3  
+M12475  
+  
+EGF  
+M12321  
+  
+  
+  
+
+
+Process
+
+
+  1. Aliquoted the following media (with growth factors): 
+    1. 60 mL x 50/50 
+    2. 120 mL x 90/10
+  2. Placed media in waterbath to warm 
+  3. Took 2 x 550 uL samples from each flask 
+  4. Performed cell counts using ViCell and recorded in table below, along with observations on cell morphology, clumping etc. 
+  5. Transferred 8M cells from each 50/50 culture and 4M cells from each 75/25 culture into 9 x 50 mL tubes (4M per tube i.e. split each 8M cell suspension into 2) (seeding at double what we usually do because ViCell counts are about double manual counts)
+  6. Centrifuged at 500 x g for 5 min
+  7. While centrifuge was running, washed E-flasks with sterile dPBS
+  8. Aspirated supenatants
+  9. Added 20 mL of respective media to each tube (3 x 50/50 from 50/50, 3 x 90/10 from 50/50, 3 x 90/10 from 75/25)
+  10. Re-suspended cells in media 
+  11. Strained cell suspension with 40 um cell strainer and returned to E-flasks
+  12. Placed in incubator (37'C, 5%CO2, 120 RPM) 
+
+
+Counts & observations
+Flask IDFlask count  
+Flask count  
+Ave condition countCommentsMedia condition  
+  
+11953  
+28,400,000  
+27,800,000  
+  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+  
+  
+11954  
+24,800,000  
+  
+  
+  
+  
+11955  
+30,200,000  
+  
+  
+  
+  
+11956  
+29,000,000  
+26,866,666  
+  
+75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+  
+11957  
+27,200,000  
+  
+  
+  
+  
+11958  
+27,400,000  
+  
+  
+  
+
+
+ViCell PDF

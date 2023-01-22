@@ -1,0 +1,167 @@
+Performed by:
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+112981  
+FS1  
+Feed with 2 g/L glucose & 2 mM ala-gln every 48h from D3 onwards (inclusive of
+D3). Exclusively on D3, Ala-gln will be topped up with 3mM. Main lab, #159
+(top shaking incubator)  
+212982  
+  
+312983  
+412984  
+512985FS2  
+Feed with 3 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+612986  
+712987  
+812988  
+912989FS3  
+Feed with 2 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+1012990  
+1112991  
+1212992  
+1312993FS4  
+Feed with 2 g/L glucose & (# of days since last topup/feed) mM ala-gln when
+glucose test falls into 2.5-5 g/L range  
+  
+1412994  
+1512995  
+1612996  
+1712997FS5  
+Feed with 4 g/L glucose & (# of days since last topup/feed) mM ala-gln when
+glucose test falls into 2.5-5 g/L range  
+  
+1812998  
+1912999  
+2013000  
+2113001  
+Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and HT)  
+2213002  
+  
+2313003  
+  
+2413004  
+  
+2513005  
+Control2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and without HT)  
+  
+2613006  
+  
+2713007  
+  
+2813008  
+
+
+Counting & sampling process
+  
+  
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 510 uL samples from each flask into ViCell counting cups
+  3. Put aside any cups with samples from flasks #13-20 for glucose testing
+  4. Loaded all other samples into ViCell carousel for counting
+  5. Repeated steps 1-4 twice more with remaining flasks in a batch of 10, then 8
+  6. Kept flasks 1-12 out of incubator for feeding (process outlined in "feeding process" below)
+  7. Tested glucose levels in samples from flasks #13-20:
+    1. Dipped 1 x Diastix test strip into each sample (8 strips total)
+    2. Read result 30 seconds after dipping and recorded corresponding glucose level in table lower in lab book (see colour charts attached to lab books and on Diastix packet to interpret colour)
+    3. Took image of test strips lined up on laminated paper and attached to lab book for later reference
+    4. Replaced flasks that recorded 5 g/L or higher back in incubator 
+    5. For flasks that recorded 2.5-5 g/L or lower, followed procedure in "feeding process" outlined below 
+
+
+Feeding process
+
+  1. For flasks 1-4:
+    1. Added 150 uL (2 g/L) glucose stock solution per flask 
+    2. Added 450 uL (3 mM) ala-gln stock solution per flask
+  2. For flasks 9-12:
+    1. Added 150 uL (2 g/L) glucose stock solution per flask 
+    2. Added 450 uL (3 mM) ala-gln stock solution per flask
+  3. For flasks 5-8:
+    1. Added 225 uL (3 g/L) glucose stock solution per flask 
+    2. Added 450 uL (3 mM) ala-gln stock solution per flask 
+  4. For flasks 13-16 recording 2.5 - 5 g/L or less:
+    1. Added 150 uL (2 g/L) glucose stock solution per flask
+    2. For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up. 
+      1. If 1 day has passed, add 150 uL per flask (1 mM)
+      2. If 2 days have passed, add 300 uL per flask (2 mM) 
+      3. If 3 days have passed, add 450 uL per flask (3 mM)
+      4. Etc.
+  5. For flasks 17-20 recording 2.5 - 5 g/L or less:
+    1. Added 300 uL (4 g/L) glucose stock solution per flask 
+    2. For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up. 
+      1. If 1 day has passed, add 150 uL per flask (1 mM)
+      2. If 2 days have passed, add 300 uL per flask (2 mM) 
+      3. If 3 days have passed, add 450 uL per flask (3 mM)
+      4. Etc. 
+  6. Recorded which flasks were fed in table below
+
+
+Results
+Flask #ConditionGlucose reading (g/L)Notes/observationsg/L glucose added  
+(if none added write N/A)mM ala-gln added  
+(if none added write N/A)  
+  
+13FS45-10Colour slightly changes from initial 5-10g/L to 10-20g/L. However,
+none fell to 2-5g/L. N/AN/A  
+  
+14FS4  
+5-10  
+N/A  
+N/A  
+  
+15FS4  
+5-10  
+N/A  
+N/A  
+  
+16FS4  
+5-10  
+N/A  
+N/A  
+  
+17FS5  
+5-10  
+N/A  
+N/A  
+  
+18FS5  
+5-10  
+N/A  
+N/A  
+  
+19FS5  
+5-10  
+N/A  
+N/A  
+  
+20FS5  
+5-10N/A  
+N/A  
+
+
+
+
+
+Diastix reference chart
+  
+  
+(100 mg/dL = 1 g/L)
+
+
+In-house colour chat
+
+
+(Numbers refer to g/L)
+
+

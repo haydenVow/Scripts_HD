@@ -1,0 +1,59 @@
+Performed by: EC AS
+Harvested vessel IDVessel  
+IDCondition  
+Location  
+  
+13062-Nuvonis Quail Suspension341-P-1of2  
+13063-Nuvonis Quail Suspension341-P-2of2  
+  
+13109-Nuvonis Quail Suspension341-P-1of1  
+  
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (with 4 mM L-Glutamine & 6 g/L glucose final conc.)  
+Main lab, top shaking incubator #159
+
+
+Process
+  
+  
+In the morning:
+
+  1. Took 1 x 510 uL aliquot from each E500 and performed count on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Transferred 54.496 mL cell suspension from the combined cell suspension of 2 x E500 into each 2 x E500mL tubes (~60M per flask) 
+  4. Added 150 mL of warmed 50/50 RPMI/CHO Nuvonis suspension medium + GFs (with 6g/L glucose and 4 mM L-glut) to flask to bring volume up to 200 mL in each E550 and cell seeding density to ~300K cells/mL 
+  5. Returned flasks to incubator
+
+  
+
+In the afternoon:
+
+  1.   
+
+  2. After Media op weekly sync, seeded an extra 9 x E125 for EPIC31442. 
+  3. Took 1 x 510 uL aliquot from each E500 and performed count on ViCell (Did not record these counts on the team media spreadsheet).
+  4. Cell suspensions from flasks 13062 and 13063 were combined. 
+  5. 348 mL of cell suspension containing a total of 60M cells were used to seed flasks 16-24 in EPIC31442.
+  6. Seeded remaining 50mL of cell suspension containing 9M cells in a new E250.
+  7. Returned flasks to the incubator.
+
+
+
+
+
+Notes
+
+
+Cell count is much lower than what expected based on calculations.
+
+Performed an additional cell count of flask 13063 to seed flasks 16-24 for
+EPIC 31442 and there were a total of about 34M cells rather than 60M (176K
+cells/mL in 200mL of medium). Similarly, cell count of flask 13062 contained
+about 34M cells (180K cells/mL in 200mL of medium). Cells look extremely
+clumpy.
+
+
+
+
+

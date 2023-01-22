@@ -1,0 +1,145 @@
+Background
+
+
+The primary objective for PPP involves developing and optimising a process in
+which fibroblast cells are able proliferate in suspension culture to
+ultimately hand off that process to production for scale up. A critical aspect
+of this involves generating a suspension-adapted fibroblast cell line that can
+survive whilst in suspension and continue to proliferate over an extended
+period. Early fibroblast suspension experimental work has highlighted the
+importance of testing various components to determine a combination that
+offers the highest success of maintaining fibroblast viability and promotes
+cellular proliferation. Several media supplementations such as rock
+inhibitors, anti-clumping agents and RDG peptides have previously been
+assessed within the suspension pipeline. However it remains unclear, whether
+any of these additions significantly promote the growth and survivability of
+fibroblasts in suspension. Therefore the focus of this experiment will involve
+evaluating two classes of compounds to achieve fibroblast cell proliferation
+in suspension; histone deacetylases and hydrolysates.
+
+  
+
+Histone Deacetylases modulate p53 activity
+
+Histone deacetylases (HDAC) are a class of enzymes that remove acetyl groups
+from amino acids on histones, resulting in a more closed chromatin structure
+and repression of gene expression [1]. Subsequently, DNA expression and gene
+transcription can be regulated by this process of acetylation and
+deacetylation, due to interplay between histones and DNA. Despite forming a
+large protein superfamily we aim to test the impact of two histone
+deacetylases (HDAC1, HDAC2), due to their nuclear subcellular localisation and
+ubiquitous tissue distribution [2]. These regulatory proteins modulate p53
+transcriptional activities via regulation of p53-DNA binding activity and are
+over expressed in many cancer types; with the rationale that over-expression
+of these proteins will encourage development of an immortalised cell line
+[3][4]. In addition, under expression of these deacetylases is linked to
+cellular senescence and cell cycle arrest [5]. HDAC inhibitors (HDACi) have
+been used clinically to inhibit the proliferation of cancerous cells in vivo
+by inducing cell cycle arrest, impede differentiation and apoptosis [6]. In
+our current suspension experiments, we are observing high rates of cell death;
+therefore including exogenous HDAC1 & HDAC2 in our suspension media can
+potentially promote cell survival and cell proliferation.
+
+Rational for the concentration of HDACs
+
+1\. Assume the amount of HDACs we received is the amount needed for 500mL  
+2\. Look into the amount of HDACs over-expressed tumours and aim for that
+concentration.
+
+3\. Trial at least 2 x different concentrations for each HDAC  
+4\. Ideally include 1-2 conditions where we include both types of HDACs  
+5\. Tom and I may make this design into a mini-DoE.
+
+  
+
+Background on Hydrolysates
+
+Protein hydrolysates (also known as "peptones", "peptides" or "hydrolyzed
+proteins"), are protein fragments created by the hydrolysis of some high-
+protein material [7]. Typically, plant or microbial biomass is digested by
+exogenous enzymes, acids or bases. Autolysis (digestion by the cell itself)
+can also be induced by activating endogenous enzymes (as is the case with
+yeast cell products like Marmite and Vegemite). Besides amino acids and
+peptides, these hydrolysates contain an array of other compounds that are
+released during the digestion of the biomass. The combination of digestible
+amino acids, peptides and a cocktail of growth-promoting molecules makes these
+hydrolysates attractive alternatives to serum as media supplements. However,
+the identities and/or mechanisms of action of most of the compounds in
+hydrolysates remain largely unknown, so hydrolysates are often known as
+chemically "undefined" or "complex" supplements.
+
+A successful serum-free culture medium for CHO cells, known as "WCM5", was
+developed by the Wellcome Research laboratories in the early 1990s [8]. The
+ingredients of this medium are shown below. The final formula contained soy
+peptone as the major supplement; however, yeast extract was found to boost
+cell proliferation even more than soy peptone. The authors cite "quality
+assurance and purification considerations" as the reason for why soy peptone
+is preferred over yeast extract. Some other chemically defined supplements
+were important to enable proliferation with this medium, including: ions like
+zinc, copper, sulfate and phosphate; vitamins like pyridoxine (B6) and
+cyanocobalamin (B12); small molecules like ethanolamine and putrescine; and
+proteins like insulin. These supplements are commonly used even in modern
+chemically-defined ACF for CHO cells [9].
+
+The WCM5 formulation of Keen and Rapson (1995) would be a good starting point
+for a serum-free suspension medium. There are a number of potential additional
+supplements that could be tested, such as those commonly found in human
+mesenchymal stem cell (HuMSC) media below [10].
+
+  
+
+Rational for the concentration of hydrolysates:
+
+Of the several available animal free peptones we currently have in-house the
+BBL Phytone Peptone and Difco Select Phytone UF appear to be the most
+promising due to their status as serum replacements, use in mammalian culture
+systems such as CHO cells and their low endotoxin content. Both of these soy
+peptones can be added as media supplements in varying concentration's with 2.5
+- 7 g/L recommended as the optimal concentration by BD (supplier) [11].
+Therefore we aim to assess whether the addition of these hydrolysates (at 5
+g/L) can promote fibroblast proliferation is suspension and can offer a
+suitable replacement to animal serum.
+
+References:
+
+1\. Xu, W.S., Parmigiani, R.B. and Marks, P.A., 2007. Histone deacetylase
+inhibitors: molecular mechanisms of action. Oncogene, 26(37), pp.5541-5552.
+
+2\. Kelly, R.D.W., Chandru, A., Watson, P.J., Song, Y., Blades, M., Robertson,
+N.S., Jamieson, A.G., Schwabe, J.W.R. and Cowley, S.M., 2018. Histone
+deacetylase (HDAC) 1 and 2 complexes regulate both histone acetylation and
+crotonylation in vivo. Scientific Reports, 8(1), pp.1-10.
+
+3\. Harms, K.L. and Chen, X., 2007. Histone deacetylase 2 modulates p53
+transcriptional activities through regulation of p53-DNA binding activity.
+Cancer research, 67(7), pp.3145-3152.
+
+4\. Wagner, T., Brand, P., Heinzel, T. and Kramer, O.H., 2014. Histone
+deacetylase 2 controls p53 and is a critical factor in tumorigenesis.
+Biochimica et Biophysica Acta (BBA)-Reviews on Cancer, 1846(2), pp.524-538.
+
+5. Mrakovcic, M., Kleinheinz, J. and Frohlich, L.F., 2019. p53 at the crossroads between different types of HDAC inhibitor-mediated cancer cell death. International journal of molecular sciences, 20(10), p.2415.
+
+6.  Kim, H.J. and Bae, S.C., 2011. Histone deacetylase inhibitors: molecular mechanisms of action and clinical trials as anti-cancer drugs. American journal of translational research, 3(2), p.166. 
+
+7\. Lobo-Alfonso, J., Price, P., and Jayme, D. (pp. 55 - 78, 2010). Use of
+protein hydrolysates in industrial starter culture fermentations. In Ummadi,
+M., Curic-Bawden, M. (Eds). Protein Hydrolysates in Biotechnology.
+https://doi.org/10.1007/978-1-4020-6674-0_6
+
+8\. Keen and Rapson (1995). Development of a serum-free culture medium for the
+large scale production of recombinant protein from a Chinese hamster ovary
+cell line. 153-163.
+
+9\. Zhang, H., Wang, H., Liu, M., Zhang, T., Zhang, J., Wang, X., & Xiang, W.
+(2013). Rational development of a serum-free medium and fed-batch process for
+a GS-CHO cell line expressing recombinant antibody. Cytotechnology, 65(3),
+363-378\. https://doi.org/10.1007/s10616-012-9488-4
+
+10\. Jung, S., Panchalingam, K. M., Rosenberg, L., & Behie, L. A. (2012). Ex
+vivo expansion of human mesenchymal stem cells in defined serum-free media.
+Stem Cells International, 2012. https://doi.org/10.1155/2012/123030
+
+11. https://legacy.bd.com/ds/technicalCenter/misc/lcn01558-bionutrients-manual.pdf
+
+

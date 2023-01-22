@@ -1,0 +1,143 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+7213-C2C12-Mouse P3-1of1  
+96WP8
+
+
+  
+  
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+2\. Prepared Secondary Antibody mixes (pipette from the top/supernatant of
+antibody solution):
+
+Mix 1
+
+ 1 µL   Secondary #1   (1:1000) +  1 µL   Secondary #2   (1:1000 ) +  998 uL
+Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+Mix 2
+
+  2 µL   Secondary #1   (1:500) +  2 µL   Secondary #2   (1:500) +  996  mL
+Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+3\. Prepared DAPI mix:
+
+ 1 mL  PBS +  1 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Process:
+
+1\. Aspirated primary antibody mix
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 13:13 - 13:18
+
+ 13:19 - 13:24  
+
+ 13:25 - 13:32  
+
+4\. Added secondary antibody mixture. Add 1:500 dilution mix to half the
+scaffolds, and 1:1000 to the other half. Incubate in the dark at RT for 1
+hour. Placed in black box to protect from light.  13:33 - 14:32
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  14:32
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 14:33 - 14:38
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 14:39 - 14:45
+
+ 14:46 - 14:51
+
+4\.  Replaced dPBS.
+
+ 14:51
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Successful antibody staining for MyoG and MF20 in C2C12 cells.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Bufferm5285  
+  
+dPBSm5385  
+  
+Secondary Antibody AF555s1966  
+  
+DAPI (1:1000)m2193  
+  
+Secondary Antibody AF488  
+s1606  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Link to Axio images: https://mia-
+capture.vow.tools/#/session/rec7RG9u6zdu8hzXi/images
+
+

@@ -1,0 +1,109 @@
+Performed by: LL
+Ranger info
+Flask ID(s)Condition(s)  
+Location  
+11953-Nuvonis Quail Suspension341-P-1of6  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+Main lab, incubator 141  
+11954-Nuvonis Quail Suspension341-P-2of6  
+  
+11955-Nuvonis Quail Suspension341-P-3of6  
+  
+12054-Nuvonis Quail Suspension341-P-1of3  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF (from 75/25)  
+  
+12055-Nuvonis Quail Suspension341-P-2of3  
+  
+12056-Nuvonis Quail Suspension341-P-3of3  
+  
+11956-Nuvonis Quail Suspension341-P-4of6  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF (from 50/50)  
+11957-Nuvonis Quail Suspension341-P-5of6  
+  
+11958-Nuvonis Quail Suspension341-P-6of6  
+
+
+Reagent  
+ID  
+  
+RPMI Nuvonis suspension medium  
+M12499  
+  
+HyCell Nuvonis suspension medium  
+M12394  
+  
+IGF-1-LR3  
+M12475  
+  
+EGF  
+M12321  
+  
+  
+  
+
+
+Process
+
+
+  1. Aliquoted the following media (with growth factors): 
+    1. 60 mL x 50/50 
+    2. 120 mL x 90/10
+  2. Placed media in waterbath to warm 
+  3. Took 1 x 510 uL samples from each flask 
+  4. Removed 1 mL extra from 11953 for ViCell optimisation
+  5. Performed cell counts using ViCell and recorded in table below, along with observations on cell morphology, clumping etc. 
+  6. Transferred 4M cells from each culture into 9 x 50 mL tubes (transferred entirety of 11958, 12054, 12055 & 12056)
+  7. Centrifuged at 500 x g for 5 min
+  8. While centrifuge was running, washed E-flasks with sterile dPBS
+  9. Aspirated supernatants
+  10. Added 20 mL of respective media to each tube 
+  11. Re-suspended cells in media 
+  12. Strained cell suspension with 40 um cell strainer and returned to E-flasks
+  13. Placed in incubator (37'C, 5%CO2, 120 RPM) 
+
+
+Counts & observations
+Flask IDFlask count (ViCell)  
+Ave condition countCommentsMedia condition  
+  
+1195319,760,000  
+19,066,666  
+Very healthy, no clumping  
+  
+50/50 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+  
+1195418,240,000  
+  
+1195519,200,000  
+  
+1195611,740,000  
+11,800,000  
+Some visible clumps in flasks  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF (from 75/25)  
+  
+1195711,800,000  
+  
+119582,560,000  
+Outlier - medium looked much more red than other flasks, indicating less cell
+metabolic activity. Not included in average.  
+  
+12054  
+1,946,000  
+2,181,333  
+No clumping in flasks but medium still very red/much more red than other
+conditions, indicating low cell metabolism activity.  
+90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF (from 50/50)  
+12055  
+2,780,000  
+  
+12056  
+1,818,000  
+
+
+ViCell docs

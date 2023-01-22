@@ -1,0 +1,167 @@
+
+
+## Performed by:
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6988-DOLLY12-Sheep P12-1of6  
+6989-DOLLY12-Sheep P12-2of6  
+6990-DOLLY12-Sheep P12-3of6  
+4  
+  
+6991-DOLLY12-Sheep P12-4of6  
+6992-DOLLY12-Sheep P12-5of6  
+6993-DOLLY12-Sheep P12-6of6  
+4  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 11:45 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x20uL samples of each suspension were taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to separate wells on a 96 well plate and mixed each with 80uL of dPBS containing 1% w/v poloxomer 88 and 20uL/mL of Hoechst 33342. The plate was given a new culture ID '6996-DOLLY12-Sheep P12-1of1' 
+    1. Wells in Columns 1-3 were used, a separate row was used for each original culture vessel.
+    2. Row A: 6993
+    3. Row B: 6992
+    4. Row C: 6991
+    5. Row D: 6990
+    6. Row E: 6989
+    7. Row F: 6988.
+  4. Returned cultures to the incubator  `| 11:55 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 20 minutes.  `| 12:01-12:22 am/pm |`
+  6. After incubation the wells were imaged on the Zaber in the main lab.
+  7. 1 image at the centre of each well was captured under Phase and UV light magnification, same frame for both channels. 
+    1. UVsettings: 60ms, 35 lamp intensity
+    2. Phase settings: 3ms, 2.4 lamp intensity
+  8. One more set of images were captured with the UV settings on 100ms exposure time. To boost the Hoechst signal on microcarriers.  
+  9. Once images were captured, the second set of images (the ones taken using 100ms of UV exposure time) were selected for analysis using the 'uCarrier cell count' tool from MIA capture. [20:50]
+  10. Each image file was labelled with the suffix 6996-HTcarriersDay4. Replicate imaging file was subsequently labelled with the suffix '(2)' Files can be found on the Zaber Z drive or in the Vow P cloud account.  
+  11. Discarded the plate after Imaging. [12:46] 
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+Total media required: 45 + 15mL
+
+Total p38i required: 30uL
+
+  
+
+
+
+
+Process Feeding:
+
+1\. Aliquoted 45mL and 15mL of growth media into 1x50mL and 1x15mL tubes
+respectively, placed at 37 degrees for 15 minutes    16:20 am
+
+2\. Stopped the shakers in the top and bottom sanyo incubaotrs using
+pause/stop button located on the pads stuck to the left side of the incubators
+(the button to pause and start the shaker looks like a triangle and a square
+separated by a backlash.
+
+3\. Placed all vessels in the BSC and waited 2 minutes for the microcarriers
+to settle to base of each vessel.
+
+4\. Removed  50  % of supernatant from each vessel (15mL from E125s, 5mL from
+50mL shake tubes).
+
+3\. Replaced with fresh growth media (same volume as removed above for each
+vessel).
+
+4\. Returned vessel to incubate shaking at: 11:24am
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+\- Top sanyo incubator for E125 flasks shaking at 120 rpm, ensured the shaker
+was turned on.
+
+- Bottom sanyo incubator for 50mL shake tubes shaking at 250 rpm, ensured the shaker was turned on. 
+
+
+
+
+50% Feed:  
+  
+
+
+
+
+### Observations/Summary:
+
+  * ### All samples had cells attached to microcarriers. 
+
+  * ### The samples taken from the spin tubes appeared to have my 'streaked out' Hoechst positive staining on most microcarriers. The Hoechst signals on the microcarriers from the E flasks were very uniform and circular. Hoechst signals from microcarriers in the spin tubes were less uniform and ranged from circular to more streaked out and stretched signals.   
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS + poloxamer mix  
+4945  
+  
+  
+Poloxomer 88  
+  
+  
+Hoechst 333422454  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2  
+  
+V3  
+  
+  
+  
+
+

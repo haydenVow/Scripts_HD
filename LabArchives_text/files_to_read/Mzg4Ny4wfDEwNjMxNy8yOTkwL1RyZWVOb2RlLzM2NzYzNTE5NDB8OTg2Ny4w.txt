@@ -1,0 +1,155 @@
+
+
+## Performed by: Jared Bergman  
+
+
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+Differentiation Media:
+
+  * E6  
+  
+Total media required: 48 mL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+12 well plate  
+7450-DOLLY12-Sheep P10-1of2  
+7451-DOLLY12-Sheep P10-2of2  
+  
+  
+  
+
+
+
+
+Feed Process:
+
+1\. Aliquoted  1x 48 mL  mL of  E6 Dif Media into  1x 50mL  tube(s). Labelled
+aliquots with the feed date and 'EPIC21489'.  
+Placed aliquots in media fridge 74 in main lab 15:00 03/08  
+
+2\. Aliquots placed in water bath   16:00 - 16:20  
+
+2\. Removed  100 % of supernatant from vessel.
+
+3\. Replaced with  2mL (per well/per vessel) of  dif  media.
+
+4\. Returned vessel to incubate at:   16:40  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [x]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+  
+
+
+
+
+## Begin EStim Process:
+
+Test run   18:10  
+
+Stimulated with parameters:
+
+S0,0,0,500000,10000000; 3000,1000,6000; -3000,-1000,6000
+
+Executed with command T0.
+
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+  period:    500000 usec (0.500 sec, 2.000 Hz)  
+  duration:  10000000 usec (10.000 sec)  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     3000mV     1000mV  
+    1     6000 usec    -3000mV    -1000mV  
+\----------------------------------
+
+Started T train with parameters of PulseTrain 0  
+Train complete. Delivered 20 pulses.  
+Current/Voltage by stage:  
+           Ch0                Ch1    
+Stage 0  1423mV,             823mV,  
+Stage 1 -1080mV,            -736mV,
+
+  
+
+Oscilloscope output:
+
+  
+
+Start run:  18:30  
+
+Altered code to eliminate duration limit (so no feedback) and ran the above
+stimulation parameters continuously. Executed with command T0.
+
+S0,0,0,500000,10000000; 3000,1000,6000; -3000,-1000,6000
+
+\----------------------------------  
+Parameters for PulseTrain[0]  
+  mode[ch0]: 0 (Voltage output)  
+  mode[ch1]: 0 (Voltage output)  
+  period:    500000 usec (0.500 sec, 2.000 Hz)  
+ ~~  duration:  10000000 usec (10.000 sec)~~  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     3000mV     1000mV  
+    1     6000 usec    -3000mV    -1000mV  
+\----------------------------------  
+  
+Started T train with parameters of PulseTrain 0
+
+  
+
+  
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. All vessels.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+E6 Dif MediaM6318  
+48 mL  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

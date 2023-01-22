@@ -1,0 +1,228 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+2300-Culture-6303-Vial-21of115
+
+2301-Culture-6303-Vial-22of115
+
+2302-Culture-6303-Vial-23of115
+
+3086-Culture-7346-Vial-2of38
+
+7923-F_DOLLY12-Sheep P8-1of2  
+7928-F_DOLLY12-Sheep P8-2of2  
+7929-F_DOLLY12-Sheep P8-1of2  
+7930-F_DOLLY12-Sheep P8-2of2  
+7931-F_DOLLY12-Sheep P8-1of2  
+7932-F_DOLLY12-Sheep P8-2of2  
+7933-F_DOLLY12-Sheep P8-1of2  
+7934-F_DOLLY12-Sheep P8-2of2
+
+50 mL bioreactor spin tubes
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12
+
+[x] RPMI
+
+[x] DMEM/F12 Boost
+
+[x] RPMI Boost
+
+For composition of each media refer to the media preparation lab book entry
+
+
+
+
+Culture Map:
+
+DMEM F12
+
+  1. 7923-F_DOLLY12-Sheep P8-1of2
+  2. 7928-F_DOLLY12-Sheep P8-2of2
+
+DMEM/F12 Boost
+
+  1. 7929-F_DOLLY12-Sheep P8-1of2
+  2. 7930-F_DOLLY12-Sheep P8-2of2
+
+RPMI
+
+  1. 7931-F_DOLLY12-Sheep P8-1of2
+  2. 7932-F_DOLLY12-Sheep P8-2of2
+
+RPMI Boost
+
+  1. 7933-F_DOLLY12-Sheep P8-1of2
+  2. 7934-F_DOLLY12-Sheep P8-2of2
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 mixm6710  
+  
+RPMI mixm6712  
+  
+DMEM/F12 Boost mixm6711  
+  
+RPMI Boost mixm6723  
+  
+  
+###  
+
+
+
+
+1\. Prepare growth media for each condition.  
+
+2\. Transferred the required volume of each reagent in the table above to each
+vessel and then placed vessels in incubator for a minimum of 20 minutes prior
+to use:
+
+  * Growth media (for seeding) 50 mL bioreactor spin tubes:   8 mL  (2x replicates for each condition in map - 8 in total) 
+  * Growth media 2% FBS:    8 mL   for cell resuspension  
+
+  * Growth media 2% FBS:    10 mL    for neutralising   
+
+  * Time that aliquot was placed in the incubator to warm before use:   14:33      
+
+  
+
+
+
+
+## Thaw and seed vials:
+
+Amount of cells required =  8,000,000 cells (to seed cells at 200,000
+cells/mL):
+
+\- 8x 50 mL bioreactor spin tubes (5 mL media in each tube) at 1,000,000 cells
+per tube =  8,000,000 cells
+
+  
+
+1\. Collected the cryovials from LN storage & place in foam floater in water
+bath for 5 min      14:53  \- 14:57  
+
+Vial details:  4   x  DOLLY12 Fibroblast  cryovials at  1M/5M  cells each for
+a total of   8M  cells
+
+IDPassageStorage LocationTowerBoxBox PositionAmount of cells  
+2300-Culture-6303-Vial-21of115  
+8  
+106-Ralph St-Main Lab-Brew  
+1  
+2  
+C3  
+1  
+2301-Culture-6303-Vial-22of115  
+8  
+106-Ralph St-Main Lab-Brew  
+1  
+2  
+C4  
+1  
+2302-Culture-6303-Vial-23of115  
+8  
+106-Ralph St-Main Lab-Brew  
+1  
+2  
+C5  
+1  
+3086-Culture-7346-Vial-2of38  
+8  
+106-Ralph St-Main Lab-Brew  
+4  
+5  
+C2  
+5  
+  
+`2. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+3\. Added     500 uL   of growth media (media prepared for neutralising) to
+generate a total volume of 1 mL in each of the cryovials, resuspending the
+cell suspension gently to reduce osmotic shock.
+
+4\. Transfer entire cell suspensions into the remainder of the aliquot of
+neutralising medium
+
+5\. Centrifuge the cells at 300 x g for 5 min at RT:     15:00   \-   15:05  
+
+6\. Removed supernatant to remove residual DMSO from cells. Note be extra
+careful not to aspirate any cells  
+
+7\. Resuspended the pellet in the    8  mL  of growth media prepared for
+seeding the cells.
+
+8\. Transfer   1000 uL of the cell suspension into each of the pre warmed
+growth media conditions (to seed cells at 200,000 cells/mL - 8 conditions
+total). Gently resuspended and distribute the cells evenly in 4 mL of pre-
+warmed growth media using a p1000.
+
+9\. Transferred flask/plates(s) to incubate at: ` 15:13  
+`
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Incubator (#116) [Main/Library/Production]
+
+10\. 50 mL bioreactor spin tubes were shaken at 206 RPM to achieve  P/V ~60
+W/m3 as per the power/kLa calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit?pli=1#gid=1121358223&range=17:17
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed 8 million cells into 4 different suspension media conditions with 2
+reps of each medium
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

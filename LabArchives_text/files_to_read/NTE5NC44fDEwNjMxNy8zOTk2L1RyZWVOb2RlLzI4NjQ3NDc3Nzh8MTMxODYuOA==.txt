@@ -1,0 +1,41 @@
+
+
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To test how many times Hoechst can be used in the cloning pipeline to quantify
+cells. i.e. To test whether Hoechst staining cells multiple times affects
+viability
+
+
+Hypothesis
+
+
+Hoechst staining cells 3 times and then passaging them will not affect cell
+viability/cell numbers compared to unstained control.
+
+
+Technical Gap
+
+
+We have not tried staining cells and passaging them for 3 consecutive
+passages.
+
+
+Method/Procedure
+
+
+Conditions:
+
+  1. Stained 3 times total: 12 wells stained before all 3 passages. 
+  2. Stained 2 times total: 12 wells stained before first 2 passages, unstained for 3rd passage.
+    1. 6 wells get 'sacrificed' after 3rd passage for staining to quantify cells
+  3. Stained 1 time: 20 wells stained before first passage. Unstained for last 2 passages.
+    1. 6 wells get 'sacrificed' after 2nd passage, and 6 more after 3rd passage
+  4. Unstained: 33 wells unstained for all 3 passages.
+    1. 6 wells get 'sacrificed' after each passage for staining to quantify cells
+
+

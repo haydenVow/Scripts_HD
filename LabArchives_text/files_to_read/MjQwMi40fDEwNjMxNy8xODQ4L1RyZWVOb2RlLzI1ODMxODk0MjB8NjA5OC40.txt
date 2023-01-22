@@ -1,0 +1,245 @@
+
+
+## Performed by:
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Prepared to harvest the cells
+
+  1. Placed frozen 500 mL bottle of Trypsin S1881 in water bath 13:15
+  2. Placed 3 L of dPBS in water bath 14:20
+  3. Placed ~0.5 L of growth medium A5368 in water bath 14:20
+  4.  ~~Placed 50 mL aliquot of growth medium in water bath~~
+  5. Once the Trypsin was thawed, transferred all liquids to BSC and added Poloxamer 407 M3780 to a final concentration of 2 g/L 14:15
+  6. Returned Trypsin to the water bath 14:20
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp14:25  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Turned off the gas supply
+
+  1. Turned off the aeration and any other gases.
+  2. Turned all of the gas supply regulators to 0 pressure.
+  3. Clamped the sparger inlet line
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp14:25  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Harvested the cells
+
+  1. Once the Trypsin reached 37 deg C (usually after 30 mins) stopped control: 14:30
+    1. Temperature control MODE to OFF
+    2. pH control MODE to OFF
+    3. Dissolved oxygen control MODE to OFF
+    4. Level control MODE to OFF
+    5. Exhaust heater MODE to OFF
+    6. SUBS-B pump MODE to OFF
+    7. BASET pump MODE to OFF
+    8. LEVELT pump MODE to OFF
+    9. Air MODE to OFF
+    10. O2 MODE to OFF
+    11. N2 MODE to OFF
+  2. Manual stirring at 90 RPM maintained.
+  3. Pumped out culture medium to the waste bottle 14:30 - 14:50
+  4. Pumped in 1200 mL of dPBS 14:52 - 15:05
+  5. Pumped out the dPBS to the waste bottle 15:08 - 15:27
+  6. Pumped in 800 mL of dPBS 15:28 - 15:35
+  7. Pumped out the dPBS to the waste bottle 15:36 - 15:48
+  8. Pumped in 500 mL of Trypsin 15:49 - 15:55
+  9. Increased the stirring to 270 RPM 15:56
+  10. After 6 minutes, took samples for imaging 16:01
+  11. After 7 minutes, reduced the stirring to 90 RPM 16:02
+  12. Took phase contrast micrographs of culture - cells were not fully detached
+  13. After 15 minutes, added 500 mL of growth medium 16:12 - 16:17
+  14. Took samples for imaging 16:14
+  15. Took phase contrast micrographs of culture - cells were mostly free-floating
+  16. Pumped out the cell suspension to the harvest bottle 16:17 - 16:36
+  17. Added 1 L of dPBS 16:37 - 16:47
+  18. Pumped out the cell suspension to the harvest bottle 16:48 - 17:XX
+  19. Took samples for imaging when there was approx 600 mL remaining in biostat 16:58
+  20. Stopped data logging 17:30  
+  
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesShould prepare all reagents in either 1000 mL or 500 mL bottles to match
+the dip tube lengths of the lids on the long lines that reach between the BSC
+and the 4-way addition port.  
+  
+Should add PTFE tubing to underside of 4-way port to direct liquid down the
+side of the bioreactor for the extra-long tubes to prevent foaming during
+liquid addition.  
+  
+Should shorten non-filtered harvest pipe to prevent buildup of microcarrier
+under sparger.  
+  
+Should add poloxamer to culture medium to minimize microcarriers sticking and
+to enable higher stir speeds.  
+  
+  
+  
+  
+
+
+
+
+Recovered cell pellet and performed cell count
+
+  1. Transferred 2 L of cell suspension to centrifuge tubes
+  2. Centrifuged at 650 RCF for 5 minutes
+  3. Aspirated the supernatants 17:35
+  4. Resuspended the cells in 1 mL of fresh growth medium
+  5. Combined the suspensions into 1 tube
+  6. Washed down each tube in series with ~20 mL of fresh growth medium
+  7. Gently combined and resuspended the cells with the wash
+  8. Took a 10 uL aliquot
+  9. Added 10 uL of Trypan blue solution to the aliquot
+  10. Pipet mixed the cell suspension and Trypan blue, then performed live cell count by the Trypan blue exclusion method using phase contrast microscopy and an improved Neubauer hemocytometer.
+    1. Average of 0.85 cells per mm2
+    2. 0.85 x 10,000 x 4x dilution = 34,000 cells/mL
+    3. 34,000 x 35 = 1,190,000 cells
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp18:10  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Decontaminated bioreactor
+
+  1. Added 100 mL of 70% ethanol to the feed, seed, microcarrier and harvest bottles
+  2. Pumped the 70% ethanol through the tubing and into the bioreactor
+  3. Pumped the remaining base from the base bottle into the bioreactor
+  4.  ~~Cut off the tip of the sampling tube and discarded.~~
+  5.  ~~Pumped 50 mL of 70% ethanol back through the sample tube.~~
+  6. Disconnected and removed the pH probe:
+    1. Wiped with 70% ethanol
+    2. Rinsed with water
+    3. Wiped with a lint-free cloth
+    4. Filled the storage cap with3.5 M KCl
+    5. Replaced the storage cap and stored the probe upright
+  7. Disconnected and removed the DO probe:
+    1. Wiped with 70% ethanol
+    2. Rinsed with water
+    3. Wiped with a lint-free cloth
+    4. Filled the storage cap with tap water
+    5. Replaced the storage cap and stored the probe upright
+  8.  ~~Disconnected and removed the level probe:~~
+    1.  ~~Wiped with 70% ethanol~~
+    2.  ~~Rinsed with water~~
+    3.  ~~Wiped with a lint-free cloth~~
+    4.  ~~Stored the probe in a thickly-padded foam box~~
+  9. Pumped the contents of the bioreactor into the waste bottle.
+  10. Clamped all of the dip-tube lines
+  11.  ~~Added bleach to the waste bottle to a final concentration of 5 g/L sodium hypochlorite (0.5% w/v)~~
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp18:00  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Cleaned the bioreactor vessel
+
+  1. Added pH neutral, non-corrosive, bacteriostatic cleaning agent to the bioreactor, filling all the way to the headplate.
+    1. Add 20 mL of Sonidet detergent to 4 L of tap water
+    2. Open the headplate
+    3. Pour the water-detergent mix into the bioreactor
+    4. Replace the headplate
+    5. The level should reach the bottom of the headplate
+  2. Left the stirrer on at 270 RPM overnight.
+
+Reference  
+  
+Operator initialsSS  
+  
+Checked by operator initialsTT  
+  
+Timestamp18:10  
+  
+Notes  
+  
+  
+  
+  
+
+

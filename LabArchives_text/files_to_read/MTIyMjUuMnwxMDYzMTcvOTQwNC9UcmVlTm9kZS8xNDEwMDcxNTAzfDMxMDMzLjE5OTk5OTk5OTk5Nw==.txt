@@ -1,0 +1,95 @@
+Performed By:
+
+
+# Summary of Culture Conditions
+
+Vessel type(s)Cell Density and Volume  Vessel Ranger IDExpt. ConditionCulture
+ConditionGrowth media  
+2 x E125 Cell Density:  cells / mL  
+Total Volume in each flask: 50mL  
+  
+
+13473
+
+Control
+
+ 37C 5% CO2  
+52 Ralph St I Main Lab50:50 - Hycell/RPMI:Nuvonis  
+  
+13474
+
+             Lipid Concentrate
+
+  
+  
+  
+  
+
+
+Reagents
+
+
+  
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+Cell Suspension  
+10mLCUL 13426  
+50:50 - Hycell/RPMI + Nuvonis  
+  
+89 mLMIX 13532  
+rEGF (mesokine)  
+0.089MIX 13499  
+IGF-1-LR3 (r_bovine)  
+0.018MIX 13279  
+  
+Chemically Defined Lipid Concentrate (Gibco)
+
+1
+
+STK 7455
+
+  
+
+
+Methods and Experiment Layout
+  
+  
+Experimental layout
+
+  1. Prepare 89mL of Hycell:RPMI + Nuvonis with Growth Factors (EGF & IGF). Place in water bath.
+  2. Obtain 11mL (only 10mL needed) of cell suspension from Flask ID 13426.
+  3. In Flask ID 13473: Add 45mL of media into an E125 Flask (ID 13473). Aliquot 5mL of cell suspension and transfer into flask.
+  4. In Flask ID 13474: Add 44mL of media & 1mL of lipid concentrate into an E125 Flask (ID 13473). Aliquot 5mL of cell suspension and transfer into flask.
+  5. Obtain a cell count.
+
+  
+
+End of Day - Cell count
+
+Date05/09/22JD  
+Flask ID
+
+13473
+
+13474  
+  
+Flask Volume5050  
+Cell Density (cells/mL)0.315 x 10^6 0.363 x 10^6  
+Cell Viability96.8%98.6%  
+Cell Count in Flask15,750,000  
+18,150,000  
+  
+NotesDoes not contain PS, CONTROLDoes not contain PS, HAS LIPIDS  
+Total Cell Count33,900,000  
+  
+  
+  
+
+
+Results / Observations
+
+
+

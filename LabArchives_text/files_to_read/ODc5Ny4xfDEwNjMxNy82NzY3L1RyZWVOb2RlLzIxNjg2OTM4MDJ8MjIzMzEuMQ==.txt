@@ -1,0 +1,186 @@
+
+
+## Performed by: Chris  
+
+
+
+
+Prepare the B12 initial stock and working stock solutions:
+
+  1. Prepare a working stock of B12 in GM, sterile-filter (or whatever can be weighed in and serially diluted)
+    1. A two-stage dilution process is required due to the extremely small quantities of B12 needed.
+
+Stage 1: Initial stock
+
+51 mg weighed out and solubilised in 51 mL MilliQ water (1mg/mL stock
+concentration). This is a 1,000,000 ng/mL stock. Sterile filter and label as
+Mix ID
+
+Stage 2: Working stock
+
+Dilute the 1,000,000 ng/mL initial stock in plain DMEM/F12 to make the working
+stock. Dilute 50 uL of initial stock in 49.95 mL DMEM/F12 (1 in 10,000
+dilution) to make a working stock of 100 ng/mL
+
+
+
+
+ Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Media Condition  
+Seeded Flask Type  
+3680-Culture-8697-Vial-46of120  
+  
+Location = Brew, Tower 2, Box 6, Position F1  
+
+10694-F_CHOMP_07-Crocodile P7-1of5  
+  
+
+  
+Control  
+T175  
+  
+  
+10695-F_CHOMP_07-Crocodile P7-2of5
+
+  
+B12 Concentration 1  
+  
+  
+10696-F_CHOMP_07-Crocodile P7-3of5
+
+  
+B12 Concentration 2  
+  
+  
+10698-F_CHOMP_07-Crocodile P7-5of5
+
+  
+B12 Concentration 3  
+  
+  
+10697-F_CHOMP_07-Crocodile P7-4of5
+
+  
+B12 Added Later  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Vitamin B12 stock solution (1mg/mL)  
+M10484  
+  
+Vitamin B12 working solution (100 ng/mL in DMEM/F12)  
+M10485  
+  
+Growth Media C1 (D/F+ 20% FBS + 1xP/S + 0.05 ng/mL)  
+M10486  
+  
+  
+Growth Media C2 (D/F+ 20% FBS + 1xP/S + 0.2 5 ng/mL)  
+M10487  
+  
+  
+Growth Media C3 (D/F+ 20% FBS + 1xP/S + 0.9 ng/mL)  
+M10488  
+  
+Control Media (D/F+ 20% FBS + 1xP/S)  
+M10207  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  * Growth media aliquot for dilution of the WCB vial:   9  mL 
+  * Aliquot 30mL of each of the media types made in the section below this one and warm them in a water bath at 30C for 20 minutes prior to use in the next step. 
+  * Label each aliquot with the group # from above to tell them apart easily. 
+  * Prepare 2x aliquots of B12-free GM for flasks 4 and 5
+  * Time that aliquot was placed in the water bath to warm before use:   : a/pm 
+
+  
+
+Prepare Growth media by addition of B12 working stock for each T-flask to be
+seeded:
+
+Conc # 1 = 1.3125 ng B12 per T175 flask (0.05 ng/mL) 75mL = 2000x dilution of
+working stock (75/2000) = 0.0375mL into 74.9625mL complete GM
+
+Conc # 2 = 6.5625 ng B12 per T175 flask (0.25 ng/mL) 75mL = 400x dilution of
+working stock (75/400) = 0.1875mL into 74.8125mL complete GM
+
+Conc # 3 = 26.25 ng B12 per T175 flask (0.9 ng/mL) 75mL = 111.11x dilution of
+working stock (75/111.11) = 0.675mL into 74.325mL complete GM
+
+Conc # 4 = 0 ng B12 per T175 flask (0 ng/mL in this media stock) - make 100 mL
+total of complete media for the control group and for use in resuspending the
+freshly thawed vial of cells.
+
+  
+
+
+
+
+## Thaw vial, count cells and seed Tflasks:
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 2 min or until only just thawed  11:10 -11 :12 a/pm   
+Location where cryovial was collected from: Vial details:1  cryovials at   10M
+cells/vial  
+Brew  
+Tower/Bucket # 2  
+Box/Cane # 6  
+Vial location: F1  
+Vial ID(s): 3680-Culture-8697-Vial-46of120  
+  2. `Ethanol sprayed & transferred the vial(s) to the BSC.`
+  3. `Aspirated the entire contents of the vial and transferred it into 9 mL of complete GM to make a final volume of 10 mL. Washed out the vial using the growth media to ensure extraction of as many cells as possible into the GM aliquot. `` ```
+  4. `Using a 10mL serological pipette, resuspended & distributed the cells evenly in the  9 mL of pre-warmed Growth Media. `
+  5. Perform a cell count and record live and dead cell #'s.
+    1. Calculate live cells/mL
+  6. Seed the flasks for each group with 1,312,500 live cells per T-flask (this is equivalent to 7500 live cells/cm2). Place the seeded flasks directly into the 30C incubator (do not leave them in the BSC for 30 minutes).``
+  7. `Transfered flask/plate(s) to incubate at 11:35`  
+[X ] 30ºC, 5% CO2 Incubator 116
+
+  8. Incubate the cells at 30C for 3-4 days and then perform a 100% media change using the remaining volume of media of each type that was prepared above.
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+
+
+
+Perform thaw using below volumes:
+
+  
+
+

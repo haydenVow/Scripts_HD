@@ -1,0 +1,224 @@
+
+
+# Aim:
+
+To assess cell adhesion of DOLLY12 MuSCs on electrospun zein and zein/gluten
+scaffolds
+
+# Hypothesis:
+
+DOLLY12 MuSC cells will adhere well (D1 proliferation) and maintain adherence
+to electrospun zein and zein/gluten scaffolds at seeding densities of 0.7, 1
+and 2M cells/sample (96-well size pieces) after 7 days in ACF E6
+differentiation media.
+
+# Technical Gap:
+
+In previous experiments we have seen good cellular adhesion (DOLLY12 MuSCs) to
+our in-house zein scaffolds immediately following cell seeding in serum
+containing media and ACF media (see here). However, we have not yet tested
+electrospun zein scaffolds, or electrospun zein/gluten scaffolds.
+
+  
+
+
+
+
+Overview:
+
+Electrospun zein and zein/gluten scaffolds from matrix meats in either a pre-
+wetted or dry state will be seeded with 0.5, 1 or 2M DOLLY12 MuSC
+cells/scaffold. The cell seeding efficiency and scaffold confluency will then
+be assessed on both day 1 of proliferation and d7 of differentiation using
+hoechst (live cells) and DAPI (on fixed cells) respectively.  
+
+NOTE - The Electrospun scaffolds from matrixmeats come in a 96-well plate
+format, pre-sterilised with UV so no preparation or pre-sterilisation
+treatment of the scaffolds is required.
+
+  
+
+12 runs/conditions
+
+n=4
+
+n=4 (x4) of 0.7M samples = 11.2M cells
+
+n=4 (x4) of 1M samples = 16M cells
+
+n=4 (x4) of 2M samples = 32M cells
+
+48 SAMPLES
+
+~60M cells total (ACF)
+
+Serum controls seeded with 1M cells each:
+
+  
+
+n=4 zein wet. = 4M
+
+n=4 zein dry = 4M
+
+n=4 zein/gluten wet = 4M
+
+n=4 zein/gluten wet = 4M
+
+16 SAMPLES
+
+= 16M cells for + controls (serum)
+
+  
+
+= 76M cells overall.
+
+  
+
+  
+
+# Method:
+
+27/04/21  Cell thaw
+
+27/04/21-09/05/2021 Continual cell culture
+
+Expand cells until target quantity is acquired: 65-70M cells (~5x 4CFs)
+
+See following spreadsheet for calculations on target cell number: link here  
+
+07/04/21  Plate scaffolds ready for seeding
+
+Move samples from original UV sterilised 96-well plate provided by matrixmeats
+to a new non-treated 96-well plate using sterilise tweezers in the BSC, as
+follows:
+
+Add 250ul of relevant media (ACF or D/F +20% FBS + 1X P/S) to each of the
+'wet' zein or zein/gluten scaffolds (on both plates), leave the dry samples
+without media.
+
+Plate 1 (cell-laden):
+
+Plate 2 (cell-free):
+
+  
+
+10/05/21 Harvest and scaffold seeding (DO Proliferation)
+
+1-2 hours prior to seeding remove the media supernatent from all 'wet' samples
+on both plates and leave plates with lid ajar until seeding.
+
+Seed scaffolds based on the images as follows:
+
+Seeding samples with 3 different seeding densities 0.7M, 1M, 2M cells per
+samples in 2 different media types either ACF 10C or D/F +20% FBS + 1X P/S.  
+  
+Seed all samples with 50ul of cell/media suspension, and 'seed' all cell-free
+samples on plate 2 with 50ul of relevant media only.
+
+  
+
+Plate 1:
+
+  
+
+  
+
+Plate 2 (cell-free):
+
+  
+
+11/05/2021 D1 Prolif move samples to new 96w plates, 100% feed with respective
+growth media (ACF or serum)  
+
+DAY 1 Stain and Imaging with Hoechst:  
+
+Using sterile tweezers in the BSC move all cell-laden samples to new replicate
+96-well plates, containing 200ul of the respective pre-warmed media containing
+HOECHST.  
+
+For the cell-free plate just remove media and add pre-warmed Hoechst media to
+each well.
+
+Remove Hoechst media and add 50ul of pre-warmed respective media (ACF of
+serum) to each well for imaging.  
+
+Image all samples on the Zaber.
+
+Flip all samples in the BSC.
+
+Image again on the Zaber.
+
+NOTE- CELLS ARE BEING KEPT ON FOR CONTINUAL CULTURE SO KEEP SAMPLES STERILE
+AND TRY TO REDUCE TIME OUT OF THE INCUBATOR  
+
+Day 1 continual culture:  
+
+Remove 100% of the media from each well and replace with 250ul of respective
+pre-warmed media (ACF or serum) and return plates to the incubator (37'C,
+5%CO2)  
+  
+
+11/05/2021 D1 Prolif - Tryplisation of D1 sample wells for cell seed
+efficiency calculations
+
+Add 100ul of PBS to each well in the now empty cell-laden 96-well plate (wash
+step)
+
+Remove PBS from all wells and add 50ul of Tryple to each well, place plate in
+the incubator for 10-15min until cells lifted
+
+Zein scaffolds:
+
+Harvest and pool cells from n=4 wells which contained the cell-laden zein only
+scaffolds seeded with 0.7M cells on wet scaffolds and count cells
+
+Harvest and pool cells from n=4 wells which contained the cell-laden zein only
+scaffolds seeded with 1M cells on wet scaffolds and count cells on wet
+scaffolds
+
+Harvest and pool cells from n=8 wells which contained the cell-laden zein only
+scaffolds seeded with 2M cells on wet scaffolds and count cells
+
+REPEAT FOR DRY ZEIN SCAFFOLDS
+
+Zein/gluten scaffolds:
+
+Harvest and pool cells from n=4 wells which contained the cell-laden
+zein/gluten scaffolds seeded with 0.7M cells on wet scaffolds and count cells
+
+Harvest and pool cells from n=4 wells which contained the cell-laden
+zein/gluten scaffolds seeded with 1M cells on wet scaffolds and count cells
+
+Harvest and pool cells from n=4 wells which contained the cell-laden
+zein/gluten scaffolds seeded with 2M cells on wet scaffolds and count cells
+
+REPEAT FOR DRY ZEIN/GLUTEN SCAFFOLDS  
+  
+
+Calculation:
+
+Divide each cell count by 4 (to get number of cells/well)
+
+Subtract value from the amount seeded per well and multiply by 100 = % seeding
+efficiency for each condition  
+
+12/05/2021 - 18/05/2021 - Daily 100% E6 Feeds
+
+Remove 100% media supernatent from all wells and replace with pre-warmed E6 +
+1X P/S to all wells on both plates.  
+
+20/05/2021 D8 Diff - Fix, DAPI stain and Image D7 samples
+
+Check for residual Hoechst staining on samples (just look down Axio) if the
+cells are still fluorescing noticeably then leave samples with 100% daily E6
+feeds until fluorescence fades.
+
+Fix and DAPI stain all samples and assess for cellular adhesion (Can also
+stain for MyoG/MF20).  
+
+  
+
+
+
+
+

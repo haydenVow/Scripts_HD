@@ -1,0 +1,68 @@
+
+
+11/05/2021 D1 Prolif - Tryplisation of D1 sample wells for cell seed
+efficiency calculations
+
+  1. Aliquoted 1 mL of Tryple and 2 mL of dPBS into 2 x 15 mL tubes. Placed in waterbath   13:11   
+  2. Aspirated media from wells of each treatment from culture plate and pipetted into 16 x 15 mL tubes 
+  3. Added 100 uL of PBS to each well in the now empty cell-laden 96-well plate (wash step)
+  4. Removed PBS from all wells (pipetted into same tube containing media) and added 50ul of Tryple to each well. Placed plate in the incubator for 10 min until cells lifted. Time stamp:   15:06 - 15:16
+  5. Removed tryple from wells and added to tubes containing media and PBS. 
+  6. Took 1 x 10 uL sample from each 8 x cell suspensions and added 10ul of trypan blue to each sample. Loaded 10ul of each sample mix onto Haemocytometer and performed cell counts to estimate seeding efficiency.  
+  
+Details of cell counts can be seen here:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+  
+Summary of count data  
+ConditionCells harvested  
+1\.      Gelatin, wet, serum, 1M137400  
+2\.      Zein, wet, serum, 1M456000  
+3\.      Gelatin, wet, 0.7M582400  
+4\.      Zein, dry, 1M1125600  
+5\.      Gelatin, wet, 2M2312600  
+6\.      Zein, wet, 1M799200  
+7\.      Zein, dry, 0.7M1209600  
+8\.      Zein, dry, 2M22338200  
+9\.      Gelatin, dry, serum, 1M950400  
+10\.   Zein, dry, serum, 1M1388800  
+11\.   Zein, wet, 0.7M661200  
+12\.   Gelatin, wet, 1M1369600  
+13\.   Gelatin, dry, 0.7M1162000  
+14\.   Gelatin, dry, 1M1010600  
+15\.   Gelatin, dry, 2M2436000  
+16\.   Zein, wet, 2M1584800  
+  7.   
+  
+  
+  
+
+
+
+
+Ella Hodder - Calculated seeding efficiencies based on cell counts for each
+condition. See:
+
+Seeding density (million cells/scaffold)Scaffold typeWetness and media
+conditionSeeding efficiency (%)  
+0.7GelatinWet, ACF79.2  
+0.7ZeinWet, ACF76.4  
+0.7GelatinDry, ACF65.8  
+0.7ZeinDry, ACF56.8  
+1GelatinWet, ACF65.8  
+1ZeinWet, ACF80.0  
+1GelatinDry, ACF74.7  
+1ZeinDry, ACF71.9  
+2GelatinWet, ACF71.1  
+2ZeinWet, ACF80.2  
+2GelatinDry, ACF69.6  
+2ZeinDry, ACF72.1  
+1GelatinWet, Serum96.6  
+1ZeinWet, Serum88.6  
+1GelatinDry, Serum76.2  
+1ZeinDry, Serum65.3  
+  
+https://docs.google.com/spreadsheets/d/1jE1jlkDwAgwkvEso9O2rtjujVpkdY-
+pC8oARE6YCvWs/edit?usp=sharing
+
+

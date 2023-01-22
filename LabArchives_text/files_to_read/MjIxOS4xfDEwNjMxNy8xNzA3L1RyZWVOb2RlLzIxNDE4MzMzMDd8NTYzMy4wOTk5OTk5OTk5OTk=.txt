@@ -1,0 +1,182 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Nathan H  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+96wp  
+  
+6984-BUFFY6-Water Buffalo P1-4of4  
+6985-BUFFY6-Water Buffalo P1-3of4  
+6986-BUFFY6-Water Buffalo P1-2of4  
+  
+  
+  
+7038-BUFFY6-Water Buffalo P2-2of2  
+  
+96wp  
+  
+  
+6986-BUFFY6-Water Buffalo P1-2of4  
+6987-BUFFY6-Water Buffalo P1-1of4  
+  
+  
+7037-BUFFY6-Water Buffalo P2-1of2  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+
+
+
+### Process:
+
+1\. Images captured of single cell clone plates from 7/6/21 were processed by
+manual inspection.
+
+2\. wells with cell numbers that appeared >30% confluent were picked for
+expansion to 24 well plates. This left 44 wells in total to pick.
+
+3\. Clone picking maps were generated [1-2pm] in the following spreadsheet
+based on this selection criteria.
+https://docs.google.com/spreadsheets/d/1YB6I5aMkVNGZpw7XywnhXbE1x1eTlTawCxAFSpn9BTo/edit?usp=sharing
+
+  
+
+2\. Gelatin coated     2     x     24wp     with sterile 50uL filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      14:27 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     2.5    mL in    1x15mL     .
+  2. Growth media (for seeding):     25    mL in     1x50mL    tube. 
+
+Time that all aliquots were placed in the water bath the warm before use
+14:43   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Once 24 well plates had incubated for 1h with gelatin the gelatin was
+removed and replaced with 200uL of the prewarmed growth media. The plates were
+left inside the incubator, 37 degrees, 5% CO2. 15:52  
+  
+5\. Washed wells identified from the picklist generated below with 100uL of
+dPBS after removing and discarding growth media. Wells were marked on the
+outside of the lid for each 96wp well plate due for passage. Destination well
+locations on the 24 wp were written above each marking made on the 96wp lid.
+
+  
+
+  
+
+6\. Aspirated and discarded the dPBS and incubated the same wells in     0.05
+mL tryple at 37˚C.
+
+  1. Start/Finish for TrypLE (20 minutes) was. 
+  2. Plate 1: 15:31-15:51
+  3. Plate 2: 15:37-16:00
+  4. Plate 3+4: 15:40-16:00  
+  
+
+7\. Neutralised by transferring 100uL of growth media from each destination
+well on the 24wp to its respective well on the 96 well plate per the plate
+maps above.
+
+8\. Returned 24 well plates to incubate at 37 degrees, 5% CO2, incubator #78.  
+
+  * Plate 2: 16:30
+  * Plate 1: 16:15
+
+
+
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM4790  
+  
+TrypleM4949  
+  
+dPBS (for washing & neutralising)m5191  
+  
+Growth MediaM5237  
+  
+p38i (20mM stock)M3978  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  * Marking the bottom of the plate with a pen prevents the ability to inspect wells down the microscope to assess tryple detachment. However it makes it very easy to identify wells to handle when the lid is removed from the 96 well plate. This method might be useful for 384 well plate passaging to remove the need to bring the pen in close contact with the well during marking the inside edge of the well. 
+
+
+
+
+SOPs used:
+
+### \- N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See the P-cloud image files (or Z drive) for imaged plates from 7/6/20. File
+names for the imaged plates are as follows.
+
+ 2021-06-07-6984-Day7-SCC
+
+ 2021-06-07-6985-Day7-SCC
+
+ 2021-06-07-6986-Day7-SCC
+
+ 2021-06-07-6987-Day7-SCC
+
+

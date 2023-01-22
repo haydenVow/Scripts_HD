@@ -1,0 +1,169 @@
+
+
+
+
+
+## Performed by: Shaleen and Tim A  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionN/A  
+TrypleN/A  
+dPBS (for washing & neutralising)N/A  
+DMEM/F12DMEM: S3193 F12:S2957  
+  
+p38i (20mM stock)N/A  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+# Process:
+
+  
+Reconstituting factors  
+Stock ID  
+FactorBufferTarget reconstitution concentration (g/L)Weight (mg)Volume added
+(mL)  
+3500  
+Gly-gly  
+H2O  
+1  
+1.8  
+1.8  
+  
+2841Fructose-6-phosphate  
+H2O  
+10  
+12  
+1.2  
+  
+3497  
+TUDCA  
+EtOH  
+10  
+5.5  
+5.8  
+0.550  
+0.580  
+  
+3588Dodecanoic acid  
+EtOH  
+25  
+34.9  
+1.4  
+  
+3496Indolepyruvate  
+EtOH  
+40  
+43.4  
+1.085  
+  
+3498Glucose-6-phosphate  
+H2O  
+45  
+32.7  
+0.726  
+  
+3499Hypotaurine  
+H2O  
+90  
+91.9  
+65.6  
+1  
+0.73  
+  
+2844Sphingomyelin  
+Dichloromethane  
+1  
+35  
+35  
+  
+2466Creatine  
+DMEM/F12  
+45  
+96.2  
+6.11 (DMEM/F12)  
+  
+1621Creatinine  
+H2O  
+45  
+146.6  
+218.8  
+3.23  
+4.86  
+  
+651Pantothenic acid  
+H2O  
+45  
+50.6  
+1.12  
+  
+701Gelatin  
+H2O  
+45  
+47.6  
+1  
+  
+644Tryptophan  
+0.5M HCl  
+20  
+31.1  
+1.56  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- Some of the factors DID NOT reconstitute as the spec sheets said they would
+
+  1. We did not have chloroform or methanol for sphingomyelin, and attempted to reconstitute it in dichloromethane. This did not work but we kept the mix in the freezer in case it can be salvaged.
+  2. Creatine did not reconstitute in the concentrated water buffer. We had to reconstitute it as a working stock in DMEM/F12 at the desired concentration.
+  3. Dodecanoid acid did not reconstitute well in the working stock and produced a cloudy solution. When we sterile filtered it the eluent was clear, which we thought meant all of the dodecanoic acid was filtered out. For future, this may have to be made up in a more dilute method or sterilised in a different way.
+
+\- We are low on syringe filters, which we had to use because the OT2 (Hepa-
+filtered one) was not equipped with the right pipette tip to mix the working
+stocks.
+
+\- When syringe-filering condition 12, a crack in the syringe caused it to
+leak, which meant we had to make up condition 12 the next day from the
+concentrated stocks.
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Relevant Images/Figures (if applicable): N/A
+
+  
+
+

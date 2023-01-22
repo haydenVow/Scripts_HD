@@ -1,0 +1,84 @@
+
+
+Preparation:
+
+Make up the following Media if not already made:
+
+  * [x]  E6 + 1xP/S 
+  * [x]  DMEM/F12 + 2% HS + 1xP/S 
+
+### Process:
+
+  1. Inspect 3 plates under the axio, 5x objective, phase and capture and image of all wells for each plate.
+  2. Proceed with Diff feed below on three plates
+  3. Warm up 1 x 1 mL of E6 Media and 1 x 1 mL of HS Diff media in the waterbath for 15 minutes  `| 16:54 - 17:00 |`
+  4. Transfer the media to a reservoir in the BSC before feeding for easy handling using the multichannel pipette.
+
+For WELLS IN ROW B: Aspirate from all wells (horizontally).
+
+  1. Removed  `100` % of supernatant from plate(s). (aspirate only until there is slightly enough liquid to cover the base of the well instead of the whole 100uL to avoid leaving the cells to dry).
+  2. Replaced with  `0.1` mL (per well/per flask) of  `DMEM/F12 + 2% HS + 1X P/S Diff`  media to  of each plate. Use fresh tips only in the new media.
+
+For WELLS IN ROW C: Aspirate from wells (horizontally)
+
+  1. Removed  `100` % of supernatant from plate(s). (aspirate only until there is slightly enough liquid to cover the base of the well instead of the whole 100uL to avoid leaving the cells to dry).
+  2. Replaced with  `0.1` mL (per well) of  `E6 Diff`  media of each plate. use fresh tips only in the new media.
+  3. Returned flask to incubate at: 17:15
+    * [x]  37ºC, 5% CO2 (mammalian cells)
+    * [ ]  40ºC, 5% CO2 (aviary cells)
+
+### SOPs used:
+
+  * N/A
+
+### Observations/Summary:
+
+### Reagents used:
+
+Name
+
+Details (Reagent ID)  
+  
+DMEM/F12 + 2% HS + 1X P/S
+
+4341  
+  
+E6
+
+4340  
+  
+  
+
+* * *
+
+### Results
+
+  * Results were;
+    * [ ]  As usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+### Relevant Images/Figures:
+
+6370:
+
+https://mia-capture.vow.tools/#/session/recA1M5efKIaKc93U/images
+
+6368:
+
+https://mia-capture.vow.tools/#/session/rec55Uyl3YcfiGirH/images
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+

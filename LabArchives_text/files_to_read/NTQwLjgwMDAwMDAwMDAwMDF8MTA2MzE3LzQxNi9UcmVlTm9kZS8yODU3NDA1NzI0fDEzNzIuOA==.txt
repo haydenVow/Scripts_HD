@@ -1,0 +1,64 @@
+
+
+22/04/21 Automation for scaffolds and microcarriers meeting
+
+Meeting agenda:  
+1) To assign automation priorities for microcarrier work - what are the major
+rate limiting steps of this pipeline  
+2) To have a clear vision of what will be worked on this quarter to overcome
+the main rate limiting steps for this pipeline  
+3) To assign who will be working on what problems with some rough target
+deadlines
+
+Meeting attendees:
+
+Ella, Tom, Stanley, Derek, Chris, Avani, Nathan
+
+Summary:
+
+It was identified that for work with microcarriers that there are two main
+pain points/rate limiting steps in the current process these include:
+
+  
+1) Downstream handling of microcarriers for processes including
+trypsinisation, harvest and fix and DAPI  
+
+2) Cell counting on microcarriers
+
+An additional step which could be considered rate limiting is sampling/mixing,
+however after some discussion around the previous work employed with the
+opentrons to overcome mixing issues, and the limitations of the axio
+(including stand space) it was considered that the effort/equipment/time
+required to set up an appropriate sampling protocol using the opentrons would
+unlikely save a significant time when compared to manual sampling and this
+energy could be better focused elesewhere in the pipeline i.e. downstream
+handling
+
+  
+
+Actions:
+
+1) Test that Zaber-MIA integration works well for microcarrier images
+(integration due to be set up within 1 week) (TT, NH,  TIME ESTIMATE: 2 weeks)
+
+2) Continue optimisation experiments on the Opentrons using a multi-channel
+p300, and compare this to manual handling with a p1000. This will allow us to
+see whether we can perform these steps with a p300 multi-channel on the OT2 to
+improve throughput rather than using the p1000 single channel pipette. (NH,
+AB, Derek, TIME ESTIMATE: 2 weeks)
+
+3) Validate trypan blue for cell count analysis using the Zaber (NH, TIME
+ESTIMATE: ?)
+
+4) 3D print a 96-well plate sized insert for the zaber, which will hold
+multiple haemocytometer slides (test this, if successful print more, or
+outsource and have 3D printed using metal, if not successful order an insert
+from Zaber ~300AUD per insert) (CO, TT, NH,  TIME ESTIMATE: 3h)
+
+5) Test cell counting of cells on microcarriers using the insert set up on the
+zaber using already established region method of imaging (how repeatable is
+this process? how comparable is it to manual cell counts? how much time is
+saved?) (TT, NH, TIME ESTIMATE: 1 month)  
+  
+
+

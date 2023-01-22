@@ -1,0 +1,181 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6869, 6870  
+24 well plate changed to a 48 well plate  
+46  
+  
+6889  
+  
+24 well plate  
+  
+24  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+## Performed by: KK  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted     mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+  20 µL   Secondary #1Goat Anti-Mouse (IgG2b)   (1:1000  ) +  20 µL  Goat
+Anti-Mouse (IgG1) Secondary #2   (1:1000  ) +  20  mL Blocking Buffer (PBST
+(0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI mix:
+
+  20 mL  PBS +   20 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+Mouse Anti-MyoG  
+(IgG1)  
+Goat Anti-Mouse (IgG1)  
+1:1000  
+  
+Mouse Anti-MF20  
+(IgG2b)  
+Goat Anti-Mouse (IgG2b)  
+1:1000  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 15:02 - 15:07 pm
+
+ 15:09 - 15:14 pm
+
+ 15:16 - 15:21 pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  15:40 - 16:40 pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  16:40 pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 16:43 - 16:50 pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 16:52 - 16:57 pm
+
+ 17:00 - 17:05 pm
+
+4\.  Replaced dPBS.
+
+ 17:08 pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary: na  
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer5238  
+  
+dPBS5123  
+  
+  
+  
+  
+Secondary Antibody Mix1606, 1966  
+  
+DAPI (1:1000)  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable): n/a  
+
+  
+
+

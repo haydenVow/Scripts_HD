@@ -1,0 +1,204 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: AV & LL  
+
+
+
+
+Culture IDs:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+4 x T75  
+10500  
+10501  
+ ~~10502~~  
+10503  
+10504  
+10500, 10501, 10502 in Incubator #116 (main lab)  
+10503, 10504 in Incubator #120 (main lab)  
+  
+  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)Volume used (mL)  
+TrypleA973320 + 2 mL (1 x 50 mL falcon)  
+dPBS (for washing & neutralising)A1026840 + 4 mL (1 x 50 mL falcon)  
+  
+  
+
+NameDetailsVolume used (mL)  
+1) Growth Media - P/SM1013312 + 2 mL resus. (1 x 15 mL falcon)  
+2) OptiPro + 4mM Glutamax (adherent Nuvonis)M1014812 + 2 mL resus. (1 x 15 mL
+falcon)  
+4) L15 + 4 mM GlutamaxM1037712 + 2 mL resus. (1 x 15 mL falcon)  
+5) L15 + 1 g/L YEM1037612 + 2 mL resus. (1 x 15 mL falcon)  
+  
+  
+
+Conditions
+
+  * Flask 1: DMEM/F12 + 20% FBS
+  * Flask 2: Opti Pro + 4 mM Glutamax (adherent Nuvonis) 
+  * Flask 4: L15 + 4 mM Glutamax (CO2-free incubator)
+  * Flask 5: L15 + 1 g/L YE (CO2-free incubator)
+
+  
+
+Cultureware / vessels required
+
+2 x 50 mL falcons (for tryple and dPBS)
+
+4 x 15 mL falcon tubes needed for JH (keep media)
+
+4 x 15 mL falcon tubes needed to transfer cell suspension into a tube to
+suspend thoroughly
+
+4 x 15 mL falcon tubes for media
+
+4 x T75 flasks to seed
+
+
+
+
+### Process:
+
+1\. Took images of each vessel with microscope on phase setting (4x and 10x).
+[10:20 am]
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   5 x 4 x 1.1 = 22  mL in   1 x 50 mL  tube
+  2.  dPBS (for neutralising & washing):   10 x 4 x 1.1 = 44  mL   
+
+  3. Growth media (for seeding, for each of the 4 conditions):    12 x 4 mL
+
+Time that all aliquots were placed in the water bath the warm before use
+10:25 - 10:45  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+3\. Removed vessel(s) from the incubator  10:20  
+
+4\. Washed the vessel(s) with dPBS (warmed):
+
+  * 5 mL per T75
+
+5\. Added tryple to each vessel/well:
+
+  * 5 mL per T75
+
+and incubated at 30˚C.
+
+6\. Start/Finish for TrypLE (10-12 mins) was   L15: 10:40-11:51 / Nuv &
+control: 10:45-11:52  
+
+7\. Neutralised with dPBS and moved the cell suspension into   4 x 15 mL
+tubes  
+
+
+
+
+8\. Aspirated the supernatant.
+
+9\. Resuspended pellet in   2 (changed to 1) mL   growth  medium  
+
+10\. Aliquoted   10 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+11\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+Total cell number in Flask 10500 was:  
+
+  * CHOMP09:   1,828,000 cells  
+
+Total cell number in Flask 10501 was:  
+
+  * CHOMP09:   588,000 cells  
+
+Total cell number in Flask 10503 was:  
+
+  * CHOMP09:   336,000 cells  
+
+Total cell number in Flask 10504 was:  
+
+  * CHOMP09:   224,000 cells  
+
+  
+
+Cell density per vessel:   ~7500 cells/cm2  
+
+
+
+
+For all cell counts, refer to:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+
+
+
+12\. Transferred the cell suspension of the following volume into the   5 & 12
+mL   pre-warmed growth media aliquots:
+
+5% CO2
+
+  * CHOMP09 cell suspension volume required for Flask 1:   307 uL 
+  * CHOMP09 cell suspension volume required for Flask 2:   990 uL 
+
+CO2-free
+
+  * CHOMP09 cell suspension volume required for Flask 3:    total cell suspension (2000 uL)   
+
+  * CHOMP09 cell suspension volume required for Flask 4:    total cell suspension (2000 uL)   
+
+13\. Seeded into 4 x T75 flasks and created culture IDs.
+
+14. Returned vessels to incubate at: 11:45 am; 12:00 pm respectively
+
+  * [X]  30ºC, 0% CO2 (reptilian cells)
+  * Incubator (#120), Lab [Main/Library/Production] - for cultures 10606, 10607
+
+  * [X]  30ºC, 5% CO2 (reptilian cells)
+  * Incubator (#116), Lab [Main/Library/Production] - for cultures 10608, 10609
+
+  
+
+
+
+
+Observations/Summary:
+
+Passaged 4 x T75s
+
+L15 media conditions were seeded into 2 x T25s
+
+Serum control and Nuvonis adherent conditions were reseeded into T75s
+
+
+
+
+Relevant Images/Figures (if applicable)
+
+  
+
+

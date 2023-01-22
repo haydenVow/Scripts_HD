@@ -1,0 +1,286 @@
+
+
+## Performed by:
+
+
+
+
+Troubleshooting
+
+10:45 - TT identified that there were some issues with the set up of the
+Biostat, namely that the microsparger was not connected, the metal harvest
+line was connected to an air filter and the dip tube (ending in a piece of
+silicone tubing) was impeding the stirring of the impeller. It was also noted
+that the impeller was precessing about an axis.
+
+The media from within the Biostat was pumped out and the connections to the
+base, inoculum and media bottles were left in a sterile manner inside the BSC.
+After that, the harvest tube and dip tube were removed from the headplate. The
+microsparger was installed in the port adjacent to the exhaust outlet (better
+to group gas-related tubes) and the metallic harvest tube was installed in
+another port to account for the previously mentioned change. The impeller
+shaft was also inspected more closely and was determined to have a slight bend
+in it. The position of the impeller was also adjusted to make room for the
+microsparger and the harvest tube (in order from top to bottom: impeller
+shaft, microsparger, harvest tube).
+
+After the required amendments were made, the Biostat was re-autoclaved.
+
+
+Cultures
+Culture IDVessel TypeNew Culture IDNew Vessel Type  
+12670E5000127322L-STR
+
+
+Procedure
+  
+  
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Tested for sterility - Not performed - no obvious cloudiness in medium after
+overnight hold
+
+  1.  ~~Took a sample and transfer it to the well of a well plate.~~
+  2.  ~~Observed the sample under the microscope.~~
+    1.  ~~Signs of contamination include cloudy culture medium, motile particles visible under the 60x or 100x objective.~~
+
+Reference  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1. Ran the calibration routine as per the operating manual
+    1.  ~~Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.~~
+    2.  ~~Set that level as 0%~~
+    3. Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.
+    4. Set that level as 100%
+
+ReferenceOperating manual page(s) 76, 43  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp17:15  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set level probe - Not performed.
+
+  1.  ~~Loosened the nut around the antifoam/level probe.~~
+  2.  ~~Gently rotated and pulled the probe out until it reached the desired height.~~
+  3.  ~~Tightened the nut until finger tight.~~
+
+Reference  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesNEVER push the probe back into the bioreactor after autoclaving as this
+can introduce contamination.  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Configured dissolved oxygen cascade
+
+  1. Set 0% output as 20 ccm (10% of max output, to maintain internal pressure) and 240 RPM (0.7 m/s tip speed, as per previous mfg batches).
+  2. Set 100% output as 200 ccm (0.1 vvm) and 360 RPM (1.0 m/s tip speed, as per the Nuvonis recommendations for maximum tip speed).
+  3. Set intermediate outputs evenly between these
+
+Reference  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp17:20  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp17:35  
+NotesData logger did not run properly, continued to return "NOT RUNNING" and
+"REQUESTED DATA COULD NOT BE LOADED" errors  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Add medium ingredients:
+    1.   
+CodeStock conc (mg/mL)Total mg in final volVol to add (mL)  
+  
+  
+  
+IGF-1 LONG R3A122120.050.1002.000  
+  
+  
+  
+EGFA128750.050.0200.4000  
+  
+  
+  
+L-glutamineM1289121.92870.00039.6898  
+  
+  
+  
+GlucoseM128902004000.00020.0000  
+  
+  
+  
+Antifoam CM6141N/AN/A0.200  
+  
+  
+  
+  5. Make an aseptic connection between the bottle and the bioreactor seed line.
+  6. Pumped the seed cells into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp18:00  
+NotesWent back to check previous lab book entry and saw that antifoam,
+L-glutamine and glucose had already been added - this means that the actual
+concentrations would be 50% higher than desired.  
+  
+  
+  
+
+
+
+
+Programmed the feed schedule - not performed as not required
+
+  1.  ~~To create a schedule to to turn on the pump after 2 days (48 hours) for 22.5 minutes (~450 mL at ~20 mL/minute), followed the instructions below:  
+~~
+
+    1.  ~~Opened the SUBS-B pump menu~~
+    2.  ~~Changed the SUBS-B MODE to MANUAL:OFF  
+~~
+
+    3.  ~~Opened the PROFILE sub-menu~~
+    4.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    5.  ~~Set a timepoint for 048:00:00 with 0% pump output.  
+~~
+
+    6.  ~~Set a timepoint for 048:00:01 with 100% pump output.~~
+    7.  ~~Set a timepoint for 048:22:30 with 100% pump output.~~
+    8.  ~~Set a timepoint for 048:22:31 with 0% pump output.~~
+ ~~~~
+
+  2.  ~~To create a schedule to to turn on the pump again after 4 days (96 hours) for 45 minutes (~900 mL at ~20 mL/minute), followed the instructions below:  
+~~
+
+    1.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    2.  ~~Set a timepoint for 096:00:00 with 0% pump output.  
+~~
+
+    3.  ~~Set a timepoint for 096:00:01 with 100% pump output.~~
+    4.  ~~Set a timepoint for 096:45:00 with 100% pump output.~~
+    5.  ~~Set a timepoint for 096:45:01 with 0% pump output.  
+~~
+
+  3.  ~~To program the pump to follow the schedule:  
+~~
+
+    1.  ~~Changed the SUBS-B MODE to PROFILE~~
+    2.  ~~Closed the menu~~
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Added double antifoam C, L-glutamine and glucose by mistake.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

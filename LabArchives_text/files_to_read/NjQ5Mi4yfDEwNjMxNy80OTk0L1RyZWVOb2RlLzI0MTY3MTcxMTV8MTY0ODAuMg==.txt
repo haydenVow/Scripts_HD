@@ -1,0 +1,174 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Eva, Addy, Bec, Kylie
+
+
+
+
+Culture IDs:  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T1758784 - 8786  
+2 x 12wp8822-C2C12-Mouse P5-1of2  
+8823-C2C12-Mouse P5-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Link to 'Thaw' page: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjMyNC41fDEwNjMxNy80ODY1L1RyZWVOb2RlLzQwNDI0ODg5MTh8MTYwNTQuNQ==
+
+Link to the 'Passage' page: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjMyNy4xfDEwNjMxNy80ODY3L1RyZWVOb2RlLzg4NDYwMjQ4fDE2MDYxLjA5OTk5OTk5OTk5OQ==
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionM7509  
+LamininS3851  
+dPBS (sterile)M7941  
+Growth MediaA7526, A7530, A7520  
+  
+p38i (20mM stock)  
+M7354  
+  
+  
+Total number of wells per plate = 12
+
+Total number of plates = 2
+
+Total number of wells = 24
+
+Plate 1: Added 0.4 mL laminin to 7.6 mL sterile dPBS (8 mL total) -> 1:20
+dilution, of which 0.5 mL was coated in 12 wells (6 mL used)
+
+Plate 2: 0.5 mL of gelatin was added to 12 wells of the second plate (6 mL
+total)
+
+
+
+
+### Process:
+
+1\. Gelatin coated     1     x    12-WP      vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       13:16   
+
+2\. Laminin coated     1     x    12-WP      vessel as per the protocol in
+EPIC25611.
+
+  1. Time when all vessels(s) placed into the incubator       13:35   
+
+
+
+
+1\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:      356,000 (408,000?)     
+
+  2. Volume of cell suspension required for subculture was:      4.118 mL (only 3 mL was used) 
+  3. Final seeding density per well: 46.4K (53K?) cells / well (should have been closer to 70K)
+
+
+
+
+13\. Transferred       3    mL of cell suspension to the pre-warmed       20
+mL growth media.
+
+14\. Transferred cell suspension into the pre-gelatin / laminin coated       2
+x 12-WP     vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      17:26  \-
+17:56 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC @ 18:00, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Plate 8822 was gelatin coated and plate 8823 was laminin coated.
+
+  
+
+1 well was not seeded on plate 8823 (laminin) due to insiffcient cell
+suspension available. In future studies we could instead seed less volume per
+well.
+
+  
+
+In Plate 8823 the 30min rest time was cut slightly short (by 5min) to transfer
+both plates into the incubator simultaneously.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8822:
+
+8823:
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

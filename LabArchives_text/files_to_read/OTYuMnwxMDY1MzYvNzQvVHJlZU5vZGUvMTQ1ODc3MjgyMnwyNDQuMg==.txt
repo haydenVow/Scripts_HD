@@ -1,0 +1,73 @@
+
+
+Batch Overview
+
+Batch Weight
+
+Total Weight produced was just under 27 grams of cell pellet.  
+10 x 10CF (untreated) = 12g  
+7 x 10CF (treated) = 14.8g
+
+Achievements
+
+  * Biggest harvest to date, yielding the largest weight. 
+  * Almost double the expected weight yield
+  * Biggest cell count for untreated cells - 2 billion cells from 10 x 10CF
+  * Yield from untreated 10CF = 200 million cells @ 1.2g
+  * Yield from treated 10CF = 2.1g
+
+Deviations/Notes
+
+  * No cell count conducted for Fibroblast sheet pellet
+  * The final harvested pellet spin was done at 1000rcf due to supernatant still appearing cloudy at only 700 rcf. 
+  * Final pellets were collected in 250 mL tubes and centrifuged in the main lab.
+  * TrypLE time for final harvest (in 10CF) was increased from 18 minutes to 25 minutes after initial observation after 18 mins showed cells still not dissociated. 
+  * Combining sheets/aggregates from various tubes required using 25mL pipette for gentle resuspension. It was observed the 50mL falcons did not have much cell residue left over in a 2nd wash unless clearly visible cell pellet seen.  \--> time saved if 2nd wash is done immediately after the initial resuspension and collection using same strippette. 
+  * Harvesting treated cells required collecting all initial waste media and the initial PBS wash (1.5L + 0.5L) to collect aggregates. This was done in 1L bottles and aggregates allowed to settle to the bottom and the majority of the supernatant aspirated out. The remaining was then aliquoted into 50mL tubes using a strippette and centrifuged. 
+  * After TrypLE and PBS wash, cells/aggregates were still observed on the flasks. --> May require 2nd PBS Wash. 
+
+  
+
+Batch Corrective Action Records
+
+N/A
+
+
+
+
+### Meeting Minutes
+
+  
+
+Date: 07/06/2021
+
+Attendees: Michael, Suz, Sylvana, Lisa  
+Absentees: Mathew, Tim
+
+  
+
+Comments from Suz:
+
+  * treatment vs non-treated was not too different so either cell type worked. Building in structure using treatment was a positive. 
+  * No problems with fibroblasts sheets/aggregates in the cooking method
+  * trying to determine the maximum volume of cell product that can be incorporated into the prototype 
+  * Timing was good for delivery of cell pellet
+  * no issue with the cell pellet in the 250mL tubes --> potentially get a food saw? or find wide mouth 250mL tubes for final cell pellet. 
+
+Comments of Batch 009:
+
+  * investigate spin speed for fibros - test in batch 010: spin down cell pellet supernatant at 1000rcf to see if there is another cell pellet.
+  * Conduct a temperature optimisation for "TrypLE" (using water) during the harvest. --> test heating at 37'C or 40'C, and after incubation time
+  * Optimise TrypLe incubation in batch 010: addition of 1minute per layer for CFs. 
+  * During batch 012 harvest, test 2nd PBS wash if cells are still observed in the flask and note if this helps collect cells.
+  * Remove timestamps for centrifuge steps except for the very 1st and very last spin. Also include timestamp for total resuspension time stamp and cell count time stamp. --> update templates and SOPS. --> raise PI
+  * What went well: started on time, and time estimation for harvest was spot on, worked well even though LP was working from home, and got lots of volunteers helping with the harvest. 
+  * minimise the request for help in the big harvest to minimise burden on the science team. 
+  * If were to use only 4x incubators in the Production lab, we can have 12x 10CF for 1 batch and 4x10CF for the next batch (batches only 1 week apart)
+  *   
+
+  
+
+  
+
+

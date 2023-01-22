@@ -1,0 +1,51 @@
+  
+  
+EPIC27444 Overview
+
+Batch Objectives:
+
+  * Design a small scale experiment to test our learnings about DOLLY in Roller Bottles from Batch 22 and see if we can reliably reproduce >1g cell pellets from a single roller bottle
+  * Compare VitC ONLY treatment to VitC + TGFb treatment in DOLLY Roller Bottles.
+
+Experimental Groups:
+
+  1. VitC ONLY Treatment
+  2. VitC + TGFb Treatment 
+
+Specific learnings from batch 22 applied to the roller bottles:
+
+  * Seed at 15k cells/cm2 by first adding 200mL to the roller bottle then adding the required volume of cells. Then quickly transfer this bottle to the roller bottle apparatus to avoid the bottle sitting on one side/end for too long and having more cell stick down in this area.
+  * Treat the cells at 60-80% confluence
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P113-17 (depending when peeling occurred)6xR850 (15k cells/cm2) - seeded from
+vials  
+  
+  
+
+Experiment Results:
+
+  * There was not much difference between the two treatment groups, therefore either is acceptable for use on DOLLY cells in Roller Bottles
+  * Using the treatment and seeding parameters identified in Batch 22 we successfully achieved a >1g pellet weight for all bottles in this experiment, with the average weight being 1.34g for VitC ONLY and 1.42g for VitC + TGFb.
+  * Both treatment types also lasted for >13 days before any peeling was observed.
+
+* Graph 1 shows the raw pellet weight of each treatment group. Error bars display SEM.  
+* Graph 2 shows the days in culture/treatment time for each group. The dotted line shows when treatment was applied to all groups, therefore the time in treatment is the days in culture -2. 
+
+Pictures:
+
+  
+
+Achievements:
+
+  * Finally achieved reliable and consistent >1g results from DOLLY in roller bottles. 
+  * Reliably reproduced our findings from batch 22
+  * Added to previous findings to show that DOLLY could be successful in roller bottles and that this was better than multi-layered flasks yield relative to surface area.
+
+  
+
+

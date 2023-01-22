@@ -1,0 +1,145 @@
+
+
+Performed by: VP
+
+
+
+
+Cell count cells  
+
+Culture IDVessel typeCell density (manual count) (cells/mL)Cell density
+(Nucleocounter)Cell viability (Nucleocounter)  
+(A)E5001 200 0001 130 000  
+96.5%  
+(B)E500  
+1 230 0001 040 000  
+97.9%  
+(C)E500  
+1 380 000815 000  
+98.3%  
+  
+  
+
+
+
+
+Reagents
+
+ReagentRanger ID  
+3:1 RPMI:Hycell Nuvonis suspension mediumMIX-12495  
+EGF MIX-  
+IGF MIX-  
+  
+  
+
+
+
+
+Cultures
+
+Stock cultures
+
+Culture IDVessel typeNew culture IDNew vessel type  
+(B)E500  
+E500  
+E500  
+  
+E500  
+  
+Cryopreserved cultures
+
+Culture IDCryovial ID  
+(A + B)14770  
+14771  
+  
+14772  
+  
+14773  
+  
+14774  
+  
+14775  
+  
+14776  
+  
+14777  
+  
+14778  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process
+
+Passage  
+
+  1. Prepared new media:
+    * 260 mL new media + 1:1000 IGF + 1:5000 EGF
+    * Added media to bead bath at 15:06
+  2. Added cell suspension from culture ID xxxxx (B) to new flasks x2. Per flask, added:
+    * 30 mL cell suspension + 130 mL new media. Flask type = E500
+    * performed passage at 15:40
+  3. Returned flasks to incubator:
+    * at 15:40 
+    * at 180 000 cells/mL
+    * 120 RPM
+    * 37degC 5% CO2
+
+Cryopreserve
+
+  1. Prepared freeze medium:
+    * 1.8 mL DMSO + 10.2 mL growth medium
+    * 12 mL growth medium
+    * Placed the above in bead bath at xx:xx
+  2. Aspirated cell suspension from flasks:
+    * 160 mL flask ID xxxxx (A)
+    * 20 mL flask ID xxxxx (B)
+  3. Deposited into 50mL falcon tubes and centrifuged at 310xg for 5 minutes at 15:45
+  4. Aspirated supernatant and resuspended in 12 mL growth medium
+  5. Diluted cell suspension 1:2 by drop-wise addition of DMSO+media to bring to 7.5% DMSO final concentration at 15:55
+  6. Pipetted 1mL per tube into prepared and labelled cryovials
+  7. Placed cryovials in foam Mr Frosty and moved to -80degC freezer at 16:00
+
+  
+
+  
+
+
+
+
+Observations & Notes
+
+N/A  
+
+

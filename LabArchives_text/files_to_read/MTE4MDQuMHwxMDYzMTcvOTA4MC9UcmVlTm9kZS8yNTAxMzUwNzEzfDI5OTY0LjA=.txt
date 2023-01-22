@@ -1,0 +1,172 @@
+Performed by: AG
+  
+  
+Note: you can use either the ViCell or Cellaca for this process. I would
+recommend the Cellaca as it is a lot faster than the ViCell for doing multiple
+counts
+
+
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+112981  
+FS1  
+Feed with 2 g/L glucose & 2 mM ala-gln every 48h from D3 onwards (inclusive of
+D3). Exclusively on D3, Ala-gln will be topped up with 3mM. Main lab, #159
+(top shaking incubator)  
+212982  
+  
+312983  
+412984  
+512985FS2  
+Feed with 3 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+612986  
+712987  
+812988  
+912989FS3  
+Feed with 2 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+1012990  
+1112991  
+1212992  
+1312993FS4  
+Feed with 2 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 4.5 g/L  
+  
+1412994  
+1512995  
+1612996  
+1712997FS5  
+Feed with 4 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 3 g/L  
+  
+1812998  
+1912999  
+2013000  
+2113001  
+Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and HT)  
+2213002  
+  
+2313003  
+  
+2413004  
+  
+2513005  
+Control2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and without HT)  
+  
+2613006  
+  
+2713007  
+  
+2813008  
+
+
+Counting & sampling process (if using ViCell)
+  
+  
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 510 uL samples from each flask into ViCell counting cups
+  3. Put aside cups with samples from flasks #4, 5, 10, 13-20, 21 & 28 for glucose testing
+  4. Loaded all other samples into ViCell carousel for counting
+  5. Repeated steps 1-4 twice more with remaining flasks in a batch of 10, then 8
+  6. Tested glucose levels in samples from flasks #4, 5, 10, 13-20, 21 & 28 using Accu-Chek Instant S blood glucose meter (the meter and strips are located on the shelf above the ViCell):
+    1. Insert the metallic end of a test strip into the meter. The meter will turn on. 
+    2. When a flashing drop symbol appeared, took 1 x 3 uL sample from 510 uL aliquot using P20 pipette 
+    3. Ejected drop onto gloved fingertip (to mimic a drop of blood when doing a finger prick test) 
+    4. Touch the yellow edge of the test strip to the drop of media. Remove your finger from the test strip when the flashing hourglass symbol appears. Do not put sample on top of the test strip.
+    5. Copy value into table below
+      * Ethanol spray and wipe finger between counts. 
+      * If you get an error message, try sampling one more time. If error message comes up again, just enter which error number you got in the results table (e.g. ER-3). 
+
+
+Counting & sampling process (if using Cellaca)
+
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 100 uL samples from each flask into ViCell counting cups
+  3. Repeated steps 1-2 with remaining flasks in a batch of 10 and then 8
+  4. Brought sample cups out from hood over to Cellaca bench 
+  5. Transferred 25 uL of sample from each cup into a Cellaca 96-wp 
+    * Samples go into rows D and H, so you can fit 24 samples on one plate - you will therefore need 2 plates for the 28 samples 
+    * I would recommend loading them in a numerical order (i.e. D1 = sample 1, D12 = sample 12, H1 = sample 13, H12 = sample 24) as this will make naming the well samples on the software much more straightforward
+  6. Added 25 uL of Trypan blue to all 25 uL cell suspension samples using the multi-channel pipette and the pre-prepared trough of Trypan blue 
+  7. Mixed and transferred entire 50 uL of sample into rows C and G
+  8. Loaded the first plate into Cellaca and labelled each well with the corresponding flask number from which the sample was taken
+  9. Ran counting on software
+  10. While samples were being counted, tested glucose levels in samples from flasks #4, 5, 10, 13-20, 21 & 28 using Accu-Chek Instant S blood glucose meter (the meter and strips are located on the shelf above the ViCell):
+    1. Insert the metallic end of a test strip into the meter. The meter will turn on. 
+    2. When a flashing drop symbol appeared, took 1 x 3 uL sample from remaining 75 uL of cell suspension using P20 pipette 
+    3. Ejected drop onto gloved fingertip (to mimic a drop of blood when doing a finger prick test) 
+    4. Touch the yellow edge of the test strip to the drop of media. Remove your finger from the test strip when the flashing hourglass symbol appears. Do not put sample on top of the test strip.
+    5. Copy value into table below
+      * Ethanol spray and wipe finger between counts. 
+      * If you get an error message, try sampling one more time. If error message comes up again, just enter which error number you got in the results table (e.g. ER-3). 
+
+
+Results
+Flask #ConditionGlucose reading (mM)Glucose reading (g/L)  
+Notes/observations  
+13FS432.6You can leave this column blank - our team will do the conversion :)
+Placed 3uL of sample onto waxy side of parafilm to make taking measurements
+less awkward  
+14FS4  
+31.2  
+  
+  
+15FS4  
+31.6  
+  
+  
+16FS4  
+31.4  
+  
+  
+17FS5  
+H1  
+  
+  
+18FS5  
+H1  
+  
+  
+19FS5  
+H1  
+  
+  
+20FS5  
+H1  
+  
+  
+4FS1H1  
+  
+  
+5FS2H1  
+  
+  
+10FS3H1  
+  
+  
+21CTRL118.2  
+  
+  
+28CTRL213.8  
+  
+
+
+  
+  
+Notes:  
+  
+[Andrew Gia] - noticed no count or feed was performed on the previous day (30
+July 2022). Performed glucose and ala-gln feed of flasks 1-4 according to
+30-July-2022 lab entry
+
+
+Accu Chek manual

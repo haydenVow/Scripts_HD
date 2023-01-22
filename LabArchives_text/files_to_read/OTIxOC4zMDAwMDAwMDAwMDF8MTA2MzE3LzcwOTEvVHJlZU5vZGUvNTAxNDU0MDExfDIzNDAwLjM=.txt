@@ -1,0 +1,247 @@
+Performed by: EC LL
+Harvested flask ID  
+Harvested flask type  
+Seeded flask(s) ID  
+Seeded flask(s) type  
+  
+  
+10972-Nuvonis Quail Suspension341-P-1of1
+
+  
+E-125  
+
+10986-Nuvonis Quail Suspension341-P-1of4
+
+  
+96-wp  
+  
+  
+10987-Nuvonis Quail Suspension341-P-2of4
+
+  
+  
+  
+10988-Nuvonis Quail Suspension341-P-3of4
+
+  
+  
+  
+10989-Nuvonis Quail Suspension341-P-4of4
+
+  
+
+
+Process
+  
+  
+  1. Took 2 x 50 uL aliquots from E-125 culture and performed 3 x cell counts. Average cell count was 35,173,333
+  2. 35,173,333 cells per 20 mL = 1,684,000 cells per mL
+  3. Transferred 20 mL culture to 1 x 50 mL tube
+  4. Centrifuged at 500 x g for 5 minutes
+  5. Aspirated 100% of supernatant
+  6. Re-suspended in 6 mL of sterile dPBS (want 500,000 cells per mL to add 20 uL containing 10,000 cells per well = 50,000 cells per mL in culture)
+  7. Dispensed cell suspension into 1 x well of 12-well reservoir in the BSC
+  8. Ran cell seeding protocol on OT2 
+    1. Start time:
+    2. Run time:
+  9. Moved plates to incubator at 37'C, 5%CO2 (incubator #119, main lab)
+
+
+ML model output
+
+
+Plate 1
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A000000000000  
+B03404884254077464644513113271990  
+C042640947786610968676883653912650  
+D015805375706526155887183323823800  
+E0124846698611169218675673863485640  
+F01650745111313165028147676114186020  
+G0138262111951783924567820102747118940  
+H000000000000
+
+
+  
+  
+Plate 2
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A000000000000  
+B022881442037155734207938823114312060  
+C0318712516741761260172220041649355831150  
+D042211431980264246423888652032296124880  
+E014611323150204217392624504253444242900  
+F0208332724177193321458245035329323943250  
+G021283094269289295485839754512503249520  
+H000000000000
+
+
+  
+  
+Plate 3
+
+Rows\ColumnsColumn 1Column 2Column 3Column 4Column 5Column 6Column 7Column
+8Column 9Column 10Column 11Column 12  
+A000000000000  
+B03268272243613378177391111412853277930130  
+C04638358328344085293425710133688343136230  
+D05350401433202052182460417563133336341010  
+E036153072240016773657408714643874376944710  
+F0422646883187185447912849203824442592960  
+G0235132422503239240627041734230130301020  
+H000000000000
+
+
+  
+  
+Plate 4
+
+Rows\Columns
+
+Column 1
+
+Column 2
+
+Column 3
+
+Column 4
+
+Column 5
+
+Column 6
+
+Column 7
+
+Column 8  
+  
+A
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0  
+  
+B
+
+0
+
+196
+
+4622
+
+5117
+
+4018
+
+4453
+
+4345
+
+3843  
+  
+C
+
+0
+
+105
+
+6384
+
+5674
+
+5178
+
+5256
+
+5485
+
+0  
+  
+D
+
+0
+
+5994
+
+6790
+
+6493
+
+6069
+
+5926
+
+6293
+
+0  
+  
+E
+
+0
+
+5268
+
+6387
+
+5118
+
+5515
+
+6479
+
+7173
+
+0  
+  
+F
+
+0
+
+4606
+
+5195
+
+4324
+
+5824
+
+6168
+
+6362
+
+0  
+  
+G
+
+0
+
+4727
+
+4634
+
+4573
+
+5408
+
+3978
+
+4953
+
+0
+
+

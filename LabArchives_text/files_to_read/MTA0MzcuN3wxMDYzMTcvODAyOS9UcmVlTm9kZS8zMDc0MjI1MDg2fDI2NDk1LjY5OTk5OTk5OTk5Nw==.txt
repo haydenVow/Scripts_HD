@@ -1,0 +1,63 @@
+Performed by: LL
+Thawed vial ID  
+Seeded vessel ID  
+Seeded vessel type  
+Condition  
+Location  
+  
+14016  
+12121  
+24-well plate (ULA)  
+Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Main lab, 119  
+
+
+Process
+  
+  
+  1. Prepared 15 mL of Freestyle 293 Nuvonis suspension medium with growth factors added (IGF & EGF) in 1 x 50 mL shake tube with filtered lid
+
+  2. Equilibrated the medium in an incubator at 37°C, 5% CO2, 95% relative humidity.
+
+  3. Selected vial to thaw:  
+Dewar Name: Brew  
+Frozen Culture IDs: 14016  
+Tower # 5 Box # 5  
+Position F1
+
+  4. After media equilibration, moved the shake tube containing media into the BSC just before thawing the cells. 
+
+  5. Quickly thawed one vial of Nuvonis quail suspension cells in the 37°C water bath.
+
+    1. Do not immerse the vial completely, only about 2/3, to ensure the top of vial is kept out of the water
+    2. Take care to remove the vial from the water bath immediately when the cells are just thawed. Ideally, a small ice clump (approximately 5 mm) is still visible.
+  6. Dry wiped the tube.
+
+  7. Wet a wipe with disinfectant (e.g., 70% ethanol), wiped the tube and transferred it into a BSC
+
+  8. Tapped the vial gently to detach the cell pellet, and transferred the cells into an empty 50 mL centrifuge tube by using a pipette equipped with a 1 mL filter tip. Note: Do not mix the cells in the vial by pipetting.
+
+  9. Drop-wise added 1 mL equilibrated medium (from the 7 mL) to the cells and swirled the tube gently for 10 seconds. Incubate cells for one minute
+
+  10. Repeated the last step with 2 mL medium and then with 4 mL medium.
+
+  11. Homogenised the cell suspension by inverting the tube several times and sample 100 μl for a cell count. Transferred the cells into the 24-wp.
+
+  12. To count the cells and to assess cell viability, mix the cell sample with trypan blue to a 1:1 ratio (i.e., 20 μl cell sample : 20 μl trypan blue) in a 1.5 mL microcentrifuge tube. Add 10 μl to two chambers of a Neubauer improved haemocytometer slide. Counted the cells twice and recorded the total number of cells and the number of viable cells.
+
+    1. Average live cell count: 6,608,000 cells
+
+  13. Incubate the flask at 37°C, 5% CO2, 95% relative humidity (static)
+
+
+Reagent info
+Reagent  
+ID  
+  
+Freestyle medium  
+M12324  
+
+
+Nuvonis protocol

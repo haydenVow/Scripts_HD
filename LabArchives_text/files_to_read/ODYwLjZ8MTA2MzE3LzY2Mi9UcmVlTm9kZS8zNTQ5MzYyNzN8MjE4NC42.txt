@@ -1,0 +1,117 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+Key Findings & Discussion
+
+  
+
+n = 139-207, ordinary one-way ANOVA + Tukey, **p≤0.01, ****p≤0.0001
+n=201-210, ordinary one-way ANOVA + Tukey, ****p≤0.0001n=116-203, ordinary
+one-way ANOVA + Tukey, *p≤0.05, ****p≤0.0001
+
+
+
+  
+
+We have performed a similar experiment before (EPIC16049) which looked that
+the baseline adhesion and proliferation of cells in microcarrier culture. That
+experiment was performed in 6 well plates, rather than E125 flasks and showed
+that cells could adhere to microcarriers in ACF media in a way that was
+comparable to serum. In EPIC16049, we did not observe proliferation of cells
+over 4 days for any media conditions. However, in this experiment, by day 4,
+there were significant differences between serum and ACF media in terms of
+cells/microcarrier. By day 7, E89C seems to have the highest
+cells/microcarrier from the ACF media conditions but it is still significantly
+lower than serum.
+
+This was the first time we had attempted to harvest cells grown in ACF media.
+During the harvest, the E125 flasks had toppled over during shaking with
+trypsin. This could have impacted the ability of trypsin to detach cells from
+microcarriers. Next time we should use shakers with clamps to hold these
+flasks in place during rigorous shaking. We have noticed in adherent culture
+that cells in ACF often require more time in Tryple than cells in serum. It's
+likely that this would also be the case for cells in suspension. However, this
+was difficult to observe in this experiment as the number of cells attached to
+microcarriers in ACF media was so low even before the harvest.
+
+Our preliminary results suggest that protease inhibitor cocktail can be used
+for neutralising trypsin during a harvest for microcarrier culture. This would
+remove the use of serum-containing media for this step. We kept cells that
+underwent this process in culture for 2 days. During this time we did not
+observe any difference in cells/microcarrier between cultures that had been
+seeded after being neutralised with serum based media versus cultures that
+were neutralised with protease inhibitor. However, these results are only from
+1 biological replicate for each condition and for 2 days only so these results
+need to be confirmed with further testing.
+
+Limitations and future directions
+
+In this experiment, we started adding 1% P188 to our ACF cultures on day 4 of
+proliferation. P188 is known to reduce the shear stress on cells and we
+hypothesised this would be particularly helpful for ACF conditions in the
+absence of serum. In future experiments, we should include P188 in our ACF
+suspension cultures from the beginning.
+
+We only used 1 biological replicate for each media condition. This is because
+currently microcarrier culture in E125 flasks requires a lot of cells, media,
+and manual handling. It is also time consuming to harvest these cultures which
+makes it difficult to perform experiments with a larger number of replicates
+and conditions. Therefore, we will explore culturing cells in 50mL tube spins
+which have a working volume of 10 mL rather than the 30mL that is required for
+E125 flasks, with the goal of making microcarrier culture more high-
+throughput.
+
+Recently, the cell availability project has created 'Taipan' to improve the
+number of cells that are harvested from microcarriers. It consists of a
+syringe connected to a tube with an opening that is covered by a mesh. This
+mesh allows cells to go through but traps microcarriers. It allows us to
+easily separate cells from microcarriers once they've undergone trypsin
+detachment. Therefore, future harvesting trials will likely involve using
+Taipan.
+
+It is hypothesised that when we use a heterogenous population to seed
+microcarriers (as we have been doing in ACF media experiments), cell
+numbers/microcarrier will not increase initially because some cells in the
+population may not be able to adapt to suspension culture.  Only those that
+can adapt will survive and then proliferate. This introduces a source of
+variability in our experiments where the population seeded in one flask may
+have more cells capable of adapting to suspension than another. To address
+this, the cell accessibility project has developed clones that are adapted to
+suspension. We should consider using these for future experiments to improve
+consistency between different experimental conditions and between different
+experiments.
+
+Conclusion
+
+Cells did not proliferate on Cytodex microcarriers in ACF media. Using
+protease inhibitor cocktail for neutralising trypsin may be a good alternative
+to using serum based media for neutralisation. We will need to develop high-
+throughput methods of culturing microcarriers to test more media conditions
+and harvesting methods in the future.
+
+  
+
+

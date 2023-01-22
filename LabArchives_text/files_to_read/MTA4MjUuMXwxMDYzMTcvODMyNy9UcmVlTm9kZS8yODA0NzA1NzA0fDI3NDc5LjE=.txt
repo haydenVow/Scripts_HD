@@ -1,0 +1,90 @@
+
+
+Performed by: VP
+
+
+
+
+Cultures:
+
+Culture IDVessel type  
+  
+AMBR250 vessel 1  
+  
+AMBR250 vessel 2  
+  
+  
+AMBR250 vessel 3  
+  
+  
+AMBR250 vessel 4  
+  
+  
+E125 (satellite flask 1)  
+  
+E125 (satellite flask 2)  
+  
+E500 (stock culture)
+
+
+  
+  
+Process
+
+  1. Inspected bioreactors for media colour and foam
+  2. Inspected culture parameters in graph on screen in AMBR software, including dO, pH, temperature, agitation over time
+  3. Sample 2mL from bioreactors:
+    * drew 1mL to purge line and dispensed into 50mL falcon tube
+    * drew 1mL and dispensed 0.5mL into 1.5mL tube and dispensed the remainder into 50mL falcon tube. x1 50mL falcon tube per reactor and x1 1.5mL tube per reactor  
+
+4\. Counted cells using haemocytometer
+
+ ~~5\. Tested pH using pH meter~~
+
+  
+
+Notes and variations:
+
+  * did not perform offline pH testing due to visible contamination
+  * disposed of vessels into clinical waste bin and cleaned AMBR hardware using EtOH soaked wipes
+
+  
+
+  
+
+
+
+
+Observations
+
+  1. Inspected bioreactors
+    * media physically milky in appearance indicative of contamination
+  2. Inspected pH/dO/temp/agitation graph over time for each reactor
+    * graphs show rapid depletion of dissolved oxygen overnight within 3-4 hours - indicative of rapid bacterial growth
+  3. Samples inspected under microscope in haemocytometer showed visible signs of bacterial contamination
+
+
+
+
+Sampling and offline measurements
+
+  1. Labelled x4 50mL falcon tubes 1-4
+  2. Followed on-screen prompt to sample bioreactors and recorded in run
+  3. Sprayed sample line with EtOH and removed cap
+  4. Unclipped clamp on sample line
+  5. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited into 50mL tube. Discarded syringe
+  6. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited 0.5mL into 1.5mL tube (for cell count) and deposited remainder into corresponding 50mL tube. Discarded syringe
+  7. Clipped sample line and screwed on cap
+  8. Repeated for each AMBR bioreactor vessel
+  9. Counted cells using Nucleocounter as per manufacturer's instruction. Used 200uL sample volume per read. 
+  10. Deposited remaining cell suspension from 1.5mL tube into corresponding 50mL falcon tube and used offline pH probe (Matteo Toledo) as per manufacturer's instruction and recorded
+
+
+
+
+Offline Readings
+
+For compilation of data including cell counts, viability, % aggregation, pH,
+see G-sheet here  
+
+

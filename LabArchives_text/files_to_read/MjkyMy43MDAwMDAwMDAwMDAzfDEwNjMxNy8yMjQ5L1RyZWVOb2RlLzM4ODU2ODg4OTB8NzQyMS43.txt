@@ -1,0 +1,158 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+7238  
+96wp6
+
+
+  
+  
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    2 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  1 µL   Goat anti mouse IgG2b AF555   (1:1000  ) +   1  mL Blocking Buffer
+(PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+   1mL  PBS +    1uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+(Mouse anti-MyoD)IgG2bGoat anti mouse igG2b AF5551:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 13:13 - 13:18
+
+ 13:19 - 13:24
+
+ 13:25 - 13:30
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour. Placed in black box to protect from light.  13:31 - 14:31  
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  14:31
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 14:32 - 14:37
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 14:39 - 14:45
+
+ 14:46 - 14:51
+
+4\.  Replaced dPBS.
+
+ 14:51  
+
+5\. Confirmed staining on microscope by imaging using the zaber microscope
+using the following settings.
+
+  * 1x1 tile imaging (one image captured at the centre of each well, 5x objective.
+  * DAPI and AF555 channels captured, unsuring images are not over/underexposed
+    * DAPI exposure time: [50]  ms, DAPI lamp intensity [     ] 
+    * AF555 exposure time [150] ms, AF555 lamp intensity [     ]
+
+6\. Parafilmed plate and placed in Fridge 65 in Library Lab 15:16
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+SCC BUFFY cells successfully stained for MyoD
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Bufferm5285  
+  
+dPBSm5385  
+  
+Secondary Antibody AF555  
+s1966  
+  
+DAPI (1:1000)m2193  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Note: Images were not coming through from Zaber so also took some images using
+Axio (10X, 2 reps per well, DAPI + AF555)
+
+https://mia-capture.vow.tools/#/session/reczaCdDf4LEuGIOo/images
+
+

@@ -1,0 +1,94 @@
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+Important overarching finding:
+
+Cells grown in ACF media formulations E89C, E810C, and E811B adhere to Cytodex
+microcarriers
+
+Discussion of Results:
+
+Our aim in this experiment was to determine the baseline level of adhesion and
+proliferation of cells grown in our top 3 ACF media formulations (E89C, E810C,
+E811B) on Cytodex microcarriers. From our day 1 results, the adhesion of
+DOLLY12 (Sheep cells) was comparable to serum for all 3 ACF formulations. We
+had hypothesised that cells grown in ACF media may not adhere to to
+microcarriers as well as cells grown in serum containing media. This is
+because serum contains "proteins, growth factors, cytokines, cholesterol, free
+fatty acids, and numerous other compounds that might influence cell
+attachment". Therefore our results suggest that the combination of ingredients
+in our ACF formulations does allow cell adhesion despite the absence of serum.
+Furthermore, since formulations E810C and E811B were iterations of E89C (i.e.
+they contain all the ingredients of E89C along with an additional ingredient),
+these results suggest that ingredients in E89C alone are enough to allow our
+cells to adhere and survive in suspension.
+
+Interestingly, it appears that the learnings from optimising microcarrier
+culture using serum-containing media were applicable for this initial test of
+ACF microcarrier culture. This refers to factors such as intermitted shaking
+and and an approximate seeding density (cells/microcarrier). However, it would
+still be useful to optimise this further, for example, by testing lower
+seeding densities for ACF media than what was used in this experiment. This
+will ensure that cells are allowed to proliferate in suspension (rather than
+planar culture) for as long as possible.
+
+This was the first time ACF media was used for microcarrier culture at Vow.
+The use of suspension culture rather than planar culture greatly increases the
+surface area available for muscle stem cell to grow on, allowing large scale
+expansion in bioreactors. We have previously performed experiments on
+microcarriers using serum containing media. However, the use of FBS in media
+not only poses ethical concerns that misalign with Vow's mission, it is also
+expensive. Having a chemically defined ACF media will address these concerns
+as well as provide a more reproducible process. Therefore, the continuation of
+work on ACF media with microcarriers will be crucial for growing large number
+of cells which can be then be seeded onto scaffolds for growing cultured meat.
+
+  
+
+  
+
+Limitations
+
+While cells were able to adhere to microcarriers in ACF media, neither our ACF
+conditions nor our serum control was able to support proliferation. This could
+be due to the length of time spent in culture, the use of 6 well plates rather
+than 125mL flasks, or an issue with our MIA analysis calculations.  These
+possible culprits will be further explored in followup experiments.
+
+Concluding statement
+
+Cells grown in ACF formulations E89C, E810C, and E811B can adhere to Cytodex
+microcarriers for up to 4 days in suspension. Follow up experiments on long
+term proliferation and harvesting of these cells should be performed in order
+for us to progress towards the large-scale expansion of muscle stem cells in
+ACF media for cultured meat.
+
+Future directions
+
+For this experiment, cells were grown in ACF media in planar culture for ~48
+hours before being seeded onto microcarriers and they were only grown in
+suspension for 4 days. Therefore, we don't have data on the proliferation of
+cells in ACF media in suspension over a longer period of time.
+
+We will also need to further investigate the reason for our lack of
+proliferation.  Follow up experiments will include extending the cells' time
+in culture to 7 days, culturing cells in 125mL shake flasks instead of 6wps,
+and optimizing our MIA calculator for more accurate analysis.  
+
+Along with this, we will need to test whether current harvesting methods will
+work for cells  grown in ACF media. Additionally, if Vow implements ACF media
+in the production process, it is likely that cells would need to go into ACF
+media directly from a thawed WCB vial. Currently all of our WCB vials come
+from cells that were grown in serum. Thawing these cells directly into ACF
+media should therefore be tested in the future. Another area for further
+research is the growth of cells from different species in various ACF
+formulations as nutrient requirements will likely differ between species.
+
+So far we have used biological aspects such as attachment and proliferation to
+compare different formulations. However as we start understanding these, we
+may focus our attention more on cost or effect on taste to make decisions
+around which ACF media should be used for certain products.
+
+

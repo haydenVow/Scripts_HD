@@ -1,0 +1,136 @@
+
+
+Protocol Here: https://www.notion.so/vow/Adipocyte-Culture-Biopsy-Isolation-
+Differentiation-cfe3f4cd453444979cdfc8ce63af0875
+
+
+
+
+Perform passage using below volumes:
+
+  
+
+
+Culture IDVessel type  
+10526-KUZCO20-Alpaca P2-1of1  
+24-well plate (library lab)  
+10511-F_KUZCO20-Alpaca P2-2of2  
+24-well plate (library lab)
+
+
+  
+  
+Prep Media and reagents  
+  
+Base Media: DMEM + 10% FBS + 1x Pen/strep (Total volume 100 mL)  
+  
+
+ComponentVolume  
+DMEM89 mL  
+FBS10 mL  
+P/S1 mL  
+  
+  
+  
+
+
+
+
+Dexamethasone Master Stock 10 mM  
+  
+
+Component Volume  
+Dexamethasone (100 mg)100 mg  
+Ethanol25.48 mL  
+  
+  
+  
+Dexamethasone 1 mM  
+  
+
+Component Volume  
+Dexamethasone (1 mM)1 mL  
+Ethanol9 mL
+
+
+  
+  
+IBMX 1M
+
+ComponentVolume  
+IBMX250 mg  
+Ethanol1.13 mL  
+  
+  
+
+
+
+
+https://docs.google.com/spreadsheets/d/1g465b6CIh_OW21mhuegx2OTI-J0JfoNit_2qsqw3Yn4/edit#gid=854407979
+
+
+Reagent  
+ID  
+  
+Dexamethasone (1 mM)  
+m10400  
+  
+IBMX (45 mM)  
+m10401  
+  
+Insulin  
+m5032  
+  
+Growth media  
+m10402  
+
+
+  
+  
+Aliquot media and add small molecules  
+  
+1\. Aliquot 18.5 mL growth media into a 15 mL tube
+
+2\. Add 1.85 uL FGF (final concentration 2.5 ng/mL)
+
+3\. Split growth media into 3x 6 mL aliquots
+
+4\. Add small molecules according to the below table:
+
+MediaComponentFinal concentrationVolume to be added  
+Adipogenic media 1Dexamethasone (1 mM)0.25 uM1.5 uL  
+IBMX (1M)0.5 mM66 uL  
+Insulin (dilute stock insulin, 1 in 100)1 ug/mL1 uL  
+Adipogenic media 2Dexamethasone (1 mM)  
+1 uM6 uL  
+IBMX (1M)  
+1 mM133 uL  
+Insulin  
+10 ug/mL10 uL  
+ControlNo additions  
+  
+  
+  
+  
+5\. Place media aliquot and aliquot of 18 mL dPBS into water bath
+
+6\. Remove expansion media
+
+7\. Wash with 500 uL PBS/ well  
+8\. Replaced with 500 uL differentiation media /well according to below plate
+map  
+9\. Returned plate to 37C incubator 21:10
+
+
+
+
+
+
+
+Relevant images  
+  
+10511: https://ranger.vow.tools/#/session/rec23ThU61u4PTr55/images
+
+10526: https://ranger.vow.tools/#/session/rec23ThU61u4PTr55
+
+

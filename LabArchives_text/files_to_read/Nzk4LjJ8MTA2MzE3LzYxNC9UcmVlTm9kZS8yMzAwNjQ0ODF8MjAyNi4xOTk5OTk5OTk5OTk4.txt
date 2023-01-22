@@ -1,0 +1,225 @@
+
+
+Perform process using below volumes:
+
+  
+
+  
+
+
+
+
+Fixing
+
+Culture ID(s)Vessel typeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of196-well plate9  
+  
+  
+  
+
+
+
+
+
+
+D1 MuSC Prolif samples- Fix, MyoD, DAPI stain and Image 1 sample from each
+condition. Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+Process:
+
+1\. Removed plate culture IDs: 6496-DOLLY12-Sheep P11-1of1  containing
+scaffolds from the incubator.
+
+2\. Used sterile tweezers to carefully transfer   5x (highlighted in bold in
+the image above)   scaffold pieces to separate wells on a 24 well plate.
+
+3\. Washed the pieces in the 24 well plate 3x in   200 uL of PBS for  5
+minutes at room temperature.
+
+  1. 14:27 - 14:32   
+
+  2. 14:33 - 14:38   
+
+  3. 14:39 - 14:44   
+
+  
+
+
+
+
+4\. Added 150 uL of 4% PFA to each scaffold and incubate for  15  min at room
+temperature.  14:47 - 15:02  
+
+
+
+
+5. Wash the pieces 3 times for   5    minutes in   200  uL of PBS.
+
+  1. 15:03 - 15:08   
+
+  2. 15:11 - 15:16   
+
+  3. 15:17 - 15:22   
+
+  
+
+6\. Aspirate the PBS and leave the scaffold pieces just covered by fresh PBS.
+
+7\. Proceed with primary antibody staining.
+
+
+
+
+### Observations/Summary:
+
+N/A
+
+
+
+
+# Media/Reagents used:
+
+NameDetails  
+PBSM4490  
+PFAM3105  
+  
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+
+
+
+Primary Antibody Staining
+
+  
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared   1.5 mL  PBST (0.2% Triton-X)
+
+2\. Prepared 1.5 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix:  7.5 µL   Primary #1 MyoD (Santa Cruz)
+(1:200  ) + 1492.5µL Blocking Buffer  
+  
+Total volume required =  1500 uL
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Primary)  
+MyoD (Mouse Anti-MyoD (IgG2b))  
+IgG2bAF555 tagged to anti-mouse IgG2b antibody1:200  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added 150 µL PBST (0.2% Triton-X) to each well for 15 min:  15:26 - 15:41
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  150 µL of blocking buffer per well (3% BSA in PBST [0.1% Triton-X])
+and incubate for 45 minutes - 1hr at RT. (no more than 1 hour):  15:43 - 15:39
+
+
+
+
+Single Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody overnight at 4'C, parafilmed and
+wrapped in foil: 15:45
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM4442  
+PBST (0.2% Triton)M4441  
+dPBSM4490  
+Primary Antibody Mix (MyoD)S260  
+  
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+  
+
+

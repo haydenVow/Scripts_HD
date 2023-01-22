@@ -1,0 +1,72 @@
+
+
+## Completed by: AK
+
+
+
+
+A continued focus of the pool party team involves attempting to generate a
+cell line that is able to proliferate in suspension. Suspension experiments at
+Vow have traditionally focused on identifying media components, cell lines or
+optimising the suspension process to increase the chances of achieving the
+projects Q3 objective. However, in the process of attempting suspension
+experiments there has not been a clear indication on what stage (raw isolate v
+MCB v WCB) and which in house cell line (DOLLY v NANDO) is optimal to attempt
+and ultimately succeed in suspension experiments. For example suspension
+trials 1-4 focussed on utilising DOLLY12 fibroblasts from a WCB grow in
+adherent culture then transferred directly into suspension [1][2][3][4].
+Subsequent experiments have focussed on evaluating cell lines (DOLLY and
+NANDO) and thawing directly into suspension from frozen MCB or WCB vials.
+Unfortunately, each of these experiments have typically only looked at each of
+these variables in isolation and often without technical replicates to assess
+statistical significance. Additionally all suspension experiments in the past
+have utilised different medias, thus it is inconclusive to determine whether
+the stage at which the cells are thawed from (raw isolate/MCB/WCB) and cell
+line impact the ability of the cells to adapt to suspension. The rationale
+behind testing these three different timepoints is that cells typically have
+an increased dependence on serum the longer they are cultured in a growth
+media that is supplemented with it [5][6]. Additionally, vitronectin and
+fibronectin, components in FBS promote cell adhesion in monolayer cultures and
+thus could potentially promote similar behaviour when the cells are
+transferred into suspension [7]. Therefore, the longer a cell spends growing
+in adherent culture with FBS may be reflective of how well it can perform in
+suspension culture conditions. Since each of these timepoints are
+representative of how long the cells are culture in serum supplemented media
+it is critical they are investigation in tandem. Therefore, the focus of the
+experiment is to compare DOLLY and NANDO fibroblast cells thawed into
+suspension from three separate timepoints; raw isolate, MCB and WCB.
+Ultimately the results of this experiment should provide an indication on
+whether using DOLLY or NANDO fibroblast as well as whether cells from early
+passages (raw isolate and MCB) or late passage (WCB) are more beneficial to
+achieving suspension adapted cell lines.
+
+  
+
+References:
+
+[1] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzA3LjJ8MTA2MzE3LzU0NC9UcmVlTm9kZS80MTMyMTI1NzkzfDE3OTUuMTk5OTk5OTk5OTk5OA==
+
+[2] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTE4OC4yfDEwNjMxNy85MTQvVHJlZU5vZGUvMTU2ODY0NzI1MnwzMDE2LjI=
+
+[3] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTkxMi4zfDEwNjMxNy8xNDcxL1RyZWVOb2RlLzMzNzM0Mzg4NDF8NDg1NC4z
+
+[4] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjUyMi4wfDEwNjMxNy8xOTQwL1RyZWVOb2RlLzI0NTQwNjAyMDR8NjQwMi4w
+
+[5] Jukić, S., Bubenik, D., Pavlović, N., Tušek, A.J. and Srček, V.G., 2016.
+Adaptation of CHO cells in serum‐free conditions for erythropoietin
+production: Application of EVOP technique for process optimization.
+Biotechnology and applied biochemistry, 63(5), pp.633-641.
+
+[6] Chun, B.H., Bang, W.G., Park, Y.K. and Woo, S.K., 2001. Stable expression
+of recombinant human coagulation factor XIII in protein-free suspension
+culture of Chinese hamster ovary cells. Cytotechnology, 37(3), pp.179-187.
+
+[7] Hayman, E.G., Pierschbacher, M.D., Suzuki, S. and Ruoslahti, E., 1985.
+Vitronectin--a major cell attachment-promoting protein in fetal bovine serum.
+Experimental cell research, 160(2), pp.245-258.
+
+

@@ -1,0 +1,101 @@
+Aim
+
+
+To determine the effect of media temperature on cell loss and detachment.
+
+
+Hypothesis
+
+
+We hypothesise that feeding our cells with cold media will result in a shock
+to the cells causing them to detach from the wells. This will eventually
+result in greater cell loss than that observed when adding warm media to our
+cells.  
+
+
+Background:
+
+
+This experiment was initially designed to determine whether the high passage
+number of the DOLLY12 WCB cells could be inducing senescence, ultimately
+contributing to the cell loss observed during Q3 and prior. Our initial idea
+was to seed our DOLLY12 WCB cells and DOLLY12 MCB cells into 4 x 96 wp (to be
+fixed at different time points) and then leave them to differentiate for ten
+days. In doing so, we would be able to compare the amount of cell loss
+observed in our DOLLY12 WCB to that in our DOLLY12 MCB cells. This would allow
+us to determine whether passage number and cell senescence is a contributing
+cause of the cell loss observed during Q3 and prior given the lower passage
+number of the DOLLY12 MCB when compared to DOLLY12 WCB.  However, as indicated
+in the Final report of the pipetting force and drying out pilot study, the day
+after seeding the DOLLY12 MCB cells died, likely due to a contamination of our
+growth media with ethanol or copper sulfate. Instead of throwing out the
+plates we decided to use the wells containing the DOLLY12 WCB cells to conduct
+a preliminary study to observe potential differences in DOLLY12 WCB cell loss
+in response to cold and warm media.
+
+The experiment designed to determine whether senescence of late passage
+DOLLY12 WCB cells was the cause of the cell loss observed in Q3 and prior was
+repeated and its outcomes are summarised in Final Report MCB vs WCB.
+
+
+Summary of events:
+
+
+  1. Thaw DOLLY12 MCB and DOLLY12 WCB cells and seed into 6 x T175 
+  2. Seed DOLLY12 MCB and DOLLY12 WCB cells into 4 x 96 wp (Columns 5 & 6 contained DOLLY12 MCB and columns 7 & 8 DOLLY12 WCB cells)
+  3. DOLLY12 MCB were dead so, did not continue feeding 
+  4. 50% feed DOLLY12 WCB cells with growth media
+  5. D0D Fix 1 x 96 wp 
+  6. D0D Change DOLLY12 WCB cells in 3 x 96 wp to E6 differentiation media 
+  7. D1D Fix 1 x 96 wp
+  8. D1D 100% E6 feed of wells containing DOLLY12 WCB cells in the remaining 3 x 96 wp
+  9. D2D Fix 1 x 96 wp
+  10. D2D 100% E6 feed of wells containing DOLLY12 WCB cells in the remaining 3 x 96 wp
+  11. D3D Fix 1 x 96 wp
+  12. D3D 100% E6 feed of wells containing DOLLY12 WCB cells in the remaining 3 x 96 wp
+  13. D4D Fix 1 x 96 wp
+
+
+Key results and findings:
+
+
+ These plates have not been fixed nor stained so, these results are purely
+observational.
+
+At neither D1D, D2D, D3D nor D4D we observed any obvious differences in cell
+loss and adhesion between the wells fed with warm and cold media.
+
+
+Discussion and limitations:
+
+
+Similarly to our pipetting force and drying out pilot study we did not fix nor
+stain these plates thus, the results presented in this report are purely
+observational. This is the main limitation of this pilot study, and makes it
+difficult to address our aim and point out any differences accurately amongst
+the conditions tested. Nevertheless, we were able to obtain preliminary data
+on the effect of cold and warm media on cell loss. Based on what is observed
+in the phase contrast images that can be seen in Image 1, there isn't any
+evident effect of media temperature on cell loss and/or detachment during the
+first four days of differentiation of DOLLY12 WCB cells. Thus, the addition of
+cold media to our cells may not be the root cause of the cell loss observed
+during Q3 and prior, even if a proper experiment containing controls and a
+longer differentiation period is necessary to reach this conclusion.
+
+  
+
+Image 1: DOLLY12 WCB cells grown in cold (top row) and warm (bottom row) E6
+differentiation media for days one (first column), three (second column) and
+four (third column) of differentiation.
+
+
+Future direction:
+
+
+Eva Carreras Navarro-Dec 01, 2021, 2:13 PM AEDT
+
+  1. Include the temperature of the media together with all the other handling conditions (pipetting force and drying out) on a single plate
+  2. Keep our plates in differentiation for a longer period of time in order to determine the 'longer-term' (up to day ten of differentiation) effect of media temperature on cell loss and differentiation
+  3. Stain our plates for DAPI, MyoG and MF20 to obtain accurate and quantitative data from our plates that will validate the observational data herein presented
+
+

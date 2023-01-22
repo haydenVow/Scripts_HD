@@ -1,0 +1,52 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/24518/epic-24158-suspension-
+adaptation-12-raw-isolate-v-mcb-v-
+wcb?vc_group_by=day&cf_workflow=500000005&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recZzgltvg6fP9LNr?blocks=hide
+
+RELATED TO MILESTONE:   Generating at least 1 suspension-adapted fibroblast
+cell line which is >95% viable and proliferates for >14 days.  
+
+AIM/PURPOSE: To adapt fibroblasts to suspension culture and determine which
+stage of cell isolation (RI v MCB v WCB) from DOLLY and NANDO fibroblast is
+advantageous during the adaption process.  
+
+HYPOTHESIS:  Cells frozen in liquid nitrogen during earlier stages of their
+passaging lifetime (i.e., RI and MCB) will perform better in terms of
+viability and total cell counts and ultimately will adapt to suspension
+conditions.
+
+RESULTS SUMMARY: Results summary of figure see here
+
+No cells from either DOLLY12 or NANDO3 cultures were adapted to suspension
+culture. Additionally, this was irrespective of which stage the cells
+originated from, i.e., RI/MCB/WCB. Whilst cells from DOLLY and NANDO MCB
+samples regularly recorded higher total cell counts during the 30-day
+culturing period compared to RI and WCB conditions, these differences were
+only marginal.  
+
+CONCLUSIONS:
+
+Unfortunately, cells from RI, MCB, and WCB samples across both DOLLY12 and
+NANDO3 fibroblasts were unable to be adapted to suspension culture. All
+cultures demonstrated a mass reduction in cell viabilities within one week
+evidenced by the low cell numbers of the first data capture time point (day
+7). Results also indicated that there were no major differences between the
+cell isolation stage (RI v MCB v WCB) on the cells' ability to adapt to
+suspension. Additionally, it was observed that there was a complete lack of
+viable cells and debris during the manual count which suggested that the cell
+pellets may have been accidentally aspirated during one of the early Opentrons
+feeding sessions.
+
+NEXT STEPS:
+
+  * Evaluate the effectiveness of 75% media changes compared to 100% in terms of removing debris whilst maintaining cell pellet integrity. Additionally, to avoid any instances in which the cell pellet may be accidentally aspirated. 
+  * Standardise the cell staining and imaging protocol in order to prioritise data capture for the most critical time points (days 1-2), particularly during the first week in suspension culture. 
+  * Incorporate learnings from incubator incident to develop preventative measures to ensure situations like this are not repeated. 
+  * Repeat comparison of RI, MCB, and WCB cell samples using crocodile fibroblasts, primarily as crocodile cells are to be used in Vows' first product. 
+
+

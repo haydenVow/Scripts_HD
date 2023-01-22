@@ -1,0 +1,118 @@
+
+
+Discussion
+
+Fix and Dapi staining is currently the most commonly used method assessing
+cell attachment to scaffolds at Vow. Due to the fixation step, this method
+involves removing samples from continued culture at the time of staining.
+Hoechst 3342 and Dapi staining can also be used to stain unfixed cells,
+allowing cells to continue in culture after staining. Consequently, live
+Hoechst and Dapi staining may provide an alternative method for assessing cell
+attachment and viability, without the need to terminate stained samples. Thus,
+the use of Hoechst or DAPI would allow for the repeat use of samples and
+subsequently facilitate the assessment of cell viability across multiple time
+points, reducing replicate requirements. This will be of particular benefit
+when moving into high-throughput design of experiment (DoE) based experiments
+where we will have high sample demands (and as a result high cell demands).
+Before transitioning towards unfixed staining, we wanted to assess the affects
+of these live cell staining protocols on DOLLY12 cell viability in continued
+culture, to identify any possible cytotoxic effects on cells. Wherein, it has
+been revealed that in some instances, Hoechst staining has been detrimental to
+cell survival [1].  In the work by Schendzzielorz et al., for example, it was
+seen that after Hoechst 3342 staining, adipose derived stem cells developed
+DNA damage and a loss of viability in continued culture [1]. Toxicity of both
+Dapi and Hoechst 3342 has also been demonstrated in the continued culture of
+human leukemic cells [2].
+
+Our study only looked at cells in planar culture, as our cells were not
+successfully seeded to our zein scaffolds at the beginning of the experiment.
+We saw that after 7 days of culture, cells that had been stained with Hoechst
+or Dapi on day 1, did not have a visibly different morphology or confluence
+compared to that of unstained cells when viewed by phase microscopy. This
+indicates that there was little or no variation in cell viability between
+groups, suggesting that there is no strong negative impact of dapi or Hoechst
+staining on cell survival. Due to shortcomings in our dapi staining protocol
+however, we were unable to make a quantitative assessments of cell survival.
+
+Dapi staining of unfixed cells at concentrations of both 10ug/ml and 5ug/ml
+resulted in all nuclei being stained, rather than just dead cell nuclei. When
+staining at day 1 with 10ug/ml, some cells stained much more brightly than
+others and it is probable that the more brightly stained cells were dead,
+while the more faintly stained cells were alive. Strangely, when staining at
+5ug/ml at day 7 however, all nuclei appeared brightly stained, making it
+impossible to differentiated between live and dead cells. Because of this, our
+protocol, which used unfixed cell staining (to obtain dead cell estimates),
+followed by fixed cell dapi staining (to obtain total cell estimates), was not
+effective in clearly differentiating live from dead cells and was therefore
+not useful in estimating cell viability. Re-staining cells with dapi after
+fixation also resulted in most cells being washed away from the plate.
+Universal nuclei staining, coupled with cell loss made it difficult to make
+comparisons between Dapi staining patterns before and after fixation.
+
+References
+
+1\.            Schendzielorz, P., et al., Labeling Adipose-Derived Stem Cells
+with Hoechst 33342: Usability and Effects on Differentiation Potential and DNA
+Damage. Stem cells international, 2016. 2016: p. 6549347-6549347.
+
+2\.            Park, C.H., B.F. Kimler, and T.K. Smith, Comparison of the
+supravital DNA dyes Hoechst 33342 and DAPI for flow cytometry and
+clonogenicity studies of human leukemic marrow cells. Exp Hematol, 1985.
+13(10): p. 1039-43.
+
+  
+
+
+
+
+Future directions
+
+The results of our study did not indicate cytotoxic effects of Dapi or Hoechst
+staining in DOLLY12 cells over a 7 day culture period however this conclusion
+is based solely on subjective comparisons of stained and unstained cells under
+phase microscopy. In order to produce quantifiable cell viability data, future
+studies should aim to optimise Dapi staining protocols to ensure visible
+differentiation between live and dead cells. Alternative viability stains such
+as calcein/propidium iodine could also be investigated as these stains are
+able to differentially stain either live or dead cells only.
+
+To reduce possible cytotoxic effects, both Dapi and Hoechst staining protocols
+should also be optimised with a view to minimising staining concentrations and
+staining incubation times as cytotoxicity is likely to be dose dependant.
+Schendzzielorz, P., et al., have shown that using lower Hoechst 3342 staining
+concentrations of 0.5ug/ml compared to 5ug/ml reduced cell death in adipose
+derived mesenchymal stem cells [1]. Given that we obtained bright, sustained
+staining of DOLLY12 cells with both Dapi and Hoechst, sufficient staining may
+still be achieved using lower staining concentrations and/or incubation times.
+
+The scaffold arm of the project was aborted early in the experiment due to a
+lack of cell attachment to scaffolds at day 1. This lack of attachment is
+believed to have occurred due to an adverse effect of EPL coating of scaffolds
+overnight, as opposed to our standard coating time of 1-2 hours. Cells stained
+with Dapi or Hoechst in 3D culture may also behave differently to those in 2D
+culture systems.  In future, it would be useful to replicate and optimise this
+experiment using cell seeded scaffolds such as zein, as scaffold are likely to
+be used throughout our DOEs.
+
+  
+
+1\.            Schendzielorz, P., et al., Labeling Adipose-Derived Stem Cells
+with Hoechst 33342: Usability and Effects on Differentiation Potential and DNA
+Damage. Stem cells international, 2016. 2016: p. 6549347-6549347.
+
+  
+
+
+
+
+Conclusion
+
+Staining of unfixed DOLLY12 with dapi or Hoechst did not appear to adversely
+affect cell survival after 7 days in planar culture. Future studies should aim
+to accurately quantify cell viability after staining, to optimise staining
+conditions and to investigate Hoechst and Dapi staining using unfixed DOLLY12
+seeded scaffolds.
+
+  
+
+

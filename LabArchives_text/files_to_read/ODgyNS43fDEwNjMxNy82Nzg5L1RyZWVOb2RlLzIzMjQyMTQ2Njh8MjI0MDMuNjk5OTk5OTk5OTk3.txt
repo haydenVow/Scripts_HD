@@ -1,0 +1,104 @@
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+m10138  
+  
+KSR  
+S4605  
+  
+IGF-1 - LR3  
+M9190  
+  
+b-FGF  
+M9371  
+  
+DMEM/F12 + 20% FBS + 1% P/SM10122  
+  
+Tryplea9282  
+  
+dPBSm1037  
+  
+  
+  
+  
+PRF DMEM/F12  
+s3301  
+  
+  
+  
+
+
+
+
+BASE MEDIA PREPARATION:
+
+HYCELLCHO + SUPPLEMENT MEDIA PREPARATION:
+
+  1. Hycell Cho media was prepared for the suspension culture vessels below, 
+    1. 8x96 well plates per Knockout condition, 
+    2. 2x50mL bioreactor tube per knockout condition, 
+    3. 1x50mL bioreactor tube for nucleofection control. 
+  2. 6x96 well plates (200 uL per well) = 116 mL
+  3. 3x mini bioreactor tubes (5 mL per tube) = 15 mL
+  4. Total = 131
+  5. 1.1 x 169 = ~145 mL, Hycell Cho media was prepared using the following volumes in the range below:
+
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043&range=A8:E15
+
+GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)145  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Base mediumNANANA115.42  
+KSRNANANA29  
+FGF0.00010.050.0150.29  
+IGF10.00010.050.0150.29  
+  
+  
+  
+Total medium vol (mL)145.00  
+  
+  
+
+DMEM/F12 + 20% FBS + 1 x P/S media was aliquoted for adherent cultures  
+
+  * 3xT75cm plate per knockout  condition/nucleofection control (12mL per flask).  
+  * 2x 96 wp, 1 for each knockout condition (200uL per well).
+
+3 x T75 plates = 36mL
+
+2x 96 well plates = 38.4mL
+
+Total = 74.4 x 1.1 = ~82 mL
+
+  
+
+
+
+
+PREPARE FACS BUFFER
+
+  1. Buffer used was made for Nucleofection Round 1, Run 2, Buffer was sterile filtered and used once again was Stored at 4ºC until transport to FACS sorting facilit, fridge in Library lab. bottom shelf on fridge door
+
+
+
+
+PREPARE DESTINATION VESSELS
+
+  1. 6 x 96 well ultra low attachment plates were filled with 200uL of Hycell Cho growth media containing FGF-b, IGF1-LR3 and KSR. 
+  2. 2x 96 well adherent plates were filled with 200uL of DMEM/F12 + 20% FBS + 1xP/S growth media. 
+  3. plate edges were parafilmed and plates were left in the fridge in library lab at 4 degrees until use on 18/2/2022. 
+
+

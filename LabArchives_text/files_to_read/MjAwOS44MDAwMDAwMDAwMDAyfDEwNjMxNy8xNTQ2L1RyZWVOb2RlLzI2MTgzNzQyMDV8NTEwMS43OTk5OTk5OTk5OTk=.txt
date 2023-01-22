@@ -1,0 +1,144 @@
+
+
+## Performed by: Jared Bergman  
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6898  
+4  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connected a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew sample.
+  7. Disconnected sample syringe and transferred sample to vessel(s) for subsequent analysis.
+    1. 3 x 1 mL aliquots in 3x 1.5 mL Eppendorf tubes
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+  
+Operator initialsJB  
+  
+Checked by operator initialsJB  
+  
+Timestamp15:21  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Added 1 drop of Hoechst 33342 readyprobes reagent to each tube
+  2. Vortexed at minimum power for 30 seconds
+  3. Left the tubes to incubate at room temperature, in the dark (away from light), for XX minutes.  `| 15:25 - 15:27 |`
+  4. `Added 3 x 80 uL of dPBS to 3` x wells of a 96 well plate
+  5. `After incubation, transferred 20 uL from each tube to a well containing 80 uL of dPBS `
+  6. The wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 2-3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| 1:00 - 16:10 |`
+    1. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  9. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+NOTE: Very few carriers seen so 100ul sample from each tube imaged instead.
+Some microcarriers seen but very few cells on them.
+
+
+
+
+NOTE
+
+A second 3ml sample was retrieved from the biostat as before and 100ul was
+checked under 5x phase in 96WP well.
+
+https://storage.googleapis.com/microscope-image-
+archive/2021-06-01T06:32:07Z_recHvNu6NakETtvkj_1-Axio_T87EC.png
+
+There was more microcarriers present in this sample. The amount present in
+this sample was as expected. This suggests the first sample was not
+representative of the biostat culture. However, there were still not many
+cells present on the microcarriers so the nuclear ejection was deemed not
+worthwhile. This was decided by operator Jared Bergman after consulting Tom
+Tarrento and Nathan Hawkins.
+
+  
+
+
+
+
+### Observations/Summary:
+
+### Low confluence on microcarriers. Nuclear ejection postponed due to lack of
+cells present.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+dPBS M5071  
+3 mL  
+  
+Hoechst 33342S2562  
+3 drops  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Hoechst-stained microcarriers:
+
+https://mia-capture.vow.tools/#/session/recHvNu6NakETtvkj/images
+
+  
+
+Ejected nuclei:
+
+https://mia-capture.vow.tools/#/session/recHvNu6NakETtvkj/images
+
+

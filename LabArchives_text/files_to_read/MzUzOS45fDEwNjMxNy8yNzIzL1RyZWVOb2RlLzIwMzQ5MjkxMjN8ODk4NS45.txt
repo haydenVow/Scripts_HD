@@ -1,0 +1,162 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+7222-DOLLY12-Sheep P13-1of2  
+96-well plate18
+
+
+  
+  
+## Performed by: Bec Screnci  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM 5703  
+  
+dPBSM 5923  
+  
+Secondary Antibody (AF488 IgG1)S 1606  
+  
+DAPI (1:1000)M 2193  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    20 mL  dPBS for washing
+
+2\. Centrifuged the secondary antibody stock (AF488 IgG1) using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+ 2 µL   Secondary #1 AF488 (IgG1)  (1:1000  ) +  1998  µL  Blocking Buffer
+(PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+Total volume required = 2 mL
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI (1:1000) mix:
+
+  2 uL  PBS +   1998 uL  of DAPI
+
+Total volume required = 2 mL  
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used:
+
+Primary AntibodyIgG formSecondary AntibodyDilution of secondary antibody in
+blocking buffer  
+MyoGIgG1AF488 (IgG1)1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from the Staining and Fixing fridge (incubated in primary
+antibodies overnight).
+
+  1. Plate is labelled as MyoG staining AK EPIC 20128
+
+NOTE: from this step onwards protect from the light by wrapping the plate in
+foil and perform experiment in the dark.
+
+2\. Washed 3 times for 5 min with PBS (200 uL per well) at RT.
+
+ 11:36 - 11:41  
+
+ 11:42 - 11:47  
+
+ 11:47 - 11:52  
+
+3\. Incubated the cells with secondary antibody mixture (100 uL per well) in
+the dark at RT for 1 hour.  11:53 - 12:53 pm
+
+
+
+
+Counter staining
+
+1\. Removed 2nd antibody solution.  13:09
+
+2\. Wash each well with 200 uL dPBS
+
+3\.  Washed with DAPI (1:1000) (100 uL per well) in PBS for 5 min at RT in the
+dark.
+
+ 13:12 - 13:17 pm  
+
+4\.  Washed in PBS (200 uL per well) 3 x 5 min at RT in the dark. (No Triton)
+
+ 13:17 - 13:22  
+
+ 13:22 - 13:27
+
+ 13:27 - 13:32  
+
+5\.  Replaced dPBS.
+
+ 13:34 pm  
+
+6\. Parafilm the plate, wrap in foil (labelled) and store in the Fixing and
+Staining fridge at 4'C. 13:36 pm  
+
+7\. Confirmed staining on microscope by imaging on the Zaber (This will be
+performed at a later date).
+
+  1. Please note that you do not to image on the Zaber today
+
+  
+
+Channels to observe immunofluorescence:
+
+1\. AF488 for MuSC
+
+2\. DAPI for cell nuclei
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Myogenic cells observed on several of the fibroblast ECM scaffolds  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

@@ -1,0 +1,45 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/27244/electrical-stimulation-
+study-2-effect-of-electrical-stimulation-on-myoblast-
+maturation?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:  culture IDs 8822-C2C12-Mouse P5-1of2 and
+8823-C2C12-Mouse P5-2of2
+
+RELATED TO MILESTONE:  KR2 - Increase late stage maturation markers by 10x
+compared to non-stimulated baseline
+
+AIM/PURPOSE: To assess the effect of selected continuous electrical
+stimulation profiles on myoblast differentiation and maturation
+
+HYPOTHESIS: We identified a suitable voltage range and stimulation profile to
+affect cellular behaviour. we also hypothesize that continuous stimulation
+will benefit cell maturation (as opposed to some reports which take advantage
+of work-rest periods, see final report introduction)
+
+RESULTS SUMMARY:
+
+  
+  
+Total Protein analysis of various stimulated culturesLaminin-precoated C2C12
+culture differentiated under 5.4V stimulationGelatin-precoated C2C12 culture
+differentiated under 3.4V stimulation  
+Gelatin-precoated C2C12 culture differentiated (electrode control (no stim)  
+  
+  
+CONCLUSIONS:  The hypothesis is not supported, as evidenced by the lack of
+significant differences in protein expression and cell phentotypes observed
+between stimulated and unstimulated conditions. This might be due to
+suboptimal stimulation profiles chosen or the start of e-stim at the wrong
+time in the maturation cycle.
+
+NEXT STEPS:
+
+  * Normalize above Bradford data to cell number for quantitative comparison
+  * build a new lid prototype to increase throughput of e-stim studies (24w format with 6 replicates per condition)
+  * revisit literature for more suitable stimulation conditions (PulsePal2 is ordered and will allow us to study work-rest periodic stimulation)
+  * investigate the effect of early e-stim on cell alignment and fusion index
+
+

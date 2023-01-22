@@ -1,0 +1,55 @@
+
+
+Single Cell Cloning for adherent fibroblasts background information
+
+Single cell cloning (SCC) is the process by which a single cell is isolated
+from a "multiclonal" or "heterogenous" population of cells to generate a
+clonal population that is genetically identical [1]. Contrary to stable cell
+lines which are generated under selective pressure and result in a mixed
+population containing various copies of a transfected gene insert, cells
+generated via SCC result in a homogenous population [2][3]. This homogenous
+population can then be screened for cell clones that display favourable
+features such as increased cellular division/growth, adaptation to suspension
+culture, enhanced growth in animal component free media or cell
+immortalisation which can be conferred to them via genetic mutations. The
+latter is crucial in order to produce sustainable cell cultured products of
+sufficient scale to feed billions of individuals as well has not having to
+continuously rely on biopsies to obtain more cells.  
+
+The general premise of this process involves isolating single cells grown from
+a heterogenous population, and is critical to determine that any monoclonal
+population generated can be derived from a single cell. One of the common
+approaches to isolate single cells is via a specialised type of flow cytometry
+dubbed fluorescence-activated cell sorting (FACS). This method sorts a
+heterogenous mixture of cells, one at a time, into sub-populations based on
+fluorescent labelling and has the advantage of being an ultrahigh-throughput
+technique [4]. Once sorted into the respective sized well plate, each clonal
+population will be scanned using a automated microscope imaging system (Zaber
+scanning). Each promising clonal population, as indicated by population size
+(i.e. confluency) and morphology, will progressively be passaged into larger
+sized vessels until an Master Cell Bank can be generated. This procedure (FACS
+sorting and SCC) has been previously employed to generate two MuSC monoclonal
+populations, DOLLY12_11E7 (Sheep) and DAISY4_16G9 (Cow), from mixed MuSC
+populations, DOLLY12 and DAISY4 respectively. However this same process has
+yet to be performed on adherent sheep fibroblasts, with this experiment
+constituting the first attempt. Nevertheless sheep fibroblast cells have the
+advantage of not needing to be seeded onto gelatin coated growth surfaces, do
+not differentiate when in close proximity of one another and can be grown to
+high confluency (>90%) before requiring a passage, which should result in a
+substantially easier SCC process.
+
+  
+
+References:
+
+[1] https://www.mdpi.com/2073-4409/9/6/1482/htm
+
+[2] https://www.sciencedirect.com/science/article/pii/B9780124200708000143
+
+[3] https://www.thermofisher.com/au/en/home/references/gibco-cell-culture-
+basics/transfection-basics/transfection-methods/stable-transfection.html
+
+[4] https://www.sciencedirect.com/topics/medicine-and-dentistry/fluorescence-
+activated-cell-sorting
+
+

@@ -1,0 +1,120 @@
+
+
+Report guideline:  
+  
+Did you prove/disprove your hypothesis? Did you make any surprising
+observations along the way? What were the limitations to your EPIC and how
+might these have impacted your results? What were the biggest learnings from
+this EPIC? and, what were the key takeaways?
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+
+Key Finding
+
+
+Pectin coating of in-house zein scaffolds has a significant negative effect on
+scaffold confluence on Day 7 relative to EPL coating zein.
+
+
+
+
+MyoG and MF20 antibody staining was absent on all D14 samples. The lack of
+staining could have been caused by zein material inteference/absorption of the
+secondary antibodies.
+
+
+Discussion
+
+
+The main outcome of this study was that pectin coating of zein had a
+significant negative effect on scaffold confluence relative to EPL coating.
+The justification behind using pectin and EPL coating in this experiment came
+from the findings of previous studies (link), in which our results suggested
+that these coatinsg improved adherence maintenance over 7 days in diff media,
+following seeding in media with serum. However, a replicate number of n=1 or
+n=2 was typically employed in these early studies (due to previous limitations
+in scaffold processing and cell number). Thus the benefit of EPL and pectin
+coatingsrelative to non-coated samples could not be confirmed. Following on
+from this, due to our more recent limitations experienced when using DSD
+designs in the JMP software we were limited to using only 2-level categorical
+factors in this experiment, i.e. pectin and EPL coating, and not 3-level
+categoricals i.e. pectin, EPl and non-coated samples. For this reason we were
+unable to include an uncoated option in this run. Consequently, in this DSD
+experiment we were able to confirm that EPL coating has a significant positive
+effect on scaffold confluence relative to pectin coating, but not whether EPL
+coating has a significant positive effect in comparison to uncoated zein.
+Consequently, future experiments should aim to include both EPL coated and
+non-coated zein scaffold conditions to verify our hypotheiss that EPL coating
+improves cell adherence maintance to zein scaffolds.  
+  
+It was found when using both automated and manual analysis of scaffold
+confluence that the ECM media conditions employed in this study had no
+significant effect on adherence maintenance by day 7 relative to the E6 only
+control samples. However, upon close analysis of the baseline ACF EPL data (E6
+only) it was found that only 3 replicates were recovered for this condition
+(one replicate was lost during imaging) and that of the remaining 3 replicates
+only two scaffolds showed high confluence (75 and 85% confluenct for manually
+scored data and 72% and 51% for FIJI automated scored data) whereas one
+scaffold replicate demonstrated low confluence (25% and 24% for FIJI automated
+data). Consequently, the ACF EPL baseline condition had high variability
+across replicates. In comparison, conditions 1,3,5 and 11 scored by manual
+observation demonstrated high scaffold confluence and low variability across
+replicates. Therefore, despite the fact conditions 1,3, 5 and 11 werenot
+significantly different to the baseline E6 condition, the reason for this was
+likely down to the high standard deviation of the baseline condition. Taking
+this into consideration conditions 1,3,5 and 11 could be promising candidates
+worthy of further exploration. Subsequently, a follow on experiment using EPL
+and non-coated zein scaffolds should be performed to further explore these ECM
+media conditions in comparison to ACF (E6) alone. Wherein, an increase in
+scaffold replicates (from n=4 to n=6) will be better equipped to verify the
+effects of these conditions on scaffold confluence relative to E6 alone.
+
+It should be noted at this point that the ranking of scaffold confleunce for
+the tested media conditions for the manually scored data did not match that of
+the automated data. Wherein, the variability between replicates was typically
+higher in the automated data set. As a result of the increased variability in
+scoring for the automated data, conditions 1,3,5 and 11 (which were raised as
+promising in the manual data set) did not demonstrate consistently high
+scaffold confleunce when scored by FIJI automation.
+
+Despite the potential loss in measurement sensiitivy, due to time efficiency
+and the reduced chance of manual bias automated scaffold scoring will still be
+taken forward for future experiments. Further work and iterations will be
+continually employed to improve the scoring accuracy of the image automation
+process.
+
+  
+
+
+Future Directions
+
+
+Explore ECM media conditions 1,3,5 and 11 versus E6 alone on both EPL and
+uncoated zein.
+
+Use custom design instead of DSD in JMP to overcome 2-level limit on
+categorical factors.  
+  
+Try different methods for automated image analysis to improve on scoring
+accuracy (more reflective of manual scoring).  
+  
+Further assess antibody staining in combination with zein (can this be
+optimised), or consider alternative methods for assessing differentiation on
+zein i.e. protein assays, ELISA or western blotting.
+
+

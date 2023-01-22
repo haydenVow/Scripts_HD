@@ -1,0 +1,64 @@
+Performed by: LL
+Flask IDConditionLocation  
+11624-Nuvonis Quail Suspension341-P-1of12  
+Control 1: 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188  Main
+lab, shaking incubator 159  
+  
+116245-Nuvonis Quail Suspension341-P-2of12  
+  
+11626-Nuvonis Quail Suspension341-P-3of12  
+Control 2: 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188  
+11627-Nuvonis Quail Suspension341-P-4of12  
+  
+11628-Nuvonis Quail Suspension341-P-5of12  
+Control 3: Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride  
+11629-Nuvonis Quail Suspension341-P-6of12  
+  
+11630-Nuvonis Quail Suspension341-P-7of12  
+Medium 1: 75/25 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188  
+11631-Nuvonis Quail Suspension341-P-8of12  
+  
+11632-Nuvonis Quail Suspension341-P-9of12  
+Medium 2: 90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188  
+11633-Nuvonis Quail Suspension341-P-10of12  
+  
+11634-Nuvonis Quail Suspension341-P-11of12  
+Medium 3: 90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride + 1 g/L
+poloxamer-188  
+11635-Nuvonis Quail Suspension341-P-12of12  
+
+
+Process
+  
+  
+  1. Aliquoted 100 mL of each media 
+  2. Added IGF, EGF, and FGF to aliquots as described below (note: FGF is only for Medium 3) 
+    1. Medium 1 & 2, Controls 1, 2 & 3
+      * Volume100  
+  
+  
+Desired conc (mg/mL)Vol to add (mL)  
+IGF-1 LONG R30.000050.100  
+EGF0.000010.020  
+    2. Medium 3
+      * Volume100  
+  
+  
+Desired conc (mg/mL)Vol to add (mL)  
+IGF-1 LONG R30.000050.100  
+EGF0.000010.020  
+FGF0.00010.250  
+  3. Added 20 mL of each media to 12 x E-125s and placed in incubator to warm 
+  4. Replaced remaining media in fridge 
+  5. Counted and subcultured 12M cells from EPIC31239 (control flask - lab book)  
+  6. Retrieved flasks from incubator
+  7. Added 1M cells to each E-125 
+  8. Returned flasks to incubator (37'C, 5% CO2, 120 RPM)
+
+

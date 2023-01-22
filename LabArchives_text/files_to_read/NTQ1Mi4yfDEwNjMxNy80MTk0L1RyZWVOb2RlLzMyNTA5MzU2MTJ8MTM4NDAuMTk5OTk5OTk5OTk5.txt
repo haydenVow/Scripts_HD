@@ -1,0 +1,142 @@
+
+
+PAIN!!!!!nah just kidding :)
+
+
+
+
+First Iteration:
+
+  * Cells were detected by the macro based on their size and morphology. Using the drawing tool in FIJI it was possible to measure the area, circularity and size of fluorescent objects and obtain a mean value and standard deviation for several of these values. These could then be used by the analyse particles tool. However the analyse particles can only filter objects based on size (total pixel area) and circularity with 1 being a perfect circle.
+  * The brightness/contrast of the fluorescent objects could be enhanced using the "enhance contrast" feature. However this feature also enhances the contrast of other fluorescent objects so it doesn't filter out background noise but rather amplifies it. 
+  * Given that when the Zaber images the wells it includes part of the well plate outside of the well this result in an overexposed bright ring around the perimeter of the well. This can interfere with how FIJI detects objects based on inputted values. To eliminate this the "subtract background" feature was used which removes smooth continuous background such as the outside of the well. However due to inconsistencies in image acquisition this tool didn't prove useful as it would subtract areas of interest resulting in loss of data. The clear outside tool was favoured instead, which enables you to eliminate all background data outside of a region of interest i.e. create a circle around the well perimeter and eliminate all background outside of that circle.
+
+  
+
+  
+
+Shortcomings and learnings of the method:
+
+\- Filtering fluorescent objects based on size and circularity is insufficient
+to obtain an accurate cell count, due to the presence of debris which can
+easily have the same shape and size and the cells. This resulted in vastly
+overestimated cell counts.
+
+\- Subtract background didn't appear to be useful due to variations in image
+acquisition previously discussed.
+
+\- It cannot be stressed enough how important a good starting image is to this
+endeavour. If the image you are trying to analyse is bad, your results will be
+faulty. A GOOD STARTING IMAGE IS ABSOLUTLEY ESSENTIAL
+
+\- Good to know that the cells fall within a relatively narrow range of size
+and that the filtering by size (>85 pixels) appears to remove majority of the
+debris but not all.
+
+-Measure is an extremely useful tool to gain data on certain characteristics of objects in FIJI. Do not underestimate the power of this feature in your FIJI toolbox. 
+
+\- Despite the usefulness of the clear outside feature, as each well that is
+Zaber imaged has to be calibrated this can cause minor differences in how the
+well is centred with respect to the entire image. For example the clear
+outside tool may cover the well perimeter to a very good degree in one image
+however in a separate well from a plate that was calibrated slightly
+differently, the oval may sit slightly to the right or to the left, etc,
+potentially "chopping off" a small section of the well. This again highlights
+the importance of consistent image acquisition, and emphasises the need for a
+pre-set calibration system that simply needs to be loaded for the respective
+well type and not manually set each time a well needs to be imaged.
+
+
+
+
+Second Iteration:
+
+  * Major differences between this iteration and the previous one is the inclusion of two factors. One is that the cells were filtered by fluorescence in addition to size filtering. Other factor was that it was possible to overlay the size filtering result with the fluorescence results and basically any object that overlapped between the two was considered a cell, thus we could manually check this against the original image to see if it's performing as we intent (an absolute game changer if you ask me). 
+  * Feature that was used to filter cells by fluorescence is called find maxima. Basically this identifies individual pixels with intensity based on the prominence value we set. The higher the prominence the more selective we are off pixels with a certain intensity, i.e. a high prominence means we may only select the top 15% of pixels based on their intensity (i.e. between the range of 0-255 for a 8-bit image). The is important because stained cells will generally be much more fluorescence that the background so we can select a prominence value that includes all our cells but discard majority of the background. However even with this tool in our arsenal there still was the issue of debris that had similar fluorescence and size to cells, however this within a manageable margin of error.
+  * The other feature works by basically taking the x and y coordinates of pixels identified by the find maxima tool. Then we have obtain our thresholded image and filter by size and circularity and covert the results into a "mask", which designates each object of interest detected in the threshold as a black dot. The x and y coordinates are then overlayed with the mask and any prominence value that sits on a black dot (pixel value of 255 due to being inverted) will be classified as a cell. Using a special bit of code FIJI can then tally the total amount and spit out the total cell count. 
+
+  
+
+Shortcomings and learnings of the method:
+
+\- The ability to filter on two separate image characteristics such as
+fluorescence and size is extremely beneficial to filter out objects that
+display features of one characteristic but not the other. The step was
+undoubtedly the most important step to minimize detecting artifacts whilst
+simultaneously preserving the total cell count and not excluding regions of
+interest.
+
+\- The overlay between the mask and prominence enables manual checking of what
+the macro thinks are cells in order to gauge how it is performing. This meant
+that images did not have to be pre-labelled by a human observer saving an
+incredible amount of time.
+
+\- Unfortunately it is quite impossible to to make the macro perfect for each
+image. Whilst it worked well for the majority of images, due to the subtle
+differences in image acquisition some counts we drastically underestimated.
+The other prominent challenge is described in the next point.
+
+\- Unbeknownst to me at the time of deployment was that it was virtually
+impossible for this iteration of the macro to detect fluorescence signals with
+a low pixel intensity. As thresholding relies on the distribution of pixel
+intensities relative to the whole image it is quite easy to set a threshold
+level that is too low to pick up your fluorescent signals. As such they will
+not be included in your mask and therefore unable to overlayed with the
+prominence values. This directly results in low cell counts. In addition there
+is a limit to how well the thresholding tool works. In the majority of the
+images in which this was an issue the thresholding tool could not detect the
+fluorescent objects.
+
+For any future reference it will be detailed below how this issue was first
+discovered and the steps taken to mitigate the issue.
+
+
+
+
+Third Iteration:
+
+*This iteration represents the most current version of the macro and is still in the process of being tested
+
+As discussed in the previous section a major limitation not noticed in the
+previous version of the macro was its inability to detect cells of very low
+fluorescence. The issue was first noticed when several total cell counts were
+drastically lower than the dead cell counts. Ideally we should expect the
+total cell counts to either exceed or be equal to the dead cell counts as
+those stains are not exclusive to a single cell state (either live or dead)
+but both. Therefore this could mean that either the stain be utilised was
+ineffective or the macro was not able to detect the stained cells.
+
+How this was investigated: This first step was to determine what the root
+issue was. To accomplish this the macro cell counts for a number of dead cell
+imaged wells were overlayed against the total cell count images, as we would
+expect there to be at least overlap between the dead cells in the dead cell
+image and the total cell image. Fortunately this was the precise issue in that
+under normal human inspection it appeared that there was no fluorescent
+objects but the overlay revealed that there were objects being stained albeit
+with low fluorescence signal. As such they appeared so weak that they were
+virtually undetectable by the steps used in that macro code.
+
+  
+
+Features of this macro:
+
+  * The first major feature introduced in this iteration was a bandpass filter. Basically bandpass filters work by converting an image into multiple waves with different frequencies and then it allows only certain frequencies to pass through and removes everything else. High spatial frequencies correspond to sharp edges and fine details in the image whilst lower spatial frequencies are related to more of the overall shape. More technical information can be found here but the essentially it's a way to filter out only the information you need. Taking away the low frequencies could give you a better outline of your subject and taking away part of the high frequencies can remove a lot of the "graininess" of the image. Fortunately as a bandpass filter works by filtering based on spatial features it is advantageous in situations in which you do not need to screen cells by fluorescence but shape and size. This drastically improved the visualisation of the DAPI imaged wells as it includes a step in which it oversaturates the frequencies allowed through the filter. It is likely this will be a feature incorporated in additional versions of the macro due to it's ability to enhance image visualisation. 
+  * The second feature tested in this iteration was adaptive thresholding. FIJI has two separate approaches to thresholding, one called global thresholding and another is adaptive thresholding. Global thresholding consists of setting an intensity value (threshold) such that all pixels having an intensity value below the threshold belong to one phase, and the remainder belonging to the other. In essence global thresholding is a relatively good way to separate pixels of different intensities in an image. However this has several drawbacks. First off a core assumption of global thresholding is that you have two peak pixel intensities in your image, one belonging to your objects and the other belonging to the background. In situations like this setting an automatic threshold level is very easy and would enable you to effectively separate your objects from your background. However if you have a much broader distribution of pixel intensities (between 0-255 for an 8-bit image) it becomes quite difficult to set a threshold intensity that is a good compromise between minimising background particles whilst including all your objects of interest.  Another limitation is that global thresholding (also known as as auto thresholding) needs to always be automatically set. This means that once it is applied in a macro code, it will always use that threshold level for every subsequent image you analyse. The obvious deficit in this is that there can be large differences in terms of image acquisition resulting in widely varied images. Thus it may work well for one particular image but ineffective in the next three, etc. Thus it is important to find operations in FIJI that are adaptable to different conditions. Enter adaptive thresholding (aka binarization). The main difference between adaptive and global thresholding is the method by which it selects an intensity level. As previously discussed global thresholding sets an intensity levels relative to the whole image (hence global), whereas adaptive thresholding sets an intensity value of a arbitrary numbers of regions within your image via an operation known as segmentation. Basically this particular adaptive thresholding techniques known as Chow and Kaneko binarization divides your image into an array of overlapping sub images and then finds the optimum threshold for each sub image by investigating its histogram. When there is a sharp difference in pixel values as calculated from the histogram those pixels are "thresholded" as being objects of interest and they are separated from the background. Whilst this sounds good on paper a drawback of this method is that it struggles when you have an illumination gradient present in your images. This is a big deal especially for the MIA stitched images as each section of the stitched image are taken under different lamp intensities due to the slightly variable nature of the Zaber imaging objective. It is important to highlight that all thresholding techniques assume that your background is quite consistent across the entire image. 
+
+  
+
+Shortcomings and learnings of the method:
+
+  
+
+
+
+
+Future ideas to improve macro:
+
+Incorporate machine learning into how FIJI detects cells. FIJI has a plugin
+called trainable weka segmentation which is typically used to train a model on
+how to separate regions of interest based on pre defined parameters. See more
+info here
+
+

@@ -1,0 +1,213 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Adrian Kotevski
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+Well Location  
+6-well plate  
+7069-F_DOLLY12-Sheep P11-2of2  
+Live (Non treated) - Restain with CMFDA + PI  
+B1  
+Live (Non treated) - Stained with CMFDA and 20 uL PI (double the amount used
+in previous live/dead staining experiments)  
+A2  
+  
+  
+  
+
+
+
+
+Process:
+
+Live/Dead staining (Staining well A2 with CMFDA but this time with double
+amount of PI i.e. 20 uL instead of 10 uL):
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker (used
+due to not being able to locate Calcein)
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+*Steps 1 & 2 were conducted the previous day with the DMSO/CMFDA stock solution stored at -20'C (MAIN LAB #71)  
+
+3\. Transfer 10 uL of the 1mM CMFDA stock solution to 5 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution.
+
+  1. Note*. Only 10 uL of stock solution was used to preserve quantity and because the amount of media + CMFDA needed was only 4 mL for two wells.
+
+4\. Place the pre-aliquoted 10 mL of DMEM/F12 PRF growth media that was
+prepared the previous day (09 June) into the water bath to be warmed.
+
+  1.  Transfer both the CMFDA working stock solution and DMEM/F12 PRF growth media into the water bath to be pre-warmed  10:50
+
+5\. Aspirate the growth media from one well (A2) from the non-treated 6-well
+plate
+
+6\. Add 2 mL of pre-warmed DMEM/F12 PRF growth media to the non-treated 6-well
+plate that had media removed from it in the previous step (well A2) as a rinse
+step to remove any residue serum.
+
+7\. Aspirate the growth media from the non-treated 6-well plate well (A2).
+
+8\. Add 2 mL of pre-warmed CMFDA working solution to the A2 well from the non
+treated 6-well plate and incubate for 30 minutes at 37'C covered in foil to
+protect samples from light.
+
+  1. Start/Finish time was:  11:04 - 11:34
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Remove plate from incubator and transfer into the BSC
+
+10\. Add 20 uL of propidium iodide (Frozen aliquot in main lab freezer is 0.2
+mg/mL - was originally 1 mg/mL but had been diluted 201 uL in 799 uL of dPBS)
+into the well from the non treated 6-well plate and incubate for 5 minutes at
+room temperature in the dark.
+
+  1. Start/Finish time was:  11:41 - 11:46   
+
+11\. Without changing the media in the well, image well (A2) from the non
+treated plates on the Axio fluorescence microscope (channel AF488 for CMFDA
+[Live cells] and AF 555 for propidium iodide [Dead cells])
+
+12\. Return the non treated plate to the incubator.
+
+  
+
+  
+
+Process:
+
+Live/Dead staining (Re-staining well B1 with CMFDA + PI):
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+3\. Transfer 10 uL of the 1mM CMFDA stock solution to 5 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution.
+
+  1. NOTE - Remaining 40 uL of stock solution was aliquoted into 10 uL aliquots and stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+4\. Place the pre-aliquoted 10 mL of DMEM/F12 PRF growth media that was
+prepared the previous day (09 June) into the water bath to be warmed.
+
+  1.  Transfer both the CMFDA working stock solution and DMEM/F12 PRF growth media into the water bath to be pre-warmed  12:37
+
+5\. Aspirate the growth media from one well (B1) from the non-treated 6-well
+plate
+
+6\. Add 2 mL of pre-warmed DMEM/F12 PRF growth media to the non-treated 6-well
+plate that had media removed from it in the previous step (well B1) as a rinse
+step to remove any residue serum.
+
+7\. Aspirate the growth media from the non-treated 6-well plate well (B1).
+
+8\. Add 2 mL of pre-warmed CMFDA working solution to the B1 well from the non
+treated 6-well plate and incubate for 30 minutes at 37'C covered in foil to
+protect samples from light.
+
+  1. Start/Finish time was:  12:47 - 13:17
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Remove plate from incubator and transfer into the BSC
+
+10\. Add 10 uL of propidium iodide (Frozen aliquot in main lab freezer is 0.2
+mg/mL - was originally 1 mg/mL but had been diluted 201 uL in 799 uL of dPBS)
+into the well from the non treated 6-well plate and incubate for 5 minutes at
+room temperature in the dark.
+
+  1. Start/Finish time was:  13:19 - 13:24   
+
+11\. Without changing the media in the well, image well (B1) from the non
+treated plates on the Axio fluorescence microscope (channel AF488 for CMFDA
+[Live cells] and AF 555 for propidium iodide [Dead cells])
+
+12\. Return the non treated plate to the incubator.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+DMEM/F12 PRFA5354  
+  
+CMFDA (old)  
+S910  
+  
+CMFDA (new)  
+S919  
+  
+DMSOA3931  
+  
+DMEM/F12 + 20% FBS + 1X P/S  
+A5155  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- CMFDA stock solution was discarded after its use today
+
+\- A new CMFDA powder stocked was thawed for the re staining experiment and
+aliquoted as 10 uL aliquots.
+
+\- Cells re-stained with CMFDA fluoresced under the 488 channel indicating
+that the cells survived despite multiple exposures to the CMFDA cell tracker
+dye.  
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because... lack of signal for CMFDA stained cells in well A2 (likely due to freeze thaw cycle)
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recPPOwdYtEhdqY0l/images (7069),
+Friday June 11
+
+

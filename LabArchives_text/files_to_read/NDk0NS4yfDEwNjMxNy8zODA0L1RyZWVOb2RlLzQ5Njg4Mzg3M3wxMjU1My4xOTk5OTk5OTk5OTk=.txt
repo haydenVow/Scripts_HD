@@ -1,0 +1,95 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+To assess whether DOLLY and NANDO fibroblast cells frozen as either raw
+isolates, MCB and WCB offer an advantage in obtaining cells that can be
+adapted to suspension conditions.
+
+
+Hypothesis
+
+
+DOLLY and NANDO fibroblast cells thawed into suspension from the raw isolate
+and MCB stages will perform better than cells thawed from WCB, with respect to
+cell survival and viability.
+
+
+Technical Gap
+
+
+Katie- I've been under the impression that this section was for details
+concerned with limitations with what we've been able to achieve or limitations
+that we are still trying to overcome. However Tom mentioned to me that this
+section is what James uses for the science R&D tax, so I'll just leave it
+blank for now.
+
+
+Method/Procedure
+
+
+Experimental Plan:
+
+Preparation of media
+
+RPMI or DMEM/F12 (need to decide) \- will have more information based on
+suspension #9 pilot work if RPMI is more suited for fibroblast growth compared
+to DMEM/F12. Current assumption will be either:
+
+[x] RPMI + 5% FBS + 1X P/S + 0.1% pluronic + ACA (1:100)
+
+[x] DMEM/F12 + 5% FBS + 1X P/S + 0.1% pluronic + ACA (1:100)
+
+  
+
+[DO - Suspension adaptation]
+
+1\.  Collect vials of fibroblasts from the three different timepoints and thaw
+directly into suspension. The conditions are setup as follows with each
+condition performed in triplicate:
+
+  
+
+Vial condition (i.e. timepoint)Cell lineVessel typeVessel amountInitial
+seeding density  
+Raw Isolate DOLLY1250 mL bioreactor spin tubes5 mLN/A  
+MCBDOLLY1250 mL bioreactor spin tubes  
+5 mL  
+200,000 cells per mL  
+WCB DOLLY1250 mL bioreactor spin tubes  
+5 mL  
+200,000 cells per mL  
+  
+Raw IsolateNANDO3F50 mL bioreactor spin tubes  
+5 mL  
+N/A  
+MCBNANDO3F50 mL bioreactor spin tubes  
+5 mL  
+200,000 cells per mL  
+  
+WCBNANDO3F50 mL bioreactor spin tubes  
+5 mL  
+200,000 cells per mL  
+  
+  
+  
+
+2\. Perform media changes and counts every four days for a 30-day time period
+i.e. D2, D6, D10, D14, D18, D22, D26, D30. Centrifuge cells at 300x g for 5
+minutes, discarding the supernatant and resuspending the cell pellet in 5 mL
+of growth media.
+
+3\. Take 100 uL samples of each condition following pellet resuspension to
+perform cell counts. Cell counts will be accomplishing using the total
+cell/dead cell counting protocol (Hoechst and Sytox) on the Opentrons and
+images will be analysed using the newly developed suspension counts macros
+incorporated in MIA.
+
+4\. Track viability and cell counts over the 30 day period, noting tends
+and/or observations.
+
+

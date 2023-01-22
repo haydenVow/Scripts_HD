@@ -1,0 +1,73 @@
+
+
+Method:  
+  
+1\. Remove the lid from a 60 mm tissue culture dish and place 5 mls of PBS in
+the bottom of the dish. This will act as a hydration chamber.
+
+2\. Invert the lid and use a 20 μl pipettor to deposit 10 μL drops of DMEM/F12
++ 10% FBS onto the bottom of the lid. Make sure that drops are placed
+sufficiently apart so as to not touch. It is possible to place at least 20
+drops per dish
+
+3\. Invert the lid onto the PBS-filled bottom chamber.
+
+4\. Can the lid be taken off again, preserving the droplets & the theoretical
+cells in their culture? We'll keep different conditions in different lids for
+any experiments, but it'd be nice if we could harvest cells from the droplets
+rather than having them all mix.
+
+  
+
+Observations:  
+  
+1\. What is the optimal size of the droplet that can be suspended from the
+lid?
+
+10 uL is a good size, it allows for a sizable droplet that is easy to deposit
+with the pipette without smearing or losing it's form.
+
+10 uL droplets after 15 minutes incubation (37'C, 5% CO2)
+
+Also tried:
+
+1) 20 uL - worked as well but the droplets were more prone to spilling and
+losing their shape.
+
+3) 30 uL (to see if we can use multi-channel) - far too big  
+  
+2\. What is the optimal number of droplets per lid?
+
+Can do around 20 per lid without mixing between droplets (of 60 mm plate)  
+  
+3\. Can we focus on the inside of the droplets using our microscopes? (Might
+need to suspend some cells or debris in the media to answer this question.
+
+Yes! Tested with Countest test beads (same size as cells - ~10um). With plate
+lid sitting inverted inside larger (100 mm plate) we could focus on Countess
+test beads. Best results were seen using the Primo microscope, although it is
+unclear as to whether this is a difference in microscopes or because we tried
+the Primo after the Axio and the cells may have settled into more of a
+monolayer.
+
+Primo, 10X
+
+Axio, 10X
+
+Setup for imaging
+
+ 4\. Any other observations/considerations? Could consider comparing different
+medias (e.g. does RPMI have a different surface tension than DMEM/F12?)
+
+RPMI and DMEM/F12 appeared to behave identically in droplet form
+
+  
+
+
+
+
+Images
+
+https://mia-capture.vow.tools/#/session/recmL1kx05XjS9JWB/images
+
+

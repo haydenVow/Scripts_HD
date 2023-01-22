@@ -1,0 +1,90 @@
+
+
+## Completed by: Katie Day
+
+  
+
+Commercial ACF medias for fibroblasts are avaliable; this one supposedly
+allows fibroblasts to grow up to 3 times more quickly than DMEM/F12 + 10%
+serum: https://www.lifelinecelltech.com/pdf/SPM-
+FibroLife%20SFree%201016%20v11%20LL-0001.pdf. We will replicate the
+formulation for this media known as fibrolife to determine whether this
+successfully allows our primary cells to grow.
+
+In addition, we previously determined several ACF formulations which we
+hypothesised would support fibroblast growth. These formulations did not
+support fibroblast growth, but it was determined that E8 media + fibroblast
+goodies (PDGF, IGF, protease inhibitors, and lipids) did not include albumin
+which makes up 80% of the protein in serum and is likely critical for
+fibroblast growth. This experiment will test the ability of the "E8 +
+fibroblast goodies" ACF formulation to support fibroblast growth when
+sufficient albumin is included in that media. The rational for the components
+that make up the E8 + fibroblast goodies formulation can be found below.
+
+There is evidence to indicate that fibroblasts have previously been grown
+successfully in the context of serum-free media [1], which contains 1 ng/mL of
+FGFb and 5 ug/mL of insulin as supplements. An additional commercial serum-
+free media produced for fibroblasts claims to be able to support numbers of
+fibroblast doublings that are on par with serum-containing media. In addition
+to a basal media, this fibroblast serum-free media contains EGF, insulin and
+dexamethasone. The basal media contains ingredients including cholesterol,
+hypoxanthine, and linolic acid [2].
+
+Given our current ACF media contains EGF, FGFb, insulin, and hypoxanthine, E8
+10C might support fibroblast growth extremely well. I hypothesise that further
+optimisation of this media for fibroblast growth in the future is likely to
+allow us to reduce the amounts of growth factors and expensive ingredients in
+the media, given that fibroblasts are a much hardier cell type than MuSCs.  
+
+In the interest of trialing a few different serum-free medias, we will test
+E89C media as well as a serum-containing control. In addition, we will use E8
+media with 150mg/L albumin, given that albumin makes up approximately 80% of
+the protein content of serum [3].
+
+In addition, we want to test E8 media with 150mg/L albumin + 15ng/mL PDGF +
+7nM IGF1 + protease inhibitors + concentrated lipids. The purpose of the
+albumin is the same as stated above. 15-20 ng/mL PDGF is reported to maximally
+enhance fibroblast proliferation [4]. 7nM IGF1 is reported to enhance
+proliferation by a variety of immortalised and primary fibroblasts [5]. The
+addition of protease inhibitors could be used to encourage anchorage of cells
+to the gelatin-coated flasks, even int he absence of serum proteins which help
+facilitate anchorage [6]. In addition, including concentrated lipids is likely
+important for fibroblast growth given that our serum-free media currently
+contains no additional fatty acids, which are present in serum, and exogenous
+fatty acids are important for membrane development in proliferating
+fibroblasts [7].
+
+In the future, looking at IGF2 with TGFb for formation of fibroblast
+aggregates might be interesting, given the cross-talk between these two
+proteins' signalling pathways [8].
+
+  
+
+1\. https://www.sigmaaldrich.com/technical-
+documents/protocols/biology/fibroblast-cell-
+culture.html#:~:text=Fibroblast%20Growth%20Medium%20is%20a,well%20as%20fibroblast%20cell%20lines.
+
+2\. https://diagnocine.com/Product/HFDM1-Medium-Synthetic-medium-for-human-
+fibroblast/53104
+
+3\. https://www.frontiersin.org/articles/10.3389/fphys.2014.00299/full
+
+4\. https://pubmed.ncbi.nlm.nih.gov/1698792/
+
+5\. https://link.springer.com/article/10.1007%2Fs00210-010-0561-2
+
+6.https://www.sciencedirect.com/science/article/abs/pii/002432059290590L
+
+7\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5510604/
+
+8\. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225422
+
+  
+
+  
+
+  
+
+  
+
+

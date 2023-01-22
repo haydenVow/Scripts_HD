@@ -1,0 +1,89 @@
+Performed by: EC
+
+
+Flask typeHarvested flask IDConditionLocation  
+E-12512355  
+100% Hycell159 (Main Lab)  
+12362  
+  
+12373  
+90/10 RPMI/Hycell  
+12378  
+  
+  
+  
+
+
+
+
+  
+
+  1. Counted 3 x reps per condition in addition to those flasks that were harvested.
+  2. Took 1 x 560 uL sample from each culture (1 x technical reps/flask).
+  3. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDCondition  
+Vicell total cell counts (viable cells)  
+Average count  
+  
+12355  
+100% Hycell  
+1,586,000  
+1,401,500  
+  
+12356  
+100% Hycell  
+1,460,000  
+  
+12357  
+100% Hycell  
+Incorrect count on vicell  
+  
+12361  
+100% Hycell  
+1,248,000  
+  
+12362  
+100% Hycell  
+1,312,000  
+  
+12373  
+90/10 RPMI/Hycell  
+2,740,000 Outlier?  
+1,242,000  
+  
+12374  
+90/10 RPMI/Hycell  
+1,184,000  
+  
+12375  
+90/10 RPMI/Hycell  
+1,248,000  
+  
+12378  
+90/10 RPMI/Hycell  
+1,416,000  
+  
+12379  
+90/10 RPMI/Hycell  
+1,120,000  
+  
+  
+  
+
+  4. Transferred the cell suspension of each E-125 into a separate 50 ml tube.
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. Removed the supernatant and dispensed into a new, labelled 50 mL tube (include flask ID, condition and harvested day and date).
+  7. Placed the 4 x 50mL tubes in the -80 freezer.
+
+  
+
+* I recounted 12373 however, I had already spun it down, aspirated and frozen down the supernatant. I resuspended the cell pellet in 10mL dPBS and I took a 560uL sample to run it through the vicell. This time the count was 973k cells. I will treat this value as an outlier.
+
+  
+
+
+
+
+

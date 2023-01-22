@@ -1,0 +1,156 @@
+
+
+To check adherence of cells to scaffold the cells were stained with hoechst,
+imaged and kept in culture.
+
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6853  
+96 well  
+48  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Hoecsht Reagent Preparation:
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use Hoechst at 20ul/mL.
+
+  
+
+
+
+
+# Procedure  
+
+  1. Prepared Hoechst stain by adding    140   uL of Hoechst to    7000     uL ACF and 80  uL of Hoechst to    4000    uL
+  2. Sterile filtered Hoechst solution using a syringe filter 
+  3. placed in the waterbath at 37'C    14:13     \-     14:30    
+  4. Remove plate from incubator and place in the BSC 
+  5. Transfer scaffolds, using a sterile tweezer, into a new plate.  
+  6. Cover wells with      0.120   mL of Hoechst media and incubate cells at 37 degrees for 10 minutes. (Away from light) 
+  7. Replaced with 50ul fresh growth media for imaging 
+  8. Imaged using Zaber microscope 
+
+  
+
+  
+
+
+
+
+Imaging
+
+  1. After incubation, the plate was placed under the Zaber microscope for imaging under the DAPI channel, 5x objective (see template for imaging here: https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTI3Mi43fDEwNjMxNy85NzkvVHJlZU5vZGUvMzEwOTgyMDE0MnwzMjMwLjc=)  
+NOTE - If imaging live cells which have been hoechst stained keep samples
+sterile, and only have 50ul of media per sample to prevent sample floating
+(effects z-stack)
+
+  2. Captured 1x image for each well, return plate to the incubator and using sterile tweezers flip the samples and then re-image using the zaber
+  3. Once images have been stitches write notes on observations in the table below - copy and paste images and details below
+  4. If fixed and DAPI stained cover the plate with foil and store in the fridge (4'C) until images deemed final
+  5. If live cells (hoechst stained) add pre-warmed media to each sample and return plate to the incubator for continual culture (37'C, 5% CO2)
+
+
+
+
+Loading plate and opening software
+
+  1. Removed media from wells so that only ~50 uL remains
+  2. Loaded plate into Zaber with A1 at top left position (hold back retention clip that holds plate in place, settle plate into place, release clip).
+  3. Ensured culture ID label was present on the plate being imaged to enable scanning the QR code for Mia integration 
+  4. Opened "User Guide to Zaber imaging" linked below for instructions on how to open MicroManager (zaber imaging software) and set up plate for imaging. https://www.notion.so/vow/User-Guide-to-Zaber-imaging-ad19527eee9e42ed9db96faa911d6536
+
+  
+
+Setting up plate for imaging
+
+  1. Channel(s) used (delete those that do not apply): [DAPI]
+  2. Exposure used:  5 ms
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  3. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  4. Checked Z-stacks (slices) on "Multi-Dimensional Acquisition" window. 
+    1. Used the "twist" motion of the joystick to find the point of the scaffold where it is justout of focus (either direction is fine). Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "Start Z".
+      * Start Z value: 23,644.059
+    2. Twisted the joystick in the opposite direction to find the point at which the other side of the scaffold is justout of focus.  Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "End Z". 
+      * End Z value: 24,638.055
+    3. Set step size. Note: the ideal value is 50 um, however you will need to check "number of slices" to ensure it is a reasonable number. If the value is >20, consider increasing step size. 
+      * Step size: 100 um
+  5. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. For imaging scaffolds, used "whole well" recommendation. 
+      * Rows/Columns:  3 / 2    
+
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+  6. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  7. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). 
+    * Total number of images: 2880 
+  8. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up.
+  9. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID
+  10. Clicked acquire (clicked yes when asked about creating a new root directory). 
+    * Time started:    17:58 
+    * Time finished:     16:40  pm   
+  11. Returned plate to fridge or incubator    16:40  pm 
+
+
+
+
+# Results
+
+[ ]  As Usual (this is a repetitive task)
+
+[x]  Unexpected because... exposure was too bright
+
+[ ]  Need to be further analysed
+
+[ ]  Other (.......)
+
+  
+
+Dropped two scaffolds during transfer
+
+  
+
+
+
+
+# Microscope Observations
+
+https://mia-capture.vow.tools/#/session/recCcAjfVue5t8Nkf/images
+
+Images are overexposed - it was discovered during DoE meeting on 26-May-2021
+that there is an additional place where target exposure value needs to be
+copied. This has resulted in at least 3 sets of images taken this week being
+overexposed.
+
+Whilst we are unable to obtain any observations from the over exposed images,
+the uses did observe cells that were on the base of the well. Furthermore,
+there appeared to be some cell clusters floating in the media. There was only
+some cells that were adhered on the scaffolds itself and these were sparsely
+distributed.
+
+  
+
+

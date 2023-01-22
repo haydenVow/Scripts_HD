@@ -1,0 +1,49 @@
+
+
+Zaber testing: optimising settings for scaffold imaging with DAPI stained
+cells
+
+Procedure
+
+  1. Plate 6128 was loaded into the Zaber. 
+  2. The upper focal limit of the z-stack was set by focusing in one direction until the last part of the scaffold had just gone out of focus. This was repeated in the opposite direction to set the lower focal limit. 
+  3. The Rows and Columns were set to 4 rows x 3 columns.
+  4. The exposure was set to 25.
+  5. Side A was imaged three times, with all settings remaining identical except for the distance between the focal planes of each z-stack (the "step distance". These step distances were set to 100 uM for the first image session, 50 uM for the second, and 20 uM for the third.
+  6. The zein samples were then flipped using tweezers to allow us to image the other side of the scaffolds ("side B").
+  7. The plate was re-loaded into the Zaber
+  8. The upper and lower focal limits of the z-stack were focused in the same fashion as for side A.
+  9. The Rows and Columns were set to 4 rows x 3 columns.
+  10. The exposure was adjusted to 8.
+  11. Side B was likewise imaged three times, with all settings remaining identical except for the step distances (set to 100 uM for the first image session, 50 uM for the second, and 20 uM for the third).   
+  
+Images/Results  
+  
+Analysis of images taken on side A showed that an exposure of 25 was likely
+too high and resulted in saturation of areas with high cell confluence (images
+1-3). Adjusting the exposure to 8 on side B resulted in a better contrast
+between scaffold and cells, and reduced the saturation issue (images 4-6).
+Neither LL nor BT could detect a meaningful improvement in image quality
+between images taken with 100 uM steps and 50 uM steps, however 20 uM steps
+resulted in a darker scaffold background and more well defined individual
+cells. This will be important when analysing images using ImageJ and
+attempting to perform a cell count. The higher step count/lower step distance
+also helped to reduce saturation in confluent areas.  
+  
+Side A, Exposure 25  
+  
+Image 1: 100 uM stepsImage 2: 50 uM stepsImage 3: 20 uM steps
+
+  
+
+Side B, Exposure 8
+
+Image 4: 100 uM steps Image : 50 uM stepsImage 6: 20 uM steps
+
+ Summary
+
+Moving forward, zein scaffolds with DAPI stained stained cells should be
+imaged at exposure 8 with a 20 uM step count in order to achieve a high
+quality image with potential for Image J analysis and cell counts.
+
+

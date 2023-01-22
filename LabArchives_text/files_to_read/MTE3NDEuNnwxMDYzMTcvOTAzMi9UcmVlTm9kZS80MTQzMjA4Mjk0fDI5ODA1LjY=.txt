@@ -1,0 +1,129 @@
+Aim:
+
+
+To demonstrate a collagenous cell sheet prototype by implementing an optimised
+concentration of Ficoll PM 70 on Nuvonis fibroblasts cultured in a cell
+factory.
+
+
+Background
+
+
+The MMC DSD #3 experiment lead to the insight that 120 mg/ml of Ficoll PM 70
+produced the thickest cell monolayer in in vitro culture (when compared to the
+other concentrations tested). However, due to the fragility of the cell
+monolayers in DSD #3, the pipetting force caused during the fixing and
+collagen analysis process, resulted in cell loss to variable extents in all
+cultures. Hence, accurate quantitative data was not obtained and did not
+support the stark observation seen in well plate format (prior to fixation).
+Hence, this experiment has several motives:
+
+  * To demonstrate proof of concept for MMC using the optimised MMC concentration (120 mg/ml) in a larger vessel (4CF). 
+  * Generate quantitative data for biomass difference between treated and non-treated cultures by comparing weights (g) between the groups.
+  * To determine observable/sensory differences between MMC treated and non-treated cell monolayers (e.g. colour, thickness, taste)
+
+  
+
+
+Design
+  
+  
+Figure 1: Visual schematic depicting both conditions.
+
+
+  
+  
+  
+
+MMC treated
+
+Non-treated  
+  
+Adherent media
+
+DMEM/F12 (PRF) + BSA (3.75mg/ml) + 1X ITS
+
+DMEM/F12 (PRF) + BSA (3.75mg/ml) + 1X ITS  
+  
+MMC agent
+
+Ficoll PM 70 (approx. 120 mg/ml)
+
+N/A  
+  
+Seed density
+
+20,000 cells/cm2
+
+20,000 cells/cm2  
+  
+Number of flasks
+
+1 x 4CF
+
+1 X 4CF  
+  
+Total media needed
+
+2000mL
+
+2000mL  
+  
+Total amount of Ficoll 70 required (g)
+
+250g
+
+N/A
+
+
+DateTaskNotes  
+12th August 2022
+
+  * Make up 2 x 600ml of PRF serum free adherent media for seeding.
+  * Secure 2 x 4CF and bring into main lab.
+  * Make 2L of Ficoll 70 media (120 mg/ml)
+  * Make 2L of serum free adherent media for seeding. 
+
+  
+  
+15th August 2022
+
+  * Obtain 100 million cells from cell supply.
+  * Seed each 4CF at 50,000 cells/cm2 in PRF adherent media. Each 4CF will be seeded with 50 million cells each. Seed media will be 600mL total for each flask.
+
+  
+  
+16th August 2022
+
+  * Assign one 4CF to be the MMC treated flask and perform a 100% media change with 2L MMC media.
+  * Perform a 100% media change of the non treated 4CF with 2L of PRF adherent media.
+
+  
+  
+23rd August 2022
+
+  * Wash out media from each flask.
+  * Perform 3 x washes with Milli-Q water.
+  * Trypilise cell sheets if they have not detached.
+  * Wash sheet further if required.
+  * Weigh, taste and record observations.
+
+  
+
+
+  
+  
+What constitutes a successful MMC product from this experiment?
+
+  * Increase in biomass (weight (g))
+  * Colour change during culture (not an essential but desirable). ECM rich products tend to generate a pale, off-white colour as learned from CHOMP batches previously at Vow and as observed in well plate format in DSD #3.
+  * Positive change in texture (essential)
+  * Taste (not an essential but desirable)
+
+How will these be measured?
+
+  * Weighing harvests side by side from each 4CF.
+  * Observational changes in colour, texture, taste by visual inspection or eating.
+  * Weights and comprehensive pictures will be supplied.
+
+

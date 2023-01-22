@@ -1,0 +1,232 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by:
+
+Avani
+
+
+
+
+Culture IDs to feed
+
+Condition cultured from:  
+T25 flask cultured from:  
+condition seeded into:  
+culture ID of well seeded:  
+  
+  
+condition 1: 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+  
+7039  
+condition 1: gelatin coated, 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S +
+10uM p38i  
+7098-DOLLY12-Sheep P10-1of1  
+  
+condition 2: 1000 cells/cm^2, E810C  
+7040  
+condition 2: gelatin coated, 1000 cells/cm^2, E810C  
+7099-DOLLY12-Sheep P10-1of1  
+  
+  
+condition 3: 1000 cells/cm^2, E810C
+
+7041  
+condition 3: vitronectin coated, 1000 cells/cm^2, E810C  
+7100-DOLLY12-Sheep P10-1of1  
+  
+  
+condition 4: 1000 cells/cm^2, Beefy-9
+
+7042  
+condition 4: vitronectin coated, 1000 cells/cm^2, B8  
+7101-DOLLY12-Sheep P10-1of1  
+  
+  
+condition 5: 2500 cells/cm^2, Beefy-9
+
+7043  
+condition 5: vitronectin coated, 2500 cells/cm^2, B8  
+7102-DOLLY12-Sheep P10-1of1  
+  
+  
+condition 6: 1000 cells/cm^2, Beefy-10C
+
+7044  
+condition 6: vitronectin coated, 632 cells/cm^2 (didn't have enough cells),
+B8+10C  
+7103-DOLLY12-Sheep P10-1of1  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated      2 wells of 24 well plate with sterile filtered 0.1%
+gelatin solution. Coated 4 more wells with vitronectin (1.5ug/cm^2) and then
+incubated plate at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      9 : 19  am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     16    mL in     1    tubes    9 : 28  am   
+
+  2.  dPBS (for washing and neutralising):     38    mL in   1     tubes    9 : 28  am   
+
+  3. Growth media (for pellet resuspension and counts):     800 uL for each condition    in    6   tubes     10:05   am   
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   ~9:40
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   3      mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    9:50 - 10:05 for serum, 9:50-10:15 for ACF conditions 
+
+7\. Neutralised with     3mL     dPBS and collected cell suspension into a
+1   tube for each condition.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    10 :28 - 10:33   am 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in
+
+        0.2    mL media for conditions 1, 2, 3, and 5 
+
+       0.1    mL media for conditions 4 and 6   
+
+11\. Aliquoted       10 uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:   
+    1. condition 1:     73 600      
+
+    2. condition 2:     29 600      
+
+    3. condition 3:     48 000     
+
+    4. condition 4:     2 000      
+
+    5. condition 5:     10 400      
+
+    6. condition 6:    1 200     
+  2. Volume of cell suspension required for subculture was:  
+    * condition 1:     5.16 uL (1900 cells)      
+
+    * condition 2:     12.84 uL (1900 cells)     
+
+    * condition 3:     7.92 uL (1900 cells    
+
+    * condition 4:     95 uL (1900 cells)     
+
+    * condition 5:     91 uL (4750 cells)     
+
+    * condition 6:    100uL (all of the suspension, cell number too low to seed 1900 cells)    
+  3. Cell density per vessel:      see table above      
+
+
+
+
+13\. Transferred        the required volume  cell suspension for subculture
+into each of the pre-warmed      0.5     mL Growth media:  
+
+14\. Transferred cell suspension into the wells of 24 well plate.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     12 : 10 -
+12 : 40  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm3994  
+  
+Tryplea4616  
+  
+dPBS (for washing & neutralising)a5063  
+  
+D/F + 20% FBS +1x P/S  
+a5368  
+  
+p38i (20mM stock)m4928  
+  
+vitronectin  
+m5355  
+  
+E810Csee lab book entry  
+B8 and B8+10C mediasee lab book entry  
+  
+  
+
+
+
+
+summary:
+
+Passaged 6x T25 flasks into 1x well of 24 well plate each
+
+observation of cells before passage:
+
+Flasks will B8 media formulations seemed to have more cell death (There were
+more dead floating cells visible in conditions 4,5, and 6). Condition 5 was
+seeded at a higher density than other flasks (2500 cells/cm^2) but because of
+the cell death that occurred, it wasn't overconfluent by day 3.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because... did not expect so much cell death in B8 media formulations
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

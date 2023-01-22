@@ -1,0 +1,233 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by:
+
+Avani
+
+
+
+
+Culture IDs to feed
+
+condition seeded from:  
+culture ID of well seeded:  
+condition seeded into:  
+culture ID of well seeded:  
+  
+condition 1: gelatin coated, 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S +
+10uM p38i  
+7098-DOLLY12-Sheep P10-1of1  
+condition 1: gelatin coated, 1000 cells/cm^2, DMEM/F12 + 20% FBS + 1x P/S +
+10uM p38i  
+7120-DOLLY12-Sheep P11-1of1  
+  
+condition 2: gelatin coated, 1000 cells/cm^2, E810C  
+7099-DOLLY12-Sheep P10-1of1  
+condition 2: gelatin coated, E810C, unknown seeding density (not enough cells
+to count)  
+7121-DOLLY12-Sheep P11-1of1  
+  
+condition 3: vitronectin coated, 1000 cells/cm^2, E810C  
+7100-DOLLY12-Sheep P10-1of1  
+condition 3: vitronectin coated, E810C, unknown seeding density (not enough
+cells to count)  
+7122-DOLLY12-Sheep P11-1of1  
+  
+condition 4: vitronectin coated, 1000 cells/cm^2, Beefy-9  
+7101-DOLLY12-Sheep P10-1of1  
+condition 4: vitronectin coated, B8, unknown seeding density (not enough cells
+to count)  
+7123-DOLLY12-Sheep P11-1of1  
+  
+condition 5: vitronectin coated, 2500 cells/cm^2, Beefy-9  
+7102-DOLLY12-Sheep P10-1of1  
+condition 5: vitronectin coated, B8, unknown seeding density (not enough cells
+to count)  
+7124-DOLLY12-Sheep P11-1of1  
+  
+condition 6: vitronectin coated, 632 cells/cm^2, Beefy-9+10C  
+7103-DOLLY12-Sheep P10-1of1  
+condition 6: vitronectin coated, B8+10C, unknown seeding density (not enough
+cells to count)  
+7125-DOLLY12-Sheep P11-1of1  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated      2 wells of 24 well plate with sterile filtered 0.1%
+gelatin solution. Coated 4 more wells with vitronectin (1.5ug/cm^2) and then
+incubated plate at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      9 : 39  am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     16    mL in     1    tubes    9 : 46  am   
+
+  2.  dPBS (for washing and neutralising):     38    mL in   1     tubes    9 : 46  am   
+
+  3. Growth media (for pellet resuspension and counts):     600 uL for each condition    in    6   tubes     10:40   am   
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   0.2     mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    9:57 - 10:12. Checked cells undser microscope and pipetted tryple up and down in each well. Incubated again until 10:22  
+
+7\. Neutralised with     0.5 mL     dPBS and collected cell suspension into a
+1   tube for each condition.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    10 :31 - 10:36   am 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in
+
+       0.1    mL media  
+
+11\. Aliquoted       5 uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:   
+    1. condition 1:    6 400 cells     
+
+    2. condition 2:   no cells seen  on haemocytometer      
+
+    3. condition 3:    no cells seen on haemocytometer     
+
+    4. condition 4:    did not attempt to count      
+
+    5. condition 5:     did not attempt to count     
+
+    6. condition 6:   did not attempt to count      
+  2. Volume of cell suspension required for subculture was:  
+    * condition 1:     30 uL (1900 cells)      
+
+    * condition 2:    100 uL (all of suspension)     
+
+    * condition 3:     100 uL (all of suspension)   
+
+    * condition 4:     100 uL (all of suspension)     
+
+    * condition 5:     100 uL (all of suspension)     
+
+    * condition 6:   100 uL (all of suspension)        
+
+
+
+
+13\. Transferred        the required volume  cell suspension for subculture
+into each of the pre-warmed      0.5     mL Growth media:  
+
+14\. Transferred cell suspension into the wells of 24 well plate.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     11  : 34 -
+12 : 04  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm3994  
+  
+Tryplea4616  
+  
+dPBS (for washing & neutralising)a5063  
+  
+D/F + 20% FBS +1x P/S  
+a5368  
+  
+p38i (20mM stock)m4928  
+  
+vitronectin  
+m5355  
+  
+E810Csee lab book entry  
+B8 and B8+10C mediasee lab book entry  
+  
+  
+
+
+
+
+summary:
+
+Passaged 6x wells of 24 wp into 6x wells of 24 well plate
+
+observation of cells before passage:
+
+Wells with B8 media formulations did not seem to have any live cells visible
+(There were dead floating cells visible in conditions 4,5, and 6). I passaged
+them just in case but suspect that they will have to be discarded due to the
+absence of cells. condition 2 appeared to have more cells than condition 3.
+Both E810C conditions had cell less visible than serum control.
+
+notes about working with 24 wp:
+
+working with small vessels for these experiments may not be ideal since it is
+difficult to obtain a cell count from wells of a 24 wp. After centrifuging
+cells, the pellets are not visible so it's difficult to aspirate all of the
+supernatant. Then, when pellets are resuspened they have to be resuspended
+into small volumes (<50uL). A significant portion of this volume (at least
+5uL) needs to be used for cell counts. There's a lot of room for error.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

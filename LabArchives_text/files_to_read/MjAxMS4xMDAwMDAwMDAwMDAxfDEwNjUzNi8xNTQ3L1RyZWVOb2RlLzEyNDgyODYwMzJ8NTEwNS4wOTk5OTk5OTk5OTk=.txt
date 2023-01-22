@@ -1,0 +1,51 @@
+
+
+Seed Train 9 / Batch 01
+
+Fibroblast - Quail Nuvonis Suspension
+
+Total Weight: 0g (contaminated)
+
+For more detailed metrics see:
+https://docs.google.com/spreadsheets/d/1nFs6V6XdzsUrKO9Jsj67HbMnex1ARZ2eu5f-qC8uD5A/edit#gid=0  
+
+Batch Objectives/Outline:
+
+  * Produce as much mass as possible 
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Expansion Phase  
+Proliferation daysFlask No./Type  
+E013xULA-6-well-plate  
+E161xE500  
+E282xE5000  
+E31STR200  
+E4-STR2000  
+  
+  
+
+Notable Events:
+
+  * To make media for the STR200 water was pumped into the mixing tank on 24/05/2022.
+    * This water was put into the tank with the intention to make up media on this day but when it was realised that this was not necessary the water was left in the tank overnight at 37'C to be used the next day
+  * On the 25/05/2022 powders were added to the water in the mixing tank to make up complete media to be pumped into the STR200L
+    * At the time of connecting the tubing from the mixing tank to the STR200 the media looked clear and all powder dissolved (the agitator was not on)
+    * During the filtering process the filter became block and changed 3 times before it was realised that the media was heavily contaminated. This media was disinfected with detergent and discarded. The mixing tank was also thoroughly cleaned the next day and a contamination post mortem was performed (see here: https://www.notion.so/vow/25-05-2022-Media-contamination-Mixing-tank-Post-Mortem-eb1f635f11e8415b835214e9769f4c68)
+    * Before noticing the contamination 55L of media had been pumped into the STR200 and looked clear
+    * The next day the media in STR200 still looked clear so cells were seeded into the bioreactor.
+  * One the 26/05/2022 the media in the STR200 was very cloudy but it was not clear if this was because of the cells or due to contamination
+    * A sample was taken for cell counting and it was very obvious under the microscope that this was a bacterial contamination
+    * In response 2.4L of sodium hypochlorite (5g/L) was pumped into the STR200 and let sit for 60min. Everything was then pumped out of the STR200 into the waste IBC. 
+    * The bag was then disposed of and some parts were removed to be cleaned and re-used.
+
+Possible Sources of Contamination:
+
+  * The media pumped into the bioreactor was highly contaminated, this was not noticed until after multiple filters became blocked. Most likely cause 
+    * However the media in the bioreactor looked clear by eye and under the microscope even on the night of 25/05
+  * The same bottle was used to transfer the cells and growth factors into the bioreactor, this bottle had also been used once before for adding growth factors but had been kept sterile. With so many uses this is a possible source
+  * It was the first time LP AS and CB operated the bioreactor and performed these procedures without supervision, it is possible that something was missed leading to contamination risks
+
+

@@ -1,0 +1,109 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+  
+### 6805, 6806
+
+9 since seeding E125, 2 since passaging  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 12:52 pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample of the suspension was taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to a well on a 96 well plate. This was done for 3 samples per E125 flask.
+    1. Row A: culture 6805
+    2. Row B: culture 6806
+    3. columns 1, 2, and 3 were used for replicates
+  4. Returned cultures to the incubator  `| 12:56  |`
+  5. Mixed samples with 80 uL of dPBS containing 20uL/mL of Hoechst 33342. 
+  6. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 13:00 - 13:10 |`
+  7. Plates were imaged on the main lab Zaber on 5x. ~13:   
+    1. Phase: illuminator lamp ~1, exposure 10
+    2. DAPI: illuminator lamp ~35, exposure 50
+    3. images captured under culture ID: 6807    
+
+
+
+
+Process:
+
+Growth media: Dmem/F12 + 20% FBS + 1xP/S + 10uM p38i
+
+1\.  Aliquotted   30mL  mL of  Growth Media into   1x50mL    tube(s). Placed
+in water bath   16:25 a/pm
+
+2\. Removed both E125s from the incubator [16:30], removed  50  % of
+supernatant from vessel.
+
+3\. Replaced with  15 mL (per well/per vessel) of  growth   media.
+
+4\. Returned vessel to incubate at: [16:39]
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#80 (bottom sanyo)), Lab [Main/]
+
+
+
+
+### Observations/Summary:
+
+### Imaged 3x Hoechst stained samples per E125 flask:
+
+### 6805 and 6807. Captured these under culture ID: 6807
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS m4826  
+  
+  
+Hoechst 33342s2454  
+  
+  
+Growth media  
+4765  
+30  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because... 
+    * [ ]  Need to be further analysed 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

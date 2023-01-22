@@ -1,0 +1,191 @@
+
+
+## Performed by: Tom Tarento  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+50 mL spin tubes
+
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+Incubator #116Main lab, "Media & Gelatin" fridge, door of fridge  
+3 x 15 mL tubes, 3 x 50 mL tubes (the 50 mL tubes have enough to feed the
+E-flasks and the 50mL spin tubes that have the same media (they are replicates
+of each other)  
+  
+E125 flask
+
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+Incubator #81Main lab, "Media & Gelatin" fridge, door of fridge  
+3 x 50 mL tubes (the 50 mL tubes have enough to feed the E-flasks and the 50mL
+spin tubes that have the same media (they are replicates of each other)  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+50 mL spin tube: Serum Control
+
+50 mL spin tube: GM + 0.1% MC
+
+50 mL spin tube: GM + 0.3% MC
+
+50 mL spin tube: GM + 0.45% MC
+
+50 mL spin tube: GM + 0.6% MC
+
+50 mL spin tube: GM + 1% MC
+
+  
+
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+Collected all aliquots listed in "Feed Information" table and placed in water
+bath  12:00  
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 3 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   14:28 - 14:33 
+  5. Aspirated  100 % ( 30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Re-suspended pellet in  30 mL growth media. Gently pipette-mixed culture using serelogical, before moving cell suspension back to E125
+  7. Returned E125s to incubator.   14:45 
+
+Incubator (#81), Lab [Main]
+
+50 mL shake tubes
+
+  1. Collected 50 mL shake tubes from shaker
+  2. Centrifuged 50 mL tubes at 300 x g for 5 min.   13:47 - 13:52 
+  3. Prepared stain buffer:
+    1. 3 mL of dPBS
+    2. 3 drops of ReadyProbes Sytox Green
+    3. 3 drops of ReadyProbes Hoechst 33342
+  4. Ran OT protocol to perform 100% medium change and take and stain sample
+    1. Start time: 14:14
+    2. Duration: 21 minutes
+    3. End time: 14:35
+  5. Returned 50 mL tubes to incubator.   14:48 
+
+Incubator (#116), Lab [Main]
+
+
+
+
+  1. Incubated stained plate 14:35 - 15:15
+  2. Centrifuged plate for 1 minute at 650 RCF 15:18
+  3. Captured fluorescence micrographs of the stained samples on culture ID 7820 with notes "EPIC22603", all numbers below refer to rows in the well plate (Column 1 is 50%, column 2 is 25% and column 3 is 12.5% dilution of sample in stain buffer):
+    1. 0.00% MC (Serum control)
+    2. 0.10% MC
+    3. 0.30% MC
+    4. 0.45% MC
+    5. 0.60% MC
+    6. 1.00% MC
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+MIA images: https://mia-capture.vow.tools/#/session/recmddZ2UAmCVSIPJ/images
+
+

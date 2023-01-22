@@ -1,0 +1,42 @@
+Background and Aims
+  
+  
+Background
+
+The Mini-tissues stream is analysing cell viability in tissue-engineered
+tissue constructs using flow cytometry for highly reproducible and accurate
+quantitation of cell viability. However, when analysing Experiment 4, there
+were a number of issues with the flow protocol outlined here. Beyond these
+issues, the lack of a positive control (induced cell death) prevented accurate
+gating of dead cells vs live. As such, in order to optimise this approach with
+flow, both for the staining and gating strategies, we plan to use a positive
+control, which will be cell samples in which cell death has been induced.
+
+Aim
+
+Induce apoptosis in Nuvonis suspension cells using Hydrogen Peroxide treatment
+and optimise flow cytometry staining and gating with apoptotic cells.
+
+Experimental plan
+
+We will induce apoptosis with 2 different concentrations of Hydrogen Peroxide
+(H2O2): 10uM and 100uM. Cells will cultured in the presence of H2O2 for 48
+hours before being fixed and stained with Annexin V FITC and DAPI, and
+captured using flow cytometry.
+
+
+Methods
+
+
+  1. Cells were cultured in 50/50 RPMI/Hycell with GFs (mix #13174), media was added to take E250 volume to 100mL
+  2. Flasks from the Growth Factor removal experiment were used for this cell death induction and the conditions were as follows:
+    1. 12931 - With GF - No H2O2 (control)
+    2. 12932 - With GF - 10uM H2O2
+    3. 12932 - With GF - 100uM H2O2
+    4. 12934 - With GF - No H2O2 (control)
+    5. 12935 - With GF - 10uM H2O2
+    6. 12936 - With GF - 100uM H2O2
+  3. Briefly, 1ul of 3% H2O2 (stk #3943) was added to flasks 12932 and 12935; and 10ul 3% H2O2 (stk #3943) was added to flasks 12933 and 12936.
+  4. Flasks were cultured at 37deg and shaken at 120rpm for 48 hours
+
+

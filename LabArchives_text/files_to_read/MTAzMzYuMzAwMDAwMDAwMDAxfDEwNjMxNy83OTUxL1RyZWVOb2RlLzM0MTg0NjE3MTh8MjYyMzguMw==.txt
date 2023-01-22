@@ -1,0 +1,193 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+
+
+Background
+
+Cell isolations  
+This project will leverage off the previous avian embryonic cell isolation and
+suspension adaption experiments previously conducted in Sydney. See lab books
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/ODEzOS4zfDEwNjMxNy82MjYxLTUxODIxL1RyZWVOb2RlLzIzMjM5OTQwNDV8MjA2NjEuMw==
+
+Our initial aim will be purely to expand Vows cell library to include a range
+of avain embryonic cell lines. Following this, we will expand to suspension
+adaption and immortalization of these new cell lines. The overarching
+objective being the establishment of a reproducible pipeline for generating
+immortalized, suspension adapted cell lines at Vow.  
+  
+Embryonic cell lines are likely to be more amenable to suspension adaption
+than their adult counterparts due to their immature extracellular matrix and
+naive epigenetic modifications. Their high proliferative rate and willingness
+to adapt to serum free growth conditions is advantageous to both planar and
+suspension culture. This theory is supported by the fact that all the avian
+suspension cell lines that have been developed in the word to date, are
+derived from embryonic cells. In our preliminary suspension adaption
+experiments using Vows own embryonic quail cell line, we saw excellent growth
+rates in serum free media in planar culture as well as excellent growth in
+suspension culture, the likes of which have never been seen at Vow previously.
+These results provided further evidence for the utility of the embryonic cells
+in suspension adaption. See lab books here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/ODEzOS4zfDEwNjMxNy82MjYxLTUxODIxL1RyZWVOb2RlLzIzMjM5OTQwNDV8MjA2NjEuMw==.
+
+Retina cells  
+For this project, in addition to collecting homogenous isolate derived from
+the entire body of headless embryos, we will seek to obtain isolate from
+embryonic eyes. The rationale behind this is there is evidence in the
+literature to suggest that embryonic retina cells are especially amenable to
+suspension adaption. The researchers who developed AGE.1.CR, an immortalized
+embryonic duck retina cell line for example, reported that retina cells were
+more readily adapted to suspension culture than somite's. This suggests that
+embryonic retinal cells may have some advantage over embryonic fibroblasts in
+suspension culture. Providing further support to this theory is the fact that
+embryonic retinal cells are able to grow at very high density in suspension.
+The AGE.1.CR cell line can reach cell densities of >50 million cells/ mL in
+suspension culture {1}. The human embryonic retina cell line, PER.C6, is even
+more impressive and can grow at densities of 10 million cells/mL in batch fed
+systems, and 100 million cells/mL with continuous perfusion {2}. An argument
+could be made for the role of lactate in the ability of retinal cells to grow
+at high density, presumably unharmed by the high proportion of metabolic waste
+produced.  Cells of the retina generally have a very high rate of glycolysis,
+resulting in high levels of pyruvate and lactate within the sub retinal space
+{3}. Not only are the cells of the retina able to tolerate high levels of
+lactate, but some of these cells are also able to utilize it as a metabolic
+substrate {3, 5}. In some instances, retinal pigment epithelial cells appear
+to preferentially metabolize lactate, even in the presence of glucose or
+glutamate, which they preserves for the more energy consumptive cells of the
+retina {4, 6}.
+
+Spontaneous immortalization of retina pigment epithelia (RPE) cells. Under
+normal circumstances retina pigment epithelial (RPE) cells have limited
+proliferative capacity in culture, senescing within 10 passages {7}. A
+commonly observed phenomenon of these cells however, is their high propensity
+towards spontaneous immortalization {8}. In a study which established 119 cell
+lines from human donors, 7 lines (5.8%) were spontaneously immortalized by
+serial passaging {9}. Once undergoing spontaneous transformation, RPE cells
+transition away from a traditional cobblestone epithelial-like morphology, to
+one more typical of mesenchymal/ fibroblast cells. Their rate of proliferation
+increases after becoming immortalized, with doubling times of just 20 hours
+reported {9}.
+
+Adaption to serum free media in planar culture  
+It has been well documented in literature that adaption to serum free media in
+planar culture, prior to suspension, greatly improves the likelihood that
+cells with successfully adapt to growth in suspension. In our initial avain
+embryonic cell isolation experiment we found that slow adaptation to serum
+free media in adherent culture was not required for our Bobwhite and Japanese
+Quail cell lines, and that they grew well when plated, immediately post
+isolation, into either DMEM/F12 + 10% KSR or OptiPRO + 4mM Glutamax. (see
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/ODEzOC4wfDEwNjMxNy82MjYwLTUxNzczL1RyZWVOb2RlLzEwODQyMTcwMjV8MjA2NTguMA==
+)   Given our previous success with this fast adaptation process, all isolated
+collected in this project will be plated into DMEM/F12 + 10% KSR or OptiPRO +
+4mM Glutamax as well as DMEM/F12 + 10% FBS. The FBS condition will serve as a
+backup, in the instance that some species require a slower, rather than
+immediate weening from FBS.
+
+Suspension adaptation  
+We have previously seen excellent, but transient, growth of our embryonic
+quail cells in suspension culture. See results here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/OTk5OC4zMDAwMDAwMDAwMDF8MTA2MzE3Lzc2OTEtNjM2MzkvVHJlZU5vZGUvMzM2NTI5ODg5NHwyNTM4MC4z
+and here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/ODE0My4yMDAwMDAwMDAwMDF8MTA2MzE3LzYyNjQtNTE3ODYvVHJlZU5vZGUvOTk2NTQ0MTE2fDIwNjcxLjE5OTk5OTk5OTk5Nw==.
+Here we plan to leverage of the learnings from our past 2 embryonic suspension
+adaption experiments in order to improve on these results, in terms of the
+length of time the cells can be maintained in culture, and the number of
+doublings they can undergo. The following parameters will influence our choice
+of conditions to focus on for the upcoming suspension adaption trials.  
+
+Vessel size  
+50mL bioreactor tubes will be used for this experiment. The downside of these
+is that they have a low culture volume in suspension (10mL) meaning that the
+ViCell cannot be used to perform automated cell counts (due to the requirement
+to sacrifice at least 500ul solution and 50k cells at each count). The benefit
+however is the reduced labor at each feed and count because cells do not need
+to be transferred to falcon tubes before centrifugation, and require fewer
+cells to be seeded.  
+  
+Shaker speed  
+Project Frankenstein at Vow (focusing on CRISPR mediated cell modifications to
+improve CHOMP adaptation to suspension), have reported increased cell
+viability in suspension with reduced shaking speeds. The shaking speeds used
+by Vow during the majority of our suspension adaption experiments has been set
+to 210 RPM for 50mL bioreactor tubes and 120 RPM for e-125 flasks. Team
+Frankenstein saw improved survival at shaking speeds of 190RPM in 50mL tubes
+however. Upon learning this, shaker speed for the avian embryonic suspension
+adaption experiment 2 (in 50mL tubes) was reduced to 200RPM, following which
+we saw a dramatic increase in cell numbers across all cultures. While this
+does not necessarily indicate a causal relationship, shaker speeds of 200 RPM
+and 175 RMP and  will be trialed  for the upcoming experiments due to the
+likelihood of reduced shear stress and improved cell viability.  
+  
+Media  
+We have limited capacity for the number of conditions we can trial in this
+experiment due to scientist availability. For our initial trial, all cultures
+will be seeded only into Freestyle 293 supplemented with Yeast Extract,
+L-Ornithine monohydrochloride, Putrescine, IGF-1, EGF and ACA (this is the
+complete Nuvonis Suspension media formulation) +  FGFs as this was previously
+shown to support growth in our BOBBO embryonic cell lines. Once we have
+identified cell lines that perform relatively well in this media,
+optimizations and variations can be investigated in future experiments.
+
+Species/ cell lines  
+Of all the species collected during this project, duck appears the most
+appealing from a product perspective. This is because we have already used
+quail in our first product, and other companies have used chicken on countless
+occasions.
+
+  1. Khaki Campbell Duck\- Due to the potential advantages of embryonic eye cells mentioned earlier, the KHAKI DUCK EYE line will be trialed in this experiment. These will be compared to cells derived from the whole body (KHAKIO). Unfortunately the KHAKIK culture did not proliferate well in planar culture, and is therefore not available for use.  
+  2. Muscovy Duck- Both MUSCO and MUSCK will be trialed, in order to optimize our chances of successfully developing a duck suspension cell line. 
+
+Conditions
+
+KHAKIO (in Nuvonis + FGF) 175RPM  
+KHAKIO (in Nuvonis + FGF) 200RPM  
+KHAKI DUCK EYE (in Nuvonis + FGF) 175RPM  
+KHAKI DUCK EYE (CONDITIONED Nuvonis + FGF) 200RPM  
+KHAKI DUCK EYE (in Nuvonis + FGF)  200RPM  
+MUSCK (in Nuvonis + FGF) 175RPM  
+MUSCK (in Nuvonis + FGF)  200RPM  
+MUSCO (in Nuvonis + FGF) 175RPM  
+MUSCO (in Nuvonis + FGF)  200RPM  
+
+References  
+
+1. Vazquez-Ramirez, D., Genzel, Y., Jordan, I., Sandig, V., & Reichl, U. (2018). High-cell-density cultivations to increase MVA virus production. Vaccine, 36(22), 3124-3133. 
+
+2\. Yallop, C., Crowley, J., Cote, J., Hegmans‐Brouwer, K., Lagerwerf, F.,
+Gagne, R., ... & Bout, A. (2005). PER. C6® cells for the manufacture of
+biopharmaceutical proteins. Modern biopharmaceuticals: design, development and
+optimization, 779-807.
+
+3\. Wood, J. P., Chidlow, G., Graham, M., & Osborne, N. N. (2004). Energy
+substrate requirements of rat retinal pigmented epithelial cells in culture:
+relative importance of glucose, amino acids, and monocarboxylates.
+Investigative ophthalmology & visual science, 45(4), 1272-1280.
+
+4\. Zhu, S., Engel, A. L., Wang, Y., Xu, R., Chao, J. R., & Du, J. (2021). RPE
+utilizes proline to enhance nutrient availability to the retina. Investigative
+Ophthalmology & Visual Science, 62(8), 2231-2231.
+
+5\. Vohra, R., & Kolko, M. (2020). Lactate: more than merely a metabolic waste
+product in the inner retina. Molecular Neurobiology, 57(4), 2021-2037.  
+
+6\. Goldman, S. S. (1988). Gluconeogenesis in the amphibian retina. Lactate is
+preferred to glutamate as the gluconeogenic precursor. Biochemical Journal,
+254(2), 359-365.
+
+7\. Davis, AA; Bernstein, PS; Bok, D; Turner, J; Nachtigal, M; Hunt, RC, "A
+human retinal pigment epithelial cell line that retains epithelial
+characteristics after prolonged culture," Investigative Ophthalmology and
+Visual Science, vol. 36, no. 5, pp. 955-964, 1995.
+
+8\. Fronk, A. H. (2015). Methods for Growing Retinal Pigment Epithelial Cells:
+Current Protocols and Future Recommendations.
+
+9\. Mannagh, J., Arya, D. V., & Irvine, A. R. (1973). Tissue culture of human
+retinal pigment epithelium. Investigative Ophthalmology & Visual Science,
+12(1), 52-64.
+
+

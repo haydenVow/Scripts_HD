@@ -1,0 +1,388 @@
+
+
+1/12/21
+
+Kylie e-mailed to say they have placed the order and will have these samples
+to drop off on Monday 6th:
+
+  
+ P016 NANDO- Chicken (myo)  
+ P017 NANDO - Chicken (diff)  
+ P018 Chicken tissue (biopsy)  
+ P019 GOBLR - Turkey (myo)  
+ P020 GOBLR - Turkey (diff)  
+ P021 Turkey tissue (biopsy)  
+ P022 BUFFY - Water buffalo (diff)  
+ P023 DAISY - Cow (diff)  
+  
+ Samples sizes of the cell suspension will vary between 30mg - 90mg. Treatment
+will be the same as the previous samples SENT (ie washed with cold PBS).
+
+
+
+
+6/12/2021
+
+Samples dropped off by Chris, stored in -30oC freezer
+
+
+
+
+7/12/2021
+
+~ 20-80 mg wet weight cell culture taken and added to lysis buffer (U/TU) to a
+ratio of 10uL buffer/1mg cells
+
+~ 100mg tissue/mince added to 1ml lysis buffer.
+
+Samples dissolved by tip probe sonicator or homogemiser.
+
+8/12/2021
+
+100uL of each sample was taken out and centrifuged at 20,000g for 30min @4degC
+
+Supernatant was taken (avoiding fatty layer at top) and 100uL MilliQwater was
+added and vortexed
+
+Proteins were precipitated using a chloroform/methanol cleanup protocol, r/c
+in 100uL lysis buffer and quantified using Qubit
+
+SampleWeight (mg)Concentration (ug/ml)Total protein (in 100uL) (ug)
+
+Volume of 100ug (uL)
+
+Trypsin added  
+(uL of 0.1ug/uL)
+
+2nd QUBIT (post digest) ug in 30uL)  
+  
+01622.653353.3all1117.6  
+01740.861461.4all1317.8  
+01880.62600260464395.4  
+01929.870370.3all1422.9  
+02032.0too lowtoo lowall2<3  
+02129.31500155653187.6  
+02241.578578.5all1638.5  
+02344.01210121.0752738.9  
+  
+Samples were normalised to ~50-100ug/100uL, reduced with 10mM DTT, alkylated
+with 25mM IAA, diluted 1 in 5 with HEPES buffer (50mM, pH 7.8) and  trypsin
+was added to a ratio of 1:50.  Sample were digested o/N at 37degC in a
+thermomixer.
+
+  
+
+9/12/2021
+
+Samples were acidified by adding 100% TFA to a concentration of 1% TFA,
+centrifuged at  16000g for 5 min and supernatant collected.
+
+Samples were then cleaned up using HLB cartridges, eluted in 500uL 50% ACN,
+0.1% TFA and dried down overnight
+
+10/12/2021
+
+Samples were reconstituted in 30uL water and a qubit quantification was done
+(see table above)
+
+Samples were diluted so that  ~1ug/3uL was loaded onto the HFX3
+
+Samples were run in duplicate
+
+
+
+
+Run order: 21, 20, 19, 23, 18, 17, 16, 22
+
+
+
+
+12/12/21 BSA SSTs
+
+Run722 RT722 Counts% CovNo PepScore  
+127.699.59e850334936  
+427.721.02e950334700  
+527.661.02e950334746  
+627.738.70e851334934  
+727.799.74e850334389  
+827.829.64e852345001  
+927.741.05e952344808  
+1027.799.85e852355249  
+1127.769.58e852345179  
+1227.749.71e852355114  
+1327.771.04e952355141  
+1427.819.33e852355167  
+1527.791.10e952355420  
+15 rpt27.761.14e952355305  
+1627.751.09e952355373  
+1727.781.09e952355352  
+1827.861.09e952355441  
+1927.861.14e952355546  
+2027.821.05e952355520  
+  
+BSA 04:
+
+BSA 20:
+
+
+
+
+12/12/21 TICs
+
+P016_1
+
+P016_2
+
+  
+
+P017_1
+
+  
+
+P017_2
+
+  
+
+P018_1
+
+  
+
+P018_2
+
+  
+
+P019_1
+
+  
+
+P019_2
+
+  
+
+P020_1
+
+  
+
+P020_2
+
+  
+
+P021_1
+
+  
+
+P021_2
+
+  
+
+P022_1
+
+  
+
+P022_2
+
+P023_1
+
+  
+
+P023_2  
+
+
+
+
+12/12/21 Prior to searching the data a turkey (Meleagris gallopavo) database
+was downloaded from NCBI:
+
+as well as a chicken (Gallus gallus) database:
+
+
+
+
+
+
+12/12/21 Samples were then searched file-by-file vs the relevant database
+using PD 2.5 and Mascot 2.8.  Typical settings were:
+
+  
+
+
+
+
+13/12/21
+
+File-by-file search summary
+
+SampleProteinsProt GrpPep GrpPSMMSMS  
+16_1 Chicken, myo17,2875,51148,84565,857152,902  
+16_2 Chicken, myo  
+17,1145,46848,27164,950153,415  
+17_1 Chicken, diff 14,9444,91043,77760,271151,695  
+17_2 Chicken, diff 15,1204,92343,08958,965152,146  
+18_1 Chicken, biop 9,9833,15829,79146,176147,709  
+18_2 Chicken, biop 9,7713,13229,42145,152147,901  
+19_1 Turkey, myo9,1985,47644,46560,790153,481  
+19_2 Turkey, myo 9,3455,52544,08860,024154,270  
+20_1 Turkey, diff 2,1271,1716,3628,279100,506  
+20_2 Turkey, diff 2,2421,2086,4358,403105,472  
+21_1 Turkey, biop3,9942,31221,54536,624145,492  
+21_2 Turkey, biop 3,9582,29421,28435,297145,651  
+22_1 Buffalow, diff 17,3335,54751,42370,243153,614  
+22_2 Buffalow, diff16,862538350,39068,820153,747  
+23_1 Cow, diff 12,4174,15632,90444,402145,562  
+23_2 Cow, diff12,7384,15432,65143,714146,042
+
+
+  
+  
+13/12/21
+
+The duplicate runs were merged by using PD to recalibrate the data and
+generate one mgf file:
+
+
+
+The mgf files were then searched using mascot:
+
+
+
+
+
+
+MaxQuant Processing
+
+  
+
+Summary Table
+
+File/RunMSMS identifiedPeptides IdentifiedProtein GroupsOrganism/FASTA file  
+P016  
+  
+  
+Ggallus_Chicken_RefSeq_GCF_016699485.2_20211212_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P016  
+5773941485  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P016_2  
+5614240695  
+  
+  
+Combined113881511265043  
+  
+P017  
+  
+  
+Ggallus_Chicken_RefSeq_GCF_016699485.2_20211212_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P017  
+5252936183  
+  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P017_2  
+51254  
+35442  
+  
+  
+  
+Combined103783  
+44246  
+4564  
+  
+P018  
+  
+  
+Ggallus_Chicken_RefSeq_GCF_016699485.2_20211212_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P018  
+3986023013  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P018_2  
+3877422606  
+  
+  
+Combined78634278002821  
+  
+P019  
+  
+  
+Mgallopavo_Turkey_5.1_RefSeq_GCF_000146605.3_20121221_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P019  
+5225636752  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P019_2  
+5113836231  
+  
+  
+Combined10339445716  
+5083  
+P020  
+  
+  
+Mgallopavo_Turkey_5.1_RefSeq_GCF_000146605.3_20121221_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P020  
+71044758  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P020_2  
+73024822  
+  
+  
+Combined144066305  
+  
+  
+P021  
+  
+  
+Mgallopavo_Turkey_5.1_RefSeq_GCF_000146605.3_20121221_protein  
+  
+20211210_QEHFX4_AC_VowFoods_P021  
+3092015649  
+  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P021_2  
+2995215520  
+  
+  
+Combined60872189162020  
+  
+P022  
+  
+  
+Bbubalis_NDDB_DH1_RefSeq_GCF019923925.1_2011126  
+  
+20211210_QEHFX4_AC_VowFoods_P022  
+6230643957  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P022_2  
+6082243135  
+  
+  
+Combined123128536145094  
+  
+P023  
+  
+  
+Btaurus_Cow_ARS-UCD1.2_RefSeqGCF00_2263795.1_20111201  
+  
+20211210_QEHFX4_AC_VowFoods_P023  
+3853126048  
+  
+  
+20211210_QEHFX4_AC_VowFoods_P023_2  
+3764725646  
+  
+  
+Combined76178318663754  
+  
+  
+  
+
+

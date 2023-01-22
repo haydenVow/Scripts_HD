@@ -1,0 +1,26 @@
+
+
+Myogenic purity was assessed using the following protocol.
+
+One image pair (DAPI + AF555) captured using the Axio microscope under 10x
+objective for each clone was analysed using FIJI software.
+
+  1. One image pair from well B7 on culture 7238 was imported into FIJI. 
+  2. Both images were converted to 8 bit. 
+  3. A background subtraction was performed on each image (rolling radius = 50) 
+  4. The 'despeckle' function was run on the AF555 image to remove free floating, saturated pixels. 
+  5. The enhance contrast function was run on the AF555 image to boost the AF555 signal present. 
+  6. 'Find Maxima' function was used to detected DAPI and AF555 stained cells in each images.
+  7. AF555 and DAPI images were finally merged to highlight co localisation. 
+  8.   
+
+
+
+
+Maxima detected in DAPI image in well B7 (BUFFY6_25K6). 121 spots detected.
+
+ Maxima detected in AF555 image of well B7 (BUFFY6_25K6). 120 spots detected
+
+  
+
+

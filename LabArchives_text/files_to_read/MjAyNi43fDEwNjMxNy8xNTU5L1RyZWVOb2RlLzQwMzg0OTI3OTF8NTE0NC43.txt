@@ -1,0 +1,76 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+
+
+To assess whether the DOLLY12 cells share similar growth rates between E125 vs
+50mL bioreactor tubes.
+
+
+Hypothesis
+
+
+That DOLLY12 cells grown in 50mL bioreactor tube will share similar growth
+rates compared to E125 vessels.
+
+
+Technical Gap
+
+
+To identify which animal component free (ACF) media formulations support
+muscle stem cell growth in microcarrier suspension cultures we require a high
+throughput screening system. Rapid screening of ACF medias will allow us to
+more easily identify media formulations that support strong proliferation in
+these suspension cultures. A high throughput and cost effective media
+screening pipeline ideally relies on using small volumes of ACF media and
+small numbers of cells per culture. To date a majority of our microcarrier
+experiments have relied upon using E125 flasks which have a minimum working
+volume of 30mL and require between 1.7-3 million cells for seeding. We want to
+first identify whether we can achieve comparable results in cell growth rates
+by downsizing our culture vessels from E125 flasks to 50mL bioreactor tubes.
+By using these tubes we can reduce our media and cell requirements by two
+thirds (10mL media and 0.566-1 million cells to seed).
+
+
+Method/Procedure
+DateTaskAdditional Notes  
+2-JuneEquilibrate 3xE125 flasks and 3x50mL bioreactor tubes with Cytodex 1
+microcarriers. Equilibrate all vessels with 4.5mg/mL of cytodex 1
+microcarriers (19,500 carriers/mL), from 20g/L stock.  
+  
+30mL for E125 flasks, 10mL for 50mL tubes  
+  
+DMEM/F12 + 20% FBS + 1xP/S + 10uM p38i growth media.  
+  
+3-JuneSeed all 6 vessels with DOLLY12 cells Seed each vessel at 68250cells/mL
+(3.5 cells per carrier)  
+  
+Shake 50mL tubes at 250rpm, Shake E125 flasks at 110rpm. (~0.06W/kg energy
+dissipation rate)  
+4-JuneSample, Stain and Image samples from each vessel, 3x20uL from each
+vessel. Use the Zaber for imaging under PHASE and DAPI channels, 1 image on
+centre of each well. Process using MIA captures 'uCarrier cell count' tool.  
+  
+Mix samples with dPBS containing 1% w/v poloxamer 188 and 20uL/mL of Hoechst
+33342 and wait 20 minutes before imaging.  
+  
+Take whole well images as well to confirm carrier numbers in each vessel.  
+5-JuneNo action  
+  
+6-June50% Feed all vessels Growth media feed, same as seed media.  
+  
+5mL for 50mL tubes, 15mL for E125 flasks.  
+7-10 JuneSample, Stain and Image samples from each vessel, 3x20uL from each
+vessel.  
+Use the Zaber for imaging under PHASE and DAPI channels, 1 image on centre of
+each well. Process using MIA captures 'uCarrier cell count' tool.  
+  
+Mix samples with dPBS containing 1% w/v poloxamer 188 and 20uL/mL of Hoechst
+33342 and wait 20 minutes before imaging.  
+  
+10-JuneAnalyse proliferation data to determine doubling rates.  
+
+

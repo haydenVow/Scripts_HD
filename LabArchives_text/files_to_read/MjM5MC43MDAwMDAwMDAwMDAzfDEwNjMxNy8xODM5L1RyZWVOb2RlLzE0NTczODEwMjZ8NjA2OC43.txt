@@ -1,0 +1,174 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by:
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+6wp  
+7097  
+T75  
+7117-BUFFY6_21L10-Water Buffalo P4-1of1  
+  
+  
+  
+T75  
+7118-BUFFY6_25K6-Water Buffalo P4-1of1  
+  
+  
+  
+T25  
+7119-BUFFY6_27B2-Water Buffalo P4-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. Could not image
+flasks today as the imaging station was inoperable. Contacted the engineering
+team about the issue.
+
+2\. Gelatin coated     2     x    T75     and    1     x    T25      vessels
+with sterile filtered 0.1% gelatin solution and then incubated all coated
+flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       9:52   a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     6    mL in     1x15    tubes
+  2.  dPBS (for washing and neutralising):     6    mL in    1x15    tubes
+  3. Growth media (for seeding):      2x15 and 1x5    mL in    15mL     tubes  
+
+Time that all aliquots were placed in the water bath the warm before use
+10:00   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     10:18   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     2    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     10:21-10:37   a/pm 
+
+7\. Neutralised with      2    dPBS and combined cell suspension into a     15
+tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     10:44-10:59   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in  their respective seeding media.     10:55:
+a/pm
+
+
+
+
+13\. Transferred  cell suspensions to their respective flasks. See
+https://docs.google.com/spreadsheets/d/1YB6I5aMkVNGZpw7XywnhXbE1x1eTlTawCxAFSpn9BTo/edit#gid=1406517260
+for vessel sizes and locations.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      10:59  \-
+11:29 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells), incubator #78
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+24wp cultures were discarded (cultures 7037 and 7038
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4790  
+  
+Tryple4949  
+  
+dPBS (for washing & neutralising)5067  
+  
+Growth Media5382  
+  
+p38i (20mM stock)4928  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- Wells A1, A2 and A3 look ready for passage (confluence >30%). Well A1 and
+A2 appear 80% confluent, therefore I plan to expand them to T75 flasks instead
+of T25 flasks. Well A3 looked within the 30-50% confluent range so I'll expand
+it up to a T25.
+
+
+
+
+SOPs used:
+
+### \- N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+n/a
+
+

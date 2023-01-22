@@ -1,0 +1,54 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+
+EPIC 21458 DOLLY12 cells in Fibrin gels cultured on anchor points and conical
+inserts https://app.clubhouse.io/vowfood/epic/21458/dolly12-cells-in-fibrin-
+gels-cultured-on-conical-inserts-anchor-
+points?cf_workflow=500000005&ct_workflow=all  
+
+EPIC 21469 DOLLY12 cells in PureColl gels cultured on anchor points and
+conical inserts  
+
+https://app.clubhouse.io/vowfood/epic/21469/dolly12-cells-in-purecoll-gels-
+cultured-on-conical-inserts-anchor-
+points?cf_workflow=500000005&ct_workflow=all
+
+RELATED TO MILESTONE:  Enhancing maturation based on 2x Myosin expression or
+60% MyoG
+
+AIM/PURPOSE: We are trying to explore non-chemical stimulation to drive cells
+towards more mature muscle, especially in terms of protein expression.
+
+HYPOTHESIS: By adding mechanical stimulation we will be able to simulate a
+more muscle-like environment, activating cellular pathways that result in
+higher protein expression.
+
+RESULTS SUMMARY:
+
+Figure 1: CMFDA stain of matrix-embedded DOLLY12 cells, demonstrating
+viability and spreading of cells
+
+Figure 2: a) Design of 3D printed conical inserts used for passive mechanical
+stimulation, b) upwards muscle ring migration after >2d culture
+
+Figure 3: Contractivity and muscle ring migration behaviour as function of
+cone angle (left to right)  compared to non-cell laden controls (far right)
+
+CONCLUSIONS:
+
+  * Cells embbeded in gel matrices remain viable over the course of maturation (Figure 1)
+  * Suitable matrices were identified that encourage cells to spread and possibly differentiate
+  * Cell-laden gels exhibit significant contraction and shrinkage compared to cell-free controls. 
+  * Anchor point inserts require a large gel volume seeded in the wells to avoid gel detachment from the pins during gel contraction
+  * If paired with passive mechanical stimulation (using conical inserts), the contraction-induced shrinkage results in muscle gel ring migration towards lower strain areas. Lower cone angles result in faster upwards migration (Figure 2 & 3)
+
+NEXT STEPS:
+
+  * optimize insert architecture to allow for easier harvesting and scale up
+  * combine with electrical stimulation in a similar insert type
+  * repeat with other cell types
+  * measure weight gain, gel dimensions and other maturation indicators
+  * explore alternative ways to analyze muscle maturity (imaging is tricky due to thickness of samples)
+
+

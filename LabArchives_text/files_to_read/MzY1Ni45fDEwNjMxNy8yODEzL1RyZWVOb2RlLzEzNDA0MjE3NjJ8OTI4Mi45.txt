@@ -1,0 +1,19 @@
+  
+  
+Figure 1: Absorbance readings across a range of scaffolds (1:10,000)
+
+Figure 2: Absorbance readings across a range of scaffolds (1:50,000)
+
+Figure 3: Absorbance readings across a range of scaffolds (1:100,000)
+
+
+  
+  
+Summary/Key learnings:
+
+  * Across all scaffolds and dilutions of the HRP-conjugated secondary antibody, absorbance readings are observed which are significantly higher than the "wash control wells".
+  * There appears to be a size dependency of the scaffold linked with the amount of signal absorbed - and ultimately secondary antibody retained in the scaffold. This is expected as larger scaffolds are more likely to retain antibody due to more porous structure available in the well for the antibody to be trapped in.
+  * Hence, ELISA or any antibody-capture related means of protein quantification may not be an ideal method to measure maturation in our cells at Vow.
+  * Despite 5 iterations of PBS washing, empty wells appear to retain some level of secondary antibody. However, this does not hinder analysis as long as results are normalised to these "cell free" wells in the future. 
+
+

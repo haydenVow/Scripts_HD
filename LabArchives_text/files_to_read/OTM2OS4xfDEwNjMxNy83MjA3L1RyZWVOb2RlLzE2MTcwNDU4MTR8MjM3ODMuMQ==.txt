@@ -1,0 +1,118 @@
+
+
+## Performed by: ST/NH
+
+
+
+
+Reagents used:
+
+Name  
+  
+RNeasy Kit  
+Chloroform  
+Tri-reagent  
+Rnase free DNase kit
+
+
+  
+  
+Culture IDs
+
+Flask TypeFlask ID(s)  
+T75 flasks
+
+10735 - control round 3
+
+10740 - ZIC1 round 3
+
+10742 - RIPK1 round 3
+
+10777 - control round 4
+
+10779 - AQP1 round 4
+
+10781 - FASLG round4
+
+
+  
+  
+Process
+
+Prior to day - Half the cells from a confluent T75 flask were collected, spun
+down, washed with PBS and frozen at -80 degrees c. These frozen pellets were
+used for RNA extraction.
+
+  
+
+Day of RNA extraction
+
+Samples were taken to UNSW and placed into a fume cupboard:
+
+  1. Centrifuge was cooled to 4˚C
+  2. 1 mL tri reagent was added to each cell pellet
+  3. Sample sat at room temp for at least 2 mins
+  4. 200μl chloroform was added to each tube per 1mL tri-reagent
+  5. Samples were shaken vigorously for 15 seconds
+  6. Samples sat at room temp for 2-3 mins 
+  7. Samples were Centrifuged at 4˚c at 12000 g for 10 mins
+  8. While spinning, obtain new 1.5 ml tubes were obtained from the RNeasy kit and add 450μl of 70% RNA only ethanol was added to each
+  9. The centrifuged samples were placed on ice
+  10. The aqueous phase of the samples was transferred into new 1.5 mL tubes with ethanol. (approx. 450μl per tube)
+  11. 500μl of solution (sample + ethanol) was added to a spin column from the RNeasy kit for each sample
+  12. Samples were centrifuged at 10000 g for 30 seconds
+  13. Flowthrough was discarded
+  14. The remaining solution from each sample (sample + ethanol) was added to the spin column
+  15. The samples were centrifuged again at 10000 g for 30 seconds
+  16. Flowthrough was discarded 
+  17. 350μl RW1 was to each spin column and spun again 10000 g for 30 seconds
+  18. Flowthrough was discarded  
+
+OUT OF FUME CUPBOARD
+
+  1. DNase MM was made up by first reconsituting the DNase. This was done according to manufacturers instructions
+  2. A 10 x MM was prepared  (1x = 70μl Buffer + 10μl DNase)
+  3. 80μl DNase MM was added directly to the membrane of each spin column 
+  4. The DNase was allowed to sit at RT for 15 mins
+  5. 350μl RW1 was added to each column, centrifuged at 10000 g for 30 seconds and flowthrough discarded
+  6. 500 ul of buffer RPE was added to each spin column, centrifuged at 10 000 x g for 30 seconds, and flowthrough discarded
+  7. 500 ul of buffer RPE was added to each spin column, centrifuged at 10 000 x g for 2 minutes and flowthrough discarded
+  8. The columns were transferred to new collection tubes and centrifuged at 16 400 x g (max speed) for 1 minute
+  9. The lids of the column were opened and allowed to sit at room temperature for 2-3 mins
+  10. The columns were transferred to new 1.5 mL tubes from the RNeasy kit 
+  11. 40 ul of RNase free water was added to the membrane of each column which sat at RT for 2-3 minutes
+  12. The samples were centrifuged at 10000 g for 1 minute to elute the samples
+  13. Samples were placed on ice
+  14. Samples were nanodropped, while keeping them on ice
+  15. Samples were placed in the -80 freezer in box F3-1
+
+  
+
+
+
+
+Sample from the AQP1 adherent culture was lost due to a tube popping open. It
+was not able to be further processed
+
+
+
+
+Nanodrop Results
+
+Sampleconcentration ng/ul  
+Control round 3
+
+300.1  
+  
+Control round 4375.9  
+  
+RIPK1259.5  
+  
+ZIC1406.1  
+  
+FASLG343.1  
+  
+  
+  
+
+

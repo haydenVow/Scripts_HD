@@ -1,0 +1,87 @@
+Performed by: LL
+Process
+
+
+  1. Made up 110 mL of RPMI + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine dihydrochloride + 0.00005 mg/mL IGF-1-LR3 + 0.00001 mg/mL EGF + 0.0001 mg/mL FGF-B \+ 1 g/L poloxamer-188 base medium
+  2. Prepared stock solutions where necessary:
+    1. Added 1000 mg of ammonium iron (III) citrate to 10 mL of MilliQ water (100 mg/mL) 
+    2. Added 1000 mg of D-Glucose to 10 mL of MilliQ water (100 mg/mL)  
+
+  3. Made up 12 x working stock dilutions according to table below (insert table from "Factor Calcs" sheet of DSD spreadsheet below)
+  4. Check pH and adjust where necessary using NaOH or HCl
+  5. Re-filter any adjusted solutions
+  6. Store working stocks in fridge until required
+
+Spreadsheet link:
+https://docs.google.com/spreadsheets/d/1srDpasBOfBNP7_oRWGPLc5JyhbgPHpxB5-fSKJ-c0QY/edit#gid=758940668
+
+Table:
+
+  
+Factor AmountsWorking Stock Dilutions  
+Factorhigh g/L amt (1)total amt needed to order (g)working stock concentration
+(g/L)RPMI/Hycell (75/25) amt (uL)concentrated stock amt (uL)  
+Glutamax (200mM)0002964.0936.0  
+Glucose (100g/L)60.2808721092.02808.0  
+Insulin 0.020.0009360.243890.69.4  
+Sodium selenite 0.00030.000014040.00363759.6140.4  
+Transferrin0.020.0009360.243890.69.4  
+Hypoxanthene0.020.0009360.242562.91337.1  
+Concentrated lipid solution10.0468122964.0936.0  
+Ammonium iron (III) citrate 2.50.117302730.01170.0  
+Albumin 2.50.117303315.0585.0  
+Trace elements C0.040.0018720.483806.493.6  
+Yeast extract 20.0936242964.0936.0  
+Putrescine 0.040.0018720.483806.493.6
+
+
+ReagentID  
+yeast  
+m12033  
+  
+rpmi  
+s4925  
+  
+egf  
+m10584  
+  
+igf  
+m10836  
+  
+fgf  
+m9371  
+  
+Putrescine dihydrochloride  
+m10876  
+  
+L-ornithine monohydrochloride  
+m10875  
+  
+glutamax  
+s5469  
+  
+sodium selenite  
+a3398  
+  
+transferrin  
+m8887  
+  
+hypoxanthene  
+s143  
+  
+lipid solution  
+s3983  
+  
+ammonium iron (III) citrate  
+s3693  
+  
+albumin  
+s3204  
+  
+trace elements c  
+s6068  
+  
+pluronic  
+m10519  
+
+

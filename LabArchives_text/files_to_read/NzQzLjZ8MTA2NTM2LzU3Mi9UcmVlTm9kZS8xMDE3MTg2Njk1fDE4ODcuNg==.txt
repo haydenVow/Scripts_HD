@@ -1,0 +1,67 @@
+
+
+Batch 21 Overview
+
+Batch Weight:
+
+1x10CS = 2.8510g  
+4x10CF = 6.6302g (1.6576g per 10CF)
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P171x10CF  
+P291x10CS and 4x10CF  
+  
+  
+
+Treatment Used:
+
+TGFb (10ng/mL) + VitC (50ug/mL) treatment in 10-layered flasks  
+
+Treatment Timeline:
+
+Treatment was applied to both flask types at day 6 (P2). Flasks seeded at
+7,500cells/cm2
+
+Notable events/Batch Issues:
+
+  * Very small aggregates were identified in the 10CFs the day of, but before treatment. Similar aggregates have been observed previously in 10CFs when the cells become over confluent.
+  * Cells began to peel 1 day after treatment. This was more noticeable in the 10CFs in the morning. Later in the day aggregates were also visible in the 10CS.
+    * Aggregates in the 10CFs were variable. Some were very small individual round aggregates, others were thicker/larger and rounded but connected like beads on a string. Overall the vast majority of these aggregates were thinner/smaller than the aggregates from the 10CS (see images below)
+    * 10CS aggregates were thick and resembled beads on a string
+    * Despite initial aggregate formation the peeling was not complete and parts of the cell sheet was still visibly stuck to the flask, therefore the flasks were not harvested until 3 days after treatment, in hopes of the cell sheets completely detaching
+    * On the day of harvest 2x10CF still needed the use of TrypLE to fully detach the cell sheet. 
+  * Despite thicker aggregates forming in the 10CS compared to the 10CF, the weight of these aggregates formed by TGFb and VitC treatment was still less than VitC alone treatment (previously observed as ~4.9g per 10CS). 
+
+10CS Images:
+
+  
+
+10CF Images:
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Achievements:
+
+  * Replicated and confirmed the previously observed difference in yield produced by 10CF and 10CS flasks/ surface coating.
+
+Deviations:
+
+  * This batch was originally intend for seeding into 80 roller bottles. Due to delays in roller bottle apparatus construction this was not able to happen and so cells were treated in the 10-layered flasks instead to maximise the yield contributing to our quarterly total. 1x10CS was used to re-test our '10CF vs 10CS' theory where 10CS produced a higher yield than 10CF once treated, this time with both TGFb and VitC treatment (previously observed with ONLY VitC treatment). 
+
+

@@ -1,0 +1,71 @@
+
+
+Images
+
+Imaging with Zabar was not successful in this experiment. This was due to a)
+initial images at day 1 with Hoechst stain was over exposed, and day 7 images
+with Hoechst stain showed no cells adhered. As a result, plates were fixed,
+DAPI, primary and secondary stained the following two days. Results showed
+that there were cells adhered to all scaffolds, indicating that the hoechst
+stain was unable to produce signals.
+
+Observation of images at day 8 (fixed, DAPI, MyoG, MF20):
+
+Upon imaging under the axio, no evidence of MyoG nor MF20 was seen. It is
+likely that there are not enough cells for differentiation to take place or
+that it is too early for differentiation to occur. Therefore only DAPI images
+were taken. Below are DAPI images of scaffolds with the most confluency in
+each condition.
+
+  
+
+Seitan with Auto at 0.7M seeding density in ACF media             Seitan with
+Auto at 1M seeding density in ACF media               Seitan with Auto at 1.7M
+seeding density in ACF media
+
+  
+
+Seitan with Auto + HT at 0.7M seeding density in ACF media     Seitan with
+Auto \+ HT at 1M seeding density in ACF media         Seitan with Auto \+ HT
+at 1.7M seeding density in ACF media
+
+  
+
+Seitan with HT + auto + EPC at 0.7M seeding density in ACF media
+
+ Seitan with HT + auto + EPC at 1M seeding density in ACF media Seitan with HT
++ auto + EP at 2M seeding density in ACF medial
+
+
+
+
+
+Seitan with Auto at 1M seeding density in serum media  
+
+Seitan with HT + Auto at 1M seeding density in serum media  
+
+ Seitan with HT + Auto + EPL at 1M seeding density in serum media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To run scaffold confluence analysis on the images, please use the "Scaffold
+Confluence DAPI" analysis in Mia Capture.  You can find instructions on how to
+run analyze images using Mia Capture @
+
+https://www.notion.so/vow/User-Guide-to-Mia-
+Capture-03d3d08c4a5243159ace804364781e09#54b90f64fc0a4b5d99a8c1ade1a89687
+
+

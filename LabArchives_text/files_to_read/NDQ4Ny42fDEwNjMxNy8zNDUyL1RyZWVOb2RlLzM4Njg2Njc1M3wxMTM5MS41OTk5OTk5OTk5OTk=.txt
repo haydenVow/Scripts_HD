@@ -1,0 +1,129 @@
+
+
+## Feed performed by:  LL TT  
+
+
+
+
+Growth Media
+
+DMEM/F12 + 10%FBS + 1xP/S
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+Spin tube7415-NANDO3F-Chicken P5-1of1  
+  
+Fridge 104, Library lab  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsAmount used  
+D/F + 10% FBS + 1xP/Sa6455  
+5 mL  
+dPBS  
+  
+12 mL  
+  
+NucBlue Reagent Hoechst33342  
+S  
+500 uL  
+  
+NucGreen Reagent Sytox green  
+S3626  
+250 uL  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 5 mL of D/F + 10% FBS + 1xP/S 
+      1. Placed in water bath. Timestamp:  14:23   
+
+  2. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  3. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC
+  4. Using a 5 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  5. Pipetted suspension though 70 um cell strainer into 1 x 50 mL tube
+  6. Took 1 x 500 uL sample from 5 mL cell suspension and followed procedure in entry below to count cells.
+  7. Centrifuged at 300 x g for 5 min. Timestamp: 15:12 - 15:17
+  8. Aspirated 5 mL of supernatant, taking care to not disrupt or aspirate pellet 
+  9. Re-suspended cultures using serelogical.
+  10. Replaced with 5 mL of fresh, warmed media
+  11. Gently pipette-mixed cultures again before moving back to spin tubes 
+  12. Returned vessel to incubator and replaced in clamp. Timestamp: 
+  13. Incubator (#68), Lab [Main/Library/Production]
+
+
+
+
+Stain and image:
+
+  1. Took 100 uL samples of each culture, transferred to wells in 96 well plate
+  2. Prepared stain buffer of equal volumes of NucBlue and NucGreen reagents (M6457)
+  3. Added 10 uL of stain buffer to each well, pipet mixed each well
+  4. Incubated at room temperature in the dark for 10-20 minutes 15:43 - 15:55
+  5. Centrifuged at 650 RCF for 1 minutes   
+
+  6. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, below correspond to wells in row A:
+    1. Culture ID 7342
+    2. Culture ID 7415
+    3. Culture ID 7665
+    4. Culture ID 7666
+    5. Culture ID 7667
+    6. Culture ID 7668
+    7. Culture ID 7669
+    8. Culture ID 7670
+  7. Took 100 uL samples of each E125 culture, transferred to wells in 96 well plate
+  8. Added 10 uL of stain buffer to each well, pipet mixed each well
+  9. Incubated at room temperature in the dark for 10-20 minutes 17:11 - 17:21
+  10. Centrifuged at 650 RCF for 1 minute
+    1. Took images of each well on the blue and green fluorescence channels using the Zaber on culture 7502 EPIC21187-EPIC22603, listed below:
+    2. Culture ID 7690 (E1)
+    3. Culture ID 7692 (E2)
+    4. Culture ID 7698 (E3)
+    5. Culture ID 7699 (E4)
+    6. Culture ID 7697 (E5)
+    7. Culture ID 7695 (E6)
+    8. Culture ID 7696 (E7)
+    9. Culture ID 7693 (E8)
+    10. Culture ID 7691 (E9)
+    11. Culture ID 7689 (E10)
+    12. Culture ID 7694 (H1)
+    13. Culture ID 7700 (H2)
+    14. Culture ID 7466 (H3)
+    15. Culture ID 7465 (H4)
+    16. Culture ID 7673 (H5)
+    17. Culture ID 7671 (H6)
+    18. Culture ID 7672 (H7)  
+  
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. 7415-NANDO3F-Chicken P5-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

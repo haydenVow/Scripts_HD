@@ -1,0 +1,102 @@
+Passage 1 - Thaw 14x (15M) vials into 2xCC500AP
+
+
+## Procedure
+
+## Pre-seed Preparation:
+
+## Autoclave the Tubing complete set:
+
+  1. Place Tubing complete set on a clean 2L Schott Bottle.
+  2. Ensure to leave the lid slightly loose and place some autoclave tape somewhere on the bottle for identification of a successful sterilisation cycle. 
+  3. Autoclave this bottle and tubing set on a normal cycle at 121'C for 20 minutes. 
+  4. Once the run is complete, open the autoclave and immediately tighten the lid to maintain sterility inside the bottle. 
+  5. Store the tubing like this until use.  
+NOTE: The Tubing complete set can only be autoclaved a total of 3 times before
+all of the tubing components need to be replaced. To keep track of this use a
+permanent marker to place a line on one of the tubing lines each time the set
+is autoclaved. Once it reaches 3 times, replace all tubing.  
+
+Autoclave empty Schott Bottles:
+
+  1. Locate a clean Schott bottle and lid.
+  2. Place the lid on the Schott bottle leaving it slightly loose.
+  3. Place autoclave tape over the top of the lid and attached to the Schott bottle. 
+  4. Autoclave on a normal cycle at 121'C for 15-20 minutes
+  5. Once the autoclave has finished open it up and immediately tighten the lid on the bottle/s to maintain sterility. 
+  6. Store these on a shelf until needed for use as a Media Reservoir bottle
+
+##
+
+## Inoculation:
+
+NOTE: One gram of BioNOC II has a surface area of 2,400 cm2. 5.5g of BioNOC
+are present in the CelCradle Bottles this equates to a total surface area of
+13,200 cm2
+
+  1. Pre-warm the required amount of media in a water bath at 30'C for at least 30 minutes
+  2. Select the vial/s for thawing using Ranger. Note the location of the vial in Liquid Nitrogen (LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62
+
+  3. Obtain selected number of cryovial/s from LN Dewar and thaw in the 30'C water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.
+  4. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and transfer into the BSC.
+  5. In each vial resuspend the cells gently and transfer all contents from the vial to the bottom of a 50mL falcon tube.  
+NOTE: Dispensing suspension of cells on the sides of the tube will risk loss
+of cells.
+
+  6. Add an additional 500uL of growth media to each vial to wash it out and collect remaining cells. Add this into the centrifuge tube. 
+  7. Resuspend cells thoroughly and immediately extract 50uL into a microcentrifuge tube.
+  8. Perform cell count (Refer to VSOP-007) from collected sample and use the Cell Counting Widget (below) to enter data.
+  9. For each CelCradle-500AP bottle being seeded prepare one aliquot of 450ml of fresh media and in a separate bottle/tube prepare a 100,000,000 - 200,000,000 cell suspension in 50ml of fresh media.  
+Use the 'VBLT-001_2 Production Calculator Spreadsheet' to calculate the
+correct volume of cell suspension to add to 50mL of fresh media
+
+  10.  Also prepare an additional 2L or 1L of fresh media in sterile Schott Bottle and sterile tubing set. This will make up the media reservoir that will be used to feed the cells
+  11. Transfer the sterile Tubing Complete Set from the empty Schott Bottle to the Schott Bottle containing fresh media. Cap the head plate firmly.  
+
+  12. Slowly and gently pour the 450 mL of fresh media into CelCradle-500AP bottle. Tilt the bottle to send all the media down into the bellows chamber. Compress the bellows to raise the medium to submerge and wet the matrices.  
+
+  13. Dispense 50mL of cell suspension onto the macrocarrier matrix using a serological pipette. Be sure to evenly spread this out across the matrix and don't dispense the whole cell suspension into one spot.  
+
+  14. Connect the tubing set with CelCradle-500AP. Be careful not to touch the part of the lure under the cap.  
+
+  15. Move the whole set (CelCradle-500AP and attached Media reservoir) into the incubator, mount the CelCradle-500AP on CelCradle Stage in a clockwise direction. Then mount the pump head onto CelFeeder pump module.  
+
+  16. Once everything is in place, set up the inoculation parameters: Up: 2.0 mm/s,T_H: 20 s Down: 2.0 mm/s; B_H: 0 s. Press "Start" to initiate the immobilization process.   
+NOTE: Change "Up" to "Down" by pressing "STOP" key; To set minutes, press and
+hold either "DELAY" arrow key; to set seconds, press either "DELAY" arrow key
+in short bursts.  
+
+  17. After 3~5 hours, change parameters to: Up: 1.0 mm/s, T_H: 0 s, Down: 1.0 mm/s, B_H: 1 M for cell culture.  
+  
+NOTE: DO NOT start the CelFeeder Pump until 24hrs after inoculation
+
+
+
+
+NOTE: Cell Count was performed after seeding  
+  
+* Some cell suspension was accidentally spilled from the second tube, to know the correct seeding density and how many cells were lost, this tube was also counted on it own (count 2)
+
+* Count 1 is the number of cells in the entire cell suspension before it was separated into two tubes. 
+
+
+
+
+CelCradle Inoculation settings:
+
+Up: 2.0 mm/s,T_H: 20 s
+
+Down: 2.0 mm/s; B_H: 0 s.
+
+  
+
+At 17:31 changed to these settings:
+
+Up: 1.0 mm/s, T_H: 0
+
+Down: 1.0 mm/s, B_H: 1 M
+
+

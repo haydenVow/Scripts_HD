@@ -1,0 +1,147 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+Flask typeflask IDflask location  
+Seeded vessel typeSeeded flask ID  
+T25  
+8787-F_DOLLY12-Sheep P19-1of1  
+78-Ralph St-Library Lab-Binder Incubator (bottom)  
+T25  
+8869-F_DOLLY12_4C4-Sheep P20-1of1  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+1X Tryple
+
+Aliquot 7592  
+  
+dPBS (for washing & neutralising)Aliquot 7539  
+  
+DMEM/F12 + 20% FBS + 1X P/S Growth MediaMix7929  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2x image of vessel with microscope on phase setting at 4X and 10X
+magnification.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    3     mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     6  mL
+  3. Growth media (for pellet resuspension and seeding):     6   mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+16:00-16:10  
+
+media: 16:00 - 16:50  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     16:08  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     3    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    16:18  \- 16:36    .   
+
+7\. Neutralised with    3 mL   dPBS and combined cell suspension into a    15
+mL     tube for each flask.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:42   \-   16:47     
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    1    mL for clone 4C4 using    growth
+media  
+
+11\. Aliquoted      10 uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was: 
+    1. 4C4:      398,000 cells       
+
+  2. Volume of cell suspension required for subculture was: 
+    1. 4C4:        441uL     
+
+  3. Cell density per vessel:     175 000 cells per flask (7000 cells/cm^2)  
+  4. Record cell numbers in this spreadsheet too to calculate doubling time: https://docs.google.com/spreadsheets/d/1V8awnFZCaKBzbKTSFXCdy3iZd4wFAyTEWebNI-N1Lko/edit#gid=1008617076  
+
+
+
+
+13\. Transferred    175 000 cells to the pre-warmed      5     mL Growth
+media:  
+
+14\. Transferred cell suspension into        1x T25    for the clone.
+
+16\. Transferred vessel(s) to incubate at:    17:20  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator #78  
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+One DOLLY_12 fibroblast clone was passaged. There appears to be a lot of cell
+debris, yet there was a large proportion of adhered cells observed under the
+microscope, prior to passage.  
+  
+
+10X Magnification, Phase
+
+4X Magnification, Phase
+
+10X Magnification, Phase, cells stained with the hemocytometer
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Link to 4C4 Clone: https://mia-
+capture.vow.tools/#/session/rec5MpI9fNmQohmXp/images
+
+

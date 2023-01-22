@@ -1,0 +1,239 @@
+Overview
+
+
+Culture multiple cell lines to a sufficient quantity for 'omics interrogation
+and digestion assays (for bio-accessibility testing compared to plant based
+meat alternatives).  
+  
+  
+Cell lines of interest:
+
+CHOMP: single cell fibroblasts
+
+C2C12s: differentiated myoblasts
+
+KUZCO: single cell fibroblasts (already in culture see)
+
+KUZCO: differentiated myoblasts
+
+NUVONIS Quail: single cell fibroblasts (adherent)
+
+BUFFY: differentiated myoblasts (already in culture see)
+
+  
+
+For MuSC culture:
+
+  * Only ACF media compositions will be assessed for differentiation -> E6 media
+  * Cultures will be expanded till confluent, then switched to respective conditioned media
+  * Conditions will be differentiated for 14 days then harvested on the 14th day.
+
+  
+  
+Cell requirements:
+
+We require 3 technical replicates for each cell line and each analysis
+(digestion and multiomic)
+
+  
+For multiomics analysis we require 1-10mg for each omic per cell line, per
+replicate: Lipidomic, Proteomic and Metabolomic (Untargeted)
+
+  
+For digestion and subsequent analysis we will need 10mg of dry cells. Sample
+needs to be freeze dried. When cells are dried they can lose up to 90% of
+their weight so we would need ~100mg of cells for each cell line.  
+  
+From production metric tracker 'proliferation metrics' tab, row 34. Myoblasts
+at P4, 4X4CFs seeded with 17464000 cells on the 2021-04-15, yielded 109887500
+cells when harvested 5 days later (2021-04-20) and had a wet weight of 0.948g
+= 948mg. (237mg per 4CF ~28M cells). As such, 1x 2CF should provide
+approximately 120mg - enough for both analyses  
+  
+So for the digestion assays we would likely only need 1x2CF worth of cells,
+seeded with 2M cells 5 days prior to harvest. Which would yield ~118.5mg, 14M
+cells.  
+  
+Note- we will also need at least 30k cells for a bradford assay (~0.3mg).  
+  
+  
+Total =
+
+3x confluent 2CFs per cell line  
+  
+
+
+Aim
+
+
+To culture a sufficient quantity of the following cell lines of interest
+CHOMP, NUVONIS Quail and KUZCO single cell fibroblasts, C2C12s, KUZCO and
+BUFFY diff erentiated myoblasts for assessment via omics and bioaccessibility
+assays.
+
+
+Experiment timeline
+
+
+NOTE \- BUFFY: differentiated myoblasts (already in culture see) and KUZCO
+single cell fibroblasts (already in culture see) will need to be expanded also
+seeded into 3x2CF then cultured for 14 days. Timeline for this is currently
+unknown and will need to be incorporated into the below work:
+
+DayDateTask  
+Day -3  
+
+         MuSCs:
+
+  * Thaw 14 x KUZCO MuSCs (R&D, 468-510k cells per vial) (BUFFY and C2C12 already in culture)  
+  
+
+  * Seed 3x2CF with 2.2 M cells per flask and 1x T75 with 131.3K cells (~1750 cells/cm2) for each cell line.   
+  
+MAKE UP MEDIA:  
+  
+Growth media (DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)): 2.25L  
+  
+  
+Fibroblasts:
+
+  * 4 x Nuvonis fibroblasts (7.5M cells per vial), 2 x CHOMP fibroblast (15M cells per vial)  
+
+
+  * Seed 3x2CF with 9.9M per cell line  (7850 cells/cm2).  
+  
+Place the seeded flasks directly into the 30'C incubator (do not leave them in
+the BSC for 30 minutes). Fibroblasts do not need gelatin coated flasks and do
+not need p38i.  
+  
+MAKE UP MEDIA:  
+Growth media (DMEM/F12 + 20% FBS + 1X P/S): 2L (for chomp and KUZCO fibros)  
+  
+Nuvonis media: 1.5L
+
+  
+Day -2  
+
+  * 100% feed all MuSC cultures with GM (DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM))
+  * 50% feed all Fibroblast cultures with (DMEM/F12 + 20% FBS + 1X P/S)  
+  
+
+  
+Day -1  
+
+  * Prepare Diff media:  
+  
+E6 + 1X P/S: 7.5L  
+\+ AN EXTRA 1.2L for the incoming 2CF of BUFFY MuSCs  
+= 8.7L  
+  
+DMEM/F12 + 2% HS + 1X P/S: 850ml  
+  
+
+  
+Day 0  
+
+If confluent switch all MuSC cultures to diff media (OR PASSAGE AT THIS POINT
+IF WE NEED MORE CELLS) HS into T75s, E6 into 2CFS  
+  
+Day 1  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+Day 2  
+
+  * 100% feed MuSC cultures with diff media   
+
+  * 50% feed Fibroblast cultures with growth media (DMEM/F12 + 20% FBS + 1X P/S) 
+
+  
+Day 3  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+Day 4  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+Day 5  
+
+  * 100% feed MuSC cultures with diff media  
+Prepare Diff Media:  
+  
+E6 + 1X P/S: 7.5L  
+\+ AN EXTRA 1.2L for the incoming 2CF of BUFFY MuSCs  
+= 8.7L  
+  
+DMEM/F12 + 2% HS + 1X P/S: 850ml  
+  
+  
+
+  
+Day 6  
+
+  * 100% feed MuSC cultures with diff media
+  * 50% feed Fibroblast cultures with growth media (DMEM/F12 + 20% FBS + 1X P/S)
+
+  
+Day 7  
+  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+  
+Day 8  
+  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+  
+Day 9  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+Day 10  
+  
+
+  * 100% feed MuSC cultures with diff media
+  * 50% feed Fibroblast cultures with growth media (DMEM/F12 + 20% FBS + 1X P/S)
+
+  
+  
+Day 11  
+  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+  
+Day 12  
+  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+  
+Day 13  
+  
+
+  * 100% feed MuSC cultures with diff media
+
+  
+  
+Day 14  
+  
+
+  * Harvest all cultures separately, perform cell count (do not combine pellets)
+  * 1x 2CF worth of each cell line should be taken forward for 'omics work (cells should be frozen). Do not combine pellets across cultures.
+  * From each the 2CF for each cell line remove 40K fresh cells from each and run bradford total protein analysis assay on fresh cells (n=3)
+  * Remaining cells should be freeze-dried (USYD - Tom's contact Fariba deghani \- Chris has access) and then passed off to Ruchira for digestion assays.
+
+  
+
+

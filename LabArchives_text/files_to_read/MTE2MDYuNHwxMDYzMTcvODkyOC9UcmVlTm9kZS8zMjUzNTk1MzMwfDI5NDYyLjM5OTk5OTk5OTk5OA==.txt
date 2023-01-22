@@ -1,0 +1,69 @@
+Performed by: EC, AS, ST
+Ranger data
+Harvested Flask IDsWCB Vial IDs  
+Just record first and last vial  
+  
+12755-Nuvonis Quail Suspension341-P-1of2
+
+12756-Nuvonis Quail Suspension341-P-2of2
+
+First vial: 15261  
+Last vial: 15432
+
+
+ReagentRanger ID  
+75/25 RPMI/CHO Nuvonis suspension mediumRPMI: M13090; CHO: A12920; GLUCOSE:
+M12890; L-GLUT: M13144  
+IGFM13143  
+EGFM12321  
+Freeze mediumS4912
+
+
+Process
+  
+  
+  1. Performed a cell count and determine the total number of live cells present in the culture intended for cryopreservation.
+
+    1. Took 2 x 1 mL samples per flask for count using 5 mL serelogical pipettes 
+
+  2. Calculate the number of vials that are required to be frozen.
+
+    1. Banking all cells @ 7.5M cells/mL in 1 mL of freeze medium (we only have 5 x 2mL cryovials in stock) ~~15M cells per vial in 2 mL of freeze medium (7.5M cells/mL)  ~~
+      1. Total # cells = 1,285,254,000 cells
+      2. Total # vials = 172 x 1 mL cryovials
+  3. Determine the volume of cell suspension from the culture required for centrifugation.
+
+    * 1,285,254,000 cells = 1.453L cell suspension  
+  
+
+  4. Fill the required number of Mr Frosty freezing container (18 vials per container) with the necessary volume of isopropanol.
+
+  5. Prepare room temperature cell resuspension media (CRM) and cell freezing medium (CFM). Each vial is required to be filled with 50% CRM and 50% CFM, i.e., for 10 vials 5 mL of CRM and 5 mL of CFM is required. See below:
+
+    * CRM: Complete 3:1 RPMI1640:CHO-in-1 Nuvonis suspension growth medium.
+      * Total volume to prepare = 86 mL + 73.1 mL (needed to make up CFM) \+ 8mL excess  = 167
+    * CFM: CRM with 15% DMSO.
+      * Total CRM required: 73.1 mL
+      * Total DMSO required: 12.9 mL
+      * Total volume to prepare = 86 mL
+  6. Transfer total cell suspension from the culture vessels into an appropriate vessel for centrifugation (i.e. 250 mL falcon tube).
+
+  7. Centrifuge the cells at 310 x g for 10 minutes at 22°C in a swing out rotor.
+
+  8. Aspirate the supernatant.
+
+  9. Re-suspend the cell pellet in the total volume of CRM prepared earlier (15M cells/mL)
+
+  10. Dilute the cell suspension by adding the total volume of CFM in the same vessel (7.5M cells/mL)
+
+  11. Homogenise the cells suspension by gently pipetting.
+
+  12. Aliquot the total volume of cell suspension into cryovials (2 mL per vial).
+
+  13. Transfer the cryovials into the Mr Frosty freezing container.
+
+  14. Place freezing container at -80°C for 16-24 hours.
+
+  15. The day after freezing, transfer the vials from the freezing containers to ≤-150°C (liquid nitrogen dewars) for long term storage.
+
+

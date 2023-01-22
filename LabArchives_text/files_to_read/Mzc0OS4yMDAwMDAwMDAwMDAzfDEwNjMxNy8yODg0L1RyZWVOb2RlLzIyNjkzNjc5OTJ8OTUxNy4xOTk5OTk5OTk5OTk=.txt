@@ -1,0 +1,138 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by:Avani
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+2296-Culture-6303-Vial-17of115
+
+  
+7414-F_DOLLY12-Sheep P8-1of1  
+384 wp  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 + 10% FBS + 1x P/Sa5886  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  * Growth media: 30 ml  
+
+  * Time that aliquot was placed in the water bath to warm before use:  9:50
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 10:10 - 10:15  
+
+Location where cryovial was collected from:
+
+Vial details: 1 at  1M  cells
+
+Brew
+
+Tower/Bucket #2  
+
+Box/Cane # 2
+
+Vial location:B8  
+
+Vial ID(s):2296
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension from the vial & transfer into
+29 mL of warm media.`
+
+``
+
+`7. Used this to seed 19 columns of a 384 well plate with 50 uL/well. Added
+50uL/well of PBS to edge wells.  
+`
+
+`9. Transferred flask/plate(s) to incubate at: 10:38 `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Checked the wells of 384 wp that were seeded an Monday and noticed that they
+had fewer cells than expected  (~10 cells/well).  So, they could not be
+passaged to test different tryple times at room temp. Therefore, I seeded some
+more cells at a higher density.  
+
+Revived 1 vial of F_FOLLY12 WCB into some wells of a 384 wp in DMEM/F12 + 10%
+FBS + 1x P/S
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

@@ -1,0 +1,275 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Chris  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+3269-Culture-7346-Vial-58of60
+
+3270-Culture-7346-Vial-59of60
+
+3271-Culture-7346-Vial-60of60
+
+  
+
+  
+
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+  
+1  
+2  
+3  
+  
+A  
+Serum Control  
+GM + 0.1% MC  
+GM + 0.3% MC  
+  
+B  
+GM + 0.45% MC  
+GM + 0.6% MC  
+GM + 1% MC  
+  
+  
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Preparation of media conditions:
+
+*All conditions, except for the serum control, will be in the same standard growth media which will be DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% Poloxamer 188. The only difference will be the MC supplementation added. 
+
+Performed by: CO
+
+Prepare 1.5 L of GM with ACA (1:100) and poloxamer 188 (0.1%), use 1 L for 1 %
+MC and the rest for the dilutions:
+
+[1] GM + 0.1% MC - 100 mL - dilute 10 mL of [5] with 90 mL GM/ACA/POLO
+
+[2] GM + 0.3 MC - 100 mL - dilute 30 mL of [5] with 70 mL GM/ACA/POLO
+
+[3] GM + 0.45% MC - 500 mL - dilute 225 mL of [5] with 275 mL GM/ACA/POLO
+
+[4] GM + 0.6% MC - 100 mL - dilute 60 mL of [5] with 40 mL GM/ACA/POLO
+
+[5] GM + 1% MC - 500 mL - prepare 1L in GM containing POLO and ACA, use 500 mL
+for dilutions  
+
+
+
+
+1\. Prepare growth media for each condition
+
+2\. Transferred the required volume of each reagent in the table above to each
+vessel and then placed vessels in incubator for a minimum of 20 minutes prior
+to use:
+
+  * Growth media (for seeding) 50 mL bioreactor spin tubes:   4 mL  (for each condition in map   \- 6 in total) 
+  * Growth media (for seeding) E125 flasks:  24  mL  (for each condition in map - 3 in total) 
+  * Growth media 2% FBS: 24 mL for cell resuspension  
+
+  * Growth media 2% FBS: 15 mL for neutralising   
+
+  * Time that aliquot was placed in the incubator to warm before use:   12:36      
+
+  
+
+
+
+
+## Thaw and seed vials:
+
+Amount of cells required =  24,000,000 cells (to seed cells at 200,000
+cells/mL):
+
+\- 6x 50 mL bioreactor spin tubes (5 mL media in each tube) at 1,000,000 cells
+per tube =  6,000,000 cells
+
+\- 3x E125 flasks at 6,000,000 cells per flask = 18,000,000 cells
+
+  
+
+1\. Collected the cryovials (x3 - DOLLY12 fibroblasts) from Liquid Nitrogen
+storage & place in foam floater in water bath for 5 min   12:45  
+
+Location where cryovial was collected from: Tower 5, Box 3  
+
+Vial details:  3   x  DOLLY12 Fibroblast  cryovials at  5/10M  cells each for
+a total of   25M  cells 3269
+
+IDPassageStorage LocationTowerBoxBox PositionAmount of cells  
+3269-Culture-7346-Vial-58of607106-Ralph St-Main Lab-Brew  
+53E210 million  
+  
+3270-Culture-7346-Vial-59of60  
+7106-Ralph St-Main Lab-Brew  
+53E310 million  
+  
+3271-Culture-7346-Vial-60of60  
+7106-Ralph St-Main Lab-Brew  
+53E410 million  
+  
+  
+`2. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+3\. Added     500 uL   of growth media (media prepared for neutralising) to
+generate a total volume of 1 mL in each of the cryovials, resuspending the
+cell suspension gently to reduce osmotic shock.
+
+4\. Transfer entire cell suspensions into the remainder of the aliquot of
+neutralising medium
+
+5\. Centrifuge the cells at 300 x g for 5 min at RT:     12 : 54    \-   12
+:59  
+
+6\. Removed supernatant to remove residual DMSO from cells. Note be extra
+careful not to aspirate any cells  
+
+7\. Resuspended the pellet in the 24 mL of growth media prepared for seeding
+the cells.
+
+8\. Transfer   1000 uL of the cell suspension into each of the pre warmed
+growth media conditions (to seed cells at 200,000 cells/mL - 6 conditions
+total). Gently resuspended and distribute the cells evenly in 4 mL or pre-
+warmed growth media using a p1000
+
+9\. Transfer   6000 uL of the cell suspension into each of the pre warmed
+growth media conditions (to seed cells at 200,000 cells/mL - 3 conditions for
+the three E125 flasks. Gently resuspended and distribute the cells evenly in
+24 mL or pre-warmed growth media using a 10 mL pipette.
+
+10\. Transferred flask/plates(s) to incubate at: `   13:10  
+`
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+10\. E125 flasks were shaken at 120 RPM to achieve P/V ~60 W/m3 as per the
+power/kLa calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit?pli=1#gid=1121358223&range=16:16
+
+11\. 50 mL bioreactor spin tubes were shaken at 206 RPM to achieve  P/V ~60
+W/m3 as per the power/kLa calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit?pli=1#gid=1121358223&range=17:17
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+0.3% MC media looks a little more pink than the others
+
+1% MC spin tube has slightly fewer cells than others, ran out of suspension
+towards this tube  
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

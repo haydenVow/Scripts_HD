@@ -1,0 +1,168 @@
+
+
+Procedure
+
+VSOP-089_0 Installation of the STR200L single use bag
+
+## Unpacking:
+
+  1. Retrieve a single use 200L bag from storage and transport it to the pilot plant floor close to the 200L STR.  
+(Ensure the correct bag is used (FRS500218). This bag has the optical patch
+for the pH and dissolved oxygen probes.)
+
+  2. Note the expiry date on the packaging to determine if it is still in date.
+  3. Retrieve 2 inlet filters and 2 outlet filters.
+  4. Record usage of bags and filters at unboxing (scan off QR code or manually update in Stockyard).
+  5. Turn the packaging box a complete 180° so that the packaging label is facing upside down.  
+(The bag is shipped upside down so the tubing and accessories that are on the
+top of the bag are close to the ground to prevent damage to the unit inside.)
+
+  6. Remove the outer cardboard packaging.  
+(The bag is wrapped in a total of 3 plastic layers, a clear outer layer, a
+middle black opaque layer, and a clear inner layer.)
+
+  7. Remove the clear outer layer.
+  8. Inspect the middle packaging label for a gamma irradiated quality assurance check (red dot on label)
+  9. Remove the middle black opaque layer and the inner clear layer.
+  10. Perform a quality check of the unit, inspecting for tares, ensuring the bag folds have been welded together, clamps present on each tubing, and the stirrer shaft is not damaged.
+  11. Remove the plastic coverings on each of the tubing outlets/inlets on the bag.
+  12. Clamp all lines with the pre-attached clamps:
+  13. Clamp the harvest line at least 10 cm from the bottom of the bag.
+
+## Bag Insertion:
+
+  1. Orient the bag using the following list:
+    * The yellow and red label is in the back right hand corner when facing the STR. 
+    * The Y shaped weld is at the front and back
+    * The inlet gas lines are on the left hand side when facing the STR.
+    * The outlet gas lines are on the right hand side when facing the STR.
+    * The dip tube is on the right hand side when facing the STR.
+    * The pH, DO and temperature probes are on the right hand side when facing the STR.
+  2. Lift the bag carefully from its foam packaging by the stirrer shaft. Do not lift the bag using any other component.  
+(Two individuals are required for the bag insertion until step 16.)
+
+  3. Insert the base port into the exit port at the base of the STR 200L. It has two halves that connect magnetically.
+  4. Guide the harvest line into the exit port at the base of the STR 200L.
+  5. Slowly lower the bag down into the STR compartment whilst simultaneously feeding the harvest line through the exit port until the base of the single use bag sits flush with the exit port.  
+(Ensure the pH, temp and PO sensors are clear from the base of the chamber.)
+
+  6. Remove the tri-clamp present on the stirrer motor, which sits towards the top of the STR.
+  7. Orient the stirrer shaft towards the magnetic core present on the stirrer motor.
+  8. Connect the magnetic core of the stirrer shaft onto the magnet on the stirrer motor.  
+(Ensure any fingers are kept clear as the shaft locks into the stirrer motor
+magnet with sufficient force to cause any injury.
+
+  9. Re-clamp the tri-clamp between the stirrer shaft and the stirrer motor and secure to finger tightness.)
+  10. Secure the harvest line by pushing the bottom latch inwards towards the STR and rotate the lever in a clockwise direction until it locks into place.  
+(Once the lever is engaged the latch can not be pulled outwards, so this is a
+check on whether the latch is in the correct position and therefore that the
+harvest line is secured.)
+
+  11. Adjust the position of the clamp on the harvest line to ~10cm from the exit port if that hasn't been done yet.
+  12. Close the door of the STR and secure it with the latch.
+
+## Filter attachment and gas line preparation:
+
+Each inlet and outlet gas lines requires the addition of a filter unit prior
+to bag inflation.
+
+  1. Unpackage each inlet and outlet filter.
+  2. Confirm that each one has been autoclaved for sterility by checking the autoclave indicator on the bag. A brown coloured indicator signifies that the filter has successfully been autoclaved.  
+(If the indicator strip is any other colour, do not use the filter and contact
+Sartorius as soon as feasibly possible.)
+
+  3. Remove the filter from the autoclave bag.
+  4. Remove the plastic cap on the end of each filter and the plastic cap present on the filter tubings present on the bag.  
+(Both of these ends needs to be connected in order to form an aseptic
+connection.)
+
+  5. Carefully slide the filter unit into the grooves on the end of the filter tubing until the two click into place. there are two hooks that reach over a small ridges the filter tubing. This signifies that the connection is complete.  
+(Ensure that the hanging pieces of the membrane are kept free from the
+connection whilst completing this step.)
+
+  6. Remove the membrane out at a 90° angle relative to the filter-tubing connection. Excessive force is not required.
+  7. Inspect the end of the membrane for a complete circle which is a quality assurance that the filters and tubing are manufactured properly and that the membrane removal was completed aseptically.  
+(Note: If the circle was damaged during its removal the sterility of the
+filter-tubing connection can not be assured and therefore the bag is at risk
+of being compromised. Proceed with caution.)
+
+  8. Push the circle plastic clamp into place between the filter-tubing connection and twist to lock.
+  9. Attach the filter to the clamps above the stirrer to secure them in place.
+  10. Repeat steps 26-33 for any remaining filter connections.
+  11. Attach the heating blanket(s) to the exhaust filters ONLY.
+  12. Attach the overlay gas line onto the overlay filter line.  
+(Place a o-ring between the two hose bard ends and secure into place with a
+tri-clamp.)
+
+  13. Repeat the previous step instead attaching the ring sparger line to the sparger filter line.
+
+## Bag inflation:
+
+  1. Release the clamps from the two exhaust lines, the overlay line and the ring sparger line.
+  2. Ensure the regulators that control gas flow are switched on and reading 2 bar.
+  3. Select "phases" on the main "plant" menu screen on the 200L operating system.
+  4. Select "control phases" from the list of options available.
+  5. Select "parameter" for phase "459 CRTL_AIR_OVL"
+  6. Select "phase command" from the top left side of the screen.
+  7. Select "start" to begin the phase.
+  8. Exit the "Phase command" menu.
+  9. Adjust the "setpoint" to 20 slpm.
+  10. Return to the "plant" menu screen and check if 'FIC468' module is in operation and is reading 20 slpm.
+  11. Periodically observe the bag as it begins inflating.  
+(Ensure no tube endings are still within the STR compartment such that they
+can get squeezed by the bag as it inflates.)  
+(Ensure the sample line, pH, DO and temperature probes are guided through the
+viewing window as the bag inflates to prevent them being crushed by the bag.)
+
+  12. Leave the phase in operation.  
+(The overlay line has a pressure sensor that prevents the bag from being
+overinflated, therefore the phase can remain in operation.)
+
+## Probe attachment:
+
+  1. Rotate the pH and DO sensor cover 90° from its initial horizontal orientation to a vertical orientation.
+  2. Attach the temperature probe from the control tower to the temperature port on the 200L bag by first inserting the probe end through a probe holder.
+  3. Tighten the nut and insert the entire configuration into the temperature sensor port on the bag.
+  4. Insert the DO and pH probes ends into separate probe holders and secure into place with the nut.
+  5. Insert the DO probe into the red coloured sensor port.
+  6. Insert the pH probe into the white coloured sensor port.
+
+
+
+
+200L bag
+
+Cat #: FRS132670  
+Lot #:B0001916
+
+STK-7155
+
+  
+Inlet filter lines:
+
+Cat #:DS200L-SBFLI
+
+Lot #: 2131001073
+
+x2 (STK-6669, STK-6628)
+
+  
+
+Outlet filter lines:
+
+Cat#: DS200L-SBFLO
+
+Lot #: 2221015103
+
+x2 (STK-7153, STK-7154)
+
+
+
+
+Notes:
+
+Bag inflated with air with overlay left on at 20 slpm and exhaust heaters were
+switched on to 50'C. Once media was added the temperature probe was inserted
+and temperature control switched on to maintain media at 37'C overnight.
+
+

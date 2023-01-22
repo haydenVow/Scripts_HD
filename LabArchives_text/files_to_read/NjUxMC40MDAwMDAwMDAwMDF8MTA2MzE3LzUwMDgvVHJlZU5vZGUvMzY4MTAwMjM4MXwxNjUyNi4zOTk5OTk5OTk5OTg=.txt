@@ -1,0 +1,55 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/27231/epicxxxx-single-cell-cloning-
+adherent-chomp-fibroblasts?cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recPGdwqpV9Crg76g?blocks=hide
+
+RELATED TO MILESTONE: PPP_Q4_KR2 Characterise 2 x QMS-compliant suspension-
+adapted fibroblast clones from our chosen species
+
+AIM/PURPOSE: To determine whether a fast growing single cell line can be
+derived from a heterogeneous population of F_CHOMP09 cells
+
+HYPOTHESIS: We hypothesise that we will attain ≥1 single cell line that
+outperforms our current heterogeneous population of F_CHOMP09 cells in terms
+of doubling rate
+
+RESULTS SUMMARY:
+
+  1. Adherent crocodile fibroblasts (F_CHOMP09) are able to survive the FACS process and proliferate for up to 15 days after sorting
+  2. Hoechst 33342 is toxic to cells at 25 ug/mL and causes mass cell death within 24 hours of application. It may also impact viability and proliferation and cause mutations at lower concentrations e.g. 5 ug/mL according to literature.
+  3. Initial results suggest that a number of clones did have shorter doubling times than our current heterogeneous population of F_CHOMP09 cells (e.g. ~1.5 days compared with ~2.1 days)
+  4. A lab book template for staining live cells in 384-well plates with Hoechst 33342 was created to prevent future errors from occurring. See here for template: https://au-mynotebook.labarchives.com/share/Templates/NzU2LjZ8MTE3MTM1LzU4Mi9UcmVlTm9kZS8zMjAzNjY1NjQxfDE5MjAuNg==
+
+CONCLUSIONS:
+
+Our hypothesis was partially supported. Crocodile fibroblasts (F_CHOMP09) are
+able to survive the FACS process and continue proliferating for ≥15 days after
+sorting. While early results suggest that some clonal populations had faster
+doubling times than our current heterogeneous population, the high
+concentration of Hoechst 33342 used to stain the cells proved to be toxic, and
+therefore no clonal fibroblast populations were generated from this
+experiment.
+
+NEXT STEPS:
+
+We are currently de-prioritising adherent cell cloning in favour of suspension
+cell cloning. However, given the promising results seen with improved doubling
+times, it may be worthwhile repeating this clone run to generate a fast
+growing crocodile fibroblast for production until we manage to adapt cells to
+suspension culture.
+
+In the meantime, Lily will discuss with engineering the potential for
+developing a cell counting macro with a cytoplasmic stain e.g. CMFDA rather
+than Hoechst. Cytoplasmic stains are safer to use for live cells as they do
+not enter the nucleus and therefore do not interfere with DNA synthesis and
+replication.
+
+If it is possible to develop a cell count macro using a cytoplasmic stain,
+Lily will plan an experiment comparing the impact of Hoechst vs CMFDA on cell
+proliferation rate and viability over time.
+
+

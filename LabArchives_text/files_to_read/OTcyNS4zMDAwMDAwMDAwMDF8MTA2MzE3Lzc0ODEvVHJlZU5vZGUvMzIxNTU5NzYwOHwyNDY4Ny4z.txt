@@ -1,0 +1,203 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T75  
+  
+T75  
+11363 - Lars  
+  
+""  
+  
+T175  
+11364 - LOX  
+  
+""  
+  
+""  
+11365 - BLC2L11  
+  
+""  
+  
+""  
+11366 - Control  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Tryple  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Media  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     4x5    mL in     1x50mL    tubes
+  2.  dPBS (for neutralising):     4x5    mL
+  3.  dPBS (for washing):    4x5     mL
+  4. PBS (for pellet resuspension):     5    mL
+  5. Growth media (for seeding):     4x30    mL 
+
+Growth media was aliquoted into T175 flasks (30mL per flack) and flasks were
+placed in the incubator to warm at 30 degrees, 5% CO2     10:00   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator and removed supernatant from each
+flask.
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     5    mL tryple to each vessel/well and incubated at 30˚C for 8
+minutes.
+
+7\. Collected supernatants for each flask in separate tubes then washed empty
+flasks with     5     dPBS and combined the wash with the respective cell
+suspensions in 50mL tubes.
+
+8\. Centrifuged at  400x g for 5 min.
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    1     mL     dPBS  
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2826:2829
+
+  1. Total cell number was:  
+  
+
+  2. Gene  
+Cell count total in 1mL  
+  
+lars  
+786,000  
+  
+Lox  
+1,632,000  
+  
+BCL2L11  
+1,650,000  
+  
+Control  
+2,484,000  
+  
+  3. 
+
+
+
+
+13\. Transferred      200uL      of cell suspension to separate tube 1.5mL
+tubes for future RNA extraction, tubes were spun at 400g for 5 minutes and
+supernatant was removed before cells were placed at -80 degrees, top shelf of
+the library lab -80 freezer.
+
+ 13.5 The remaining cells were plated into T flasks, T75 for LARS in 12mL of
+growth media, and T175 flasks for the remaining three groups in 30mL of media.
+
+16\. Transferred flasks to incubate at 30 degrees, 5% Co2 in incubator 140 in
+library lab.
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

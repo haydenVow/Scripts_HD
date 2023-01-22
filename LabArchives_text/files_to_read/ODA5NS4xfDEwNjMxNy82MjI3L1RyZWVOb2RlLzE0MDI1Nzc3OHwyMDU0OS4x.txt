@@ -1,0 +1,81 @@
+Key Result(s)
+
+
+  1. 12 Vials of WALLE crude homogenate were frozen down from 4 biopsies, following Vows established protocols for cell isolation.
+  2. Plastic adherent populations of cells were established via immediate culture of WALLE06, WALLE07, WALLE08 and WALLE09  crude homogenate, and were first observed after 6-7 days in culture.   
+WALLE08 cell numbers never approached confluence and therefore never underwent
+a passage.  
+WALLE06 underwent 5 passages and had an average doubling time of 11.87 days  
+WALLE07 underwent 4 passages and had an average doubling time of 35.23 days  
+WALLE09 underwent 4 passages and had an average doubling time of 46.34 days
+
+  3. We were unable to expand and of our cell lines to an MCB of ≥ 15M cells. This was due to extremely slow cell proliferation.
+  4. Last ditch efforts to kick-start p5 WALLE06 proliferation via seeding cells into media containing a higher proportion of FBS, into conditioned media, or by seeding at a higher cell density were all unsuccessful.  
+  5. WALLE08 was terminated after 14 days, WALLE07 was terminated after 50 days, and WALLE06 + WALLE09 were terminated after 53 days in culture. 
+
+
+Discussion of Results
+
+
+2 biopsies were collected from the vastus lateralis and 2 from the biceps
+femoris. All samples were processed within a few hours of the biopsies being
+collected, following Vows standard procedures for the biopsy and isolation of
+primary cells from mammalian tissue (See SOP here:
+https://www.notion.so/vow/VSOP-074_0-Digestion-of-animal-derived-biopsies-and-
+the-isolation-of-cells-in-vitro-for-mammalian-
+ce-42595d10fc5d47e0b6754d8f1049d32b). The crude homogenate from each biopsy
+was split into 4 portions, with ¾ of each being cryopreserved, and the
+remaining ¼ placed into immediate culture in DMEM/F12 + 15% FBS + 1x P/S at
+37°C and 5% C02.  
+  
+As was seen in our previous Bennett's Wallaby cell isolation attempt, we
+establish adherent cultures, but were not able to expand them to the >15M
+cells required for an MCB due to slow cellular proliferation. See previous lab
+book here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzM2NC41fDEwNjMxNy81NjY1LTQ2NzAxL1RyZWVOb2RlLzI4MTI4NTE3MTJ8MTg2OTQuNQ==
+
+Of note, is that in both cells took a long time a long time to disassociate
+from the cell surface (>30min Trypilise), which is likely to have damaged the
+cells. We attempted using Trypsin instead of Tryple as well as washing the
+cells multiple times with Tryple or PBS prior to passaging however were unable
+to reduce the time taken to disassociate the cells. Manual dissociation with a
+cell scraper may reduce the likelihood of cell damage during passages, however
+this involves more manual handling and may therefore not be scalable.
+
+
+Limitations
+
+
+While we were successful in establishing an adherent cell population from all
+of our biopsies, we were unable to maintain these cells in long term culture
+and to expand them to a population large enough for a MCB. This suggests that
+culture conditions are not optimised for use with adherent primary cells
+derived from wallaby muscle tissue. Prior to commencing this experiment
+however, a literature review examining isolation and culture techniques for
+marsupial primary cells was performed, and no obvious flaw in our culture
+conditions was identified. For a summary of the review, see background section
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzI0Ni4yfDEwNjMxNy81NTc0LTQ2ODExL1RyZWVOb2RlLzMwMTU4MDI5NDd8MTgzOTQuMg==
+
+
+Conclusion(s)
+
+
+It appears that the culture conditions used here were not optimal for WALLE
+cell proliferation. Following an extensive literature review on marsupial cell
+culture however, no significant shortcomings in our media formulations were
+identified. It is possible that the long Tyrpelisation times required to
+disassociate these cells during passages resulted cell damage.
+
+
+Future Direction(s)
+
+
+For the foreseeable future, Vow will not further pursue the addition of
+Bennet's Wallaby cells to our cell library. It is possible that the
+optimisation of media, passaging and culture conditions would improve the
+proliferative capacity of these cells. We are currently focusing our resources
+in other areas, however if our priorities change in future, frozen WALLE
+isolate may be thawed, and culture optimisations performed.
+
+

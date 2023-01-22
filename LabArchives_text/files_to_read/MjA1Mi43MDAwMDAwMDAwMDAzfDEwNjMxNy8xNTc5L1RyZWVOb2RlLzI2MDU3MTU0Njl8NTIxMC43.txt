@@ -1,0 +1,128 @@
+
+
+Fibroblast ECM scaffolds sheets: Background Info
+
+
+
+
+The field of tissue engineering has emerged as an exciting and
+multidisciplinary area of study aimed at developing biological substitutes to
+restore, replace or regenerate defective tissues [1]. A central component in
+this field involves the use of biomaterials that can be developed into tissue
+scaffolds or scaffolds that can serve as structural supports for cell
+attachment and subsequent tissue development [2]. Most cells within the human
+body reside in a solid matrix, called the extracellular matrix (ECM) which
+serves a wide range of functions including providing structural support and a
+physical environment for cells to attach and grow in, as well as providing
+biophysical cues to the cells that reside in the ECM [3].
+
+Several scaffolds including Zein, pectin and gelatex have been evaluated in
+the DoE project team, with a primary focus on assessing adhesion, adhesion
+maintenance and subsequent differentiation of MuSC on these scaffolds, few of
+which have shown promising results. For example MuSC seeded onto
+decellularized parsley and electrospun PDLG/pectin scaffolds displayed myotube
+formation (see report), whereas nanofibrous gelatin and Zein scaffolds
+exhibited relatively high scaffold confluence even after 14 days of
+differentiation in ACF conditions [4][5]. Despite this a continued focus of
+the DoE project team involves scouting out new scaffolds and evaluating them
+within the DoE pipeline.  
+  
+The aim of these experiments is to assess whether it is possible to obtain
+viable ECM scaffold sheets, which will be derived from fibroblast cells grown
+in different culture conditions. This avenue is being pursued because
+fibroblasts synthesise and secrete several components of the ECM, including
+structural proteins such as collagen, adhesive proteins and space filling
+glycosaminoglycans, which can potentially enhance the adherence of MuSC [6].
+Ultimately the purpose of developing these fibroblasts ECM scaffolds is to
+evaluate whether sheep MuSC can adhere, maintain adherence and differentiate
+on these ECM scaffolds. However before we begin to assess these scaffolds in
+the DoE pipeline with MuSC it is first necessary to determine whether we can
+achieve fibroblasts sheets of sufficient thickness and structural integrity to
+serve as a scaffold that can have MuSC seeded onto them. Therefore the first
+part of this milestone will be focused entirely on trailing a multitude of
+culture conditions, including different growth surface coatings, media
+supplementations, and seeding environments and gauging which combination
+offers the the most viable ECM scaffolds. After culturing the fibroblast cells
+in the different conditions (see experimental plan) for a period of
+approximately 2 weeks the cell sheets will be harvested using a freeze-thaw
+cycle previously described in the literature [7]. Following this process any
+viable ECM cell sheet will then be used as a scaffold.
+
+
+
+ References:
+
+[1] https://www.frontiersin.org/articles/10.3389/fbioe.2017.00040/full
+
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2587658/
+
+[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995612/
+
+[4] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/Njk1LjV8MTA2MzE3LzUzNS9UcmVlTm9kZS8zMzMwMzMxNzA3fDE3NjUuNQ==
+
+[5] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjkxLjZ8MTA2MzE3LzUzMi9UcmVlTm9kZS8yMjIzODcwODMwfDE3NTUuNg==
+
+[6] https://www.frontiersin.org/articles/10.3389/fphar.2014.00123/full
+
+[7]
+https://pubmed.ncbi.nlm.nih.gov/24866751/#:~:text=The%20ECM%20scaffolds%20produced%20from,supports%20for%20tissue%2Dengineered%20constructs.
+
+
+
+
+Live/Dead Staining: Background Info
+
+
+
+
+Live/Dead assay staining is a mixture of fluorescent dyes that differentially
+label live and dead cells in a single culture system [1]. In the continuation
+of this experiment we will be seeding live MuSC onto fibroblast ECM scaffolds
+sheets that will be freeze thawed and consequently killed (decellularized) in
+the process. Consequently, in order to visualise the MuSCs on the fibroblast
+ECM sheets we will need to perform staining methods which are capable of
+distinguishing between the two cell types. One approach to accomplish this
+involves the use of the anti-fibroblast antibody, clone TE-7, or the
+intermediate filament antibody marker Vimentin, both of which can be used as a
+marker of fibroblast cell presence, in conjunction with anti-MyoD antibodies
+for the detection of MuSC [2][3][4]. However, due to complications arising
+from fibroblast staining, predominantly the lack of an observable signal [5],
+and the fact that samples need to be fixed prior to immunofluorescent staining
+we require an independent method capable of differentiating between MuSC and
+fibroblast cells in continuous culture, hence live/dead staining.  
+
+Live/Dead Staining
+
+In relation to the cell sheet samples which are to be exposed to multiple
+cycles of freeze-thaw prior to MuSC cell seeding, these scaffolds should
+theoretically contain dead fibroblast cells, as the freeze-thaw process
+damages the cell membrane resulting in apoptosis. Subsequently, by using a
+stain which preferentially stains for only living cells we should be able to
+distinguish between the living MuSC cells seeded onto the scaffolds, and the
+dead fibroblast cells within the scaffold. An example of a live cell stain we
+currently have in-house is the CellTracker Green CMFDA cell-permeant dye.
+CMFDA is a fluorescent dye well suited for monitoring cell movement or
+location. CMFDA freely passes through cell membranes into cells where it is
+transformed into a cell-impermeant, fluorescent product and its low
+cytotoxicity does not affect viability or proliferation of cells and can
+therefore be used during continuous culture [6].
+
+References:
+
+[1] https://www.frontiersin.org/articles/10.3389/fmicb.2019.00801/full
+
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2326106/
+
+[3] https://link.springer.com/article/10.1007/s10741-018-9720-1
+
+[4] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3838901/
+
+[5] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/OTk0LjV8MTA2MzE3Lzc2NS0zNzk4L1RyZWVOb2RlLzMzNjA3MDc4NzR8MjUyNC41
+
+[6]
+https://www.thermofisher.com/order/catalog/product/C2925?ef_id=CjwKCAjwzruGBhBAEiwAUqMR8P2r1JidZgvmFU5J7SSFbY8oDrbEVa7jyV1AhW7IgZwExeLlXX1DPhoCaLIQAvD_BwE:G:s&s_kwcid=AL!3652!3!447292198736!b!!g!!&cid=bid_pca_iva_r01_co_cp1359_pjt0000_bid00000_0se_gaw_dy_pur_con&gclid=CjwKCAjwzruGBhBAEiwAUqMR8P2r1JidZgvmFU5J7SSFbY8oDrbEVa7jyV1AhW7IgZwExeLlXX1DPhoCaLIQAvD_BwE#/C2925?ef_id=CjwKCAjwzruGBhBAEiwAUqMR8P2r1JidZgvmFU5J7SSFbY8oDrbEVa7jyV1AhW7IgZwExeLlXX1DPhoCaLIQAvD_BwE:G:s&s_kwcid=AL!3652!3!447292198736!b!!g!!&cid=bid_pca_iva_r01_co_cp1359_pjt0000_bid00000_0se_gaw_dy_pur_con&gclid=CjwKCAjwzruGBhBAEiwAUqMR8P2r1JidZgvmFU5J7SSFbY8oDrbEVa7jyV1AhW7IgZwExeLlXX1DPhoCaLIQAvD_BwE
+
+

@@ -1,0 +1,102 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS  
+S4883  
+  
+PFA  
+S3999  
+  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+  1. Thawed out 2 frozen aliquots of PFA in a 37C water bath for 30 mins.
+  2. Set up Dana and Fox Opentrons for fixing.
+  3. Non coated and collagen coated plate were imaged on Dana, while Lysine and Jellagen plates were run on the Fox OT2 in library lab.
+  4. After fix of non-coated plate, plate was inspected under microscope to see that all wells looked significantly worse with detachment being more significant. This may have been due to the fix and the fragility of some of the adhered cells, so the Controls plate which hadnt been fixed yet was inspected to see that the well performing ALL condition was now looking poorer indeed. In order to validate whether this may have been an effect of the fix, the controls plate was Phase imaged (5X), exposure: 15 on the Library Lab single Zaber in order to do a before and after comparison.
+  5. Controls plate was run on Dana OT2.
+
+
+
+
+Cultures
+
+Vessel type  
+  
+12549-Nuvonis Quail Suspension341-P-1of5
+
+96 well plate  
+  
+12550-Nuvonis Quail Suspension341-P-2of5
+
+96 well plate  
+  
+12551-Nuvonis Quail Suspension341-P-3of5
+
+96 well plate  
+  
+12552-Nuvonis Quail Suspension341-P-4of5
+
+96 well plate  
+  
+12553-Nuvonis Quail Suspension341-P-5of5
+
+96 well plate
+
+
+  
+  
+Observations/Summary:
+
+\- Results from the 24H timepoint were a lot more encouraging. While a lot of
+the conditions (well performing) look poor in terms of morphology now, they
+still have a lot more cells in the well - hence DAPI may still be able to give
+us the quantitative data we desire. However, this points to the well
+performing ACF formulations missing key ingredients to facilitate
+proliferation and survival. However, it seems we have somewhat achieved
+adherence in the 24H timeframe.
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

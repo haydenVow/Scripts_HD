@@ -1,0 +1,61 @@
+Aim
+
+
+To isolate a single cell population of muscle stem cells (MuSCs) and/or
+fibroblasts from lobster muscle extract.
+
+
+Overview
+  
+  
+Figure 1: Overview of single cell isolation process
+
+
+  
+  
+Animal is rinsed in 70% ethanol and dried prior to biopsy
+
+  1. Produce multiple 2-5 cm3 muscle extractions from tail of lobster and collect in collection tubes containing antibiotic lobster saline (ALS) + 1X P/S. Wash for 5-10 mins.
+  2. Transfer two tubes into lab
+  3. Remove the two extractions from tubes and place each on a separate 100mm petri dish containing some DMEM/F12 + 1X P/S.
+  4. Extracts are minced into 0.1mm - 5mm explants in both petri dishes.
+
+Explant protocol:
+
+  1. Explants from one petri dish are split into 3 different gelatin coated 100mm dishes (and 3 non-coated) containing:
+
+  * DMEM + 10% FBS + 1X P/S
+  * M199 + 10% FBS + 1X P/S
+  * L-15 + 10% FBS + 1X P/S 
+
+These explant cultures are monitored for cell monolayer formation and topped
+with the appropriate media every 2-3 days. Once monolayer is observed,
+explants are removed from petri dishes and the remaining cell population is
+passaged to a new set of petri dishes.
+
+Enzymatic digestion protocol:
+
+  1. Mascerated explants from the other petri dish are transferred to 3 x 50mL falcon tube containing 10-20ml of a 50/50 mix of collagenase (type II) and dispase in ALS. 
+  2. Tubes are incubated with collagenase/dispase mix for 1 hours at RT. (kk:does this stage require agitation? - I know when we've used these enzyme in the past bipsy digestion, we typical shake it in the shaking waterbath. Also worthwhile having a read of our current biopsy protocol. Perhaps you can use parts of it when creating the actual lab book (:  https://au-mynotebook.labarchives.com/share/Templates/MzI3LjZ8MTE3MTM1LzI1Mi9UcmVlTm9kZS8zNzI1MDI2NjgzfDgzMS41OTk5OTk5OTk5OTk5)
+  3. Suspended explants are passed through a 50-70uM cell strainers into a new falcon tubes.
+  4. Cells in suspension are pelleted by centrifugation at 650g for 5 mins.
+  5. Pellet is washed with 25mL wash media (DMEM/F12 + 1X P/S) and then centrifuged once again.
+  6. Repeat wash and centrifuge.
+  7. Supernatant is removed and cells in each respective tube are re-suspended with the appropriate media.w
+  8. Cell suspensions are dispensed evenly (for 45 mins) in 3 x different gelatin coated 100mm dishes containing: 
+
+  * DMEM + 10% FBS + 1X P/S
+  * M199 + 10% FBS + 1X P/S
+  * L-15 + 10% FBS + 1X P/S
+
+This 45 min step is for the quickly adhering fibroblast population to anchor
+to the non-coated surface.
+
+The supernatant (ideally containing the MuSC population) is then transferred
+to a set of gelatin coated petri dishes for MuSC isolation. All 6 cultures are
+given 50% media changes every 2-3 days.
+
+
+
+
+

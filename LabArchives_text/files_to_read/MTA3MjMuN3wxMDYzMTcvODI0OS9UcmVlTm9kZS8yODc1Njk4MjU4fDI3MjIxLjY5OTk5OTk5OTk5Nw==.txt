@@ -1,0 +1,117 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Culture IDs:
+
+Harvested plates  
+Seeded plates  
+  
+12211  
+12388  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM12350  
+  
+dPBS (for washing & neutralising)M12364  
+  
+Growth MediaM12672  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Fillled one 96 well plate with dPBS and tryple. Filled another separate
+plate with growth media (DMEM/F12+ 20% FBS + 1xP/S), 200uL per well.  
+
+\- Wells in Rows 1, 3, 5 and 7 from columns 1-6 were filled with 300uL of dPBS
+
+\- Wells in Rows 2, 4, 6 and 8 from colummns 7-12 were filled with 200uL of
+Tryple  
+
+  
+
+2\. Generated a multiwell open protocol using the 'Dynamo' script using the
+attached 1 well passaging protocol attached and the pick lists from yesterday
+(4/5/22) inputed into the script as a CSV file. Asked Stan for help doing so.
+
+  
+
+\- A water run of the generated multi well protocol was performed to ensure
+the protocol was working as expected, final time taken for the 23 well passage
+was 45 minutes 20 seconds. Total tryple time for each well was 25 minutes at
+room temperature.  
+\- The protocol was tested on both Oprah and Fox opentron machines, only Fox
+was able to run the protocol successfully, Oprah had difficulty picking up
+pipette tips, It wasn't able to align itself to pipette tips beyond A1
+successfully.  
+\- Set up the opentron deck as per the layout at the top of the page using
+cultures 11416 and 11417.
+
+3\. Cultures 11416 and 11417 containing tryple were investigated under 4x
+objective on the primovert microscope. Saw that cells had begun their process
+of detachment, looking more rounded in their morphology but were still stuck
+to the base of the plate, decided to move the plates into the incubator for
+further trypalisation then add a further 10uL of trypalised cells to the
+destination plate manually.
+
+4\. Moved the trypalized plates into the incubator for a further 8 minutes at
+30 degrees, 5% CO2.
+
+5\. Added a further 10uL of tryplised cells from each well to the destination
+plate
+
+6\. placed the new plate in incubator 140. 30 degrees, 5C CO2.
+
+7\. Discarded the remaining cells on plates 11416 and 11417.
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+### https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+
+
+
+Relevant attachments  
+
+https://docs.google.com/spreadsheets/d/15aGLczRyHHdY0Qkz2XUhHvc9o-tTdPYscBFiN73qq1Y/edit#gid=233614229
+
+

@@ -1,0 +1,214 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Adrian Kotevski & Lily Logan
+
+
+
+
+Culture IDs:
+
+Flask Type  
+Flasks ID(s)Condition  
+Well Location  
+6-well plate  
+7068-F_DOLLY12-Sheep P11-1of2  
+Dead (Freeze thaw)  
+A1  
+7069-F_DOLLY12-Sheep P11-2of2  
+Live (Non treated)  
+A1  
+  
+  
+
+
+
+
+Process:
+
+Preparation of dead cells:
+
+1\. Remove the culture vessel from the incubator (ID_7068)and transfer into
+the BSC to undergo the freeze thaw cycle.
+
+  1. Ensure each well is imaged on phase prior to the freeze thaw cycle
+
+2\. Aspirate the media from each well of the 6-well plate
+
+3\. Parafilm the plate to maintain sterility and transfer the 6-well plate
+into the -80'C freezer for 30 minutes
+
+  1. Start/Finish time was:   12:34 - 13:04
+
+4\. Aliquot 36 mL of dPBS for the rinsing of the cells following each of the
+30 minute cycles
+
+  1. Time placed in water bath     12:47  
+
+5\. Remove the 6-well plate from the -80'C freezer and add 2mL of warmed dPBS
+to each well.
+
+6\. Aspirate dPBS from each well and return the vessel (parafilmed) to the
+-80'C freezer for another 30 minute cycle
+
+  1. Start/Finish time was:   13:18 - 13:48
+  2. Return the dPBS aliquot to the water bath to remain warm during the 30 minute incubation time
+
+7\. Repeat steps 5-6 for one more cycle
+
+  1. Start/Finish time was:   13:55 - 14:25
+
+8\. Following the final freeze thaw cycle proceed with the live/dead staining.
+
+  1. Image each well post freeze thaw as an indication of cell loss due to freeze thaw cycle and rinsing with dPBS.
+
+
+
+
+Process:
+
+Live/Dead staining:
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker (used
+due to not being able to locate Calcein)
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+  1.  Briefly centrifuge the tube to pellet the CMFDA powder
+
+2\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+  1. NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a 70 mL pot submerged in silica-gel desiccant beads for a short period for one series of experiments. 
+
+3\. Transfer 20 uL of the 1mM CMFDA stock solution to 10 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light. Vortex to ensure thorough mixing with the resulting solution being
+approximately 2 uM CMFDA working solution.
+
+4\. Prepare a separate 10 mL of DMEM/F12 PRF growth media.
+
+  1.  Transfer both the CMFDA working stock solution and DMEM/F12 PRF growth media into the water bath to be pre-warmed
+
+5\. Aspirate the dPBS from one well (A1) of the freeze thawed 6-well plate and
+growth media from the corresponding non-treated 6-well plate (A1)
+
+6\. Add 2 mL of pre-warmed DMEM/F12 PRF growth media to the non-treated 6-well
+plate that had media removed from it in the previous step (well A1) as a rinse
+step to remove any residue serum. No need to wash out the well from the freeze
+thaw treated 6-well plate.
+
+7\. Aspirate the growth media from the non-treated 6-well plate well (A1).
+
+8\. Add 2 mL of pre-warmed CMFDA working solution to the A1 wells from both
+the freeze thaw and non treated 6-well plates and incubate for 30 minutes at
+37'C covered in foil to protect samples from light.
+
+  1. Start/Finish time was:  14:49 - 15:19
+  2.  If the CMFDA working solution is no longer required dispose of solution as aqueous waste as aqueous solutions of CMFDA are susceptible to hydrolysis and should be used within one day.
+
+9\. Remove plates from incubator and transfer into the BSC
+
+10\. Add 10 uL of propidium iodide (Frozen aliquot in main lab freezer is 0.2
+mg/mL - was originally 1 mg/mL but had been diluted 201 uL in 799 uL of dPBS)
+into each well from both the freeze thaw and non treated 6-well plates and
+incubate for 5 minutes at room temperature in the dark.
+
+  1. Start/Finish time was:  15:25 - 15:30 
+
+11\. Without changing the media in the wells, image wells (A1) from both
+freeze thaw and non treated plates on the Zaber fluorescence microscope
+(channel AF488 for CMFDA [Live cells] and AF 555 for propidium iodide [Dead
+cells])
+
+12\. Return the non treated plate to the incubator and freeze thaw treated
+stored at 4'C wrapped in foil.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+dPBS  
+A5063  
+  
+DMEM/F12 PRFA5354  
+  
+Propidium iodideS1129  
+  
+CMFDAS910  
+  
+DMSOA3931  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Representative images of the freeze thaw treated well incubated with CMFDA
+(2uM) for 30 minutes at 37'C and Propidium iodide (0.2 mg/mL) at room
+temperature for 5 minutes. Left image is taken on the AF 488 channel (CMFDA)
+to indicate for live cells and the right image is taken on the AF 555 channel
+(Propidium iodide) for dead cells. As this sample was treated with the freeze
+thaw cycle is would be expected that the cells would fluoresce under the AF
+555 channel only, which is what was observed.
+
+  
+
+  
+
+  
+
+Representative images of the non treated samples staining using the same
+conditions as described above. It was expected that a signal would only be
+obtained under the AF 488 channel since these cells were not freeze thawed and
+thus still alive.
+
+  
+
+\- As expected majority of the cells in the live condition fluoresced under
+the 488 channel indicative of live cells. A similar fining was observed for
+the dead cell condition with a signal seen under the 555 channel (Propidium
+iodide)
+
+\- Only a few cells in the live condition also fluoresced in the PI channel
+which is expected in culture.
+
+\- The live and dead staining were sufficiently intense to indicate whether
+the cells where live or dead, indicating that the staining concentrations of
+both dyes is sufficient to obtain live/dead results.
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because... it worked
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Phase images of vessels prior to live dead staining:
+
+https://mia-capture.vow.tools/#/session/recB1VbzX5vHkOQfd/images (7068),
+Wednesday June 09
+
+https://mia-capture.vow.tools/#/session/recPPOwdYtEhdqY0l/images (7069),
+Wednesday June 09
+
+

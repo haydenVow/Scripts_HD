@@ -1,0 +1,260 @@
+Brief background
+
+
+This experiment follows on from a previous experiment which trialed using 384
+well plates and a machine learning algorithm to improve our single cell
+cloning capacity. The goal of this experiment was use to scale up this
+strategy to isolate and grow BUFFY6 muscle stem cell clones that had been pre
+screened for suspension adaptation.
+
+Single cell cloning presents as one strategy for Vow to introduce stress on
+our cells and induce spontaneous mutations. Such mutations may enable them to
+undergo population doublings that exceed their biological limit. This is of
+great interest to Vows mission of growing biomass at a scale only achievable
+using cells that are adapted to suspension cultures. By pre screening our
+cells for suspension adaptations, and increasing our clone selection and
+screening capacity, we aim to improve our chances of generating a clonal cell
+line with high proliferative longevity that supports this vission.
+
+
+Key results
+
+
+  
+
+Clonal Cell line  
+Total cell number at bank (22 days)  
+Overall doubling rate (cell cycles/day)  
+Vials banked  
+Date stored at -80  
+Date stored in LN  
+MyoD positive  
+Capable of differentiation?Capable of fusion?  
+  
+BUFFY6_21L103.828x10^60.9948 (460K in 500uL)22-June-211-July-21Yes  
+YesYes  
+BUFFY6_25K63.72x10^50.8411 (366K in 500uL)22-June-211-July-21YesNot testedNot
+tested
+
+
+  
+  
+BUFFY6 cells at passage 9 after biopsy isolation were cultured in planar
+culture for three days after thawing from liquid nitrogen. Cells were
+harvested and introduced to cytodex 1 microcarrier suspension culture. Cells
+were grown over an additional 10 days, with passages occurring on day 5 and
+10. The cells were then harvested and FACS sorted using propridium iodide and
+Hoechst 33342 at the Garvan medical research institute. Individual wells
+filled with growth media (DMEM/F12 + 20% FBS + 1xP/S + 10uM P38 inhibitor)
+across 11x384 well plates were sorted with one PI- and Hoechst+ cell each.
+Plates were then returned to Vow and cells were left to grow, incubating for
+four days at 37 degrees, 5% CO2.
+
+Images of each well were captured 24 and 72 hours after the sorting date (see
+Figure 1 and 2 as examples). All plates were imaged using a Basler camera
+under phase microscopy using a 5x objective attached to a Zaber microscope
+inside a 32oC incubation chamber. Cell counts per well were generated using
+images captured at the 72 hour time point. These images were processed using a
+bandpass filter in FIJI (filtering for constructs between 40-3 pixels in
+size). A machine learning algorithm was then used to detect and count cells
+for each well. 260 wells containing ≥3 cells were passaged the following day
+into 96 well plates.
+
+Clones were then monitored closely over 22 days and passaged to larger vessels
+whenever confluence reached 60-70% and cell morphology matched the following
+guide. Full passaging progression of clones was tracked in the following
+google sheet:
+
+Cells passaged from 384, 96 and 24 well plates underwent a 50% feed 24h after
+seeding and then every 48 hours until next passage. Cells passaged from 6 well
+plates and T flask cultures were fed every 48 hours after seeding until next
+passage.  
+  
+Two clonal populations remained after 22 days, BUFFY6_21L10  and BUFFY6_25K6,
+at a total cell population of 3.828x10^6 and 3.72x10^5 respectively. Both
+clones showed raised, triangular cell morphology consistent with criteria
+outlined by the guide linked above (see figure 3).  BUFFY6_21L10 cells were
+banked down into 8 cryovials containing 4.6x10^5 cells each. BUFFY6_25K6 cells
+were banked into 1 cryovial.
+
+A small number of cells from each population was sub passaged for myogenic
+purity analysis and differentiation capacity testing at the time of banking.
+
+For myogenic purity analysis, cells were seeded at 5555cells/cm^2 in DMEM/F12
++ 20% FBS + 1xP/S, left for two days, fixed using 4% PFA. Cells were then
+stained using DAPI and immunofluorescent antibodies specific for MyoD. Cells
+were then imaged once more using the Zaber imaging system under UV and 555nm
+wavelengths. Both clones exhibited MyoD expression in 100% of cells observed
+(see figures 4 and 5).
+
+For differentiation testing cells were seeded at at ~13888cells/cm^2 in
+DMEM/F12 + 20% FBS + 1xP/S and left for two days. Cells were then swapped to
+either E6 media, DMEM/F12 + 2% HS + 1xP/S containing media or left in their
+original seed media. Cells were then left to grow over 12 days with daily
+media changes perfomed on cells growing in E6 or 2% HS containing media. Cells
+left in their original seed media were left to starve for the full 12 days.
+Cells were fixed in 4% PFA after 7 and 10 days, washed then stored under dPBS
+at 4 degrees until day 12. On day 12 the final plate was fixed and all plates
+were immunostained for MyoG and MF20 with a DAPI counterstain using an
+overnight staining protocol. Cells were then imaged under the same zaber
+imaging system under 555nm, 488nm and UV wavelengths. Fusion was observed in
+all 2% HS and starvation samples at day 12 (Figure 6) as well as day 7 and 10
+(data not shown). Samples in E6 showed signs of cell death, with decreasing
+confluence observed over 12 days.
+
+
+
+
+Figure 1: BUFFY6_25K6 clone. Images of the well containing the clone were
+captured at 24h (A) and 72h (B) after sorting. Cell location was estimated by
+manual inspection (red box) at 24h. Cell locations were estimated using a
+machine learning model (blue boxes) at 72h.
+
+  
+
+
+
+Figure 2: BUFFY6_21L10 clone. Images of the well containing the clone were
+captured at 24h (A) and 72h (B). Cell location was estimated by manual
+inspection (red box) at 24h. Cell locations were estimated using a machine
+learning model (blue boxes) at 72h.
+
+
+
+Figure 3: Clone morphology after 22 days of culture. (A) BUFFY6_21L10. (B)
+BUFFY6_25K6. Images were captured under 4x objective using a zeiss primovert
+microscope.
+
+Figure 4: BUFFY6_25K6 myogenic assay. Merged images show co localization of
+MyoD with DAPI in nuclei in all cells. Images captured under 10x objective
+using a zeiss axiovert microscope and Basler camera.  
+
+Figure 5: BUFFY6_21L10 myogenic assay. Merged images show co localization of
+MyoD with DAPi in nuclei of all cells. Images captured under 10x objective
+using a zeiss axiovert microscope and Basler camera.  
+
+Figure 6: BUFFY6_21L10 fusion after 12 days. DAPI (blue) and MF20 (grey). (A)
+E6 media. (B) DMEM/F12 + 2% horse serum + 1xP/S media. (C) starvation
+condition.
+
+
+
+
+Discussion
+
+
+Despite being our largest ever FACS sort undertaken at Vow to date, we only
+generated two clonal cell lines after 22 days of culture. This is consistent
+with the number of clones that reached MCB_2 banking stage during our last
+DOLLY12 single cell cloning experiment despite having a 2.75 fold increase in
+the number of clones sorted. This difference in clone yield may be the result
+of biological differences between water buffalo and sheep muscle stem cells.
+Sheep cells may have higher chances of spontaneously mutation that enable cell
+longevity compared to water buffalo cells. Alternatively sheep cells may
+naturally have more robust cell longevity, supporting a greater number of
+divisions before senescence compared to water buffalo cells. Further
+investigations into the genetics or transcriptome of these resulting clones
+may provide insights into this issue.
+
+Prior to FACS the BUFFY6 heterogeneous population were also showing reductions
+in their doubling rates during their growth in suspension cultures (see
+doubling calculator here). The cells exhibited a doubling rate per day of
+0.498 after the first 5 days in suspension culture. This decreased by a 50% by
+day 10, at which point the cells were subjected to the FACS sort. We have
+consistently seen doubling rates and cell numbers in microcarrier cultures
+decrease after 5 days of culture. This is likely the result of the
+environmental selective pressure imposed on the cells by the suspension
+culture. This added stress prior to FACS may have accounted for overall low
+clone yields despite the increase in cells sorted initially.  
+
+The BUFFY6_21L10 exhibited a high doubling rate in planar culture after 22
+days, doubling almost once everyday on average. This may make it a suitable
+candidate to begin working with in production processes. However, despite
+undergoing two passaging events over 10 days in suspension culture prior to
+FACS it is not yet known if these cells from this MCB_2 will exhibit the same
+growth rate when returned to microcarrier suspension cultures. Future testing
+will be required to validate this cell line's performance in suspension
+culture once again.
+
+Interestingly the starvation condition during the BUFFY6_21L10 differentiation
+assay was able to promote high levels of fusion when observed against the
+horse serum control. This is promising in that this method testing fusion has
+significantly lower manual handling compared to our current culturing
+procedure during E6 induced or 2% horse serum induced differentiation. This
+method requires manual handling before fixation at the desired time point and
+yields evidence of fusion after 7 days. The removal of p38 inhibitor may have
+also contributed to the success of this starvation assay compared to the
+previous attempt at differentiating DOLLY12_15D11 which used a similar
+strategy. The paper from which this protocol originated also used primary
+bovine muscle stem cells1, not dissimilar from our water buffalo BUFFY6 line
+given similarities between bovids. Different species may therefore respond
+differently to this starvation protocol as well.
+
+Our E6 condition produced the lowest levels of fusion present in our
+differentiation assay. Low confluence may have been the result of unexpected
+cell death caused by problems in the composition or age of the E6 media. At
+the time of this experiment there have also been reports within the science
+team of unexpected cell death that may be linked to E6 media formulations (see
+observations entry here). Investigations are ongoing into why E6 related cell
+death has been observed amongst the team.
+
+Finally due to the low number of BUFFY6_25K6 cells harvested after 22 days, no
+differentiation testing was performed on this cell line at the time of
+banking. Performing a differentiation assay would have required ~37% of the
+total cell number harvested and left under 2.5x105 cells left for banking. To
+avoid significant cell investment it was decided that if this clonal line was
+to be used in the future, a differentiation assay should be performed after
+either the first or second passage post thaw.
+
+
+Limitations
+
+
+Clones were moved to liquid nitrogen 9 days following their bank down to -80
+degrees. This is 8 days past our ideal time to move to liquid nitrogen. It is
+not known as to whether this extended time at -80 has affected their viability
+or performance.
+
+E6 media may have been compromised given other scientists in the team were
+observing E6 related cell death. This may explain why fusion was low in the E6
+condition relative to starvation and 2% HS control groups.
+
+  
+
+
+Conclusion
+
+
+Despite this being our largest single cell cloning run to date, with 4224
+wells sorted, we only ended up banking two clonal BUFFY6 cell lines. These
+included BUFFY6_21L10, which reached 21.868 doublings, and BUFFY6_25K6, which
+reached 18.502 doublings. Our BUFFY6_21L10 line was confirmed t be both
+myogenic and able to maintain fusion capacity after cloning.  
+  
+We also found that our starvation protocol for differentiation assay was
+suitable to test for differentiation and fusion in our BUFFY6_21L10 clone.
+
+  
+Finally we identified a liquid handling as a potential bottleneck in
+increasing our clone handling capacity further, with passaging of 270 wells
+requiring 12 hours of manual effort.
+
+
+Future Direction(s)
+
+
+  * To improve the number of clones that reach our banking stage we will need to improve our chances of generating high performing clones.  
+  * Finding ways to reduce the manual liquid handling of 384 well plates will further improve our capacity to sort and expand more clones beyond
+  * Both clones will need to be tested in suspension culture once more to assess their suitability for culture scale up. 
+  * We should continue trialing the starvation differentiation protocol alongside our E6 and 2% horse serum media controls to investigate whether fusion response varies between species. 
+
+
+References
+
+
+1Stout, A. J., Mirliani, A. B., Soule-Albridge, E. L., Cohen, J. M., & Kaplan,
+D. L. (2020). Engineering carotenoid production in mammalian cells for
+nutritionally enhanced cell-cultured foods. Metabolic Engineering, 62,
+126-137\. https://doi.org/https://doi.org/10.1016/j.ymben.2020.07.011
+
+

@@ -1,0 +1,182 @@
+Introduction
+
+
+SFA safety dossier submission for the release of Morsel as a saleable product
+in Singapore requires inclusion of data to (A) quantify the concentration of
+growth factors in Morsel, and (B) to demonstrate that these are present at
+levels safe for human consumption. The aim of this experiment was to quantify
+the concentration of EGF and IGF-1 growth factors in a final Morsel product,
+and compare these values concentrations of EGF and IGF-1 in conventional quail
+meat, conventional chicken meat, and a representative cooked Morsel product.
+IGF-1 and EGF were selected specifically as these growth factors are added to
+the media formulation used in Morsel manufacturing. IGF-1 and EGF were
+detected in total protein lysates, and quantified using absorbance-based
+sandwich ELISA kits (Cloud Clone Corp). Overall, data show that:
+
+  * EGF and IGF were present at a significantly higher concentration in Morsel samples when compared to conventional quail meat
+  * EGF concentration was not significantly different between cooked Morsel sample and conventional quail meat
+  * IGF-1 concentration was significantly different between cooked Morsel sample and conventional quail meat
+
+
+Materials/Methods
+
+
+Vow cultured cells were collected from bioreactors over a period of ~8 weeks
+from separate batches (n=3). To recover cells, broth was added to a 50mL tube
+and was centrifuged to pellet cells. Following this, the supernatant was
+removed, pellets snap frozen on liquid nitrogen, and then stored at -80°C for
+later processing. Conventional quail meet was obtained from Singapore (n=1),
+and conventional chicken meat from Australia. Chicken was sourced from 2
+commercial sources; Woolworths (WW) (n=1) and Freedom Farms (FF) (n=1). Morsel
+samples (n=1) were processed by cooking. All samples were snap-frozen and then
+later processed in a single batch for cell lysis and total protein extraction.
+Total protein was quantified by bicinchoninic acid assay (BCA) (Thermo Fisher
+Scientific), and all samples adjusted to 1mg/mL. Protein lysates were then
+assayed using a sandwich ELISA kit (Cloud Clone Corp). Analyses were carried
+out using GraphPad Prism (ver 8.2.1), and growth factor concentrations
+quantified by interpolating absorbance values from a standard curve (non-
+linear regression of a sigmoidal 4-parameter curve) to give concentrations of
+experimental samples. Growth factor values reported have been calculated
+relative to the total protein extracted from each sample, respectively.
+
+
+Results
+
+
+Figures 1-3 show data from samples collected and processed for regulatory
+testing. Scatter graphs (Fig 1) show A450 for known concentrations of IGF-1
+and EGF. Data are fitted with a sigmoidal 4-parameter curve enabling the
+calculation of interpolated values for unknown 'test' samples. One-way ANOVA
+analyses show that the concentration of growth factor is significantly
+increased in Morsel compared to conventional quail for both EGF and IGF-1 (Fig
+2A&B). The concentration of EGF in cooked Morsel, however, is not
+significantly different to the concentration of the same in conventional quail
+(Fig 2B).
+
+  
+
+Figure 4 shows the concentration of IGF-1 in a working cell bank (WCB) vial
+compared to conventional quail meat. It is important to note a key difference
+in sample preparation here compared to preparation of regulatory samples,
+where the WCB cell pellet was rinsed with PBS before cell lysis and protein
+extraction. For regulatory samples, cells were pelleted in the broth and were
+not rinsed before snap freezing and storage. With rinsing, the concentration
+of IGF-1 is significantly increased in the WCB compared to conventional quail.
+However, the mean concentration of IGF-1 in WCB cell pellet (7.6ng/mg) is
+comparable to the concentration of IGF-1 in the final Morsel product which was
+processed without rinsing after harvest (7.8ng/mg) (Fig 4).  
+
+'Spiked' control conditions were prepared where Morsel 1mg/mL lysates were
+spiked with a working stock of EGF or IGF-1 LR3 variant. The purpose of
+including a spiked control condition was to determine the ability of sandwich
+ELISA kits to detect specifically the growth factor variants used during cell
+culture and manufacturing. In particular, the ELISA kit is specific for IGF-1
+rather than the IGF-1 LR3 variant. Thus, growth factor working stocks for
+spiked controls were prepared from growth factor stocks which are routinely
+used to prepare growth medium for Morsel manufacturing, and lysates prepared
+to include a final concentration of 10ng/mL of 'spiked' growth factor in
+addition to any 'endogenous' growth factor already present in the sample. Data
+show the detection of increased IGF-1 and EGF in spiked conditions compared to
+untreated Morsel conditions (Fig 5). However, values do not reflect expected
+absolute values for this condition. Mean growth factor concentrations of IGF-1
+and EGF in non-processed Morsel samples were measured at 7.8 ng/mL and 102
+pg/mL, respectively. Following the addition of growth factor working stocks to
+spike samples to a final concentration of 10 ng/mL, spiked conditions for
+IGF-1 and EGF were 39 ng/mL and 277 pg/mL, respectively. Given the
+concentration of growth factors in 'untreated' Morsel samples, it would be
+expected that the final concentration of spiked samples following growth
+factor working stock addition would be approximately 20 ng/mL and 10ng/mL for
+IGF-1 and EGF, respectively.
+
+  
+
+
+Discussion
+
+
+IGF-1 and EGF were detected in all samples assayed, and commercial ELISA kits
+(Cloud Clone Corp) detected growth factor variants used in the Morsel
+manufacturing process, specifically. IGF-1 and EGF concentrations were
+significantly higher in Morsel samples compared to conventional quail and
+chicken conditions. This significant increase is not likely the result of
+residual growth medium in sample lysates, as data show that the concentration
+of growth factors in samples where cells were rinsed with PBS prior to protein
+extraction were comparable to growth factor concentrations in conditions where
+Morsel samples were not rinsed following harvesting and storage (Fig 4).
+
+The selected ELISA kits (Cloud Clone Corp) have been designed and validated to
+detect a growth factors of a particular species. It is unclear if the kits are
+able to accurately detect and quantify growth factors from a different
+species. ELISA kits were selected to match the species of the growth factors
+used in manufacturing. However, conventional meat samples were of different
+species to the growth factors used in manufacturing. Table 2 shows a
+comparison of growth factor species between samples. Protein homology was
+measured by automated amino acid sequence alignment (Uniprot Align) and shows
+% alignment between amino acid sequences of proteins from different species
+(Fig 5).
+
+Kits used to assay concentrations of IGF-1 and EGF were specific to human and
+bovine protein variants, respectively. Given the homology of protein sequences
+between species, it is expected that human IGF-1 and bovine EGF were detected
+at some level in avian tissues (quail and chicken samples).
+
+Table 1.
+
+SampleSpeciesUniprot ID  
+IGF1  
+Manufacturing growth factor (Vow cultured cells)Bos taurus
+
+P07455  
+  
+Conventional chicken meatGallus gallus
+
+P18254  
+  
+Conventional quail meatCoturnix japonica
+
+P51462, A0A8C2UAQ3, A0A8C2UDA5  
+  
+EGF  
+Manufacturing growth factor (Vow cultured cells)  
+Homo sapien
+
+P01133  
+  
+Conventional chicken meat  
+Gallus gallus  
+
+A0A1D5NX79  
+  
+Conventional quail meat  
+Coturnix japonica  
+
+A0A8C2T4N2 A0A8C2T5W6  
+  
+  
+
+  
+
+Conditions where Morsel lysates were spiked with additional growth factor do
+not demonstrate expected growth factor concentrations. i.e. 10ng/mL spiked
+condition already containing ~8ng/mL measures at ~40ng/mL, and therefore
+values reported here may be overestimates of growth factor concentrations in
+all samples assayed. Though absolute values may be an overestimate of true
+growth factor concentrations, relative values between conditions are a valid
+means of comparison where the concentration of IGF-1 and EGF are ~3-4 times
+greater in Morsel, relative to conventional quail meat.
+
+
+Conclusions
+
+
+  * concentrations of IGF-1 and EGF were assayed by ELISA in Morsel samples, cooked Morsel, and conventional chicken and quail meats
+  * ELISA kit detected 3-4x greater concentration of growth factors in Morsel compared to conventional quail meat, where
+    * [IGF1] Morsel = 7.8ng/mg
+    * [IGF1] Conventional quail = 2.5ng/mg
+    * [EGF] Morsel = 101.9pg/mg
+    * [EGF] Conventional quail = 14.4pg/mg
+    * above values are amount of growth factor per milligram of extracted total protein
+  * it is currently an open question whether the specific values measured are truely reflective of absolute concentrations
+  * culture media used in Morsel manufacturing contains IGF-1 and EGF. Data show that centrifugation of cells and removal of supernatant is sufficient to remove growth-factor-containing residual media, and that rinsing with PBS is not necessary. PBS-rinsed and non-rinsed samples demonstrated comparable levels of IGF-1.  
+
+

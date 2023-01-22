@@ -1,0 +1,46 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/25391?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recagGgHWyDXTyGPc?blocks=hide
+
+RELATED TO MILESTONE:  PPP Q3 KR1 Develop and complete ≥1 run of a HTP
+platform for cell density & viability analysis of >90 suspension cultures.
+
+AIM/PURPOSE: To screen multiple combinations of live/dead immunofluorescent
+stains that can sufficiently label suspension cultures under florescence.
+
+HYPOTHESIS: That we can improve the accuracy of our live/dead cell counts of
+suspension cultures by using a different combination of stains (including
+live+dead cell stain Hoechst 33342 ReadyFlow, live cell stains CMFDA and
+Calcein AM, and dead stains DAPI and Sytox Green) instead of the current
+combination (live+dead cell stain Hoechst 33342 ReadyProbes and dead cell
+stain Propidium Iodide).
+
+RESULTS SUMMARY:
+
+  1. The combination of ReadyFlow (Hoechst 33342 formulation for flow cytometry, 1 drop/mL of sample) with Sytox Green (0.5 drops/mL of sample) was the most accurate overall for total (live + dead) and dead cell counts for both freshly thawed and >30-day-old cell suspension samples when compared to the reference method (Trypan Blue exclusion)
+  2. Dilution after the initial 30 minute staining period was useful for increasing contrast, and the most optimal dilution ratio was 16x the undiluted sample.
+
+CONCLUSIONS:
+
+The hypothesis was confirmed as a new stain combination (Hoechst 33342
+Readyflow + Sytox Green) provided live and dead cell counts with greater
+accuracy and precision than the existing method (Hoechst 33342 Readyprobes +
+Sytox Green).
+
+  1. Hoechst 33342 ReadyFlow reagent should be used for total cell counting. It gives a brighter signal than the ReadyProbes.
+  2. Sytox Green should be used with Hoechst 33342 ReadyFlow reagent if a dead cell count is required.
+  3. These stains are accurate for F_DOLLY12 cells >30 days in suspension.
+  4. Almost all stain combinations tested underestimated total cells and overestimated dead cells in freshly thawed F_DOLLY12 suspensions
+  5. Based on #3 & #4 there appear to be fundamental differences between fibroblasts early and late in the suspension-adaptation process, possibly with respect to cell membrane permeability to certain stains. 
+
+NEXT STEPS:
+
+  1. Tom Tarento to create lab book template for preparation and use of ReadyFlow with Sytox Green OR Propidium Iodide for live/dead staining of suspension cultures
+  2. All Pool Party Project team members to continue to compare counts to Trypan Blue exclusion method and test incremental changes in the staining method (e.g. EPIC26777) to improve the staining accuracy for freshly-thawed cell suspensions.
+  3. All Pool Party Project team members to trial using this method on other cell types and/or in other species (e.g. EPIC25749) and compare to using the Trypan Blue exclusion method.
+
+

@@ -1,0 +1,198 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: VB LL  
+
+
+
+
+Passage Culture IDs  
+
+Harvested Flask ID(s)Seeded Flask ID(s)  
+Medium  
+Seeded Flask TypeVessel location (weekend only)  
+  
+8743-F_DOLLY12-Sheep P8-1of2  
+8829-F-DOLLY12-Sheep P9-1of2  
+D/F+10%FBS+1XP/S  
+T25120 Ralph St-Main Lab-Sanyo Incubator 3  
+  
+8744-F_DOLLY12-Sheep P8-2of2  
+8830-F-DOLLY12-Sheep P9-2of2  
+  
+8745-F_DOLLY12-Sheep P8-1of2  
+8831-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(OLD_Richcore)  
+  
+8746-F_DOLLY12-Sheep P8-2of2  
+8832-F-DOLLY12-Sheep P9-2of2  
+  
+8747-F_DOLLY12-Sheep P8-1of2  
+8833-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(NEW _Richcore)  
+  
+8748-F_DOLLY12-Sheep P8-2of2  
+8834-F-DOLLY12-Sheep P9-2of2  
+  
+8749-F_DOLLY12-Sheep P8-1of2  
+8835-F-DOLLY12-Sheep P9-1of2  
+E8_9C+rHA(SIGMA)  
+  
+8750-F_DOLLY12-Sheep P8-2of2  
+8836-F-DOLLY12-Sheep P9-2of2  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleMix7713  
+  
+dPBS (for washing & neutralising)Mix7942  
+  
+D/F+10%FBS+1xP/S  
+Mix7386  
+  
+E8 (base for E8_10C media)  
+Mix7968  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2-3 images of each vessel with microscope on phase setting at 10X
+magnification.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE: 25mL in 1 x 50 mL tube 
+  2.  dPBS (for neutralising & washing):  48 mL in 1 x 50 mL tube
+  3. Growth media:
+    1. 11 mL x D/F+10%FBS+1XP/S  
+
+    2. 11 mL x E8_9C+rHA(AKRON)  
+
+    3. 11 mL x E8_9C+rHA(newRICHCORE)  
+
+    4. 11 mLx E8_9C+rHA(Sigma)
+
+Time that all aliquots were placed in the incubator to warm before use
+
+  * dPBS and tyrple:   14:15    
+
+  * ACF and FBS media:   14:15     
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    3  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE (SIGMA rHA & OG rHA)   14:32 - 13:47  
+
+  2. Start/Finish for TrypLE (10%FBS & new rHA):    14:43 - 14:56  
+
+7\. Neutralised with    3 mL   dPBS and combined cell suspensions into     8 x
+15 mL    tubes
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was (SIGMA rHA & OG rHA)  15:00 - 15:05    
+
+  2. Start/Finish time for centrifugation was  (10%FBS & new rHA)  15:15 -15:20 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL  of respective growth  media  
+
+11\. Aliquoted  10uL  of resuspended cells into a microcentrifuge tube for
+cell count immediately resuspension.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Added data to doubling spreadsheet:
+https://docs.google.com/spreadsheets/d/1We8TyzxliP8WTA0vCIwBTs3LNHsSLCO5C9Aj8zYYcsM/edit#gid=0
+
+13\. Total cell numbers were (averaged 2 counts per rep) recorded:
+
+14\. Volumes of cell suspension required for subculture recorded :
+
+IDMediaTotal cell numbers  
+(averaged 2 counts per rep.)Volumes of cell suspension required for subculture  
+ 8745 OG Richcore r_HA 426,000  82.2 uL  
+8746 66780052.4 uL  
+8749Sigma r_HA452,80077.3 uL  
+8450571,20061.3  uL  
+8743 10% FBS971000  
+92 uL  
+87441342000  
+130.5 uL  
+  
+8747New Richcore r_HA435000  
+201.5 uL  
+8748465000  
+157.5 uL  
+  
+15\. Cell density per vessel:    7000 cells / cm2
+
+  
+
+
+
+
+13\. Transferred   above volumes  of cell suspension to the pre-warmed    8 x
+5mL Growth media:
+
+14\. Transferred cell suspension into the   8 x T25  vessel.
+
+15\. Transferred vessel(s) to incubate at:    17:00  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) incubator 80
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable)
+
+MIA Links  
+
+8743 (Phase, 10X): https://mia-
+capture.vow.tools/#/session/recPgoEgVNeMMI77e/images  
+8744 (Phase, 10X): https://mia-
+capture.vow.tools/#/session/recrPPakyJ9wCzEBX/images  
+8745 (Phase, 10X):  
+8746 (Phase, 10X):  
+8747 (Phase, 10X):  
+8748 (Phase, 10X):  
+8749 (Phase, 10X):  
+8750 (Phase, 10X):
+
+

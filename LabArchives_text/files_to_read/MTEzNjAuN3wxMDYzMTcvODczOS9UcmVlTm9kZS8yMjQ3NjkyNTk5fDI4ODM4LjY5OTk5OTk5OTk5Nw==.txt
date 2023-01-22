@@ -1,0 +1,71 @@
+Aim
+  
+  
+Increase HyCell component of media supplied by Manufacturing from 3:1 to 1:1.
+
+
+Results
+
+
+Provided Media ID: ALQ 12714, 12710, 12716
+
+(3:1) RPMI:HyCell/CMD
+
+Volume provided: 5600 mL
+
+Volume of HyCell Required: 2800 mL
+
+  
+
+3000 mL of HyCell to be made
+
+HyCell Powder ID: 4835
+
+  1. 25.4g/L HyCell Powder
+  2. 3 L = 76.2 g
+
+  
+
+HyCell + Nuvonis
+
+HyCell Nuvonis medium  
+  
+  
+  
+  
+Volume2800  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+HyCell CHONANANA2735.040  
+Difco Yeast Extract UF11002800.00028.000  
+IGF-1 LONG R30.000050.050.1402.800  
+EGF0.000010.050.0280.560  
+L-Ornithine monohydrochloride0.022056.0002.800  
+Putrescine dihydrochloride0.022056.0002.800  
+Glutamax*22005600.00028.000  
+*units in mM, not mg/mL  
+  
+Total medium vol (mL)2800.000  
+  
+IDS:
+
+HyCell Cho: MIX 12956
+
+Yeast Extract: MIX 12797
+
+Glutamax: STK 5469
+
+L ornithine : MIX  10875
+
+Putrescine: MIX 12958
+
+  
+
+  
+
+Combined together. Final Volume 8.4L (MIX ID: 12960)
+
+

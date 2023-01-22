@@ -1,0 +1,53 @@
+
+
+## Completed by: LL
+
+
+
+
+We currently grow our CHOMP fibroblast lines in medium containing 20% FBS.
+This ingredient is incredibly expensive, generates a lot of ethical issues,
+and prevents us from producing a product made in entirely animal-component-
+free (ACF) growth medium. Cells are typically adapted to ACF growth medium in
+one of two methods: direct or sequential adaptation. Direct adaptation
+involves changing cultures to 100% ACF medium in one step. Sequential
+adaptation involves gradually decreasing the concentration of serum-containing
+medium in the culture, while simultaneously increasing the concentration of
+ACF medium. An example of the steps of a sequential adaptation is shown below
+in Table 1 [1].
+
+Table 1: An example of the steps involved in a sequential adaptation to
+SFM/ACF medium
+
+Nuvonis is a biotech company that develops cells for vaccine and vector
+production with no animal components in their medium or reagents. Vow recently
+acquired two Quail cell lines from Nuvonis (1 x suspension and 1 x adherent)
+and has also received the recipe for the growth medium of these cells. Given
+that crocodiles are more closely related to birds than mammals [2], it would
+follow that CHOMP fibroblasts will be more amenable to adapting to the
+adherent quail fibroblast growth medium than media developed for mammalian
+cell lines (we have previously tested CHOMP with KSR as a replacement for FBS
+with poor results [3]). The composition of the ACF medium we will be testing
+is Opti Pro SFM + 4mM GlutaMax [4].
+
+
+
+
+
+
+
+
+References
+
+[1] https://www.thermofisher.com/au/en/home/references/protocols/cell-
+culture/serum-protocol/adaptation-of-cell-cultures-to-a-serum-free-medium.html
+
+[2] https://news.ucsc.edu/2014/12/crocodile-
+genomes.html#:~:text=Crocodiles%20are%20the%20closest%20living,gave%20rise%20to%20the%20dinosaurs.
+
+[3] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjY2NS4xfDEwNjMxNy81MTI3L1RyZWVOb2RlLzQyMjY0OTMxNHwxNjkxOS4x
+
+[4] Tech Transfer Protocol linked below
+
+

@@ -1,0 +1,128 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: AV
+
+
+
+
+Passage Culture IDs
+
+Vial IDs thawedSeeded Flask ID(s)Seeded Flask Type  
+12367-FrzCul-F_CHOMP09-Vial-19of23  
+12366-FrzCul-F_CHOMP09-Vial-18of23  
+10500  
+10501  
+10502  
+10503  
+10504  
+5 x T75
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth medium10133  
+  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath
+
+  * 4 mL Growth medium (DMEM/F12 + 20%FBS) for cell count  
+
+  * 72 mL Growth medium (DMEM/F12 + 20%FBS) for seeding 
+    * Time that aliquots were placed in the water bath to warm before use:   10:50 am 
+
+
+
+
+## Thaw and seed vial:
+
+1\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  11:15 - 11:20 am
+
+Location where cryovial was collected from:
+
+Vial details: 1 x F_CHOMP09 cryovials at 2M cells each for a total of 4M cells
+
+Brew
+
+Tower/Bucket #5
+
+Box/Cane #5
+
+Vial location: D1, C9
+
+Vial ID(s):
+
+  1. 3629-Culture-8616-Vial-19of23 (aka 12367-FrzCul-F_CHOMP09-Vial-19of23)
+  2. 3628-Culture-8616-Vial-18of23 (aka 12366-FrzCul-F_CHOMP09-Vial-18of23)   
+
+2\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+3\. Added 500 µL of Growth Media to the cryovial, resuspended the cell
+suspension gently to reduce osmotic shock.
+
+4\. Collected the entire cell suspension & transferred into the pre-warmed 4
+mL of Growth Medium.
+
+5\. Using a 5 mL serelogical, measured exactly how much volume is in the cell
+suspension aliquot (for accurate cell count)
+
+6\. Took 1 x 10 uL aliquot from cell suspension and performed cell count.
+Count = 2.85M cells
+
+7\. Added 5.7 mL of cell suspension containing 2,850,000 cells (allows for
+7500 cells per cm2) to 67 mL (should have been 55 mL) Growth Medium aliquot
+
+  * Note: if there are less than 3,375,000 live cells in the vial, seed into as many flasks as ensures 7500 cells per cm2
+
+8\. Evenly distributed cells in Growth Medium
+
+9\. Seeded 5 x T75s with 12 mL (actually ~14.4 mL) cell suspension per vessel
+
+10\. Transfered flask/plate(s) to incubate: 12:35 pm (Incubator #116)
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+2 x F_CHOMP09 vials thawed and seeded into 5 x T75s (it should be noted that
+an insoluble spec of some sort was found in vial 3628 - advised by CO not to
+be a concern). Flasks were seeded with 14.4 mL instead of 12 mL due to an
+error made while calculating the volume of seed media required.
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

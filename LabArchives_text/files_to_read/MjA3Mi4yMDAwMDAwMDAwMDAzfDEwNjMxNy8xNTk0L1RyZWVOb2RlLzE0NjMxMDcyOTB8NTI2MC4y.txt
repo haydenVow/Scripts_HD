@@ -1,0 +1,69 @@
+
+
+Passage Culture IDs:
+
+Imaged vessel IDs
+
+  
+  
+  
+6943-BUFFY6-Water Buffalo P0-1of11
+
+6944-BUFFY6-Water Buffalo P0-2of11
+
+6945-BUFFY6-Water Buffalo P0-3of11
+
+6946-BUFFY6-Water Buffalo P0-4of11
+
+6947-BUFFY6-Water Buffalo P0-5of11
+
+6948-BUFFY6-Water Buffalo P0-6of11
+
+6949-BUFFY6-Water Buffalo P0-7of11
+
+6950-BUFFY6-Water Buffalo P0-8of11
+
+6951-BUFFY6-Water Buffalo P0-9of11
+
+6952-BUFFY6-Water Buffalo P0-10of11
+
+6953-BUFFY6-Water Buffalo P0-11of11
+
+  
+  
+  
+  
+
+
+
+
+  1. [13:00] Removed Plate 2/11 and plate 3/11 from the incubator and placed in the BSC with the lids off to remove condensation. 
+    1. Imaged plate 2/11 on zaber 2-zaber-intel-library
+    2. Imaged plate 3/11 on zaber 10-zaber-intel-library
+  2. [13:10] Removed Plate 1/11 and plate 4/11 from the incubator and placed in the BSC with the lids off to remove condensation.
+    1. Imaged plate 4/11 on zaber 2-zaber-intel-library
+    2. Imaged plate 1/11 on zaber 10-zaber-intel-library
+  3. [ 13:25]   Removed Plate 6/11 and 9/11 from the incubator and placed in the BSC with the lids off to remove condensation.
+    1. Imaged plate 9/11 on zaber 2-zaber-intel-library
+    2. Imaged plate 6/11 on zaber 2-zaber-intel-library
+  4. [13:41] Removed Plate 5/11 and 7/11 from the incubator and placed in the BSC with the lids off to remove condensation.
+    1. Imaged plate 7/11 on zaber 2-zaber-intel-library
+    2. Imaged plate 5/11 on zaber 10-zaber-intel-library
+  5. [ 13:53  ] Removed Plate 8/11 from the incubator and placed in the BSC with the lid off to remove condensation.
+    1. Imaged plate 8/11 on zaber 2-zaber-intel-library
+  6. [14:05] Removed Plates 10/11 and 11/11 from the incubator and placed in the BSC with the lid off to remove condensation.
+    1. Imaged plate 10/11 on zaber 2-zaber-intel-library
+    2. Imaged plate 11/11 on zaber 10-zaber-intel-library
+
+Plates were returned to incubate (incubator 78), 37 degrees, 5% Co2 after they
+were imaged.
+
+
+
+
+Imaging set up used on the 2-zaber-intel-library was identical to the Day 1
+imaging session, See that entry for plate imaging layout, exposure times and
+lamp intensity. Setup changed slightly for 10-zaber-intel-library. Exposure
+time was adjusted to 50ms and the phase lamp intensity was set on 1.
+
+

@@ -1,0 +1,74 @@
+
+
+###  
+
+### Performed by: LL  
+
+
+Vessel typeVessel ID  
+96-WP
+
+9080-F_CHOMP09-Crocodile P1-1of4
+
+9081-F_CHOMP09-Crocodile P1-2of4
+
+9082-F_CHOMP09-Crocodile P1-3of4
+
+9083-F_CHOMP09-Crocodile P1-4of4
+
+
+  
+  
+Calculations
+
+For suspension cultures: 250 uL hoechst 1mg/mL + 750 uL MilliQ - add 20 uL in
+200 uL
+
+Need at least 20 uL with multi-channel pipette - so have to half conc and
+double volume
+
+For adherent clones: 384WP have 80 -100 uL - add 20 uL/well. 20 x 384 x 4 =
+30720 + error = 40 mL  = 0.5 mL Hoechst 10 mg/mL + 39.5 mL MilliQ
+
+Process
+
+  1. Make up Hoechst solution:
+    1. 0.5 mL hoechst (10 mg/mL) + 39.5 mL MilliQ (250 ug/mL)   
+
+    2. Sterile filter using syringe filter
+  2. Add 20 uL per well to each corner well of 1 x 384-well plate (total 100 uL - 25 ug/mL hoechst)  
+
+  3. Allow to incubate at RT in the dark for 20 minutes 7:35 - 7:55  
+
+  4. Check on Zaber microscope if cells are fluorescing on DAPI channel   
+
+  5. If the cells are fluorescing, repeat steps 2 and 3 with all wells of 4 x 384-well plates 
+  6. If cells are not fluorescing, double Hoechst concentration and repeat test with corner wells of second 384-well plate  
+
+    * Cells did not fluoresce, so trialled 50 ug/mL by adding 500 uL hoechst to the working solution and re-filtering. Trialled higher conc. on 2 wells. Checked cells at 9:45, cells were fluorescing on DAPI channel in all concentrations trialled, however 50 ug/mL concentration had a lot of fluorescing debris. Therefore will add 10uL per well of hoechst to wells to get a final conc of 25 ug/mL to try to avoid debris.   
+
+  7. Stain timestamp: Plates 1&2 10:00, Plates 3&4 10:15  
+  
+
+
+
+
+100 % feed with 5 ug/mL hoechst in medium - added plate 1 - 12:20-13:12, plate
+4 - 12:48-13:50
+
+
+
+
+100% feed with growth medium (no hoechst) 15:35
+
+
+
+
+Observations
+
+Trialled 25 ug/mL and 50 ug/mL in corner wells - saw debris form in 50 ug/mL
+wells but not in 25 ug/mL wells
+
+Test cells only stained positive after 2H of hoechst incubation
+
+

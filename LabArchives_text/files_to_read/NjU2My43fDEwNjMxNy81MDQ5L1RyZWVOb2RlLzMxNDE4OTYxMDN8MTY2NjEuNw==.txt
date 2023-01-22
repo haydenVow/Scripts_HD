@@ -1,0 +1,239 @@
+
+
+## Performed by: Addy, Shaleen
+
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+8706  
+8707  
+2 x 12wp9  
+8722  
+8723  
+2 x 24wp16  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM7928  
+dPBSM7925  
+  
+PBSTN/A  
+Secondary Antibody Mix (MyoG)  
+S173  
+Secondary Antibody Mix (MF20)S1965  
+DAPI (1:1000)M3220  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+2\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  7.5 µL   Secondary #1   (1: 1000 ) +  7.5 µL   Secondary #2   (1: 1000 ) +
+7.5  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+3\. Prepared DAPI mix:
+
+  7.5 mL  PBS +   7.5 uL  of DAPI (1:1000)
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+  
+
+Number of wells for the 12wps = 9
+
+2 mL PBS per well per wash
+
+Number of washes before adding SAb = 3
+
+Number of washes after adding DAPI = 3
+
+Top up with PBS = 1
+
+Total volume of PBS required: 9 x 7 x 2 mL = 126 mL (for the 12wps)
+
+  
+
+Number of wells for the 24wps = 16
+
+1 mL PBS per well per wash
+
+Number of washes before adding SAb = 3
+
+Number of washes after adding DAPI = 3
+
+Top up with PBS = 1
+
+Total volume of PBS required: 16 x 7 x 1 mL = 112 mL (for the 24wps)
+
+  
+
+Total volume of PBS required = 126 + 112 mL = 238 mL (round to 250 mL)
+
+  
+
+Secondary staining with Ab (2 x 1:1000 dilution)  
+
+400 uL of SAb per well for 12wp
+
+200 uL of SAb per well for 24wp
+
+7.5 / 1000 = 7.5 uL of each secondary Ab + DAPI required
+
+7.485 mL of BB required to dilute both SAbs
+
+7.5 mL of PBS required to dilute DAPI
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+MyoG - S1563  
+IgG1  
+1:200SAb (MyoG) - S1731:1000  
+MF20 - S694  
+IgG2b  
+1:50SAb (MF20) - S19651:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+14:53 - 15:03 - 15:16  a/pm (8706)
+
+14:53 - 15:07 - 15:19  a/pm (8707)
+
+15:00 - 15:23 - 15:38  a/pm (8722)
+
+15:12 - 15:42 - 15:50  a/pm (8723)
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.
+
+15:30 - 16:30  a/pm (8706)
+
+15:33 - :  a/pm (8707)
+
+15:49 - :  a/pm (8722)
+
+15:55 - :  a/pm (8723)
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.
+
+16:34 a/pm (8706)
+
+: a/pm (8707)
+
+: a/pm (8722)
+
+: a/pm (8723)
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+16:35 - :  a/pm (8706)
+
+16:40 - :  a/pm (8707)
+
+16:58 - :  a/pm (8722)
+
+17:04 - :  a/pm (8723)
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+16:51 - 17:01 - 17:07  a/pm (8706)
+
+16:54 - 17:04 - 17:09  a/pm (8707)
+
+17:09 - 17:18 - 17:27  a/pm (8722)
+
+17:13 - 17:22 - 17:30  a/pm (8723)
+
+4\.  Replaced dPBS.
+
+17:13  a/pm (8706)
+
+17:11  a/pm (8707)
+
+17:40 a/pm (8722)
+
+17:42 a/pm (8723)
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Lost sample in well B4 during the process of washing (Plate 8722)
+
+Lost sample in wells B1 & C1 during the process of washing (Plate 8723)
+
+2 x estim plates + 2 x mstim plates secondary stained with MyoG, MF20 and DAPI
+- ready to be imaged.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

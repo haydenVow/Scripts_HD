@@ -1,0 +1,380 @@
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Feed information:
+
+Vessel type(s)Vessel IDGrowth MediumVessel location (weekend only)  
+Growth media location (weekend only) Other comments eg media container
+(weekend only)  
+50 mL bioreactor spin tubes  
+  
+  
+
+7665-F_DOLLY12-Sheep P8-1of1
+
+0.1% MC  
+  
+  
+  
+7666-F_DOLLY12-Sheep P8-1of1  
+0.3% MC  
+  
+  
+  
+7667-F_DOLLY12-Sheep P8-1of1  
+0.45% MC  
+  
+  
+  
+7668-F_DOLLY12-Sheep P8-1of1  
+0.6% MC  
+  
+  
+  
+7669-F_DOLLY12-Sheep P8-1of1  
+1% MC  
+  
+  
+  
+7670-F_DOLLY12-Sheep P8-1of1  
+Serum control  
+  
+  
+  
+E125
+
+7671-F_DOLLY12-Sheep P8-1of1
+
+0.45% MC  
+  
+  
+  
+7672-F_DOLLY12-Sheep P8-1of1  
+1% MC  
+  
+  
+  
+7673-F_DOLLY12-Sheep P8-1of1  
+Serum control  
+  
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+  1. Aliquoted growth media as follows:
+    1. 5 mL  of  each of the following growth media conditions above: 0.1%, 0.3%, 0.6% MC in GM
+    2. 35 mL of GM + 1% MC
+    3. 35 mL of GM + 0.45% MC
+    4. 35 mL of serum control media
+      * Placed in water bath  11:22    
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (1 drop of each stain solution per 1 mL of dPBS):
+    * 3 mL of dPBS 
+    * 6 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * 3 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark until ready to use.    11:37     
+
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 3 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   11:31 - 11:36   
+
+  5. Aspirated 100% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Added   30 mL of fresh, warmed growth media to each 50 mL tube
+  7. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125s
+  8. Took 100 uL samples from each culture and added to wells A6, B6 & C6 of 96-WP to stain alongside 50 mL shake tubes.
+  9. Returned E125s to incubator.  11:49   
+
+Incubator (#81), Lab [Main/Library/Production]
+
+50 mL shake tubes
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected 6 x 50 mL shake tubes being fed from shaker 
+  3. Centrifuged at 300 x g for 5 min. 12:00 - 12:05   
+
+  4. While tubes were centrifuging, loaded protocol linked below (added protocol as attachment) on computer next to OT2 and set up deck as described at calibration step
+  5. Loaded 150 uL of stain buffer into columns 1 & 6 of 96-well plate (this is "staining buffer" plate on OT2 protocol).
+  6. Ethanol-sprayed  6 x 50 mL shake tubes and loaded on OT2 
+  7. Collected 6 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  8. Order of culture IDs in 50 mL tube rack:
+    * A1: 0.1% MC 7665-F_DOLLY12-Sheep P8-1of1
+    * A2: 0.3% MC 7666-F_DOLLY12-Sheep P8-1of1
+    * A3: 0.45% MC 7667-F_DOLLY12-Sheep P8-1of1
+    * B1: 0.6% MC 7668-F_DOLLY12-Sheep P8-1of1
+    * B2: 1% MC 7669-F_DOLLY12-Sheep P8-1of1
+    * B3: Control 7670-F_DOLLY12-Sheep P8-1of1
+  9. Calibrated for protocol 
+  10. Ran protocol  
+    1. Start time: 12:08:11 PM
+    2. End time: 12:29 PM
+    3. Total run time: 20 min 32 seconds  
+
+  11. Plate map of culture IDs in 96-WP for imaging:
+    *   
+Column 1  
+50% (column 2)  
+25% (col. 3)  
+12.5% (col. 4)  
+12.5% (col. 5)  
+50% (col. 6)  
+25% (col. 7)  
+12.5% (col. 8)  
+12.5%  
+  
+  
+  
+  
+A  
+  
+7665  
+7671  
+  
+  
+  
+  
+B  
+  
+7666  
+7672  
+  
+  
+  
+  
+C  
+  
+7667  
+7673  
+  
+  
+  
+  
+D  
+  
+7668  
+  
+  
+  
+  
+  
+  
+  
+  
+E  
+  
+7669  
+  
+  
+  
+  
+  
+  
+  
+  
+F  
+  
+7670  
+  
+  
+  
+  
+  
+  
+  
+  
+G  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+H1  
+  
+  
+
+  12. Returned vessels to incubator   12:35    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+  1.  ~~Added 100 uL samples from 6-WPs and E-flasks to staining buffer in 96WP and performed serial dilution by hand to achieve a 12.5% final dilution~~  performed by OT2 ~~  
+~~
+
+  2. Added culture IDs to plate map above
+  3. Incubated culture in stain at RT in dark for 20 - 30 minutes    12:29 - 12:58    
+
+  4. Protocol mistake (see observations) meant cells were diluted with dPBS too quickly after stain, so added 100 uL of fresh stain to 50% cell/stain dilution to make 25% dilution and incubated for 15 - 20 minutes 16:00 - 16:19
+  5. Diluted to 12.5% in dPBS, then moved 100 uL to empty wells for imaging
+  6. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp:  13:02 - 13:03 
+  7. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:   7937--Sheep P-of     
+
+  8. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (green fluorescent nuclei, stained with Sytox green)
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recvvpabeobFf3IIu/images
+
+
+
+
+### Observations/Summary:
+
+100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+N/A
+
+Zaber observations/issues:
+
+  
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+

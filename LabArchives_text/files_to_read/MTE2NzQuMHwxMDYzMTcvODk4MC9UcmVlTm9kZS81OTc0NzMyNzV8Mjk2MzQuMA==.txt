@@ -1,0 +1,18 @@
+
+
+Clones were passaged from cultures 12559, 12532, 12523 into a new 96 well
+plate using the opentron.
+
+  1. Whole well images of clones were captured using PHASE Zaber imaging system. 
+  2. Wells were inspected manually to determine confluence. 
+  3. Clones that appeared confluent were given a binary marking of '1' and clones that did not appear confluent were given the binary marking of '0' on the pick lists here: https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1820332829
+  4. For clones that appeared ready for passage this binary list was used to generate a multiwell opentron passaging protocol. 
+  5. 100uL of dPBS was added to wash the cells 
+  6. dPBS was collected and discarded
+  7. 100uL of Tryple-EDTA heated to 37 degrees was added to the cells. 
+  8. Incubated for 20 minutes at room temperature. 
+    1. Wells from culture 12523 were passaged by hand in the manner above, however tryple was room temperature when added to the cells and the plate was then incubated for 10 minutes at 30 degrees, 5% CO2 to enable detachment. 
+  9. 20uL of Trypalised wells were transferred to a fresh well on a 96 well plate containing 200uL of growth media DMEM/F12 + 20% FBS + 1xP/S). 
+  10. Plate was returned to incubator 140, 30 degrees, 5% co2. CULTUE 12683. 
+
+

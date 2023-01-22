@@ -1,0 +1,72 @@
+  
+  
+Vessel type(s)Vessel IDVessel locationGrowth media locationOther comments  
+  
+  
+1 x 6 well plate4646Thermo  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Samples:
+
+1x Gelatin gelatex scaffold
+
+1x Zein gelatex scaffold
+
+1x Freeze-dried agarose sample
+
+  
+  
+  
+Fix and DAPI process:
+
+  1. Place the scaffolds into a new 24-well plate (does not matter if TC treated or non-treated)
+  2. Wash samples gently (so as not wash away cells) with PBS (enough to cover each sample) for 5 min 15:00-15:05
+  3. Repeat previous wash step for a second wash   15:06-15:11
+  4. Cover samples in 4% PFA for 15 min ,   15:12-15:27
+  5. Add 1ul / ml DAPI in PBS, incubate in the dark 5 min , 15:28-15:33
+    1. Note - protect plate from light, if background noise is high try for additional wash steps
+  6. Wash samples 2x PBS 5 min,  15:35-15:40 15:41-15:46
+  7. Replace PBS in wells with fresh PBS `15:47`
+  8. Plate parafilmed and stored in the biomaterials fridge overnight for future imaging.  
+  
+Reagents used:
+
+Reagent ID  
+PBS 4490  
+PFA 3105  
+DAPI 2193
+
+
+  
+  
+Observations
+
+Gelatin: Scaffold was firm with good structural integrity and was easily
+transferred to a new plate with tweezers. Scaffold was opaque and brown in
+colour.
+
+Zein: Scaffold had broken into several pieces which had to be moved
+individually with tweezers. T pieces themselves were firm, and had likely
+broken due to cracking rather than dissolving. Opaque, yellowish white in
+colour.
+
+Agarose: The agarose sample was a very soft jelly. It was not possible to pick
+up the scaffold with tweezers as the gripping force broke the scaffold.
+Instead, it had to be moved with a spatula. The gel was transparant.
+
+

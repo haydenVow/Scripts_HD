@@ -1,0 +1,100 @@
+Methods and Experiment Layout
+
+
+Figure 1. Layout for each mould showing different conditions (tissue
+maturation time) and replicates
+
+
+
+
+Performed By: Alex, Varshana and Jesi D
+
+
+
+
+Before Starting Ensure:
+
+  * Matrix reagents are made up fresh:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+    * Matrigel is thawed in the fridge (no more than 10degs) first thing in the morning to maintain as liquid
+    * Reagents have been sterile-filtered
+  * Agar is autoclaved first thing in the morning and maintained on the hotplate to keep molten (or a small, high temp Sous Vide bath)
+
+
+
+
+Scaffold mounting, sterilisation and coating
+
+  1. Make up 10ml PDMS per dish
+  2. Add 9ml of PDMS into 15cm dish, spin coat for 3-5 seconds per dish
+  3. Mount mould into PDMS
+  4. Heat for 45mins at 60degs to set moulds into PDMS
+  5. Place in 70% Ethanol overnight
+  6. Using forceps, dry dishes in BSC until no ethanol remains
+  7. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start     :   am 
+  8. Pre-coat with 0.2% Pluronic solution for 1 hour (to prevent adhesion), start     :   pm 
+
+
+
+
+Preparation for Harvest
+
+  1. Prepare 1 falcon tube for cell harvest for 4 conditions of different tissue maturation times 
+  2. Completed calculations can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=561508067
+  3. Media preparation for harvest and seeding: 50-50 RPMI/Hycell mix
+    1. 200mL 50-50 RPMI/Hycell 
+
+Cell Harvest for mould seeding - Nuvonis suspesion protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+    1. Total yield flask #12537 =   715.7 million   
+
+    2. Total yield flask #12504 =   184.5 million 
+    3. Total volume per #12537 =    197 mL  
+    4. Total volume per #12504 =    57 mL  
+    5. Cell concentration #12537 =    3.62M cells/mL  
+    6. Cell concentration  #12504 =    3.21M cells/mL  
+  3. Aliquot required volume into 2x falcon tubes:
+    1. 5M/mL = 240M total per falcon (12 tissues) =    33.5 mL  #12537
+  4. Centrifuge at 650g for 5 minutes: start  17:50 
+  5. Resuspend pellets in 9.45mL of 50-50 Media
+  6. Combine into 1 falcon tube.
+  7. Proceed to matrix additions below
+
+  
+
+Matrix formation for scaffold seeding - 5 cell densities + cell-free control
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =    19.5 mL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =    2.35 mL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =    2.93 mL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume to add =    4.32 mL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add     ~150mL   50-50 Media to entire 15mL dish, ensure entire mould is covered
+  9. Culture at 37°C overnight before checking
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+

@@ -1,0 +1,158 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Culture IDs:
+
+Flask typeflask IDSeeded vessel typeSeeded flask ID  
+T25  
+8256-F_DOLLY12_1A16-Sheep P14-1of1  
+T25  
+8337-F_DOLLY12_1A16-Sheep P15-1of1  
+  
+T25  
+8257-F_DOLLY12_4C4-Sheep P14-1of1  
+T25  
+8338-F_DOLLY12_4C4-Sheep P15-1of1  
+  
+T25  
+8160-F_DOLLY12_3P23-Sheep P13-1of1  
+n/a - discarded because cells had stopped growing  
+n/a  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem6540  
+  
+dPBS (for washing & neutralising)a6522  
+  
+Growth Mediam6859  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      6.5   mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     13  mL
+  3. Growth media (for pellet resuspension and seeding):      2x 6  mL 
+
+Time that all aliquots were placed in the water bath the warm before use   13:
+26  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   13:36  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     3    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     13:41 -  13:56   . Cells had still not detached completed so flasks were tapped/whacked gently and placed back in the incubator until 14:01   
+
+7\. Neutralised with    3 mL   dPBS and combined cell suspension into a    15
+mL     tube for each flask.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:06  -  14:11      
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL     growth     media  
+
+11\. Aliquoted      10 uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was: 
+    1. 4C4:     628 000 cells       
+
+    2. 1A16:    204 000   cells.    cells looked larger compared to 4C4 clone when counting on haemocytometer    
+
+  2. Volume of cell suspension required for subculture was: 
+    1. 4C4:     139 uL     
+
+    2. 1A16:    429 uL      
+
+  3. Cell density per vessel:     175 000 cells per flask (7000 cells/cm^2)      
+
+
+
+
+
+
+
+13\. Transferred    175 000 cells to the pre-warmed      5     mL Growth
+media:  
+
+14\. Transferred cell suspension into        1x T25    for each clone.
+
+16\. Transferred vessel(s) to incubate at:  14 :40  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells), incubator #68  
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Passaged 2 clones:
+
+8256-F_DOLLY12_1A16-Sheep P14-1of1 ->  8337-F_DOLLY12_1A16-Sheep P15-1of1  
+  
+8257-F_DOLLY12_4C4-Sheep P14-1of1 -> 8338-F_DOLLY12_4C4-Sheep P15-1of1
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

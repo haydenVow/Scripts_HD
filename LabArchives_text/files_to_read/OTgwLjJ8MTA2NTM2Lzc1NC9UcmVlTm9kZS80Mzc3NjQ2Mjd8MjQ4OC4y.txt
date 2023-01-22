@@ -1,0 +1,89 @@
+
+
+Batch 26 Overview
+
+Batch Weight: 72.1065g
+
+Batch Objectives:
+
+  * Test multiple flask types in both multilayered flasks and roller bottles to see how they effect cell growth and yield 
+    * Multilayered Flask types tried:
+      * Cheap copy cat Cell Stack (10CCS)
+      * Normal Nunc Cell Factory (10CF)
+      * Normal Corning Cell Stack (10CS)
+    * Roller Bottle Flask types tried:
+      * Cell Bind surface Roller Bottles, also vented (CB850)
+        * This flask was tested to see if the Cell Bind surface coating improved cell adhesion and allowed cells to stick down for longer
+      * Ribbed Roller Bottles (RR2125)
+        * This flask was tested to see if we could get more mass out of these roller bottle due to their larger surface area and to see if our treatments worked the same on the different type of surface (shape)
+      * Cheap copy cat of Corning Roller Bottles (CR850)
+        * These were cheap alternatives we sourced so we wanted to see if they acted the same as the real Corning roller bottles
+      * Normal Corning Roller Bottles (R850)
+        * These were used as a control for all other flask types tested. 
+
+* All Flasks were seeded with a density of 11,997cells/cm2 and received the same treatment of VitC + TGFb at 60-80% confluent
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P171x10CF, 2x4CF  
+P263x10CF, 2x5CS  
+P39-102x10CCS/2x10CF/5x10CS/9x5CS  
+4xRR2125/2xCB850/4xCR850/4xR850  
+  
+  
+
+Notable Events:
+
+  * 9335 (RR2125) became contaminated before harvest and was discarded so this is not included in the results bringing the total number of bottles in this group to 3xRR2125
+  * There were some extra cells left over after seeding all roller bottles and multilayered flasks, all of these cells we put into an extra RR2125 and named "Rolo's Revenge" 
+    * This bottle was treated the same as all other bottles but had a higher seeding density (exact seeding density undetermined)
+  * 1xCR850 was removed from the pellet weight analysis due to a slight mix up during its harvest. These aggregates were accidentally mixed with aggregates from a 10CS from Batch 25 and could not be reliably separated. This mass still contributed to the batch total.
+
+  
+
+Batch/Experiment Results:
+
+CHOMP vs DOLLY:
+
+  * VitC + TGFb treatment continues to be second best to VitC ONLY then VitC + TGFb treatment at day 2 in multilayered flasks.  
+  * Roller bottle performance with CHOMP has not improved at all and is still no where near the DOLLY capabilities. 
+
+  
+
+* Some flask were harvested as a group and therefore their weights are combined together. There is at least 1 flask harvested individually from each group for comparison.
+
+  
+
+Multi-layered Flasks:
+
+  * With the exception of 10CF, all flasks produce similar yields. This shows:
+    * the Cheap/Alternative Cell Stack (10CCS) are a suitable alternative that can be purchased and used in future batches
+    * Confirms our previous findings from Batch 25 that the Nunc Delta surface coating is not suitable for the treatment phase of batches as it results in a lower yield.
+
+Pictures:
+
+10CS:
+
+10CF:
+
+  
+
+Roller Bottles:
+
+  * All Roller bottle types produced a similar yield. This shows:
+    * The Cell Bind surface does not increase cell adhesion as the cell peeled at the same rate and produced similar yeilds.
+    * Relative to surface area all flask types will produce a similar yield therefore all are suitable for future batches. In terms of yield per space requirement the ribbed roller bottle would be the best option, however, these flask do contain some limiting issues that reduce their effectiveness for future batches. These include:
+      * These flasks took much longer to show visible peeling; It was very difficult to observe these cells and observe peeling due to the ribbed surface which is very difficult to see through, for this reason flasks were grown for the maximum amount of time with hopes that the cell sheets would peel entirely by themselves. This was not the case and harvesting even at 18 days in culture was very difficult
+      * The cells did not form cell sheets like we see in the flat roller bottles. Instead cells appeared to settle in the groves of the ribbed surface and form aggregates in these groves which were difficult to remove from the flask. Scrapping was not possible so instead the media was removed and replaced wit dPBS, the flask was then shaken until the aggregates dislodged from the ribbed groves and were freely floating in the dPBS. Following this a serological pipette was used to blast out any remaining aggregates. This was fairly effective however was very time consuming and when pouring out the dPBS containing the aggregates some would inevitably get stuck in the ribs again and not be able to be removed. 
+    * The Cheap/alternative CR850 can be used as a suitable alternative to Corning R850 bottles in future batches.
+
+Pictures:
+
+Achievements:
+
+  * New, cheaper alternative flask types were cleared for use in future batches. This means we now have a larger range of products to chose from when our usual flasks are out of stock/unavailable. 
+
+  
+
+

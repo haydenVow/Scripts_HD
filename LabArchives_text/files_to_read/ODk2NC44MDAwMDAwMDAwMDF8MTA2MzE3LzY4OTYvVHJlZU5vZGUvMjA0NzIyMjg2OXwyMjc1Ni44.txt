@@ -1,0 +1,141 @@
+
+
+## Performed by: ST/EC
+
+
+
+
+Reagents used:
+
+Name
+
+Details (reagent ID)  
+  
+dPBSA8790  
+  
+Hoechst A8155  
+
+
+  
+  
+Culture IDs
+
+Flask TypeFlask ID(s)  
+50 mL mini bioreactor tubes
+
+Round 1 (D11)
+
+PABPC1 - 10494
+
+PTEN - 10493
+
+mock control - 10496
+
+Round 3 (D4)
+
+PABPC1 - 10737
+
+PTEN - 10738
+
+ZIC1 - 10739
+
+RIPK1 - 10741
+
+Mock control -10736
+
+  
+
+
+  
+  
+Process
+
+  1. Collected mini bioreactor tubes from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 
+  2. Pipetted up and down with P1000 to ensure even distribution of cells
+  3. Took 100 uL samples from each culture and transferred to separate wells in a 96-WP, recording the location of each sample for future plate mapping.
+
+30° C Incubator (#120), Lab [Main]
+
+
+
+
+Staining
+
+Prepare reagents
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 2 mL dPBS  
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 4750 uL MilliQ  
+\- 250 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6 months
+
+Stain plates
+
+  1. Added 100 uL dPBS into plate columns 2 and 3 using a multichannel pipette
+  2. Added 80 uL of dPBS to cells
+  3. Stained samples with 20 uL of Hoechst stain solution
+  4. Incubated for 30 minutes in the dark at room temperature 11:35-12:05
+  5. Serially diluted cell suspension by transferring 100 uL cell suspension to subsequent wells, down to 25% dilution
+  6. Centrifuged plates at 300 RCF for 1 minute 
+  7. Prepared plate maps (all cells were run on the same plate)
+
+Plate 10300 used for both Round 1 and Round 3  
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI MIA macro
+  2. Downloaded and extracted the data then pasted it into this spreadsheet - https://docs.google.com/spreadsheets/d/1ft7I_Hp3SDVx1VA8uASjfLFgj15d-MWkM7oDDHQRWfw/edit#gid=1235762498
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+
+
+
+Observations/Summary
+
+Unfortunately the staining and imaging did not go to plan. As a result the
+results are unreadable. We therefore took manual counts 22-2-21
+
+
+
+
+ZIC1 culture has no aggregates despite not having been strained. All the other
+cultures have from nucleofection round 3 have aggregates. The cultures from
+nucleofection round 1 do not have any aggregates either however were strained
+on Thursday.
+
+  
+
+Well H12 - Control Round 1- 10496
+
+Well G12 - PABPC1 Round 1- 10494
+
+Well F12 - PTEN Round 1- 10493
+
+Well E12: Control Round 3 - 10736
+
+Well D12: RIPK1 Round 3 - 10741
+
+Well C12: ZIC1 Round 3 - 10739
+
+Well B12: PABPC1 Round 3 - 10737
+
+Well A12: PTEN Round 3 - 10738
+
+  
+
+(Plate was done upside down!)
+
+

@@ -1,0 +1,108 @@
+
+
+Process:
+
+1\. Pre-load the designed 384>96 well plate 1-well picking protocol in the
+Opentrons software.
+
+2\. Aliquot 5 mL of the desired media required for the media runs and place in
+water bath to warm up 09:36
+
+  1. Growth media used was CD CHO + 10%KSR + 1:100 ACA + 4mM L-glutamine
+
+3\. Set up the Opentrons deck according to the layout prescribed in the
+designed protocol (See here)
+
+4\. Perform a dry run without any reagents to confirm that the protocol works
+as expected. Also note down the time it takes for the Opentrons to complete
+the entire process, from the moment it moves to retrieve a tip to the moment
+it then dispenses that tip. This will be used as a benchmark before we make
+adjustment to improve the protocol.
+
+  1. Total time taken: 40 sec from initial movement to grab tip to then dispensing tip into the trash
+
+5\. Add 75 uL of growth media to well A1-A12 of the 384 well plate. These
+wells will be used to test to Opentrons settings such as aspiration height,
+dispense speed etc.
+
+6\. Perform the Opentorns run for a single well (i.e. well A1) with the pre-
+defined settings. Note down any observations or recommendations to improve the
+speed/efficiency of the protocol. Again note down the time taken.
+
+  
+
+  
+
+Run 1:
+
+Observations:
+
+\- Small amount of media was left in the 384 well. Might need to adjust the
+height at which the media is aspirated before transferring to the 96-well
+plate.
+
+\- Minor presence of bubbles. Need to determine if changing the aspiration
+speed will affect how many bubbles are produced.
+
+Adjustments:
+
+\- changed the aspiration and dispense speed for all steps to 300 uL/s,
+instead of the default setting
+
+\- adjusted the height of the mxing step from 0.5 mm to 1 mm
+
+Total time taken for 1-well: 40 seconds
+
+Run 2:  
+
+Observations/adjustments:
+
+\- adjusting the aspiration/dispense speeds significantly speed up the process
+reducing the total time by 10 sec.
+
+Total time taken for 1-well: 30 seconds
+
+Run 3:  
+
+Observations/adjustments:
+
+\- adjusted the aspiration height from the transfer step from 1 mmm to 0.5 mm
+in order the remove the remaining media in the well. Improved how much media
+was removed however there is still a small amount left, within threshold.
+
+Run 4:  
+
+Observations/adjustments:
+
+\- Included a 2 second delay between the mixing step and transfer step,
+however it did not assist in how the pipette removeed the media from the well.
+Was removed.
+
+Total time taken:  2 min 36 sec with 2 sec delay (removing the delay results
+in a time of 37 seconds for each well - 148 seconds total)
+
+Run 4:  
+
+Observations/adjustments:
+
+\- Repeated run 4 without the 2 second delay and total time was 2 min and 27
+sec (147 sec) - therefore approximately 30.5 seconds per well (subtracting the
+26 second delay at the beginning) in line with the assumption made in run 3.
+
+
+
+7\. Repeat step 6 to refine the protocol noting down any observations and/or
+adjustment made
+
+8\. Once the protocol is finalised perform a media run for at least 4 wells,
+observing if the protocol works as intended and the time taken for multiple
+wells.
+
+9\. Attach the finalised protocol below
+
+
+
+
+Finalised protocol for 384>96 1-well picking for suspension cells
+
+

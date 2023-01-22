@@ -1,0 +1,204 @@
+  
+  
+Perform bank using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+  
+8053  
+8054  
+8055  
+8056
+
+26  
+ 500,000
+
+3471-Culture-8053-Vial-1of26  
+3472-Culture-8053-Vial-2of26  
+3473-Culture-8053-Vial-3of26  
+3474-Culture-8053-Vial-4of26  
+3475-Culture-8053-Vial-5of26  
+3476-Culture-8053-Vial-6of26  
+3477-Culture-8053-Vial-7of26  
+3478-Culture-8053-Vial-8of26  
+3479-Culture-8053-Vial-9of26  
+3480-Culture-8053-Vial-10of26  
+3481-Culture-8053-Vial-11of26  
+3482-Culture-8053-Vial-12of26  
+3483-Culture-8053-Vial-13of26  
+3484-Culture-8053-Vial-14of26  
+3485-Culture-8053-Vial-15of26  
+3486-Culture-8053-Vial-16of26  
+3487-Culture-8053-Vial-17of26  
+3488-Culture-8053-Vial-18of26  
+3489-Culture-8053-Vial-19of26  
+3490-Culture-8053-Vial-20of26  
+3491-Culture-8053-Vial-21of26  
+3492-Culture-8053-Vial-22of26  
+3493-Culture-8053-Vial-23of26  
+3494-Culture-8053-Vial-24of26  
+3495-Culture-8053-Vial-25of26  
+3496-Culture-8053-Vial-26of26  
+  
+  
+
+
+
+
+Growth Media:  DMEM/F12 + 20 %FBS + 1x p/s
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:   40 mL in | 1x  50 mL mL | tubes
+  2.  dPBS (for neutralising and wash)   80 mL in 2 x 50 mL  tube (1 room temp, 1 30C)
+  3.  Growth media (for pellet resuspension):  10 mL in 1x 50mL tubes
+  4.  Time that all aliquots were placed in the water bath to warm before use:   12:20   
+
+  5. Took representative images of each flask
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 10 mL | tryple to each vessel/well and incubated at 30ºC for  10
+min 13:52-14:02  
+
+4\. Neutralised with | 10 mL | dPBS (warmed) and combined cell suspension into
+1 tube.
+
+5\. Centrifuged at 650 x g for 5 min 14:10-14:15
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 10|mL |growth  | medium
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 13,020,000 |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL.  
+= 13.0mL
+
+
+
+
+11\. Prepared   15mL Freeze Medium: (FBS + 10% DMSO).  13:35
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in |13 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted |500|µL into |26  | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.  14:50  
+
+  * [ x]  With foam
+  * [ x]  Without foam
+  * [ ]  1st Freeze
+  * [ ]  2nd Freeze
+  * [ x]  3rd Freeze
+  * [ x]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple M 6540  
+  
+dPBS (for washing & neutralising) A 6414  
+  
+Growth Media DMEM/F12 M 6790  
+  
+DMSO  
+ S 2745  
+  
+FBS  
+ A 6443  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+None
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):  
+  
+https://mia-capture.vow.tools/#/session/recfvaIE3JYZ6txCH/images  
+https://mia-capture.vow.tools/#/session/recwIdATXJieAWzM1/images  
+https://mia-capture.vow.tools/#/session/recBE0KBPk4VJD9ck/images  
+https://mia-capture.vow.tools/#/session/recCXvJS1J5AvASbq/images
+
+

@@ -1,0 +1,71 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Discussion
+
+Staining cells with Hoechst ReadyFlow (which was used for EPIC21181) resulted
+in cells with brighter fluorescence than cells stained with Hoechst
+ReadyProbes reagent. These brightly stained cells were not given a 100% feed
+after staining. 24 hours after staining, cell death was visible in these
+wells. It's likely that the concentration of Hoechst in the ReadyFlow reagent
+is higher than the ReadyProbes reagent which results in more brightly stained
+cells as well as cell death. The formulation of both of these reagents is
+proprietary so the exact concentration can't be confirmed.
+
+To test whether Hoechst staining cells 3 times and then passaging them will
+affect cell viability, F_DOLLY12 cells were seeded into 384 wp. Some wells
+were stained with 17uL/mL of Hoechst and some wells were kept unstained. 100%
+feed was performed for both conditions and 24 hours later, cells were passaged
+to a 96 wp using OT2. At this stage, some wells that were unstained should
+have been stained as 'sacrifice' to obtain cell counts. Unfortunately, this
+step was missed so a comparison between stained and unstained wells cannot be
+performed at this point.
+
+Some wells in the 96 well plate were Hoechst stained whilst others were left
+unstained to obtain 3 groups: cells that had been stained twice, cells that
+had been stained once, and cells that had not been stained. Cells from this 96
+wp were passaged to another 96 wp. The rationale for keeping cells in a small
+vessel rather than moving them to a larger one was that it would be faster to
+passage these on OT2, and because passaging protocols for larger well plates
+still needed to be optimised. For example, the OT2 protocol for passaging 24
+wp could result in many cells left behind in wells after passaging. However,
+the day after the second passage, there were clumps of cells visible in the
+plate. This is likely because the confluence of the cells was too high. The
+clumping of the cells makes it difficult to obtain accurate cell counts from
+images. Therefore, this experiment was terminated.
+
+Summary & Conclusion
+
+  * It's likely that the concentration of Hoechst in the ReadyFlow reagent is higher than the ReadyProbes reagent which results in more brightly stained cells as well as cell death. Therefore, the Hoechst ReadyProbes is preferred for the cloning pipeline.
+  * The experiment had to be terminated early because cell clumps were observed when cells were passaged from a 96 wp to another 96 wp.
+  * No conclusions can be made about the effect of Hoechst staining cells multiple times on cell viability.
+
+Next Steps
+
+  * This experiment should be repeated with the following changes:
+    * Some wells from the unstained control should be 'sacrificed' (i.e. stained) after each passage to obtain cell counts for the control.
+    * Cells should be passaged into larger and larger vessels each time to prevent them from becoming overconfluent and clumping.
+    * When cells are expanded to 24 wp, passage them manually to 6wp whilst the OT2 protocol is being optimised.
+  * Optimise the passaging protocol for 24 wp to 6 wp so that a large number of cells are not left behind
+
+

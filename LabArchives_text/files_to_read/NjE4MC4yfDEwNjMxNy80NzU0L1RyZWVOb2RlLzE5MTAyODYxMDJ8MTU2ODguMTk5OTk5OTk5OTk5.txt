@@ -1,0 +1,190 @@
+
+
+Perform thaw using below volumes:
+
+
+
+
+## Performed by: VB & AK  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2314-Culture-6303-Vial-35of115  
+8713-F_DOLLY12-Sheep P8-1of1  
+384 well plate (black walls)  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Growth MediaA7449  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  Growth media (for seeding):   30 mL + 17 mL in  2x 50 mL  tubes 
+  2.  Time that all aliquot was placed in the water bath to warm before use:  15:53 
+
+2\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  13:46 - 13:51  
+
+Location where cryovial was collected from:
+
+ Homer  OR Dewer 1
+
+Tower/Bucket #2  
+
+Box/Cane #2  
+
+Vial location:D7
+
+Vial ID(s): 2314  
+
+
+
+
+3\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+4\. Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock.
+
+5\. Take a 10 uL aliquot and perform a haemocytometer count for total cell
+numbers
+
+  1. Cell number:    850,000 
+
+
+
+
+6\. Prepare stain buffer in 15 mL tube by combining the following (2 drops
+Hoechst per mL of dPBS):
+
+  * 5 mL of filtered dPBS (filtered to remove debris)
+  * 10 drops of Live Cell Stain ReadyFlow Hoechst 33342
+
+7\. Take 141 uL (100,000 cells) of the cell resuspension and dilute in 30 mL
+of growth media. This will give a concentration of 3,333 cells per mL.
+
+8\. Dilute the cell suspension aliquot in the appropriate volume of growth
+media such that the cell concentrations below can be reached (Note that this
+will also depend on the cell count obtained in step 5):
+
+    * Cell suspension at conc 400 cells/mL will provide 10 cells per well - add 8.3 mL of growth media to 1mL of cell suspension to obtain a 400 cells/mL concentrate
+    * Cell suspension at conc 800 cells/mL will provide 20 cells per well - add 4.15 mL of growth media to 1mL of cell suspension to obtain a 800 cells/mL concentrate
+    * Cell suspension at conc 1600 cells/mL will provide 40 cells per well - add 2.075 mL of growth media to 1mL of cell suspension to obtain a 1600 cells/mL concentrate 
+    * Cell suspension at conc 3200 cells/mL will provide 80 cells per well - add 1.0375 mL of growth media to 1mL of cell suspension to obtain a 3200 cells/mL concentrate 
+
+9\. Add 15 uL of each of the diluted cultures into a separate column of the
+384 well plate, see below:
+
+10\. Immediately after seeding the final culture condition add 10 uL of
+Hoechst 33342 ReadyFlow staining solution to each culture well of the 384-well
+plate.
+
+11\. Incubate for 30 minutes at room temperature in the dark. During the 30
+minute incubation periodically observe the cells to check for cell attachment
+
+12\. Centrifuge the plate at 650 x g for 1 minute
+
+  1. Timestamp:    15:40 - 16:00 
+
+13\. Image the entire 384 well plate on both Phase contrast and DAPI imaging
+channels.
+
+  1. Phase/DAPI timestamp: 16:31 - 16:47
+
+  
+
+Zaber settings and setup:
+
+\- 384 well plate was imaged under 2 rows and 1 columns settings, with snake
+pattern enabled. Entire run took approximately 16 minutes for both the phase
+and DAPI channels. Ideally we would expect it to be roughly ~8 minutes per
+channel setting. This was for 1536 total images.
+
+\- Exposure time for the channels were set to 30 for Phase and 60 for DAPI.
+These settings offered the best compromise between over and under exposed
+features. Observation that was noticed in the DAPI stained wells was that
+those containing more cells generally had to be set to a lower exposure time
+compared to those with less cells. Potential implications for this could be
+that as certain clones perform better than others it may be difficult to set
+an exposure time that accommodates both good and bad performing clones.
+
+\- Lamp intensity for phase was 1.3268 and 55.0686 for DAPI. DAPI
+BaslerCamera- Gain was set at 6.0037whilst for phase was set to 0.
+
+\- Binning set to 2.
+
+\- Objective 5x
+
+  
+
+Post image acquisition
+
+1\. Initially assess if a human observer can distinguish cells that are
+suspended in the growth media solution and can be discerned from the
+background and any debris that may be present. If so proceed to 2.
+
+2\. Manually label images of suspended cells to train the ML model on
+identifying cells in suspension. Alternatively, if possible try to develop a
+macro code in FIJI that could function in a similar manner to the ML model
+based on the features of the cells, i.e. size, circularity, edges, etc.  
+
+
+
+
+SOPs used:
+
+  * SOP_Thawing Cells Into Adherent Culture V_02
+
+
+
+
+Summary:
+
+\- No reservoirs, used sterile 70 mL pots and as such could only fit 4 pipette
+tips at a time, slowly down the process immensely. Not sure if this resulted
+in cells adhering to the culture plate
+
+\- Integra couldn't aspirate 15 uL so used 10 uL instead (reduced to total
+amount of cells added to the wells)
+
+\- Small cell numbers in some of the wells, particularly the low seeding
+densities (10/20)- perhaps next time just seed at a single density (this would
+be useful especially if there's not much difference between low seeding
+densities and high densities)
+
+\- Spent about 30 mins explaining to Varshana on how to capture images using
+the Zaber (which I did knowingly to make sure she receives some training on
+how to perform it), unclear if cells could have adhered in that time. If so,
+completely Adrian's fault.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+MIA link: https://mia-capture.vow.tools/#/session/recpwMQbpy4yJ2b02/images
+
+

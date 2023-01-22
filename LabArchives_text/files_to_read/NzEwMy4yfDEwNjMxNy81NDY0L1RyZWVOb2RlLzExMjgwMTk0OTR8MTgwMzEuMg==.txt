@@ -1,0 +1,162 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Perform a suspension SCC run of the three best performing F_DOLLY12 cells in
+CD-CHO media
+
+
+Hypothesis
+
+
+Single DOLLY_12 fibroblasts sorted in 384 wells that have been adapted to
+suspension over 30 days will survive in suspension such that we will attain ≥1
+clonal cell line.  
+
+
+Technical Gap
+
+
+SCC, as of yet, has not been performed on suspension adapted cell lines. There
+are currently three DOLLY12 fibroblast cell lines that have continued to
+survive until day 40 in suspension which will be seeded into 2x ULA 384 well
+plates for each cell line (i.e., 6 conditions in total). As these cells have
+survived in suspension culture conditions for greater than 30 days they
+ideally should be adapted and proliferate in ULA plates.
+
+
+Method/Procedure
+
+
+Experiment Plan
+
+Date  
+Day  
+Task(s)  
+Notes  
+  
+30-Sep-2021D-0Thaw 3M DOLLY12 fibroblast cells The first four steps have been
+performed in a separate experiment (this experiment will only take a small
+sample of those cells ~50K). See here  
+30-Sep-2021 - 14-Oct-2021D-0 - D-15Feed and passage fibroblasts for scale up  
+14-Oct-2021D-0Seed suspension cultures  
+14-Oct-2021 - 23-Nov-2021D-0 - D-40Feed, stain and image suspension culture  
+23-Nov-2021D0 FACS sort into 6 x 384-well plates (two for each condition):  
+Three culture's in total:  
+\- 8639-F_DOLLY12-Sheep P11-1of3 (Rep #1)  
+\- 8640-F_DOLLY12-Sheep P11-2of3 (Rep #2)  
+\- 8641-F_DOLLY12-Sheep P11-3of3 (Rep #3)  
+  
+All three cultures are the same condition, albeit just being a different
+replicate.  
+  
+Their seed media is:  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM
+L-glutamine +  100ng/mL each FGF, IGF1 + 1x P/S  
+  
+
+  1. Prepare 6 x ULA plates with fresh adherent growth medium (See media composition above) *Each plate will contain the same GM, however each cell sample will be sorted into 2 plates.
+  2. Prepare 20 mL FACS Buffer
+  3. Retrieve fibroblasts from E125 flasks (~50K cells per condition)
+  4. Take to Garvan and sort 
+  5. Centrifuge plates
+  6. Transport plates back to Vowse, place in incubator at 37'C
+
+  
+  
+24-Nov-2021D1 Zaber scan plates  
+  
+  
+25-Nov-2021D2Zaber scan plates  
+  
+  
+26-Nov-2021D3Zaber scan plates  
+  
+  
+30-Nov-2021D7Zaber scan plates  
+  
+  
+  
+D10Zaber scan plates  
+Top up wells with 20 uL per well fresh growth mediumCheck if any wells are
+over-confluent. If so, perform picking on D11 and adjust next time to do
+picking earlier. It not, can wait and scan again in a couple of days.  
+  
+  
+D~11Pick high confluence wells from 384-well to (ULA) 96-well plates  
+Generate pick-list through Hoechst-staining and imaging cells on Zaber then
+running through macro. Remove Hoechst after to avoid damaging cells?  
+  
+  
+When confluent, expand top clones from 96-well plate to  (ULA) 24-well plate  
+  
+  
+  
+When confluent, expand top clones from 24-well plate to (ULA) 6-well plate  
+  
+  
+  
+When confluent, expand top clones from 6-well plate to (ULA) T25 flasks  
+  
+  
+  
+When confluent, expand top clones from T25 flasks to T75 flasks or 125 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T75 flasks to T175 flasks or 250 shake
+flasks  
+  
+  
+  
+When confluent, expand top clones from T175 flasks to Multi-layered cell
+factory flasks or 2L shake flasks  
+  
+  
+  
+  
+Generate MCB_2 of successful clonal populations.  
+  
+  
+  
+Report writing (Draft)  
+  
+  
+  
+  
+Review & fill out Report (Full)  
+  
+  
+  
+  
+Ensure all lab books are complete & assign for review  
+  
+  
+  
+  
+Review Lab Books, results, report  
+  
+  
+  
+  
+Make necessary amendments and confirm with reviewer that experiment is
+complete  
+  
+  
+  
+  
+Release note on Project Updates  
+  
+  
+  
+  
+
+
+
+
+

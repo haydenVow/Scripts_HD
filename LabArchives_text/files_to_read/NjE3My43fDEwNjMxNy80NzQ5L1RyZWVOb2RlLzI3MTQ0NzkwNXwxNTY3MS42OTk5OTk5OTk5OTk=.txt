@@ -1,0 +1,73 @@
+
+
+## Performed by: Eva  
+
+
+
+
+Culture IDs to image
+
+Vessel type(s)  
+Vessel ID  
+Number of wells being imagedWhole or inner well  
+8409-DOLLY12-Sheep P10-1of4  
+8410-DOLLY12-Sheep P10-2of4  
+8411-DOLLY12-Sheep P10-3of4  
+8412-DOLLY12-Sheep P10-4of4  
+96 wp  
+40 wells/plate  
+whole (9 images per well)  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Loading plate and opening software
+
+  1. Loaded plate into Zaber with A1 at top left position (hold back retention clip that holds plate in place, settle plate into place, release clip). Timestamp:
+  2. 8:20 am (21-Oct-21) (8409); 17:40 (20-Oct-21) (8410); 17:23 (20-Oct-21)(8411); 17:00 (20-Oct-21)(8412)  
+
+  3. Ensured culture ID label was present on the plate being imaged to enable scanning the QR code for Mia integration 
+  4. Opened "User Guide to Zaber imaging" linked below for instructions on how to open MicroManager (zaber imaging software) and set up plate for imaging. https://www.notion.so/vow/User-Guide-to-Zaber-imaging-ad19527eee9e42ed9db96faa911d6536
+
+
+
+
+Setting up plate for imaging
+
+  1. Channel(s) used (delete those that do not apply): [DAPI / 488 / 555]
+  2. Set Exposure. Exposure used:   55 ms  (DAPI)
+  3. 175 ms (AF555; MF20)
+  4. 140 ms (AF488; MyoG)  
+
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  5. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  6. Important \- Copied exposure value from Micromanager into the "Exposure" box on "Multi-Dimensional Acquisition" window that corresponds with the configuration you are using (e.g. in the image below, the user has selected Phase for their configuration, and has entered 25.0058 in the Phase Exposure setting.   
+
+  7. Ensured that Z-stacks is unchecked on Multi-Dimensional Acquisition (this is for imaging 3D cultures) 
+  8. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. 
+      * Rows/Columns:  3 / 3    
+
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+  9. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  10. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). For reference, there should be 1000-2000 images for a full 96-WP on Zaber 1. (Stats for Zabers 2 and 3 to come)
+    * Total number of images:           
+  11. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up. 
+  12. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID
+  13. Clicked acquire (clicked yes when asked about creating a new root directory). 
+    * Time stamp: 17:05 - 18:00 pm (plates 8410, 8411, 8412). Plate 8409 to be imaged 21-Oct-21 ( 8:20  -  8:55  am)  
+
+  14. Returned plate to fridge or incubator   18:00 pm (plates imaged on 20-Oct-21)   
+
+

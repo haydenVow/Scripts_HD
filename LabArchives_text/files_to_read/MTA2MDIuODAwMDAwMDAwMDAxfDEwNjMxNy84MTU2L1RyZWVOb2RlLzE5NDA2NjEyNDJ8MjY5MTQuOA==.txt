@@ -1,0 +1,102 @@
+
+
+Performed by: VP
+
+
+
+
+Reagents
+
+ReagentID  
+3:1 RPMI:Hycell Nuvonis suspension mediaMIX-  
+IGF (0.05mg/mL)MIX-10839  
+EGF (0.05mg/mL)MIX-12321  
+Anti-foam CMIX-6141  
+1M Sodium bicarbonate solutionMIX-12682
+
+
+  
+  
+Cultures:
+
+Culture IDVesselNew culture IDNew vessel type  
+  
+E500  
+AMBR250 vessel 1  
+  
+AMBR250 vessel 2  
+  
+  
+AMBR250 vessel 3  
+  
+  
+AMBR250 vessel 4  
+  
+  
+E125 (satellite flask 1)  
+  
+E125 (satellite flask 2)  
+  
+E500 (stock culture)
+
+
+  
+  
+Culture Parameters:
+
+  * BR1: 200 RPM
+    * 0.06mL/min air flow (0.03 vvm)
+    * pH 7.1
+  * BR2: 200 RPM
+    * 20mL/min air flow (0.1 vvm)
+    * pH 7.1
+  * BR3: 200 RPM
+    * 0.06mL/min air flow (0.03 vvm)
+    * pH 7.5
+  * BR4: 200 RPM
+    * 2mL/min air flow (0.1 vvm)
+    * pH 7.5
+
+200mL total reactor volume, inoculum represents 10% of total volume
+
+  
+
+20/200 = 0.1
+
+6/200 = 0.03
+
+
+
+
+Process
+
+See G-doc here.
+
+NOTE: AMBR lab archives template has since been prepared and can be utilised
+for next run.  
+
+
+
+
+Sampling and offline measurements
+
+  1. Labelled x4 50mL falcon tubes 1-4
+  2. Followed on-screen prompt to sample bioreactors and recorded in run
+  3. Sprayed sample line with EtOH and removed cap
+  4. Unclipped clamp on sample line
+  5. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited into 50mL tube. Discarded syringe
+  6. Opened disposable 5mL syringe with luer-lock and drew 1mL, deposited 0.5mL into 1.5mL tube (for cell count) and deposited remainder into corresponding 50mL tube. Discarded syringe
+  7. Clipped sample line and screwed on cap
+  8. Repeated for each AMBR bioreactor vessel
+  9. Counted cells using Nucleocounter as per manufacturer's instruction. Used 200uL sample volume per read. 
+  10. Deposited remaining cell suspension from 1.5mL tube into corresponding 50mL falcon tube and used offline pH probe (Matteo Toledo) as per manufacturer's instruction and recorded
+
+
+
+
+Offline Readings
+
+For compilation of data including cell counts, viability, % aggregation, pH,
+see G-sheet here  
+
+

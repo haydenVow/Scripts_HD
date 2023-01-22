@@ -1,0 +1,220 @@
+
+
+## Performed by: LL ST  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDsSeeded vessel typeSeeded flask IDs  
+  
+4CF
+
+9221-F_DOLLY12-Sheep P8-1of6
+
+9222-F_DOLLY12-Sheep P8-2of6
+
+9223-F_DOLLY12-Sheep P8-3of6
+
+E-125 9344-DOLLY12-Sheep P9-1of3  
+9347-DOLLY12-Sheep P9-2of3  
+9348-DOLLY12-Sheep P9-3of3  
+9349-DOLLY12-Sheep P9-1of3  
+9350-DOLLY12-Sheep P9-2of3  
+9351-DOLLY12-Sheep P9-3of3  
+9352-DOLLY12-Sheep P9-1of3  
+9353-DOLLY12-Sheep P9-2of3  
+9354-DOLLY12-Sheep P9-3of3  
+9355-DOLLY12-Sheep P9-1of3  
+9356-DOLLY12-Sheep P9-2of3  
+9357-DOLLY12-Sheep P9-3of3  
+9358-DOLLY12-Sheep P9-1of3  
+9359-DOLLY12-Sheep P9-2of3  
+9360-DOLLY12-Sheep P9-3of3  
+9361-DOLLY12-Sheep P9-1of3  
+9362-DOLLY12-Sheep P9-2of3  
+9363-DOLLY12-Sheep P9-3of3  
+9364-DOLLY12-Sheep P9-1of3  
+9365-DOLLY12-Sheep P9-2of3  
+9366-DOLLY12-Sheep P9-3of3  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem8252, m8250  
+  
+dPBS (for washing & neutralising)a8260  
+  
+Growth Medium (D/F+20%FBS+1xP/S)  
+m8154  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+a8640  
+  
+KSR  
+s4098  
+  
+IGF-1  
+m7963  
+  
+b-FGF  
+m5077  
+  
+YIGSR  
+m5580  
+  
+P53i  
+m6879  
+  
+HDAC1  
+s3725  
+  
+HDAC2  
+s3762  
+  
+Lipids  
+s3200  
+  
+RGD  
+m5606  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   600  mL 
+  2.  dPBS (for neutralising):   600  mL
+  3.  dPBS (for washing):   600  mL
+  4. Growth medium (for pellet resuspension):   30  mL
+    * GM = D/F+20%FBS+1xP/S 
+  5. Growth media conditions (for seeding):   7 x 60 mL aliquots (1 x 60 mL aliquot/condition)  
+
+Time that all aliquots were placed in the water bath the warm before use
+11:55  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added  200  mL TrypLE/flask and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    13:32      
+
+7\. Neutralised with   200   dPBS/flask and combined cell suspension into   6
+x 250 mL  tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:02 - 14:07, 14:08 - 14:13    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    20   mL   growth   media
+
+11\. Aliquoted   2 x 100 uL  of resuspended cells into a microcentrifuge tube
+for cell count. Diluted to 1:50 in trypan blue.  
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet
+
+  1. Total cell number was:     598,400,000     
+
+  2. Volume of cell suspension required for subculture was:     5 mL per 60 mL aliquot, 1.6 mL per E-125     
+
+  3. Cell density per vessel:   28,495,238 cells/flask = 1,319,223 cells/mL    
+
+
+
+
+13\. Transferred   5000  µL of cell suspension to each pre-warmed  60  mL
+Growth media aliquot  
+
+14\. Transferred 21.6 mL of each aliquot into E-125 flasks (3 reps of 7
+conditions = 21 total E-125 flasks)
+
+15\. Took 1 x 100 uL aliquot from each E-125 flask and transferred to 2 x
+96-well plate for staining & cell count (see "staining" rich text entry below)
+
+15\. Transferred E-125s to shaking platform (120 RPM) to incubate at:  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [ ]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature 15:45 - 16:15
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute 16:33 - 16:34  
+  
+
+  6. Prepared plate map:  
+\- Created a new "MIA output" data workbook by copying the template at the
+following link:
+https://docs.google.com/spreadsheets/d/1Lf5u2kRGQLab1QzT75ve2nrPrSJiAoWFonpeS58bS4s/edit?usp=sharing  
+\- Filled in each of the sheets according to how the samples were arranged  
+\- Pasted the link to the "MIA output" workbook here:
+
+    1. Plate 1 9368: https://docs.google.com/spreadsheets/d/137guOJDzWu8OXxlY3OcW8LEuBhRgSNvJ1qbPFOTx-rE/edit#gid=1164308133
+    2. Plate 2 9369: https://docs.google.com/spreadsheets/d/12XBd6VzryW5eCbA7f7ubBcm6mBQu-74f86rP489P-0U/edit#gid=607955926
+
+
+
+
+Observations/Summary:
+
+Passaged 3 x 4CFs into 21 x E-125s with 7 conditions (n=3) - 28M cells per
+flask, 1.3M cells/mL
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Phase, 10X
+
+
+
+

@@ -1,0 +1,26 @@
+StepHalt run and remove bioreactors  
+Operator name  
+  
+Time-stamp  
+  
+Protocol
+
+  1. Follow prompts to disengage bioreactors (not borrow, but 
+  2. Unscrew headplates and remove pH port connection from hardware. Gently remove reactors and place in biohazard clinical waste
+  3. Turn off TCU at the switch on the equipment
+  4. Follow onscreen prompts to 're-use' bioreactors and export data
+  5. Load exported data onto USB
+  6. Close AMBR runtime software
+  7. Spray lint-free wipe with EtOH and clean AMBR hardware including reservoir and reactor ports
+  8. See attached for run data
+
+  
+  
+Deviations & notes
+
+  
+  
+  
+References  
+
+

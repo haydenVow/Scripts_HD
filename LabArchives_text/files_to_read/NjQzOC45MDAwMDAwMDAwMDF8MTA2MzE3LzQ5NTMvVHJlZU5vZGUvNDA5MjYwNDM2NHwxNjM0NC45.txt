@@ -1,0 +1,32 @@
+
+
+## Completed by: Bec Screnci
+
+
+Results and Data Analysis (MCB vs WCB study)
+
+
+DAPI-stained 96-well plates were imaged on the Zaber platform at 45 ms
+exposure (UV), and images were run through mia macro
+"zaber_96_well_dapi_count". Resulting raw DAPI count data was transferred to
+Prism 8 (GraphPad) for further analysis.
+
+  
+
+Note* Above zaber macro resulted in multiple false readings, and it was
+determined that the suspension DAPI macro resulted in much more accurate cell
+counts for each image.
+
+The suspension macro was used for the below results.
+
+
+
+
+ Graph 1. Comparison of cell counts over 10 days of differentiation between
+DOLLY12 MCB and DOLLY12 WCB cells in both E6 and 2% HS differentiation media.
+Blue = MCB cells, Red = WCB cells. Closed Box = E6, open box = 2% HS. n = 8
+for each data point. Error bars show standard deviation
+
+
+
+

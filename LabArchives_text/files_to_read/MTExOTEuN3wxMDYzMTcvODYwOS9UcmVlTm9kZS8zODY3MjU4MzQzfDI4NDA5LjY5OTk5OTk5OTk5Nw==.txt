@@ -1,0 +1,179 @@
+
+
+
+
+
+## Performed by: Shaleen Sharma
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+DMEMS3100  
+F12S3994  
+LAA2PS3949  
+BSAS1481  
+ITSS6904  
+P/SS3900  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+Ficoll 70
+
+75 mg/ml
+
+64.29 mg/ml
+
+53.58 mg/ml
+
+42.87 mg/ml
+
+32.16 mg/ml
+
+21.45 mg/ml
+
+10.74 mg/ml
+
+0 mg/ml  
+  
+Volume of Conc. Stock
+
+30
+
+25.72
+
+21.43
+
+17.14
+
+12.86
+
+8.57
+
+4.28
+
+0  
+  
+Volume of Basal Media
+
+0
+
+4.28
+
+8.57
+
+12.86
+
+17.14
+
+21.43
+
+25.72
+
+30
+
+
+  
+  
+Ficoll 400
+
+50 mg/ml
+
+40 mg/ml
+
+30 mg/ml
+
+20 mg/ml
+
+10 mg/ml
+
+0 mg/ml  
+  
+Volume of Conc. Stock
+
+30
+
+24
+
+18
+
+12
+
+6
+
+0  
+  
+Volume of Basal Media
+
+0
+
+6
+
+12
+
+18
+
+24
+
+30
+
+
+  
+  
+  1. Made up 500mL of DMEM/F12 + BSA (18.75 mg/ml) + 1X ITS + 1X P/S + LAA2P (150ug/ml)
+  2. Aliquotted 120ml seperately and added 18g of Ficoll 70 to the 120mL aliquot in order to make a 2X of 75 mg/ml (highest concentration). Solution took approx 1 hour to dissolve at 37C.
+  3. Aliquotted 96 ml of Ficoll 400 and added 9.6g of Ficoll 400 to the 96ml aliquot in order to make a 2X of the 50 mg/ml (highest concentration).
+  4. Sterile filtered all three medias (both Ficolls and Basal Media) using filter units.
+  5. Formulated each condition as above in 50mL falcon tubes.
+  6. Split each 30mL condition into 3 x 10ml aliquots in 15mL falcon tubes (3 for each OT2 run - 2 plates ea).
+  7. Loaded labware into Dana and Otis Opentrons in Main lab and calibrated.
+  8. Ran OT2 protocol for first two plates 14:55pm (51 and 52)
+  9. Ran OT2 protocol for second two plates 15:07pm (53 and 54)
+
+
+
+
+Observations/Summary:
+
+Originally Carrageenan was planned for this experiment to be assessed in
+various concentrations against Ficoll 400. However, in reality CN was blocking
+both syringe filters and filter units after multiple attempts. Hence, a
+decision was made last minute to just assess both Ficolls (70 and 400) against
+one another to determine the most optimal combination.
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,16 @@
+
+
+Our current medium formulation for CHOMP fibroblasts in suspension is HyCell
+CHO + 20% KSR + 1xP/S + 4mM Glutamax + 100ng/mL IGF-LR3 + b-FGF + 1:100 ACA.
+The Nuvonis quail suspension line we have acquired is grown in Freestyle 293 +
+1g/L Yeast Extract + 20mg/L L-Ornithine monohydrochloride + 20mg/L Putrescine
+dihydrochloride + 50 ug/L IGF-LR3 + 10 ug/L EGF + 1:100 ACA. Given this
+Nuvonis cell line has been adapted to suspension and therefore this medium is
+known to support growth in suspension conditions, we would like to test
+whether it is effective at enabling CHOMP fibroblasts to adapt to and grow in
+suspension culture. Furthermore, reptilian cells have more in common with
+avian cells than mammalian cells, and so basing our medium formulation off an
+avian cell line makes more sense than our current approach of basing it off
+what worked for a mammalian (sheep) cell line.
+
+

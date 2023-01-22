@@ -1,0 +1,190 @@
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+ ~~Finished sterility test~~
+
+  1.  ~~Took a sample and transfer it to the well of a well plate.~~
+  2.  ~~Observed the sample under the microscope.~~
+
+Reference  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp16:15  
+NotesSigns of contamination include cloudy culture medium, motile particles
+visible under the 60x or 100x objective.  
+  
+NOT CONDUCTED DUE TO NEED TO SEED IMMEDIATELY AFTER SETUP  
+  
+  
+  
+
+
+
+
+ ~~Calibrated dissolved oxygen probe~~
+
+  1.  ~~Ran the calibration routine as per the operating manual~~
+    1.  ~~Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.~~
+    2.  ~~Set that level as 0%~~
+    3.  ~~Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.~~
+    4.  ~~Set that level as 100%~~
+
+ReferenceOperating manual page(s) 76, 43  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesNOT DONE DUE TO NEED TO SEED IMMEDIATELY AFTER SETUP  
+  
+  
+  
+  
+
+
+
+
+Set level probe
+
+  1. Loosened the nut around the antifoam/level probe.
+  2. Gently rotated and pulled the probe out until it reached the desired height.
+  3. Tightened the nut until finger tight.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:15  
+  
+NotesNEVER push the probe back into the bioreactor after autoclaving as this
+can introduce contamination.  
+  
+LEFT IN STARTING POSITION  
+  
+  
+  
+  
+
+
+
+
+Configured the operating parameters
+
+  1. Configured dissolved oxygen control cascade.
+  2. Configured pH control.
+  3. Configured level control.
+  4. Configured feed schedule.
+  5. Switched all accessories to "Automatic".  
+  
+
+ReferenceOperating manual page(s) 37, 42  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:20  
+  
+NotesOnly BASET, AIR, CO2, STIRR, EXHST, TEMP, PH were set to AUTOMATIC. All
+other functions remained OFF.  
+  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:20  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreoactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp16:25  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Set intermittent stirring schedule:
+
+  1. Set STIRR PROFILE to stirr for 2 minutes every half hour for 4 hours.
+  2. Set STIRR to PROFILE (not AUTOMATIC).
+
+Reference  
+  
+Operator initialsTT  
+Checked by operator initials  
+  
+Timestamp16:38  
+NotesThe maximum number of profile points is 32, so intermittent stirring can
+only be set for up to 4 hours using a square wave speed profile.  
+The speed in the first profile should be 0. If the speed in the first profile
+point is greater than 0, the stirrer will gradually increase in speed to this
+speed, rather than jumping up to to that speed at that time.  
+  
+  
+  
+  
+
+

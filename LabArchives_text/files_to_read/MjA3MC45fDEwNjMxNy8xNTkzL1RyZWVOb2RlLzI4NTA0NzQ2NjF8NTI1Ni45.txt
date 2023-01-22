@@ -1,0 +1,153 @@
+
+
+See full report sent to Matrix Meats here:
+
+https://docs.google.com/document/d/1CxizKpk6Rev5JUITomsxbgOBvcSkdeHSYwT7jJhrxLY/edit?usp=sharing
+
+
+Key Findings
+
+
+  1. Electrospun zein scaffolds shrunk in size within 24h when exposed to cell culture conditions (growth media, 37'C, 5% CO2)
+  2. Electrospun zein/gluten scaffolds were too fragile when handled and displayed auto-fluorescent artifacts upon imaging with DAPI
+  3. Wet zein resulted in consistently higher seeding efficiency in comparison to dry zein regardless of seeding density
+  4. Zein/gluten scaffolds displayed poor scaffold confluence (>10%) by day 7 in differentiation medium
+  5. Zein scaffolds seeded with 0.7M cells/scaffold maintained a scaffold confluence of ~47% by day 7 in differentiation medium, with high variation between replicates                                                           
+  6. Scaffold shrinking/scrunching of the zein distorted scaffold morphology and negatively impacted the reliability of imaging
+  7. The electrospun zein and zein/gluten scaffolds in their current format are not promising candidates for future investigation
+  8. As a result of the zein material shrinking it was recognised that our method of fluorescent imaging for assessing scaffold confluence is susceptible to changes in scaffold morphology over-time. Consequently, we should aim to employ our upcoming ELISA platform in future studies, which is less open to these limitations. 
+  9. Based on this experiment, in addition to the sensory tasting of zein and electrospun zein in alginate, we have decided not to pursue zein as a scaffold material any further. 
+
+  
+
+
+Discussion
+
+
+Upon handling the electrospun zein and zein/gluten scaffolds it was
+immediately identified that zein/gluten scaffolds could not be lifted from the
+96-well plate plate without breakage and were incredibly thin. Whereas,
+although the zein only scaffolds where thin and difficult to handle these
+could be moved to a new plate. As a result the zein/gluten scaffolds remaining
+in the same plate/wells throughout the entire duration of the culture (9 days
+total) whereas the zein samples were moved on day 1 of proliferation and
+subsequently cultured in a separate plate.  
+
+After 1 day in cell culture conditions it was found that the zein only
+scaffolds had significantly reduced/shrunk in size (to approximately 1/10th of
+the original size/surface area). The shrinking of zein is an observation that
+we have not experienced before and thus it is predicted that this could be due
+to the carrier material used during electrospinning (4.8% PEO) and/or the low
+scaffold thickness <0.2mm of these samples (see Fig.1). As a result of the
+scaffold shrinking cells were seen to have visually detached on day 1 (cells
+were present in the media and on the base of the well when the samples were
+moved to a new plate after 24hrs). Despite this, on the day 1 imaging of the
+zein scaffolds demonstrated a seeding efficiency of >75% for all zein scaffold
+conditions (seeding efficiency could not be calculated for the zein/gluten
+samples as these could not be moved from the plate). For day 1 imaging of the
+zein/gluten samples cells were apparent in the wells, however, it was
+impossible to distinguish whether the cells had adhered to the scaffold
+material or to the tissue culture plastic immediately below the scaffolds. In
+addition, fluorescent artifacts were observed within the cell-free zein/gluten
+material, with specs of fluorescence (similar in size and shape to cells)
+present throughout the scaffolds after DAPI staining (Fig.2). Consequently, an
+accurate measurement of scaffold confluence of the zein/gluten samples could
+not be distinguished in this investigation.  
+  
+The scaffolds were stained with DAPI and imaged again following 7 days in
+differentiation medium. On the day 7 timepoint cells could still be observed
+on the zein only scaffolds, with an average confluence of 31.67 ± 24.66 and
+43.33 ±, 27.54 for wet and dry zein scaffolds seeded with 1.3M cells/scaffold
+respectively, 46.67± 36.17 and 46.67 ± 18.83 for wet and dry zein scaffolds
+seeded with 0.7M cells/scaffold respectively and 7.5 ± 3.54 and 31.67± 25.66
+for wet and dry zein scaffolds seeded with 0.5M cells/scaffold respectively.
+Wherein, the high variation between replicates (n=3) for these samples was
+likely caused by issues with scaffold morphology and subsequent issues with
+imaging of the cell-seeded scaffold surface. The degree of shrinking and
+'scrunching' of the zein material varued between scaffolds which result in
+visually apparent differences in scaffold morphology. In particular, it was
+observed that for some scaffolds the non-seeded underside of the scaffolds had
+folded inward during scaffold shrinking, and was now partially covering the
+cell-seeded side of the scaffold, see Fig.2. As a result, it is difficult to
+rely on our image analysis of these scaffolds to provide a true representation
+of scaffold confluence. Thus, in future work we should aim to use our upcoming
+ELISA platform for the analysis of scaffolds prone to changes in morphology,
+as this method which will not be influenced/distorted by the changes in the
+scaffolds physical appearance. Despite the questionable accuracy of the
+confluency readings from this experiment, the adherence maintenance observed
+on the zein scaffolds over a 9 day culture period is a promising outcome.  
+  
+In relation the zein/gluten samples no cell presence was observed using
+fluorescent imaging following 7 days in differentiation medium. The potential
+reason for the cell loss in these wells was likely related to the inability to
+move the scaffolds during cell culture. Wherein, regardless of using non-
+tissue cultured treated plates, we typically observe high cell adhesion to the
+base of wells after scaffold seeding. Thus, to prevent the occurence of overly
+confluent cells on the base of the wells, which can release potential signals
+and by-products that  are detrimental to the cells on the scaffolds, it has
+become standard practice to physically move scaffolds to new plates 24 hours
+after seeding. However, as the zein/gluten scaffolds could not be moved during
+the 9 day culture period it is likely that the cells on the base of the wells
+became overly confluent and apoptotic. Subsequently, the apoptitic cells on
+the base of the wells will have resulted in the cell death of adherent cells
+present on the zein/gluten scaffolds. With the dead cells being washed away
+during the daily 100% media changes.  
+
+In summation, the electrospun zein and zein/gluten materials in their current
+format cannot be considered desirable scaffold candidates for further
+exploration. Wherein the major limitations of these scaffolds include the
+significant material shrinkage observed for the zein material and the fragile
+and immovable properties of the zein/gluten material.
+
+  
+
+Figure 1
+
+Photograph of zein scaffolds after 24 hours in cell culture conditions (37'C,
+5% CO2). Image to show zein scaffold shrinking (material initially covered the
+entire base of the well).
+
+Figure 2  
+  
+
+Fluorescent image (5x) taken on the main lab zaber of a cell-laden Zein
+stained with DAPI on day 7 of cell culture. Image demonstrating zein scaffold
+shrinking/scrunching.
+
+Figure 3
+
+Fluorescent image (5x) taken on the main lab zaber (DAPI) of a cell free
+control zein/gluten scaffold stained with DAPI. Image demonstrating
+fluorescent artifacts.
+
+
+Future Directions
+
+
+If we are to further pursue electrospun materials from Matrix Meats we should
+request the following scaffold attributes:  
+  
+1\. Scaffold thickness should be equal to or greater than 0.3mm (based on the
+thickness of previously handled PDLG scaffolds on which we achieved
+differentiation)  
+  
+2\. Scaffolds should be able to retain their overall morphology under cell
+culture conditions (basic growth media, 37'C, 5% CO2)  
+  
+3\. Scaffolds should not be anchored to the plates and should be readily
+moveable without breakage.
+
+4\. Based on the results of this study and from the recent sensory testing of
+electrospun zein sheets, with and without ethanol treatment, we will not be
+pursuing this material type further and should therefore discuss alternate
+materials with Matrix Meats.  
+5. As a result of the zein material shrinking it was recognized in this experiment that our method of fluorescent imaging for assessing scaffold confluence is susceptible to changes in scaffold morphology over-time. Consequently, we will aim to employ our upcoming ELISA platform in future studies, which is less open to these kinds of limitations. 
+
+  
+  
+  
+
+
+
+
+

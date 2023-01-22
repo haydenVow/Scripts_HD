@@ -1,0 +1,149 @@
+
+
+Use DOLLY and CHOMP pellets frozen at harvest.  
+  
+New assay - follow the protocol for the creatine ELISA assay kit:  
+  
+Protocol
+
+1. REAGENT PREPARATION
+
+1.1 Creatine Assay Buffer: Ready to use as supplied. Equilibrate to room
+temperature before use. Store at 4°C or -20°C.
+
+1.2 Creatine Probe - in DMSO: Ready to use as supplied. Store at -20°C
+protected from light and moisture. Aliquot probe so that you have enough
+volume to perform the desired number of assays. Warm the thawed aliquot by
+placing in a 37°C bath for 1 - 5 minutes to thaw the DMSO solution before use.
+NOTE: DMSO tends to be solid when stored at -20°C, even when left at room
+temperature, so it needs to melt for few minutes at 37°C. Once probe is
+thawed, use within two months. Keep the thawed aliquot on ice while performing
+the assay.
+
+1.3 Creatinase: Reconstitute in 220 µL Assay Buffer. Aliquot enzyme so that
+you have enough volume to perform the desired number of assays. Freeze/thaw
+should be limited to one time. Store at -20°C. Keep the thawed aliquot on ice
+while performing the assay.
+
+1.4 Creatine Enzyme Mix: Reconstitute in 220 µL Assay Buffer. Aliquot enzyme
+so that you have enough volume to perform the desired number of assays.
+Freeze/thaw should be limited to one time. Store at -20°C. Keep the thawed
+aliquot on ice while performing the assay.
+
+1.5 Creatine Standard:  Reconstitute the Creatine Standard (10 µmol) in 100 µL
+of ddH2O to generate a 100 nmol/µL standard stock solution. Make sure it is
+completely dissolved. Store at -20°C. Aliquot standard so that you have enough
+volume to perform the desired number of assays. Use within 2 months. Keep the
+thawed aliquot on ice while performing the assay.
+
+2\. STANDARD PREPARATION
+
+Always prepare a fresh set of standards for every use. Diluted standard
+solution is unstable and must be used within 4 hours.
+
+2.1 Prepare 500 µL of 1 nmol/µL Creatine standard by diluting 5 µL of the
+reconstituted standard with 495 µL of Assay Buffer. Using 1 nmol/µL Creatine
+standard, prepare standard curve dilution as described in the table in a
+microplate or microcentrifuge tubes:
+
+Table 1: Standard curve sample preparation.
+
+3\. SAMPLE PREPARATION
+
+We recommend performing several dilutions of your sample to ensure the
+readings are within the standard value range.
+
+3.1 Harvest the amount of cells necessary for each assay (initial
+recommendation = 2 x 10^6 cells).
+
+3.2 Wash cells with cold PBS.
+
+3.3 Resuspend cells in 100 µL of Assay Buffer.
+
+3.4 Homogenize cells quickly by running 3 cycles of Shaleen's freeze-thaw
+protocol. To further guarantee homogeneous cell lysis, pipet up and down a few
+times.
+
+3.5 Centrifuge sample for 2 - 5 minutes at at top speed using a
+microcentrifuge to remove any insoluble material (the protocol says the
+microcentrifuge must be cold- set at 4°C- however, we don't have this. Perhaps
+we could do the homogenisation and centrifugation two or three times to
+compensate for this).
+
+3.6 Collect supernatant and transfer to a clean tube.
+
+3.7 Keep on ice.
+
+3.8 Add ice cold PCA (perchloric acid) 4 M to a final concentration of 1 M in
+the homogenate solution and vortex briefly to mix well.
+
+3.9 Incubate on ice for 5 minutes.
+
+3.10 Centrifuge samples at 13,000 x g for 2 minutes at 4°C in a cold
+centrifuge and transfer supernatant to a fresh tube. Measure volume of
+supernatant.
+
+3.11 Precipitate excess PCA by adding ice-cold 2 M KOH that equals 34% of the
+supernatant to your sample (for instance, 34 µL of 2 M KOH to 100 µL sample)
+and vortexing briefly. This will neutralise the sample and precipitate excess
+PCA.
+
+3.12 After neutralisation, it is very important that pH equals 6.5 - 8 (use pH
+paper to test 1 µL of sample). Any left over PCA will interfere with the
+assay. If necessary, adjust pH with 0.1 M KOH.
+
+3.13 Centrifuge at 13,000 x g for 15 minutes at 4°C and collect supernatant.
+Samples are now deproteinized, neutralized and PCA has been removed. The
+samples are now ready to use in the assay.
+
+3.14 The deproteinized samples will be diluted from the original
+concentration. To calculate the dilution factor of your final sample, simply
+apply the following formula:
+
+% original concentration = Initial sample volume / (initial sample volume +
+vol PCA + vol KOH)
+
+For 100 uL samples (THIS SHOULD BE OUR AIM): % original concentration = 100uL
+/ (100 uL + 25uL (PCA) + 34uL (KOH))= 62.89%
+
+4\. ASSAY PROCEDURE AND DETECTION
+
+It is recommended to assay all standards, controls and samples in duplicate.
+
+4.1 Set up Reaction wells:
+
+\- Standard wells = 50 µL standard dilutions.
+
+\- Sample wells = 0 - 50 µL samples (adjust volume to have 50 µL/well with
+Assay Buffer).
+
+\- Background control sample wells = 0 - 50 µL samples (adjust volume to 50
+µL/well with Assay Buffer). Sarcosine creates background in this assay. If
+there is no significant background seen during the pilot assay, it is not
+essential to run background controls for every sample. (OPTIONAL)
+
+Image 2: Plate layout for the performance of the assay.
+
+4.2 Reaction Mix (COLORIMETRIC ASSAY):
+
+Prepare 50 µL of Reaction Mix / well.
+
+Prepare a master mix of the Reaction Mix to ensure consistency. We recommend
+the following calculation: X µL component x (Number samples + standards +
+background control samples +1 (excess))
+
+Table 2: Volumes of each reagent necessary to prepare the Reaction Mix
+necessary to obtain a final reaction volume of 50 uL/well.
+
+4.3 Add 50 µL of appropriate Reaction Mix to standard and sample wells.
+
+4.4 Mix well. Incubate at 37°C for 60 minutes protected from light.
+
+4.5 Measure output on a microplate reader. Colorimetric assay: measure OD 570
+nm.
+
+Link to protocol:
+https://www.abcam.com/ps/products/65/ab65339/documents/Creatine-assay-
+protocol-book-v3c-ab65339%20(website).pdf
+
+

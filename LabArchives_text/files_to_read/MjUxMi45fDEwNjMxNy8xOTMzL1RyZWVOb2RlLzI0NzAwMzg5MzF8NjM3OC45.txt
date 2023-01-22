@@ -1,0 +1,202 @@
+
+
+  
+
+Screening of fibroblast cell sheets as scaffolds:
+
+  
+
+Overview:
+
+2 sheet types, freeze-thawed and dried, seeded with 2 seeding densities (0.8M
+or 1.5M cells/scaffold) in either a pre-wetted or dried state.
+
+  
+
+D-1 Prep day (Mon 21st)
+
+1\. Pick 2 conditions from EPIC19190 Fibroblast sheet optimsation (whichever
+conditions result in the thickest sheets)
+
+2\.  Freeze-thaw all samples in petri dishes (Xing et al., 2015)
+
+''place in a −80°C freezer for 30 min and thaw in 37°C PBS and rinse with PBS.
+Repeat three times. Then rinse in DMEM at room temperature 2x' for 15mins each
+and leave in media until ready to seed'
+
+3\.  Remove media then leave samples to dry in the BSC over night  
+
+  
+
+D0 Seeding day (Tues 22nd)
+
+1\. With sterile scissors and tweezers cut sheets into scaffolds (min 60, 96wp
+size pieces) and place into a 48wp (no inserts), follow plate map below  
+2\. To the 'wet' samples add seeding media (ACF or serum depending on sample
+set) add enough to cover samples with media (leave wet for atleast 1h prior to
+removing media immediately before seeding), leave the other half of samples
+dry until seeding.
+
+3\. Add 60ul of cell suspension of the correct cell density (0.8M
+cells/scaffold or 1.5M cells/scaffold in the relevant media ACF or serum) to
+each sample and leave plate in the BSC for 30 minutes to allow cells to adhere
+
+4\. Gently (aspirate onto side of the well not directly onto the scaffold) add
+1ml of relevant media to each well then place the plate in the incubator
+(37'C, 5% CO2)
+
+  
+
+D1 Sampling day (Weds 23rd)
+
+- CMFDA stain all samples > image > return plate to the incubator
+
+\- Move samples into new 48wp with inserts containing pre-warmed relevant
+PROLIFERATION media (ACF or serum, see plate map)
+
+\- Calculate seeding efficiencies for the different conditions (tryplisation
+of old wells > cell count)
+
+D2 100% media change with E6 (D0 DIFF)  
+
+D1 DIFF 100% media change with E6  
+D2 DIFF 100% media change with E6  
+D3 DIFF 100% media change with E6
+
+D4 DIFF 100% media change with E6
+
+D5 DIFF 100% media change with E6
+
+D6 DIFF 100% media change with E6
+
+D7 Sampling day
+
+Move samples into new 48wp (no inserts for imaging)
+
+CMFDA stain all samples > image
+
+D7 DIFF 100% media change with E6
+
+Return samples to 48wp with inserts > return plate to the incubator
+
+D8 DIFF 100% media change with E6
+
+D9 DIFF 100% media change with E6
+
+D10 DIFF 100% media change with E6
+
+D11 DIFF 100% media change with E6
+
+D12 DIFF 100% media change with E6
+
+D13 DIFF 100% media change with E6
+
+D14 Sampling day
+
+Move samples into new 48wp (no inserts for imaging)
+
+On some samples (exact number tbd) CMFDA stain > image
+
+Fix the rest of samples and stain with Vimentin (use optimised protocol) and
+MyoG/MF20
+
+  
+
+JMP Matrix:  
+
+Number of replicates = 4 (each condition has N=4)
+
+Total ACF cells required for seeding = 36.8 M = 40M with excess for error.
+(32 samples)  
+
+Total serum cells required for seeding = 12.8M = 14M with excess for error (16
+samples)
+
+\+ 8 cell-free control samples  
+
+Serum control cells will all be seeded at a seeding density of 0.8M:
+
+C1 W 0.8 X 4 = 3.2
+
+C1 D 0.8 X 4 = 3.2
+
+C2 W 0.8 X 4 = 3.2
+
+C2 D 0.8 X 4 = 3.2
+
+  
+
+Plate maps:
+
+Cell-laden plate:
+
+Cell-free plate:
+
+
+
+
+1x 2-level Categorical factor (scaffold type):  Condition 1 and Condition 2
+(tbd which)
+
+1x 2-level Continuous factor (seeding density): 0.8M, 1.5M cells/96-well sized
+scaffold
+
+1x 2-level Continuous factor (wetness): Wet, Dry  
+  
+Cells seeded in 10C ACF media, then transitioned to E6 on D2 in proliferation
+media (= D0 of differentiation)
+
+  
+8 ACF conditions (seeded in 10C):  
+  
+(1) DRY, Condition 1, 0.8M cells/scaffold
+
+(2) WET, Condition 1, 0.8M cells/scaffold
+
+  
+
+(3) DRY, Condition 1, 1.5M cells/scaffold  
+(4) WET, Condition 1, 1.5M cells/scaffold
+
+(5) DRY, Condition 2, 0.8M cells/scaffold
+
+(6) WET, Condition 2, 0.8M cells/scaffold
+
+  
+
+(7) DRY, Condition 2, 1.5M cells/scaffold  
+(8) WET, Condition 2, 1.5M cells/scaffold
+
+  
+
+Replicates: n=4
+
+Total number of samples (4 x 8) = 32
+
+  
+
+4 Serum control conditions (n=4):  
+  
+(1) Wet, Condition 1, 0.8M cells/scaffold
+
+(2) Wet, Condition 2, 0.8M cells/scaffold
+
+(3) Dry, Condition 1, 0.8M cells/scaffold
+
+(4) Dry, Condition 2, 0.8M cells/scaffold
+
+Total number of serum control samples = 16 samples
+
+(D/F + 20% FBS + 1X P/S)
+
+  
+
+2 Cell free control conditions (n=4):
+
+(1) Condition 1
+
+(2) Condition 2
+
+Total number of serum control samples = 8 samples
+
+

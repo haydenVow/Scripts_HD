@@ -1,0 +1,18 @@
+
+
+Clones that appeared 100% confluent on plate 12683 were expanded to 24 well
+plates.
+
+Briefly.
+
+  1. Whole wells containing Clones were imaged using the Zaber multiwell imaging system. 
+  2. Clones that appeared confluent were given a binary marking of '1' and clones that did not appear confluent were given the binary marking of '0' on the pick lists here: https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1820332829
+  3. For clones that appeared ready for passage, media was aspirated and discarded from the culture
+  4. 100uL of dPBS was added to wash the cells 
+  5. dPBS was collected and discarded
+  6. 100uL of Tryple-EDTA was added to the cells. 
+  7. cells were incubated for 10 minutes at 30 degrees, 5% CO2. 
+  8. Cells were then collected from each well and transferred to individual wells on a 24 well plate containing 1mL fresh growth media (DMEM/F12 + 20% FBS + 1xP/S) 
+  9. Plate was returned to the incubator along with the new 24 well plate, incubating in incubator 140, 30 degrees, 5% co2. CULTUE 13014. 
+
+

@@ -1,0 +1,35 @@
+Performed by:
+Harvested flask ID  
+Harvested flask type  
+Harvested flask condition  
+Seeded flask ID(s)  
+Seeded flask type(s)  
+  
+  
+11634-Nuvonis Quail Suspension341-P-11of12
+
+  
+E-125  
+90/10 RPMI/HyCell + 3 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride +
+0.06 mg/mL Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF + FGF  
+  
+96-wp (ULA)  
+  
+  
+  
+  
+
+
+Process
+  
+  
+  1. Transferred _ mL containing 3,000,000 cells from culture 11634-Nuvonis Quail Suspension341-P-11of12 to 1 x 50 mL tube (lab book with culture and cell counts)
+  2. Centrifuged at 500 x g for 5 minutes
+  3. Aspirated 100% of supernatant
+  4. Re-suspended in 3 mL of sterile dPBS (need 10K cells in 10 uL, so need 1M cells/1 mL in seeding suspension)
+  5. Using 1-100 uL multichannel pipette, added 10 uL of cell suspension to each well of DSD plates 
+  6. Imaged plates on Zaber microscope (phase, 5X) and ran through ML model. Checked that wells received cells. 
+  7. Moved plates to incubator at 37'C, 5%CO2 (incubator #119, main/library/production lab)
+
+
+ML model output

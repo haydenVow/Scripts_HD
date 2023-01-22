@@ -1,0 +1,109 @@
+
+
+Performed by: Avani B and Kylie K
+
+ACF media iteration:  E8_10C
+
+Volume of media to make:
+
+  * 3 L
+
+
+
+
+## Process
+
+  
+
+  1. Prepared 2M solution of GABA by adding 1.0312g in 5 mL PBS.
+  2. Prepared 100mM glyoxylic acid solution by adding 0.092g in 10mL DMEM/F12.
+  3. Prepared 2M hypoxanthine solution by adding 1.3611g in 5mL of DMEM/F12.
+  4. Added 1.469.5 mL of F12 and 969.5 mL of DMEM to an autoclaved carboy.
+  5. Opened a 500mL bottle of DMEM so that we could pipette ingredients into it.
+  6. Added all the ingredients needed for 3L of E8 media into DMEM bottle following E8 calculator spreadsheet.
+    1.   7. Added the amount of albumin, trace elements B, hLIF, hEGF, and p38i as indicated in the E8_9C Media Calculatorspreadsheet.
+    1.   8. Added 10.5 uL ethanolamine stock (as opposed to diluting the stock as indicated in the spreadsheet).
+  9. Added 60uL of 2M GABA stock (used a more concentrated stock compared to spreadsheet).
+  10. Added 1mL of 2M hypoxanthine solution (used a more concentrated stock compared to spreadsheet).
+  11. Added 1.5 mL of 100mM glyoxylic acid to make E810C.
+  12. Added the 500mL DMEM bottled containing all the ingredients into the carboy.
+  13. Sterile filtered medium.
+  14. Aliquoted into 5 aliquots of 600 mL.
+  15. Added 6mL of lipids to each aliquot.
+  16. Wrapped bottle with foil to protect from light  
+  17. Labelled and stored in fridge 
+
+
+Stock  
+ID  
+  
+F12  
+2185, 2238, 2200  
+  
+DMEM  
+2017, 2298, 2302  
+  
+GABA  
+S696  
+  
+Sodium bicarb  
+S639  
+  
+PBS  
+m4809  
+  
+hypoxanthine  
+s143  
+  
+DMEM/F12  
+m4630  
+  
+hEGF  
+M4297, S1809  
+  
+lipids  
+s1797  
+  
+TGF-b  
+a2387, m1493, m2382, m4447  
+  
+ethanolamine  
+s680  
+  
+p38i  
+m4928  
+  
+albumin  
+s1803  
+  
+hLIF  
+a4530  
+  
+trace elements b  
+s1076  
+  
+P/S  
+a4912  
+  
+glyoxylic acid  
+s162  
+  
+LAA2P  
+m2717  
+  
+sodium selenium  
+a1680  
+  
+FGF-b  
+m4323  
+  
+insulin  
+m1714  
+  
+transferrin  
+m3916  
+  
+  
+  
+
+

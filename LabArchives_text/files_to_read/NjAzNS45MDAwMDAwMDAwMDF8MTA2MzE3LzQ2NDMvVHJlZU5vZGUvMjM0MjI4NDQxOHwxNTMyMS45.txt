@@ -1,0 +1,344 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: kylie, chris, addy, eva  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175s
+
+8515-DOLLY12-Sheep P9-1of3
+
+8516-DOLLY12-Sheep P9-2of3
+
+8517-DOLLY12-Sheep P9-3of3
+
+3 x 96-well plates (2 columns)8656-DOLLY12-Sheep P10-1of3  
+8657-DOLLY12-Sheep P10-2of3  
+8658-DOLLY12-Sheep P10-3of3  
+  
+T175s  
+
+8518-C2C12-Mouse P4-1of3
+
+8519-C2C12-Mouse P4-2of3
+
+8520-C2C12-Mouse P4-3of3
+
+3 x 96-well plates (2 columns)  
+8668-C2C12-Mouse P5-1of3  
+8669-C2C12-Mouse P5-2of3  
+8670-C2C12-Mouse P5-3of3  
+  
+T175s  
+
+8521-DAISY4-Cow P9-1of3
+
+8522-DAISY4-Cow P9-2of3
+
+8523-DAISY4-Cow P9-3of3
+
+3 x 96-well plates (2 columns)  
+8659-DAISY4-Cow P10-1of3  
+8660-DAISY4-Cow P10-2of3  
+8661-DAISY4-Cow P10-3of3  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+T175s  
+
+8527-BUFFY6-Water Buffalo P9-1of3
+
+8528-BUFFY6-Water Buffalo P9-2of3
+
+8529-BUFFY6-Water Buffalo P9-3of3
+
+3 x 96-well plates (2 columns)  
+8665-BUFFY6-Water Buffalo P10-1of3  
+8666-BUFFY6-Water Buffalo P10-2of3  
+8667-BUFFY6-Water Buffalo P10-3of3  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7508  
+  
+TrypleA5781  
+  
+dPBS (for washing & neutralising)A7479  
+  
+Growth MediaA 5728, 5727, 5733  
+  
+p38i (20mM stock)m7354  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     15     x   96-well plates (columns 5-8)  with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator      11:37  am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  5 x 30mL in  5 tubes
+  2. dPBS warmed at 37C (for washing):  5 x 30mL
+  3. dPBS at Room Temperature (for neutralising):  5 x 30mL
+  4. Growth media (for pellet resuspension):  5 x 2mL
+  5. Growth media incl. 10uM p38i (for seeding):  5 x 5mL 
+
+Time that all aliquots were placed in the water bath to warm before use
+11:20  am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+BUFFY, C2C12
+
+4\. Removed vessel(s) from the incubator     13:44  pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     13: 51 - 14:02  pm / 13:57 - 14:10 (c2c12)  
+
+7\. Neutralised with      10    dPBS and combined cell suspension into a    2
+x 50 mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:25 - 14:30   pm 
+
+  
+
+  
+
+DAISY, DOLLY
+
+4\. Removed vessel(s) from the incubator    13 :44   pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:58 - 16:08  pm 
+
+7\. Neutralised with       10   dPBS and combined cell suspension into a     2
+x 50    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:25 - 14:30   pm 
+
+
+
+
+BUFFY, C2C12
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   2 ml (BUFFY) & 3 ml (C2C12)     Growth media +
+p38i     media
+
+11\. Aliquoted     10 ul     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet
+
+Please use this field:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=474112778&range=67:72 to fill in your cell
+counts
+
+  
+
+DAISY, DOLLY
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in      2 ml     Growth media + p38i     media
+
+11\. Aliquoted     20 uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet
+
+Please use this field:
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=474112778&range=67:72 to fill in your cell
+counts
+
+
+
+
+SEEDING
+
+DOLLY12- 3 column
+
+13\. Transferred      654     µl of cell suspension to the pre-warmed  Growth
+media:  
+
+14\. Transferred cell suspension into the pre-gelatin coated     3 x  96wp
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      16:05  \-
+16:35 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+DAISY4 - 3 column  
+
+13\. Transferred       481    µl of cell suspension to the pre-warmed  Growth
+media:
+
+14\. Transferred cell suspension into the pre-gelatin coated     3 x  96wp
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      15:55  \-
+16:25 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+BUFFY6- 2 column
+
+13\. Transferred       191    µl of cell suspension to the pre-warmed Growth
+media:  
+
+14\. Transferred cell suspension into the pre-gelatin coated     3 x  96wp
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      15:25  \-
+15:55 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+C2C12\- 2 column
+
+13\. Transferred        223   µl of cell suspension to the pre-warmed
+Growth media:  
+
+14\. Transferred cell suspension into the pre-gelatin coated     3 x  96wp
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      15:37  \-
+16:07 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary: N/a  
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Nando cells were not confluent. Some of the cells seem to be detached
+
+Obtained much lower cells than expected
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

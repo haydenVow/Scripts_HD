@@ -1,0 +1,302 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Andrew  
+
+
+
+
+Passage BUFFY Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+1868  
+
+10892-BUFFY6127-P9-1of12
+
+10x T175s  
+1871  
+
+10893-BUFFY6127-P9-2of12  
+  
+1874  
+
+10894-BUFFY6127-P9-3of12
+
+  
+  
+1870  
+
+10895-BUFFY6127-P9-4of12  
+  
+1872  
+
+10896-BUFFY6127-P9-5of12  
+  
+  
+
+10897-BUFFY6127-P9-6of12  
+  
+  
+
+10898-BUFFY6127-P9-7of12  
+  
+  
+
+10899-BUFFY6127-P9-8of12  
+  
+  
+
+10900-BUFFY6127-P9-9of12  
+  
+  
+
+10901-BUFFY6127-P9-10of12  
+  
+  
+
+10902-BUFFY6127-P9-11of12
+
+2x T175s, given to Alex  
+  
+
+10903-BUFFY6127-P9-12of12
+
+
+  
+  
+Passage F_CHOMP07 Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+12415  
+
+10904-F_CHOMP07293-P7-1of10
+
+10x T175s  
+12416  
+
+10905-F_CHOMP07293-P7-2of10  
+  
+  
+
+10906-F_CHOMP07293-P7-3of10  
+  
+  
+
+10907-F_CHOMP07293-P7-4of10  
+  
+  
+
+10908-F_CHOMP07293-P7-5of10  
+  
+  
+
+10909-F_CHOMP07293-P7-6of10  
+  
+  
+
+10910-F_CHOMP07293-P7-7of10  
+  
+  
+
+10911-F_CHOMP07293-P7-8of10  
+  
+  
+
+10912-F_CHOMP07293-P7-9of10  
+  
+  
+
+10913-F_CHOMP07293-P7-10of10
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solutiona7023  
+  
+Growth Mediam10554  
+  
+p38i (20mM stock)m4663  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+1\. Gelatin coated  10 x  T175  flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator 12:37   
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   
+D/F + 20% FBS + p38i: 1x  300 mL  , 1x 10 mL  
+D/F + 20% FBS: 1x  300 mL  , 1x 10 mL
+
+  * Time that aliquot was placed in the water bath to warm before use:  15:43
+
+  
+
+
+
+
+## Thaw and seed vial F_CHOMP07:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 16:15-16:19  
+
+Location where cryovial was collected from:
+
+Vial details:   2  x F_CHOMP07 cryovials at  10M  cells each for a total of
+20M  cells
+
+Brew
+
+Tower/Bucket # 2
+
+Box/Cane # 6
+
+Vial location:E8. E9  
+
+Vial ID(s):12415, 12416  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added 500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected 1 mL of cell suspension & transfer into the pre-warmed 10 mL
+tube of Growth Media. `  
+``7\. Took a 20 uL sample and performed a manual cell count with trypan blue.
+`  
+  
+`Total number of cells/mL: 1,204,000`  
+`Seeding density: 1312500/flask`  
+`Total volume of cell suspension required to inoculate 10x T175s: 10.9 mL``
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  300 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered  30 mL to each pre-coated T175   flask/well, allow to rest in
+the BSC at RT for 30 min 15:19  
+`
+
+`9. Transfered flask/plate(s) to incubate at: `
+
+  * [X]  30ºC, 5% CO2 (mammalian cells) Incubator 116
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+## Thaw and seed vial - BUFFY6:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 16:24-16:29  
+
+Location where cryovial was collected from:
+
+Vial details:   5  x BUFFY6  cryovials at  500 K  cells each for a total of
+2.5M cells
+
+Brew
+
+Tower/Bucket # 6
+
+Box/Cane # 6
+
+Vial location:A6, A7, A8, A9, B2  
+
+Vial ID(s):  
+
+11680-FrzCul-BUFFY6-Vial-12of26
+
+11679-FrzCul-BUFFY6-Vial-10of26
+
+11678-FrzCul-BUFFY6-Vial-9of26
+
+11677-FrzCul-BUFFY6-Vial-8of26
+
+11676-FrzCul-BUFFY6-Vial-6of26
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added 500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected 500uL of cell suspension & transfer into the 10mL pre-warmed
+tube of Growth Media. `
+
+`7. Took a 20 uL sample and performed a manual cell count with trypan blue. `  
+  
+`Total number of cells/mL: 168,000`  
+`Seeding density: 162,000/flask`  
+`Total volume of cell suspension required to inoculate 10x T175s: 9.643 mL`
+
+`8. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  300 mL of pre-warmed Growth Media (prepared in Step 2).
+Remaining cell suspension was used to inoculate a further 2xT175 flasks that
+will be used for cell expansion for a different experiment. `
+
+`9. Transfered  30 mL to each pre-coated T175   flask/well, allow to rest in
+the BSC at RT for 30 min 17 : 00 - 17:30 pm `
+
+`10. Transfered flask/plate(s) to incubate at: 17:30`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) (Incubator 119)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

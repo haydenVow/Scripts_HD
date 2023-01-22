@@ -1,0 +1,180 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+1 x 4CF6401-DOLLY12-Sheep P12-1of196 WP
+
+6424-DOLLY12-Sheep P13-1of2
+
+6432-DOLLY12-Sheep P13-2of2
+
+  
+  
+7 x T175s6394-DOLLY12-Sheep P12-1of7  
+6395-DOLLY12-Sheep P12-2of7  
+6396-DOLLY12-Sheep P12-3of7  
+6397-DOLLY12-Sheep P12-4of7  
+6398-DOLLY12-Sheep P12-5of7  
+6399-DOLLY12-Sheep P12-6of7  
+6400-DOLLY12-Sheep P12-7of7  
+  
+  
+
+
+
+
+Growth Media:
+
+  * E8_9C
+  * E8_10C
+  * E8_11C
+  * E8_11E
+  * D/F+20%FBS+1XP/S+P38i (10uM) 
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Moved plated zein to BSC. Aspirated media from scaffold pieces. Left lid
+ajar for media to evaporate during passage. 12:05
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   270  mL
+  2.  dPBS (for washing and neutralising):   340  mL
+  3. Growth media (D/F for pellet resuspension):   7  mL 
+  4. Growth media (9C for pellet resuspension):   10  mL 
+  5. Growth media (9C for seeding):   3  mL 
+  6. Growth media (10C for seeding):   3  mL 
+  7. Growth media (11C for seeding):   3  mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+11:40 am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   200  mL tryple to 4CF and 10 mL tryple to each T175 and incubated
+at 37˚C.
+
+  1. Tryple 4CF timestamp: 12:22 - 12:35
+  2. Tryple T175 timestamp: 12:29 - 12:52  (Cells taking unusually long time to detach - checked at 12:45 but not ready yet)
+
+7\. Neutralised 4CF with   200 mL   dPBS and combined cell suspension into  8
+x 50 mL tubes. Neutralised T175s with 10 mL dPBS and combined cell suspension
+into 4 x 50 mL tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. 4CF: 12:45 - 12:50
+  2. T175: 13:02 - 13:07
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended 4CF pellet in   10  mL  D/F growth media and resuspended T175
+pellet in 7 mL 9C growth media
+
+11\. Aliquoted   2 x 100 uL (4CF) & 1 x 20 uL (T175)  of resuspended cells
+into a microcentrifuge tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1. Total cell number (4CF) was: 14,680,000
+  2. Total cell number (T175) was: 4,446,000  
+These cell count numbers are a lot lower than expected. This may have been due
+to uneven seeding of the 4CF (noted in this lab book entry: https://au-
+mynotebook.labarchives.com/) and low confluence of T175s seen on Saturday
+(noted in this lab book entry: https://au-mynotebook.labarchives.com/). Flasks
+were checked after Tryplisation and showed minimal cells remaining attached.
+Decided to do 0.7M cells/scaffold rather than 0.8, take out one media
+condition (11E) and go down one rep from 4 to 3.
+
+
+
+
+13\. Re-centrifuged tubes to achieve a higher concentration of cells/mL to
+allow for scaffold seeding (2.5 mL for 9C pellet, 650 uL for D/F pellet)
+
+14\. Transferred   119  µl/well of ACF cell suspension and   102  µl/well of
+D/F cell suspension to the pre-plated zein scaffolds in the 96WP (700K cells
+per scaffold piece)
+
+16\. Left at RT in the BSC for 30 min to allow cells to settle   15:00  \-
+15:30
+
+17\. Added warmed 9C, 10C, 11C, and D/F media to zein scaffolds according to
+plate map up to 230 uL of media per well.
+
+18\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryple4008  
+dPBS (for washing & neutralising)4218  
+Growth Media  
+  
+p38i (20mM stock)3978
+
+
+  
+  
+Observations/Summary:
+
+Cells harvested from 1 x 4CF (in 9C medium) and 7 x T175s
+(D/F+20%FBS+1xP/S+P38i) and seeded onto zein pieces.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because...
+      * Expected far higher cell counts. Had to adjust experimental design on the spot to work with the cell numbers we achieved
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+4CF  
+
+T175s
+
+

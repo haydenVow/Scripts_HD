@@ -1,0 +1,134 @@
+
+
+[Day 1] Revive DOLLY12 Fibroblast cells
+
+Revive DOLLY12 F_WCB (1M cells) cells as per SOP_Thawing Cells Into Adherent
+Culture V_02 into 1 x T175 flask (seeded at ~7,000 cells/cm2)
+
+Growth Media = DMEM/F12 + 20% FBS + 1X P/S
+
+*Note that these cells were revived as part of EPIC 17048 Conditions for optimal fibroblast aggregates
+
+[Day 2] 50% Feed DOLLY12 fibroblast cells
+
+Growth Media = DMEM/F12 + 20% FBS + 1X P/S
+
+50% feed flask with warm growth media
+
+[Day 3] Passage DOLLY12 Fibroblast cells, seed at 7,000 cells / cm2
+
+Harvest cells as per SOP_Passaging Adherent Cells V_04, seeding at least 1x
+T25 at ~7,000 cells/cm2. Harvest this T25 flask to sort at Garvan
+
+*This T25 flask was seeded from remaining cells as part of the passage for EPIC17048 Conditions for optimal fibroblast aggregates
+
+[Day 7] Fill 4x 384 well plates with Growth Media  
+
+Growth Media = DMEM/F12 + 20% FBS + 1X P/S
+
+*Fibroblast cells can adhere to growth surfaces without gelatin so no need to pre-coat 384 well plates.
+
+[Day 7] Prepare DOLLY12 fibroblast cells for FACS sorting
+
+Prepare 1 Styrofoam box to transfer to the Garvan Institute.
+
+  1.  Box with the 4x pre-growth media-filled 384-well plates, parafilmed, an ice pack, Hoechst (ddH20), extra FACS Buffer (PRF DMEM/F12 + 2% FBS), tube containing cells, 4x parafilm sheets for sealing plates closed (4 need, 4 excess) and spare tubes for the operator. 
+  2. Harvest cells from 1x T25 flask (passaged on Day 3) as per SOP_Passaging Adherent Cells V_04.
+
+Once cell count is performed,
+
+  1. Prepare at least 5 mL growth media (DMEM/F12 + 20% FBS + 1X P/S) and keep the media at 4ºC.
+  2. Discard the supernatant carefully re-suspend the cells in 3 mL growth media (4ºC) inside a 15 mL tube, label the tube with "DOLLY12_F" and today's date
+  3. Place the tube containing the cell suspension on ice for transport to the Garvan for FACS
+
+[Day 7] Transport cells to Garvan, & FACS sort into 4 x 384-well plates.
+
+Transport cells to Garvan Institute.
+
+For FACS operator to do:
+
+  1. Collect the entire 3 mL cell suspension in Growth Media (DMEM/F12 + 20% FBS + 1X P/S). Sample name = DOLLY12_F
+  2. Add Hoechst (1:100) (30 µL) to the sample tube and mix well.
+  3. Incubate at RT for 10 min.
+  4. Centrifuge at 300 x g for 5 min at 4ºC.
+  5. Aspirate supernatant. Add cold FACS Buffer (PRF DMEM/F12 + 2% FBS) to the pellet (without dislodging it).
+  6. Centrifuge at 300 x g for 5 min at 4ºC.
+  7. Aspirate supernatant carefully from the tube.
+  8. Resuspend pellet in 1000µL FACS Buffer (PRF DMEM/F12 containing 2% FBS).
+  9. Sort cells based on forward and side scatter and then PI- & Hoechst+ into individual wells of 4 x 384-well plates. (1 cell per well)
+  10. After sort, parafilm plates and then close with lid. Parafilm the edges of the sealed plates.
+  11. Centrifuge plates at 300 x g for 10 min at RT at the Garvan.
+  12. *Keep plates incubating at 37ºC until transport back to VOW lab
+
+[Day 7] Transport back to VOW HQ, Incubate at 37ºC.
+
+Transport in a Styrofoam box WITHOUT an ice pack (remove ice pack so box is ~
+RT) back to VOW HQ. Leave plates to incubate at 37ºC degrees, 5% CO2, in VOW
+Top Binder (Library lab) incubator.
+
+[Day 8] Monitor Growth at 24 hours
+
+Use the Zaber to image 4x 384 plates
+
+[Day 8] Feed plates (top up)
+
+[Day 9] Monitor Growth at 48 hours
+
+Use the Zaber to image 4 x 384 plates
+
+[Day 10] Monitor Growth at 72 hours
+
+Use the Zaber to image 4 x 384 plates
+
+[Day 11] Monitor Growth at 96 hours
+
+Use the Zaber to image 4 x 384 plates
+
+[Day 14] Feed cells in 384-well plates (top up)
+
+[Day 14] Monitor clones on Zaber
+
+Use Zaber to scan 4x 384-well plates. Generate a picklist based on confluence
+and morphology of cells within wells.
+
+[Day 15] When colonies reach 90-100% confluence, expand best growing clones to
+96-well plates (Maximum 2x 96-well plates total [192 Clones]
+
+Growth Media: DMEM/F12 + 20% FBS + 1X P/S
+
+[Day 16] Feed cells in 96-well plates
+
+[Day 17] When colonies reach 90-100% confluence, expand best growing clones to
+24-well plates (Maximum 4 x 24-well plates total [96 Clones])
+
+Growth Media: DMEM/F12 + 20% FBS + 1X P/S
+
+[Day 18]  Feed cells in 24-well plates
+
+[Day 20] When colonies reach 90-100% confluence, expand best growing clones
+(16 max) to 6-well plates (Maximum 4 x 6-well plates)
+
+Growth Media: DMEM/F12 + 20% FBS + 1X P/S
+
+[Day 21] Feed cells in 6-well plates
+
+[Day 22]  When colonies reach 90-100% confluence, expand best growing clones
+(18 max) to T25 Flasks (Maximum 18 x T25 Flasks Total)
+
+[Day 23] Feed cells in T25 flasks
+
+[Day 24] When colonies reach 90-100% confluence, expand best growing clones
+(12 max) to T75 Flasks (Maximum 12 x T75 Flasks Total)
+
+[Day 25] Feed cells in T75 plates
+
+[Day 26] When colonies reach 70-90% confluence, expand best growing clones (6
+ma) to T175 Flasks (Maximum 6 x T175 Flasks Total)
+
+[Day >26] Expand best colonies to 2CF/4CF to generate MCB and take small
+sample of cells for fibroblast staining.
+
+[Day >26] Fix, stain and image fibroblast cells to determine fibrogenic
+purity.
+
+

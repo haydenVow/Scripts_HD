@@ -1,0 +1,177 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To determine whether supplementing cells in culture with glucose and ala-gln
+will increase maximum cell density in 50/50 RPMI/CHO Nunvonis suspension
+medium
+
+
+Hypothesis
+
+
+That one of the five feeding schedules will result in a higher maximum density
+than we have previously observed in culture with 50/50 RPMI/CHO Nunvonis
+suspension medium
+
+
+Technical Gap
+
+
+We have seen improved maximum density through increasing the concentration of
+glucose and ala-gln/L-glutamine (EPIC31429). We have yet to see if topping up
+glucose and ala-gln levels as they are depleted by growing cells can further
+improve maximum density.
+
+
+Method/Procedure
+
+
+Brief research summary (from background section)
+
+  * L-Glutamine and glucose tend to decrease in a similar fashion
+  * L-Glutamine and Ala-Gln typically fall by 1 mM per day in batch culture in bioreactors
+  * Cell growth appears to be negatively impacted when L-glutamine reaches ~1-2 mM
+  * The rate of glucose depletion seems to be a lot more varied than L-glutamine/Ala-Gln 
+  * MFG have observed a general glucose depletion rate of 1 g/L 
+  * We know from the day 0 supplementation results that higher levels of Ala-Gln (>4mM) do not appear to be detrimental to cell growth, however higher levels of glucose can be harmful (> 8g/L). 
+  * HiMedia top up their glucose & L-glutamine when glucose levels fall to 3 g/L, and they start adding their "feed" supplement from day 3 and then every 48 hours after that 
+
+Overview of feeding schedule conditions
+
+  * Starting concentration of ala-gln is 4 mM (from the day 0 supplementation results)
+  * Starting concentration of glucose is 7.4 g/L (from the day 0 supplementation results)  
+  
+
+  * Condition 1: feed every 48h (starting day 3)  
+    * Supplement with 2 mM Ala-Gln 
+    * Supplement with 2 g/L glucose 
+  * Condition 2: feed every 72h (starting day 3)  
+    * Supplement with 3 mM Ala-Gln 
+    * Supplement with 3 g/L glucose
+  * Condition 3: feed every 72h (starting day 3)  
+    * Supplement with 3 mM Ala-Gln 
+    * Supplement with 2 g/L glucose 
+  * Condition 4: base feeding schedule off glucose readings on urine test kit and assume glucose levels are at higher end of scale (testing from day 1)  
+    * Test glucose levels daily 
+    * When glucose falls into 2.5-5 g/L range, supplement with 2 g/L glucose 
+    * Supplement with the appropriate amount of Ala-Gln based on 1 mM per day consumption rate 
+  * Condition 5: base feeding schedule off glucose readings on urine test kit and assume glucose levels are at lower end of scale (testing from day 1)     
+    * We will test glucose levels daily 
+    * When glucose falls into 2.5-5 g/L range, supplement with 4 g/L
+    * Supplement with the appropriate amount of Ala-Gln based on 1 mM per day consumption rate 
+  * Control 1: No feeding
+    * Growth medium = 50/50 RPMI/CHO Nuvonis growth medium (with glucose, ala-gln, & HT) 
+  * Control 2: No feeding
+    * Growth medium = 50/50 RPMI/CHO Nuvonis growth medium (with glucose, ala-gln, without HT) 
+
+
+DayTaskNotesReview comments  
+D-1 20 July
+
+  * Prep stocks of glucose and ala-gln 
+  * Prep growth media
+
+  
+  
+  
+D0 21 July
+
+  * Seed 28 x E125s with cells from 50/50 RPMI/CHO continuous culture
+
+  
+  
+  
+D1 22 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 and FS5 
+  * Top up glucose & ala-gln if glucose test result is in 2.5-5 range
+
+  
+  
+  
+D2 23 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+
+  
+ \- Add to tasks - add glucose and ala-gln to condition FS1  
+D3 24 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range
+  * Add glucose & ala-gln to conditions FS1-FS3
+
+  
+ \- Should be add glucose and ala-gln to FS2 and 3  
+D4 25 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+
+  
+ \- Add to tasks - add glucose and ala-gln to condition FS1  
+D5 26 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+  * Add glucose & ala-gln to condition FS1
+
+  
+ \- Remove the task add glucose to condition FS1  
+D6 27 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+  * Add glucose & ala-gln to condition FS2-FS3
+
+  
+ \- Should be add glucose and ala-gln to conditions FS1-FS3  
+D7 28 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range
+  * Add glucose & ala-gln to condition FS1
+
+  
+\- Reomve tasks to add gluocse & ala-gln to FS1  
+D8 29 July
+
+  * Cell count all flasks 
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+
+  
+ \- Add to tasks - add glucose and ala-gln to condition FS1  
+  
+D9 30 July
+
+  * Cell count all flasks
+  * Glucose strip test conditions FS4 & FS5 
+  * Top up glucose & ala-gln in FS4 & FS5 flasks if glucose test result is in 2.5-5 range 
+  * Add glucose & ala-gln to condition FS1-FS3
+
+  
+ \- Should be add glucose and ala-gln to FS2 and 3  
+  
+D10 31 July
+
+  * Cell count all flasks 
+  * If any flasks are still yet to reach maximum density, keep going on schedule. Any flasks that have reached maximum density can be discarded. 
+
+  
+  
+
+

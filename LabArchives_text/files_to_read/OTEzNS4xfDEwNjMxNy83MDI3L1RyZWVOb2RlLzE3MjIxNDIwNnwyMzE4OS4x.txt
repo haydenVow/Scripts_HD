@@ -1,0 +1,50 @@
+  
+  
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To perform a 12-factor DSD to determine the impact of 12 media ingredients on
+the growth of Nuvonis quail suspension cells
+
+
+Hypothesis
+
+
+We hypothesise that >1 ingredient at the levels tested will have a
+significantly positive impact on Nuvonis quail suspension cell growth
+
+
+Technical Gap
+
+
+We have determined that Nuvonis quail suspension cells grow in a 1:1 mixture
+of RPMI and HyCell CHO media (see report). However, a high level of
+variability was seen between replicates, and we also need to further reduce
+the concentration of HyCell CHO due to it's proprietary nature and cost. We
+therefore want to screen a number of ingredients to improve the consistency
+and rate of proliferation of cells in a RPMI/HyCell mix.
+
+
+Method/Procedure
+
+
+  1. D0: Prepare working stocks of each factor 
+  2. D0: Perform media mixing on OT2 to generate 29 media conditions. Mix control media conditions manually. 
+  3. D0: Add media to plates on OT2 and seed cells manually 
+  4. D0: Image plates on Zaber (phase, 5X)
+  5. D2: Image plates on Zaber (phase, 5X)
+  6. D5: Perform live/dead stain and dilutions on OT2.
+  7. D5: Image plates on Zaber (phase + AF488 + DAPI, 5X)
+  8. D5: Run images through Mia Analysis macro for suspension cells 
+  9. D6: Export macro output to spreadsheets to determine cells/mL. Perform statistical analysis in Prism. 
+
+
+
+
+DSD Spreadsheet
+https://docs.google.com/spreadsheets/d/1W7sB074YW1TVqrsUGhMeOTvBtdr3uOholthzvtrJFWM/edit#gid=277141572
+
+

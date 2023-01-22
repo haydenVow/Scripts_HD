@@ -1,0 +1,148 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175s8876-F_CHOMP_09-Crocodile P8-1of2  
+T175  
+9012-F_CHOMP09-Crocodile P9-1of2  
+  
+8877-F_CHOMP_09-Crocodile P8-2of2  
+9013-F_CHOMP09-Crocodile P9-2of2  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleAliquot 7592  
+  
+dPBS (for washing & neutralising)Mix 7382  
+  
+Growth Medium: DMEM/F12 + 20% FBS + 1X P/S  
+Mix 7929, Mix 7967  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   20  mL in   1 x 50 mL  tube
+  2.  dPBS (for neutralising & washing):   20  mL
+  3. Growth media (for pellet resuspension):   5  mL
+  4. Growth media (for seeding):   90 - 120   mL
+    1. Note: I estimate that we will harvest ~4M cells, which can go into ~3 x T175s. Want to seed as close as possible to 7000 cells/cm2.
+
+Time that all aliquots were placed in the water bath the warm before use
+15:35  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+3\. Removed vessel(s) from the incubator     15:51  
+
+4\. Washed the vessel(s) with 10 mL per flask dPBS (warmed).
+
+5\. Added   10  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     16:10 - 16:22      
+
+6\. Neutralised with   10 mL per flask   dPBS and combined cell suspension
+into   1 x 50 mL  tube.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:31 - 16:36    
+
+
+
+
+8\. Aspirated the supernatant.
+
+9\. Resuspended pellet in   5  mL   growth   medium    16:52  
+
+10\. Aliquoted   20 uL  of resuspended cells into a microcentrifuge tube for
+cell count.
+
+11\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:     2,460,000      (average of 2 cell counts)  
+
+  2. Volume of cell suspension required for subculture was:     4.9915uL (all cells being seeded)   
+  3. Cell density per vessel:   7000 cells/cm2     
+  
+Note: T175s are seeded with 1,225,000 cells per flask, so divide your total
+cell count by 1,200,000 to see how many T175 flasks you need to seed. Round
+down if you get between .1 and .5, and round up if you get between .6 and .9.
+E.g. if you get 4,000,000 cells, 4,000,000/1,225,000 = 3.26 therefore you
+would seed 3 x T175s.
+
+
+
+
+12\. Transferred    5uL   µl of cell suspension to the pre-warmed   60 mL
+Growth medium
+
+13\. Transferred cell suspension into   2x T175  vessels.
+
+14\. Transferred vessel(s) to incubate at:  17:50  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Observations/Summary:
+
+A lower cell count was measured than expected. The two cell counts were
+consistent and the empty flask was checked to make sure there was not a
+significant number of cells left behind.
+
+10x Magnification, Phase  
+
+4x Magnification, Phase  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8876: https://mia-capture.vow.tools/#/session/recGCrZ1FLyGT9pvN/images
+
+8877: https://mia-capture.vow.tools/#/session/recGCrZ1FLyGT9pvN/images
+
+

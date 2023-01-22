@@ -1,0 +1,154 @@
+Aim
+
+
+To further explore potential biomaterial candidates
+
+
+Hypothesis
+
+
+Due to the different properties required in the final scaffold, more than one
+biomaterial will be needed to create the final bioink.
+
+
+Method
+
+
+1\. Hydrate various biomaterials.
+
+2\. Add in different additives to adjust gelling temperature and stability in
+liquid.
+
+3.Cast in moulds/extrude and set.
+
+3a. Determine resolution of print, idea of viscosity, shear thinning
+
+3\. Cut slices and determine porosity, diffusion ability.
+
+
+Experiment and Results
+
+
+Materials
+
+  
+BulkCold StabiliserHeat StabiliserPorogen  
+  
+w/vAgaroseMethylcelluloseChitosan  
+Alginate wo Ca2.00%1.50%4.00%4.00%  
+Alginate w Ca2.00%1.50%4.00%4.00%  
+Alginate wo Ca4.00%1.50%4.00%4.00%  
+Alginate w Ca4.00%1.50%4.00%4.00%  
+Chitosan1.00%1.50%4.00%4.00%  
+Carageenan0.75%1.50%4.00%4.00%  
+Glucomannan2.50%1.50%4.00%4.00%  
+Xanthan Gum0.50%1.50%4.00%4.00%  
+  
+Mass required
+
+  
+Volume (mL)30  
+  
+  
+  
+Bulk (mg)Agarose (mg)Methylcellulose (mg)Chitosan (mg)  
+Alginate wo Ca6004501,2001,200  
+Alginate w Ca6004501,2001,200  
+Alginate wo Ca1,2004501,2001,200  
+Alginate w Ca1,2004501,2001,200  
+Chitosan3004501,2001,200  
+Carageenan2254501,2001,200  
+Glucomannan7504501,2001,200  
+Xanthan Gum1504501,2001,200  
+  
+Results
+
+  
+Cast/Print  
+  
+  
+  
+  
+Set  
+  
+  
+  
+  
+Ease of hydrationClarity (0hr)ResolutionViscosityDispensing Ease wo
+needleShear thinningElasticity StrengthStability in H2OBrittleness  
+Alginate 2% wo CaGluggy and not completely dissolvedTranslucent to opaque like
+Clag GlueGood - From syringeVaseline LikeMedium ResistanceTBDSlight
+elasticityRubbery with light touchesDissolvedStill soft  
+Alginate 2% w CaGluggy and not completely dissolvedTranslucent to opaque like
+Clag GlueGood - From syringeVaseline LikeMedium ResistanceTBDHas recoilCan be
+handled easilyStable Brittle when rapidly pulled  
+Alginate 4% wo CaGluggy and not completely dissolvedTranslucent to opaque like
+Clag GlueGood - From syringeVaseline LikeMedium to high resistanceTBDSlight
+elasticityRubbery with light touchesDissolvedStill soft  
+Alginate 4% w CaGluggy and not completely dissolvedTranslucent to opaque like
+Clag GlueGood - From syringeSoftish rubberMedium to high
+resistanceTBDRecoilsStrongStableBrittle when rapidly pulled  
+CarageenanGluggy and not completely dissolvedTranslucent to opaque like Clag
+GlueGood - From syringeTacky Rubber  
+TBDSlight ElastictyRubbery with light touchesShape began to dissolve.
+Excessive swellingStill soft  
+GlucomannanGluggy and not completely dissolvedTranslucent to opaque like Clag
+GlueGood - From syringeVaseline LikeMedium ResistanceTBDSlight to low
+elasticityRubberyStable but swollenSoft  
+Xanthan GumGluggy and not completely dissolvedTranslucent to opaque like Clag
+GlueGood - From syringeVaseline LikeLow to medium resistanceTBDSlight
+elasticityLess rubbery  than carageenanMostly dissolvedA bit softer than
+carageenan  
+  
+Observations
+
+Hydrating materials - Chitosan did not dissolve and remained in large
+particulates, as such for the time being I decided to exclude this from the
+biomaterial experimental until its dissolution can be optimised. The order of
+hydration is important to ensure a smooth consistency, in this experiment I
+hydrated them as such: 1. Agarose (in microwave) 2. Methyl Cellulose (stirred
+in while warm) 3. Biomaterial candidate (stirred in while warm), during this
+process the biogels were kept in a 40C water bath. Once mixed together, they
+were left at room temp overnight to see if further hydration occurs.
+Improvements to be made: Change the order of hydration to the following: 1.
+Methyl cellulose (stirred in chilled ice water) 2. Bring to 60C and add in
+Agarose (dissolve in microwave) 3. Biomaterial candidate.
+
+Hydration overnight - Biogels hydrated further overnight to create a
+consistent biogel. The agarose component did set the biogels to some degree
+but this was easily broken by stirring.
+
+Dispensing - The biogels could be dispense through an 18G needle, however a
+large amount of force was needed with some shear thinning occurring. When
+needle was removed, biogels were able to dispense easily from the syringe
+creating noodle like extrusions.
+
+Stability in water - Glucomannan strands left overnight in water retain
+structure but became swollen, when they were removed from the solution they
+collapsed into a viscous puddle. Strands of the remaining biomaterials were
+created and placed in a 24WP and left in water overnight, although after 1 hr
+swelling was observed in all strands except for Alginate 2 & 4% crosslinked
+with calcium. After 2 hrs the uncrosslinked alginate strands had already begun
+to break apart and dissipate into the water, the other biogels stayed in
+strand form but became swollen.
+
+After 24 hrs, only the crosslinked alginate retained its shape with acceptable
+levels of swelling. The carageenan swelled into a mass but retained its
+structure to some degree, the xanthan gum began to break apart. From these
+observations, it seems a crosslinker is required to stabilise the gels in
+liquid.
+
+  
+
+
+Conclusion
+
+
+Candidates to be taken forward:  
+\- Alginate 2% Crosslinked
+
+\- Glucomannan
+
+\- Carageenan
+
+

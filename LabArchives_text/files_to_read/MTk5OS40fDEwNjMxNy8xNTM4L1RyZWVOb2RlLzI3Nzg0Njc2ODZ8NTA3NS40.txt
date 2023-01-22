@@ -1,0 +1,132 @@
+
+
+Meeting agenda:
+
+  * To review progress based on the last meeting
+
+(see meeting notes here https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NTQwLjgwMDAwMDAw[…]A2MzE3LzQxNi0xNjk0L1RyZWVOb2RlLzEzOTQzNDMzfDEzNzIuOA==
+)
+
+  * To discuss previously raised blockers described here: https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjYwLjB8MTA2MzE3LzIwMC00MjQvVHJlZU5vZGUvMzI0MjM4MzkzfDY2MC4w
+  * To discuss if there are any new or current blockers in getting the micro carrier pipeline up and running i.e. what work has been de-prioritised, what are the next steps? and are we on track for having a functional high-throughput pipeline by Q3?
+
+  
+  
+Meeting participants:  
+Tom, Nathan, Derek, Stanley, Chris, Ella, Avani, Bec, Marie  
+  
+  
+Actions from previous meeting:
+
+1) Test that Zaber-MIA integration works well for microcarrier images
+(integration due to be set up within 1 week)
+
+2) Continue optimisation experiments on the Opentrons using a multi-channel
+p300, and compare this to manual handling with a p1000. This will allow us to
+see whether we can perform these steps with a p300 multi-channel on the OT2 to
+improve throughput rather than using the p1000 single channel pipette.
+
+3) Validate trypan blue for cell count analysis using the Zaber
+
+4) 3D print a 96-well plate sized insert for the zaber, which will hold
+multiple haemocytometer slides (test this, if successful print more, or
+outsource and have 3D printed using metal, if not successful order an insert
+from Zaber ~300AUD per insert)
+
+5) Test cell counting of cells on microcarriers using the insert set up on the
+zaber using already established region method of imaging (how repeatable is
+this process? how comparable is it to manual cell counts? how much time is
+saved?)
+
+  
+  
+Progress on previous meeting actions:
+
+  
+(1) MIA integration - complete and working well  
+  
+  
+(2) We found that cells do not proliferate in acf so there has been no
+requirement for a highthroughput harvesting strategy  
+  
+INSTEAD it was decided that optimising highthroughput culturing methods
+(erlenmyer > 50ml tubespins) would be a better use of time (see later notes)  
+  
+(3-5)
+
+Haemocytometer inserts have been 3D printed however these have yet to be
+tested with cells on the zaber.  
+  
+  
+What are the current blockers?
+
+To achieve a more highthroughput culturing method with microcarriers we can
+move to 50ml spin tubes, instead of erlenmyer flasks. Wherein, it is deasible
+to fit 88 spin tubes on one shaker system.  
+  
+Blockers to moving to 50ml spin tubes currently:
+
+Tube racks suitable for our current shaking systems
+
+Note - tube spins need to shake higher than erlenmyer flask
+
+Actions for optimising highthroughput culture:  
+\- Try to attach big orange/blue racks to shakers we have now - if this works
+>  
+\- Order more of the big orange/blue racks then fit them to the platform -
+home build to our current shakers  
+\- If we want to prevent tube rattling - wrap tubes with parafilm  
+\- If our tube racks and diy attachment to shakers does not work then we may
+need to buy a specific shaker platform adaptor for 50ml tube spins - with a
+metal rack that screws into plate to hold tubes - entire rack can rotate to
+angle tubes - to increase sa for mass transfer (issue is this will come with
+high thermo prices)  
+  
+Potential blockers down the line:  
+\- shaker availbility, we have 6 shakers, cannot be used for erlenmyers and
+tube spins at the same time due to difference in shake speed rrequirements,
+may need to purchase more shakers  
+\- when handling 88 tubes a blocker would be centrifuge space and timepoint
+sampling (processes which would be much easier if we instead moved to 24-well
+deep well plate systems)  
+  
+  
+Questions:
+
+Can we use the opentrons for timepoint sampling? 6 tubes can fit currently
+
+  
+
+Decision:  
+  
+We will push forward with 50ml spin tubes instead of 24-well deep plates for
+now. This is largely due to the expense of these systems and requirement for
+higher shaker speeds (above the limit of our current shaker platforms).
+
+24-well deep well plates:  
+  
+11ml per well, sit on shaker platform in clamp system (2.5 grand), 40 dollars
+per plate (disposable), shake speed 400rpm our systems only go up to 300rpm,
+shake tubes only need 200rpm so this is why we have moved to this. (Blockers
+are expense and shake systems)
+
+Diameter of vessel decreases need a higher shaking energy to keep cells
+suspended - shakers specifically designed for this
+
+  
+
+Actions on haemocytometer cell counting (follow on from previous meeting
+actions):  
+  
+\- Test use of haemocytometer in inserts on the zaber and define positions on
+the zaber (assign as a 384 well plate - and try to match up to where the
+haemocytometer area of interest is - find this well of interest) NATHAN AND
+JARED TODAY 01/06/2021  
+  
+\- If this works will test cell count with sample from biost and using the
+cell count tool in MIA (try with the 5x)
+
+  
+
+

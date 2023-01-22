@@ -1,0 +1,184 @@
+
+
+Batch 22 Overview
+
+## Original Batch 22 Plan:
+
+Questions we were looking to answer with Batch-022:
+
+  1. Can we achieve consistent performance in roller bottles?
+
+  2. Does the timing of treatment affect the frequency of peeling?
+
+  * Roller bottles would be treated at different points of confluence to see if this affects how fast they peel
+
+  * 5 groups: (6x roller bottles each)
+
+    * Treated at 70-80% confluence
+
+    * Treated at 80-90% confluence
+
+    * Treated at 100% confluence
+
+    * Treated at 7 days (our usual treatment time)
+
+    * Treated at 8 days (extended culture time used as a positive control for over-confluence)
+
+  3. Is TGFb beneficial in treatment, or can we achieve similar results with Vitamin C only?
+
+  * Each of the 5 main groups (above) was split into 2 subgroups (3x roller bottles each)
+
+    * Treated with TGFb and VitC
+
+    * Treated with VitC
+
+  * Roller bottles would be monitored daily for confluence and each main group would be treated on the day the correct confluence was reached
+
+  
+
+## Events that occurred resulting in a change of plans:
+
+Day 1 (12-24h after seeding the bottles)
+
+  * 5 bottles on the right-hand side of the RP80, in a vertical line down the unit, were found to be dislodged from their rolling positions and were stuck between the support rods of the machine. This had jammed the entire right-hand side of the device. No bottles were turning on this side at the time of discovery. The left hand side did not appear to be affected by this issue.
+
+    * Analysis of the google home camera footage of the machine indicated that this issue had occurred mere moments (estimated <30 minutes) before it was identified. For this reason, it was deemed that the bottles could continue to be used in the experiment, but should be kept in their original positions on the RP80 throughout the duration of the batch to ensure that any further issues with this side of the unit are restricted to the same bottles and are traceable to any further observations in these bottles throughout the experiment.
+
+ Day 2
+
+  * Upon microscopic examination of the bottles, it was found that there was large variation in confluence across different bottles, eg. Some had very high confluence and some had very low confluence overall. 
+
+    * As they were supposed to all be the same at this early stage, this finding indicated a serious problem with our seeding practices. It is also important to note that this was the same method use for the previous batches, Batch-020 - 69x bottles, that also peeled early, and Batch-019 - 4x bottles, ¾ peeled early.
+
+    * It is likely that the method of mixing cells with culture medium prior to seeding the roller bottles was the source of this variation.
+
+    * We have redesigned this process to improve our ability to mix the cells and medium to ensure each bottle receives the intended cell number.
+
+  * The variation of cell confluence between the bottles at this early stage meant that our intended plan was not going to work
+
+    * Instead of treating each group from the diagram above on different days, and therefore different confluence levels, it was found that we already had flasks representing most of the intended groups all at the same time on Day 2.
+
+    * We carefully examined each bottle and re-allocated the bottles into new treatment groups:
+
+      * Group 1: Treated at 2 days
+
+      * Group 2: Treated at 7 days (representative of our normal process) 
+
+      * Group 3: Treated at 8 days (positive control) 
+
+Note: Due to our concern over further variation coming from differences in the
+performance of the left-hand and right-hand sides of the RP80, we determined
+that we needed to split the groups across both sides of the unit. This meant a
+further reduction in the treatment groups, to counter this we decided to only
+test one treatment method (TGFb+VitC), leaving out the vitamin C alone
+treatment type altogether. A revised batch plan diagram has been constructed
+and can be found below.
+
+  * Other observations from Day 2:
+
+    * Cell coverage within individual bottles was uneven (top-bottom). 
+
+      * The majority of bottles had high confluence at the bottom of the bottle and lower confluence at the top of the bottle. This suggested that the shelves/rods on the RP80 were not flat, or bowed in the middle once bottles were put on them. 
+
+      * This made the bottom end of the bottles sit slightly lower than the top end, resulting in more cells sticking down in the bottom half because they tend to roll downhill while sticking to the bottle surface.
+
+      * This represents a build/tolerance issue with the current RP80. 
+
+      * The new roly-poly units have already incorporated changes that improve shelf levelling and overall build tolerances and also lock the rods in place in the centre so that they physically cannot sag once the bottles are loaded on.
+
+##  
+
+## Revised Batch 22 plan:
+
+The plan was revised into the following three groups, each with bottles
+representing different confluence levels at the time of treatment with
+TGFb/VitC, see diagram below:
+
+Note: Treatment groups were assigned as equally as possible across the LHS and
+RHS of the RP80 to ensure that if either side failed, the experiment could
+still continue.
+
+* The background colours denote the seeding groups (Bottles were seeded in three groups; Blue = seeding group 1, Yellow = seeding group 2, Green = seeding group 3). The colour of the bottle indicates the confluence observed at Day 2
+
+Roller bottles were monitored daily and signs of peeling for each bottle were
+noted down. Once >50% of the bottle had peeled it was harvested and the
+individual weight recorded so this could be directly compared with the
+starting conditions/confluence of this bottle and patterns could be
+determined.
+
+  
+
+Day 6 (Monday 01/NOV/2021)
+
+  * While conducting the daily inspection of the bottles, we identified sections lacking cells running from top-bottom in most bottles on the right hand side of the RP80. This indicated that the bottles on the RHS had probably experienced additional stoppages or pauses in rotation at the critical time of seeding/cell binding. 
+
+    * This was not detected earlier because we were not rotating the bottles during each inspection up until this point. We were checking the top, middle and bottom sections in single positions around each bottle and assuming that the rotation of the bottle would yield a uniform spread of the cells at the top/middle/bottom. 
+
+  * Finding significant full length areas of lower confluence on the bottles on the right hand side, has caused us to further stratify our groups according to their location (RHS and LHS), with the bottles on the LHS believed to be a more reliable representation of future batches.
+
+  * The revised experiment breakdown in response to this discovery is shown below:
+
+Revised experiment plan using the left-hand side bottles only as main
+experimental group (right hand side bottles were still grown, harvested and
+details recorded but are not seen to be representative of future batches)
+
+  
+
+### Answers to Experimental Questions/Results:
+
+1\. Can we achieve consistent performance in roller bottles? and Does timing
+of treatment affect the frequency of peeling?  
+Yes consistency can be achieved in roller bottles when treated 2 days after
+seeding.  
+Yes timing of treatment does affect the frequency of peeling in roller bottles
+despite varied seeding within and across bottles. The best time to treat
+roller bottles is at day 2.  
+Roller bottles results in each group (Left side only):
+
+Day 2: All of these bottles lasted the entire duration of this experiment and
+produced the highest pellet weights compared to other groups by a significant
+margin.
+
+Day 7: These bottles lasted for varying lengths. Most of the peeled at day 9
+with one bottle lasting the full 17 days. The bottle that lasted 17 days gave
+a high pellet weight with all other bottles producing a weight that was
+approximately half of this. (see table below)
+
+Day 8: Three of these bottles peeled at day 9 with one bottle lasting until
+day 12. Regardless of this slight variation in peeling time, all bottles
+produced low yields.  
+
+3\. Is TGFb beneficial in treatment, or can we achieve similar results with
+Vitamin C only?  
+We were unable to answer this question due to the change in batch plan and
+should be investigated in future batches.
+
+* Graph 1: Pellet weight produced by each group. Error bars display SEM  
+* Graph 2: Number of days in culture for each bottle. Error bars display SEM  
+* Graph 3: Number of days before peeling occurred. Flasks were harvested when 50% of the cell layer had peeled, this is why the days until peeling are sometimes different from the days in culture. Error bars display SEM
+
+NOTE: The left hand side in the main experimental group believed to be
+predictive of future batches. The right had side had a number of complications
+that could have effected the outcome of this experiment which is why there is
+a large amount of variation between the two sides and why the right hand side
+should be observed purely out of interest and not used to predict the outcome
+of future batches.
+
+For more detailed descriptions of the roller bottles/peeling/aggregates over
+the course of the experiment follow this link:
+https://docs.google.com/spreadsheets/d/14U1Bx9jPhw-O1kEH2EF_vIWdIN5b-GtJs3qaDGjMXYU/edit#gid=74142911
+
+Achievements:
+
+  * In the day 2/left side group we managed to consistent produce >1g from each bottle and prevent premature peeling
+  * We identified treatment time can influence the peeling time and therefore the pellet weight of roller bottles. 
+  * We also showed that a >1g pellet weight is achievable with the treatment of TGFb + VitC.
+
+Future Experiments:
+
+  * To confirm that this treatment method works effectively and reproducibly, another experiment should be carried out to try and reproduce this yield
+  * the TGFb + VitC treatment should also be compared to the VitC ONLY treatment to see if this makes a difference in roller bottles. 
+
+  
+
+

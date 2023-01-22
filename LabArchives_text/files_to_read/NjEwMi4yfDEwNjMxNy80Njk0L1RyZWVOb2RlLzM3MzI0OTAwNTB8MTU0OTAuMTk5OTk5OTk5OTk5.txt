@@ -1,0 +1,187 @@
+
+
+## Performed by: Addy, Eva, Shaleen
+
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+8413-DOLLY12-Sheep P10-1of4  
+8414-DOLLY12-Sheep P10-2of4  
+8415-DOLLY12-Sheep P10-3of4  
+8416-DOLLY12-Sheep P10-4of4  
+4 x 96 WP  
+40 x 4 = 160  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM7044  
+  
+dPBSM7046 & M7595  
+  
+PBSTM7043  
+Secondary Antibody Mix (MyoG)  
+S173  
+  
+Secondary Antibody Mix (MF20)S1965  
+  
+DAPI (1:1000)M966  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+2\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  10 µL   Secondary #1   (1:1000  ) +  10 µL   Secondary #2   (1:1000  ) +  10
+mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+3\. Prepared DAPI mix:
+
+  10 mL  PBS +   10 uL  of DAPI (1:1000)
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+MyoG - S1563IgG11:200MyoG - S1731:1000  
+MF20 - S694IgG2b1:50MF20 - S19651:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 11:43 - 11:57 a/pm
+
+ 11:57 - 12:06 a/pm
+
+ 12:07 - 12:21 a/pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  : - : a/pm
+
+Plate 1: 12:30
+
+Plate 2: 12:36
+
+Plate 3: 12:39
+
+Plate 4: 12:42
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution. 13:55 a/pm
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+14:08 - 14:13 a/pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 14:21 a/pm
+
+ 14:24 a/pm  
+
+ 14:27 a/pm
+
+ 14:29 a/pm
+
+  
+
+ 14:34 a/pm
+
+ 14:38 a/pm
+
+ 14:42 a/pm
+
+ 14:44 a/pm
+
+  
+
+ 14:49 a/pm
+
+ 14:51 a/pm
+
+ 14:55 a/pm
+
+ 14:59 a/pm
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+All four plates secondary and DAPI stained.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

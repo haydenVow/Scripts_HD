@@ -1,0 +1,41 @@
+Performed by: LL EC
+Harvested flask ID  
+Harvested flask type  
+Seeded flask(s) ID  
+Seeded flask(s) type  
+  
+  
+10989-Nuvonis Quail Suspension341-P-4of4
+
+  
+E-1251109896-wp (ULA)  
+  
+11097  
+  
+11096  
+  
+11095  
+
+
+Process
+  
+  
+  1. Took 2 x 50 uL aliquots from e-flask culture and performed 2 x cell counts. 
+    * Average cell count was: 35,173,333
+  2. Transferred 1.8 mL culture to 1 x 50 mL tube
+  3. Centrifuged at 500 x g for 5 minutes
+  4. Aspirated 100% of supernatant
+  5. Re-suspended in 6 mL of sterile dPBS (want 10,000 cells per well, so need 50,000 cells per mL in enough volume to seed all wells)
+  6. Set up OT2 deck with media-filled plates and cell suspension 
+  7.   
+
+  8.  ~~Ran cell seeding protocol on OT2  ~~
+    1.  ~~ ~~Start time:~~~~
+    2.  ~~Run time:~~
+      * Note: Observed that OT2 was not releasing droplets of cells - surface tension was too high. Stopped protocol and performed seeding manually with multi-channel pipette. 
+  9. Imaged plates on Zaber microscope (phase, 5X) and ran through ML model. Checked that wells received cells. 
+    * Note: all wells containing ethanolamine (either level) were very dense and we could not see through them. Seems to be too-high concentration, will need to investigate. 
+  10. Moved plates to incubator at 37'C, 5%CO2 (incubator #119, main/library/production lab)
+
+
+ML model output

@@ -1,0 +1,89 @@
+
+
+## Performed by: AV  
+
+  
+
+  
+
+This task should be performed every 2nd or 3rd day, as well as both before AND
+after harvesting
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+10804
+
+#
+
+1  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Sprayed down the sample line end with 70% ethanol.
+  2. Connected a 5 mL sterile syringe.
+  3. Withdrew 1 mL (first-draw)
+  4. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  5. Connected a fresh sterile syringe and withdrew 1 mL of sample (second-draw).
+  6. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  7. Sprayed sample line with 70% ethanol.
+  8. Performed cell count: https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+    * 1st draw: discarded
+    * 2nd draw: 915K cells/mL (1 647 000 000 total)
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsAV  
+  
+Checked by operator initialsN/A  
+  
+Timestamp17:00  
+Notes  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  * Navigated to https://192.168.0.250/ from a web browser window
+  * Logged into the Biostat web app using the details in the operating manual (see reference).
+    1. Username: "admin" (all lower case)
+    2. Password: "709aA0"
+
+  
+
+  * stirring speed: 120 -> 100
+  * pH: 7.60
+  * dissolved oxygen: 59.3
+  * temperature: 37
+
+\- Cell count reduced drastically (from 1.5M cells/mL -> 900K cells/mL)
+
+\- Higher than usual amounts of cell debris present during cell count
+
+\- Continue monitoring over the next few days
+
+\- No observable contamination present
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://ranger.vow.tools/#/session/recQvit595c6DnIIq/images
+
+

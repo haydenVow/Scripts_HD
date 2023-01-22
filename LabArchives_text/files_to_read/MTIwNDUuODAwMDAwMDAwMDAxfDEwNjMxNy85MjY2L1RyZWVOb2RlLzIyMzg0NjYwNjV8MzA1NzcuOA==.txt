@@ -1,0 +1,115 @@
+Key Results
+ Key Result
+
+Relevant      Figure  
+
+Significant        (Y/N)
+
+Test used*  
+
+
+Analysis  
+software  (Prism, JMP)
+
+Significance threshold
+
+(e.g. P≤0.05)
+
+Replicates  
+  
+n=?
+
+Variance  
+** (stdev)
+
+Detected effect size***  
+  
+1.   
+  
+  
+  
+  
+  
+  
+  
+  
+2.  
+  
+  
+  
+  
+  
+  
+  
+  
+3.  
+  
+  
+  
+  
+  
+  
+  
+  
+4.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Concisely state the key results without your interpretations behind it.  
+  
+For example: 'molecule x increased glucose uptake of myoblasts', rather than
+'molecule x increased glucose uptake of myoblasts indicating that glucose
+uptake is controlled by pathway y'.  
+  
+Results should be directly relevant to the aims of the experiment.  
+  
+* Refers to what statistical analysis was performed (e.g. T-test, ANOVA) see guidance page on statistics for help  
+** and *** See the following writeup on communicating your data to calculate
+variance (sdtdev = standard deviation) and effect size  
+  
+
+Why? This format allows the reader to quickly to see and digest the results
+and their significance in an impartial way. Interpretations to the results
+will be added in the Report/discussion.
+
+  
+  
+
+
+Figures
+
+
+Add all figures (graphs, tables, images) into this section with respective
+captions (captions are written below figures for graphs and above for tables).
+
+The figure caption should include the following information: What data is
+being shown and what time point it relates to, how many replicates were used
+n=?, abbreviation meanings, significance threshold e.g. P ≤ 0.05 (if
+relevant), what the error bars represent e.g. std dev, microscope
+magnifications, wavelengths measured at, and dyes used (if relevant), you can
+also put the statistical tests employed here. See example caption here.
+
+For graphs include axis titles with units of measurement, a key, and error
+bars (stdev).  
+  
+Where any conditions significantly different from each other? One way to make
+this quickly apparent on a graph is the use of asterisks and significance
+lines. Wherein if 0 was significantly higher than 300 there would be lines
+linking the two with asterisks above, number of asterisks denote the
+significance threshold i.e.  
+P ≤ 0.05 *  
+ P ≤ 0.01 **  
+P ≤ 0.001 ***  
+
+The following youtube video shows you how to do this.
+
+Why? Visual aids present data more clearly, detailed captions are necessary to
+fully understand what is being shown.
+
+

@@ -1,0 +1,119 @@
+
+
+Seeding
+
+NOTE - When seeding make up at least 3 samples worth of excess cell sup, so as
+not  to run low and run out when seeding final scaffolds (common).  
+  
+NOTE - Seed scaffolds with a volume which is sufficient to cover and saturate
+the sample without liquid run-off. It is suggested that prior to the seed day
+that volumes of media are tested on spare scaffolds to ensure the correct
+volume is employed. For flat, thin, 96-well sized scaffolds 50-60ul volumes of
+cell suspension are used for seeding.  
+  
+NOTE- After cell seeding wait 30min for cells to settle before adding the
+remaining growth media (for 96 wp seeded with 50ul of cell suspension and
+extra 210ul of growth media is added 30min after seeding) - the size of the
+scaffold will influence how much media can be added to the well, see below.
+
+Cell requirements
+
+ Average total cells in suspension : ACF = 41,022,000  Serum = 18,300,000  
+
+Link to harvest lab book: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjIxLjR8MTA2MzE3LzQ3OC9UcmVlTm9kZS8xMzA4Njc5NTQxfDE1NzcuMzk5OTk5OTk5OTk5OQ==
+
+NOTE
+
+Obtained a lower than expected cell suspension. Only 12.975mL remaining,
+however required 13.178 mL.
+
+Therefore we altered the seeding plan, so scaffolds which were supposed to be
+seeded at 2M were actually seeded at 1.7M.  
+
+  
+
+Cell suspension required
+
+Condition ACF   12  well x    0.7 M   cells =    8.4 M cells    : Total cell
+suspension required:   5.436    mL
+
+Condition ACF   12   well x     1 M   cells =    12 M cells    : Total cell
+suspension required:   7.751      mL
+
+Condition ACF   12   well x    1.7M M   cells =    20.4 M cells    : : Total
+cell suspension required:  13.1783      mL
+
+Condition serum   12   well x     1 M   cells =     12 M cells  
+
+  
+
+Media requirements (pre-warmed)
+
+Re-suspension of cell pellet:
+
+(Note: typically between 50 - 60 uL of growth media for pellet re-suspension)
+
+Total media required (condition    ACF 0.7M   ):    12   well x    1   plate x
+0.05  uL growth media =        0.6  mL  
+  
+Total media required (condition     ACF 1M  ):   12    well x     1   plate x
+0.05 uL growth media =       0.6   mL  
+  
+Total media required (condition    ACF 1.7M   ):    12   well x     1   plate
+x    0.05  mL growth media =      0.6    mL  
+  
+Total media required (condition     Serum 1M  ):   12    well x    1    plate
+x    0.05  mL growth media =       0.6   mL
+
+Media top up : 8mL ACF, 3mL Serum  
+
+(Note: typically between 210 - 230 uL of growth media for top up, however it
+can be more or less depending on the size of the scaffold)
+
+Total media required (condition    ACF 0.7   ):   12    well x    1   plate x
+220 uL growth media = 2.6 mL  
+  
+Total media required (condition     ACF 1M   ):   12    well x     1   plate x
+220 uL growth media = 2.6 mL  
+  
+Total media required (condition    ACF 1.7M    ):    12   well x     1   plate
+x   220 uL growth media = 2.6 mL
+
+Total media required (condition     Serum 1M   ):   12    well x    1    plate
+x   220 uL growth media =  2.6 mL
+
+
+
+
+Scaffolds were seeded according the plate maps below, with the exception that
+the scaffolds which were supposed to be seeded with 2M cells/scaffold were
+actually seeded at 1.7M cells/scaffold. This was due to a lower than expected
+cell count.  
+
+  
+
+
+
+
+  
+
+  1. Transfer the above volume of cell suspension into a 15 mL centrifuge tube
+  2. Centrifuge at 650 x g for 5 minutes :    12:40     
+  3. Aspirate supernatant 
+  4. Resuspend cell pellet in the corresponding amounts of media. 
+  5. Seed scaffold with 50 uL of cell suspension and allow to incubate in the BSC for 30 minutes     13:02    
+  6. Top with 230 uL of media and transfer into incubator      13:35      
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...expected more cells from the ACF flask. Therefore we seeded at 1.7M for some of the scaffolds, instead of 2M.  
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+

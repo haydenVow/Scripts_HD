@@ -1,0 +1,299 @@
+
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)  
+  
+6571-DOLLY12-Sheep P16-1of1
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:    200     mL in   Large Urine Pot      tubes
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:     30    mL in    3 x 10mL Centrifuge Tubes     tubes
+  3. Growth media (for neutralizing) 100 mL per g Cytodex 1:     30    mL in    500mL Storage Bottle     tubes
+  4. Poloxamer 188 (for washing microcarriers after Trypsinization),      30    mL in   Small Urine Container     tubes
+  5. Growth media (for pellet resuspension):     2    mL in     500mL Storage Bottle    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+14:55   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+## Remove the flask from incubator
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker
+  3. Restart the shaker
+  4. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+
+
+
+## Sample and Hoescht Stain (Pre Harvest):
+
+  1. Stop the shaker
+  2. Remove the flask from the shaker
+  3. Place culture in BSC after wiping down with an ethanol soaked wipe.
+  4. Aliquot 5 x 20uL of culture suspension into 1 x 96 well plate by sampling from swirling culture suspension.
+  5. Top up wells with 80ul of PBS
+  6. Check wells under microscope to ensure even monolayer of microcarriers. If stacking is observed, mix gently with P200 pipette ensuring no bubbles form.
+  7. Add 2uL Hoescht stain to each well and mix well with P200 ensuring no bubbles form in the process.
+  8. Incubate for 15 mins 15:11 - 15:29.
+  9. Image under 5X under Phase and DAPI channels.
+
+Observation: Five replicates were imaged on PHASE and DAPI channels. Phase
+images depicted a lack of "stretches" of cells across it indicating a lack of
+cells on the carriers. This was then affirmed by switching to DAPI in which
+there were barely any cells on each carrier. Imaging across all five
+replicates indicated that are barely any cells on the carrier.
+
+  
+
+
+
+
+## First wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer 15mL of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer the remaining 15mL half of the fresh, pre-warmed dPBS for prewashing to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 2 minutes
+  2. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  3. Remove the cap and aspirate the supernatant using a serological pipet - keep the tip only 5-10 mm below the surface during this procedure
+  4. Transfer 30mL of the fresh, pre-warmed Trypsin/EDTA solution to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension, then replace the cap
+
+  
+
+
+
+
+## Incubate flask:
+
+  1. Stop the shaker
+  2. Remove the flask from the BSC and transfer it back to the shaker
+  3. Restart the shaker at the `speed required for detachment` \- see the table below.
+  4. After 10` `minutes, stop the shaker
+  5. Remove the flask from the shaker
+  6. Restart the shaker
+  7. Wipe down the flask with an ethanol-soaked wipe and place it in the BSC
+
+Flask sizeShaking speed on MaxQ shaker with 19 mm orbit (RPM)  
+  
+E125
+
+123  
+E250112  
+E500104  
+E100090  
+E200081  
+  
+Speeds based upon calculator here:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit#gid=1121358223&range=A1
+
+
+
+
+
+
+
+## First wash to recover additional cells:
+
+  1. Cells were not neutralised.
+  2. 15 mL of Poloxamer 188/dPBS solution was added to the flask using a serological pipet - wash down the insides to wash any stuck microcarriers back into the bulk suspension.
+  3. Allow the microcarriers to settle for at least 2 minutes
+  4. Gently tilt the flask to an angle of approximately 30 degrees from vertical
+  5. The cap was removed and 5mL of supernatant was discarded in the waste media bottle.
+
+After discussing with Tom, the harvest was halted due to the lack of cells on
+microcarriers as evidenced by the images as well as the fact that "cell
+suspension" was discarded in the waste. It was discussed that the poloxamer
+faciliated harvest will be reattempted tomorrow using the E250 flask
+equilibrated today with fresh carriers and growth media. Cells will be
+provided by Kylie, discussed with Nathan about overseeding flask tomorrow,
+doing a sample and stain tomorrow evening or Friday morning and then
+subsequently harvesting on Friday.
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Trypsin104,44,18  
+Poloxamer 1883252  
+dPBS (for washing & neutralising)4354  
+Growth MediaN/A  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+As mentioned previously, images of the Hoescht stained carriers revealed that
+there was a significant lack of cells on sampled carriers. Discussed with
+Nathan about the reasons underlying this phenomena.
+
+Possible reasons include:
+
+\- Cells were never seeded onto carriers in the first place
+
+\- Living cells detached
+
+\- Cells died and detached naturally
+
+It was discussed that all of these scenarios could either be due to the
+poloxamer (although previous harvests with poloxamer have not shown that this
+is the case - Nathan to confirm) or rather that the microcarriers had been
+equilibrating in the incubator for just over a week.
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because carriers were revealed to have very very little cells on them.
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

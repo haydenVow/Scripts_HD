@@ -1,0 +1,126 @@
+
+
+Key Findings
+
+  1. 5 - 15 mj/cm2 did not appear to have an impact on cell growth or morphology 
+  2. 30 - 60 mj/cm2 appeared to have a moderate impact on cell growth and mild impact on morphology 
+  3. 300 mj/cm2 appeared to have a severe impact on both cell growth and morphology 
+  4. The survival and growth of cells in 10 uM P53i, 30 uM P53i, and DMSO supplemented medium conditions did not appear to differ from cells in the control growth medium. Given this result, we hypothesise that the low count of cells in 30 nM P53i medium was due to cells being aspirated during the passage
+  5. The poor survival and growth of cells in UV control may have been due to the heat stress from exposure to the UV lamp. This result also suggests that cells in UV-exposure conditions are likely to also be impacted from heat, not solely the UV-irradiation. 
+
+
+
+
+Discussion
+
+Producing a fibroblast clone that is able to maintain proliferative capacity
+longterm is vital to produce large quantities of consistent cell mass. In
+order to continue growing beyond the Hayflick limit, a cell must undergo
+mutation. This can happen randomly as a result of DNA replication errors, or
+can be induced through environmental conditions such as UV exposure. We have
+previously explored inducing cell mutagenesis by way of UVB irradiation in the
+presence of a P53 inhibitor (Mutagenesis Trial 2). However, the fibroblasts
+showed signs of senescence soon after treatment and did not proliferate. We
+were unable to determine whether the cause of the cell death was over-exposure
+to UV irradiation, too-high levels of P53i, or a combination of the two. This
+experiment aimed to clarify the level of UV irradiation and the concentration
+of P53i at which fibroblasts remain viable and continue proliferating.
+
+Five (5) crocodile fibroblast (F_CHOMP09) cultures were exposed to levels of
+UVB irradiation ranging from 5 mj/cm2 to 300 mj/cm2. Based on results seen in
+a previous mutagenesis trial (Mutagenesis Trial 2), we also tested whether
+cells were impacted by exposure to heat but with no UV-irradiation. Four (4)
+replicates of each condition were seeded and the confluence and morphology
+were monitored from D0 (day of irradiation) onwards. On the day of the
+passage, all replicates were combined in order to perform all cell counts
+within a reasonable time.
+
+The survival and growth of fibroblasts exposed to 5-15 mj/cm2 UV-irradiation
+did not appear to be impacted (figure 1). 30-300 mj/cm2 of UV-irradiation
+seemed to have a moderate to severe impact on fibroblast proliferation and
+viability (figure 1). These results are in line with those of Tyagi et al.,
+who found that around 40mJ/cm2 of UVB was a minimal erythemal dose which
+causes cell DNA damage and significant apoptosis [1]. The cell count of the
+fibroblasts exposed to heat without UV-irradiation seems to support the
+results seen in Trial 2; heat exposure negatively impacts cell viability and
+growth (figure 1). Ibtisham (2018) found that heat stress induced oxidative
+stress of chicken embryonic fibroblasts, decreasing their viability,
+proliferation and anti-oxidative response [2].
+
+A further 3 cultures were exposed to concentrations of P53i ranging from 30 nM
+to 30 uM. Like with the UV-irradiated cultures, 4 replicates of each condition
+were seeded and the confluence and morphology were monitored from D0 (day of
+irradiation) onwards. On the day of the passage, all replicates were combined
+in order to perform all cell counts within a reasonable time.
+
+The survival and growth of cells in 10 uM P53i, 30 uM P53i, and DMSO
+supplemented medium conditions did not appear to differ from cells in the
+control growth medium (figure 2). Given this finding, we hypothesise that the
+low count of cells in 30 nM P53i medium was due to the majority of the pellet
+being aspirated during the passage, and that this is not an actual result.
+Walton et al (2005) found that the maximum nontoxic concentration of PFT-a was
+10 μmol/L, and the maximum usable concentration was 30 μmol/L for murine
+immortalised fibroblast cell line NIH-3T3 [3].
+
+  
+
+  
+
+
+
+
+Limitations
+
+  1. While we had replicate wells (n=4) to monitor cell confluence and morphology, the replicates were combined during passaging for cell counts due to labor and time constraints. Therefore, we cannot apply statistical analysis or draw conclusive results from this experiment .  
+
+
+
+
+Conclusion
+
+Our hypothesis around UV-exposure was confirmed, as the survival and growth of
+cells exposed to <15 mj/cm2 of UVB irradiation did not appear to be affected,
+while 300 mj/cm2 resulted in mass cell death. Our hypothesis around P53i was
+mostly supported, however the outlier results seen in cells treated with 30 nM
+P53i was unexpected. As stated in the discussion, this is assumed to have been
+a result of cell pellet aspiration, rather than the P53i.
+
+
+
+
+Future Direction
+
+  1. Lily and Marie will plan a follow-up experiment where cells will be exposed to UV-irradiation while in the presence of a P53-inhibitor. The proposed combinations are:
+    *   
+Treatment  
+  
+P53i (uM)UV (mj/cm2)  
+Condition 1 10300  
+Condition 210150  
+Condition 330300  
+Condition 430150  
+Control 10300  
+Control 2300  
+Control 300  
+  2. Set up a safer method for UV-irradiating cells which does not involve a scientist being exposed to UV-B irradiation 
+
+
+
+
+References
+
+[1] F. Ibtisham, Y. Zhao, A. Nawab, H. Liguang, J. Wu, M. Xiao, Z. Zhao, L.
+An. 2018. The Effect of High Temperature on Viability, Proliferation,
+Apoptosis and Anti-oxidant Status of Chicken Embryonic Fibroblast Cells. Rev.
+Bras. Cienc. Avic.
+
+[2] Tyagi. N., Bhardwaj. A., Srivastava. S.K., Arora, S., Marimuthu. S.,
+Deshmukh. S.K., Singh. A.P., Carter. J.E., Singh. S. 2015. Development and
+Characterization of a Novel in vitro Progression Model for UVB-Induced Skin
+Carcinogenesis. Nature.
+
+[3] Walton, M., Wilson, S., Hardcastle. I., Mirza. A., Workman. P. 2005. An
+evaluation of the ability of pifithrin-α and -β to inhibit p53 function in two
+wild-type p53 human tumor cell lines. Molecular Cancer Therapeutics.
+
+

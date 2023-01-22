@@ -1,0 +1,27 @@
+
+
+Our last single cell sorting effort using BUFFY6 cells generated a small MCB
+of 2.5 million cells. These cells
+
+
+
+
+Notes from experiment review and planning meeting (NH, RS and TT in
+attendance).
+
+What did we learn in the last SCC? (EPIC14718)
+
+  1. Cells sometimes don't detach after even 30 minutes in TrypLE. It was decided that, if this is the case, we don't want the cells anyway. No changes required here. Cap incubation in TrypLE at 30 minutes.
+  2. When do we bank? Is it after a specific number of doublings or passages? No, it is always on day 24 after single cell sorting.
+  3. What happens if we don't find anything above the preferred confluence on day 4? Make a judgement call e.g. pick the 10 best wells. Ideally the ML cell counting could remove human bias from this
+  4. Can we save time by doing a diff assay AT THE TIME OF BANK? Yes, let's try this - the assumption we are making is that. So, as standard, can we update our templates so that whenever we do a BANK, we do a diff assay?
+
+What will be new in the next SCC run?
+
+  1. We will be using the ML algorithm - how long does it take to analyze a 384 well plate? Maybe we need to run the ML algo overnight on images taken the day before picking, then focus only on those wells on the pick day.
+  2. Scan at least 1 plate for both blue fluorescence and phase contrast to see if we can still see usefule Hoechst staining from after the cell sort
+  3. Make sure to have triple diff assay medium conditions: E6, 2% HS and starvation in prolif medium.
+
+  
+
+

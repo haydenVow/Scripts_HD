@@ -1,0 +1,73 @@
+
+
+Performed by: LL
+
+
+
+
+Cultures
+
+Storage:
+
+  * Incubator # 87 (Binder) main lab
+  * 120 RPM, 37degC 5% CO2  
+
+Culture IDConditionVessel  
+13177FreestyleE125  
+13178FreestyleE125  
+13179FreestyleE125  
+13180HyCellE125  
+13181HyCellE125  
+13182HyCellE125  
+13183100% CHO + Nuvonis + glucose + L-glutamineE125  
+13184100% CHO + Nuvonis + glucose + L-glutamineE125  
+13185100% CHO + Nuvonis + glucose + L-glutamineE125  
+13186MFG 50:50 CHO:RPMIE125  
+13187MFG 50:50 CHO:RPMIE125  
+13188MFG 50:50 CHO:RPMIE125  
+13189R&D 50:50 CHO:RPMIE125  
+13190R&D 50:50 CHO:RPMIE125  
+13191R&D 50:50 CHO:RPMIE125  
+  
+  
+
+
+
+
+Process:
+
+  1. Prepared 1.5mL tubes (can be non-sterile) in rack and label with 
+    *  Culture ID on the lid
+    * "EPIC31448 DD/MM/YY cells" on the side of each tube
+  2. Prepared ViCell tubes in rack and label with Culture ID. Add 375uL PBS to each. 
+  3. Retrieve E-flasks from incubator. Wipe down with EtOH and bring into BSC. Order flasks by culture ID in hood. Retrieved at 9:45 AM
+  4. Used P1000 to sample 1mL from each flask and deposit in corresponding 1.5mL tube
+  5. Used P1000 to sample 125uL from each flask and deposit in corresponding ViCell tube
+  6. Returned E-flasks to incubator and turned on shaker to 120 RPM at  10:05 AM
+  7. Turned on ViCell at switch and open software, allow ViCell to initialise 
+  8. Loaded ViCell carousel and log in samples using the following naming system:
+    * EPIC31448_DDMMYY_CultureID
+  9. Ran ViCell using 'Nuvonis suspension' macro (this should be default) and record sample dilution as 1:4
+  10. While ViCell is running, placed 1.5mL tubes in benchtop microfuge and spin at 1000xg for 5 minutes
+  11. While microfuge is running, labelled 1.5mL tubes:
+    * with Culture ID on the lid
+    * with "EPIC31448 DD/MM/YY media" on the side of each tube
+  12. Once microfuge finished, used P1000 to aspirate media and deposit into new labelled tubes. 
+  13. Retained both sets of 1.5mL tubes and stored in green box labelled "EPIC31448" in -20 freezer #184 (top shelf)
+  14. Monitored ViCell carousel before leaving. ViCell can be left unattended to perform counts. Before leaving, monitored to ensure samples are loading and unit is functioning as normal
+
+  
+
+
+
+
+Observations & Notes
+
+
+
+
+  1. Had to count 13182 twice because I forgot to add the PBS to the first sample so the count was not accurate. 
+  2. Put the dilution factor as "3" on the ViCell 
+  3. There was not enough room left in the green box for frozen samples so I kept them in the yellow lid containers instead of transferring to the box
+
+

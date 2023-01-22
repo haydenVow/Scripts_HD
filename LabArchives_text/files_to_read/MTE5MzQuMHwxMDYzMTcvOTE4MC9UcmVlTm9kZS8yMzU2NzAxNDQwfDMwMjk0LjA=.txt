@@ -1,0 +1,59 @@
+
+
+Performed by: VP & CO
+
+
+
+
+Reagents & materials
+
+ItemID  
+IGF ELISA Kit (Cloud Clone)Cloud clone, Cat# SEA050Bo (Bovine)  
+EGF ELISA Kit (Cloud Clone)Cloud clone, Cat# SEA560Hu (Human)  
+10x RIPA Buffer (Milipore)STK-158  
+Protease inhibitor cocktail (Sigma)STK-2503  
+IGF-LR3 0.05mg/mL (bovine)MIX-13279 (Bovine)  
+EGF 0.05mg/mL (human)MIX-12321 (Human)
+
+
+  
+  
+Process
+
+For buffer preparation and assay protocol specifics, please see experimental
+plan entry  
+
+  1. Brought kits out of fridge/freezer and thawed at bench
+  2. Prepared 20mL 1x RIPA buffer in MilliQ water and prepared with 1:200 protease cocktail inhibitors (100uL)
+  3. Prepared working stock of EGF and IGF1-LR3 to spike Morsel samples with. See G-sheet for stock concentration preparation.
+  4. Prepared unknown samples to 1mg/mL final concentration as per G-sheet. Prepared growth factor spiked samples by adding 10uL of working stock to each sample
+  5. Prepared wash buffer, 5mL concentrate plus 145mL MilliQ water
+  6. Reserved unused wells from plate frame and stored in plate packaging 
+  7. Prepared standards in RIPA buffer as per manufacturer's recommendations
+  8. Prepared reagent A and B, 1:100 in respective diluent to a total of 6mL (6mL diluent + 60uL reagent stock)
+  9. Added 100uL standards and unknown samples to plate, careful not to touch. Plated as per plate layout specified in G-sheet. Sealed with provided plate seal sticker
+  10. Started incubation at 37degC for 1 hour at 13:05 AM 
+  11. Retrieved from incubator at 14:09 PM
+  12. Removed liquid from wells and immediately added 100uL per well of detection reagent A
+  13. Returned to incubator for 1 hour incubation at 14:24 PM
+  14. Retrieved from incubator at 15:24 PM
+  15. Aspirated solution, rinsed with 350uL per well wash solution 3 times. Blotted excess
+  16. Added 100uL per well detection reagent B, covered with plate sealer
+  17. Returned to incubator at for 30 minute incubation 15:45 PM 
+  18. Retrieved from incubator at 16:15 PM
+  19. Aspirated solution, rinsed with 350uL/well wash solution 5 times. Blotted excess
+  20. Added 90uL per well detection substrate solution, covered with plate sealer. Added at Incubation time 10-20 minutes. Check plate every 5 minutes and inspect colour change.Started incubation at:
+    * 16:35 PM EGF plate
+    * 16:40 PMIGF plate
+  21. Stopped when curve resolved with distinctive gradient. Removed from incubation at:
+    * 16:55 PM EGF plate
+    * 16:xx PM IGF plate
+  22. Added 50uL per well Stop solution. Gently tapped plate to ensure uniform mixing
+  23. Ensured plate bottom was clear of marks/droplets and no bubbles in wells 
+  24. Read absorbance at 450nm in plate reader
+  25. See attached for exported data
+  26. See G-sheet for standard curve and data summary
+
+  
+
+

@@ -1,0 +1,92 @@
+
+
+Background information
+
+Volume required per experimental condition: 5 days x 2 mL/well x 4 wells = 40
+mL + error = 43 mL
+
+ECMs being tested: Collagen, laminin, vitronectin and fibronectin
+
+Amount in stock at Vow: Fibronectin 1 mg, collagen 35 mL (5 mg/ml (0.5%)),
+laminin 1 mg, vitronectin 0.1 mg
+
+Concentration of each ECM in each condition (in ug/L)
+
+ConditionBlockCoatingCollagen (ECM1) Vitronectin (ECM2)Laminin (ECM3)
+Fibronectin (ECM4)  
+11EPL00800400  
+21Pectin400000  
+31EPL400200800800  
+41Pectin8002000400  
+52EPL8002008000  
+62Pectin000800  
+72EPL8001000800  
+82Pectin01008000  
+93Pectin0200400800  
+103Pectin400100400400  
+113EPL400100400400  
+123Pectin8000800800  
+133EPL020000  
+143EPL80004000  
+  
+Volume of each ECM to add to 43 mL E6 aliquot (in uL)
+
+ConditionPlateCoatingCollagen (ECM1) Vitronectin (ECM2)Laminin (ECM3)
+Fibronectin (ECM4)  
+11EPL0021.5  
+17.2  
+  
+21Pectin3.44  
+000  
+31EPL3.44  
+17.2  
+21.5  
+34.4  
+  
+41Pectin6.88  
+17.2  
+017.2  
+  
+52EPL6.88  
+17.2  
+21.5  
+0  
+62Pectin00034.4  
+  
+72EPL6.88  
+8.6  
+034.4  
+  
+82Pectin08.6  
+21.5  
+0  
+93Pectin017.2  
+10.75  
+34.4  
+  
+103Pectin3.44  
+8.6  
+10.75  
+17.2  
+  
+113EPL3.44  
+8.6  
+10.75  
+17.2  
+  
+123Pectin6.88  
+021.5  
+34.4  
+  
+133EPL017.2  
+00  
+143EPL6.88  
+010.75  
+0  
+  
+  
+
+Calculations:
+https://docs.google.com/spreadsheets/d/1jqx-1PH_2QZ61IpuM4FOwWz2wNtNwZyRXBOvXOahNcs/edit#gid=0
+
+

@@ -1,0 +1,252 @@
+
+
+Perform bank using below volumes:
+
+
+
+
+## Performed by: Nathan  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+7194-BUFFY6_21L10-Water Buffalo P6-1of4  
+7195-BUFFY6_21L10-Water Buffalo P6-2of4  
+7196-BUFFY6_21L10-Water Buffalo P6-3of4  
+7197-BUFFY6_21L10-Water Buffalo P6-4of4  
+8  
+460K  
+2923-Culture-7194-Vial-1of8  
+2924-Culture-7194-Vial-2of8  
+2925-Culture-7194-Vial-3of8  
+2926-Culture-7194-Vial-4of8  
+2927-Culture-7194-Vial-5of8  
+2928-Culture-7194-Vial-6of8  
+2929-Culture-7194-Vial-7of8  
+2930-Culture-7194-Vial-8of8  
+  
+7198-BUFFY6_25K6-Water Buffalo P6-1of2  
+7199-BUFFY6_25K6-Water Buffalo P6-2of2  
+1  
+366K  
+2931-Culture-7198-Vial-1of1  
+  
+  
+  
+
+
+
+
+Growth Media (for resuspension):
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S.
+
+
+
+
+Process:
+
+Gelatin coated 9 wells on 3x 96 well plates using 0.1um filtered 0.1% w/v
+gelatin dissolved in milliQ water. 50uL was added to wells B2-4, C2-4 and D2-4
+across each plate. These plates will be used for a differentiation assay.
+
+Gelatin coated 6 wells on 1x96 well palte with the same gelatin solution, 50uL
+was added to wells B2-B6. These plates will be used for a myogenic purity
+assessment assay.
+
+Placed all gelatin coated plates in the incubator to incubate at [  13:24   ]
+
+ 1\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  50mL in | 1x50mL | tubes
+  2.  dPBS (for neutralising)    50mL in | 1x50mL | tubes 
+  3. Growth media (for pellet resuspension):   6mL in | 1x15mL | tubes
+  4.  Growth media (for Myogenic purity and Diff assay seeding   1x5.6mL + 1x1.4mL  in | 2x15mL | tubes 
+  5.  Time that all aliquots were placed in the water bath to warm before use:    13:17 a/pm 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 10 |mL tryple to each T175 vessel and incubated at 37ºC for | 15 |
+min [13:50-14:05]
+
+  1.  Added | 3 |mL tryple to each T75 vessel/well and incubated at 37ºC for | 15 | min [13:55-14:10]
+
+4\. Neutralised with | 10mL (T175)/5mL (T75) | dPBS (warmed) and combined cell
+suspensions for each clone into separate | 50mL | tubes. (1 tube for clone
+25K6 and 2 tubes for clone 21L10.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   14:12 - 14:17 a/pm   
+
+  2.  Start/Finish time for centrifugation was:   14:19 - 14:24 a/pm 
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in growth media
+
+  * 3mL for 21L10
+  * 1mL for 25K6
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1314:1315
+
+9\. Total cell number was: |BUFFY6_21L10 (3,828,000) BUFFY6_25K6 (372,000)  |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL. (see cell counter spreadsheet link).
+
+
+
+
+13\. Transferred    0.109mL   of clone 21L10 cell suspension (1.40x10^5 cells)
+to the pre-warmed     5.6mL  mL Growth media:  
+
+Removed 3x 96 well plates containing 9 gelatin coated well from the incubator
+and aspirated then discarded the excess gelatin left.
+
+Aliquoted 200uL of mixed cell suspension (~5000 cells) from step 13 above into
+each of the gelatin coated wells across all three plates. Labelled the plates
+1/3 - 3/3 with the tag 'Diff assay' and the date of seeding.
+
+14\. Split the 1.4mL aliquot in half (700uL into 2x1.5mL tubes), Transferred
+5uL  of  21L10 cell suspension to the pre-warmed  one tube and    16uL   of
+25K6 cell suspension into the other aliquot of growth media.  
+
+Removed 1x 96 well plates containing 6 gelatin coated well from the incubator
+and aspirated then discarded the excess gelatin left.
+
+Aliquoted 200uL of 21L10 cell suspension (containing 2000 cells) from step 14
+above into wells B2-B4 on the 96 well plate and 200uL of 25K6 cell suspension
+(containing 2000 cells) into wells B5-7. Labelled the plate 1/1 with the tag
+'Myogenic purity assay' and the date of seeding.  
+
+16\. Transferred vessel(s) to incubate at: [   15:18   ]
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+11\. Prepared   6mL Freeze Medium: (FBS + 10% DMSO). ID #  
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  15:22  -  15:28  a/pm
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the 21L10 pellet in | 4 |mL freeze media and the 25K6 pellet
+in 0.5mL of freeze media (chilled, to reduce DMSO toxicity).
+
+15\. Aliquotted 21L10 suspension: | 500 |µL into | 8 | x cryovials (already
+labelled). Aliquotted 25K6 suspension: | 500 |µL into | 1 | x cryovials
+(already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   15:54   a/pm
+
+  * [x]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [x]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4788  
+  
+Tryple4949  
+  
+dPBS (for washing & neutralising)5191  
+  
+  
+Growth Media5382  
+  
+p38i (20mM stock)  
+  
+Freeze media5640  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+n/a
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,117 @@
+Passage 1 - Thaw 1 vial into 6xT75 containing BioNOC II macrocarriers
+
+
+# Procedure:
+
+#
+
+## Inoculation:
+
+## The values stated assumes a culture of 30 BioNOC II carriers
+
+NOTE: One gram of BioNOC II has a surface area of 2,400 cm2, A single BioNOC
+has a surface area of approximately 5.8 cm2
+
+  1. Using sterile forceps, aseptically transfer 30 carriers into 50 ml falcon tube.
+  2. Prepare the cell suspension at the correct concentration in a separate 50mL tube. See reference table below for correct volumes of media/cell suspension and carriers for each type of T-flask
+  3. Transfer cell suspension into the 50ml tube containing the carriers and ensure they are completely submerged.
+  4. Place 50mL falcon tubes containing the carriers and cell suspension up right in an incubator at 30'C with 5% CO2 for 2-3 hours
+  5. During this incubation time give the tubes a gentle swirl/mix every 30 minutes until the incubation time is up.
+
+## Checking Attachment Efficiency:
+
+  1. After the cells have incubated for 2-3 hrs, remove the from the incubator and place then back into a BSC
+  2. Remove a sample of media (~2-5mL) from each falcon tube and place it in a clean centrifuge tube. 
+  3. Spin down the centrifuge tubes and remove the supernatant, being careful not to go too close to the base of the tube to ensure any collected cells are not discarded.
+  4. Re-suspend the collected cells and perform a cell count to obtain the total unattached cells.
+  5. To calculate the attachment efficiency use the following equation:  
+
+  6. If attachment efficiency is >90% commence to the Cell Culture Step. If attachment efficiency is <90% either incubate the cells for longer or continue to cell culture steps but note down the attachment efficiency and calculate the new seeding density.
+
+* In addition to this carrier can also be stained with DAPI so the cells can be visualised on the carriers (see this experiment below)
+
+Flask TypeNo. of BioNOC CarrierMedia used  
+T1755030mL  
+T753018mL  
+T25105mL  
+  
+## Cell Culture:
+
+  1. Position rocker in a CO2 incubator at 30°C and 5% CO2. Adjust rocking speed to 4-6 cycles per min (each cycle consists of rocker position from left -> right -> left).  
+NOTE: If the rocking speed is too fast, cells may detach or have reduced
+growth. In this case, the cells could be grown under static conditions,
+however, cells may not reach maximum growth conditions due to nutrient
+insufficiency. If a rocker is not used, add sufficient media to submerge the
+carriers and leave at static conditions. The optimal condition for testing
+will be using a 2D rocker that moves leftwards, rightwards and returns back to
+the left. Substandard results may be obtained with orbital rockers/3D rockers
+or under static conditions.
+
+  2. At the end of the attachment period, use a pair of sterile forceps to gently transfer the carriers from the 50mL tube to a T-flask containing the correct amount of fresh media (0.6 ml of media/carrier). See table above for media volumes  
+NOTE: Addition of 0.6 ml/carrier of culture media is recommended for initial
+testing but can be adjusted based on requirements of different cell types.
+
+  3. Turn the rocker on in the incubator and wait for it to reach a stable movement then place the flasks on the rocker  
+NOTE: When first turned on the rocker will tilt to the extreme angles and then
+settle into the programmed settings. To avoid tilting the flasks too far or
+too fast, wait for the rocker to settle before placing the flasks on it
+
+  4. Conduct media change every 2-3 days or according to protocols established in your lab for the particular cell line.
+
+Note: After inoculation, the cells are mildly attached to the carriers. Be
+gentle while handling the carriers to prevent cells from dislodging.
+
+
+
+
+Seeding:
+
+  1. One tube for each seeding condition (3 conditions; 5,000cells/cm2, 7,500cells/cm2, and 15,000cells/cm2) had 24mL of fresh media added to it. 
+  2. The correct amount of cells was then added to this media in each tube. 
+  3. 12mL of the media/cell mix was then added to a tube containing 30 BioNOC carriers (30 for each T75 flask, 2xT75 for each group) for the corresponding condition.
+
+During inoculation, cells were gentle mixed every 30min for a period of up to
+2 hours
+
+
+
+
+# Procedure:
+
+## Cell Staining:
+
+* Both Trypan and DAPI staining were tried. In each seeding condition all (1) flasks were stained with Trypan and all (2) flasks were stained with DAPI
+
+Trypan Blue: Flask (1)
+
+1\. Take out 1 BioNOC from each (1) tube/flask using sterile forceps  
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add trypan blue for 5min  
+5\. Remove all liquid and image  
+  
+DAPI: Flask (2):  
+  
+1. Take out 1 BioNOC from each (1) tube/flask using sterile forceps   
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image  
+  
+* These methods were also performed on one control (unseeded) piece of BioNOC for baseline comparison  
+  
+Results:
+
+  * No cells could be seen on the Trypan Blue stained BioNOC and there was no obvious difference between the seeded carriers and the control (unfortunately no images were taken of this condition)
+  * Cells could be easily visualised in the DAPI condition. Whilst there was some auto-fluorescence observed with the BioNOC carriers themselves, the cells were noticeably present in the seeded carrier and not in the control, confirming the staining and seeding was successful.
+
+Example DAPI images below:
+
+Seeded BioNOC:  
+  
+
+Unseeded Control:
+
+  
+
+

@@ -1,0 +1,115 @@
+
+
+Introduction
+
+The aim of this study is to analyse the effect vitamin C (L-Ascorbic acid) has
+on myoblast proliferation. As cited in literature, vitamin c plays an
+important role in stem cell biology. Researcher Tomofumi Yatsu performed a in-
+vitro experiment with C2C12 myoblast and saw that those treated with vitamin C
+saw higher cell proliferation rate, mRNA expression levels of myogenic
+differentiation markers such as myogenin and myomaker, and fusion index
+compared to untreated cells. Supporting this, studies by Chun Liu and Bruno
+Oliveira Silva Duran, have delved in further to explore the effects of vitamin
+c on myoblast. The main takeaway from both studies is that addition of vitamin
+C has a positive effect on cell growth through promoting and increasing
+proliferation. This is expected to be a result of vitamin c, being an
+antioxidant, reducing the impacts of oxidative stressed on the cells. Chun Liu
+has also highlighted that vitamin C is able to inhibit apoptosis by mitigating
+the effects of hydrogen peroxide (H(2)O(2)) on the cells. From these
+observations, it is evident that the addition of vitamin C is essential
+component in promoting proliferation and even maturation of myoblast.
+Furthermore, the absence of vitamin C may result in poor growth, as indicated
+from the study by Tomofumi Yatsu that reported that deficiency of vitamin C in
+a mouse specimen resulted in delayed skeletal muscle regeneration.
+
+  
+
+
+
+
+Key takeaways
+
+  * Vitamin C enriched growth media increases DOLLY12 cell proliferation between 1.19x - 1.4x compared to those cultured in growth media without vitamin C. 
+  * Vitamin C enriched growth media appears to have no negative impact on early stage cell differentiation. 
+
+
+
+
+Results
+
+  
+
+Table 1. Increase in cell proliferation rate for 3 consecutive harvests for
+each condition. x-fold increase is calculated from: (total harvest - seeding
+density)/seeding density for each passage
+
+  
+
+  
+
+Table 2. Fold increase of vitamin C treated cells compared to no treatment
+cells. The fold increase was calculated by dividing the cell count from
+vitamin c treated cells with the cell count from no treatment cells.
+
+
+
+
+Discussion
+
+  * Both the vitamin C and no treatment cells show increase proliferation rate over the course of the 10 day assay as evident through the fold change presented in table 1. For the no treatment cells, this rate steadily increases from the first harvest to the third and final harvest. In comparison, the vitamin C treated cells see a dip on the trend on the third harvest, likely a result of loss of cells during the harvest (refer to limitation). To confirm whether or not the proliferation capacity deviates from the no treatment cells, further studies will need to be performed. Despite this, the fold change for each harvest was greater in the vitamin c treated cells, whereby vitamin c treated cells had a 3.10,  4.88 and 4.91 fold change whilst the no treatment cells received  2.44, 3.30, and 4.26 fold change from harvest 1, 2 and 3 respectively.   
+  
+
+  * The difference between the vitamin C and no treatment cells is seen more clearly in table 2, where we are able to see the fold increase of vitamin c treated cells compared to no treatment cells. From these results, it is clear that vitamin c has a positive effect on DOLLY12 cell proliferation during ten days in culture. This value fluctuates between 1.19x to 1.37x increase in cell count of the vitamin c treated cells. In a previous experiment looking into the effects of vitamin c compared to no treatment cells, a similar fold increase of 1.4x was recorded.  
+  
+
+  * In the study that preceded this, the cells harvested were seeded into two separate experiments (e-stim and DSD), both of which grew the cells up to confluency to promote cell differentiate. It should be noted that the cells that were seeded had a mixed population of cells that had grew with and without vitamin c treatment. In both studies, it was observed through phase microscopy that the cells were able to differentiate as seen through formation of fused cells forming elongated myotubes (the culture images can be seen in MIA for the seeded e-stim plates ( 7867, 7868) and DSD plates (7863, 7864)). This indicates that differentiation can still occur after treatment with Vitamin C, however in the absence of a negative control, further investigation in a controlled experiment is required. We are unable to conclude if additional of vitamin c into proliferation media has a longer term effect on the cells ability to differentiate as after after transitioning into E6 media, the DSD plates and e-stim plates observed cell death at day 4 and 6 respectively. The occurrence of cell death however is expected to be caused by a separate issue unrelated to addition of vitamin C in the proliferation media, as other studies performed during this period also witness cell death. 
+
+
+
+
+Limitations
+
+  * Cell counts are subjected to higher human error 
+    * Between the period of resuspension and collecting 2 x aliquot for cell counts, the cells may have begun to settle and therefore the aliquot collected may not be represented of the population. 
+    * Furthermore, aliquot volumes are small (between 10 - 50 uL) which increases the chances that the aliquot is not reflective of the population. 
+    * A minimum of 2 cell counts were performed. Whilst this is better than one count, there is still room for error. Increasing the cell count may result in greater accuracy 
+    * Cell counts may vary from user performing the task as techniques may differ 
+  * The actual amount of cell seeded into a flask may be different from the recorded value based on: 
+    * Cell counts deviating from actual amount (even if only slightly) 
+  * The vitamin c treated flask on day 10 harvest saw some cell lost due to accidental spill
+  * This study only looks at DOLLY12 cells
+
+
+
+
+Future directions
+
+  * To further strengthen this study, further analysis can be performed through repeating the experiment with a longer culture period to see the effects of vitamin c on cells over an extended period
+  * Perform further test to ensure that vitamin C does not have a negative effect on cell maturation that occurs in the later stages of myogenesis
+  * This study only focuses on DOLLY12 cells. It would be beneficial to test on other cell lines
+
+  
+
+
+
+
+Reference  
+
+Duran, B., Goes, G., Zanella, B., Freire, P., Valente, J., Salomao, R.,
+Fernandes, A., Mareco, E., Carvalho, R. and Dal-Pai-Silva, M., 2019. Ascorbic
+acid stimulates the in vitro myoblast proliferation and migration of pacu
+(Piaractus mesopotamicus). Scientific Reports, 9(1).
+
+Liu C, Sun S, Zhang Q, Lin H, Tang W., 2010 [Effect of different
+concentrations of vitamin C on proliferation and apoptosis of C2C12
+myoblasts].35(7):732-7. Journal of Central South University. Medical sciences,
+35(7), pp 732-737.
+
+Yatsu, T., Takino, Y. and Ishigami, A., 2020. Role of Ascorbic Acid in
+Skeletal Muscle Regeneration. The FASEB Journal, 34(S1), pp.1-1.
+
+  
+
+  
+
+

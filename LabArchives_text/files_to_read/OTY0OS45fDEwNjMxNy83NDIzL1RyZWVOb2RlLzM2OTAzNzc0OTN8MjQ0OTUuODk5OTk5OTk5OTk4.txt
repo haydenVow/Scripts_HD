@@ -1,0 +1,92 @@
+
+
+Performed by: VP  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-125  
+  
+ 10938  
+  
+E-12511076  
+  
+Located: Library lab, Incubator #78, 120 RPM
+
+
+
+
+Cell Count  
+3x50ul sample was taken from the flask. Diluted samples with an equal volume
+of trypan blue (1:2). Counted live cells and recorded live count per mL.
+Counted dead cells only and recorded dead count per mL.
+
+Flask IDCounting methodLive count total in cultureDead count per mL  
+Live count per mL  
+10938  
+Trypan blue  
+42 600 000115 0001 420 000  
+  
+10938  
+Trypan blue  
+34 500 00055 0001 150 000  
+10938  
+Trypan blue38 700 000 60 0001 290 000  
+Average38 600 01076 6671 286 667  
+  
+  
+
+  
+
+
+
+
+Passage
+
+  1. Calculated required media for new E125 flask with required media for 125 000 cells/mL in 30mL final volume (made up of old cell suspension and new media). Used seeder widget to calculate required volume of cell suspension
+    * Required cell suspension:     2.9 mL     
+
+    * Required new medium:        27.1 mL   
+
+  2. Added required growth factors to media, calculated from Media Calculator
+    * See media preparation entry above for growth factor addition volumes
+  3. Incubated media at    37   °C for    30   minutes
+  4. Removed vessel from incubator and performed media change/passage: <indicate which here by strikeout>
+    * added newly prepared media and added cell suspension drop-wise
+    * Returned vessel to shaking incubation at 37°C
+
+Location: Incubator: #.   78   , 37°C,      120    RPM, Library Lab
+
+  
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+Nuvonis suspension media  
+ALQ-10511  
+28mL  
+EGF  
+MIX-9201  
+6uL  
+IGF  
+MIX-7681  
+28uL  
+  
+  
+
+
+
+
+Observations:
+
+N/A
+
+

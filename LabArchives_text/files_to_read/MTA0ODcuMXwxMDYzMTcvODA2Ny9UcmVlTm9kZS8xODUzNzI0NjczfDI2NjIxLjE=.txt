@@ -1,0 +1,83 @@
+Performed by: LL
+Harvested flask ID(s)ConditionSeeded flask ID(s)ConditionFlask location  
+12138-Nuvonis Quail Suspension341-P-1of2  
+  
+12137-Nuvonis Quail Suspension341-P-2of2  
+  
+Cells from these cultures were combined before being split into new conditions  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0005 mg/mL FGF-B
+\+ 0.0001 mg/mL EGF  
+12184-Nuvonis Quail Suspension341-P-1of2  
+RPMI + 4 mg/mL glucose + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005
+mg/mL IGF + 0.0005 mg/mL FGF-B \+ 0.0001 mg/mL EGF  
+Main lab, incubator 141  
+  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001 mg/mL EGF  
+12185-Nuvonis Quail Suspension341-P-2of2  
+RPMI+ 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0005 mg/mL FGF-B
+\+ 0.0001 mg/mL EGF  
+
+
+Reagent  
+ID  
+  
+RPMI Nuvonis suspension medium  
+M12622  
+  
+IGF-1-LR3  
+M12475  
+  
+EGF  
+M12321  
+  
+FGF-B  
+M9371  
+  
+Glucose solution (300 g/L)  
+M12647  
+  
+  
+  
+
+
+Process
+
+
+  1. Removed flasks from incubator 
+  2. Took 2 x 50 uL samples from each E-flask
+  3. Performed cell counts and averaged for each flask and each condition (recorded in table below)
+  4. Made up 50 mL of a 300 g/L solution of glucose in Milli-Q
+  5. Aliquoted following volumes of media with growth factors and warmed in water bath. Want to trial upping RPMI glucose concentration to 6 g/L (the glucose concentration in Freestyle medium). RPMI has 2 g/L, so we need to add 4 g/L to bring it up to 6 g/L. This translates to adding 0.08 g to 20 mL of medium, or 266 uL of a 300 g/L solution).
+    1. 40 mL RPMI suspension medium + 0.0005 mg/mL IGF + 0.0005 mg/mL FGF-B \+ 0.0001 mg/mL EGF
+  6. Transferred cultures to 2 x 50 mL tubes
+  7. Centrifuged at 500 x g for 5 min
+  8. Aspirated 100% of supernatant, resuspended cells in 40 mL of pre-prepared RPMI suspension medium (combined pellets)
+  9. Split into 2 x 20 mL aliquots in 2 x E-125s (strained through 40 uL cell strainers)
+    * Note: had to use old strainers with higher contamination risk, as we are still waiting on more of the new strainers 
+  10. Added 266 uL of glucose (300 g/L) to 1 x E-125 ~~  
+~~
+
+  11. Returned cultures to incubate at 37 'C, 5% CO2, 120 RPM
+
+
+Counts & observations
+Flask IDTotal/average condition count (manual)  
+FormulationComments  
+  
+12137-Nuvonis Quail Suspension341-P-1of2  
+3,712,000  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001 mg/mL EGF  
+Think moving into 30 mL was mistake - too dilute. Re-seeding back at 20 mL.  
+  
+12138-Nuvonis Quail Suspension341-P-2of2  
+4,060,000  
+RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride & Putrescine
+dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001 mg/mL EGF +
+0.0005 mg/mL FGF-B  
+
+

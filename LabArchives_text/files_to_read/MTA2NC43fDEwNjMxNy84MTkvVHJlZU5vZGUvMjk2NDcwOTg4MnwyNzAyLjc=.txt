@@ -1,0 +1,171 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Brief background
+
+
+The Biostat A (cell culture version), 2 L stirred-tank bioreactor is a system
+designed for the expansion of animal cells. Its key components are:
+
+  * Control tower (including mass-flow controllers for dosing gas and peristaltic pumps for dosing liquids)
+  * Reactor vessel (including pitched-blade impeller for low-shear, impeller motor, gas sparger, pH and dissolved oxygen probes, ports for addition and removal of liquids and gases)
+  * Reagent bottles (typically for anti-foam, base, feed and a spare for feed 2 or waste)
+
+It has some key advantages over uncontrolled suspension cell culture systems,
+such as Erlenmeyer flasks:
+
+  * Accurate control of and higher maximum gas transfer rates allows us to achieve higher cell concentrations
+  * Accurate control of temperature and pH to enable the use of these stimuli to control cell behavior
+  * Automated removal of spent growth medium and addition of fresh growth medium to eliminate manual handling
+
+The Biostat A has been widely used for microbial culture and mammalian
+suspension culture. However, there is very little evidence of use for
+microcarrier culture. The purpose of this experiment is to develop a set of
+standard procedures for operating microcarrier cultures in the bioreactor, and
+to concurrently train others in the operation of the bioreactor.
+
+
+Key results
+
+
+The Biostat A was operated for the first time with microcarriers but without
+cells in batch mode. Despite being a cell-free run, there were many process
+improvements learnt, including:
+
+  1. Configure the cell seed port with extra long tubing to reach into the BSC so that the seed bottle can be connected to the bioreactor the day AFTER setup (to allow time for overnight sterility check).
+  2. Don't connect the microcarrier innoculum to the multiport as the orifice is too small and the microcarriers will block the tube. Microcarriers should be added before the sterility check via the harvest port.  
+
+  3. Stirring speed of 90 RPM is probably adequate to keep microcarriers suspended
+  4. The harvest port needs to be configured with a Y-junction to allow for splitting the waste and cell harvest.
+  5. The external pump (Pump A) should be used for all draining and filling tasks during setup as it is up to 5x faster than the other pumps.
+  6. The "BENCHMARK" single-use sample tubes can be autoclaved.
+
+These findings were used to write lab book templates for operating the
+bioreactor.
+
+
+
+
+The Biostat A was subsequently run in fed-batch mode (see Figure 1(a)) with
+microcarriers and DOLLY12 cells. The bioreactor was seeded with 33 million
+cells and 2.13 g of Cytodex 1 microcarriers in DMEM/F12 + 20% FBS + 1% P/S for
+a total volume of 650 mL. The culture was fed with 400 mL (40% dilution) of
+the same growth medium on day 2 and 800 mL (40% dilution) on day 4, with
+another 150 mL (the remainder of unused growth medium in the original feed
+bottle) on day 5. This schedule was used to mimic the 50% dilution of culture
+medium that would occur during 50% medium changes in planar cultureware. Due
+to the minimum operating volume in the Biostat A 2 L being around 650 mL, and
+the maximum being 2000 mL, it is not possible to double the working volume
+over 2 or more feeds.
+
+The cells were successfully proliferated over 6 days, with an estimated
+doubling time of ~6 days (see Figure 1(c)) based upon the increase from the
+seeding count of 33 million cells (dotted line in Figure 1(c)) to the count of
+approximately 75 million cells on day 6. The cells were also successfully
+detached from the microcarriers using Trypsin and vigorous agitation (compare
+Figures 1(d) and (e), replicate images can be found here), however only 1.98
+million cells were recovered in the pelleted supernatant that was pumped out
+of the bioreactor.
+
+  
+
+Figure 1: (a) Photograph of bioreactor setup; (b) Violin plot showing
+frequency distribution, median, range and quartiles of cells/microcarrier
+counts; (c) Scatter plot showing mean cell counts and standard deviations;
+and, Blue fluorescence micrographs of cell nuclei on microcarriers, taken with
+a Basler camera mounted on a Zeiss Axiovert microscope at 5x objective (d)
+before harvest and (e) after harvest.
+
+There were further process improvements learnt, including:
+
+  1. Continuous sparging of air, even at 20 mL/minute, leads to formation of a stable layer of foam approximately 30 mm thick.
+  2. Using the dissolved oxygen control cascade to only sparge air if the pO2 drops below 80% leads to very little sparging and, hence, very little foam formation.
+  3. When using the "Profile" mode for any parameter control, the profile control timer starts from when the "Mode" is switched to "Profile", NOT from the batch logging start time.
+  4. Ensure that one addition port has a long tubing attached that can reach into the nearby BSC. Ensure that the female STT connector is only opened in the BSC and recapped before removing from the BSC.
+  5. Ensure that one large (~2 L) sterile bottle is available and only ever opened in the BSC for addition of harvesting reagents (PBS, Trypsin and neutralizing agent).
+  6. Ensure that the harvest is split and that the branch line is long enough to reach to the floor.
+  7. Use a large (~10 L) carboy for waste capture to eliminate need to keep changing waste bottles.
+  8. Ensure that dip tubes and sparger lines are clamped when not in use.
+  9. Use strong steel clamps, not weak plastic Sartorius type.
+  10. Disable pH and temperature control OR do not let liquid level fall below pH probe tip during drain and fill operations (such as during harvesting) as this leads to detrimental temperature and base overcompensation.
+  11. Use well pre-warmed reagents during harvesting to minimize temperature compensation.
+  12. The SUBS-A pump is the fastest but still only pumps at ~100 mL/minute, so filling or draining the vessel can take up to 20 minutes.
+  13. Harvesting cells by the sedimentation and decanting method is very slow, mainly due to the long time and manual effort required to fill and drain, as well as to physically change the pump configuration. It is valuable to minimize drain and fill cycles. It would be preferable to be able to drain the wash and harvest the cell suspension through a mesh that could exclude the microcarriers, thereby eliminating the need to wait for sedimentation. This method will be tested in the next run. Furthermore, performing fewer washes with a greater volume (thereby using the same total wash volume) would reduce the time lost in switching pump configuration.
+
+
+Discussion
+
+
+Discussion is included in the limitations section below.
+
+
+Limitations
+
+
+After seeding of the bioreactor, the sanitary connectors were disconnected on
+the seeding line and the surfaces exposed to non-sterile laboratory air. This
+line could therefore not be used to subsequently add liquids to the
+bioreactor. This created two problems:
+
+  1. The P38 inhibitor could not be added to the growth medium during the batch because it was not added at the time of preparation, so the growth rate here may not be reflective of what can be achieved under normal conditions in the presence of P38 inhibitor. 
+  2. The Trypsin could not be added under sterile condition to the bioreactor at the end of the batch. As Trypsinization was essential, it was added under non-sterile conditions, meaning that the harvested cells could not be reused.
+
+Temperature and pH over-compensation during the short times that the pH probe
+was not submerged in liquid led to a temperature of 40 deg C and a pH of over
+10.0 during the detachment phase, so it is possible that cells were lysed in
+the process (giving a false positive for cell detachment).
+
+
+Conclusion
+
+
+The Biostat A was assembled, autoclaved and setup. A cell-free batch of
+microcarriers was successfully loaded and operated over 5 days in the
+bioreactor. The major problems with the initial operating procedures were
+identifed and fixed for use in subsequent bioreactor operations. The
+bioreactor was then used for the first cell culture batch, which was
+successfully operated without contamination over 6 days. Operating procedures
+in lab book tempate format were developed for:
+
+  1. Assembly and sterilization
+  2. Setup and sterility test
+  3. Batch initiation and operation
+  4. Sampling
+  5. Shutdown and cleaning
+
+Cells were detached from the microcarriers using Trypsin, however only 2.5% of
+the cells were recovered in the supernatant. Development of an operating
+procedure for harvesting was not successful.
+
+
+Future Direction(s)
+
+
+The bioreactor will be used to expand myogenic stem cell clones over the next
+2 months as a demonstration of capability. Further research into harvesting
+will be done, including literature search and testing incremental changes to
+the existing protocol, in order to develop a harvesting protocol in lab book
+template format. The key goal will be to minimize temperature and pH
+fluctuations, and cycle time, and to maximize cell recovery from the reactor
+vessel, during harvesting. After this time, enough evidence will have been
+gathered to make decisions about further bioreactor purchases.  
+
+

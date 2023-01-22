@@ -1,0 +1,231 @@
+
+
+Written by: Andrew
+
+
+Background
+
+
+The generation of a serum-free suspension adapted cell line is imperative for
+upscaling cell culture that will allow the sustainable generation of
+commercially-viable levels of cellular biomass. Upscaling traditional adherent
+cell culture is challenging, attributed to the time, labour and reagent
+requirements of cell detachment and reattachment during cell passaging. In
+comparison, suspension culture due to its compatibility with bioreactor use,
+promises a more simplified and readily upscaled workflow for large-scale cell
+production (1).
+
+  
+A previous experiment https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NTM3OS40MDAwMDAwMDAwMDF8MTA2MzE3LzQxMzgvVHJlZU5vZGUvMjkwMDk3ODg3NnwxMzY1NS40)
+was able to produce a proliferative, suspension adapted F_DOLLY12 culture in
+CD CHO media with animal component free (ACF) supplementation (Knockout Serum
+Replacement, IGF, FGF and PDGF). For this experiment we aimed to repeat this
+success in both F_DOLLY12 and F_CHOMP09 cells. The effect of vessel type on
+suspension adaptation was also elucidated by comparing automation-fed 50mL
+shake tubes and manually-fed E125 flask. 100% media changes were performed for
+all cultures, either on the automated liquid handling Opentron system (50mL
+shake tubes) or manually (E125 flasks). Cells were then stained and imaged on
+the Zaber, with total and dead cell counts quantified from microscopy imaging
+using a an automated FIJI macro.
+
+
+Key results
+
+
+1\. F_DOLLY12 and F_CHOMP09 cells in serum free media (CD CHO + 10% KSR) had
+better survival rates over the course of suspension adaptation than cultures
+in control conditions (DMEM/F12 + 10% FBS)
+
+2\. During suspension adaptation, there are large declines in cell number
+between days 10 and 20, after which cell numbers largely fail to recover
+
+3\. Greater cell densities were supported by E125 flasks vs 50 mL shake tubes
+throughout the suspension adaptation process
+
+4\. For both culture vessels, F_DOLLY12 in CD CHO + 10% KSR media demonstrated
+increased survival to suspension adaptation in comparison to F_CHOMP09 cells
+
+5\. We were unable to replicate the previous experiment and produce a
+proliferating suspension adapted culture in serum free media
+
+
+
+
+Graphpad Prism Analysis:
+https://drive.google.com/file/d/1G-zX8eUn2RpS3zhKRJmX81Hf8QdjDGFU/view?usp=sharing
+
+
+Discussion
+
+
+F_DOLLY12 in CD CHO + ACF media in E125s displayed the highest cell numbers
+during suspension adaptation.  
+  
+All conditions demonstrated a sharp decline in cell number from day 0 to day
+11 (Figure 1). F_DOLLY12 cultures in CD CHO media in both vessel types and
+F_CHOMP09 in E125 flasks seemingly recovered from day 14. interestingly,
+F_DOLLY12 and F_CHOMP09 cultures in D/F + FBS in E125s demonstrated a similar
+recovery at day 18.  By day 32, all cultures had either failed or were in
+decline (F_DOLLY12, CD CHO, E125).
+
+To determine any significant differences between conditions, total cell counts
+and total dead cell counts (as cells/mL) over the time series was compared
+using two-way ANOVA and a Fisher's LSD test (α = 0.05, confidence level,
+p<0.05). For both F_DOLLY12 and F_CHOMP09, there was a significant difference
+between CD CHO + 10% ACF supplementation in E125 flasks and control (D/F +
+FBS) for more than 50% of timepoints. F_DOLLY12 cultured in CD CHO + 10% ACF
+supplementation in E125 flasks produced significantly higher cell counts than
+CD CHO in 50mL tubes for 50% of timepoints. This was not seen in F_CHOMP09,
+with a significant difference between 50 mL tubes and E125s in CD CHO media
+for fewer than 50% timepoints. This is likely due to overall low cell counts
+for all F_CHOMP09 cultures suggesting that for the conditions used in this
+experiment, CHOMP cells were not as suited for suspension adaptation than
+F_DOLLY12 due to low cell survival.  
+  
+There were no significant differences in total dead cell count between all
+conditions  
+Overall there was no significant difference in dead cell counts for all
+conditions. However, of note there are notable spikes in dead cell counts for
+the CD CHO + ACF (50mL tube) and D/F + FBS (E125) at day 7 and day 21
+respectively (Figure 2). It is also worth noting that there were numerous
+timepoints with dead cell counts of 0, suggesting a possibility that the Sytox
+green stain used to quantify dead cells may be unreliable.  
+  
+The conditions tested were not suitable for the generation of a suspension
+adapted cell line  
+Since F_DOLLY12 in CD CHO + ACF in E125 flasks demonstrated the highest cell
+counts after 32 days, maintenance of these cultures continued to day 53.
+Unfortunately, there was no evidence of cell proliferation, with cell counts
+continuing to decline. Interestingly, cells from one of the F_DOLLY12 CD CHO
+E125 cultures showed similar cell morphology (rounded, large, bright halo)
+compared to the previous successful suspension culture when viewed under phase
+microscopy with trypan blue.
+
+
+
+
+  
+
+Figure 1. Total cell count (cells/mL) of F_CHOMP09 and F_DOLLY12 cells over 32
+days of suspension adaptation. Cells were seeded in either 50mL tubes or e125
+flasks in 2 different media conditions, animal component free media (CD CHO +
+10% KSR) and negative control (DMEM/F12 + 10% FBS). Data points represent the
+mean and error as standard error of 3 biological replicates for each
+condition.  
+  
+
+
+
+
+  
+Figure 2. Total dead cell count (cells/mL) of F_CHOMP09 and F_DOLLY12 cells
+over 32 days of suspension adaptation. Cells were seeded in either 50mL tubes
+or e125 flasks in 2 different media conditions, animal component free media
+(CD CHO + 10% KSR) and negative control (DMEM/F12 + 10% FBS).  Data points
+represent the mean and error as standard error of 3 biological replicates for
+each condition.
+
+
+
+
+  
+
+Figure 3. Total cell count (cells/mL) of  F_DOLLY12 cells in E125 flasks over
+53 days of suspension adaptation. Data points represent the mean and error as
+standard error of 3 biological replicates for each condition.
+
+
+
+
+Figure 4. Cell morphology was similar between the previous successful
+suspension adapted F_DOLLY12 culture from EPIC22586 (left,  day 51, culture ID
+7694) and the F_DOLLY12 CD CHO E125 culture from this experiment (right, day
+18, culture ID: 8639). Cells were stained with trypan blue and imaged under
+phase microscopy using a 10x objective.
+
+
+Limitations
+
+
+Despite using the exact same conditions as those used in EPIC22586, this
+experiment was unable to replicate the previously seen results and produce a
+suspension adapted F_DOLLY12 or F_CHOMP09. The phase microscopy images suggest
+the cells are indeed undergoing similar morphological changes however, these
+cells are unable to proliferate as desired. It is unclear whether this is due
+to a lack of essential component in the media formulation to support
+proliferation or the suspension adaptation process is causing these cells to
+undergo senescence.  
+  
+Precipitate formation from Hoechst Readyflow staining was evident on multiple
+timepoints during microscopy imaging, at times to the point where cell count
+data had to be omitted due to an overwhelming amount of precipitate.
+Precipitate presence was shown (EPIC26777) to cause false positives with use
+of the automated macro, leading to an overestimation of cell counts. Exactly
+how many of the data points that have been potentially affected by this
+overestimation is unclear.  
+  
+
+
+Conclusions
+
+
+This experiment was unable to generate a proliferative, suspension adapted
+cell line of F_DOLLY12 or F_CHOMP09. CD CHO + ACF media in E125 flasks
+supported the highest cell counts in F_DOLLY12 cells throughout suspension
+adaptation. None of the conditions used in this experiment were suitable for
+the adaptation of F_CHOMP09 to suspension. Furthermore, E125 flasks
+outperformed 50 mL shake tubes suggesting this vessel type is more well-suited
+for suspension adaptation.
+
+
+Next steps
+
+
+From the results of this experiment it is recommended that E125 flasks should
+be used for future suspension adaptation workflows.  
+  
+Further investigation into what occurs during the large decline in cell counts
+between days 10 and 20 (described as the "Valley of Death") should be further
+investigated. It is possible that preventing this decline may be essential for
+the generation of a suspension adapted cell line. One possible explanation for
+the "Valley of Death" may be that cells have a different metabolic profile at
+this timepoint and have different growth requirements or require different
+cellular signals in order to survive and proliferate, thus further work should
+explore whether changing conditions (eg. basal media, supplementation) will
+better support cell populations during the "Valley of Death". Additional work
+should also aim to characterise this cell population in terms of gene
+expression (transcriptomics), cell morphology and proliferative ability (cell
+cycle characterisation).  
+  
+Furthermore, additional investigation into why the manually fed E125 flasks
+outperformed the automatically fed 50mL shake tubes should be performed.
+Apparent factors such as differences in volume, surface area and vessel shape
+and the impact these have on gas exchange are potential important
+considerations for suspension adaptation. Identifying which of these factors
+are essential will be important to formulate ideal conditions for future
+suspension adaptation work. Using automated systems is ideal to facilitate
+upscaling and high throughput workflows, therefore, optimising the use of 50mL
+shake tubes which are compatible with the automated Opentron system will also
+be a potential focus of future work. Currently, automated feeds require
+cultures to be open on the Opentron deck for around 1.5 hours during automated
+feeding. It is possible that this prolonged exposure to the air may result in
+pH changes, which in turn is negatively impacting cell survival, thus
+explaining the failure of these cultures. Confirming whether this is occurring
+could be a potential focus for future work.
+
+
+References
+
+
+  1\. Shen, Chun Fang, et al. "Development of Suspension Adapted Vero Cell
+Culture Process Technology for Production of Viral Vaccines." Vaccine, vol.
+37, no. 47, 2019, pp. 6996-7002, doi:10.1016/j.vaccine.2019.07.003.
+
+
+
+
+
+
+
+

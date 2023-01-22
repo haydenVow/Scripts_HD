@@ -1,0 +1,219 @@
+
+
+## Performed by:
+
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+9431  
+94322 x 12wp  
+24  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM9122  
+  
+PBST (0.2% Triton)M7043  
+  
+dPBSM9075  
+  
+ ~~Primary Antibody Mix (MyoG)~~ (Will be staining with Phalloidin)
+~~S1563-MyoG~~  
+  
+Primary Antibody Mix  (MF20) S2467-MF20  
+  
+  
+Number of wells for the 12wps = 24
+
+1 mL PBST per well
+
+1 mL BB per well
+
+2 mL PBS per well per wash
+
+400 uL of PAb per well
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+  
+
+OR
+
+  
+
+Alternatively plug in your values and manually calculate: (note these volumes
+are for primary and secondary staining + DAPI)
+
+  
+
+12wps
+
+PBS:         (number of wells) x     mL (volume per well) =   mL  (If required
+to make up PBST, then use: 13.5 mL PBS + 27 uL of Triton-X)
+
+PBST (0.2% Triton-X) :    24   (number of wells) x    1 mL  (volume per well)
+=   24 mL ( mL with excess)  (use this to make the 0.1% PBST for blocking
+buffer)
+
+Blocking buffer:     24    (number of wells) x    1 mL  (volume per well) =
+24 mL  (4.5 mL 0.2% TX + 4.5 mL PBS + dissolve 0.27 g of BSA (3% by mass))
+
+Note: blocking buffer is: PBST (0.1% Triton-X + PBS) + 3% bovine serum albumin
+(BSA). Kept in the fridge until needed in blocking step
+
+  
+
+Total volumes required:
+
+(If required to make PBST: Add 80 uL of TritonX to 40 mL PBS)
+
+PBST = 24 mL + 3 mL = 27 mL
+
+BB = 24 mL + 3 mL = 27 mL
+
+  
+
+  
+
+Primary staining with MyoG and MF20
+
+Total volume of BB + antibody required:
+
+(24×0.4) = 9.6 mL (round to 11 mL)
+
+ ~~Need to calculate volume required for 1:200 dilution: 11~~ ~~  / 200 = 55
+uL (MyoG)~~
+
+Need to calculate volume required for 1:50 dilution: 55 x 4 = 220 uL (MF20)  
+
+  
+
+Prepared Primary Antibody Mix: : ~~35 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +~~   220 µL   Primary #2 MF20 (DSHB)   (1:50  ) +   10.78  mL
+Blocking Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+  
+
+Secondary staining with Ab (2 x 1:1000 dilution)  
+
+11 / 1000 = 11 uL of each secondary Ab required
+
+Volume of Phalloidin?
+
+11 + X mL of BB required to dilute both SAbs
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+MF20 - S2467  
+IgG2b  
+1:50  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise ( ~ 20 - 30 min)
+
+1\. Removed PBS from each well.
+
+2\. Added  1 mL for 12wp  PBST (0.2% Triton-X) to each well for 15 min:
+
+Plate 8822  16:18 - 16:31  
+
+Plate 8823  16:13 - 16:28
+
+3\. Aspirated PBST for each well.
+
+  
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added   1 mL for 12wp µL of blocking buffer (3% BSA in PBST [0.1%
+Triton-X]) and incubate for 45 minutes - 1hr at RT. (no more than 1 hour):
+
+Plate 8822  16:35 - 17:20  
+
+Plate 8823  16:39 - 17:24
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:
+
+Plate 9431  16:55 - :  
+
+Plate 9432  17:10 - :
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Observations/Summary:
+
+### Both plates primary stained and ready for secondary staining.
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

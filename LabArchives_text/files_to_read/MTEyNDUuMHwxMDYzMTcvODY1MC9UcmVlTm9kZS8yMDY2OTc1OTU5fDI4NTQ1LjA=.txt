@@ -1,0 +1,149 @@
+
+
+### Completed by: Sam Rathbone
+
+
+Cultures
+Culture ID (Ranger) ConditionIncubator LocationNotes  
+  
+12657-Nuvonis Quail Suspension341-P-1of6
+
+Pork Bun Gel52 - Main Lab16 million cells/mL  
+12658-Nuvonis Quail Suspension341-P-2of6  
+Pork Bun Gel + 50ug/mL VitC52 - Main Lab  
+16 million cells/mL  
+  
+  
+12659-Nuvonis Quail Suspension341-P-3of6
+
+Pork Bun Gel + Bacterial nanocellulose fleece52 - Main Lab  
+16 million cells/mL  
+  
+  
+12660-Nuvonis Quail Suspension341-P-4of6
+
+Pork Bun Gel + Bacterial nanocellulose sheets  
+52 - Main Lab  
+16 million cells/mL  
+  
+  
+12661-Nuvonis Quail Suspension341-P-5of6
+
+Pork Bun Gel + Jellagen Sheet  
+52 - Main Lab  
+16 million cells/mL  
+  
+  
+12662-Nuvonis Quail Suspension341-P-6of6
+
+Jellegen Sheet52 - Main Lab  
+16 million cells/mL  
+  
+  
+  
+
+
+Aim / Goal
+
+
+Viabiility stain with propdium iodide (dead cells) with a Hoechst 33342
+counter nuclei stain.
+
+
+Hypothesis
+
+
+Should see cell clumping within material, with a heterogenous population of
+live/dead cells.
+
+
+Protocol
+
+
+  
+
+## Before Starting, ensure the following is completed:
+
+  * Label the 24-WP with the culture IDs for each scaffold in the staining well plate. You may have to stain in a 12-WP if the gel scaffold has expanded. 
+  * Acquire sterile spoons for transporting the gels into the staining plate. 
+  * Create the stain solution (2ug/mL concentration; Propidiumm Iodide (1ug/mL)/Hoechst 33342 (1ug/mL) [50:50]) 
+    * Total volume needed: 12 mL (make up 13 mL)
+
+## Perform the live-dead stain protocol.
+
+1\. Remove the scaffold-cultures from the incubator
+
+2\. Transfer each scaffolds to a  24 WP using a sterile spoon (forceps may
+damage the structural integrity).
+
+4\. Incubate for 20 mins with 500uL stain solution per well (2ug/mL of
+Propidiumm Iodide (ID: ???) / Hoechst 33342 (ID: 8157)) in growth medium (no
+GFs added).  1634 PM Media ID: 12912
+
+5\. Remove excess media so that scaffolds sit on the bottom of well without
+moving.
+
+6\. Image the stained scaffolds with the Zaber.  1502 PM
+
+  * Phase, nuclei (355)  dead (555)
+
+  
+
+  
+
+
+Observations
+
+
+Visual Observations:
+
+The biogel component of the scaffold has begun to significantly breakdown by
+day 6 in culture, this may be due to the following:
+
+\- Insufficient initial crosslinking: Scaffolds may have been too thick for
+the crosslinker to initially penetrate, or not enough time given.
+
+\- Calcium from the caclium alginate matrix has leached out resulting in the
+matrix falling apart.
+
+\- Proliferation of the cells has resulted in mechanical stress in the matrix
+resulting in breakdown.
+
+This made transferring the scaffolds to the well plate quite difficult.
+Appropriate washes with PBS could not be done under fear that scaffolds would
+break down further.
+
+Cells that have seperated from the gel has proliferated significantly faster
+than those in the gel, leading to a higher metabolic load on the media.
+
+  
+
+Following experiment will need to incorporate or investigate the following:
+
+\- A method for transferring scaffolds will need to be developed: Such as
+using the scaffold cages previously developed.
+
+\- Investigate how to maintain structural integrity of the scaffolds until end
+of culture cycle.
+
+  
+
+Imaging Observations:
+
+Initial observations showed a heterogenous population of live and dead cells
+which is to be expected. An approximate (very rough) estimate will 66%
+viability across all conditions. Cells encapsulated in the pork bun gel
+appears to have proliferated in clumps/streaks through out the gel, even when
+it has broken apart to some degree. The secondary components did not uptake
+the cells as expected, this was seems to be due little cell migration through
+the gel before delamination of the secondary material from the biogel.
+
+How much of the cell death was due to the high metabolic load placed on the
+media by the rapidly proliferating suspension cells that escaped into the
+media is yet to be determined.
+
+
+Results
+
+
+

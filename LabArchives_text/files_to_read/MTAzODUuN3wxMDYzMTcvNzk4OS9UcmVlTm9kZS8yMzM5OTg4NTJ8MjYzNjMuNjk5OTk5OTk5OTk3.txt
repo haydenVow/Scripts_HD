@@ -1,0 +1,32 @@
+Performed by: LL
+Ranger info
+Vessel ID  
+Condition  
+Location  
+  
+12038-Nuvonis Quail Suspension341-P-1of1  
+Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Main lab, 141  
+
+
+Reagent  
+ID  
+  
+Freestyle medium (included GFs)  
+M12324  
+
+
+Process
+  
+  
+  1. Took 1 x 550 uL sample from culture 
+  2. Performed count using ViCell and manually
+  3.  ~~If cells doubling rate is 24H or less, prepared media to move cells into 50/50 RPMI/HyCell mix.  ~~If cell doubling rater is over 24H, prepared 10 mL x Freestyle media with growth factors (cell doubling rate >24H) 
+    1. Cell count (manual): 17,700,000
+    2. Cell count (ViCell): 38,000,000
+  4. Added 10 mL warmed medium to flask
+  5. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+

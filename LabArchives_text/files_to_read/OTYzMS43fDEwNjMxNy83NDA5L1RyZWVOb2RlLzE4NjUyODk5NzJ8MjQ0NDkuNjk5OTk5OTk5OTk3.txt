@@ -1,0 +1,108 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:  vb  
+
+
+
+
+Culture IDs:
+
+Flask typeSeeded vessel typeSeeded flask IDAGGREGATION METHOD  
+Media  
+3X 10CF4x 10CS11156-F_KUZCO20324-P6-2of5  
+  
+CHOMP AGGREGATION METHOD  
+2.625L Media+VitC (50ug/mL)+TGFb (10ng/mL) 0.5mL VitC/L = 1.313mL total 50uL
+TGFb/L = 0.131mL total  
+  
+11157-F_KUZCO20324-P6-3of5  
+  
+11158-F_KUZCO20324-P6-4of5  
+  
+1x 5CS11159-F_KUZCO20324-P6-5of5  
+  
+1x 5CS  
+11164-F_KUZCO20324-P6-5of5  
+  
+DOLLY AGGREGATION METHOD 375 mL DMEM/F12 20% FBS + VitC (0.5mL/L = 0.188mL
+VitC needed)  
+  
+  
+.
+
+
+
+
+Media/Reagents used:
+
+NameID  
+Volume used (mL)  
+Growth media (IH012 D/F+20%FBS) (for dolly method)  
+a10843  
+375mL  
+  
+Vit. C  
+A10219  
+0.188mL  
+  
+Growth media (for chomp method)  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted  mL of  D/F+20%FBS
+  2. Placed in water bath  11:00   
+
+  3. Removed  50  % of supernatant from vessel. 
+  4. Replaced with  750mL (10CSs) or 375mL (5CSs)  per vessel  of  Growth   media. 
+  5. Returned vessel to incubate at: 12:45
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells) in the library lab
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77,78), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+  
+
+
+
+
+SOPs and other Relevant Information for this Experiment:
+
+  * ### F_KUZCO20 Prototype Expansion Timeline and Doublings Tracker
+
+  * ### Pipeliners 5 Prototypes Production Gantt chart Q1 2022:
+
+  * ### Incubator Space Tracker
+
+

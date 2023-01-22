@@ -1,0 +1,106 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + 50ug/mL Vitamin C +10ng/mL TGF
+
+Total media required: 30mL
+
+
+
+
+Culture ID to feed (72h exposure only)  
+
+Vessel type(s)  
+Vessel ID  
+VitC volume (LAA2P)  
+TGFb volume  
+  
+T175  
+6750-DOLLY12-Sheep P11-2of4  
+15 uL  
+150 uL  
+  
+  
+6749-DOLLY12-Sheep P11-1of4 * negative control  
+6750-DOLLY12-Sheep P11-2of4 * 72h exposure  
+6751-DOLLY12-Sheep P11-3of4 * 48h exposure  
+6752-DOLLY12-Sheep P11-4of4 * 24h exposure
+
+
+
+
+Process:
+
+1\. Aliquotted 30 mL mL of  DMEM/F12 + 20% FBS + 1X P/S Media into 1 tube(s).
+
+Added 15 uL of LAA2P (final conc 50ug/mL) and 150 uL of TGFb (final conc
+10ng/mL).
+
+Placed in water bath  13:25 - 13:40 pm
+
+2\. Removed  100 % of supernatant from vessel.
+
+3\. Replaced with  30 mL (per well/per vessel) of  Growth media.
+
+4\. Returned vessel to incubate at: 13:42
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77  ), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+100  % media changed on vessel(s)
+
+  1. 6750-DOLLY12-Sheep P11-2of4
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediaM 4929  
+30  
+  
+LAA2P Stock  
+M 2717  
+0.015  
+  
+TGFbA 4449  
+0.150  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

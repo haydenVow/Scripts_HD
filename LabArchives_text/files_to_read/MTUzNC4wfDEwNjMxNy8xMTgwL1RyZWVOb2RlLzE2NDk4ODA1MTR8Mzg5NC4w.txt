@@ -1,0 +1,168 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: Adrian Kotevski  
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flasks ID(s)Seeded Flasks ID(s)Seeded Flask Type  
+  
+6787-MOCHA-Mouse P1-2of5  
+6788-MOCHA-Mouse P1-3of5  
+6789-MOCHA-Mouse P1-4of5  
+6790-MOCHA-Mouse P1-5of5  
+6825-MOCHA-Mouse P2-1of3  
+6826-MOCHA-Mouse P2-2of3  
+6827-MOCHA-Mouse P2-3of3  
+T175  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    40   mL in   1x 50 mL    tube
+  2. dPBS (for neutralising)    80   mL in    1x 120 mL    pot
+  3. Growth media (for pellet resuspension):    10   mL in    1x 15 mL    tubes
+  4. Growth media (for seeding):    90   mL in    1x 120 mL   pot    12:56
+  5. Times that all aliquots were placed in the water bath to warm before use  11:28 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    10   mL tryple to each vessel/well and incubated at 37˚C for
+15    min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was   11:58   \-  12:13
+
+4\. Neutralised with    10 mL   dPBS (warmed) and combined cell suspension
+into a    2x 50 mL   tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  12:26  \-  12:31 
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      6  mL    Growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was:    4,728,000  
+
+
+
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was:    6 mL  
+
+12\. Transfer   6000 µL of cell suspension to the pre-warmed  90 mL Growth
+Media.
+
+13\. Transfer cell suspension into (non-gelatin coated)  3x T175 flasks.
+
+14\. Transfer flask/plate(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleM4949  
+  
+dPBS (for washing & neutralising)A4808  
+  
+Growth MediaM4917  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Cell count was just under 5M which was quite low given that 6M cells were
+thawed on the 17th of May
+
+\- Cells were seeded at ~9K per cm2 into 3x T175 flasks to keep the density
+high
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because... low cell count
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recDwNox0XjJFmt4a/images (6787),
+Friday May 21
+
+https://mia-capture.vow.tools/#/session/recVJf9elW4MBLEC5/images (6788),
+Friday May 21
+
+https://mia-capture.vow.tools/#/session/recFabTdjmPHcwQHL/images (6789),
+Friday May 21
+
+https://mia-capture.vow.tools/#/session/recCBL5VnTdgo3a1A/images (6790),
+Friday May 21
+
+

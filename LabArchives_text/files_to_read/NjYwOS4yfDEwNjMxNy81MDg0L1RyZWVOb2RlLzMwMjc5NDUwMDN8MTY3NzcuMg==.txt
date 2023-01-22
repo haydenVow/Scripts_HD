@@ -1,0 +1,111 @@
+
+
+Process:
+
+1\. Pre-load the designed 24>6 well plate 1-well picking protocol in the
+Opentrons software.
+
+2\. Aliquot 5 mL of the desired media required for the media runs and place in
+water bath to warm up 16:30
+
+  1. Growth media used was CD CHO + 10%KSR + 1:100 ACA + 4mM L-glutamine
+
+3\. Set up the Opentrons deck according to the layout prescribed in the
+designed protocol (See here)
+
+4\. Perform a dry run without any reagents to confirm that the protocol works
+as expected. Also note down the time it takes for the Opentrons to complete
+the entire process, from the moment it moves to retrieve a tip to the moment
+it then dispenses that tip. This will be used as a benchmark before we make
+adjustment to improve the protocol.
+
+  1. Total time taken: 
+
+5\. Add 500 uL of growth media to well A1-A6 of the 24 well plate. These wells
+will be used to test to Opentrons settings such as aspiration height, dispense
+speed etc.
+
+6\. Perform the Opentorns run for a single well (i.e. well A1) with the pre-
+defined settings. Note down any observations or recommendations to improve the
+speed/efficiency of the protocol. Again note down the time taken.
+
+  
+
+  
+
+Run 1:
+
+Observations/adjustments:
+
+\- Aspiration/dispense speeds all adjusted to 1000 uL/s
+
+\- Included a mix step after the transfer to resuspend the cells into the
+6-well plate
+
+\- Aspiration height adjusted from 1 mm to 0.5 mm for the transfer step
+
+Total time taken for 1-well: 43 seconds
+
+Run 2:  
+
+Observations/adjustments:
+
+\- performed with growth media
+
+\- lots of bubble formation when aspirating 450 uL, also pipette tip could
+aspirate any media at 0.5 mm from the base of the 24-well
+
+Time taken for 1-well: 43 seconds
+
+Run 3:  
+
+Observations/adjustments:
+
+\- Aspiration height of 0.5 mm during the transfer step was adjusted to 1mm.
+
+\- Volume aspiration during the first mixing step was lowered to 350 uL- still
+too much foaming
+
+Time taken for 1-well: 43 seconds
+
+Run 4:  
+
+Observations/adjustments:
+
+\- Volume aspiration during the first mixing step was lowered to 300 uL-
+resulted in less bubbles however a significant amount of liquid is left behind
+following the final aspiration
+
+Time taken for 1-well: 43 seconds
+
+Run 5:  
+
+Observations/adjustments:
+
+\- Aspiration height was readjusted to 0.5 mm however about 100 uL of media is
+left remaining in the 24 well- likely due the hgiher surface are of the well
+with the media spread evely across it.
+
+\- Requires further troubleshooting
+
+  
+
+
+
+7\. Repeat step 6 to refine the protocol noting down any observations and/or
+adjustment made
+
+8\. Once the protocol is finalised perform a media run for at least 4 wells,
+observing if the protocol works as intended and the time taken for multiple
+wells.
+
+9\. Attach the finalised protocol below
+
+
+
+
+Finalised protocol for 24>6 1-well picking for suspension cells
+
+Note* Not currently finalised- requires additional troubleshooting
+
+

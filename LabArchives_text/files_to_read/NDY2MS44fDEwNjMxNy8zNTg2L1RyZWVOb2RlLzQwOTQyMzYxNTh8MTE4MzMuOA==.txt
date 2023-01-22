@@ -1,0 +1,196 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Tom Tarento  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)Amount  
+  
+Growth Media (Serum Control)M6109  
+26.4 mL  
+  
+Growth Media (Low Serum with Poloxamer 188)  
+6279  
+~500 mL  
+  
+Hydrolysate 1 stock Difco Select Phytone UF  
+S6200  
+10 g  
+  
+Hydrolysate 2 stock BBL Phytone Peptone  
+S6201  
+10 g  
+  
+HDAC 1, 50 ug, 87 uL  
+S3137  
+30 ug (53 uL)  
+  
+HDAC 2, 50 ug, 18 uL  
+S3136  
+30 ug (11 uL)  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2  
+M6282  
+2.4 mL  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L BBL Phytone Peptone  
+M6283  
+2.4 mL  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L Difco Select Phytone UF  
+M6284  
+2.4 mL  
+  
+GM + 0.1 ug/mL HDAC1  
+M6285  
+26.4 mL  
+  
+GM + 0.1 ug/mL HDAC2  
+M6286  
+26.4 mL  
+  
+GM + 5 g/L BBL Phytone Peptone  
+M6287  
+2.4 mL  
+  
+GM + 5 g/L Difco Select Phytone UF  
+M6288  
+2.4 mL  
+  
+  
+###  
+
+
+
+
+Preparation of media conditions:
+
+*All conditions, except for the serum control, will be in the same standard growth media which will be DMEM/F12 + 2% FBS + 1X P/S. The only difference will be the HDAC and/or hydrolysate supplementation added. 
+
+Prep of both hydrolysate stock solutions:
+
+Before adding the hydrolysates into the media they will first have to be
+prepared as a stock solution. To make it easier in determining how much of the
+stock solution needs to added to the growth media its best to prepare a stock
+solution of 10% (w/v) (i.e. 100g of hydrolysate in 1 L of Milli-Q water).
+Fortunately, if 1 L of solution is not required the volume can be easily
+adjusted.
+
+1\. Retrieve hydrolysates from the cell expansion fridge - BBL Phytone Peptone
+Stock #372 and Difco Select Phytone UF Stock #3489. 12:30
+
+2\. Weigh out ~~0.5  ~~10 g of each hydrolysate.
+
+3\. Add the ~~0.5~~ 10 g powder to ~~5~~ 100 mL of Milli-Q water. According to
+this technical sheet the hydrolysates should be soluble in purified water and
+the solution should appear to be clear to slightly hazy.
+
+4\. Sterile filtered the dissolved hydrolysate solution through a 0.22 um
+filter unit in the LIBRARY LAB. This concentrate can then be used to add the
+hydrolysates into the growth media. NOTE: BBL Phytone Peptone solution passed
+through filter very slowly, clogging twice and requiring 2x fresh filters to
+sterilize entire 100 mL volume. Would recommend testing autoclaving next time.
+
+5\. Store solution at 4'C for 2-4 weeks.  
+
+Please make sure that whenever media containing hydrolysates is required, that
+it is prepared on or as close to the day its required as possible. In order to
+make media with hydrolysates at 5g/L just add 0.05 mL (50 uL) of the
+hydrolysate concentrate to 3 mL of growth media.
+
+Thaw HDACs and transfer to GM:
+
+  1. Remove vials from the -80 deg C freezer
+  2. Thaw at room temperature with periodic gentle agitation
+  3. Centrifuge to recover as much of the solution as possible
+  4. Remove as much of the solution as required and return remainder to -80 deg C freezer
+    1. HDAC1 570 ug/mL, 50 ug = 87 uL (150 mL of HDAC1 in GM at 0.2 ug/mL -> 53 uL of stock solution into 150 mL of GM)
+    2. HDAC2 2730 ug/mL, 50 ug = 18 uL (150 mL of HDAC2 in GM at 0.2 ug/mL -> 11 uL of stock solution into 150 mL of GM)
+  5. Sterile filter the GM + HDAC solutions
+
+Prepare test media:
+
+  1. Combine reagents to make 24 mL GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+    1. 12 mL of GM + HDAC1 solution 0.2 ug/mL
+    2. 12 mL of GM + HDAC 2 solution 0.2 ug/mL
+  2. Combine reagents to make 24 mL GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+ HDAC 2 (0.1ug/mL) 
+    1. 11.4 mL of GM + HDAC1 solution 0.2 ug/mL
+    2. 11.4 mL of GM + HDAC 2 solution 0.2 ug/mL
+    3. 1.2 mL of BBL Phytone Peptone 100 g/L
+  3. Combine reagents to make 24 mL GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)  \+ HDAC 2 (0.1ug/mL) 
+    1. 11.4 mL of GM + HDAC1 solution 0.2 ug/mL
+    2. 11.4 mL of GM + HDAC 2 solution 0.2 ug/mL
+    3. 1.2 mL of Difco Select Phytone UF 100 g/L
+  4. 230 mL GM + HDAC 1 (0.1ug/mL)
+    1. 115 mL of GM + HDAC1 solution 0.2 ug/mL
+    2. 115 mL of GM
+  5. 230 mL GM + HDAC 2 (0.1ug/mL)
+    1. 115 mL of GM + HDAC2 solution 0.2 ug/mL
+    2. 115 mL of GM
+  6. Combine reagents to make 24 mL GM + Hydrolysate 1 (BBL Phytone Peptone)5 g/L
+    1. 22.8 mL of GM
+    2. 1.2 mL of BBL Phytone Peptone 100 g/L
+  7. Combine reagents to make 24 mL GM + Hydrolysate 2 (Difco Select Phytone UF)5 g/L
+    1. 22.8 mL of GM
+    2. 1.2 mL of Difco Select Phytone UF 100 g/L
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM control
+
+[x] 250 mL GM + HDAC 1 (0.1ug/mL)
+
+[x] 250 mL GM + HDAC 2 (0.1ug/mL)
+
+[x] 25 mL GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+
+[x] 25 mL GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+
+[x] 25 mL GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L
+
+[x] 25 mL GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)
+\+ HDAC 2 (0.1ug/mL)
+
+[x] 25 mL GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1
+(0.1ug/mL)  \+ HDAC 2 (0.1ug/mL)
+
+  
+
+  
+
+
+
+
+SOPs used:
+
+  * None
+
+  
+
+Summary: None  
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

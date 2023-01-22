@@ -1,0 +1,71 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+
+
+To determine which media ingredients in CHO-in-one are limiting
+reagents/factors to support Nuvonis cell growth to a density of 7.5M cells/mL.
+
+To determine the complete list of ingredients in fresh medium, and a list of
+high-concentration toxic metabolites in the spent medium.
+
+
+Hypothesis
+
+
+We expect:
+
+  * Certain media ingredients will deplete in CHO-in-one, which will limit the density to which cells can proliferate when cultured in a batch-mode. 
+  * to be able to determine what these limiting factors are by comparing the depletion of ingredients with respect to the proliferation of cells over time, and comparing these ingredients to the profile the same in spent media from positive control conditions where cells continue to proliferate up to a density of 7.5M cells/mL. 
+  * to be able to determine what concentrations these ingredients should be altered to, by comparing the concentration of these ingredients in CHO-in-one to those in positive control conditions HyCell and Freestyle. 
+  * Certain common metabolites, such as lactic acid from carbon metabolism and ammonia from nitrogen metabolism, will build up and inhibit cell growth  
+
+
+Technical Gap
+
+
+Assumptions, rationale and strategy: see Notion page for
+
+Approach: we will test our hypotheses by culturing cells in batch-mode in E125
+shake flasks in test culture media (CHO-in-one) vs positive controls (HyCell
+and Freestyle), and sample cells every day for analyses (HPLC) to determine
+ingredient depletion profiles against matched cell proliferation data.
+
+
+Method/Procedure
+
+
+See experimental conditions and timeline below:
+
+  * no media changes or additions are performed
+  * end of experiment is variable, and determined by the day on which all cultures have plateaued in cell density. 
+  * cells are seeded from manufacturing ST-18 stock
+  * cells are seeded when the stock flask is at a density of no lower than 400k cells/mL and no higher than 700k cells/mL to ensure they are within the log phase of growth
+  * if there are abnormalities observed in growth of controls, cells may be reserved from the endpoint of this experiment, and re-seeded again into the same conditions to account for poor growth in an adjustment period
+
+Measurements taken each day:
+
+1\. Proliferation data:
+
+  * x1 sample of 0.10-0.25mL taken each day to perform cell count. Measured by ViCell count. 
+
+2\. Analyte data:
+
+  * reserve x1 1mL media sample from each culture
+    * spent media analyses by HPLC (spin down cells and reserve media), store frozen at -20degC
+    * reserve cell pellet for elemental composition
+  * samples are sent for HPLC 
+
+Analysis
+
+  * cell count is measured each day at approximately the same time of day
+  * cell density is plotted each day over entire duration time
+  * doubling time calculated for cells over entire duration of culture - this will determine a baseline for Freestyle and HyCell controls
+  * cell growth curve is fitted to exponential curve - this will serve as a control to ensure results are comparable between conditions 
+  * Total list of ingredients in the medium is analyzed, plus any likely waste metabolites
+  * Depletion of ingredients and accumulation of waste metabolites in CHO spent medium to be compared with the same in control media conditions, with respect to cell growth at the same time.
+
+

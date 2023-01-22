@@ -1,0 +1,90 @@
+
+
+Maturation Bioreactor design ideas:
+
+  * pressurized reactor? when applying pressure, carriers are condensed and encapsulated cells are subjected mechanical strain (active, controllable)
+    * using compressed gas (pneumatics) to apply pressure to headspace gas phase
+    * better O2 exchange due to shorter diffusion distance and higher DO (gas solubility under pressure)
+  * bubble bioreactor to keep MCs afloat
+  * rotating wall vessels
+  * wave tanks (rocker)
+
+  
+
+Prototypes:
+
+  * 6well plate at start: MSC, osteoblast, chondrocytes
+  * System 1: Cartigen HP hydrostatic bioreactor
+    * 3D printed chamber
+    * 0-330kPA, 0.001-4Hz, time 
+    * 2.5-3x atmospheric pressure to turn MSC into bone, much less needed to increase proliferation  \--> can we do both in one system? seed MuSCs in gels and growth media and gently stimulate in bioreactor to encourage proliferation, once "confluent" switch to E6 and increase pressure to mature
+  * System 2: PneuJ2 or H3
+
+  
+
+Muscle sample format/scaffold
+
+  * alginate sphere, e.g. 4mm and 3% alginate for muscle, 200 mM Calcium to crosslink for 2 min 
+    * we can already easily make 3 mm spheres in the lab by dropping Alginate into a Calcium bath)
+    * further testing in planning with multiple Alginate gel densities (control cell mobility!) and cell seeding density (need 10M or higher in Alginate since no natural binding sites available, need to rely on cell-cell proximity and communication)
+    * we can also destabilize the gels post maturation or during maturation to remove the matrix post-maturation
+      *  chelate Calcium using sodium citrate at 155 mM + 55 mM NaCl, 30 min exposure
+  * other gel matrices: alginate, collagen, fibrin
+    * alginate great from supply chain perspective
+  * gel density controls compressibility in hydrostatic bioreactor
+  * gelbead buoyancy can be controlled by increasing pressure (which in turn changes gelbead density)
+  * make our own carriers of undetermined homogeneity or use uFl to control size
+
+  
+
+Other ideas:
+
+  * use CO2-independent media and use atmospheric gas? reduce CO2 footprint and muscle grows better in CO2 independent media
+  * commercial formulation, doesn`t use glucose as carbon source, uses galactose, leads cells down different metabolic pathway
+  * with pneumatic need to otherwise recycle incubator gas to maintain CO2
+  * Marie to chat with James about ACF
+
+Electrical Stimulation Notes:
+
+  * James using PT electrodes, current-based vs field-based stimulation
+    * the latter being potentially more useful for us because electrodes don`t need to be in touch with the samples/media, descreasing risk of contamination and toxic metals as well as electrolysis, see attached paper for more info
+  * Constructs are stimulated using platinum electrodes embedded in the flight hardware culture chambers. Stimulations are performed via bipolar square wave pulses applying 1ms +10V followed by 1ms -10V with a 18 msec gap to the next pulse. A train of 25 pulses stimulate for 0.5s followed by a 4.5s rest period without stimulation. Contractile activity is sensed using Electrochemical Impedance Spectroscopy (EIS) to detect changes in resistor-capacitor properties caused by the change in cell geometry
+
+
+
+
+Images
+
+
+
+
+Follow Up conversations with Ella and James H.
+
+Ella: "paper attached. So I ended up using static applications of 5 MPa and
+had to use a very specialised vessel to reach these pressures (I placed 3D
+printed alg/MC scaffolds embedded with chondrocytes inside syringes containing
+media, which where then capped off and placed in a custom made rack inside a
+HP vessel filled with water). I based this pressure magnitude on the meta-
+analysis study I performed in this paper. I found that there were a lot of
+different groups applying a lot of different pressures in different ways and
+wanted to narrow down which parameters would likely work best for my cell type
+and purpose (I also looked at the effect on collagen II but didn't include it
+in the paper). In the write up you state you would use '0-330kPA, 0.001-4Hz,
+time' this is a lot lower than what I was using for stimulating chondrocytes,
+so likely wouldn't need a special device. I'm assuming these parameters are
+based on Jame's first hand experience? Happy to chat about this in person or
+on a call :)"
+
+  
+
+James:
+
+RE: the media optimisation, I've been reading a few very interesting papers on
+galactose metabolism (the CO2 independent liebowicz media uses galactose)
+suggesting it might be ideal for the proliferation phase, and could even
+inhibit unwanted differentiation and fusion
+(https://pubmed.ncbi.nlm.nih.gov/23940640/).
+
+  
+
+

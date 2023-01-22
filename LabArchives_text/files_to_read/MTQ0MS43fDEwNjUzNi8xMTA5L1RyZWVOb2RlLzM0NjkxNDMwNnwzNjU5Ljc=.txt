@@ -1,0 +1,97 @@
+Harvest 6xT75 containing BioNOC II macrocarriers
+  
+  
+Procedure
+
+Harvesting cells with TrypLE:
+
+Before starting this procedure, remove 1 BioNOC carrier from each flask for
+DAPI imaging. Also test the pH of discarded media  
+
+  1. Remove media from flask.
+  2. Gently rinse the carriers with 10mL dPBS.
+  3. To perform enzyme dissociation with TrypLE, add 10 ml to flask and incubate at 30'C for 5-15min. To ensure the carriers stay submerged in the TyrpLE stand the flask upright with the flask lid facing the roof of the incubator.  
+* For this experiment all (1) Flasks from each group were TyrpLEd for 5min and all (2) flasks were TrypLEd for 15min.
+  4. After the incubation period, transfer the enzymes into a 50mL centrifuge tube.
+  5. Add 10mL dPBS into the flask containing the carriers and vigorously mix to dislodge any remaining cells.
+  6. Again transfer solution into the corresponding 50mL centrifuge tube containing the TrypLE.
+  7. Repeat steps 5 and 6 at least 3 more times with dPBS.
+  8. Centrifuge cell suspension, aspirate supernatant and re-suspend cells in lower volume to obtain cell count.
+
+Note: Add sufficient volume of enzyme to completely submerge the carriers (Add
+1.5 to 2 ml of enzyme for every 10 carriers in the flask). The flask may have
+to be tilted to a corner during the incubation period to completely submerge
+the carriers
+
+Passage:
+
+* Cells from flask (1) in the 7,500cell/cm2 seeding condition were kept and seeded into a T25 flask to check the viability of these cells after harvesting
+
+  1. Following the cell count, the correct amount of cells were resuspended in fresh media (6mL)
+  2. This cell containing media was then seeded into a T25 flask and the flask placed in an incubator at 30'C and 5% CO2
+
+
+
+
+Results:
+
+Number of carriers in each flask:
+
+15,000 (1): 26, final cell density = 13,646cells/cm2  
+15,000 (2): 25, final cell density = 13,936cells/cm2  
+7,500 (1): 24, final cell density  = 4,831cells/cm2  
+7,500 (2): 24, final cell density  = 5,740cells/cm2  
+5,000 (1): 24, final cell density = 3,460cells/cm2  
+5,000 (2): 25, final cell density = 3,326cells/cm2
+
+  * Harvested Cell density was slightly less than the seeding density suggesting that the cells did not grow/proliferate at all over the 6 days of incubation. After speaking with people at Esco Aster it was understood that this could be due to a lag phase of adaption by the cells to the 3D surface and that perhaps this experiment was too short. 
+  * In regards to TrypLE times, both 5min and 15min produced very similar cell yields in all conditions. For this reason a comfortable incubation time of 10min should be sufficient for harvesting cells from BioNOC in future experiments.   
+  
+  
+
+
+
+
+Procedure
+
+DAPI Pre-harvest Staining:
+
+* Images saved under 10748
+
+1. 1 BioNOC was taken from each flask using sterile forceps BEFORE the harvest    
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image
+
+Results:
+
+  * Cells are still visibly attached but it is hard to tell if they have grown
+  * The 5,000cells/cm2 condition still looks like it has less cells than the other two groups
+
+Example Images of Cells:
+
+  
+
+Post-harvest Staining:
+
+* Images saved under 10748
+
+1. 1 BioNOC was taken from each flask using sterile forceps AFTER the harvest    
+2\. Add 1mL 70% Ethanol to each well for 15 minutes  
+3\. Remove ethanol and wash with dPBS  
+4\. Add DAPI (1:1000) in dPBS for 5min  
+5\. Remove all liquid and image
+
+Results:
+
+  * Some cells were still present on the carriers but the vast majority were detached
+  * These images are in line with the images from Esco Aster showing cell attachment post harvest and so can be considered a successful harvest method
+
+Example Images of Cells:
+
+  
+
+
+Before TrypLE
+After TrypLE

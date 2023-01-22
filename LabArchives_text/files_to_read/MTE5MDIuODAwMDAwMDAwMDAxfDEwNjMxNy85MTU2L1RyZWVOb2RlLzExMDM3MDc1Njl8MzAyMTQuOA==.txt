@@ -1,0 +1,44 @@
+
+
+Given that our way of nucleofecting cell lines is limited by our neon
+nucleofection format at present, we decided to consult with IDT on the scale
+of CRISPR screen we could run in house.
+
+In our first meeting we covered a few basic questions around whether IDT could
+support the scale of this experiment for us.  
+See meeting notes here https://www.notion.so/vow/IDT-CRISPR-screen-
+meeting-40018ee16fd74bf288dda9be7fd99d43  
+  
+Since this meeting we have learned the following things about IDT and there
+processes that inform the design of our experiment.
+
+  1. IDT can supply us with a pooled gRNA sample of up to 2000 guides at the concentrations listed on their website. 
+  2. IDT can produce single or pooled gRNA samples in 96 well plates for us to then pool ourselves if we desire
+  3. IDT can not design guides for us without us giving them the full gene sequence for a gene of interest. 
+  4. IDT's guide design service is $40 an hour with the first two hours free, The sydney contact Sean Poh affirms that we can get this cost reduced with a large enough order. 
+
+Most recently we jumped on a call with Adam from IDT's Commercial Product
+Manager for Genomic Medicine & CRISPR to learn more about the limitations of
+using CRISPR guides at such low concentrations if we were to pool up to 2000
+of them for a nucleofection experiment. (see meeting notes here
+https://www.notion.so/vow/IDT-Discussing-limitations-in-pooled-CRISPR-
+experiments-ef22a76d5c904cd3b9b5d4d1326bd250)
+
+From this call we learned a few key takeaways about large scale CRISPR
+screens.
+
+  1. IDT suggested that complexing gRNA with Cas9 enzyme BEFORE pooling them will lead to greater cleavage efficiency per guide. (IDT validated this with up to 4 guides). 
+  2. CRISPR success per guide can be scaled linearly with volume and cell number. (i.e if you get 90% cleavage efficiency with 1uL of guide and 1000 cells, you should get the same efficiency with 100uL of guide and 1,000,000 cells).
+  3. Limitations in cleavage efficiency can be offset by scaling cell number in our experiment.
+  4. gRNA and Cas9 enzymes should be mixed in a molar ratio of 2:1 to ensure cleavage efficiency due to errors in chemical synthesis that cause truncated sequences in the guide pool.
+  5. Validating cleavage with a Mismatch Cleavage Assay would be a quick, qualitative, way to validate mutations without waiting for sequencing results. 
+
+From these discussions It makes sense to trial validating mutation success
+using diluted gRNA using one guide we have confidence in from earlier
+experiments. This experiment would give us a quick gRNA concentration capable
+of producing mutation success that we could use to estimate the gRNA
+concentrations in our pooled CRISPR screen.
+
+  
+
+

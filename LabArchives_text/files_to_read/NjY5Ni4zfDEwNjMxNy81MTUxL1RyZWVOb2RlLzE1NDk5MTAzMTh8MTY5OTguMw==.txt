@@ -1,0 +1,47 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/27544?vc_group_by=day&cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recY1OTXonfkAkQCC?blocks=hide  
+
+RELATED TO MILESTONE:  
+
+### KR2: Characterise 2 x QMS-compliant suspension-adapted fibroblast clones
+from our chosen species
+
+KR4: Establish and run a suspension pipeline at a rate of 10,000 clones per
+month
+
+AIM/PURPOSE: Perform a suspension SCC run of CHOMP fibroblasts using ultra low
+attachment plates and/or coatings to prevent cell adhesion.
+
+HYPOTHESIS:  Incorporation of low attachment plates and/or coatings will
+prevent CHOMP fibroblasts from adhering to culture surfaces and enable them to
+survive in suspension such that we will attain ≥1 clonal cell line adapted to
+suspension.
+
+RESULTS SUMMARY:
+
+See final report
+
+CONCLUSIONS:
+
+Despite FACS sorting CHOMP_09 fibroblast into 384 ULA for cloning and
+suspension adaptation, we were unable to confirm if the cell-like objects
+observed after 24 days in culture were conclusively fibroblasts. Thus we were
+unable to confirm the hypothesis. In spite of various shortcomings, including
+Zaber imaging and hoechst staining these results highlight a potential avenue
+for further exploration for suspension adaptation in static conditions. Whilst
+the use of 384 ULA plates appears critical for this process, substitute
+methods to track the performance of suspension clones across a certain time
+period is highly required.  
+
+NEXT STEPS:
+
+  * Find alternatives to Zaber image scanning and hoechst staining in order to quantify the presence of cells. Suitable alternatives include live/dead stains with lower cytotoxicity or metabolic assays. See limitations section for rationale.  
+  * Continue evaluating the effectiveness of several ULA coatings and semi-solid mediums such as agarose, methylcellulose and poloxamer
+  * Repeat FACS sorting of CHOMP fibroblasts into 384 ULA plates to confirm this process is feasible in generating CHOMP fibroblasts capable of proliferation in suspension like conditions
+
+

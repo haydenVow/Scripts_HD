@@ -1,0 +1,292 @@
+
+
+## Performed by:
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Tested for sterility
+
+  1. Took a sample and transfer it to the well of a well plate.
+  2. Observed the sample under the microscope.
+    1. Signs of contamination include cloudy culture medium, motile particles visible under the 60x or 100x objective.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp16:24  
+  
+NotesNot performed as we do not have 100x objective on microscope  
+  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1. Ran the calibration routine as per the operating manual
+    1. Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.
+    2. Set that level as 0%
+    3. Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.
+    4. Set that level as 100%
+
+ReferenceOperating manual page(s) 76, 43  
+  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp16:25  
+  
+NotesNot performed as nitrogen not available  
+  
+  
+  
+  
+
+
+
+
+Set level probe
+
+  1. Loosened the nut around the antifoam/level probe.
+  2. Gently rotated and pulled the probe out until it reached the desired height.
+  3. Tightened the nut until finger tight.
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp16:25  
+  
+NotesLeft at level as installed (at ~1.5 L mark)  
+  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp16:27  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.
+    1. Refer to lab book for source of cells: https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjAzLjJ8MTA2MzE3LzQ2NC9UcmVlTm9kZS8zMDgyNDgzNjJ8MTUzMS4xOTk5OTk5OTk5OTk4
+    2. Took 25/39 mL of 137280000 cells = 88 million
+  6. Navigated to Settings -> Data Logger
+  7. Clicked Insert Marker
+  8. Followed the prompt, named marker "SeededBatch"
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp17:04  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Harvest Culture IDHarvest Lab Book URL  
+Bioreactor Culture ID  
+  
+7140-DOLLY12-Sheep P11-1of6  
+7141-DOLLY12-Sheep P11-2of6  
+7142-DOLLY12-Sheep P11-3of6  
+7143-DOLLY12-Sheep P11-4of6  
+7144-DOLLY12-Sheep P11-5of6  
+7145-DOLLY12-Sheep P11-6of6  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NjAzLjJ8MTA2MzE3LzQ2NC9UcmVlTm9kZS8zMDgyNDgzNjJ8MTUzMS4xOTk5OTk5OTk5OTk4  
+7193-DOLLY12-Sheep P12-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Growth MediaM5509  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+Programmed the feed schedule:
+
+  1. To create a schedule to to turn on the pump after 2 days (48 hours) for 22.5 minutes (~450 mL at ~20 mL/minute), followed the instructions below:  
+
+    1. Opened the SUBS-B pump menu
+    2. Changed the SUBS-B MODE to MANUAL:OFF  
+
+    3. Opened the PROFILE sub-menu
+    4. Set a timepoint for 000:00:00 with 0% pump output.
+    5. Set a timepoint for 048:00:00 with 0% pump output.  
+
+    6. Set a timepoint for 048:00:01 with 100% pump output.
+    7. Set a timepoint for 048:22:30 with 100% pump output.
+    8. Set a timepoint for 048:22:31 with 0% pump output.
+  2.  ~~To create a schedule to to turn on the pump again after 4 days (96 hours) for 45 minutes (~900 mL at ~20 mL/minute), followed the instructions below:  
+~~ ~~
+
+    1.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    2.  ~~Set a timepoint for 096:00:00 with 0% pump output.  
+~~
+
+    3.  ~~Set a timepoint for 096:00:01 with 100% pump output.~~
+    4.  ~~Set a timepoint for 096:45:00 with 100% pump output.~~
+    5.  ~~Set a timepoint for 096:45:01 with  ~~ ~~ ~~0% pump output.~~ ~~~~  
+~~
+
+~~
+
+  3. To program the pump to follow the schedule:  
+
+    1. Changed the SUBS-B MODE to PROFILE
+    2. Closed the menu
+
+Reference  
+  
+Operator initialsTT  
+  
+Checked by operator initialsLP  
+  
+Timestamp16:35  
+  
+NotesDid not schedule 96 hour feed, we will do this next week  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+None
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None
+
+

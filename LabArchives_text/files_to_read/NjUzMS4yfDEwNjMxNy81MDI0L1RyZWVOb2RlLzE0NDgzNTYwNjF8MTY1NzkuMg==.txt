@@ -1,0 +1,608 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+T1758837-F_CHOMP09-Crocodile P8-1of12  
+8838-F_CHOMP09-Crocodile P8-2of12  
+8839-F_CHOMP09-Crocodile P8-3of12  
+8840-F_CHOMP09-Crocodile P8-4of12  
+8841-F_CHOMP09-Crocodile P8-5of12  
+8842-F_CHOMP09-Crocodile P8-6of12  
+8843-F_CHOMP09-Crocodile P8-7of12  
+8844-F_CHOMP09-Crocodile P8-8of12  
+8845-F_CHOMP09-Crocodile P8-9of12  
+8846-F_CHOMP09-Crocodile P8-10of12  
+8847-F_CHOMP09-Crocodile P8-11of12  
+8848-F_CHOMP09-Crocodile P8-12of12  
+  
+  
+  
+  
+T1758849-F_DOLLY12-Sheep P8-1of2  
+8850-F_DOLLY12-Sheep P8-2of2  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Passage Culture IDs
+
+Passaged culture ID  
+Seeded Flask ID(s)Seeded Flask Type  
+8842-F_CHOMP09-Crocodile P8-6of12  
+  
+  
+8935-F_CHOMP09-Crocodile P9-1of3  
+8937-F_CHOMP09-Crocodile P9-2of3  
+8939-F_CHOMP09-Crocodile P9-3of3  
+  
+  
+  
+3 x 50 mL shake tubes  
+  
+  
+8843-F_CHOMP09-Crocodile P8-7of12  
+8940-F_CHOMP09-Crocodile P9-1of3  
+8941-F_CHOMP09-Crocodile P9-2of3  
+8942-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8844-F_CHOMP09-Crocodile P8-8of12  
+8943-F_CHOMP09-Crocodile P9-1of3  
+8944-F_CHOMP09-Crocodile P9-2of3  
+8945-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8845-F_CHOMP09-Crocodile P8-9of12  
+8946-F_CHOMP09-Crocodile P9-1of3  
+8947-F_CHOMP09-Crocodile P9-2of3  
+8948-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8846-F_CHOMP09-Crocodile P8-10of12  
+8949-F_CHOMP09-Crocodile P9-1of3  
+8950-F_CHOMP09-Crocodile P9-2of3  
+8960-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8847-F_CHOMP09-Crocodile P8-11of12  
+8955-F_CHOMP09-Crocodile P9-1of3  
+8959-F_CHOMP09-Crocodile P9-2of3  
+8957-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8848-F_CHOMP09-Crocodile P8-12of12  
+8958-F_CHOMP09-Crocodile P9-1of3  
+8956-F_CHOMP09-Crocodile P9-2of3  
+8951-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8837-F_CHOMP09-Crocodile P8-1of12,  
+8838-F_CHOMP09-Crocodile P8-2of12,  
+8839-F_CHOMP09-Crocodile P8-3of12,  
+8840-F_CHOMP09-Crocodile P8-4of12,  
+8841-F_CHOMP09-Crocodile P8-5of12  
+8952-F_CHOMP09-Crocodile P9-1of3  
+8954-F_CHOMP09-Crocodile P9-2of3  
+8953-F_CHOMP09-Crocodile P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8850-F_DOLLY12-Sheep P8-2of2, 8849-F_DOLLY12-Sheep P8-1of2  
+  
+8962-F_DOLLY12-Sheep P9-1of3  
+8963-F_DOLLY12-Sheep P9-2of3  
+8964-F_DOLLY12-Sheep P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8850-F_DOLLY12-Sheep P8-2of2, 8849-F_DOLLY12-Sheep P8-1of2  
+  
+8965-F_DOLLY12-Sheep P9-1of3  
+8966-F_DOLLY12-Sheep P9-2of3  
+8967-F_DOLLY12-Sheep P9-3of3  
+3 x 50 mL shake tubes  
+  
+  
+8850-F_DOLLY12-Sheep P8-2of2, 8849-F_DOLLY12-Sheep P8-1of2  
+9010-F_DOLLY12-Sheep P9-1of1  
+2CF  
+  
+8850-F_DOLLY12-Sheep P8-2of2, 8849-F_DOLLY12-Sheep P8-1of2  
+9011-F_CHOMP09-Crocodile P9-1of1  
+2CF  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsAmount  
+  
+Growth/Proliferation Media AM7993  
+  
+  
+Growth/Proliferation Media B  
+M7896  
+  
+  
+Growth/Proliferation Media C  
+M7992  
+  
+  
+Growth/Proliferation Media D  
+M7989  
+  
+  
+Growth/Proliferation Media E  
+M7990  
+  
+  
+Growth/Proliferation Media F  
+M7991  
+  
+  
+Growth/Proliferation Media G  
+m7989  
+  
+  
+Growth/Proliferation Media H  
+M7988  
+  
+  
+Chemically Defined Lipid ConcentrateS3200  
+  
+  
+PDGF  
+M7680  
+1.6 mL  
+  
+IGF  
+M7681  
+160 uL  
+  
+FGF  
+M5077  
+320 uL  
+  
+RGD peptide  
+5606  
+4.6  
+  
+YIGSR peptide  
+5580  
+27  
+  
+Tryple  
+  
+  
+  
+dPBS  
+  
+  
+  
+  
+  
+
+
+
+
+### Prepared bioreactor tubes and aliquotted media
+
+  1. Transferred 3 x 50 mL bioreactor tubes for each condition in the table below to the BSC.
+  2. Prepared the following media in a single bioreactor tube from each condition to be used for seeding (NOTE: the lipid concentrate, PDGF, IGF, FGF, RGD and YIGSR can be made up in a "bullet" and then added to each aliquot where required):
+
+Condition  
+Cells  
+Cells taken from this number of T175s  
+Cells seeded into this number of 50 mL bioreactor tubes  
+Volume of medium required for aliquot (mL)Starting mediumChemically Defined
+Lipid Concentrate (mL)PDGF (10 ug/mL)  
+IGF (100 ug/mL)  
+FGF (50 ug/mL)  
+RGD  
+YIGSR  
+  
+Negative control 75% feed  
+8837-F_CHOMP09-Crocodile P8-1of12  
+  
+8838-F_CHOMP09-Crocodile P8-2of12  
+  
+8839-F_CHOMP09-Crocodile P8-3of12  
+  
+8840-F_CHOMP09-Crocodile P8-4of12  
+  
+8841-F_CHOMP09-Crocodile P8-5of12  
+F_CHOMP09  
+1  
+3  
+16  
+A0  
+0  
+0  
+0  
+0  
+0  
+  
+Maintenance cells for subculture  
+  
+F_CHOMP09  
+At least 1 but up to 5  
+See EPIC21535  
+  
+Positive controls 75% feed  
+
+8849-F_DOLLY12-Sheep P8-1of2
+
+  
+F_DOLLY12  
+1  
+3  
+16  
+B0.16  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+Positive controls 100% feed  
+8850-F_DOLLY12-  Sheep P8-2of2  
+F_DOLLY12  
+1  
+3  
+16  
+B  
+0.16  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+18842-F_CHOMP09-Crocodile P8-6of12  
+F_CHOMP09  
+1  
+3  
+16B0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+28843-F_CHOMP09-Crocodile P8-7of12  
+F_CHOMP09  
+1  
+3  
+16C0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+38844-F_CHOMP09-Crocodile P8-8of12  
+F_CHOMP09  
+1  
+3  
+16D0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+48845-F_CHOMP09-Crocodile P8-9of12  
+F_CHOMP09  
+1  
+3  
+16E0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+58846-F_CHOMP09-Crocodile P8-10of12  
+F_CHOMP09  
+1  
+3  
+16F0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+68847-F_CHOMP09-Crocodile P8-11of12  
+F_CHOMP09  
+1  
+3  
+16G0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+7  
+8848-F_CHOMP09-Crocodile P8-12of12  
+  
+F_CHOMP09  
+1  
+3  
+16  
+H  
+0.16  
+  
+160 uL  
+(100 ng/mL)  
+16 uL  
+(100 ng/mL)  
+32 uL  
+(100 ng/mL)  
+0.46 uL  
+100 ng/mL  
+2.7 uL  
+100 ng/mL  
+  
+  
+Placed in water bath   : a/pm
+
+
+
+
+### Process:
+
+Below is information of the passage process. Refer to this when performing the
+passage, however input data and timestamps into the widget.
+
+1\. Took image of vessel with microscope on phase setting.
+
+ ~~2\. Gelatin coated  vessel with sterile filtered 0.1% gelatin solution and
+then incubated all coated flasks at 37~~ ~~˚C.~~
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  
+  2.  dPBS (for washing 
+  3. dPBS (for neutralising)
+  4. Growth media (for pellet resuspension)
+  5. Growth media (for seeding)
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added  tryple to each vessel/well and incubated at 37˚C for 10 minutes.
+Check flask under the microscope to see if cells have detached or need more
+time in tryple.
+
+7\. Neutralised with  dPBS and combined cell suspension into a tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in media
+
+11\. Aliquoted resuspended cells into a microcentrifuge tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet':
+
+  1. Recorded total cell number was
+  2. Determined volume of cell suspension required for subculture was
+  3. Recorded cell density per vessel
+
+Flask ID's  
+(Enter list or range format)Mean CountTotal Volume (mL)Cells/mLCells total  
+Volume to seed (mL)  
+Volume of Chomp control to add (uL)  
+  
+C1129.41.02,588,0002,588,000  
+  
+  
+  
+  
+  
+  
+  
+  
+1.00  
+0  
+  
+c2202.01.04,040,0004,040,000  
+1.00  
+0  
+  
+c3169.81.03,396,0003,396,000  
+1.00  
+70  
+  
+c4117.41.02,348,0002,348,000  
+1.00  
+170  
+  
+c5165.41.03,308,0003,308,000  
+1.00  
+70  
+  
+c6155.61.03,112,0003,112,000  
+1.00  
+90  
+  
+c792.81.04,640,0004,640,000  
+1.00  
+0  
+  
+Dolly control165.22.08,260,00016,520,000  
+0.50  
+0  
+  
+Chomp control93.22.09,320,00018,640,000  
+0.45  
+0  
+  
+  
+  
+
+13\. Transferred  cell suspension to the pre-warmed  Growth media
+
+14\. Split the cell suspension in each medium condition evenly between the 3 x
+50 mL tubes for each condition.
+
+ ~~15\. Left at RT in the BSC for 30 min to allow cells to settle  ~~
+
+16\. Transferred vessel(s) to shaking incubator
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+### Relevant Images
+
+T175 flask check pre-seeding
+
+ConditionCellsNumber of T175 flasksStarting mediumImage  
+Notes  
+  
+Negative controls8837-F_CHOMP09-Crocodile P8-1of12  
+  
+8838-F_CHOMP09-Crocodile P8-2of12  
+  
+8839-F_CHOMP09-Crocodile P8-3of12  
+  
+8840-F_CHOMP09-Crocodile P8-4of12  
+  
+8841-F_CHOMP09-Crocodile P8-5of12  
+5Ahttps://mia-capture.vow.tools/#/session/rec0NMzHMBffl0yIz/images  
+  
+https://mia-capture.vow.tools/#/session/recEjpOVtPf6ssMFa/images  
+  
+https://mia-capture.vow.tools/#/session/recog2VDhg61vt8wn/images  
+  
+https://mia-capture.vow.tools/#/session/recfrZfGgXwUaDpW2/images  
+  
+https://mia-capture.vow.tools/#/session/recWSy3wInxa8hJf2/images  
+  
+  
+Positive controls
+
+8849-F_DOLLY12-Sheep P8-1of2
+
+8850-F_DOLLY12-  Sheep P8-2of2
+
+2Bhttps://mia-capture.vow.tools/#/session/recT7n93Tf3nk7YFx/images  
+https://mia-capture.vow.tools/#/session/reccJtp0ivR919GtY/images  
+  
+  
+18842-F_CHOMP09-Crocodile P8-6of12 1Bhttps://mia-
+capture.vow.tools/#/session/rec25LjBhmkW3TqNl/images  
+  
+  
+28843-F_CHOMP09-Crocodile P8-7of121Chttps://mia-
+capture.vow.tools/#/session/rec7jwZbz7C9O7lfd/images  
+Generally normal cell morphology, some growth  
+  
+  
+38844-F_CHOMP09-Crocodile P8-8of12  
+1Dhttps://mia-capture.vow.tools/#/session/rectdBc3CH12tBDQS/images  
+  
+  
+48845-F_CHOMP09-Crocodile P8-9of12  
+1Ehttps://mia-capture.vow.tools/#/session/recBNIbjswnZD8iHX/images  
+  
+  
+58846-F_CHOMP09-Crocodile P8-10of12  
+1Fhttps://mia-capture.vow.tools/#/session/recgngjqHxLmUndUM/images  
+Low number of cells  
+  
+68847-F_CHOMP09-Crocodile P8-11of12  
+1Ghttps://mia-capture.vow.tools/#/session/recQkwcXgwDvObi4v/images  
+Low number of cells  
+  
+78848-F_CHOMP09-Crocodile P8-12of12  
+1Hhttps://mia-capture.vow.tools/#/session/rec0c8g991cirewwj/images  
+Generally normal cell morphology, some growth  
+  
+  
+  
+
+

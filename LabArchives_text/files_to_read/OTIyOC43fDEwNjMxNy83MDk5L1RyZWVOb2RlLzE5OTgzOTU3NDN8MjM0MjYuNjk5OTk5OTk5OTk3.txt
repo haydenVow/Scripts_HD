@@ -1,0 +1,116 @@
+
+
+## Performed by: AV  
+
+  
+
+  
+
+This task should be performed every 2nd or 3rd day, as well as both before AND
+after harvesting
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+10804
+
+#
+
+1  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Sprayed down the sample line end with 70% ethanol.
+  2. Connected a 5 mL sterile syringe.
+  3. Withdrew 1 mL (first-draw)
+  4. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  5. Connected a fresh sterile syringe and withdrew 1 mL of sample (second-draw).
+  6. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  7. Sprayed sample line with 70% ethanol.
+  8. Performed cell count:
+    * 1st draw: 820K
+    * 2nd draw: 900K
+    * 3rd draw: 1.136M
+    * average: 952K cells/mL (2 284 800 000 total)
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsAV  
+  
+Checked by operator initialsN/A  
+  
+Timestamp11:55 (draw 1 & 2); 14:00 (draw 3)  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  * Navigated to https://192.168.0.250/ from a web browser window
+  * Logged into the Biostat web app using the details in the operating manual (see reference).
+    1. Username: "admin" (all lower case)
+    2. Password: "709aA0"
+
+  
+
+  * stirring speed: 70
+  * pH: 7.56
+  * dissolved oxygen: -1.9%
+  * temperature: 37
+
+Performed draw and fill:
+
+  * removed 2L by pumping out into 2L bottle connected (originally for media in)
+  * this was used as seed train for EPIC 31048
+  * freshly prepared media (2L) was then pumped back into the system using SUBS-A
+  * calculated cell count following: 
+    * 1.136M/mL before draw (2L removed from 2.4L)
+    * (1.136x2400) - (1.136x2000) = total remaining cells
+    * ~190 000 cells/mL following media replacement
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+ N/A  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://ranger.vow.tools/#/session/recQvit595c6DnIIq/images
+
+

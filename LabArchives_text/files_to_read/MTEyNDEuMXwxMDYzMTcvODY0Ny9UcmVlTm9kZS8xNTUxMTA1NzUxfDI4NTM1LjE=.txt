@@ -1,0 +1,190 @@
+Performed By: Jesi D, Varshana B
+Methods and Experiment Layout
+
+
+Figure 1. Layout for each mould showing different conditions (cell densities)
+and replicates - this layout will be used for testing various high cell
+density collagen-only cell matrixes. (1x plate, 12x wells, 4mL volume each
+well)
+
+
+Reagents
+
+
+##  
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+30mL (Matrix creation)Mix 12913  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+  
+200mL (100% Feed)  
+Mix 12913  
+  
+glutamax (for 200mL) 2Stk 4749  
+rEGF (mesokine)  (for 200mL)0.04MIX-12321  
+  
+  
+IGF-1-LR3 (r_bovine) (for 200mL)
+
+0.2MIX-12475  
+  
+Collagen I (2.6mg/mL) in Autoclaved milliQ  
+20.5Mix  
+10X DMEM2.35Mix  
+0.2M NaOH in PBS 0.2M  
+2.93Mix  
+Pluronic 0.25%130Mix 10520 (13mL) + 117mL of Stk 1197
+
+
+Before Starting Ensure the Following is Completed
+  
+  
+Before Starting Ensure the Following is completed
+
+  * Calculate approximate cell requirements for experiment 4. 
+    * = Approximately 1.46 Billion cells for 1 plates at the above densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent12 Tissues 1x plate  
+(1.46B Cells)  (mL)  
+Cells+GM23.23  
+Collagen (2.6mg/mL)19.49  
+10X DMEM/F122.35  
+0.1M NaOH  2.93  
+Pluronic (plate coating)  
+60mL (5mL/well)  
+  * Autoclave 2x large Nylon scaffolds, ~~2% agar (for embedding moulds)~~ , forceps and mould weights (Jesi - Aluminium rods in PDMS). 
+  * Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    27/06/2022 
+    * Make PDMS Total Volume:    mL 
+    * Pipette     mL  per plate for 6 petri dishes and spin-coat.  (DONE) 
+  * Ensure matrix reagents are made up fresh at required concentrations
+  * Matrix reagents details for this experiment:
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need  19.49 am  mL total (make   20.5  20.5 mL)
+    * Pluronic. Dilute Stock solution from _ to 0.2%.. 
+      * Make up   320mL 
+  * Create a box of ice (that can hold 15mL tubes) and leave into the -80C freezer until use. 
+
+
+Scaffold mounting, sterilisation and coating
+
+  1. Autoclaved moulds should be placed into the hood with: 15cm dishes, molten agar, mould weights, forceps (DONE)
+  2. Place mould into 15cm dish and put sterile weight on top (DONE)
+  3.  ~~Surround outer edge with 2% agar and leave to set and seal the mould in place.  ~~PDMS-coat the mould to the plate. (DONE)
+  4. Place the moulds in a bath of EtOH overnight (day before experiment) (DONE)
+  5. Dry the plates upside-down along the bevel of the BSC to allow aeration, (morning of experiment) for 30-60 minutes  9  : 06  am 
+  6. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start   9  : 45  am
+  7. Pre-coat with 0.2% Pluronic solution for 1 hour (to prevent adhesion), start   11  :  00  
+
+
+Cell Supply Harvest and Matrix Formation for Seeding
+
+
+Preparation for Harvest
+
+  1. Prepare 5 falcon tubes for cell harvest for 5 conditions of different cell densities (15M, 20M, 25M, 40M, 60M).
+    1. Completed calculations can be found here
+  2. Media preparation for harvest and seeding: 50-50 RPMI/Hycell mix
+    1. 230mL 50-50 RPMI/Hycell 
+
+Cell Harvest for Mould seeding - Nuvonis suspension protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+  3.   
+Ranger Culture ID# 12684  (VICELL COUNT)# Insert ID here MANUAL COUNT)# Insert
+ID here  
+Flask TypeE5000Not relevantnot relevant  
+Total Flask Yield 4,180,020,000  
+""  
+Total Volume1398 mL  
+""  
+Cell Concentration (cells/mL) 2.99 x 10^6""  
+  4. Aliquot required volume into 1x falcon tube at each cell density:
+    1. 15M/mL = 120M =\- 5.017 mL  # 1 flask (Culture ID: 12684)  
+
+    2. 20M/mL = 240M =  \- 6.689 mL  #1 flask (Culture ID: 12684)
+    3. 25M/mL = 300M  = \- 8.361 mL  #1 flask (Culture ID: 12684)
+    4. 40M/mL = 320M =  \- 13.377 mL  #1 flask (Culture ID: 12684)
+    5. 60M/mL = 480M = \- 20.067 mL  #1 flask (Culture ID: 12684)
+  5. Centrifuge at 650g for 5 minutes: start   16:15 
+  6. Resuspend pellets in 23.232 mL of  50-50 Media. 
+  7. mLAliquot the growth media into the following volumes. 
+    1. 15M/mL = 120M in 1x 15mL Tube (for 2x tissues exactly) =3.872 mL  #___  
+
+    2. 20M/mL = 240M in 1x 15mL Tube (for 3x tissues) =  5.808 mL  #___
+    3. 25M/mL = 300M in 1x 15mL Tube (for 3x tissues)  = 5.808mL  #___
+    4. 40M/mL = 320M in 1x 15mL Tube (for 2x tissues) =  3.872 mL  #___
+    5. 60M/mL = 480M in 1x 15mL Tube (for 2x tissues) = 3.872 mL  #___
+  8. Proceed to matrix additions below. 
+    1. Bring out matrix additives from the fridge. 
+    2.  ~~Bring out ice box from the -80 freezer~~.  (NOT CONDUCTED)
+
+  
+
+Matrix formation for scaffold seeding - 5 cell densities + cell-free control
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+Refer to Figure 2 to visualise the workflow.
+
+1. Remove pluronic from the wells.
+
+Condition 15M cells/mL (n=2)20M cells/mL  
+(n=3)25M cells/mL  
+(n=3)40M cells/mL  
+(n=2)60M cells/mL  
+(n=2)  
+ Step 2. Add total Collagen (mL)3.2484.8724.8723.2483.248  
+Step 3. Add total 10xDMEM/F12  
+(mL)0.3920.5880.5880.3920.392  
+Step 4. Add total 0.1M NaOH  
+(mL)0.4880.7320.7320.4880.488  
+Step 5. Pipette matrix into each well 44444  
+  
+2\. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with
+stripette (not resuspending):
+
+3\. Add 10xDMEM/F12 and mix with stripette.
+
+4\. Add 0.1M Sodium Hydroxide and mix with stripette:
+
+5\. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution
+around pillars in the well.
+
+6. Leave for    60-90    minutes to gel at 37°C - start time   17:34  
+
+7\. Add     ~180L   Media to entire 15mL dish, ensure entire mould is covered.
+19:49  
+
+8. Culture at 37°C overnight before checking. 
+
+  
+
+  
+
+Figure 2. Matrix formation workflow.
+
+  
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+

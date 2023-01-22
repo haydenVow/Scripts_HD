@@ -1,0 +1,391 @@
+Aim/Purpose
+
+
+To test charge balanced electrical stimulation parameters consistent with
+similar waveforms in previous literature, using the StimJim stimulator and
+stainless steel electrodes with MuSC cultures in a 12WP format.
+
+
+Hypothesis
+
+
+Chronic electrical stimulation using a charge balanced waveform and similar
+parameters to previous literature will not result in any indication of harmful
+electrochemical byproducts, pH changes or increased cell death.
+
+
+Technical Gap
+
+
+Some papers have shown successful improvement of differentiation or results
+which suggest improved maturation using simple DC voltage set ups with Pt
+electrodes (Mobini et al., 2016) or biphasic pulse train set ups with
+stainless steel electrodes (Donnelly et al., 2010). This series of tests looks
+at the effects of a simple set up using cheap materials and minimal hardware.
+A cheap and simple electrode set up may be the easiest to scale but poses the
+most risk of causing damage to the cells through media pH changes or other
+biochemical reactions. The stimulation setup used in this series of tests will
+consist of a charge balanced stimulator with stainless steel electrodes.
+Preliminary tests (EPIC21480) have shown that without charge balanced
+stimulation, severe electrode dissolution and biochemical reactions occur
+within the media using stainless steel electrodes. Other electrode materials
+such as Pt are much more expensive than stainless steel, so it will be of
+value to investigate this cheaper electrode material first, with charge
+balanced stimulation.  
+
+
+Method/Procedure
+
+
+## Method Summary
+
+Day  
+Procedure  
+  
+-3Seed 2x12WP control with 60k - 80k cells/well in DMEM/F12 + 20%FBS + 1XP/S growth media.  
+-2100% media change with growth media.  
+-150% media change with growth media.  
+0Switch to E6 differentiation media.  
+  
+1-7Daily 100% media change with E6 differentiation media.  
+8Begin electrical stimulation.  
+9-11Daily 100% media change with E6 differentiation media.  
+  
+12Live/Dead stain Plate 1 for Timepoint 1. 100% media change on Plate 2.  
+13-15Daily 100% media change with E6 differentiation media.  
+  
+16Fix and MyoG/MF20 antibody stain Plate 2.  
+17Analyse Results
+
+
+  
+  
+## Test Conditions and Cell Requirements
+
+Samples  
+  
+n=3 of cells exposed to stainless steel electrodes and electrical stimulation
+(4 V/cm)  
+n=3 of cells exposed to stainless steel electrodes and electrical stimulation
+(1.3 V/cm)
+
+n=3 of cells exposed to stainless steel electrodes (control 1)  
+n=3 cells not exposed to electrodes or electrical stimulation (control 2)
+
+= 6 stimulated samples
+
+= 6 unstimulated conditions
+
+###  
+12 Samples Total Per Plate
+
+### 2 Plates Total = 24 Samples
+
+###
+
+### Example Experiment Setup
+
+###  
+
+###  
+
+### Stimulation Waveforms
+
+Parameters for the PulseTrain  
+  
+  period:    500000 usec (0.500 sec, 2.000 Hz)  
+  duration:  10000000 usec (10.000 sec)  
+  
+  stage    duration     output0   output1  
+    0     6000 usec     3000mV     1000mV  
+    1     6000 usec    -3000mV    -1000mV
+
+  
+This is programmed into the stimulator via the Serial Monitor of the Arduino
+software with the following sequence:
+
+S0,0,0,500000,10000000; 3000,1000,6000; -3000,-1000,6000
+
+  
+For detailed instructions on how to operator the stimulator, refer to the
+StimJim Notion Page.
+
+
+
+
+## Cell and Media Requirements
+
+### Seeding
+
+### Each well in the 12WP is recommended to be seeded with 60k - 80k cells,
+which equates to 720k - 960k cells per plate.  
+  
+1M cells divided up evenly per plate is the recommended method for seeding out
+these plates.
+
+  
+
+Media
+
+Generally 48 mL of media is required per day to feed 2 x 12WP with 2 mL per
+well of media.
+
+The first three days of culture is generally anticipated to be done using
+growth media, however the cells may reach confluence earlier and will thus
+require switching to differentiation media earlier.
+
+Since E6 has an expiry of one week, it is recommended to make up 7x50 mL (350
+mL) of E6 in 50 mL aliquots when starting the differentiation stage of the
+experiment. Black plastic 50 mL falcon tubes are useful for this.
+
+Note - Please double check you have enough of all reagents before commencing
+the experiment.  
+Note -  Serum media will be used in this experiment (D/F + 20% FBS +1X P/S)
+for cell expansion and seeding, seeing as we are already using animal
+components (gelatin) and our harvests of ACF cells are typically much lower
+than for serum.
+
+
+
+
+## Daily Procedure
+
+D-3 Seed Culture in GM
+
+D-2 100% media change (GM)
+
+D-1 50% media change (GM)
+
+D0 100% media change (E6)
+
+D1 100% media change (E6)
+
+D2 100% media change (E6)
+
+D3 100% media change (E6)
+
+D4 100% media change (E6)
+
+D5 100% media change (E6)
+
+D6 100% media change (E6)  
+
+D7 100% media change (E6)
+
+D8 100% media change (E6) \- Begin stimulation.
+
+D9 100% media change (E6)
+
+D10 100% media change (E6)
+
+D11 100% media change (E6) \- Live/Dead stain Plate 1.
+
+D12 100% media change (E6)  
+
+D13 100% media change (E6)
+
+D14 100% media change (E6)
+
+D15 \- Fix Plate 2. Finish stimulation and cell culture.
+
+Primary antibody staining (MyoG, MF20)
+
+Secondary antibody staining and DAPI (MyoG, MF20)
+
+Image samples
+
+Analysis
+
+Write report
+
+Update Header page  
+
+Ensure all lab books are complete & assign for review  
+
+Have entries and report peer reviewed
+
+Make amendments
+
+
+
+
+# Live/Dead Staining
+
+The Live Dead assay is a mixture of two fluorescent dyes that differentially
+label live and dead cells.  
+  
+Live stain we have in-house: CMFDA live green cell tracker
+
+Dead stain we have in-house: Propidium Iodide
+
+  
+
+The Live cell dye labels intact, viable cells (stains live cells green). It is
+membrane permeant and non-fluorescent until  intracellular esterases remove
+ester groups and render the molecule fluorescent. This can only occur if the
+cell is metabolically active. The Excitation (max) and Emission(max) are 494nm
+and 515nm. We have CMFDA Live green cell tracker in house for our live cell
+dye, but there is a cheaper alternative called Calcein.
+
+  
+
+The Dead cell dye labels cells with compromised plasma membranes (stains dead
+cells red). It is membrane-impermeant and binds to DNA with high affinity.
+Once bound to DNA, the fluorescence increases >30-fold. The Excitation (max)
+and Emission(max) are 528nm and 617nm. We have propidium iodide in-house for
+staining dead cells. Be careful when handling this dye and do not get it on
+your skin!
+
+  
+
+The Live Dead assay protocol uses a one-step staining procedure that is simple
+and fast. It can be used directly in cell culture media (however serum can
+interfere with staining so it is best to prepare this in serum free media).
+
+  
+
+The live stain is added to cell media first then left to incubate at 37'C
+(cover in foil). Once pre-warmed you add this mix to your samples of interest
+then incubate at 37'C protected from light. After 30 minutes the dead dye is
+directly added into the media, and incubated at room temperature for 5 min.
+Next you image your cells on the Axio (channel AF488 for CMFDA [Live cells]
+and AF 555 for propidium iodide [Dead cells]).
+
+  
+
+Note - Do not move samples in between imaging on each channel, in case you
+want to overlay these images later. Take 3 images per channel of the same
+sample in different locations. Green cells indicate living cells, red cells
+indicate dead cells (see figure below).
+
+  
+
+Note  \- You can either remove the dye and keep the cells in pre-warmed media
+for imaging, or leave in the dye-media mix (if you are imaging quickly, as
+propidium iodide will have a negative effect on cell survival overtime).
+
+  
+
+Note - If you want to keep your samples alive for progressive staining you can
+do this with the CMFDA live cell tracker. I.e. you can stain on day 1 of cell
+culture, and then again on day 4 of cell culture (allow a day or so for the
+dye to fade). However, the presence of propidium iodide will kill your cells,
+so progressive timepoint staining with both live and dead dyes cannot be done.
+
+  
+Protocol:
+
+  
+
+Prepare CMFDA  
+  
+
+Preparation of stock and and working solutions for CMFDA Cell Tracker (used
+due to not being able to locate Calcein)
+
+1\. Remove the CMFDA powder from the freezer (main lab) and allow it to warm
+to room temperature. Each aliquot is 50 ug.
+
+2\. Briefly centrifuge the tube to pellet the CMFDA powder
+
+3\. Add 50 uL high-quality, anhydrous DMSO to the powder and pipette up and
+down until well suspended. This will yield a 1 mM stock solution.
+
+NOTE - Once prepared, the DMSO stock solution should be stored at -20'C in a
+70 mL pot submerged in silica-gel desiccant beads for a short period for one
+series of experiments.
+
+4\. Transfer 20 uL of the 1mM CMFDA stock solution to 10 mL of prepared
+DMEM/F12 PRF growth media in a light safe 15 mL falcon tube to protect it from
+light (or make up volume needed at 0.5ul per ml). Vortex to ensure thorough
+mixing. The resulting solution is approximately 2 uM CMFDA working solution.  
+  
+NOTE - if keeping the cells in culture after staining (i.e. only staining with
+CMFDA not propidium iodide, then sterile filter the media mix to ensure
+sterility)
+
+NOTE - only use the working solution once (do not store) so only make up as
+much as you need
+
+5\. Place the CMFDA-media mix in the water bath at 37'C for a minimum of 10
+minutes
+
+  
+
+Stain your samples
+
+  
+
+5\. Remove media from your sample of interest and then add 1 mL per well (or
+enough to cover the sample) of the pre-warmed DMEM/F12 PRF growth media to the
+sample.  
+  
+NOTE - If the media on your sample previously contained serum you can wash
+gently with serum free media or PBS before the addition of the CMFDA - as
+serum can interfere with the staining)
+
+  
+
+6\. Cover your plate in foil and place in the incubator at 37'C for 30 min.  
+  
+7\. After 30 min you add 5ul per ml of your Propidium Iodide stain directly
+into the media (already containing the CMFDA) and leave to incubate on the
+bench at room temp for 5 minutes.  
+
+  
+
+Note - Propidium Iodide is pre-prepared as a frozen aliquot in main lab
+freezer (concentration is 0.2 mg/mL, it was originally 1 mg/mL but has since
+been diluted 201 uL in 799 uL of dPBS) RETURN TO FREEZER IMMEDIATELY AFTER
+USE.
+
+  
+
+8\. Image your samples on the Axio (channel AF488 for CMFDA [Live cells] and
+AF 555 for propidium iodide [Dead cells]). Green cells indicate living cells,
+red cells indicate dead cells. Do not move samples in between imaging on each
+channel (in case you want to overlay these images later). Take 3 images per
+channel of the same sample in different locations, all on the same
+magnification.
+
+  
+
+Note  \- You can either remove the dye and keep the cells in pre-warmed media
+for imaging, or leave samples in the dye-media mix (if you are imaging
+quickly, as propidium iodide will have a negative effect on cell survival
+overtime).
+
+  
+
+Analysis
+
+  
+
+For each image taken in each location count how many cells were stained green
+(channel AF488, alive) and how many were stained red (channel AF555, dead).
+From this you can calculate percent survival/viability.
+
+  
+
+Add together the live and dead cell count to obtain a total cell count. Then
+divide the live cell count by the total cell count to calculate the percentage
+viability/survival.
+
+  
+
+Number of live cells + number of dead cells = Total cells
+
+  
+
+(Number of live cells/total cells) X 100 = % viability  
+  
+  
+Optional:  
+  
+It may be easier for calculating percent survival to have your images
+overlaid. Once you have your paired images from each channel you can colourise
+your images on Image J. Colourise channel AF488 as green for CMFDA [Live
+cells] and channel AF 555 as red for propidium iodide [Dead cells]). Then
+overlay your images to get an image which resembles the following:
+
+

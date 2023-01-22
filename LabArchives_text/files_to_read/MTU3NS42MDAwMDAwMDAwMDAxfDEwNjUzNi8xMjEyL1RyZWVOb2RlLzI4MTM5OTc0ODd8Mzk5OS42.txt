@@ -1,0 +1,154 @@
+
+
+Experiment Protocol
+
+Aim: To determine the error margin and accuracy of the Cell Scepter as
+compared to a manual count with a hemocytometer.
+
+Method:
+
+1\. Passage CHOMP fibroblast cells.
+
+2\. Take 100uL of cells. Prepare the following cell dilution factor in
+quadruplicate; 1:10, 1:50, 1:100.
+
+2a. Cell sceptre minimum volume is 100uL.
+
+15uL in 135uL = 1:10 --> 30uL in 120uL = 1:50 --> 50uL in 50uL = 1:100.
+
+Trypan + Hemocytometer
+
+15uL in 135uL (75uL Trypan) = 1:10 --> 30uL in 120uL (60uL Trypan) = 1:50 -->
+50uL in 50uL (25uL Trypan) = 1:100.
+
+Total Trypan needed: 160 uL x 2 = 320uL.
+
+3\. Hemocytometer: Count 5 squares and average count. Repeat with new sample.
+
+3a. Cell Scepter: Position gates to include majority of cell population
+
+4\. 2 replicates each
+
+
+
+
+RESULTS
+
+  
+10 Dilution FactorMean Cell Count/mLCell Size  
+Avg Cell Size  
+Replicate12  
+12  
+  
+Hemocytometer134000  
+1,340,000  
+  
+  
+  
+Cell Scepter (Auto Gating)120,300203,0001,616,5005.3015.1095.205  
+Cell Scepter (Manual Gating)86,52093,920902,20013.68014.23013.955  
+  
+*** Manual gated specifications = 7 to 18 um
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+50 Dilution FactorMean Cell Count/mLCell Size  
+Avg Cell Size  
+Replicate12  
+12  
+  
+Hemocytometer  
+  
+  
+  
+  
+  
+  
+Cell Scepter (Auto Gating)114,90028,3403,581,0004.5624.5454.554  
+Cell Scepter (Manual Gating)27,76018,8201,164,50014.80114.64914.725  
+  
+*** Manual gated specifications = 7 to 18 um
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100 Dilution FactorMean Cell Count/mLCell Size  
+Avg Cell Size  
+Replicate12  
+12  
+  
+Hemocytometer  
+  
+  
+  
+  
+  
+  
+Cell Scepter (Auto Gating)229,300  
+22,930,0005.643  
+5.643  
+Cell Scepter (Manual Gating)42,460  
+4,246,00010.891  
+10.891  
+  
+*** Manual gated specifications = 7 to 18 um
+
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Scepter Results
+
+  
+
+1:10 (1) Cell Count: Auto gating Cell Count: 1.203e5/ml avg size 5.301um .
+Gating (7-18): 8.652e4/ml. avg size 13.680um
+
+1:10 (2) Cell Count: Auto gating Cell Count: 2.030e5/ml avg size 5.109um .
+Gating (7-18): 9.392e4/ml. avg size 14.230um
+
+1:50 (2) Cell Count: Auto gating Cell Count: 1.149e5/ml avg size 4.562um .
+Gating (7-18): 2.776e4/ml. avg size 14.801um
+
+1:50 (1) Auto gating Cell Count: 2.834e4/ml avg size 4.545um . Gating (7-18):
+1.882e4/ml. avg size 14.649um
+
+1:100 (2) Cell Count:
+
+1:100 (1) Auto gating Cell Count: 2.293e5/ml avg size 5.643um . Gating (7-18):
+4.246e4/ml. avg size 10.891um
+
+

@@ -1,0 +1,267 @@
+Experimental Plan Written by:   Varshana                          Date:  15 Aug 22
+
+
+Why? Accountability and so the reader/reviewer knows who to address in follow
+up comments and questions.
+
+
+Reviewed by: XXXX XXXXXX  Date: XXXXXXXX
+
+
+Why? It is important that the experimental plan is reviewed prior to
+experiment start, this is because a reviewer may be able to pick up on key
+errors or oversights. An example of such an oversight would be an experiment
+that has been planned without sufficient replicates or controls to determine
+if an outcome is significant. Or perhaps the reviewer will be able to simplify
+the experiment, by reducing cell demand and/or experiment duration, which
+would help us to reach our goals in a more efficient manner.
+
+
+Aim:
+
+
+AIM/PURPOSE:
+
+  * To investigate the effect of TGFb on inducing ECM deposition and tissue stiffening in Nuvonis tissue discs. 
+
+  
+Why? TGF-b showed some promise observationally, in terms of tissue stiffness
+and integrity. Mitogens like TGF-b will increase proliferation, while at the
+same time activating fibroblasts and triggering matrix deposition. We aim to
+determine whether we can further increase the biomass and improve the texture
+with treatment.
+
+
+Hypothesis:
+
+
+HYPOTHESIS:
+
+Tissue formation and integrity will be improved with GF treatment and the
+metrics to answer this hypothesis will be:
+
+  * Increase in contraction of the tissue disc (observational) overtime, with the contraction increasing dose-dependently. 
+    * Measured by: by taking images daily (vow tablet) where we observe increased contraction overtime. 
+  * Increase in biomass of the tissue disc compared to untreated control, and an expected dose-dependent increase in biomass with increasing concentrations of TGFb. 
+    * Measured by weighing at the time of harvest. 
+  * Increased regions of compact tissue-like regions when observing cell distribution and evidence of myofibroblast differentiation
+    * Measured by microscopy and histological immunostainning and analysis.  
+  * Consistent cell viability across conditions, with the highest concentration condition to have a detrimental impact on cell viability
+    * Measured by quantifying the percentage of apoptotic/ dead cell population measuring using Flow Cytometry. 
+
+
+Background
+  
+Y/N     LinksJustification  
+Is this a continuation of a previous experiment/series of work?  Yes
+Continuation of Mini Tissue Project - Tissue Disc Iteration following  
+Experiment CWhy is this being continued i.e. what did we find out before and
+what are we hoping to find out now, what is being changed in this experiment?  
+  
+From experiment tissue disc C we found:
+
+  * 0.2M NaOH was observed to create the stiffest tissue (with ultra high cell density) and thus will continue to be used in future tissue disc experiments. 
+  * Thus the tissue density and gelation optimisation using NaOH has been trialed. To now further improve tissue stiffness we will explore treatment inclusion which has been previously TGF-b showed some promise observationally, in terms of tissue stiffness and integrity.  
+
+  
+  
+Is the experiment based on findings from literature research?NoN/AWhy do we
+think that this is worth investigation. What is the knowledge gap?  
+  
+Ultra high density experimentation with this scaffold form factor and
+treatment inclusion (using growth factors) has not previously been published.  
+  
+  
+
+Variable* (include full names not just abbreviations)  
+
+Description (e.g. what concentrations are being tested)
+
+n = Culture ConditonDuration in Culture
+
+Justification
+
+ Relevant links (e.g. to literature and/or product pages)  
+1a  
+1b0 ng/mL TGFb + 0ug/mL Vit. C  
+2
+
+Scaled up tissue engineering experiment (6cm discs) at 40M cells/mL
+
+(1 Bn cells/tissue).
+
+Gel set at 37C 5% CO2
+
+Analysis: weight, flow cytometry (live dead analysis), microscopy (cell
+distribution).
+
+  
+8 day maturation (first 48 hours in Phenol Red containing GM)  
+  
+Sample number 2 will harvested at day 4 or day 7  flow cytometry stain and
+harvest optimisation.  
+negative control Prior tissue disc experiment B and C clearly indicate the
+expected stiffness we predict to observe in untreated tissues, as baseline to
+observe any qualitative/ quantitative changes.  
+20 ng/mL TGFb + 150ug/mL Vit. C  
+1"8 day maturation (first 48 hours in Phenol Red containing GM)  
+Vitamin C only vitamin C value based on the level used by the Process
+Development team during their CHOMP expansions. TGFb is based on past
+treatment work and literature.  
+  
+3 10 ng/mL TGFb +150ug/mL Vit. C  
+1""trialing a wide range of concentrations to ensure we can easily observe
+differences between conditions and whether there is a maximum dosage until
+TGFb has a deterimental effect on tissue formation and cell viability. This
+observation will be easier to determine/ compared across a wide range versus
+conditions with incremental increases in treatment.'  
+420 ng/mL TGFb + 150ug/mL Vit. C  
+1""" '  
+550 ng/mL TGFb + 150ug/mL Vit. C  
+1""" '  
+6100 ng/mL TGFb + 150ug/mL Vit. C  
+1"" positive control/ extreme to observe any potential detrimental effects of
+high TGFb'  
+  
+*factor that is to be manipulated, controlled for, or measured in an experiment e.g. media additive or seeding density  
+  
+Why? Including a background section provides justification for why certain
+research choices were made and prompts you to ensure that this is an
+appropriate research direction i.e. one which will likely assist us in
+reaching our goals. This is important to the reader/reviewer as well as to
+project leads and ultimately investors, ensuring that our time, money and
+energy is being put to good use.
+
+
+Methods
+
+
+Concisely and clearly describe the experiment design, ensure that the
+following information has been included:  
+  
+What combination of factors are being tested? (if relevant use a table to
+demonstrate this)  
+  
+
+Replicate number
+
+Cell type/s
+
+Experiment
+
+duration
+
+Timepoints
+
+Total number of cells needed  
+(total required = 7,000 M)
+
+Number and type of vessels required*
+
+Controls
+
+Base media
+
+Method/s of measurement
+
+Quantitative or qualitative**  
+  
+1-a Suspension Nuvonis cells 8 day maturation17 Aug - 100% Feed  
+19 Aug - 100% Feed  
+21 Aug - 100% Feed  
+23 Aug -  Harvest 1,000 M1Negative controlPRF DMEM/F12 + 1X P/S + 1:100
+Glutamax + 1:1000 IGF + 1:5000 EGF (Mesokine)Analysis:  
+  
+1) contraction (observational with images of tissues taken every 48 hours
+during feeds)  
+  
+2) Biomass change (at harvest, mass weighed),  
+  
+3) flow cytometry (apoptotic and dead % cell population),  
+  
+ 4) microscopy (cell distribution and immunostaining).both  
+1-b"4 or 7 day maturation ""1Negative control replicate  
+""  
+2"8 day maturation""1Vitamin C only  
+""  
+3""""1  
+  
+"  
+  
+4""""1  
+  
+"  
+  
+5""""1  
+  
+"  
+  
+  
+6
+
+""" "1'positive' control  
+"  
+  
+  
+*number does not include vessels required for cell expansion prior to testing variables  
+**will the results retrieved be quantitative (data that can be
+counted/measured using numbers and can be used to calculate significance) or
+qualitative (cannot be counted/measured/expressed easily using numbers,
+results are more observational and open to interpretation)  
+  
+Why? The tabulated information above represents the critical information
+required to be repeat the experiment and interpret the findings. Thus, it is
+important that it is documented clearly for reproducibility purposes. Note -
+it is preferred that experiments generate quantitative data, if the experiment
+only results in qualitative findings please take time to reassess the
+experimental plan, can a quantitative method be used? will qualitative
+findings be sufficient to decided whether the outcomes are successful or not?
+how can you limit bias and error in recording these findings?  
+  
+
+
+Plate map (or other relevant diagram):
+
+
+Why? Clear and easy to follow thus minimising chance of error
+
+
+Timeline
+
+
+Daily breakdown of tasks in table form.
+
+Day
+
+Task  
+  
+15 Aug 22Seeding Day  \- Seed 7x tissue discs according to the experimental
+plan above.  
+16 Aug 22Observe change in growth medium colour, remove phenol red and
+determine the optimal feed scedule depending on the colour change after
+seeding. e.g. Increasing the volume required in each feed or moving into daily
+feeds,  
+17 Aug 22100% Feed 7x cultures and monitoring  
+19 Aug 22100% Feed 7x cultures and monitoring  
+  
+19 Aug 22Harvest 1b tissue disc condition for flow cytometry  
+Weigh (scalre)  
+Fix in 4% PFA  
+Conduct Live Flow Cytometry Analysis  
+21 Aug 22100% Feed 7x cultures and monitoring  
+  
+23 Aug 22Harvest  
+\- Fix portion for microscopy  
+\- Fix portion of tissue for omics  
+\- weigh tissue  
+\- take a sample for Flow cytometry preparation  
+\- Conduct Live Cell Flow cytometry  
+TBD Take sample for omics  
+  
+TBD Take sample for sectioning and H&E staining (Garvan)  
+  
+TBDImmunostaining sections (in house) and fluorescent imaging  
+  
+Why? Clear and easy to follow thus minimising chance of error
+
+

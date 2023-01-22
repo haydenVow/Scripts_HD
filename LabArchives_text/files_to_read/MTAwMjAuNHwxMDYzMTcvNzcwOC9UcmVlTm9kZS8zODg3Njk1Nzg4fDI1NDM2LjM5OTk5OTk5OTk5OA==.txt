@@ -1,0 +1,22 @@
+Performed by: LL
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+Process
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 6 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 8,800,000
+    * 50/50 RPMI/HyCell: 8,040,000
+    * 75/25 RPMI/HyCell (3mg/mL yeast): 5,240,000
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Took 12M cells from __ culture to seed EPIC31270
+  6. Topped media back up to ~20 mL per flask with fresh, warmed media + growth factors
+  7. Returned flasks to incubator
+
+

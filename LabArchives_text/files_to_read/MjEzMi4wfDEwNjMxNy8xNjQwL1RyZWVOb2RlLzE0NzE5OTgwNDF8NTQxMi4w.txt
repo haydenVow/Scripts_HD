@@ -1,0 +1,176 @@
+
+
+Perform thaw using below volumes:
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask TypeCulture Type  
+  
+2788-Culture-6756-Vial-1of35  
+7000-DOLLY12-15D11-Sheep P9-1of3  
+7001-DOLLY12-15D11-Sheep P9-2of3  
+7002-DOLLY12-15D11-Sheep P9-3of3  
+3X T175Planar  
+  
+2851-Culture-6794-Vial-1of9  
+6997-DOLLY12-15D11-Sheep P9-1of3  
+6998-DOLLY12-15D11-Sheep P9-2of3  
+6999-DOLLY12-15D11-Sheep P9-3of3  
+3x T175Microcarrier Adapted  
+  
+  
+  
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+Prepare materials for thaw and seed:
+
+  *   
+
+1\. Gelatin coated  6  x  T175  flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator   12:47  
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):    2x90mL in  2x120mL  containers
+  * Time that aliquot was placed in the water bath to warm before use:  14:15
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  14:38  
+
+Location where cryovial was collected from:
+
+Vial details:  1   x  500K   planar culture and 1   x  500K  microcarrier
+culture cryovials cells each for a total of   1M DOLLY12-15D11 cells.
+
+Brew
+
+Tower/Bucket #1
+
+  
+
+Microcarrier adapted culture
+
+2851-Culture-6794-Vial-1of9  
+
+Box/Cane #5  
+
+Vial location: D1  
+
+Vial ID(s):6794
+
+  
+
+Planar culture
+
+2788-Culture-6756-Vial-1of35  
+
+Box/Cane #3  
+
+Vial location: E1  
+
+Vial ID(s): 6756
+
+  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the   180mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Another 90mL was aliquotted for the 3 x T175 for adherent culture  
+`
+
+`8. Transfered   30mL to each pre-coated  T175  flask/well, allow to rest in
+the BSC at RT for 30 min  14:55  
+`
+
+`9. Transfered flask/plate(s) to incubate at:  15:25  
+`
+
+  * [ X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+14:55  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Successful thaw of planar and microcarrier adapted clone cultures.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA4790  
+  
+Growth MediaM5237  
+  
+p38i (20mM stock)M3978  
+  
+  
+###  
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures:  
+
+NA
+
+

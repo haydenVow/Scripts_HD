@@ -1,0 +1,41 @@
+
+
+Cells received from this thaw: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODE3MS44fDEwNjMxNy82Mjg2L1RyZWVOb2RlLzM5OTczMDM5NjB8MjA3NDMuOA==
+
+Growth medium (CHOMP): HyCell CHO + 20%FBS + 1xP/S
+
+## Process
+
+  1. Prepared 2 x cell suspensions 
+    1. 1 x 100,000 cells per mL (2 mL / 200,000 cells) 
+    2. 1 x 200 cells per mL (2 mL / 400 cells) 
+  2. Perform serial dilution (1):
+    1. Added 6 x 1 mL aliquots of warmed growth medium to 6 x sterile eppendorf tubes
+    2. Took 1 x 1 mL aliquot from the 2 mL cell suspension (100,000 cells / mL) and added to 1 x 1 mL aliquot (2 mL, 50,000 cells / mL)
+    3. Took 1 x 1 mL aliquot from the 1 mL (50,000 cells / mL) cell suspension and added to next 1 mL aliquot (2 mL, 25,000 cells / mL)
+    4. Took 1 x 1 mL aliquot from the 1 mL (25,000 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 12,500 cells / mL)
+    5. Took 1 x 1 mL aliquot from the 1 mL (12,500 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 6,250 cells / mL)
+    6. Took 1 x 1 mL aliquot from the 1 mL (6,250 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 3,125 cells / mL)  
+Realised after seeding that I had originally planned on seeding each well with
+6,250 - 100,000 cells, rather than cells/mL. Given this mistake, I decided to
+use the remaining cells to seed four wells with 50,000 cells each to have a
+high limit to test on the plate reader. See updated plate map.
+
+  3.  ~~Perform serial dilution (2):~~
+    1.  ~~Added 6 x 1000 mL aliquots of warmed growth medium to 6 x sterile eppendorf tubes~~
+    2.  ~~Took 1 x 1000 mL aliquot from the 2 mL cell suspension (200 cells / mL) and added to 1 x 1 mL aliquot (2 mL, 100 cells / mL)~~
+    3.  ~~Took 1 x 1000 mL aliquot from the 1 mL (100 cells / mL) cell suspension and added to next 1 mL aliquot (2 mL, 50 cells / mL)~~
+    4.  ~~Took 1 x 1000 mL aliquot from the 1 mL (50 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 25 cells / mL)~~
+    5.  ~~Took 1 x 1000 mL aliquot from the 1 mL (25 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 12.5 cells / mL)~~
+    6.  ~~Took 1 x 1000 mL aliquot from the 1 mL (12.5 cells / mL) cell suspension and added to the final 1 mL aliquot (2 mL, 6.25 cells / mL)~~
+
+Original (intended) plate map:
+
+
+
+Actual plate map:
+
+  
+
+

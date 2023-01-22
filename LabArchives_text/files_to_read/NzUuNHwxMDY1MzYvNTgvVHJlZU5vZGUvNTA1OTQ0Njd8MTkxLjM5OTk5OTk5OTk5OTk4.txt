@@ -1,0 +1,174 @@
+
+
+# Harvest XX & Freeze Cells
+
+* * *
+
+Date: 18/05/2021  
+Start time: 13:30pm  
+End time:
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s Frozen Vial IDs  
+  
+6757-DAISY4-Cow P8-1of5  
+6760-DAISY4-Cow P8-2of5  
+6761-DAISY4-Cow P8-3of5  
+6762-DAISY4-Cow P8-4of5  
+6763-DAISY4-Cow P8-5of5
+
+2690-Culture-6757-Vial-1of98 - 2787-Culture-6757-Vial-98of98  
+  
+  
+  
+  
+  
+  
+
+* * *
+
+Procedure
+
+Mr Frosty Preparation
+
+  1. Prepare all available Mr Frostys' the day before harvesting by checking level of Isopropanol and no. of uses before refill. Note: After every 5th use of Mr Frosty, the isopropanol should be discarded and replaced with fresh isopropanol. 
+  2. Refill Mr Frostys' with isoproponal if required.
+  3. Store in the fridge overnight at 4'C.  
+    Date: 18/05/2021  
+    Time Stamp: 11am  
+
+###  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  3. Aliquot required volume of dPBS (37C), dPBS (ambient temp) and TrypLE in separate sterile pots. Combine growth media and p38i into aliquots in sterile containers. Refer to Table above for required volume.  
+    [x] p38i added. 
+  4. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 13:30pm  
+
+  5. Transfer aliquots and flasks required for harvest into the BSC.
+  6. Discard growth media from each flask.
+  7. Wash with warmed dPBS, then discard.
+  8. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  9. Place in the incubator at 37C. After 8-10 minutes, remove flasks and observe for 95-100% dissociation of cells. Incubate further until maximum dissociation level is reached.  
+     NOTE: The flasks must be removed from the incubator within 10 minutes of initial incubation of TrypLE containing flasks.  
+`     Time stamps`:
+
+    1.  14:38 pm - 14:48pm
+    2. 14:43 pm - 14:54pm
+    3.  14:46 pm - 14:57pm
+    4. 14:50pm - 15:03pm
+    5.  14:54 - 15:07 pm
+  10. Aspirate the TrypLE solution and collect into 50mL centrifuge tubes(labelled).
+  11. Using a serological pipette, dispense ambient temperature dPBS to create a final wash for each of the flasks. To effectively remove remaining cells adhered to the gelatin coated flasks,  aspirate the dPBS and resuspend into the the flask 2-3 times before collecting and combining the entire volume into the centrifuge tubes.
+  12. Centrifuge at 650 x g for 5 minutes.``  
+`      Time stamp` :
+
+    1.  15:04-15:10
+    2.  15:11-15:16
+    3.  15:19 - 15:24  
+
+    4.  
+  13. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirate the supernatant from the tubes. Discard supernatant. Remove as much remaining supernatant with a 1mL pipette.  
+Cells are now harvested.  
+
+###  
+
+### Cell Count
+
+  1. Following cell harvest and centrifugation, re-suspend the cell pellets. Use the table below to provide a rough estimation of the resuspension volume required.  
+  
+Pellet Resuspension Volumes for Cell CountFlask TypeCell resuspension volume
+per flask  
+T1752mL  
+2CF5mL  
+4CF10mL  
+5CS12mL  
+10CS25mL  
+  
+  
+
+  2. Perform cell count (Refer to VSOP-007) and enter details into Production Cell Count Calculator: VBLT-001
+
+  
+Harvest and Freezing DataCount 1 Count 2  
+Total resuspension volume
+
+49mL
+
+  
+  
+  
+Extracted volume from total suspension
+
+2 x 100uL
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+20uL  
+20uL  
+  
+Volume of 4%Trypan blue  
+80uL  
+80uL  
+  
+Dilution factor  
+5  
+5  
+  
+Total cell count  
+101,430,000  
+98,490,000  
+  
+Average Cell Count99,960,000  
+  
+  
+  
+Cell concentration/vial1,000,000 cells/vial (in 500uL)  
+  
+  
+  
+Total volume of Cryostor CS1049.98mL  
+  
+  
+  
+No. of vials98  
+  
+  
+  
+  
+  
+
+### Banking Cells
+
+  1. Determine the number of vials, the cell concentration per vial, and the required volume of Cryostor CS10 needed to achieve the correct cell concentration. Fill in the Table above. 
+  2.  Keeping the cells in suspension in Growth Media, create MCB/WCB labels using Stockyard V1 Frozen Cultures and affix to cryovials in the BSC. List the Frozen Vial IDs in the Table above. Note: Be sure to print them 10 labels at a time and keep them in sequential order in the hood for easy filing later. 
+  3. Once all labels have been affixed, centrifuge the cells suspension at 700rcf for 5 mins.  
+    Time stamp: 17:00pm  
+
+  4. Transfer the stock bottle of Cryostor from the fridge into the BSC.
+  5. Remove the supernatant from the cell pellet. Use a 1mL pipette to remove as much residue as possible.
+  6. Resuspend the cell pellet in the required amount of cold Cryostor.
+  7. Aliquot required volume into each pre-labelled cryovial and transfer into pre-chilled Mr Frosty.
+  8. Transfer filled Mr Frosty immediately to -80'C freezer. Be sure to label the order of Mr Frostys' filled.  
+    Time stamp:
+
+##  
+
+## References
+
+Referenced Method: Section 8 under VSOP-005, VSOP-009, and VSOP-023
+
+Cell Counting SOP: VSOP-007
+
+  
+  
+
+

@@ -1,0 +1,204 @@
+Completed by:
+  
+  
+Shaleen Sharma  
+
+
+Introduction:
+
+
+A cornerstone of traditional meat products on the market today are the various
+nutritional benefits they provide, with a naturally high protein content
+possibly being the most attractive. Accordingly, future cultured meat products
+might need to provide an equal (if not) higher protein content in order to
+establish a market in the industry. At Vow and in the cultured meat space, it
+has been the assumption for long that muscle cells will provide the bulk of
+this protein content in future products. Therefore, the notion of being able
+to quantify the protein content of our muscle cells is an exciting one - and
+it may be important to form a baseline. On this point, it is highly likely
+that matured MuSCs provide significantly higher protein content than quiescent
+MuSCs due to the increased expression of various structural (e.g. ECM
+proteins), maturation specific proteins (e.g. actin, myosin, tropomyosin etc.)
+as well as various maturation-specific enzymes and transcription factors. This
+poses several implications as we can think of the total protein increase from
+maturing MuSCs as a marker for maturation. Hence, by establishing a baseline
+for protein increase in our MuSCs we can use protein quantification as a tool
+to measure late stage maturation in our maturation stimulation/inducing
+studies. While several options are available for protein quantification, the
+Bradford assay is one among the most versatile.
+
+The Bradford assay is an extremely popular protein quantification assay used
+widely for mammalian cell culture. The underlying principal behind this assay
+is a colourmetric change that is observed when the active reagent (Coomassie
+Brilliant Blue) binds to the protein in a sample. This change is measured at
+590nm using our in-house plate reader. For more information behind the
+mechanism of the Bradford assay, please see the brief "Introduction to
+Bradford assay" document here.
+
+This experiment aims to implement this assay at Vow for the first time and
+establish a maturation baseline of our cells in regards to protein content.
+The applications of this assay may include:
+
+  * Measuring maturation increases between conditions in 2D adherent cultures
+  * Measuring maturation increases between conditions in 3D adherent cultures, where methods such as IF staining may not prove fruitful.
+  * Measuring maturation between cell types in order to establish their nutritional values.
+  * Protein quantification - should Western-blot/SDS-PAGE analysis techniques become routine at Vow in the future.
+
+
+Key findings:
+
+
+Summary of process improvements:
+
+*Protein content is reported from 180k C2C12 cells 
+
+Iteration
+
+Days in E6
+
+Protein
+
+Process improvements  
+  
+1
+
+3
+
+N/A (results skewed by detection of Tryple)
+
+  * Tryplising is not ideal to harvest as it is detected in the assay.
+
+  * Total cell lysis is observed with 4x freeze-thaw cycles
+
+  * 5uL of Bradford reagent is sufficient for mature cells without the need for dilution.
+
+  
+  
+2
+
+6
+
+1024 ug (Day 6)
+
+  * Freeze/thaw can be done with the plate itself instead of harvesting cells.
+
+  * Cell lysate should be as concentrated as possible when doing freeze-thaw. 
+
+  * Python script made to automate statistical analysis
+
+  
+  
+3
+
+6
+
+99 ug (Day 0), 814 ug (Day 6)
+
+  * Plate format now accomodates triplicate of standards and sample to improve accuracy.
+
+  * Sample/Bradford ratio can be tweaked depending on anticipated protein content. 
+
+
+  
+  
+Figure 1: The standard curve generated from known BSA standards used for
+Bradford analysis. Standard curve was generated from script.
+
+Figure 2: Standardised plate map devised for Bradford/future protein assays.
+
+
+Discussion:
+  
+  
+In light of the summary given above, a working pipeline to analyse water
+soluble protein in our mammalian cells has been constructed. This includes a
+clear, working process for:
+
+  * Cell lysis and protein extraction
+  * Plate format and reagent quantities
+  * Automated data analysis to read out protein content (ug)
+
+Each step has been optimised through three iterations to produce a final
+reliable workflow that allows protein content to be measured from a wide
+variety of samples.
+
+Several challenges had to be overcome in the construction of this pipeline:
+
+Cell lysis and protein extraction:
+
+In order to measure the protein content from mammalian cells, the cells must
+be lysed to release the intracellular proteins. However, in order to have a
+valid assay - the cells must be lysed completely to make the assumption that
+the measured protein is representative of all cells in the sample. Moreover,
+when using protein quantification as a measurement tool, complete lysis is
+necessary for direct comparison between experimental conditions. If these
+conditions are not met, then this assay will be unsuccessful at accurately
+measuring maturation between conditions. In order to address this, each
+iteration featured a minimum of three freeze/thaw cycles after ensuring cells
+were completely lysed by observing the third cycle by loading a sample onto a
+haemocytometer slide. Upon use of the microcentrifuge, water-soluble protein
+could be extracted succesfully from the supernatant.
+
+Plate format/reagent quantities:
+
+Initially, a protocol was followed where 5uL of sample/standard was added to
+250uL of Bradford reagent. Co-incidentally, this proved to be fruitful for the
+protein concentration/density obtained from our mature myoblasts (180k cells
+total). However, with more dilute lysates the 5uL volume was not sufficient
+and showed up below the limit of detection (LOD) of the standard curve. It was
+later found in Iteration 2 that the ratio of sample :  Bradford should be
+adjusted till a colour change is observed that is between the deep blue and
+the brown. Following this, a standard curve can be made using the according
+volume of standard as was used with the sample. When dealing with dilute
+samples - it is best to perform some preliminary tests before constructing a
+standard curve. Moreover, a standard plate format was devised in Iteration 3
+to ensure comparability between iterations but also include triplicates of
+samples and standards to increase the accuracy. This standard plate format
+also enables automated data analysis as the .csv file generated from the plate
+reader will always contain the same format.
+
+Automated data analysis:
+
+A script was constructed in Python to automate the construction of the
+standard curve and the calculations to obtain a final protein content from the
+lysate volume (mL). While Microsoft Excel provides an excellent option for
+doing so, a script can be applied to multiple .csv files in parallel - opening
+up the throughput capabilities for this assay. For example, > 10 plates can be
+run and generate 10 .csv outputs. A script can then generate a list of the
+final protein content obtained from each of these 10 samples instead of having
+to isolate and copy over the relevant data from each .csv file into Excel.
+Furthermore, any future protein/quantification assays used at Vow can use the
+infrastructure built in this EPIC such as the plate format and data analysis
+script to increase testing and throughput of new assays.
+
+
+
+
+Limitations:
+
+  * Considering that the current working procedure for this assay measures specifically water-soluble (globular) protein and inherently performs poorly with low protein-protein uniformity, the assay could only be measuring a subset of specific proteins rather than total protein which is ideal for this application.
+  * The current workflow does not normalise against cell density - and hence the assumption that every well is seeded evenly is made.
+  * Proteins are split into globular or fibrous types - the former being water soluble and the later being insoluble in water. Incidentally it was observed from literature that a large number of maturation-specific proteins such as MyHC, actin etc. are of the fibrous type and are not water-soluble proteins. Hence, the supernatant that is obtained post-lysis and analysed likely does not contain these maturation specific proteins. Interestingly, as evidenced from the summary above, it is clear that various water soluble proteins are expressed in the maturation of MuSCs as there is a clear correlation between days differentiated and protein quantified. The nature of these water-soluble proteins is not clear, although it is suspected that some of these are likely to be a variety of enzymes, transcription factors and other proteins that are expressed during differentiation/maturation. Further work is needed to understand the identity of water-soluble proteins and also whether the omission of the centrifugation step post-lysis allows insoluble protein to be quantified and not precipitated by centrifugation.
+
+  
+
+
+Conclusion:
+
+
+  * The basic protocol and framework for cell lysis and protein quantification assays was built in this EPIC. 
+  * The Bradford assay as a tool for protein quantification was implemented for the first time and a working protocol was succesfully constructed.
+  * An automated data analysis pipeline was created for assays that contain a standard curve/spectrophotometer component.
+  * An estimate was obtained for the water-soluble protein acquired from maturing C2C12 cells for 6 days (~ 700ug)
+
+
+Future directions:
+
+  * A means of cell counting will be used to normalise protein content per well to cell numbers. This is to ensure that differences in cell density are controlled for in the final quantification between experimental conditions.
+  * Protein quantification as a means of measuring maturation will be trailed in a sample experiment.
+  * An alternative total protein assay will be used and it's performance will be compared with the results from the Bradford assay. This will elucidate whether Bradford or any alternative assay more equipped to measure maturation.
+  * The plate format and data analysis script will be altered to include up to 4 experiment conditions to be quantified per plate. This will dramatically increase the throughput and raise the possibility of constructing a semi-automated platform for Bradford using our liquid-handling robots featuring multiple well plates. However, this is contingent on whether or not protein quantification succesfully measures the variance in maturation levels between conditions in a trial experiment.
+
+  
+
+

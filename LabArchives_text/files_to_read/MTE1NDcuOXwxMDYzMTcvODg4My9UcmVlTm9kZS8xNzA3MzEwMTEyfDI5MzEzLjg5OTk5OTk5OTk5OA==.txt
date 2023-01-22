@@ -1,0 +1,225 @@
+Performed By: Jesi D, Varshana B
+
+
+# Summary of Cultures
+
+Vessel type(s)Vessel Ranger IDVessel location (weekend only)Condition
+DetailsGrowth media  
+Growth media location (weekend only)  
+1x tissue disc scaffold mould13024Cell Density: 20M cells / mL  
+Tissue gel volume: 20mL  
+ 37C 5% CO2  
+52 Ralph St I Main Lab  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1  
+(1mL/L) and 1:5000 EGF (200uL/L)  
+  
+ 175 Ralph St I 4C Fridge  
+1x tissue disc scaffold mould  
+13025 Cell Density: 20M cells / mL  
+Tissue gel volume: 25mL  
+  
+1x tissue disc scaffold mould  
+13026 Cell Density: 40M cells / mL  
+Tissue gel volume: 20mL  
+  
+1x tissue disc scaffold mould  
+13027 Cell Density: 40M cells / mL  
+Tissue gel volume: 25mL  
+  
+  
+  
+
+
+Methods and Experiment Layout
+
+
+Experiment layout
+
+We will attempt to seed four tissue discs. Each disc will be a single
+replicate (condition). Conditions will be as follows:
+
+  1. 20 million cells per mL, 20mL tissue gel
+  2. 20 million cells per mL, 25mL tisue gel
+  3. 40 million cells per mL, 20mL tissue gel
+  4. 40 million cells per mL, 25mL tisue gel
+
+  
+
+Figure 1. Plate Map for Tissue Discs Experiment A. There are 4 conditions in
+the same concentration of Collagen Type 1 (20 million cells per mL in 20mL of
+tissue gel (for disc #1) and 25mL of tissue gel (for disc #2), then 40 million
+cells per mL in 20mL of tissue gel (for disc #3) and 25mL of tissue gel (for
+disc #4))
+
+.
+
+
+Reagents
+
+
+##  
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+50mL (Matrix creation)Mix  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+  
+800mL (100% Feed)  
+Mix  
+  
+glutamax (for 850mL) 8.5Stk 4749  
+rEGF (mesokine)  (for 850mL) 0.17MIX-12321  
+  
+  
+IGF-1-LR3 (r_bovine) (for 850mL)
+
+0.850MIX-12475  
+  
+Collagen I (2.6mg/mL) in Autoclaved milliQ  
+36.54 (but 38mL made)  
+Mix  
+10X DMEM4.41Mix  
+0.2M NaOH in PBS 0.2M  
+5.49Mix  
+Pluronic 0.25%100mL (as 28mL need per tissue disc scaffold) Mix 10520 (13mL) +
+117mL of Stk 1197  
+  
+1.5mL 5%P188mix10519+28.5mLstk1197
+
+
+Before Starting Ensure the Following is Completed
+  
+  
+Before Starting Ensure the Following is completed
+
+  * Calculate approximate cell requirements for experiment A. 
+    * = Approximately 4.5 Billion cells for 4 plates at the above densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent4 Tissue discs 4x plate  
+(4.5B Cells)  (mL)  
+Cells+GM48.4  
+Collagen (2.6mg/mL)40.6  
+10X DMEM/F124.9  
+0.1M NaOH  6.1  
+Pluronic (plate coating)  
+100mL (~28mL/disc)  
+  
+  * Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    09/07/2022 
+    * Make PDMS Total Volume:   50 mL 
+    * Pipette   9  mL  per plate for 6 petri dishes and spin-coat.  (DONE) 
+  * Ensure matrix reagents are made up fresh at required concentrations
+  * Matrix reagents details for this experiment:
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need  36.54   mL total (make   38  mL)
+    * Pluronic. Dilute Stock solution from 2.5% to 0.25%.. 
+      * Make up   100mL 
+
+
+Scaffold mounting, sterilisation and coating
+
+
+  
+
+  1. Place the moulds in a bath of EtOH overnight (day before experiment) (DONE)
+  2. Dry the plates upside-down along the bevel of the BSC to allow aeration, (morning of experiment) for 30-60 minutes    9:15   am 
+  3. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start     9:45   am
+  4. Pre-coat with 0.25% Pluronic solution for 1 hour (to prevent adhesion), start    11 : 15 am   
+
+
+Cell Supply Harvest and Matrix Formation for Seeding
+
+
+## Preparation for Harvest
+
+  1. Prepare 4 falcon tubes for cell harvest for 4 conditions of different cell densities (20M and 40M cells/mL) and 2 different seeding volumes (20mL and 25mL).
+    1. Completed calculations can be found here
+  2. Media preparation for harvest and seeding: 
+    1. DMEM/F12 growth medium as above (table 1). 
+
+## Cell Harvest for Mould seeding - Nuvonis suspension protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2.  ~~Count cells with haemocytometer/Vicell for total yields:~~
+  3.   
+Ranger Culture ID1291112912Cell count of cell suspension (of 12911 and 12912
+combined)  
+Flask TypeE5000  
+E5000  
+E5000  
+Total Flask Yield (cells) not relevantnot relevant6.52B  
+Total Volume used (mL)13802L  
+Cell Concentration (cells/mL) 3.02 M2.85 M3.26M  
+  4. Pour required volume of cell suspension into 500mL centrifuge tubes:
+    * 2.7B cells in 1380mL
+  5. Centrifuge at 650g for 5 minutes: start   13 : 40   
+  6. Resuspend pellets in each centrifuge tubes in    6.0 mL   DMEM/F12 growth medium to account for pellet volume to make up to a total of 33ml
+    * NOTE: With 6mL GM, pellet was too large (~14mL) - As such, cell density is slightly lower than the stated (~30M/ml and ~15M cells/ml)
+    * NOTE: Resuspending the pellet is very thick and viscous.
+  7. Add required volume of cells+media to 4 falcon tubes:
+    1. 15M/ml and 20mL tissue disc 1 =     4.84 mL 
+    2. 15M/ml and 25mL tissue disc 2 =     6.05 mL 
+    3. 30M/ml and 20mL tissue disc 1 =     9.68 mL 
+    4. 10M/ml and 20mL tissue disc 1 =     12.1 mL   
+  8. Proceed to matrix additions below. 
+    1. Bring out matrix additives from the fridge. 
+
+## Matrix formation for scaffold seeding - 2 cell densities + 2 tissue gel
+volumes
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+Refer to Figure 2 to visualise the workflow.
+
+1. Remove pluronic from the wells.
+
+Condition20M cells/mL  
+(20mL tissue gel) 20M cells/mL  
+(25mL tissue gel) 40M cells/mL  
+(20mL tissue gel) 40M cells/mL  
+(25mL tissue gel)  
+ Step 2. Add total Collagen (mL)8.1210.158.1210.15  
+Step 3. Add total 10xDMEM/F12  
+(mL)0.981.2250.981.225  
+Step 4. Add total 0.1M NaOH  
+(mL)1.221.5251.221.525  
+Step 5. Pipette matrix into each well 20252025  
+  
+5\. Seed    20mL & 25mL    gel/matrix gently into scaffold ensuring good
+distribution around pillars in the well.
+
+6. Leave for    60-90    minutes to gel at 37°C - start time   14:32  
+
+7\. Add     ~180L   Media to entire 15mL dish, ensure entire mould is covered.
+:  
+
+8. Culture at 37°C overnight before checking. 
+
+  
+
+Figure 2. Matrix formation workflow. Seed each disc one at a time for ease of
+workflow.
+
+  
+
+
+
+
+# Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+
+Observations:

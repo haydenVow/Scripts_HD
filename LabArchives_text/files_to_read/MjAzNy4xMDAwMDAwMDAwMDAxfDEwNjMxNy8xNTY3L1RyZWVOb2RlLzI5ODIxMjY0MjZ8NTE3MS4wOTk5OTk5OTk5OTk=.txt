@@ -1,0 +1,37 @@
+
+
+Performed by: AK, LL
+
+
+
+
+## Process
+
+  1. Using tweezers, transferred all scaffolds to 1 x 96WP
+  2. Washed x 2 with dPBS for 5 min (100 uL / well)
+    1. Timestamp: 13:26 - 13:31
+    2. Timestamp: 13:37 - 13:42
+  3. Add 4% PFA (100 uL / well) and incubate at RT for 15 min
+    1. Timestamp: 13:51 - 14:06
+  4. Aspirate PFA from wells
+    1. Note: PFA left a cloudy detritis after aspirating, so added a PBS rinse before DAPI stain
+  5. Add DAPI (1:1000) (100 uL / well) and incubate at RT for 5 min 
+    1. Timestamp: 14:18 - 14:23
+  6. Washed x 2 with dPBS for 5 min (100 uL / well) 
+    1. Timestamp: 14:28 - 14:33
+    2. Timestamp: 14:35 - 13:40
+  7. Re-filled wells with dPBS, wrapped plate with foil and stored in fridge (4'C) until ready to image
+
+
+ReagentID  
+  
+DAPI
+
+M2193  
+  
+dPBS NA  
+  
+PFA  
+  
+
+

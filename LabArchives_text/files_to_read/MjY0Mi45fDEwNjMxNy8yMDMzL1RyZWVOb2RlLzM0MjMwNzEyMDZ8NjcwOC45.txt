@@ -1,0 +1,167 @@
+
+
+## Performed by: Avani
+
+
+
+
+Perform thaw using below volumes:
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2288-Culture-6303-Vial-9of115  
+
+7224-DOLLY12-Sheep P8-1of3
+
+7225-DOLLY12-Sheep P8-2of3
+
+7226-DOLLY12-Sheep P8-3of3
+
+  
+T25  
+  
+  
+  
+  
+  
+  
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1x P/S
+  * [X]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 + 10% FBS (made using commercial DMEM/F12)  
+m5673  
+  
+FBS  
+a5602  
+  
+  
+###  
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+Aliquot the following and place in waterbath to warm: 6:20pm
+
+  1. ~6mL commercial DMEM/F12 + 10% FBS
+  2. ~5mL in-house DMEM/F12 + 10% FBS (from early filtration)
+  3. ~5mL in-house DMEM/F12 + 10% FBS (from later filtration)
+
+  
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 7:00 - 7:05  pm
+
+Location where cryovial was collected from:
+
+Vial details:  1    cryovials at  1 M  cells
+
+Brew
+
+Tower/Bucket #1
+
+Box/Cane # 2
+
+Vial location:A9
+
+Vial ID(s):  2288-Culture-6303-Vial-9of115
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500 µL of commercial DMEM/F12 + 10% FBS (to generate a total
+volume of 1mL in the cryovial) to the cryovial, resuspended the cell
+suspension gently to reduce osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into a 15 mL falcon
+tube. Added another  500 µL of commercial DMEM/F12 + 10% FBS to the vial and
+transferred this to the falcon tube. From the 1.5mL of cell suspension,
+aliquoted 15uL for a cell count.`
+
+`Total cell count was: 1 158 000 `
+
+`175 000 cells = 0.226 uL (needed to seed 1x T25 flask with 7000
+cells/cm^2).```  
+
+`7. Transferred 0.226 of the cell suspension to 5 mL of each of the 3 media.
+`
+
+`8. Transfered  5 mL to 3x T25 flasks  7:18 pm  `
+
+`9. Transfered flask/plate(s) to incubate at: `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Revived DOLLY12 WCB fibroblasts into 3x T25 flasks (7000 cells/cm^2) into the
+following media conditons:
+
+  1. commercial DMEM/F12 + 10% FBS
+  2. in-house DMEM/F12 + 10% FBS (from early filtration)
+  3. in-house DMEM/F12 + 10% FBS (from later filtration)
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

@@ -1,0 +1,111 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+  * E89C
+  * E810C
+  * E811B
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+E125 flask  
+6673 (serum)  
+  
+E125 flask  
+6674 (E89C)  
+  
+E125 flask  
+6675 (E810C)  
+  
+E125 flask  
+6676 (E811B)  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted  16 mL  mL of each  growth Media into   1   container each. Placed in water bath   17:33 - 18:02    
+
+  2. Removed E125 flasks from the incubator. `16:04   
+
+  3. Tilted flasks one at a time to allow microcarriers to settle. Removed   50 % of supernatant from vessels. 
+  4. Replaced with  15 mL (per well/per vessel) of  growth   media as indicated in the table above. 
+  5. Returned vessel to on shaker (120rpm) in the incubator  at: 18:20
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 80 ), Lab [Main]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+6673-DOLLY12-Sheep P13-1of1  
+6674-DOLLY12-Sheep P13-1of3  
+6675-DOLLY12-Sheep P13-2of3  
+6676-DOLLY12-Sheep P13-3of3
+
+ACF media contained 2% w/v P188 (so that after a 50% feed, the flasks would
+have 1% w/v P188 to reduce shear stress)
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+DMEM/F12 + 20% FBS + 1x P/S  
+a4767  
+  
+  
+ P38i (20mM stock)m4863  
+  
+  
+E89C, E810C, E811B  
+see linked lab book entry  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

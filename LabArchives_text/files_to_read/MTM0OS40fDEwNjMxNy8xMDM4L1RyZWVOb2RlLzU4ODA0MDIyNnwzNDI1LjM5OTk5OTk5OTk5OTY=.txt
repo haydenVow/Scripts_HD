@@ -1,0 +1,40 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 80 mL
+
+
+
+
+Process:
+
+1\. Aliquot 80 mL of Growth media into a reservoir
+
+2\. Aspirate 300 uL of growth media using the Integra automated pipette
+
+3\. Dispense 50 uL of growth media into each well of the 4x 384 well plates
+
+4\. Parafilm the 384 well plate area (what the lid sits on)
+
+5\. Parafilm the outer edges of all 384 well plates and transfer into
+Styrofoam box with ice to be transported to the Garvan Institute
+
+

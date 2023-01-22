@@ -1,0 +1,147 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+7870-C2C12-Mouse P4-1of1  
+96 well plate (staining/control plate)  
+7869-C2C12-Mouse P4-1of1  
+24 well plate (Bradford Assay)  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Growth MediaM6381  
+  
+p38i (20mM stock)M5607  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+1\. Gelatin coated  1  x  96 well  plates with sterile filtered 0.1% gelatin
+solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator 27/08   a/pm 
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):    14 mL 
+  * Time that aliquot was placed in the water bath to warm before use:   12:52 a/pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+`6. Collected vial from LN2 and placed in water bath for 5 mins: 13:06  `
+
+`Vial ID thawed:` 2863-Culture-6905-Vial-3of54
+
+`Added 500uL Growth Media to vial and resuspended cells slowly to reduce
+osmotic shock.  
+`
+
+`Collected the entire  1mL mL of cell suspension & transfer into the pre-
+warmed tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the   8.5mL of pre-warmed Growth Media (prepared in Step 2). `
+
+Vessel Type  
+Location on plate  
+Amount of cell suspension added  
+Amount of cells added  
+Growth Media top up  
+  
+24 well plate  
+Row B  
+Row C  
+Row D  
+300uL  
+400uL  
+500uL  
+17,647.05  
+23,529.4  
+29,411.75  
+200uL  
+100uL  
+0 uL  
+  
+96 well plate  
+8 wells  
+15uL  
+5000  
+85uL  
+  
+  
+  
+
+`8. Allowed plates to rest in the BSC at RT for 30 min  13:35 - 14:05 a/pm `
+
+`10. Transfered flask/plate(s) to incubate at: `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

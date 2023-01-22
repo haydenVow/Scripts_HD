@@ -1,0 +1,122 @@
+
+
+Buffers and
+
+
+
+
+Process
+
+Plate 1
+
+  
+Condition 1Condition 2Condition 3  
+Control 1Control 2  
+Drop-wiseLive/Dead  
+  
+  
+  
+  
+  
+Drop-wiseDAPI/Phalloidin  
+  
+  
+  
+  
+  
+ParafilmLive/Dead  
+  
+  
+  
+  
+  
+ParafilmDAPI/Phalloidin  
+  
+  
+  
+  
+  
+  
+Plate 2
+
+  
+Control 3  
+  
+  
+  
+  
+  
+AdherentLive/Dead  
+  
+  
+  
+  
+  
+AdherentDAPI/Phalloidin  
+  
+  
+  
+  
+  
+AdherentLive/Dead  
+  
+  
+  
+  
+  
+AdherentDAPI/Phalloidin  
+  
+  
+  
+  
+  
+  
+  1. Prepare CMFDA solution
+    1. 50ug tube, quik-spin
+    2. Add 50uL DMSO and resuspend
+  2. Prepare live/dead stain in DMEM (started live dead stain at 12:00pm, took off at 12:30pm)
+    * 15 mL DMEM (ID: S3111)
+    * 30 uL CMFDA (ID:914)
+    * 15 uL propidium iodide 1ug/mL final concentration (ID: 6317)
+  3. Divide volume between x2 falcon tubes each evenly, label one 'Live-dead' and label the second 'phalloidin'. Return 'phalloidin' to incubation at 30°C 
+    * To stain Live/Dead tube:
+      * Pellet 'live-dead' falcon tube by centrifuging at 300xg for 5 minutes
+      * Aspirate supernatant and resuspend pellet in 1mL live/dead stain and incubate in falcon tube in incubator at 30°C for 30 minutes
+      * Pellet tube by centrifugation at 300xg for 5 minutes to remove stain
+      * Aspirate stain from pellet and resuspend in 1mL DPBS
+      * Pellet  tube by centrifugation at 300xg for 5 minutes to remove DPBS
+      * Resupend in 1mL DPBS and cell count
+      * Place into 96-well plate x3 wells at x number of cells per well 
+  4. Aspirate media from wells to live stain
+  5. DPBS rinse twice, 1mL per well
+  6. Add 0.5mL stain to each well, incubate at 30°C for 30 minutes
+  7. Remove plate from incubator
+  8. Aspirate stain and rinse stained and unstained wells with 1mL DPBS each, 3 times
+  9. Prepare phalloidin stain solution, total required: 15mL 
+    * 3% BSA 0.1% Triton-X 100 
+    * 1:1000 phalloidin
+    * 1:1000 DAPI 
+  10. To fix/stain plate (fixing finished at 12:55pm)
+    * Fix all wells with 1mL per well ice-cold 4% PFA for 20 minutes
+    * Dispose of PFA in separate waste stream. Remove PFA from wells and rinse 3 times with DPBS
+    * Rinse wells with DPBS 1mL/well, remove
+    * Permeabilise plate 1mL PBS-T per well for 20 minutes
+    * Do not label cells which have been stained with live/dead stain. Label wells with phalloidin and DAPI 0.5mL per well and incubate for 30 minutes
+    * Remove stain and rinse 3x DPBS 1mL per well
+    * Add 1mL DPBS per well
+    * Parafilm plate and foil. Store at 4°C until ready for imaging
+  11. To stain tube: (started phalloidin staining at 4:15pm)
+    * Pellet phalloidin tube (in PBS) 300xg for 5 minutes 
+    * Resuspend in 1mL per well ice-cold 4% PFA for 20 minutes
+    * Pellet phalloidin tube 300xg for 5 minutes to remove PFA
+    * Resuspend phalloidin tube in 1mL PBS 
+    * Pellet phalloidin tube (in PBS) 300xg for 5 minutes to remove DPBS (and residual PFA)
+    * Resuspend phalloidin tube in PBS-T and incubate for 10 minutes
+    * Pellet phalloidin tube 300xg for 5 minutes to remove PBS-T
+    * Add 1mL staining solution and resuspend. Incubate for 30 minutes covered from light
+    * Pellet phalloidin tube 300xg for 5 minutes to remove stain
+    * Resuspend in 1mL DPBS and perform cell count
+    * Place into 96-well plate x3 wells at x number of cells per well
+    * Parafilm plate and foil. Store at 4°C until ready for imaging
+
+

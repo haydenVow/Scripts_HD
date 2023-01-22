@@ -1,0 +1,96 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6734-DOLLY12_15D11-Sheep P7-1of1  
+1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 12:00 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and 3x 20uL sample of the suspension was taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to wells on a 96 well plate and mixed with 80uL of dPBS containing 20uL/mL of Hoechst 33342. 
+  4. Returned cultures to the incubator  `| 12:06 am/pm|`
+  5. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 12:14-12:26 am/pm |`
+  6. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  7. Using https://mia-capture.vow.tools/#/, 2 sets of same frame images using the DAPI and PHASE channels were captured for each well `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment [0.05ms). (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  8. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. (A1-A6) With sets A1-A2 from well 1, A3-4 from well 2 and A5-A6 from well 3. 
+  9. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+### Observations/Summary:
+
+  * Could not see any dead, free floating and stained cells, all Nuclei stained appeared on microcarriers. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS 4826  
+  
+  
+  
+  
+  
+  
+Hoechst 333422454  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recqEmc4D9v5bNedY/images#group0
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2  
+  
+V3  
+  
+  
+  
+
+

@@ -1,0 +1,127 @@
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDBanked cultures
+Frozen cell pellets  
+T7512074 - Wild Type4x96wp12150-12152, 1215714762-14763Library lab freezer 62,
+bottom shelf  
+T7512075 - NFKB1A + CDKN2B4x96wp12141-12143, 1215614766-14767Library lab
+freezer 62, bottom shelf  
+  
+T7512076 - PLA2R + CDKN2B4x96wp12144-12146, 1215414764-14765Library lab
+freezer 62, bottom shelf  
+  
+T7512077 - PRKCD + CDKN2B2x96wp12139-12140, 14768-14769Library lab freezer 62,
+bottom shelf  
+  
+T7512078 - CDKN2B4x96wp12147-12149, 12155  
+14760-14761Library lab freezer 62, bottom shelf  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12072  
+  
+Growth MediaMade fresh using the components listed below  
+F12s6180  
+DMEMs5723  
+FBSa12507, a12223, a12204, a12237  
+  
+PenStrep 100xs3900  
+FACS buffer Made using the components listed below.  
+CryostorCS10s5338  
+7-AAD stainNo label.  
+  
+  
+
+
+Procedure
+
+
+PREPARE DESTINATION VESSELS
+
+  1. Filled all wells on 20x 96 well plates with 200uL of  DMEM/F12 (1:1) + 20% FBS +1xP/S
+  2. Plates were placed in the incubator (140) at 30 degrees, 5% CO2 to warm. 
+
+  
+
+
+
+
+
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+  1.  Took 2 x images of each vessel with microscope on phase setting (4X to assess confluence) 
+  2. removed the T75 cultures from the incubator then aspirated and discared the media from each. 
+  3. Added 5mL of room temp dPBS to wash each flask. 
+  4. Aspirated and discarded the washes, replacing with 5mL of 1xTryple-EDTA 
+  5. Placed flasks to incubate at 30 degrees for 10 minutes, 5% CO2 (incubator 140). 
+  6. Once cells were confirmed detached by inspection under the microscope (4x Objective), 5mL of dPBS was added to each flask to neutralise the Tryple-EDTA.
+  7. The contents of each flask were collected into separate 15mL tubes.
+  8. Tubes were spun at 500g for 5 minutes. During which time 20mL of FACS buffer was prepared and sterile filtered using a 0.22uM sterile filter (Phenol red free DMEM/F12 (1:1) + 2% FBS) 
+  9. Supernatant from all tubes were discarded and the cell pellets were resupsended in 2mL of FACS buffer. 
+  10. 500uL of each cell suspension transferred to separate filter cap tubes, 1 drop of 7-AAD was then added to each tube and tubes were left to incubate for 10 minutes at room temperature. 
+    1. Single cells from sample PRKCD+CDKN2B were sorted into 2x96 well plates (The flow rate was set to high and all the sample was lost before 4 plates could be sorted) 
+    2. Reduced the flow rate and added a further 500uL of FACS buffer to each remaining sample. 
+    3. Sorted the remaining samples into 4x96 well plates, 1 single cell per well. 
+    4. Plates were placed in the incubator 140, 30 degres, 5% CO2. Average plate sort time was 6 minutes. 
+  11. 400uL of the remaining cell suspension was transferred to separate 1.5mL tubes and centrifuged for 5 minutes at 500g.
+    1. Media was aspirated and discarded from each cell pellet
+    2. Tubes containing cell pellets were placed in a yellow top 70mL container labelled with the date, EPIC ID and initials before being placed at -20 degrees in the library lab freezer (62) bottom shelf.  
+  12. The 1.1mL of remaining cell suspension was centrifuged for a further 5 minutes at 500g. 
+    1. Supernatant was aspirated and discarded 
+    2. Cells were resuspended in 2mL of cold CryostorCS10 freezing solution. 
+    3. Samples were then split across two cryovials each, 1mL of solution per vial. 
+    4. Samples were placed in a Mr Frosty and placed in the -80 freezer in the main lab overnight. 
+
+  
+
+* * *
+
+  
+
+
+
+
+## Observations
+
+\- This process quickly became a two person job once the cells had been
+passaged. Freezing cells may not be possible in the future with only one
+person if done on the same day as the sort. It might be more efficient to keep
+a sub population in culture for a further 4-7 days and then bank cells on the
+next passage so as to avoid the manual load for the day. Freezing a cell
+pellet for DNA work is suitable within the time to FACS sort however.
+
+  
+
+
+
+
+## Reference Images
+
+Imaging station was acting up during the passage however all cells looked
+healthy and there were no signs of contamination present in each of the flasks
+passaged.
+
+
+
+
+

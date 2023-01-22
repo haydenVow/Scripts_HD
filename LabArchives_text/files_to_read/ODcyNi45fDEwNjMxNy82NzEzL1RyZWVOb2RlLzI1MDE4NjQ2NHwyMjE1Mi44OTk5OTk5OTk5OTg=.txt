@@ -1,0 +1,84 @@
+
+
+## Performed by: AV, VP  
+
+  
+
+  
+
+This task should be performed every 2nd or 3rd day, as well as both before AND
+after harvesting
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+  
+# 10551
+
+4  
+  
+  
+
+
+
+
+Took samples
+
+  1. Sprayed down the sample line end with 70% ethanol.
+  2. Connected a 5 mL sterile syringe.
+  3. Withdrew 1 mL (to purge the line), discarded
+  4. Connected a fresh sterile syringe and withdrew 1 mL of sample.
+  5. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  6. Sprayed sample line with 70% ethanol.
+  7. Performed cell count:
+    1. 5.83B cells total (2,750,000 cells/mL)
+
+  
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+  
+Operator initialsAV  
+  
+Checked by operator initialsN/A  
+  
+Timestamp12:57  
+  
+NotesSee below  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  * pH = 7.28
+  * Temp = 37degC
+  * dO2 = 0 ???? (watched % nose dive from ~10 to 0 in minutes)
+  * swapped out sodium bicarb bottle for second bottle, attached bottle drained of all volume
+    * removed line from BASE-T
+    * sprayed down both bottles and brought into BSC
+    * removed lids (aspectically) and swapped out bottles
+    * returned line to BASE-T
+  * could not pause BASE-T pump (on cascade mode)
+  * BASE-T will give false reading about volume pumped into system, as line was trying to pump dry bottle
+  * prepared new sodium bicarb and placed for autoclaving
+  * manually increased air via regulator. dO2 increased and then dropped
+
+###
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None
+
+

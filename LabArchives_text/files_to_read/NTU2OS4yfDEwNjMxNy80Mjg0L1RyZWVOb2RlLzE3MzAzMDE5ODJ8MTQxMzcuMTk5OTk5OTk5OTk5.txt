@@ -1,0 +1,80 @@
+
+
+## Completed by: Bec Screnci
+
+
+Aim/Purpose
+
+
+To determine whether cell death observed in myogenic differentiation in Q3
+experiments is cell-line specific to our DOLLY12 MuSCs or universal.
+
+
+Hypothesis
+
+
+That the survival of various cell lines will differ when exposed to identical
+conditions, due to biological variability.
+
+
+Technical Gap
+
+
+Cell death has been observed in many DOLLY12 cultures, particularly prominent
+in differentiation.
+
+Once DOLLY12s were substituted for C2C12 cells, less cell death was apparent
+(in the C2C12s). In combination with investigating the source of cell death
+amongst incubators, reagents and other conditions; in this experiment we will
+also determine whether it is a cell-line-specific phenomena that only affects
+DOLLY12 cells.
+
+
+Method/Procedure
+
+
+  1. [Experiment Plan]
+  2. [Peer Review]
+  3. [Make amendments and Sign off]   
+  
+Experimental Plan:
+
+    * Revive cells from multiple species:
+    * Thaw 1 x vial from each biobank highlighted green  
+
+    * \+ 1 x C2C12 vial
+    * Expand cells in adherent culture
+    * Seed into differentiation assay (harvest cells, count, seed at 1,000 cells per well in 200uL per well [i.e. cell density for seeding = 5,000 cells / mL])  
+3 x 96-well plates (each containing 2 columns of wells with cell, the rest of
+the plate left empty) seeded for each cell line. - to be fixed at Day 0, Day 4
+and Day 10  
+
+    * 50% Feed with Growth media 48 hours after seeding
+    * Once cells reach 100% confluence, change media on 2 of the 3 x 96-well plates for each cell line to E6 and 2% HS Differentiation media. (see green/yellow wells above)  
+Note* Observations should be made every day of feeding (apart from weekends)
+on the cell survival
+
+    * Day 0 Diff - Fix 1 x plate of each cell line (whilst still in Growth Media)
+    * Day 1 Diff - 100% Feed
+    * Day 2 Diff - 100% Feed
+    * Day 3 Diff - 100% Feed
+    * Day 4 Diff - Fix 1 x plate of each cell line
+    * Day 4 Diff - 100% Feed
+    * Day 5 Diff - 100% Feed
+    * Day 6 Diff - 100% Feed
+    * Day 7 Diff - 100% Feed
+    * Day 8 Diff - 100% Feed
+    * Day 9 Diff - 100% Feed
+    * Day 10 Diff - Fix final plate of each cell line
+    * DAPI stain Day 4 and Day 10 fixed plates
+    * Image and obtain total cell counts for Day 0, Day 4 and Day 10 plates from each cell line (ImageJ macro)
+    * Determine the difference between Day 0, Day 4 and Day 10 time points
+    * Assess whether all cell lines follow a trend or whether some cell lines are more prone to cell death than others.
+  4. [Report writing (Draft)]
+  5. [Review & fill out Report (Full)]
+  6. [Ensure all lab books are complete & assign for review]
+  7. [Review Lab Books, results, report]
+  8. [Make necessary amendments and confirm with reviewer that experiment is complete
+  9. [Release note on Project Updates]  
+
+

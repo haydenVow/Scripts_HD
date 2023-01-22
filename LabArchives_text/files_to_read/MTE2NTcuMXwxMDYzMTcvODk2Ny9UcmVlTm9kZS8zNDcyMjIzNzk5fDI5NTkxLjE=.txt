@@ -1,0 +1,95 @@
+Performed by:
+Ranger data
+ReagentID  
+Glucose S4154  
+L-Alanyl-L-Glutamine  
+S6949  
+Thymidine S6947  
+Hypoxanthine S143  
+50/50 RPMI/CHO Nuvonis suspension mediumM13163  
+IGF-1-LR3M13143  
+EGFM12321
+
+
+Process
+  
+  
+  1. Made up 1.5L of 50/50 RPMI/CHO Nuvonis suspension medium without IGF & EGF (base medium) 
+  2. Weighed out the following amounts of each factor in 70 mL specimen jar (weight based on making up 20 mL of stock) 
+    1. Glucose (400 g/L): 20.00 g in 50 mL 
+      1. Actual mass measured: 20.06 g
+    2. L-Alanyl-L-Glutamine (43.4g/L): 3.03 g in 70 mL
+      1. Actual mass measured: 3.036 g
+    3. Hypoxanthine (2 g/L): 0.04 g in 20 mL
+      1. Actual mass measured: 0.0411 g
+    4. Thymidine (1 g/L): 0.02 g in 20 mL 
+      1. Actual mass measured: 0.0213 g
+  3. Added respective volume of 50/50 RPMI/CHO Nuvonis suspension medium to each powder and stirred on stir plate until fully dissolved
+  4. Ala-Gln is acidic, so adjusted pH from 6.73 to 7.04 using 0.5 mL of 1M NaOH 
+  5. Transferred 4 x 20 mL specimen jars to BSC
+  6. Sterile filtered each stock solution using 20 mL syringe filters 
+  7. Added glucose, L-glutamine, hypoxanthine and thymidine to 750 mL of media as shown in calculated table attached below
+  8. Volume (mL)750  
+  
+  
+  
+  
+  
+  
+Concentration in medium (g/L)Desired concentration (g/L)Amount deficient
+(g/L)Stock conc (g/L)Total mg in desired volVol to add (mL)  
+Base medium  
+  
+  
+  
+  
+727.725  
+IGF-1 LONG R300.000050.000050.050.0380.750  
+EGF00.000010.000010.050.0080.1500  
+Ala-Gln00.8680.86843.4651.00015.0000  
+Glucose47.43.44002550.0006.3750  
+Hypoxanthine00.010.0127.5003.7500  
+Thymidine00.0010.00110.7500.7500  
+  9. Added glucose and L-glutamine to 130 mL of media (no hypoxanthine or thymidine) 
+  10. Volume (mL)150  
+  
+  
+  
+  
+  
+  
+Concentration in medium (g/L)Desired concentration (g/L)Amount deficient
+(g/L)Stock conc (g/L)Total mg in desired volVol to add (mL)  
+Base medium  
+  
+  
+  
+  
+145.545  
+IGF-1 LONG R300.000050.000050.050.0080.150  
+EGF00.000010.000010.050.0020.0300  
+Ala-Gln00.8680.86843.4130.2003.0000  
+Glucose47.43.4400510.0001.2750  
+  11. Added IGF and EGF to both aliquots 
+  12. Placed in fridge at 4'C overnight 
+  13. With remaining solutions of glucose and L-glutamine, aliquoted as follows:
+    1. 20 x 620 uL glucose (2 g/L) 
+    2. 8 x 1220 uL glucose (3 g/L)
+    3. 8 x 1320 uL glucose (4 g/L)
+    4. 10 x 1210 uL Ala-Gln (2 mM) 
+    5. 10 x 1810 uL Ala-Gln (3 mM)
+    6. 5 x 2410 uL Ala-Gln (4 mM) 
+  14. Placed in labelled ziplock freezer bags and moved to -20'C freezer 
+
+
+Notes
+
+
+[Eva] I added 750mL and 150mL of 50/50 RPMI/CHO instead of 723.225 and 144.645
+mL, respectively. This doesn't change the volume of extra ingredients to add
+much but if need be (if we want to be super exact), we can add the difference
+tomorrow. With the stripette it is very hard to be precise anyway, so probably
+the volume of extra ingredients I have added is not exactly what is indicated
+in the E8 calculator.
+
+

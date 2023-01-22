@@ -1,0 +1,169 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+24 well plate6423-E_DOLLY15-Sheep P0-1of1 24 well plate6469-E_DOLLY15-Sheep
+P1-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ X ]  DMEM/F12 + 20% FBS + 1X P/S + 10ng/mL TGFb + 10ng/mL IGF + 10ng/mL EGF + 5ng/mL VEGF
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    1      x     24 well plate     vessel with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       11:37am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     0.2    mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     1    mL in    1    tubes
+  3. Growth media (for seeding):     2    mL in     1    tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+12:38pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     12:40pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    0.2     mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    12:44-13:04pm 
+
+7\. Neutralised with     0.5mL     dPBS and combined cell suspension into a
+15mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     13:05-13:10pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL      Endothelial growth    media
+13:10 pm
+
+
+
+
+  
+
+11\. Transferred entire cell suspension into the pre-gelatin coated      1
+well of a 24 well plate      vessel.
+
+12\. Transferred vessel(s) to incubate at: 13:13pm
+
+  * [ x ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionMix ID 4319  
+  
+TrypleMix ID 4308  
+  
+dPBS (for washing & neutralising)Mix ID 4309  
+  
+Growth MediaMix ID 4396  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Cells still look very long and thin with a fair bit of debris. Hard to see
+what their morphology will look like when they are confluent.
+
+Also seeing long thin shapes in gelatin alone, so I'm a bit worried that the
+cells might all be dead.
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ x ]  Unexpected because...we may not have live cells
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/rec7TkHJaGVU0yc8E/images
+
+  
+
+

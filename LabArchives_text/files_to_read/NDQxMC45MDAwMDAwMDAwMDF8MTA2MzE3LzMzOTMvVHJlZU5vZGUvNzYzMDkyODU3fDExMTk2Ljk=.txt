@@ -1,0 +1,165 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: kk  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+  
+1  
+2  
+3  
+  
+A  
+Serum Control  
+GM + 0.1% MC  
+GM + 0.3% MC  
+  
+B  
+GM + 0.45% MC  
+GM + 0.6% MC  
+GM + 1% MC  
+  
+  
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 5 mL  of  each of the following growth media conditions: 0.1%, 0.3%, 0.6% MC in GM
+    2. 35 mL of GM + 0.45% MC
+    3. 35 mL of GM + 1% MC
+    4. 35 mL of serum control media  
+Placed in water bath: 12:04  
+
+  2. Collected culture vessels from shakers, wiped with ethanol-sprayed cloth and brought into BSC (if necessary, paused shakers by pressing the "play" button on the controller on the side wall of the incubator)
+  3. Using a p1000 for the 50 mL spin tube cultures and a 5 mL serological pipette for the E125 flasks, gently pipette-mixed cultures for ~1 minute to break up cell clumps
+  4. Pipetted E125 suspensions though 70 um cell strainer into  3 x 50 mL flasks (keep E125 flask  in BSC as cultures will be returned to these post centrifugation) 
+  5. e-flask - Centrifuged at 300 x g for 5 min. Timestamp: 12:50 - 12:55      
+
+  6. Tubes: Centrifuged at 300 x g for 5 min. Timestamp:    12:35 - 12:40   
+
+  7. Aspirated supernatants, taking care to not disrupt or aspirate pellet
+  8. Replaced fresh, warmed media in all cultures 
+  9. Gently pipette-mixed cultures again before moving back to E125 flask and 50 mL tubes
+  10. Returned vessels to incubator and replaced in clamp. If shaker was paused, remembered to press play to restart shaking. 50 mL spin tubes should be shaking at 206 RPM and E125 at 120 RPM) Timestamp:     13:14      
+
+  * Incubator (#116 & #81), Lab [Main]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

@@ -1,0 +1,53 @@
+
+
+## Completed by: Bonnie
+
+
+Aim/Purpose
+
+
+Expand 1.5M F_CHOMP07 MCB cells to a WCB of >400M cells
+
+
+Hypothesis
+
+
+Continued culture of an initial population of 1.5M F_CHOMP07 MCB cells will
+allow for a bank of ≥ 400M cells within 4 passages.
+
+
+Technical Gap
+
+
+This will be our first attempt to expand CHOMP07 cells from a MCB to WCB. At
+this stage, we do not have any first hand knowledge of the proliferative
+capacities of these cells with serial passaging and extended culture.
+
+
+Method/Procedure
+
+
+Experimental Plan  
+  
+1\. Thaw F_CHOMP MCB  
+
+  * Warm an aliquot of DMEM/F12 + 20% FBS + 1x PS (growth media). 
+  * 3 x vials of frozen F_CHOMP07 (1.5M cells in total) will be thawed and plated into 1x T175 flask. Incubate at 30C degrees and 5% CO2.
+  * Perform a 100% feed 24hrs post seed. 
+
+2\. Feed F_CHOMP07
+
+  * Perform a 50% feed with  DMEM/F12 + 20% FBS + 1x PS approximately every 72 hours .
+
+3\. Expansion passages
+
+  * When cells appear 80-90% confluent, passage following SOP_Passaging Adherent Cells V_04 using non-coated culture vessels.
+  * Cells should be seeded back into plates at approximately 7000- 7500 cells/cm2.
+
+4\. Banking
+
+  * Bank WCB following Banking-Template_V2 when numbers exceed 400M cells. 
+
+  
+
+

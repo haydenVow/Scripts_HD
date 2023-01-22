@@ -1,0 +1,196 @@
+
+
+Harvest cells: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzY4Ni44fDEwNjMxNy8yODM2L1RyZWVOb2RlLzI0NzA2NTkzMDh8OTM1OC44
+
+  
+
+0) Locate all reagents and stock solutions and have them ready for use (see
+previous entry for exact locations, allow reagents from the fridge to reach
+room temperature before adding so as not to add cold solutions to your cells,
+but do not leave fibrinogen or thrombin out on the bench for > ~1hr):
+
+\- Proliferation media + ACA (fridge)  
+\- 20mM CaCl2 in Proliferation media (fridge)  
+\- Bovine concentrated plasma fibrinogen stock (8mg/ml) (fridge)  
+\- ACA stock solution (room temp)  
+\- Thrombin stock solution (10mg/ml) (fridge)
+
+  
+
+Preparation of fibrin gel with cells:
+
+Method based on the work by Kaplan & Simsa et al., 2019:
+
+Combine MuSCs at a minimum seeding density of 6 x 10^6 ** cells/well with the
+prolif media + 20 mM CaCl2. (Also prepare n=3 cell free controls, i.e. add
+media + 20mM CaCl2 only to 3 wells):
+
+METHOD:
+
+1) Pre-warm CaCl2 + Proliferation media mix (NO P38I) in the water bath at
+37'c for at least 15min before use  14:19 - 14:37
+
+2) Centrifuge down 27M cells 14:21 - 14:26pm. Resuspend 27 x 10^6 cells (6 x
+10^6 cells/ml) in 1.85 mls of CaCl2 + Proliferation media (205ul x 9 cell-
+laden samples)
+
+3) Prepare 615ul of just proliferation media + 20mM CaCl2 (205ul x 3 cell free
+samples)  
+  
+**NOTE - Kaplan & Simsa seeded their fibrin gels at 3.5 × 10^6 cells/well (per
+sample). However, a higher density within the gel could improve cell-cell
+contact and the likelihood of fusion and so I would suggest 6x10^6 cells per
+well. The alternative would be to screen multiple seeding densities, however,
+due to the high cost of the animal proteins, and the time required to culture
+this many cells perhaps it is best to pick one density for this first
+experiment.  
+  
+
+Add thrombin from bovine plasma (Sigma) with a total enzyme activity of 0.6 U
+into each well (for all 12 samples):
+
+4) Add 405ul of the 10mg/ml stock thrombin solution (45ul per 9 cell-laden
+wells) to a 15ml falcon tube (tube 1) and 135ul of the 10mg/ml stock thrombin
+solution to a separate 15ml falcon tube (45ul per 3 cell-free wells, tube
+2)timestamp 15:10  
+
+Note - our thrombin has ≥60 NIH units/mg protein (biuret), from a search
+online one "NIH" unit is equivalent to 1.1 U of thrombin, so we would need to
+add in around 0.09 mg per well (our scales are not sensitive enough for this).
+So we have made up a stock conc and will add a small amount of this per well.
+We made up a stock conc of 10mg of thrombin/ml of H2O, then we add 90ul per
+well = 0.6U per well.
+
+5) Add cell laden media CaCl2 mixture (or cell free CaCl2 media) to the
+relevant tubes (see above plate map) with pre-added thrombin
+
+\- to the first falcon tube (tube 1 containing 405ul of thrombin) add 1.85ml
+of the cell/CaCl2 media suspension (cell-laden samples) timestamp 15:12  
+
+\-  to the second falcon tube (tube 2 containing 135ul of thrombin) add 615ul
+of the CaCl2-media only (D1-D3 cell free samples) timestamp 15:13  
+  
+
+Add the fibrinogen stock (8mg/ml) to the wells to make up a final
+concentration of 3 mg/mL, so that each well has a total volume of 800 µL
+(cell-reagent mix):
+
+5) NOTE - ADD FIBRINOGEN TO THE CELL FREE TUBE (TWO) FIRST INCASE INSTANT
+GELATION OCCURS  
+  
+To tube two add 450ul of the 8mg/ml fibronogen stock solution (150ul per cell-
+free sample) timestamp 15:15  
+  
+To tube one add 1.35ml of the 8mg/ml fibronogen stock solution (150ul per
+cell-laden sample)
+
+6) Mix the solution quickly in each tube by pipetting up and down multiple
+times.
+
+Add the fibrinolytic inhibitor aminocaproic acid (ACA) (Sigma), at a
+concentration of 1 mg/mL to the cell-Fibrin mix, to prevent rapid hydrogel
+degradation:
+
+7) Add 189ul of the 20mg/ml stock ACA to tube 1 (21ul per cell-laden sample)
+and mix, then add 63ul of the 20mg/ml stock ACA to tube 2 (21ul per cell-free
+sample)  
+
+Each tube should now contain the following:
+
+8) Place the anchor point inserts and conical inserts into the relevant wells
+(see plate map below) timestamp 1  
+
+Note - it is important that the inserts are added before the gels set!
+
+9) Seed the plate/inserts:
+
+For the anchor point inserts seed with 300ul per of gel-cell mix per insert
+(seed around legs and between legs, see diagram below) n=4
+
+For the conical inserts seed with 150ul gel-cell mix per insert, by pipetting
+into the conical reservoir, n=4 (enough for n=9 if we have extra inserts!)
+
+For insert free wells seed 300ul of gel into the middle of the well, n=4 cell
+laden, n=3 for cell-free.
+
+  
+
+  
+
+9) Once seeded, incubate the plates for at least 30 min, at 37 °C, to initiate
+hydrogel polymerization. 15:04 -15:43pm
+
+10) After 30 minutes, add ~1 mL (or enough to fully immerse samples but not
+overflow - i.e. leave some headspace) of prewarmed proliferation media
+(containing 1mg/ml ACA) to each well and return plates to the incubator (37
+°C, 5% CO2).  timestamp 15:45  
+
+Note - add media gently to the side of the wells, so as not to detach gels
+from inserts
+
+11) CREATE PLATE ID
+
+PLATE ID: 7509-DOLLY12-Sheep P12-1of1  
+
+PLATE LOCATION: thermo  
+
+  
+
+Media/Reagents used:
+
+  
+  
+NameDetails  
+20mM CaCl2 in Proliferation mediaM6195  
+Bovine concentrated plasma fibrinogen stock (8mg/ml)M6198  
+ACA stock solution (room temp)M6197  
+Thrombin stock solution (10mg/ml)M6199  
+Proliferation media + ACA (fridge)M6196  
+  
+m  
+  
+  
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ x]  Unexpected because... see below
+    * []  Need to be further analysed
+    * [ ]  Other (.......)
+
+### Relevant Images/Figures: n/a  
+
+  
+
+Observations:
+
+When preparing fibrinogen controls, it was observed that upon adition of
+fibrinogen (to the Mastermix of other 3 components) almost immediate gelation
+occured. Onkly 2 control gel could be seeded out before the rtest of the stock
+became a solid gel blob.
+
+Therefore, the cell containing samples were processed in a different manner:
+
+1\. cells in Calcium-sontaining media were mixed with fibrinogen and ACA
+
+2\. these mixes were then aliquotted out into the intended wells and inserts
+on the plate, followed by addition of the respective volume of thrombin
+
+Most samples could be dispensed this way except 1 each of the cell-laden
+controls and 1 anchor point insert before gelation of the mastermix (no
+thrombin added!) occured.
+
+all samples which had already undergone some gelation, most likely due to the
+addition of calcium, were then treated withy Thrombin to finalize gelation in
+the incubator.
+
+After 30 min, all gels had set and were covered with ACA-containing media
+
+  
+
+Seeded according to plate map below:
+
+  
+
+

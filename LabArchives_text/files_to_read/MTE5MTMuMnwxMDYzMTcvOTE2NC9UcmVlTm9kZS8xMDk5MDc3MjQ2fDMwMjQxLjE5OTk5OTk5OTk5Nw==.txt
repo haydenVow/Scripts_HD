@@ -1,0 +1,163 @@
+
+
+Instructions: https://www.notion.so/vow/Final-Report-
+Template_V2-8e9c698481a74ceda6d9fd29b13222d9?d=96850977c0cc4a0db35eb0b550fe99f5#9ea41d1bead84e64b05b40ac5ba5c28f
+
+An experimental report should be open for every Vowzer to access, read and
+understand the following:
+
+  * why we did a certain experiment
+  * how we went about planning and executing it
+  * what the outcomes were / lessons learned
+  * what the next steps are moving forward
+
+We break these up into 6 sections in a report that should be clearly distinct
+and easy to follow. They are:
+
+  1. Introduction
+  2. Materials/Methods
+  3. Results
+  4. Discussion
+  5. Conclusions
+  6. Future directions/next steps
+
+  
+
+
+Introduction
+
+
+To achieve:
+
+  1. 1-tonne of cultured meat harvested by the end of 2022, and 
+  2. selling first product 'Morsel' at a profit
+
+we have identified that we must be able to routinely achieve a 30g/L wet-
+weight harvest of Nuvonis cells in representative bioreactors (2L) by 30
+September 2022.
+
+Based on previous data from bench-scale and manufacturing line harvests, we
+assume that 30g/L equates to a cell density of 7.5M Nuvonis cells/mL. Our
+current in-house media formulation using for R&D and manufacturing is a blend
+of proprietary high-density medium formulation, CHO-in-one (Himedia), and
+'open-source' lean media RPMI 1640 (Thermo Fisher Scientific) mixed at a ratio
+of 1:1. As CHO-in-one formulation is unknown and protected as Himedia
+intellectual property, we have identified that the use of CHO-in-one or any
+proprietary high-density media formulation for manufacturing of a saleable
+product is undesirable for both regulation and research & development
+purposes. However, we have identified that amending CHO-in-one formulation to
+achieve our short-term goals is an acceptable and necessary compromise for the
+following reasons:
+
+  * we have established reliable supply chain of CHO-in-one for an acceptable price (for use at a manufacturing scale)
+  * use of alternative high-density medias (Freestyle and HyCell) at a manufacturing scale is prohibitively expensive, and supply chain is insufficient
+  * total reverse engineering of a high-performing high-density formulation (HyCell) will incur long lead times for analyses which are not acceptable to achieve our goals within the desired timelines
+  * screening of other high-density media formulations or entirely reverse-engineered formulations will incur too much risk with uncertain supply chain, costs, biological suitability (including food safety and regulatory requirements)
+
+Based on previous data, we assume that we can achieve target densities (7.5M
+cells/mL) by adjusting the starting media formulation only, without the need
+for routine supplementation. We further assume that the full effect of
+supplementary feeding schedules will not be efficacious if there is an
+ingredient present in the starting media formulation at a limiting
+concentration. Therefore, we aim to amend the existing CHO-in-one formulation
+by adding new ingredients.
+
+The aim of this experiment was to compare the growth of Nuvonis cells cultured
+in batch-mode using Vow in-house media formulations (MFG or R&D CHO) to growth
+in control medium formulations which are designed to support high density
+growth of suspension-adapted cells. We sought to compare these differences by
+analysing:
+
+  1. daily cell counts to measure cell growth over time
+  2. analyte profiles of spent media over culture time matched with the above (1) data
+
+By comparing in-house formulas to these controls, we aimed to ascertain:
+
+  * what cell density can we expect an 'optimised' or purpose-built medium formulation (controls) to support when culturing Nuvonis cells in batch-mode, and therefore establish a benchmark to match for future trials of new in-house media formulations
+  * the concentration of key analytes in R&D and MFG formulations compared to HyCell controls, to determine benchmark starting concentrations for a starting media formulation (primary goal)
+  * what key analytes are depleting over time in in-house media formulations vs controls to inform a supplementation schedule (secondary goal)
+  * to characterise a 'tolerable' Nuvonis cell waste profile in control conditions (tertiary)
+
+Cell count data show that:
+
+  * HyCell supports a maximum cell density of >6M cells/mL in batch mode
+  * 100% CHO-in-one supports a maximum cell density of >3.5M cells/mL
+  * MFG CHO supports a maximum cell density of >2M cells/mL
+  * MFG CHO and R&D CHO are comparable in their performance
+  * Cell density is not significantly different between conditions until day 6, where HyCell supports a significantly higher cell density. From day 6 onwards, cell densities in the HyCell condition are strikingly increased compared to all other conditions, and continue to increase by ~30% over 48 hours 
+  * Overall, data confirm our assumption that an optimised starting media formulation alone is sufficient to achieve close to 7.5M cells/mL in batch mode without supplementation feeding
+
+
+Materials/Methods
+
+  * What was the overall design of the experiment?
+    * How long was it expected to take? How long did it actually take?
+  * Lay out the step-by-step process (overview) of the experiment, feel free to use graphs/flow charts to explain this.
+  * Add links to SOPs used within this experiment.
+  * Mention any deviations from SOPs and why they were made.
+
+  
+
+  
+
+[Text here]
+
+
+Results
+
+
+In this section, state results without your interpretations behind it. For
+example: Here, aim for 'molecule x increased glucose uptake of myoblasts.',
+rather than 'molecule x increased glucose uptake of myoblasts indicating that
+glucose uptake is controlled by pathway y.' Leave your interpretations for the
+Discussion section.
+
+  * Describe the results of the experiment in general terms.
+  * Add in any summary tables/images/figures of the results to back up your statements.
+  * Caption each table/image/figure with relevant details (microscope magnifications, n values, p values [if applicable])
+  * Results should be directly relevant to the aims of the experiment.
+
+  
+
+[Text here]
+
+
+Conclusions
+
+
+  * Sum up the results of the experiment as succinctly as possible, this can be a short paragraph or a single line. Copy this to your Header Summary Page for the experiment/writeup.
+  * If the experiment was unsuccessful, don't feel you need to over-complicate the results. Explain why it was not successful and any key learnings.
+
+  
+
+[Text here]
+
+
+Discussion
+
+
+Time to expand on your results. Use this section as an opportunity to explain
+your interpretation of the above results (don't leave any table/image/figure
+un-mentioned, if it's part of the results it should be mentioned in your
+discussion.
+
+  * Discuss the implications for these findings or the reason that things might have worked out this way. Move on to the next set of results and repeat the process.
+  * Be critical, are there any competing factors that may have interfered with the experiment and influenced the results? If so, state them and explain their potential impact on the perceived results. This may tie into next steps (ways to improve the experimental design to mitigate those risks).
+  * Imagine you are reading this report for the first time with no knowledge of the experiment but want to know the key results and what they mean.
+  * Discuss any limitations that may have impacted your work - explain their potential impact on the results and how that affects your interpretation.
+
+  
+
+[Text here]
+
+
+Future Directions/Next Steps
+
+
+  * Provide a short paragraph or some dot points on the work that is to follow on from this experiment, e.g. repeats, new conditions, troubleshooting etc.
+
+  
+
+[Text here]
+
+

@@ -1,0 +1,146 @@
+
+
+## Completed by: Nathan Hawkins & Bec Screnci
+
+
+Aim/Purpose
+
+
+To investigate what impact UVA/UVB irradiation in the presence of a p53
+inhibitors will have on long term F_DOLLY12_3P23 & F_NANDO3 cell longevity.  
+
+
+Hypothesis
+
+
+We hypothesis that cells exposured to UVA/UVB irradiation in the presence of
+p53 inhibitor will have better chances of surviving our single cell cloning
+pipeline. We expect to see more clones reach our 96 well plate stage expansion
+stage of our cloning pipeline compared to cells that have not received any
+UVA/UVB irradiation or exposure to p53 inhibitors.
+
+
+Technical Gap
+
+
+Being able to produce a high performing and long lasting clonal cell line that
+doesn't show decreases in proliferative capacity is vital to our mission. We
+currently do not have a cell line that meets this criteria, therefore we
+cannot produce cell mass at a large enough scale to feed billions simply
+because our cell lines will expire after a finite number of deivisions. This
+experiment aims to employ UV mutagenesis strategy to produce a long lasting
+clonal cell line that will hopefully give support endless biomass production,
+allowing us to reach any desirable scale for production.
+
+
+Method/Procedure
+
+
+Note* This plan from TRIAL 1 has been adapted here for cultures in 6-well
+plates, to increase replicate efficiency and reduce cell demand.
+
+  
+
+  
+
+Day 1 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+Day 2 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+  * 50% Feed (with/without p53i as per conditions stated above)
+
+Day 3 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+Day 4 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+  * 50% Feed (with/without p53i as per conditions stated above)  
+
+Day 5 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+Day 6 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.
+
+  * 50% Feed (with/without p53i as per conditions stated above)
+
+Day 7 post-mutagenesis: 1 day after irradiation dose, observe plates, zaber
+scan for digital record to examine cell death, record observations then return
+cultures to incubate at 37 degrees, 5% Co2.  
+  
+
+When it appears that cell death has reduced and cells are surviving (possibly
+even proliferating), 4-7 days after irradiation dose, passage cells from each
+plate and perform a cell count to determine cell viability (n=3). Combine
+replicates from each group together into one tube after cell counting. Seed
+cells into an appropriate size and number of T flasks (n=1 for each condition)
+using regular growth media containing no p53 inhibitor
+
+
+
+
+Phase 1:
+
+  1. Thaw a vial of fibroblast cells into 2xT175s using DMEM/F12 + 10% FBS + 1xP/S. (Note: If fibroblasts are in continuous culture (proceed to Phase 2 on next passage, note down passage number). 
+
+  2. Grow cells until 70% confluent, perform 50% feed every 48 hours.
+
+Phase 2:
+
+  1. Passage cells then set up 12x 10cm plates at 2000 cells/cm^2 (20,000 cells per plate). (gelatin coated?)
+
+  2. Allow all plates to grow to 70% confluence,   50% Feed ever 48 hours with growth media until confluence is reached.
+
+  
+
+Phase 3:  
+  
+
+  1. Once plates reach 70% confluence image plates and proceed with treatments (n=3) 
+
+    1. Remove the growth media and wash all plates with 5mL dPBS. Split the plates into 4 groups (G1-G4)
+
+    2. Add 10mL of fresh dPBS with/without 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) to each plate (see table below for which plates require p53 inhibitor) PLEASE SEE THIS DOCUMENT PRIOR TO HANDLING P53 INHIBITOR
+
+    3. GroupUV irradiation p53 inhibitor.   
+G1NoNo  
+G2NoYes  
+G3YesNo  
+G4YesYes  
+    4. Inside the BSC, Wrap plates from G1 and G2 in foil and leave in the BSC. 
+
+    5. Set up the reptile solar lamp inside the BSC at a distance that is 30cm from the plate surface, using the UV meter, detect the UV intensity emitted by the lamp and record it (mW/cm^2). Perform a calculation to determine the length of time required to generate a 600,000 J/m^2 UV energy dose using the following formulas.  
+  
+mW/cm2 x seconds = mj/cm2
+
+0.1 mJ/ cm2 = 1 J/m2
+
+    6. Remove the lids from all plates and expose all plates to 600,000 J/m^2 of UV irradiation. 
+
+    7. Once irradiated, aspirate and discard the dPBS and replace with growth media w/wo p53 inhibitor for plates in each respective group. 
+
+    8. Return plates to incubate at 37 degrees 5% CO2. overnight.
+
+  2. 1 day after irradiation dose, observe plates to examine cell death, record observations then return cultures to incubate at 37 degrees, 5% Co2. 
+
+  3. 2 days after irradiation dose, observe plates and perform a 50% media feed using growth media w/wo p53 inhibitor (100uM), leave cells for further 2 days incubating. 
+
+Phase 4:
+
+  1. 4 days after irradiation dose, passage cells from each plate and perform a cell count to determine cell viability (n=3). Combine replicates from each group together into one tube after cell counting. Seed cells into an appropriate size and number of T flasks (n=1 for each condition) using regular growth media containing no p53 inhibitor
+
+  2. Monitor cultures over a further 10 days, performing 50% feeds and passaging necessary (>90% confuence), maintaining 2xT175s per condition. Discard excess cells 
+
+
+
+
+

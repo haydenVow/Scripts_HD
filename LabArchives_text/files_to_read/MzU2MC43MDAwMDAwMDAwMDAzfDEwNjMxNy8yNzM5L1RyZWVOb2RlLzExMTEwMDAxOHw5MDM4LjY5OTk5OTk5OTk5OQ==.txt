@@ -1,0 +1,142 @@
+
+
+Purpose of this experiment:  
+The purpose of EPIC 17048 Conditions for optimal fibroblast aggregates was to
+assess fibroblast aggregation in response to various concentrations of TGFb
+and Vitamin C, in the presence or absence of shaking. We hoped to identify a
+combination of TGFb and Vitamin C that allows for formation of fibroblast
+aggregates in the absence of shaking.  
+  
+
+TGFb and Vitamin C treatment in the context of agitation leads to production
+of fibroblast aggregates.
+
+When confluent fibroblasts in a T175 flask were placed on a shaker set at 100
+rpm and incubated with media (DMEM/F12 + 20% FBS + 1x PS) containing 50 ug/mL
+Vitamin C and 10 ng/mL TGFb, or 50ug/mL of Vit C alone fibroblast aggregates
+formed within 12 hours. These results confirmed our findings from EPIC 16034.
+These fibroblast aggregates were clearly visible in the flask (i.e.
+macroscopic), and held their form when they were harvested and washed.
+
+  
+
+Proposed mechanism for formation of fibroblast aggregates
+
+Vitamin C, also known as ascorbic acid or LAA2P, has previously been shown to
+increase fibroblast adhesion [4], perhaps via increased production of
+collagen. Specifically, Vitamin C acts as a co-factor for the proline and
+lysine hydroxylases that stabilise the collagen molecule tertiary structure
+and also promotes collagen gene expression. In the presence of Vitamin C,
+there is also increased cross-linking of collagen [5].
+
+TGFb stimulates the synthesis and assembly of matrix proteins including both
+fibronectin and collagen [6]. Specifically TGFb promotes fibroblast collagen
+formation through up-regulation of miR-21 and the PTEN/AKT signalling pathway
+[7]. TGFb is typically produced by immune cells such as macrophages in the
+context of fibrosis, or formation of scar tissue [8].
+
+Based on these findings in the literature, I hypothesised that both Vitamin C
+and TGFb are required for formation of fibroblast aggregates. TGFb stimulates
+increased synthesis of fibroblast collagen via miR-21 and the PTEN/AKT
+signalling pathway. Collagen cross-linking is driven by Vitamin C, which also
+helps to stabilise the collagen molecule tertiary structure. The increased
+production of extracellular matrix proteins leads the fibroblasts to bind to
+each other rather than the base of the T-flask. Though at Vow we are unlikely
+to perform specific experiments to determine whether this hypothesised
+mechanism is correct, I will spend some time determining whether treatment of
+fibroblasts with both TGFb and Vitamin C in tandem is critical for this
+process. Based on this hypothesised method of action, shaking of the T175 may
+actually not be required for formation of aggregates. It may speed the process
+along, facilitating interactions of TGFb and Vitamin C with adherent
+fibroblasts, but I will also perform a follow-up experiment to determine
+whether shaking of the T175 flask is critical for aggregate formation.
+
+There is literature to indicate that mechanical stresses can lead to formation
+of cellular aggregates [9, 10]. Perhaps to achieve the "strand-like"
+structure, the mechanical stresses are important. However, for scalability
+purposes, achieving formation of fibroblast sheets without shaking is an
+avenue worth pursuing, given that I have found no literature to indicate that
+mechanical stress impacts fibroblast collagen or ECM production.  
+  
+However, these findings indicate that Vitamin C alone may be sufficient to
+drive formation of aggregates. This would be advantageous given the costs of
+TGFb.
+
+  
+
+Use of Vitamin C and TGFb in current ACF media formulations
+
+It is important to note that Vitamin C (LAA2P) and TGFb are currently used in
+E6, E8, and our ACF media formulations. In both E8 and E6 media, 64ug/mL LAA2P
+is used which is comparable to the 50ug/mL LAA2P used to facilitate fibroblast
+aggregates. 2ng/mL TGFb is a component of both E8 media and our ACF media
+formulation for proliferation. This is 20% of the amount of TGFb used here to
+form aggregates. It will be interesting and important to optimise the
+concentrations of Vitamin C and TGFb in the fibroblast media as we move
+towards a ACF media for fibroblasts, so that we can facilitate proliferation
+as desired and also produce aggregates as desired.
+
+  
+
+Limitations
+
+A current limitation of this protocol is that it relies on adherent culture.
+We will need to find a way to form aggregates from fibroblasts in suspension
+culture if we are going to scale up this process for use commercially.
+
+In addition, it would be best to complete this experiment with multiple
+replicates so statistical analysis could be performed and we can verify
+whether the addition of TGFb is truly critical for formation of aggregates or
+not.
+
+  
+
+Overall Conclusion
+
+Fibroblast aggregates form when fibroblasts are grown to confluence, then
+stimulated with 10 ng/mL TGFb and 50 ug/mL Vitamin C for approximately 12
+hours while on a shaker platform set to 100 rpm. These fibroblast aggregates
+have a texture resembling thin noodles and don't possess any negative flavours
+or attributes that would need to be masked. Given the macroscopic biomass that
+was able to be produced from the single T175 used for this experiment, this
+pilot experiment absolutely indicates that further investigations should be
+completed. Particularly, the concept of removing TGFb should be explored more
+fully.
+
+  
+
+Future Directions
+
+Production is doing some work to further our understanding of how we can use
+aggregates to produce mass for the product team.
+
+  
+
+References:
+
+1\. https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjE1Ljh8MTA2MzE3LzE2Ni9UcmVlTm9kZS8zNTgxNDE4NTA5fDU0Ny44
+
+2\.
+https://www.sigmaaldrich.com/catalog/product/sigma/z720860?lang=en&region=AU&gclid=CjwKCAjwm7mEBhBsEiwA_of-
+TJVdLcdsvvOWEav6IY_kMElV8-Fso2iktJU81jUpkWiZUtScYlgs5BoC_6cQAvD_BwE
+
+3\. https://www.notion.so/vow/Matrix-Meats-Hybrid-Unit-
+Assessment-30-4-21-5562aae010c8402ab7dae930aea920eb
+
+4\. https://pubmed.ncbi.nlm.nih.gov/17325628/
+
+5\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5579659/
+
+6\. https://onlinelibrary.wiley.com/doi/pdf/10.1002/art.10621
+
+7\. https://www.nature.com/articles/srep32231
+
+8\. https://www.nature.com/articles/s41598-020-74179-6
+
+9\. https://www.sigmaaldrich.com/technical-documents/articles/biology/cell-
+culture-troubleshooting-cell-clumping.html
+
+10\. https://www.nature.com/articles/s41598-017-14325-9
+
+

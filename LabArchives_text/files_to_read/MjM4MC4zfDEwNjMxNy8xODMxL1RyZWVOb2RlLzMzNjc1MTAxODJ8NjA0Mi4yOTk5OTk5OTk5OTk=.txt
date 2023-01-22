@@ -1,0 +1,107 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: Avani  
+
+
+
+
+Weekend feed information:
+
+Vessel type(s)Vessel IDVessle locationGrowth media locationOther comments  
+24 well plate7042, 7043, 7044ThermoN/Aalbumin is in the short fridge in the
+biomaterial area  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Culture IDs to feed
+
+Seeding conditions:culture ID of well:  
+24h after passage, add albumin (800ug/mL)resulting media  
+condition 4: vitronectin coated, 1000 cells/cm^2, B8  
+7101-DOLLY12-Sheep P10-1of1  
+2 uL Beefy-9  
+  
+condition 5: vitronectin coated, 2500 cells/cm^2, B8  
+7102-DOLLY12-Sheep P10-1of1  
+2uL Beefy-9  
+condition 6: vitronectin coated, 632 cells/cm^2 (didn't have enough cells),
+B8+10C  
+7103-DOLLY12-Sheep P10-1of1  
+2 uLBeefy-9 + 10C  
+  
+  
+
+
+
+
+Process:
+
+1\. These cells were passaged yesterday and seeded in 500uL of media per well.
+Conditions 4, 5 and 6 (ID 7101, 7102, 7103) need 800ug/mL of albumin added to
+them. So, add 2uL of albumin (stock 1803) to each of these wells. Use a
+separate tip for each well.
+
+2\. Returned vessel to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [X]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+albumins18032uL/well  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

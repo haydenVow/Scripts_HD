@@ -1,0 +1,171 @@
+
+
+## Completed by: Addy
+
+
+Aim/Purpose
+
+
+To determine what the optimal rate of feeding is to maximise cell survival in
+sheep MuSC differentiation, using both E6 media and 2% HS media. This aims to
+troubleshoot the cell death that has been observed in Q3 of 2021.
+
+
+Hypothesis
+
+
+If 100% of the feed is changed everyday, then cell growth may be impaired.
+
+
+Technical Gap
+
+
+The issue of cell death needs investigation because we don't have definitive
+evidence of the optimal feeding schedule that will promote survival. This is
+imperative for successful cell differentiation and eventually, maturation.
+
+
+Method/Procedure
+
+
+  1. [Experiment Plan]
+    * Get cells ready
+
+Tuesday:
+
+      * Coat 3x T flasks with gelatin (1 hr @37 deg)
+      * Thaw cells (3 hrs) - in the BSC
+        * Make up growth media (~500 mL) and warm in water bath
+        * Warm cell vial in water bath
+        * Add 0.5 mL growth media to vial
+        * Allow to equilibrate
+        * Add total vial volume (1 mL) to 90 mL aliquot of growth media that was made up earlier
+        * Transfer ~30 mL of cell + media into each of the three gelatin coated T175 flasks
+        * Incubate
+
+Wednesday:
+
+      * Make more growth media (at least 50 mL) and add p38i
+      * Replace 50% feed from 3x T flasks
+
+Friday:
+
+      * Gelatin coat the 4x 96-WP (1 hr @37 deg)
+      * Make growth media
+      * Passage cells (add detatchment reagent, aspirate cells + feed, centrifuge and discard supernatant, resuspend cells in growth media) and seed onto 4x 96-WP
+      * Seeding density = 640 cells / well
+      * Refer to: https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=426699954&range=1:1)
+
+Sunday:
+
+      * 50% feed, which Bec will take care of :)
+
+Tuesday:
+
+      * Cells should be confluent and ready for differentiation media
+    * Differentiation assay
+
+Tuesday (Day 0)
+
+      * Change to differentiation media (E6 vs Basal Media + 2% HS control)
+      * Lots of feeds (100% vs 50% vs 0%; changing daily vs every second day)
+      * Refer to: https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=426699954&range=1:1)
+      * Fix and stain plate "Day 0" plate and feed remaining three plates
+
+Wednesday (Day 1)
+
+      * Feed the "everyday" wells (3 plates)
+
+Thursday (Day 2)
+
+      * Feed all the wells (3 plates)
+
+Friday (Day 3)
+
+      * Feed "everyday" wells (3 plates)
+
+Saturday (Day 4)
+
+      * Fix and stain "Day 4" plate
+      * Feed all the wells (2 plates)
+
+Sunday (Day 5)
+
+      * Feed "everyday" wells (2 plates)
+
+Monday (Day 6)
+
+      * Feed all the wells (2 plates)
+
+Tuesday (Day 7)
+
+      * Fix and stain "Day 7" plate
+      * Feed "everyday" wells (1 plate)
+
+Wednesday (Day 8)
+
+      * Feed all the wells (1 plate)
+
+Thursday (Day 9)
+
+      * Feed "everyday" wells (1 plate)
+
+Friday (Day 10)
+
+      * Fix plate
+
+Extra Info
+
+Thought process: Thaw cells -> grow them up to sufficient numbers in the T
+flask -> passage onto the assay plate -> grow them up till confluent ->
+differentiate -> analyse
+
+The aim of the experiment is to analyse the effect of the rate (and volume) of
+diff media feeding on cell survival.
+
+Each vial (0.5 mL) has 500,000 cells - dividing by the surface area of the T
+flask (175 cm2) and then by the optimal seeding density (1000 cells / cm2)
+gives us ~3 flasks. As such, if we use 3 flasks in the beginning, the seeding
+density should be 948 cells / cm2  or roughly 166,666 cells per flask.
+
+Regarding the growth media (90 mL of DMEM + F12 + 20% FBS + 1X P/S + 10mM
+p38i) - the inhibitor needs to be added fresh, for every feed.
+
+While growing, MuSCs take about 3 days to reach 60-70% confluence.
+Differentiation of DOLLY12 takes about 14 days.
+
+    * Staining Procedure
+
+      1. Remove diff media
+      2. Wash twice with PBS
+      3. Fix with PFA -> (an "out" if required)
+      4. Wash twice with PBS
+      5. Permeabilise with PBS + TritonX (a detergent)
+      6. Block non-specific binding sites
+      7. IF stain - primary stain for MyoG (anti-MyoG) and anti-MF20 (for Myosin Heavy Chain; MHC) and then secondary stain
+    * Image and Analyse
+
+      1. Zaber imaging
+      2. Analysis (ImageJ macros)
+    * Write a report with conclusions
+
+
+
+
+Differentiation Feeding Schedule
+
+  
+
+
+
+
+  1. [Peer Review]
+  2. [Make amendments and Sign off] 
+  3. [Report writing (Draft)]
+  4. [Review & fill out Report (Full)]
+  5. [Ensure all lab books are complete & assign for review]
+  6. [Review Lab Books, results, report]
+  7. [Make necessary amendments and confirm with reviewer that experiment is complete
+  8. [Release note on Project Updates]  
+
+

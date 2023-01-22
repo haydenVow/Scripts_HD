@@ -1,0 +1,120 @@
+Written by Ella Hodder:
+
+
+See full report sent to Gelatex here (EH):  
+  
+https://docs.google.com/document/d/1lbMQuZzhKH_UCLx-4MxLNtPORNpDMRxUke6VAQktvqE/edit?usp=sharing
+
+
+Written by Lily Logan:
+Quick summary of main findings
+
+
+  1. Both zein and gelatin scaffolds supported prolonged cell adhesion (up to day 14 in E6 media). On day 14 in differentiation media the gelatin scaffolds appeared to have a higher confluence than zein scaffolds , however the difference was not significant (77.05 ± 12.21% vs. 69.5 ± 13.07%, P = 0.0583). 
+  2. Neither scaffold type revealed any Myosin Heavy Chain (MF20) or myogenin (MyoG) positive cells after immunostaining on day 14 of differentiation. 
+  3. Zein scaffolds were brittle in their dried form, and became very tearable and soft in cell culture conditions (growth media, 37'C, 5% CO2).
+  4. Gelatin scaffolds swelled considerably in cell culture conditions (growth media, 37'C, 5% CO2), which negatively impacted the reliability of imaging due to scrunching. 
+
+
+Discussion
+
+
+Upon cutting the dried scaffold sheets to size for the 96-well plate, it was
+identified that the zein scaffolds were far more brittle and prone to tearing
+than the gelatin scaffolds. Once added to media, the gelatin scaffolds
+immediately swelled to roughly 1.5 times their original size, causing them to
+bunch up in the 96-well plate. This made focusing difficult during imaging, as
+the scaffolds did not lay flat against the base of the plate (Figure 1).
+
+On day 1, seeding efficiency calculations suggested that cells initially
+adhered more strongly to scaffolds when seeded wet rather than dry (Table 1).
+The scaffolds were stained with Hoechst and imaged using the Main Lab Zaber,
+however the images were lost so no confluence analysis could be performed on
+D1 images.
+
+Figure 1: Gelatin scaffold bunched up in well due to expansion in cell culture
+conditions.
+
+
+
+On Day 7, the scaffolds were again stained with Hoechst and imaged using the
+Main Lab Zaber. The images obtained of the zein scaffolds showed no
+fluorescent particles, suggesting a complete absence of cells left adhered
+(Figure 2). The gelatin scaffolds were taken at two different exposures due to
+an error with imaging. Images with shorter exposure time were too dark to
+detect any cells (Figure 3). The gelatin scaffolds imaged using a longer
+exposure time revealed that there were, in fact, still cells adhered to the
+gelatin scaffolds (Figure 1). The scaffolds were therefore kept in culture for
+a further 7 days to assess confluence and prolonged adhesion. Day 7 scaffold
+confluence was not analysed through JMP due to insufficient data for
+statistical significance.
+
+On Day 14, the scaffolds were fixed with 4% PFA and stained with DAPI nuclear
+stain. They were imaged using the main lab Zaber microscope. Although exposure
+was set to a similar time as for Day 7 samples (9 ms vs 5 ms), both zein and
+gelatin scaffolds were seen to be confluent with many cells still adhered
+(Figure 4, Figure 5). This suggested that Hoechst does not fluoresce as
+strongly as DAPI, and therefore may not be as robust a method for identifying
+cells on scaffolds.
+
+Day 14 images were manually scored by LL and EH. Confluence was rated as a
+percentage for each scaffold and then analysed using JMP. Gelatin scaffolds
+observationally demonstrated higher confluence than zein scaffolds, however
+the difference was not significant (77.05 ± 12.21% vs. 69.5 ± 13.07%, P =
+0.062) (Figure 6). Sorted parameter estimates suggested that gelatin, dry
+seeding, and seeding with 0.7M cells were all beneficial for cell adhesion,
+however none of these were significant (P>0.05). While cell confluence
+appeared to vary between the different conditions, again none of the
+differences were found to be significant (Figure 7).
+
+To determine whether the MuSCs adhered to the scaffolds had differentiated and
+begun to mature, the cells were immunostained with anti-myosin heavy chain
+(MF20) and myogenin (MyoG) antibodies. No positive signal for either protein
+were discovered through imaging (Figures 8, 9 & 10). It was noted that both
+scaffolds fluoresced brightly under the imaging filters, including cell-free
+scaffolds (Figures 11, 12 & 13). We hypothesised that the scaffolds may be
+absorbing the secondary antibodies and disrupting signals we may otherwise
+have noted from differentiating cells.  
+
+  
+
+
+Limitations
+
+
+  1. Both scaffold types were difficult to handle, reducing our ability to reliably flip them when imaging to view the second side. This also resulted in gelatin scaffolds being sucked into pipette tips when immunostaining, which may have led to cell loss. 
+    * This could be mitigated by increasing rigidity and thickness of both scaffold types
+  2. Hoechst staining seemed to not fluoresce strongly enough to identify cells on Day 7, which led to the loss of a dataset
+    * CMFDA or DAPI staining may be a more suitable stain than Hoechst to ensure sufficient fluorescence 
+  3. Difficulties with manipulating exposure settings on the Zaber for Day 7 samples also contributed to the loss of a dataset
+    * A second "checking step" has been added to the Zaber lab book template to ensure this doesn't happen in the future 
+
+
+Future Directions
+
+
+Despite the high scaffold confluence achieved on day 14 in differentiation
+media (demonstrated by DAPI staining) neither the zein or gelatin scaffolds
+stained positive for MyoG or MF20. Due to the background fluorescence seen
+when imaging these samples we suspect the scaffold materials are absorbing the
+secondary antibody. As a result of this effect, we are unaware of the
+differentiation capacity of our cells on zein and gelatin. Consequently, if we
+were to repeat this experiment or pursue similar materials we should instead
+assess differentiation using an alternative means such as western blot, total
+protein assay or our ELISA pipeline (once this has been established for work
+with scaffolds).
+
+The difficulty experienced when handling these scaffolds could likely be
+improved by increasing thickness and rigidity. This can be achieved through
+continued communication with Gelatex to describe our updated requirements.
+
+
+Conclusion
+
+
+Nanofibrous zein and gelatin are promising scaffolds for our MuSCs. They both
+support prologned adhesion of cells for 14 days in E6 media. It was unable to
+be determined whether the muscle cells differentiated and matured into muscle
+fibres, however a high cell confluence was achieved nonetheless.
+
+

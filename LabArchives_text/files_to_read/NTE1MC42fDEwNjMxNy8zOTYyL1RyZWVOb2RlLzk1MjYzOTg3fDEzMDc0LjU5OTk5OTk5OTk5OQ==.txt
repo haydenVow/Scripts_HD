@@ -1,0 +1,129 @@
+
+
+Perform thaw using below volumes:
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2304-Culture-6303-Vial-25of115  
+8058-F_DOLLY12-Sheep P8-1of2  
+8059-F_DOLLY12-Sheep P8-1of2  
+ T75  
+  
+  
+
+
+
+
+Growth Media
+
+  1. D/F+10%KSR+FGF+TGF+PDGF-BB+IGF-1
+  2. D/F+10%FBS+1xP/S 
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+D/F+10%KSR+0.1xP/S  
+m6810  
+  
+D/F+10%FBS + 1xP/S  
+a6455  
+  
+TGF-B  
+m3363  
+  
+FGF-B  
+m5077  
+  
+PDGF-BB  
+m6805  
+  
+IGF-1  
+m3644  
+  
+  
+  
+
+
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mgVol to add (uL)  
+FGF0.000030.050.000459  
+IGF10.000110.10.0016516.5  
+PDGF0.0000250.010.00037537.5  
+TGF-B0.000010.0020.0001575  
+  
+2\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath forMAX 5 min   13:09 - 13:13 a/pm
+
+Location where cryovial was collected from:
+
+ Brew  
+
+Tower/Bucket # 2  
+
+Box/Cane # 2  
+
+Vial location: D9  
+
+Vial ID(s):  2304-Culture-6303-Vial-25of115  
+
+
+
+
+3\. Ethanol sprayed & transferred the vial to the BSC.
+
+4\. Added  500 µL of Control growth media (to generate a total volume of 1mL
+in the cryovial) to the cryovial, resuspended the cell suspension gently to
+reduce osmotic shock.
+
+5\. Added half of cell suspension to each growth media aliquot (~500K to each
+15 mL aliquot)
+
+
+
+
+6\. Using a 10 mL serological pipette, resuspended & distributed the cells
+evenly in the   2 x 12 mL of pre-warmed Growth Media (prepared in Step 2).
+
+7\. Seeded cells into  2 x T75  flasks.  
+
+8\. Transfered flasks to incubate at: 13:17
+
+  * [x]  37ºC, 5% CO2 (mammalian cells).
+
+
+
+
+SOPs used:
+
+  * SOP_Thawing Cells Into Adherent Culture V_02
+
+
+
+
+Summary:
+
+Thawed 1M DOLLY Fibroblasts into 2 x T75s (500K per flask) with 2 different
+media conditions (D/F+10%FBS+1xP/S and D/F+10%KSR+FGF+PDGF+TGF+IGF)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+na
+
+

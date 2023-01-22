@@ -1,0 +1,172 @@
+
+
+## Performed by: CO VB  
+
+
+
+
+
+
+
+## Culture IDs
+
+Flask typeHarvest flask IDHarvest vessel  
+  
+10CF  
+11882  
+  
+  
+10CF  
+11883  
+  
+  
+  
+  
+
+
+
+
+## Reagent preparation:
+
+  1. Aliquot reagents following the table below: 
+
+Note: Tryple needs to be completely warm before using otherwise cells will not
+detach
+
+ReagentStandard QuantityQuantity used Timestape
+(waterbath/incubator)Mix/Aliquot/Stock ID  
+TrypleT175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+0.9L  
+13:32 waterbath  
+tryple incubation: 13:52 - 14:12  
+ALQ 9716  
+11046, 10987  
+  
+dPBS (wash - 37)T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+1L  
+\-  
+ALQ10270 ALQ10171  
+  
+dPBS (neutralise - ambient temp) T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+1L  
+\-  
+ALQ10270 ALQ10171  
+  
+dPBS (washing centrifuge tubes)  
+  
+10mL  
+room temp  
+MIX 10380  
+  
+  
+  
+
+
+
+
+## Image flask
+
+  1. Observed flask under the microscope at 4x or 5x objective for even cell distribution and < 50% confluency. Refer to VSOP006_0
+  2. Took at least 3 images per flask and returned flask back to incubator.
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask 
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+
+
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. Flask 1 `Time stamp`: 13:53 -14:12
+    2. Flask 2 `Time stamp`: 13:55 -14:12
+
+  
+
+
+
+
+  1. Collected TrypLE solution into 4x 225mL centrifuge tubes per 10CF
+  2. Wash flask with ambient temperature dPBS and transferred into centrifuge tube. 
+  3. Centrifuged at 650 x g for 5 minutes. 
+    1. `time stamp 1` :14:21 -1426
+    2. `time stamp` 2: 14:29 -14:34
+    3. time stamp 3: 14:40-14:45
+
+  
+
+
+
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirated the supernatant from the tubes, prioritising those with cells first *. Discarded supernatant. Removed remaining supernatant with a 1mL pipette.
+  2. Resuspend the pellet in 1 mL of growth media at a time. Pooled into one tube. Washed tubes labeled with * with remaining growth media by transferring media from one tube to the next.
+  3. Measure the total volume of the cell resuspension using a serological. Total resuspension volume = 30ml
+  4. Using the same serological, pipette mix cell suspension to ensure a homegenous cell suspension is obtained.
+  5. Weigh 1x 50mL falcon tube.
+  6. Transfer the cell suspension to the 1x 50mL falcon tube.
+  7. Centrifuge at 650g for 5min 14:52-14:57
+  8. Aspirate supernatant completely
+  9. Weigh the cell pellet = 0.13g
+  10. Store the pellet in the -20 Freezer until use 15:10
+
+#1 harvest: 1.446g  
+#2 harvest: 0.13g
+
+total:1.2746g
+
+  
+
+
+
+
+### Observations/Summary:
+
+  *   
+
+###  
+
+  
+
+Relevant Images/Figures (if any):
+
+
+
+
+Handling cell factories:  
+
+For cell factories, majority of steps involving removing or adding large
+amount of media will be performed by carefully pouring liquid in or out of the
+cell factory.
+
+Quick tips:
+
+  * Both caps on the cell factory need to be removed when adding and removing liquid. This prevents the liquid for gurgling and forming bubbles. (vid: 2:16 - 2:44)
+  * Avoid touching the waste bottle with the cell factory opening. (sterile urine waste containers are easier to pour into)
+  * After adding liquid into the cell factory, make sure to equalise it. To equalise, return lids to cell factory and place it on its side (blue lid at the bottom side). Allow liquid to equalise before lifting it to an upright position. (vid: 0.51- 1:16)
+  * When transferring 4CF into the BSC, wipe down with ethanol sprayed ready wipe.
+  * Any accidental spills on the BSC should be wiped up with an ethanol sprayed ready wipe.
+  * Any spills on the cell factory and the slides of the opening should be wiped up with a ethanol sprayed kimwipe. (never wipe the top of the cell factory opening)
+  * If a lid of the cell factory is compromised (dropped or an object passes over it) use a replacement lid (replacements can be found in the lab draws)
+  * 
+
+

@@ -1,0 +1,86 @@
+
+
+Process:
+
+  1. Set up OT2 deck as follows:
+    1. OT2 filter 200uL tip rack in positions 10
+    2. NEST 1x well reservoirs in positions 7
+    3. NEST 12 well reservoirs in positions 4, 5, and 6 each containing:
+      1. 9.5 mL PBS in wells 1-6
+    4. 96 well plates in positions 1, 2, and 3
+  2. Run the following protocol: YYYY-MM-DD-num-N-wash-3-plates
+    1. start time: 12:57:27 PM
+    2. run time:   1:13:37  hours
+  3. Prepare 12mL of the secondary antibody mix (Goat anti-mouse IgG1 AF488, 1:1000)
+    1. 12 mL of blocking buffer + 12uL Goat anti-mouse IgG1 AF488 (centrifuge before use)
+    2. store in fridge until use 14:01
+  4. Prepare 30 ml of DAPI (1:1000 in PBS) and store in the fridge 13:54
+  5. Manually remove PBS from wells and add 50uL/well of secondary antibody mix. 
+  6. incubate in the dark for 1 hour at room temp 13:25 - 14:25
+  7. Set up OT2 deck as follows:
+    1. OT2 filter 200uL tip rack in positions 10
+    2. NEST 1x well reservoirs in positions 7
+    3. NEST 12 well reservoirs in positions 4, 5, and 6 each containing:
+      1. 9.5 mL DAPI (1:1000 in PBS) in wells 1
+      2. 9.5 mL PBS in wells 2 - 6
+    4. 96 well plates in positions 1, 2, and 3
+  8. Run the following protocol: YYYY-MM-DD-num-N-dapi-3-plates
+    1. start time: 3:32:16 PM
+    2. run time:  not recorded   hours
+  9. Parafilm plate and store overnight in the fridge (4 degrees C). ~ 17 : 15     
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS  
+a4826, 4491  
+  
+Blocking buffer  
+m4442  
+  
+AF488 secondary  
+s1606  
+  
+DAPI  
+m2193  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Secondary stained 3x 96 wp using OT2
+
+6613-DOLLY12-Sheep P11-1of3  
+6614-DOLLY12-Sheep P11-2of3  
+6615-DOLLY12-Sheep P11-3of3
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

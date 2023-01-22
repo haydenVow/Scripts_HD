@@ -1,0 +1,166 @@
+
+
+Background
+
+
+
+
+A population of cells in suspension was identified in the CHOMP biopsy.
+
+At Vow, we are currently trying to adapt cells to grow in suspension culture
+by a variety of media and cell-line related means. See KR2 in the Pool-Party-
+Project of Q3 for more details on our ongoing attempts. However, we have been
+largely unsuccessful. This is disappointing given how critical it is to
+achieve suspension culture adaptation for scale-up manufacturing.
+
+Simultaneous to adapting cells to suspension, we have been attempting to
+isolate crocodile fibroblasts for use in our first product. Crocodile
+fibroblasts were isolated from a muscle biopsy using a collagenase digestion
+at 30 degrees C. Cells were cultured in DMEM/F12 + 10% FBS at 30 degrees C.
+Interestingly, the cells did not adhere to the plastic tissue culture flask
+quickly the way we have come to expect with our mammalian and avian cells and
+instead remained in suspension for several days. When the cells did adhere,
+the cells appear fibroblastic in morphology and appear to be proliferating
+well.  
+  
+In addition to this population of fibroblastic adhered cells, a population of
+cells in suspension remain in the supernatant. It does not appear that these
+cells are adhering or will adhere in the future. The impression of the
+scientists culturing these cells is that the cells in the supernatant are
+proliferating, though that will be confirmed in this experiment. We would like
+to investigate these cells further in order to determine what type of cells
+they are, and whether their capability to grow and survive in suspension could
+prove useful to Vow.  
+  
+The identify of these suspension cells is currently unclear, but they resemble
+reptile red blood cells.
+
+Although the identity of these cells in suspension is currently unclear, these
+cells resemble red blood cells with respect to size and shape. Mammalian red
+blood cells lack most cell organelles or nuclei. However, reptiles, fish and
+birds are oval-shaped, in part due to the presence of a nuclei. The
+biophysical properties of red blood cells are intimately linked to their
+function, in that these cells must squeeze into tiny microvasculature beds in
+order to transport oxygen [1]. Humans have a RBC that is shaped appropriately
+to squeeze through tiny blood vessels, while the avian RBC contains a nuclei
+and is less able to squeeze through tiny vessels. However, the vascular system
+of a bird consists of vessels with a wider diameter than that found in humans
+[2]. Thus, it appears likely that shape and size of red blood cells are
+related to animal anatomy and energy needs. Compare the images of reptile
+blood at [1] to the images of our CHOMP suspension cells taken via MIA
+capture: https://mia-capture.vow.tools/#/session/recTouUy4KqtlSvB3/images.
+
+ Mammalian red blood cells conventionally can not be cultured, but reptile
+RBCs may proliferate.
+
+Immature RBCs, also known as erythrocytes, are occasionally seen in the
+peripheral blood of reptiles, especially young animals. Immature erythrocytes
+are round to irregular cells with large round nuclei and basophilic cytoplasm.
+Conversely, mature RBCs isolated from snakes (also a reptile), were found to
+have basophilic (purple) nuclei and eosonophilic (light pink) cytoplasms via
+Leishman's stain. These RBCs were also oval or ellipical cells with oval or
+irregular nuclei. At times, spherical RBCs were observed.  This phenotype
+could be confirmed by staining at the Vow lab; Leishman's stain is often used
+to assess blood smears [4]. Many great images of blood cells from reptiles
+stained with Giemsa-Wright stain can also be found here:
+https://veteriankey.com/clinical-pathology-2/  
+  
+In addition, mitotic activity associated with reptilian red blood cells is
+common provided the animal is healthy [3]. This is in direct contrast to
+mammalian red blood cells. Erythropoiesis is the process of red blood cell
+development; in mammalian red blood cells this occurs ostly in the bone
+marrow. Mature RBCs are generated from multi-potent hematopoietic stem cells
+through a complex maturation process involving several morphological changes
+to produce a highly functional, specialised cell. The terminal step of
+mammalian erythropoiesis involves expulsion of the nucleus, elimination of
+organelles and ribosomes, and remodelling of the plasma membrane. This entire
+process occurs in the bone marrow before the cells enter the blood stream [5].
+Ex-vivo solutions for generating mammalian blood cells from hematopoeitic
+progenitor cells are of great interest given how useful they could be in
+eliminating the need for blood donors. However, systems currently being
+explored require progenitor cells isolated from bone marrow cord blood rather
+than peripheral blood where mature RBCs can be found [6].
+
+  
+
+Additional learnings about reptile RBCs.
+
+RBC life span varies across species, where in humans the cellular half-life is
+~120 days. Conversely, the half-life of an RBC is about 40, 600-800, 300-1400,
+and 80-500 in birds, reptiles, amphibians, and fish respectively. Thus,
+reptilian red blood cells may survive much longer than we would expect a
+mammalian red blood cell to. In addition, reptile RBCs are thought to be more
+likely  to be invaded by a wide range of parasites than other species' RBCs.
+In this study, protozoan, prokaryotes, and viral parasites were assessed and
+found in reptile RBCs at higher rates than other species [7]. In addition,
+reptilian red blood cells have been show to have much shorter telomeres than
+other reptilian cell types [8]. This suggests RBCs might not be prone to
+undergoing excessive amounts of proliferation and indeed there is very little
+in the literature around RBC mitosis in reptilian RBCs; the consensus seems to
+be that it does happen but not particularly regularly. Indeed, given the RBC
+life span of 600-800 days, slow mitosis might not even be noticed in many
+laboratory studies.
+
+Considerable variation among RBCs from reptiles may also exist; one paper
+reports blood cell counts and morphology vary greatly among the more than 8000
+species of reptiles described, even among species within the same genus.
+Changes in reptile red blood cell morphology are also associated with disease;
+this may be hard for us to assess at Vow given that we typically only look at
+one reptile at a time [9].
+
+  
+
+In closing, we should perform some sort of staining on these cells to assess
+if they are comparable to images of stained red blood cells that can be found
+online. It appears these cells survive will in their current media (DMEM/F12 +
+10% FBS) so we should assess whether these cells are truly proliferating;
+based on this research, it seems that reptilian red blood cells may merely
+survive for a very long time rather than proliferating in any significant
+amount.
+
+  
+
+  
+
+  
+
+  
+
+References
+
+1\. https://www.fleetscience.org/science-blog/red-blood-cells-large-and-small
+
+2\. https://www.researchgate.net/post/Do-nucleated-red-blood-cells-in-birds-
+and-reptiles-undergo-DNA-repair
+
+3\. https://veteriankey.com/clinical-pathology-2/
+
+4\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5307876/
+
+5\. https://www.frontiersin.org/articles/10.3389/fphys.2017.01076/full
+
+6\. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220296/
+
+7\.
+https://veterinaryresearch.biomedcentral.com/articles/10.1186/1297-9716-42-89
+
+8\. https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.192136
+
+9\. http://www.seaturtle.org/PDF/StacyNI_2011_ClinLabMed.pdf
+
+  
+
+Other sources consulted:
+
+1\.
+https://cdn.ymaws.com/members.arav.org/resource/resmgr/Files/Proceedings_2015/Pre_Conference/121.pdf
+
+2\. https://pubmed.ncbi.nlm.nih.gov/9125684/
+
+  
+
+  
+
+  
+
+

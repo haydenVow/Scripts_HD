@@ -1,0 +1,90 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: RS VB  
+
+
+
+
+Culture IDs:
+
+Seeded vessel typeSeeded flask IDAGGREGATION METHOD  
+Media  
+1x 5CS  
+11164-F_KUZCO20324-P6-5of5  
+  
+DOLLY AGGREGATION METHOD 375 mL DMEM/F12 20% FBS + VitC (0.5mL/L = 187.5uL
+VitC needed)  
+  
+  
+.
+
+
+
+
+Media/Reagents used:
+
+NameID  
+Volume used (mL)  
+Growth media (IH012 D/F+20%FBS)  
+a10843  
+375mL  
+  
+Vit. C  
+A11210  
+187.5uL  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted  mL of  D/F+20%FBS
+  2. Placed in water bath   12:20   
+
+  3. Added 187.5uL Vit C stock solution to the warm growth media  13:20 pm 
+  4. Removed  50  % of supernatant from vessel. 
+  5. Replaced with  375mL (5CSs)  per vessel  of  Growth   media. 
+  6. Returned vessel to incubate at:  13:27 pm   
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells) in the main lab
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)  
+
+  * 11164-F_KUZCO20324-P6-5of5
+
+chomp method vessels checked for contamination/ cracks
+
+  * 11155-F_KUZCO20324-P6-1of5  (CHOMP METHOD 1/4) - CRACKED - immediately binned
+
+
+
+
+SOPs and other Relevant Information for this Experiment:
+
+  * ### F_KUZCO20 Prototype Expansion Timeline and Doublings Tracker
+
+  * ### Pipeliners 5 Prototypes Production Gantt chart Q1 2022:
+
+  * ### Incubator Space Tracker
+
+

@@ -1,0 +1,251 @@
+
+
+Encapsulation Background Research
+
+  
+
+What are we trying to do? Brief recap of overview and roadmap page / or just
+link it at the beginning
+
+(For project specific aims, please refer to 'x'...)
+
+VP note: might be a good idea to briefly outline here "cells in encapsulation
+- adherent but in suspension culture format, scale for first product" rather
+than just referring to the roadmap link
+
+  * Cells prefer to stick to things as they grow / proliferate (they also receive lots of helpful mechanical cues which directs this growth)
+  * But to be able to mass produce cells, we need to be able to grow them in a suspension format (using volume rather than area)
+  * Another project is already focusing on adapting single cells to suspension - link to Project Frankenstien
+  * Our project is taking an intermediate approach where cells are encapsulated in an edible scaffold that is 
+
+  
+
+Why are encapsulation techniques important for Vow / the cultured meat
+industry?
+
+VP note: I think the info here is great for general info about encapsulation
+for texture and tissue-like growth but less important for info as a kind of
+'biological microcarrier'. Maybe chunk this into 2 sections: (1) start with
+the bioreactor culture scale premise here (dont grow in suspension, but are
+adherent, encapsulated in functionalised matrix will allow adherence,
+expansion, protection from shear, and will enable growth in 'suspension
+format') and then (2) why its useful in general to keep this research going
+without the bioreactor scale aspect (for 'tissue-like' growth!)
+
+'The likely requirement for biomaterial-based scaffolds to facilitate scalable
+cell expansion and cell differentiation (see Sections 4.1, 4.2) introduces
+both challenges and opportunities in designing the nutritional composition of
+cultured meat. One technical challenge is the need to support high cell
+densities to match those in native tissue (108 - 109 cells/mL) [59]. However,
+most research into engineering muscle tissue has been performed at relatively
+low cell densities (107 cells/mL) [58], [60], [61], [62], [63], and the need
+for high encapsulated cell densities may require scaffold re-formulation for
+ensuring fabrication feasibility and cellular microenvironmental optimization.
+Alternative approaches to maximize protein content in cultured meat prototypes
+include the use of edible, proteinaceous scaffolds, or biodegradable scaffolds
+that are replaced by cells and their secreted ECM proteins during culture
+[6].' (Ng, 2021)
+
+'MCs can also be composed of edible materials and be embedded in the final
+product. As opposed to the previous cases where MCs are considered as a food
+contact material, in this scenario they should comply with regulations for use
+as a food ingredient or additive. Indeed, besides supporting cell growth, an
+edible MC would also be part of the final product and might affect the sensory
+attributes of the meat product, such as taste, color or texture.' (Bodiou,
+2020)
+
+What materials and methods have been trialled in the literature? How effective
+have these approaches been?
+
+VP note: again, this section refers a lot to recreation of tissue-like
+structure. Is important but would be good to address the purpose of the
+micromass for scale premise here. E.g. referring to people using alginate
+microbeads for delivery of cell therapies, work in the 90s and early 2000s
+looking at micromass aggregates in bioreactor culture (people moved away from
+this because it is not consistent as single cell, and applications are for
+cell therapy and cell products rather than large scale production of biomass).
+You can also include discussion here of what's been trialled for 'tissue'
+recreation but maybe re-frame in the micromass bioreactor context.
+
+'Due to the loss of native tissue structure, restructured and unstructured
+meat products often require the addition of biopolymers that provide either
+thickening or gelling functions to enhance product formability and retain
+structural integrity under storage and cooking conditions. Typical examples of
+gelling biopolymers include hydrocolloids (e.g. alginate, κ-carrageenan,
+gellan gum, agar), pre-swollen starches and proteins (e.g. gelatine, soy or
+pea isolates, and whey) (Table 1) [8], [11], [52], the majority of which form
+physically crosslinked hydrogels in a thermo-responsive manner, with the key
+exception of alginate which forms an ionically cross-linked, cold-set gel. The
+requirement for high temperatures to solubilize gelling hydrocolloids or
+denature gelling proteins limits the use of most physical crosslinking methods
+to the production of cooked meat products. However, the development of
+enzymatic methods using microbial transglutaminase and recombinant
+fibrinogen/thrombin allows the use of gelling proteins for uncooked meat
+products by supporting the formation of covalently crosslinked proteins gels
+at low temperatures [70].' (Ng, 2021)
+
+  
+
+'Fibrin gel is able to function as both twodimensional and three-dimensional
+cell culture scaffold [43]. As shown in Figure 3(a), the traditional two-
+dimensional scaffold is fabricated before cell seeding. After the gelation of
+fibrin gel, isolated cells are seeded into the surface of fibrin gel [44].
+Although the conventional two-dimensional scaffold provides an understanding
+as to how cells interact with the fibrin gel surface, it cannot mimic the
+natural physiological environment of cells in vivo. Three-dimensional
+scaffolds become popular because of their ability to be a model of tissue
+physiology and provide a better understanding on the interaction of cell and
+matrix, as well as how the cell-matrix interaction affects cell function.
+Moreover, it is essential that such a system has a potential to be developed
+to engineer functional tissue. Fibrin gels with a final fibrinogen
+concentration higher than 25 mg/mL, 20 mM Ca2+, and pH between 6.8 and 9 have
+a broad linear viscoelastic region.They also present the ability to withstand
+104 Pa mechanical load and a long-term stability, which is desirable for
+tissue engineering application [33]. The degradation rate of fibrin gel can be
+regulated with aprotinin and tranexamic acid (trans-4-aminomethyl-
+cyclohexane-1- carboxylic acid; tAMCA) to precisely match tissue regeneration
+[34]. Fibrin can be fabricated into various types of tissue engineering
+scaffolds such as micro/nanoparticles [35, 36], micro/nanofibers [37, 38],
+microtubes [39], and hydrogels [40, 41].' (Li, 2015)
+
+  
+
+'Edible polymers that can be used as substrates for cell expansion are
+classified into four categories: polysaccharides (e.g., starch, alginate,
+carrageenan, chitosan, cellulose, carboxymethylcellulose, pectin),
+polypeptides (e.g., collagen, gelatin, gluten), lipids (e.g., paraffin,
+shellac), and composites/synthetics (e.g., PGA, PEG) (175). They have been
+widely used in the food industry as stabilizers, thickeners, coatings and
+emulsifiers. Cellulose, chitosan and alginate could be good candidates for
+large-scale expansion of SCs, as they are the most abundant natural polymers
+and are known for their biocompatibility and biodegradability (176, 177).
+However, in order to enhance attachment of SCs, incorporation of RGD-
+containing proteins is required (178), which have not yet received approval
+for use in food. One patent describing an edible and animal-free MC for
+engineered meat, proposes the use of pectin coupled with cardosin A, an RGD-
+containing polypeptide (179). Thus, the use of polypeptides as collagen or
+gelatin could be more suitable as the tripeptide motif is already naturally
+present. Using lipid-based MCs could also be an interesting way to bring fatty
+flavors to the product.' (Bodiou, 2020)
+
+  
+
+Ansari et al., demonstrated that an RGD coupled alginate hydrogel
+encapsulation system supported the viability of gingival mesenchymal stem
+cells (GMSCs) and their myogenic differentiation capacity. In terms of
+differentiation, it was found that alginate hydrogels with an elasticity
+between 10 and 16 kPa, in comparison to softer (<5kPa) or stiffer (>20kPa)
+hydrogels, demonstrated the highest capacity for myogenic differentiation as
+evidenced by an upregulation of myogenic genes, including myogenin, MyoD, and
+Myf5 GMSCs. With a higher expression than that of encapsulated human bone
+marrow mesenchymal stem cells (hBMMSCs), which were stated as the gold
+standard of MSC therapy.
+
+Thus, the elasticity of the alginate hydrogel in the experiments by Ansari et
+al., was shown to control the myogenic fate of the encapsulated cells.
+Subsequently, when we test alginate with our MuSCs at Vow, we should consider
+a range of alginate moduli, by adjusting factors such as cross-linker
+concentration, cross-linking time and/or polymer concentration, as this will
+likely influence the behaviour of our cells, as well as their capability for
+myogenesis.
+
+Moreover, Ansari et al., showed that their alginate hydrogels possess a porous
+microstructure, which is an attribute that enables the diffusion of oxygen,
+nutrients and growth factors to the encapsulated cells. Thus, it was stated
+that alginate with an optimised matrix elasticity of 10-16 kPa presents a
+highly suitable scaffold biomaterial for muscle tissue engineering.
+
+  
+
+'Edelman et al. [43] proposed porous beads made of edible collagen as a
+substrate while as van Eelen et al. [29] proposed a collagen meshwork
+described as a "colla- gen sponge" of bovine origin. The tribeculate structure
+of the sponge allows for increased surface area and diffusion but may impede
+harvesting of the tissue culture. Other possible scaffold forms include large
+elastic sheets or an array of long, thin filaments. Cytodex-3 microcarrier
+beads have been used as scaffolds in rotary bioreactors, but these beads have
+no stretching potential. One elegant approach to mechanically stretch
+myoblasts would be to use edible, stimuli-sensitive porous microspheres made
+from cellulose, alginate, chitosan, or collagen [43], which undergo, at least,
+a 10% change in surface area following small changes in temperature or pH.
+Once myoblasts attach to the spheres, they could be stretched periodically
+provided such variation in the pH or temperature would not negatively affect
+cell proliferation, adhesion, and growth.' (Bhat, 2020)
+
+  
+
+'Fast-degradable alginate-fibrin microbeads with hUCMSC encapsulation were
+developed that could start to degrade and release the cells at 4 d. The
+released hUCMSCs had excellent proliferation, osteodifferentiation, and bone
+mineral synthesis. The alginate-fibrin microbeads are promising to deliver
+stem cells inside injectable scaffolds to promote tissue regeneration.' (Zhou
+and Xu, 2011)
+
+  
+
+List some promising scaffold candidates and how we've gone about utilising
+them in the current project
+
+VP note: maybe could chunk this into a section about each material, what it
+is, and why we've chosen it (fibrin/collagen I/Matrigel)
+
+Research from Q4
+
+Reiterating the most salient points:
+
+The naturally occurring polysaccharide alginate has been widely used in
+biomedical applications because of its non-antigenicity, good
+biocompatibility, and reasonable biodegradability. An additional attribute of
+alginate, is that in the presence of divalent cations (Ca2+), it can be
+ionically cross-linked in a manner which is mild, cell compatible, easy to
+apply and cost-effective.
+
+Furthermore, owing to the processability of alginate, alginate scaffolds can
+be readily processed into various morphologies including microspheres, 3D
+sponges, nanofibers, and microscale cell-laden struts. Consequently, alginate-
+based materials have already been applied in numerous tissue-engineering
+applications.
+
+An additional benefit of alginate, for the purposes of clean meat engineering,
+is the biocompatibility and edibility of this material type. Wherein, sodium
+alginate derived from brown algae or seaweed such as kelp is already an
+accepted food product, present as an emulsifier in products such as ice cream,
+salad dressing, fruit juice, and yoghurt. In addition, the commonly employed
+alginate cross-linker 'calcium chloride' is used as an additive in the food
+industry; as a way of enhancing the salty taste of food products such as
+pickles without increasing their sodium content.
+
+Thus, due to its known biocompatibility and processability, alginate hydrogels
+represent a promising material candidate for use in cellular agriculture.
+
+  
+
+Expected limitations and things to try in the future
+
+VP note: my thoughts are generating enough collagen
+I/matrigel/thrombin/fibrinogen in a sustainable way (ACF) at scale, in house
+(too $$ to purchase in at large quantities required for scale). Maybe
+hybridomas or nice easy one would be to use CHOMP secreted/extracellular
+biomass from James' TCA stuff
+
+  
+
+References
+
+Zhou and Xu, 2011
+
+Ma, 2013
+
+Li et al., 2015
+
+Deepthi and Jayakumar, 2018
+
+Bhat, 2020
+
+Bodiou, 2020
+
+Seah, 2021
+
+Ng, 2021
+
+

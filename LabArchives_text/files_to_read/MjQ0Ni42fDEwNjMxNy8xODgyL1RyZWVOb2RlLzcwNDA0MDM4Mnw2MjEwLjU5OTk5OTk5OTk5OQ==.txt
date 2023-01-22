@@ -1,0 +1,84 @@
+
+
+  
+
+Operator: Shaleen Sharma
+
+Aim/Intent: To determine the duration the bioreactor vessel takes to reach
+equilibrium values of DO and pH with constant gas sparging.
+
+Preparation:
+
+  1. Spare growth media from Production was used. This included 750mL of Phenol-red containing Growth Media (10% FBS) and 750mL of PRF Growth Media (20% FBS). It was decided that in order to mimic our growth conditions as much as possible, 750mL of media containing 20% FBS would be used first and then topped up with 10% FBS containing media until desired volume for probe submersion was achieved.
+  2. 750mL of each media type was used to make up the 1.5L of media inside Wash-E.
+  3. All 1.5L of media was used to make total working volume of 1.5L inside Wash-E
+  4. Lid of Wash-E was closed and all probes attached.
+  5. Medium was allowed to come to 37.4 degrees temperature.
+
+Test parameters:
+
+  1. Flow of gas
+
+Temperature
+
+pH
+
+Dissolved Oxygen (DO)
+
+Time
+
+Ratio of CO2/Air sparged  
+  
+037.57.62.30VN/AN/A  
+50/50  
+37.57.4  
+2.01 +- 0.01V11:01  
+50/50  
+  
+50/5037.57.1  
+1.90+- 0.01V11:16  
+50/50  
+  
+50/5037.57.0  
+1.83+-0.01V11:31  
+50/50  
+  
+50/5037.56.9  
+1.78+-0.01V11:48  
+50/50  
+50/5037.56.9  
+1.75+-0.01V12:03  
+50/50  
+50/5037.5  
+1.70+-0.01V12:4950/50  
+50/50  
+37.5  
+6.8  
+1.65+-0.01V  
+14:39  
+50/50  
+  
+50/50  
+37.5  
+6.7  
+1.63+-0.01V  
+15:00  
+50/50  
+  
+
+  
+
+  
+
+It was found that the system takes approximately 2 hours to equilibrate pH and
+DO.
+
+Notes:
+
+Media IDs: A5266 (10% FBS) A4699 (20% FBS PRF)
+
+Penstrep aliquots:A4905 A4906
+
+Observations: See above  
+
+

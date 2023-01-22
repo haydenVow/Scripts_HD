@@ -1,0 +1,20 @@
+
+
+Plates 11416 and 11417 were removed from incubator 82 and transferred to the
+Library lab.
+
+Plates were imaged using the Larger Zaber 6 well plate imager using PHASE,
+10ms exposure.
+
+Images were used to generate a pick list based on confluence, wells with 50%
+confluence were selected by eye:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=0
+
+Wells intended for passage were given a '1' on the pick list, while all other
+wells were given a '0'
+
+  
+
+  
+
+

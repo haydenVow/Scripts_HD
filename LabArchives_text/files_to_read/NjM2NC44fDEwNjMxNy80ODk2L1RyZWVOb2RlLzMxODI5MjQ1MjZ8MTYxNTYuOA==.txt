@@ -1,0 +1,179 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+8723, 8772  
+24 wp  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+## Performed by: kk  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails  
+Blocking Buffer  
+  
+PBST (0.2% Triton)  
+  
+dPBSm7926  
+  
+Primary Antibody Mix  
+  
+Primary Antibody Mix (if used)  
+  
+pfa  
+m5923, a1988  
+  
+  
+  
+
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    mL  PBST (0.2% Triton-X)
+
+2\. Prepared    mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  20 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  80 µL   Primary #2 MF20 (DSHB)   (1:50  ) +  3.9  mL Blocking
+Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Sample selection:
+
+  1. Image/photograph main sample plate to record muscle ring migration and gel contraction (if any). Also image meatballs inside and outside of the buckets
+  2. From each condition, slice sample in half using sterile tweezers/scalpel.
+  3. Transfer half of each sample into a new plate with 0.1% cold PFA and fix using below protocol
+    1. Fixing protocol ( ~ 1.20 - 2.30 hr)
+      1.  Prepare 
+        1. 0.1% PFA - 0.6mL of 4%PFA in 24mL of PBS  
+
+        2. 50 mL of ice cold PBS
+      2. Removed media from each well and wash with 1000 ul PBS.
+        1. timestamps 14:10 - 14:15
+      3.  Added  1000 uL µL PFA for 1 - 2 hours  in the fridge (1 hr for small loops, 2 hrs if the loop is >5mm in diameter) :  
+        1. Small pieces:  14:30 - 15:30 pm
+      4. Removed PFA (and add in PFA waste container) and wash wells 3 times with   500 µL of ice cold PBS
+      5. Add 0.5 mL PBS into each well
+      6. Parafilm plate and place in the fridge.
+    2. For other half, transfer samples into an Eppendorf tube with PBS and hand to Shaleen for BCA/Bradford
+
+
+
+
+Process:
+
+  
+
+Permeabilise ( ~ 20 - 30 min)
+
+1\. Removed PBS from each well.
+
+2\. Added   µL PBST (0.2% Triton-X) to each well for 15 min:  : - : pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   : - : a/pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   : - : a/pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Observations/Summary:
+
+###  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

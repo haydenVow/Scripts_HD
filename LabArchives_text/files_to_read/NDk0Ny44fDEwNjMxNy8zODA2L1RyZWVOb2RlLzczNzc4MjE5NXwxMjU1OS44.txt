@@ -1,0 +1,146 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Feed performed by: LL  
+
+
+
+
+Culture IDs:
+
+Flasks ID(s)Seeded Flask ConditionFlask TypeComments  
+7927-F_DOLLY12-Sheep P9-7of7  
+Serum controlT25  
+N/A  
+7921-F_DOLLY12-Sheep P9-2of7  
+2T25N/A  
+  
+7922-F_DOLLY12-Sheep P9-3of7  
+3T25  
+N/A  
+  
+7924-F_DOLLY12-Sheep P9-4of7  
+4T25  
+Discard  
+7925-F_DOLLY12-Sheep P9-5of7  
+5T25  
+N/A  
+  
+7926-F_DOLLY12-Sheep P9-6of7  
+RPMI controlT25  
+N/A  
+  
+7920-F_DOLLY12-Sheep P9-1of7  
+1T75N/A  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] DMEM/F12 + 10% FBS + 1X P/S (Serum Control)
+
+[x] RPMI + 10% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 1)
+
+[x] RPMI + 10% FBS + 1X P/S + Difco Select Phytone UF (5g/L) (Condition 2)  
+
+[x] RPMI + 10% FBS + 1X P/S + Bacto Malt Extract (5g/L) (Condition 3)
+
+ ~~[x] RPMI + 10% FBS + 1X P/S + Difco Yeast Extract UF (5g/L) (Condition 4)~~
+
+[x] RPMI + 10% FBS + 1X P/S + BBL Phytone Peptone (5g/L) (Condition 5)
+
+[x] RPMI + 10% FBS + 1X P/S (RPMI control)
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlA6455  
+  
+GM - Condition 1M6594  
+  
+GM - Condition 2  
+M6744  
+  
+GM - Condition 3  
+M6751  
+  
+ ~~GM - Condition 4~~ ~~M6750~~  
+  
+GM - Condition 5M6745  
+  
+GM - RPMI controlM6747  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted  3 mL  mL of  Growth Media:
+    1. Serum control 
+    2. Condition 2/3/5
+    3. RPMI control
+  2. Aliquoted  6 mL  mL of  Growth Media: 
+    1. Condition 1
+  3. Placed in water bath   11:27 
+  4. Removed  50  % of supernatant from vessel. 
+  5. Replaced with  3 & 6 mL (per well/per vessel) of  respective growth media. 
+  6. Returned vessel to incubate at: 11:52  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#  116), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. 7927-F_DOLLY12-Sheep P9-7of7
+  2. 7921-F_DOLLY12-Sheep P9-2of7
+  3. 7922-F_DOLLY12-Sheep P9-3of7
+  4. 7925-F_DOLLY12-Sheep P9-5of7
+  5. 7926-F_DOLLY12-Sheep P9-6of7
+  6. 7920-F_DOLLY12-Sheep P9-1of7  
+  
+  
+Condition 4 was discarded due to observed cell death
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+D/F Control https://mia-capture.vow.tools/#/session/recIoWKt0a0NZFxiX/images
+
+Condition 1 https://mia-capture.vow.tools/#/session/recmzdNJj8nZ0Zu13/images  
+
+Condition 2 https://mia-capture.vow.tools/#/session/recwg9s83zLYXdzsg/images  
+
+Condition 3 https://mia-capture.vow.tools/#/session/recwg9s83zLYXdzsg/images  
+
+Condition 5 https://mia-capture.vow.tools/#/session/recAC3bjiqtFzmAXY/images
+
+RPMI Control https://mia-capture.vow.tools/#/session/recAC3bjiqtFzmAXY/images  
+
+
+
+

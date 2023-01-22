@@ -1,0 +1,39 @@
+Performed by: BT & EC
+CyQUANT XTT assay user manual
+Workflow overview
+
+
+
+Process
+
+
+XTT preparation (done in the dark)
+
+  1. Removed XTT assay stock kits in -20 freezer in Main Lab (area on freezer door labelled "kits") 
+  2. Removed 3 x packages containing 3 x bottles of XTT reagent and 3 x vials of the Electron coupling reagent from the CyQuant XTT Cell viability Assay kit. Returned the rest of the kit to the freezer. 
+  3. Thawed the XTT reagents (component A) in the water bath at 37ºC. Vortexed the bottle to ensure the XTT reagent is fully in solution
+  4. Thawed the Electron coupling reagents at room temperature. Vortexed the vial to ensure that the reagent is fully in solution. 
+  5. Aspirated full volume (6 mL per vial) of XTT reagents and dispensed into trough for multi-channel pipetting
+  6. Added full volume (1 mL per vial) of electron coupling reagents to XTT reagent in trough
+  7. Mix the working solution in the trough by pipetting. Working solution should be used immediately.
+
+Cell labelling and absorbance reading
+
+  1. Immediately following sample preparation, removed well plate(s) from the incubator and added 70 uL (96-wp) ~~or 35 uL (384-wp)  ~~of the working XTT solution directly to each test and blank well of the 96 well plate using a multichannel pipette.
+
+  2. Incubated the wells at 37ºC for 4 hours. 12:05 - 16:14
+
+  3. After incubation, ran XTT protocol on the SPECTROstar Nano Absorbance Reader for each plate (remove plate lids before placing in plate reader) 
+
+  4. Labelled each CSV data file (plate 1, plate 2, plate 3, plate 4) and sent to Lily on slack
+  5. Replaced plates in incubator to be read again at 24H
+
+
+Data
+Reagent  
+ID  
+  
+XTT  
+S189  
+
+

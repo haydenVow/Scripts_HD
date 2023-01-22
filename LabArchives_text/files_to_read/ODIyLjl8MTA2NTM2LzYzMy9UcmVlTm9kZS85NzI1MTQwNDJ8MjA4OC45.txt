@@ -1,0 +1,25 @@
+Fix, DAPI & Image 96-well-plate (2)
+
+
+Procedure
+
+Fixing & Staining ( ~ 45-50min)
+
+  1. Remove media from each well and gently wash twice with 200uL dPBS.
+    * When removing liquid: Be careful to keep the pipette tip as close to the side of the well as possible to avoid scrapping off cell from the middle of the well.
+    * When adding liquid: Always gently eject the liquid down the side of the well wall ensuring that the tip is toward to top of the well and not near the base. Placing the pipette tip too close to the base will blast the cells off the well surface and invalidate the assay.
+  2. Add 100uL/well PFA for 15 min.   
+
+  3. Remove PFA (use PFA waste container) and wash wells with 100uL dPBS for 5 mins.
+  4. Stain cells with 100uL DAPI (diluted 1:1000 in dPBS) for 5 mins.
+    * If possible perform this step and all successive steps in a low light setting to aviod bleaching of the DAPI fluorescence. 
+    * Be sure to keep the plate in a dark box away from light for any waiting time once DAPI is added to the wells.   
+
+  5. Wash wells three times with 100uL dPBS for 5 mins each. 
+  6. Remove last wash and Add 100uL dPBS per well
+  7. Parafilm the plate and Image cells using the Zaber for DAPI
+  8. Cover with foil and store in the fridge.
+    * If Zaber imaging does not occur directly after completing the fix and DAPI procedure, parafilm the plate, cover it in foil and store it in the fridge until the Zaber imaging can be performed. 
+    * Ensure the plate is labeled (on the foil) with the proliferation assay name (Eg. Proliferation assay IH-004) the assay day (eg. D1) and the date the fix and DAPI procedure was performed. 
+
+

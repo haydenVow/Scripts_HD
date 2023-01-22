@@ -1,0 +1,111 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+To determine a value for pH and air-flow rate around which optimisation will
+be carried out for Nuvonis suspension cells cultured in a stir-tank setting in
+a RPMI:High-density media formulation. Two pH values and two air-flow rates
+will be selected and tested as 'high' and 'low' values. These values will
+serve as a starting point for further optimisation
+
+
+Hypothesis
+
+
+Cells will demonstrate a preference for a culture pH and air-flow rate,
+demonstrated by a faster doubling time and or higher cell viability
+
+
+Technical Gap
+
+
+Vow has successfully completed tech transfer of quail suspension cells
+purchased from Nuvonis for culturing and expanding cells in shake flasks.
+Minimal optimisation has been carried out for culture of quail suspension
+cells in bioreactor conditions including dissolved oxygen, pH, and agitation.
+
+pH or potential hydrogen describes the acidity or alkalinity of a reagent and
+is measured by the negative decimal logarithm of the concentration of hydrogen
+ions. Cellular processes operate optimally at certain pH values. Deviation
+from these values can lead to conformational enzyme changes, alter metabolism
+and ultimately alter cell proliferation dynamics. Previously published data
+are varied, with evidence to suggest fibroblast cells favour slightly alkaline
+conditions (Kruse et al, 2017), while other evidence demonstrates that avian
+and CHO cells proliferate optimally at a neutral pH (Jordan et al 2016,
+
+  
+
+THIS NEEDS FINISHING
+
+  
+
+
+Method/Procedure
+
+
+See below for culture parameters and conditions. Workflow for bioreactor set
+up, monitoring and packdown is set out in AMBR250 template
+
+
+
+
+Culture parameters & calculations:
+
+See bioprocess calculator for sums and formulae.
+
+pH
+
+Vow have previously have cultured Nuvonis cells at a pH of 7.5 in 2/200/2000L
+bioreactor. Previously published data have indicated that for mammalian cells
+and CHO cells in particular, pH is typically maintained at 7.0± 1.0 (Pauline,
+2013).
+
+Antifoam
+
+Previously used in 2, 200 and 2000L bioreactors at 1:10 000. Equates to 20uL
+in 200mL of media in each reactor. Feed schedule to offset x2 1mL draw every
+day will contain antifoam at a volume to dose the entire 200mL reactor volume
+(i.e. 20uL in every 2mL delivered, equates to 200uL antifoam in 20mL total
+feed/antifoam reservoir.
+
+For the current experiment, a dose of 1:10 000 will be used.
+
+Air sparging
+
+Have previously used 5L/min in 50L in 200L STR reactor. This equates to 0.1
+vvm (vvm = volume of air sparged per unit volume of growth media per minute,
+is calculated by dividing airlfow rate (L/min) by total media volume (L)).
+e.g. 5 L/min ÷ 50 L = 0.1 vvm. When media is added to the reactor to bring the
+total volume to 200L (with sparging at the same rate), this is reduced to a
+0.025 vvm
+
+For mammalian culture, previously published data indicate that sparged air
+should be between 0.03 - 0.1 vvm (Pauline, 2013).
+
+For the current experiment, the following vvms will be selected and tested:
+
+0.03 vvm in 200mL scale is equal to 6mL/min flow rate
+
+0.1 vvm in 200mL scale is equal to 20mL/min flow rate
+
+Agitation
+
+RPMs to be tested: 150, 250, 350, 450 RPM. Previously used tip speeds used in
+2-2000L bioreactors include 0.2 - 0.7 m/s. AMBR250 manual recommends speeds
+between 150-500 RPM for mammalian cell culture.
+
+Selected RPM for the current experiment is 200 RPM with an equivalent tip
+speed of 0.2722 m/s. This exceeds the critical mixing speed required to
+maintain cells in suspension.
+
+Above: from AMBR250 operation manual
+
+  
+
+  
+
+

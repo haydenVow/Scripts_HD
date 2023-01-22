@@ -1,0 +1,214 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB RS  
+
+
+
+
+Culture IDs:
+
+MuSCs
+
+Flask type
+
+Harvest flask ID
+
+Passage
+
+  
+Seeded Vessel TypeSeeded Vessel IDPassage #  
+  
+T175
+
+10402-F_KUZCO20-Alpaca P1-1of4  
+
+1MCB
+
+ 31x Cryovials
+
+13746-FrzCul-KUZCO20-Vial-1of32  
+to 13776-FrzCul-KUZCO20-Vial-31of32  
+(Vial 13777 discarded due to limited amount of cell suspension in freeze
+media)
+
+2  
+  
+10403-F_KUZCO20-Alpaca P1-2of4  
+
+1  
+  
+10404-F_KUZCO20-Alpaca P1-3of4
+
+1  
+  
+10405-F_KUZCO20-Alpaca P1-4of4  
+
+1
+
+adipocyte experiment24WP (gelatin coated) - first 18 wells10526-KUZCO20-Alpaca
+P2-1of1  (MuSCs)  
+Pre- Plate flask T17510541-F_KUZCO20-Alpaca P2-1of1 (Fibroblasts)  
+  
+FIBROBLASTS
+
+Flask typeHarvest flask IDPassage  
+Seeded vessel typeSeeded flask IDPassage  
+T17510410-F_KUZCO20-Alpaca P1-1of31KUZCO20 MCB 1x 4CF10510-F_KUZCO20-Alpaca
+P2-1of22  
+10411-F_KUZCO20-Alpaca P1-2of31  
+10412-F_KUZCO20-Alpaca P1-3of31adipocyte experiment24WP - first 18
+wells10511-F_KUZCO20-Alpaca P2-2of2  
+  
+location: 78-Ralph St | Library Lab | Binder Incubator (bottom) 1
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm7023  
+  
+Tryplea9282  
+  
+dPBS (for washing & neutralising)AA10205  
+  
+Growth Mediam10366  
+  
+p38i (20mM stock)M10003  
+  
+DMSO  
+S2745  
+  
+FBS (for freeze media)  
+A10249  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Collect a pre-Gelatin coated    1x 26 WP (first 18 wells) vessels that
+were placed in the incubator for 45 minutes.
+
+  1. Time when flask was placed into the incubator     15:38   
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   72  mL in   1x 120mL yellow urine pot  tubes - placed in incubator at 12:56  
+
+  2.  dPBS (for neutralising):   70 mL
+  3.  dPBS (for washing):   70   mL
+  4. Growth media (for seeding):   1000 mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+12:48
+
+Make 20mL of Freeze Media (FBS+10% DMSO) and sterile filter, then place in
+fridge prior to use  16:52
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator  13:15 (MuSC_KUZCO20, and 13:20
+(F_KUZCO20)  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   10 mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   13:40  
+
+7\. Neutralised with   10  dPBS and combined cell suspension into a    1 X
+50mL   tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was  14:15 - 14:20     
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in  50 mL   Growth  media  
+
+11\. Transferred cell suspension into 1 x un-coated T175 flask. Leave at 37C
+in incubator for 45 mins  15:48  
+
+12\. Harvest supernatant and collect into 1 x 50mL tube. 16:45
+
+13\. Re-feed T175 flask with Growth Media (30mL) and return to incubator.
+117:05
+
+14\. Aspirate gelatin from 24-well plate. 17:05
+
+15\. Combine 4.5mL of cell suspension (from supernatant) with 4.5mL fresh
+Growth Media (with 10uM P38i) (total 9mL) 17:07
+
+15.a. Seed 0.5mL of cell suspension into 18 x wells of the 24-well plate
+(A1-C6). Allow to settle for 30 mins at RT. 17:45 - 18:15
+
+16\. Centrifuge remaining 45.5mL of cell suspensoin at 650 x g for 5 min at
+RT. 17:49 - 17:54
+
+17\. After cells have pelleted, aspirate supernatant. 18:08
+
+18\. Resuspend cells in 16mL Freeze Media 1
+
+19\. Aliquot 500uL/vial into 32 x cryovials.
+
+20\. Immediately place in Mr Frostys and transfer to -80 Freezer. 18:18
+
+20\. Placed in the LN2 the next day  
+
+
+
+
+13\. Transferred vessel(s) to incubate at:
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+KUZCO20 MuSCs successfully pre-plated in 2 x non-coated T175 flask and then
+transferred into 4 x gelatin-coated T175 flask.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+muscle cells:  
+10403: https://ranger.vow.tools/#/session/recTkOsNwwlNj6mOM/images
+
+10405: https://ranger.vow.tools/#/session/recGnZOxmwjhSe6R4/images  
+  
+fibroblasts:  
+  
+10411: https://ranger.vow.tools/#/session/recJbRkpQFvgmEq7p/images  
+  
+10412: https://ranger.vow.tools/#/session/recLtnzCSkX7ArKLH/images
+
+

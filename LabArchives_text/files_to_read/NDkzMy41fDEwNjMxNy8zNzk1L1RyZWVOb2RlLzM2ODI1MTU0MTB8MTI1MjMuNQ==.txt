@@ -1,0 +1,25 @@
+
+
+## Completed by: Avani
+
+
+
+
+Data from day 4, 7, 11, 18, 21, 28, 32, 35 and 39 was used. Data from day 14
+and 25 was excluded due to the presence of blue florescent debris which would
+have resulted in inaccurate cell counts.
+
+Images taken on DAPI and AF488 channels were processed through MIA to obtain
+cell counts via the 'Suspension DAPI cell count' and 'Suspension AF488 cell
+count' macros.
+
+Raw cell counts from MIA were entered into the excel sheet attached to
+calculate the total cells/mL (DAPI) and dead cells/mL (AF488). These were then
+entered into a the following google spreadsheet:
+https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-
+zrb1c/edit#gid=522529401
+
+The average total cell count/mL  was used for visualisation and further
+analysis in GraphPad Prism.
+
+

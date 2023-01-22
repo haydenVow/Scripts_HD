@@ -1,0 +1,46 @@
+Aim/Purpose
+
+
+  1. To assess survival of DOLLY12 cells in culture after Hoechst staining.    
+  2. To assess survival of DOLLY12 cells in culture after Dapi staining.    
+
+
+Technical Gap
+
+
+Fix and Dapi staining is currently the most commonly used method assessing
+cell attachment to scaffolds at VOW. Due to the fixation step, this method
+involves removing samples from continued culture at the time of staining.
+Literature suggests that most live cells stained with Hoechst or Dapi remain
+viable in continued culture however we have not confirmed if this is the case
+with DOLLY12 cells. If we find this to be the case with DOLLY12 cells, live
+Hoechst and Dapi staining may provide an alternative method for assessing cell
+attachment and viability, without the need to terminate stained samples. This
+would allow us to utilise the same samples to assess cell viability across
+multiple time points, reducing replicate requirements. This will be of
+particular benefit when moving into DOE where we will have high sample
+demands.
+
+
+Hypothesis
+
+
+  1. 7 days after staining, DOLLY12 cells stained with Hoechst will have a survival rate equal to that of unstained cells.    
+  2. 7 days after staining, DOLLY12 cells stained with Dapi will have a survival rate equal to that of unstained cells.        
+
+
+Method/Procedure
+
+  1. Thaw DOLLY12 cells and grow in continual culture (to be performed by cell availability) 
+  2. Prepare Zein samples.
+  3. Plate and EPL coat zein samples.
+  4. Harvest cells and seed onto zein scaffolds as well as gelatin coated culture dishes.
+  5. D1 Hoechst + Dapi stain samples in treatment groups +image. 100% feed of all samples 
+  6. D2 change to E6 media + imaging of samples to observe residual staining. 
+  7. D3 100% feed of all samples + imaging of samples to observe residual staining. 
+  8. D4 100% feed of all samples + imaging of samples to observe residual staining. 
+  9. D5 100% feed of all samples + imaging of samples to observe residual staining. 
+  10. D6 100% feed of all samples + imaging of samples to observe residual staining. 
+  11. D7 Live dapi staining of all samples to obtain dead cell estimates, followed by fix and repeat dapi stain to obtain total cell estimates. 
+
+

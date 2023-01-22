@@ -1,0 +1,187 @@
+
+
+## Performed by: ST  
+
+
+
+
+DNA Extractions:
+
+Cell LineTreatmentDate of DNA extraction  
+CHOMP07 Control Round 3  
+  
+  
+CHOMP07 FASLG KO  
+  
+  
+  
+CHOMP07 AQP1 KO  
+  
+  
+  
+CHOMP07Control Round 5  
+  
+  
+CHOMP07  
+AQP1 + ZIC1 KO  
+  
+  
+CHOMP07  
+AQP1 + IGFBP4 KO  
+  
+  
+CHOMP07  
+IGFBP4 + ZIC1 KO  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+quick extract  
+a10469  
+  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+Quick mix DNA extractions of our pooled samples with DNA extracted
+
+  1. Made up a master mix for 2x reactions for primer sets above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer (OPTIONAL)  
+5  
+  
+MilliQ  
+14.1  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table above
+  4. Added 1μl  DNA extract to each tube according to the table below to make a total reaction volume of 30uL.
+
+Samples
+
+Sample numberSample DNA  
+primer pair  
+  
+1Control round 3  
+AQP1 P15/16  
+  
+2  
+AQP1 KO  
+AQP1 P15/16  
+  
+3  
+AQP1 + ZIC1 KO  
+AQP1 P15/16  
+  
+4AQP1 + IGFBP4 KO  
+AQP1 P15/16  
+  
+5Control round 3  
+FASLG P17/18  
+  
+6FasLg  
+FASLG P17/18  
+  
+7Control round 5  
+ZIC1 P27/28  
+  
+8  
+AQP1 + ZIC1 KO  
+ZIC1 P27/28  
+  
+9  
+IGFBP4 + ZIC1 KO  
+ZIC1 P27/28  
+  
+10  
+Control round 5  
+IGFBP4 P7/8  
+  
+11  
+AQP1 + IGFBP4 KO  
+IGFBP4 P7/8  
+  
+12  
+IGFBP4 + ZIC1 KO  
+IGFBP4 P7/8  
+  
+  
+  
+
+  1. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  2. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  3. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1. Ladder
+    2. sample 1
+    3. sample 2
+    4. sample 3
+    5. sample 4
+    6. sample 5
+    7. sample 6
+    8. Sample 7
+    9. Sample 8
+    10. Sample 9
+    11. Sample 10
+    12. Sample 11
+
+  
+
+*Sample 12 will need to be run on another gel.
+
+
+
+
+## Observations:
+
+
+
+
+## Reference Images
+
+  
+
+
+
+
+

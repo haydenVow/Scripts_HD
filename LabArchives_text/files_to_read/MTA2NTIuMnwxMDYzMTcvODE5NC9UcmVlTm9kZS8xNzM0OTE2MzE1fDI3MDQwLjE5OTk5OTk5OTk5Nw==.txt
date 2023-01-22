@@ -1,0 +1,186 @@
+
+
+# How to write a Vow experimental report
+
+When we invest time, energy and resources into experiments at Vow, we learn a
+great deal of information throughout. This information can be lost if we do
+not take the time to put into writing exactly what we did, how we did it and
+what we learned.
+
+An experimental report should be open for every Vowzer to access, read and
+understand the following:
+
+  * why we did a certain experiment
+  * how we went about planning and executing it
+  * what the outcomes were / lessons learned
+  * what the next steps are moving forward
+
+We break these up into 6 sections in a report that should be clearly distinct
+and easy to follow. They are:
+
+  1. Introduction
+  2. Materials/Methods
+  3. Results
+  4. Discussion
+  5. Conclusions
+  6. Future directions/next steps
+
+In the below sub-headings, you will find cues to help you start writing your
+report within each section.
+
+## Introduction
+
+  * What was the experiment trying to address?
+  * An important metric here is the why. Why was this experiment commissioned in the first place, and what value did we expect to get out of it? How does it feed into the larger mission/direction at Vow?
+  * Re-state the aims and whether they were successfully addressed (with success or not).
+  * Make sure you cite any information you've gathered from external sources if applicable. Generate citation list at end of report if there are any.
+
+## Materials/Methods
+
+  * What was the overall design of the experiment?
+    * How long was it expected to take? How long did it actually take?
+  * Lay out the step-by-step process (overview) of the experiment, feel free to use graphs/flow charts to explain this.
+  * Add links to SOPs used within this experiment.
+  * Mention any deviations from SOPs and why they were made.
+
+## Results
+
+In this section, state results without your interpretations behind it. For
+example: Here, aim for 'molecule x increased glucose uptake of myoblasts.',
+rather than 'molecule x increased glucose uptake of myoblasts indicating that
+glucose uptake is controlled by pathway y.' Leave your intrepretations for the
+Discussion section.
+
+  * Describe the results of the experiment in general terms.
+  * Add in any summary tables/images/figures of the results to back up your statements.
+  * Caption each table/image/figure with relevant details (microscope magnifications, n values, p values [if applicable])
+  * Results should be directly relevant to the aims of the experiment.
+
+## Discussion
+
+Time to expand on your results. Use this section as an opportunity to explain
+your interpretation of the above results (don't leave any table/image/figure
+un-mentioned, if it's part of the results it should be mentioned in your
+discussion.
+
+  * Discuss the implications for these findings or the reason that things might have worked out this way. Move on to the next set of results and repeat the process.
+  * Be critical, are there any competing factors that may have interfered with the experiment and influenced the results? If so, state them and explain their potential impact on the perceived results. This may tie into next steps (ways to improve the experimental design to mitigate those risks).
+  * Imagine you are reading this report for the first time with no knowledge of the experiment but want to know the key results and what they mean.
+
+## Conclusions
+
+  * Sum up the results of the experiment as succinctly as possible, this can be a short paragraph or a single line.
+  * If the experiment was unsuccessful, don't feel you need to over-complicate the results. Explain why it was not successful and any key learnings.
+
+## Future Directions/Next Steps
+
+  * Provide a short paragraph or some dot points on the work that is to follow on from this experiment, e.g. repeats, new conditions, troubleshooting etc.
+
+
+
+
+Introduction
+
+Cells in culture secrete extracellular matrix proteins such as collagen, which
+have value for Vow and, if possible, should be recovered from the waste media.
+Our in-house data also supports the view that additional components of the
+secretome, lipids, mitotic debris, and even the components of dead cells
+present an opportunity to harvest additional products from the waste media
+stream that can be incorporated into the final product, or recycled into
+future cultures, e.g. as biological matrices (scaffolds) for next generation
+products.
+
+The objective of this research theme is to identify a suitable method for
+separating proteins, lipids, and other high-value biomolecules from the waste
+media. Considerations for viable approaches are:
+
+  * Non-toxic. The method must not result in toxic reagents in the end product or waste
+  * Food safe. The method should ideally use food safe reagents
+  * Non-denaturing. The biomolecular structure of the product should be unaltered
+  * Flavour. The processing/reagents should not impart a strong flavour
+  * Scalable. Very high centrifugation speeds, expensive/scarce reagents should be avoided
+
+
+
+Materials/Methods
+
+  1. Add Ammonium sulfate powder to media: 227g / litre media (density is ~ 1g/ml so for larger volumes measuring the AmS as a volume, e.g. 227ml is often easier)
+  2. Place in fridge for >4 hours to precipitate proteins. Overnight (or longer) is fine.
+  3. Add media to 50ml tubes and centrifuge for 10m at 4,000G at 8C
+  4. Observe the tube - check for either floating layer (lipids) and/or pellet (proteins)
+  5. Decant lipid layer into a fresh tube. Continue to re-spin to collect a thicker consolidated supernatant and reserve pellet
+  6. Add more media to the same tube to continue adding to the pellet
+  7. Repeat steps 3-5 until media is used up
+  8. Final ECM pellet can be resuspended in water to re-solubilise and quantify proteins (A) or kept as a precipitate for further processing
+
+Experimental: Media conditioned during suspension culture of Nuvonis (quail
+embryonic fibroblast) cells was used for these experiments. A variety of
+formulations of culture media were being trialled by the process development
+team, plus bioreactor optimisation was being performed. The experimental
+conditions used to condition the waste media were therefore highly variable. A
+negative control comprising fresh media (no contact/incubation with cells) was
+also run.
+
+Analysis: Proteomics was performed on Hycell- and Freestyle-based media.
+Lipidomics was performed on RPMI/Hycell-based media.
+
+  
+
+Results
+
+The quantity and composition of the precipitated solids varied markedly
+between experiments due to the varying media formulations being trialled by
+the process development team. Early experiments using Nuvonis Freestyle-based
+media resulted in solid pellets being formed, comprising ~5% of the overall
+media volume (fig. 1). Later experiments in which RPMI-based media was used
+seemed to result in larger quantities of lipids present in the media and
+small/unstable pellets which were hard to recover. At this point, attention
+shifted to the lipid fraction, which was shown to yield 8-10g per litre of
+waste media (fig. 2.).
+
+Proteomics revealed the presence of extracellular matrix proteins (Collagens,
+fibronectin) and large quantities of intracellular proteins (RNA degradation
+complex, etc.), with media-only controls containing negligible amounts (fig.
+3. 'Spent Media Analysis 1', PDF attached). Lipidomics data will be added once
+available (> 08.06.2022)
+
+Fig. 1. Protein pellet precipitated from 50ml Freestyle-based media and
+Nuvonis cells.
+
+
+
+Fig. 2. Lipid layer formed by cells in RPMI/Hicell media, consolidated from
+~500ml waste media into a single centrifuge tube.
+
+
+
+Discussion
+
+Ammonium sulfate (AmS) salt precipitation is one of the most widely used
+methods for recovering dissolved proteins for analysis, and works by creating
+a super-saturated solution into which proteins are no longer soluble, whilst
+not denaturing proteins - a key difference to the TCA protocol. Ammonium
+sulphate is a commonly used acidity regulator in food manufacturing, and as a
+nitrogen source for agricultural fertiliser, therefore a bulk commodity
+available in large quantities.  
+
+Evaluation of protocol:
+
+  * Non-toxic. PASS. The AmS is non-toxic and suitable for food in small residual quantities. The waste media is highly concentrated in nitrogenous compounds, and cannot be disposed of through conventional sewerage in large volumes. However, it may have utility for repourose in agriculture and could present a secondary value stream.
+  * Food safe. PASS.  AmS is food safe (it is used as an acidity regulator in food).
+  * Non-denaturing. PASS.  Proteins are not denatured and retain their conformation. This means that they are likely to resolubilise, which is an important consideration for post-processing applications.
+  * Flavour. FAIL. A small, controlled sample tasting (James H & Adem) revealed that the method results in a product with a pronounced bitter/acidic taste. The texture was minimal, somewhat granular.
+  * Scalable. UNCLEAR. AmS is available in large quantities at agricultural grade (may not meet food grade standards). The whole media sample should be pre-cooled to 4°C which may be challenging at scale. A large amount of centrifugation is required - 2L media takes ~3h to fully spin down. Concentrated waste is likely to be too toxic for easy disposal, but can be used in diluted form as agricultural fertiliser.
+
+
+
+Conclusions and future directions / next steps
+
+The AmS method was broadly successful in generating a reliable method for
+recovering biological macromolecules from suspension cultured cell-conditioned
+waste media. Depending on the media type and growth conditions, samples were
+observed to be either high in pelletable proteins, or lipids which co-
+precipitated with proteins forming a layer at the surface of the centrifuge
+tube. The conditions which influence these observations are currently unclear.
+
+

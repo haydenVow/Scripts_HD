@@ -1,0 +1,111 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 195 mL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+49  
+6749-DOLLY12-Sheep P11-1of4  
+  
+51  
+6751-DOLLY12-Sheep P11-3of4  
+  
+52  
+6752-DOLLY12-Sheep P11-4of4  
+  
+2CF  
+6754-DOLLY12-Sheep P11-1of1  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted  195 mL  mL of  Growth Media into   1x 250 mL pot. Placed in
+water bath 17:08
+
+2\. Removed 50% of supernatant from vessel.
+
+3\. Replaced with  15 mL (per vessel; T175 flask)  and 150mL (per vessel; 2CF)
+of  Growth media.
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. 6749-DOLLY12-Sheep P11-1of4
+  2. 6751-DOLLY12-Sheep P11-3of4
+  3. 6752-DOLLY12-Sheep P11-4of4
+  4. 6754-DOLLY12-Sheep P11-1of1
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth MediaM4929  
+195  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

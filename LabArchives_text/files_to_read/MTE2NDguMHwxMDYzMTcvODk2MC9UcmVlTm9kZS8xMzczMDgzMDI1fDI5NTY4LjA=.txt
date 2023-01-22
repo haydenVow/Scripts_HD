@@ -1,0 +1,298 @@
+Performed By:
+
+
+# Summary of Cultures
+
+Vessel type(s)Cell Density and Volume per tissueVessel Ranger ID  
+Expt. ConditionCulture ConditionGrowth media  
+Growth media location (weekend only)  
+1x tissue disc scaffold mouldCell Density: 40M cells / mL  
+Tissue gel volume: 25mL  
+13020-Nuvonis Quail  
+Suspension341-P-1of1  
+0.1M NaOH  
+  
+(Gelation at 37C, 5%CO2) 37C 5% CO2  
+52 Ralph St I Main Lab  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1  
+(1mL/L) and 1:5000 EGF (200uL/L)  
+  
+ 175 Ralph St I 4C Fridge  
+13021-Nuvonis Quail  
+Suspension341-P-1of1  
+0.1M NaOH  
+  
+(Gelation at  Ambient, 5%CO2)  
+  
+13022-Nuvonis Quail  
+Suspension341-P-1of1  
+0.1M NaOH  
+(Cells+Media with 1:100 HEPES)  
+  
+(Gelation at 37C, 5%CO2)  
+  
+13023-Nuvonis Quail  
+Suspension341-P-1of1  
+0.2M NaOH  
+  
+(Gelation at 37C, 5%CO2)  
+  
+  
+  
+
+
+Methods and Experiment Layout
+
+
+Experiment layout
+
+We will attempt to seed four tissue discs. Each disc will be a single
+replicate (condition). Conditions will be as follows:
+
+  1. 0.1M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2)
+  2. 0.1M NaOH used in gel matrix, (conditions to set gel: Ambient, 5%CO2)
+  3. 0.1M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2) with cell resuspension in growth media (listed in table above) with the addition of 1:100 HEPES buffer solution. 
+  4. 0.2M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2) 
+
+  
+
+Figure 1. Plate Map for Tissue Discs Experiment B, to determine the optimum
+acidity levels of large scale tissue disc cultures. There are 4 conditions
+(n=1) with the condition details outlined within the figure. All culture will
+have a cell density of 40M cells/ml with a gel matrix volume of 25ml.
+
+.
+
+
+Reagents
+
+
+##  
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+100mL (Matrix creation)Mix 13118  
+DMEM/F12 + P/S + Glutamax (1:100) + 1:1000 IGF1 (1mL/L) and 1:5000 EGF
+(200uL/L)  
+  
+800mL (100% Feed)  
+Mix 13118  
+  
+glutamax (for 850mL) 8.5Stk 4749  
+rEGF (mesokine)  (for 850mL) 0.17MIX-12321  
+  
+  
+IGF-1-LR3 (r_bovine) (for 850mL)
+
+0.850MIX-12475  
+  
+Collagen I (2.6mg/mL) in Autoclaved milliQ  
+36.54 (but 38mL made)  
+Mix  
+10X DMEM4.41N/A  
+0.2M NaOH in PBS 0.2M  
+5.49  
+  
+Pluronic 0.25%100mL (as 28mL need per tissue disc scaffold)  
+  
+HEPES0.3uL (in 30mL of sterile MilliQ)Stk 6066
+
+
+Before Starting Ensure the Following is Completed
+  
+  
+  * Calculate approximate cell requirements for experiment B. 
+    * = 4 Billion cells for 4 plates at the above densities. 
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=1981262089
+  * Total volumes for experiment:
+    * Reagent4 Tissue discs 4x plate  
+(4B Cells) (mL)4 Tissue discs 4x plate  
+(4B Cells)  (mL)  
+Cells+GM48.496.8  
+Collagen (2.6mg/mL)40.681.2  
+10X DMEM/F124.99.8  
+0.1M NaOH  6.112.2  
+Pluronic (plate coating)120 (~30mL/disc)240  
+Agar 50 (12mL per plate)100  
+  *  ~~Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    09/07/2022 ~~
+    *  ~~Make PDMS Total Volume:   50 mL ~~
+    *  ~~Pipette   9  mL  per plate for 6 petri dishes and spin-coat.  (DONE) ~~
+  * Make up 2L of Growth Medium Listed in Table 1 above. 
+  * Ensure matrix reagents are made up fresh at required concentrations
+  * Matrix reagents details for this experiment:
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need  81.2   mL total (make  85  mL)
+      * Aliquot exactly  35.81848 mL of the 6.17 mg/mL stock solution and dilute with solvent/diluent to a final volume of exactly 85 mL
+    * 10.5 mL 10X DMEM/F12 
+    * 11 mL of 0.1M NaOH 
+    * 4 mL of 0.2M NaOH 
+    * 28 mL of growth media above with the addition of 1:100 HEPES Buffer Solution
+    * Pluronic-188:  Dilute Stock solution from 5% to 0.25%. (DONE 19/07/22) 
+      * Make up   550mL 
+
+
+Scaffold mounting, sterilisation and coating
+
+
+  
+
+  1. Place the moulds in a bath of EtOH overnight (day before experiment) (DONE)
+  2. Dry the plates upside-down along the bevel of the BSC to allow aeration, (morning of experiment) for 30-60 minutes  9:30  am 
+  3. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start   10:30 
+  4. Pre-coat with 0.25% Pluronic solution for 1 hour (to prevent adhesion), start    11:30
+
+
+Cell Supply Harvest and Matrix Formation for Seeding
+
+
+## Preparation for Harvest
+
+  1. Prepare 4 falcon tubes for cell harvest for 4 conditions of different cell densities (20M and 40M cells/mL) and 2 different seeding volumes (20mL and 25mL).
+    1. Completed calculations can be found here
+  2. Media preparation for harvest and seeding: 
+    1. DMEM/F12 growth medium as above (table 1). 
+
+## Cell Harvest for Mould seeding - Nuvonis suspension protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2.  ~~Count cells with haemocytometer/Vicell for total yields:~~
+  3.   
+Ranger Culture ID#     VICELL COUNT#When cells are harvested from multiple
+flasks)  
+Flask TypeE5000N/A  
+Total Volume Used (mL)1232N/A  
+Cell Concentration (cells/mL) 3.25 MN/A  
+  4. Pour required volume of cell suspension for 1 tissue disc into 500mL centrifuge tubes:
+    * 1B cells in  308  mL from #1232
+  5. Centrifuge at 500g for 5 minutes (in 500mL centrifuge tubes) 
+  6. Resuspend the pellet in 50mL of growth medium in a 50mL falcon tube and centrifuge at 300g for 5 minutes.  
+  7. Resuspend pellets in each centrifuge tubes in    12.1 mL   DMEM/F12 growth medium TOTAL (first resuspend in 5mL to account for pellet volume to make up to a total of 12.1ml)
+    * NOTE: Resuspending the pellet is very thick and viscous and takes up a high volume. 
+  8.  ~~Add required volume of cells+media to 4 falcon tubes~~ :
+  9. Proceed to matrix additions below. 
+    1. Bring out matrix additives from the fridge only until ready to use. 
+  10. Repeat step 4-8 for each tissue. 
+
+## Matrix formation for scaffold seeding - 2 cell densities + 2 tissue gel
+volumes
+
+N.B. Repeat this gel formation for each falcon tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+Refer to Figure 2 to visualise the workflow.
+
+1. Remove pluronic from the wells.
+
+Condition 40M cells/mL  
+(25mL tissue gel)  
+n=1 tissue disc  
+Step 1. Add cells+media12.1  
+ Step 2. Add total Collagen (mL)10.15  
+Step 3. Add total 10xDMEM/F12  
+(mL)1.225  
+Step 4. Add total  NaOH  
+(mL)1.525  
+Step 5. Pipette matrix into each well 25  
+  
+5\. Seed gel/matrix gently into scaffold ensuring good distribution around
+pillars in the well.
+
+6. Leave for    60-90    minutes to gel at 37°C - start time 
+
+Duration left to gel:
+
+  * Condition 1 (Control): 3 hours 20 minutes
+  * Condition 2 (Control gel matrix set at Ambient conditions): 3 hours 20 minutes
+  * Condition 3: (Gel Matrix containing HEPES in cell+growth media suspension): 2 hours and 30 minutes
+  * Condition 4: (Gel Matrix containing 0.2M NaOH solution): 2 hours and 30 minutes
+
+Note (from Alex W 21/07/22): Add Growth media to the entire dish at or before
+the 3 hour time point (post-seeding as the gel matrix environment begins to
+become stressful and prohibitive for cell viability, especially when each
+tissue disc has a high density (1B per disc at 40M cells/mL). Observing tissue
+matrices which have not gelled is a valid result to be discussed in the
+results section below.
+
+7\. Add     ~180-200ml media to entire 15mL dish, ensure entire mould is
+covered.  15:10 - 16:10  
+
+8. Culture at 37°C overnight before checking. 
+
+  
+
+Figure 2. Matrix formation workflow. Seed each disc one at a time for ease of
+workflow.
+
+  
+
+
+
+
+# Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+
+Results / Observations
+
+
+Bioprocess/ Technical Observations:
+
+  * Completion of this experiment went smoothly without any set backs. 
+  * Coating
+    * Bleach affects PDMS integrity (peels off the surface of the petri dish). 
+    * No leakage of gel matrix observed. 
+  * Pellet:
+    * Pellet in the 500mL centrifuge tube was quite soft but did not dislodge when aspirating supernatant. 
+    * All Pellets measured at the 5mL mark (in the 50mL Falcon tube) at the second centrifugation step (step 6). 
+  * Future notes for overall improvement:
+    * Coat plates a day before
+    * Leave to dry (after from EtOH soaking) in the BSC overnight
+    * Make up reagents 1-2 weeks ahead of time. 
+    * Centrifugation of cells can be initiated during the Pluronic-188 coating time frame. 
+    * Less things in the BSC the better 
+    * Avoid doing too many conditions at once (unless there is enough assistance to do this) as this leads to cultures remaining in a stressful environment longer than necessary. 
+    * Add growth medium VERY VERY slowly (water fall/ droplets at zero speed on the pipette guns) with the tip of the pipette pointing at the wall of the disc scaffold. 
+
+Gelation Observations:
+
+  * All cultures appeared to turning from opaque magenta to yellow within 15 minutes post seeding. 
+  * All cultures gelled (to varing degrees). 
+
+  * Condition 1 (Control): 
+    * Weak gel formation but observed to be stiffer than the 'thickness' of the gel at the time of seeding. 
+    * When petri dish was gently moved the gel matrix is observed to no longer 'adhere' to the walls of the disc scaffold. 
+    *   
+
+  * Condition 2 (Control gel matrix set at Ambient conditions): 
+    * Weakest gel formation but 'stiffer' (loosely used terminology) than the gel matrix at the time of seeding
+    *   
+
+  * Condition 3: (Gel Matrix containing HEPES in cell+growth media suspension): 
+    * Some what stiff gelation that lacks integrity. 
+    * When petri dish was gently moved the gel matrix is observed to no longer 'adhere' to the walls of the disc scaffold.
+    * Slightly granular appearing matrix and transparent 
+    * Addition of growth media after ~3 hours led to operator accidentally inserting a pipette into the centre of the tissue disc which may affect adequate tissue formation. 
+    *   
+
+  * Condition 4: (Gel Matrix containing 0.2M NaOH solution): 2 hours and 30 minutes
+    * Some what stiff gelation that lacks integrity. 
+    * When petri dish was gently moved the gel matrix is observed to no longer 'adhere' to the walls of the disc scaffold.
+
+Questions:
+
+  * How many tissue discs (maximum) can be done in one experiment to try the most conditions
+  * There are no replicates in this experiment.
+  * Can we order a deeper tissue culture container (that is autoclave able)? Growth medium spillage is highly probelmatic for sterility and ease of handling 
+
+

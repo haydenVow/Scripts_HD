@@ -1,0 +1,126 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: LL JB  
+
+
+
+
+Growth Media:
+
+  * RPMI + 20% FBS + 1X P/S + ACA (1:100) + 0.1% pluronic + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax GM 1 RPMI + FBS
+  * RPMI + 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic \+ FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax GM 2 RPMI + KSR
+  * Hycell CHO + 20% KSR + 1X P/S + ACA (1:100) + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax GM 3 Hycell
+  * CD CHO + 20% KSR + 1X P/S + ACA (1:100) + FGF (10 ng/mL) + IGFLR3 (100 ng/mL) + 4 mM glutamax GM 4 CD CHO
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDMedia condition  
+384 well plate  
+
+9674-F_CHOMP09-Crocodile P1-1of20
+
+9675-F_CHOMP09-Crocodile P1-2of20
+
+9676-F_CHOMP09-Crocodile P1-3of20
+
+9677-F_CHOMP09-Crocodile P1-4of20
+
+9679-F_CHOMP09-Crocodile P1-6of20  
+1  
+9681-F_CHOMP09-Crocodile P1-8of20  
+ ~~9683-F_CHOMP09-Crocodile P1-10of20~~ CONTAMINATED  
+2  
+9685-F_CHOMP09-Crocodile P1-12of20  
+ ~~9687-F_CHOMP09-Crocodile P1-14of20~~ CONTAMINATED  
+3  
+9689-F_CHOMP09-Crocodile P1-16of20  
+9691-F_CHOMP09-Crocodile P1-18of20  
+4  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsReagent ID(s)  
+Growth Media 1RPMI + FBSM9300  
+Growth Media 2RPMI + KSRM9301  
+Growth Media 3HycellM9303  
+Growth Media 4CD CHOM9302  
+FGF  
+N/A  
+M9242  
+  
+IGF  
+N/A  
+M8843  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted   25 mL  mL of  GM 1
+  2. Aliquotted  4 mL  of  GM 2/3/4   
+
+  3. Add FGF (10 ng/mL) and IGF (100 ng/mL) to each media aliquot
+  4. Placed in water bath  : 
+  5. Removed  0% of supernatant from vessel. 
+  6. Replaced with   10 uL (per well/per vessel) of  respective gorwth media 
+  7. Returned vessel to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [x] 30ºC, 5% CO2 (reptile cells) 
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 78), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+100  % media top up (20 uL) on vessel(s)
+
+  1. 9674-F_CHOMP09-Crocodile P1-1of20
+  2. 9675-F_CHOMP09-Crocodile P1-2of20
+  3. 9676-F_CHOMP09-Crocodile P1-3of20
+  4. 9677-F_CHOMP09-Crocodile P1-4of20
+  5. 9679-F_CHOMP09-Crocodile P1-6of20
+  6. 9681-F_CHOMP09-Crocodile P1-8of20
+  7.  ~~9683-F_CHOMP09-Crocodile P1-10of20~~
+  8. 9685-F_CHOMP09-Crocodile P1-12of20
+  9.  ~~9687-F_CHOMP09-Crocodile P1-14of20~~
+  10. 9689-F_CHOMP09-Crocodile P1-16of20
+  11. 9691-F_CHOMP09-Crocodile P1-18of20
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Plate 13/20 also contaminated and discarded
+
+  
+
+9674 received full 10 uL feed for all wells. All other GM1 plates were very
+full and so only select lower wells received feed.
+
+

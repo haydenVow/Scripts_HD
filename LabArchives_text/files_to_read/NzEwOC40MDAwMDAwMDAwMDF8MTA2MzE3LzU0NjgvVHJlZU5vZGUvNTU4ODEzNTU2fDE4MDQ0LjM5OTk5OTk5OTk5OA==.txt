@@ -1,0 +1,51 @@
+
+
+## Completed by: Avani
+
+
+
+
+Vow's goal is to manufacture it's first ever commercial product using
+crocodile fibroblast paste as a key ingredient. It is therefore important to
+adapt crocodile fibroblast cells to suspension, so that culture of these cells
+can be scaled-up to commercially-useful volumes (in the 100-1000 L range) by
+the end of 2022. Previous experiments have demonstrated that the following
+conditions are adequate for adherent proliferation of crocodile fibroblasts:
+
+ParameterValueCommentReference  
+Temperature (degrees Celsius)30Two temperatures were tested, 30 deg C and 37
+deg C; proliferation was suppressed at 37 deg C.EPIC23083  
+Atmospheric CO2 concentration (%)5This is the standard CO2 enrichment used in
+incubators at Vow.EPIC23083  
+Growth mediumDMEM/F12 + 20% FBSTwo FBS concentrations were tested, 10% and
+20%; proliferation was suppressed at 10%.EPIC23083  
+Osmolality (mOsm/kg)~300Inferred from growth medium
+
+All crocodilians studied to date, from both fresh and salt water, maintain
+their plasma osmolality in the range  280-340  mOsm/kg,  with Na and Cl as the
+principal  osmolytes. Interspecific  variability is small.
+
+TAPLIN, L. E. (1988). OSMOREGULATION IN CROCODILIANS. Biological Reviews,
+63(3), 333-377\. https://doi.org/10.1111/j.1469-185X.1988.tb00721.x  
+  
+pH~7.5Inferred from growth medium and atmospheric CO2 concentration  
+  
+  
+However, a previous experiment (EPIC25749) showed that the medium mix that was
+useful for adapting DOLLY12 fibroblasts to suspension from DMEM/F12 + 10% FBS
+medium was not adequate for CHOMP09 fibroblasts.
+
+Therefore, different basal media were tested for F_CHOMP suspension adaption
+(EPIC26265 \- still in progress).
+
+For most of the suspension adaptation experiment performed last quarter, 50 mL
+shake tubes were used instead of E125 flasks as they are easier to automate,
+and require less media and cells. However, data from EPIC____ suggests that
+higher cell density (cells/mL) is maintained throughout the suspension
+adaption process when E125 flasks are used versus 50 mL shake tubes. It is
+possible a similar effect will be observed with 24 deep well plates too. But
+if suspension adaptation can be successfully be performed in 24 dwp, it would
+be possible to perform media optimisation experiments with even higher
+throughput and less resources (media and cells).
+
+

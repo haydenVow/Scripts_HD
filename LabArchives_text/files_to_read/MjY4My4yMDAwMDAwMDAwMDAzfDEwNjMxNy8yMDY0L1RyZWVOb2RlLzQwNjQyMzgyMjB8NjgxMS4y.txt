@@ -1,0 +1,76 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+Key findings
+
+DOLLY12 WCB MuSC were thawed into gelatin coated T25 flasks. 24 hours later, a
+100% feed was performed to the following conditions:
+
+  1. serum containing media (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+  2. E810C containing FGF from PeproTech
+  3. E810C containing FGF from Reprokine
+  4. E810C without FGF (negative control)
+
+When these flasks were observed ~48 hours after the feed, cells in all ACF
+media appeared dead. This was unexpected as we have previously proliferated
+cells up to 10 doublings in E810C (containing FGF from PeproTech). This
+indicated that there could be something in our ACF media which is toxic for
+cells and requires further investigation. We were therefore unable to evaluate
+the effect of FGF from the two brands for long term cell culture.
+
+Discussion
+
+We have recently observed issues when using ACF media. In EPIC19442, although
+we didn't see immediate cell death, our ACF media control performed much
+poorer than expected. After the first passage, E810C yielded around ~30k and
+48k cells whereas the serum control yielded ~74k cells. After the second
+passage, we did not see any attachment in E810C. Similarly, in EPIC16782,
+after a couple of passages in E810C and observing decreasing cell numbers, it
+became evident that this media was not supporting cell growth.
+
+After comparing which reagents had been used to make E810C across different
+experiments, no obvious culprits were identified (see Notion page and
+spreadsheet). We suspected FGF to be the issue as we have been using FGF from
+PeproTech for all past experiments. FGF from Reprokine just started being used
+in May 2021. However, this experiment indicates that there are other
+components in the media which could be causing cell death.
+
+Limitations and Future Directions
+
+In the future, when unexpected cell death occurs, we should check for
+contamination on 20x objective to eliminate this as a potential cause.
+Secondly, we are putting together LabArchives lab books/widgets that will
+assist in easier record keeping. This will ensure that all growth conditions
+will be recorded in a standardised format, making it easier to compare cells,
+media reagents, gelatin, and incubators used across multiple experiments.
+
+Once we have discovered and resolved the cause of cell death in ACF media,
+this experiment will need to be repeated. We should continue investigating
+growth factors from different companies to identify those that are most
+effective, offered at competitive prices, and available at a large scale when
+needed.
+
+

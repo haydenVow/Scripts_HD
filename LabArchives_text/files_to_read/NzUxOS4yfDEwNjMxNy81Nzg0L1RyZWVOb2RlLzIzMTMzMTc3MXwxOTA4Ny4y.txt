@@ -1,0 +1,118 @@
+
+
+
+
+
+## Performed by:
+
+
+
+
+Use "Dana" robot for this protocol.
+
+For any questions - message Shaleen on Slack (i'll keep my phone handy for
+quick replies)
+
+
+Plate type  
+Culture ID  
+DSD media block location  
+Other comments  
+  
+96 well plate  
+9426-BUFFY6-Water Buffalo P12-1of2 [Plate 1]  
+Biomaterials fridge (second shelf) (Block 1)  
+Media block is labelled clearly with permanent marker. Do not remove PCR seal
+until it is in HEPA filtered OT2. Remember to reseal block and place back in
+the fridge.  
+  
+96 well plate  
+9427-BUFFY6-Water Buffalo P12-2of2 [Plate 2]  
+Biomaterials fridge (second shelf) (Block 2)  
+  
+Media block is labelled clearly with permanent marker. Do not remove PCR seal
+until it is in HEPA filtered OT2. Remember to reseal block and place back in
+the fridge.  
+
+
+  
+  
+Process:
+
+  
+
+  
+  
+  
+Starting deck state  
+  
+Placed both DSD media blocks in incubator for a minimum of 20 mins:    9:58 am
+
+Startup and calibration:
+
+  1. Switched on HEPA filter (top of robot, switch on left) and the OT2 robot.
+  2. Wiped the base/desk of the robot with 70% (v/v) EtOH. Do not wipe the sides (clear acrylic panels) with ethanol. OT2 should be treated like a BSC for maintaining sterility. Spray and wipe any items with ethanol before placing into OT2. 
+  3. Connected to the robot from a lab computer by using the Opentrons app. 
+  4. Uploaded the protocol "dsdfeed.py" found in the Downloads folder.
+  5. Arranged labware and reagents on the OT2 as shown in the deck layout. Make sure to remove the PCR seals from each DSD media block. Carefully remove the lids of each 96 well plate and set aside in the robot.
+  6. Clicked  Proceed to calibrate. 
+  7. Calibrated to labware by following the instructions on the app and then ran the protocol.  
+  8. IMPORTANT: Pause the protocol halfway through and empty the pipette tips from trash. The trash will overflow otherwise.
+
+Start time:    11:05
+
+Summary of protocol:
+
+  * 200uL of DSD media was removed from both plates with tips being changed at every aspirate and dispense
+  * 200uL of fresh DSD media was added to both plates with tips being changed at every aspirate and dispense
+
+End time:     11:23  
+
+Protocol ETA: 20 mins
+
+  
+
+Termination and cleaning:
+
+  1. Once the protocol is complete, discarded tips in the yellow biowaste bin. Sprayed and wiped the trash tray with ethanol before returning it to the robot. Liquid waste should be collected in bottles, and PFA waste should be discarded into the PFA waste container. OT2 reservoirs are reusable. They should be sprayed with Viraclean if they contained cell suspensions and then washed in eucalyptus disinfectant. Then they need to be soaked in water, dried, and autoclaved.'
+  2. Seal both media blocks with a PCR plate seal (small purple and white cardboard box above staining bench in main lab).
+  3. Ensure both 96 well plate lids are on properly before removing plates from OT2.
+  4. Removed all labware from OT2 and wipe the base/deck of the OT2 with ethanol. The pipette head can also be cleaned with 70% ethanol. Wiped the sides (clear acrylic panels) with working solution of bleach (10-15%) and then dried with a RediWipe.   
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+SOP_Using OpenTrons V_01
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

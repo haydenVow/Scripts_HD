@@ -1,0 +1,191 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL TT  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDFrozen Vial IDs  
+  
+T175s  
+
+7763-F_DOLLY12_1A16-Sheep P7-1of4
+
+7764-F_DOLLY12_1A16-Sheep P7-2of4
+
+7765-F_DOLLY12_1A16-Sheep P7-3of4
+
+7766-F_DOLLY12_1A16-Sheep P7-4of4
+
+  
+T25  
+7823-F_DOLLY12_1A16-Sheep P8-1of1  
+3387-Culture-7763-Vial-1of7  
+3399-Culture-7763-Vial-2of7  
+3400-Culture-7763-Vial-3of7  
+3401-Culture-7763-Vial-4of7  
+3402-Culture-7763-Vial-5of7  
+3403-Culture-7763-Vial-6of7  
+3404-Culture-7763-Vial-7of7  
+  
+  
+  
+
+Also froze MCB2 into 7 x vials
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 5076  
+  
+dPBS (for washing & neutralising)A 6305  
+  
+Growth MediaM 6349  
+  
+FBS  
+A 6448  
+  
+DMSO  
+S 2746  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     40    mL in     1    tubes
+  2.  dPBS (for neutralising):    40     mL
+  3.  dPBS (for washing):     40    mL
+  4. Growth media (for pellet resuspension):     10    mL
+  5. Growth media (for seeding):    5     mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+14:55  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   15:06  
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    15:12 - 15:28  Checked at 11 min, needed longer (~70% detached)  
+
+7\. Neutralised with     10 mL per flask     dPBS and combined cell suspension
+into a     2 x 50 mL    tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    15:34 - 15:39  
+
+
+
+
+Total cell count:         7,860,000  
+
+  * Volume of cell suspension required for subculture was:     110 uL       
+
+  * Cell density per vessel:   7,000 cells/cm2    
+
+
+
+
+13\. Transferred    110   µl of cell suspension to the pre-warmed      5  mL
+Growth media:     16:09  
+
+14\. Transferred cell suspension into the      T25      vessel.
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+  
+
+11\. Aiming to freeze 1 million cells/cryovial in 1mL freeze media per vial,
+Prepared   10 mL Freeze Medium: (FBS + 10% DMSO).
+
+Note: Final density was 1,097,857 cells per vial
+
+Stored at 4ºC until use to keep chilled. 16:05
+
+12\. Centrifuged cells at 650 x g for 5 min.   16:11 -  16:16
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 7 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted | 1000 |µL into | 7 | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer. Labelled "DOLLY12 1A16 Fibros 20.8.21", in second
+shelf from top in library lab -80 freezer   16:26 pm
+
+  * [ ]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [ ]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [x]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Observations/Summary:
+
+Clone F_DOLLY12_1A16 frozen down into X x 1M cell vials + also 1 x T25 flask
+maintained in culture seeded at 7,000 cells / cm2.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+7763: https://mia-capture.vow.tools/#/session/recdxXcMsUNvlhro2/images
+
+7764: https://mia-capture.vow.tools/#/session/recLeHBoWC31Lv3uH/images
+
+7765: https://mia-capture.vow.tools/#/session/recyfdikEgri4fBg0/images
+
+7766: https://mia-capture.vow.tools/#/session/recRyFvR1bWgXu68H/images
+
+  
+
+

@@ -1,0 +1,168 @@
+Introduction
+
+
+Determination of carnosine is typically based on labour consuming
+chromatographic methods (Crush, 1970) or on automatic analyses, which require
+expensive apparatus and complicated preparation of samples (Christman, 1976;  
+Suyama et al., 1970; Tamaki et al., 1978). However, Wolos et al.,1986
+published an interesting method for measuring carnosine content using a
+colorimetiric assay. This assay can be set up in house and has applicability
+beyond just Carnosine (e.g. for measurement of other nutrients such as
+tryptophan).
+
+
+Aim
+
+
+To quantify carnosine in our cells.
+
+
+Hypothesis
+
+
+The 'O-Phthalic Aldehyde method',colormetric assay will be sensitive enough to
+accurately detect changes in carnosine content in our cells. Through the use
+of a standard serial dilution of carnosine we will be able to determine the
+concentration of creatine in our samples by interpolating their absorbance
+values at 640 nm.  
+  
+Cells grown in media supplemented with B-Alanine will have a higher
+concentration of intracellular creatine.
+
+
+Protocol
+
+
+Protocol has been adapted from protocols by Wolos et al.,1986 and Lenney et
+al., 1982. Adapted by EH.  
+  
+  
+
+Reagents to prepare prior to start
+
+25% trichloroacetic acid (TCA)  
+Add 25g of TCA (>99%) to 100mls of stirring dH2O
+
+200mls of 5% TCA in distilled water Add 10g of TCA (>99%) into 200mls of dH2O.
+
+Mix well and label
+
+  
+
+1 millimolar working stock of carnosine
+
+Add 22.6 mg of carnosine into 100 mL of ****5% TCA water = a 1000x conc
+working stock (1 millimolar)
+
+  
+
+0.2% o-phthalic aldehyde prepared in 95% ethanol/methanol
+
+Pipette 40ul of o-phthalic aldehyde into 19.96ml of ethanol
+
+Mix well and label
+
+  
+
+1N NaOH
+
+Add 4 grams of NaOH to 100mls of dH2O while stirring, then sterile filter
+
+Label
+
+  
+
+1N HCl
+
+Add 8.33mL in 100 L of dH2O water, mix well, sterile filter
+
+Label
+
+  
+
+Decision on standard concentration range:
+
+In the paper by Wolos et al., the breast and leg muscles of 18 month Geese
+contained around 0.4 umol/g of carnosine. Seeing as the samples are 5% TCA we
+also need to prepare the standard in 5% TCA.
+
+We can expect 2 T175 flasks to contain about 0.0328g of cells.
+
+If 2xT175 equals 0.033 g, then that would mean 0.033g x 0.4 umol/g =  0.0132
+umol of Carnosine in those cells
+
+So if the carnosine content in our cells matched that of muscle we would see
+0.0132 umol in 2x T175 worth of cells. Considering we will expect less
+carnosine per g than pure muscle we want a standard curve that will capture a
+low range of carnosine.
+
+Range chosen for standard: 0-0.1 umol of carnosine
+
+  
+
+Preparation of the standard:
+
+The amount of carnosine needed to prepare 0.16 umol solution is too small so
+we need to first making a working stock solution (see above).
+
+  1. Add 50 uL of the working stock carnosine solution to 50 mL of 5% TCA water to get to a 1 micromolar solution.
+  2. Next take 1ml of the 1umol sol and add to 9ml of 5% TCA water to get to a 0.1umol sol.
+  3. Prepare 7 tubes containing 1ml each 5% TCA water label with concentrations as below
+  4. Remove 500ul of the 0.1 uM solution of carnosine in 5% TCA water (mix before removing) and add to the tube labelled 0.05 umol
+  5. Continue as shown in diagram below:
+  6. Blank is 5% TCA water only
+
+* * *
+
+  
+
+    
+    
+          
+
+Sample prep:
+
+  1. Freeze thaw cell pellets (10 tubes) from each concentration 2x
+  2. Homogenise cells (pipette up and down) with triple volume of distilled water (same volume in each tube)
+  3. Using 25% trichloroacetic acid (TCA) get cell homogenate in water to a concentration of 5% TCA
+  4. Spin cell homogenate or leave to settle so that a supernatent is apparent
+
+Running the assay:
+
+  1. For each tube of both sample and standard remove 0.1ml (take supernatent for the cell samples, and mixed solution for the standards) and add to 2.4ml of 1N NaOH in a fresh well labelled tube
+
+  2. Wait 5 min at RT
+
+  3. Add 1ml of 0.2% o-phthalic aldehyde to each tube.
+
+  4. Wait 1 min
+
+  5. Add 0.2ml of 1N HCl to each tube.
+
+  6. Leave solution at 20-22'C for 30min (a blue colour indicative of carnosine should appear - especially in the standards!)
+
+  7. Pipette 50ul of each sample and standard solutions (mix well before pipetting) into the appropriate wells of a 96wp (see plate map below). Samples to be tested in triplicate.
+
+  8. Measure absorption of plate at 640nm on the plate reader
+
+  9. Use standard curve to determine creatine concentration in the samples
+
+NOTE - Carnosine standard should be in order of highest to lowest conc  
+e.g. B1,C1,D1 = 5 umol/ml B11,C11,D11 = 0.078 umol/ml
+
+  
+  
+
+    
+    
+                                              
+
+  
+
+  
+
+  
+
+  
+
+

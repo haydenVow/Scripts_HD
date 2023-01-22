@@ -1,0 +1,87 @@
+
+
+## Completed by:
+
+
+
+
+See raw results and data analysis here:
+https://docs.google.com/spreadsheets/d/1673_rqP6wqQKeMa98CfECZoynUyZxwJh2sJLsY4SUT4/edit?ts=60d51399#gid=1753166603
+
+Implementing gelatin as a factor to improve maturation:
+
+Strangely, the findings of this study do NOT correlate with the work completed
+by Lui and co-workers [1]. For example, the team suggest a bi-phasic effect
+with increasing gelatin concentrations where the optimal effect is seen at 5
+mg/mL and a detrimental effect is seen at 20 mg/ml of gelatin (when used as a
+coating and also when 20uL is injected into damaged muscle tissue). As
+evidenced by Figure 1, supplementing differentiation media with gelatin
+provides no favourable effect on maturation, but rather suggests that any
+addition of gelatin in E6 results in a decrease in the maturation process
+(suggested by steadily declining MF20 signal). Furthermore, it appears that
+coating cell culture treated plasticware with increasing concentrations of
+gelatin proves to have no benefit over control in C2C12 cells (see Figure 2).
+The underlying reason behind this phenomenon remains unclear, however several
+differences between this study and the work done by Lui and co-workers bring
+light to several possibilities. The most significant difference is that the
+study was conducted in the context of muscle regeneration. While the
+principles of myogenesis should remain similar in maturation between cell
+culture (done in this study) and muscle regeneration (done by Lui and co-
+workers), the difference in these two conditions may be the reason why the
+same effect isn't seen. For example, during the muscle regeneration process
+the extracellular matrix (ECM) is re-modeled where collagen is broken down and
+gelatin is produced [1]. If this effect occurs in ADDITION to the
+supplementation/coatings implemented by the team then the total amount of
+gelatin C2C12s are exposed to in the study is more than the concentrations
+used (1, 5, 10, 20 mg/mL). It is possible that the optimal effect at 5 mg/mL
+seen is purely in regenerative conditions. While it is unlikely, this could
+possibly explain the unexpected increase in MF20 signal in Figure 2 at 20
+mg/mL and any further increases in concentration could possibly reproduce the
+same trend observed by Lui and co-workers. However, this would require further
+testing and repeats to make a conclusive finding.
+
+  
+Optimising and developing the ELISA pipeline at Vow:
+
+This study features the second iteration of the ELISA workflow at Vow. The aim
+for this iteration was to improve on the shortcomings of the initial assay and
+produced a more optimised pipeline in a step towards reliably measuring
+maturation in our primary myoblasts. One significant issue with the first
+iteration was that a non-specific binding effect was observed in the
+absorbance readings, where the underlying reason was likely due to extended
+incubation with the HRP-conjugated secondary antibody and insufficient washing
+protocol between addition of reagents. This was addressed in the experimental
+protocol for this assay where the incubation time with the secondary HRP (and
+fluorescent) antibody was restricted to one hour. As a result, the unusually
+high absorbance readings observed in the first iteration were mitigated in
+this iteration. As seen in Tables 1 and 2 (and the raw absorbance values shown
+here:
+https://docs.google.com/spreadsheets/d/1673_rqP6wqQKeMa98CfECZoynUyZxwJh2sJLsY4SUT4/edit?ts=60d51399#gid=1753166603)
+the absorbance values seen in this iteration are much lower. This is a
+significant improvement over the much higher values seen beforehand where most
+well produced similar absorbance at 450nm despite varying cell densities and
+conditions. Hence, going forward an incubation time of 1 hour will be enforced
+with the HRP-conjugated secondary antibody. Furthermore, centrifuging of each
+96 well plate before absorbance reading was also implemented into this
+workflow and will remain in future iterations.  
+  
+Despite this improvement, this iteration outlined several more areas to
+improve on. Manual washing steps during the Janus Green stain are both tedious
+and also give rise to irregular readings as a result of sample loss. During
+washing steps, it was observed that stained cells would lift off the bottom of
+wells during washing, leading to low readings at 650nm. This can be seen in
+Table 2 where this was especially observed in the 20 mg/mL columns and in the
+raw Janus Green absorbance values (see linked spreadsheet above).  
+  
+Interestingly, the ELISA absorbance for all conditions depicted very low MyoG
+signals (see Tables 1 and 2) in comparison to corresponding MF20 signals (see
+Figures 3 and 4). While lower MyoG signal is expected and is also seen in
+fluorescent controls (Figures 6 and 7), the vast difference observed in the
+ELISA absorbance is not consistent with this. This effect is not seen in the
+first iteration, where MyoG readings are lower however not similar to blank
+readings as observed in this case. It is possible that these low readings are
+resultant from errors within the antibody staining process, however repeats of
+this staining process are required to make a definitive judgement.  
+  
+
+

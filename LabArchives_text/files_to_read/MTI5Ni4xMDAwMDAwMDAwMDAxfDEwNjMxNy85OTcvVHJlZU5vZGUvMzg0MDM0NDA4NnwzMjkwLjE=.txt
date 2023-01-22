@@ -1,0 +1,162 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S
+  * [X] DMEM/F12 + 1X P/S
+  * [X] E8
+  * [X] E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids
+  * [X] E810C
+
+Total media required: 5mL of each
+
+
+
+
+Culture IDs to feed
+
+Vessel ID  
+Media Type  
+Vessel Type  
+Vessel Location  
+Growth Media Location  
+Other comments  
+  
+6684-DOLLY12-Sheep P9-1of5  
+Serum-containing media  
+T25  
+Library Lab Binder Incubator (#77) - In a blue 15 mL tube rack  
+Library Lab fridge #104  
+The media that is required for each condition is written on the flask to make
+to easier to add the appropriate media to each flask. Also please make sure to
+use a separate serological for each flask as they are separate conditions.  
+  
+6685-DOLLY12-Sheep P9-2of5  
+DMEM/F12 + 1X P/S  
+T25  
+Library Lab Binder Incubator (#77) - In a blue 15 mL tube rack  
+Library Lab fridge #104  
+  
+Same as first box above.  
+  
+6686-DOLLY12-Sheep P9-3of5  
+E8  
+T25  
+Library Lab Binder Incubator (#77) - In a blue 15 mL tube rack  
+Library Lab fridge #104  
+  
+Same as first box above.  
+  
+6688-DOLLY12-Sheep P9-4of5  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids  
+T25  
+Library Lab Binder Incubator (#77) - In a blue 15 mL tube rack  
+Library Lab fridge #104  
+  
+The media required for this condition is written as "E8 goodies" on the flask
+surface instead of the full media type.  
+  
+6689-DOLLY12-Sheep P9-5of5  
+E810C  
+T25  
+Library Lab Binder Incubator (#77) - In a blue 15 mL tube rack  
+Library Lab fridge #104  
+  
+Same as first box above.  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Place pre-aliquotted  5 mL  mL of each Growth Media condition into the
+water bath to be warmed (Tubes are in a blue tube rack in the library lab
+fridge #104). Placed in water bath 10:25am
+
+2\. Removed  100  % of supernatant from vessel.
+
+3\. Replaced with  5 mL (per vessel) of  Growthmedia.
+
+  1. 6684-DOLLY12-Sheep P9-1of5 (INTO Serum-containing media)
+  2. 6685-DOLLY12-Sheep P9-2of5 (INTO DMEM/F12 + 1X P/S)
+  3. 6686-DOLLY12-Sheep P9-3of5 (INTO E8)
+  4. 6688-DOLLY12-Sheep P9-4of5 (INTO E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids)- labelled as "E8 goodies" on the corresponding flask. 
+  5. 6689-DOLLY12-Sheep P9-5of5 (INTO E810C)
+
+*Note: Please use a separate serological pipette when changing the media for each flask. 
+
+4\. Returned vessel to incubate at [10:51 am]:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6684-DOLLY12-Sheep P9-1of5 (INTO Serum-containing media)
+  2. 6685-DOLLY12-Sheep P9-2of5 (INTO DMEM/F12 + 1X P/S)
+  3. 6686-DOLLY12-Sheep P9-3of5 (INTO E8)
+  4. 6688-DOLLY12-Sheep P9-4of5 (INTO E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids)
+  5. 6689-DOLLY12-Sheep P9-5of5 (INTO E810C)
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Growth Media (Serum containing) A4838  
+  
+Growth Media (No FBS)  
+M4811  
+  
+E8M4812  
+  
+E8 10C  
+  
+  
+  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids
+
+M4829  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

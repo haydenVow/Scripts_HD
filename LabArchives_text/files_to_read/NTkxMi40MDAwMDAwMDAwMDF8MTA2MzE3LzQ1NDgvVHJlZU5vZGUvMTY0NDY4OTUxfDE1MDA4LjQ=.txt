@@ -1,0 +1,138 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Key Results
+
+24 dwp with volumes of 2.5 mL to 5 mL were tested on a Max Q shaker at 300
+rpm. It was determined that a working volume of 2.5 mL should be used for
+better mixing.
+
+An OT2 protocol was developed to perform a 100% media change of a 24 deep well
+plate containing 2.5 mL of media per well. This protocol took ~42.5 min to
+feed 24 wells.
+
+No contamination was observed when using 24 dwp. This was the first time these
+vessels were used with growth media at Vow.
+
+Results and Discussion
+
+In 2021 Q4, Vow has a short-term critical goal of getting GEN1 product
+fibroblasts in a 2L bioreactor, ready for handoff. This requires cells that
+are adapted to suspension. Performing suspension adaptation experiments in
+small vessels such as 24 dwp will allow for more automation and higher
+throughput.
+
+It is generally recommended that a volume of 2.5 mL or 3.5 mL is used for 24
+deep well plates (dwp) at 300 rpm on a shaker with a 25 mm orbital diameter or
+at 225 rpm on a shaker with 50 mm orbital diameter [1]. This should ensure
+that wells are mixed down to the bottom.
+
+The MaxQ shakers that are available at Vow have an orbital diameter of 19 mm
+and have a maximum shake speed of 300 rpm. This experiment involved observing
+the wave height of fluid in a 24 dwp on this shaker. Volumes of 2.5 mL - 5 mL
+of water per well were tested (see video attached). As expected, a volume of
+2.5 mL looked to be ideal to ensure mixing of most of the culture.
+
+An OT2 protocol was developed to perform a 100% media change of a 24 deep well
+plate. This involved removing 2 mL of media from each well and adding 2.5 mL
+of fresh media. It also involved sampling from the 24 dwp to 96 wp for
+staining. This protocol took 42:27 minutes to feed 24 cultures. In comparison,
+50 mL tubes normally require ~57 min for 18 cultures to be fed and sampled on
+OT2.  If 50 mL tubes are used, 4.5 mL of media is removed and 5 mL is added
+per tube. In summary, an OT2 protocol for 24 dwp takes ~1.8 min to feed and
+sample one culture whereas a protocol for 50 mL shake tubes takes ~3.1 min per
+culture. Therefore, the use of 24 dwp will likely increase the throughput of
+the suspension adaptation process.
+
+As this was the first time 24 deep well plates were being used at Vow, it was
+important to ensure that cell cultures can remain contamination free whilst
+handling these plates. This involves needing to remove an adhesive film that
+covers the well and then replacing it with a new one after feeds are
+performed.
+
+3 days after a feed was performed on OT2, samples from all wells of the 24 dwp
+were taken to look for signs of contamination using microscope slides.
+However, it was difficult to determine whether there was contamination using
+this method because even without any growth media on the slide, there appeared
+to be small dots visible. Therefore, samples from the 24 dwp were also put
+into T25 flasks containing DMEM/F12 + 10% FBS (no Pen/Strep). Four days later,
+no bacterial contamination was observed in these T25 flasks which suggests
+that 24 dwp can be used whilst maintaining sterility (see images below).
+
+pH tests of T25 flasks showed neutral pH, suggesting there's no contamination
+
+
+
+Phase, 20x image of T25 flask used as negative control (CD-CHO + KSR media
+without any sample from 24 dwp added)
+
+Phase, 20x image of T25 flask containing CD-CHO + KSR + sample from well B2 of
+24 dwp
+
+
+
+Limitations
+
+The MaxQ shakers that are available at Vow have an orbital diameter of 19 mm
+and have a maximum shake speed of 300 rpm. Normally, it is recommended that
+shakers with a larger orbital diameter are used for 24 dwp. For example, 300
+rpm on a shaker with a 25 mm orbital diameter.
+
+Ethanol wiped microscope slides could not be used as a reliable way of
+checking for contamination because even without any growth media on the slide,
+there appeared to be small dots visible (see images taken on Phase, 20x
+below). Vow does not have testing kits to check for contamination in-house.
+Instead, microscopic examination and pH testing is used.
+
+Image of ethanol wiped microscope slide without any media
+
+Image of ethanol wiped microscope slide with media sample from well A2 of
+24dwp
+
+
+
+Conclusion
+
+An OT2 protocol for performing a 100% feed of a 24 dwp containing 2.5 mL of
+media was successfully developed. Feeding and sampling from one culture of a
+24 dwp takes ~1.8min per culture. This is much faster than using 50 mL tubes
+which take ~3.1 min per culture to feed and sample. No contamination was
+observed as adhesive covers were used for covering the 24 dwp. Therefore, 24
+dwp can potentially be used for increasing the throughput of suspension
+adaptation and media optimisation experiments.
+
+Future Directions
+
+24 dwp should be secured down onto shakers using clamps. To see a video of
+this, see EPIC27984.
+
+Test shaking of 24 dwp and 96 wp on a shaker with larger orbital diameter
+(EPIC27984).
+
+An experiment to compare suspension adaptation of cells in 24 dwp versus 50 mL
+shake tubes versus E125 flasks should be performed to see if cell viability
+and growth is different across these vessels. (EPIC27984).
+
+[1] https://www.enzyscreen.com/videos_24_deepwell_mtp.htm
+
+

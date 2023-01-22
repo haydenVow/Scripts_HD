@@ -1,0 +1,226 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Shaleen
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+ELISA:
+
+2869-Culture-6905-Vial-9of54
+
+2875-Culture-6905-Vial-14of54
+
+2876-Culture-6905-Vial-17of54
+
+2870-Culture-6905-Vial-10of54
+
+E-Stim:
+
+2871-Culture-6905-Vial-11of54
+
+2872-Culture-6905-Vial-12of54
+
+2873-Culture-6905-Vial-13of54
+
+Bradford:
+
+2877-Culture-6905-Vial-18of54
+
+  
+
+E-stim:
+
+8179-C2C12-Mouse P4-1of2
+
+8181-C2C12-Mouse P4-2of2
+
+ELISA:
+
+8182-C2C12-Mouse P4-1of3
+
+8183-C2C12-Mouse P4-2of3
+
+8184-C2C12-Mouse P4-3of3
+
+Bradford
+
+8185-C2C12-Mouse P4-1of2
+
+8186-C2C12-Mouse P4-2of2
+
+  
+2 x 24wp (Bradford)  
+3 x 96 wp (ELISA)  
+2 x 24wp (E-stim)  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Growth MediaM6840  
+  
+p38i (20mM stock)M4663  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+Seeding:
+
+  * 3 x 96 well plates @ 7000 cells per well = 2M cells 
+  * 2 x 12 well plates @ 60k per well = 1.5M cells
+  * 2 x 24 well plates @ 30k per well, 6 wells each plate = 360k cells
+
+Hence 8 vials of C2C12s will be thawed.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   42 mL for ELISA and 50mL for E-stim and 6mL for bradford =~ 100 mL   
+
+  * Time that aliquot was placed in the water bath to warm before use:   10:19 a/pm 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  10:26 - 10:31 a/pm
+
+Location where cryovial was collected from:
+
+Vial details:  7   x  500K  cryovials at   500K  cells each for a total of
+3.5M  cells
+
+Brew
+
+Tower/Bucket #2
+
+Box/Cane # 6
+
+Vial location:
+
+A9
+
+B1
+
+B2
+
+B3
+
+B4
+
+B5
+
+B6
+
+Vial ID(s):  
+
+ELISA:
+
+2869-Culture-6905-Vial-9of54
+
+2875-Culture-6905-Vial-14of54
+
+2876-Culture-6905-Vial-17of54
+
+2870-Culture-6905-Vial-10of54
+
+E-Stim:
+
+2871-Culture-6905-Vial-11of54
+
+2872-Culture-6905-Vial-12of54
+
+2873-Culture-6905-Vial-13of54
+
+Bradford:
+
+2877-Culture-6905-Vial-18of54
+
+  
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added  500µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered   2mL to each pre-coated  12  well, 140uL to each well of 96
+wp, 500uL to 12 wells of 2 x 24 wp and allow to rest in the BSC at RT for 30
+min  10:50 am `
+
+`9. Transfered flask/plate(s) to incubate at 11:27am: `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

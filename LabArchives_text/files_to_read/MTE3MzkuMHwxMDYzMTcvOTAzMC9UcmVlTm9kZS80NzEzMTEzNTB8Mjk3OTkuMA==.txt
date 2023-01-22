@@ -1,0 +1,176 @@
+Performed by:
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+112981  
+FS1  
+Feed with 2 g/L glucose & 2 mM ala-gln every 48h from D3 onwards (inclusive of
+D3). Exclusively on D3, Ala-gln will be topped up with 3mM. Main lab, #159
+(top shaking incubator)  
+212982  
+  
+312983  
+412984  
+512985FS2  
+Feed with 3 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+612986  
+712987  
+812988  
+912989FS3  
+Feed with 2 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+1012990  
+1112991  
+1212992  
+1312993FS4  
+Feed with 2 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 4.5 g/L  
+  
+1412994  
+1512995  
+1612996  
+1712997FS5  
+Feed with 4 g/L glucose & add (# of days since last topup/feed) mM ala-gln
+when glucose concentration hits 3 g/L  
+  
+1812998  
+1912999  
+2013000  
+2113001  
+Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and HT)  
+2213002  
+  
+2313003  
+  
+2413004  
+  
+2513005  
+Control2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and without HT)  
+  
+2613006  
+  
+2713007  
+  
+2813008  
+
+
+Counting & sampling process
+  
+  
+  1. Retrieved a random selection of 10 x E125s from the incubator and transferred to BSC
+  2. Transferred 510 uL samples from each flask into ViCell counting cups
+  3. Put aside any cups with samples from flasks #13-20 for glucose testing
+  4. Loaded all other samples into ViCell carousel for counting
+  5. Repeated steps 1-4 twice more with remaining flasks in a batch of 10, then 8
+  6. Kept flasks 1-12 out of incubator for feeding (process outlined in "feeding process" below)
+  7. Tested glucose levels in samples from flasks #13-20 using Accu-Chek Instant S blood glucose meter:
+    1. Insert the metallic end of a test strip into the meter. The meter will turn on. 
+    2. When a flashing drop symbol appeared, took 1 x 5 uL sample from 510 uL aliquot using P20 pipette 
+    3. Ejected drop onto gloved fingertip (to mimic a drop of blood when doing a finger prick test) 
+    4. Touch the yellow edge of the test strip to the drop of media. Remove your finger from the test strip when the flashing hourglass symbol appears. Do not put sample on top of the test strip.
+    5. Copy value into table below
+
+
+Feeding process
+
+  1. For flasks 1-4:
+    1. Added 150 uL (2 g/L) glucose stock solution per flask 
+    2. Added 300 uL (2 mM) ala-gln stock solution per flask
+  2.  ~~For flasks 13-16 recording 4.5 (+/- 0.2) g/L or less:~~
+    1.  ~~Added 3 g/L glucose stock solution (75 uL = 1 g/L)~~
+    2.  ~~For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up.  ~~
+      1.  ~~If 1 day has passed, add 150 uL per flask (1 mM)~~
+      2.  ~~If 2 days have passed, add 300 uL per flask (2 mM)  ~~
+      3.  ~~If 3 days have passed, add 450 uL per flask (3 mM)~~
+      4.  ~~If 4+ days have passed, add 600 uL per flask (4 mM)~~
+  3. For flasks 17-20 recording 3 (+/- 0.2) g/L or less:
+    1. Added 4 g/L glucose stock solution (75 uL = 1 g/L)
+    2. For ala-gln, the volume added will depend on how many days have passed since the last feed or top-up. 
+      1. If 1 day has passed, add 150 uL per flask (1 mM)
+      2. If 2 days have passed, add 300 uL per flask (2 mM) 
+      3. If 3 days have passed, add 450 uL per flask (3 mM)
+      4. If 4+ days have passed, add 600 uL per flask (4 mM)
+  4. Recorded which flasks were fed in table below
+
+
+Results
+Flask #ConditionGlucose reading (mM)Glucose reading (g/L)  
+Notes/observationsg/L glucose added  
+(if none added write N/A)  
+mM ala-gln added  
+(if none added write N/A)  
+  
+13FS4HI>6  
+  
+  
+  
+14FS4  
+33.25.96  
+  
+  
+  
+15FS4  
+HI>6  
+  
+  
+  
+16FS4  
+HI>6  
+  
+  
+  
+17FS5  
+21.03.78  
+  
+  
+  
+18FS5  
+20.73.72  
+  
+  
+  
+19FS5  
+20.83.74  
+  
+  
+  
+20FS5  
+22.64.06Even though this is outside of the feeding range (3 g/L +/- 0.2) I'm
+going to feed it given the reading of the reps in the same condition  
+  
+  
+21CTRL121.53.87  
+  
+  
+  
+4FS1HI>6  
+  
+  
+  
+5FS232.25.79  
+  
+  
+  
+10FS3HI>6  
+  
+  
+  
+28CTRL217.93.22  
+  
+  
+  
+27CTRL2  
+20.03.60  
+  
+  
+
+
+Accu Chek manual

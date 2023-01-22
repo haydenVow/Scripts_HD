@@ -1,0 +1,192 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Brief background
+
+
+The serial passaging and expansion of myogenic stem cells has not been
+demonstrated using Trypsin to harvest cells from Cytodex 1 microcarriers. This
+is essential information for the science and production teams in order to have
+confidence in the use of this method for everyday culture purposes. More data
+is required on harvest process consistency, as efficiencies with the Trypsin
+method have ranged between 20% and 80% recently.
+
+A heterogeneous myogenic stem cell line, DOLLY12, was expanded from E125 to
+E250. The culture conditions were as standard at Vow: fill volume ~25% of
+nominal volume, microcarrier concentration 4.5 mg/mL (or 19.8 cm2/mL or 19,350
+microcarriers/mL), seeding density ~3 cells/microcarrier (~3,000 cells/cm2),
+harvest density ~12 cells/microcarrier (~12,000 cells/cm2).
+
+Cells are detached from the microcarriers by shaking incubation in Trypsin for
+10-15 minutes. Due to the much faster sedimentation rate of the microcarriers,
+they can be allowed to settle while most of the cells remain in the
+supernatant. The supernatant can then be decanted and centrifuged, and a cell
+pellet recovered.
+
+
+Key results
+
+
+Serial culture was difficult because the harvest efficiency was below 50% in
+the cultures tested here. Countable cell numbers enabling harvest efficiency
+calculation were harvested from only 2 flasks, which are presented here.
+
+Flask 6461 was seeded with 0.864 million cells, harvested on day 7 at 5.86
+million cells, and 2.82 million cells were recovered during the harvest (see
+Figures 1(a) and (c)). This equates to a harvest efficiency of 48.1% (see
+Figure 1(d)). Poloxamer 188 solution at 100 g/L was used to wash the
+microcarriers after Trypsinization. It was hypothesized that the Poloxamer
+would coat both the cells and the microcarriers, shielding the electric charge
+attraction between the harvested cells and the microcarriers, thereby
+improving recovery from the microcarriers.
+
+Flask 6646 was seeded with 12.5 million cells, harvested on day 4 at 16.60
+million cells, and 1.76 million cells were recovered during the harvest (see
+Figures 1(b) and (c)) . This equates to a harvest efficiency of 10.6 % (see
+Figure 1(d)). This was despite using Poloxamer 188 solution at 100 g/L to wash
+the microcarriers after Trypsinization. Post-harvest micrographs showed many
+cells with spherical morphology on the surface of the microcarriers (Figure 1
+(e) and (f)).
+
+  
+
+Figure 1: Micrographs of blue fluorescent nuclei on microcarriers, taken
+before harvest using a Basler camera on a Zeiss Axiovert microscope with 5x
+objective, from culture 6461 (a) and 6646 (b). Time series of cell counts from
+seeding to post-harvest (c). Harvest efficiencies calculated from the pre- and
+post-harvest cell counts (d). Micrographs of microcarriers from culture 6646
+taken after harvest, phase contrast (e) and blue fluorescence (f).  
+
+
+
+
+Discussion
+
+
+The harvest efficiency was below 50% in both cases for which pre- and post-
+harvest counts were available (as presented in Figure 1). This was despite the
+use of a 1 g/L or greater Poloxamer 188 concentration, which has been shown to
+coat microcarriers and other surfaces, thereby preventing sticking by charge
+interaction. This was probably due to the cells being attracted to and
+remaining entrained in the microcarrier pellet after sedimentation, as
+inferred from Figures 1 (e) and (f). The spherical, rather than spread or
+elongated, morphology of the cells, even those on the surfaces of the
+microcarriers, implies that physical detachment was mostly or totally
+complete, and that increased Trypsin concentration and/or incubation time
+would not improve the harvest.
+
+Electrostatic attraction is the first and most important force in the initial
+stages of cell adhesion (Khalili and Ahmad, 2015). This electrostatic adhesion
+is governed largely by the opposing forces of electrostatic interaction and
+fluid shear; as shear rate increases, the probability that a particle will
+stick to a surface decreases (Schwarze et al., 2019). Assuming that a cell
+does stick by electrostatic attraction, cells of all types (both animal and
+microbial) will begin to consolidate the adhesion by physical attachment in
+under an hour (Khalili and Ahmad, 2015; Boks et al., 2008). At this point, the
+force required to detach the cell will be much greater than the force required
+to prevent the cell from attaching in the first place. Therefore, in order to
+prevent cells from re-attaching to the microcarriers after the Trypsinization
+process, the electrostatic interaction needs to be eliminated, and/or a
+physical force that can overcome the electrostatic force needs to be provided.
+
+Increased agitation and/or agitation during the aspiration of the detached
+cells, may be required to form and maintain a single cell suspension. Shear
+rates of over 800 s-1 (Boks et al., 2008) or shear stresses of over 1 dyn/cm2
+(Schwarze et al., 2019) appear to prevent attachment of small (~5 micron
+diameter) cells to surfaces such as glass. Agitation that generates these
+shear forces could be adequate for preventing cells from reattaching to the
+microcarriers. However, in order for the microcarriers to settle and the cells
+to be decanted, the agitation would need to stop, so this method is only
+feasible if the cells can be separated by size exclusion or some other
+property, rather than on the basis of differential sedimentation rates.
+
+The modification of the surface charge of the cell membrane is also possible;
+positively charged polymers, poly-cations, and nanoparticles have all been
+used to counteract the negative charge of the cell membrane (Davis et al.,
+2019). Poly-L-lysine (PLL) is a polycation that has successfully been used to
+create a short-term positive charge on the surface of the cell with no
+evidence of lasting detrimental effects to the cell (Ribeiro et al., 2017).
+This method could be useful in differential sedimentation, size exclusion and
+possibly even other cell separation methods.
+
+  
+
+
+Limitations
+
+
+There were several limitations with this experiment:
+
+  * Incomplete data was collected for each of the cultures - micrographs of the Hoechst-stained nuclei on the microcarriers were not taken for all key timepoints (day 1, pre-harvest, post-harvest), which severely limited the number of harvests available for comparison.
+  * The harvests were performed on different days by different operators.
+  * The harvests were performed with different culture volumes and cell densities.
+  * Cell counts were by Trypan blue exclusion method and Neubauer hemocytometer, except for pre-harvest, which was by estimation from average nuclei per microcarrier count. So, the cell counts are not directly comparable but indicative only. Therefore, the calculated harvest efficiencies are also only indicative.
+
+
+Conclusion
+
+
+Serial passaging by Trypsinization and expansion of MuSC cells on Cytodex 1
+microcarriers was not successfully demonstrated. The harvest efficiencies were
+generally so low that the same number or fewer numbers of cells were recovered
+after harvest than were seeded into the culture. Post-harvest micrographs
+suggest that many cells remain entrained in the microcarrier mass such that,
+after sedimentation, a minority of the cells remain in the supernatant. This
+is most likely exacerbated by the strong electrostatic interaction between the
+positively charged microcarriers and the negatively charged cells.
+
+
+Future Direction(s)
+
+
+  * Future harvest improvements will be conducted during the expansion of clones, which are higher priority than the heterogeneous populations of the pre-clone banks.
+  * Increased and/or continuous shear should be tested to counteract the electrostatic attraction between cells and microcarriers, and thereby prevent re-attachment of cells to microcarriers after Trypsinization
+  * Positively-charge polycations such as Poly-L-lysine should be tested to temporarily interrupt the negative charge of the cells, and thereby prevent re-attachment of cells to microcarriers after Trypsinization 
+
+  
+
+
+References
+
+
+Khalili, A. A., & Ahmad, M. R. (2015). A Review of cell adhesion studies for
+biomedical and biological applications. International Journal of Molecular
+Sciences, 16(8), 18149-18184\. https://doi.org/10.3390/ijms160818149
+
+Schwarze, J., Grunze, M., Karahka, M., & Kreuzer, H. J. (2019). Attachment and
+Detachment of Particles from a Surface under Shear Flow. Journal of Physical
+Chemistry C, 123(13), 8153-8159\. https://doi.org/10.1021/acs.jpcc.8b08215
+
+Boks, N. P., Norde, W., van der Mei, H. C., & Busscher, H. J. (2008). Forces
+involved in bacterial adhesion to hydrophilic and hydrophobic surfaces.
+Microbiology, 154(10), 3122-3133\. https://doi.org/10.1099/mic.0.2008/018622-0
+
+Davis, K. A., Wu, P.-J., Cahall, C. F., Li, C., Gottipati, A., & Berron, B. J.
+(2019). Coatings on mammalian cells: interfacing cells with their environment.
+Journal of Biological Engineering, 13(1), 1-28\.
+https://doi.org/10.1186/s13036-018-0131-6
+
+Ribeiro, R. D. C., Pal, D., Jamieson, D., Rankin, K. S., Benning, M.,
+Dalgarno, K. W., & Ferreira, A. M. (2017). Temporary Single-Cell Coating for
+Bioprocessing with a Cationic Polymer. ACS Applied Materials and Interfaces,
+9(15), 12967-12974\. https://doi.org/10.1021/acsami.6b16434
+
+

@@ -1,0 +1,106 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A
+
+
+  
+  
+## Performed by:
+
+
+
+
+Culture IDs to process:
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aspirated supernatant and washed each well 3 times with    uL   PBS.
+  2. Added     uL   Janus Green Stain (0.3% solution in PBS) per well, sufficient to cover the cells/scaffolds.
+  3. Incubated at RT for 5 minutes:  
+  :  \-  :  a/pm  
+  4. Removed dye, wash 5 times with    uL   deionized water each wash or until excess dye is removed (cells will remain light blue due to dye absorption to mitochondria).
+  5. Removed last water wash, add    uL  0.5 M HCl (just enough to cover the cells/scaffolds) and incubate for 10 min.  
+  :  \-  :  a/pm  
+
+  6. Transferred    50uL   of the stained supernatant into the wells of an untreated 96 well plate.  
+Do not use cell culture treated 96 well plate!
+
+  7. Spun down plate in centrifuge for 1 min at 1000 rpm to remove bubbles and droplets
+  8. Read absorbance at 605 nm using the NanoStar plate reader (preset).
+  9. Wrap assay plate in parafilm and store in fridge if needed.
+
+Fridge location
+
+ID  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Janus Green (0.3% in PBS)  
+  
+dPBS (non-sterile)  
+  
+  
+0.5 M HCl (for dye elution)  
+
+
+  
+  
+Observations/Summary:
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+
+
+
+ Data (for further analysis):
+
+

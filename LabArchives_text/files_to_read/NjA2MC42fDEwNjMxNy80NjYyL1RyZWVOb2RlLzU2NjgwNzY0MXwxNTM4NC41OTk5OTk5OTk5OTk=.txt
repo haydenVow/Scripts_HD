@@ -1,0 +1,42 @@
+
+
+## Completed by: AK
+
+
+
+
+In addition to generating a suspension adapted fibroblast cell line, another
+focus during this quarter for project pool party also involves developing a
+pipeline to perform single cell cloning (SCC) of adapted cells. SCC involves
+isolating a single cell of interest to generate a homogenous population
+genetically identical to the parent cell [1]. Previous experiments have
+optimised the SCC pipeline to perform for adherent cultures, leveraging the
+liquid handling Opentrons robots [2]. In order to quantify top performing
+clones, an in-house developed machine learning (ML) model can automatically
+"count" Zaber imaged wells and identify the presence of cells. However this
+model was initially developed for muscle stem cells (MuSC) that grow adhered
+to a plastic culture surface, with a new model being required to identity
+cells grow in suspension culture conditions. This is predominantly due to the
+differences in morphology between suspension and adherent cells, with cells in
+suspension exhibiting a much more circular morphology compared to splayed out
+flat adherent cells. Prior to this it is first necessary to generate data
+approximating cells in suspension to re-train to current ML model to identify
+populations of such cells. In addition an alternative route can involve using
+an image processing software called FIJI, to generate a macro that can
+automatically identify cells as a region of interest and output a total cell
+count from a particular image. Therefore the focus of this experiment will
+involve generating phase contrast images of freshly thawed fibroblast cells in
+suspension in 384-well plates prior to them adhering to the culture-ware
+surface.
+
+  
+
+References:
+
+[1] Longo, P.A., Kavran, J.M., Kim, M.S. and Leahy, D.J., 2014. Single cell
+cloning of a stable mammalian cell line. Methods Enzymol, 536, pp.165-172.
+
+[2] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzY2Ni4wfDEwNjMxNy8yODIwL1RyZWVOb2RlLzIzODA2NDAyMTZ8OTMwNi4w
+
+

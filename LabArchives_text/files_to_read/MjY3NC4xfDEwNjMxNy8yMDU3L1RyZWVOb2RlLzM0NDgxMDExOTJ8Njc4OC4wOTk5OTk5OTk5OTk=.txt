@@ -1,0 +1,220 @@
+Background
+
+
+The intended outcome of this study was to investigate the combination of
+different media supplementations, growth surface coatings and seeding
+environments necessary for the optimal generation of fibroblast ECM scaffold
+sheets. The justification behind using these sheets as scaffolds is because
+fibroblasts synthesise and secrete several components of the ECM, including
+structural proteins such as collagen, adhesive proteins, and space filling
+glycosaminoglycans, which can potentially enhance the adherence of MuSC [1].
+Ultimately the purpose of developing different scaffold materials, including
+these fibroblast ECM sheets, is to evaluate whether sheep MuSC can adhere,
+maintain adherence, and eventually undergo myogenic differentiation on these
+ECM scaffolds. However, it was first necessary to trial a multitude of culture
+conditions to gauge which combination offered the most viable ECM scaffolds.
+
+  
+
+
+Quick summary of main findings
+
+
+1\. Fibroblast cells seeded in a collagen gel matrix resulted in the thickest
+and most viable sheets relative to the other tested conditions based on visual
+inspection and physical preparation.
+
+2\. Overnight drying of the sheets, with the exception of those seeded in
+collagen gel suspension, resulted in significant material shrinking and
+subsequently rendered the samples unsuitable for further use as scaffolds.
+
+3\. Overnight drying of cell sheets from fibroblasts seeded in collagen gels
+resulted in the gel matrix strongly adhering and hardening to the culture
+vessel growth surface. As a result, the collagen gel sheets required a brief
+re-hydration in DMEM growth media prior to lifting, handling and processing
+into multiple scaffold pieces.
+
+4\. All sheets, except for the collagen suspension gels, prematurely peeled
+off from the petri dish culture surface (effect was delayed in gelatin coated
+dishes), after exposure to Vitamin C and TGF-B irrespective of whether samples
+received continuous treatment or 48 hour exposure.
+
+5\.  Fibroblast cells seeded in the collagen gel matrix appeared to reach a
+higher confluence in the continuous Vitamin C and TGF-B treatment group when
+compared to the 48 hour treatment group. However this conclusion can only be
+based on the imaging of the petri dish during the culture period.  
+
+
+Discussion
+
+
+A prominent finding of this study was that fibroblast cells seeded in a
+collagen gel matrix resulted in the most viable sheets, capable of maintaining
+their thickness and integrity following the overnight dry. Obtaining this
+outcome was irrespective of whether the fibroblast cells were continuously
+cultured with Vitamin C and TGF-B supplementation or for a final 48 hours pre
+harvest. Fortunately, given that the fibroblast cells seeded in the collagen
+gel could maintain their thickness and did not exhibit significant following
+the overnight dry ensured these samples could be utilised as scaffolds.
+Consequently, of the 8 conditions tested, the sheets produced by fibroblasts
+seeded in collagen gel suspension were taken forward as potential scaffolds,
+for seeding with MuSCs (see continuation of experiment).
+
+It can be theorized that the improved stability which was seen in the collagen
+seeded samples was likely attributed to the gel matrix used for encapsulation.
+Wherein, the additional presence of collagen, a structural protein, appeared
+to reinforce the integrity of the cell sheets. It could also be assumed, that
+seeing as fibroblasts naturally secrete collagen proteins, that a prolonged
+culture of the fibroblasts would result in a similar effect to collagen
+encapsulation. However, before the the culture time can be extended the
+complications observed with premature cell detachment would first need to be
+overcome, to ensure the cells can continue to deposit more ECM proteins,
+including collagen. Moreover, based on the thickness and poor processability
+of the cell sheets conditions which were not seeded in collagen suspension, it
+can be assumed that a longer culture duration beyond 2 weeks would be required
+to improve cell sheet integrity.
+
+Following the freeze-thaw processed all the cell-sheet samples were left to
+dry overnight at room temperature, in an attempt to make the samples easier to
+handle and process into scaffolds. However, after overnight drying in the BSS
+the majority of the samples (excluding those seeded in the collagen gel) had
+significantly shrunk in size. Multiple replicates of each condition would have
+been required for the subsequent seeding experiment (seeded with MuSCs in the
+DoE pipeline), and thus, due to the shrinking of the sheets there was not
+sufficient material left for the sheets to be used as scaffolds. As previously
+mentioned, the addition of collagen in the cell suspension condition was
+likely the reason for the improved stability seen for these cell sheets, thus
+preventing their shrinkage during the overnight dry. Limiting the drying time
+to a few hours in the future would potentially prevent excessive drying of
+scaffolds and maintain their size and suitability for handling.
+
+A major limitation identified during the process of generating fibroblast ECM
+sheets was that all samples, excluding the collagen suspension gels
+prematurely detached from the growth surface and formed dense tightly packed
+cellular aggregates during cell culture. In this study, fibroblast cells were
+supplemented with Vitamin C and TGF-B, with the premise that the exposure to
+these components would accelerate the process of generating cell sheets.
+However, based on our observations, it appears that the use of Vitamin C and
+TGF-B in this way, may have resulted in premature cell detachment. It was
+observed that conditions treated continuously with the two media additions
+begun to detach from the culture surface within one week, and progressively
+continued to detach throughout the culture period. By day 10 of culture the
+majority of cells, across all the samples had completely detached from the
+petri dish base. Taken together, the premature cell sheet detachment observed
+was likely caused by exposure to Vitamin C and TGF-B. Wherein, Vitamin C has
+been attributed to enhance collagen production and extensive ECM deposition in
+fibroblasts [1], whereas TGF-B has been shown to amplify fibroblast
+proliferation [2]. Thus, the combination of the Vitamin C and TGF-B exposure
+likely resulted in the accumulation of single dense fibroblast/ECM mass which
+could no longer remain adhered to the petri dish base. Furthermore, a similar
+finding was also observed in the conditions treated with Vitamin C and TGF-B
+over a 48-hour period. Hence, the observation of cell detachment in both media
+conditions, indicates that that the Vitamin C and TGF-B treatment cause a loss
+of adherence regardless of the exposure time utilised. Subsequently, the loss
+of fibroblast adherence was detrimental to the generation of cell sheets,
+wherein fibroblasts are known to proliferate more readily in adherent culture.  
+
+Upon researching relevant literature, various timelines were found to have
+been employed for the culture of fibroblast cells sheets, with studies ranging
+from 2 weeks [3] to 6 weeks [4]. In an attempt to minimise our experiment
+length a cell culture duration of 2 weeks was employed in this study. However,
+based on the thickness of the sheets attained during this investigation it
+could be inferred that a longer culture duration may be required to improve
+sheet thickness and subsequent handling. Future iterations of this experiment
+should therefore aim to evaluate the effects of extended culture periods on
+sheet formation. In addition, future experiments should aim to implore the use
+of alternative culture methods to improve sheet thickness without detachment,
+such as the use of mechanical restraints and fixing/re-seeding protocols
+mentioned previously [3]. Furthermore, an interesting observation discovered
+in this investigation was that the fibroblasts which were seeded onto gelatin
+coated petri dishes displayed delayed cell detachment in the continuous
+Vitamin C and TGF-B treatment group, relative to the other conditions
+including uncoated and collagen coated dishes. Consequently, it is plausible
+that the gelatin layer provided an adherent substrate that reduced detachment
+of the fibroblast/ECM mass. This approach of using surface coatings for
+generating cell sheet scaffolds is one which has been widely employed in
+regenerative medicine and cell sheet engineering [5]. In particular the use of
+the polymer poly(N-isopropylacrylamide) (pNIPAM) is typically used as a
+thermoresponsive polymer to support the formation and harvest of fibroblast
+sheets [5]. Subsequently, the use of adhesive polymers or coating represents a
+promising avenue for further exploration in the continuation of this work.
+
+  
+
+  
+
+References:  
+
+[1] Boyera, N., Galey, I. and Bernard, B.A., 1998. Effect of vitamin C and its
+derivatives on collagen synthesis and cross‐linking by normal human
+fibroblasts. International journal of cosmetic science, 20(3), pp.151-158.
+
+[2]  Liu, Y., Li, Y., Li, N., Teng, W., Wang, M., Zhang, Y. and Xiao, Z.,
+2016. TGF-β1 promotes scar fibroblasts proliferation and transdifferentiation
+via up-regulating MicroRNA-21. Scientific reports, 6(1), pp.1-9.
+
+[3] Jakab, K., Marga, F., Kaesser, R., Chuang, T.H., Varadaraju, H.,
+Cassingham, D., Lee, S., Forgacs, A. and Forgacs, G., 2019. Non-medical
+applications of tissue engineering: biofabrication of a leather-like material.
+Materials Today Sustainability, 5, p.100018.
+
+[4]  Xing, Q., Yates, K., Tahtinen, M., Shearier, E., Qian, Z. and Zhao, F.,
+2015. Decellularization of fibroblast cell sheets for natural extracellular
+matrix scaffold preparation. Tissue Engineering Part C: Methods, 21(1),
+pp.77-87.
+
+[5]  Kawecki, M., Kraut, M., Klama-Baryła, A., Łabuś, W., Kitala, D., Nowak,
+M., Glik, J., Sieroń, A.L., Utrata-Wesołek, A., Trzebicka, B. and Dworak, A.,
+2016. Transfer of fibroblast sheets cultured on thermoresponsive dishes with
+membranes. Journal of Materials Science: Materials in Medicine, 27(6),
+pp.1-12.
+
+
+Limitations
+
+
+A major limitation experienced in the current study was the inability to form
+viable fibroblast ECM sheets to serve as scaffolds for majority of the
+conditions tested. This was in part due to the use of Vitamin C and TGF-B to
+accelerate this process, which resulted in premature cell detachment, as well
+as not culturing the fibroblast cells for the appropriate amount of time due
+to work constraints. Furthermore the overnight drying process appears to be
+excessive in the sense that it resulted in mass shrinking and hardening, such
+that the samples could not be lifted from the plate without rehydrating them
+in DMEM media. Finally despite being able to obtain fibroblast sheets from the
+collagen gel suspension condition, these sheets were not homogenous and
+resulted in scaffolds of varying size, shape, thickness. In future work, we
+should investigate a way to control scaffold size, to ensure each replicate we
+seed with MuSC has relatively the same surface area and volume.
+
+
+Future work
+
+
+There are various potential avenues to extent the novel findings of this work:
+
+1\. Test the formation of fibroblast cell sheets during a six week culture
+period in the absence of Vitamin C and TGF-B media supplementation to prevent
+premature cell detachment.
+
+2\. Evaluate the impact of different coating solutions or substrates such as
+higher concentration gelatin coating, plastic substrates, mechanical
+restraints or thermo-responsive polymers on fibroblast sheet formation and/or
+prevention of cell detachment.
+
+
+Conclusion
+
+
+The present work represents the first study at Vow investigating the procedure
+by which fibroblast ECM scaffold sheets can be generated and successively
+decellularised. Despite limitations we were able to successfully harvest two
+fibroblast ECM/collagen sheets for employment as a scaffold material (link to
+next experiment here). In conclusion fibroblast ECM sheets prepared by
+collagen gel suspension presented the most promising scaffolds candidate,
+relative to the other condition tested in this study, based on thickness and
+processability into scaffolds. Future work in this area should focus on
+improving the stability of the cell sheets through the optimisation of the
+culture and harvest techniques utilised.
+
+

@@ -1,0 +1,81 @@
+
+
+PERFORMED BY: AK  
+
+
+Culture details
+Culture ID  
+Vessel type  
+  
+9378-DOLLY12-Sheep P1-1of2  
+9379-DOLLY12-Sheep P1-2of2  
+9380-DOLLY12-Sheep P1-1of2  
+9381-DOLLY12-Sheep P1-2of2  
+9382-DOLLY12-Sheep P1-1of2  
+9383-DOLLY12-Sheep P1-2of2  
+384 ULA well plate
+
+
+Materials
+Description  
+Stockyard ID  
+  
+MilliQ waterS1197  
+  
+Hoechst Trihydrochloride trihydrate  
+M8157  
+  
+Growth Media  
+M9304  
+  
+FGF  
+M9242  
+  
+IGF  
+M8843  
+
+
+Procedure
+  
+  
+  1. Prepared a 50 ug/mL Hoechst solution by combining following ingredients in a sterile amber/light safe falcon tube  
+(volumes are enough for staining 1 x 384 well plate):
+
+    1. 28.5 mL x MilliQ
+    2. 1.5 mL x Hoechst Trihydrochloride trihydrate (1 mg/mL)
+  2. Vortexed Hoechst solution for 5 seconds to mix 
+  3. Syringe filtered solution with a 0.22 um filter unit to sterilise 
+  4. Transferred Hoechst solution to a sterile reservoir unit that is wide enough to fit the Integra automated multichannel pipette 
+  5. Added 11 uL of Hoechst solution to each well for a final Hoechst concentration of 5 ug/mL (this is assuming a 100 uL volume of medium in each well after FACS sorting and medium top-up - adjust as needed for actual well volume)
+  6. Incubated plate at RT in the dark for 30 minutes   12:12 - 12:42
+  7. Performed a 100% medium change to remove Hoechst from cell culture. 
+    * Note: This is an important step, as Hoechst is harmful to cells if left in the medium too long. Please limit Hoechst exposure to a maximum of 2 hours. 
+  8. Zaber imaged plate(s) on DAPI channel (imaged entire wells) 
+  9. Once Zaber images were available on MIA, analysed on retool using "DAPI 384-well cell count" to procure cell count and attached Excel output files below
+
+
+Results
+
+
+MIA image links:
+
+https://mia-capture.vow.tools/#/session/recoSu6EFB9qPkYzQ/images (plate 9383)
+
+https://mia-capture.vow.tools/#/session/recYNcOoVFzrZuUOt/images (plate 9378)
+
+https://mia-capture.vow.tools/#/session/rec2LP0AdDgKfbDQ9/images (plate 9379)
+
+https://mia-capture.vow.tools/#/session/recrJIF6V5obju8OL/images (plate 9380)
+
+https://mia-capture.vow.tools/#/session/recGJWNL6H5CPG266/images (plate 9381)
+
+https://mia-capture.vow.tools/#/session/rec3KhID70zgUh5EK/images (plate 9382)  
+
+
+
+
+Links to excel spreadsheet containing plate maps with cell counts
+
+https://docs.google.com/spreadsheets/d/1ynceA9qeKS3YHa7VJLFoZ5ach0tkui1ErAbCrcfox38/edit#gid=773547450
+
+

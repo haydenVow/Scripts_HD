@@ -1,0 +1,143 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+14474  
+14475  
+14476  
+14477  
+14478  
+  
+3XT175  
+1X2CF  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)Volume used  
+  
+Growth Media: IH PRF DMEM +10%FBS+150ug/L  
+alq12058  
+375mL (seeding)  
+15mL (resuspension)  
+  
+Vit. C  
+mix8259 (100mg/mL)  
+0.0015mL  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  * Growth media (for resuspension from FBS+DMSO):     10mL growth media 
+    * Time that aliquot was placed in the water bath to warm before use:  11:15am
+  * Growth media (for seeding):     375mL growth media +      uL vit.C
+    * Time that aliquot was placed in the water bath to warm before use:   12:38pm
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 5 min  : - : a/pm 
+  2. Location where cryovial was collected from: 
+
+Vial details:   5 x  CHOND_NANDO07 MCB cryovials at   2,000,000 cells each for
+a total of    10,000,000 cells
+
+Brew
+
+Tower/Bucket #6
+
+Box/Cane #6  
+
+Vial location: 1C-5C  
+
+Vial ID(s): 14474-14478  
+
+` `
+
+  1. `Ethanol sprayed & transferred the vial(s) to the BSC.`
+  2. `Added 500 µL of Growth media (to generate a total volume of 1 mL in the cyrovial) to the cyrovial, reuspended the cell suspension gently to reduce osmotic shock. `
+  3. `Collected the entire 1 mL of cell suspension and transfer into the prewarmed tube of growth media. `
+  4. `Complete a cell count from a 10uL aliquot.   
+`
+
+cell count: 13,620,000 cells in 15mL of Growth Media
+
+  *  SA 2CF: 1264cm^2, seed 7500 cells/cm^2 = 9,480,000
+  * Cells leftover: 4,140,000 cells
+  * SA T175: 175cm^2, seed 7885.71 cells/cm^2 into 3x T175 (i.e seed leftover cells (4,140,000) into 3X T175s evenly)
+
+  
+
+  1. `Using a serological pipette, resuspend and distribute the 15mL of cell suspension evenly in the  375 mL of pre-warmed Growth media. `
+  2. `Transfered   30 mL to each  3x  T175, and 1x 2CF flask/well, allow to rest in the BSC at RT for 30 minutes  : - : a/pm ```
+  3. `Transfered flask/plate(s) to incubate at: `
+
+  * [X]  37ºC, 5% CO2 (mammalian cells) - Incubator:           
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures: n/a
+
+  
+
+

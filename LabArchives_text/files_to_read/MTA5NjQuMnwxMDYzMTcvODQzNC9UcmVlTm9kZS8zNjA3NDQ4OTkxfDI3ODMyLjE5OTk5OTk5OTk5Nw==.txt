@@ -1,0 +1,57 @@
+
+
+## Quickly determining whether nylon scaffolds will distort from sterilisation
+and during scaffold cell culture experiments
+
+## Performed by: JesiD, James H, VarshanaB
+
+## Aim:
+
+To determine whether nylon scaffolds will distort or absorb significant
+volumes of fluid, to ensure it is a viable material for use in cell culture
+experiments for the 'mini-tissue' project.
+
+## Hypothesis:
+
+The nylon scaffold will absorb very minimal volumes of fluid and will not
+distort when autoclaved.
+
+## Method:
+
+1\. The nylon scaffold was placed in a bath of 70% ethanol within a 20cm petri
+dish
+
+2\. The edges of the petri dish were wrapped with parafilm and placed in a dry
+location for 24 hours. 13:15 31 May 2022 - 12:30 01 Jun. 2022  
+3\. The scaffold was removed from the EtOH bath and weighed. Then, a dry
+control nylon scaffold was also weighed and the difference was compared.
+
+4\. A dry scaffold was placed in the autoclave to determine whether the high
+pressure and heat sterilisation process distorts the scaffold. 4.30pm 6 Jun.
+2022
+
+Measurement:
+
+  * The ethanol-soaked scaffold was approximately 2grams heavier than the control dry scaffold. 
+  * No size variation following a autoclave sterilisation cycle. 
+
+## Results:
+
+  * The nylon scaffold absorbs minimum volumes of fluid and does not distort when undergoing a sterilisation cycle. 
+
+## Conclusion:
+
+From this experiment we found the nylon scaffold does not distort and does not
+absorb large volumes of fluid. Thus, it is a viable scaffold mould to use in
+cell culture.  
+  
+Moving forward to ensure optimal sterilisation we have implemented a series of
+steps to avoid contamination. This is especially crucial given we cannot
+autoclave petri-dishes spin-coated with PDMS (which is the sealant for the
+scaffold). The sterilisation steps we will be including moving forward:
+
+  * After attaching the scaffold to a petri dish (with PDMS) submerge the scaffold in a bath of 70% EtOH 24hrs before using for an experiment. 
+  * On the day of use: dry the scaffolds (upside down) in a BSC for 1 hour. 
+  * After drying in the BSC, UV irradiate for 1 hour. 
+
+

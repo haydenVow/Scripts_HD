@@ -1,0 +1,333 @@
+
+
+## Completed by: Shaleen and Tim A
+
+
+Aim/Purpose
+
+
+To perform a second round of DSD media ingredients screening 12 media
+components/factors which have previously been associated with maturation in
+literature and internal studies. Specifically, this experiment aims to look at
+the impact of adding these factors to our E6 media after the cells have been
+proliferated in standard growth media. Combinations of these factors at
+various 'levels' will make up 26 different media conditions/formulations.
+
+
+Hypothesis
+
+
+Analysis based on MyoG and/or MF20 expression will identify at least 2
+factors/media formulations that significantly enhance differentiation relative
+to E6 alone.
+
+
+Technical Gap
+
+
+Based on a metabolite study and literature we have identified several
+promising factors, which can be viewed here. However, we have not yet
+investigated the effects of these metabolites in combination with our baseline
+E6 media to improve differentiation and maturation.
+
+
+Method/Procedure
+
+
+Experiment timeline and summary:
+
+Day
+
+Task  
+  
+0
+
+Seed 2x 96wp @ 4,500 cells/well (DOLLY-12)  
+  
+1
+
+100% growth media feed  
+  
+2
+
+50% growth media feed  
+  
+3
+
+Switch to DSD conditions (E6 differentiation media)  
+  
+4-17
+
+100% feed DSD conditions  
+  
+18
+
+Fix in 4% PFA  
+  
+19
+
+Perform automated ELISA on OT2  
+  
+  
+
+Summary:
+
+  1. Order required factors (Rate-determining step!)
+  2. Make up relevant stocks (reconstitute factors) of media components
+  3. Obtain sufficient cells for the experiment from cell expansion.
+  4. Seed cells onto 2 x 96wp in growth medium, proliferate for 2 days.
+  5. Prepare working stocks, controls (positive is E6, reconstitution buffer controls and)
+  6. Run DSD mixing protocol on OT2, create storage plates and run plate randomisation protocol on OT2
+  7. Change cells to diff media (DSD conditions)
+  8. Create conditions again from sterile working stocks on Day 7
+  9. Run diff for 14d, then fix and analyze.
+
+  
+
+
+
+
+Lab days (in person at Vow) - COVID 19 situation
+
+The table below outlines the days in which a OT2 trained primary or secondary
+member must go into the lab to complete a task. This allows the in person days
+for a given member to be mapped out appropriately.
+
+  
+
+Date
+
+Day of Experiment
+
+Tasks  
+  
+TBD
+
+< Day [-2]
+
+  * Check stock of re-constitution buffers, factors and bring in any necessary reagents/consumables for the duration of the DSD
+
+  
+  
+TBD
+
+Day [-2]
+
+  * Seeding of 2 x 96 well plates in Growth Media (can also be done by a non-specialised member)
+
+  
+  
+TBD
+
+Day [0]
+
+  * Making E6 bullet (bulk)
+  * Reconstituting factors (bulk) and making sterile working stocks (bulk).
+  * Running DSD media mixing protocol on OT2
+  * Making controls (sterile and bulk).
+  * Running plate randomisation protocol on OT2
+  * Switch culture media to DSD conditions
+
+  
+  
+TBD
+
+Day [7]
+
+  * Running DSD media mixing protocol on OT2
+  * Running plate randomisation protocol on OT2
+
+  
+  
+TBD
+
+Day [14]
+
+  * Fix plates 
+  * Primary stain
+  * Run ELISA and Janus Green protocol on OT2
+
+
+  
+  
+## Day [-2 to 0]: Seeding and proliferation
+
+Gelatin coating:
+
+  1. Transfer 50 uL of gelatin to each well of two 96-well plates
+  2. Incubate plates for at least 1 hr (37ºC, 5% CO2). 
+
+Passage and seed cells:
+
+  1.  Passage cells from cell expansion and obtain cells in suspension.
+  2.  Calculate amount of suspension required to obtain 540,000 cells in suspension using "Seed Calculator" widget.
+  3.  Obtain 540,000 cells in 17mL of suspension by dilution with growth media.
+  4.  Remove 50uL of gelatin from each well.
+  5.  Seed each well (highlighted in yellow as per Figure 1 below) with 140uL of cell suspension at a density of 4500 cells/well.
+  6.  Leave plate to settle in BSC for 30 mins at RT, before transferring to incubator (37 degrees, 5% CO2).
+
+Proliferation in growth media:
+
+  1.  Day 1: 100% feed with growth media
+  2.  Day 2: 50% feed with growth media.  
+  
+  
+Figure 1: Plate map showing highlighted cells to be seeded at 4,500 cells/well
+(140 uL of cell suspension)  
+
+  
+
+
+
+
+Day [0]: Prepare 20mL 30x E6 bullet
+
+  * Combine the following ingredients in a 20mL syringe with 0.22uM syringe filter to make 15mL of 30X E6 bullet:
+
+  
+
+Ingredient
+
+Amount (uL/mL/mg)  
+  
+DMEM
+
+2.493225 mL  
+  
+F12
+
+2.493225 mL  
+  
+LAA2P
+
+288 uL  
+  
+Sodium Selenium
+
+63 uL  
+  
+Insulin
+
+87.3 uL  
+  
+Sodium bi-carbonate (powder)
+
+244.35 mg  
+  
+Transferrin
+
+48.15 uL  
+  
+Pen/Strep
+
+4.5 mL  
+  
+  
+
+  * Use 6mL of 30X E6 bullet on Day 0 and Day 7 and freeze bullet in-between uses.
+
+  
+
+
+
+
+Day [0]/Day [7]: Creating conditions on OT2
+
+Reconstituting factors (Day 0 only):
+
+  1. Reconstitute factors to make bulk concentrated stocks (<10mL) at the appropriate concentration in 15mL falcon tubes.  See spec sheet for reconstitution instructions for each factor, as reconstitution protocols, reconstitution buffer and storage conditions may differ.
+  2. Prepare sterile reconstitution buffers in bulk (<20mL)
+
+Preparing working stocks (Day 0 only):
+
+  1. Open to the "Factor Calcs" tab of spreadsheet to find uL amounts of DMEM/F12 and concentrated stock needed to create a working stock for each factor.
+  2. Label 12 sterile 50 mL falcon tubes as follows: "[Factor name] - working stock". 
+  3. Add the appropriate amounts of DMEM/F12 and concentrated stock as per spreadsheet and make up bulk amount of working stock (< 10mL per stock)
+  4. Use a syringe filter to sterile filter each condition in BSC.
+
+DSD mixing protocol on OT2 (Day 0 and Day 7):
+
+  1. Add 13.5mL of DMEM/F12 to wells 1 to 5 of a 12 well reservoir.
+  2. Add 7mL 30x E6 bullet to A5 of the stock tube rack.
+  3. Place the tip racks, falcon tube racks and media reservoir in the starting deck state below.
+  4. Immediately prior to running the OT2 mixing protocol, use a multichannel pipette to thoroughly mix the working stocks by pipetting the solutions up and down 5-10 times within their respective wells.  DO NOT MIX THE WORKING STOCKS WITH EACH OTHER.
+  5. Prepare two other tube racks with 15 sterile 15 mL falcon tubes (total 30 tubes) labelled "Condition [1-26]" or "control [1-4]".
+    1. The final layout should resemble the "Layout" tab in the excel spreadsheet.
+  6. Run the following OT2 mixing protocol to make DSD conditions: '2021_07_21_DSD_media_mixing.py'
+
+Controls:
+
+  1. Manually create extra controls: All controls will be ~4.43mL final volume 
+    1. Control 1: E6 media control. Mix 148 uL E6 30X bullet with 4.28 mL DMEM/F12
+    2. Control 2: E6 media control. Mix 148 uL E6 30X bullet with 4.28 mL DMEM/F12
+    3. Control 3 is E6 with % v/v BUFFER 1 reconstitution buffer control. Mix 1.9 uL BUFFER 1 with 148 uL E6 30X bullet with 4.28 mL DMEM/F12
+    4. Control 4 is E6 with 0.01% v/v BUFFER 2 reconstitution buffer control. Mix 0.5 uL 0.5 M BUFFER 2 with 148 uL E6 30X bullet with 4.28 mL DMEM/F12
+  
+
+  2. Place the labelled controls in the leftover slots of tube rack #3 (shown below). They will be re-ordered for the plate randomization step.
+  3. Store these racks in the fridge (4° C).
+
+ *To be updated - when protocol is finalised with new factors*  
+Figure 2: Starting deck state for the DSD mixing protocol.Figure 3: Layout for
+input vessel (tube rack #1, working stocks) and output vessels (Tube racks #2
+and #3). Note that controls must be made up manually. These conditions must be
+re-ordered for the next randomization step, shown below.
+
+
+  
+  
+Day [0] + Day [7]: Plate randomisation on OT2
+
+  1. Set up OT2 as follows:
+    1. Opentrons 96 filter tip rack (1000 uL) on Position 11.
+    2. Working stock racks (with 26 conditions + 4 controls) on Positions 4 and 7, respectively.
+    3. 96 deep well plate labelled 'Block 1' and 'Block 2' in Positions 5 and 8, respectively.
+    4. 12-well reservoir with wells 1-4 filled with 13.5 mL sterile PBS on Position 9
+  2. Run the OT2 protocol for plate randomisation: "2021_07_15_12factor_DSD_Plate _Randomization.json"
+  3. This will create randomised storage plates for daily feeds (Block 1 and Block 2) containing 1.2mL of media per well. Surrounding wells are filled with PBS.
+
+  
+Figure 5: The starting deck state for the DSD plate randomisation. Condition
+Racks 1 and 2 contain conditions previously mixed using the OT.  
+Figure 6: Final deck state after the plate randomisation protocol has been run
+on the OT. The exact positions of each factor are shown on the right. The
+groups of four conditions on the input plates represents one 15mL falcon tube.  
+  
+  
+
+
+
+
+Day [0]: Switch plates to DSD conditions
+
+  1. Warm the storage plates in the incubator for 20 minutes prior to treating the cells.
+  2. Aspirate the growth media using a multi-channel pipette
+  3. Transfer 140 uL from each condition to the corresponding location on the cell plate (i.e. A1 goes into A1 on the cell plate etc).
+  4. Return the cell plates to the incubator and the storage plates to the fridge
+
+
+
+
+Day [1] - [14]: 100% feed with DSD conditions  
+
+  
+
+  1. Run DSD mixing and plate randomisation on Day 7 (see above).
+  2. Warm Block 1 and 2 in the incubator for at least 20 minutes before use.
+  3. Perform the following steps for each column containing cells for both plates, changing tips between columns.
+  4. Using a multi-channel pipette slowly aspirate and discard 140uL of media from a column (starting with Plate 1, Column 2).
+  5. Slowly add 140uL/well warm DSD media from corresponding wells of the Block (i.e. from Storage Plate 1 Column 2 into Plate 1 Column 2 and so on).
+  6. Return plates to incubator at 37 degrees, 5% CO2.
+
+
+
+
+## Day [14]: Termination and staining
+
+  * Fix with 4% PFA
+  * Permeabilize with PBST
+  * Primary stain MyoG and MF20 and incubate stain for one hour
+  * Secondary stain with ELISA protocol on OT2
+  * Run Janus Green protocol on OT2
+
+

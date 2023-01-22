@@ -1,0 +1,67 @@
+
+
+Batch 24 Overview
+
+(CHOMP)
+
+Total Batch Weight: 83.44g
+
+Batch Objectives:
+
+  * Produce as much CHOMP mass as possible and continue to compare 10CS/5CS vs Roller Bottles
+
+### Original Batch 24 Plan:
+
+  * Split the batch into 10CS/5CS and Roller bottles for P3 and produce as much mass as possible whilst testing the 2 flask types
+  * Treat all 10CS/5CS with VitC ONLY (Best known treatment at this point in time, based off DOLLY)
+  * Treat all Roller Bottles with TGFb + VitC
+
+### Notable Events and Revised Batch 24 Plan:
+
+  * CHOMP Fibroblasts were grown in 10% FBS for the first 8 days of P1 before realising they should be grown in 20% FBS at which point a 100% media change was performed and 20% FBS was used for the remainder of the batch
+  * All 10CS in Batch 23 were also treated with VitC ONLY based off our knowledge of DOLLY.
+    * This treatment was found to be the worst performing in CHOMP. Once this was realised (after 2 days of treatment with VitC ONLY) it was decided to change the treatment of Batch 24 10CS/5CS from VitC ONLY to TGFb + VitC which was found to give the best results in Batch 23
+      * Batch 23 details can be found here https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/ODU5LjMwMDAwMDAwMDAwMDF8MTA2NTM2LzY2MS9UcmVlTm9kZS8yNDcwNDg2NTEzfDIxODEuMjk5OTk5OTk5OTk5Nw==
+    * Due to a lack of time and media required, only a 50% media change was performed with switching these flasks from VitC ONLY treatment to VitC + TGFb treatment. Therefore, rather than a complete change, TGFb was gradually stepped in over the course of this batch with every subsequent 50% feed.
+  * The Roller bottle treatment was unchanged as this was already on the optimal treatment identified in Batch 23.
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P192x5CS  
+P264x10CF and 2x5CS  
+P3Various (see below)9x10CS, 2x5CS and 16xR850  
+  
+  
+
+### Batch Results:
+
+  * Main takeaways:
+    * VitC + TGFb is still the best treatment for 10CS/5CS
+      * Even if the cells have been treated with VitC ONLY for up to 2 days, switching this treatment to TGFb + VitC will still result in a great yield similar to that of TGFb + VitC treatment from the start (see CHOMP vs DOLLY comparison below)
+    * Roller bottles are still peeling earlier than expected resulting in a much lower yield than what can be achieved in 10CS/5CS per 1000cm2
+      * Something other than treatment conditions needs to be tried to improve roller bottle yields
+
+  
+* Graph 1 shows the effect of different treatment types on the yield of CHOMP vs DOLLY fibroblasts from 10CS/5CS. This CHOMP data contains both Batch 23 and 24 and will be built upon with each successive Batch. Error bars display SEM  
+* Graph 2 shows the effect different treatment types on the yield of CHOMP vs DOLLY fibroblasts from Roller Bottles. This CHOMP data contains both Batch 23 and 24 and will be built upon with each successive Batch. Error bars display SEM 
+
+Batch 24 Results Summary Table:
+
+  
+
+* Graph 1 shows the average raw pellet weight (g) per flask type. Error bars display SEM  
+* Graph 2 shows the average pellet weight (g) per 1000cm2 in each flask type. Error bars display SEM  
+* Graph 3 shows the days in culture and treatment time of each flask type
+
+  
+
+Achievements:
+
+  * We saved this batch from being in the wrong treatment condition for too long by identifying the problem in batch 23 and rectifying it in batch 24. 
+  * This change resulted in a great yield outcome for the 10CS/5CS
+  * Produced the largest amount of mass from one batch to date!
+
+

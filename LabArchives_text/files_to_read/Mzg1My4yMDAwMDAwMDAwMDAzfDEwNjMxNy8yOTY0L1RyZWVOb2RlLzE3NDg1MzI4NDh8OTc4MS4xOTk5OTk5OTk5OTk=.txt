@@ -1,0 +1,168 @@
+Key findings:
+
+
+  * Of the nine culture conditions tested, only the serum control E125 flask had viable cells remaining following the conclusion of the 30-day culturing period. Cells continued to survive until day 71 in suspension culture.
+  * Addition of methylcellulose appears to have assisted cell survival during the initial transition from adherent to suspension culture. 
+  * Lack of survival and adaption of fibroblast cells in methylcellulose conditions was irrespective of the concentration of methylcellulose utilised.
+  * Macro codes that were developed in FIJI and deployed into MIA were unable to count cells with low fluorescence due to thresholding issues (more details here).
+  * Use of the 50 mL bioreactor spin tubes and Opentrons robots greatly increased the efficiency at which the feed and stain protocol could be performed.
+  * Incubator incident (see here for full details) highlights the need for environmental monitoring, especially for long term critical suspension projects.  
+
+
+Results/Discussion:
+
+
+The intended outcome of this investigation was to evaluate if the addition of
+methylcellulose (MC) was able to encourage fibroblast survival and adaptation
+to suspension culture conditions. Similar to previous experiments (EPIC 21699)
+DOLLY12 fibroblasts were seeded in either 50 mL bioreactor spin tubes or E-125
+flasks at the same seeding density and monitored over a 30-day culture period.
+Throughout this culturing period, small samples of all the cultures were
+intermittently retrieved and stained to evaluate total and dead cell numbers,
+as a means of evaluating culture performance. Macro counts were then performed
+on Zaber images captured from these stained cultures.
+
+
+
+Evident from the first sampling day was that majority of the 50 mL spin tube
+cultures had a relatively high percentage of cells still viable (Figure 1). In
+particular cells belonging to the 0.3% and 0.45% MC treatments (Figure 1, b,
+c) had the largest overall total cell counts, closely followed by the 0.6% and
+1% MC treatment conditions (Figure 1, d, e). Fortunately, the dead cell counts
+appeared minimal compared to the total cell counts on day 2, with none
+reaching beyond 15,000 (Figure 1). Thus, this indicated that a large
+proportion of the cells survived the initial transition from adherent to
+suspension culture. Interestingly when comparing the total and dead cell
+counts of the MC cultures against the serum control (SC) the SC had the lowest
+total count of all the treatments (Figure 1,  f). Therefore, the addition of
+MC in the growth media may have assisted with the initial transition period
+due to its capability in reducing cell clumping and increasing the viscosity
+of the media solution [1]. However, without the incorporation of replicates it
+is difficult to correlate if the addition of MC improves cell viability even
+during the first week. As the culturing process progressed, all of the 50 mL
+tube cultures displayed a downwards trend in which the total cell counts
+drastically dropped between days 2 and 14. The period between days 2 and 4 saw
+a substantial decrease in total cell counts with majority of conditions
+reduced to a third of their total numbers, recorded 2 days prior. Both the
+0.3% and 0.45% MC conditions had the highest overall counts, just below
+100,000 total cells (Figure 1, b, c). Eventually the counts for all the MC and
+SC treatments had either reached 0 or sufficiently close to it such that there
+were no remaining viable cells at the conclusion of the 30-day culturing
+period. In line with this observation was the gradual increase in dead cell
+counts from day 4 onwards. Particularly in the 0.3%, 0.45% and 0.6% MC groups,
+the dead cell counts continued to increase across the remaining culturing
+period post day 4. Similar to the total cell counts the dead cell counts for
+each condition had dropped to zero by day 24, suggesting a lack of cells.
+Indeed, following the conclusion of the experiment, all treatments were
+manually assessed for viable cells using a haemocytometer, with no treatment
+exhibiting cell survival. Therefore, the results concerning the survival and
+adaption of the fibroblast cells in the 50 mL spin tubes was irrespective of
+the MC concentration utilised in the study. Wherein, no concentration of MC
+appeared to offer a superior advantage in the adaption process.
+
+  
+
+  
+
+Figure 1: Total and dead cell counts for 50 mL bioreactor spin tube cultures
+throughout the 30-day culturing period. (a) 0.1% MC treatment condition. (b)
+0.3% MC treatment condition. (c) 0.45% MC treatment condition. (d) 0.6% MC
+treatment condition. (e) 1% MC treatment condition. (f) SC treatment
+condition.  
+
+  
+
+  
+
+In addition to the 50 mL spin tubes 2 MC concentrations and a SC control were
+evaluated in E-125 flasks. From the E-flask cultures only the SC flask
+contained viable cells at day 30 and subsequently remained in suspension
+culture, whilst the remainder were discarded. Unlike the 50 mL tubes the 2 MC
+conditions displayed relatively low total cell counts on day 4 compared to the
+total seeding density (6,000,000 cells) (Figure 2, a, b). By day 16 the 3
+E-flasks had been dramatically reduced in cell numbers (<1500). Whilst the 1%
+MC and SC flasks continued to deteriorate by day 30, the 0.45% began to
+display an upwards increase in cell numbers between days 17 and 28 (Figure 2,
+a). Unfortunately as previously mentioned manual counts of the 2 MC flasks
+revealed a lack of viable cells and were thus discarded. Despite a measured
+total count of 0 on day 28, the day 30 counts of the SC flask revealed that
+there were still viable cells present in the media. This flask remained in
+culture, with all subsequent counts performed by trypan blue exclusion. By day
+50 the flask exceeded a count of 200,000, however reduced to ~35,000 by day
+60. Following the incident in which the incubator that housed this culture
+vessel was accidentally switched off and remained off for a period of 4 days
+(Notion page), ensuing counts highlighted a gradual loss in cell numbers until
+eventually day 71 counts confirmed that no cells had survived.
+
+  
+
+  
+
+Figure 2: Total and dead cell counts for E-125 flask cultures throughout the
+30-day culturing period. (a) 0.45% MC treatment condition. (b) 1% MC treatment
+condition. (c) SC treatment condition.
+
+  
+
+  
+
+References:
+
+[1] Li, X., Ma, R., Gu, Q., Liang, L., Wang, L., Zhang, Y., Wang, X., Liu, X.,
+Li, Z., Fang, J. and Wu, J., 2018. A fully defined static suspension culture
+system for large-scale human embryonic stem cell production. Cell death &
+disease, 9(9), pp.1-9.  
+
+
+Limitations:
+
+
+Due to being unable to sterile filter the laboratory grade MC available in
+house, a food grade alternative was used instead. Unfortunately, the food
+grade version did not have its viscosity grade labeled (i.e., poise- unit of
+viscosity) on any of the packaging. Thus, it possibly did not have the same
+ability in modifying the viscosity of a solution when compared to the
+equivalent offered by Sigma-Aldrich (4000 cP). It could also be likely that
+the addition of this food grade MC may have had a minimal effect in promoting
+fibroblast cell survival by limiting the shear forces experienced by the
+cells. Furthermore, images captured of the cultures containing MC on day 30,
+revealed that the MC eventually precipitates out of the media solution and is
+only visible under a microscope. In addition, it was observed that the total
+cell counts were typically lower than dead cell counts from a majority of
+Zaber images, across all the culture treatments. Ideally as the Hoechst dye
+stains both live and dead cells, the total cell count should be higher or
+equal to the dead cell count. It was later confirmed that the low total cell
+counts were a result of cells with low fluorescence such that majority of the
+cells stained with Hoechst were undetectable using the designed macro codes.
+Finally, it is unclear why the initial cell counts in the E-flask cultures are
+relatively low when compared to the total seeding density. Whilst this may be
+partially attributed to the lack of cell counts from day 2 on these cultures,
+the live/dead staining protocol and use of Opentrons liquid handling robots
+was still being optimised during this time.
+
+
+Conclusion:
+
+
+The current study was the first at Vow that incorporated both 50 mL bioreactor
+spin tubes and the liquid handling Opentrons robots to perform semi-automatic
+feeds and staining of culture samples. Despite being unable to successfully
+adapt a fibroblast cell line to suspension we have made significant strides in
+terms of live/dead staining optimisation, FIJI macro development and fast
+suspension automation. Namely we continue to exploit the automation
+capabilities utilised in this experiment to perform automatic feeds and stains
+and expanding our throughput of up to 30 cultures at a time. Additionally, the
+drawbacks identified in the macro code have enabled the development of newer
+models that incorporate far better adaptive processes to enhance our cell
+count outputs.
+
+
+Future Directions:
+
+
+  * Further evaluation on the effectiveness of the Hoechst 33342 Ready Probe staining procedure due to the lack of fluorescent cells stained with this cell dye. 
+  * Re-perform suspension experiment using laboratory grade MC (4000 cP). The literature from which this experiment was developed from utilised a similar grade MC. Food grade MC is likely much lower than this and as such have a much smaller impact in limiting the shear stress cells experience from the shaker platform. 
+  * It has been investigated in the literature that MC supplementation may be sufficient to enable cell growth in static suspension conditions (see background section of this EPIC). A future avenue for this work could involve a pilot study looking at growth of fibroblast cells in MC supplemented media at static rest. 
+  * Re-design FIJI macro code with adaptive thresholding techniques (i.e. binarization) and fast-Fourier transformation filters 
+
+

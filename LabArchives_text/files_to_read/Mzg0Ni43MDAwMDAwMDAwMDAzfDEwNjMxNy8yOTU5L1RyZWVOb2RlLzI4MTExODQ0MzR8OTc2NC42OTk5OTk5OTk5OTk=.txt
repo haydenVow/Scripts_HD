@@ -1,0 +1,53 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/22603/epic22603-suspension-
+adaptation-8-methylcellulose?cf_workflow=500000005&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recmhJ1ZugccsojVL?blocks=hide
+
+RELATED TO MILESTONE: Generating at least 1 suspension-adapted fibroblast cell
+line which is >95% viable and proliferates for >14 days.  
+
+AIM/PURPOSE: To adapt fibroblasts to suspension culture
+
+HYPOTHESIS: We hypothesise that the addition of methylcellulose will support
+the adaptation of fibroblasts to suspension culture.
+
+RESULTS SUMMARY: See results and data analyses here
+
+Of the 9 culture conditions evaluated in this study, only the serum control
+E125 flask had viable cells remaining following the conclusion of the 30-day
+culturing period, with no significant differences between conditions. Cells in
+this treatment continued to survive to day 71, however displayed limited
+proliferative capacity, and where ultimately discarded.
+
+CONCLUSIONS:
+
+In line with previous suspension attempts the results of this study were
+unsuccessful in adapting fibroblast cells to suspension culture conditions,
+despite the addition of methylcellulose. Despite these unfortunate results,
+this was the first suspension experiment in which the liquid handling
+capabilities of the Opentrons were exploited to completely automate the
+feeding and staining protocol. Additionally, despite the shortcomings in low
+fluorescence we have identified that the Hoechst 3342 Ready Flow cell staining
+dye is superior in regard to cell staining efficiency and florescence output.
+Furthermore, we have continued to identify more sophisticated techniques for
+our FIJI macro.
+
+NEXT STEPS:
+
+\- Further evaluation on the effectiveness of the Hoechst 33342 Ready Probe
+staining procedure.
+
+\- Re-perform suspension experiment using lab grade methylcellulose (4000 cP),
+instead of food grade methylcellulose.
+
+\- Evaluate feasibility of methylcellulose supplementation on cell survival in
+static suspension conditions.
+
+\- Re-design FIJI macro code with adaptive thresholding techniques (i.e.
+binarization) and fast-Fourier transformation filters.
+
+

@@ -1,0 +1,52 @@
+
+
+## Completed by: Ella Hodder  
+
+
+
+
+See more information about the plant protein based scaffolds ''Protinet™-P"
+from DaNaGreen  
+https://www.notion.so/vow/Meeting-with-Jay-Jee-from-
+DaNagreen-63a939d823974fe6a17062287a083bde  
+  
+The scaffolds were dispatched from Seoul on the 12/07/2021 and are currently
+in transit, the samples should arrive within a week or two (ETA 19-30th July).  
+  
+Advice from DaNaGreen:
+
+Please see our numbers. These may need adjustment in your lab condition, but I
+suggest you begin with the following:
+
+  * 0.5 million cells per Protinet-P (10mm-diameter disk). Fewer cells also work, but growth is slower in 3D than 2D, concordance with previous academic reports.  
+  * 35 mm culture dish, 3 ml media, 2-3 Protinet-Ps
+  * Seed cells in a shaking environment to mimic bioreactor usage. 24h is enough for complete cell adhesion. We stop shaking after 24h for convenience since we do not observe non-adherent bovine myoblasts after 24h. If less than 95% of cells(=all living cells) attach to the scaffold in <24h, than there is something wrong with the scaffold. Please let us know if that happens.
+  * We have used 60 rpm with our orbital shaker but it also worked on various other rpms. (It will vary greatly depending on the device) Just keep in mind any RPM that prevents cells to attach to the botton would be OK. 
+
+
+
+Here is the user protocol we have.
+
+  1. Prepare petri dish or non-adhesive treated cultureware (tissue culture-treated dishes also worked, but we prefer bioreactor-like conditions). 
+  2. Wash Protint-P twice with culture media to be used.  
+  3. Add an appropriate number of cells in suspension (trypsinized and trypsin-inactivated in your case) to the media.
+  4. Shake 24h in an orbital shaker or a rocker to ensure all cells have a chance to encounter the scaffold and attach to it.
+  5. Do the typical cell culturing. Keep cells in proliferation media if you want them to divide more in numbers. We typically change to the differentiating media in 2 days post cell seeding. After that, change media every 2-3d. 
+  6. If the media turns yellow in less than 2d of time, reduce initial cell seeding number.
+
+  
+  
+Additional Notes:  
+
+The porosity and pore sizes of these samples are random, but almost 100%
+interconnected, pores are not aligned. Thus samples are not completely
+homogeneous.  
+  
+DaNaGreen have experienced issues with material interference when using
+antibody staining (Pax7) with these scaffolds before. Thus, it is unlikely we
+will be able to use immunofluorescence microscopy as our method for assessing
+differentiation.
+
+  
+
+

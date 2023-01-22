@@ -1,0 +1,241 @@
+
+
+## Performed by: NH, ST, EN  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2 x 6 well plates  
+10170 - PABPC1  
+10171 - PABPC1  
+  
+10269 - 50 mL shaker tube  
+10272 - 24 well plate  
+10213, 10215 - ULA 384 well plates  
+10217 - normal 384 well plate  
+  
+2 x 6 well plates  
+10172 - PTEN  
+10173 - PTEN  
+  
+10270 - 50 mL shaker flask  
+10272 - 24 well plate  
+10208, 10210 - ULA 384 well plates  
+10216 - normal 384 well plate  
+  
+2 x 6 well plates  
+10174 - control mock  
+10175 - control mock  
+  
+10271 - 50 mL shaker flask  
+10272 - 24 well plate  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+m9930  
+  
+KSR  
+s4434  
+  
+IGF-1 - LR3  
+m9190  
+  
+b-FGF  
+m9371  
+  
+DMEM/F12 + 20% FBS + 1% P/Sa9296  
+  
+Tryple  
+  
+dPBS  
+  
+  
+  
+
+
+Procedure
+
+
+Prepare media
+
+Media needed for suspension cultures
+
+  * 10 x 384 well plates (50 uL per well) = 192 mL
+  * 3 x mini bioreactor tubes (5 mL per tube) = 15 mL
+  * 3 x falcon tubes to sort into (1 mL per tube) = 3
+  * Total = 210
+
+1.1 x 210 = 230 mL Hycell Cho media was prepared using the following volumes:
+
+GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)230  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Base mediumNANANA183.08  
+KSRNANANA46  
+FGF0.00010.050.0230.46  
+IGF10.00010.050.0230.46  
+  
+  
+  
+Total medium vol (mL)230.00  
+  
+  
+
+Media needed for adherent culture samples
+
+  * 2 x 384 well plates = 38.4 mL
+  * 5 x falcon tubes to sort into = 5 mL
+  * Total = 43.4 mL
+
+50 mL of DMEM/F12 + 20% FBS + 1 x P/S was alaquoted
+
+
+
+
+Prepare plates/tubes
+
+  1. 10 x 384 well ultra low attachment plates, 2 x 384 well plates with standard tissue culture treating and 8 x 15 mL falcon tubes were obtained 
+  2. 50 uL/well of the relevant growth media was added to each well of the 384 well plates, 1 mL of the relevant media was added to each 15 mL falcon tubes 
+  3. Plates were Parafilmed before closing the lid (sterile-side down, facing wells, as demonstrated in image below) & then lids and plates were parafilmed together (same fashion as is done for fix and stained plates in fridge) for transport to Garvan 1:30 A/PM
+  4. Plates for PTEN were labelled with ID's along the left hand side of the plate containing row letters, PABPC1 plates were labelled with ID's along the right hand side of the plate, at the end of the rows. 
+
+  
+
+
+
+
+Prepare FACS buffer
+
+  1. 20mL of FACS buffer  was prepared (PRF DMEM/F12 + 2% FBS).
+    1. 400uL FBS + 19.6mL PRF DMEM/F12
+  2. FACS buffer was sterile filtered through a 0.2 µm filter.
+  3. Buffer was Stored at 4ºC until needed. 
+
+
+
+
+CULTURE ID/s: 10170, 10171, 10172, 10173, 10174, 10175
+
+1\. Took 2 x images of each vessel with microscope on phase setting (4X to
+assess confluence)
+
+2\. Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   60   mL in  2 x 50 ml  tube
+  2.  dPBS (for neutralising & washing):   120   mL
+  3. Growth medium (for storing cells for sorting):  1  mL/ plate
+
+3\. Time that all aliquots were placed in the water bath the warm before use  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+Removed vessel(s) from the incubator  
+
+4\. Washed the vessel(s) with  dPBS (warmed).
+
+5\. Added   1.5  mL tryple to each well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was    11:40 - 11:48, 11:42 - 11:50, 12:01 - 12:11, 12:05 - 12:13   
+
+6\. Neutralised with  1.5 ml   dPBS and combined cell suspension into   1 x 50
+ml  tube.
+
+7\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was      
+
+8\. Aspirated the supernatant(s).
+
+9\. Resuspended pellet(s) in    mL      medium. If medium is really cloudy/we
+have lots of cells/cells are pelleting themselves by gravity, go with 4 mL. If
+less cells, clearer cell suspension etc., go with 2 mL  
+
+10\. Stored on ice in esky
+
+Once cell pellet was generated after neutralising:
+
+  1. Re-suspended pellet in __ mL Growth Medium (can go up to 4 - 5mL if necessary, just keep in mind Hoechst is 100 X so if cell suspension is 5 mL, add 50 uL of Hoechst in the next step, etc.)
+  2. Placed the FACS tube cell suspension on ice. : 
+
+
+
+
+Prepare 1 styrofoam boxes to transfer to the Garvan
+
+1 Box with:
+
+  * Pre-filled (medium) multi-well plates, parafilmed
+  * An ice pack
+  * Hoechst (ddH20) - vial is located in large new fridge in library lab, top shelf of door in 70 mL urine conatiner 
+  * Extra FACS Buffer
+  * Tube containing cells
+
+
+
+
+GARVAN SORT DETAILS
+
+  1. Hoechst stain was added to each sample (10 uL per mL)
+  2. Cells were incubated at room temp for 10 mins
+  3. Cells were centrifuged (400g, 5 mins)
+  4. The supernatant was removed
+  5. Cells were resuspended in FACS buffer
+  6. Cells were centrifuged again (400g, 5 mins)
+  7. the supernatant was removed
+  8. Cells were resuspended in 500 uL FACS buffer per sample
+  9. Sample was passed through 0.22 um filter lids into sample collection tubes
+  10. IE stain was added to the samples (1 uL per 100 uL)
+  11. Samples were sorted either into single cell cultures in 384 well plates or pooled populations in 15 mL falcon tubes
+
+Notes:
+
+  * Cells were approximately 80% live according to the Hoechst stain
+  * Sorted 2 x ULA 384 well plates per guide (PTEN and PABPC1)
+  * Sorted 1 x regular 384  well plates per guide (PTEN and PABPC1)
+  * Approximately each sample sorted around 90,000 - 100,000 cells
+  * Two samples were combined for both the PTEN and PABPC1 pooled cells for suspension to get approximately 200,000 cells per sample
+
+
+
+
+Upon return from Garvan
+
+  1. Placed 384 well plates directly in incubators 18:47, Incubator #68
+  2. The 15 mL falcon tubes were centrifuged at 300g for 5 mins
+  3. The supernatant was removed from the falcon tubes
+  4. The cell pellets were resuspended in 5 mL Hycell Cho media and placed into mini bio reactor tubes or resuspended in ~~3~~ 0.5 mL DMEM/F12 media and placed into ~~6~~ 24-well tissue culture plates. 19:04, incubator #86
+  5. Tubes were placed into a shaking incubator to be adapted to suspension 19:07, incuabtor #119 (main lab), 206 RPM
+    1. Note - event count for suspension cultures is written on tube. Event count for each well of 24-WP is as below:
+      1. Control 1: 78,081
+      2. Control 2: 74,793
+      3. Control 3: 119,394
+      4. PABPC1: 121,494
+      5. PTEN: 95,291
+
+

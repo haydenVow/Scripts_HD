@@ -1,0 +1,191 @@
+
+
+## Performed by: VP, JH, AV
+
+
+
+
+Prepare reagents:
+
+  1. prepare 'serum free media' 
+    * 100 mL 50% (v/v) DMEM; 
+    * 100 mL 50% (v/v) F/12; 
+    * (should be topped up with 50mL FBS - make without and indicate that FBS needs to be added before use on label)
+    * filter-sterilise 0.22µm
+  2. prepare saline solution (for reconstitution of fibrinogen)
+    * 90mg/10mL dH2O (or 900mg in 100mL if this is too small to weigh out)
+  3. reconstitute fibrinogen (5g stock) according to manufacturer's instruction:
+    * reconstitute in saline solution (0.9% NaCl) heated to 37°C
+    * 20mg/mL stock concentration
+      * weighed out fibrinogen: 212mg
+      * made up to correct concentration (20mg/mL) filter-sterilised MilliQ-water -> measured out 10.6mL filter-sterilised MilliQ water into specimen jar
+      * placed fibrinogen dessicate on top of water and allowed to dissolve into the water at room temperature
+      * gently swirled occassionally
+      * chilled at 4°C  
+
+  4. reconstitute thrombin (1000U stock) according to manufacturer's instruction:
+    * reconstituted entire amount (9.9mg) in chilled water
+      * 125µL total filter-sterilised MilliQ water to reconstitute entire amount
+      * 1000U/125uL = 8U/uL (0.0792mg/uL)
+  5. prepare 3.3% (w/v) alginate 
+    * 330mg in 10mL dH2O
+    * microwave (or hot plate)
+    * cool to 4°C
+  6. prepare 60mL 200mM CaCl2 
+    * 1332mg dissolved in 60mL SFM
+    * filter-sterilise 0.22µm 
+  7. prepare 1.5% (w/v) agarose in DMEM solution
+    * 1.5g agarose in DMEM
+    * heat to boiling point and agarose dissolved
+
+
+
+
+Media/reagents prepared:
+
+  
+
+NameReagent ID (Stockyard)  
+20% FBS DF12 Growth MediumM9859  
+  
+0.9% saline solutionM9861  
+  
+1.5% agarose in DMEM solutionM9862  
+  
+8U/ul, 0.0792mg/uL thrombin (100uL per aliquot)M9953  
+  
+20mg/mL fibrinogen (200uL per aliquot)M9954  
+  
+  
+  
+
+  
+
+
+
+
+  
+
+Process  
+
+  1. Prepare 24 well plate as per table below (x4 replicates of each condition are plated in each column moving down the plate):
+
+  
+1 (Condition A)2 (Condition B)3 (Condition C)4 (Condition D)5 (Condition E)6  
+A  
+  
+  
+  
+  
+  
+  
+B  
+  
+  
+  
+  
+  
+  
+C  
+  
+  
+  
+  
+  
+  
+D  
+  
+  
+  
+  
+  
+  
+  
+3\. Add 2mL serum-free media per well to columns 1 (Condition A) and 2
+(Condition B)
+
+4\. Add 2mL serum-free CaCl media to columns 3-5 (Conditions C/D/E)
+
+5\. To each well, add 3uL thrombin (final concentration: 12U/mL)
+
+Thaw CHOMP cells as per entry here. Cell count for vial: 9.3x10^6 (labelled as
+15x10^6)
+
+6\. Label eppendorf tubes A-E
+
+7\. As per table below, add to eppendorf tubes in the following order: media,
+cell suspension, alginate solution, fibrinogen. Draw up alginate in syringe
+and then afix needle. Dispense using syringe/needle combination, using
+graduations on syringe to measure. Mix gently (stir with pipette tip end) and
+allow bubbles to dissipate. Prepared a single condition at a time until
+completion and plating before preparing the following condition
+
+Eppendorf LabelSF-Media (uL)Alginate (uL)Cell suspension 1x106/mL
+(uL)Fibrinogen  
+  
+A3000200500  
+  
+B4000100500  
+  
+C0100200500  
+  
+D300100100500  
+  
+E7001002000  
+  
+ ~~F~~ ~~1000~~ ~~0~~ ~~200~~ ~~0~~  
+  
+  
+  
+  
+  
+  
+  
+  
+8\. Remove plunger from syringe with needle. Used 20 guage needle. Add
+suspension to plunger and then replaced plunger. Carefully dispense drop-wise
+suspension to wells containing media below. Disperse drops evenly between
+wells. NOTE: this is finicky.
+
+9\. Incubate in hood at room temperature for 15 minutes
+
+10\. Seed remaining CHOMP cells into T75 flask at 7500 cells/cm2 in 20% FBS
+DF12 and return to incubation
+
+11\. Aspirate media from wells using a syringe and needle and discard. Replace
+with new 20% FBS-containing growth media, incubate at 30°C
+
+  
+
+Stored in Thermo incubator #82, main lab, 30°C static
+
+Plate IDs:
+
+24-well plate: 10165  
+
+T75 flask: 10164
+
+
+
+
+Observations:
+
+  * in fibrinogen/thrombin containing wells, reaction proceeded very quickly and media began to cross-link in addition to micromass 'beads' containing cells. Was able to be pipetted off, but future experiment runs should reduce incubation time following dropping cells into media
+  * beads containing cells were very large. Perhaps best to use a smaller gauge needle for future iterations
+
+
+
+
+Related Images
+
+24 well-plate: https://ranger.vow.tools/#/session/recfzVAcAgfyXMrV7/images  
+T75 flask: https://ranger.vow.tools/#/session/recBb5G3J3w0uQBHA/images
+
+
+
+
+SOPs used:
+
+Encapsulation protocol (written by James Henstock, see attached)
+
+

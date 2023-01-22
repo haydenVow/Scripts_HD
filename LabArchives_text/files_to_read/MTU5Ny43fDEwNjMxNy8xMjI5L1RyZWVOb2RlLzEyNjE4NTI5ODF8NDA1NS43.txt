@@ -1,0 +1,205 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded conditionSeeded flask ID  
+T175s  
+6799-DOLLY12-Sheep P9-3of8  
+6800-DOLLY12-Sheep P9-4of8  
+6801-DOLLY12-Sheep P9-5of8  
+6802-DOLLY12-Sheep P9-6of8  
+6803-DOLLY12-Sheep P9-7of8  
+6804-DOLLY12-Sheep P9-8of8  
+Serum control  
+DMEM/F12 + 20% FBS + 1X P/S  
+6832-F_DOLLY12-Sheep P10-1of1  
+  
+"  
+"  
+1:100 Anti-clumping agent  
+6833-F_DOLLY12-Sheep P10-1of1  
+  
+"  
+"  
+1:500 Anti-clumping agent  
+6834-F_DOLLY12-Sheep P10-1of1  
+  
+"  
+"  
+1:100 RevitaCell  
+6835-F_DOLLY12-Sheep P10-1of1  
+  
+"  
+"  
+T175 1of2  
+6836-F_DOLLY12-Sheep P10-1of2  
+  
+"  
+"  
+T175 2of2  
+6837-F_DOLLY12-Sheep P10-2of2  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 1:100 Anti-clumping agent
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 1:500 Anti-clumping agent
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 1:100 RevitaCell
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 1% Methylcellulose Note* after reconstitution and mixing for 1 hour, solution was not able to go through a 0.2um filter unit
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 0.5% Methylcellulose Note* after reconstitution and mixing for 1 hour, solution was not able to go through a 0.2um filter unit
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     60    mL in     1    tubes
+  2.  dPBS (for washing and neutralising):      60   mL in   2 (30mL each)     tubes
+  3. Growth media (for pellet resuspension):     5    mL in      1   tubes
+  4. Growth media (for seeding):    10mL per condition     mL in    6  tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+3:52 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   16:10 pm
+
+5\. Washed the vessel(s) with dPBS (warmed). (10mL/flask)
+
+6\. Added    10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   16:14 - 16:26  pm 
+
+7\. Neutralised with   10mL/flask   dPBS and combined cell suspension into a
+3 x 50mL  tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   16:35 - 16:40  pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    5   mL    Growth    media     :   a/pm
+
+11\. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+Diluted 1:5 with 40uL trypan blue.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:      37M       
+
+  2. Volume of cell suspension required for subculture was:       1.2mL each     
+
+  3. Cell density per vessel:     8.5M cells / vessel  (10mL total)       
+
+
+
+
+1.2mL x 4 aliquots made and centrifuged at 650 x g for 5 min at RT 5:20-5:22pm
+
+Aspirated supernatant from each pellet
+
+Resuspended each pellet in respective pre-warmed growth media and transferred
+into the 50mL vented-cap tube.
+
+Transferred the 50mL shake tubes to shake at 206 RPM at 37C, 5% CO2. 17:32 pm
+
+14\. Transferred remaining cell suspension into the   60mL of warm growth
+media into 2 x T175 flasks     vessel. 17:40 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 4949  
+  
+dPBS (for washing & neutralising)Not recorded  
+  
+Growth MediaM 4951  
+  
+Growth Media + 1:100 ACA  
+M 5023  
+  
+Growth Media + 1:500 ACA  
+M 5024  
+  
+Growth Media + 1:100 RevitaCell  
+M 5028  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- 4 x 50mL shake tubes seeded with 8.5M cells each (DOLLY12 fibroblasts) in
+various media compositions with Anti-clumping agent (1:100 and 1:500) and
+RevitaCell (1:100)
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [x ]  Need to be further analysed as this is the first time 50mL shake tubes have been used for suspension culture of fibroblasts at Vow
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

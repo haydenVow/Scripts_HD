@@ -1,0 +1,32 @@
+Raw data:
+Summary:
+
+
+
+
+
+Obtaining a concentrated lysate:
+
+  * 500uL of PBS per well was used in the quantification of non-differentiated myoblasts - unfortunately the lysate showed up below the LOD.
+  * In light of this, 200uL per well was used for mature myoblasts and is a good volume of PBS to use for the freeze thaw cycle to obtain a concentrated lysate. This showed up in the mid-range (~ 0.47 abs units) of the standard curve.
+
+Standard curve:
+
+  * Due to operator mistake, the 250 ug/mL dilution was missed and strangely an unusually high absorbance value was seen for the 1000 ug/mL dilution (1.2 abs units)
+  * Hence, the standard curve from the first iteration (https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDg4MC4yfDEwNjMxNy8zNzU0L1RyZWVOb2RlLzI4NTY5Nzk4ODd8MTIzODguMTk5OTk5OTk5OTk5) was used as it closely resembles the abs units from this run.
+
+Total protein content in the lysate = 1.0236 mg
+
+Total protein content per well = 0.1706 mg
+
+
+Future directions:
+
+
+  * Adjust future experiments and plate map to perform standards and samples in triplicate
+  * Modify Python script accordingly.
+  * Test out increasing ratios of sample : CBB for analysing smaller protein containing samples such as undifferentiated myoblasts.
+  * Use microcentrifuge in all future Bradford experiments.
+  * Test whether Zein material is detected by CBB (towards scaffold analysis).
+
+

@@ -1,0 +1,108 @@
+
+
+Key Findings:
+
+  1. Fibroblasts were not successfully adapted to suspension culture in the trialled media and conditions
+  2. The planar-expanded control culture (D/F+10%FBS+1xP/S) was the only condition which supported extended cell survival in suspension culture (>36 days)
+  3. 100% feeds help to reduce debris in suspension cultures, thereby improving the accuracy of cell counts 
+
+
+
+
+Discussion
+
+In this experiment, two different methods of seeding cells into suspension
+were trialled. In the first attempt, one million F_NANDO3 (chicken)
+fibroblasts were thawed directly into suspension culture (E-125) in
+DMEM+10%FBS. The method used for this thaw was one first trialled at Vow in
+2019 (REC-RND-01 Suspension Experiment 2). As expected during suspension
+adaptation, cell numbers fell from 1,000,000 to 94,000 between day 1 and day 8
+(Figure 1, "NANDO direct thaw"). This was followed by a brief period of
+proliferation, before cell numbers began declining again from day 14 onwards
+(Figure 1, "NANDO direct thaw"). This thaw method was repeated later in the
+experiment in an attempt to replicate and possibly extend the initial cell
+growth, however no proliferation was seen in these cultures (Figure 1, "DOLLY
+direct thaw" and "NANDO direct thaw 2.0").
+
+The second method trialled involved expanding cells first in planar culture
+before seeding them into suspension. After 12 days of proliferation in planar
+culture, F_NANDO3 were seeded into suspension culture in 2 x 50 mL shake
+tubes. The first shake tube culture was treated with
+DMEM/F12+5%FBS+1xP/S+1:100 ACA, as this was the best performing condition from
+Trial 4 (Suspension trial 4 report). Unfortunately, this culture was discarded
+shortly after seeding as it appeared that the pellet was aspirated during an
+early feed, before any counts were taken. The control culture maintained a low
+number of viable cells until Day 49 (Figure 1. "NANDO planar expanded"), when
+it was discarded after determining that no live cells remained.
+
+Figure 1. Proportion of cells remaining alive out of total cells seeded from
+Day 0 to Day 49
+
+Given the lack of replicates, we cannot take any statistically significantly
+data from this trial. However, we were able to improve our suspension
+adaptation pipeline through a few key learnings. Firstly, high levels of
+debris in the cell suspension after 50% medium changes made it difficult to
+achieve accurate cell counts. In response, we switched to 100% medium changes
+from day 4 onwards, resulting in clearer cell suspensions and more accurate
+cell counts. Excessive cell debris is also a key reason for cells forming
+clumps in suspension; the sticky nature of DNA released through cell lysis
+causes cells and other debris to aggregate into large clumps (Sigma, ND).
+There is no evidence that performing 100% feeds in serum-containing cultures
+is harmful to the cells, so based on our observed improvements I propose we
+continue with 100% feeds for future suspension trials.
+
+Secondly, these cultures were key in improving our cell counting method. The
+cells appeared to undergo morphological changes when moved from adherent to
+suspension culture, which made distinguishing between live and dead cells
+impossible based on trypan blue staining. This observation was an important
+step to the optimisation of our current counting procedure, using Hoechst and
+Sytox Green to generate a live/dead cell count.
+
+Finally, we observed a significant amount of cell clumping in all cultures. As
+stated before, cell debris plays a key role in cells forming aggregates.
+However, this is also likely due to the presence of calcium and magnesium
+ions, which both promote cell adhesion, in our DMEM/F12 basal medium (Cui et
+al. 2016). Moving away from a medium with calcium or magnesium ions will be
+beneficial for future suspension adaptation work.
+
+
+
+
+Limitations
+
+  1. This experiment was ongoing while we were determining how best to count our suspension cells. We had a lot of unsuccessful attempts at creating a counting method throughout this process. Therefore, we are missing a number of data points for this experiment, where the chosen counting approach did not produce reliable/readable data. 
+  2. We did not have replicates for many of the cultures, so statistically significant data could not be attained
+
+
+
+
+Conclusion
+
+Fibroblasts were not successfully adapted to suspension by means of either
+direct thaw into suspension or seeding from planar culture.
+
+
+
+
+Future directions
+
+  1. For future trials, focus on Ca2+ and Mg2+-free basal media to reduce cell aggregation  
+  2. Perform 100% feeds instead of 50% feeds to reduce levels of cell debris, thereby enabling more accurate counts and further reducing the incidence of cell clumping 
+  3. Add replicates for conditions to gain statistically significant data  
+
+
+
+
+References
+
+Sigma Aldrich, ND. Cell Clumping Troubleshooting.
+https://www.sigmaaldrich.com/AU/en/technical-documents/technical-article/cell-
+culture-and-cell-culture-analysis/mammalian-cell-culture/cell-clumping-
+troubleshooting
+
+Cui, L., Kinnunen, T., Boltze, J., Nystedt, J. & Jolkkonen, J. 2016. Clumping
+and Viability of Bone Marrow Derived Mesenchymal Stromal Cells under Different
+Preparation Procedures: A Flow Cytometry-Based In Vitro Study.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4789023/
+
+

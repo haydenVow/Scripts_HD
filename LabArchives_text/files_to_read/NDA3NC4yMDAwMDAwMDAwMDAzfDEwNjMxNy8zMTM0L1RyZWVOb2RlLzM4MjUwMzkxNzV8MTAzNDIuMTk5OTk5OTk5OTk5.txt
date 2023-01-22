@@ -1,0 +1,89 @@
+
+
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+1\. To enrich the fibroblast portion of our F_NANDO3 cells by expanding the
+plastic adherent component of our raw isolate.
+
+2\. To expand these cells to a master cell bank followed by a WCB
+
+
+Hypothesis
+
+
+1\. Continuous culture of our plastic adherent F_NANDO3  cells will allows us
+to bank >1m million cells as a MCB followed by an expansion to >20M cells for
+WCB.
+
+  
+
+
+Technical Gap
+
+
+1\. F_NANDO3  is a chicken biopsy recently isolated by Vow. As these cells
+have yet to be expanded to MCB, we have no prior indication of the health and
+proliferative capacity of these cells.
+
+2\. As we are working with raw isolate, the plastic adherent cell population
+is also likely to be a non-homogenous, mixed-cell population, and is unlikely
+to be comprised solely of fibroblasts.
+
+  
+
+
+Method/Procedure
+
+
+Experimental Plan Raw Isolate to MCB  
+  
+1\. Thaw raw isolate of NANDO03  
+
+  * Warm an aliquot of DMEM/F12 + 10% FBS + 1x PS (growth media). 
+  * 1 x vial of frozen cell isolate from F_NANDO3  will be thawed and plated into 1x 6 well plate. Non-coated plates will be used to aid preferential selection of fibroblasts. Incubate at 37 degrees C and 5% CO2.
+  * 4 hours after seeding, the seeding media containing unattached cells will be removed, and replaced with fresh growth media. 
+
+2\. Monitor/ feed plastic adherent NANDO3 ells
+
+  * Perform daily imaging of the plate & write observations regarding cell proliferation and morphology.
+  * Perform a 50% feed with  DMEM/F12 + 10% FBS + 1x PS approximately every 72 hours. 
+
+3\. Expansion passages
+
+  * When cells appear 80-90% confluent, passage following SOP_Passaging Adherent Cells V_04 using non-coated culture vessels.
+  * Cells should be seeded back into plates at approximately 7500 cells/cm2.
+
+4\. Passage and seed cells for immunostaining + Bank master cell bank of
+plastic adherent KOZCO20 cells.
+
+  * When cell numbers are sufficient to be 90% confluent across approximately 4x T175 flasks (700cm/2), bank cells as a MCB following Banking-Template_V2 .
+
+Experimental Plan MCB to WCB  
+  
+
+1\. Thaw F_NANDO03 MCB  
+
+  * Warm an aliquot of DMEM/F12 + 10% FBS + 1x PS (growth media). 
+  * 1 x vial of frozen F_NANDO3  MCB will be thawed and plated into 1x 6 well plate. Incubate at 37 degrees C and 5% CO2.
+
+2\. Monitor/ feed plastic adherent F_NANDO3 ells
+
+  * Perform a 50% feed with  DMEM/F12 + 10% FBS + 1x PS approximately every 72 hours. Image flasks on feed days
+
+3\. Expansion passages
+
+  * When cells appear 80-90% confluent, passage following SOP_Passaging Adherent Cells V_04 using non-coated culture vessels.
+  * Cells should be seeded back into plates at approximately 7500 cells/cm2.
+
+4\. Passage and seed cells for immunostaining + Bank master cell bank of
+F_NANDO3 cells.
+
+  * When cell numbers are sufficient to be 90% confluent across a 10CF, bank cells as a WCB following Banking-Template_V2 .
+
+  
+
+

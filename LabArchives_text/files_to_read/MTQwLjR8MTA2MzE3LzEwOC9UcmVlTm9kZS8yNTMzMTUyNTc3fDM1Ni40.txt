@@ -1,0 +1,134 @@
+
+
+  
+
+  
+
+Perform following process using above volumes:
+
+  
+
+  
+
+Passage Culture ID(s):
+
+Vial ID ThawedSeeded Flask ID(s)Seeded Flask Type  
+2131-Culture-5896-Vial-1of276304-DOLLY12-Sheep P6-1of4  
+6305-DOLLY12-Sheep P6-2of4T175  
+2134-Culture-5896-Vial-2of276306-DOLLY12-Sheep P6-3of4  
+6307-DOLLY12-Sheep P6-4of4T175  
+  
+  
+
+Growth Media:  
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+  
+
+  
+
+Process:
+
+1\. Gelatin coated  2  x  T175  flasks with sterile filtered 0.1% gelatin
+solution and then incubated all coated flasks at 37ºC
+
+  1. Time when all flasks placed into the incubator14:21
+  2.  Due to requiring a total of 4 gelatin flasks another 2 T175 flasks were gelatin coated 14:46
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. Growth media (for seeding):   120 mL in  2x 70 mL  pots
+  2. Time that aliquot was placed in the water bath to warm before use:  14:52
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  15:41 - 15:46
+
+Location where cryovial was collected from:
+
+`Brew Tower/Bucket # 3 `
+
+`Box/Cane # 2 `
+
+`Vial location: F1 `
+
+`Vial ID(s): 2131-Culture-5896-Vial-1of27`
+
+  
+
+`Brew Tower/Bucket # 3 `
+
+`Box/Cane # 2 `
+
+`Vial location: F2 `
+
+`Vial ID(s): 2134-Culture-5896-Vial-2of27`
+
+  
+
+4\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+5\. Added  500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock.
+
+6\. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media.
+
+7\. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  120 mL of pre-warmed Growth Media (prepared in Step 2).
+
+8\. Transfered  30 mL to each pre-coated  T175  flask, allow to rest in the
+BSC at RT for 30 min  16:00 - 16:30
+
+9\. Transfered flask/plate(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+### SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed 2 DOLLY12 clones (11E7) into 4 T175 flasks.
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+0.1% Gelatin SolutionM3843  
+Growth MediaM4119  
+P38i (20 mM stock)A3978, A2697  
+  
+###  
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+### Relevant Images/Figures:
+
+N/A
+
+

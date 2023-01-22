@@ -1,0 +1,255 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie Tangey  
+
+
+
+
+Note
+
+Isolate thawed on 06/07/22 has not adhered to vessels and has apparently not
+survived the freeze/thaw process. For this reason, cell banks will be used
+instead of isolate.
+
+
+
+
+Culture IDs
+
+IDs ThawedLine
+
+No. cells (M)
+
+MCB/WCBDewarTower
+
+Box
+
+Position
+
+MediaNo. flasks Seeded Flask ID(s)Seeded Flask Type  
+14535, 14536, 14537
+
+BOBBO
+
+10.5
+
+WCB
+
+Homer
+
+3
+
+7
+
+I1, I2, I3
+
+OptiPRO +4mM Glutamax
+
+2
+
+12830, 12831
+
+T175s  
+  
+14923, 14924, 24925, 14926
+
+DUCKEYE
+
+11.6
+
+MCB
+
+Homer
+
+3
+
+4
+
+A6-A9
+
+1
+
+12833  
+14837,14839, 14840
+
+MUSCO
+
+15
+
+Maggie
+
+1
+
+7
+
+1-3
+
+2
+
+12839, 12840  
+14794,14795,14796,14798,14799,14800
+
+KHAKIO
+
+12
+
+Maggie
+
+1
+
+1+2
+
+1-5, 1
+
+2
+
+12837, 12838  
+14866,14867,14868,14869
+
+HORNO
+
+10
+
+Homer
+
+3
+
+4
+
+G5-G8
+
+2
+
+12841, 12842  
+14849, 14850, 14851
+
+KINGO
+
+7.2
+
+Homer
+
+3
+
+4
+
+I5-I7
+
+1
+
+12843  
+14886, 14887, 14888
+
+JUMBO
+
+15
+
+Homer
+
+3
+
+4
+
+E4- E6
+
+2
+
+12845, 12844  
+14898,14899,14900, 14901
+
+SILKIEK
+
+8
+
+Homer
+
+3
+
+4
+
+C9-D3
+
+DMEM/F12 + 10% KSR
+
+1
+
+12846  
+  
+  
+
+
+
+
+MEDIA
+
+  * OptiPRO + 4mM Glutamax
+  * DMEM/F12 + 10% KSR  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 + 10% KSR  
+ M 12834  
+  
+OptiPRO + 4mM Glutamax  
+ M 12822  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  * Growth media: Prefilled a urine jar with either 30mL or 60mL of respective medias and allowed to warm to room temperature (not 37C to reduce temp shock), 30min prior to use.
+
+
+
+
+## Thaw and seed
+
+  1. Collected the cryovials from Liquid Nitrogen storage (as per table above) & placed in the water bath for 1-2 min, then placed in the BSC for a further 3 min to thaw (slow thaw to reduce shock and aid cell viability)
+  2. `Ethanol sprayed & transferred the vial(s) to the BSC.`
+  3. `Added  500ul of Growth Media (to generate a total volume of 1.5mL in the cryovial) to the cryovial, re suspended the cell suspension gently to reduce osmotic shock. `
+  4. `Collected the entire cell suspension & transfer into urine jars containing pre-warmed media (KSR media for SILKIE, OPTIPRO for all others)`
+  5. `Centrifuge for 5min at 500g`
+  6. `Removed 9mL supernatant and re-suspended cells in the remaining 1mL`
+  7. `Transferred cells into flasks (30mL/flask)`
+  8. `Transferred flask/plate(s) to incubate at ```37ºC, 5% CO2, Incubator #77 Library lab. 
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+
+
+
+Relevant Images/Figures: N/A  
+
+  
+
+

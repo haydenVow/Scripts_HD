@@ -1,0 +1,195 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+  
+### 2 x wells 24 well plate
+
+  
+
+### 6469-E_DOLLY15-Sheep P1-1of1
+
+  
+1 x well 6 well plate6474-E_DOLLY15-Sheep P2 1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ x ]  DMEM/F12 + 20% FBS + 1X P/S + Growth factors (endothelial cell media)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    1      x    6 well plate      vessel with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       9:25   am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    1     mL in     1    tubes
+  2.  dPBS (for washing and neutralising):     5    mL in    1    tube
+  3. Growth media (for seeding):     5    mL in    1     tubes
+
+Time that all aliquots were placed in the water bath the warm before use
+9:38 am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     9:40   am
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     0.2    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     9:42am 
+
+7\. Neutralised with    0.3mL      dPBS and combined cell suspension into a
+15mL    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     10:00-10:05   am 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     0.5    mL    endothelial growth      media
+10:06   am
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total cell number was:     40,000 cells        
+
+  2. Volume of cell suspension required for subculture was:     entire      
+
+
+
+
+13\. Transferred      entire     µl of cell suspension to the pre-warmed
+2.5     mL Growth media:      10:10    am
+
+14\. Transferred cell suspension into the pre-gelatin coated      1 well of a
+6 well plate      vessel.
+
+15\. Transferred vessel(s) to incubate at: 10:15am
+
+  * [ x ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionm4319  
+  
+Tryplem4308  
+  
+dPBS (for washing & neutralising)m4381  
+  
+Growth Mediam4396  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Based on observations, it is hard to say if there are live cells in this
+sample - going to leave with media & monitor while making a backup plan for
+endothelial cell isolation.
+
+However, there were ~40k cells based on the cell count. Going to that from ~4k
+cells (with possible loss due to cell death) in 1 week isn't so bad. Will
+order media that is hopefully further optimised for these cells to get them
+growing a bit faster
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ x ]  Unexpected because...unclear if cells are present
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+https://mia-capture.vow.tools/#/session/rec7TkHJaGVU0yc8E/images
+
+  
+
+

@@ -1,0 +1,76 @@
+
+
+Methods for assessing differentiation on scaffolds (a current limitation)  
+In previous experiments at Vow we have attempted to use immunofluorescece
+microscopy for the assessment of differentiation on our scaffolds. Although
+the use of antibody staining with MyoD, MyoG and MF20 has worked with some
+materials in the past, including PDLG, PDLG-Pectin and decellularised parsley,
+more recently we have found that certain scaffold materials seem to
+interfere/absorb the antibodies, which has prevented cell staining. Thus far
+we know that zein (including inh-house film based scaffolds and nanofibrous
+scaffold from Gelatex) and nanofibrous gelatin (Gelatex) are not compatible
+with our in-house antibody staining methods. In July 2021 we ran a small
+investigation to verify this further, in which we directly compared C2C12s
+grown in planar culture to those on in-house zein scaffolds. The result of the
+C2C12 experiment demonstrated that despite high scaffold confluence no
+antibody staining could be seen on zein, whereas the same cells in planar
+culture were shown to stain strongly for MyoG and MF20.
+
+Subsequently, when investigating new materials it will be important for us to
+have an alternative method for assessing differentiation on scaffolds.
+Currently we are exploring the use of ELISA's for the assessment of
+differentiation. However, due to the reliance on antibody staining in the
+ELISA method it can be predicted that we may run into similar limitations,
+with the scaffold material influencing the uptake of the stains. As a result
+research into methods such as western blotting, which is independent of
+antibody staining, may provide a more useful alternative.  
+  
+Western Blotting
+
+A western blot is a method used to determine the identity, size, and
+abundance/amount of expression of specific proteins within a sample from among
+a mixture of proteins (sample lysate preparation from tissue or cell culture).
+This mixture can include all of the proteins associated with a particular
+tissue or cell type. The western blot procedure was named for its similarity
+to the previously invented method known as the Southern blot.
+
+The first step in a western blot is to prepare the protein sample by mixing it
+with a detergent called sodium dodecyl sulfate, which makes the proteins
+unfold into linear chains and coats then with a negative charge. Next, the
+protein molecules are separated according to their sizes using a method called
+gel electrophoresis. Following separation, the proteins are transferred from
+the gel onto a blotting membrane. Although this step is what gives the
+technique the name "western blotting," the term is typically used to describe
+the entire procedure.
+
+Once the transfer is complete, the membrane carries all of the protein bands
+originally on the gel. Next, the membrane goes through a treatment called
+blocking, which prevents any nonspecific reactions from occurring. The
+membrane is then incubated with an antibody called the primary antibody, which
+specifically binds to the protein of interest. Following incubation, any
+unbound primary antibody is washed away, and the membrane is incubated yet
+again, but this time with a secondary antibody that specifically recognizes
+and binds to the primary antibody. The secondary antibody is linked to a
+reporter enzyme that produces color or light, which allows it to be easily
+detected and imaged. These steps permit a specific protein to be detected from
+among a mixture of proteins.
+
+  
+
+  
+See the following links for more information on western blot protocols:
+
+https://www.labmanager.com/insights/southern-vs-northern-vs-western-blotting-
+techniques-854  
+https://www.abcam.com/protocols/general-western-blot-protocol
+
+https://www.mybiosource.com/learn/westernblotting
+
+https://www.moleculardevices.com/technology/western-blot#gref
+
+  
+
+  
+  
+
+

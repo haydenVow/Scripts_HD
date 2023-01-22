@@ -1,0 +1,233 @@
+
+
+## Completed by: EC
+
+
+Aim/Purpose
+
+
+Test the effect of seeding density and pH of the medium on the maximum cell
+density achieved by nuvonis cells over a 10 day period in 50/50 RPMI/CHO
+medium.
+
+
+Hypothesis
+
+
+1\. That a seeding density of 400,000 cells/mL will result in the greatest
+maximum cell density over a 10 day period.
+
+2\. Media with a starting pH of 7.2 will result in the greatest maximum cell
+density over a 10 day period.
+
+
+Technical Gap
+Method/Procedure
+
+
+  
+
+  
+
+
+
+
+Date
+
+Task
+
+Notes
+
+Review comments  
+  
+Monday, 27 June 2022, D-1
+
+  1. Make sure there are at least 36 x E-125 in the lab
+  2. Print out labels for 36 x E-125
+  3. Make up 1.090L of 50/50 RPMI/CHO + Nuvonis. 
+
+Split 1.08L into 3 x E500 containing 363 mL each. Let equilibrate in the
+incubator for 2h. Adjust the pH (non-sterile) according to plan, then sterile
+filter.  
+  
+*50/50 medium: 1.080L + 2mL x 3 (pH reading D0) + 1mL x 3 (biochemistry analysis D0)Lily: we will let the media equilibrate, then adjust pH, and then sterile filter because the pH adjustment will make it non-sterile again  
+  
+Tuesday, 28 June 2022 - D0
+
+  1. Harvest 252M cells from 50/50 RPMI/CHO E500 flasks
+    1. 36M to seed at 100k cells/mL
+    2. 72M to seed at 200k cells/mL
+    3. 144M to seed at 400k cells/mL
+  2. Take a 2 mL sample for pH reading.
+  3. Take 250 uL of media from the 2 mL sample of media taken for pH reading.
+
+* Sample 250ul minimum from media, deposit in 1.5mL-tube. Dilute 1:2 with an equal volume of MiliQ water (do not use PBS) quick-spin for 1 minute, aspirate supernatant and deposit in new tube. Discard pellet.
+
+*Label new tube with culture ID, date, time, EPIC number or seed-train number, Name of requester
+
+*Freeze at -20degC and place in labelled plastic box "Biochem analyses for BIF" which will be located in main lab
+
+Lily checking maths:  
+100K cells/mL in 30 mL = 3M cells per flask. @ 12 flasks, 12 x 3 = 36M  
+Double that for 200K = 72M  
+Double that again for 400K = 144M  
+Total = 252M (perfect!)  
+  
+Checking if we used 35 mL:  
+100K cells/mL in 30 mL = 3.5M cells per flask @ 12 flasks, 12x.35 = 42M  
+Double for 200K = 84M  
+Double for 400K = 168M  
+Total = 294M  
+  
+vol: 30 mL  
+Wednesday, 29 June 2022 - D1
+
+  1. Perform a count of all 36 x E-125 on the ViCell
+  2. Take a 2 mL sample for pH reading.
+  3. Take 250 uL of media from the 2 mL sample of media taken for pH reading (See Notes on D0).
+
+  
+  
+vol: 30 - 0.5 - 2 = 27.5  
+  
+Vic request vol: 30 - 0.5 - 2 - 0.25 = 27.25  
+  
+Vic request vol (taking sample from pH sample): 30 - 0.5 - 2 = 27.5  
+  
+Thursday, 30 June 2022 - D2
+
+  1. Perform a count of all 36 x E-125 on the ViCell
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).  
+
+  
+Lily: I've asked MFG to give us an indication of whether we should measure on
+day 1 or day 2  
+Eva: MFG recommended end of D1  
+  
+vol: 27.5 - 0.5 = 27  
+  
+Vic request: 27.25 - 0.5 - 0.25 = 26.5  
+  
+Vic request vol (taking sample from pH sample):  27.5 - 0.5 - 0.25 = 26.75  
+  
+Friday, 1 July 2022 - D3
+
+  1. Perform a count of all 36 x E-125 on the ViCell.
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).  
+
+Make sure Eva lets Lily, Anushka and Sarah know that she will be away this
+weekend.
+
+Lily: Noted :)  
+  
+vol: 27 - 0.5 = 26.5  
+  
+Vic request: 26.5 - 0.5 - 0.25 = 25.75  
+  
+Vic request vol (taking sample from pH sample): 26.75 - 0.5 - 0.25 = 26  
+  
+Saturday, 2 July 2022 - D4
+
+  1. Perform a count of all 36 x E-125 on the ViCell.
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).  
+
+  
+  
+vol: 26.5 - 0.5 = 26  
+  
+Vic request: 25.75 - 0.5 - 0.25 = 25  
+  
+Vic request vol (taking sample from pH sample): 26 - 0.5 - 0.25 = 25.25  
+  
+Sunday, 3 July 2022 - D5
+
+  1. Perform a count of all 36 x E-125 on the ViCell
+  2. Take a 2 mL sample for pH reading.
+  3. Take 250 uL of media from the 2 mL sample of media taken for pH reading (See Notes on D0).
+
+  
+vol: 26 - 0.5 - 1 - 2 = 22.5  
+  
+Vic request: 25 - 0.5 - 1 - 2 -  0.25 = 21.25  
+  
+Vic request vol (taking sample from pH sample): 25.25 - 0.5 - 2 = 22.75  
+  
+Monday, 4 July 2022 - D6
+
+  1. Perform a count of all 36 x E-125 on the ViCell.
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).   
+
+  
+vol: 22.5 - 0.5 = 22  
+  
+Vic request: 21.25 - 0.5 - 0.25 = 20.5  
+  
+Vic request vol (taking sample from pH sample):  22.75 - 0.5 - 0.25 = 22  
+  
+Tuesday, 5 July 2022 - D7
+
+  1. Perform a count of all 36 x E-125 on the ViCell.
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).  
+
+  
+vol: 22 - 0.5 = 21.5  
+  
+Vic request: 20.5 - 0.5 - 0.25 = 19.75  
+  
+Vic request vol (taking sample from pH sample):  22 - 0.5 - 0.25 = 21.25  
+  
+Wednesday, 6 July 2022 - D8  
+  
+
+  1. Perform a count of all 36 x E-125 on the ViCell.
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).   
+
+  
+vol: 21.5 - 0.5 = 21  
+  
+Vic request: 19.75 - 0.5 - 0.25 = 19  
+  
+Vic request vol (taking sample from pH sample):  21.25 - 0.5 - 0.25 = 20.5  
+Thursday, 7 July 2022 - D9  
+  
+
+  1. Perform a count of all 36 x E-125 on the ViCell. 
+  2. Take 250 uL of media for biochemistry analysis (See Notes on D0).
+
+  
+vol: 21 - 0.5 = 20.5  
+  
+Vic request: 19 - 0.5 - 0.25 = 18.25  
+  
+Vic request vol (taking sample from pH sample):  20.5 - 0.5 - 0.25 = 19.75  
+  
+Friday, 8 July 2022 - D10  
+  
+
+  1. Perform a count of all 36 x E-125 on the ViCell
+  2. Take a 2 mL sample for pH reading.
+  3. Take 250 uL of media from the 2 mL sample of media taken for pH reading (See Notes on D0).
+
+  
+  
+vol: 20.5 - 0.5 - 1 - 2 = 17  
+  
+Vic request: 18.25 - 0.5 - 1 - 2 = 14.75  
+  
+Vic request vol (taking sample from pH sample):  19.75 \- 0.5 - 2 = 17.25  
+  
+  
+
+  1. [Peer Review]
+  2. [Make amendments and Sign off] 
+  3. [Report writing (Draft)]
+  4. [Review & fill out Report (Full)]
+  5. [Ensure all lab books are complete & assign for review]
+  6. [Review Lab Books, results, report]
+  7. [Make necessary amendments and confirm with reviewer that experiment is complete
+  8. [Release note on Project Updates]  
+
+
+
+
+

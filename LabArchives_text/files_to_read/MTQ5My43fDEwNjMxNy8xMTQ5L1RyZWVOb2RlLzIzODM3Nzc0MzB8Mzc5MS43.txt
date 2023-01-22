@@ -1,0 +1,59 @@
+
+
+  
+
+Culture IDs (to image):
+
+### 6597-DAISY4_16G9-Cow P8-1of3:
+
+96 well plate  
+  
+### 6598-DAISY4_16G9-Cow P8-2of3:
+
+96 well plate  
+  
+### 6599-DAISY4_16G9-Cow P8-3of3:
+
+96 well plate  
+  
+Process:
+
+  1. Removed 3 x 96 well plates from fixed plates fridge [09:49am]
+  2. Using Live view and adjusting exposure settings, set up imaging session with the following exposure times in ms, on main lab Zaber as shown below:
+  3. DAPI: 50 ms
+  4. AF488: 400 ms
+  5. AF555: 800 ms
+
+3\. 96 well plate was calibrated and then using the HCS Site Generator Tool,
+wells B2 - C4 were selected
+
+4\. Prior to each plate, QR code was scanned and session was named - ensuring
+images would upload to MIA capture.
+
+5\. For AF488 and AF555 imaging sessions, a piece of black plastic was used
+over the plate to block out unwanted light from outside.
+
+6\. Each channel was imaged seperately in different jobs.
+
+  
+
+Note: At 13:54 Images had not reached MIA Capture
+
+Images:
+
+### 6597-DAISY4_16G9-Cow P8-1of3: https://mia-
+capture.vow.tools/#/session/recmgBvwRdOywXPo5/images
+
+### 6598-DAISY4_16G9-Cow P8-2of3: https://mia-
+capture.vow.tools/#/session/recuE3lc5aEOhvtVZ/images
+
+### 6599-DAISY4_16G9-Cow P8-3of3: https://mia-
+capture.vow.tools/#/session/recvmZcINQJyVoufq/images
+
+Summary/Observations:
+
+DAPI signals were clear and evident across all three cultures, however AF488
+signal was considerably lower but present. AF555 signal was almost non-
+existent across all three plates.
+
+

@@ -1,0 +1,159 @@
+
+
+Here is a place for notes or for background literature relevant to the project
+at large. Please provide a link to the primary source, as well as the key
+information.
+
+Some key areas for this project:
+
+1\. Getting cells to adapt to suspension
+
+2\. Optimising media & bioreactor conditions to support 5g/L (5 million
+cells/mL)
+
+3\. High-throughput analysis of suspension cultures
+
+4\. Animal component free media to support fibroblasts or cells in suspension.
+
+  
+
+ It does not have to immediately seem relevant, but anything that helps or
+that we should keep in mind, useful resources for hardware or information,
+contractors that can help us build things etc.
+
+\--> For every new comment, please insert a new Rich Text section
+
+
+Protein hydrolysates as medium supplements
+
+
+Protein hydrolysates (also known as "peptones", "peptides" or "hydrolyzed
+proteins"), are protein fragments created by the hydrolysis of some high-
+protein material (Lobo-Alfonso et al., 2010). Typically, plant or microbial
+biomass is digested by exogenous enzymes, acids or bases. Autolysis (digestion
+by the cell itself) can also be induced by activating endogenous enzymes (as
+is the case with yeast cell products like Marmite and Vegemite). Besides amino
+acids and peptides, these hydrolysates contain an array of other compounds
+that are released during the digestion of the biomass. The combination of
+digestible amino acids, peptides and a cocktail of growth-promoting molecules
+makes these hydrolysates attractive alternatives to serum as media
+supplements. However, the identities and/or mechanisms of action of most of
+the compounds in hydrolysates remain largely unknown, so hydrolysates are
+often known as chemically "undefined" or "complex" supplements.
+
+A successful serum-free culture medium for CHO cells, known as "WCM5", was
+developed by the Wellcome Research laboratories in the early 1990s (Keen and
+Rapson, 1995). The ingredients of this medium are shown below. The final
+formula contained soy peptone as the major supplement; however, yeast extract
+was found to boost cell proliferation even more than soy peptone. The authors
+cite "quality assurance and purification considerations" as the reason for why
+soy peptone is preferred over yeast extract. Some other chemically defined
+supplements were important to enable proliferation with this medium,
+including: ions like zinc, copper, sulfate and phosphate; vitamins like
+pyridoxine (B6) and cyanocobalamin (B12); small molecules like ethanolamine
+and putrescine; and proteins like insulin. These supplements are commonly used
+even in modern chemically-defined ACF for CHO cells (e.g. Zhang et al., 2013).
+
+The WCM5 formulation of Keen and Rapson (1995) would be a good starting point
+for a serum-free suspension medium. There are a number of potential additional
+supplements that could be tested, such as those commonly found in human
+mesenchymal stem cell (HuMSC) media below (Jung et al., 2012).
+
+  
+
+
+Category  
+Product  
+Supplier  
+Notes  
+  
+Soy  
+Difco Select Soytone 212488  
+BD https://www.bdbiosciences.com/ds /ab/others/Phytone_Soytone.pdf  
+Looks like it has been used for CHO media before  
+  
+Soy  
+Difco Select Phytone UF 210931  
+BD https://www.bdbiosciences.com/ds/ ab/others/Phytone_Soytone.pdf  
+Ultrafiltered version of BBL Phytone Peptone for low endotoxin content,
+therefore this is our 2nd choice
+https://legacy.bd.com/ds/technicalCenter/misc/lcn01558-bionutrients-manual.pdf  
+  
+Soy  
+BBL Phytone Peptone 211906  
+BD https://www.bdbiosciences.com/ds /ab/others/Phytone_Soytone.pdf  
+Looks like it has been used for CHO media before - recommended by BD as serum
+replacement, therefore this is our 1st choice
+https://legacy.bd.com/ds/technicalCenter/misc/lcn01558-bionutrients-manual.pdf  
+  
+Barley  
+Bacto Malt Extract 218630  
+  
+  
+  
+Yeast  
+Bacto TC Yeastolate 255772  
+  
+  
+  
+Yeast  
+Bacto Yeast extract, Technical 288620  
+  
+  
+  
+Yeast  
+BBL Yeast Extract 211929  
+  
+Also good alternative to FBS, 3rd choice  
+  
+Yeast  
+Difco Yeast Extract UF 210929  
+  
+Also good alternative to FBS, 3rd choice  
+  
+Yeast  
+Difco TC Yeastolate UF 292804  
+  
+  
+
+
+References
+  
+  
+All references can be found in the Vow library on Mendeley.
+
+Lobo-Alfonso, J., Price, P., and Jayme, D. (pp. 55 - 78, 2010). Use of protein
+hydrolysates in industrial starter culture fermentations. In Ummadi, M.,
+Curic-Bawden, M. (Eds). Protein Hydrolysates in Biotechnology.
+https://doi.org/10.1007/978-1-4020-6674-0_6
+
+Jung, S., Panchalingam, K. M., Rosenberg, L., & Behie, L. A. (2012). Ex vivo
+expansion of human mesenchymal stem cells in defined serum-free media. Stem
+Cells International, 2012. https://doi.org/10.1155/2012/123030
+
+Keen and Rapson (1995). Development of a serum-free culture medium for the
+large scale production of recombinant protein from a Chinese hamster ovary
+cell line. 153-163.
+
+Zhang, H., Wang, H., Liu, M., Zhang, T., Zhang, J., Wang, X., & Xiang, W.
+(2013). Rational development of a serum-free medium and fed-batch process for
+a GS-CHO cell line expressing recombinant antibody. Cytotechnology, 65(3),
+363-378\. https://doi.org/10.1007/s10616-012-9488-4
+
+
+Fibroblast product & ECM considerations
+
+
+Do the cells cluster together and surround themselves with ECM (collagen)?  Or
+do they stay as indivduals?
+
+What is the surface morphology of a cluster/ individual cell?  
+
+Do we best consider it as a lipid w.r.t. other ingredients, and look to
+incorporate it into a continuous aqueous phase using an emulsifier as an
+intermediate?
+
+ Would we expect the collagen to turn into gelatin as we cook the mass
+including incorporated cells and change it's chemistry?
+
+

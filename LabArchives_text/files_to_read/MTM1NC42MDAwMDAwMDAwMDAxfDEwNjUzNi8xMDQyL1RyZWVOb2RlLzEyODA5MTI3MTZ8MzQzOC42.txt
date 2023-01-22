@@ -1,0 +1,37 @@
+
+
+Batch 00 (CHO-S WCB) Overview
+
+Batch Objectives/Experimental Plan:
+
+  * Produce a WCB cryobank of CHO-S suspension adapted cells for CHO production batches and science R&D at 10 million cells per vial.
+    * Produce enough vials for 3 months worth of batches i.e., 120 million, assuming each batch is initially seeded at 10 million cells and 4 batches are started in a single month.
+
+Batch Timeline (Proliferation days & media in each passage & Flask no./type):
+
+Passage NumberProliferation daysProliferation MediaFlask No./Type  
+P1 (P2)2Hycell CHO + 1% Glutamax + 1X P/S1x E125  
+P2 (P3)31x E500  
+  
+Notable Events:
+
+  * CHO-S cells were passaged into a E500 flask after two days in culture following the thaw, compared to four days when the MCB was generated.
+  * CHO-S were harvested and cryobanked after ~5 days in suspension culture into 12 vials at a density of 10 million cells per vial.
+  * A total of 291 million cells were harvested from an initial cell seeding of 10 million.
+  * Cells exhibited a total of 4.86 doublings and a doubling time of 24.6 hours.
+  * The remaining 171 million cells were frozen at -20°C to be used in product development.
+  * Cells were grown in a quarter of the recommended concentration of L-Glutamine/Glutamax (2mM instead of 8mM). 
+
+Batch/Experiment Results:
+
+CHO-S  
+
+Date of seedingDate of harvestDays in cultureInitial cell numberFinal cell
+numberCells/mLDoublingsDoubling time (hrs)  
+12-Jan-202217-Jan-2022510,000,000291,000,0004,850,0004.8624.6  
+  
+Achievements:
+
+  * This represents the first WCB that has been generated of CHO-S cells.
+
+

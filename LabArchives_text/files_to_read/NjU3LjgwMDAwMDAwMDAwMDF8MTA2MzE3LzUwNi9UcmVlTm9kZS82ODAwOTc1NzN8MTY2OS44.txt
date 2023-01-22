@@ -1,0 +1,36 @@
+
+
+11/05/2021 D1 Prolif - Tryplisation of D1 sample wells for cell seed
+efficiency calculations
+
+  1. Aspirated media from n=3 wells of each treatment and pipetted into 8 x 15 mL tubes 
+  2. Added 100ul of PBS to each well in the now empty cell-laden 96-well plate (wash step)
+  3. Removed PBS from all wells (pipetted into same tube containing media) and added 50ul of Tryple to each well. Placed plate in the incubator for 10 min until cells lifted. Time stamp: 17:05 - 17:16
+  4. Removed tryple from wells and added to tubes containing media and PBS. NOTE: we noticed that there were still a number of cells adhered to the base of the wells, so added another 50 uL of tryple and replaced in incubator. Time stamp: 17:17 - 17:27 
+  5. Removed tryple and again added to tubes containing media, tryple and PBS.
+  6. Took 1 x 10 uL sample from each 8 x cell suspensions. Loaded onto Haemocytometer and performed cell counts. 
+    1. Cell count (0.5M, WZ): 48,000 
+      * Efficiency: ((500000-48000)/500000)*100 = 90.4% 
+    2. Cell count (0.5M, DZ): 66,000 
+      * Efficiency: ((500000-66000)/500000)*100 = 86.8%
+    3. Cell count (0.7M, WZ): 70,000 
+      * Efficiency: ((700000-66000)/700000)*100 = 90.5%
+    4. Cell count (0.7M, DZ): 162,000
+      * Efficiency: ((700000-162000)/700000)*100 = 76.8%
+    5. Cell count (1.3M, WZ): 1,332,000
+      * Efficiency: ((1,300,000-1,332,000)/1300000)*100 = -2.4%
+    6. Cell count (1.3M, DZ): 1,626,000 
+      * Efficiency: ((1,300,000-1,626,000)/1300000)*100 = -25.0% 
+    7. Cell count (Serum, WZ): 160,000
+      * Efficiency: ((700000-160,000)/700000)*100 = 77.1%
+    8. Cell count (Serum, DZ): 212,000
+      * Efficiency: ((700000-212,000)/700000)*100 = 69.7%   
+  
+  
+Note - for the 1.3M samples we found some of the cell pellets difficult to
+break up, and this may have led to inaccurate cell counts for these samples.
+Thus explaining the strange (negative seeding efficiency) results.  
+
+  
+
+

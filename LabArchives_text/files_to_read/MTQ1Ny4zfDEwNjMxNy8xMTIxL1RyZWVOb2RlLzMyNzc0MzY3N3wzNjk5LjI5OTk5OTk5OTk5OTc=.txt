@@ -1,0 +1,61 @@
+
+
+  
+
+  1. Using a sterile tweezer, remove sample from the well into a fresh plate containing pre-warmed media.  (only doing for 1M cells)
+  2. Aspirated media from  250 ul    wells of each treatment and pipetted into   6   x 70 mL pots   
+
+  3. Added 100ul of PBS to each well in the now empty cell-laden 96-well plate (wash step)
+  4. Removed PBS from all wells and pipetted into same tube containing media (so any washed away cells from this step will still be included in the count)  
+
+  5. Added 50ul of Tryple to each well.
+  6. Placed plate in the incubator for 10 min until cells lifted. Time stamp:    16:16 pm        
+
+  7. Removed tryple from wells and added to tubes containing media and PBS. 
+    1. NOTE: If there are still a number of cells adhered to the base of the wells, add another 50 uL of tryple and replaced in incubator.
+    2. Removed tryple and added to tubes containing media, tryple and PBS.
+  8. Took 1 x 10 uL sample from each 8 x cell suspensions and added    30 uL   trypan blue 
+  9. Loaded onto Haemocytometer and performed cell counts. (Subtract the cell count from initial seed density of this condition and divide by number of wells.)
+
+
+
+
+Cell count:   https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=B1172:R1177  
+
+  1. Cell count ( 1    M,  ACF Autoclave sample   ): cell count: 3,447,360
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =     13.816     %
+  2. Cell count (  1   M,   ACF HT + Autoclave sample   ): cell count: 3,441,000
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =     13.975     %
+  3. Cell count (  1   M,   ACF HT + Autoclave \+ EPL sample    ):cell count:  3,737,520
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =     6.562     %
+  4. Cell count ( 1    M,   Serum Autoclave sample    ): cell count: 2,420,800
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =    39.48      %
+  5. Cell count (  1   M,  Serum  HT + Autoclave sample    ): cell count: 3,544,200
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =    11.395      %
+  6. Cell count (  1   M,  Serum  HT + Autoclave \+ EPL sample    ): cell count: 3,021,520
+    * Efficiency: ((initial seeding density - cells left in plate)/ initial seeding density)*100 =    24.462      %
+
+
+
+
+# Media/Reagents used
+
+  
+  
+NameDetailsVolume  
+PBS  
+A4810  
+  
+  
+Tryple  
+A4615  
+  
+  
+  
+M xxxx  
+  
+  
+  
+
+

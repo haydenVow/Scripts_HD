@@ -1,0 +1,160 @@
+
+
+Performed by: EC/NH  
+
+  
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+4 x T175  
+11525-11528  
+3 x T175  
+11602, 11603, 11604  
+  
+  
+  
+
+  
+
+
+ComponentID  
+TE buffer4881  
+  
+GFP-Cas9s5083  
+  
+Buffer Rs4880  
+  
+E Buffers4853  
+  
+GuidesNO guides  
+Electroporation enhancers4893  
+  
+tryplem10659  
+  
+PBS  
+a10952  
+
+
+  
+  
+Prepare Cells for nucleofection
+
+  1. Aliquoted out 2 x 40mL of dPBS (wash and neutralising), 1 x 20 mL of dPBS (resuspension), 1 x 40mL of tryple and 6 mL of FACS buffer (500 uL/condition).
+  2. CHOMP07 T175 cultures selected for nucleofection today included the following [Cell culture ID: 11525, 11526, 11527, 11528]
+  3. Media was removed from cells, PBS washed with 10 mL per flask and tryplised with 10 mL tryple per flask for 8 minutes at 30 C. 
+  4. Tryple was neutralised with 10 mL PBS per flask
+  5. Cells were placed in a falcon tube. 
+  6. Cells were centrifuged for 5 minutes at 400g.
+  7. Supernatant was removed and cells were resuspended in 8 mL of PBS.
+  8. Cell count was performed under a hemocytometer after a 10uL aliquot was taken and diluted using trypan blue.
+    1. The number of cells required for each of the 25 rounds of zapping was 1 x 10^5 cells. The total number of cells required with excess are 3M cells.
+
+Total cell number harvested = 6,720,000
+
+Cells required for the consumables experiment: 3 000 000 (3.571 mL of cell
+suspension)
+
+Cells required to seed 1 x T175 at 7000 cells/cm^2: 1.458 mL of cell
+suspension  
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2055:2055
+
+  * 3x T175 flasks were seeded at 7000 cells/cm^2 using some of the remaining counted cell suspension, Cells were seeded in DMEM/F12 + 20% FBS + 1xP/S and left to incubate in incubator #140.
+
+
+
+
+## *Ensure cell count is performed before determining how much of the
+following reagents to make
+
+  
+
+Determine the total you will need of each of your mixes prior to determining
+the specifics of each of them (in order to know whether you will actually be
+making up enough!):
+
+Component1 x Amount (uL)Amount x 30 (uL)  
+ Cas9 mix0.8324.9  
+R buffer7.5225  
+10.8 uM electroporation enhancer1.6750.1  
+Total10300  
+  
+  
+
+Prepare guides/cas9/Cas9 electroporation enhancer
+
+  1. Made up Cas9 mix. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment. We used TE buffer here in order to add the same amounts of Cas9 that we usually add in our nucleofection and to keep our mixes consistent since we prepare our guides in TE buffer.
+
+ComponentAmount (uL) 1 x mixAmount (uL) x 30  
+Alt-R GFP Cas9 (52 uM stock)0.4212.6  
+Buffer R0.082.4  
+TE buffer  
+0.5  
+15  
+  
+Total volume1  
+30  
+  
+  
+2\. The electroporation enhancer was also prepared:
+
+  1. Buffer was removed from -20 freezer and thawed using body temperature. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment.
+
+Component Amount (uL)Amount (uL) x 28  
+Electroporation enhancer (100 uM)0.226.16  
+  
+1 x TE buffer 1.7849.84  
+  
+Total volume 2 56  
+  
+  
+  
+
+  
+
+
+
+
+Nucleofection
+
+  1. The required cell number ( ) was pipetted into a 15mL sterile falcon tube
+  2. Cells were centrifuged for 5 mins at 300g at room temp [ ]
+  3. Supernatant was removed
+  4. The pellet was resuspended in        mL 1x PBS 
+  5. One 1.5mL sterile eppendorf tubes were set up inside the BSC
+  6. The cells were centrifuged at 300g for 5 mins at room temp (HINGE OUT IN CENTRIFUGE)
+  7. The supernatant was removed from each tube. It is important to remove as much as possible. Use a 1 mL tip to remove most of the supernatant and then switch to a 200 uL pipette to remove a little more if necessary. Do not disturb the pellet.
+  8. To each Eppendorf tube the following mix was prepared, R buffer added first, then enhancer, then GFP-Cas9 in R buffer (this is meant to represent the RNP buffer we would normally add):
+
+Component1x Amount (uL) 30 x Controls (no RNP, just cas9) (uL)  
+cas9 mix  
+0.8324.9  
+  
+R buffer7.5225  
+  
+10.8 uM electroporation enhancer1.6750.1  
+  
+Total10300  
+  
+  
+9.The nucleofection machine was set up
+
+10.The neon tip was inserted into the mix from above and draw up cell mix
+
+11\. The cells were electroporated with the condition below:
+
+Voltage Pulse WidthPulse Number  
+1700201  
+  
+12\. The nucleofected cells were then sorted in the FACS Melody to determine
+the percentage of dead and live cells (using the dye 7AAD) and the percentage
+of GFP + cells.
+
+

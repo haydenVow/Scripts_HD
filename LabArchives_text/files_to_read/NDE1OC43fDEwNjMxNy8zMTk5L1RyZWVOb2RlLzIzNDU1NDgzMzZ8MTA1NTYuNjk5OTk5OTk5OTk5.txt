@@ -1,0 +1,86 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media  
+  
+  
+ dPBS  
+  
+  
+p53 inhibitor (Pifithrin-α, p-nitro, cyclic)  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Once plates reach 70% confluence image plates and proceed with treatments (n=3) 
+
+    1. Aliquot the following reagents into 50mL tubes and place them in the waterbath to warm at 37 degrees, 5% Co2.
+      1. 50mL of dPBS (For washing plates)
+
+      2. 60mL of dPBS containing 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) PLEASE SEE THIS SAFETY DOCUMENT BEFORE HANDLING P53 INHIBITORS 
+
+      3. 60mL of dPBS without p53 inhibitor.
+
+    2. Remove the growth media and wash all plates with 5mL dPBS. Split the plates into 4 groups (n=3) Label of plates in each group G1-G4 respectively. 
+
+    3. Add 10mL of dPBS with 100uM of p53 inhibitor (Pifithrin-α, p-nitro, cyclic) to plates labelled G2 or G4
+
+    4. Add 10mL of dPBS to plates labelled G1 and G3.
+
+    5. Wrap all plates labelled G1 and G2 with foil. 
+
+    6. Leave all plates inside the BSC, removing the lids from plates labelled G3 and G4. 
+
+    7. Set up the reptile solar lamp inside the BSC, 10cm from the BSC surface, place plates in groups G3 and G4, as well as the UV meter, under the lamp for 60 minutes. (See UV calibration testing here to determine UV intensity, time and Lamp distance needed to achieve energy dose 
+
+    8. Once irradiated, aspirate and discard the dPBS from all plates and replace with growth media (DMEM/F12 + 20% FBS + 1xP/S w/wo p53 inhibitor.) 
+    9. Return plates to incubate at 37 degrees 5% CO2. overnight.  
+
+    10. GroupUV irradiation p53 inhibitor.   
+G1NoNo  
+G2NoYes  
+G3YesNo  
+G4YesYes  
+  
+
+  
+
+  * Incubator (#  ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  % media changed on vessel(s)
+
+  1. 
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

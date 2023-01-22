@@ -1,0 +1,50 @@
+
+
+Cat #: FRS500486 (2xpH electrochemical + 2x optical pH & 2x optical DO)
+STK-6825
+
+Lot #: A0045490
+
+Start time: 5/08/22 1:10pm
+
+  
+
+
+
+
+Performed according to this VSOP:
+https://www.notion.so/vow/VSOP-112_0-Installation-of-a-STR-2000L-single-use-
+bag-6d9ee52c1b3c47739f981be861c8a3c6
+
+Connected 2 inlet filter lines and 1 exhaust filter line
+
+  
+
+Filter line IN:
+
+Cat #: DS002K-SBFLI (STK-6667, STK-6668)
+
+Lot #: 036006903
+
+Expiry: 09/2023
+
+  
+
+Filter line OUT:
+
+Cat #: DS002K-SBFLO (STK-6635)
+
+Lot #: 2210022213
+
+Expiry: 03/2025
+
+  
+
+Once the 3 filters, overlay, exhaust and pressure, were attached bag was
+inflated using 200 slpm and once the bag appeared fully inflated the flow rate
+was lowered to 100 slpm, which maintained bag pressure at ~6.60 mbar.
+
+Exhaust filter heaters were switched on and configured with the low and low
+low warning/alarms at 45 and 40'C respectively.
+
+

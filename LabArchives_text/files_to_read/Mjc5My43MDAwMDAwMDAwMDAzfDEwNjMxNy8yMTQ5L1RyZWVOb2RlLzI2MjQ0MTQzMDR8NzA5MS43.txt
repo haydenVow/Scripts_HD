@@ -1,0 +1,84 @@
+
+
+Introduction
+
+Creatine has been identified as a media component which has helped promote
+maturation of myoblasts, as studied in literature by L Deldicque and P
+Sestili. Based on these studies, Vow has also undertaken studies (EPIC18328)
+on the effect of creatine on cell maturation and has confirmed that addition
+of creatine has improved maturation of DOLLY12 cells. Furthermore, it was
+evident in this study, that at concentration ranges between 0, 1, 3, 5,7 and
+9mM creatine, the higher levels lead to greater maturation. Therefore, this
+study aims to confirm and support these findings by testing on an established
+and well studied cell line. Using C2C12s, this study will look at the effects
+of adding creatine at concentrations at 1, 5, 10 and 20 mM creatine into E6
+differentiation media, to assess its effect on cell maturation.
+
+  
+
+
+Quick summary of main findings
+
+
+  1. C2C12 died in both experiments, the cause of which appears to be unrelated between the two experiments. 
+  2. Suspected that the cause of C2C12 death in the first experiment was due to a faulty batch of C2C12 WCB vials. 
+  3. Suspected that the cause of C2C12 death in the second experiment was due to prolonged proliferation, too high seeding density and/or inadequate amount of media changes. 
+
+
+Results and Discussion
+
+
+Results
+
+Table 1. Key differences between experiment plan of experiment 1 and 2 with
+C2C12 cells.
+
+  
+Experiment 1Experiment 2  
+Seeding density 5208 cells/per well4000 cells/per well  
+Vial typeWCBMCB  
+Days in growth media (prolif) 2 (seed on Wed, change to E6 on Fri)3 (seed on
+Mon, change to E6 on Thurs)  
+Days in E6 before death (diff) 4 (however could not check between day 1 - 3 as
+it was during the long weekend)1  
+Concentration range of creatine tested 0, 1, 5, 10 mM0, 5, 10, 20 mM  
+  
+  
+
+ Figure 1. Phase image of cell death for experiment 1, day 4 in diff media
+
+Figure 2. Phase image of cell death for experiment 2, day 1 in diff media
+
+
+
+  
+
+ Discussion
+
+  * In both experiments using C2C12, the experiment could not be run in full as the C2C12 cells died earlier in the experiment (figure 1 and 2.)
+  * The likely cause for the C2C12 death from experiment 1 is a result of the WCB vials being compromised. This is based on the evidence that other experiments that have used C2C12 from the same WCB have also witness cell death (eg gelatine experiment ).  
+  * For experiment 2, a C2C12 MCB vial was used instead. Unlike the previous experiment where the C2C12 WCB vial seems to be compromised, it would appear that this particular vial was not, despite the C2C12 dying in the experiment. This is because alongside with the 96 well-plates that were seeded for this experiment, the same batch of cells were also seeded into two other experiments; scaffold experiment and maturation bioreaction experiment and saw good growth. 
+  * The likely cause for cell death may be due to over-confluency and inadequate amount of media for the given cell density. For the maturation bioreaction experiment the C2C12 were seeded at a cell density of 1000 cells/cm2, however for the creatine experiment, these were seeded at 4000 cells/well or 12500 cells/cm2. 4000 cells/well is generally acceptable, and in fact on the lower side of seeding densities, for a typically differentiation assay using a 96 well plate. However, given that it was C2C12 that were used, the cells tend to grow much faster than the primary cell line and therefore require more media changes. For this experiment, they were fed two days after seeding and appeared to look health with the typical elongated morphology. However the following day, they had poor morphology, where most were short and rounded, with some detached entirely. In addition to this, the media was orange in colour, indicating that there was not enough nutrients and that the media was becoming acidic, both of which are likely causes that contributed to the cell death. 
+  * Cell death may also be another factor that has not yet been explored. Other experiments have also encountered cell death. (Amongst these are EPIC 20510, EPIC19442)
+
+
+
+
+Limitations
+
+  * Missing data on the exact day that the C2C12 died for experiment 1. 
+  * Unable to determine if creatine had an effect on C2C12 as the cells died before analysis could be made 
+  * The ideal cells seeding density was changed to accommodate for less cells available  
+  * Media was insufficient for C2C12 and likely required more frequent changes 
+
+  
+
+
+Future Directions
+
+
+  1. To avoid C2C12 WBC vials, until it is further investigated to determine the state of the cells. 
+  2. To seed at a lower density OR seed at the optimal density that will allow cells to differentiate, and change to E6 media the day after seeding. 
+  3. Check colour of growth media at the start and end of each day to ensure there is an adequate amount of media for the cells
+
+

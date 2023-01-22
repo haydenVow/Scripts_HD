@@ -1,0 +1,278 @@
+
+
+## Performed by: AG, VP, AK, VB, LL  
+
+
+
+
+Feed information:
+
+Seeded flask typeSeeded flask IDLid LabelCondition  
+21 x E125
+
+9638-F_CHOMP09-Crocodile P9-1of3
+
+9639-F_CHOMP09-Crocodile P9-2of3
+
+9640-F_CHOMP09-Crocodile P9-3of3
+
+1.1  
+1.2  
+1.3CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 100 ng/mL NT-3  
+  
+  
+9641-F_CHOMP09-Crocodile P9-1of3
+
+9642-F_CHOMP09-Crocodile P9-2of3
+
+9643-F_CHOMP09-Crocodile P9-3of3
+
+2.1  
+2.2  
+2.3  
+Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 +
+1x P/S + 100 ng/mL NT-3  
+  
+  
+9644-F_CHOMP09-Crocodile P9-1of3
+
+9645-F_CHOMP09-Crocodile P9-2of3
+
+9646-F_CHOMP09-Crocodile P9-3of3
+
+3.3  
+3.4  
+3.5CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 100 ng/mL EGF  
+  
+  
+9647-F_CHOMP09-Crocodile P9-1of3
+
+9648-F_CHOMP09-Crocodile P9-2of3
+
+9649-F_CHOMP09-Crocodile P9-3of3
+
+4.1  
+4.2  
+4.3Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 100 ng/mL EGF  
+  
+  
+9650-F_CHOMP09-Crocodile P9-1of3
+
+9651-F_CHOMP09-Crocodile P9-2of3
+
+9652-F_CHOMP09-Crocodile P9-3of3
+
+5.1  
+5.2  
+5.3CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9653-F_CHOMP09-Crocodile P9-1of3
+
+9654-F_CHOMP09-Crocodile P9-2of3
+
+9655-F_CHOMP09-Crocodile P9-3of3
+
+6.1  
+6.2  
+6.3Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S + 1:100 chemically defined lipid concentrate  
+  
+  
+9656-F_CHOMP09-Crocodile P9-1of3
+
+9657-F_CHOMP09-Crocodile P9-2of3
+
+9658-F_CHOMP09-Crocodile P9-3of3
+
+7.1  
+7.2  
+7.3CD CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1 + 1x
+P/S  
+  
+  
+9659-F_CHOMP09-Crocodile P9-1of3
+
+9660-F_CHOMP09-Crocodile P9-2of3
+
+9661-F_CHOMP09-Crocodile P9-3of3
+
+8.1  
+8.2  
+8.3Hycell CHO +20% KSR + 1:100 AA + 1:100 Glutamax +  100ng/mL each FGF, IGF1
++ 1x P/S  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+dPBS  
+A9192, S3940, A96177  
+  
+Basal Medium (CD CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 20% KSR)  
+A9073  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S) (for 20% KSR)  
+A9009  
+  
+KSR  
+A4096, 8142, 9195, s4101  
+  
+IGF-1  
+M9190  
+  
+b-FGF  
+M9232  
+  
+Lipid  
+A9204  
+  
+NT-3  
+M9202  
+  
+EGF  
+M9201  
+  
+  
+  
+
+
+
+
+### Process:  
+  
+
+  1. Aliquotted growth media conditions:   8 x 45 mL aliquots (1 x 45 mL aliquot/condition)    
+  
+Condition Basal mediaVolume basal media required  
+Volume KSR (mL)  
+FGF (uL) IGF (uL)Additional supplementsVolume of additional supplement to add
+to each aliquot (uL)  
+1CD CHO + 20% KSR36  
+9  
+9090  
+NT-390  
+2Hycell CHO + 20% KSR36  
+9  
+90  
+90  
+NT-390  
+3CD CHO + 20% KSR  
+36  
+9  
+90  
+90  
+EGF90  
+4Hycell CHO + 20% KSR  
+36  
+9  
+90  
+90  
+EGF  
+90  
+5CD CHO + 20% KSR  
+36  
+9  
+90  
+90  
+Chemically defined lipid concentrate450  
+6Hycell CHO + 20% KSR  
+36  
+9  
+90  
+90  
+Chemically defined lipid concentrate  
+450  
+7CD CHO + 20% KSR  
+36  
+9  
+90  
+90  
+N/AN/A  
+8Hycell CHO + 20% KSR  
+36  
+9  
+90  
+90  
+N/AN/A  
+  
+  
+
+  2. Time that all aliquots were placed in the water bath the warm before use   10:30  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Process:  
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serological pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min 11:17 - 11:23, 11:24 - 11:29
+  5. Washed flasks with 10 mL of dPBS
+  6. Aspirated  75% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. 
+  7. Topped up each 50 mL centrifuge tube with 15 mL of fresh prewarmed media and resuspended cell pellet. 
+  8. Gently pipette-mixed cultures, and returned to e125 flask
+  9. Took 100 uL samples from each culture and loaded onto a 96 well plate according to the plate map. 
+  10. Returned E125s to incubator 12:38
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature 12:36-13:06
+  4. Made 4x, 8x and 16x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute  13:12  
+  
+
+  6. Prepared plate map: https://docs.google.com/spreadsheets/d/1Zf6doYR0VCECT_E5YQROoxvjAyMS2OhWFBLfxh6_W8g/edit?usp=drive_web&ouid=112350845195625657554  
+Plate ID: 9668, MIA Link: https://mia-
+capture.vow.tools/#/session/recBmWsirOSWAECT2/images
+
+  
+
+
+
+
+Observations/Summary:  
+Brighter nuclear staining for all Hycell CHO cultures  
+Controls have much larger, macroscopic aggregates compared to any of the other
+conditions  
+Hycell CHO cultures have more aggregates when viewed under using Zaber  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+

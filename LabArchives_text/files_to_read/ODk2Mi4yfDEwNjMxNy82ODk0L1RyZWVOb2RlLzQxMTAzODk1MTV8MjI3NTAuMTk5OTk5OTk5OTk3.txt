@@ -1,0 +1,183 @@
+
+
+Performed by: EC/ST  
+
+  
+
+  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+3 x T175  
+10579, 10580, 10581  
+10 x 6wp  
+10815, 10816, 10824 top half(AQP1 + ZIC1)  
+10817, 10818, 10825 top half(AQP1 + Igfbp4)  
+10820, 10821 10824 bottom half (ZIC1 + Igfbp4)  
+10822, 10823 (control)  
+  
+  
+  
+  
+
+  
+
+
+ComponentID  
+TE buffer4881  
+  
+GFP-Cas9S083  
+  
+Buffer RS4880  
+  
+E BufferS4853  
+  
+GuidesAQP1 (guide 2), ZIC1 (guide 2), Igfbp4 (guide 2)  
+  
+Electroporation enhancerS4893  
+  
+Media (DMEM F12 without antibiotics)M10461  
+  
+trypleA9289  
+  
+PBS  
+M10380  
+
+
+  
+  
+Prepare Cells for nucleofection
+
+  1. Aliquoted out 2x30mL of dPBS, 30mL of Tryple and 10mL of DMEM/F12 + 20% FBS (NO P/S) and placed all aliquots in the waterbath ready for passage.
+  2. CHOMP07 T175 cultures selected for nucleofection today included the following [Cell culture ID: 10579, 10580, 10581] 
+    1. These cells had been revived from frozen WCB over one week prior.
+  3. Media was removed from cells, PBS washed with 10 mL per flask and triplised with 10 mL tryple per flask
+  4. tryple was neutralised with 10 mL PBS per flask
+  5. Cells were placed in a falcon tube 
+  6. cells were centrifuged for 5 minutes at 300g.
+  7. supernatant was removed and cells were resuspended in 5mL of growth media (NO P/S)
+  8. cell count was performed under a hemocytometer after a 10uL aliquot was taken and diluted using trypan blue (ratio: )
+  9. The number of cells required for the experiment was determined. 0.4 x 10^5 cells required per well.
+    1. Cells for AQP1 + ZIC1 transfection = 0.4*10^6 x 15 = 6 x0^6
+    2. Cells for AQP1 + Igfbp4 transfection = 0.4*10^6 x 15 = 6 x0^6
+    3. Cells for Igfbp4 + ZIC1 transfection= 0.4*10^6 x 15 = 6 x10^6
+    4. Cells for Control (Cas9, no guide) = 0.4*10^6 x 12 = 4.8x10^6  
+We therefore need 22.8 x 10^6 cells  
+
+Total cell number harvested = 22.776 x 10^6 cells
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=2055:2055
+
+  * 6 well plates were prepared to receive nucleofected cells based on total cell number counted (400,000 cells/well, ideally 8 plates total). Wells required were filled with 3 mL of DMEM/F12 + 20% FBS WITHOUT ANTIBIOTICS! 
+  * 6 well plates were placed in the incubator (30 degrees, 5% CO2) to warm plates with media []. 
+  * 3x T175 flasks were seeded at 7000 cells/cm^2 using some of the remaining counted cell suspension, Cells were seeded in DMEM/F12 + 20% FBS + 1xP/S and left to incubate in incubator #140
+  * 1.5mL of counted cell suspension (13.8million) was given to Bec in the form of a cell pellet
+
+
+
+
+## *Ensure cell count is performed before determining how much of the
+following reagents to make
+
+Plan: 7 well plate nucleofections. 15 wells per guide and 12 wells for
+controls
+
+Prepare guides/cas9/Cas9 electroporation enhancer
+
+  1. FASLG and AQP1 guides in TE buffer (44 uM) (stored at -20) were retrieved from the freezer
+  2. Made up Cas9 mix. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment.
+
+  
+  
+  
+  
+ComponentAmount (uL) 1 x mixAmount (uL) x55  
+Alt-R Cas9 (62 uM stock)0.316.5  
+  
+Buffer R0.211  
+  
+Total volume0.527.5  
+  
+  
+3\. Make up the Cas9 + guide mix. Below is a 1 x mix for 1 well, multiply by
+number of wells you intend to make x 1.20 to get total volume required for
+experiment.
+
+Component Amount (uL)Amount (uL) x 15 per guide  
+  
+sgRNA in TE buffer (44uM)0.5 7.5  
+  
+Cas9 in R buffer (36 uM from above)0.57.5  
+  
+Total volume115  
+  
+  
+4\. Incubated mix for 10-20 min, (tubes were left in the bench hood for 10
+minutes to incubate from [TIMESTAMP]
+
+5\. while incubating, the electroporation enhancer was prepared.
+
+  1. Buffer was removed from -20 freezer and thawed using body temperature. 
+  2. Mxes for each guide were made up to 10.8 uM solutions using 1 x TE buffer. *Below is a 1 x mix for 1 well, multiply by number of wells you intend to make x 1.2 to get total volume required for experiment.
+
+Component Amount (uL)Amount (uL) x50  
+Electroporation enhancer (100 uM)0.2211  
+  
+1 x TE buffer 1.7889  
+  
+Total volume 2 100  
+  
+  
+  
+
+  
+
+
+
+
+Nucleofection
+
+  1. The required cell number ( all cells harvested) was pipetted into a 15mL sterile falcon tube
+  2. Cells were centrifuged for 5 mins at 300g at room temp [ ]
+  3. Supernatant was removed
+  4. The pellet was resuspended in   2     mL 1x PBS (22.8 x10^6 cells/mL) 
+  5. Three 1.5mL sterile eppendorf tubes were set up inside the BSC and labelled 1-4. volumes of cell suspension in dPBS were transferred to each tube as per the guide below. 
+    1. Tube 1 - AQP1 + ZIC1 526
+    2. Tube 2 - AQP1 + Igfbp 4  526
+    3. Tube 3 - Igfbp4 + ZIC1 526
+    4. Tube 4 - Control:  421
+  6. The cells were centrifuged at 300g for 5 mins at room temp (HINGE OUT IN CENTRIFUGE)
+  7. The supernatant was removed from each tube. It is important to remove as much as possible. Use a 1 mL tip to remove most of the supernatant and then switch to a 200 uL pipette to remove a little more if necessary. Do not disturb the pellet.
+  8. To each Eppendorf tube the following mix was prepared, R buffer added first, then enhancer, then RNP. 
+
+Component1x Amount (uL) 12 x Controls (no RNP, just cas9) (uL)15 x for each
+gene (uL)  
+RNP complex from above0.839.96 (just TE)12.45 (sgRNA + cas9)  
+R buffer7.590  
+112.5  
+10.8 uM electroporation enhancer1.6720.04  
+25.05  
+Total10120  
+150  
+  
+17.The nucleofection machine was set up and 6 well plates retrieved from
+incubator
+
+18.The neon tip was inserted into the mix from above and draw up cell mix
+
+19\. The cells were electroporated with the 3 conditions below
+
+Well number on each plate. Voltage Pulse WidthPulse Number  
+1, 41700201  
+2, 51750201  
+3, 6145020 2  
+  
+  
+20\. Cells were placed back in the incubator for 72 hours.
+
+

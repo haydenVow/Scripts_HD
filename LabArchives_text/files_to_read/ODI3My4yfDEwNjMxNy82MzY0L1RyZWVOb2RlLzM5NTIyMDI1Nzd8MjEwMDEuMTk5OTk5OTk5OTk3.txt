@@ -1,0 +1,176 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Eva  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T75  
+10159  
+T175  
+10304  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleA9284  
+  
+dPBS (for washing & neutralising)M9214  
+  
+Growth MediaM8969  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     5    mL in    1 x 15 ml     tube
+  2.  dPBS (for neutralising):     5    mL
+  3.  dPBS (for washing):    5     mL
+  4. Growth media (for seeding & pellet resuspension):     30    mL
+
+Time that all aliquots were placed in the water bath the warm before use
+14:06 : 14:33 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     14:33 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added    5    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     14:59 - 15:07  pm 
+
+7\. Neutralised with     5 ml   dPBS and combined cell suspension into a
+15 ml    tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     15:13 - 15:18 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     4    mL    growth      media     15:31 pm
+
+11\. Aliquoted     10 uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:           
+  2. Volume of cell suspension required for subculture was:           
+  3. Cell density per vessel:          
+
+
+
+
+13\. Transferred      4     ml of cell suspension to the pre-warmed       26
+mL Growth media:      16:00  pm
+
+14\. Transferred cell suspension into the     T175   vessel.
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [X]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Observations/Summary:
+
+n/a
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

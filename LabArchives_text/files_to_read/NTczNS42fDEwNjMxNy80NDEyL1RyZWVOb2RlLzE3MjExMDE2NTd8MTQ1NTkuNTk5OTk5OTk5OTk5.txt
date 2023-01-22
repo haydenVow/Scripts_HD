@@ -1,0 +1,41 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/21469?cf_workflow=500000005&ct_workflow=all&project_ids=16477&group_ids=5f43336f-60bb-4b55-8ad3-7a38f5c2ae7b&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+RELATED TO MILESTONE:  Enhancing maturation based on 2x Myosin expression or
+60% MyoG
+
+AIM/PURPOSE: We are trying to explore non-chemical stimulation to drive cells
+towards more mature muscle, especially in terms of protein expression. This
+study is a followup experiment to further strengthen findings from the
+previous run, adding previously mising controls and improve upon the imaging
+issues.
+
+HYPOTHESIS: By adding mechanical stimulation we will be able to simulate a
+more muscle-like environment, activating cellular pathways that result in
+higher protein expression.
+
+RESULTS SUMMARY:
+
+Figure 1: top to bottom = increasing steepness (cone angle) and no insert
+control, right side of plate = cell-free contols
+
+CONCLUSIONS (similar to previous report):
+
+  * Cells embedded in gel matrices remain viable over the course of maturation
+  * Inexplicably, the higher volume of cell-laden matrix did not lead to formation of Bioartificial muscle constructs as suggested in literature, because the collagen matrix did not contract around the pins of the anchor inserts. This may be due to insufficient mixing and a lower concentration of cells in the anchor point samples.
+  * Overall, Cell-laden gels exhibit significant contraction and shrinkage compared to cell-free controls. Cell-free gels do not exhibit any contraction, neither with or w/o inserts
+  * If paired with passive mechanical stimulation (using conical inserts), the contraction-induced gel shrinkage results in muscle gel ring migration towards lower strain areas. Lower cone angles result in faster upwards migration and stronger overall contraction (Figure 1)
+
+NEXT STEPS (similar to previous report):
+
+  * optimize insert architecture to allow for easier harvesting and scale up
+  * combine with electrical stimulation in a similar insert type
+  * repeat with other cell types
+  * measure weight gain, gel dimensions and other maturation indicators
+  * explore alternative ways to analyze muscle maturity (imaging is tricky due to thickness of samples)
+
+

@@ -1,0 +1,37 @@
+Aim/Purpose
+
+
+to build a suitable vessel to scale maturation, initially by keeping cells
+alive in a "giant media pot" that requires minimal operator interaction
+
+
+Hypothesis
+
+
+We can ascertain sterility of the vessel and cells have access to nutrients
+and oxygen to a degree comparable with a 6-well plate
+
+
+Technical Gap
+
+
+We do not have an efficient general method to assess cell viability on
+scaffolds. Therefore, both adherence and encapsulation samples will be
+included in the reactor runs (Alginate to stain by MTT, Zein to stain by
+Calcein or Hoechst)
+
+
+Method/Procedure
+
+
+  1. Build reactor (needs to fit in incubator, >100 cm2 culture area, non-toxic material)
+  2. Test if parts can withstand autoclaving or other forms of sterilization
+  3. "dry run" to test for leakage, general parameters, deposits, sterility, ease of handling etc
+  4. "wet run" to assess viability vs traditional well plate maturation
+    1. prep scaffolds
+    2. grow and harvest cells
+    3. seed cells and fill with media
+    4. assess viability after x days in growth media and E6
+  5. repeat to assess reliability before handoff to production
+
+

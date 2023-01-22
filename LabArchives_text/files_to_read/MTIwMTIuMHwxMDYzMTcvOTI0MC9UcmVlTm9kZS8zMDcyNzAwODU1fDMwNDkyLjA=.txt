@@ -1,0 +1,136 @@
+
+
+See the attached for details/calculations:
+https://docs.google.com/spreadsheets/d/1LJ8o3Vk9UI4z1t0zF-
+dHdsyM1I83PEtl0xqi00w4_Yw/edit#gid=1244524761
+
+
+
+
+## Performed by: BT/AS
+
+
+
+
+Culture IDs:
+
+Harvested Flasks ID(s)Confluence \+ observations  
+Cell line  
+Media  
+  
+13200100%KHAKIO  
+OptiPRO + 4 mM Glutamax  
+13151  
+90-100%  
+MUSCOOptiPRO + 4 mM Glutamax  
+
+
+  
+  
+Media/Reagents used:
+
+NameID  
+DPBS13299  
+  
+Tryple13300  
+  
+OptiPRO + 4 mM Glutamax13309  
+  
+CCK8  
+
+
+  
+  
+Plate Layout: Cells per well
+
+  
+
+
+
+
+Harvest Process:
+
+Aliquoted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath > 30 minutes prior to use
+
+  1. Observed cultures under the microscope and recorded confluence in the table above. 
+  2. Imaged cultures on 10x magnification (captured in Mia)
+  3. TrypLE:   300  mL 
+  4. dPBS (for washing & neutralising)   450 mL
+  5. Growth media (for pellet resuspension and seeding):   60 mL
+  6. Washed the flask(s) with dPBS.
+  7. Added   200  and 100 mL  tryple to each vessel/well and incubated at 37˚C for    10 mins 
+  8. Neutralised with   200 and 100 mL dPBS (warmed) and combined cell suspension into   50 and 250 mL tubes.
+  9. Centrifuged at 650 x g for 5 min.
+  10. Aspirated+ discarded supernatant
+  11. Resuspended pellet(s) in     30 and 30mL media.  
+Performed cell count triplicates using the hemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  12. Total cell number was:   
+KHAKIO - 262,260,000  
+MUSCO - 83,200,000
+
+
+
+
+Cell Plating Process:
+
+  1. Calculated the total number of cells needed for this assay + margin of error.
+  2. Calculated volume of resuspension for column 2 + margin of error. See attached calculations as an example: https://docs.google.com/spreadsheets/d/1LJ8o3Vk9UI4z1t0zFdHdsyM1I83PEtl0xqi00w4_Yw/edit#gid=1244524761 
+  3. Centrifuged required cells at 650 g x 5 mins: 
+  4.  Label tubes for each dilution. 
+  5. Aspirated + discarded supernatant. 
+  6. Resuspended pellet in required volume: 1200 ul 
+  7. Performed a serial dilution (1 mL media : 1 mL cells) into each corresponding tube. 
+  8. Dispensed 100 ul of cells per well to each corresponding column. 
+  9. Dispensed 100 ul of media to the media columns. 
+
+  
+
+
+
+
+Assay Process:
+
+  1. Added 10 ul of WST-8 Solution per wells. 
+  2. Measured the absorbance increase at 460nm at time points below:
+
+Incubation Time (hrs)Time WST-8 was addedTime Plate Read  
+216:5018:50
+
+
+Raw Data
+  
+  
+Celleca count
+
+
+
+
+2 hr Time Point
+
+
+Results
+
+
+See attached spreadsheet: https://docs.google.com/spreadsheets/d/1cBTMEj_-
+WuFO00TQBBfb9lcDc9zkSYEmt90Oc6uYAcw/edit#gid=0
+
+  
+
+
+
+
+KHAKIO Celleca
+
+
+
+
+MUSCO Celleca
+
+

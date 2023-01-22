@@ -1,0 +1,175 @@
+
+
+Image scaffolds for cell seeding on both sides of scaffolds - write
+observations on cell coverage
+
+  
+
+Reagent Preparation:
+
+ReagentMix/Stock/Aliquot Number  
+  
+Growth Media - DMEM/F12 + 20% FBS + 1 X P/S + p38i
+
+M4235 + 3978 (p38i)  
+Hoechst StainS1403  
+  
+  
+
+This test was done in parallel with entry EPIC16060: Hoechst survival test
+experiment D1 16/4/21 Hoechst and Dapi staining of Zein Scaffolds + culture
+plates. Protocol written by BT.
+
+Hoechst staining protocol.
+
+Trial staining was first performed on N=1 scaffold (seeded by JB on 15/04/21)-
+Non sterile
+
+  
+
+1\. N=1 scaffold (seeded by JB on 15/04/21) #6403 was transferred to a new 96
+well plate.  
+
+2\. 5ul of Hoechst stain was added to 245ul of growth media.  
+
+3\. Scaffold covered with 100ul/well of Hoechst/media mix and incubated cells
+at 37°C for 10 minutes, protected from light. 13:20-13:30
+
+4\. Wash with 2x with 200ul PBS for 5 minutes. 13:32, 13:37  
+5\. Imaged.  
+
+  
+
+After successful trial staining, Hoechst staining was performed on more
+scaffolds.
+
+  
+
+Note: For continual live cell perform all staining in the BSC.
+
+  
+
+This staining was to be done on the bench so N=2 seeded scaffolds were removed
+from 6404 and N=2 seeded scaffolds were removed from 6402.
+
+  
+
+  
+
+  
+
+Prepare 1ml per well for 24well plates, and 100ul per well for 96 well plates.
+Use Hoechst at 20ul/mL.
+
+  
+
+  1. Prepared Hoechst stain by adding 600 ul of Hoechst to 3ml of growth media. 16:00  
+  
+
+  2. Hoeschst/media mix was sterilised using a syringe filter. 
+  3. Media was removed from N=3 cell seeded scaffolds and N=4 cell free scaffolds in plate 6403 as well N=3 seeded scaffolds on plate 6402  
+
+  4. Covered these wells with 100ul hoechst/media mix and incubate cells at 37°C for 10 minutes, protected from light. 17:27
+  5. Removed hoechst/media mix. 
+  6. Wash with 2x with 200ul PBS for 5 minutes.
+  7. Replaced PBS with fresh growth media for imaging. 
+  8. Imaged. 
+  9. After imaging returned to plates incubate at 37°C and 5% CO2.  
+  
+Reagents  
+Hoeschst: 1403  
+DMEM/F12 + 20%FBS +1x p/s: 4235, p38i 3978  
+PBS: 4218
+
+  
+
+Imaging
+
+Note in observations:
+
+\- Topography
+
+\- Coverage more or less
+
+\- One side more seeded than the other
+
+  
+
+Seeding TypeDry or wet?Number of SamplesPoked or not poked during
+drying?Handing NotesImage notes  
+SuspensionDry2PokeStuck to base. One sample able to be pulled off in one piece
+but difficult. One sample not able to get off the bottom of the well and
+torn.Topography looks drier, with more cracks and sharper edges. Looks like
+possibly more cell coverage than wet. More coverage on the one side with more
+rough looking topography than the other flatter side.Cells appear to cluster
+in the cracks of the scaffold.  
+  
+  
+SuspensionWet1PokeEasy to handle.Better coverage of cells on one side than the
+other flatter-looking side. Sample not transferred to a new well before
+imaging like the rest.  
+  
+  
+Flipped and Seeded Both SidesDry2PokeNot stuck as much and easier to handle
+than suspension dry but more difficult to handle than wet.Topography looks
+drier, with more cracks and sharper edges. Looks like possibly more cell
+coverage than wet. Good cell coverage on both sides. Cells appear to cluster
+in the cracks of the scaffold.  
+  
+  
+Flipped and Seeded Both SidesWet1PokeEasy to handle.Good coverage of cells on
+both sides. Sample not transferred to a new well before imaging like the rest
+so some cells present on the bottom of the plate.  
+  
+  
+Cell FreeDry4  
+Not PokedNot stuck as much and easier to handle than suspension dry but more
+difficlt to handle than wet.NA  
+  
+  
+
+General observations:  
+Dryer samples seemed to have more cell coverage but also looked drier, with
+cracks and sharper edges. It looked like it would be more crumbly but still
+handled well. Many samples had a 'flat' side which seemed to possibly have
+less cells.
+
+  
+
+Images in MIA:
+
+Plate 6403 (Flipped and Seeded Both Sides)
+
+https://mia-capture.vow.tools/#/session/recXQRBKW0y9Rf0mq/images
+
+Plate 6402 (Suspension Seeded)
+
+https://mia-capture.vow.tools/#/session/recZ3CKSioSUVQFht/images
+
+
+
+
+Ella's observations/summary:  
+  
+\- wet samples are easier to handle and do not stick to the base of the wells
+
+\- dry samples more likely to stick to base of well and become more difficult
+to handle, especially when seeded by suspension
+
+\- no obvious advantage at this timepoint for drying over seeding of wet
+samples
+
+\- to me it looked like the wet samples which were seeded on both sides had
+the best cell coverage
+
+\- drying had an effect on surface topography (more cracked and crispy) which
+was not recovered by time in media post drying  
+\- It will be interesting to see if the drying conditions and/or the seeding
+conditions demonstrate any advantageous or disadvanatageous effect on cell
+adhesion maintenance in E6 at the D7 diff timepoint (Friday)
+
+  
+
+  
+
+

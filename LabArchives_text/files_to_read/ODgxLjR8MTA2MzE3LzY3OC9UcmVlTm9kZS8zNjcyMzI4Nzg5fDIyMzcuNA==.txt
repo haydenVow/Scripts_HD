@@ -1,0 +1,306 @@
+
+
+Perform process using below volumes:
+
+  
+
+  
+
+
+
+
+  
+
+
+
+
+
+
+D1 MuSC Prolif samples- Fix, MyoD, TE-7, DAPI stain and Image 1 sample from
+each condition. Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+
+
+
+Primary Antibody Staining
+
+  
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared  2 mL  PBST (0.2% Triton-X)
+
+2\. Prepared  2 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix:   5µL   Primary #1 MyoD (Santa Cruz)
+(1:200  ) + 995 µL Blocking Buffer  
+  
+Total volume required = 1000 uL
+
+4\. Prepared Primary Antibody Mix:  10 µL   Primary #1 TE-7   (1:100  ) + 990
+µL Blocking Buffer  
+  
+Total volume required = 1000 uL
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Primary)  
+MyoD (Mouse Anti-MyoD (IgG2b))  
+IgG2bAF555 tagged to anti-mouse IgG2b antibody1:200  
+Anti TE-7 (Mouse anti fibroblast antibody)IgG1  
+AF488 tagged to anti-mouse IgG1 antibody  
+1:100  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added 150 µL PBST (0.2% Triton-X) to each well for 15 min: 10:42 - 10:57
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  150 µL of blocking buffer per well (3% BSA in PBST [0.1% Triton-X])
+and incubate for 45 minutes - 1hr at RT. (no more than 1 hour):  11:00 - 11:50
+
+
+
+
+Single Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90 mins - 2 hr, wrapped in foil:
+12:00 - 13:30  
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking BufferM4442  
+PBST (0.2% Triton)M4441  
+dPBSA4490  
+Primary Antibody Mix (MyoD)S260  
+Primary Antibody Mix (TE-7)S935  
+  
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+  
+
+
+
+
+Secondary Antibody Staining
+
+  
+
+Culture ID(s)Vessel TypeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of196-well plate10  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted   14 mL   PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+1µL   Secondary #1 AF555 IgG2b  (1:1000  ) +   999µL Blocking Buffer (PBST
+(0.1% Triton X + dPBS) + 3% BSA)  
+
+Total volume required =  1000 uL
+
+4\. Prepared Secondary Antibody mix:
+
+ 1µL   Secondary #1 AF488 IgG1  (1:1000  ) +   999µL Blocking Buffer (PBST
+(0.1% Triton X + dPBS) + 3% BSA)  
+
+Total volume required =  1000 uL
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI (1:1000) mix:
+
+ 999 uL  PBS +  1 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Secondary)  
+Anti TE-7 (Mouse anti fibroblast antibody)IgG1AF488 tagged to anti-mouse IgG1
+antibody1:1000  
+MyoD (Mouse Anti-MyoD (IgG2b))IgG2bAF555 tagged to anti-mouse IgG2b antibody  
+1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate after being incubated with primary antibodies.
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+13:36 - 13:41
+
+13:43 - 13:48
+
+13:49 - 13:54
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  14:02 - 15:02
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  15:05
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+15:07 - 15:12
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+15:13 - 15:18
+
+15:19 - 15:24
+
+4\.  Replaced dPBS.
+
+15:25  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM4442  
+dPBSA4490  
+Secondary Antibody AF555 IgG2bS1966  
+Secondary Antibody AF488 IgG1S1606  
+DAPI (1:1000)M2193  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recTez0v0jNcoEKny/images \- Friday May
+07
+
+

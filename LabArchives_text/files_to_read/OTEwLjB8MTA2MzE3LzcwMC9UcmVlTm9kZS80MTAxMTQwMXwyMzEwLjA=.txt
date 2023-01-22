@@ -1,0 +1,210 @@
+Final Report.
+Brief Background
+
+
+To feed cultured meat to feed billions we require enormous amounts of cells.
+This requires us to maximize the number of cells we can grow per unit of
+volume. Microcarriers are a mature technology designed to maximize adherent
+cell densities in culture. Microcarriers, free floating spheres suspended in
+media, provide a greater surface area to volume ratio an orders of magnitude
+higher than traditional planar cultures for growing adherent cells. However
+this platform is more challenging to monitor increases in cell density
+compared to traditional planar culture. Cell numbers on microcarriers can not
+be easily estimated using inspection under PHASE microcosopy. Therefore we
+require a way to accurately and precisely monitor the cell numbers in these
+suspensions in order to make judgements about downstream processing of our
+cells. This information will be valuable to us in answering questions such as;
+when should cells be ready for harvesting? How will cells respond to new media
+or environmental conditions? in this experiment we attempted four methods to
+estimate cell numbers in one microcarrier suspension culture.
+
+Cell numbers in one 60mL suspension culture containing cytodex 1 microcarriers
+(4.5mg/mL) with primary cells isolated from sheep (DOLLY12) was estimated
+using 4 quantification methods.  
+
+  1. Trypsin detachment and Trypan blue cell counting 
+  2. Hoechst 33342 staining with MIA automated cell counting, 
+  3. Opentron Fix and DAPI stain with manual cell counting. 
+  4. Hoechst 33342 staining with Nuclei ejection and FIJI quantification.
+
+Cell number estimates obtained from trypsin harvest and trypan blue cell
+counting were not included in our final comparative analysis. This resulted
+from low cell numbers obtained from our harvest method
+
+  
+
+
+Key Findings
+
+
+  
+
+Figure 1: Cell density estimates of one DOLLY12_11E7 suspension culture
+sampled and processed using different estimation methods n=5. An ordinary one
+way ANOVA was performed for statistical significance between estimates between
+means. A significant difference in mean cell density between each method was
+found (**** = P<0.0001, F = 26.10).
+
+
+
+  
+
+Figure 2: Coefficients of variance between each counting method.
+
+
+
+
+
+  
+
+There was a significant difference in cell density estimates between all
+methods.
+
+  * Manual counting of cells on fixed and DAPI stained cells on microcarriers produced variance similar to our automated MIA counting tool when estimating cell densities. 
+  * Our harvest methods, while precise, are not optimized for recovering the maximum number of cells from our cultures. 
+  * The Opentron was able to successfully fix and DAPI stain cytodex 1 microcarriers. 
+  * DAPI is absorbed by the cytodex 1 microcarriers, making them auto fluoresce. 
+  * Our nuclei ejection method produced a high level of variance when estimating cell density in our microcarrier suspension cultures compared. 
+  * The high variance in counts from our nuclei ejection method may be the product of outliers in our dataset. 
+
+
+Discussion
+
+
+Quantification by trypsin harvest and cell count:
+
+The average cell concentration estimated from this method was much lower than
+expected. There was a ~85% decrease in cell concentration between cells
+harvested and cells input. The low cell counts may have resulted from a
+suboptimal harvest practice. This included an extended time exposed to trypsin
+volumes below the ideal minimal working volume of the vessel used during
+harvest.  The DOLLY12 cells on microcarriers were investigated pre and post
+harvest by hoechst 33342 staining and imaging. Cells post harvest were seen to
+have 'smeared' nuclear material over their surfaces (figure 3-4) compared to
+the pre harvested carriers (see figures 1-2). Cell number estimates obtained
+from trypsin harvest and trypan blue cell counting were not included in our
+final analysis. Due to time investments during harvest this method is not
+suitable for quick estimations of cell number of suspension cultures.
+
+Figure 2: DOLLY12 cells on microcarriers pre harvest, 5x objective, Phase
+
+
+
+Figure 3: DOLLY12 cells on microcarriers pre harvest, 5x objective, DAPI
+
+
+
+  
+
+Figure 4: Cytodex 1 microcarriers with DOLLY12 cells on microcarriers after
+Trypsin harvest5x objective, PHASE.
+
+
+
+Figure 5: Cytodex 1 microcarriers with DOLLY12 cells on microcarriers stained
+with Hoechst 33342 after Trypsin harvest. 5x objective, DAPI channel.
+
+
+
+Hoechst 33342 staining with MIA automated cell counting,
+
+This method produced the highest estimation of cell concentration in the
+analyzed culture out of all the methods (Figure 1). The cell concentration in
+the suspension was estimated to be ~90% higher than at the time of seeding.
+This method continues to be are most reliable method for quantifying cell
+numbers in microcarriers going forward due to its high precision.
+
+  
+
+Opentron Fix and DAPI stain with manual cell counting.  
+
+Cells on microcarriers were able to be successfully fixed and stained by the
+opentron robot. The cytodex 1 microcarriers were seen to absorb the DAPI stain
+producing a background fluorescence that varied between carriers (Figure 6).
+Image captured of DAPI stained carriers could not be processed by any of our
+current automated FIJI analysis tools in MIA due to this background
+fluorescence. Cell numbers were therefore counted by hand. This method was
+also noticeably slow in throughput, with the opentron taking ~1h to stain
+5x1mL samples using its single P1000 pipette head. For quick quantification of
+cell densities in our suspension cultures this method would not be ideal.
+
+
+
+Figure 6: Cytodex 1 microcarriers with DOLLY12 cells. Cells were grown over 3
+days in suspension then fixed with 4% PFA then stained with DAPI
+
+ Hoechst 33342 staining with Nuclei ejection and FIJI quantification.
+
+This method adapted from flow cytometry preparation protocols1 was the fasted
+of the methods tested but produced the highest level of variance in cell
+density estimate (Figure 1). Images of hoechst stained nuclei loaded into a
+'Countess' chamber were processed using a local thresholding FIJI macro to
+obtain the cell density estimate (Figure 8). There was also heterogeneity in
+fluorescence signal observed between nuclei. This led to some images having
+more 'bright' spots than others. The local thresholding function in the FIJI
+tool was affected in its ability to detect faintly stained nuclei between
+images. The tool detected fewer faintly stained nuclei in images with more
+bright spots (Figure 7A and 7B) compared to images with less bright spots
+(Figure 7C and 7D). This may account for the high variance observed in the
+cell density estimate. Further testing of this method with additional
+suspension cultures will help to validate whether the variance observed in
+this experiment is consistent. It is also possible that the faint spots in the
+images below may result from nuclei fragments. Additional steps may need to be
+optimised in our protocols to improve preparation of our nuclei suspensions.
+10X genomics has support documentation around preparation of nuclei ejection
+suspensions that we may be able to replicate for our needs2. Some changes that
+we could possibly implement would be keeping our lysis buffer on ice during
+cell lysis, centrifuging and washing nuclei after lysis to remove debris.
+
+
+
+Figure 7: Ejected nuclei. nuclei were stained with hoechst 33342 were imaged
+under 10x objective on the Axiovert microscope under UV fluorescence (A, C).
+Images A and C were then processed using a local thresholding FIJI tool to
+count nuclei (B, C).
+
+
+
+* * *
+
+1He, M., Stacker, S. A., Rossi, R., & Halford, M. M. (2017). Counting nuclei
+released from microcarrier-based cultures using pro-fluorescent nucleic acid
+stains and volumetric flow cytometry. BioTechniques, 63(1), 34-36\.
+https://doi.org/10.2144/000114568
+
+2https://assets.ctfassets.net/an68im79xiti/6FhJX6yndYy0OwskGmMc8I/e2677be827e82cd954ecfb8b30278e5e/CG000124_SamplePrepDemonstratedProtocol_-
+_Nuclei_RevD.pdf
+
+
+Conclusion
+
+
+Through this experiment we were able to demonstrated the following.
+
+  * Our MIA analysis tool is able to return cell counts on carriers with the same precision as a manual inspection and quantification by eye. 
+  * Our harvest methods, while precise, are not optimized for recovering the maximum number of cells from our suspension cultures. Therefore this method cannot be relied upon to estimate total cell numbers in our cultures prior to any harvest.  
+  * The opentron robot is able to fix and dapi stain microcarrier cultures for downstream cell quantification or staining efforts. However new tools will need to be developed to process images of these carriers given the fact that dapi is absorbed by the cytodex 1 microcarrier. 
+  * Our nuclei ejection protocol is our least precise method for quantification of cell number in our microcarrier cultures. We will need to further improve this precision to rely on the method for accurate cell density estimates in our suspension cultures. 
+
+
+Future Directions
+
+
+Based on the conclusions above we should proceed with the following efforts.
+
+  * Repeat this method of nuclei ejection to gather more data on cell densities in suspension culture. This should help us validate that the current method lacks the precision we showed in this experiment. If the precision is still low then the following efforts should be made to improve the nuclei ejection method. 
+    * Prepare a chilled lysis buffer (4oC) (10 mM Tris-HCl, 10 mM NaCl, 3 mM MgCl2, and 0.1% Nonidet™ P40 Substitute in Nuclease-Free Water)
+    * Prepare chilled (4°C) Nuclei Wash and Resuspension Buffer: (1X PBS with 1.0% BSA).
+    * Trial the following method. 
+    *   
+
+  
+
+  * Further optimize our harvest methods to improve cell collection and/or detachment. 
+    * Add additional shaking time in the incubator during detachment 
+    * Incubate for longer in detachment reagent
+    * Include a filtration step during collection to remove the need for microcarrier sedimentation.  
+
+  
+
+

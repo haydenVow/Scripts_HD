@@ -1,0 +1,327 @@
+
+
+
+
+
+Passage Culture IDs:
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)
+
+Harvested Vessel ID(s)  
+  
+6628
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+### Prepared materials:
+
+1\. Aliquotted the required volume of each reagent and then placed all
+aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+  1. dPBS (for washing before Trypsinization), 100 mL per g Cytodex 1:     1000    mL in      2 L   bottle
+  2. Trypsin/EDTA, 100 mL per g Cytodex 1:     500    mL in     500 mL    bottle placed in the water bath the warm before use     14:15    
+
+  3. FBS (for neutralizing) 100 mL per g Cytodex 1:     100    mL in     50 mL    tubes placed in the water bath the warm before use     14:15    
+
+  4. dPBS (for washing microcarriers after Trypsinization), 100 mL per g Cytodex 1:      1000   mL in   2 L     bottle
+  5. Growth media (for pellet resuspension):     50    mL in     2 x    specimen jars placed in the water bath the warm before use     14:15    
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+Took samples
+
+  1. Pumped out microcarriers 18:09 - 18:14
+  2. Aspirated 1 mL of well suspended sample and transferred to a centrifuge tube
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+  
+Operator initialsTT  
+  
+Checked by operator initials  
+  
+Timestamp18:15  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Added 1 drop of Hoechst ready reagent to the 1 mL sample then vortexed for 5 x 1 second to mix
+  2. Added 5 x 100 uL of the sample to 5 x wells on a 96 well plate.
+  3. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 18:18 - 18:28 |`
+  4. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  5. Using https://mia-capture.vow.tools/#/, 3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  6. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  7. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+## First wash to remove serum:
+
+  1. Stop the stirrer 15:10
+  2. Allow the microcarriers to settle for at least 10 minutes
+  3. Raised the harvest pipe to ~15 mm above the line of the settled microcarriers and turned it so that the tip rested against the glass wall
+  4. Pumped out the supernatant using SUBS-A pump at full speed 15:20 - 15:48
+  5. Start pump to add 500 mL of the fresh, pre-warmed dPBS for prewashing to the bioreactor 15:49 
+  6. Turn on the impeller
+  7. Stop pump to after adding 500 mL of the fresh, pre-warmed dPBS for prewashing to the bioreactor  15:54
+  8. Turn off the impeller
+
+  
+
+
+
+
+## Second wash to remove serum:
+
+  1. Once microcarriers are completely resuspended, turn off the impeller 15:54
+  2. Allow the microcarriers to settle for at least 10 minutes 16:04
+  3. Pump out the supernatant 16:05 - 16:10
+  4. Pump 600 mL of the fresh, pre-warmed dPBS for prewashing to the bioreactor 16:11 - 16:16
+  5. Turn on the impeller
+  6. Turned off the temperature control as it was over compensating (went up to 40 deg C) for the changing liquid levels (probably because PBS was not pre warmed)  
+
+  7. Turned off the pH control as it was overcompensating
+
+  
+
+
+
+
+## Add detachment agent:
+
+  1. Allow the microcarriers to settle for at least 10 minutes 16:17 - 16:27
+  2. Pump out the supernatant 16:28 - 16:33
+  3. Pump in 500 mL of fresh, pre-warmed Trypsin/EDTA solution and 60 mL of 100 g/L poloxamer 188 solution 16:34 - 16:39
+  4. Turn on the temperature control  
+
+  5. Turn on the impeller at 300 RPM, as per the calculated speed to achieve 0.11 W/kg specific power dissipation: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing 16:40 - 16:47
+  6. Noticed the pH was very high , over 10, turned the pH control on again 16:49
+
+  
+
+
+
+
+## Neutralize the detachment reagent:
+
+  1. After `7-15 `minutes, pump in 120 mL of fresh, pre-warmed FBS and 75 mL of 10% pluronic solution to the bioreactor 16:48 - 16:50
+  2. Turn off the stirrer
+  3. Allow the microcarriers to settle for at least 10 minutes 16:51 - 17:01
+  4. Pump out the supernatant to the harvest bottle. 17:02 - 17:07
+
+  
+
+
+
+
+## Recover pellet, prepare suspension for counting and subculture:
+
+  1. Transfer the harvested suspension to 36 - 40 x 50 mL centrifuge tubes
+  2. Centrifuge the tubes at 650 - 700 RCF for 5 minutes
+  3. Aspirate supernatants
+  4. Combine the cell suspensions into 1x 50 mL centrifuge tube 15 mL volume 17:55
+  5. Wash out each tube with the remainder of the fresh, pre-warmed growth medium and combine with the cell suspension
+
+  
+
+
+
+
+## Performed cell count:
+
+  1. Aliquoted    10 uL      of resuspended cells into a microcentrifuge tube for cell count.
+  2. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1057:1057
+
+  1.  Total cell number was:      1.98 million       
+
+
+
+
+##  ~~First wash to recover additional cells:~~
+
+  1.  ~~Pump in 600 mL of fresh, pre-warmed dPBS solution and 67 mL of 10% pluronic solution to the bioreactor.~~
+  2.  ~~Turn on the stirred until the microcarriers are resuspended, then turn off the stirrer.~~
+  3.  ~~Allow the microcarriers to settle for at least 2 minutes~~
+  4.  ~~Pump out the supernatant to the harvest bottle~~ ~~~~
+
+Not performed due to poor count in initial recovery
+
+
+
+
+##  ~~Second wash to recover additional cells:~~
+
+  1.  ~~Pump in 600 mL of fresh, pre-warmed dPBS solution and 67 mL of 10% pluronic solution to the bioreactor.~~
+  2.  ~~Turn on the stirred until the microcarriers are resuspended, then turn off the stirrer.~~
+  3.  ~~Allow the microcarriers to settle for at least 2 minutes~~
+  4.  ~~Pump out the supernatant to the harvest bottle~~ ~~~~
+
+Not performed due to poor count in initial recovery
+
+
+
+
+#  ~~ ~~Optional: sieve cell suspension to remove microcarriers~~~~
+
+  1.  ~~ ~~Pass the cell suspension through a 40 - 100 um pore-size sieve to remove any errant microcarriers.~~~~
+
+
+
+
+### Recovered remaining microcarriers from bottom of bioreactor
+
+  1. Pumped 1000 mL of PBS and 150 mL of Poloxamer 188 into bioreactor 18:24 - 18:34
+  2. Turned on stirring at 90 RPM
+  3. While stirring, pumped out contents of bioreactor
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)Amount  
+  
+dPBS (for washing)  
+M4807  
+2000 mL  
+  
+Trypsin solution  
+S199  
+500 mL  
+  
+FBS (for neutralizing)  
+A3004, A3188, A4694  
+100 mL  
+  
+DMEM/F12  
+M4358, M4527  
+50 mL  
+  
+Poloxamer 407  
+M3252  
+250 mL  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+The cells were successfully detached from the microcarriers but could not be
+recovered from the broth.
+
+
+
+
+SOPs used:
+
+### None
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ X ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Before harvest:
+
+https://mia-capture.vow.tools/#/session/rech05YADTjKyFohm/images#group4
+
+GSheet results
+
+https://docs.google.com/spreadsheets/d/1Farg8IgYLXhMiTw-
+wsAq23y98pgH-4LjjyYgusxd8zo/edit?usp=sharing
+
+  
+
+After harvest:
+
+

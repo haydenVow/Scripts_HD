@@ -1,0 +1,119 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+## Performed by: Shaleen  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM) + 2 g/L P188 + 30 uL/L Antifoam C
+
+Total media required: 500mL
+
+Total p38i required: N/A
+
+Total bFGF required: N/A
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+E2000  
+7343  
+  
+E2000  
+7344  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+Aliquotted  500 mL  mL of  growth Media into 1x 500 bottle    (stored in the
+main lab media fridge with '10-07-21 SAT feed' and '7343 and 7344' on it).
+12:20 09/07/21
+
+  
+
+1\. Placed aliquot in water bath   11:17 a/pm
+
+2\. Stopped the shaker and removed cultures from the incubator (top Sanyo in
+main lab) before restarting the shaker   12:20 a/pm
+
+3\. Placed suspension flask(s) inside the BSC and allowed to sit static for
+3-5 minutes to allow microcarriers to settle to the base of the flask.
+
+2\. Carefully removed  50  % of supernatant from the flask(s) by pipetting
+slowly and following the meniscus with the pipette tip so as to avoid placing
+the pipette tip near the microcarriers at the base of the flask(s).
+
+3\. Replaced with  250 mL (per well/per vessel) of   growth  media.
+
+4\. Returned vessel to incubate at:   12:37 a/pm , shaking at 90 RPM in
+incubator #  81  
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. Cultures were not shaking as of 12:20pm when top Sanyo was opened to feed flasks. Notified Tom via Slack.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation MediaNo Mix ID specified on aliquot  
+500mL (total)  
+  
+ P38i (20mM stock)N/A  
+N/A  
+  
+FGFN/A  
+N/A  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

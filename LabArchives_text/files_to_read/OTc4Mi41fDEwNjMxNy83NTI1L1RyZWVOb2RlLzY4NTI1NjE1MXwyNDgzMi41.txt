@@ -1,0 +1,120 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: VB LP  
+
+
+
+
+Culture IDs:
+
+Seeded vessel typeSeeded flask IDAGGREGATION METHOD  
+Media  
+4x 10CS11157-F_KUZCO20324-P6-3of5  
+ (not fed today)  
+  
+CHOMP AGGREGATION METHOD  
+375mL Media+VitC (50ug/mL)+TGFb (10ng/mL)  
+  
+1x 5CS11159-F_KUZCO20324-P6-5of5  
+  
+1x 5CS  
+11164-F_KUZCO20324-P6-5of5  
+  
+DOLLY AGGREGATION METHOD 375 mL DMEM/F12 20% FBS + VitC (0.5mL/L = 0.188mL
+VitC needed)  
+  
+  
+.
+
+
+
+
+Media/Reagents used:
+
+NameID  
+Volume used (mL)  
+Growth media (IH012 D/F+20%FBS) (for dolly method)  
+ALQ11360  
+375mL  
+  
+Vit. C  
+A10219  
+0.188mL  
+  
+Growth media (for chomp method)  
+ALQ11178  
+375L  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted 2x 375 mL of respective growth medias above  
+
+  2. Placed in water bath  15:20
+  3. Removed  50  % of supernatant from vessel. 
+  4. Replaced with  375mL  per vessel  of  Growth   media. 
+  5. Returned vessel to incubate at: 16:10
+  6. harvest the peeling cells from 11159-F_KUZCO20324-P6-5of5 (chomp method 1x5CF)
+    1. Pour supernatant into a sterile 1L bottle
+    2. Let the peeled cells settle to the bottom of the flask and aspirate the supernatant
+    3. pour the remaining cells and media into 2x 250mL centrifuge tube.
+    4. Centrifuge the pellet at 650g for 5min (room temp) 16:38   \- 16:43
+    5. Aspirate supernatant until 20mL remains. (note the pellet did not settle and remained in flaking pieces floating in supernatant after the centrifuge)
+    6. Move cells and remaining supernatant into a 50mL falcon tube and centrifuge for 1 minute at 650g 16:55 - 16:56
+    7. weigh the cells 
+      1. weight of tube alone: 12.5g
+      2. tube + cells: 14.1407g
+      3. Final weight of the cell pellet: 1.6407g   
+
+    8. place in a -20 C Freezer 17:28
+
+  * [X ]  -20 C freezer 42 Ralph St (main lab)  
+
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#155), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  * 11158-F_KUZCO20324-P6-4of5 (4/4 CHOMP METHOD) - CRACKED
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+  
+
+
+
+
+SOPs and other Relevant Information for this Experiment:
+
+  * ### F_KUZCO20 Prototype Expansion Timeline and Doublings Tracker
+
+  * ### Pipeliners 5 Prototypes Production Gantt chart Q1 2022:
+
+  * ### Incubator Space Tracker
+
+

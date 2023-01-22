@@ -1,0 +1,126 @@
+  
+  
+## Performed by: LL  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+2308-Culture-6303-Vial-29of115  
+
+8229-DOLLY12-Sheep P8-1of4  
+8230-DOLLY12-Sheep P8-2of4  
+8231-DOLLY12-Sheep P8-3of4  
+8232-DOLLY12-Sheep P8-4of4
+
+60 mm plate  
+  
+8233-DOLLY12-Sheep P8-1of1  
+8234-DOLLY12-Sheep P8-1of1  
+T25  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Anti-clumping agent  
+  
+Growth Media (D/F + 10% FBS + 1x PS)  
+  
+dPBS  
+a5495  
+  
+1% Agarose solution  
+m6842  
+  
+Poloxamer 407 (100g/L solution)  
+m5497  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+  1. Made media for re-suspending the cells: 
+    * 5 mL re-suspension medium (DMEM/F12+10%FBS)   
+
+    * Growth medium for seeding (DMEM/F12 + 10% FBS + 1x PS + 1:100 ACA)
+      * 10 mL, 0.5 mL, 0.5 mL & 0.5 mL aliquots in 4 x 15 mL tubes for droplet seeding and serial dilution 
+    * Time that aliquots were placed in the water bath to warm before use: 16:05  
+
+  2. Prepare agarose-coated T25 flask 
+    1. Set water bath to 90'C 
+    2. Place glass bottle containing autoclaved 1% Agarose solution in 90'C waterbath for 30 minutes or until it becomes a pourable liquid 13:22 - 14:15 (hit 90'C at ~13:45 )
+    3. Submerge flask into waterbath (keep lid above water) for 1 min to warm up once Agarose solution is ready
+    4. Quickly bring both glass bottle and flask into BSC
+    5. Pour liquid Agarose solution into T25 and swirl in flask to fully coat internal surface
+    6. Discard any excess solution from flask
+    7. Allow to set at RT for minimum 2 hours 14:20 - 18:00
+
+  
+
+
+
+
+## Thaw and seed droplets:
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 3 min    17:16 - 17:19   
+
+    * Location where cryovial was collected from:  
+Vial details: 1 x DOLLY12_F cryovial at 1M cells each for a total of 1M cells  
+Brew  
+Tower/Bucket # 2  
+Box/Cane # 2  
+Vial location: F2  
+Vial ID(s): 2308-Culture-6303-Vial-29of115
+
+  2. Ethanol sprayed & transferred the vial(s) to the BSC. 
+  3. Added 0.5 mL of Growth Media (to generate a total volume of 1mL in the cryovial) to the cryovial, then transfer to 15 mL tube containing 5 mL warmed medium
+  4. Centrifuged 15 mL tube for 5 minutes at 600 x g. 17:21 - 17:26
+  5. Aspirated 100% of supernatant and resuspended in 10 mL Growth Medium (for seeding)
+  6. Using a 10 mL serological pipette, resuspended & distributed the cells evenly 
+  7. Perform serial dilution:
+    1. Collected 3 x 0.5 mL aliquots of warmed growth medium 
+    2. Took 1 x 500 uL aliquot from the 10 mL cell suspension (100,000 cells / mL) and added to 1 x 500 uL aliquot (1 mL, 50,000 cells / mL)
+    3. Took 1 x 500 uL aliquot from the 1 mL (50,000 cells / mL) cell suspension and added to next 500 uL aliquot (1 mL, 25,000 cells / mL)
+    4. Took 1 x 500 uL aliquot from the 1 mL (25,000 cells / mL) cell suspension and added to the final 0.5 mL aliquot (1 mL, 12,500 cells / mL) 
+  8. Hung 20 (+/-2) x 10 uL droplets per lid of 4 x 60 mm plates with each plate seeded with a different cell seeding density (e.g. plate 1 droplets contained 100,000 cells / mL, plate 2 droplets contained 50,000 cells / mL, plate 3 droplets contained 25,000 cells / mL, and plate 4 droplets contained 12,500 cells / mL)
+  9. Hung 20 (+/-2) x 10 uL droplets on a fifth plate with ~5 droplets of each seeding density
+  10. Retrieved Agarose-coated and uncoated T25 flask and brought into BSC
+  11. Using a 10 mL serelogical, resuspended and evenly distributed cells within the growth medium then transferred 4.5 mL to a new 15 mL tube (2 x 4.5 mL aliquots of cell suspension) 
+  12. Added 1 g/L poloxamer 407 to one aliquot and labelled
+  13. Seeded 2 x T25s:
+    1. Aliquot without poloxamer seeded into agarose-coated flask 
+    2. Aliquot with poloxamer seeded into uncoated flask 
+  14. Moved flasks to incubate at 37'C & 5% CO2 18:08
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Observations:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+NA
+
+

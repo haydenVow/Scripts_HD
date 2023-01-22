@@ -1,0 +1,94 @@
+
+
+Performed by: AV  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+E-125  
+  
+ 10938  
+  
+N/A  
+N/A  
+  
+  
+  
+
+
+
+
+Cell Count  
+3x50ul sample was taken from the flask. Diluted samples with an equal volume
+of trypan blue (1:2).
+
+Recorded in cell count spreadsheet
+
+Flask IDCounting methodLive count totalDead count total  
+Live count per mL  
+10938  
+Trypan blue  
+506200,000  
+10938  
+Trypan blue  
+481192,000  
+10938  
+Trypan blue23192,000  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Nuvonis suspension media  
+N/A  
+  
+EGF  
+N/A  
+  
+IGF  
+N/A  
+  
+  
+  
+
+
+
+
+Passage
+
+  1.  ~~Calculated required media for new E125 flask with required media for 50 000 cells/mL in 30mL final volume (made up of old cell suspension and new media). Used seeder widget to calculate required volume of cell suspension~~
+    *  ~~Required cell suspension:        ~~
+    *  ~~Required new medium:         ~~
+  2.  ~~Added required growth factors to media, calculated fromMedia Calculator~~
+    *  ~~+EGF:         ~~
+    *  ~~+IGF:         ~~
+  3.  ~~Incubated media at    37   °C for       minutes~~
+  4.  ~~Removed vessel from incubator and performed media change/passage: <indicate which here by strikeout>~~
+    *  ~~added newly prepared media and added cell suspension drop-wise~~
+    *  ~~Returned vessel to shaking incubation at 37 °C~~ ~~~~
+  
+
+Location : Incubator: #.   78   , 37°C,      120    RPM, Library Lab
+
+  
+
+  
+
+
+
+
+Observations:
+
+  * Last count could be an anomaly - found to be considerably lower than the first two counts.
+  * Average live cell count is in the range of 161K-196K cells/mL
+
+

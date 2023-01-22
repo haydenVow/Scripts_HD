@@ -1,0 +1,90 @@
+
+
+## Completed by: VP
+
+
+Aim/Purpose
+
+
+  * To pilot and characterise the tech transfer process for Nuvonis suspension cells in 25:75 Hycell:RPMI media
+  * To compare the growth rate of Nuvonis cells in BIF UTS facility compared to growth rates recorded at Vow.
+
+
+Hypothesis
+
+
+It is expected that cell proliferation rates and overall health (indicated by
+cell morphology) should be comparable compared to the same cell line cultured
+at Vow
+
+
+Technical Gap
+
+
+Vow has successfully received the Nuvonis suspension line cells from parent
+company Nuvonis and have successfully completed a tech transfer to culture the
+cells in house. However, Vow has not yet trialled the tech transfer process
+from Vow lab to another lab. This will become necessary if Vow engage Esco
+Aster as a manufacturer of cells in Singapore. Vow also intend to perform
+bioreactor optimisation experiments at BIF UTS using the small, parallelised
+bioreactor system, AMBR250 (Sartorius). It will be necessary to observe
+comparable growth and performance of the cells in the facility before using
+the same cells in experiments to ensure data are representative.
+
+
+Method/Procedure
+
+
+See link to work schedule
+
+Growth media:
+
+1) Freestyle 293 medium supplemented with:
+
+• Difco Yeast Extract UF, 1g/l: add 10 ml YE stock (100g/l) per liter medium
+
+• L-Ornithine monohydrochloride, 20 mg/l; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• Putrescine dihydrochloride, 20 mg/ml; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• IGF-1 LONG R3, 50 μg/l; add 50 μl stock (1 mg/ml) per liter medium
+
+• EGF, 10 μg/l; add 10 μl stock (1 mg/ml) per liter medium
+
+• Anti-clumping agent, 1:100; add 10 ml stock per liter medium
+
+  
+
+2) 25:75% Hycell:RPMI medium supplemented with:
+
+• Difco Yeast Extract UF, 1g/l: add 10 ml YE stock (100g/l) per liter medium
+
+• L-Ornithine monohydrochloride, 20 mg/l; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• Putrescine dihydrochloride, 20 mg/ml; add 1 ml stock (20 mg/ml) per liter
+medium
+
+• IGF-1 LONG R3, 50 μg/l; add 50 μl stock (1 mg/ml) per liter medium
+
+• EGF, 10 μg/l; add 10 μl stock (1 mg/ml) per liter medium
+
+• Poloxamer-188; add x g stock per liter medium
+
+  
+
+Process:
+
+  * transport cryovials to BIF UTS on dry ice
+  * thaw cells as per Nuvonis tech transfer SOP (ULA plate, spin out of DMSO, and then transfer to E125 shake flask) in Freestyle media
+  * expand cells in Freestyle media
+  * wean cells onto target media (25:75)
+    * 1:1 target:thaw
+    * 3:1 target: thaw
+    * 1:0 target:thaw
+  * bank cells in 100% target media at BIF
+  * continue stock of cells in E500 + E125 satellite flasks for AMBR250 experiments (separate EPIC)
+
+

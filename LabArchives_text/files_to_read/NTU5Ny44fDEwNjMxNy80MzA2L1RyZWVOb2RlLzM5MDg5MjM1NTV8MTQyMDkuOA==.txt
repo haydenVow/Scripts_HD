@@ -1,0 +1,185 @@
+
+
+# Team
+
+Project Leads: Katie, Tom, Marie
+
+Primary Team: Lily, Avani, Bonnie, Adrian, Andrew, Varshana
+
+Additional Support: Stan, Derek
+
+#  
+
+## Objective: To have our GEN1 product fibroblasts in a 2L benchtop
+bioprocess, ready for hand-off to a third party.
+
+GEN1 product indicates all QMS requirements have been adhered to, thus we must
+be working with croc or wallaby. "Ready for hand-off" indicates clonal
+fibroblasts must be growing in suspension, in ACF media.
+
+James & Lisa are running the project associated with QMS; we just need to make
+sure that we pay attention to the changes that they are rolling out across the
+science team & we need to make sure everything associated with the croc &
+wallaby fibroblasts is extremely well documented.  
+  
+
+## KR1: Develop a QMS-compliant serum-free media that supports 20+ doublings
+of our chosen species in suspension
+
+The focus of this KR is development of a cell-line that is adapted to
+suspension, then optimising the media to support 20+ doublings as well as
+doubling rates faster than 48 hours. This media should ultimately be ACF
+(hopefully this will be not too challenging given our recent findings around
+KSR & the promising results with suspension adaptation in Q3). The cells
+should also be transferred to a 2L bioreactor.  
+
+  * 0.25 - Fibroblasts from our chosen species double 2.5x in media containing less than 2% serum.
+
+  * 0.5 - Fibroblasts from our chosen species survive 3x passages in media containing less than 2% serum.
+
+  * 0.75 - Fibroblasts from our chosen species double 5x in suspension, in media containing less than 2% serum.
+
+  * 0.9 - Fibroblasts from our chosen species double 20+ times in suspension, in media containing less than 2% serum in a 2L bioreactor.
+
+  * 1.0 - Fibroblasts from our chosen species double 20+ times in suspension, in serum-free media, in a 2L bioreactor, with an average doubling time of <48hrs.  
+  
+
+### KR2: Characterise 2 x QMS-compliant suspension-adapted fibroblast clones
+from our chosen species
+
+Cloning could theoretically happen before or after suspension adaptation. In
+Q4, we may do 1 x cloning run for adherent croc fibroblasts, but we should
+focus our efforts on developing a pipeline for SCC of suspension adapted
+fibroblasts. In addition, we will need to start early to identify potential
+partners to support us with genetic characterisation.  
+
+  * 0.25 - Cloning is completed for >1500 QMS-compliant fibroblasts.
+
+  * 0.5 - 2 x QMS-compliant fibroblast clones have achieved 40+ doublings without a decrease in mean doubling time and are banked at the WCB_2 level.
+
+  * 0.75 - Have 1 x QMS-compliant fibroblast clone growing in suspension.
+
+  * 0.9 - Have 2 x QMS-compliant fibroblast clones growing in suspension.
+
+  * 1.0 - Have partnered with someone to determine the genetic differences between top-performing clones and the heterogenous population they were sorted from to "verify" immortality.  
+  
+  
+
+### KR3: Process and bank all biopsies to QMS requirements and have >50 vials
+of wallaby/crocodile fibroblast WCB in LN2
+
+>50 vials indicates that production will not run out of croc/wallaby when and
+if they need to grow up large numbers of these cells to feed investors.  
+
+  * 0.25 - Process biopsies from all animals that arrive at Vow
+  * 0.5 - Isolate viable fibroblast cells from croc & wallaby.
+  * 0.75 - Generate an MCB for both croc & wallaby.
+  * 1.0 - Generate a WCB for both croc & wallaby.  
+  
+
+KR4: Establish and run a suspension pipeline at a rate of 10,000 clones per
+month.
+
+  * 0.25 - Achieve capability to analyse 80 clones/samples per month (establish pipeline)
+  * 0.5 - 400 clones/samples per month
+  * 0.75 - 2000 clones/samples per month
+  * 1.0 - 10000 clones/samples per month
+
+#
+
+  
+
+  
+
+Roadmap: see Shortcut
+https://app.shortcut.com/vowfood/roadmap?view=months&collapse_16113&category_ids=21529
+
+Notes from Strategy day: https://www.notion.so/vow/Strategy-Day-
+Session-1-KRs-6c34f901701946cd811489aada5f1b1c
+
+
+
+
+### Team A
+
+Team A is responsible for generating new fibroblast lines, adapting these
+fibroblast lines to suspension using the "fast adaptation" method, and
+continuously increasing the speed and scale of the adaptation process. Once
+cells have been adapted to suspension, their culture conditions will be
+optimized to maximize growth rate and minimize medium cost (this may not occur
+until Q1 2022). The primary responsibility for each of these activities is
+assigned to a member of team A, and that person will be assisted by each of
+the other members in the team.
+
+### Hustle Goals
+
+  
+Biopsies  
+KR3Fast adaptation tools  
+KR1Fast adaptation  
+KR1  
+Person responsibleBonnieAvaniTomAndrew  
+Hustle 28Bank WCBs of >300M cells for F_CHOMP09 and F_CHOMP07  
+EPICS 25385, 25830 & 25831  
+  
+Bank MCBs of >12M cells for F_WALLE02 & F_WALLE04  
+EPIC25465EPIC26265  
+Perform at least 1 run on the OT2 in which 24 deep-well plates (with no cells)
+are fed. Determine whether sterility is maintained. Finish lab work and report
+for first suspension adaptation DSD  
+EPIC24808  
+  
+Start a DSD to test at least 6 factors that lead to successful suspension
+adaptation  
+EPIC26167DOLLY12 and CHOMP cells in suspension culture in CD CHO medium  
+EPIC25749  
+Hustle 29Bank MCBs of >12M cells for F_WALLE02 & F_WALLE04  
+EPIC25465  
+  
+
+Have VSOPS drafted, reviewed, and approved for biopsy, isolation of primary
+cells, and cryopreservation of whole tissue for histology, proteomics and
+genomics.
+
+  
+
+Attach 5x clamps with drilled holes to MaxQ shaker platform and test shaking
+of 24 deep well plates and regular 96 well plates at 300 rpm to determine if
+sliding of plates on the shaker is prevented.
+
+Take videos to compare the wave height of fluid in 96 well plates and 24 well
+plates on the shaking incubator (demo unit) versus our current shakers.
+
+Identify the low hanging fruits for the raw data transformation process so
+that we can automate it and create a prototype.
+
+Finish report for first suspension adaptation DSD  
+EPIC24808  
+  
+Perform twice weekly medium changes and cell counts for CHOMP basal medium
+experiment  
+EPIC26167  
+  
+Complete and submit TechVoucher grant application  
+EPIC21534Continue performing biweekly DOLLY12 and CHOMP suspension culture
+feeds EPIC25749  
+  
+Begin and complete experiment to identify the most cost effective Hoechst
+stain product for macro-facilitated suspension culture cell counts EPIC26778  
+Hustle 30
+
+Hustle goals moved to Notion: https://www.notion.so/vow/Hustle-
+Goals-4015ae59f2914c4c8bfc3aeb0ea7b032  
+
+  
+  
+  
+Hustle 31  
+Hustle 32
+
+
+  
+  
+Experimental Approaches
+
+

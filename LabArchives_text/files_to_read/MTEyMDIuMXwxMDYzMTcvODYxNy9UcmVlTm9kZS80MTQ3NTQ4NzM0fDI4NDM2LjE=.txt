@@ -1,0 +1,124 @@
+
+
+Instructions: https://www.notion.so/vow/Final-Report-
+Template_V2-8e9c698481a74ceda6d9fd29b13222d9?d=96850977c0cc4a0db35eb0b550fe99f5#9ea41d1bead84e64b05b40ac5ba5c28f
+
+An experimental report should be open for every Vowzer to access, read and
+understand the following:
+
+  * why we did a certain experiment
+  * how we went about planning and executing it
+  * what the outcomes were / lessons learned
+  * what the next steps are moving forward
+
+We break these up into 6 sections in a report that should be clearly distinct
+and easy to follow. They are:
+
+  1. Introduction
+  2. Materials/Methods
+  3. Results
+  4. Discussion
+  5. Conclusions
+  6. Future directions/next steps
+
+  
+
+
+Introduction
+
+
+In this experiment we aimed to identify the optimal concentration of glucose,
+L-glutamine/L-alanyl-L-glutamine, hypoxanthine, and thymidine in the growth
+medium of Nuvonis suspension cells on Day 0 (seeding day) to optimise maximum
+cell density over 7 days in culture.
+
+L-glutamine and/or L-alanyl-L-glutamine (Ala-Gln) are present and/or
+recommended as a supplement for almost all cell culture media. The L-glutamine
+concentration of 50/50 RPMI/CHO Nuvonis medium is 1 mM, while the recommended
+concentration for cell culture is 2-8 mM. Ala-Gln is a stable alternative to
+L-glutamine which minimises toxic ammonia build-up, so we tested both forms to
+determine whether we could replace L-glutamine with Ala-Gln.
+
+Glucose is present in all cell culture media. 50/50 RPMI/CHO Nuvonis medium
+contains 4 g/L glucose, however we know that the Nuvonis cells grow best in
+high-glucose media, as Freestyle contains 6 g/L and HyCell contains 9 g/L. We
+therefore hypothesised that increasing the concentration of both of these
+nutrients would result in a higher maximum cell density.
+
+Hypoxanthine and thymidine are nucleoside precursors. They are present in some
+but not all commercially available growth media, and are not included in CHO-
+in-1 or RPMI. By supplementing media with these factors, there is less
+reliance on glucose to build nucleosides and could potentially increase the
+efficiency of DNA replication.
+
+
+Materials/Methods
+
+
+  * What was the overall design of the experiment?
+    * How long was it expected to take? How long did it actually take?
+  * Lay out the step-by-step process (overview) of the experiment, feel free to use graphs/flow charts to explain this.
+  * Add links to SOPs used within this experiment.
+  * Mention any deviations from SOPs and why they were made.
+
+This experiment was a response surface design.
+
+
+Results
+
+
+In this section, state results without your interpretations behind it. For
+example: Here, aim for 'molecule x increased glucose uptake of myoblasts.',
+rather than 'molecule x increased glucose uptake of myoblasts indicating that
+glucose uptake is controlled by pathway y.' Leave your interpretations for the
+Discussion section.
+
+  * Describe the results of the experiment in general terms.
+  * Add in any summary tables/images/figures of the results to back up your statements.
+  * Caption each table/image/figure with relevant details (microscope magnifications, n values, p values [if applicable])
+  * Results should be directly relevant to the aims of the experiment.
+
+  
+
+[Text here]
+
+
+Discussion
+
+
+Time to expand on your results. Use this section as an opportunity to explain
+your interpretation of the above results (don't leave any table/image/figure
+un-mentioned, if it's part of the results it should be mentioned in your
+discussion.
+
+  * Discuss the implications for these findings or the reason that things might have worked out this way. Move on to the next set of results and repeat the process.
+  * Be critical, are there any competing factors that may have interfered with the experiment and influenced the results? If so, state them and explain their potential impact on the perceived results. This may tie into next steps (ways to improve the experimental design to mitigate those risks).
+  * Imagine you are reading this report for the first time with no knowledge of the experiment but want to know the key results and what they mean.
+  * Discuss any limitations that may have impacted your work - explain their potential impact on the results and how that affects your interpretation.
+
+  
+
+[Text here]
+
+
+Conclusions
+
+
+  * Sum up the results of the experiment as succinctly as possible, this can be a short paragraph or a single line. Copy this to your Header Summary Page for the experiment/writeup.
+  * If the experiment was unsuccessful, don't feel you need to over-complicate the results. Explain why it was not successful and any key learnings.
+
+  
+
+[Text here]
+
+
+Future Directions/Next Steps
+
+
+  * Provide a short paragraph or some dot points on the work that is to follow on from this experiment, e.g. repeats, new conditions, troubleshooting etc.
+
+  
+
+[Text here]
+
+

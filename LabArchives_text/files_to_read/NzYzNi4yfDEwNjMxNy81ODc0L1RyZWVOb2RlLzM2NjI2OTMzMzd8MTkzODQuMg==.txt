@@ -1,0 +1,204 @@
+
+
+## Performed by:
+
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+9431  
+94322 x 12wp24  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM9122  
+dPBSM9075  
+  
+PBSTN/A  
+Antibody Mix (Phalloidin)  
+S4211  
+  
+Secondary Antibody Mix (MF20)S1965  
+DAPI (1:1000)M3220  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+2\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  11 µL   Secondary #1   (1: 1000 ) + ~~  7 ~~ ~~µ L   Secondary #2   (1: 1000
+) +~~  11  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+3\. Prepared DAPI mix:
+
+  11 mL  PBS +   11 uL  of DAPI (1:1000)
+
+PREPARE PHALLOIDIN MIX
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+  
+
+Number of wells for the 12wps = 24
+
+2 mL PBS per well per wash
+
+Number of washes before adding SAb = 3
+
+Number of washes after adding DAPI + Phalloidin = 3
+
+Top up with PBS = 1
+
+Total volume of PBS required: 24 x 7 x 2 mL = 336 mL
+
+  
+
+Secondary staining with Ab (2 x 1:1000 dilution)  
+
+400 uL of SAb per well for 12wp
+
+  
+
+11 mL / 1000 = 11 uL of secondary Ab required
+
+11 mL of BB required to dilute SAb (MF20)
+
+  
+
+4.8 mL + 3 mL excess (OT2) = 8 mL PBS per plate to dilute DAPI + Phalloidin
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+MF20 - S2467  
+IgG2b  
+1:50SAb (MF20) - S19651:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+11:05 - 11:14 - 11:23  a/pm (8822)
+
+11:10 - 11:18 - 11:27  a/pm (8823)
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.
+
+11:34 - : a/pm (8822)
+
+11:38 - : a/pm (8823)
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.
+
+13:18 a/pm (8822)
+
+13:23 a/pm (8823)
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+13:20 - :  a/pm (8822)
+
+13:25 - :  a/pm (8823)
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+13:30 - 13:38 - 13:49  a/pm (8822)
+
+13:34 - 13:42 - 13:56  a/pm (8823)
+
+4\.  Replaced dPBS.
+
+14:01 a/pm (8822)
+
+14:06 a/pm (8823)
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+Had a few issues with the OT2 SAb staining protocol - wells A1-C1, A2 and B2
+in plate 9432 were prematurely stained with DAPI and Phalloidin after only
+completing one PAb wash with PBS. This run was terminated, the Phalloidin +
+DAPI mix in PBS was remade and the OT2 protocol was restarted. The new start
+time was 14:15. When the protocol finished at 5:55 pm, it was noticed that two
+of the PBS washes were not performed for the second plate (9342). The
+remaining washes were done manually and the plates were parafilmed and placed
+in the fridge at 6:25 pm.
+
+2 x estim plates secondary stained with MF20, Phalloidin and DAPI - ready to
+be imaged.
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

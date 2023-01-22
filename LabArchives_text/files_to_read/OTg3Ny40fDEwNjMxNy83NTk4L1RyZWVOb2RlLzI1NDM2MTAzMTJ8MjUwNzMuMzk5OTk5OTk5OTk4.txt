@@ -1,0 +1,57 @@
+  
+  
+14/9/21
+
+The top 25 method in the round three analysis set was considered to be the
+best run conditions.  The two injections (each of 240ng total protein) were
+analysed individually and combined via either Max Quant for iBAQ or Top3
+quantitation or via Proteome Discoverer and Mascot for emPAI quantitation.
+Excel files of each analysis are attached to this page.
+
+The two Top 25 replicates were searched using MaxQuant vr 2.0.3 vs the merino
+sheep proteome.  The settings included:
+
+FileMSMS identifiedPeptides identifiedProtein Groups  
+136,22527,381 -  
+235,70526,173  
+ -  
+Combined71,93032,9074,242  
+  
+The protein groups output was ranked by combined iBAQ score and the top 10
+were:
+
+  
+
+
+
+
+14/9/21
+
+In parallel with the MQ (iBAQ) search, the data set was also searched using PD
+2.5 and Mascot 2.8
+
+
+
+FileProteinsProt Grp (PD)Prot Family (Mascot)PepGrpPSMMSMS  
+115,7115,1594,68536,53047,799151,662  
+215,3675,0934,61635,36547,511152,072  
+Combined16,8425,5545,16744,32694,309303,734  
+  
+Top 10 proteins
+
+File 1:
+
+File 2:
+
+Combined:
+
+To obtain the emPIA report, the Mascot report for each search was download,
+and then the proteins ranked on the emPIA score. The top10 were:
+
+File 1:
+
+File 2:
+
+Combined:
+
+

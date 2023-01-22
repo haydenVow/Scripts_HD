@@ -1,0 +1,214 @@
+  
+  
+Batch 014 Overview
+
+Batch Goals:
+
+  * Optimisation - Find ways to increase biomass yield in adherent cultures
+
+Batch/Experimental Questions:
+
+  1. Does longer exposure to VitC (50ug/mL) alone in 10CS increase the final yield?
+  2. Does the addition of TGFb 24hrs before harvest increase this further?
+  3. Can cells be removed from flasks as single cells and treated to form aggregates in E-flasks?
+    1. Do different concentrations of VitC have different effects on aggregate formation and final yield?
+    2. Do different E-flask conditions effect the formation of aggregates and the final yield? (continuous shaking, intermittent shaking, static)
+  4. Does in-house media, perform the same as Gibco media?
+
+Reasons for investigating these questions:
+
+  1. Experiments from science suggest this prolonged treatment with VitC alone could significantly increase our biomass yeild
+  2. Unclear whether or not TGFb enhances biomass yield or not, if it doesn't we could save money and time by not adding it to batches
+  3. To increase surface area of flasks but reduce space taken up in incubators (incubator space is a major blocker) we can use Hyperstacks. However if we form aggregates in these flasks we will not be able to get the out because of the small space between layers. We would need to remove the cells from the flask as single cells and try to aggregate/increase our biomass outside of the flasks. To see if this is possible we are trying this with E-flasks.
+  4. To move to the use of in-hous powdered media we need to start using it in batches and checking it performance compared to the store-bought Gibco media.
+
+  
+
+Simplified Overview of Experimental Groups:
+
+  
+
+Experimental Plan Deviations:
+
+Original Plan
+
+Amended Plan  
+  
+Extended Vit C Treatment in 10CS - Harvest brought forward due to peeling of
+the cells from the flask surfaces much earlier than expected.  
+  
+  
+E-Flasks Experiment - Instead of harvesting all of the flasks 24Hrs after
+treatment, we decided to harvest 2 flasks from each group at 24Hrs and one
+flask from each group at 48Hrs to see if extended treatment time would have
+any beneficial effects.  
+  
+  
+
+Full Batch Summary (Timeline)
+
+P1 - 5 days in between passage  
+P2 - 6 days in between passage  
+P3 - 7 days in between passage  
+P4 - 7 days in between vitc treatment  
+A. Extended Vit C (ONLY) Treatment - 48 hrs of VitC (50ug/mL) treatment + 24
+hrs 50% feed with Vit C (50ug/mL)  
+B. Extended Vit C (+TGFb)  treatment -  48 hrs of VitC (50ug/mL) treatment +
+24 hrs 100% feed with Vit C (50ug/mL) \+ TGF-b (10ng/mL)  
+C. Treatment in E-flask - 24 hrs of Vit C treatment with either 50ug/mL or
+5mg/mL + TGFb (10ng/mL) @ static, constant shaking, or intermittent shaking
+(24hr or 48hr treatment).
+
+  
+
+Experimental Outcomes:
+
+Extended VitC Treatment:  
+
+  
+
+A. Extended Vit C (ONLY) Treatment
+
+Vit C only TreatmentWeight from 1x10CS (1) Weight from 1x10CS (2)
+
+Control (Harvested from 10CS on day of VitC treatment (Not Treated))  
+  
+In house4.68g5.20g
+
+2.41g per 10CS  
+  
+Gibco5.14g5.49g
+
+2.47g per 10CS  
+  
+  
+
+B. Extended Vit C (+TGFb) Treatment
+
+VitC + TGFb TreatmentWeight from 1x10CS (1)Weight from 1x10CS  (2)
+
+Control (Harvested from 10CS on day of VitC treatment (Not Treated))  
+  
+In house5.07g4.69g
+
+2.41g per 10CS  
+  
+Gibco3.95g5.21g
+
+2.47g per 10CS  
+  
+  
+
+* Weight for each experimental group is displayed as the average weight from 2x10CS (n=2). 
+
+* Control weight was calculated by dividing the total weight (9.88g = Gibco, 12.05g = In-house) by the number of 10CS harvested for each group (5x10CS - Gibco, 5x10CS - In-House). This gave the control weight per 10CS
+
+* Error bars display SD 
+
+  
+
+Conclusions/Answers to Experimental Questions:
+
+1\. Does longer exposure to VitC (50ug/mL) alone in 10CS increase the final
+yield?
+
+            YES, the final yield with extended VitC treatment (72hrs) was double the control weight
+
+2\. Does the addition of TGFb 24hrs before harvest increase this further?
+
+            NO, there was no difference between the VitC (ONLY) and VitC (+TGFb) conditions. However, Flasks with TGFb did not require any use of TrypLE to remove aggregates from the flask (Some with VitC ONLY did). Therefore TGFb might                still be useful to remove the TrypLE
+
+  
+
+E-Flasks:  
+
+C. Treatment in E-flasks
+
+Original estimated cell weight seeded into each E250 flask was:
+
+  * 0.670g for In-house media (3.5M cells/mL), and 
+  * 0.604g for Gibco media (1.6M cells/mL). 
+
+  
+Cell Pellet Yield (g)  
+  
+Treatment
+
+Static (24hr)
+
+Static (48hr)
+
+Intermittent shaking (24hr)
+
+Intermittent shaking (48hr)
+
+Shaking (Continuous) (24hr)
+
+Shaking (Continuous) (48hr)  
+  
+In-house - Vit C (50ug/mL) \+ TGFb
+(10ng/mL)0.55g0.59g0.55g0.53g0.47g0.38g0.37g0.36g0.21g  
+Gibco - Vit C (50ug/mL) \+ TGFb
+(10ng/mL)0.51g0.48g0.46g0.42g0.41g0.46g0.34g0.33g0.26g  
+In-house - Vit C (5mg/mL) \+ TGFb
+(10ng/mL)0.39g0.42g0.33g0.36g0.35g0.34g0.27g0.27g0.23g  
+Gibco - Vit C (5mg/mL) \+ TGFb
+(10ng/mL)0.42g0.42g0.32g0.38g0.33g0.32g0.27g0.28g0.23g  
+  
+* Dotted Line in both graphs represents the cell weight originally seeded into each E-Flask
+
+* 24hr weights are displayed as the average weight from 2xE250 (n=2)
+
+* 48hr weights are from 1xE250 (n=1)
+
+* Error bars display SD   
+
+Conclusions/Answers to Experimental Questions:
+
+3\. Can cells be removed from flasks as single cells and treated to form
+aggregates in E-flasks?
+
+    YES. Cells can still aggregate, but this will result in some cell loss/reduction in biomass yield compared to what was originally seeded into E-flasks (This was worse at 48hrs compared to 24hrs). Because no control flasks (no treatment) were used it is unclear how much cell loss is due to the E-flask environment/seeding and how much is due      to the treatments themselves in this environment. 
+
+    1\. Do different concentrations of VitC have different effects on aggregate formation and final yield?
+
+        YES. Overall 50ug/mL VitC produced a better yield than 5mg/mL VitC in both Gibco and In-house media.
+
+    2\. Do different E-flask conditions effect the formation of aggregates and the final yield? (continuous shaking, intermittent shaking, static)
+
+        YES. Static performed the best across all groups, followed by intermittent shaking, and then continuous shaking which performed the worst. Due to a change of experimental plans, 1/3 flasks in each group were harvested 48hrs after                      treatment, this performed worse than 24hr treatment in the majority of conditions. 
+
+  
+
+Unanswered Experimental Questions:
+
+4\. Does in-house media, perform the same as Gibco media?
+
+    This question could not be answered due to a difference in incubator environment. The In-House group was kept in the Production lab Binder incubators whereas the Gibco group was kept in the Main lab Thermo incubator. The cell count             performed at P4 before the day of VitC treatment and E-Flask seeding showed that the 4x10CS in the Gibco group contained HALF the amount of cells as the 5x10CS in the In-House group. The Thermo incubator is the likely cause of this           discrepancy and therefore we could not make a reliable comparison between the two media conditions in this batch. 
+
+Overall Key Findings:
+
+  * Extended VitC (ONLY) treatment can increase batch final yield by DOUBLE!
+  * TGFb does not appear to increase yield further but can still be useful in detaching aggregates from flask. However, longer (72hrs+) treatment with VitC may also allow removal of the TrypLE step if all cells appear lifted off the surface. 
+  * Removing single cells from 10CS and seeding them into E-Flasks for treatment, still produces aggregates but some biomass loss will likely occur. The best conditions for this is Static treatment with VitC (50ug/mL) + TGFb (10ng/mL) for 24Hrs.
+
+Batch Achievements:
+
+  * Extended Passage 4 length (7 days in culture) + extended vit C treatment (72 hrs) yielded on average 4.9g per 10CS = 0.49g per layer. This is the largest yield achieved to date --> double yield from previous batches. 
+  * Total of 39.4g of cell mass obtained from 8x10CS , with extended vitamin C treatment eliminating the need for TrypLE step for most flasks (6/8). 
+  * The advantage of TGF-b1 treatment alongside extended VitC treatment is unclear. Yields were similar, although the 2 flasks requiring TrypLE were Vit C only treated flasks. Hence TFG-b1 may have additional benefit in removing cells off the surface of the flask for harvest, making it much faster and more efficient in the current adherent-based culture format. 
+  * The cell pellet weight measured before seeding into the E-flasks showed:  
+\- in house: 12.05 g for 2.57 Billion cells = 4.68ng/cell  
+\- Gibco: 10.7g for for 1.14 Billion cells = 9.57ng/cell (very likely excess
+media weight?)  
+\- However, if we use the difference between cell numbers and the difference
+between the pellet weights, we may be able to more accurately estimate cell
+mass. [(12.05-10.7)/(2.57B-1.14B)]*1,000,000,000 = 0.944 ng/cell
+
+  
+
+Batch Corrective Action Records
+
+N/A
+
+

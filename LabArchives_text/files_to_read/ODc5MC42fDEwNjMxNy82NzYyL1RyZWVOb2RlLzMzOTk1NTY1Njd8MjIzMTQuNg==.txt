@@ -1,0 +1,233 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Andrew  
+
+
+
+
+Passage Culture IDs
+
+Harvested Flask ID(s)HarvestedFlask TypeSeeded Flask IDsSeeded flask type  
+  
+10559-DOLLY12_11E7-Sheep P10-1of3
+
+  
+  
+
+10560-DOLLY12_11E7-Sheep P10-2of3
+
+  
+2xT175  
+
+10684-DOLLY-12-Sheep P11-1of2
+
+  
+T175  
+  
+  
+
+10685-DOLLY-12-Sheep P11-2of2
+
+  
+T175  
+  
+10562-BUFFY6-Water Buffalo P10-1of3
+
+  
+  
+
+10563-BUFFY6-Water Buffalo P10-2of3
+
+  
+2xT175  
+
+10686-BUFFY6-Water Buffalo P11-1of5
+
+  
+T175  
+  
+  
+
+10687-BUFFY6-Water Buffalo P11-2of5
+
+  
+T175  
+  
+10690-BUFFY6-Water Buffalo P11-5of5
+
+  
+63 wells of 96-well plate  
+  
+10689-BUFFY6-Water Buffalo P11-4of5
+
+  
+24 well plate (gelatin)  
+  
+10688-BUFFY6-Water Buffalo P11-3of5
+
+  
+24 well-plate (ECM gel coated)
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7009  
+  
+TrypleA9733  
+  
+dPBS (for washing & neutralising)M10268  
+  
+Growth MediaM10207  
+  
+p38i (20mM stock)M10003  
+  
+ECM gel  
+S3849  
+  
+DMEM  
+S3101  
+  
+  
+  
+
+
+
+
+ECM gel coating Process  
+  
+1\. Thawed aliquot of ECM gel in fridge
+
+2\. Added 60 uL of ECM gel to 4.74 mL of cold DMEM
+
+3\. Added 200 uL of mixture to each well of 1x24-well plate
+
+4\. Transferred to 4C fridge to allow it to set for 2 hours, 17:35
+
+5\. Transferred to 37C incubator 15 mins prior to use.
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated 4x T175 + 1x 96-well plate +  1x 24-well plate with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.  
+
+  1. Time when all vessels(s) placed into the incubator       
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  1x40 mL tryple  
+
+  2.  dPBS 2x40mL   
+
+  3. Growth media (for seeding):  2x 60 mL (for seeding T175) + 30 uL p38i, 1x 10 mL + 5 uL p38i (for seeding 2x24-well plates), 3.5 mL + 1.75 uL p38i (for 96-well plate)  
+
+Time that all aliquots were placed in the water bath the warm before use
+18:00
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+PASSAGE - 4XT175
+
+4\. Removed vessel(s) from the incubator    18:25
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start for TrypLE was  18:25-18:35
+
+7\. Neutralised with     10mL     dPBS and combined cell suspension into 2x
+50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   18:46-18:51   
+
+
+
+
+BUFFY PASSAGE - 4XT175
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1 mL    Growth      media
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:   BUFFY   1,456,000   DOLLY  1,276,000    
+
+  2. Volume of cell suspension required for subculture was:         
+BUFFY   240 uL for 96-well plate, 120 uL for 2xT175s, 470 uL 24 well plate
+DOLLY  137 uL for 2xT175s  
+
+  3. Cell density per vessel:  
+T-175  500/cm2  
+ 24-plates     750/cm2  
+Cell density per vessel: 96-well plate    750/cm2  
+
+
+
+
+BUFFY PASSAGE - 4XT175
+
+13\. Transferred      As above     µl of cell suspension to the pre-warmed
+growth media
+
+14\. Transferred cell suspension into the pre-gelatin coated      2xT175s, 1x
+96-well plate (for BUFFY and DOLLY) and 2xT175s (For C2C12)   vessels
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle  
+
+16\. Transferred vessel(s) to incubate at: 20:54
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10563: https://ranger.vow.tools/#/session/recrcRKn4wMOkQydS/images  
+10562: https://ranger.vow.tools/#/session/recjHFgaYy3Ccyufu/images  
+10560: https://ranger.vow.tools/#/session/recLqzmUOy7VrG36p/images  
+10559: https://ranger.vow.tools/#/session/recU7vWBhXflOpd2j/images
+
+

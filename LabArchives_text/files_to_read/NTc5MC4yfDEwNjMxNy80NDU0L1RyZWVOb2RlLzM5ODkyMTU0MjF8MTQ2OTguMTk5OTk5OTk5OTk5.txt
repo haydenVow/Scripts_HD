@@ -1,0 +1,106 @@
+
+
+Key Findings
+
+  1. Fibroblasts taken from the supernatant of adherent culture did not proliferate in static suspension culture. 
+  2. Cell clumping and high levels of debris were observed later than we have typically seen during agitated suspension adaptation. This is likely due to the lack of shear stress which is placed on cells in agitated suspension culture, and is a positive sign for this method of suspension adaptation. 
+  3. The adherent culture from which the supernatant was removed was terminated shortly after, due to cell apoptosis. It is therefore difficult to draw conclusions around why our cells did not survive in static suspension culture, as they may have been non-viable from Day 0.  
+
+
+
+
+Discussion
+
+During typical adherent cell culture, cells which detach and float away from
+the flask surface are discarded during feeds and passaged. The cells which
+remain in culture are therefore those which naturally have a tendency to
+adhere firmly to the plasticware. Between passages and feeds, it is typical to
+see a number of cells which have become detached and are floating in the
+growth medium. If these cells are viable, separating them from the adherent
+culture and supporting their growth could generate a suspension-adapted
+population. This hypothesis was tested by Takano et al (1959), who
+successfully adapted HeLa and L strain cells to suspension via this method. We
+trialled this method with our F_NANDO3 cell line in an attempt to adapt it to
+suspension.
+
+The entire supernatant (30 mL) was removed from 1 x T175 containing adherent
+chicken fibroblasts (EPIC 22898). The medium was centrifuged, resuspended in 5
+mL of medium, and moved into a fresh flask. On day 4, the cells were
+centrifuged, fed with 5 mL fresh medium, counted, and re-plated. This was
+repeated every 4 days. While Takano et al. observed that a proportion of cells
+would adhere after being re-plated, unless the vessel was siliconised. On the
+contrary, our chicken fibroblasts remained entirely in suspension. This
+suggested that the cells may not be viable. It was difficult to determine this
+conclusively during counts, as they seemed to retain their morphology and
+membrane, but also appeared to be absorbing the Trypan blue stain (Figure 1).
+Takano et al found that the HeLa cells began proliferating immediately after
+being introduced to suspension, whereas the L strain cells initially dropped
+in numbers before proliferating at Day 4. The chicken fibroblasts were
+maintained in suspension with regular feeds and counts for 28 days, however
+the population continued to decline and began to form necrotic cell clumps.
+The culture was therefore terminated.
+
+Figure 1: Phase, 10X, Fibroblasts on haemocytometer slide. Cells appeared
+darker in colour after Trypan blue staining, however they retained their round
+morphology and appeared to have intact membranes
+
+To investigate why we were unable to replicate Takano et al's results, the
+state of the adherent culture from which these cells were taken was checked.
+It was discovered that those cells were discarded ~7 days after the
+supernatant was removed, as they had stopped growing and begun senescing
+(Figure 2). Given the high rate of cell senescence and death in this adherent
+culture, it is likely that the fibroblasts collected from the supernatant were
+mostly if not entirely non-viable from Day 0. We were unable to find papers to
+support Takano et al's findings, however given the simplicity of the design
+and the low effort required, it is worth re-trying with a sturdier cell line.
+
+Figure 2: Phase, 10X. Chicken fibroblasts in the adherent culture from which
+the supernatant was removed, 7 days post-passage.
+
+
+
+
+
+
+
+
+Limitations
+
+  1. No replicates 
+  2. The cell line used (F_NANDO3) has been observed to grow very slowly and senesce at low passage numbers. The specific culture form which these cells were split was discarded 6 days after the passage due to high rates of cell senescence and lack of growth. It is therefore likely that these cells were either non-viable to begin with or entered apoptosis shortly after the supernatant was moved. 
+  3. DMEM/F12 was used as a basal medium which, owing to the presence of magnesium and calcium, can cause excessive cell clumping in suspension cultures. 
+
+
+
+
+Conclusion
+
+NANDO fibroblasts from the supernatant of adherent culture were unable to
+proliferate in static suspension culture. However, these cells came from a
+culture which was terminated shortly after due to high rates of cell death, so
+it is difficult to ascertain the exact reason for the failure of this
+experiment.  
+
+
+
+
+Future Directions
+
+I believe this experiment is worth repeating, due to the low risk & effort /
+high reward nature of the process. We also cannot conclusively say whether
+this is a viable method or not, as our cells were likely non-viable from the
+start. If we repeat this experiment, we should:
+
+  1. Have multiple conditions with cells from different cultures and different cell lines with multiple replicates 
+  2. Trial different basal media to reduce clumping e.g. CD CHO or RPMI rather than DMEM/F12
+
+
+
+
+References
+
+Takano, K., Yamada, M. & Yaginuma, K., 1959, Training HeLa and L strain cells
+to grow in fluid-suspension, Jap. J. M. Sc. & Biol., vol 12, 343-354.
+https://www.jstage.jst.go.jp/article/yoken1952/12/5/12_5_343/_pdf
+
+

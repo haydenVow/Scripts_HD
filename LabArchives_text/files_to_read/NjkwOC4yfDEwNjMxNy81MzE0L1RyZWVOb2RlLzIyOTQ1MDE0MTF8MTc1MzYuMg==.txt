@@ -1,0 +1,177 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Background
+
+Can be read here.
+
+  
+Method summary
+
+21 million F_DOLLY12 cells were thawed into a 2CF. 2 more 2CFs were seeded
+with thawed F_CHOMP09 cells (21 M cells per 2CF). After 4 days, a 50% feed was
+performed with the following media:
+
+  * F_DOLLY12: CD-CHO + 10% KSR \+ 6G
+  * F_CHOMP09: DMEM/F12 + 20% FBS + 1x P/S
+  * F_CHOMP09: CD-CHO + 20% KSR \+ 8G (10G without RGD and YIGSR)
+
+6G = 1:100 ACA, 100ng/mL FGF/IGF/PDGF, 1:100 (4mM) glutamax, 1xP/S
+
+10G = 1:100 ACA, 100ng/mL FGF/IGF/PDGF, 1:100 glutamax, 1 g/L pluronic, lipid
+supplement 1:1000, RGD 100 ng/mL, and YIGSR 100 ng/mL +1x p/s
+
+1 week after cells were thawed, they were passaged to seed suspension cultures
+in 24 dwp, 50 mL shake tubes, and E125 flasks. Triplicates were seeded for
+each condition in each vessel with 600 000 cells/mL. Conditions tested were:
+
+  * F_DOLLY12: CD-CHO + 10% KSR + 6G
+  * F_CHOMP09: DMEM/F12 + 20% FBS + 1x P/S
+  * F_CHOMP09: CD-CHO + 20% KSR + 10G
+
+Cells received a 75% feed every 3-4 days. Sampling, staining, and imaging and
+was also performed on these days. Media was prepared by adding the underlined
+ingredients fresh on the day of the feed.
+
+Results
+
+  
+
+None of the conditions tested yielded suspension adapted cell lines. F_CHOMP09
+in D/F + 20% FBS + 1x P/S, the negative control, showed a decrease in cell
+density from day 0 to day 4 to less than 40 000 cells/mL for all vessels. As
+expected, cell numbers remained low throughput the experiment for this
+condition.
+
+F_DOLLY12 cells in 50 mL tubes were accidentally seeded at a higher density so
+no conclusions can be made about the effect of different vessels on the growth
+of these cells. Up to day 14, cell density was highest in 50 mL shake tubes,
+followed by E125 flasks, and then 24 dwp. From day 14 to day 21, cell density
+was highest in E125 flasks.
+
+E125 flasks containing F_CHOMP09 in CD-CHO + 20% KSR + 10G had the highest
+cell density up to day 14 when compared with all the other cultures in this
+experiment. For this media condition, E125 flasks had higher cell density than
+other vessels throughout the experiment.
+
+Cultures were discarded after day 21.
+
+Aspiration height of 9 mm was found to be too high for performing a 75% feed
+of a 24 dwp on OT2. The pipette tip was observed to be aspirating air towards
+the end. Changing the aspiration height to 7mm resolved this issue.
+
+Discussion
+
+For most of the suspension adaptation experiments performed last quarter, 50
+mL shake tubes were used instead of E125 flasks as they are easier to
+automate, and require less media and cells. As 24 dwp are even smaller, they
+would require even less resources per culture and allow higher throughput.
+However, data from EPIC25749 suggests that higher cell density (cells/mL) is
+maintained throughout the suspension adaptation process when E125 flaks are
+used versus 50 mL shake tubes. Therefore, it was hypothesised that a similar
+effect will be observed with 24 dwp too.
+
+The results from this experiment support this hypothesis. One explanation for
+this may be that larger vessels are seeded with a larger number of cells in
+total than smaller vessels. Because these experiments use a heterogenous
+population of cells, it is assumed that the success of suspension adaptation
+is partly dependent on whether any of the cells in the vessel have genes that
+are beneficial for suspension. It is possible that simply having a larger
+number of cells present in the vessel is resulting in higher chances of a
+population of cells with the necessary genes being present. This is supported
+by the observation of F_DOLLY12 cells in 50 mL tubes which were seeded at a
+higher density that E125 flasks. The tubes maintained higher cells/mL than
+E125 flasks up to day 11 which may have been due to the presence of cells with
+genes that are beneficial for survival in suspension. In contrast, F_CHOMP09
+in 50 mL tubes maintained a lower seeding density than E125 flasks throughout
+the experiment. However, we should confirm this by seeding 50 mL tubes of the
+same cell line in the same media composition with different cell numbers. The
+implications of this is that smaller vessels could still be used for
+successful fast adaptation if they are seeded with a larger number of cells
+and automation of this process can still be achieved easily.
+
+The other possible explanation for why differences in cell survival and growth
+is observed between different vessels relates to hydrodynamics. Normally, 24
+dwp are shaken on a shakers with a larger diameter (25 mm or 50 mm) whereas
+the MaxQ shaker that were used in this experiment have an orbital diameter of
+19 mm. Therefore, cultures may not have been mixed well which affects the
+aeration of the media. However, given that the cell density of our cultures
+was not very high, it is unlikely that this would have been a limiting factor
+for cell growth.
+
+Although 24 dwp and 50 mL shake tubes appear to not be useful for fast
+adaptation experiments, it is possible that they can still be used for media
+optimisation once Vow has a suspension adapted cell line. Perhaps comparing
+cell growth of CHO cells as a control cell line in different vessels would
+help confirm this.
+
+Before cells in adherent culture were passaged, CHOMP fibroblasts treated with
+CD-CHO + 20% KSR + supplements were observed to start lifting off the 2CF in
+flasks. This did not occur with DOLLY cells in suspension media or CHOMP cells
+in FBS. It's unclear whether the supplements in media, the cell line, or both
+contributed to this peeling. However, observations from EPIC28344 suggest that
+peeling is only observed with F_CHOMP09, and not F_DOLLY12 in suspension
+media.
+
+F_CHOMP09 in CD-CHO did not decrease in cell density as dramatically as other
+conditions in this experiment during the first two weeks. Although this is
+unusual to see, it was observed for for F_DOLLY12 cells in EPIC28374. This
+could be occurring due to the ability of the media formulation to only support
+cell survival for a short period of time and it may be lacking some
+nutrients/molecules which are vital for longer term survival and
+proliferation.
+
+On day 14 and day 18 after seeding suspension cultures, cell strainers were
+used to remove cell clumps from E125 flasks. It is possible that these clumps
+had necrotic cores which were releasing signals that could also trigger death
+in other cells. Further investigation of which media supplements are
+contributing to clumping and how to prevent it may improve the success of fast
+adaptation.
+
+Conclusion
+
+Cell density decreased more rapidly and remained low throughout the experiment
+when 24 dwp were used when compared to E125 flasks and 50 mL shake tubes.
+
+None of the conditions tested yielded suspension adapted cell lines. However,
+there were many limitations to this experiment so it may be worth repeating
+the experiment after addressing these.
+
+Limitations
+
+  * Incubator and shaker space - On day 3 after seeding suspension cultures, all 24 dwp and 50 mL shake tubes were moved to a 30 degree incubators to make space for other experiments. This resulted in F_DOLLY12 cells also being incubated at 30 degrees C even though they are normally  growth at 37 degrees C.
+  * On day 11 of the feed, it was observed that the shaker that tubes were on was shaking at 120 rpm, instead of 206 rpm. It is unknown how long tubes had been shaking at the incorrect speed.
+  * On day 18, 50 mL tubes and 24 dwp were moved onto one shaker due to space constraints. The shaker was kept at 206 rpm. As a result, 24 dwp could not be kept shaking at their optimal shaking speed of 300 rpm.
+  * PDGF was only used when a 50% feed was performed on adherent cells. It was not used throughout the rest of the experiment as it was out of stock.
+  * YIGSR was only used when performing a 75% feed on day 4 of suspension. It was not used throughout the rest of the experiment as it was out of stock.
+  * F_DOLLY12 cells in 50 mL tubes were accidentally seeded at a higher density (833 424 cells/mL) than other cultures (600 000 cells/mL) which makes it difficult to conclude the effect of vessel type on cell density for these cells.
+  * E125 flasks had to be reused after washing with PBS, instead of using new flasks.
+
+Future directions
+
+  * Continue fast adaptation experiments in E125 flasks
+  * Use suspension cloning pipeline to develop a clonal suspension adapted cell line
+  * Try using 24 dwp in shaking incubator with 50 mm orbital diameter
+  * Try using 24 dwp for media optimisation with suspension adapted cell lines, rather than for the process for suspension adaptation
+
+

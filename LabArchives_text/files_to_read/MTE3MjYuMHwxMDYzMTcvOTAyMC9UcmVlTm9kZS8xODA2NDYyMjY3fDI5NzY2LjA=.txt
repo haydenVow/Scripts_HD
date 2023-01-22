@@ -1,0 +1,289 @@
+
+
+## Performed by: VP
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Tested CO2 flow
+
+  1. CO2 regulator gauge still reading less than 1 bar and only slightly above 0 - therefore testing flow
+  2. set pH set point to 7.0 from 7.5 which will require the bioreactor to sparge CO2
+  3. observed trendline change in pH
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+Notes
+
+  * when pH set point changed to 7.0, system turned on CO2 sparging
+  * within 5 mins, pH reached 7.0
+  * -> CO2 appears to be flowing adequately despite reading from regulator gauge
+  * re-set pH to 7.5 set point, base-T pump turned on correspondingly as per cascade programmed
+
+  
+  
+  
+  
+
+
+
+
+Tested for sterility
+
+  1. Took a sample and transfer it to the well of a well plate.
+  2. Observed the sample under the microscope.
+    1. Signs of contamination include cloudy culture medium, motile particles visible under the 60x or 100x objective.
+
+Reference  
+  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp13:10  
+NotesMedia appeared sterile by eye  
+  
+  
+  
+
+
+
+
+Calibrated dissolved oxygen probe
+
+  1. Ran the calibration routine as per the operating manual
+    1. Sparged nitrogen gas at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a very low level.
+    2. Set that level as 0%
+    3. Sparged air at high flow rate and with high impeller speed until dissolved oxygen reading equilibrated at a high level.
+    4. Set that level as 100%
+
+ReferenceOperating manual page(s) 76, 43  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp13:05  
+Notes
+
+  * performed single point calibration
+  * set stirrer to 500 RPM
+  * set sparging air to 200mL/min
+  * waited 5 min
+  * set dO as 100% using slope calibration
+  * reset dO and STIRR cascades after calibration to previous settings
+
+  
+  
+  
+  
+
+
+
+
+Set level probe
+
+  1. Loosened the nut around the antifoam/level probe.
+  2. Gently rotated and pulled the probe out until it reached the desired height.
+  3. Tightened the nut until finger tight.
+
+Reference  
+  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp13:00  
+NotesNEVER push the probe back into the bioreactor after autoclaving as this
+can introduce contamination.  
+  
+Not set - level probe not used  
+  
+  
+  
+
+
+
+
+Started data logging
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp13:17  
+Notes
+
+  * named experiment EPIC31427-3-GEN-DRFT
+  * didnt appear to start? "state = not running"
+  * issues with connection. Keeps logging out, throws error 'system not available, server may be overloaded"
+  *  hard restarted control tower and access returned
+  * re-set all parameters
+  * started experiment in data logger "GEN-DRFT-3"
+
+  
+  
+  
+  
+
+
+
+
+Seeded the batch
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp14:24  
+Notes
+
+  * cell count 536 000/mL live cells
+  * require 200 000/mL density in 2000mL total
+  * total number of cells required = 400M cells
+  * ~750mL required
+  * centrifuge cells and reserved supernatant. Resuspend in 250mL reserved media and added to seed bottle
+  * added additional 150mL to seed bottle and added to bring total volume to 2000mL
+
+  
+  
+  
+  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Harvest Culture IDHarvest Lab Book URL  
+Bioreactor Culture ID  
+  
+13029https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Process%2520Development/MjUxMS42fDEwNjUzNi8xOTMyL1RyZWVOb2RlLzMxOTczNzU5NzN8NjM3NS41OTk5OTk5OTk5OTk=  
+13049  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+IGF-LR3A13034  
+EGFA12874  
+L-glutamineM13152  
+  
+Note: cells added in suspension media from inoculum culture vessel. No new
+media was added
+
+
+
+
+ ~~Programmed the feed schedule:~~
+
+  1.  ~~To create a schedule to to turn on the pump after 2 days (48 hours) for 22.5 minutes (~450 mL at ~20 mL/minute), followed the instructions below:  
+~~
+
+    1.  ~~Opened the SUBS-B pump menu~~
+    2.  ~~Changed the SUBS-B MODE to MANUAL:OFF  
+~~
+
+    3.  ~~Opened the PROFILE sub-menu~~
+    4.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    5.  ~~Set a timepoint for 048:00:00 with 0% pump output.  
+~~
+
+    6.  ~~Set a timepoint for 048:00:01 with 100% pump output.~~
+    7.  ~~Set a timepoint for 048:22:30 with 100% pump output.~~
+    8.  ~~Set a timepoint for 048:22:31 with 0% pump output.~~
+ ~~~~
+
+  2.  ~~To create a schedule to to turn on the pump again after 4 days (96 hours) for 45 minutes (~900 mL at ~20 mL/minute), followed the instructions below:  
+~~
+
+    1.  ~~Set a timepoint for 000:00:00 with 0% pump output.~~
+    2.  ~~Set a timepoint for 096:00:00 with 0% pump output.  
+~~
+
+    3.  ~~Set a timepoint for 096:00:01 with 100% pump output.~~
+    4.  ~~Set a timepoint for 096:45:00 with 100% pump output.~~
+    5.  ~~Set a timepoint for 096:45:01 with 0% pump output.  
+~~
+
+  3.  ~~To program the pump to follow the schedule:  
+~~
+
+    1.  ~~Changed the SUBS-B MODE to PROFILE~~
+    2.  ~~Closed the menu~~
+
+Reference  
+  
+Operator initialsVP  
+Checked by operator initials-  
+Timestamp18:11  
+NotesN/A  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,304 @@
+Aim
+
+
+Pump muscle and fibroblast cells full of creatine
+
+
+Hypothesis
+
+
+             
+
+Exposing cells to media conditioned with creatine will not have a negative
+effect on cell survival
+
+
+Timeline and protocol
+
+
+Cell choice  
+  
+DOLLY Myoblasts
+
+CHOMP Fibroblasts
+
+  
+Creatine is an energy source (converting ADP to ATP), which is why presence is
+so high in muscle (a very energy intensive cell type). Fibroblasts do not
+require as much energy as active muscle cells and so the maximum creatine
+content we can achieve in fibroblasts will definitely be lower than in muscle
+cells. For this reason the initial experiment will use DOLLY muscle cells and
+run this in parrallel with CHOMP fibroblasts to see how they compare.  
+  
+Creatine concentrations  
+Literature has shown that 5mM creatine in diff media can be used to promote
+the fusion of myoblasts and myosin heavy chain type II and troponin T
+expression. This concentration of creatine was chosen because it had the
+largest effect on the growth of C2C12 cells when investigated by Louis et al.,
+2004, who looked at concentrations of 1, 5, 10 and 20 mM. From the results of
+this experiment we can assume that 5 and 20mM creatine is not toxic to our
+cells and can subsequently use them as a starting point.  
+  
+FYI I (EH) also considered basing creatine concentration on what is typically
+found in meat. Literature has suggested that cooked chicken, beef and rabbit
+meat contains approximately 30mmol kg-1 of creatine. When I calculated what
+the weight of our cells would be in one T175 the equivalent concentration
+would only be 0.0164mM of creatine. See calculation below. This concentration
+of creatine is much lower than what is typically used in media supplementation
+to improve myotube formation. Seeing as we are looking to significantly
+enhance creatine availability in our cells I decided on higher concentrations.  
+  
+Based on metrics from production
+https://docs.google.com/spreadsheets/d/1ze2r6OLmqyrjWBKgtgrHnEmrnNKEv7zI7tJQ6czqjnM/edit#gid=2031152576
+see row 34. DOLLY myoblasts in 4x4CF flasks had a pellet weight of 0.948g. One
+4CF flask has the surface area of 2528cm2 and 175F has 175cm2. Four 4CF flasks
+have a combined surface area of 10112cm2. 10112/175 = 57.8. 0.948/57.8 =
+0.0164g. In one 175 flask we can estimate the cell weight to be ~0.0164g
+(0.0000164kg). If we want 30mmol kg-1, and only have 0.0000164kg, 0.0000164 x
+30 = 0.000492 mmol kg-1 which in 30ml (with 1000ml in a l) would be 0.000492 /
+0.03, which is only 0.0164 mM.  
+  
+Concentrations we will test:  
+  
+Conc 1 = 0mM  
+Conc 2 = 5mM  
+Conc 3 = 50mM  
+Conc 4 = 200mM  
+Conc 5 = 500mM
+
+NOTE  
+Downstream analysis of this experiment will include 3 forms of analysis:
+ELISA, Bradford assay and Creatinine assay. In attempt to have enough cells
+for all three forms of analysis we will have 2x t175 flasks of cell per
+creatine concentration.
+
+Cell requirements of the assays:
+
+  
+ELISA: 2M cells  
+Bradford: 30,000 cells (lowest!)  
+Creatinine: 2M cells  
+  
+Total cells for each media condition needs to be ~2030000
+
+
+
+Brief muscle cell experiment overview:
+
+Thursday 24/02/22  
+  
+Thaw muscle cells and seed 10x T175 flasks (DOLLY)  
+  
+Vial details:  6   x  DOLLY12  WCB cryovials at   540K  cells each for a total
+of    2.9M  cells  
+  
+Perform a cell count and record live and dead cell #'s.  
+Calculate live cells/mL  
+resuspend and distribute the cells evenly in the 300 mL of pre-warmed Growth
+media (DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)), 30ml per flask (10 T175s),
+at 28.9K cells per flask.  
+  
+`resuspend and distribute the cells evenly in the   300 mL of pre-warmed
+Growth media (DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)), 30ml per flask (10
+T175s), at 28.9K cells per flask (1650 cells per cm2)`  
+  
+  
+`Friday 25/02/22`  
+100% feed of DOLLY cells (DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM))  
+  
+Prepare E6 with and without creatine (380ml of each - 30ml per flask, 2x
+flasks per conc, with 6 media changes plus excess):  
+NOTE CALCULATION BASED ON CREATINE WITH MW OF 131.13  
+
+0mM = 0g of creatine in 380ml diff media
+
+5mM = 0.25g of creatine in 380ml diff media
+
+50mM = 2.5g of creatine in 380ml diff media
+
+200mM = 10g of creatine in 380ml diff media
+
+500mM = 25g of creatine in 380ml diff media
+
+Note - if 0.25g is too small to measure accurately then make up extra 50mM and
+dilute 1 in 10  
+  
+
+Monday 28/02/22
+
+Check cells - IF ~70% confluent change 100% media in flasks to E6 media with
+respective creatine conc (and control E6 with no creatine). Make sure flasks
+are labelled with media and creatine conc, 2 flasks per condition:  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ \- NOTE -  
+If not confluent yet everything will have to be delayed until they are
+confluent and ready for diff media.  
+  
+  
+  
+Tuesday 01/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Wednesday 02/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Thursday 03/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Friday 04/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Saturday 05/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Sunday 06/03/22
+
+100% media change of all flask with respective diff media +/- creatine
+
+Monday 07/03/22
+
+Harvest cells
+
+Count cells with trypan blue and record the following for each flask (repeat
+counts 3x per flask):
+
+Total number of cells =
+
+Number of dead cells =  
+  
+Combine cell pellets for each condition then wash each pellet 3x with ice cold
+PBS.
+
+Freeze pellet at -80C until analysis.  
+  
+
+REMINDER: Cell requirements for downstream assays:  
+ELISA: 2M cells  
+Bradford: 30,000 cells (lowest!)  
+Creatinine: 2M cells  
+Total cells for each media condition needs to be ~2030000
+
+  
+  
+NOTE \- Intended analysis for these samples will be measurement of crude
+protein via bradford assay, measurement of creatine content by ELISA,
+measurement of creatinine by creatinine assay kit. We may need more cell mass
+than 2 flasks per condition provides to accommodate all of these tests in this
+instance we will need to increase flasks numbers - in this instance we may
+need to order more creatine volumes and will need to make up more diff media.
+To reduce creatine demand we can also remove some concentrations from testing.  
+  
+  
+
+IF we are doing fibroblasts in parallel:  
+  
+Brief fibroblast cell experiment overview:
+
+Thursday 24/02/22
+
+Thaw 2x cryovial (10M cells per vial) and quickly transfer into a larger GM
+volume (D/F+ 20% FBS + 1xP/S)
+
+e.g. 10 mL of warm GM for a cell conc. of 1M/mL
+
+Perform a cell count and record live and dead cell #'s.
+
+Calculate live cells/mL  
+  
+seed 10xT175 with F_CHOMP07 fibroblasts @7500 cells/cm2 = 1,312,500 cells per
+T175 flask
+
+Place the seeded flasks directly into the 30C incubator (do not leave them in
+the BSC for 30 minutes).
+
+Friday 25/02/22  
+  
+Prepare growth media (D/F+ 20% FBS + 1xP/S) with creatine supplementation
+(store at 4'C), 140ml per condition (30ml per flask, 2x flasks per condition,
+1x 100% feed, plus excess)  
+  
+NOTE CALCULATION BASED ON CREATINE WITH MW OF 131.13  
+  
+
+0mM = 0g of creatine in 140ml D/F+ 20% FBS + 1xP/S
+
+5mM = 0.09g of creatine in 140ml D/F+ 20% FBS + 1xP/S
+
+50mM = 0.9179g of creatine in 140ml D/F+ 20% FBS + 1xP/S
+
+200mM = 3.7g of creatine in 140ml D/F+ 20% FBS + 1xP/S
+
+500mM = 11.8g of creatine in 140ml D/F+ 20% FBS + 1xP/S
+
+  
+Note - if 0.09g is too small to measure accurately then make up extra 50mM and
+dilute 1 in 10.
+
+  
+Once media is made perform:  
+  
+100% media change for each flask to respective pre-warmed creatine media (30C
+for 20 minutes prior to use). Label flasks well, 2x flasks per media
+concentration.
+
+  
+
+Monday 28/02/22  
+100% media change with respective creatine media
+
+Friday 04/03/22  
+Harvest cells and count the cells from each flask with trypan blue
+individually to assess cell survival and infer a proliferation rate via total
+cell number (compared to how many cells were seeded).  
+Record for each creatine concentration condition total cell number, number of
+dead cells.  
+Note - live cells do not take up Trypan Blue, but dead cells are permeable and
+take up the dye.
+
+Combine pellets for same conditions. Wash pellets 3x with ice cold PBS.
+
+Freeze pellet at -80C until analysis.  
+  
+REMINDER: Cell requirements for downstream assays:  
+ELISA: 2M cells  
+Bradford: 30,000 cells (lowest!)  
+Creatinine: 2M cells  
+Total cells for each media condition needs to be ~2030000
+
+  
+NOTE \- Intended analysis for these samples will be measurement of crude
+protein via bradford assay, measurement of creatine content by ELISA,
+measurement of creatinine by creatinine assay kit. We may need more cell mass
+than 2 flasks per condition provides to accommodate all of these tests in this
+instance we will need to increase flasks numbers - in this instance we may
+need to order more creatine volumes and will need to make up more diff media.
+To reduce creatine demand we can also remove some concentrations from testing.  
+  
+  
+Total amount of creatine for muscle cell experiment = ~40g  
+Total amount of creatine for fibroblast cell experiment = ~16.5g  
+Total amount of creatine if we run both cell types = ~56.5g  
+  
+NOTE- two tubs of creatine in main lab, on right as enter lab in the
+cupboards, top left - from eyeballing these tubs it looks like we may have
+enough to do both cell types, but we have also ordered more  
+  
+  
+
+  
+
+

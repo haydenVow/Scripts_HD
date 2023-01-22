@@ -1,0 +1,16 @@
+Performed by: LL
+Process
+
+
+Note: procedure based on document attached below
+
+  1. Removed JC-1 from freezer and allowed to come to room temperature 13:14
+  2. In BSC, dissolve entire 5 mg of JC-1 product in 3.8 mL DMSO to generate 200 uM stock solution (100X) 
+  3. Aliquot into 19 x 200 uL aliquots and store 18 x vials at -20'C 
+    1. Calcs for diltuion: 0.5 uL per well stock solution (50 uL per well, 1:100) - need 200 uL stock solution per plate. Make a 1:20 dilution of stock solution (200 uL JC-1 + 3800 uL media), then add 10 uL to each well (1:5), final Cconc 1:100 to make 1X concentration 
+  4. Using the remaining 19th vial, add 10 uL of stain per well to each test well of 1 x 384-wp
+  5. Leave to incubate in the incubator for 15 minutes 
+  6. Measure fluorescence at 488nm on Zaber microscope. If no signal is detected, incubate for longer (up to 3H) 
+  7. Record observations. 
+
+

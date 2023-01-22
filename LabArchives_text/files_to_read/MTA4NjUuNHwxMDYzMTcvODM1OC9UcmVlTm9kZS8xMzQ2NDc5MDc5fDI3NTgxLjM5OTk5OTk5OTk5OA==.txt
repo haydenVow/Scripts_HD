@@ -1,0 +1,70 @@
+StepInspect hardware, reactors and software  
+Operator nameAV  
+Time-stamp12:26  
+Protocol
+
+  1. Check gas pressure at regulator for all gases in use. Ensure pressure is the same, and is between 1-3 bar.
+  2. Check alarms in warnings and alerts screen. Dismiss any non-applicable alarms. 
+  3. Inspect each physical bioreactor and ensure all clamps are sealed. Check the colour and consistency of the broth (e.g. if milky - contamination, or foamy - cell death)
+  4. Inspect the bioreactor specs in the software and note if any parameter is out of spec. 
+
+  
+  
+Deviations & notes
+
+  * Air: 150 kPa, CO2: 1.5 bar, O2: 1.5 bar
+  * Minor foaming present in all bioreactors.
+  * Aggregates are still present in all bioreactors.
+  * Offline pH deviated quite a bit from the online values on the final day of the experiment
+  * Base volume looks untouched - approximately 20 mL of sodium bicarbonate still remaining in every well.
+
+  
+References  
+
+
+StepSample bioreactor & take offline readings  
+Operator nameAV  
+Time-stamp12:35  
+Protocol
+
+  1. Follow on-screen prompts to draw sample from the sampling line: 
+    * take 1mL draw and discard
+    * take 1mL draw and place in 50mL falcon tube
+  2. Cell count 0.2mL in 1.5mL tube and record in G-sheet (below)
+  3. Return remaining cell suspension from 1.5mL tube to 50mL falcon tube for pH reading
+  4. Calibrate pH meter and read values for all samples. Record pH values below in G-sheet
+
+  
+  
+Deviations & notes
+
+See G-sheet* here for offline readings
+
+*Note: temporarily using this sheet to record data (as AV doesn't have editing access)
+
+  * After sampling, followed prompts to unload bioreactors 1 and 3* (not just borrow) and disengage so that impellers are no longer spinning
+  * Followed prompt to 're-use bioreactors' (??) and exported data to folder on desktop (can be moved onto USB at a later time)
+  * Left reactors in AMBR hardware over the weekend until Monday for proper packdown
+
+*Note: only BR 1 and 3 were unloaded as they were performing poorly. The counts had doubled for BR 2 and 4, so it might be interesting to leave them for the time being to see how they go. Enough feed media was available and the foam level looked fine to leave unattended for a few days.  
+  
+References  
+
+
+  
+  
+Cell count
+
+Culture IDVessel TypeCell density (cells/mL)  
+(Stock A)E500416 000  
+(Stock B)E500296 000  
+SF-AE125613 000  
+SF-BE125884 000  
+(Freestyle, Stock C)E125Dead and gone (binned)  
+  
+  1. Sampled 0.5mL from each flask using 5mL serelogical pipette and deposited into 1.5mL tube
+  2. Sampled 10uL from 1.5mL tube and diluted 1:2 with an equal volume of trypan blue
+  3. Performed cell count using haemocytometer
+  4. Recorded cell density in table above
+
+

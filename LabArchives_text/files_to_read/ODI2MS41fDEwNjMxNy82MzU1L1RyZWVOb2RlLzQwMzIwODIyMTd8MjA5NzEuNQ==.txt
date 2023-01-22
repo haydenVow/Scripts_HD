@@ -1,0 +1,148 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: VB  
+
+
+
+
+Culture IDs:
+
+Harvest flask IDFlask type  
+Seeded vessel typeSeeded flask ID  
+10283  
+T175  
+10CF  
+10323-F_KUZCO20-Alpaca P-1of1  
+  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+  
+0.1% gelatin solutionn/a  
+n/a  
+  
+TrypleA9286  
+200mL  
+dPBS (for washing & neutralising)A9271  
+400mL  
+Growth Media  
+M101101500mL for seeding  
+Growth Media  
+M998045mL for cell suspension  
+  
+p38i (20mM stock)n/a  
+n/a  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      200   mL   
+
+  2.  dPBS (for neutralising):    200 mL
+  3.  dPBS (for washing):     200   mL
+  4. Growth media (for pellet resuspension):      40   mL
+  5. Growth media (for seeding into a 10CF):  1500 mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+14:10
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   14:45
+
+5\. Washed the vessel(s) with  200   dPBS (warmed).
+
+6\. Added     200  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   14:54- 14:59  
+
+7\. Neutralised with     200   dPBS and combined cell suspension into a  8 x
+50ml centrifuge tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was 15:22 - 15:27    
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in   45  mL     Growth     media   15:45  
+
+11\. Aliquoted   10ul   of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Cell count added to the doublings calculator to track the
+doublings time
+
+  1. Total  cell number was:    66,060,000  
+
+  2. Volume of cell suspension required for subculture was:    45 mL      
+
+  3. Cell density per vessel:   10,452 cells/cm (all cells were reseeded)  
+
+
+
+
+13\. Transferred      45mL   of cell suspension to the pre-warmed  1500 mL
+Growth media: 15:58
+
+14\. Transferred cell suspension into the      1x 10CF    vessel.
+
+16\. Transferred vessel(s) to incubate at: 16:04
+
+  * [ X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+F_KUZCO20 expanded from 1X4CF flask to 1x10CF. Cells appeared as usual under
+the microscope, prior to passaging.
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+10283: https://ranger.vow.tools/#/session/recfyOSg1HAatvxjl/images
+
+

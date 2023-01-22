@@ -1,0 +1,205 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Culture IDs:
+
+Harvest flask IDConditionSeeded flask IDCondition  
+8058-F_DOLLY12-Sheep P8-1of2  
+D/F+10%FBS+1xP/S
+
+8197-F_DOLLY12-Sheep P9-1of2
+
+8198-F_DOLLY12-Sheep P9-2of2
+
+D/F+10%FBS+1xP/S  
+  
+  
+8199-F_DOLLY12-Sheep P9-1of2
+
+8200-F_DOLLY12-Sheep P9-2of2
+
+D/F+5%FBS+5%KSR+0.5xP/S  
+  
+  
+8059-F_DOLLY12-Sheep P8-1of2  
+D/F+10%KSR  
+
+8201-F_DOLLY12-Sheep P9-1of2
+
+8202-F_DOLLY12-Sheep P9-2of2
+
+D/F+10%KSR  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+D/F+10%FBS+1xP/S  
+a6455  
+  
+Tryplea5780  
+  
+dPBS (for washing & neutralising)a5495  
+  
+D/F+10%KSR  
+m6810  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   10   mL 
+  2.  dPBS (for neutralising):    5   mL
+  3.  dPBS (for washing):   5   mL
+  4. Growth media (for resus & seeding):
+    1.  11 mL x D/F+10%FBS+1xP/S  
+
+    2. 11 mL x D/F+10%KSR  
+
+    3. 10 mL x D/F+5%KSR+5%FBS+0.5xP/S  
+
+Time that all aliquots were placed in the water bath the warm before use
+13:00   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     13:41   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     13:46 - 13:58    
+
+7\. Neutralised with   10 mL   dPBS and combined cell suspension into    2 x
+15 mL  tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     14:02 - 14:07     
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    1   mL    respective    media
+
+11\. Aliquoted   2 x 10 uL   of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:     FBS: 2,208,000 KSR: 1,708,000       
+
+  2. Volume of cell suspension required for subculture was:     FBS (2 x T25s): 160 uL KSR / (2xT25s): 197 uL / FBS+KSR (2xT25s): 160 uL (from FBS culture)       
+
+  3. Cell density per vessel:    7000 cells / cm2   
+
+
+
+
+13\. Transferred    160 / 160 / 197  µl of cell suspension to the pre-warmed
+3 x 10 mL aliquots    Growth media
+
+14\. Transferred cell suspension into T25s 14:50  
+
+15\. Transferred vessel(s) to incubate at: 14:54
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) THERMO  
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:  
+
+1) Cells in 10%KSR medium formed sheet again. Sheet peeled away when pressure
+was applied from pipette and lifted fully off the plastic after 10 minutes in
+Tryple. It did appear to be a smaller sheet than last time when the cells were
+in 20% KSR medium
+
+2) KSR cells appeared more confluent than FBS cells prior to passaging (based
+off micrographs). The cells that combined to form the sheet had to be
+discarded due to being unable to break them up without causing too much damage
+to other viable cells (which may have been the reason behind cell death after
+passaging last time)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Culture 8058, 10% FBS, 10X, Phase  
+
+Culture 8059, 10% KSR, Phase  
+
+
+
+
+
+
+
+
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

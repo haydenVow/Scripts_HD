@@ -1,0 +1,112 @@
+
+
+## Performed by: Claudia Brown  
+
+  
+
+  
+
+This task should be performed every 2nd or 3rd day, as well as both before AND
+after harvesting
+
+
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+10804
+
+#
+
+3 days  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Sprayed down the sample line end with 70% ethanol.
+  2. Connected a 5 mL sterile syringe.
+  3. Withdrew 1 mL (first-draw)
+  4. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  5. Connected a fresh sterile syringe and withdrew 1 mL of sample (second-draw).
+  6. Disconnected sample syringe and transferred 1 mL of sample each to 1.5 mL Eppendorf tubes for cell count
+  7. Sprayed sample line with 70% ethanol.
+  8. Performed cell count:
+    * 1st draw: 568,000 cells/mL
+    * 2nd draw: 236,000 cells/mL
+    * average: 402,000 cells/mL
+  9. Checked stirring speed, temperature, pH, and dissolved oxygen and recorded in 'observation/summary' section below
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsCB  
+  
+Checked by operator initialsN/A  
+  
+Timestamp10:30  
+  
+NotesFirst draw had heaps more cells than the second draw, perhaps the first
+draw had extra cells in there from a previous draw? I would probably consider
+the second draw to be more accurate. Either way the cell numbers have still
+increased since yesterday.  
+No aggregation observed  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  
+
+  * Navigated to https://192.168.0.250/ from a web browser window
+  * Logged into the Biostat web app using the details in the operating manual (see reference).
+    1. Username: "admin" (all lower case)
+    2. Password: "709aA0"
+
+  
+
+  * stirring speed: 70rpm
+  * pH: 7.59 - 7.6
+  * dissolved oxygen: 37.7%
+  * temperature: 37'C
+
+###
+
+
+
+
+Media/Reagents used:
+
+NameDetailsAmount used  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+None
+
+

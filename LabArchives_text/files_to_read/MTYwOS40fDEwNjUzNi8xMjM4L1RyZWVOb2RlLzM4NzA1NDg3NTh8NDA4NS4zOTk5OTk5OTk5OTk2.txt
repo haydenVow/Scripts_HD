@@ -1,0 +1,121 @@
+
+
+Experiment Overview - CelCradle Run 01:
+
+Aim: To see how the CHOMP cells grow in a packed bed bioreactor on BioNOC II
+macrocarriers. Also to see if they can overcome the adaption lag phase and
+proliferate.  
+
+Questions being investigated
+
+  1. Do the CHOMP cells attach to the macrocarriers in this environment?
+  2. Do they start to proliferate after an initial lag phase?
+  3. Is Hoechst or DAPI staining along with a metabolic assay successful in monitoring cell growth/proliferation?
+  4. How many cells can we harvest from the packed bed bioreactor?
+    1. Are we reaching 100% confluence?
+
+Original Experiment Plan:
+
+Revised Experiment Plan/Deviations:
+
+  * The optimal seeding density could not be identified in the prelim study so the default seeding density of 7,500cell/cm2 was used to see these vessles
+  * Only 2 vessels were seeded instead of 4 due to the high number of cells required to seed each bottle (99M) and to stick to a manageable workload for one person to manage these experiments. 
+  * This experiment was originally meant to last for only 1 week but due to the suspected lag phase of adaption of the cells, the experiment was extended to a total of 16 days.
+
+  
+
+Results:
+
+1\. Do the CHOMP cells attach to the macrocarriers in this environment?
+
+Yes. At every stage of the experiment DAPI images clearly showed that the
+cells were attached to the BioNOC in both CelCradle bottles.
+
+10979
+
+07/03 - D609/03 - D811/03 - D1014/03 - D1316/03 - D15  
+  
+  
+
+10978
+
+07/03 - D609/03 - D811/03 - D1014/03 - D1316/03 - D15  
+  
+  
+
+2\. Do they start to proliferate after an initial lag phase?
+
+  * Most of the lag phase data was not able to be captured due to technical difficulties with equipment and a lack of physical time. However the XTT metabolic assay data (below) clearly shows an increase in metabolic activity between the days of 3-13. The cell growth is also visible in the DAPI images above when you compare day 6 to day 13 and 15. 
+  * It would have been nice to have a few more days of the XTT Assay to see if the metabolic rate plateaued however this was not possible due to time constraints. 
+  * Overall it is evident that the cells do grow/proliferate over a 2 week period.
+
+  
+
+3\. Is Hoechst or DAPI staining along with a metabolic assay successful in
+monitoring cell growth/proliferation?
+
+  * Looking at the data above it is clear that the XTT assay along with the DAPI staining is sufficient to observe and monitor cell growth/proliferation.
+  * Hoechst staining (live and fixed) was also tried but this was not as successful as DAPI so DAPI, but not Hoechst was carried forward for the remainder of the experiment (See comparisons below).
+
+Live Hoechst Staining:
+
+Seeded BioNOCControl (Unseeded) BioNOC  
+10978  
+  
+  
+10979  
+  
+  
+  
+Fixed Hoechst vs DAPI:
+
+DAPIHoechst  
+10979  
+  
+  
+10978  
+  
+  
+  
+4\. How many cells can we harvest from the packed bed bioreactor? / 4a. Are we
+reaching 100% confluence?
+
+Flask ID#Cells InCells OutGrowth relative to starting cell numbers (%)  
+1097885,338,00046,610,000-45  
+1097988,321,20070,560,000-20  
+  
+  
+
+Follow up Question: If the cells were growing, why did we get less out than we
+put in?/Where could cells have been lost?
+
+  * Post harvest images show that a portion of cells were still stuck on the macrocarriers, a lot of cells could have been lost this way
+
+10978
+
+BEFORE HarvestAFTER Harvest  
+Exposure 5  
+  
+Exposure 10  
+  
+  
+10979
+
+BEFORE HarvestAFTER Harvest  
+  
+  
+  
+  * When pouring the solution out of the CelCradle bottles, it was very difficult to do this without losing macrocarries so as a result a small amount of liquid (~20mL) was always lost at the bottom of the bottle
+  * The supernatant was poured off and the centrifuge bottles were not washed out after the cell suspension was combined. This could result in some cell loss
+  * There seems to be some aggregation of the cells in the cell suspension that could not be broken up, these cells cannot be counted resulting in a lower cell count even though these cells are there.
+
+  * Overall it is likely that at all of these points some cells were lost resulting in a large loss overall.
+
+Future directions:
+
+  * Some kind of strainer can be used to pour out the solution from the CelCradle bottle without losing the macrocarriers. Alternatively we could put all of the macrocarriers into a 1L bottle and do the harvest in here to avoid losing the bit of solution in the bellows of the CelCradle Bottle. 
+  * A more refined harvesting protocol will need to be developed. Esco Aster protocols use DNase, this may be essential to break up the clumping/aggregation that was observed in the cell suspension. 
+  * Growing the cells for 3 weeks next time will allow for the detection of a plateau in the XTT metabolic assay which could suggest 100% confluence had been reached, along with the DAPI staining. 
+  * The pH was consistently on the low side even after media bottle changing. This will need to me monitored more closely in future and be rectified as it could have an effect on the growth rate of the cells. 
+
+

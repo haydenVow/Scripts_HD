@@ -1,0 +1,81 @@
+
+
+[C] 50% Feed after 48 hours.
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+Total media required: 30
+
+Total p38i required: 15
+
+### Process:
+
+  1. Aliquotted   30`mL` of  growth` Media` into 1x50mL   tube(s) (without p38inhibitor). Placed in water bath   15`:15 a/pm`
+  2. Removed  culture 6338 from the incubator at 15:30 then aspirated and discarded 50% of supernatant from the E250 vessel without disturbing the microcarrier pellet.
+  3. Added 15uL of p38 inhibitor stock to the warmed aliquoted growth media (final conc 10uM).
+  4. Replaced the discarded volume in the E flask with 30`mL of` media.
+  5. Returned vessel to incubate at: 15:45
+    * [x]  37ºC, 5% CO2 (mammalian cells), shaking at 120rpm.
+    * [ ]  40ºC, 5% CO2 (aviary cells)
+
+Growth Media: 3246
+
+p38i: 3978
+
+
+
+
+Water run of the Opentron Fix and DAPI microcarrier culture protocol. 16:15.
+
+Loaded the opentron protocol designed to fix and dapi microcarrier cultures
+(see attached Json file). substituted all reagents and microcarrier volumes in
+the protcol for water in order to test the functionality of the protocol prior
+to use tomorrow.
+
+
+
+
+It might be ideal to lower the height of the pipette during the dPBS mixing.
+The dPBS wash doesn't have to be dispensed at a high desirable for aspiration,
+in fact lowering it might give better mixing of the carrier pellet. (This can
+be changed for all dispense and mix steps). The height is currently set at
+9mm, we can reduce this down to 2-3mm instead for all dispense and mixing
+steps.  
+
+
+
+
+One observation made previously about the microcarrier work was that the
+cytodex 1 microcarriers stick quite readily to the cell culture treated
+plastic ware. This could be and advantage for us when we want to sample from
+many culture but increase our processing thoughput. We could aliquot smaller
+volumes into a 96 well plate and have the Opentron multi channel pipette go
+though the fixing and dapi staining protocol, assuming the carriers are easily
+bound to the base of the well. Food for thought for high thoughput opentron
+work with microcarriers.
+
+
+
+
+The mixing frequency can probably be reduced to 3 mixes from 5 for each
+dispense step once the pipette high has been adjusted to 2-3mm. This should
+speed up the protocol  
+
+
+
+
+A 1-2 minute wait step will be needed once the DAPI is applied on the last
+well. This will ensure that the first well (A1) has been incubated for a
+minimum of 5 minutes in DAPI solution.
+
+
+
+
+Channel 4 on reagent reservoir did not have enough dPBS to wash well number 6.
+I need to up the dPBS volume to 14.5mL. The protocol took 1h and 20 minutes to
+complete. 17:40. Made the changes suggested above to the protocol in opentron
+protocol designer and saved the new version (see below)  
+
+

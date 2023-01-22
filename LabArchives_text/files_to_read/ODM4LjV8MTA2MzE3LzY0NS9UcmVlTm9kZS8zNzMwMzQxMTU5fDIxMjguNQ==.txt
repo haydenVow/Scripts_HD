@@ -1,0 +1,209 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2CF
+
+6529-DOLLY12-Sheep P12-1of6
+
+6530-DOLLY12-Sheep P12-2of6
+
+6531-DOLLY12-Sheep P12-3of6
+
+6532-DOLLY12-Sheep P12-4of6
+
+6533-DOLLY12-Sheep P12-5of6
+
+6534-DOLLY12-Sheep P12-6of6
+
+96WP
+
+6585-DOLLY12-Sheep P13-1of2
+
+6587-DOLLY12-Sheep P13-2of2
+
+  
+  
+2CF
+
+6525-DOLLY12-Sheep P12-1of4
+
+6526-DOLLY12-Sheep P12-2of4
+
+6527-DOLLY12-Sheep P12-3of4
+
+6528-DOLLY12-Sheep P12-4of4
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [X]  E8_10C (ACF medium) 
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   600  mL in   2 x 300 mL  pots  10:45 am   
+
+  2.  dPBS (for washing and neutralising):   1200  mL in   4 x 250 mL   pots   10:45 am   
+
+  3. 10C growth media for pellet resuspension:   30  mL in   1 x 50 mL  tube    12:20    
+
+  4. 10C growth media (for seeding):   5  mL in   1 x 15 mL  tube  15:30  
+  5. D/F+20%FBS+1xP/S+P38i (for seeding): 2 mL in 1 x 15 mL tubes 15:30   
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with 100 mL dPBS (warmed). Equalised, re-circulated
+the dPBS, equalised again.
+
+6\. Added   100  mL tryple to each 2CF. Equalised, re-circulated the Tryple,
+equalised again, and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     11:52 - 12:06 am 
+
+7\. Added   100 mL   dPBS/2CF. Equalised, re-circulated the dPBS, equalised
+again. Poured into sterile 500 mL pot. Aliquotted cell suspension from pot
+into centrifuge tubes. Again added  100 mL   dPBS/2CF. Equalised, re-
+circulated the dPBS, equalised again. Poured into same 500 mL pot, then
+aliquotted into centrifuge tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     12:17 - 12:22  
+  2. Start/Finish time for centrifugation was     12:23 - 12:28  
+  3. Start/Finish time for centrifugation was     12:29 - 12:34  
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    32   mL   10C   media  
+
+11\. Aliquoted   2 x 100 uL   of resuspended cells into a microcentrifuge tube
+for cell count. Took 1 x 10 uL sample from each 100 uL sample for a total of 2
+cell counts.
+
+12\. Performed cell counts using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1.  Total average cell number was:     2 cell counts added together/2 = 61,943,000  
+  2.  Volume to re-suspend pellet in to achieve 0.8M cells in 50 uL to seed 76 wells (72 with excess):   3800 uL      
+
+
+
+
+13\. Centrifuged cell suspension at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   13:34 
+
+15\. Re-suspended pellet in  3800 uL  warmed 10C medium
+
+16\. Received cell suspension of cells in serum-containing media from cell
+expansion team (LAB BOOK LINK)
+
+17\. Centrifuged cell suspension at 650 x g for 5 min
+
+  * Start/Finish time for centrifugation was    14:07    
+
+18\. Re-suspended pellet in  1000 uL warmed D/F+20%FBS+1xP/S+P38i
+
+14\. Transferred cell suspensions to 2 x sterile reservoirs and, using a
+multichannel pipette, added 50 uL of cell suspension to each zein scaffold
+
+16\. Left at RT in the BSC for 30 min to allow cells to settle      14:25 -
+15:00  
+
+17\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem4010 & m4008  
+  
+dPBS (for washing & neutralising)m4353 & m4355  
+  
+Growth Media (DMEM/F12+20%FBS+1xP/S)  
+m  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Zein scaffold coated with either EPL or Pectin were seeded with 0.8M cells per
+scaffold in ACF (10C) or serum-containing (D/F+20%FBS+1xP/S+P38i) medium
+
+
+
+
+### Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+      * Will fix and DAPI stain tomorrow to determine whether cells adhered
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+Culture 6530, 4X, Phase
+
+Culture 6531, 4X, Phase
+
+
+
+Culture 6533, 4X, Phase
+
+
+
+
+
+

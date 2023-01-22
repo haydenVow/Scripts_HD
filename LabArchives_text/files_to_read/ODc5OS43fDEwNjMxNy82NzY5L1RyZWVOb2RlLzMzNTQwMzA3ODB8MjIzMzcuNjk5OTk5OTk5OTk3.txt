@@ -1,0 +1,108 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by:  AG  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID  
+Relevant ImagesMedia Conditions  
+Seeded Flask Type  
+  
+10601-C2C12-Water Buffalo P12-1of2
+
+  
+https://ranger.vow.tools/#/session/rec5mdpyEI8V6AU5s/images  
+DMEM/F12 + 20% FBS + 1X P/S without CO2  
+  
+T175  
+  
+  
+10602-C2C12-Water Buffalo P12-2of2
+
+  
+https://ranger.vow.tools/#/session/recOdWJRHEyCaoa6T/images  
+DMEM/F12 + 20% FBS + 1X P/S with CO2  
+  
+  
+10603-C2C12-Water Buffalo P13-3of5
+
+  
+https://ranger.vow.tools/#/session/reczdBWE7OuPawvS5/images  
+L-15 + 20% FBS + 1xP/S  
+  
+  
+10604-C2C12-Water Buffalo P13-4of5
+
+  
+https://ranger.vow.tools/#/session/rec0qNO6C3dcLXcTu/images  
+PRF DMEM/F12 + 20% FBS + 10 mM HEPES + 1x P/S  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7009  
+  
+TrypleA9733  
+  
+dPBS (for washing & neutralising)M10268  
+  
+Growth Media (DMEM + 20% FBS + 1xP/S)  
+M10207  
+  
+Growth Media (L-15 + 20% FBS + 1xP/S)  
+M10458  
+  
+Growth Media (PRF D/F + 20% FBS + 10 mM HEPES 1xP/S)  
+  
+M10457  
+  
+p38i (20mM stock)M10003  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Place media aliquots in water bath:  11:58  
+ 15 mL of  L-15 + 20% FBS  \+ 1x P/S  \+ 7.5 uL p38i  
+ 15 mL of  PRF D/F + 20% FBS + 10 mM HEPES 1xP/S   \+ 7.5 uL p38i  
+ 30 mL  mL of  DMEM/F12 + 20% FBS + 1x P/S  \+ 15 uL p38i
+
+  2.   
+
+  3. Imaged 3 locations on each flask at 10x on the Primo microscope. 
+  4. Removed  50% of supernatant from vessels. 
+  5. Replaced with 15mL (per vessel) of  growth media as indicated
+  6. Returned vessel to incubate at: 12:23
+
+  * [X ]  37ºC, 5% CO2 (mammalian cells), incubator 120, ID:10296
+  * [X ]  37ºC, 0% CO2 (mammalian cells), incubator 118, ID:10297, 10298, 10299
+
+  
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. Vessels listed above
+
+

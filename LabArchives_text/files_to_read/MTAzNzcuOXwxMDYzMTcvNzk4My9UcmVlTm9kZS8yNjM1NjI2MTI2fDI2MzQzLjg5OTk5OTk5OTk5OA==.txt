@@ -1,0 +1,279 @@
+Aim/Purpose
+
+
+The aim for this experiment is to perform large scale (3x scaled up - Well
+volume of 4mL) tissue engineering with primary Water Buffalo (BUFFY)
+myoblasts, to generate on the order of 25-50 grams worth of tissue-engineered
+muscle.
+
+The details for literature search and plans that formed the basis of the early
+work are outlined here: https://www.notion.so/vow/Buffalo-Wings-Tissue-
+Engineering-plan-e0e4d39308564b6383514d5fc3691b07
+
+Following the successful tissue engineering experiments in March 2022 - LINK -
+we will be taking this protocol further for this experiment. The matrix to be
+used here will be exclusively Collagen I and Matrigel based, as this was the
+easiest and best formed protocol.
+
+
+
+
+Perform passage using below volumes:
+
+  
+
+
+Methods and Experiment Layout
+
+
+Performed By: Alex
+
+
+
+
+Before Starting Ensure:
+
+  * Calculate required cell densities and volumes of matrix ingredients for large can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=0
+  * Mount large scaffolds in PDMS in 15cm dishes
+  * Ensure matrix reagents are made up fresh at required concentrations
+
+Matrix reagents details for this experiment:
+
+  * Make up matrix reagents:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 2 mL total (make 2.5 mL)
+    * Matrigel is thawed on ice overnight to maintain as liquid
+
+
+
+
+Reagent Prep - 09.5.22
+
+  1. Make up 3L 10% FBS in PBS for neutralisation
+    1. Sterile filter 100mL FBS into 900mL of sterile PBS
+  2. Make up XXmL Collagen 1 in Sterile MQ water at 2.6mg/ml
+  3. Make up 340mL 0.2% Pluronic in MQ Water
+  4. Thaw XmL Matrigel
+  5. Sterile filter all reagents (except Matrigel): 10xDMEM/F12, Collagen 1, NaOH, 0.2% Pluronic (340mL)
+
+  
+
+Scaffold sterilisation and coating - 08.5.22 + 09.5.22
+
+  1. Ethanol sterilise (completely submerge in 70% Ethanol) for 30 minutes, then leave to air dry in BSC with lids off
+    1. Dishes start ethanol =   16 : 30  am  start dry =   17 : 15  am \- 08.5.22
+  2. UV irradiate for 30 minutes under the mobile UV lamp - start    09 : 45  am \- 09.5.22
+  3. Pre-coat with 0.2% Pluronic solution for 1 hour (to prevent adhesion), start    10 : 30  pm 
+
+  
+
+
+
+
+Cell Harvest plan for large flasks
+
+Ideally, harvest two flasks at a time and perform scaffold seeding one after
+each other, this prevents any over-stressing of cells before seeding into
+tissues. One flask should be sufficient to seed roughly 1/2 to 3/4 of one
+12-well scaffold. For 2 flask harvest, use the large scale 500ml spin bottles
+and spin at 1000-1200G for 5 minutes, or until supernatant is clear.
+
+Cell Harvest for scaffold seeding - Flasks 1 and 2 (IDs #XXX, #XXX)
+
+Note: This protocol is to be repeated for 4.5 lots of 2x 10CF (2x per
+dissociation)
+
+  1. Wash cells in 2x 10CF with   2x 500mL   PBS, start    :   pm 
+  2. Dissociate cells (in 2x 10CF) with   2x 500mL   TryplE for 15-20 minutes - try to use as low volume as possible, start    :   pm 
+  3. Neutralise with  2x  200mL 10% FBS/PBS  
+  4. Wash using  2x  300mL 10% FBS/PBS  
+  5. Centrifuge at 1200g for 5 minutes: start    :  pm 
+  6. Gently flick cells to dislodge pellet and resuspend each 500mL spin bottle in   10mL  Growth Media
+    1. N.B. Try for low volume for resuspension, so that yield is well in excess of cell density needed (Aim here for ~10M cells per 1mL to be safe)
+  7. Combine both spin bottles into 70mL/120mL urine jar 
+  8. Count cells with haemocytometer for total yields:
+    1. Total yield per 2 flasks =    million   
+
+    2. Total volume per 2 flasks =     mL  
+    3. Cell concentration. =     cells/mL  
+  9. Dilute cell mixture to 5M cells/mL with growth media
+    1. Necessary media volume to add =     mL  
+
+  
+
+Matrix formation for scaffold seeding \- Flasks 1 and 2
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     mL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =     mL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =     mL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume to add =     mL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add Growth Medium to wells if plate is not full, if plate is full, add    150mL   growth media to entire 15mL dish, ensure scaffold is covered
+
+
+
+
+Cell Harvest plan for large flasks
+
+Ideally, harvest two flasks at a time and perform scaffold seeding one after
+each other, this prevents any over-stressing of cells before seeding into
+tissues. One flask should be sufficient to seed roughly 1/2 to 3/4 of one
+12-well scaffold. For 2 flask harvest, use the large scale 500ml spin bottles
+and spin at 1000-1200G for 5 minutes, or until supernatant is clear.
+
+Cell Harvest for scaffold seeding - Flasks 3 and 4 (IDs #XXX, #XXX)
+
+Note: This protocol is to be repeated for 4.5 lots of 2x 10CF (2x per
+dissociation)
+
+  1. Wash cells in 2x 10CF with   2x 500mL   PBS, start    :   pm 
+  2. Dissociate cells (in 2x 10CF) with   2x 500mL   TryplE for 15-20 minutes - try to use as low volume as possible, start    :   pm 
+  3. Neutralise with  2x  200mL 10% FBS/PBS  
+  4. Wash using  2x  300mL 10% FBS/PBS  
+  5. Centrifuge at 1200g for 5 minutes: start    :  pm 
+  6. Gently flick cells to dislodge pellet and resuspend each 500mL spin bottle in   10mL  Growth Media
+    1. N.B. Try for low volume for resuspension, so that yield is well in excess of cell density needed (Aim here for ~10M cells per 1mL to be safe)
+  7. Combine both spin bottles into 70mL/120mL urine jar 
+  8. Count cells with haemocytometer for total yields:
+    1. Total yield per 2 flasks =    million   
+
+    2. Total volume per 2 flasks =     mL  
+    3. Cell concentration. =     cells/mL  
+  9. Dilute cell mixture to 5M cells/mL with growth media
+    1. Necessary media volume to add =     mL  
+
+  
+
+Matrix formation for scaffold seeding \- Flasks 3 and 4
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     mL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =     mL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =     mL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume to add =     mL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add Growth Medium to wells if plate is not full, if plate is full, add    150mL   growth media to entire 15mL dish, ensure scaffold is covered
+
+
+
+
+Cell Harvest plan for large flasks
+
+Ideally, harvest two flasks at a time and perform scaffold seeding one after
+each other, this prevents any over-stressing of cells before seeding into
+tissues. One flask should be sufficient to seed roughly 1/2 to 3/4 of one
+12-well scaffold. For 2 flask harvest, use the large scale 500ml spin bottles
+and spin at 1000-1200G for 5 minutes, or until supernatant is clear.
+
+Cell Harvest for scaffold seeding - Flasks 5 and 6 (IDs #XXX, #XXX)
+
+Note: This protocol is to be repeated for 4.5 lots of 2x 10CF (2x per
+dissociation)
+
+  1. Wash cells in 2x 10CF with   2x 500mL   PBS, start    :   pm 
+  2. Dissociate cells (in 2x 10CF) with   2x 500mL   TryplE for 15-20 minutes - try to use as low volume as possible, start    :   pm 
+  3. Neutralise with  2x  200mL 10% FBS/PBS  
+  4. Wash using  2x  300mL 10% FBS/PBS  
+  5. Centrifuge at 1200g for 5 minutes: start    :  pm 
+  6. Gently flick cells to dislodge pellet and resuspend each 500mL spin bottle in   10mL  Growth Media
+    1. N.B. Try for low volume for resuspension, so that yield is well in excess of cell density needed (Aim here for ~10M cells per 1mL to be safe)
+  7. Combine both spin bottles into 70mL/120mL urine jar 
+  8. Count cells with haemocytometer for total yields:
+    1. Total yield per 2 flasks =    million   
+
+    2. Total volume per 2 flasks =     mL  
+    3. Cell concentration. =     cells/mL  
+  9. Dilute cell mixture to 5M cells/mL with growth media
+    1. Necessary media volume to add =     mL  
+
+  
+
+Matrix formation for scaffold seeding \- Flasks 5 and 6
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     mL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =     mL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =     mL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume to add =     mL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add Growth Medium to wells if plate is not full, if plate is full, add    150mL   growth media to entire 15mL dish, ensure scaffold is covered
+
+
+
+
+Cell Harvest plan for large flasks
+
+Ideally, harvest two flasks at a time and perform scaffold seeding one after
+each other, this prevents any over-stressing of cells before seeding into
+tissues. One flask should be sufficient to seed roughly 1/2 to 3/4 of one
+12-well scaffold. For 2 flask harvest, use the large scale 500ml spin bottles
+and spin at 1000-1200G for 5 minutes, or until supernatant is clear.
+
+Cell Harvest for scaffold seeding - Flasks 7 and 8 (IDs #XXX, #XXX)
+
+Note: This protocol is to be repeated for 4.5 lots of 2x 10CF (2x per
+dissociation)
+
+  1. Wash cells in 2x 10CF with   2x 500mL   PBS, start    :   pm 
+  2. Dissociate cells (in 2x 10CF) with   2x 500mL   TryplE for 15-20 minutes - try to use as low volume as possible, start    :   pm 
+  3. Neutralise with  2x  200mL 10% FBS/PBS  
+  4. Wash using  2x  300mL 10% FBS/PBS  
+  5. Centrifuge at 1200g for 5 minutes: start    :  pm 
+  6. Gently flick cells to dislodge pellet and resuspend each 500mL spin bottle in   10mL  Growth Media
+    1. N.B. Try for low volume for resuspension, so that yield is well in excess of cell density needed (Aim here for ~10M cells per 1mL to be safe)
+  7. Combine both spin bottles into 70mL/120mL urine jar 
+  8. Count cells with haemocytometer for total yields:
+    1. Total yield per 2 flasks =    million   
+
+    2. Total volume per 2 flasks =     mL  
+    3. Cell concentration. =     cells/mL  
+  9. Dilute cell mixture to 5M cells/mL with growth media
+    1. Necessary media volume to add =     mL  
+
+  
+
+Matrix formation for scaffold seeding \- Flasks 7 and 8
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     mL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =     mL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =     mL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume to add =     mL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    : pm  
+  8. Add Growth Medium to wells if plate is not full, if plate is full, add    150mL   growth media to entire 15mL dish, ensure scaffold is covered
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+

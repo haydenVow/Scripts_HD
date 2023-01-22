@@ -1,0 +1,23 @@
+Performed by: KB
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100
+
+
+Process
+  
+  
+  1. Retrieved cultures from incubator
+  2. Took 2 x 50 uL samples from each culture 
+  3. Performed 4 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 36,840,000 cells
+    * RPMI/HyCell:62,640,000 cells. Note that the cells in this flask were getting fairly clumpy.
+  4. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  5. Removed cells from each cultures to leave 1 million cell remaining
+    * Removed 29.186 mL containing 35,840,000 cells from Freestyle culture 
+    * Removed _29.515_ mL containing __61,640,000 cells from HyCell/RPMI culture 
+  6. Topped cultures back up to a total of 20 mL (50,000 cells per mL final cell density) with respective media
+    * Note: remembered to add growth factors to media aliquots (see "Nuvonis media" sheet on following spreadsheet for volumes to add https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1994431485)
+  7. Returned flasks to incubator: 13:20
+
+

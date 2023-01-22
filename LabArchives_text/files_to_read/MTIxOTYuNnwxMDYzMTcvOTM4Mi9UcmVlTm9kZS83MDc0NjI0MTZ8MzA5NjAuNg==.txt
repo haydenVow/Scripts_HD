@@ -1,0 +1,154 @@
+Performed by: LL VP AV
+Ranger data
+Harvested culture IDSeeded culture ID Condition NotesCondition ID  
+  
+13431  
+14.0  
+13432  
+13433  
+13434  
+14.1  
+13435  
+13436  
+13437  
+14.2  
+13438  
+13439  
+13440  
+14.3  
+13441  
+13442  
+13443  
+14.4  
+13444  
+13445  
+13446  
+14.5  
+13447  
+13448  
+13449  
+14.6  
+13450  
+13451  
+  
+13452  
+  
+14.7  
+13453  
+  
+13454  
+  
+13455  
+  
+14.8  
+13456  
+  
+13457  
+  
+13458  
+  
+14.9  
+13459  
+  
+13460  
+13461  
+  
+15.0  
+13462  
+  
+13463  
+  
+13464  
+  
+16.0  
+13465  
+  
+13466  
+
+
+ReagentID  
+HyCell Nuvonis mediumm13391  
+R&D 50:50 RPMI:CHO Nuvonis mediumcontrol: m13501 basal medium: m13534  
+Lipid concentrate s7455  
+Trace elements As7166  
+Amino acid mix  
+  
+IGF-1-LR3m13279  
+EGFm13499
+
+
+Process
+  
+  
+  1. Prepared control 1: 
+    1. 95 mL of HyCell CHO Nuvonis medium with growth factors (0.00005 mg/mL IGF + 0.00001 mg/mL EGF)
+  2. Prepared base medium (R&D 50:50 Nuvonis medium): 
+    1. Made 1500 mL of R&D 50:50 RPMI:CHO Nuvonis medium
+      1. Mixing 748 mL of CHO Nuvonis medium with 748 mL of RPMI Nuvonis medium in 2L Schott bottle 
+      2. Added following mg of ala-gln, l-glutamine, hypoxanthene, and glucose (bright yellow highlighted cells)
+      3. Volume (mL)1500  
+  
+  
+  
+  
+  
+  
+Concentration in medium (g/L)Desired concentration (g/L)Amount deficient
+(g/L)Stock conc (g/L)Total mg in desired volVol to add (mL)  
+CHO-in-1 Nuvonis  
+  
+  
+  
+  
+748.350  
+RPMI Nuvonis  
+  
+  
+  
+  
+748.350  
+IGF-1 LONG R300.000050.000050.050.0751.500  
+EGF00.000010.000010.050.0150.3000  
+L-glutamine0.1460.2920.14629.2219.000  
+  
+Ala-Gln00.6520.65243.4978.000  
+  
+Glucose47.43.44005100.000  
+  
+Hypoxanthine00.010.01215.000  
+  
+Thymidine00.0010.00111.5001.5000  
+  
+  
+  
+  
+  
+Total medium vol (mL)1500.000  
+    2. Added 1.5 mL of 1g/L Thymidine solution 
+    3. Once all powder was dissolved, aliquoted 500 mL for continuous culture feeds 
+    4. Added amino acids to remaining 1L of medium and placed on stir plate to dissolve (see image below for weights of amino acids added)
+    5. Sterile filtered medium
+    6. Added 95 mL of the medium to each of 6 x 120 mL pots.
+    7. Stored remaining medium in fridge 
+  3. Prepared control 2: 
+    1. Added growth factors (0.00005 mg/mL IGF + 0.00001 mg/mL EGF) to 1 x 95 mL aliquot
+  4. Prepared control 3: 
+    1. Added factors for condition 14 as specified in spreadsheet linked below process to 1 x 95 mL aliquot
+  5. Prepared conditions 14.1-14.4 according to spreadsheet linked below with remaining 4 x 95 mL aliquots
+  6. Aliquoted 1 mL of each media condition into 7 x 1.5 mL eppendorf tubes for biochem analysis and stored in freezer at -20'C
+  7. Placed all 95 mL media aliquots in fridge 
+
+
+Spreadsheet link
+
+
+https://docs.google.com/spreadsheets/d/1QF5EU6Z7pBhJgYM9uZbgOGPCnI4ICxClfT3hGHbDxIc/edit#gid=586320467
+
+
+Amino acid weight to add
+
+
+Note: asparagine & isoleucine were added after this image was taken, hence un-
+ticked boxes
+
+

@@ -1,0 +1,161 @@
+Written by: Victoria Prior    Date submitted for review:  XXXXXX
+Reviewed by: XXXX XXXXXX  Date: XXXXXXXX
+Aim:
+
+
+to quantify metabolites glucose, L-glutamine, ammonia, and lactate in spent
+media using absorbance-based commercial kits. We will measure Nuvonis cell
+culture metabolite profiles over time from initial seeding to
+stationary/death-phase, and compare how these profiles differ between
+different medium formulations.  
+
+
+Hypothesis:
+
+
+we propose that metabolite profiles will differ between mediums where:
+
+  1. 1) some metabolites will be consumed and thus depleted in spent media, and 
+  2. 2) some metabolites will accumulate as a waste byproduct and thus increase in spent media
+
+From these data, we aim to:
+
+  1. 1) resolve favourable metabolite profiles in positive controls
+  2. 2) resolve metabolite profiles for our current in-house media formulation
+  3. 3) determine how to modulate our current in-house media formulation to generate a favourable metabolite profile by adjusting metabolites in either media starting formulation or through scheduled feeding
+
+
+Background
+  
+Y/N     LinksJustification  
+Is this a continuation of a previous experiment/series of work?  YLab book
+entry hereMedia samples used in this experiment have been generated in
+EPIC31448  
+Is the experiment based on findings from literature research? Y-HyCell is
+verified as a gold standard positive control, and suitable medium to achieve
+our objective 30g/L in batch mode. We expect that by altering availability or
+concentration of key metabolites in our in-house media formulation to match
+this control profile, we will increase the capacity of our media to support
+high cell densities.  
+  
+  
+  
+
+Variable
+
+ Metabolites measured
+
+Justification
+
+ Relevant links (e.g. to literature and/or product pages)  
+HyCell Nuvonis media
+
+  * Ammonia 
+  * Lactate
+  * Glucose
+  * L-glutamine/L-glutamate
+
+Positive control - gold standard for favourable metabolite profile-  
+Freestyle Nuvonis mediaPositive control-  
+100% CHO Nuvonis mediaVariable control-  
+MFG CHO mediaExperimental condition-  
+R&D CHO mediaExperimental condition  
+-  
+  
+See attached for absorbance-based kit product information sheets
+
+
+Methods
+
+
+Concisely and clearly describe the experiment design, ensure that the
+following information has been included:  
+  
+What combination of factors are being tested? (if relevant use a table to
+demonstrate this)  
+  
+
+Replicate number
+
+Cell type/s
+
+Experiment
+
+duration
+
+Timepoints
+
+Total number of cells needed
+
+Number and type of vessels required**
+
+Controls
+
+Base media
+
+Method/s of measurement
+
+Quantitative or qualitative***  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+*See the following page on statistics, specifically the power calculations section to determine appropriate number of replicates  
+*number does not include vessels required for cell expansion prior to testing variables  
+**will the results retrieved be quantitative (data that can be
+counted/measured using numbers and can be used to calculate significance) or
+qualitative (cannot be counted/measured/expressed easily using numbers,
+results are more observational and open to interpretation)  
+  
+
+
+Plate map (or other relevant diagram):
+
+
+G-sheet
+
+
+Timeline
+
+
+Daily breakdown of tasks in table form.
+
+Day
+
+Task  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Why? Clear and easy to follow thus minimising chance of error
+
+

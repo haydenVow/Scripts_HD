@@ -1,0 +1,27 @@
+
+
+Note
+
+The centrifuge at Co-Labs Melbourne is an old, swing rotor centrifuge. It has
+dials to select spin time and speed however these are not precise. The
+centrifugation speed dial ranged from 1-10 with 10 being top speed (see image
+below for speed control settings and equivalent spin speed in RPM).
+
+
+
+
+Conversion of RPM to G (for 50mL tubes)  
+  
+The following conversion table is base upon the assumption that the router
+diameter is 13.2cm (extrapolated from the conversion written on the top of the
+machine). The top speed (setting 10) used for the calculation does not match
+the graph however. I've assumed that they wrote the wrong setting number but
+that conversion equation used was correct (indicating a rotor radius of
+13.2cm) and that the graph is a good reflection of the RPM for each setting.
+
+  
+
+
+
+
+

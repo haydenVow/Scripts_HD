@@ -1,0 +1,147 @@
+
+
+Process:
+
+1\. Download the OT2 live/dead staining protocol (Link) in the Opentrons
+designer webpage. Before undertaking this step, please have a read of the
+steps and assumptions below, which is necessary to optimize the protocol for
+performing the live/dead staining.
+
+2\. Prepare a 12-channel reservoir containing the staining buffer (1 mL -
+position A1) that will be added into the 50 mL falcon tube following the
+initial mixing step.
+
+Use a NEST 12 Well Reservoir 15 mL  
+
+3\. Prepare the other deck slots in locations according to the OT2 protocol:
+
+p1000 pipette tips
+
+p300 pipette tips
+
+Opentrons 6 Tube Rack with Falcon 50 mL Conical
+
+Corning 96 Well Plate 360 uL Flat
+
+*Ensure steps 2-3 are completed aseptically in the Opentrons with the HEPA filter. 
+
+4\. Run the protocol with a tube filled with 5 mL of sterile water to
+determine appropriate aspiration heights, aspiration speeds and for any
+general debugging issues. Timestamp:  13:54 - 14:06  
+
+Total runtime: 2:09
+
+*Please note down any observations or changes to the protocol and attach a copy of the final protocol design
+
+5\. Warm 5 mL of growth medium (A5369) in water bath   14:22  
+
+Prepare stain buffer by adding 20 drops of Hoechst33342 (S2563) and 20 drops
+of Sytox Green (S3626) to 4 mL of dPBS (A5729)
+
+6\. Thaw a vial of DOLLY12 MuSC (in water bath for 5 minutes   14:33   ) and
+transfer into the pre-warmed 50 mL tube with 5 mL of growth media
+
+ID 2217-Culture-6066-Vial-18of74    8  
+
+Location: 106-Ralph St-Main Lab-Brew
+
+Tower 2
+
+Box 1
+
+Cell B9
+
+8\. Transfer culture vessel and stain buffer into the Opentrons deck
+
+9\. Remove lid from spin tube
+
+10\. Loaded the Opentrons protocol for live/dead staining
+
+11\. Run protocol, detailing any changes to the protocol in the section below.
+Start time: 2:46:36 PM End time: 2:49 PM
+
+Incubated the plate for 10 minutes at room temperature in the dark 14:52 -
+15:02  
+
+12\. Run protocol manually with a human operator as a comparison
+
+Incubated the plate for 10 minutes at room temperature in the dark 14:54 -
+15:04
+
+13\. Spun both plates for 1 minute at 650 RCF 15:05 - 15:06
+
+14\. Image both samples with blue and green fluorescence channels on both the
+Axio and the Zaber
+
+15\. Took 1 mL aliquot of culture and added 1 drop of Hoechst33342 ready
+probes reagent
+
+16\. Incubated aliquot for 10 minutes at room temperature in the dark 15:42 -
+15:52
+
+17\. Transferred 100 uL of sample to a plate for imaging, took images of
+Hoechst33342 only stained samples 15:52
+
+18\. Added 1 drop of Sytox Green ready probes reagent to the aliquot 15:53 -
+16:03
+
+19\. Incubated aliquot for 10 minutes at room temperature in the dark
+
+20\. Took images of Hoechst33342 only and Hoechst/SytoxGreen stained samples
+
+Assumptions:
+
+  * This protocol has been optimised to stain a single culture sample 
+  * Aspiration height for all steps has been set at 1 mm as the new default height. No change was made to the aspiration speeds
+  * The p300 pipette will always attach 8 tips regardless of how many wells you need to stain. Therefore the amount of tips in each column should be setup such that only the minimum amount of tips are used. For example in this protocol only one well in the 96-well plate will be stained as only one culture sample will be sued. There the the column from which the pipette grabs its tips should only have one tip, so the other seven don't get wasted.
+
+2217-Culture-6066-Vial-18of74    8    106-Ralph St-Main Lab-Brew    2    1
+B9
+
+
+
+
+Observations/Changes to protocol:
+
+Please attach a copy of the final protocol design
+
+1\. Changed staining liquid volume from 1 mL to 3 mL in 12-well reservoir
+during water run - needs more dead volume
+
+2\. Changed mixing height of P1000 from 1 mm to 5 mm
+
+3\. Changed protocol to take sample 8 times and put into 8 wells for more
+replicates - Note: this has been changed back in V5 (attached below)
+
+4\. Changed P1000 mixing speed to maximum (1000 uL/s)
+
+Samples that were stained with Hoechst33342 and Sytox Green at the same time
+displayed poor (or no) blue fluorescence. It appears that it is necessary to
+first stain with Hoechst33342, incubate for 10 minutes, then add the Sytox
+Green and incubate for a further 10 minutes.
+
+
+
+
+Relevant Images (if any):
+
+All images saved under culture ID 7742-DOLLY12-Sheep P9-1of1
+
+https://mia-capture.vow.tools/#/session/rec0KQkGTGnnLNtKB/images
+
+  
+
+  
+
+  
+
+
+
+
+Hoechst s2563
+
+Sytox s3626
+
+dPBS 5729
+
+

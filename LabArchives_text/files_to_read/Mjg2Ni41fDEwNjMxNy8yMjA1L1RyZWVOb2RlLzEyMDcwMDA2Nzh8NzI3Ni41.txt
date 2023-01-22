@@ -1,0 +1,134 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+723896 well plate6  
+  
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared    1mL  PBST (0.2% Triton-X)
+
+2\. Prepared    1mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  5 µL   MyoD (   (1:200  ) +  0.995  mL
+Blocking Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoDIgG2b(not used)1:200  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed plate from the fridge under the zaber in the library lab. Removed
+PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  10:34 - 10:49
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes:  10:51 - 11:36
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody at 4ºC for 90 minutes at RT:   11:40
+- 13:12  
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm5285  
+  
+PBST (0.2% Triton)m5481  
+  
+dPBSm5385  
+  
+Primary MyoDs260  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Primary stained cells with MyoD antibody for myogenic purity assay
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+NA
+
+

@@ -1,0 +1,276 @@
+
+
+Perform passage using below volumes:
+
+
+
+
+## Performed by: AK  
+
+
+
+
+Passage Culture IDs:
+
+Harvested Flask ID(s)Seeded Flask ID(s)  
+Flask ConditionSeeded Flask Type  
+N/A  
+8147-F_DOLLY12-Sheep P11-1of1  
+1T75  
+N/A  
+8148-F_DOLLY12-Sheep P11-1of1  
+2T25  
+N/A  
+8149-F_DOLLY12-Sheep P11-1of1  
+3T25  
+N/A  
+8150-F_DOLLY12-Sheep P11-1of1  
+5T25  
+N/A  
+8151-F_DOLLY12-Sheep P11-1of1  
+RPMI controlT25  
+N/A  
+8152-F_DOLLY12-Sheep P11-1of1  
+Serum controlT25  
+8019-F_DOLLY12-Sheep P10-1of1  
+8191-F_DOLLY12-Sheep P11-1of1  
+6T25  
+  
+8020-F_DOLLY12-Sheep P10-1of1  
+8192-F_DOLLY12-Sheep P11-1of1  
+7T25  
+  
+8021-F_DOLLY12-Sheep P10-1of1  
+8193-F_DOLLY12-Sheep P11-1of1  
+8T25  
+  
+8022-F_DOLLY12-Sheep P10-1of1  
+8194-F_DOLLY12-Sheep P11-1of1  
+9T25  
+  
+8023-F_DOLLY12-Sheep P10-1of1  
+8195-F_DOLLY12-Sheep P11-1of1  
+EMEM-alpha controlT25  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+[x] EMEM + 7% FBS + 1X P/S + Difco Select Soytone (5g/L) (Condition 6)
+
+[x] EMEM + 7% FBS + 1X P/S + Difco Select Phytone UF (5g/L) (Condition 7)  
+
+[x] EMEM + 7% FBS + 1X P/S + Bacto Malt Extract (5g/L) (Condition 8)
+
+[x] EMEM + 7% FBS + 1X P/S + BBL Phytone Peptone (5g/L) (Condition 9)
+
+[x] EMEM + 7% FBS + 1X P/S (EMEM control)  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM - Serum ControlA6455  
+  
+GM - Condition 1M6844  
+GM - Condition 2  
+M6845  
+GM - Condition 3  
+M6846  
+GM - Condition 5M6847  
+GM - RPMI controlM6848  
+GM - Condition 6  
+M6851  
+GM - Condition 7  
+M6852  
+GM - Condition 8  
+M6853  
+GM - Condition 9  
+M6854  
+GM - EMEM-alpha controlM6855  
+TrypleA5226  
+dPBSA5495  
+  
+  
+
+
+
+
+Prep of growth media:
+
+1\. Prep growth media mixes and store at 4'C - 25 mL
+
+*Growth Media: EMEM + 7% FBS + 1X P/S + hydrolysate (5g/L)
+
+In order to make media with hydrolysates at 5g/L just add 5 mL of the
+hydrolysate concentrate to 100 mL of growth media.  
+
+ConditionRPMIFBSPen/strepDifco Soytone Conc. Stock (100g/L) Difco select
+Phytone UF Conc. Stock (100g/L)Bacto malt extract Conc. stock (100g/L)  
+ BBL Phytone peptone Conc. Stock (100g/L)  
+  
+6  
+21.75mL1.75mL0.25mL1.25mLN/AN/A  
+N/A  
+7  
+21.75mL  
+1.75mL  
+0.25mL  
+N/A1.25 mLN/A  
+N/A  
+8  
+21.75mL  
+1.75mL  
+0.25mL  
+N/A  
+N/A  
+1.25 mL  
+N/A  
+  
+9  
+21.75mL  
+1.75mL  
+0.25mL  
+N/A  
+N/A  
+N/A  
+1.25mL  
+  
+EMEM control  
+23mL  
+1.75mL  
+0.25mL  
+N/A  
+N/A  
+N/A  
+N/A  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    15   mL in   1x 15 mL   tube   11:51   
+
+  2. dPBS (for neutralising)    30   mL in    1x 50 mL   tube  11:51   
+
+  3. Growth media (for seeding/pellet resuspension):  
+ 6 mL ( Condition 6/7/8/9/EMEM control) 1 mL for pellet resuspension   11:51  
+
+  4. Times that all aliquots were placed in the water bath to warm before use
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added    3   mL tryple to each vessel/well and incubated at 37˚C for   20
+min.
+
+Note: Fibroblasts typically require 15-18 minutes of incubation with tryple,
+slightly longer than MuSCs.
+
+  1. Start/Finish time for tryple was   12:18    \-   12:38    
+
+4\. Neutralised with    3 mL   dPBS (warmed) and combined cell suspension into
+separate    15 mL   tubes.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1. Start/Finish time for centrifugation was  12:47  -  12:52   
+
+
+
+
+6\. Aspirated the supernatant(s)
+
+7\. Resuspended pellet(s) in      1  mL    growth   media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in widget or the Google Doc spreadsheet called 'Cell Count
+Spreadsheet' (see link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  
+
+
+
+
+9\. Total cell number was:
+
+Condition 6:   680,000  
+
+Condition 7:   652,000  
+
+Condition 8:   928,000  
+
+Condition 9:   792,000  
+
+EMEM control:  1,324,000  
+
+10\. Seeded ~7k cells per cm2 of the flasks/plates. Note that fibroblasts
+prefer to be subcultured closely together.
+
+11\. Volume of cell suspension required for subculture was:   T25s (175,000
+cells)  
+258 uL (Condition 6)  
+
+268 uL (Condition 7)  
+
+188 uL (Condition 8)  
+
+220 uL (Condition 9)  
+
+132 uL (EMEM control)
+
+12\. Transferred   required volume of cell suspension to the pre-warmed   5 mL
+Growth Media aliquots.
+
+13\. Transfer cell suspension into (non-gelatin coated)  T25 flasks.
+
+14\. Transfer flask/plate(s) to incubate at:  13:36  
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8019: https://mia-capture.vow.tools/#/session/recA9ERKY3mqSnwbF/images
+
+8020: https://mia-capture.vow.tools/#/session/recaiw11uuf1piIvK/images
+
+8021: https://mia-capture.vow.tools/#/session/recaiw11uuf1piIvK/images
+
+8022: https://mia-capture.vow.tools/#/session/recaiw11uuf1piIvK/images
+
+8023: https://mia-capture.vow.tools/#/session/recVKbb5rEfWCHjlZ/images
+
+

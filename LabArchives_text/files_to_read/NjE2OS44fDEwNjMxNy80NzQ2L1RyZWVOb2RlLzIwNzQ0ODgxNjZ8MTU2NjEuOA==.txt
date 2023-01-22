@@ -1,0 +1,55 @@
+
+
+
+
+
+## Performed by: Avani  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Growth Media (CD-CHO + 10% KSR without P/S)m7683  
+  
+  
+
+  
+
+
+
+
+Process:
+
+  1. Labware definition was tested using a python protocol. X and Y offset needed to be adjusted slightly. Updated python protocol and labware definition are attached below as well as in GDrive.
+  2. A water run was performed using a 3 well protocol. This took 5:58 min. However, it seems like there's a bug with the new software update where the timing starts at 55 s, so it's likely that the protocol only took 5:03 min.
+  3. Added 2.5 mL of growth media to all wells of a new 24 deep well plate.
+  4. Placed plate in the incubator (37 degrees, 5% CO2).
+
+
+
+
+Observations/Summary:
+
+Checked labware definition of 24 deep well plate. Performed a water run of 3
+wells. Added growth media (without P/S) into a 24 dwp and placed it in the
+incubator.
+
+
+
+
+SOPs used:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

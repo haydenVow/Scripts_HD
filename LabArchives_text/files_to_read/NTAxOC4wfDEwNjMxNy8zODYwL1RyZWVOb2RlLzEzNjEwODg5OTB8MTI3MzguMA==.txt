@@ -1,0 +1,195 @@
+
+
+Perform thaw using below volumes:
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedDetailsSeeded Flask ID(s)Seeded Flask Type  
+  
+2408-Culture-6374-Vial-3of46
+
+2409-Culture-6374-Vial-4of46
+
+ ~~2410-Culture-6374-Vial-5of46~~
+
+ ~~2411-Culture-6374-Vial-6of46~~
+
+DOLLY12_11E7  
+passage 8, WCB_2  
+500k cells/vial  
+location:  
+Brew, tower 2, box 4, E3, E4, ~~E5, E6  ~~8006-DOLLY12_11E7-Sheep P9-1of6  
+8007-DOLLY12_11E7-Sheep P9-2of6  
+8008-DOLLY12_11E7-Sheep P9-3of6  
+8009-DOLLY12_11E7-Sheep P9-4of6  
+8010-DOLLY12_11E7-Sheep P9-5of6  
+8011-DOLLY12_11E7-Sheep P9-6of6  
+6x T175 flasks  
+  
+3345-Culture-7677-Vial-1of30
+
+ ~~3346-Culture-7677-Vial-2of30~~
+
+  
+F_DOLLY12_4C4  
+passage 6, F_WCB2  
+1 M cells/vial  
+location:  
+Brew, tower 5, box 2, G18005-F_DOLLY12_4C4-Sheep P7-1of1  
+  
+T175 flask  
+3307-Culture-7636-Vial-1of9  
+F_DOLLY12_3P23  
+Brew, tower 5, box 2, F1  
+  
+T175 flask  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+DMEM/F12 + 20% FBS+ + 1x P/S (for MuSC)M 6381  
+  
+DMEM/F12 + 10% FBS + 1x P/S (for fibroblasts)M 6687  
+  
+p38i (20 mM stock)M 5607  
+  
+  
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+1\. Gelatin coated  6  x  T175  flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator   14:41 pm 
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  DMEM/F12 + 10% FBS + 1x P/S (for fibroblast clone 4C4):   30  mL 
+  * DMEM/F12 + 20% FBS + 1x P/S (for fibroblast clone 3P23):   30  mL 
+  * DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i (for MuSC 11E7):    180  mL 
+  * Time that aliquot was placed in the water bath to warm before use:  14 :18 pm 
+
+  
+
+
+
+
+Process:
+
+1\. Collected the cryovials from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  15:45 - 15:50 pm
+
+Location where cryovial was collected from: see table above
+
+
+
+
+3\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+4\. Added  500µL of appropriate Growth Media (to generate a total volume of
+1mL in the cryovial) to the cryovial, resuspended the cell suspension gently
+to reduce osmotic shock.
+
+5\. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tubes of 30 mL or 180mL of Growth Media.
+
+
+
+
+6\. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the   30mL or 180 mL of pre-warmed Growth Media.
+
+7\. Seeded fibroblast cells into (non-gelatin coated) 1xT175 flask at
+approximately 7k cells per cm2. 16:00 pm
+
+8\. Seeded MuSC into 6x T175 flasks that had been gelatin coated (at approx
+1000 cells/cm^2). Rested these flasks in the BSC for 30 min.   16:30 pm
+
+9\. Transfered flask/plate(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+SOPs used:
+
+  * SOP_Thawing Cells Into Adherent Culture V_02
+
+
+
+
+Summary:
+
+Thawed 1 million DOLLY12_11E7 cells into 6x T175 flasks.
+
+Thawed 1 million F_DOLLY12_4C4 cells into 1x T175 flask.
+
+Thawed 1 million F_DOLLY12_3P23 cells into 1x T175 flask.
+
+VIALS:
+
+2436
+
+2437
+
+3307
+
+3345
+
+  
+
+  
+
+New cultures:
+
+8004-F_DOLLY12_3P23-Sheep P6-1of1
+
+8005-F_DOLLY12_4C4-Sheep P7-1of1
+
+8006-DOLLY12_11E7-Sheep P9-1of6
+
+8007-DOLLY12_11E7-Sheep P9-2of6
+
+8008-DOLLY12_11E7-Sheep P9-3of6
+
+8009-DOLLY12_11E7-Sheep P9-4of6
+
+8010-DOLLY12_11E7-Sheep P9-5of6
+
+8011-DOLLY12_11E7-Sheep P9-6of6
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

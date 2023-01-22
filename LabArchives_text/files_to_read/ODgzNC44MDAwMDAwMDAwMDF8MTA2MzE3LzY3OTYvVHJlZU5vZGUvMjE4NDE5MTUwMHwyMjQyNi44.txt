@@ -1,0 +1,78 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+ To find an alternative basal medium to Freestyle 293 that supports
+proliferation of the Nuvonis quail cell line in suspension
+
+
+Hypothesis
+
+
+That one of the tested media or media combinations will enable the Nuvonis
+quail cell line to proliferate in suspension
+
+
+Technical Gap
+
+
+We have thus far only attempted to grow the Nuvonis suspensino quail cell line
+in the medium formulation recommended to us by Nuvonis. The basal medium used
+in this formulation is Freestyle 293. This is a problem for a number of
+reasons: firstly it is very expensive, secondly we will be unable to purchase
+the quantities required for the 2000L scale-up project, and finally the
+formulation is not commercially available so we would be unable to make our
+own in-house. It is therefore vital that we find a viable alternative to
+Freestyle 293 that we can produce at scale in-house, or can procure large
+quantities of at a reasonable cost.
+
+
+Method/Procedure
+
+
+Pre-experiment test
+
+Thursday 17th Feb
+
+  1. Seed wells of each plate format with 50K cells per mL (n=6) in Nuvonis suspension medium 
+  2. Put 24-dwp on shaker at 210 RPM 
+  3. Leave for 4 days and check cell viability and count on Monday (trypan blue)
+    * If cells survive in 96-wp, continue with experiment as planned.
+    * If cells do not survive in 96-wp but do survive in 24-dwp, adjust experiment to fit this plate format 
+    * If cells do not survive in either plate, re-attempt test viability test with 50 mL shake tube.
+  4. Spin down 96-wp and image on Zaber on Phase (5x) to feed through ML model to see if this will work for data acquisition   
+
+Experiment plan
+
+Note: this is a skeleton plan for each run as we wait to get more media in-
+house for testing. The first run will likely just be three media - DMEM/F12,
+RPMI and CDM4 Avian. As new media arrive, we can repeat the process and
+compare each time against the Nuvonis control medium.
+
+  1. Day 0 Prep media and thaw (Note: will ask Bonnie if I can take cells before the bank on Thursday or Friday and put in E-flask so they can be seeded on Monday rather than Tuesday) 
+    1. Prepare 50 mL of each in-house media (refer to this sheet for calculations). Ensure there is enough Nuvonis suspension medium for thaw as well as controls for each run. 
+    2. Thaw 1 x vial of Nuvonis suspension quail cells (xM cells) into 1 x e-flask  
+  2. Day 1 Add media to plate(s) and seed cells
+    1.  Use OT2 to add media to plate(s) (no cells). The diagram below is an example of how a plate may be seeded, depending on how many basal media are available for testing. Note that only one set of "control media" is required per run, not per plate. The row for dPBS can also be omitted if there are more than 3 basal media in-house and ready for testing.  
+
+    2. Take 100 uL sample from E-flask culture and perform cell count. Transfer culture to 50 mL flask and centrifuge at 650 x g for 5 min. Remove supernatant, re-suspend in dPBS to a density of 500K cells per mL. Need 1920 uL of cell suspension to seed full 96-well plate (20 uL per well).
+    3. Using OT2 pipette set to 20 uL aspiration, seed each well with 10K cells into 200 uL of media (50K per mL) 
+  3. Day 4 data acquisition 
+    1. ML Model:
+      1. Centrifuge plate(s) at 300 x g for 1 min 
+      2. Image on Zaber microscope at 5X on phase and run images through ML model 
+    2. Macro: 
+      1. Use OT2 to take 100 uL from each well and add to fresh 96-wps (3 staining plates required per 1 culture plate) as shown in diagram below  
+
+      2. Use OT2 to add Hoechst and Sytox green to samples according to suspension cell staining protocol 
+      3. Use OT2 to perform serial dilutions of stained cells in dPBS 
+      4. Centrifuge plates at 300 x g for 1 minute
+      5. Image on Zaber microscope at 5X on DAPI and AF488 channels 
+      6. Run images through MIA analysis macro 
+  4. Day 5 Process data and perform statistical analysis if necessary 
+
+

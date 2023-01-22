@@ -1,0 +1,41 @@
+Performed by: LL
+Vessel IDs  
+Condition  
+Location  
+  
+  
+12646-Nuvonis Quail Suspension341-P-1of2
+
+12647-Nuvonis Quail Suspension341-P-2of2  
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Shaking incubator 146  
+  
+  
+12681-Nuvonis Quail Suspension341-P-1of2
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+  
+12682-Nuvonis Quail Suspension341-P-2of2  
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (+ 4 mM L-Glutamine + 3 g/L glucose)  
+
+
+Process
+  
+  
+  1. Took 1 x 560 uL aliquot from each E250 and E500 and performed counts on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Took 252M cells from 50/50 conditions to seed EPIC314310  
+    1. 106,800,000 cells remaining, 53,400,000 per flask 
+  4. Combined 50/50 cell suspensions and evenly divided between 2 x E250 flasks 
+  5. Topped up media to 105 mL per flask (508K cells/mL density) 
+  6. Added glucose and L-glutamine supplement to flask X (1 x 50/50), to bring levels up 4 mM L-Glutmaine and 6 g/L glucose (see calculator below for how much supplement to add) 
+  7. Returned flasks to incubate at 120 RPM, 5% CO2, 37'C.
+
+

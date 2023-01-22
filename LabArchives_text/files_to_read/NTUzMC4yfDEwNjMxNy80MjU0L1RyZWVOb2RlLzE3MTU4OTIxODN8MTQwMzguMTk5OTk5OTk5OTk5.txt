@@ -1,0 +1,178 @@
+
+
+## Completed by: Chris
+
+
+Aim/Purpose
+
+
+1\. to investigate the suitability of Alginate hydrogels as a cell
+encapsulation matrix for mechanical stimulation
+
+2.  to identify the minimum cell density in alginate that results in differentiation/maturation
+
+
+Hypothesis
+
+
+By increasing the cell seeding density inside alginate gels, we can create
+sufficient cell-cell contact to enable differentiation and enable the use of
+alginate as a matrix
+
+
+Technical Gap
+
+
+In previous studies we never observed cell differentiation inside alginate,
+probably due to insufficient cell seeding density. In this study we are hoping
+to overcome this limitation and enable alginate as a viable candidate for cell
+encapsulation.
+
+
+Method/Procedure
+
+
+## Study setup:
+
+  1. Preliminary experiments to test suitability of alginate crosslinking in conical inserts
+  2. Cell expansion of C2C12s to 100M
+  3. Preparation of materials (4% alginate, autoclaved, and 100mM CaCl2, sterile-filtered)
+  4. Day 0: Cell harvest and seeding into gel matrices in inserts vs controls (see platemap below)
+  5. Day 1: 100% switch media to E6 and start differentation
+  6. Day 2: assess viability using CMFDA or MTT assay for half of each sample sacrificed other half fix (and stain with Day6 samples) , 100% feed
+  7. Day 3: 100% feed
+  8. Day 4: 100% feed
+  9. Day 5: 100% feed
+  10. Day 6: assess maturity of muscle using immunostaining or total protein quant.
+
+
+
+
+## Materials Prep
+
+Preparation of 4% Alginate solution:
+
+  * weigh out 8 g of alginic acid into a weigh boat
+  * measure out 200 mL of ddH20 into a schott/duran bottle
+  * label the bottle '4% alginate solution in ddH20
+  * add magnetic stir bar to the bottle and place on magnetic stir plate
+  * slowly add the 8g of alginic acid to the stirring ddH20
+  * leave to stir until dissolved at 40C
+  * add the bottle lid and screw on loosely, cover with autoclave tape
+  * autoclave solution
+
+Preparation of 100mM CaCl2:
+
+  * In a 200 mL bottle add 2.22 g of CaCl2 granules into 200 mL of dH20 > stir until dissolved
+  * sterile filter
+
+Preliminary testing #1:
+
+  1. pipet 150 uL of AlluraRed-dyed 4% alginate into a conical insert
+  2. immerse in 1 mL of 100 mM CaCl2 in a 24wp
+  3. examine shape/warping of alginate gel after crosslinking
+
+\--> shape is mostly maintained, Alginate can be used as a Collagen-hydrogel
+alternative
+
+Preliminary testing #2:
+
+  1. pipet alginate into a CaCl2 bath to precipitate beads/worms
+  2. measure diameter = 3 mm (14 uL volume)
+  3. beads are stable after only 2 min
+
+\--> we can use this technique to encapsulate cells in "macrocarriers" for use
+in maturation bioreactors
+
+
+
+
+## Encapsulation of cells
+
+  
+
+  
+
+  
+
+  1. centrifuge ~100M cells and resuspend in growth media to a total max volume of XXX mL       time    
+  2. Prepare cell suspensions in alginate at varying loading densities:
+  3. 2% alginate gels1% alginate gels  
+M cellscellsmedia4% Alginatetotal V checkM cellscellsmedia4% Alginatetotal V
+check  
+10116.67233.33350700.0010116.67408.33175700.00  
+20233.33116.67350700.0020233.33291.67175700.00  
+30350.000.00350700.0030350.00175.00175700.00  
+control (no cell)0100010002000control (no cell)01,500.005002000  
+  
+  4.  Prepare cell free alginate gel only: 
+    1. 1 mL media + 1 mL of sterile autoclaved 4% Alginate in MQ 
+    2. 1500 uL media + 500 uL sterile 4% Alginate in MQ  
+  time  
+
+  5. For conical inserts: pipette up to 200 ul per well around the perimeter trough of the insert  
+For wells without inserts, add 300 ul to the center of the well  time  
+
+  6.  Gelation will occur within 5 minutes, but allow approximately 10 minutes for firm gel formation.
+  7. Transfer all inserts to a new plate preloaded with 1 mL media (wash 1) for 2 min
+  8. Transfer all inserts to a new plate preloaded with 1mL media (wash 2) for 2 min
+  9. Transfer all inserts to a new plate preloaded with 1 mL media
+  10. Put plate in incubator
+  11. CREATE PLATE ID:   
+PLATE ID:  
+PLATE LOCATION:
+
+Sample matrix (excess is 10%):
+https://docs.google.com/spreadsheets/d/1JgCa8x0b7x8CerRkMQw_DWj3bxGl2h99v0c6-YkJm_s/edit#gid=1036655786
+
+  
+cell-laden samplesinsertsno inserts  
+  
+  
+  
+M cellssample #volume per insertM cellsV no insert controlsample #Mcells
+controlwith excessV - Alg-cells  
+  
+2% Alginate
+
+1020.240.3137.70.7  
+2020.280.31615.40.7  
+3020.2120.31923.10.7  
+  
+1% Alginate
+
+1020.240.3137.70.7  
+2020.280.31615.40.7  
+3020.2120.31923.10.7  
+  
+  
+  
+  
+  
+  
+  
+requires92.4M cells total  
+  
+cell-free controlssample #V insert control  
+
+V  no insert control
+
+sample #  
+  
+
+V - no cell controls  
+  
+  
+2% Alginate gels20.2  
+0.31  
+  
+0.77  
+  
+1% Alginate gels20.2  
+0.31  
+  
+0.77  
+  
+  
+
+

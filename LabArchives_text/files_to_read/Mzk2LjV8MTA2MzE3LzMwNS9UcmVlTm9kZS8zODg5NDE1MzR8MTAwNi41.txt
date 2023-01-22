@@ -1,0 +1,118 @@
+Day -2: Assemble and sterilize bioreactor vessel, calibrate pumps  
+StepTaskDescriptionReferenceDoneChecked  
+1Inspect components  
+Operating manual page(s) 85TTKK  
+2Check software connectionTurn on control tower, connect to control tower web
+server from any lab computer (switching WIFI networks may be required). GO TO
+THIS ip ADDRESS: https://192.168.0.250/Operating manual page(s) 45TT  
+  
+3Calibrate the pH probeGather 2 reference buffers (perferably pH 7 and pH 10)
+in small beakers, a wash bottle, and a spare wash beaker. Connect the pH probe
+up to the control tower. Run the pH calibration program. Wash the probe tip
+thoroughly with deionized water and wipe with a lint-free wipe before placing
+it in the reference buffers.Operating manual page(s) 43,67TT  
+  
+4Ensure that the DO probe is working  
+Operating manual page(s) 67TT - NOT WORKING  
+  
+5Install impellerInstall the piece in the
+headplate.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/TT  
+  
+6Install spargerInstall the piece in the headplate. Put a piece of tubing on
+the top of it, press a gas filter into the end of the tubing, use a cable tie
+and tension gun to secure the tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/TT  
+  
+7Install dip tube for samplingInstall the piece in the headplate. Put a
+"BENCHMARK" single-use aspetic sampling tube on the top of it, use a cable tie
+and tension gun to secure the tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/TT  
+  
+8Install dip tube for harvestingInstall the piece in the headplate. Put a
+piece of tubing on the top of it, use a cable tie and tension gun to secure
+the tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/NONE  
+  
+9Install dip tube for drainingInstall the piece in the headplate. Put a piece
+of tubing on the top of it, use a cable tie and tension gun to secure the
+tubing, and clamp it
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/TT  
+  
+10Install multiport for liquid additionInstall the piece in the headplate. Put
+pieces of tubing on the top of it, use a cable tie and tension gun to secure
+the tubing, and clamp them
+off.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3864403/TT  
+  
+11Add 300 mL of PBS containing microcarriers to the culture vessel for
+sterilization  
+Operating manual page(s) 69TT - PBS ONLY, NO MICROCARRIERS  
+  
+  
+12Install headplatePut the top plate on carefully and align it correctly. Be
+careful to make sure that the installed parts and baffles are not touching
+each other.  
+Tighten knurled screws firmly by hand (no tool).https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/TT - NO BAFFLES  
+  
+  
+13Prepare the adjustment agent bottlesNot all corrective reagents can be
+sterilized in the autoclave. Instead of adding these kind of adjustment agents
+(ammonia solution, etc.), fill those with water and, after autoclaving (in a
+sterile work cabinet) replace the water with a filter-sterilized corrective
+reagent. This also applies to many substrate feeds, which can caramelize if
+heated.https://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/TT -
+SILICONE TUBING AND MALE STT CONNECTOR ATTACHED, BOTTLES NOT FILLED WITH WATER  
+  
+  
+14Connect transfer lines  
+Operating manual page(s) 68TT - NOT REQUIRED  
+  
+  
+15Clamp lines  
+Operating manual page(s) 69TT - ONLY TUBES THAT DIP INTO WATER  
+  
+  
+16Ensure that the pressure can equilibrate in all vessels through a gas
+permeable filter membraneCover filters with aluminium foil to prevent ingress
+of waterhttps://www.infors-ht.com/en/blog/how-to-set-up-a-bioreactor/TT  
+  
+  
+17Fit the pH probe  
+  
+TT  
+  
+  
+18Fit the dissolved oxygen probe  
+  
+TT  
+  
+  
+19Fit the level sensor probe  
+  
+TT  
+  
+  
+20Fit the gas inlet filter  
+  
+TT  
+  
+  
+21Fit the gas outlet filterCover the filter lightly with aluminium foil. Leave
+the exhaust filter open and do not clamp it off under any circumstances! This
+is essential for balancing the pressure during autoclaving.https://www.infors-
+ht.com/en/blog/how-to-set-up-a-bioreactor/TT  
+  
+  
+22Autoclave the vessel at 121 deg C for at least 30 minutes  
+Operating manual page(s) 69TT  
+  
+  
+23Calibrate peristaltic pumps  
+  
+NOT DONE  
+
+?  
+  
+  
+
+

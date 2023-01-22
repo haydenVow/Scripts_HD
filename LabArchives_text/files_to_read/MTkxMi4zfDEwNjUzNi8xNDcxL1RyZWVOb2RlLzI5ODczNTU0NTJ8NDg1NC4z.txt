@@ -1,0 +1,42 @@
+
+
+  
+
+
+Draw 3
+Draw 4
+Draw 5
+Quad Count
+
+
+Quad count:
+
+D3: 110,000 live cells/mL 78.4% viability
+
+D4: 100,000 live cells/ml, 71.4% viability
+
+
+ViCell Count
+
+
+Vi-cell count:
+
+D3: 85,700 cells/mL, 95% viability
+
+D4: 83,500 cells/mL, 99% viability
+
+
+Notes
+
+
+pH issues:
+
+  * The pH taken from Draw 5 was 7.77. This was a lot higher than the online reading (7.45) 
+  * The pH was calibrated using the offline reading
+    * This resulted in an influx of CO2 sparging which overshot the set point so was then followed by Base injection
+  * Once the pH adjustment had settled we took another sample and tested the pH
+    * This sat around 6.98
+  * We used the new reading to recalibrate the bioreactor probe and more base was injected to get the pH to an online reading of 7.54
+    * We will check the pH again this afternoon to make sure it is good before the weekend
+
+

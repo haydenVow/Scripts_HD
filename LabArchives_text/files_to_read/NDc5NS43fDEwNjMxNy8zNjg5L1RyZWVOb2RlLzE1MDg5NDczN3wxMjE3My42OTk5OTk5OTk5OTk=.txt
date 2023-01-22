@@ -1,0 +1,224 @@
+
+
+## Performed by: LL & TT  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+6-well plate7502-F_DOLLY12-Sheep P8-1of2  
+7503-F_DOLLY12-Sheep P8-2of2  
+  
+  
+  
+  
+E1257504-F_DOLLY12-Sheep P8-1of3  
+7505-F_DOLLY12-Sheep P8-2of3  
+7506-F_DOLLY12-Sheep P8-3of3  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2  
+  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L BBL Phytone Peptone  
+  
+  
+GM + 0.1 ug/mL HDAC1 + 0.1 ug/mL HDAC2 + 5 g/L Difco Select Phytone UF  
+  
+  
+GM + 0.1 ug/mL HDAC1  
+  
+  
+GM + 0.1 ug/mL HDAC2  
+  
+  
+GM + 5 g/L BBL Phytone Peptone  
+  
+  
+GM + 5 g/L Difco Select Phytone UF  
+  
+  
+  
+###  
+
+
+
+
+Plate Maps:
+
+  
+
+Plate 1  
+1  
+2  
+3  
+  
+A  
+Serum control  
+  
+GM + HDAC1  
+  
+B  
+GM + HDAC1 + HDAC2  
+  
+GM + HDAC2  
+  
+  
+  
+
+Plate 2  
+1  
+2  
+3  
+  
+A  
+GM + Difco Select Phytone UF  
+  
+GM + Difco Select Phytone UF + HDAC1 + HDAC2  
+  
+B  
+GM + BBL Phytone Peptone  
+  
+GM + BBL Phytone Peptone + HDAC1 + HDAC2  
+  
+  
+  
+
+E125 flask: Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+E125 flask: GM + HDAC 1
+
+E125 flask: GM + HDAC 2
+
+
+
+
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + HDAC 1 (0.1ug/mL)
+
+[x] GM + HDAC 2 (0.1ug/mL)
+
+[x] GM + HDAC 1 + HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L
+
+[x] GM + Hydrolysate 1 (BBL Phytone Peptone) 5 g/L + HDAC 1 (0.1ug/mL)  \+
+HDAC 2 (0.1ug/mL)
+
+[x] GM + Hydrolysate 2 (Difco Select Phytone UF) 5 g/L \+ HDAC 1 (0.1ug/mL)
+\+ HDAC 2 (0.1ug/mL)
+
+
+
+
+Process:
+
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 3 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   14:35 - 14:40   
+
+  5. Aspirated  10 % ( 25 mL) of supernatant, leaving ~100-200 uL on the pellet
+  6. Measured how much growth media was left on pellet and recorded
+  7. Took 10 uL from each cell supsension for cell counts
+  8.   
+
+Incubator (#81), Lab [Main/Library/Production]
+
+6-Well-Plates
+
+  1. Collected 6-well-plates from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC   14:10     
+
+  2. Using a 5 mL serelogial, transferred each cell suspension into 6 x 15 mL tubes. Kept 6-well-plates in BSC, as culture will be returned to vessel after feed. 
+  3. Centrifuged 15 mL tubes at 300 x g for 5 min.   14:21 - 14:26   
+
+  4. Aspirated   ~100 % of supernatant, taking extra care to not disrupt or aspirate pellet 
+  5. Resuspended and measured residual volume
+  6. Took 20 uL sample, performed manual cell count
+  7. Added  3 mL  of fresh, warmed growth media
+  8. Gently pipette-mixed culture using 5 mL serelogical or P1000, before moving cell suspension back to 6-well-plate
+  9. Took 100 uL samples from each culture and stored in separate microtubes until ready to stain alongside 50 mL shake tubes. 
+  10. Returned 6-well-plates to incubator.   : 
+
+Incubator (#81), Lab [Main/Library/Production]
+
+  
+
+1\. Dilute 100 uL samples with trypan blue staining dye and add 10 uL of each
+condition onto a haemocytometer slide and perform a manual count to check if
+any cells are still present and if so are still viable to kept in continuous
+culture.
+
+  
+
+Only perform the remainder of the procedure if there are viable cells visible
+on the haemocytometer with trypan staining.
+
+  1. Aliquoted growth media as indicated in the growth media section:
+    * Placed in water bath    
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (1 drop of each stain solution per 1 mL of dPBS):
+    * __ mL of dPBS 
+    * __ drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * __ drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark until ready to use. 
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+7504 https://mia-capture.vow.tools/#/session/recM9Jat8xNx6FL5o/images
+
+7505 https://mia-capture.vow.tools/#/session/recQys0QN46gwBdvr/images
+
+7506 https://mia-capture.vow.tools/#/session/rec1Qh4pCsNOYQUNE/images
+
+All 6-well plate images recorded on this mia link (plate 7502): https://mia-
+capture.vow.tools/#/session/recEa9pH2TRr5c8RX/images
+
+
+
+
+### Observations/Summary:
+
+All cultures show no signs of viable cell life - just lots of debris and some
+clumped dead cells. Discarded all cultures.
+
+ 50  % media changed on vessel(s)
+
+  1. 7502-F_DOLLY12-Sheep P8-1of2
+  2. 7503-F_DOLLY12-Sheep P8-2of2  
+  
+
+  3. 7504-F_DOLLY12-Sheep P8-1of3
+  4. 7505-F_DOLLY12-Sheep P8-2of3
+  5. 7506-F_DOLLY12-Sheep P8-3of3
+
+

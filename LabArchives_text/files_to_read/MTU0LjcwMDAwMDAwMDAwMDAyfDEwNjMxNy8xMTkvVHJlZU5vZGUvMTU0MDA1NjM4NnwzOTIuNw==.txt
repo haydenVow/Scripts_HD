@@ -1,0 +1,67 @@
+
+
+### Process:
+
+Cultures: 6371, 6372, 6373
+
+Took sample
+
+  1. Transferred 0.02 mL of the well suspended microcarrier culture to a well in a 96-well plate. mixed with 0.08 mL of dPBS.
+  2. Carriers were mixed by swirling on a flat surface of the BSC, sample was taken while the liquid was still in motion.
+  3. Returned flasks to incubator at 15:10
+  4. Inspected the microcarriers using the Axio microscope to observe monolayer (there should not be any overlapping microcarriers as this will hamper analysis.
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture in the well plate (2 uL per well in a 96 well plate).
+  2. Left the plate to incubate at room temperature, covered in foil, for 15 minutes. 15:19 - XX:XX
+  3. Took 3 sets of 2 images (using the phase contrast and blue fluorescence channels) of each well. XX:XX 
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro.
+  2.  Day 1: https://docs.google.com/spreadsheets/d/1sUJQY9gByGzXDiYLqwDa_HgCaueE7tGoYULscZW6VVk/edit?usp=sharing
+
+### SOPs used:
+
+  * N/A
+
+### Observations/Summary:
+
+### Reagents used:
+
+Name
+
+Details (Reagent ID)  
+  
+Hoescht
+
+  
+  
+  
+dPBS
+
+  
+  
+  
+  
+
+* * *
+
+### Results
+
+  * Results were;
+    * [ ]  As usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+### Relevant Images/Figures:
+
+https://mia-capture.vow.tools/#/session/reckcuxg2dpGddZgT/images
+
+https://mia-capture.vow.tools/#/session/recfvqkX50xxESzuL/images
+
+https://mia-capture.vow.tools/#/session/recfEnz3gvWDUIrnY/images
+
+

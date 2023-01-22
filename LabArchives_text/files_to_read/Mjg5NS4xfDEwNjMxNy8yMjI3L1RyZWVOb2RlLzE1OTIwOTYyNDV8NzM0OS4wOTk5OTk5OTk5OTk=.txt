@@ -1,0 +1,108 @@
+Plate ID  
+Plate type  
+# wells to fix & DAPI stain  
+  
+7136-DOLLY12-Sheep P13-1of1  
+48-WP with tray inserts & scaffolds  
+40  
+  
+7139-DOLLY12-Sheep P13-1of1  
+48-WP with adherent cultures  
+5  
+
+
+  
+  
+## Performed by: Avani  
+
+
+
+
+# Procedure
+
+Preparation
+
+Collected from "Biomaterials" fridge:
+
+  1. 1 x 50 mL black tube of dPBS labelled "dPBS for DAPI LL" 
+  2. 2 x 48-WPs labelled "Wash plate 1 LL" and "Wash plate 2 LL" (these contain dPBS). 
+  3. 1 x 70 mL pot of 4% PFA labelled "LL PFA 1-July"
+
+Collected from incubator
+
+  1. Culture plates: ID 7136-DOLLY12-Sheep P13-1of1 & 7139-DOLLY12-Sheep P13-1of1
+
+dPBS washes
+
+  1. dPBS wash 1
+    1. SCAFFOLDS: The tray containing all inserts was lifted out of the culture plate and placed into the pre-filled PBS plate (Wash Plate 1). All remaining media in the original plate was emptied into waste and the plate was disposed of. The original lid was kept as this will be used to cover the samples at the end of the process so that the culture ID and labeling remains.
+    2. ADHERENT: Media (250 uL per well) from 5 wells of adherent culture was aspirated to waste and replaced with 200 uL/well dPBS. 
+      * Cells were incubated in dPBS at room temp for 5 min. Timestamp 13:14 - 13:19
+  2. dPBS wash 2 
+    1. SCAFFOLDS: A second PBS wash was performed by removing the tray from the plate and placing it into a new plate (Wash Plate 2). 
+    2. ADHERENT: dPBS from 5 wells of adherent culture was aspirated to waste and replaced with 200 uL/well fresh dPBS.
+      * Cells were incubated in dPBS at room temp for 5 min. Timestamp 13:21 -13 :26
+  3. During second wash, dPBS was aspirated from Wash Plate 1 and replaced with 1 mL/well of 4% PFA
+
+PFA Fixing
+
+  1. SCAFFOLDS: The tray containing all inserts was lifted out of Wash Plate 2 and placed back into Wash Plate 1 (now containing PFA). All remaining dPBS in Wash Plate 2 was aspirated to waste (keep plate) 
+  2. ADHERENT: dPBS from 5 wells of adherent culture was aspirated to waste and replaced with 200 uL/well 4% PFA
+    * Cells were incubated in PFA at room temp for 15 min. Timestamp 13:29 -13 :44
+
+
+
+  1. During PFA incubation, 45 uL of DAPI was added to black centrifuge tube containing dPBS.
+  2. Wash Plate 2 was pre-filled with 1 mL/well of DAPI solution and covered with foil until use.
+  3. DAPI stain
+    1. SCAFFOLDS: The tray containing all inserts was lifted out of Wash Plate 1 (PFA) and placed back into Wash Plate 2 (now containing DAPI). Remaining PBS in Wash Plate 1 was aspirated to waste. 1 mL/well of fresh PBS was added into wells of Wash Plate 1.
+    2. ADHERENT: PFA was aspirated from wells and replaced with 200 uL per well of DAPI solution
+      * Cells incubated in DAPI for 5 min. Timestamp   13:45-13:50
+  4. dPBS Wash 1  
+    1. SCAFFOLDS: The tray containing all inserts was lifted out of Wash Plate 2 and placed back into Wash Plate 1 (now containing dPBS). Remaining PBS in Wash Plate 2 was aspirated to waste. 1 mL of fresh PBS was added into each well of Wash Plate 2.
+    2. ADHERENT: DAPI was aspirated from wells and replaced with 200 uL per well of dPBS
+      * Cells incubated in dPBS for 5 min. Timestamp   13:53-13:58
+  5. dPBS Wash 2
+    1. SCAFFOLDS: The tray containing all inserts was lifted out of Wash Plate 1 and placed back into Wash Plate 2 (now containing PBS). Remaining PBS in Wash Plate 1 was aspirated to waste. 1 mL of fresh PBS was added into each well of Wash Plate 1.
+    2. ADHERENT: dPBS was aspirated from wells and replaced with 200 uL per well of fresh dPBS
+      * Cells incubated in dPBS for 5 min. Timestamp. 14:02-14:07
+  6. Final dPBS wash/storage 
+    1. SCAFFOLDS: The tray containing all inserts was lifted out of Wash Plate 2 and placed back into Wash Plate 1 (now containing PBS). 
+    2. ADHERENT: dPBS was aspirated from wells and replaced with 200 uL per well of fresh dPBS 
+  7. Lid from original culture with culture ID and labelling was replaced on 48-WP with scaffolds and inserts  
+
+  8. Plates were both parafilmed, wrapped with foil and placed in "Biomaterials" fridge. Timestamp: 14:20
+
+
+
+
+# Media/Reagents used
+
+NameDetailsVolume  
+PBSm5385  
+  
+  
+PFAa3098  
+  
+  
+DAPIM 2193  
+  
+  
+  
+
+
+
+
+# Results
+
+[X]  As Usual (this is a repetitive task)
+
+[ ]  Unexpected because...
+
+[ ]  Need to be further analysed
+
+[ ]  Other (.......)
+
+  
+
+

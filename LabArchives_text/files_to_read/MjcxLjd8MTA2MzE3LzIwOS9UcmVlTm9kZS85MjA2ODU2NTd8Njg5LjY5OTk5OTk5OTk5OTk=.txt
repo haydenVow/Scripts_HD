@@ -1,0 +1,381 @@
+
+
+Harvesting 3 x E125 Process:
+
+Growth media: DMEM/F12 + 20% FBS + 1xP/S + p38i
+
+Stained and imaged microcarriers BEFORE HARVEST
+
+  1. Removed cultures from the incubator and placed them in the BSC  `| 11:10 am/pm|`
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| 11:20 am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [x]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| 11:29 am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| 11:40-11:46 am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+Harvest microcarrier cultures
+
+  1. Aliquotted the required volume of each reagent and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+
+    1. Trypsin:   `90mL`  in  ` x 100mL urine pot`  
+    2. dPBS (for washing)    `90mL`  in  `1 x 100mL Urine Container`
+    3. Growth media (for neutralising)    `90mL`  in  `1 x 100ml Urine Container `
+    4. Growth media (for pellet resuspension):    `6mL`  in  `1 x 15mL`  tubes Time that all aliquots were placed in the water bath to warm before use: 11:50  
+    5. `a/pm` Note: if aliquots were placed in water bath at different times, record the time stamp for each individual solution.
+  2. Agitation was stopped and cultures were removed from the incubator `| 12 : 33 |`
+
+  3. The culture vessel was tilted to an angle of 45° and the microcarriers allowed to settle.
+
+  4. The medium was removed from the culture and the microcarriers were washed twice:
+
+    1. 15 mL of PBS (without Ca2+ and Mg2+) was added to the microcarriers. The amount of PBS solution was 50-100 mL/g Cytodex.  
+    2. The microcarriers were incubated for 5 minutes.
+    3. The PBS was then removed.
+    4. Wash repeated
+  5. Trypsin (50 uL per cm^2 or 30 mL to 135 mg Cytodex 1) was added to the flasks as per the table below and incubated at 37 °C. Flasks with/without continuous agitation at a speed slightly greater than that used for normal culture were incubated for 7 minutes. Start 13:15 Speed required for cell detachment in E125 flask containing 30 mL is 155 RPM: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit#gid=1121358223&range=5:5
+
+  6. Flask 6372 had the longest time in trypsin stationary in the BSC, followed by 6373 then 6731 (All 3 Flasks were left in PBS as part of the second wash, first 6372 was aspirated then Trypsin added so as to not leave the cells dry followed by 6373 then 6371) After adding Trypsin to 6373, all flasks were then taken to agitate in the incubator together for 7 mins.
+
+  7. After incubations the Trypsin was stopped by addition of an equal volume (30mL) of warmed growth medium (50 uL per cm^2 or 30 mL to 135 mg Cytodex 1).
+
+  8. The microcarriers were mixed well then allowed to settle for approximately 5 min.
+
+  9. Each culture vessel was tilted to an angle of 45°
+
+  10. The supernatant from each flask was transferred to a centrifuge tube(s) (two 50mL tubes per flask).
+
+  11. The microcarriers were washed with 30mL dPBS (50 uL per cm^2 or 30 mL to 135 mg Cytodex 1) and the supernatant was also collected into a centrifuge tube(s)
+
+  12. The resulting suspensions were sieved through a Steriflip to remove microcarriers from the suspension.
+
+  13. The sieved cell suspensions were centrifuged at 650 RCF for 5 minutes. 
+
+  14. The supernatant was discarded and the pellet resuspended in culture medium (vol `| 7 mL |`
+
+  15. Tubes containing cells isolated from the same harvested flask were combined into one centrifuge tube.
+
+  16. The microcarriers remaining in each E125 flask were resuspended to a volume of 30 mL in PBS and a 20 uL sample was transferred to a 96-well plate for subsequent analysis by Hoechst 33342 staining.
+
+  17. The cells in the cell suspension were counted using an improved Neubauer hemocytometer.
+
+  18. Performed a cell count using the haemocytometer and recorded the cell count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below): `see observations`
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+    1. Total cell number harvested for combined Flasks 1,2 and 3: 6,486,667
+
+Name
+
+Details (Reagent ID)  
+  
+Growth Media
+
+4298  
+  
+p38i
+
+3978  
+  
+Trypsin
+
+Stock ID: 201  
+  
+dPBS
+
+3917  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Perform passage using below volumes:
+
+
+
+
+Banking Culture IDs
+
+Harvested FlasksBanked into # vials# of cells per vialVial IDs  
+6374-DOLLY12-Sheep P8-1of146500K2406-Culture-6374-Vial-1of46  
+2407-Culture-6374-Vial-2of46  
+2408-Culture-6374-Vial-3of46  
+2409-Culture-6374-Vial-4of46  
+2410-Culture-6374-Vial-5of46  
+2411-Culture-6374-Vial-6of46  
+2412-Culture-6374-Vial-7of46  
+2413-Culture-6374-Vial-8of46  
+2414-Culture-6374-Vial-9of46  
+2415-Culture-6374-Vial-10of46  
+2416-Culture-6374-Vial-11of46  
+2418-Culture-6374-Vial-12of46  
+2419-Culture-6374-Vial-13of46  
+2420-Culture-6374-Vial-14of46  
+2421-Culture-6374-Vial-15of46  
+2422-Culture-6374-Vial-16of46  
+2423-Culture-6374-Vial-17of46  
+2424-Culture-6374-Vial-18of46  
+2425-Culture-6374-Vial-19of46  
+2426-Culture-6374-Vial-20of46  
+2427-Culture-6374-Vial-21of46  
+2428-Culture-6374-Vial-22of46  
+2429-Culture-6374-Vial-23of46  
+2430-Culture-6374-Vial-24of46  
+2431-Culture-6374-Vial-25of46  
+2432-Culture-6374-Vial-26of46  
+2433-Culture-6374-Vial-27of46  
+2434-Culture-6374-Vial-28of46  
+2435-Culture-6374-Vial-29of46  
+2436-Culture-6374-Vial-30of46  
+2437-Culture-6374-Vial-31of46  
+2438-Culture-6374-Vial-32of46  
+2439-Culture-6374-Vial-33of46  
+2440-Culture-6374-Vial-34of46  
+2441-Culture-6374-Vial-35of46  
+2442-Culture-6374-Vial-36of46  
+2443-Culture-6374-Vial-37of46  
+2444-Culture-6374-Vial-38of46  
+2445-Culture-6374-Vial-39of46  
+2446-Culture-6374-Vial-40of46  
+2447-Culture-6374-Vial-41of46  
+2448-Culture-6374-Vial-42of46  
+2449-Culture-6374-Vial-43of46  
+2450-Culture-6374-Vial-44of46  
+2451-Culture-6374-Vial-45of46  
+2452-Culture-6374-Vial-46of46  
+  
+6371-DOLLY12_11E7-Sheep P8-1of3,
+
+6372-DOLLY12_11E7-Sheep P8-2of3,
+
+6373-DOLLY12_11E7-Sheep P8-3of3
+
+  
+7930K
+
+2399-Culture-6371-Vial-1of7
+
+2400-Culture-6371-Vial-2of7
+
+2401-Culture-6371-Vial-3of7
+
+2402-Culture-6371-Vial-4of7
+
+2403-Culture-6371-Vial-5of7
+
+2404-Culture-6371-Vial-6of7
+
+2405-Culture-6371-Vial-7of7
+
+  
+  
+  
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  200 mL in | 1x 500 mL | pot
+  2.  dPBS (for neutralising)   400 mL in | 1x 500 mL | pot
+  3.  Growth media (for pellet resuspension):   15 mL in | 1x 15 mL | tube 
+  4.  Time that all aliquots were placed in the water bath to warm before use:  12:30 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with dPBS.
+
+3\. Added | 200 |mL tryple to each vessel/well and incubated at 37ºC for | 15
+| min
+
+  1. Start/Finish time vessel(s) placed into incubator 13:27 - 13:42    
+
+4\. Neutralised steps:
+
+  1. Pour out tryple into 1x 500 mL pot
+  2. Aliquot cell suspension into | 8x 50 mL | tubes (25 mL per tube) 
+  3. Wash vessel with 100 mL of dPBS (warmed), pour out dPBS and aliquot cell suspension into the same | 8x 50 mL | tubes (12.5 mL per tube)
+  4. Repeat step 3 with the remaining 100 mL of dPBS (warmed)
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   14:17 - 14:22   
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 6 |mL | Growth | media.
+
+8\. Took 1 x 100 uL samples from the cell suspension. From the 100 uL sample,
+took 1 x 10 uL sample.
+
+9\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+10\. Total cell number was: | 22,896,000 |
+
+11\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~500K cells/mL.
+
+
+
+
+12\. Prepared  35 mL Freeze Medium: (FBS + 10% DMSO). ID # 4325  
+
+Stored at 4ºC until use to keep chilled.  
+Transferred cells to 15mL tubes. (1 for adherent cells and 1 for suspension
+cells)
+
+13\. Suspension cells: Centrifuged cells at 650 x g for 5 min.  4:14 - 4:19 pm  
+13\. Adherent cells: Centrifuged cells at 650 x g for 5 min.  4:19 - 4:24 pm
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+Cells from 3 x E125s on microcarriers:
+
+14\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+15\. Resuspended the pellet in | 6.5 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+16\. Aliquotted | 925 |µL into | 7 | x cryovials (already labelled).
+
+17\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   4:31  pm
+
+  * [ X ]  With foam
+  * [ X ]  2nd Freeze
+
+18\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.  
+  
+  
+  
+  
+Cells from 1 x 4CF flask:
+
+14\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+15\. Resuspended the pellet in | 23 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+16\. Aliquotted | 500 |µL into | 46 | x cryovials (already labelled).
+
+17\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.  16:43
+
+  * [ ]  With foam
+  * [ ]  1st Freeze x 2
+  * [ ]  2nd Freeze x 1
+
+18\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)  
+TrypleM3920  
+dPBS (for washing)M3917  
+dPBS (for neutralising)M4309  
+Growth Media (for resuspending)M4298  
+Freeze MediaM4325  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Passaged 1x 4CF of DOLLY12 clones (11E7) and banked cells into 48 cryovials
+for generation of WCB_2 in adherent culture.
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

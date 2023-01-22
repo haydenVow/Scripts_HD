@@ -1,0 +1,155 @@
+
+
+Instructions: https://www.notion.so/vow/Final-Report-
+Template_V2-8e9c698481a74ceda6d9fd29b13222d9?d=96850977c0cc4a0db35eb0b550fe99f5#9ea41d1bead84e64b05b40ac5ba5c28f
+
+An experimental report should be open for every Vowzer to access, read and
+understand the following:
+
+  * why we did a certain experiment
+  * how we went about planning and executing it
+  * what the outcomes were / lessons learned
+  * what the next steps are moving forward
+
+We break these up into 6 sections in a report that should be clearly distinct
+and easy to follow. They are:
+
+  1. Introduction
+  2. Materials/Methods
+  3. Results
+  4. Discussion
+  5. Conclusions
+  6. Future directions/next steps
+
+
+Introduction
+
+
+In order to produce sufficient cells for our first product (Morsel) to sell at
+a profit, we need to be able to consistently harvest 30 g/L of Nuvonis cells
+from our bioreactors by 30 September 2022. Based on the weight of cells
+harvested in previous MFG and R&D batches and experiments, we assume a weight
+of 4 ng per cell, meaning that 30 g/L equates to a cell density of 7.5M
+cells/mL.
+
+Our work with HyCell CHO medium earlier in the year enabled us to reach ~11M
+cells/mL in a perfusion-style system (100% feeds every 48-72h). Due to supply
+and cost constraints, we have since shifted focus from HyCell to CHO-in-1
+medium. To further pursue a more economic growth medium, we are now mixing in-
+house formulations of 50:50 RPMI:CHO-in-1 and supplementing with a few
+specific ingredients (e.g. glucose) to account for the nutrients diluted by
+RPMI. With these in-house media, we are consistently seeing maximum densities
+of 2-3M cells/mL in no-feed setups.
+
+The cause of the significant difference between maximum densities seen in
+HyCell vs. our in-house mixes is yet to be determined. In this experiment, we
+aimed to identify the maximum cell density 100% CHO-in-1 could reach in a
+perfusion-fed system. This would provide insight into whether CHO-in-1 is
+comparable to other high-density media, or if we are starting off with an
+inferior high-density medium and then further diluting it. We also aimed to
+verify the earlier results seen with HyCell, as this experiment contained only
+one replicate.
+
+By comparing in-house formulas to high-density media controls, we aimed to
+ascertain:
+
+  * What cell density can we expect an 'optimised' or purpose-built medium formulation (controls) to support when culturing Nuvonis cells in perfusion-mode, and therefore determine the absolute "gold standard" maximum density that our cells can tolerate
+  * Whether there is a significant difference between the cell density supported by CHO-in-1 vs. HyCell CHO and Freestyle
+  * What cell density our in-house formulations can support in perfusion-mode 
+
+Cell count data show that:
+
+  * HyCell supports a maximum cell density of ~10M cells/mL in perfusion mode
+  * Freestyle and 100% CHO-in-1 support a maximum cell density of ~7.5-8M cells/mL in perfusion mode
+  * MFG & R&D CHO support a maximum cell density of ~5M cells/mL in perfusion mode
+  * MFG CHO and R&D CHO are comparable in their performance 
+  * Up until day 7, HyCell CHO cell density was comparable to MGF & R&D and had one of the lowest densities and growth appeared to be plateauing. Between days 7 and 9, growth rate increased and the cell density increased to the point where HyCell CHO was the highest performer (i.e., HyCell followed a diauxic growth curve)
+  * Overall, data confirm that CHO-in-1 is able to support high cell densities comparable to other high-density media (e.g. Freestyle). The previous results of maximum cell densities around 11M cells/mL in HyCell was also confirmed.
+
+
+Materials/Methods
+
+  * 5 media conditions: Freestyle, HyCell, CHO-in-1, R&D CHO, and MFG CHO
+  * 3 replicates per media condition
+  * Cells seeded at 200K cells/mL, 30 mL per flask
+  * 100% feeds performed every 48-72H 
+  * Counts performed every day 
+  * Experiment terminated when conditions have reached their maximum cell density (plateau reached)
+
+
+Results
+
+
+Ranger-generated graph
+
+Ranger-generated graph (log Y-axis)
+
+
+Conclusions
+
+
+HyCell CHO supports the highest cell density at 10M cells/mL in perfusion-
+mode, followed by Freestyle and CHO-in-1 at 7.5-8M, followed by R&D & MFG CHO
+at 5M cells/mL.
+
+
+Discussion
+
+
+Time to expand on your results. Use this section as an opportunity to explain
+your interpretation of the above results (don't leave any table/image/figure
+un-mentioned, if it's part of the results it should be mentioned in your
+discussion.
+
+  * Discuss the implications for these findings or the reason that things might have worked out this way. Move on to the next set of results and repeat the process.
+  * Be critical, are there any competing factors that may have interfered with the experiment and influenced the results? If so, state them and explain their potential impact on the perceived results. This may tie into next steps (ways to improve the experimental design to mitigate those risks).
+  * Imagine you are reading this report for the first time with no knowledge of the experiment but want to know the key results and what they mean.
+  * Discuss any limitations that may have impacted your work - explain their potential impact on the results and how that affects your interpretation.
+
+HyCell supports a maximum cell density of ~10M cells/mL in perfusion mode
+
+  * This aligns with earlier observations of ~11M cells/mL in HyCell in perfusion mode 
+
+Freestyle and 100% CHO-in-1 support a maximum cell density of ~7.5-8M cells/mL
+in perfusion mode. These media were comparable in their performance.
+
+  * This validates CHO-in-1 as a competitive high-density medium and suggests that it has a comparable range of ingredients at comparable concentrations to Freestyle 
+  * The difference in density achieved by HyCell and CHO-in-1 could be down to a few reasons: 
+    * There are some key ingredients at lower concentrations in CHO-in-1 than in HyCell that we haven't yet tried increasing (e.g. some vitamins)
+    * HyCell contains some small molecules that have not been detected by our reverse engineering that help with supporting increased cell density 
+    * The HyCell formulation limits the accrual of waste products in the medium 
+
+MFG & R&D CHO support a maximum cell density of ~5M cells/mL in perfusion mode
+
+  *   
+
+MFG CHO and R&D CHO are comparable in their performance
+
+  * At this stage, data suggests that the addition of hypoxanthene and thymidine (in the R&D medium) does not significantly impact cell density. However, given these ingredients are low cost and easily available, we will continue to include them in the R&D CHO medium. 
+
+Up until day 7, HyCell CHO cell density was comparable to MGF & R&D and growth
+appeared to be plateauing. Between days 7 and 9, growth rate increased and the
+cell density increased to the point where HyCell CHO was the highest performer
+(i.e., HyCell followed a diauxic growth curve)
+
+  *   
+
+Overall, data confirm that CHO-in-1 is able to support high cell densities
+comparable to other high-density media (e.g. Freestyle). The previous results
+of maximum cell densities around 11M cells/mL in HyCell was also confirmed.
+
+  *   
+
+  
+
+
+Future Directions/Next Steps
+
+
+  * Provide a short paragraph or some dot points on the work that is to follow on from this experiment, e.g. repeats, new conditions, troubleshooting etc.
+
+  
+
+[Text here]
+
+

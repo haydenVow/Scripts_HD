@@ -1,0 +1,52 @@
+
+
+14/1/22
+
+To further investigate the wide range of values reported by the emPAI
+algorithm, samples from the same species were compared using the PD label-free
+quantitation node:
+
+ Grouping:
+
+
+
+
+14/1/22
+
+The LFQ search found 10,379 proteins, 5,187 protein groups, 61,935 peptide
+groups and 261,538 PSM from 961,568 MSM.
+
+The top 10 hits were:
+
+  
+
+Sample abundance:
+
+Normalised abundance:
+
+  
+
+Heat map:
+
+  
+
+PCA plot:
+
+P012 (cells)  vs P015 (tissue)
+
+
+
+  
+
+P013 (cells)  vs P015 (tissue)
+
+
+
+
+14/1/22
+
+The most abundant protein in tissue:
+
+The most abundant in cell lines:
+
+

@@ -1,0 +1,29 @@
+
+
+Consulted with Bonnie as to how to best introduce the CHOMP cells into
+suspension. Wild type cells have performed the best in our past suspension
+adaptation efforts after our nucleofection experiments. Here the cells were
+placed into 50mL tubes and shaken at 120rpm which wasn't enough to keep them
+suspended but was enough to keep them alive.
+
+Our media we're going to use consists of Nuvonis suspension media with 10% FBS
+serum.
+
+I've decided to include the serum in the suspension media for the moment to
+reduce the stress associated with the change to a suspension environment. I
+believe we may have over stressed our cells initially in our nucleofection
+experiments by removing serum from their media during their adaptation to
+suspension. This method of adaptation has been seen in literature in the
+following paper https://pubmed.ncbi.nlm.nih.gov/26854539/).
+
+In this experiment I will emulate similar processes that are being used for
+the Big bang embryonic suspension experiment.
+
+  1. Cells will be seeded from adherent planar culture (DMEM/F12 + 10% FBS + 1xP/S) into suspension culture (Nuvonis suspension media + 10% FBS + 0.01ug/mL EGF, 0.01ug/mL FGF2b and 0.05ug/mL IGF1-LR3. 
+  2. Density used for seeding will be 1 million cells per mL, seeded into 50mL bioreactor tubes containing 10mL of the suspension media. The number of tubes used will depend on the number of cells harvested. 
+  3. A few cell pellets from the lifted adherent cells (containing >1million cells) will be washed in dPBS then frozen down for future RNA extraction if the cells prove successful in their suspension adaptation. 
+  4. The suspensions will shake at 190rpm at 30 degrees, 5% CO2 to induce suspension adaptation. 
+  5. The suspensions will receive a 90% feed on Day 1 post seed then receive a 90% Feed every 48 hours after that. Cells will be centrifuged at 300g for 5 minutes to pellet single cells while leaving debris free floating for removal. 
+  6. Suspensions will be counted 24 after seeding using a trypan blue staining procedure then every 48 hours after that. 
+
+

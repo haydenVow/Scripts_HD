@@ -1,0 +1,84 @@
+
+
+PERFORMED BY: TT and LL
+
+
+Culture(s) used
+Culture ID  
+Vessel type  
+  
+7466  
+E125  
+  
+7505  
+E125  
+
+
+Materials
+Stockyard v2 ID  
+Description  
+Amount  
+  
+A5727  
+dPBS  
+450 uL  
+  
+m6317  
+Propidium Iodide solution  
+5 uL  
+  
+s2463  
+Hoechst33342 solution  
+20 uL  
+  
+m5221  
+Cell Lysis Solution  
+1 mL  
+
+
+Procedure
+  
+  
+Test 1
+
+  1. Took 0.5 mL sample from culture 7466  14:41 
+  2. Prepared stain buffer:
+    1. 1 mL of lysis solution
+    2. 1 drop of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    3.  ~~2~~ 5 uL of Propidium Iodide
+  3. Centrifuged 0.5 mL sample at 650 RCF for 5 minutes
+  4. Aspirated 450 uL of supernatant and resuspended in 450 uL of dPBS
+  5. Centrifuged 0.5 mL sample at 650 RCF for 5 minutes 14:53 - 14:58
+  6. Aspirated 450 uL of supernatant and resuspended in 450 uL of stain buffer
+  7. Vortexed for 60 seconds at maximum power 15:00
+  8. Incubated for 10 minutes at room temperature in the dark 15:01 - 15:11
+  9. Vortexed the sample briefly to resuspend nuclei and loaded 10 uL sample into a hemocytometer for counting.
+  10. No nuclei were observed so the sample was centrifuged to concentrate down to 50 uL.
+  11. Still no nuclei were observed; either the sample was too dilute or the nuclei had been lost throughout sample processing.
+
+Repeated protocol with flask 7505 due to cell suspension being too dilute in
+culture 7466
+
+  1. Took 0.5 mL sample from culture 7505  15:21
+  2. Centrifuged 0.5 mL sample at 650 RCF for 5 minutes 15:22 - 15:27
+  3. Aspirated 450 uL of supernatant and resuspended in 450 uL of dPBS
+  4. Centrifuged 0.5 mL sample at 650 RCF for 5 minutes 15:30 - 15:35
+  5. Aspirated 450 uL of supernatant and resuspended in 450 uL of stain buffer
+  6. Vortexed for 60 seconds at maximum power 15:37
+  7. Incubated for 10 minutes at room temperature in the dark 15:38 - 15:48
+  8. Vortexed the sample briefly to resuspend nuclei and loaded 10 uL sample into a hemocytometer for counting.
+  9. Took phase contrast, blue fluorescence and red fluorescence micrographs of the sample.
+  10. No PI staining seen, so added 22.5 uL of PI to sample to make up to 50 uL/mL PI. Incubated for further 10 mins. 15:57 - 16:07
+  11. Took phase contrast, blue fluorescence and red fluorescence micrographs of the sample.
+
+
+Results
+
+
+Link to micrographs:
+
+7466 https://mia-capture.vow.tools/#/session/recM9Jat8xNx6FL5o/images
+
+7505 https://mia-capture.vow.tools/#/session/recQys0QN46gwBdvr/images
+
+

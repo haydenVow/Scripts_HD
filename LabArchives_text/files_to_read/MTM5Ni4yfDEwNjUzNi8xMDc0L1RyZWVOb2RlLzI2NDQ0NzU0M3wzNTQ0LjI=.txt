@@ -1,0 +1,53 @@
+
+
+Batch 02 CHO-S Overview
+
+Batch weight: 1.4153g
+
+Batch Objectives/Experimental Plan:
+
+  * Generate at least 80g of CHO-S suspension cells in a single batch, based on the existing assumption that 19g of CHO-S cells can be produced per 1L of culture medium.
+    * Based on the above assumption ~4.2L of culture medium is required to generate at least 80g of CHO-S cells.
+
+Experimental Plan:
+
+See batch overview for CHO-S Batch-1 for experimental plan rationale
+
+Batch Timeline (Proliferation days & media in each passage & Flask no./type):
+
+Passage NumberProliferation daysProliferation MediaFlask No./Type  
+P1 (P3)4Hycell CHO + 1% Glutamax1x E125  
+P2 (P4)32x E500  
+P3 (P5)Not performed6x E2000  
+  
+Notable Events:
+
+  * This batch was terminated prematurely due to the contamination-gate incident. In order to prevent any potential contamination of these cultures they were harvested after 7 days in continuous culture
+    * The final batch weight was 1.4153g 
+      * Samples taken from both of the E500 flask cultures and observed directly on a microscope revealed no obvious signs of contamination
+        * An agar streak plate was prepared with samples from the cultures which after 7 days of incubation revealed no contamination. Therefore this indicated that it was likely the cultures were not contaminated with any microbes (fungal, bacteria or yeast)
+  * A total of 327,600,000 (~327 million) CHO-S cells were harvested from 360 mL of culture medium
+    * Unfortunately the shaking platform that housed these cultures was accidently switched off and remained off for a period of approximately 24 hours. Regrettably this negatively impacted the CHO-S cells
+      * Of the total 370 million cells harvested 215,600,000 were determined to be live cells (during trypan blue exclusion count) and 112,000,000 were deceased. The dead cells equated for 31.48% of the total cells
+    * The cultures exhibited a total of 5.03 doublings and a doubling time of 33.73 hours. However it is likely that the doubling time was skewed to a higher value once the shaking platform was switched off, affecting the viability of the cells detrimentally
+  * CHO-S cells were grown in a quarter of the recommended concentration of L-Glutamine/Glutamax (2mM instead of 8mM)
+
+Batch/Experiment Results:
+
+CHO-S  
+
+Date of seedingDate of harvestDays in cultureInitial cell numberFinal cell
+numberCells/mLDoublingsDoubling time (hrs)  
+23/01/2231/01/22710,000,000215,600,000 (live)  
+112,000,000 (dead)  
+327,600,000 (total)  
+910,0005.0333.73  
+  
+Achievements:
+
+  * This batch was unable to be completed due to being harvested earlier than anticipated. However this batch confirmed that two batches of CHO-S are able run in parallel within the 2 week cycle period
+
+  * We have confirmed that CHO-S are unable to remain viable in static culture conditions, at least within E-flasks  
+  
+
+

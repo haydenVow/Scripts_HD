@@ -1,0 +1,65 @@
+
+
+Culture IDs  
+  
+### 6368-DOLLY12-Sheep P8-1of2  
+  
+### 6370-DOLLY12-Sheep P8-2of2  
+  
+###
+
+Fixing:
+
+  1. Image wells with microscope in phase setting
+  2. Wash wells with   `200` µL/well dPBS  `09:50`
+  3. Add  `100` µL 4% PFA to each well and incubate at RT for 15 min   `10:08 - 10:24`  
+During this incubation, the vessel should be kept in the dark/wrapped in foil
+to protect from light
+
+  4. Wash with  `200` µL/ well dPBS 2 x 5 min: 
+
+6368 wash 1: 10:27 - 10:32
+
+6370 wash 2: 10:29 - 10:34
+
+6368 wash 2: 10:40  
+
+6370 wash 2: 10:50  
+
+5\. Parafilmed and stored in fridge 11:02 - XX:XX
+
+Name
+
+Details (Reagent ID)  
+  
+dPBS
+
+3919  
+  
+PFA
+
+3070  
+  
+  
+
+* * *
+
+### Results
+
+  * Results were;
+    * [ X ]  As usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+### Relevant Images/Figures:
+
+6370: https://mia-capture.vow.tools/#/session/recA1M5efKIaKc93U/images
+
+6368: https://mia-capture.vow.tools/#/session/rec55Uyl3YcfiGirH/images
+
+  
+
+  
+
+

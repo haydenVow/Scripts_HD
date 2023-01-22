@@ -1,0 +1,54 @@
+
+
+## Completed by: Bec Screnci
+
+
+Aim/Purpose
+
+
+To determine the suitability and muscle-specificity of phalloidin-iFluor-AF488
+for f-actin (filamentous actin) staining of MuSCs, compared to MF20.
+
+
+Hypothesis
+
+
+That phalloidin-iFluor-AF488 will stain F-actin which is present in the
+cytoskeleton of Muscle, and will show up where MF20 is present in
+differentiated skeletal muscle in vitro.
+
+
+Technical Gap
+
+
+Relying on immunofluorescent MF20 (myosin heavy chain) staining as a marker
+for maturation is time consuming (primary and secondary antibody steps), and
+the stain for f-actin requires only a 20-90 minute incubation followed by a
+few wash steps. If the phalloidin stain is suitable for marking areas of the
+cells where MF20 is present (and potentially highlighting striations in mature
+muscle), it could be a cheaper and more time effective stain for assessing
+maturation, and can also be applied to other uses at Vow when f-actin needs to
+be observed or quantified.
+
+
+Method/Procedure
+
+
+  1. [Experiment Plan/Peer-review]
+    * Collect BUFFY6 and C2C12 plates from the Multiple species experiment that was run in CLI (cell loss investigation) - fixed on Day 10 of differentiation (2% HS and E6)  
+Note* cells are already DAPI stained as of 24-NOV-21.
+
+    * Permeabilise, Block and Primary stain all samples with mouse anti-MF20 primary antibody.
+    * Wash and add anti-mouse AF555 secondary antibody + Phalloidin-iFluor-488 reagent and incubate for 90 minutes at RT.
+    * Wash samples and Image on the Zaber imaging platform on DAPI/AF488/AF555.
+    * Run images through ImageJ to merge and identify whether F-Actin and Myosin heavy chain are present in the same areas of the cultures.
+    * Make observations as to the suitability of phalloidin staining for assessing maturation of muscle cells in vitro.
+    * https://www.abcam.com/phalloidin-ifluor-488-reagent-ab176753.html
+  2. [Report writing (Draft)]
+  3. [Review & fill out Report (Full)]
+  4. [Ensure all lab books are complete & assign for review]
+  5. [Review Lab Books, results, report]
+  6. [Make necessary amendments and confirm with reviewer that experiment is complete
+  7. [Release note on Project Updates]  
+
+

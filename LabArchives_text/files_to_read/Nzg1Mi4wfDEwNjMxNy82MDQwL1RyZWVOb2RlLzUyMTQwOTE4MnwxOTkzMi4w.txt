@@ -1,0 +1,241 @@
+Introduction
+
+
+To enhance the maturation of primary cell line myoblasts, we have been
+exploring the effectiveness of a few different stimulation modes, one of which
+is electrical stimulation.
+
+In our previous study, we seeded laminin- and gelatin- coated plates with
+C2C12 cells and began electrical stimulation at day two of differentiation
+(when they were > 70% confluent) using the same set-up and parameters that
+were used in Q3 2021 (two biphasic, charge balanced waveforms of 4 and 9 V
+peak-to-peak (2.67 V/cm and 6 V/cm respectively), were delivered at a low
+frequency of 2 Hz). These stimulation parameters were chosen as they were
+similar to protocols implemented in literature (Park et al., 2008; Ito et al.,
+2014). Despite being electrically stimulated and fixed using an automated OT2
+protocol, the cells did not delaminate which was promising. Unfortunately,
+upon closer analysis, there were no significant differences between the
+stimulated conditions and the controls when indicators such as myogenin
+expression, %MyHC area and protein content (measured using a Bradford Assay)
+were used.
+
+A few papers have shown higher stimulation frequencies to have beneficial
+effects on protein synthesis, cell alignment and fibre formation (Donnelly et
+al., 2010; Shahin-Shamsabadi and Selvaganapathy, 2020). As such the present
+study aimed to see if increasing the pulse train frequency from 2 Hz to 50 Hz
+would replicate the above findings / increase MuSC maturation.
+
+
+Summary
+
+
+BUFFY6 cells were expanded, harvested and seeded into 12 well plates coated
+with either gelatin or laminin and allowed to proliferate for 3 days. 3
+replicates were seeded for each of 4 conditions per coating:
+
+  1. Stimulation at 4V peak-to-peak (2.67 V/cm)
+  2. Stimulation at 9V peak-to-peak (6 V/cm)
+  3. Electrode control, no voltage
+  4. No electrode control (standard cell culture condition)
+
+Electrical stimulation was started as soon as cells were switched into
+differentiation media (see plan below for detail). At the conclusion of
+electrical stimulation, both plates underwent fixing and IF staining as usual.
+
+Proliferation Phase (3 days in total)
+
+  * D-3 Seed culture in GM at a density of ~35K cells / well (10K cells / cm2)
+  * D-1 100% media change (GM)
+
+Differentiation Phase (11 days in total)
+
+  * D0D Change to differentiation media (E6), Zaber plates (every second day), begin electrical stimulation
+  * D1D 100% media change (E6) 
+  * D2D 100% media change (E6), Zaber plates
+  * D3D 100% media change (E6)
+  * D4D 100% media change (E6), Zaber plates [changed from 20 Hz -> 50 Hz]
+  * D5D 100% media change (E6) 
+  * D6D 100% media change (E6), Zaber plates
+  * D7D 100% media change (E6)
+  * D8D 100% media change (E6), Zaber plates
+  * D9D 100% media change (E6) 
+  * D10D 100% media change (E6), Zaber plates
+  * D11D Finish stimulation and cell culture. Fix plates.
+  * D12D Primary antibody staining (MF20)
+  * D13D Secondary antibody staining and DAPI (MF20 + Phalloidin for f-actin)
+
+
+Key Findings
+
+  * Survival of the BUFFY6 primary cell line! No cell death observed due to electrical stimulation, though some debris was present in wells A1, B2 and C2 of the laminin-coated plate during feeds
+  * No significant difference in BUFFY6 MuSC maturation between stimulated and non-stimulated conditions in both the laminin- and gelatin-coated plates (see images / figures)
+  * The OT2 fixing and staining protocols were once again successfully utilised, with no significant delamination being observed, demonstrating the benefit of cultureware precoating for automated downstream analysis
+
+
+  
+  
+Figure 1:  Representative areas from full-well immunstained Zaber images
+comparing the maturity of stimulated BUFFY6 cultures (left to right = Laminin
+4V, Gelatin 9V, Laminin electrode control). Cell nuclei were stained using
+DAPI (blue), filamentous actin was stained using phalloidin (green) and
+intracellular myosin heavy chain was stained using MF20 (red).  
+  
+Please refer to the Results and Data Analysis page for more details.
+
+
+Discussion and Limitations
+
+
+Discussion
+
+2 x 12wps (one coated with laminin and the other gelatin) were seeded with
+~35K BUFFY6 cells per well and grown in GM with 20% FBS for three days after
+which point, both plates were switched into E6 differentiation media and
+electrical stimulation commenced. Two stimulation conditions of 4V and 9V
+peak-to-peak (2.67 V/cm and 6 V/cm respectively) were initially applied at a
+frequency of 20 Hz without rest. Additionally, there were two controls
+(electrode and non-electrode).
+
+As can be seen in Figure 1, MF20 staining indicated the presence of myotubes
+and intracellular MyHC, with phalloidin indicating the presence of filamentous
+actin in all conditions. Although there was no significant increase in the
+normalised MF20 area, stimulation at lower voltages seem to imply more
+beneficial maturation effects (Figure 2). However, this may be an
+overinterpretation of the data and needs to be investigated more thoroughly.
+Phalloidin staining also did not reveal any significant fibre alignment in any
+of the stimulation conditions.  
+
+Apart from the 4V condition in the laminin-coated plate, the number of viable
+nuclei in each condition in both plates was comparable with no significant
+variation. In Figure 2, $ indicates a discrepancy with the DAPI-counting macro
+that was identified during post-hoc analysis (the possible cause of this issue
+has been elaborated below).
+
+Overall, it was observed that higher frequency electrical stimulation using 4V
+and 9V peak-to-peak did not result in BUFFY6 cells maturing more when compared
+to unstimulated controls. Further experiments are required to elucidate the
+optimal stimulation parameters that will promote MuSC maturation.
+
+  
+
+Limitations
+
+Below are some inherent limitations of the study that were identified prior to
+beginning the experiment.
+
+  * The current set-up is only able to stimulate without rest, delivering a maximum amplitude of +/- 15 V. Many papers detail the use of a work-rest ratio in conjunction with a wide range of voltages and frequencies, which we are unable to test at present (Naumann and Pette, 1994; Donnelly et al., 2010; Khodabukus and Baar, 2012; Ko et al., 2018).  
+  
+
+  * The use of platinum or carbon electrodes is also quite common (at present, we are using stainless steel electrodes), which may be another reason why we did not observe any significant changes due to stimulation in past iterations (Park et al., 2008; Flaibani et al.,2009; Ito et al., 2014).
+
+  
+
+Below are limitations that were observed during / after the commencement of
+the experiment.
+
+  * In the previous experiment, cell aggregates were observed when differentiating C2C12 cells seeded at high densities. Despite the seeding density being lowered with our primary cells, the cultures reached > 70% confluence earlier than expected. As such, we were unable to study if having a less dense culture prior to starting differentiation would influence the formation of cell aggregates.  
+  
+
+  * Stimulation was changed from 20 Hz to 50 Hz after 4 days in an attempt to see if cell alignment would be affected, which it was not.  
+  
+
+  * Flakes of corroded SS electrode were present in plate 9431 in wells A1, B2, C2 and was first observed during D8D (rusting can be seen at the arrow ends in Figure 3). It was also noted after the completion of the experiment, the soldering on one of the wires in the lid had loosened up considerably (refer to Figure 3) which may have impacted the voltages that were delivered to the wells.
+
+  
+
+Figure 3: Rusting at the base of the electrodes (left) and loose wiring
+(right) that was identified after the completion of the experiment.
+
+  
+
+  * There were a few issues with the OT2 SAb staining protocol - wells A1-C1, A2 and B2 in plate 9432 were prematurely stained with DAPI and phalloidin after only completing one PAb wash with PBS. This run was terminated, the phalloidin + DAPI mix in PBS was remade and the OT2 protocol was restarted. When the protocol finished, it was noticed that two of the PBS washes were not performed for the gelatin plate (9342). The remaining washes were done manually. Fortunately, the Zaber images did not seem to be adversely affected by the staining protocol.  
+  
+
+  * Bleeding through of the phalloidin into the AF555 channel made it more difficult to process the MF20 images as fine adjustments had to be made to the brightness and contrast to isolate the myotubes. Lowering the concentration of phalloidin used in future experiments may help mitigate this issue.  
+  
+
+  * There were some issues with the DAPI-counting macro that were identified by studying the analysed images. As seen in Figure 4, errors with thresholding resulted in undercounting. Due to insufficient bandwidth at the end of the quarter, this was not able to be troubleshooted earlier and remediated. However, further optimisation is required to ensure accurate nuclei counts are obtained for future experiments.
+
+  
+
+  
+  
+  
+  
+Well A1, plate 9431 (4V laminin)
+
+Well C1, plate 9431 (4V laminin)
+
+Well A2, plate 9431 (9V laminin)  
+  
+  
+Figure 4: Examples of incorrect thresholding steps used by the macro in three
+different instances (well numbers from left to right = A1, C1, A2 of the
+laminin plate, 9431).
+
+  
+
+References
+
+Donnelly, K., Khodabukus, A., Philp, A., Deldicque, L., Dennis, R.G., Baar,
+K., 2010. A Novel Bioreactor for Stimulating Skeletal Muscle In Vitro. Tissue
+Eng. Part C Methods 16, 711-718\. https://doi.org/10.1089/ten.tec.2009.0125
+
+Flaibani, M., Boldrin, L., Cimetta, E., Piccoli, M., Coppi, P.D., Elvassore,
+N., 2009. Muscle Differentiation and Myotubes Alignment Is Influenced by
+Micropatterned Surfaces and Exogenous Electrical Stimulation. Tissue Eng. Part
+A 15, 2447-2457\. https://doi.org/10.1089/ten.tea.2008.0301
+
+Ito, A., Yamamoto, Y., Sato, M., Ikeda, K., Yamamoto, M., Fujita, H.,
+Nagamori, E., Kawabe, Y., Kamihira, M., 2015. Induction of functional tissue-
+engineered skeletal muscle constructs by defined electrical stimulation. Sci.
+Rep. 4, 4781. https://doi.org/10.1038/srep04781
+
+Khodabukus, A., Baar, K., 2012. Defined Electrical Stimulation Emphasizing
+Excitability for the Development and Testing of Engineered Skeletal Muscle.
+Tissue Eng. Part C Methods 18, 349-357\.
+https://doi.org/10.1089/ten.tec.2011.0364
+
+Ko, U.H., Park, S., Bang, H., Kim, M., Shin, H., Shin, J.H., 2018. Promotion
+of Myogenic Maturation by Timely Application of Electric Field Along the
+Topographical Alignment. Tissue Eng. Part A 24, 752-760\.
+https://doi.org/10.1089/ten.tea.2017.0055
+
+Naumann, K., Pette, D., 1994. Effects of chronic stimulation with different
+impulse patterns on the expression of myosin isoforms in rat myotube cultures.
+Differentiation 55, 203-211\.
+https://doi.org/10.1046/j.1432-0436.1994.5530203.x
+
+Park, H., Bhalla, R., Saigal, R., Radisic, M., Watson, N., Langer, R., Vunjak-
+Novakovic, G., 2008. Effects of electrical stimulation in C2C12 muscle
+constructs. J. Tissue Eng. Regen. Med. 2, 279-287\.
+https://doi.org/10.1002/term.93
+
+Shahin-Shamsabadi, A., Selvaganapathy, P.R., 2020. Tissue-in-a-Tube: three-
+dimensional in vitro tissue constructs with integrated multimodal
+environmental stimulation. Mater. Today Bio 7, 100070.
+https://doi.org/10.1016/j.mtbio.2020.100070
+
+
+Conclusion
+
+
+Higher frequency electrical stimulation (50 Hz) delivered without rest via SS
+electrodes using 4V and 9V peak-to-peak (2.67 V/cm and 6 V/cm respectively)
+did not significantly increase the maturation of BUFFY6 cells when compared to
+unstimulated controls.
+
+
+Future Directions
+
+
+  * Verify the results of the first e-stim experiment conducted on DOLLY12 cells, by using the same stimulation parameters on BUFFY6 cells
+  * Build a new lid that doesn't have too many loose parts sticking out and is capable of delivering electrical stimulation to the cells
+  * Incorporate a work-rest ratio into the stimulation regime (PulsePal)
+  * Trial using Pt or carbon-based electrodes
+  * Trial using DC voltages to produce an electric field to verify that the stimulation is actually capable of inducing some changes in cell alignment / morphology
+
+
+
+
+

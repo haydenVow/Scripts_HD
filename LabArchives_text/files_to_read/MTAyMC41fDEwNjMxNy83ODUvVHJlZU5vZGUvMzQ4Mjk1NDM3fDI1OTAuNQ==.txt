@@ -1,0 +1,129 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 90mL
+
+Total p38i required: 45uL
+
+  
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+T175  
+6630-DAISY4_16G9-Cow P6-1of3  
+  
+T175  
+6640-DOLLY12_15D11-Sheep P6-1of3  
+  
+T175  
+6642-DAISY4_16G9-Cow P6-2of3  
+  
+T175  
+6643-DAISY4_16G9-Cow P6-3of3  
+  
+T175  
+6644-DOLLY12_15D11-Sheep P6-2of3  
+  
+T175  
+6645-DOLLY12_15D11-Sheep P6-3of3  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   90mL  mL of  Growth Media into  Small Urine Container
+tube(s) (Located in the door of Fridge 104 of Library Lab in Urine Container).
+Placed in water bath  15:46
+
+2\. Removed  50  % of supernatant from vessel.
+
+3\. Replaced with  15 mL (per well/per vessel) of  Growth Media   media.
+
+4\. Returned vessel to incubate at: 16:12
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [X]  Top Binder Incubator
+  * [ ]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+50  % media changed on vessel(s)
+
+  1. 6630- 16G9
+  2. 6640- 15D11
+  3. 6642- 16G9
+  4. 6643- 16G9
+  5. 6644- 15D11
+  6. 6645- 15D11
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media472190mL  
+ P38i (20mM stock)3978  
+45uL  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

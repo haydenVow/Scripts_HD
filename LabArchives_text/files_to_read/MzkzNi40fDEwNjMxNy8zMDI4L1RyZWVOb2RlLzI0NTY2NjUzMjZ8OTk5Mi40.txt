@@ -1,0 +1,80 @@
+Requirements
+
+
+To commission the StimJim stimulator, the signal output waveform must be
+validated. The requirements of waveforms from similar tissue stimulation
+studies must also be achievable with the chosen system.
+
+Requirements of the stimulator were found in Q2 to be:
+
+  1.  0 - 100 mV/cm and 2 - 10 V/cm experiments.
+  2. Biphasic signal. 50 - 100 Hz. Vary intermittent stimulation: every 100 s to 1 hour.
+
+
+Test 1 - Verify Basic Charge Balanced Biphasic Signal (100 Hz, 0.2 ms pulse, 200 mV)
+
+
+### Setting Parameters
+
+The following pulsetrain parameters were set for the StimJim:  
+  
+  
+
+Figure 1: StimJim to Oscilloscope Setup
+
+
+
+###
+
+  
+
+Checking Parameters
+
+Period
+
+Figure 2: Measuring the StimJim pulse train period on the oscilloscope.
+
+  
+
+Pulse Duration
+
+Figure 3: Measuring the StimJim pulse duration on the oscilloscope.
+
+  
+
+Amplitude
+
+Figure 4: Measuring the StimJim pulse amplitude on the oscilloscope.
+
+
+
+
+Test 2
+
+
+### Setting Parameters
+
+The following parameters were set for the StimJim:
+
+  
+
+Figure 1: StimJim to oscilloscope setup with channel 2 running through two
+stainless steel wire electrodes 1.5 cm apart in dPBS.
+
+### Checking Parameters
+
+Period
+
+Figure 2: Measuring the StimJim pulse train period on the oscilloscope.
+
+ Pulse Duration
+
+Figure 3: Measuring the StimJim pulse width on the oscilloscope.
+
+Amplitude
+
+Figure 4: Measuring the StimJim pulse amplitude on the oscilloscope.
+
+
+
+

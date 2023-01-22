@@ -1,0 +1,162 @@
+
+
+14/1/22
+
+In a meeting with Alex & Marie from Vow Foods, they discussed a new sample
+type they are interested in analysis.  The samples are the pellet after TCA-
+Acetone precipitation of the culture media.  They are getting around 100g/L.
+The cultures are crocodile cell lines with 20% FCS. FCS is ~4g/L protein, so
+would contribute only ~0.8g/L to what is in the sample. The rest is proteins
+either secreted by the cell lines or release by cell lysis during culture.
+They are stimulating the cells with TGF-beta and vitamin C to promote the
+secretion of extracellular matrix proteins, and ECM proteins are of particular
+interest.
+
+18/1/22
+
+Marie dropped off 3 samples:
+
+1\. Pellet from unused Cell culture media aka Fresh. 2.04g wet weight.
+
+2\. Pellet crocodile culture aka Waste. 2.49g wet weight.
+
+  
+
+A small amount was weighted out, the tubes were weighed, then left to air dry
+for ~10 min at room temp and re-weighed. Urea/tris solution was added to give
+a 10mg/ml solution.
+
+SampleTube WtSample wet wtSample 'dry' wtSample WtVol U/TQubit  
+Fresh993.5  
+1009.91004.210.7107ul1.04 ug/uL  
+Waste991.71045.81035.543.8438ul0.46 ug/uL  
+  
+The tubes were vortexed for 1 min and the sonicated for 5 min. The solutions
+appeared clear but were centrifuged at 16,000g for 10 min at 20'C in case of
+any undissolved material.
+
+Samples were reduced (final DTT conc 10 mM) incubated at RT for 1 hr, and
+alkylated (final IAA conc 25mM) incubated in darkness at RT for 30 mins. 50 uL
+was removed and diluted with 250 uL 50 mM Ammonium Bicarbonate. 41.5 uL 12
+ng/uL trypsin was added and the samples were incubated overnight in the
+thermomix at 37C at 1000 rpm.
+
+Undigested samples underwent a qubit. Needs a new overnight digest.
+
+20/01/22
+
+The new digest was set up at a higher trypsin:protein ration of 1:50 rather
+thatn ~1:100. Approx 2 ug of reduced and alkylated sample was diluted into 25
+uL 50mM AmBic. 3.33 uL of trypsin (12 ng/uL) was added and the samples
+incubated overnight.
+
+21/01/22
+
+Samples were acidified to approx 0.1% TFA and 1.3 ug was cleaned up via
+ziptip. These were dried and reconstituted into 10 uL LB, sonicated for 2 mins
+prior to loading 3 uL onto the HFX3.  The pre-run SST were not perfect, so
+samples were keep in the autosampler over the weekend and a new column was
+installed on Monday.
+
+  
+
+
+
+
+25/1/22 BSA SSTs
+
+Run722 RT722 Counts% CovNo. Pep.Score  
+528.241.29e948326009  
+628.271.35e949325547  
+728.221.44e949336795  
+828.211.54e950348319
+
+
+  
+  
+25/1/22 TICs
+
+Waste (rep1)
+
+  
+
+Fresh (rep 1)
+
+
+
+
+25/1/22
+
+The samples were processed via the emPAI route with PD 2.5 used to convert the
+.raw files to .mgf:
+
+The Mascot 2.8 was used to search the RefSeq Croc database:
+
+SampleProtein FamiliesProteinsCroc HitsContaminant hits  
+Waste23724415490  
+Fresh1021045846  
+  
+The searches were repeated this time including the full Bovine proteome:
+
+  
+
+SampleProtein FamiliesProteinsCrocCowContaminants  
+Fresh119122246038  
+Waste3613755025273  
+  
+Top 10 hits,
+
+Fresh:
+
+Waste:
+
+
+
+
+25/1/22
+
+The samples were also searched through the usual PD pipeline:
+
+  
+
+SampleProteinsProt GrpPep GrpPSMMSMS  
+FreshNohits  
+  
+  
+  
+Waste63125913732758124970  
+  
+Top 10 hits
+
+Fresh - no hits
+
+Waste:
+
+
+
+
+25/1/22
+
+The fresh sample as failing on the purcolator step (not unusual for samples
+with fewer that 200 proteins), so the search was repeated with a fixed value
+validation:
+
+  
+
+Sample ProteinsProt GrpPep GrpPSMMSMS  
+Fresh 1445617427880,477  
+Waste4992028891,712124,970  
+  
+Top 10 hits:
+
+Fresh:
+
+Waste:
+
+When filtered for crocodile sequences very few were found:
+
+Fresh:
+
+Waste:
+
+

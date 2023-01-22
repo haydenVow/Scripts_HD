@@ -1,0 +1,76 @@
+Performed by: EC AS
+Vessel IDs  
+Condition  
+Location  
+  
+  
+12743-Nuvonis Quail Suspension341-P-1of2
+
+12744-Nuvonis Quail Suspension341-P-2of2  
+
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (with 4 mM L-Glutamine & 6 g/L glucose final conc.)  
+Production lab, bottom shaking incubator  
+  
+  
+  
+
+12755-Nuvonis Quail Suspension341-P-1of2
+
+12756-Nuvonis Quail Suspension341-P-2of2
+
+  
+
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF (with 4 mM L-Glutamine & 6 g/L glucose final conc.)  
+
+
+Process
+  
+  
+  1. Took 1 x 550 uL aliquot from each E1000 and performed counts on ViCell
+  2. Recorded counts in media results spreadsheet: https://docs.google.com/spreadsheets/d/1cnmEz5amKSGmA9u3BJ-Dn0w-I7zFobBr6pG-UWCYaXM/edit#gid=595130609
+  3. Removed 130.208mL of cell suspension from 50/50 flask 12743 and 132.275mL of cell suspension from 50/50 flask 12744, containing a total of 200M cells to seed EPIC31429 (took half from one flask and half from another to ensure a mix of cells is selected) (lab book link)
+  4. Topped up media in 50/50 flasks so seeding density is ~200-300K cells/mL. If needed, moved to 2 x E2000s (referred to table below for working volumes of each E-flask) 
+    * Added IGF, EGF, glucose and L-glutamine to media according to calculator in E8 spreadsheet for 50/50 media. There are aliquots of the solutions stored in 50 mL tubes in fridge 117. If there is not enough left in the aliquots, check the fridge in production for 2 x 1L containers of glucose and L-glutamine. 
+  5. Transferred total cell suspension from 75/25 flasks into 4 x 250 mL centrifuge tubes
+  6. Centrifuged at 500 x g for 5 min 
+  7. Aspirated 100% of supernatant 
+  8. Re-suspended in in-house 75/25 media so seeding density is ~200-300K cells/mL 
+    * Added IGF, EGF, glucose and L-glutamine to media according to calculator in E8 spreadsheet for 50/50 media. There are aliquots of the solutions stored in 50 mL tubes in fridge 117. If there is not enough left in the aliquots, check the fridge in production for 2 x 1L containers of glucose and L-glutamine.
+  9. Returned flasks to incubator
+
+
+
+
+
+Notes
+ID
+
+Flask type
+
+Final volumeCell density Total cell number in flask  
+50/50 12743
+
+E2000
+
+800.0278,200222,560,000  
+50/50 12744
+
+E2000
+
+800.0271,900217,520,000  
+75/25 12455
+
+E1000
+
+325.0304,06298,820,000  
+75/25  12456
+
+E1000
+
+325.0330,646107,460,000
+
+

@@ -1,0 +1,169 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by:  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+  
+7665-F_DOLLY12-Sheep P8-1of1
+
+7666-F_DOLLY12-Sheep P8-1of1
+
+7667-F_DOLLY12-Sheep P8-1of1
+
+7668-F_DOLLY12-Sheep P8-1of1
+
+7669-F_DOLLY12-Sheep P8-1of1
+
+7670-F_DOLLY12-Sheep P8-1of1
+
+  
+50 mL bioreactor spin tubes  
+  
+7671-F_DOLLY12-Sheep P8-1of1
+
+7672-F_DOLLY12-Sheep P8-1of1
+
+7673-F_DOLLY12-Sheep P8-1of1
+
+  
+E125
+
+
+  
+  
+Growth Media:
+
+[x] Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+
+[x] GM + 0.1% MC
+
+[x] GM + 0.3% MC
+
+[x] GM + 0.45% MC
+
+[x] GM + 0.6% MC
+
+[x] GM + 1% MC
+
+  
+
+GM = DMEM/F12 + 2% FBS + 1X P/S + anticlumping agent 1:100 + 0.1% poloxamer
+188
+
+
+
+
+Maps:
+
+  
+1  
+2  
+3  
+  
+A  
+Serum Control  
+GM + 0.1% MC  
+GM + 0.3% MC  
+  
+B  
+GM + 0.45% MC  
+GM + 0.6% MC  
+GM + 1% MC  
+  
+  
+E125 flask: Serum Control
+
+E125 flask: GM + 0.45% MC
+
+E125 flask: GM + 1% MC
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth Media (Serum Control)A6190  
+GM + 0.1% MC  
+M6339  
+GM + 0.3% MC  
+M6340  
+GM + 0.45% MC  
+M6341  
+GM + 0.6% MC  
+M6342  
+GM + 1% MC  
+M6335  
+  
+###  
+
+
+
+
+Process:
+
+Collected all aliquots listed in "Feed Information" table and placed in water
+bath  12:18  
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into __ x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   12:42 pm
+  5. Aspirated  50 % (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Re-suspended pellet in  15 mL growth media. Gently pipette-mixed culture using serelogical, before moving cell suspension back to E125
+  7. Returned E125s to incubator.   13:24 pm
+
+Incubator (#81), Lab [Main/Library/Production]
+
+50 mL shake tubes
+
+  1. Collected 50 mL shake tubes from shaker
+  2. Centrifuged 50 mL tubes at 300 x g for 5 min.  12:28  pm
+  3. Aspirated  50% (2.5 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  4. Re-suspended pellet in  2.5 mL growth media. Gently pipette-mixed culture to break up pellet and generate an even cell suspension. 
+  5. Returned 50 mL tubes to incubator.   13:24 pm
+
+Incubator (#116), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 7665-F_DOLLY12-Sheep P8-1of1
+  2. 7666-F_DOLLY12-Sheep P8-1of1
+  3. 7667-F_DOLLY12-Sheep P8-1of1
+  4. 7668-F_DOLLY12-Sheep P8-1of1
+  5. 7669-F_DOLLY12-Sheep P8-1of1
+  6. 7670-F_DOLLY12-Sheep P8-1of1
+
+  
+
+  1. 7671-F_DOLLY12-Sheep P8-1of1
+  2. 7672-F_DOLLY12-Sheep P8-1of1
+  3. 7673-F_DOLLY12-Sheep P8-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

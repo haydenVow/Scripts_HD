@@ -1,0 +1,101 @@
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+M10138  
+  
+KSR  
+S4605  
+  
+IGF-1 - LR3  
+M9190  
+  
+b-FGF  
+M9371  
+  
+DMEM/F12 + 20% FBS + 1% P/SM10122  
+  
+Tryplea9282  
+  
+dPBSm1037  
+  
+  
+  
+  
+PRF DMEM/F12  
+s3301  
+  
+  
+  
+
+
+
+
+BASE MEDIA PREPARATION:
+
+HYCELLCHO + SUPPLEMENT MEDIA PREPARATION:
+
+  1. Hycell Cho media was prepared for the suspension culture vessels below, 
+    1. 6x96 well plates per Knockout condition, 
+    2. 4x50mL bioreactor tube per knockout condition, 
+    3. 1x50mL bioreactor tube for nucleofection control. 
+  2. x96 well plates (200 uL per well) = 116 mL
+  3. 5x mini bioreactor tubes (5 mL per tube) = 25 mL
+  4. Total = 141
+  5. 1.1 x 179 = ~155 mL, Hycell Cho media was prepared using the following volumes in the range below:
+
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043&range=A8:E15
+
+GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)155  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Base mediumNANANA123.38  
+KSRNANANA31  
+FGF0.00010.050.0160.31  
+IGF10.00010.050.0160.31  
+  
+  
+  
+Total medium vol (mL)155.00  
+  
+DMEM/F12 + 20% FBS + 1 x P/S media was aliquoted for adherent cultures  
+
+  * 3xT75cm plate per knockout  condition/nucleofection control.  
+  * 2x 96 wp, 1 for each knockout condition (50uL per well).
+
+3 x T75 plates (12mL per plate) = 36mL
+
+2x 96 well plates(200uL per well) = 38.4mL
+
+Total = 74.4 x 1.1 = ~82 mL
+
+  
+
+
+
+
+PREPARE FACS BUFFER
+
+  1. 6mL of FACS buffer, prepared one week earlier during nucleofection round 1 (see epic 29990), was used for this round of FACS sorting. 
+
+
+
+
+OBSERVATIONS
+
+The media was aliquoted across the 96 well plates which were then placed in
+the fridge at 4 degrees until use during FACS
+
+

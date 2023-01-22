@@ -1,0 +1,116 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+Method summary
+
+DOLLY12 cells were thawed into gelatin coated flasks in serum containing media
+and seeded at a density of 1000 cells/cm^2. The following day, a 100% feed was
+performed to put cells into different media conditions:
+
+  * serum (DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i)
+  * E810C
+  * E810C + extra ethanolamine + extra p38i
+  * E810C w/o GABA
+  * E810C w/o GABA, EGF, LIF, + extra ethanolamine, p38i, IL-6, IGF-LR3
+
+Cells were then fed every ~48 h and passaged every 3-4 days.
+
+Key findings
+
+At the first passage, there was already a notable difference between cell
+counts from ACF media versus serum containing media. In the second passage,
+the cell counts obtained for cells in ACF media were lower than the amount of
+cells that had been seeded. Monitoring these cells under the microscope over
+the next 2-3 days indicated that cells numbers were still very low and that
+these media conditions were not sufficiently supporting cell growth.
+Therefore, after 9 days of culture in the respective media conditions, all
+flasks were discarded.
+
+Images of flasks from the day 8 (4x, Phase) are below:
+
+  
+
+serumE810C
+
+
+
+
+
+  
+
+  
+
+E810C without GABAE810C + extra ethanolamine and p38i
+
+
+
+
+
+  
+
+  
+
+E810C without GABA, EGF, LIF and with extra ethanolamine and p38i
+
+
+
+Discussion
+
+In this experiment, our serum control performed as expected. However, our ACF
+baseline control E810C decreased in cell numbers after 2 passages. This is
+unusual compared to what we've seen before. In EPIC10575 we performed
+continuous culture with several ACF conditions (including E810C) and observed
+cell growth over several passages, and eventually reached 10 doublings. It's
+unclear what caused this occur. Perhaps there was a mistake with the
+preparation of ACF media and repeating this experiment would yield different
+results. Specifically, the FGFb used in this experiment came from a different
+brand (Reprokine), rather than PeproTech. Further investigation to confirm
+whether this caused poor growth needs to be performed.
+
+Amongst the ACF conditions, it appears that E810C performed better than others
+(based on cell counts from the 2nd passage). This was also unexpected as we
+anticipated that the addition of extra ethanolamine and p38i based on the
+results of DSD#1 (i.e. EPIC12970) would increase proliferation. This could be
+because the ACF media bullet used in EPIC12970 did not contain all the
+ingredients that are found in E810C. Therefore, the interaction of ingredients
+and their combinatorial effect on cells was different.
+
+Limitations
+
+Because the cells in ACF media did not proliferate as expected, we were not
+able to test the downstream effect of these media on differentiation of cells.
+
+Future directions
+
+We should explore other ACF media formulations to find media that better
+support cell doublings in long-term culture of muscle stem cells. Therefore,
+we will test the use of 'Beefy-9' media that was described by Stout et al 2021
+for our cells. In addition, we will test the passaging method detailed in the
+paper which involved the delayed addition of albumin to ACF media to allow
+better adhesion of cells. We will also test the use of coatings such as
+vitronectin or laminin. See EPIC 19442 for details.
+
+

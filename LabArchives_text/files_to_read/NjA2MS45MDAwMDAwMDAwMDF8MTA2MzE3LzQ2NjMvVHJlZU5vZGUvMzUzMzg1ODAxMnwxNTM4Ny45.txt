@@ -1,0 +1,45 @@
+
+
+## Completed by: AK
+
+
+
+
+  
+
+(a)
+(b)
+
+Figure 1: Comparison between labelled and unlabelled DOLLY12 fibroblast nuclei
+in sparse population in 384 well plate using a machine learning model trained
+using fibroblasts cells in suspension culture. (a) DAPI image of unlabelled
+fibroblasts stained with Hoechst in a well of a 384 well plate. (b) Phase
+contrast image of labelled fibroblasts using a suspension trained machine
+learning model in same well of a 384 well plate.  Cells imaged under DAPI
+fluorescence channel, with 5x objective using the Zaber.
+
+  
+
+(a)
+(b)
+
+Figure 2: Comparison between labelled and unlabelled DOLLY12 fibroblast nuclei
+in sparse population in 384 well plate using a machine learning model trained
+using fibroblasts cells in suspension culture. (a) DAPI image of unlabelled
+fibroblasts stained with Hoechst in a well of a 384 well plate. (b) Phase
+contrast image of labelled fibroblasts using a suspension trained machine
+learning model in same well of a 384 well plate. Cells imaged under DAPI
+fluorescence channel, with 5x objective using the Zaber.
+
+                                                        
+
+Figure 3: Phase contrast image of DOLLY12 fibroblast in suspension, labelled
+using the ML model Day 1 post FACS sort.
+
+
+
+
+Figure 4: Phase contrast image of dense DOLLY12 fibroblast population in
+suspension, labelled using the ML model.  
+
+

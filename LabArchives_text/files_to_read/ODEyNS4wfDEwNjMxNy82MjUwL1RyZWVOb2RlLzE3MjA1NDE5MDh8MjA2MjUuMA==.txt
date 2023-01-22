@@ -1,0 +1,183 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+6-well plate (1 well)  
+
+10088-KUZCO20-Alpaca P-1of2
+
+T175  
+
+10157-F_KUZCO20-Alpaca P-1of1  
+  
+6-well plate (1 well)  
+
+10089-KUZCO20-Alpaca P-2of2
+
+T75 (after pre-plating)  
+
+10158-KUZCO20-Alpaca P-1of1  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA 6315  
+  
+TrypleM 7547  
+  
+dPBS (for washing & neutralising)A 9351  
+  
+Growth MediaA 9127  
+  
+p38i (20mM stock)M 5607  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated  4  x  T25 , 2  x  T75 ,   1  x  T175  vessel with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator     18-Jan-21 at 11:55 am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   4   mL in   1   tubes
+  2.  dPBS (for neutralising):   2 x 2 mL
+  3.  dPBS (for washing):   4  mL
+  4. Growth media (for pellet resuspension):   1 x 12mL (for MuSC portion) and 4mL (fibros)  mL
+  5. Growth media (for seeding):   30mL (for fibroblasts)   mL 
+
+Time that all aliquots were placed in the bead bath to warm at 37C before use
+9:40 am
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   9:55 am
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   2  mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   9:58 am 
+
+7\. Neutralised with   2mL   dPBS and combined cell suspension into a   15mL
+tube each.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   10:14 - 10:19  am 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended MuSC pellet in    12     mL     Growth media (incl 10uM p38i)
+media   10:22 am
+
+Transferred the MuSC suspension into 1 x non-coated 100mm culture dish. Left
+in incubator at 37C for 45 mins 10:27 - 11:12 am
+
+10\. Resuspended Fibroblast pellet in    2     mL     Growth media      media
+10:30 am
+
+11\. Aliquoted     10uL     of resuspended fibroblast cells into a
+microcentrifuge tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below. Cell count added to doublings calculator to track the doublings
+time in days
+https://docs.google.com/spreadsheets/d/1kiVXcsre8aDPtA9DjQ84WzN0dLb7jrzD9GehzExe7Ng/edit?usp=sharing
+
+  1. Total cell number was:       1,600,000    
+  2. Volume of cell suspension required for subculture was:     2mL        
+
+  3. Cell density per vessel:    >7,000 cells / cm2       
+
+
+
+
+FIBROBLAST SEEDING:
+
+13\. Transferred    2mL  of cell suspension to the pre-warmed    30 mL Growth
+media:    10:49 am
+
+14\. Transferred cell suspension into the non-gelatin coated    T175
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     10:51  \-
+11:21 am  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+  
+
+MuSC SEEDING (after pre-plate):
+
+1\. Transferred supernatant from 100mm plate into 1 x gelatin-coated T75
+flask.
+
+2\. Allow to sit at RT in the BSC for 30 min to allow cells to settle 11:25 -
+11:55 am  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+F_KUZCO20 fibroblasts expanded from 1 well of 1 x 6-well plate into 1 x T175
+flask
+
+KUZCO20 MuSC (mixture) harvested, pre-plated in a 100mm plate, and then
+supernatant was seeded into 1 x gelatin-coated T75 flask
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

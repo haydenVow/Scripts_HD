@@ -1,0 +1,19 @@
+
+
+3/9/21 Potions for a iBAQ style analysis in PD include the use of the IMP-
+apQuant node downloaded from the Protein Chemistry Facility at the Research
+Institute of Molecular Pathology (IMP)
+
+The typical settings are:
+
+An assessment of the node was published in JPR in 2019.
+
+
+
+
+6/9/21
+
+The ovine proteome was downloaded from UniProt. and installed in Metabolomics
+WS copy of PD & on the Mascot server.
+
+

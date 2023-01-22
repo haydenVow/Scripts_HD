@@ -1,0 +1,97 @@
+
+
+## Operator: Shaleen Sharma
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+  1. Arduino, DO Probe, multimeter, membrane cap and all associated cables were sterilised with Viraclean and 70% Ethanol and brought into the main lab space.
+  2.  Wash-E vessel was filled with 1.5L of Milli-Q water so that the DO-probe would be submerged well into water.
+  3.  Water bath surrounding Wash-E was filled will normal tap water so as to completely cover the outside of the entire vessel.
+  4.  Magnetic stirrer was turned on and set at a medium speed so as to generate a small vortex, distribute water evenly and not spin out of control.
+  5.  Water bath heater unit was borrowed from Production lab and set at 37 degrees and placed into water bath.
+  6.  It was decided that it would be good practice to monitor the temperature INSIDE the vessel as temperature plays a critical role in dissolved oxygen content. A brand new temperature sensor (that is  used to monitor main lab fridges) was re-purposed and used as the temperature sensor for inside the vessel by feeding sensor wire through the empty pH probe port in the lid of the vessel.
+  7. Water inside vessel was allowed to come to 37.4 degrees after 15 minutes (approx.)
+  8. Air flow meter was turned on and set at 150kPA allowing compressed air to sparge through the 1.5L of water inside vessel.
+  9.  Air was sparged in vessel for 15 minutes so as to obtain a "saturated" solution of dissolved oxygen in water.
+  10.  Arduino had been set up prior (outside lab) as per diagram below:
+  11.  Multimeter was powered on and black "GND" wire from Arduino board was contacted with black ground connector from multimeter. Red analog wire from blue pins adjacent to DO input was made in contact with Red wire from multimeter.
+  12.  A readout of 2.35V +- 0.05V  was observed from saturated dissolved oxygen water at 37 degrees.
+  13. Considering this readout is supposedly the largest value for the calibration (saturated solution), it was validated by removing the probe from Wash-E and exposing it to the ambient air ("easy" calibration method outlined in website).
+  14. A readout of 2.25V was observed from this method thus validating the calibration.
+
+https://docs.google.com/spreadsheets/d/1AdX_p-_4WrVly5Ei__OA0HSbjyRHPDRlmLJyrxzHG-g/edit#gid=0
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.5M NaOH solution  
+  
+Milli-Q Water  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary: See above entry
+
+  
+
+
+
+
+SOPs used: N/A
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): TBC
+
+  
+
+

@@ -1,0 +1,86 @@
+
+
+Process:
+
+  1. Prepare the following reagents:
+    1. 235 mL PBS
+    2. 50 mL 4% PFA
+    3. 50 mL 0.2% PBST
+    4. 60 mL blocking buffer
+  2. Set up OT2 deck as follows:
+    1. OT2 filter 200uL tip rack in positions 10 and 11
+    2. NEST 1x well reservoirs in positions 7 and 8
+    3. NEST 12 well reservoir in position 9 containing:
+      1. 9.5mL blocking buffer in wells 1-3
+    4. NEST 12 well reservoirs in positions 4, 5, and 6 each containing:
+      1. 9.5 mL PBS in wells 1-4 and 7-10
+      2. 7.5 mL 4% PFA in wells 5 and 6
+      3. 7.5 mL 0.2% PBST in wells 11 and 12.
+  3. Run the following protocol: YYYY-MM-DD-num-N-fix-perm-block-3-plates
+    1. start time: 11:45:23 AM
+    2. run time: 3:13:23 hours
+    3. had to pause protocol to remove liquid waste from reservoir on position 8 to prevent it from overflowing.
+  4. Prepare 12mL of the primary antibody mix (anti-MyoG from Santa Cruz, 1:200)
+    1. 11.940uL of blocking buffer + 60uL of Mouse Anti-MyoG (IgG1)
+    2. store in fridge until use ~12:00
+  5. Manually remove blocking buffer from wells and add 50uL/well of primary antibody mix. `13:41`
+  6. Parafilm plate and store overnight in the fridge (4 degrees C). 16:00
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+PBS  
+a4491  
+  
+PFA  
+a3109  
+  
+PBST  
+m4441  
+  
+Blocking buffer  
+m4785  
+  
+MyoG  
+s1562  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Fixed and primary stained (for MyoG) 3x 96 wp using OT2
+
+6613-DOLLY12-Sheep P11-1of3  
+6614-DOLLY12-Sheep P11-2of3  
+6615-DOLLY12-Sheep P11-3of3
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

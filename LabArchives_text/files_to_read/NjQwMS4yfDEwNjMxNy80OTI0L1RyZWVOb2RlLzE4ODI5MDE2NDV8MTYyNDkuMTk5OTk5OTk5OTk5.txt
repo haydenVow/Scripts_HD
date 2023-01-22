@@ -1,0 +1,106 @@
+
+
+Perform feed using below volumes:
+
+  
+
+
+
+
+## Feed performed by: LL  
+
+
+
+
+Culture IDs:
+
+Harvested vessel typeHarvested vessel IDConditionSeeded vessel type  
+Seeded vessel ID  
+Condition  
+  
+24-well plate8687-F_CHOMP09-Crocodile P8-1of6  
+UV plate 1: 5 mj/cm26-well plate  
+8724-F_CHOMP07-Crocodile P7-1of3  
+1: UV-treated cells (5 mj/cm2)  
+  
+8688-F_CHOMP09-Crocodile P8-2of6  
+UV plate 2: 15 mj/cm22: UV-treated cells (15 mj/cm2)  
+  
+8689-F_CHOMP09-Crocodile P8-3of6  
+UV plate 3: 30 mj/cm23: UV-treated cells (30 mj/cm2)  
+  
+8690-F_CHOMP09-Crocodile P8-4of6  
+UV plate 4: 60 mj/cm24: UV-treated cells (60 mj/cm2)  
+  
+8691-F_CHOMP09-Crocodile P8-5of6  
+UV plate 5: UV control  
+5: UV control  
+  
+UV plate 5: 300 mg/cm2  
+96-well plate  
+8725-F_CHOMP07-Crocodile P7-2of3  
+UV-treated cells (300 mj/cm2)  
+  
+  
+8692-F_CHOMP09-Crocodile P8-6of6  
+P53i & control  
+6-well plate  
+8726-F_CHOMP07-Crocodile P7-3of3  
+All P53i treatments, P53i control, and control  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used  
+Growth/Proliferation Mediam792950 mL  
+  
+IGF  
+m7681  
+50 uL  
+  
+FGFm5077  
+100 uL  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted   31 mL  mL of  Growth Medium  
+  2. Added   31 uL & 62 uL  of IGF-1 and FGF respectively. 
+  3. Placed in water bath at 30'C   15:15  
+  4. Removed  100 % of supernatant from all cell-seeded wells of 6 plates. 
+  5. Replaced with   3 mL / 140 uL per well of  growth  medium. 
+  6. Returned vessel to incubate at:    15:48    
+
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#68), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+100  % media changed on all vessels
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See "monitor and image cells" lab book
+
+

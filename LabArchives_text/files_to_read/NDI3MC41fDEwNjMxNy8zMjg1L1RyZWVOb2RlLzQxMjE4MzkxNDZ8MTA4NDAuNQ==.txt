@@ -1,0 +1,110 @@
+
+
+NOTE  
+We were expecting the CD4 Avian and CD4 CHO orders to arrive at Vow today
+however neither arrived in time. Instead we received the Hycell CHO medium
+which already contains pluronic/poloxamer by no L-glutamine. Media was
+therefore prepared using the Hycell CHO without additional pluronic and with
+added L-Glutamine, and this media will now be added to our study. Seeding of
+suspension cultures was delayed until Monday, when we expect the CD4 Avian and
+CD4 CHO to have arrived.
+
+
+
+
+Media
+
+1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF  
+ ~~2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent
++ 0.1% pluronic 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF~~ (did not
+arrive in time to prepare)  
+3\. ~~CDM4~~ HyCell CHO + 10% Knockout serum replacement + 1:100 anti-clumping
+agent + ~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF  
+4\. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF  
+5\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + 0.1%
+pluronic + 100ng/mL each FGF, IGF1, PDGF
+
+
+
+
+1\. Prepared growth media for each condition- See suspension trail #7 on the
+media spreadsheet for details here:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+
+Made 320 mL CD CHO medium and 100 mL of RPMI, CDM CHO & Control media with no
+Growth Factors. Labelled and stored in fridge 104.
+
+2\. Added the following medias to the water bath and warm at 37 degrees
+Celsius
+
+  * Re-suspension medium for DOLLY12  5mL DMEM/f12 +10% FBS + 1x p/s
+  * dPBS (for washing and neutralising DOLLY12) 200 mL
+  * Tryple (for passaging DOLLY12) 100 mL
+
+
+
+
+## Passage and seed DOLLY12
+
+1\. Removed vessel(s) from the incubator   16:10  
+
+2\. Washed the vessel(s) with dPBS (a5618) (warmed).
+
+3\. Added     100  mL tryple (m5076) to each vessel/well and incubated at
+37˚C.
+
+  1. Start/Finish for TrypLE was   16:18 - 16:30 time  
+
+4\. Neutralised with   100     dPBS and combined cell suspension into a   4 x
+50 mL  
+
+5\. Centrifuged at 650 x g for 5 min. 16:38 - 16:43  
+
+6\. Re-suspend cells in 5mL pre-warmed growth media to perform cell count.
+total 6mL  
+
+7\. Take 20uL aliquot and perform cell
+count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count= 74,412,000
+
+8\. Resuspend 2,450,000 cells (cell suspension of 0.19755 mL) in 60 mL Growth
+Medium and seed 2 x T175s
+
+9\. Transfered flasks into the incubator 17:02
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel ID passaged Seeded Flask ID(s)Seeded Flask Type  
+ 7453-F_DOLLY12-Sheep P9-1of1  
+7650-F_DOLLY12-Sheep P10-1of2  
+7651-F_DOLLY12-Sheep P10-2of2  
+t175  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+Name
+
+Details (reagent ID)  
+  
+ Tryple  
+  
+dPBS  
+  
+Growth Medium  
+  
+  
+  
+
+

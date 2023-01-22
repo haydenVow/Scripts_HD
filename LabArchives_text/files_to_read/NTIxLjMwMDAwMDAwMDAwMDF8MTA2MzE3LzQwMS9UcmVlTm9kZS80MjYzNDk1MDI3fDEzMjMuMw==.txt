@@ -1,0 +1,62 @@
+
+
+Aim:
+
+To assess cell adhesion of DOLLY12 MuSCs on nanofibrous zein and gelatin
+scaffolds provided by Gelatex  
+
+# Hypothesis:
+
+DOLLY12 MuSC cells will adhere well (D1 proliferation) and maintain adherence
+to gelatex zein and gelatin scaffolds at seeding densities of 0.7, 1 and 2M
+cells/sample (96-well size pieces) after 7 days in ACF E6 differentiation
+media.
+
+# Technical Gap:
+
+In previous experiments we have seen good cellular adhesion (DOLLY12 MuSCs) to
+our in-house zein scaffolds immediately following cell seeding in serum
+containing media and ACF media (see here). However, we have not yet tested
+gelatex zein scaffolds, or gelatex gelatin scaffolds.
+
+
+
+
+DoE Full Factorial Design:
+
+12 conditions (n=4) = 48 samples
+
+Categorical factor = scaffolds (zein or gelatin)
+
+Categorical factor = scaffold wetness (wet or dry)
+
+Continuous factor = seeding density (0.7M, 1M or 2M per scaffold)
+
+0.7M (n=16) = 11.2M
+
+1M (n=16) = 16M  
+2M (n=16) = 32M  
+  
+= 59.2M total ACF cells needed (+ room for error = 63M)  
+  
+  
+
+  
+
+Extras samples will include serum controls seeded at 1M each:  
+Gelatin, Wet (n=4)
+
+Gelatin, Dry (n=4)
+
+Zein, Wet (n=4)
+
+Zein, Dry (n=4)
+
+= 16 total serum control samples = 16M cells needed. (+room for error = 19M)
+
+Plate maps  
+  
+
+  
+
+

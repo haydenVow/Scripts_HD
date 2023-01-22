@@ -1,0 +1,131 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ] DMEM/F12 + 1X P/S
+  * [ ] E8
+  * [ ] E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids
+  * [ ] E810C
+
+Total media required: 5mL of each
+
+
+
+
+Culture IDs to feed
+
+Vessel ID  
+Media Type  
+Vessel Type  
+  
+6684-DOLLY12-Sheep P9-1of5  
+Serum-containing media  
+T25  
+  
+6685-DOLLY12-Sheep P9-2of5  
+DMEM/F12 + 1X P/S  
+T25  
+  
+6686-DOLLY12-Sheep P9-3of5  
+E8  
+T25  
+  
+6688-DOLLY12-Sheep P9-4of5  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids  
+T25  
+  
+6689-DOLLY12-Sheep P9-5of5  
+E810C  
+T25  
+
+
+  
+  
+Process:
+
+1\. Aliquotted  5 mL  mL of each Growth Media condition into  5x 15 mL
+tube(s). Placed in water bath 13:53
+
+2\. Removed  100  % of supernatant from vessel.
+
+3\. Replaced with  5 mL (per vessel) of  Growthmedia.
+
+  1. 6684-DOLLY12-Sheep P9-1of5 (INTO Serum-containing media)
+  2. 6685-DOLLY12-Sheep P9-2of5 (INTO DMEM/F12 + 1X P/S)
+  3. 6686-DOLLY12-Sheep P9-3of5 (INTO E8)
+  4. 6688-DOLLY12-Sheep P9-4of5 (INTO E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids)
+  5. 6689-DOLLY12-Sheep P9-5of5 (INTO E810C)
+
+4\. Returned vessel to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 77 ), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6684-DOLLY12-Sheep P9-1of5 (INTO Serum-containing media)
+  2. 6685-DOLLY12-Sheep P9-2of5 (INTO DMEM/F12 + 1X P/S)
+  3. 6686-DOLLY12-Sheep P9-3of5 (INTO E8)
+  4. 6688-DOLLY12-Sheep P9-4of5 (INTO E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100 concentrated lipids)
+  5. 6689-DOLLY12-Sheep P9-5of5 (INTO E810C)
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Growth Media (Serum containing) A4838  
+  
+Growth Media (No FBS)  
+M4811  
+  
+E8M4812  
+  
+E8 10C  
+  
+  
+  
+E8 + 5ng/mL PDGF + 7mM IGF-LR3 + 1:800 Protease inhibitor cocktail + 1:100
+concentrated lipids
+
+M4829  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

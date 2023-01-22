@@ -1,0 +1,183 @@
+Methods and Experiment Layout
+
+
+Performed By: Alex, Varshana and Jesi D
+
+
+
+
+Experiment Layout
+
+We will seed 1 plates (include plate dimensions here) containing tissue
+engineering moulds with 12 tissues, at a single cell density (5M cells per
+mL), and we will mature the tissues for XXXX days).
+
+  
+
+  
+1 23  
+A  
+Condition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1Condition A  
+9% Matrigel in tissue gel matrix  
+Replicate2  
+Condition A  
+9% Matrigel in tissue gel matrix  
+Replicate3  
+  
+BCondition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition B  
+6% Matrigel in tissue gel matrix  
+Replicate 2  
+Condition C  
+3% Matrigel in tissue gel matrix  
+Replicate 2  
+  
+CCondition A  
+9% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition B  
+6% Matrigel in tissue gel matrix  
+Replicate 3  
+Condition C  
+3% Matrigel in tissue gel matrix  
+Replicate 3  
+  
+DCondition D  
+0% Matrigel in tissue gel matrix  
+Replicate 1  
+Condition D  
+0% Matrigel in tissue gel matrix  
+Replicate 2  
+Condition D  
+0% Matrigel in tissue gel matrix  
+Replicate 3  
+  
+  
+  
+
+Figure 1. Tissue engineering mould plate layout for experiment 3  \-  There
+are 4 conditions with 3 tissue replicates per plate. The testing gel matrix
+conditions are the same in each plate. However, plate one will be cultured in
+50:50 RPMI:Hycell+ Nuvonis growth medium, and plate 2 will be cultured in
+DMEM/F12+10%FBS
+
+  
+
+
+
+
+Before Starting Ensure:
+
+  * Matrix reagents are made up fresh:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~  1705.2uL total (make 3 mL)
+        * 1264uL Collagen added to 1736uL autoclaved milliQ 
+    * Matrigel is thawed in the fridge (no more than 10degs) first thing in the morning to maintain as liquid
+    * Reagents have been sterile-filtered
+  *  ~~Agar is autoclaved first thing in the morning and maintained on the hotplate to keep molten (or a small, high temp Sous Vide bath)~~
+
+
+
+
+Scaffold mounting, sterilisation and coating
+
+  1. Make up 10ml PDMS per dish
+  2. Add 9ml of PDMS into 15cm dish, spin coat for 3-5 seconds per dish
+  3. Mount mould into PDMS
+  4. Heat for 45mins at 60degs to set moulds into PDMS
+  5. Place in 70% Ethanol overnight    22/06/2022  
+  6. Using forceps, dry dishes in BSC until no ethanol remains 10:15 
+  7. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start   11:15 -12:15
+  8. Pre-coat with 0.25% Pluronic solution for 1 hour (to prevent adhesion), start  12:20
+
+
+
+
+Preparation for Harvest
+
+  1. Prepare 1 falcon tube for cell harvest for 4 conditions of different Matrigel concentrations 
+  2. Completed calculations can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=561508067
+  3. Media preparation for harvest and seeding: 50-50 RPMI/Hycell mix
+    1. Aliquot 13mL of 50-50 RPMI/Hycell  growth medium (GM) and add growth factors (concentration listed in the E8 Calculator)
+    2. Aliquot 13mL of  DMEM/F12+10%FBS 
+
+Cell Harvest for mould seeding - Nuvonis suspesion protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+    1. Total yield flask #12589 =    440 million   
+
+    2. Total volume per flask #12589 =    134.35mL  
+    3. Cell concentration # =     3.26M cells/mL  
+  3. Aliquot cell suspension from the culture flask into 1x falcon tubes:
+    1.    15 M cells /mL  = 63M    cell total required for experiment (24 tissues across 2x plates). Thus, we need to aliquot a cell suspension total volume of =    19.325mL  # into a 50mL falcon tube.
+    2. Take a 10uL aliquot and perform a manual cell count using a hemocytometer. and record in the cell count spread sheet. 
+      1. Total cell count (in 19.3mL GM) = 52,032,800  cells at 2.696 M  cells/mL
+  4. Centrifuge at 650g for 5 minutes: start  15:28 - 15:33 
+  5. Resuspend pellets in   600uL of 50-50 Media 
+  6. Then measure out exactly how much the cells has increased the volume by using the P1000.
+  7. Top up the cell suspension to  1843.8uL 
+  8. Aliquot the respective volumes of cell+media needed per condition.  
+    1. 9% Matrigel: 413.7 uL
+    2. 6% Matrigel: 445.2 uL 
+    3. 3% Matrigel: 476.7 uL
+    4. 0% Matrigel: 508.2 uL 
+  9. Proceed to matrix additions below. 
+
+  
+
+# Matrix formation for scaffold seeding - 4 Matrigel conditions (6
+tissues/condition)
+
+  
+
+Figure 2. Diagram of the step-by-step procedure for creating the cell matrix.
+
+N.B. Repeat this gel formation for each Eppendorf tube at the same time - i.e.
+Add Collagen to all, then add DMEM to all etc. - BUT be sure to move quickly!
+
+  1. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending):
+    1. Collagen I volume to add =     426.3uL  
+  2. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =    51.45iL  
+  3. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =    64.05uL  
+  4. Add Matrigel and mix with stripette:
+    1. Matrigel volume needed to each (for each condition)
+      1. 9% Matrigel  94.5uL  
+      2. 6% Matrigel  63uL  
+      3. 3% Matrigel  31.5L  
+      4. 0% Matrigel   0uL 
+  5. Remove pluronic from wells
+  6. Seed    150uL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well. 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    16:58 -18:00 pm  
+  8. Add     ~13 mL   50-50 Media to entire dish, ensure entire mould is covered. 
+  9. Culture at 37°C overnight before checking.   
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+
+
+
+Results
+
+  * Tissues were observed ~45 minutes after placing in the incubator from 4:58 PM - 5:50 (23 JUN. 2022).
+    * There was preliminary evidence of tissue formation in all the wells. 
+  * Tissues were observed ~24 hours after placing in the incubator (10:00AM 24 JU. 2022) 
+
+

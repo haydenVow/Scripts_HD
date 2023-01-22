@@ -1,0 +1,207 @@
+
+
+## Performed by: kk  
+
+
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T1757585-DOLLY12-Sheep P9-1of7  
+7586-DOLLY12-Sheep P9-2of7  
+7587-DOLLY12-Sheep P9-3of7  
+7588-DOLLY12-Sheep P9-4of7  
+7589-DOLLY12-Sheep P9-5of7  
+7590-DOLLY12-Sheep P9-6of7  
+7591-DOLLY12-Sheep P9-7of7  
+1 x 4CF  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### DID NOT PERFORM PASSAGE. see observation section below
+
+###  
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated    1      x    4CF   and 1 x 2CF   vessel  with sterile
+filtered 0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+(Note there should already be flask coated in the fridge )
+
+  1. Time when all vessels(s) placed into the incubator       9: 22  am 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:      70   mL 
+  2.  dPBS (At 37 degrees for washing):     70    mL 
+  3.  dPBS (at RT neutralising):    70     mL
+  4. Growth media (for pellet resuspension):     7    mL in         tubes
+  5. Growth media (for seeding):      1000   mL in         tubes
+
+Time that all aliquots were placed in the water bath the warm before use     :
+a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     :   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     :   a/pm 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a
+tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     :   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in         mL          media     :   a/pm
+
+11\. Aliquoted          of resuspended cells into a microcentrifuge tube for
+cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+
+
+
+13\. Transferred           µl of cell suspension to the pre-warmed
+mL Growth media:      :    a/pm
+
+14\. Transferred cell suspension into the             pre-gelatin coated
+vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      :  \-  :
+a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells) thermo incubator
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution  
+  
+Tryplea4613  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Mediam5921, 5920,  
+  
+p38i (20mM stock)m5607  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Did not see many cells observed in the 7 x T175. Saw a few dead cells floating
+in the flask. It is expected that majority of the cells were dead or did not
+attached during the thaw. On Wednesday during the 100% media change, majority
+of the dead cells (round cells held in suspension) would have been removed.
+However, Kylie did not take images of the flask that day and only performed
+the feed so therefore we can only assume that this was the case.
+
+  
+
+  
+
+
+
+
+SOPs used:na
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable): see observation section  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

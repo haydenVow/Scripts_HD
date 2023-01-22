@@ -1,0 +1,44 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/21535/epic21535-fibroblast-suspension-
+microfluidic-cell-separation-experiment-1  
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recoJkKGn2LlRulnG?blocks=hide
+
+RELATED TO MILESTONE:  PPP Q3 KR3 Achieve a biomass doubling time of less than
+24h and final biomass of 10g in a 2L bioreactor in ACF
+
+AIM/PURPOSE: To design, fabricate and test microfluidic devices for the
+continuous separation of different sized particles in culture broth. This is
+an essential technology for both perfusion and harvesting of our fibroblast
+cells.
+
+HYPOTHESIS: That microfluidic devices can be made to exploit differential
+inertia of particles in a mixture, and thereby separate particles of different
+size and/or density.
+
+RESULTS SUMMARY: This should only be completed if the data can be visualised
+with a single graph/image, otherwise simply state "See Report".
+
+CONCLUSIONS: What were the overall findings? This should be a concise summary
+and not duplicate the information in the results/report. For example "We found
+that Bovine MuSCs could only achieve a cell density 50% of that observed with
+planar culture without undergoing precocious differentiation. These results
+mean that we are currently limited to X cells/ml in suspension culture until
+we find a way to inhibit precocious differentiation"
+
+NEXT STEPS: This should be a dot point list of any immediate outcomes, changes
+to SOPs, as well as providing a direct link to any new experiments arising
+from these findings. Importantly, this section should also include any
+potential DEPLOYMENTS to the production team
+
+

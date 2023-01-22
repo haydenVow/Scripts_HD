@@ -1,0 +1,123 @@
+Introduction:
+
+
+Protein is an essential and attractive component of meat. In cultured meat
+applications, mature muscle forms the building blocks for many potential
+products being brought to market. Hence at Vow, one of our key areas of
+research is increasing the capability of our myoblasts to differentiate and
+mature into strong networks of mature muscle. In conjunction to specific
+antibody-capture methods, the increase in protein from maturing our cells
+could be an important metric - especially in the wider context of product.
+
+The Bradford assay is a colourimetric protein assay that hinges of the colour
+change of it's active reagent Coomassie Brilliant Blue. This dye binds to the
+carboxyl and amino groups of a protein, thus causing the dye to shift from a
+cationic state (brown/red) to an anionic state (blue). This colourimetric
+change is observed at 595nm. The increase in absorbance at 595nm is
+proportional to the concentration of protein content in the sample. In order
+to extract the concentration of the sample of interest from the Abs values, a
+standard curve must be constructed using known concentrations of a protein. A
+standard curve is constructed using dilutions of a BSA standard (1 - 2000
+ug/ml) and used to determine the concentration of the unknown. The Bradford
+assay can only be used for this particular range and hence unknown samples
+must be diluted till a concentration of protein in this range is achieved.
+
+The assay can be conducted using a microplate format (e.g. 96 well plates) or
+on a larger scale using cuvettes.
+
+  
+  
+  
+Image 1: The mechanism of the Bradford assay.
+
+
+Advantages/Disadvantages:
+  
+  
+Advantages:
+
+  * Direct analysis, reagent is added and a change is observed.
+  * Very little non specific absorbance if Bradford blank is used.
+  * Reagent is cheap compared to other precise quantification kits.
+  * Sensitive from 1 - 2000 ug/ml of protein.
+
+Disadvantages:
+
+  * Unable to be used with lysis buffers and detergents as CBB reacts with these.
+  * Not precise for maturation markers such as MyoG and myosin heavy chain II.
+  * Coomassie Brilliant Blue is only sensitive for proteins containing arginine, lysine and histadine [1] and hence proteins such as gelatin and collagen aren't sensitive to this assay.
+
+
+Protocol:
+
+
+Freeze-thaw lysis method:
+
+  * Aspirate E6 from wells of interest and wash multiple times with PBS to remove serum proteins. Ensure the last wash contains a small amount of PBS to ensure a concentrated lysate.
+  * Foil seal the outer edges of the plates twice.
+  * Transfer the plate to a LN2 bath for 3 minutes.
+  * Thaw in water bath for 3 minutes.
+  * Repeat freeze/thaw cycle three more times.
+  * Ensure cell lysis loading lysate under haemocytometer slide.
+
+Bradford protocol:
+
+  * Transfer lysate to microcentrifuge/falcon tubes and centrifuge at 650g for 5 mins.
+  * Make up a 2000 mg/ml solution of BSA and perform dilutions of this standard in a non-treated 96 well plate. The dilutions are as follows: 2000, 1500, 1000, 750, 500, 250, 125, 25 ug/mL. Perform dilutions using water or PBS as the diluent.
+  * Add 250uL bradford reagent to a new set of wells underneath the standard dilutions.
+  * Add blanks and Bradford reagent to seperate wells (to normalise signal against).
+  * Add 5uL of the sample to each of the corresponding wells containing Bradford reagent.
+  * Mix well with P200 pipette and spin plate down for 5 mins to remove bubbles (5 min incubation time).
+  * Read at 595nm using plate reader.
+  * Aspirate 100uL of supernatant from the cell lysate solution and transfer seperate wells on the 96 well plate. Keep cold by placing on ice.
+  * Perform dilutions of the unknown (1:2, 1:10, 1:50, 1:100) 
+  * Add 250 uL of Bradford the a new set of wells in triplicate - then add 5uL of dilution to each of these.
+  * Read at 595nm using plate reader.
+
+
+  
+Image 2: A typical microplate format for the Bradford Assay. Note the
+colourimetric change observed from the binding of CBB  
+  
+  
+
+
+Analysis:
+
+
+Data analysis:
+
+A CSV file will be generated from the plate reader containing:
+
+  * The absorbances of the standard BSA dilutions including the Bradford blank (0 - 2000 ug/ml) (averaged)
+  * The absorbances of the PBS/water blanks (averaged)
+  * The absorbances of the unknowns and it's corresponding dilutions (averaged)
+
+Using these absorbances,
+
+  1. Construct a standard curve from 0 - 2000 ug/mL with Abs on the y-axis and concentrations on the x - axis
+  2. Construct a trendline for the linear trend and record the equation and R squared of linear regression.
+  3. Using the equation, substitute the Abs value for the unknown dilution of interest to obtain the protein concentration for that particular dilution.
+  4. Back calculate to find the concentration of the cell lysate
+  5. Use the volume of cell lysate to obtain the ug of protein in the cell lysate.
+
+  
+
+This has been automated in the form of a Python script - contact Shaleen
+regarding it's use.
+
+
+  
+  
+Image 3: A standard curve and linear regression trendline generated for the
+Bradford assay.
+
+
+References:
+  
+  
+[1]: Bradford, M. M. (1976). A rapid and sensitive method for the quantitation
+of microgram quantities of protein utilizing the principle of protein-dye
+binding. Analytical biochemistry, 72(1-2), 248-254.
+
+

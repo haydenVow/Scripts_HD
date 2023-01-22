@@ -1,0 +1,49 @@
+  
+  
+Lipid meeting with Anna (CTO @Nourish)
+
+Relevant lipid types:
+
+  * Polyunsaturated fatty acids are more stable overall than triglycerides to the maillard reaction. Therefore it is more ideal to have this in our cells phospholipid layer. The amount of it will influence the melting point and cooking behaviour 
+    * However, polyunsaturated fatty acids eg Omega6 have ability to generate more volatiles compared to monounsaturated and saturated fatty acids. This is because the double bonds become unstable during the maillard reaction, with each double bond being hydrolysed during cooking, creating five carbon chain volatiles. (eg arachidonic acid 20:4 contains 4 double bonds > 4 x 5 carbon chain). These volatiles can react with certain peptides and generate aroma/flavour . 
+  * Triglycerides are prone to lipases and break down easier to generate off flavours and aroma (generates more volatiles, double bonds become unstable eg ARA C20.4). They do however contribute to texture and therefore we may need it in our cells. Would hard fat containing triglycerides that are solid at room temperature and melt at 45 degrees. Able to achieve through genetic engineering of our cells.   
+  * Other notes on lipids 
+    * The higher the saturation, the greater the melting point. In hard fats, we would want 18:0, 18:1. Would not want 16:1 or unsaturated fats as this would make the fats fluid.  
+    * Interested in arachidonic acid - these are present in our samples at 12%, similar to commercial meat.Arachidonic acid is associated with meat aroma.
+    * LCMS - required for checking location of double bonds or structure of lipids. --> Wouldn`t this rather be done using NMR or crystallography?
+    * Omega 3 - associated with off flavour notes (fish notes)
+    * https://www.sciencedirect.com/science/article/abs/pii/S0308814698000764
+
+  
+
+Lipid in our sample observed in Tim/Ellen`s run
+
+  * TLC - more phospholipids than triglycerides and also saw free fatty acids and diglycerides in samples sent 
+    * Diglycerol (pre-cursor of triglyceride) - not much influence on aroma or nutrient
+
+\--> How to influence lipid percentage in cells  
+
+  * modify media nutritional compounds to trigger accumulation of particular fatty acids of interest  \- Feed cells arachidonic acid, oleic, stearic acid 
+  * Oleic acid = 18:1 - mammalian cells are known to feed on this during starvation, therefore accumulate these for survival purposes. Worth seeing if total lipid content increases with addition of oleic 
+  * Fermentation conditions (more relevant to yeast, may not be suitable for mammalian) - reduce O2
+  * Genetic Engineering = Knockout genes to remove certain fatty acid generation or overexpress certain genes involved in fatty acid synthesis 
+
+  
+
+Next steps:
+
+  * Can send samples to nourish for analysis comparison with yeast and fungal strand - would require 100mg of cells
+  * Able to send 50 mg of some samples to nourish to understand composition and content, or fractionation of phospholipids and triglycerides.     
+  * Best starting point - look into phospholipid composition in terms of molecular species and fatty acid content, which will help determine amount of cells required for product for meat aroma 
+    * look into molecular species to define if phospholipid is in the SN1 or SN2 position for cells vs meat (assist with FSANZ enquiries)
+  * Headspace analysis
+    * GC - MS allows for volatiles to be captured during heating/baking 
+    * Nourish developing database on fingerprint of different meats to assist in eng-development in their yeast 
+    * Therefore, headspace works better when the samples are heated as required volatiles are immediately captured, rather than sending a heated sample for analysis (this is less effective as you would lose most volatiles generated) 
+    * Suggest to do headspace analysis on the best performing maillard samples to check that the polyunsaturated lipids are generating the right volatiles during the cooking process. (See if proteins and fats are working together to generate volatiles of interest in the maillard samples) 
+    * Worth looking into different temperatures as well on the types of volatiles generated 
+  * Check cholesterol and ergosterol content for health/nutrition purpose 
+    * Waxes also influence texture, but cannot be used in high quantities and would have to be regulated
+  * Build database to see what is present in commercial meats to compare with our cells 
+
+

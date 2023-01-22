@@ -1,0 +1,123 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+Background
+
+
+Suspension adaptation experiments have so far been performed as "one variable
+at a time" (OVAT) experiments at Vow. However, there are many factors that
+contribute to suspension adaptation, and these factors often have significant
+interactions, so an experiment with a statistically powerful fractional
+factorial design can screen for the ideal conditions for suspension adaptation
+much faster than OVAT experiments can. Here we attempt a definitive screening
+design (DSD) to identify key factors influencing the success of suspension
+adaptation. Adherent fibroblast cells from 2 different species were cultured
+in suspension in different media over 4 weeks. The cultures were fed (90%
+medium change) and samples taken twice per week. The samples analyzed by
+fluorescence microscopy and image analysis to determine the live and dead cell
+counts in each culture. Adherent cells begin to proliferate after 3 weeks if
+they have successfully adapted to suspension, and this proliferation can be
+detected by live/dead cell counting.
+
+
+Key result
+
+
+  * No cells were adapted to suspension
+  * F_NANDO3 total cell counts were consistently higher than F_DOLLY12 cell counts
+  * Increasing the concentration of anti-clumping agent lead to a decrease in total cell count 
+  * Most cultures were terminated at day 28 due to persistently low cell counts
+  * The remaining 12 cultures (triplicates from 4 conditions) were terminated at day 42 due to persistently low cell counts
+
+
+Results and Discussion
+
+
+On day 28, most of the cultures were terminated due to low cell counts. The 4
+cultures with the highest total cell counts continued for a further 14 days,
+then these were also terminated due to low cell counts. Some F_NANDO cultures
+appeared to pickup after day 14, however these all failed by day 42
+
+The time series of total (live + dead) cell counts (as cells/mL) for each
+condition were compared by two-way ANOVA and a Fisher's LSD test was performed
+(see Results and Data Analysis lab book entry) in order to detect any
+significant difference between the conditions. The analysis revealed no
+significant difference for any condition across more than 50% of the time
+points when the condition was compared to the DMEM/F12 + 10% FBS condition.
+The total cell count data were analyzed using JMP at day 3 (Table 1) and day
+28 (Table 2) (See JMP DSD Analysis and Results). A significant main effect for
+cell line (F_NANDO3 cell counts were higher than F_DOLLY12) and concentration
+of anticlumping agent (cell counts increased as concentration decreased) were
+observed at both time points.
+
+The conditions tested were not appropriate for adaptation of F_DOLLY12 or
+F_NANDO3 cells to suspension. It is unclear as to why this, though important
+variables include:
+
+  * Basal medium - CD CHO has been shown to be better than others for adapting F_DOLLY12 to suspension, as per EPIC22586
+  * Culture vessel and hydrodynamic conditions - E125 flasks have been shown to be better than 50 mL bioreactor tubes for adapting F_DOLLY12 to suspension, as per EPIC25749
+  * Species - F_DOLLY12 has been shown to more readily adapt to suspension than other species tested, as per EPIC22586 and EPIC25749
+
+  
+
+Figure 1: Time series of total (live + dead) cell counts (as cells/mL) over
+the course of the suspension adaptation for: (a) F_DOLLY12 cells; and, (b)
+F_NANDO3 cells. All data points represent means of 3 replicates, all error
+bars represent standard error of the mean (SEM).
+
+  
+
+Table 1: Tornado plot of comparison of cell counts from day 3.
+
+  
+
+Table 2: Tornado plot of comparison of cell counts from day 28.
+
+  
+
+
+Limitations
+
+
+  * Lack of F_NANDO3 WCB vials meant that not enough cells were available to seed those cultures at the same concentration as the F_DOLLY12 cells
+  * At the same time as this experiment was ongoing, it was found that Erlenmeyer flasks are better than 50 mL tubes for adapting F_DOLLY12 cells to suspension as per EPIC22586 and EPIC25749
+  * Sporadic appearance of fluorescent debris in Hoechst-stained samples prevented counting of samples on days 17, 21, 24 and 31.
+  * The count of green fluorescent cells (dead) was often greater than the count of blue fluorescent cells (live + dead), making the calculated viability unreliable
+
+
+Conclusions
+
+
+The conditions tested were not appropriate for adaptation of F_DOLLY12 or
+F_NANDO3 cells to suspension. However:
+
+  1. F_NANDO3 appears to survive better than F_DOLLY12 during suspension adaptation
+  2. Anti-clumping agent appears unnecessary for suspension adaptation
+
+
+Future directions
+
+  * Identify and fix the cause of the blue fluorescent debris that interferes with total cell counting - see EPIC26777
+  * Use E125 flasks and discontinue use of 50 mL bioreactor tubes for suspension adaptation of F_DOLLY12
+  * Discontinue suspension adaptation of F_NANDO3 due to lack of WCB vials
+  * Discontinue use of anti-clumping agent
+
+

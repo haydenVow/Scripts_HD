@@ -1,0 +1,121 @@
+
+
+Perform feed using below volumes:  
+
+  
+
+
+
+
+## Feed performed by:  
+
+
+
+
+Feed Information  
+
+Vial ID thawedSeeded Flask ID(s)Medium  
+Seeded Flask TypeVessel location (weekend only)  
+  
+2315-Culture-6303-Vial-36of115 , 2316-Culture-6303-Vial-37of115  
+  
+8743-F_DOLLY12-Sheep P8-1of2  
+D/F+10%FBS+1XP/S  
+T25120 Ralph St-Main Lab-Sanyo Incubator 3  
+  
+8744-F_DOLLY12-Sheep P8-2of2  
+  
+8745-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(og)  
+  
+8746-F_DOLLY12-Sheep P8-2of2  
+  
+8747-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(newRICHCORE)  
+  
+8748-F_DOLLY12-Sheep P8-2of2  
+  
+8749-F_DOLLY12-Sheep P8-1of2  
+E8_9C+rHA(AKRON)  
+  
+8750-F_DOLLY12-Sheep P8-2of2  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (Reagent ID)Volume used (mL)  
+  
+DMEM/F12 + 10% FBS + 1X P/S
+
+Mix  
+  
+  
+ E8Mix  
+  
+  
+Recombinant Human Albumin (original)  
+  
+  
+  
+Recombinant Human Albumin (r HA NW20) (Richcore)  
+Stock 3204  
+  
+  
+Recombinant Human Albumin (AKRON)  
+Stock 3856  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Imaged 4X T25s, 2x each at 10X magnification.
+  2. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use:
+    * Growth media:
+      1. 11 mL x D/F + 10%FBS + 1xP/S  
+
+      2. 30 mL x E8_10C
+    * Time that all aliquots were placed in the incubator to warm before use  :     
+
+  3. Collected 4X T25s from incubator, wiped with ethanol-sprayed Rediwipe, and brought into a BSC.
+  4. Removed   100 % of supernatant from vessel. 
+  5. Replaced with  5 mL (per T25 vessel) of each respective media. 
+  6. Returned vessel to incubate at: 15:02
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Incubator (# 120 ), Lab [Main/Library/Production]
+
+
+
+
+### Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Links to mia capture for each flask:
+
+  * 8743: https://mia-capture.vow.tools/#/session/recPgoEgVNeMMI77e/images
+  * 8744: https://mia-capture.vow.tools/#/session/recrPPakyJ9wCzEBX/images
+  * 8745: https://mia-capture.vow.tools/#/session/recj2gXSkFdy3ueHX/images
+  * 8746: https://mia-capture.vow.tools/#/session/rec4FdNhvGNs4YldA/images
+  * 8747: https://mia-capture.vow.tools/#/session/recKNFExY2qbTVuB1/images
+  * 8748: https://mia-capture.vow.tools/#/session/recsYmEuf1PWhOFQX/images
+  * 8749: https://mia-capture.vow.tools/#/session/recOvMPD0Cju6iW7e/images
+  * 8750: https://mia-capture.vow.tools/#/session/recYwQM9Pq9dDUaZP/images
+
+

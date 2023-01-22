@@ -1,0 +1,60 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+At the completion of any EPIC please do the following:  
+1\. Ensure all sections of this page are complete  
+2\. Email a link to this page to the project leader  
+3\. Project leaders will then review all information and digitally sign this
+page (click the screwdriver and wrench icon in the top right of this page)  
+4\. Project leaders should then send a link to the signed page to James Ryall
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/26265/epic26265-24-deep-well-plates-
+protocol-and-sterility-testing
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwqEYUeUXiOogFYw/rec4eaoBCLNw0Ch3S?blocks=hide
+
+RELATED TO MILESTONE:  
+
+## KR1: Develop a QMS-compliant serum-free media that supports 20+ doublings
+of our chosen species in suspension
+
+KR4: Establish and run a suspension pipeline at a rate of 10,000 clones per
+month.
+
+AIM/PURPOSE: To develop a OT2 protocol for feeding a 24 deep well plate and
+maintain sterility during this process.
+
+HYPOTHESIS:
+
+We can successfully perform a 100% feed of a 24 deep well plate on OT2.
+
+Using adhesive covers for a 24 deep well plate will allow us to maintain
+sterility.
+
+RESULTS SUMMARY:
+
+An OT2 protocol for performing a 100% feed of a 24 dwp was successfully
+developed. No contamination was observed as adhesive covers were used for
+covering the 24 dwp.
+
+CONCLUSIONS: The hypothesis was supported.
+
+NEXT STEPS:
+
+24 dwp should be secured down onto shakers using clamps (EPIC27984)
+
+Test shaking of 24 dwp and 96 wp on a shaker with larger orbital diameter
+(EPIC27984).
+
+Compare suspension adaptation of cells in 24 dwp versus 50 mL shake tubes
+versus E125 flasks (EPIC27984).
+
+

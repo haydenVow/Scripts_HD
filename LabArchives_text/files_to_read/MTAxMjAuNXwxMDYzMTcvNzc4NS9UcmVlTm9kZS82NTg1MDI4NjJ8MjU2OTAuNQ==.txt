@@ -1,0 +1,138 @@
+
+
+The purpose of this test is to identify whether our ZIC1 primer pair for guide
+2 is able to amplify the intended section of DNA we're targetting using the
+annotated Crocodylus porosus genome. We have had some unusual results with our
+ZIC1 primer sets which have not given us confidence that this primer set is
+able to give us a consistent amplified sequence. Sequencing on PCR products
+using these primer sets have been returned 'messy' (with multiple sequence
+signals) by AGRF. Here we are using our old and a new primer set for ZIC1 as
+we suspect the old primer set ordered back in January may be defective.
+
+  
+GC enhanced primer testing for ZIC1
+
+Primer pair master mixes used for experiment. New primer 10uM solutions were
+made from stocks for this experiment, These 10uM solutions were then used for
+the experiment below.  
+
+1\. P27 + P28 (both sourced on 18th of Jan)
+
+2\. P27 and P28 (both sourced on 5th of Apr)
+
+3\. P27 (18/1/22) + P28 (5/4/22)
+
+4\. P27 (5/4/22) + P28 (18/1/22)
+
+Sample  
+Primer Mastermix  
+DNA sample  
+  
+1  
+1  
+WT CHOMP  
+  
+2  
+2  
+WT CHOMP  
+  
+  
+3  
+3  
+WT CHOMP  
+  
+  
+4  
+4  
+WT CHOMP  
+  
+  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+Removed a frozen cell pellet of CHOMP07 cells from the -20 freezer in the main
+lab.
+
+Thawed a 10mL aliquot of QuickExtract then resuspended the cell pellet in
+200uL of QuickExtract mix. Aliuoted 25uL of suspension into 8 PCR tubes and
+placed them in the bentolab thermocycler then ran the following protocol.
+
+\- 65 degrees C, 5 minutes
+
+\- 98 degrees, 120 seconds
+
+DNA extractions were moved to the fridge in main lab at 4 degrees, labelled as
+Wild type (WT) CHOMP. One tube of DNA extract was used for the reactions
+below.
+
+  1. Made up a master mix for 2x reactions for primer master mixes outlined above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent   
+ 1x volume (uL)  
+  
+5x Q5 buffer  
+6  
+  
+10mM dNTP  
+0.6  
+  
+Primer 1 (10uM)  
+1.5  
+  
+Primer 2 (10uM)  
+1.5  
+  
+Q5 GC enhancer (OPTIONAL)  
+5  
+  
+MilliQ  
+10.1 (+5uL if no GC enhancer is added)  
+  
+high fidelity Q5 polymerase  
+0.3  
+  
+  2. Obtained 0.2 mL PCR tubes
+  3. Added 25μl of respective primer MM to each sample tube as per the table further above.
+  4. Added 1μl of wild type CHOMP07 DNA extract to each tube, added 4uL of MilliQ to each tube to make a total reaction volume of 30uL.
+  5. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  6. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE). 
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  7. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below 
+    1. Ladder
+    2. sample 1
+    3. sample 2
+    4. sample 3
+    5. sample 4
+
+  
+
+
+
+
+## Results
+
+  
+
+Primer combo P27 (5/4/22) and P28 (18/1/22) produce the desired banding.  
+  
+P28 (5/4/22) and P27 (18/4/22) primers Do not produce desired banding in any
+combination.
+
+
+
+
+
+
+
+## Observations
+
+The Quick extract DNA sample used of CHOMP 07 was quite viscous, as a result
+it was difficult to tell if 1uL was pipetted, some volumes of DNA template
+added may be between 0.5 and 1uL.
+
+

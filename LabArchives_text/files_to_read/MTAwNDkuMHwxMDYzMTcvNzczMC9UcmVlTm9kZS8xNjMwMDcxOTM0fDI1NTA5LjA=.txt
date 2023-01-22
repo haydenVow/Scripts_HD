@@ -1,0 +1,49 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To perform a 12-factor DSD to determine the impact of 12 media ingredients on
+the growth of Nuvonis suspension cells
+
+
+Hypothesis
+
+
+We hypothesise that >1 ingredient at the levels tested will have a
+significantly positive impact on Y cell growth
+
+
+Technical Gap
+
+
+We have seen that Nuvonis cells can grow in a 90/10 RPMI/HyCell ratio +
+Nuvonis additives when supplemented with 3mg/mL yeast, 0.06mg/mL putrescine
+dihydrochloride and 0.0001mg/mL FGF-B. We want to try growing the cells in a
+100% RPMI mix (no HyCell) with a range of factors aimed to replace the lost
+HyCell nutrients.
+
+
+Method/Procedure
+
+
+  1. D0: Prepare working stocks of each factor 
+  2. D0: Perform media mixing on OT2 to generate media conditions. Mix control media conditions manually. 
+  3. D0: Add media to plates on OT2 and seed cells manually 
+  4. D0: Image plates on Zaber (phase, 5X)
+  5. D2: Image plates on Zaber (phase, 5X)
+  6. D5: Perform live/dead stain on OT2.
+  7. D5: Image plates on Zaber (phase + AF488 + DAPI, 5X)
+  8. D5: Run images through Mia Analysis macro for suspension cells 
+  9. D6: Export macro output to spreadsheets to determine cells/mL. Perform statistical analysis in Prism and JMP.  
+
+
+
+
+DSD Spreadsheet link:
+https://docs.google.com/spreadsheets/d/1srDpasBOfBNP7_oRWGPLc5JyhbgPHpxB5-fSKJ-c0QY/edit#gid=1593670137
+
+

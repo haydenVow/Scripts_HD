@@ -1,0 +1,105 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 15 mL
+
+Total p38i required: 7.5 uL
+
+Total bFGF required: N/A
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+E1256435  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquotted  15 mL  mL of  growth Media into  1     tube(s). Placed in water bath   16:55 - 16:08 a/pm 
+  2. Removed E125 flask from incubator 17: 06  
+  3. Tilted E125 flask and waited for microcarriers to settle.
+  4. Removed   50 % of supernatant from vessel. 
+  5. Replaced with  15 mL (per well/per vessel) of  growth   media. 
+  6. 4\. Returned vessel to incubate at: 17: 12 
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [X]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+E125 flask #6435
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Mediam424730 mL  
+ P38i (20mM stock)m39787.5 uL  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

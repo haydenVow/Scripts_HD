@@ -1,0 +1,97 @@
+
+
+## Completed by: Bec
+
+
+Aim/Purpose
+
+
+To assess whether the feeding schedule of BUFFY6 cells in differentiation will
+affect their regulation of MyoG (transcription factor expressed in myogenic
+differentiation) and production of myosin heavy chain (structural protein
+produced by fused muscle cells within myotubes).  
+To verify findings from Addy/Eva's experiments (See Report 1 and Report 2)
+
+
+Hypothesis
+
+
+That 100% feeds daily in E6 may be detrimental to myogenic differentiation, as
+seen in this experiment, and that differentiation can be enhanced with less
+regular feeds that replaced a smaller proportion of the supernatant (<100%).  
+This is also a training experiment for Andrew and Varshana, therefore this
+experimental design should allow both JRSs to become accustomed to MuSC
+culture processes including:
+
+  * Thawing MuSCs
+  * Seeing MuSCs evenly across culture-ware
+  * Feeding MuSCs with media containing 10uM p38i
+  * Harvesting MuSCs with Tryple
+  * Counting MuSCs on a hemocytometer
+  * Seeding MuSCs into multi-well plates
+  * Preparing E6 and 2% HS differentiation media
+  * Performing differentiation feeds in 96-well plates with a manual multi-channel pipette
+  * Fixing cells with Paraformaldehyde
+  * Performing the immunofluorescence staining protocol (permeabilising, blocking, primary antibody staining, secondary antibody staining, DAPI staining, washing)
+  * Imaging IF stained cells on the Zaber (3 fluorescent channels)
+  * Running image files through ImageJ macros (already designed and existing) - * PERHAPS SOME TROUBLESHOOTING HERE DEPENDING ON RESULTS
+  * Putting the qualitative data information into digestible graphs
+  * Publishing a report with an in depth discussion around the results, and a straightforward conclusion.
+
+
+Technical Gap
+Method/Procedure
+
+  1. [Experiment Plan]
+    * Get cells ready and grow them in growth media [Addy, Andrew, Varshana]
+      1. D-7 Gelatin-coating of 3 x T175 at 37 C for 1h 
+      2. Make up 90mL DMEM/F12 + 20% FBS + 1xP/S \+ 10uM P38i and warm it up in the water bath
+      3. Collect 1 cryovial of BUFFY6 WCB MuSC cells (1 vial contains 500K cells) and thaw by placing it in a foam floater in water bath (as per SOP)  
+
+      4. In the BSC, add 0.5ml of DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i growth media into the vial containing the thawed cells  
+
+      5. Add the vial containing the cells into 90ml of pre-warmed, fresh DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i growth media and mix using a pipette
+      6. Pipette 30ml into each of the T175 
+      7. D -6 Feed cells with 50% DMEM/F12 + 20% FBS + 1xP/S + 10mM P38i (always add P38i when media will be used). This is remove 15 of the 30 ml in each of the flasks and add 15 ml of fresh media.
+    * Passage cells and feeding [Addy, Andrew, Varshana] 
+      1. D -4 Gelatin coating of 6 x 96 wp at 37 C for at least 1h
+      2. Add trypLE to 3 x T175 and centrifuge
+      3. Aspirate the supernatant and resuspend the pellet in pre-warmed, fresh growth media
+      4. Cell count and aliquot the required volume to pre-warmed growth media so that each of the wells in the 96 wp has 640 cells/well
+      5. D -2 50% Feed cells with Growth media \+ 10uM P38i 
+    * Differentiation assay [Bec, Andrew, Varshana]
+      1. D0 Change the media to either E6 or DMEM/F12 + 2% HS according to the image below and fix plate day 0:   
+
+      2. Wednesday D1: Feed daily wells (3 x 96 wp)
+      3. Thursday D2: Feed all wells (3 x 96wp)
+      4. Friday D3: Feed daily wells (3 x 96wp)
+      5. Saturday D4: Feed all wells (2 x 96wp) and fix plate day 4 
+      6. Sunday D5: Feed daily wells (2 x 96wp)
+      7. Monday D6: Feed all wells (2 x 96wp)
+      8. Tuesday D7: Feed daily wells (1 x 96wp) and fix plate day 7
+      9. Wednesday D8: Feed all wells (1 x 96wp)
+      10. Thursday D9: Feed daily wells (1 x 96wp)
+      11. Friday D10: Fix plate day 10
+    * Fixing, staining, image, analyse protocol
+      1. Remove differentiation media
+      2. Wash 2 x with PBS
+      3. Fix with PFA 
+      4. Wash 2 x with PBS
+      5. Permeabilise with PBS/Triton (Triton is a detergent) 
+      6. Wash 2x with PBS
+      7. Block 
+      8. IF stain (antibody): primary stain with anti-MyoG and anti-MF20
+      9. Secondary antibody stain
+      10. Zaber imaging
+      11. Analysis (ImageJ macros)
+    * Write a report with conclusions
+  2. [Peer Review]
+  3. [Make amendments and Sign off] 
+  4. [Report writing (Draft)]
+  5. [Review & fill out Report (Full)]
+  6. [Ensure all lab books are complete & assign for review]
+  7. [Review Lab Books, results, report]
+  8. [Make necessary amendments and confirm with reviewer that experiment is complete
+  9. [Release note on Project Updates]  
+
+

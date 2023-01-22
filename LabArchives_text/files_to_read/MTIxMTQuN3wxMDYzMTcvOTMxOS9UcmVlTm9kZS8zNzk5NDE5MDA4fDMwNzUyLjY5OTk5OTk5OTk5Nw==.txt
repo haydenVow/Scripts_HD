@@ -1,0 +1,308 @@
+
+
+# Summary of Cultures
+
+Vessel type(s)Cell Density and Volume per tissueVessel Ranger ID  
+Expt. ConditionCulture ConditionGrowth media  
+Growth media location (weekend only)Growth Media ID  
+1x tissue disc scaffold mould in a deep Nalgene container per cultureCell
+Density: 40M cells / mL  
+Tissue gel volume: 25mL  
+0.2M NaOH  
+(harvested)(Gelation at 37C, 5%CO2)  
+ 37C 5% CO2  
+52 Ralph St I Main Lab  
+DMEM/F12 +1x P/S  
+\+ Glutamax (1:100)  
+ \+ 1:1000 IGF1  
+(1mL/L)  
+ and 1:5000 EGF (200uL/L)  
+  
+200mL used per culture  
+  
+ 175 Ralph St I 4C Fridgenot relevant  
+  
+  
+
+
+Experimental Plan
+
+
+  * Tissue disc matured for 7 days. 
+  * Tissue appears to have adequately formed, from a qualitative assessment of tissue structure and integrity. 
+  * We will thus perform a optimisation experiment to figure out the ideal approach to analysing this tissue structure via flow cytometry. 
+  *  ~~Tissues will now be characterised using a variety of methods which are outlinedhere. Given the fact there is only a single replicate per condition, we will be maximising the amount of analyses that we can perform on the tissue using technical replicates - different regions of the same tissue.~~
+    * This step will not be completed as this is a optimisation experiment
+
+Briefly, tissue discs cultured for experiment E will be separated for for
+tissue digestion. .
+
+Figure 1. Tissue preparation methods for tissue disc experiment D
+
+  
+
+Tissue Sample label details:
+
+Optimisation Plan
+
+  
+
+Digestion (TBD)Post centrifugation washCell count sampleStainn=  
+  
+  
+  
+PI+AV3  
+PI only3  
+AV only3  
+unstained3  
+  
+  
+  
+PI+AV3  
+PI only3  
+AV only3  
+unstained3  
+  
+  
+  
+PI+AV3  
+PI only3  
+AV only3  
+unstained3  
+  
+  
+  
+PI+AV3  
+PI only  
+AV only3  
+unstained  
+  
+  
+  
+PI+AV3  
+unstained3  
+  
+  
+  
+PI+AV3  
+unstained3  
+  
+  
+  
+Seed with D/F+10%FBS+GFs3x wells  
+  
+  
+  
+  
+  
+  
+  
+Reagents
+
+  * 84.9 mg of collagenase type 2(stk 7118, 265u/mg) 
+
+  
+
+  
+
+Count aliquot of cells given by cell supply
+
+Cell supply cell count via cellaca : 2.3M Cells/mL (77% Viability)
+
+  * 2.17mL of cell suspension aliquoted into 5mL tube (5M cells total) 
+    * Add 21.7uL of H2O2 (stk 3943) time 16:10
+  * 2.17mL of cell suspension aliquoted into 5mL tube (5M cells total)
+    * live control sample
+
+Weigh tissue: 6.2151g
+
+portions
+
+  1. 6mL 18:14- 18:26
+  2. scalpel digestion - 18:21
+  3. scissors does not dissasociate well 
+  4. 5 min incubation   
+  
+
+Optimisation of digestion (unchanged staining protocol)
+
+  1. original (lid of eppendorf tube to replicate mortar and pestle dissassociation) (~5 minutes during disassociation, 10 minutes on shaking plate, and 5 minutes during centrifugation)
+  2. 2 scalpels
+  3. scissors + small amount of collagenase
+  4. Reduce time in collagenase (mechanical digestion for .5-1minute)
+
+Optimisation of Staining (unchanged digestion protocol)
+
+  1. [original]: 5uL / 10uL (original) (<5M/mL)
+  2. TD unstained
+  3. TD PI only
+  4. TD Annexin V only
+  5. TD both
+  6. TD (0.3cm^2) treated with 1:100 Hydrogen Peroxide
+    1. unstained
+    2. PI only
+    3. AV only
+  7. Suspension culture
+    1. PI + AV
+    2. unstained
+  8. Suspension culture (0.3cm^2) treated with 1:100 Hydrogen Peroxide
+    1. PI + AV
+    2. unstained
+
+  2. [original]: 5uL / 10uL (original) (>5M/mL)
+
+  3. [half]: 2.5uL / 5uL
+
+Staining conditions:
+
+  1. TD unstained
+  2. TD PI only
+  3. TD Annexin V only
+  4. TD both
+  5. (0.3cm^2) treated with 1:100 Hydrogen Peroxide
+  6. Suspension culture PI + AV
+  7. (0.3cm^2) treated with 1:100 Hydrogen Peroxide
+
+QC of optimisation:
+
+  * Microscopy
+
+
+Reagent Details
+
+
+  
+
+ReagentConcentrationVolume (mL)Ranger ID  
+FACS Buffer  1% BSA, 2mM EDTA in PBS  
+50n/a  
+Collagenase T2 in DMEM/F12  
+750U/mL Collagenasw Type 2  
+15mL  
+  
+Paraformaldehyde in PBS  
+4%55mL alq 3080  
+dPBS1x250n/a  
+  
+  
+
+
+Methods
+
+
+Buffer Preparation
+
+Digestion Buffer 1 (100ml) -750U/mL Collagenase type II in DMEM/F12
+
+FACS Buffer -  1% BSA, 2mM EDTA
+
+Fixation Buffer -  4% Paraformaldehyde in PBS
+
+  
+
+Other preparation
+
+Turn on FACS machine and set up!!  
+
+  1. Prepare 6 labelled Eppendorf tubes for snap freezing
+  2. Prepare 1x labelled 6 well plates for initial PBS wash and fixation
+  3. Prepare 1 labelled specimen pots for digestion
+  4. Prepare 1 labelled 50ml falcons with 70um cell strainers in
+  5. Prepare 3 labelled 15ml falcons
+  6. Prepare 3 labelled FACS tubes
+
+Tissue Harvest
+
+  1. Cut tissues with a scalpel or fine scissors at the "cut point" and remove from the mould with forceps and a large spatula
+  2. Wash samples once in PBS
+  3. Weigh tissue in weighing boat and record the weight below
+  4. In a clean petri dish, cut tissues as per figure 1 above
+  5. Place samples into PBS for further prep
+
+TISSUE SAMPLEWEIGHT (g)Observations  
+0.2M5.6878Slightly better structure and holds together as single piece. Still
+soft in consistency  
+  
+Lighter than the 0.2M sample form expt b (which was 6.06g for the 0.2M NaOH
+condition)  
+  
+  
+  
+Notes from all sample
+
+\- Colour =
+
+\- Texture on outside =
+
+\- Texture on inside =  
+
+\- the tissue that wraps around the poll is a bit more sturdier than the
+middle which is a bit more fragile * is this true again?
+
+  
+
+  
+
+SolutionFixation (for Microscopy)
+
+  1. Fix tissue in a 6 well plate in 4% PFA in PBS (Fixation buffer) overnight at 4C. 
+    1. Fixed at: 12:00 03/08/22
+  2. Following day, wash 3x5mins in PBS 04/08/22
+  3. Store tissue in PBS + 0.02% Sodium Azide in 4 degs
+
+Fixed tissue will be taken to UNSW in 70% Ethanol for tissue processing,
+paraffin embedding, sectioning and some slides (every other?) will be used for
+H&E staining and subsequent slide-scanning.
+
+Snap Freezing (for Molecular Analyses)
+
+  1. Tissue segment for snap-freezing will be further cut into 2 or 3 pieces (depending on handling ease)
+  2. Each portion will be placed into an Eppendorf tube
+  3. Snap-freeze Eppendorf tubes in liquid nitrogen for 3-5 seconds each
+  4. Place in the -80 freezer
+
+Snap frozen tissues will be used for proteomic analysis and possibly other
+molecular analyses at a later date (when we have built up a larger number of
+samples)
+
+Digestion (for Flow Cytometry)
+
+  1. Remove the tissue portion from PBS and place onto a clean petri dish
+  2. Add a few drops of digestion buffer onto the tissue
+  3. Using the lid of a 15ml falcon tube, gently crush tissue into a cell paste
+  4. Place minced tissue into a specimen pot with 10ml digestion buffer
+  5. Incubate with agitation for 10 mins 11:52-12:12 
+    1. Room temperature
+    2. 60rpm on a Thermo Fischer shaking plate.
+  6. Place 70um cell strainer into 50ml falcon and wet the strainer with digestion buffer
+  7. Pipette minced tissue into the cell strainer and ensure that all tissue has passed through, and a single cell suspension is formed
+  8. Centrifuge at 500g for 5 minutes
+  9. Wash pellet with PBS.
+  10. Resuspend cells in 10mL of FACS buffer
+  11. Take 2x 25ul samples
+    1. original protocol: Total Cell Count = 10.7 M cells/mL in 10 mL of FACS (35% viability) image of suspension below. 
+      1. Take 470uL (5M cells) and resuspend in 4mL of FACS
+
+  
+
+  
+
+  1. Place 1mL suspension into 15ml falcon tube, top up with 4mL FACS buffer
+  2. Centrifuge at 500g for 5 minutes
+  3. Resuspend in 1000 uL of Annexin V Binding Buffer at a concentration of 0.25-1.0 x 10^6 cells/mL
+  4. Transfer 100 µL of cell suspension in a 1.5 mL eppendorf
+  5. Add 5 µL of FITC Annexin V
+  6. Add 10 µL of Propidium Iodide Solution. 
+  7. Gently vortex the cells and incubate for 15 min at room temperature (25°C) in the dark. 13:21
+  8. Add 400 µL of Annexin V Binding Buffer to each tube.
+  9. Wet FACS tube filter with 1/2 drops FACS buffer
+  10. Place pipette tip flush with filter and pipette quickly into FACS tubes
+  11. Perform flow cytometry on all samples
+
+  
+
+Note: To use less Annexin V binding buffer, when the cell count is ~5-10M
+cells per mL, take just 200uL of cell suspension (step #12) and top up with
+FACS buffer. Then resuspend in just 200uL of binding buffer
+
+

@@ -1,0 +1,97 @@
+Key findings:
+
+
+  * 550 million CHO-S cells were frozen down in liquid nitrogen as an MCB cryo-bank for science R&D purposes, after 7 days in culture and a 10 million initial thaw
+  * Cells exhibited long doublings time in the 1-4 day time period following the thaw. However viability remained high (>90%)
+  * By day 7 in culture the CHO-S demonstrated doubling times (~19 hrs) comparable those highlighted in the manufactures user guide (16-22 hrs)
+  * Addition of pen-strep after thawing did not impact cell growth despite manufactures recommendation on excluding it during the first few passages (2-3)
+
+
+Results/Discussion:
+
+
+The purpose of this experiment was to generate an MCB cryobank of suspension
+adapted CHO-S epithelial cells for science R&D purpose. Similar to adherent
+expansion, the procedure by which this MCB was generated involved thawing
+CHO-S cells into E125 flasks and progressively passaging them into larger
+vessels until a desired concentration was achieved. In total ~550 million
+CHO-S were frozen in liquid nitrogen after approximately 7 days in culture and
+an initial thaw of 10 million cells.
+
+  
+
+Figure 1 demonstrates the amount of doublings of CHO-S after 4 and 7 days in
+culture. Initially, after 4 days in culture the CHO-S cells exhibited a
+relatively small number of doublings given that they are expected to double
+roughly once every day. Fortunately, manufacturers instructions indicated that
+the cells would initially be slow to double in the 3-5 day time period
+following a thaw [1]. However during this same period viability of the cells
+remained high (data not shown). As expected, after 7 days in culture the CHO-S
+underwent an almost two-fold increase in doublings, in line with the
+manufactures guidelines (Figure 1). In addition, the manufactures recommended
+not including pen-strep, as it could potentially inhibit cellular growth.
+Therefore, the 10 million cell vial was split into two cultures; one
+supplemented with pen-strep and the other without. Results indicated that
+there was no significant difference between the 2 cultures. In fact the pen-
+strep supplemented flask demonstrated higher doublings, however this was a
+replicate of n=1 and not statistically significant. However, these results
+indicate that pen-strep can be included to maintain sterility requirements
+whilst not impacting cell growth. Simultaneously, the doubling time of the
+CHO-S cells were evaluated. As expected, and in line with the doublings, the
+CHO-S cells exhibited relatively long doublings times given that they are
+expected to double every 16-22 hours [1]. However, as indicated previously, it
+is explicit in the user guide that doubling time can exceed 22 hours during
+the first few passages after the cells have been thawed [1]. As expected the
+doubling time by day 7 was ~19 hours, a drastic reduction from day 4, which
+was irrespective of the culturing condition (i.e. with or without pen-strep).
+
+  
+
+  
+
+  
+
+Figure 1: Total doublings of CHO-S epithelial cells in suspension culture.
+Each data point represents a timestamp at which the cells were passaged. Given
+that the addition of Pen-Strep did not have a significant impact on cell
+growth the cells from both culture flasks were combined on day 7. n=1 for each
+condition.
+
+  
+
+Figure 2: Doubling times of CHO-S epithelial cells in suspension culture. Each
+data point represents a timestamp at which the cells were passaged. Given that
+the addition of Pen-Strep did not have a significant impact on cell growth the
+cells from both culture flasks were combined on day 7. n=1 for each condition.
+
+  
+
+  
+
+References:
+
+[1] https://au-
+mynotebook.labarchives.com/doc/view/NTg1NDkuNHwxMDYzMTcvNDUwMzgvRW50cnlQYXJ0Lzk2OTUzMTM3M3wxNDg2MjUuNA==?nb_id=MTM4MjEyLjF8MTA2MzE3LzEwNjMxNy9Ob3RlYm9vay8xOTE5Nzg2MDB8MzUwODQ2LjE%3D
+
+
+Limitations:
+
+
+There were no limitations concerned with this experiment.
+
+
+Conclusion:
+
+
+An MCB of CHO-S (~550 million) was successfully generated after 1 week in
+suspension culture for science R&D experiments, in particular serving as a
+positive control for suspension experiments.
+
+
+Future Directions:
+
+
+  * Evaluate if CHO-S cells can survive in different basal mediums. FreeStyle CHO is an expensive chemically defined media and not feasible for the large scale expansion or continual culturing of CHO-S cells due to its procurement cost. Therefore if may be beneficial to evaluate cheaper alternatives (i.e. CD-CHO, RPMI or DMEM/F12)
+  * Generate a WCB of CHO-S cells, only if required 
+
+

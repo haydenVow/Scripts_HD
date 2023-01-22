@@ -1,0 +1,238 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+Hypothesis
+Technical Gap
+Method/Procedure
+
+
+Broad approach
+
+  1. Adjust salt and glucose content to match those of HyCell and Freestyle media
+  2. Adjust amino acid content to match those of HyCell and Freestyle media
+  3. Adjust vitamin content to match those of HyCell and Freestyle media
+  4. Add in "extra" components that we know are present in HyCell and Freestyle media that are not present in RPMI (e.g. pyruvate, iron, zinc) 
+
+
+RPMI -> Freestyle (adjusting salts & glucose)
+
+
+Spreadsheet:
+https://docs.google.com/spreadsheets/d/1ShQxDLlLJvJ433I26B5x8hFP1CyfffxcpsHSgaRwIfM/edit#gid=1066470544
+
+
+  
+g/molg/L  
+Amino Acids  
+RPMI (online recipe)  
+Glycine750.01  
+L-Arginine1740.2  
+L-Asparagine1320.05  
+L-Aspartic acid (Aspartate in RE data)1330.02  
+L-Cystine 2HCl (Cystine)3130.065  
+L-Glutamic Acid (Glutamate in RE data)1470.02  
+L-Glutamine1460.3  
+L-Histidine (τ-Methylhistidine)1550.015  
+L-Hydroxyproline (trans-4-Hydroxy-L-proline in RE data)1310.02  
+L-Isoleucine1310.05  
+L-Leucine1310.05  
+L-Lysine hydrochloride1830.04  
+L-Methionine1490.015  
+L-Phenylalanine1650.015  
+L-Proline1150.02  
+L-Serine1050.03  
+L-Threonine1190.02  
+L-Tryptophan2040.005  
+L-Tyrosine disodium salt dihydrate2610.029  
+L-Valine1170.02  
+Vitamins  
+RPMI  
+Biotin2440.0002  
+Choline chloride (choline)1400.003  
+D-Calcium pantothenate4770.00025  
+Folic Acid4410.001  
+Niacinamide1220.001  
+Para-Aminobenzoic Acid1370.001  
+Pyridoxine hydrochloride2060.001  
+Riboflavin3760.0002  
+Thiamine hydrochloride3370.001  
+Vitamin B1213550.000005  
+i-Inositol/myo-inositol1800.035  
+Inorganic Salts  
+RPMI  
+Calcium nitrate (Ca(NO3)2 4H2O) 2360.015365  
+Magnesium Sulfate (MgSO4) (anhyd.) 1200.132  
+Potassium Chloride (KCl) 750.2892  
+Sodium Bicarbonate (NaHCO3)842  
+Sodium Chloride (NaCl)584.65  
+Sodium Phosphate dibasic (Na2HPO4) anhydrous 1420.1309  
+Other ComponentsRPMI  
+D-Glucose (Dextrose)1805.848405  
+  
+Glutathione (reduced)3070.001
+
+
+RPMI -> HyCell (adjusting salts & glucose)
+  
+  
+Spreadsheet:
+https://docs.google.com/spreadsheets/d/1ShQxDLlLJvJ433I26B5x8hFP1CyfffxcpsHSgaRwIfM/edit#gid=935968799
+
+
+  
+g/molg/L  
+Amino Acids  
+RPMI (online recipe)  
+Glycine750.01  
+L-Arginine1740.2  
+L-Asparagine1320.05  
+L-Aspartic acid (Aspartate in RE data)1330.02  
+L-Cystine 2HCl (Cystine)3130.065  
+L-Glutamic Acid (Glutamate in RE data)1470.02  
+L-Glutamine1460.3  
+L-Histidine (τ-Methylhistidine)1550.015  
+L-Hydroxyproline (trans-4-Hydroxy-L-proline in RE data)1310.02  
+L-Isoleucine1310.05  
+L-Leucine1310.05  
+L-Lysine hydrochloride1830.04  
+L-Methionine1490.015  
+L-Phenylalanine1650.015  
+L-Proline1150.02  
+L-Serine1050.03  
+L-Threonine1190.02  
+L-Tryptophan2040.005  
+L-Tyrosine disodium salt dihydrate2610.029  
+L-Valine1170.02  
+Vitamins  
+RPMI  
+Biotin2440.0002  
+Choline chloride (choline)1400.003  
+D-Calcium pantothenate4770.00025  
+Folic Acid4410.001  
+Niacinamide1220.001  
+Para-Aminobenzoic Acid1370.001  
+Pyridoxine hydrochloride2060.001  
+Riboflavin3760.0002  
+Thiamine hydrochloride3370.001  
+Vitamin B1213550.000005  
+i-Inositol/myo-inositol1800.035  
+Inorganic Salts  
+RPMI  
+Calcium nitrate (Ca(NO3)2 4H2O) 2360.1031  
+Magnesium Sulfate (MgSO4) (anhyd.) 1200.15799  
+Potassium Chloride (KCl) 750.675  
+Sodium Bicarbonate (NaHCO3)842  
+Sodium Chloride (NaCl)583.11  
+Sodium Phosphate dibasic (Na2HPO4) anhydrous 1421.438  
+Other ComponentsRPMI  
+D-Glucose (Dextrose)180 9.13488  
+Glutathione (reduced)3070.001
+
+
+RPMI -> Freestyle (adjusting amino acids)
+  
+g/molg/L  
+Amino Acids  
+RPMI (adjusted)  
+Glycine750.011115  
+L-Arginine1740.336225  
+L-Asparagine1320.02444  
+L-Aspartic acid (Aspartate in RE data)1330.18508  
+L-Cystine 2HCl (Cystine)3130.1241984  
+L-Glutamic Acid (Glutamate in RE data)1470.662495  
+L-Glutamine1460.003805  
+L-Histidine (τ-Methylhistidine)1550.04498875  
+L-Hydroxyproline (trans-4-Hydroxy-L-proline in RE data)1310.001965  
+L-Isoleucine1310.215745  
+L-Leucine1310.329285  
+L-Lysine hydrochloride1830  
+L-Methionine1490.12371  
+L-Phenylalanine1650.096135  
+L-Proline1150.00184  
+L-Serine1050.350705  
+L-Threonine1190.140615  
+L-Tryptophan2040.040635  
+L-Tyrosine disodium salt dihydrate2610  
+L-Valine1170.21555  
+Vitamins  
+RPMI  
+Biotin2440.0002  
+Choline chloride (choline)1400.003  
+D-Calcium pantothenate4770.00025  
+Folic Acid4410.001  
+Niacinamide1220.001  
+Para-Aminobenzoic Acid1370.001  
+Pyridoxine hydrochloride2060.001  
+Riboflavin3760.0002  
+Thiamine hydrochloride3370.001  
+Vitamin B1213550.000005  
+i-Inositol/myo-inositol1800.035  
+Inorganic Salts  
+RPMI  
+Calcium nitrate (Ca(NO3)2 4H2O) 2360.015365  
+Magnesium Sulfate (MgSO4) (anhyd.) 1200.132  
+Potassium Chloride (KCl) 750.2892  
+Sodium Bicarbonate (NaHCO3)842  
+Sodium Chloride (NaCl)584.65  
+Sodium Phosphate dibasic (Na2HPO4) anhydrous 1420.1309  
+Other ComponentsRPMI  
+D-Glucose (Dextrose)1805.848405  
+Glutathione (reduced)3070.001  
+Phenol Red376.40.005
+
+
+RPMI -> HyCell (adjusting amino acids)
+  
+g/molg/L  
+Amino Acids  
+RPMI (adjusted)  
+Glycine750.06837  
+L-Arginine1740.33776  
+L-Asparagine1320.50495  
+L-Aspartic acid (Aspartate in RE data)1330.3197  
+L-Cystine 2HCl (Cystine)3130.0375287  
+L-Glutamic Acid (Glutamate in RE data)1470.22433  
+L-Glutamine1460.00175  
+L-Histidine (τ-Methylhistidine)1550.076136  
+L-Hydroxyproline (trans-4-Hydroxy-L-proline in RE data)1310.080303  
+L-Isoleucine1310.30995  
+L-Leucine1310.46363  
+L-Lysine hydrochloride1830  
+L-Methionine1490.1336  
+L-Phenylalanine1650.20683  
+L-Proline1150.42612  
+L-Serine1050.29021  
+L-Threonine1190.2382  
+L-Tryptophan2040.1006  
+L-Tyrosine disodium salt dihydrate2610  
+L-Valine1170.36773  
+Vitamins  
+RPMI  
+Biotin2440.0002  
+Choline chloride (choline)1400.003  
+D-Calcium pantothenate4770.00025  
+Folic Acid4410.001  
+Niacinamide1220.001  
+Para-Aminobenzoic Acid1370.001  
+Pyridoxine hydrochloride2060.001  
+Riboflavin3760.0002  
+Thiamine hydrochloride3370.001  
+Vitamin B1213550.000005  
+i-Inositol/myo-inositol1800.035  
+Inorganic Salts  
+RPMI  
+Calcium nitrate (Ca(NO3)2 4H2O) 2360.1031  
+Magnesium Sulfate (MgSO4) (anhyd.) 1200.15799  
+Potassium Chloride (KCl) 750.675  
+Sodium Bicarbonate (NaHCO3)842  
+Sodium Chloride (NaCl)583.11  
+Sodium Phosphate dibasic (Na2HPO4) anhydrous 1421.438  
+Other ComponentsRPMI  
+D-Glucose (Dextrose)1809.13488  
+Glutathione (reduced)3070.001  
+Phenol Red376.40.005
+
+

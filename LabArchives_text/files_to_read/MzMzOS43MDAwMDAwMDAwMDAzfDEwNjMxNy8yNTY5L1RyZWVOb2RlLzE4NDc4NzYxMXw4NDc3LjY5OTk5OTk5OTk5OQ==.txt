@@ -1,0 +1,157 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A
+
+
+  
+  
+## Performed by: Shaleen
+
+
+  
+Figure 1: Plate prepared with five variants of our available in-house
+scaffolds with specified positive and negative control wells  
+  
+  
+
+
+
+
+Antibody mixes used:
+
+Prepared antibody mixes by serial dilution of the most concentrated mix
+(1:10,000):  
+
+Antibody
+
+#Stock ID
+
+Primary/Secondary
+
+IgG form
+
+Dilution  
+  
+MyoG HRP-conjugated secondary antibody  
+1967  
+Secondary  
+IgG1  
+1:10,000  
+  
+MyoG HRP-conjugated secondary antibody  
+1967  
+Secondary  
+IgG1  
+1:50,000  
+  
+MyoG HRP-conjugated secondary antibody  
+1967  
+Secondary  
+IgG1  
+1:100,000  
+  
+  
+  
+
+  
+
+
+
+
+### Step 3: Secondary stain cells with ELISA and fluorescent secondary
+antibodies
+
+1\. Added 150uL of secondary antibody mix to respective wells in order to
+fully submerge scaffolds in antibody solutions.
+
+Incubated respective wells with corresponding secondary antibody mixtures in
+the dark at RT for 1 hour.    12:01  -  12:57  a/pm  
+  
+From this step onwards protect from the light by wrapping plates in foil and
+perform experiment in the dark
+
+
+
+
+### Step 3: Enzymatic reaction (TMB substrate conversion)
+
+Please note critical steps to ELISA workflow are highlighted in
+bold/underlined.
+
+  1. Removed 2nd antibody solution.     13:00   a/pm    
+  2. Washed in   200uL   dPBS 5 times for 5 min at RT in the dark. (No Triton)  
+  13:04 a/pm  
+  13:08 a/pm  
+  13:10 a/pm  
+  13:14 a/pm  
+  13:16 a/pm  
+  3. Started peroxidase reaction by adding  100uL  of TMB substrate solution to respective wells and incubated plate at RT for 15 mins.  
+  13:23  \-  13:38  a/pm  
+  4. Quenched reaction with an equal volume of 0.5 M HCl or     100uL   STRICTLY after 15 minutes and observed cyan to yellow colour change.
+  5. Pipette mixed and transferred   100uL   of the yellow supernatant to a non-treated 96 well plate.  
+Do not use a cell culture treated 96 well plate!  
+If continuing with Janus Green stain, wash original plate immediately with PBS
+(see Janus Green staining template for more detail)
+
+  6. Spun down plate in centrifuge for 1 min at 1000 rpm to remove bubbles and droplets.
+  7. Placed plate in NanoStar plate reader and measured absorbance values at 450nm (ELISA 405 preset program).
+
+  
+
+
+
+
+Observations/Summary:  
+  
+Figure 2: TMB incubation after 14 minutes
+
+Figure 3: Plate transfer after quenching with 0.5M HCl
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+4% PFA  
+  
+dPBS (non-sterile)A5727  
+  
+PBST (0.2% Triton)  
+  
+Blocking BufferM5703  
+  
+TMB substrateS1862  
+  
+0.5 M HCl (for quenching)M5491  
+  
+  
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+
+
+
+Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [X]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+

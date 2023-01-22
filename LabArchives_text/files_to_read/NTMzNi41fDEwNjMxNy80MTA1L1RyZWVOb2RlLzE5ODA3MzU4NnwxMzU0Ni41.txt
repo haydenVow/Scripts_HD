@@ -1,0 +1,162 @@
+
+
+  
+
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+8024  
+placed into a A1 of a 48 wp  
+  
+Took entire sample of A4. used half of it for fix and the other half for
+CMFDA.  
+Fixed plate located in the staining fridge  
+  
+  
+
+
+  
+  
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Buffer  
+  
+PBST (0.2% Triton)  
+  
+dPBS  
+  
+Primary Antibody Mix myog  
+s1452  
+  
+Primary Antibody Mix (if used)mf20s2467  
+  
+  
+  
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+Mouse Anti-MyoG (IgG1) MyoG  
+IgG1  
+1:200  
+Goat Anti-Mouse (IgG1)  
+1:1000  
+  
+Mouse Anti-MF20 (IgG2b) MF20  
+IgG2b)  
+1:50  
+Goat Anti-Mouse (IgG2b)  
+1:1000  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+  
+
+OR
+
+  
+
+Alternatively plug in your values and manually calculate: (note these volumes
+are for primary and secondary staining + DAPI)
+
+PBS:  10 x    1    (number of wells) x    0.4 mL  (volume per well) =   4 mL  
+
+PBST (0.2% Triton-X) : 4 x    1   (number of wells) x    0.4 mL  (volume per
+well) =   1.6 mL  
+
+Blocking buffer:  3 x   1    (number of wells) x    0.4 mL  (volume per well)
+=   1.2 mL  
+
+Note: blocking buffer is: PBST (0.1% Triton-X + PBS) + 3% bovine serum albumin
+(BSA). Kept in the fridge until needed in blocking step
+
+  
+
+3\. Prepared Primary Antibody Mix: :  2.5 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) + 10  µL   Primary #2 MF20 (DSHB)   (1:50  ) +  0.5  mL Blocking
+Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Process:
+
+Permeabilise ( ~ 20 - 30 min)
+
+1\. Removed PBS from each well.
+
+2\. Added  200 - 400 µL PBST (0.2% Triton-X) to each well for 15 min:  : - :
+pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added  200 - 400 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X])
+and incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   : - : pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody for 90min - 2hrs at RT, or 4ºC
+overnight:   : pm
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Observations/Summary:
+
+  * ###   
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable): na  
+
+

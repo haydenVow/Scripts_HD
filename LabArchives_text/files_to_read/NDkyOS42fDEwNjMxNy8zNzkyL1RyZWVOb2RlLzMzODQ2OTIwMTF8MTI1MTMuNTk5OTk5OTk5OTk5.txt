@@ -1,0 +1,22 @@
+
+
+## Completed by: Avani
+
+In order to produce cultured meat at a large scale and in a reproducible
+manner, an immortalised cell line is necessary. To generate this, we have used
+the process of single cell cloning. This involves collecting a heterogeneous
+populations of cells and isolating single cells from one another to determine
+whether any populations that grow may have a mutation that allows
+prolonged/unlimited cell doublings. Isolating single cells from one another
+also allows us to generate homogenous populations of cells, verifying that
+they all originated from 1 parent cell. This reduces variability of results
+when the cells are to be used in subsequent experiments.
+
+Previously, we have tried adapting a heterogenous population of cells to
+suspension. To see a summary of the experiments performed so far and key
+findings, click here. We have not tried performing suspension adaption using
+clones before. In this experiment, we will use a MuSC clone (DOLLY12_11E7)
+generated from EPIC13644 and a fibroblast clone (F_DOLLY12_4C4) generated from
+EPIC20859.
+
+

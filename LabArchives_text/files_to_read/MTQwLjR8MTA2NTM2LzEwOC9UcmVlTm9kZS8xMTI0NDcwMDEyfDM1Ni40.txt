@@ -1,0 +1,92 @@
+
+
+Batch Overview
+
+Batch Weight
+
+Yield from 2x T175 for each treatment:  
+20% FBS + TGF + VitC: 0.260 g  
+10% FBS + TGF + Vit C: 0.231 g  
+10% FBS + TGF: 0.225 g  
+10% FBS + VitC: 0.145 g  
+
+Achievements
+
+  * TGF-b1 treatment alone doesn't do much for production batches
+  * Vit C only treatment might be worthwhile exploring for increased yield and easy trypling
+  * 48hr treatment of TGF-b1 + Vit C may be worthwhile for maximum aggregation and potentially eliminating TrypLE step
+  * longer trypLE time yields 13.35% increase in total cells yield but also meant a higher percentage of cell death 
+
+Deviations
+
+N/A
+
+Batch Corrective Action Records
+
+N/A  
+
+
+
+
+Observations for harvest optimisation
+
+Testing whether 1 min extra per layer for TrypLE incubation:
+
+  
+18 min TrypLE23 min TrypLE  
+Total cells harvested104,064,000117,975,000  
+Total live cells harvested96,000,000104,325,000  
+% dead cells7.75%11.57%  
+ cells obtained from removing supernatant and spinning at 1000rpm (only from
+the 1mL pipette removal near pellet)206,000 (0.2% of total cells)  
+  
+  
+  
+  
+
+
+  
+  
+Observations from 24-hr treatment
+
+20% FBS + TGF + VitC: most cells have formed aggregates, no cells adhered to
+surface on 1xT175, and very little adhered to surface on the other 2 (looks
+like they will clump and lift off)  
+10% FBS + TGF + Vit C: a combination of aggregates and sheet, some cells have  
+10% FBS + TGF: no aggregates. cells still adhered to surface  
+10% FBS + VitC: no aggregates. Cells still adhered to surface (edited)  
+
+For harvesting, the majority of cells for TGF+Vit C treated (10% or 20% FBS)
+were present in the aggregates. Very little cells were collected from TrypLE
+of the 20% FBS flasks, and there were some sheet like fragments present in the
+TrypLE of the 10% FBS.
+
+TrypLE-ing of Vit C treated flasks came off as a 'sheet'. TGF treated flasks
+were harvested regularly without any spectacular difference to normal.
+
+Weighed pellets appeared to be relatively the same between all treatments
+except TGF only which was about 55-65% of the other cell pellets. 20% FBS +
+TGF + VitC resulted in the heaviest pellet.
+
+
+
+
+Observations from 48-hr treatment
+
+20% FBS + TGF + VitC: almost all cells have formed aggregates, very little
+adhered to surface  
+10% FBS + TGF + Vit C: a combination of aggregates and sheet, but more cells
+had come off and formed aggregates with pro-longed treatment (we circled an
+area with cells still attached after 24hr treatment, and saw that a decent
+portion ~75% of this area had come off)  
+10% FBS + TGF: no aggregates. cells still adhered to surface  
+10% FBS + VitC: no aggregates. Cells still adhered to surface (edited)  
+
+Trypling of Vit C treated flask came off as a fluid sheet but did seem to
+break apart the longer it was left in trypLE and was quite gloopy - like mucus
+(in the falcon tube - also more easily broke apart with a pipette)
+
+Pellet weights from a single T175 for each treatment weren't very accurate due
+to the scale sensitivity and small yield.
+
+

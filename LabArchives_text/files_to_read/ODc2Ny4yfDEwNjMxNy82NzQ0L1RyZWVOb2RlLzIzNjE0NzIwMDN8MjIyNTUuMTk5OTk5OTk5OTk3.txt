@@ -1,0 +1,174 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie Tangey
+
+
+
+
+  
+
+Culture ID  
+Line  
+Media  
+NotesImages  
+  
+10522  
+LEGGY  
+DMEM/F12 + 10% FBS  
+Confluence highly variable across the vessel. Cell morphology also highly
+variable with cells resembling fibroblasts, chondrocytes, endothelial, and
+neural cells  
+https://ranger.vow.tools/#/session/rec9fNIINsVYsVv6Z/images  
+  
+10521  
+  
+BIRDYDMEM/F12 + 10% FBS  
+https://ranger.vow.tools/#/session/recv0PPkES2dQ8qgA/images  
+  
+10520  
+BOBBY  
+DMEM/F12 + 10% FBS  
+Confluence highly variable across the vessel, Largely fibroblastic morphology  
+https://ranger.vow.tools/#/session/rec1S5U8PuFQDxwrI/images  
+
+
+  
+  
+Re-seeding
+
+Passaged Culture ID  
+Line  
+Passaged Vessel type  
+Media  
+Seeded vessel type  
+Seeded ID  
+  
+10522  
+LEGGY  
+T175  
+DMEM/F12 + 10% FBS  
+T75  
+10680  
+  
+10521  
+  
+BIRDYT175  
+DMEM/F12 + 10% FBS  
+T75  
+10672  
+  
+10520  
+BOBBY  
+T175  
+DMEM/F12 + 10% FBS  
+T75  
+10671  
+
+
+  
+  
+Banking
+
+Passaged Culture ID  
+Line  
+Media  
+No cells/vial  
+Vial ID  
+  
+10522  
+LEGGY  
+DMEM/F12 + 10% FBS  
+2M, 3 vials  
+13770-13772  
+  
+10521  
+  
+BIRDYDMEM/F12 + 10% FBS  
+1M, 6 vials  
+13783-13788  
+  
+10520  
+BOBBY  
+DMEM/F12 + 10% FBS  
+1M, 5 vials  
+13778-13782  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleA 9282  
+  
+dPBS (for washing & neutralising)M 10380  
+  
+Growth MediaM M10461  
+  
+  
+  
+
+
+
+
+### Process:
+
+  1. Took image of vessel with microscope on phase setting.
+  2. Aliquotted the required volume of each reagent in the table above and then placed all aliquots to warm in the water bath for a minimum of 20 minutes prior to use
+  3. Removed vessel(s) from the incubator
+  4. Washed the vessel(s) with dPBS (warmed).
+  5. Added    10    mL tryple to each vessel/well and incubated at 37˚C for 12 min, checking every few min until >90% of cells were detatched.
+  6. Neutralised with    10      dPBS and combined cell suspension into      50ml   tubes.
+  7. Centrifuged at 500 x g for 5 min.
+  8. Aspirated the supernatant(s).
+  9. Resuspended pellet(s) in      5 mL       DMEM/F12 + 10% FBS  media
+  10. Took 40ul sample from each line, and performed cell count   
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  11. BIRDY 6,630,000  
+BOBBY  
+5,550,000  
+LEGGY 6,960,000  
+  12. 550,000 cells transferred to T75 vessels for each cell type
+  13. BIRDY 0.415ul  
+BOBBY 0.495ul  
+LEGGY 0.395ul  
+  
+  14. Transferred vessel(s) to incubate at:   
+37ºC, 5% CO2  
+Incubator #138, Library Lab
+
+  15. Remaining cells centrifuged at 500 x g for 5 min, and resuspended in cryostor (1M/mL)  
+BIRDY 6.08mL  
+BOBBY 5mL  
+LEGGY 6.41mL - RAN OUT OF CRYOSTOR SO RESUSPENDED AT 2M/vial.  
+
+  16. Cell suspensions transferred to cryovials, 1mL/1M cells/vial
+  17. Cryovials transferred to pre-chilled Mr. Frosty, and placed in -80 freezer.  
+  
+
+
+
+
+Observations/Summary:  
+550,000 cells of each cell line seeded into T75s, the remaining cells banked
+as an MCB
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+

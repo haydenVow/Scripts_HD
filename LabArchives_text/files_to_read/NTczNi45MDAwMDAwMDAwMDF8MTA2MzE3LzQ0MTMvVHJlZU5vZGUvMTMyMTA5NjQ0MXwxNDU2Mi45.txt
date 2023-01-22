@@ -1,0 +1,95 @@
+
+
+## Performed by: AK  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+E125  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Growth medium: CD CHO + 10%KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL FGF, IGF
+& ~~PDGF~~ (No PDGF remaining - ordered more)
+
+Total (mL)23  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.002346  
+IGF10.00010.10.002323  
+PDGF0.00010.010.0023230  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+CD CHO + 10%KSR + 1:100 ACA + 0.1% pluronic  
+Mix 6895  
+  
+IGF-1  
+Mix 3644  
+  
+FGF-B  
+Mix 5077  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted 23 mL of growth medium in 1 x 50 mL tube
+  2. Added growth factors to aliquot as listed in table above (see Mix IDs for growth factors in table above to ensure you are adding the correct ones).
+    *  Placed aliquot in water bath 13:23
+  3. Collected E125 from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 14:09
+  4. Pipette suspension into 1 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  5. Centrifuged at 300 x g for 5 min. 14:12 - 14:17  
+
+  6. Aspirated  100% (30 mL) of supernatant, taking extra care to not disrupt or aspirate pellet. NOTE: 7 mL of supernatant goes back into E125, 23 mL can be discarded into waste. This is so we can do a 75% feed but still get an accurate cell count.
+  7. Resuspended pellet in 500 uL of medium
+  8. Took 1 x 10 uL sample for haemocytometer cell count.  
+Cell count: 1,820,000
+
+  9. Recorded count here https://docs.google.com/spreadsheets/d/1-Z9HKM0xSq8-UX2C4876emMP7FCWLcpSqxwLkI-zypg/edit#gid=0
+  10. Added  23 mL of fresh, warmed growth media to 50 mL tube
+  11. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125
+  12. Returned E125 to incubator.   14:28    
+
+Incubator (#81), Lab [Main/Library/Production]
+
+
+
+
+Relevant Images/Figures:
+
+https://mia-capture.vow.tools/#/session/recgNxTa38CMufham/images
+
+
+
+
+### Observations/Summary:
+
+ 100  % media changed on vessel(s)
+
+  1. 7694-F_DOLLY12-Sheep P11-1of1  
+  
+
+Total count was performed during the haemocytometer check instead of
+distinguishing between live/dead, with debris excluded. This may have resulted
+in an overestimated count, as compared to previous counts over the past week.
+
+

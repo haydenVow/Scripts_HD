@@ -1,0 +1,42 @@
+
+
+AVIVA Systems Biology Protocol:
+
+  1. 100 ul peptide (@4ug/ml) in coating buffer is added to individual wells of a microtiter plate. Incubate the plate for 2 hours at 37C or overnight at 4C.
+  2. Remove the coating solution and wash the plate three times by filling the wells with 100 ul PBS-0.05%Tween20. The solutions or washes are removed by flicking the plate over a sink. The remaining drops are removed by patting the plate on a paper towel.
+  3. Block the remaining protein-binding sites in the coated wells by adding 100ul blocking buffer, 3% skim milk in PBS per well. Incubate for 1 hour at RT with gentle shaking.
+  4. Wash the plate three times with 100ul PBS-0.05% Tween 20.
+  5. Add 50 ul of diluted antibody to each well. Incubate the plate at 37C for an hour with gentle shaking.
+  6. Wash the plate six times with 100ul PBS-0.05%Tween 20.
+  7. Add 50ul of conjugated secondary antibody, diluted at the optimal concentration (according to the manufacturer) in blocking buffer immediately before use. Incubate at 37C for an hour.
+  8. Wash the plate six times with 100ul PBS-0.05%Tween20.
+  9. Prepare the substrate solution by mixing acetic acid, TMB and 0.03% H2O2 with the volume ratio of 4:1:5.
+  10. Dispense 50ul of the substrate solution per well with a multichannel pipe. Incubate the plate at 37C in dark for 15-30mins.
+  11. After sufficient color development, add 100ul of stop solution to the wells (if necessary).
+  12. Read the absorbance (optical density at 450nm) of each well with a plate reader.
+
+https://www.avivasysbio.com/technical-resources/elisa/procedure
+
+
+
+
+Comparison of New ELISA Method With Established SDS-PAGE Method for
+Determination of Muscle Myosin Heavy Chain Isoforms
+
+Procedure:
+
+  * 100uL of pAb added and incubated at 1h at RT
+  * Washed with wash buffer (4X)
+  * Incubated with HRP-labelled secondary antibody for 2h at RT
+  * Washed with wash buffer (5X)
+  * 200uL of TMB solution added
+  * Reaction stopped after 15 - 45 mins by adding 50uL of H2SO4.
+  * Read at 450nm.
+
+ŘÍČNÝ, J. and SOUKUP, T., 2011. Comparison of New ELISA Method With
+Established SDS-PAGE Method for Determination of Muscle Myosin Heavy Chain
+Isoforms. Physiological Research, pp.899-904.
+
+https://doi.org/10.33549/physiolres.932213
+
+

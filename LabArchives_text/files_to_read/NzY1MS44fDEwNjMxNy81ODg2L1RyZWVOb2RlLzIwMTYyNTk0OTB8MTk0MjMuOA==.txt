@@ -1,0 +1,133 @@
+
+
+## Performed by: LL, AB, ST, TT, VP  
+
+
+
+
+Culture IDs:
+
+Flask typeFlask IDs  
+  
+E125
+
+9576-F_CHOMP09-Crocodile P10-1of3  
+9577-F_CHOMP09-Crocodile P10-2of3  
+9578-F_CHOMP09-Crocodile P10-3of3  
+9579-F_CHOMP09-Crocodile P10-1of3  
+9580-F_CHOMP09-Crocodile P10-2of3  
+9581-F_CHOMP09-Crocodile P10-3of3  
+9582-F_CHOMP09-Crocodile P10-1of3  
+9583-F_CHOMP09-Crocodile P10-2of3  
+9584-F_CHOMP09-Crocodile P10-3of3  
+9585-F_CHOMP09-Crocodile P10-1of3  
+9586-F_CHOMP09-Crocodile P10-2of3  
+9587-F_CHOMP09-Crocodile P10-3of3  
+9588-F_CHOMP09-Crocodile P10-1of3  
+9589-F_CHOMP09-Crocodile P10-2of3  
+9590-F_CHOMP09-Crocodile P10-3of3  
+9591-F_CHOMP09-Crocodile P10-1of3  
+9592-F_CHOMP09-Crocodile P10-2of3  
+9593-F_CHOMP09-Crocodile P10-3of3  
+9594-F_CHOMP09-Crocodile P10-1of3  
+9595-F_CHOMP09-Crocodile P10-2of3  
+9596-F_CHOMP09-Crocodile P10-3of3  
+9597-F_CHOMP09-Crocodile P10-1of3  
+9598-F_CHOMP09-Crocodile P10-2of3  
+9599-F_CHOMP09-Crocodile P10-3of3  
+  
+  
+  
+
+
+
+
+Process
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 14:25
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture to break up cell clumps
+  3. Transfer suspension into 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to these vessels after feed. 
+  4. Centrifuged 50 mL tubes at 300 x gfor 5 min             
+    * Spin 1: 14:35 - 14:40                   
+    * Spin 2: 14:43 - 14:48
+  5. Aspirated 75% (15 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 14:50 - 15:05
+  6. Added 15 mL of fresh, warmed growth media to each 50 mL tube
+  7. Took 100 uL samples from each culture and transferred to separate wells in a 96-WP, recording the location of each sample for future plate mapping 
+  8. Gently pipette-mixed cultures using serological, before moving cell suspension back to E125s
+  9. Returned E125s to incubator 14:00
+
+30° C Incubator (# xxx), Lab [Main/Library/Production]
+
+
+
+
+Staining
+
+Prepare reagents
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 2 mL dPBS  
+\- 2 drops Nucgreen AF488 dead stain  
+Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6 months
+
+Stain plates
+
+  1. Added 100 uL dPBS into plate columns 3, 4, 9 and 10 using a multichannel pipette
+  2. Added 100 uL of dead stain solution (dPBS+Sytox) to cells
+  3. Serially diluted cell suspension by transferring 100 uL cell suspension to subsequent wells, down to 25% dilution
+  4. Stained samples with 20 uL of Hoechst stain solution
+  5. Incubated for 30 minutes in the dark at room temperature 15:35 - 16:05   
+
+  6. Centrifuged plates at 300 RCF for 1 minute 
+
+Prepared plate maps
+
+  
+
+Plate ID: 9601
+
+Note: plate was imaged under incorrect plate ID and incorrect EPIC. Imaged
+instead under plate ID 9603. There are x98 total images for this timestamp and
+description ("EPIC28843 Day 3 V2"). There are 6 total A1 well images. Ignore
+the earliest x4 A1 well images. There was an issue with the Zaber. Had to be
+aborted, and restarted twice.
+
+Mia output template:
+https://docs.google.com/spreadsheets/d/1EKVK7jl96M8LpsJ94e4I2Vp9eFT-
+kDee-1aQ6RlOC4Y/edit#gid=698754547  
+
+Mia image link: https://mia-
+capture.vow.tools/#/session/recLrosmbbePMAKrp/images  
+
+Plate ID: should be 9601, imaged instead under 9603.
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI and AF488 MIA macros respectively.
+  2. Downloaded and extracted the data then pasted it into the "MIA output" data workbook created in the "Staining" section.
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+
+
+
+Observations/Summary
+
+N/A  
+
+

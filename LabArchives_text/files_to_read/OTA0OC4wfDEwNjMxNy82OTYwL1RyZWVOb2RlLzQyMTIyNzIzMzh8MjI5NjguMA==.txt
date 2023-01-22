@@ -1,0 +1,72 @@
+
+
+Performed by : ST
+
+
+
+
+Culture IDs
+
+Flask TypeFlask ID(s)  
+50 mL mini bioreactor tubes
+
+Round 1 (D11)
+
+PABPC1 - 10494
+
+PTEN - 10493
+
+mock control - 10496
+
+Round 3 (D4)
+
+PABPC1 - 10737
+
+PTEN - 10738
+
+ZIC1 - 10739
+
+RIPK1 - 10741
+
+Mock control -10736
+
+  
+
+
+  
+  
+Process
+
+  1. Took suspension cultures from incubator into BSC
+  2. Took 10 ul sample from each tube
+  3. Added 10 ul trypan blue to each sample
+  4. counted by hemocytometer
+
+
+SampleCell count cells/mL  
+Total cells  
+PABPC1 - 10494  
+4480002,240,000  
+  
+PTEN - 10493  
+2880001,440,000  
+  
+mock control - 10496  
+188000940,000  
+  
+PABPC1 - 10737  
+6640004,648,000  
+  
+PTEN - 10738  
+5320002,926,000  
+  
+ZIC1 - 10739  
+8480004,240,000  
+  
+RIPK1 - 10741  
+6680003,340,000  
+  
+Mock control -10736  
+4440002,220,000  
+
+

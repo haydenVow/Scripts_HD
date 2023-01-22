@@ -1,0 +1,211 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by:
+
+
+
+
+Passage Culture IDs
+
+Harvested Flask ID(s)Harvested Flask TypeSeeded Flask IDSeeded Flask Type  
+  
+  
+10358-C2C12-Mouse P3-1of4
+
+  
+T175  
+  
+10CF  
+  
+10359-C2C12-Mouse P3-2of4
+
+  
+T175  
+  
+  
+10360-C2C12-Mouse P3-3of4
+
+  
+T175  
+  
+  
+10361-C2C12-Mouse P3-4of4
+
+  
+T175  
+  
+  
+10362-BUFFY-Water Buffalo P9-1of4
+
+  
+T175  
+  
+96-well plate  
+  
+10363-BUFFY-Water Buffalo P9-2of4
+
+  
+T175  
+  
+T175  
+  
+10364-BUFFY-Water Buffalo P9-3of4
+
+  
+T175  
+  
+T175  
+  
+10365-BUFFY-Water Buffalo P9-4of4
+
+  
+T175  
+
+
+  
+  
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7009  
+  
+TrypleA9733  
+  
+dPBS (for washing & neutralising)M10134  
+  
+Growth MediaM10207  
+  
+p38i (20mM stock)  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated  1x 10 CF and 2x T175 vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.  
+
+  1. Time when all vessels(s) placed into the incubator    15:25   
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  2x 40 mL  
+
+  2.  dPBS 2x 80 mL  
+
+  3. Growth media (for seeding):  1x 1500 (For C2C12), 1x 2.8 mL (BUFFY 20 wells in a 96-well plate), 1x60 mL (BUFFY T175)  
+
+Time that all aliquots were placed in the water bath the warm before use
+17:06
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+BUFFY PASSAGE - 4XT175
+
+4\. Removed vessel(s) from the incubator    18 : 35  pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added      10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start for TrypLE was   18  : 50  pm 
+
+7\. Neutralised with     10mL     dPBS and combined cell suspension into a
+50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was   19  : 07  pm 
+
+
+
+
+BUFFY PASSAGE - 4XT175
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     8    mL    Growth      media   19  : 15
+a/pm
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell number was:       24mill      
+
+  2. Volume of cell suspension required for subculture was:     2ul for 96wp, 848ul for 2x T175s (+ 2.8ml for 10CF - see below)        
+
+  3. Cell density per vessel:     750/cm2       
+
+
+
+
+BUFFY PASSAGE - 4XT175
+
+13\. Transferred      As above     µl of cell suspension to the pre-warmed
+2.8ml for 96wp, 60ml for 2x T175 (+ 1.5L for 10CF)      mL Growth media:
+20 : 15   pm
+
+14\. Transferred cell suspension into the pre-gelatin coated      2xT175s, 1x
+10CF      vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle     20 : 15 -
+20 : 45 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+Passage supposed to be for BUFFY6 and C2C12, but upon observation of C2C12
+flasks prior to passage, AW saw they looked more primary like and density was
+very low, whereas the BUFFY6 flasks were virtually fully confluent. As such,
+only passaged flasks labelled BUFFY and left C2C12 flasks in culture. Need to
+check cells 8.2.22
+
+  
+
+After discussion with Bec Screnci, we (AW + RS) concluded that there was a
+mislabelling - AW proceed with C2C12 and thaw more BUFFY
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,85 @@
+Performed by: LL & EC
+Thawed vial ID(s)  
+Seeded vessel ID(s)  
+Seeded vessel type  
+Condition  
+Location  
+  
+14595-FrzCul-Nuvonis Quail Suspension-Vial-2of2  
+  
+14594-FrzCul-Nuvonis Quail Suspension-Vial-1of21  
+12574-Nuvonis Quail Suspension341-P-1of1  
+6-well plate (ULA)  
+50/50 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+Shaking incubator 146 (static, under shaking platform)  
+  
+14648-FrzCul-Nuvonis Quail Suspension-Vial-31of50  
+  
+14647-FrzCul-Nuvonis Quail Suspension-Vial-30of5012575-Nuvonis Quail
+Suspension341-P-1of1  
+75/25 RPMI/CHO + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + 0.0005 mg/mL IGF + 0.0001
+mg/mL EGF  
+
+
+Process
+  
+  
+  1. Prepared 15 mL of 50/50 RPMI/CHO Nuvonis suspension medium and 15 mL of 75/25 RPMI/CHO Nuvonis suspension medium with growth factors added (IGF & EGF) in 2 x 50 mL shake tubes with filtered lid
+
+  2. Equilibrated the medium from 15:30 - 16:15 in an incubator at 37°C, 5% CO2, 95% relative humidity.
+
+  3. Selected vials to thaw:  
+Dewar Name: Brew  
+Frozen Culture IDs: 14595, 14594  
+Tower #4 Box #6  
+Position G2, G3  
+  
+Dewar Name: Brew  
+Frozen Culture IDs: 14648, 14647  
+Tower #5 Box #8  
+Position F3, F4
+
+  4. After media equilibration, moved the shake tube containing media into the BSC just before thawing the cells. 
+
+  5. Quickly thawed vials of Nuvonis quail suspension cells in the 37°C water bath.
+
+    1. Do not immerse the vial completely, only about 2/3, to ensure the top of vial is kept out of the water
+    2. Take care to remove the vial from the water bath immediately when the cells are just thawed. Ideally, a small ice clump (approximately 5 mm) is still visible.
+  6. Dry wiped the tube.
+
+  7. Wet a wipe with disinfectant (e.g., 70% ethanol), wiped the tube and transferred it into a BSC
+
+  8. Tapped the vial gently to detach the cell pellet, and transferred the cells into an empty 50 mL centrifuge tube by using a pipette equipped with a 1 mL filter tip. Note: Do not mix the cells in the vial by pipetting.
+
+  9. Drop-wise added 1 mL equilibrated medium (from the 15 mL) to each vial of cells and swirled the tube gently for 10 seconds. Incubate cells for one minute
+
+  10. Transferred cell suspension to 50 mL tube containing remainder of medium
+
+  11. Homogenised the cell suspension by inverting the tube several times and sample 100 μl for a cell count. Transferred the cells into the T75 flask.
+
+  12. Tilt the flask several times to evenly distribute the cells, making sure no liquid enters the neck of the flask and wet the filter, which can potentially compromise the sterility of the vessel.
+
+  13. Performed cell count
+
+    1. Cell count 50/50: 12,825,000
+
+    2. Cell count 75/25: 9,630,000
+
+  14. Incubate the flask at 37°C, 5% CO2, 95% relative humidity (static)
+
+
+Reagent info
+Reagent  
+ID  
+  
+50/50 RPMI/CHO Nuvonis medium (included GFs)  
+M12808  
+  
+75/25 RPMI/CHO Nuvonis medium (included GFs)  
+M12807  
+
+
+Nuvonis protocol

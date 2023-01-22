@@ -1,0 +1,67 @@
+50% Feed on 15x10CF, 1x4CF and 1x2CF
+
+
+# Procedure - Feed
+
+# Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.  
+
+  1. Turn on the water bath and set to 32'C.
+  2. Aliquot  required growth media into a sterile container/s and place into the water bath. 
+  3. Place in the water bath and heat for at least 20 minutes.
+  4. Observe the cell flasks for confluence under the microscope using 4 x magnification and take images as required. Note: The confluence of cells must be <50% to perform cell feeding in P1-P3 and <80% in P4 prior to the cell differentiation stage. 
+  5. Transfer flasks to the BSC and remove required volume of media from each flask (according to the Table below).
+  6. Replace the same volume into each flask with the prepared growth media.
+  7. Return the flasks to the incubators
+
+  
+References  
+  
+BLT: VLBT-004 Media Change  
+SOP: Section 8 under VSOP-008 Cell Feeding  
+
+``
+
+
+
+
+Media used:  
+ALQ-10193 DMEM aliquot  
+ALQ-10182 DMEM/F12 + 20% FBS aliquot  
+ALQ-10186 DMEM/F12 + 20% FBS aliquot  
+ALQ-10191 DMEM aliquot  
+ALQ-10197 DMEM aliquot  
+ALQ-10195 DMEM aliquot  
+ALQ-10178 DMEM/F12 + 20% FBS aliquot
+
+
+
+
+### Deviation:  
+  
+During the imaging stage of the flasks for the 4CF and 2CF to observe the
+confluence, the 4CF (Flask 10486) was observed to have a spindle-like strand
+floating, yet stuck to the surface of the flask. Images were taken of this
+suspicious structure.  
+  
+Immediate actions:
+
+  1. Microscope images of the flask was taken. 
+  2. The entire team was notified via walkie-talkie. 
+  3. Flask ID '10486' was noted in the slack channel.
+  4. Feeding of all other flasks occurred in the double BSC. 
+  5. Flask 10486 was fed at the very end of the feeding session and performed in the single BSC. 
+  6. CB suggested to collect waste media and store at ambient temperature. 
+  7. SL suggested to label the waste media with batch number, flask number, date and time of collection.  'Batch 33 Waste Media (Flask 10486), 11/02/2022 Collected: 11:45am'
+  8. The waste media was collected, labelled and stored at ambient temperature by AK. 
+
+Further action:  
+The ideal scenario would be to observe the media over a period of 2 weeks and
+observe for any turbidity in the media.  
+The waste media collected will be observed over a period of 4 days to observe
+for any turbidity in the media.  
+Due to the next passage of the flasks occurring on Tuesday, 4 days after
+initial observation, a decision will need to be made by the team on the day
+whether to proceed with the passage.
+
+

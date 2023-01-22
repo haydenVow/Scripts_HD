@@ -1,0 +1,97 @@
+
+
+## Performed by: TT & LL  
+
+
+
+
+Media
+
+ ~~~~CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Process:
+
+  1. Aliquoted growth media as follows:
+    * 25 mL of CDCHO media in 50 mL tubes
+    * Added FGF-B and IGF-1 (100 ng/mL) to each aliquot
+      * Placed in water bath   14:00    
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (1 drop of each stain solution per 1 mL of dPBS):
+    * 3 mL of dPBS 
+    * 6 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * 3 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark until ready to use.       
+
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC 14:15
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 2 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   14:25-14:30     
+
+  5. Aspirated  100% (25 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Added  25 mL of fresh, warmed growth media to each 50 mL tube
+  7. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125s
+  8. Took 100 uL samples from each culture and stored in separate microtubes until ready to stain alongside 50 mL shake tubes.
+  9. Returned E125s to incubator.   14:40 
+
+Incubator (#81), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+See this lab book entry for staining process: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NDk4Mi45MDAwMDAwMDAwMDF8MTA2MzE3LzM4MzMvVHJlZU5vZGUvMzczNTQ3NjE4M3wxMjY0OC45
+
+  1. Added 100 uL samples from 6-WPs and E-flasks to staining buffer in 96WP and performed serial dilution by hand to achieve a 12.5% final dilution
+  2. Added culture IDs to plate map above
+  3. Incubated culture in stain at RT in dark for 20 - 30 minutes           
+
+  4. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp: 1     a/pm
+  5. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:    8029       
+
+  6. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (green fluorescent nuclei, stained with Sytox green)
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recGOMJp1SJRBUMu6/images
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+N/A
+
+Zaber observations/issues:
+
+N/A
+
+  100  % media changed on vessel(s)
+
+  1. 7694-F_DOLLY12-Sheep P11-1of1
+
+

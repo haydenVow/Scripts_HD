@@ -1,0 +1,119 @@
+
+
+EXPERIMENTAL PLAN- JANUS GREEN
+
+Janus green standard curve experiment
+
+Link to our last Janus green experiment with DOLLY12: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTQ5NS4wfDEwNjMxNy8xMTUwLTY4NTkvVHJlZU5vZGUvMjI0OTA3NDg2MnwzNzk1LjA=  
+  
+Day 1: Thaw C2C12 into T175s (7,000/cm2) in DMEM/F12 +20% FBS + 1x p/s.
+
+NOTE: It is not necessary to gelatin coat vessels for seeding C2C12s, they are
+plastic adherent.
+
+Day 2: 100% feed DMEM/F12 +20% FBS + 1x p/s  
+Day 3: Passage T175 and seed into 24 well plates in the morning then fix +
+stain + read the plate in the afternoon.  
+NOTE: As C2C12s are very prolific, they should be fixed on the same day as
+seeding in order to retain a relatively accurate known cell number. I suspect
+they will take around 4-5 hours to adhere to the plate, after which they can
+be fixed. It would be best to seed first thing in the morning to ensure there
+is time for the cells to adhere and be fixed and stained in the afternoon.
+
+Seeding plan: I suggest using 2 x 24 well plates with N=4 replicates for each
+cell density.  
+Note: Seed as a serial dilution, not by taking induvial aliquots of an initial
+cell suspension for each well.
+
+Plate 1.
+
+
+
+250,000125,00062,50031,25015,6257,813  
+R1R1R1R1R1R1  
+R2R2R2R2R2R2  
+R3R3R3R3R3R3  
+R4R4R4R4R4R4  
+  
+Plate 2.
+
+3,9061953.13976.563488.281  
+R1R1R1R1  
+R2R2R2R2  
+R3R3R3R3  
+R4R4R4R4  
+  
+Methods plan- C2C12 ELISA.
+
+After chosen differentiation period.
+
+  1. Fix cells 
+    1. Fix entire plate as we typically do at Vow
+    2. Gently aspirate the PFA and wash 3 times for 5 min with PBS (enough to cover cells)
+  2. Permeabilize cells. It is recommended to use a plate shaker (~300 rpm) during incubation steps. Any step involving removal of buffer or solution should be followed by gently tapping the plate on a paper towel to remove all solutions from the wells.
+    1. Remove PBS.
+    2. Add freshly prepared permeabilization buffer (0.2% PBST as we typically use at Vow) to each well such that the scaffold is sufficiently covered. Incubate for 15 min.
+    3. Remove permeabilization buffer and add 200 μL of blocking buffer to each well. Incubate for 2 hr.
+  3. Incubation with primary antibody
+    1. Prepare 1X primary antibody solution using the dilution typically used for immunostaining with that antibody at VOW, by diluting stock antibody in blocking buffer.
+    2. Remove blocking buffer and add diluted primary antibody solution to each well. Add antibodies as follows  
+Row 1. no antibody control (blocking buffer only)  
+Row 2-4. MyoG primary  
+Row 5. No primary control  
+Row 6-8 MF20 primary
+
+    3. Incubate overnight at 4°C. Note: To determine the background signal it is essential to omit primary antibody from at least one well containing cells for each experimental condition and detector antibody used.
+
+  4. Incubation with secondary antibody
+    1. Remove primary antibody solution and wash the microplate 3 times with PBS+0.05%Tween20 per well (sufficient to cover cells). Do not remove the last wash yet.
+    2. Prepare secondary antibody solution by diluting in blocking buffer- Note:  We should trial a few different dilutions of the HRP conjugated antibody as this is the first time we are using it. Protect antibodies from light.
+    3.   
+
+    4. Here's what I would recommend. Apply the antibodies in 3 different concentrations starting with the highest concentration (1:10,000) in row 1 (no primary control) and 2, then lower ones in row 3 (1:50,000) and 4 (1:100,000). And then repeat in rows 5-8 for the other antibody  
+Here is the product links  
+https://www.abcam.com/goat-mouse-igg2b-heavy-chain-hrp-ab97250.html  
+And: https://www.abcam.com/goat-mouse-igg1-hrp-preadsorbed-ab98693.html
+
+    5. Remove PBS+0.05%Tween20 and add the secondary antibody (enough to cover cells) and incubate for 2 hours.
+    6. Remove secondary antibody and wash 4 times with PBS+0.05%Tween20. Don't remove final wash yet. 
+    7. Prepare the HRP stop solution by mixing acetic acid, TMB and 0.03% H202 with the volume ratio of 4:1:5.  (Chris thinks the bottle already has the H2O2 etc in the mix, but check!) Remove PBS+0.05%Tween20 and dispense the HRP solution (enough to cover cells) and incubate the plate at in dark for 15 mins (this will have to be kept constant going forward to be able to compare samples and experiments).
+    8. Add an equal volume (to the amount of HRP) of stop solution (0.5M HCL) to the wells.
+    9. Immediately transfer 100ul of the coloured solution from each well and move to a new untreated 96 well plate for measurement. 
+    10. Remove all remaining reagent and wash with PBS 3x to remove and neutralize the HCl.
+    11. continue using this original plate for Janus Green as well (on the same samples as ELISA)
+
+
+
+Measure signal
+
+    9. Read the absorbance (optical density at 450nm) of each well with a plate reader.
+    10. Save the data and export raw data to Excel.
+
+
+
+  
+
+
+
+
+Technical Gap
+
+
+calibration curve cells vs dye intensity
+
+empty Zein to assess scaffold background adsorption of dye and antibodies
+
+C2C12 cells as positive myogenin control
+
+compare Janus Green quant to Derek`s Machine Learning
+
+
+Method/Procedure
+
+
+  1. Seed out cells in a dilution series (for Janus Green calibration) as well as constant cell numbers per well (for ELISA)
+    1.  Plate 1 seeding densities by column 
+    2. Plate 2 constant seeding density
+
+

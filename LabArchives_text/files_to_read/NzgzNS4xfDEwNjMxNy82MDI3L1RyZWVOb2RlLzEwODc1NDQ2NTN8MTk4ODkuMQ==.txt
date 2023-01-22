@@ -1,0 +1,23 @@
+
+
+Protocol for Guide ordering
+
+  1. Find gene of interest (GOI) through literature search. We are aiming to identify genes in which a down regulation may result in increased adaption to suspension. 
+  2. Search for Croc ortholog using KEGG data base (https://www.kegg.jp/kegg-bin/show_organism?org=cpoo)
+  3. Find gene in DNA sequence on database such as ensembl or NCBI (http://asia.ensembl.org/Crocodylus_porosus/Info/Index?db=core;g=ENSCPRG00005000173;r=MDVP01000046.1:14179757-14189361;tl=nYZjEw88baY0jGbz-7912201)
+  4. Download Fasta file of exon sequence you wish to target by zooming into the exon and downloading a fasta file of the sequence.
+  5. Copy Fasta DNA text 
+  6. Paste into new task in Benchling (https://benchling.com/signin/welcome#). If you don't have an account you will need one, they are free.
+  7. Use CRISPR guide design tool feature on Benchling to design guide. 
+  8. Copy guide sequence (excluding PAM sequence) and paste into genome database to confirm sequence is in correct location. The guides in the benchling design software should be already orientated in the correct direction meaning that you can simply copy and paste them without needing to consider whether they are on the forward or reverse strands. The PAM sequence should be directly 3' of the end of the guide sequence. 
+  9. Check for off targets by clicking on all hits and looking for PAM sequences directly adjacent to the guide sequence
+  10. When satisfied with the guide sequence and location, copy guide sequence into IDT and spreadsheet (still excluding the PAM sequence). 
+  11. Order guide sequences as Alt-R® CRISPR-Cas9 sgRNA, 2 nmol. These are the preassembled guides. 
+
+The genes and guide design for genes can be found in the spreadsheet below
+
+https://docs.google.com/spreadsheets/d/18F3f0A_31NB2KgLpeKU39AlFFEhewWhTDLR1vEJxapg/edit#gid=1477135554
+
+  
+
+

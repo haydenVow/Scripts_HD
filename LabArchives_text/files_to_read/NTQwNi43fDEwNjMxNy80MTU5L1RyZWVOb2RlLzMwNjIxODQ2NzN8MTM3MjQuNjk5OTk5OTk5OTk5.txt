@@ -1,0 +1,202 @@
+
+
+Written by: Tom
+
+
+Background
+
+
+A major focus in achieving viable suspension cultures has been the process of
+developing a high-throughput platform to analyse large numbers of suspension
+cultures (>50) simultaneously. As a result it has become crucial to optimise
+separate processes' that enable the pool party team to obtain useful metrics
+such as cell numbers, to quantify performance of certain culture conditions.
+In the past this has predominantly been fluorescence based such that each
+individual culture condition are stained with both a live and dead cell
+tracker. These stains generally bind to nuclei acid material present in the
+nucleus or converted into a membrane impermeable molecule in the cytoplasm or
+organelle capable of florescence. All stained cultures are then imaged under
+the respective florescent channels, according to which stain was administered,
+using the automated fluorescence microscope system known as Zaber. To obtain
+cell counts on the live and dead stained images an image processing tool
+called FIJI is utilised to automatically analyse the images to identify
+"cells" according to their fluorescence, size and morphology. Despite this
+process being semi-automated with minimal human input there have been several
+shortcomings during its development, namely the difficulties in obtaining
+consistent live/dead staining, and weak fluorescence observed from live cell
+stains. Consequently this has made it difficult in obtaining accurate cell
+counts using current macro codes. In addition it is unclear if the results
+obtained from current FIJI analyses are representative of actual cell numbers.
+Therefore in response to this we aim to screen multiple live/dead stains to
+identify a combination that produces the most consistent results across
+several factors. Furthermore it is also necessary to screen which live/dead
+stains can adequately fluorescence such that they can observed on the Zaber
+and detected using our current suspension macros.
+
+
+Key results
+
+
+The key results are as follows:
+
+  1. Dilution after the initial 30 minute staining period was useful for increasing contrast, and the most optimal dilution ratio was 16x.
+  2. All methods tended to underestimate total cell count for freshly thawed cell suspensions
+  3. The only staining methods that yielded counts that were close to the Trypan Blue exclusion method for total cells with fresh and >30-day-old cell suspensions were ReadyFlow (Hoechst 33342 formulation for flow cytometry) with Sytox Green (see Figure 5, below) and ReadyFlow with Propidium Iodide
+  4. Most methods overestimated the dead cell counts except for Calcein AM with Propidium Iodide and ReadyProbes (Hoechst 33342 formulation for fluorescence microscopy) with Sytox Green.
+
+The raw data is collated here:
+https://docs.google.com/spreadsheets/d/1yy1XKdkhQpvGd8ObtqlXxbJPKwWdE9kFq9Bg5LUmVak/edit?usp=sharing
+
+The data was analyzed using GraphPad Prism, the file can be found here:
+https://drive.google.com/file/d/1QyyzIgeSy4G3wn5MtPFFinj_NHCQ6jSB/view?usp=sharing
+
+
+Discussion
+
+
+In Figures 1-4, it can be seen that the calculated cells/mL (already adjusted
+for dilution ratio) increases to a maximum at 16x dilution and then plateaus.
+If this were simply due to the fact that the macro cannot distinguish close or
+overlapping cells at high cell concentrations, we would expect to see the
+cells/mL count increase across all dilutions. Furthermore, we would expect not
+to see this trend in the >30-day-old samples, as the cell concentrations were
+very dilute. Neither of these phenomena were observed, so there must be
+another explanation.
+
+One possibility is that diluting the samples after staining also dilutes the
+background due to free, unbound stain, without diluting the intracellular
+stain, so that signal-to-noise ratio (contrast) is increased. Increased
+contrast allows the FIJI-based image processing to correctly identify cells
+with lower fluorescence that may be washed out by background. As the counts do
+not continue to increase with further dilution beyond 32x, we can conclude
+that the background is sufficiently reduced below the threshold of sensitivity
+to enable identification of all fluorescent events in the micrographs. We can
+proceed under the assumption that results obtained at the 16x dilution
+represent the most accurate results for that particular staining method.
+
+In figure 1, we can see that ALL methods underestimate the total number of
+cells in freshly thawed suspension (though ReadyFlow + Propidium Iodide gives
+the highest total count). This could be due to an excess of fluorescent
+events, overwhelming the ability of the image processing to accurately count
+all cells. However, the FIJI macros were developed to accurately count
+approximately 1500 events per well in a 96 well plate, which is approximately
+the number of events at the 16x and 32x dilutions. So, this is unlikely to be
+the reason. Another possible explanation is that the fresh cells can
+effectively prevent the stain from passing through their membranes, and/or the
+cells can efficiently export the stain from the cytoplasm once it passes their
+membranes. Either way, this was a consistent trend and is therefore important
+to consider when using this method.
+
+On the other hand, several methods (CMFDA + DAPI, Calcein AM + DAPI, ReadyFlow
++ Sytox Green) accurately reflected total cell counts by Trypan blue exclusion
+in >30-day-old cell suspensions, as shown in Figure 2. This is very important
+because at and beyond 30 days is when a successfully suspension-adapted cell
+line will begin to grow rapidly, and being able to observe this total cell
+count increase is essential to identifying the successful cell line.
+
+DAPI-based dead stains tended to overestimate the dead cell count, as shown in
+Figures 3 and 4. This is probably due to the fact that DAPI does permeate even
+live cell membranes after enough time and/or at high concentrations. The
+ReadyFlow-based methods also tended to overestimate the dead cell counts in
+the freshly thawed cell suspension (Figure 3), possibly due to photo-
+conversion of Hoechst to forms that fluoresce in the green and especially the
+red channels (Jež et al. 2012, Piterburg  et al. 2012, Żurek-Biesiada et al.
+2013, Karg and Golic, 2018). This is supported by the fact that accurate dead
+cell counts for the freshly thawed cell suspension was obtained by the
+combination of ReadyProbes (a much less fluorescent formulation of Hoechst)
+with Sytox Green and Calcein AM with Propidium Iodide but NOT ReadyProbes with
+Propidium Iodide. Red stains such as Propidium Iodide should therefore not be
+used with Hoechst33342 stains.
+
+Figure 1: Total (live + dead) cell count for all of the counting methods
+tested on a freshly thawed cell suspension. Markers represent the mean of n=2,
+error bars represent the range.  
+
+
+
+Figure 2: Total (live + dead) cell counts for all of the counting methods
+tested on a >30-day-old cell suspension. Markers represent the mean of n=2,
+error bars represent the range.  
+
+
+
+  
+
+Figure 3: Dead cell counts for all of the counting methods tested on a freshly
+thawed cell suspension. Markers represent the mean of n=2, error bars
+represent the range.  
+
+
+
+Figure 4: Dead cell counts for all of the counting methods tested on a
+>30-day-old cell suspension. Markers represent the mean of n=2, error bars
+represent the range.  
+
+
+
+  
+
+ReadyFlow (total cells)
+
+
+
+
+
+Sytox Green (dead cells)
+
+ Figure 5: Fluorescence micrographs of Hoechst ReadyFlow (top) + Sytox Green
+(bottom), 16x dilution, freshly thawed suspension.
+
+  
+
+
+Limitations
+
+
+Key limitations:
+
+  1. Only one type of cell was tested (DOLLY12 fibroblasts), meaning that the results may not be confidently extrapolated to other cell types or species
+  2. Only 2 replicates were completed for each condition; in the case where the range is large, the mean may be not be accurately indicated by these replicates, leading to potential false positives and/or negatives.
+  3. Different concentrations of each stain were not tested, leading to potential false negatives
+  4. The image acquisition (lamp intensity, gain, dynamic adjustment between panels in a stitched image) was not optimized, leading to potential false negatives
+  5. Exposure time was set differently for each row (representing a specific combination of stains) and these settings were not recorded, leading to potential difficulty in replicating the method
+
+
+Conclusions
+
+  1. Hoechst 33342 ReadyFlow reagent should be used for total cell counting
+  2. Sytox Green should be used with Hoechst 33342 ReadyFlow if a dead cell count is desired
+  3. These stains are accurate for F_DOLLY12 cells >30 days in suspension
+  4. These stains underestimate total cells and overestimate dead cells in freshly thawed F_DOLLY12 suspensions
+
+
+Next steps
+
+  1. Write lab book template for preparation and use of ReadyFlow with Sytox Green OR Propidium Iodide for live/dead staining of suspension cultures
+  2. Continue to compare counts to Trypan Blue exclusion method and test incremental changes in the staining method to further improve the accuracy for freshly-thawed cell suspensions.
+  3. Test the method on other cell types in other species against the Trypan Blue exclusion method.
+
+
+References
+
+
+Jež M, Bas T, Veber M, et al. The hazards of DAPI photoconversion: effects of
+dye, mounting media and fixative, and how to minimize the problem. Histochem
+Cell Biol. 2012;139:195-204\. doi: 10.1007/s00418-012-1039-8.
+
+Piterburg M, Panet H, Weiss A. Photoconversion of DAPI following UV or violet
+excitation can cause DAPI to fluoresce with blue or cyan excitation. Journal
+of Microscopy. 2012;246:89-95\. doi: 10.1111/j.1365-2818.2011.03591.x.
+
+Żurek-Biesiada D, Kędracka-Krok S, Dobrucki JW. UV-activated conversion of
+Hoechst 33258, DAPI, and Vybrant DyeCycle fluorescent dyes into blue-excited,
+green-emitting protonated forms. Cytometry. 2013;83A:441-451\. doi:
+10.1002/cyto.a.22260.
+
+Karg TJ, Golic KG. Photoconversion of DAPI and Hoechst dyes to green and red-
+emitting forms after exposure to UV excitation. Chromosoma.
+2018;127(2):235-245. doi:10.1007/s00412-017-0654-5
+
+  
+
+

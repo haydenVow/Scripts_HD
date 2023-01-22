@@ -1,0 +1,145 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: VB
+
+
+
+
+Thaw Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)  
+ConditionSeeded Flask Type  
+  
+3611-Culture-8616-Vial-1of23
+
+3612-Culture-8616-Vial-2of23
+
+8792-F_CHOMP09-Crocodile P8-1of1  
+Condition 1  
+10 uM P53i, 300 mj/cm2 UV100 mm plate  
+8793-F_CHOMP09-Crocodile P8-1of1  
+Condition 2  
+10 uM P53i, 150 mj/cm2 UV  
+8794-F_CHOMP09-Crocodile P8-1of1  
+Condition 3  
+30 uM P53i, 300 mj/cm2 UV  
+8795-F_CHOMP09-Crocodile P8-1of1  
+Condition 4  
+30 uM P53i, 150 mj/cm2 UV  
+8796-F_CHOMP09-Crocodile P8-1of1  
+Control 1  
+0 uM P53i, 300 mj/cm2 UV  
+8797-F_CHOMP09-Crocodile P8-1of1  
+Control 2  
+0 uM P53i, 150 mj/cm2 UV  
+  
+8798-F_CHOMP09-Crocodile P8-1of1  
+Control 3  
+30 uM P53i, 0 mj/cm2 UV  
+  
+8799-F_CHOMP09-Crocodile P8-1of1  
+Control 4  
+0 uM P53i, 0 mj/cm2 UV, + heat (12.5 min)  
+  
+8800-F_CHOMP09-Crocodile P8-1of1  
+Control 5  
+0 uM P53i, 0 mj/cm2 UV  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth MediaMix 7929  
+  
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+1\. Aliquoted:
+
+  * Growth medium (for re-suspending and counting cells):  5 mL in 1 x 15 mL tube 
+  * Growth medium (for seeding):   85 mL in 1 x 70 mL sterile urine container  
+    * Time that aliquots were placed in the water bath (set to 30ºC) to warm before use:   15:05  a/pm 
+
+  
+
+
+
+
+## Thaw and seed vial
+
+2\. Collected the cryovials from LN2 storage & place in foam floater in water
+bath for MAXIMUM 5 min    15:22 - 15:25 a/pm
+
+Location where cryovials were collected from:
+
+Vial details: 2 x  F_CHOMP09 cryovials at 2M cells each for a total of 4M
+cells
+
+Brew
+
+Tower/Bucket # 5
+
+Box/Cane # 5
+
+Vial location: B1, B2
+
+Vial ID(s): 3611-Culture-8616-Vial-1of23, 3612-Culture-8616-Vial-2of23
+
+3\. Ethanol sprayed & transferred the vial(s) to the BSC.
+
+5\. Added 500 µL of Growth Medium from 5 mL aliquot (to generate a total
+volume of 1 mL in the cryovial) to each cryovial, resuspended the cell
+suspensions gently to reduce osmotic shock.
+
+6\. Collected the entire 1 mL of both cell suspensions & transferred into the
+pre-warmed tube 5 mL aliquot of Growth Medium
+
+7\. Re-suspended cell suspension with a 5 mL serelogical pipette, then took 1
+x 10 uL sample for cell count (note that total volume for cell count will be 6
+mL due to 500 uL being added from each thawed vial to the 5 mL growth medium
+aliquot)
+
+  * Cell count:3,024,000    
+
+8\. Using a 5 mL serological pipette, resuspended & moved 6 mL cell suspension
+to pre-warmed  85 mL growth medium aliquot (creating a 91 mL cell suspension).
+Note: perform 1 - 2 washes of 15 mL tube with ~ 5 mL of 91 mL cell suspension
+to ensure all cells have been moved.
+
+9\. Transferred 10 mL of  91 mL cell suspension to each 100 mm plate
+
+10\. Transfered plates to incubate at: 16:23
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [X] 30ºC, 5% CO2 (reptilian cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

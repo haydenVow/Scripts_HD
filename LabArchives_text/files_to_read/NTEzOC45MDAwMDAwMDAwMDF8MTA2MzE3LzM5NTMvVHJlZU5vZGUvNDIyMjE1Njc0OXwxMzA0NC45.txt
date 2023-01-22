@@ -1,0 +1,294 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: AK  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Condition  
+Seeded Flask Type  
+  
+1739-Culture-4362-Vial-5of5
+
+8037-F_DOLLY12-Sheep P3-1of3  
+8038-F_DOLLY12-Sheep P3-2of3  
+8039-F_DOLLY12-Sheep P3-3of3
+
+DOLLY raw isolate  
+50 mL bioreactor spin tubes  
+2119-Culture-5951-Vial-4of15  
+2117-Culture-5951-Vial-2of15  
+2118-Culture-5951-Vial-3of15  
+8040-F_DOLLY12-Sheep P5-1of3  
+8041-F_DOLLY12-Sheep P5-2of3  
+8042-F_DOLLY12-Sheep P5-3of3  
+DOLLY MCB  
+  
+2306-Culture-6303-Vial-27of115  
+2303-Culture-6303-Vial-24of115  
+2305-Culture-6303-Vial-26of115  
+8043-F_DOLLY12-Sheep P8-1of3  
+8044-F_DOLLY12-Sheep P8-2of3  
+8045-F_DOLLY12-Sheep P8-3of3  
+DOLLY WCB  
+  
+1370-Culture-3905-Vial-17of32  
+8046-F_NANDO3-Chicken P3-1of3  
+8047-F_NANDO3-Chicken P3-2of3  
+8048-F_NANDO3-Chicken P3-3of3  
+NANDO raw isolate  
+  
+3376-Culture-7768-Vial-2of11  
+3377-Culture-7768-Vial-3of11  
+3378-Culture-7768-Vial-4of11  
+8049-F_NANDO3-Chicken P5-1of3  
+8050-F_NANDO3-Chicken P5-2of3  
+8051-F_NANDO3-Chicken P5-3of3  
+NANDO MCB  
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12 + 5% FBS + 1X P/S + 0.1% pluronic + ACA (1:100)
+
+*All culture conditions will be in the same media
+
+Make up 300 mL of media
+
+Media ingredient  
+Amount required  
+  
+DMEM  
+139.35 mL  
+  
+F12  
+139.35 mL  
+  
+FBS (5%)  
+15 mL  
+  
+Pluronic (0.1%)  
+0.3 mL  
+  
+ACA (1:100)  
+3 mL  
+  
+P/S (1X)  
+3 mL  
+
+
+  
+  
+Culture Map:
+
+DOLLY12 Raw Isolate (x3)
+
+  1. 8037-F_DOLLY12-Sheep P3-1of3
+  2. 8038-F_DOLLY12-Sheep P3-2of3
+  3. 8039-F_DOLLY12-Sheep P3-3of3
+
+DOLLY12 MCB (x3)
+
+  1. 8040-F_DOLLY12-Sheep P5-1of3
+  2. 8041-F_DOLLY12-Sheep P5-2of3
+  3. 8042-F_DOLLY12-Sheep P5-3of3
+
+DOLLY12 WCB (x3)
+
+  1. 8043-F_DOLLY12-Sheep P8-1of3
+  2. 8044-F_DOLLY12-Sheep P8-2of3
+  3. 8045-F_DOLLY12-Sheep P8-3of3
+
+NANDO3F Raw Isolate (x3)
+
+  1. 8046-F_NANDO3-Chicken P3-1of3
+  2. 8047-F_NANDO3-Chicken P3-2of3
+  3. 8048-F_NANDO3-Chicken P3-3of3
+
+NANDO3F MCB (x3)
+
+  1. 8049-F_NANDO3-Chicken P5-1of3
+  2. 8050-F_NANDO3-Chicken P5-2of3
+  3. 8051-F_NANDO3-Chicken P5-3of3
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+GM mixM6806  
+  
+###  
+
+
+
+
+1\. Prepare growth media for each condition (each condition is in the same
+media).  
+
+2\. Transferred the required volume of each reagent in the table above to each
+vessel and then placed vessels in incubator for a minimum of 20 minutes prior
+to use:
+
+  * Growth media (for seeding) 50 mL bioreactor spin tubes:   12 mL  (3x replicates for each condition in map - 15 in total) 
+  * Growth media 5% FBS:    
+  3 mL   for DOLLY12 raw isolate cell resuspension  
+  3 mL   for DOLLY12 MCB cell resuspension  
+  3 mL   for DOLLY12 WCB cell resuspension  
+  3 mL   for NANDO3F raw isolate cell resuspension  
+  3 mL   for NANDO3F MCB cell resuspension  
+  
+
+  * Growth media 5% FBS:   10  mL  (5x aliquots)   for neutralising   
+
+  * Time that aliquot was placed in the incubator to warm before use:  15:17    
+
+  
+
+
+
+
+## Thaw and seed vials:
+
+Amount of cells required =  3,000,000 cells for each condition [RI/MCB/WCB]
+(to seed cells at 200,000 cells/mL):
+
+\- 15x 50 mL bioreactor spin tubes (5 mL media in each tube) at 1,000,000
+cells per tube =  15,000,000 cells
+
+  
+
+1\. Collected the cryovials (DOLLY12) from LN storage & place in foam floater
+in water bath for 5 min     15:46  \- 15:51  
+
+  
+
+2\. Collected the cryovials (NANDO3) from LN storage & place in foam floater
+in water bath for 5 min    16:24  \- 16:29  
+
+  
+
+Vial details:  11   x  DOLLY12/NANDO3F Fibroblast  cryovials at  1M  cells
+each for a total of  11 M  cells
+
+IDPassageVial TypeCell lineStorage LocationTowerBoxBox PositionAmount of cells  
+1739-Culture-4362-Vial-5of5  
+2  
+Raw isolateDOLLY12106-Ralph St-Main Lab-Brew  
+5  
+2  
+A5  
+1M  
+2119-Culture-5951-Vial-4of15  
+2117-Culture-5951-Vial-2of15  
+2118-Culture-5951-Vial-3of15  
+4  
+MCBDOLLY12106-Ralph St-Main Lab-Brew  
+5  
+2  
+A7/A8/A9  
+1M  
+2306-Culture-6303-Vial-27of115  
+2303-Culture-6303-Vial-24of115  
+2305-Culture-6303-Vial-26of115  
+7  
+WCBDOLLY12106-Ralph St-Main Lab-Brew  
+1  
+2  
+C6/C8/C9  
+1M  
+1370-Culture-3905-Vial-17of32  
+2  
+Raw isolateNANDO3F106-Ralph St-Main Lab-Brew  
+5  
+1  
+C9  
+1M  
+3376-Culture-7768-Vial-2of11  
+3377-Culture-7768-Vial-3of11  
+3378-Culture-7768-Vial-4of11  
+4  
+MCBNANDO3F106-Ralph St-Main Lab-Brew  
+5  
+1  
+A2/A3/A4  
+1M  
+  
+`2. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+3\. Added     500 uL   of growth media (media prepared for neutralising) to
+generate a total volume of 1 mL in each of the cryovials, resuspending the
+cell suspension gently to reduce osmotic shock.
+
+4\. Transfer entire cell suspensions into the remainder of the aliquot of
+neutralising medium
+
+5\. Centrifuge the cells at 300 x g for 5 min at RT:     15:58   \-  16:03
+(DOLLY)    16:34  -  16:39  (NANDO)  
+
+6\. Removed supernatant to remove residual DMSO from cells. Note be extra
+careful not to aspirate any cells  
+
+7\. Resuspended the different pellet conditions [RI/MCB/WCB] in the    3  mL
+of growth media prepared for seeding the cells.
+
+8\. Transfer   1000 uL of the cell suspension into each of the pre warmed
+growth media conditions (to seed cells at 200,000 cells/mL - 8 conditions
+total). Gently resuspended and distribute the cells evenly in 4 mL of pre-
+warmed growth media using a p1000.
+
+9\. Transferred flask/plates(s) to incubate at: ` 16:20 (DOLLY)    16:54
+(NANDO)  
+`
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Incubator (#116) [Main/Library/Production]
+
+10\. 50 mL bioreactor spin tubes were shaken at 206 RPM to achieve  P/V ~60
+W/m3 as per the power/kLa calculator:
+https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-
+CnM0DcukL4/edit?pli=1#gid=1121358223&range=17:17
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+Thawed DOLLY and NANDO frozen vials into spin tube for suspension
+
+
+
+
+Relevant Images/Figures:
+
+N/A
+
+

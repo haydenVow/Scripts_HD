@@ -1,0 +1,73 @@
+Performed by: LL EC
+Process
+
+
+  1. Make up 100 mL of RPMI/HyCellCHO basal media by combining 75 mL of RPMI with 25 mL of HyCellCHO
+  2. Make up 12 x working stock dilutions according to table below 
+  3. Store in fridge until required
+
+Spreadsheet:
+https://docs.google.com/spreadsheets/d/1W7sB074YW1TVqrsUGhMeOTvBtdr3uOholthzvtrJFWM/edit#gid=248147944
+
+  
+Factor AmountsWorking Stock Dilutions  
+Factorhigh g/L amt (1)total amt needed to order (g)working stock concentration
+(g/L)RPMI/Hycell (75/25) amt (uL)concentrated stock amt (uL)  
+Glutamax000156.03744.0  
+Trace elements B0003713.0187.0  
+KSR0002028.01872.0  
+Sodium pyruvate0002028.01872.0  
+RevitaCell0002028.01872.0  
+MEM essential amino acids000156.03744.0  
+Cell boost supplement 000156.03744.0  
+Yeast2-99.9064242964.0936.0  
+IGF-1-LR30.00010.000004680.00123806.493.6  
+EGF0.000020.0000009360.000243881.318.7  
+Putrescine dihydrochloride0.040.0018720.483806.493.6  
+L-Ornithine monohydrochloride0.040.0018720.483806.493.6
+
+
+ReagentID  
+HyCell  
+a10242  
+  
+RPMI  
+s4624  
+  
+Glutamax  
+s4747  
+  
+Yeast  
+m10491  
+  
+L-Orn.  
+m10489  
+  
+Putrescine  
+m10490  
+  
+Revitacell  
+s4640  
+  
+Sodium pyruvate  
+s4784  
+  
+IGF  
+m9190  
+  
+EGF  
+m9201  
+  
+MEM essential AAs  
+s5365  
+  
+MEM non-essential AAs  
+s5363  
+  
+Trace elements B  
+s1544  
+  
+KSR  
+s4605  
+
+

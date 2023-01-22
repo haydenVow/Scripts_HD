@@ -1,0 +1,173 @@
+
+
+## Performed by: Chris  
+
+
+
+
+Passage Culture IDs:
+
+Vessel type(s)Vessel IDVessel location (weekend only)  
+Control  
+10694-F_CHOMP_07-Crocodile P7-1of5  
+116-Ralph St | Main Lab | Sanyo Incubator 2  
+  
+B12 Concentration 110695-F_CHOMP_07-Crocodile P7-2of5  
+116-Ralph St | Main Lab | Sanyo Incubator 2  
+  
+  
+B12 Concentration 2
+
+10696-F_CHOMP_07-Crocodile P7-3of5
+
+  
+116-Ralph St | Main Lab | Sanyo Incubator 2  
+  
+  
+B12 Concentration 310698-F_CHOMP_07-Crocodile P7-5of5  
+116-Ralph St | Main Lab | Sanyo Incubator 2  
+  
+  
+B12 Added later10697-F_CHOMP_07-Crocodile P7-4of5  
+116-Ralph St | Main Lab | Sanyo Incubator 2  
+  
+  
+  
+  
+
+Note: Vessels were found in incubator 116.
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Tryple9733  
+  
+dPBS (for washing & neutralising)10268  
+  
+Growth Media10207  
+  
+  
+  
+
+  
+
+
+
+
+Preparation:
+
+1\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    50   mL in  1     tube
+  2. dPBS (for neutralising)     100  mL in    2   tubes
+  3. dPBS (for pellet resuspension):     25  mL in    1    tube
+  4. Times that all aliquots were placed in the water bath to warm before use   09 : 46 a/pm 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+## Procedure
+
+Note: refer to the table at the bottom of this entry for relevant volumes of
+each reagent per flask type.  
+
+  1. ~1 mL of growth media from each flask was sampled and stored in 1.5 mL tubes (labelled with culture ID and "media control"). These samples were stored at -80C for later use in the B12 detection ELISA as a set of positive controls.
+  2. Washed the flask(s) with pre-warmed dPBS
+    1. Volume/flask used:   10 mL    
+    2. Time completed:     10 : 25 a/pm 
+  3. Added    10mL  TrypLE  to each vessel and incubated at   30   ˚C for    5    min.  
+Notes:  
+\- Mammalian fibroblasts typically require 15-18 minutes of incubation with
+TrypLE , slightly longer than MuSCs.  
+\- CHOMP fibroblasts only require ~5 minutes with TrypLE (different to
+mammalian species).
+
+  4. Removed the stripped cells from the flask(s) using a serological pipette
+  5. Washed each flask with   10  mL dPBS and added this to the cells from each flask
+  6. Centrifuged at 600-700 x g for 5 min
+    1. Start time for centrifugation was   10:50  a/pm 
+  7. Aspirated the supernatant(s) to waste
+  8. Resuspended pellets in      5  mL  dPBS each
+  9.  Performed a cell count using the haemocytometer and recorded the cell count data in widget or the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see link below): https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0 
+  10. Once the cells from each flask were counted, centrifuged at 600-700 g for 5 minutes
+    1. Start time for centrifugation was  11 :20  a/pm
+  11. Supernatants from all tubes were carefully removed and ~1 mL stored in separate 1.5 mL tubes for freezing. 
+  12. The remaining cell pellet tubes were labelled with: 
+    1. EPIC# (30944)
+    2. date 
+    3. sample type/flask ID
+  13. The samples were then frozen at -80C until needed for analysis
+
+
+
+
+Cell Count Data
+
+Cell counts were performed on sub-samples from each 5mL cell suspension. The
+sub samples were stored at 4C and the counts were performed ~2-3 hours after
+the harvest and freezing of the cells had taken place (due to logistics and
+availability of people to do this work). Given that the counts were for
+information purposes only and not required to progress to the next step, it
+was not necessary to perform the counts prior to freezing each pellet.
+
+Counts can be found in the Cell Count Spreadsheet
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+See screen capture of the raw data from each count below.
+
+The results of the counts (also captured in a screen capture below) indicate
+that additional B12 in the growth media may have some detrimental affect on
+total cell yield or proliferation.
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+
+
+
+Perform passage using below volumes:
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+  
+  
+  
+
+

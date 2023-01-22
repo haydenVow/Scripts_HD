@@ -1,0 +1,109 @@
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+M10146  
+  
+KSR  
+S4605  
+  
+IGF-1 - LR3  
+M9190  
+  
+b-FGF  
+M9371  
+  
+DMEM/F12 + 20% FBS + 1% P/SM10128  
+  
+TrypleA9289  
+  
+dPBSA10205  
+  
+FBS  
+s4741  
+  
+PRF DMEM/F12  
+s3301  
+  
+  
+  
+
+
+
+
+BASE MEDIA PREPARATION:
+
+HYCELLCHO + SUPPLEMENT MEDIA PREPARATION:
+
+  1. Hycell Cho media was prepared for the suspension culture vessels below, 
+    1. 5x384 well plates per Knockout condition, 
+    2. 1x50mL bioreactor tube per knockout condition, 
+    3. 1x50mL bioreactor tube for nucleofection control. 
+  2. 8 x 384 well plates (50 uL per well) = 160 mL
+  3. 3 x mini bioreactor tubes (5 mL per tube) = 15 mL
+  4. Total = 175
+  5. 1.1 x 207 = 193 mL Hycell Cho media was prepared using the following volumes in the range below:
+
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043&range=A8:E15
+
+GM + KSR + F_CHOMP09 (5G) supplement
+
+  
+  
+  
+  
+  
+Final growth medium vol (mL)193  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Base mediumNANANA153.63  
+KSRNANANA38.6  
+FGF0.00010.050.0190.39  
+IGF10.00010.050.0190.39  
+  
+  
+  
+Total medium vol (mL)193.00  
+  
+  
+
+  
+
+DMEM/F12 + 20% FBS + 1 x P/S media was aliquoted for adherent cultures  
+
+  * 1x 10cm plate per knockout  condition/nucleofection control.  
+  * 1x 384 wp, 1 for each knockout condition (50uL per well).
+
+3 x 10cm plates = 30mL
+
+2x 384 well plates = 38.4mL
+
+Total = 68.4 x 1.1 = 75 mL
+
+  
+
+
+
+
+PREPARE FACS BUFFER
+
+  1. 20mL of FACS buffer was prepared (PRF DMEM/F12 + 2% FBS).
+    1. 400uL FBS + 19.6mL PRF DMEM/F12
+  2. FACS buffer was sterile filtered through a 0.2 µm filter.
+  3. Buffer was Stored at 4ºC until transport to FACS sorting facilit, fridge in Library lab. bottom shelf on fridge door
+
+
+
+
+OBSERVATIONS
+
+The media hasn't been aliquotted into plates. Plates will be filled on
+11-2-2022, all aliquoted media was left at 4 degres in the fridge in the
+library lab.
+
+

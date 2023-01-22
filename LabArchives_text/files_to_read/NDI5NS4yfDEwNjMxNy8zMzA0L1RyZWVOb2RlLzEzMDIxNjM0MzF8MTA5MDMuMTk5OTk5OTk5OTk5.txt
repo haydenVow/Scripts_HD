@@ -1,0 +1,246 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: LL
+
+
+
+
+Media
+
+ ~~~~1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent
++ 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF + 1x p/s  
+2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic +100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+ ~~3\. CDM4 CHO + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~  0.1% pluronic~~ 4mM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+~~did not arrive in time  ~~~~  
+4\. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+5\. Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4mM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+6\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic  \+ 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+
+
+
+
+1\. Aliquoted growth media for each condition and added growth factors - See
+suspension trail #7 on the media spreadsheet for details here:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+
+2\. Add the following reagents to the water bath and media to incubator and
+warm at 37 degrees Celsius    13:15
+
+  * Growth media (for seeding) shaker tubes:   (5mL for each condition with 2 x each conditions) = 10ml of each media   
+
+  * Growth media (for seeding) E125 flasks:   25mL  for each of CDM4 Avian and CD CHO media only  
+  * Washing medium for NANDO: 5mL DMEM/f12 +10% FBS + 1x p/s
+  * Re-suspension medium for DOLLY12  5mL DMEM/f12 +10% FBS + 1x p/s
+  * dPBS (for washing and neutralising DOLLY12) 200 mL
+  * Tryple (for passaging DOLLY12) 100 mL
+
+
+
+
+## Thaw and seed NANDO3
+
+  1. Collected the cryovial from Liquid Nitrogen storage & place in foam floater in water bath for 5 min     15:13 - 15:18    ~~  
+~~Location where cryovial was collected from:  
+Vial details:   ~~6~~ 5  x  NANDO3F  cryovials at  1 million  cells each for a
+total of    ~~6~~ 5 million  cells  
+Brew
+
+Tower #5  
+
+Box #1  
+
+Vial location: A3, A7, A8, A9, B1 & ~~C1~~  
+
+Vial IDs:
+
+1365-Culture-3905-Vial-12of32
+
+1366-Culture-3905-Vial-13of32
+
+1367-Culture-3905-Vial-14of32
+
+1368-Culture-3905-Vial-15of32
+
+1369-Culture-3905-Vial-16of32  
+
+  2. Wiped down the vial with 70% ethanol and transferred to BSC.
+  3. Transferred  500 uL of washing to each vial to make total volume up to 1 mL. Pipette-mixed gently. 
+  4. Transferred entire 1 mL from each vial and add to the remaining aliquot of washing medium.
+  5. Take 20 uL aliquot and perform cell count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count 4006800
+
+  6. Transfer cell suspension containing 500,000 cells to 3 x separative 50 ml shaker tubes, and 2.5M cells to 15ml tube. (Note: we don't want to waste cells so if you have extra you can seed at a higher density) 
+  7. Centrifuged the cells at 300 x g for 5 min at RT. 15:32 - 15:37
+  8. Removed supernatant to remove residual DMSO from the cells. 
+  9. Re-suspended the 500,000 cell pellets in 5 mL 3 of one of the pre-warmed medias. 
+  10. Re-suspended the 2.5M cell pellet in the pre-warmed growth medium in the E125 flask. Transfer the cell suspension back to the shake flask. Incubate at 37ºC, 5% CO2 
+  11. Set shaker to continuous shaking at 206 RPM for the 50ml flasks and 120RPM for the E125S
+  12. Collected a 6th cryovial to seed remaining 2 x 50 mL shake tubes ~~~~1370-Culture-3905-Vial-17of32 ~~~~  
+
+  13. Placed in waterbath 15:53 - 15:58
+  14. Transferred  500 uL of washing to vial to make total volume up to 1 mL. Pipette-mixed gently. 
+  15. Transferred entire 1 mL from vial and add to the remaining aliquot of washing medium
+  16. Take 20 uL aliquot and perform cell count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count 690,000
+
+  17. Centrifuged the cells at 300 x g for 5 min at RT. 16:04 - 16:09
+  18. Removed supernatant to remove residual DMSO from the cells. 
+  19. Re-suspended the 500,000 cell pellets in 1 mL fresh medium (D/F+10%FBS+1xP/S)
+  20. Collected a 7th cryovial to seed remaining 2 x 50 mL shake tubes
+  21. Placed in waterbath 16:15 - 15:19
+  22. Transferred  500 uL of washing to vial to make total volume up to 1 mL. Pipette-mixed gently.
+  23. Transferred entire 1 mL from vial and add to remaining aliquot of washing medium. Combined with cell suspension from thawed vial #6.
+  24. Take 20 uL aliquot and perform cell count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count 854,000
+
+  25. Centrifuged the cells at 300 x g for 5 min at RT. 16:21 - 16:26
+  26. Removed supernatant to remove residual DMSO from the cells. 
+  27. Ressuspended cells in remaining 2 x 5 mL aliquots of growth medium in shake tubes
+  28. Incubate at 37ºC, 5% CO2 16:30
+  29. RPMI & CD CHO NANDO got 430K cells each
+  30. Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+
+
+
+F_NANDO3 Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+  
+1363-Culture-3905-Vial-10of32,
+
+1366-Culture-3905-Vial-13of32,
+
+1360-Culture-3905-Vial-7of32,
+
+1368-Culture-3905-Vial-15of32,
+
+1365-Culture-3905-Vial-12of32,
+
+1369-Culture-3905-Vial-16of32,
+
+1385-Culture-3905-Vial-32of32
+
+7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+Shake tubes  
+  
+7700-NANDO3F-Chicken P3-1of1  
+E125
+
+
+  
+  
+## Passage and seed DOLLY12
+
+1\. Removed vessel(s) from the incubator   13:41  
+
+2\. Washed the vessel(s) with dPBS (a5618) (warmed).
+
+3\. Added   10  mL tryple (m5076) to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   13:45 - 13:59    
+
+4\. Neutralised with    10 mL   dPBS and combined cell suspension into    1 x
+50 mL tube  
+
+5\. Centrifuged at 650 x g for 5 min 14:04 - 14:09  
+
+6\. Resuspend cells in 3 mL pre-warmed growth media to perform cell count.  
+
+7\. Take 20uL aliquot and perform cell
+count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count = 6,462,000
+
+Transfer 232 uL cell suspension containing 500,000 cells to 5 x separative 50
+ml shaker tubes with warmed medium, and 1170 uL containing 2.5M cells to E125
+with warmed medium
+
+Incubate at 37ºC, 5% CO2
+
+Set shaker to continuous shaking at 206 RPM for the 50ml flasks and 120RPM for
+the E125s. 14:48
+
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel ID passaged Seeded Flask ID(s)Seeded Flask Type  
+7650-F_DOLLY12-Sheep P10-1of2  
+7651-F_DOLLY12-Sheep P10-2of2  
+50 mL spin tubes  
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Media/Reagents used:
+
+  
+
+Name
+
+Details (reagent ID)  
+  
+DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent + 0.1%
+pluronic  
+m6328  
+  
+CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent + 0.1%
+pluronic  
+m6350  
+  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1%
+pluronic  
+m6325  
+  
+Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM
+L-glutamine  
+  
+m6327  
+RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1%
+pluronic  
+m6326  
+  
+FGF  
+m5077  
+IGF1  
+m3644  
+  
+PDGF  
+m6338  
+  
+  
+  
+
+

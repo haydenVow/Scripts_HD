@@ -1,0 +1,399 @@
+Introduction:
+
+
+Creatine is composed of three amino acids (methionine, glycine, and arginine)
+and is known to provide an instantaneous source of energy for contraction in
+high energy demanding tissues such as skeletal muscle. Given its abundance in
+skeletal muscle tissue (Harris, R. C. et al., 1997), creatine supplementation
+has been used in the treatment of muscular, neurological and neurodegenerative
+diseases, as well as a sport performance enhancer. Moreover, it is well
+studied that under heating conditions (ie. cooking) creatine turns easily into
+creatinine contributing to the flavour development of meat. For its health
+benefits as well as its role in the sensory experience of meat, we are
+interested in detecting creatine in our cells.
+
+
+Aim/Purpose
+
+
+The aim of this study is to develop a robust pipeline to quantify creatine in
+our cell samples in house. This will be achieved via the implementation of
+three methods of analysis, crude protein measurement by bradford assay,
+creatine measurements by ELISA interpolating the absorbance of our samples at
+570 nm in a standard curve created by plotting the absorbance at 570 nm of a
+standard containing a known concentration of creatine, and finally creatinine
+measurement determined by a coupled enzyme reaction, which results in a
+colorimetric (570 nm)/fluorometric (λex = 535em/λ = 587 nm) product,
+proportional to creatinine present.  
+
+
+Hypothesis:
+
+
+The creatine assay kit is sensitive to accurately detect changes in absorbance
+at 570 nm with changes in the concentration of creatine in our standard serial
+dilution. A standard curve will be established by plotting the absorbance
+values of the standard serial dilution at 570nm versus the known concentration
+of our standard. This will allow us to further determine the concentration of
+creatine in our samples by interpolating their absorbance values at 570 nm in
+the curve.  
+  
+By implementing bradford assays we will be able to report creatine content of
+our cells calculated as a a percentage of crude protein.  
+  
+We will be able to indicate creatine half life in our cells by monitoring
+creatinine concentration in our samples (the break down product of creatine).  
+  
+  
+  
+  
+
+
+Timeline and protocol:
+
+
+Creatine ELISA assay  
+  
+In this assay, creatine is enzymatically converted to sarcosine which is then
+specifically oxidised to generate a product that converts a colorless probe to
+an intensely red color (λmax = 570nm), and highly fluorescent (Ex/Em = 538/587
+nm) product.
+
+  
+
+Image 1: Summary of the reactions that takes place to quantify creatine in
+cell samples according to Abcam Creatine Assay Kit (ab65339). 'Pac-man' shapes
+refer to the main molecules involved in the reaction, oval shapes refer to the
+enzymes involved in the reaction, and circle shapes refer to additional
+molecules produced/required by the reaction. This image has been adapted from
+the figure published in an article written by Shen et al., (2021), with
+additional information from a paper written by Yamkamon et al., (2018).
+
+In order to validate this test we will need to use the creatine standard to
+obtain a reliable calibration and standard curve, as well as real samples with
+a known concentration of creatine. For example, it would be interesting to
+make some serial dilutions of known concentrations of creatine diluting our in
+house stock of creatine in BSA or just buffer and test weather the
+interpolation in the standard curve gives us accurate concentration readings.
+We could also use our in house stock of creatinine as a negative control. It
+would also be interesting to test this out using cell samples.
+
+Protocol
+
+1. REAGENT PREPARATION
+
+1.1 Creatine Assay Buffer: Ready to use as supplied. Equilibrate to room
+temperature before use. Store at 4°C or -20°C.
+
+1.2 Creatine Probe - in DMSO: Ready to use as supplied. Store at -20°C
+protected from light and moisture. Aliquot probe so that you have enough
+volume to perform the desired number of assays. Warm the thawed aliquot by
+placing in a 37°C bath for 1 - 5 minutes to thaw the DMSO solution before use.
+NOTE: DMSO tends to be solid when stored at -20°C, even when left at room
+temperature, so it needs to melt for few minutes at 37°C. Once probe is
+thawed, use within two months. Keep the thawed aliquot on ice while performing
+the assay.
+
+1.3 Creatinase: Reconstitute in 220 µL Assay Buffer. Aliquot enzyme so that
+you have enough volume to perform the desired number of assays. Freeze/thaw
+should be limited to one time. Store at -20°C. Keep the thawed aliquot on ice
+while performing the assay.
+
+1.4 Creatine Enzyme Mix: Reconstitute in 220 µL Assay Buffer. Aliquot enzyme
+so that you have enough volume to perform the desired number of assays.
+Freeze/thaw should be limited to one time. Store at -20°C. Keep the thawed
+aliquot on ice while performing the assay.
+
+1.5 Creatine Standard:  Reconstitute the Creatine Standard (10 µmol) in 100 µL
+of ddH2O to generate a 100 nmol/µL standard stock solution. Make sure it is
+completely dissolved. Store at -20°C. Aliquot standard so that you have enough
+volume to perform the desired number of assays. Use within 2 months. Keep the
+thawed aliquot on ice while performing the assay.
+
+2\. STANDARD PREPARATION
+
+Always prepare a fresh set of standards for every use. Diluted standard
+solution is unstable and must be used within 4 hours.
+
+2.1 Prepare 500 µL of 1 nmol/µL Creatine standard by diluting 5 µL of the
+reconstituted standard with 495 µL of Assay Buffer. Using 1 nmol/µL Creatine
+standard, prepare standard curve dilution as described in the table in a
+microplate or microcentrifuge tubes:
+
+Table 1: Standard curve sample preparation.
+
+3\. SAMPLE PREPARATION
+
+We recommend performing several dilutions of your sample to ensure the
+readings are within the standard value range.
+
+3.1 Harvest the amount of cells necessary for each assay (initial
+recommendation = 2 x 10^6 cells).
+
+3.2 Wash cells with cold PBS.
+
+3.3 Resuspend cells in 100 µL of Assay Buffer.
+
+3.4 Homogenize cells quickly by running 3 cycles of Shaleen's freeze-thaw
+protocol. To further guarantee homogeneous cell lysis, pipet up and down a few
+times.
+
+3.5 Centrifuge sample for 2 - 5 minutes at at top speed using a
+microcentrifuge to remove any insoluble material (the protocol says the
+microcentrifuge must be cold- set at 4°C- however, we don't have this. Perhaps
+we could do the homogenisation and centrifugation two or three times to
+compensate for this).
+
+3.6 Collect supernatant and transfer to a clean tube.
+
+3.7 Keep on ice.
+
+3.8 Add ice cold PCA (perchloric acid) 4 M to a final concentration of 1 M in
+the homogenate solution and vortex briefly to mix well.
+
+3.9 Incubate on ice for 5 minutes.
+
+3.10 Centrifuge samples at 13,000 x g for 2 minutes at 4°C in a cold
+centrifuge and transfer supernatant to a fresh tube. Measure volume of
+supernatant.
+
+3.11 Precipitate excess PCA by adding ice-cold 2 M KOH that equals 34% of the
+supernatant to your sample (for instance, 34 µL of 2 M KOH to 100 µL sample)
+and vortexing briefly. This will neutralise the sample and precipitate excess
+PCA.
+
+3.12 After neutralisation, it is very important that pH equals 6.5 - 8 (use pH
+paper to test 1 µL of sample). Any left over PCA will interfere with the
+assay. If necessary, adjust pH with 0.1 M KOH.
+
+3.13 Centrifuge at 13,000 x g for 15 minutes at 4°C and collect supernatant.
+Samples are now deproteinized, neutralized and PCA has been removed. The
+samples are now ready to use in the assay.
+
+3.14 The deproteinized samples will be diluted from the original
+concentration. To calculate the dilution factor of your final sample, simply
+apply the following formula:
+
+% original concentration = Initial sample volume / (initial sample volume +
+vol PCA + vol KOH)
+
+For 100 uL samples (THIS SHOULD BE OUR AIM): % original concentration = 100uL
+/ (100 uL + 25uL (PCA) + 34uL (KOH))= 62.89%
+
+4\. ASSAY PROCEDURE AND DETECTION
+
+It is recommended to assay all standards, controls and samples in duplicate.
+
+4.1 Set up Reaction wells:
+
+\- Standard wells = 50 µL standard dilutions.
+
+\- Sample wells = 0 - 50 µL samples (adjust volume to have 50 µL/well with
+Assay Buffer).
+
+\- Background control sample wells = 0 - 50 µL samples (adjust volume to 50
+µL/well with Assay Buffer). Sarcosine creates background in this assay. If
+there is no significant background seen during the pilot assay, it is not
+essential to run background controls for every sample. (OPTIONAL)
+
+Image 2: Plate layout for the performance of the assay.
+
+4.2 Reaction Mix (COLORIMETRIC ASSAY):
+
+Prepare 50 µL of Reaction Mix / well.
+
+Prepare a master mix of the Reaction Mix to ensure consistency. We recommend
+the following calculation: X µL component x (Number samples + standards +
+background control samples +1 (excess))
+
+Table 2: Volumes of each reagent necessary to prepare the Reaction Mix
+necessary to obtain a final reaction volume of 50 uL/well.
+
+4.3 Add 50 µL of appropriate Reaction Mix to standard and sample wells.
+
+4.4 Mix well. Incubate at 37°C for 60 minutes protected from light.
+
+4.5 Measure output on a microplate reader. Colorimetric assay: measure OD 570
+nm.
+
+Link to protocol:
+https://www.abcam.com/ps/products/65/ab65339/documents/Creatine-assay-
+protocol-book-v3c-ab65339%20(website).pdf
+
+
+
+
+Bradford assay for crude protein analysis  
+  
+LA template
+
+
+
+
+Creatinine assay (ordered 18/02/22)  
+  
+Pulled protocol from here:
+https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/documents/347/954/mak080bul.pdf  
+  
+
+Procedure
+
+All samples and standards should be run in duplicate.
+
+Creatinine Standards for Colorimetric Detection
+
+1\. Dilute 10 uL of the 100 mM (100 nmole/uL) Creatinine Standard Solution
+with 990 uL of Creatinine Assay
+
+Buffer to prepare a 1 mM (1 nmole/uL) standardsolution.  
+  
+2\. Add 0, 2, 4, 6, 8, 10 uL of the 1 mM Creatinine standard solution into a
+96 well plate, generating
+
+0 (blank), 2, 4, 6, 8, and 10 nmole/well standards.  
+  
+3\. Add Creatinine Assay Buffer to each well to bring the volume to 50 uL.
+
+  
+Creatinine Standards for Fluorometric Detection
+
+1\. Dilute 10 uL of the 100 mM (100 nmole/uL) Creatinine Standard Solution
+with 990 uL of Creatinine Assay
+
+Buffer to prepare a 1 mM (1 nmole/uL) standard solution.  
+  
+2\. Dilute 10 uL of the 1 mM standard solution with 90 uL of water to generate
+a 0.1 mM
+
+(0.1 nmole/uL).  
+  
+3\. Add 0, 2, 4, 6, 8, 10 uL of the 0.1 mM Creatinine standard solution into a
+96 well plate,
+
+generating 0 (blank), 0.2, 0.4, 0.6, 0.8, and1.0 nmole/well standards.  
+  
+4\. Add Creatinine Assay Buffer to each well to bring the volume to 50 uL.
+
+Sample Preparation
+
+1\. Tissue (10 mg) or cells (2 x 106) should be rapidly homogenized in 4
+volumes of cold Creatinine Assay
+
+buffer.  
+  
+2\. Centrifuge at 13,000 x g for 10 minutes at 4'C to remove insoluble
+material.  
+  
+NOTE:  
+  
+High concentrations of proteins may interfere with the assay and should be
+removed with a 10 kDa MWCO spin filter. The soluble fraction may be assayed
+directly.
+
+Serum samples may be deproteinized with a 10 kD MWCO spin filter. The soluble
+fraction may be assayed directly.
+
+3\. Bring samples to a final volume of 50 uL with Creatinine Assay Buffer.
+
+NOTE For unknown samples, it is suggested to test several sample dilutions to
+ensure the readings are within the linear range of the standard
+curve.Sarcosine and creatine present in the sample cangenerate background. To
+control for sarcosine and creatine background, include a blank sample for
+eachsample by omitting the Creatininase in the Reaction Mix.
+
+Compounds in the sample may interfere with the assay. To test for
+interference, samples can be spiked with a known amount of creatinine (1-10
+nmoles) and compared to unspiked samples to ensure readings are accurate.
+
+Assay Reaction
+
+1. Set up the Reaction Mixes according to the scheme in Table 1. 50 UL of the appropriate Reaction Mix is required for each reaction (well).
+
+Table 1.
+
+2\. Add 50 UL of the appropriate Reaction Mix to eachof the wells. Mix well
+using a horizontal shaker or  
+by pipetting, and incubate the reaction for 60 minutes at 37'C. Protect the
+plate from light  
+during the incubation.  
+3. For colorimetric assays, measure the absorbanceat 570 nm (A570). For fluorometric assays, measure  
+fluorescence intensity (ex = 535/em = 587 nm).
+
+3
+
+Results
+
+Calculations
+
+The background for the assays is the value obtained for
+
+the 0 (blank) Creatinine Standard. Correct for the
+
+background by subtracting the 0 (blank) value from all
+
+readings. Background values can be significant and
+
+must be subtracted from all readings. Use the values
+
+obtained from the appropriate Creatinine standards to
+
+plot a standard curve.
+
+Note: A new standard curve must be set up each time
+
+the assay is run.
+
+Subtract the blank sample value from the sample
+
+reading to obtain the corrected measurement. Using the
+
+corrected measurement, the amount of creatinine
+
+present in the sample may be determined from the
+
+standard curve
+
+Concentration of Creatinine
+
+Sa/Sv = C
+
+Sa = Amount of Creatinine in unknown sample (nmole)
+
+from standard curve
+
+Sv = Sample volume (L) added into the wells
+
+C = Concentration of Creatinine in sample
+
+Creatinine molecular weight: 113.12 g/mole
+
+Sample Calculation
+
+Amount of Creatinine (Sa) = 5.84 nmole
+
+(from standard curve)
+
+Sample volume (Sv ) = 50 L
+
+Concentration of Creatinine in sample
+
+5.84 nmole/50 L = 0.1168 nmole/L
+
+0.1168 nmole/L  113.12 ng/nmole= 13.21 ng/L
+
+
+References
+
+
+Harris, R. C., et al. "The concentration of creatine in meat, offal and
+commercial dog food." Research in veterinary science 62.1 (1997): 58-62.
+
+Shen, Hailan, Kena Chen, and Ju Cao. "A new method for anti‐negative
+interference of calcium dobesilate in serum creatinine enzymatic analysis."
+Journal of clinical laboratory analysis 35.9 (2021): e23928.
+
+Yamkamon, Vichanan, et al. "Development of sarcosine quantification in urine
+based on enzyme-coupled colorimetric method for prostate cancer diagnosis."
+EXCLI journal 17 (2018): 467.
+
+

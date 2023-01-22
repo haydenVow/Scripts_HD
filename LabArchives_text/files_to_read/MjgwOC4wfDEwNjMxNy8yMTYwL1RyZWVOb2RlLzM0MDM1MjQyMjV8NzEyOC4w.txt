@@ -1,0 +1,87 @@
+  
+  
+## Completed by: Bonnie Tangey
+
+
+Aim/Purpose
+
+
+To adapt cells to suspension culture in at least one of the trialled media
+conditions.
+
+
+Hypothesis
+
+
+1\. When compared to DMEM/F12 and RPMI basal medias, specialised suspension
+culture medias CDM4 Avian, CDM4 CHO and CD CHO supplemented with supplemented
+with 10% Knockout serum replacement + 1:100 anti-clumping agent + 0.1%
+pluronic + 100ng/mL each FGF, IGF1, PDGF, will improve F_DOLLY12 and/or
+F_NANDO3  cell survival and proliferation in suspension culture over a 30 day
+trial period.
+
+  
+1\. When supplemented with 10% Knockout serum replacement + 1:100 anti-
+clumping agent + 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF, at least one
+of these specialised medias will support F_DOLLY12 and/or F_NANDO3  cell
+survival and proliferation in suspension culture over a 30 day trial period.
+
+
+Technical Gap
+
+
+To this date, we have been unable to achieve sustained cell viability and
+proliferation of our fibroblast cells in suspension culture for an extended
+period (> 14 days).
+
+Commercial suspension culture medias have been development for commercial
+applications and for use with specific cell lines and there is limited
+published data relating to their use in the adaption of other cell types or
+cells from other species to suspension culture.
+
+  
+
+
+Method/Procedure
+
+
+D0: Seed cells to suspension culture in 6-well plates and E125 flask.  
+F_DOLLY12 cells should be passaged from adherent culture and seeded into
+culture vessels at 1M cells/mL.  
+F_NANDO2 cells should be thawed directly from frozen pre-plate isolates and
+seeded into culture vessels at 100,000 cells/mL.  
+  
+6 well plates- 5 conditions with a plate each for F_DOLLY12 and F_NANDO2 cells  
+3ml of each of the basal medias below supplemented with 10% Knockout serum
+replacement + 1:100 anti-clumping agent + 0.1% pluronic + 100ng/mL each FGF,
+IGF1, PDGF.
+
+1\. DMEM/F12  
+2\. CDM4 Avian  
+3\. CDM4 CHO  
+4\. CD CHO  
+5\. RPMI  
+  
+E125 flasks - 2 conditions  
+1\. F_NANDO3 cells at 100K/ml into 25mL in CDM4 Avian \+ 10% Knockout serum
+replacement + 1:100 anti-clumping agent + 0.1% pluronic + 100ng/mL each FGF,
+IGF1, PDGF.  
+2\. F_DOLLY12 cells at 1M/mL in CD CHO + 10% Knockout serum replacement +
+1:100 anti-clumping agent + 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF.  
+  
+D4, D8, D12, D16, D20, D24, D28  
+Perform 100% media changes every 4 days by centrifuging the cell suspensions
+at 300xg for 5 minutes, discarding the supernatant and resuspending cells in
+their respective growth medias. E125 flask should also have their contents
+filtered through a 70um cell strainer during every feed. 6 well plate cultures
+will not be filtered due to their low volumes.
+
+D14, D16, D18, D20, D22, D24, D26, D28, D30  
+After cells have been in suspension for 2 weeks, begin sampling every 2 days
+for live/dead staining and counting. Cell counts are performed by centrifuging
+suspensions at 300xg for 5 min and then resuspending in 500ul (for 6 well
+plates) or 1-3mL (for E125 flasks) of growth media. 20ul samples are then
+taken for counting using a Hoechst/Propidium iodine staining protocol. On non-
+feed days, medium can be retained and returned to cells after the count.
+
+

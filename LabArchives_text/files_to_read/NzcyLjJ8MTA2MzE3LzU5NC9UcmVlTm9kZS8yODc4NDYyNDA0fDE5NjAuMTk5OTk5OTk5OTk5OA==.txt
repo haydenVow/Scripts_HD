@@ -1,0 +1,123 @@
+
+
+Report completed by: Shaleen Sharma  
+  
+Reviewer:
+
+
+Introduction:
+
+
+Mature muscle forms the building blocks for Vow's future product line. Hence,
+factors to promote and further the differentiation and maturation process in
+primary myoblasts must be identified and tested thoroughly. However, prior to
+this it is imperative to quantify maturation in myogenic cells without any
+maturation driving stimulation/supplementation first. By doing so, we are able
+to form the baseline for maturation in our cells and thus have a point of
+reference for which all maturation-promoting factors can be benchmarked
+against.  
+  
+Currently, the process for measuring maturation in myogenic cells at Vow is
+primarily focused on fluorescent antibody staining and subsequent image
+analysis. While this approach has proved useful for adherent cultures, it
+remains difficult to measure maturation on scaffolds at Vow due their 3D
+structure and complex overlapping structures that often fail to be captured
+accurately even with our Zaber imaging platform. Considering the maturation
+process occurs primarily on scaffolds in cultured meat applications, it is
+imperative to quantify maturation content on scaffolds at Vow. One possible
+approach that has come to light is the enzyme-linked immunosorbent assay
+(ELISA) that is commonly used to detect and quantify proteins and antibodies
+in biological samples. The focus of this technique revolves around an
+enzymatic reaction between the TMB substrate and horse radish peroxidase (HRP)
+enzyme attached to the secondary antibody. Upon quenching the reaction after
+some time, the colourmetric change can be quantified at 450nm using a
+microplate reader. Thus by doing so, MyoG and MF20 content can be quantified
+in a streamlined process in the lab and serve as good indicators for
+maturation in our cells.  
+  
+However, given that the ELISA assay has not been used previously at Vow, it is
+anticipated that it will require several iterations in order to optimise the
+workflow and construct a working pipeline that can be deployed to the entire
+science team. This experiment aims to conduct the first implementation of the
+ELISA assay at Vow. In order to fully explore this process in a timely manner,
+C2C12s are being used to quickly obtain mature muscle content. Moreover, wells
+to serve as fluorescent controls have also been included to compare with ELISA
+readings to see if relative absorbance levels are as expected. Cells have been
+seeded at increasing concentrations per well in order to ideally see a
+increasing gradient in ELISA output.
+
+
+Key Results:
+
+
+Over-arching findings/summary:
+
+  * ELISA absorbance is unusually high absorbance readings were observed at 450nm, likely due to prolonged incubation with HRP-conjugated secondary antibody overnight.
+  * While cell densities ramp up from left to right across the microplate, a consistently high absorbance is seen across all cell concentrations. This is likely due to non-specific binding from both insufficient washing protocol and/or prolonged incubation with the secondary antibody.
+  * As expected, a higher amount of myosin heavy chain is observed in mature C2C12s compared to myogenin expression at this stage in maturation (Day 5).
+  * C2C12s have a very short doubling time in growth media and having them in proliferation media for too long has led to diminishing the "ramping" cell density effect. However, Janus Green data depicts a distinct linear trend from lower to higher cell numbers from left to right of the plate.
+
+
+  
+Figure 1: Blank-corrected ELISA readings measuring MyoG and MF20 content in
+C2C12 cells at increasing seeding densities.  
+Figure 2: Blank-corrected Janus Green absorbance readings quantifying cell
+density in each seeding concentration.  
+
+
+  
+Figure 3: Normalised ELISA absorbances measuring MyoG and MF20 content across
+increasing concentrations of cell seeding.  
+  
+  
+  
+
+
+  
+  
+  
+  
+Figure 4: New microplate with yellow supernatant following reaction quenching
+with HCl.  
+Figure 5: Incubation of original microplate with Janus Green stain.  
+Figure 6: New microplate with blue supernatant following Janus Green dye
+elution.  
+
+
+Discussion/Limitations:
+  
+  
+Findings:
+
+  * Despite increasing cell seeding density from left to right across plate, the ELISA readings remain relatively constant across all densities. This contradicts the Janus Green absorbance trend which follows a mostly linear increase with increasing cell densities per well.
+  * When corrected for Janus Green and cell free controls, ELISA absorbance depicts a slightly decreasing trend (see Figure 3) whereas a constant flat trend is expected when taking Janus Green readings.
+  * As expected, a higher signal is quantified for myosin-heavy chain in contrast with myogenin. This is suggested by the relative discrepancy observed between the two signals in Figures 1 and 3. Moreover, relative intensities between MyoG and MF20 fluorescence observed in fluorescent control wells are further evidence of this.
+  * The Janus Green absorbance, while increases with increasing cell density - does not follow a strict linear trend as expected (see Figure 2).
+
+Limitations/Discussion:
+
+  * The fast proliferation doubling rates of C2C12 cells was not accounted for in this experiment. While in growth media, it was observed that cells had doubled after Day 1 of seeding which results in inconsistent densities across the plate. This likely explains the generally increasing but not strictly linear trend observed in Figure 2.
+  * The relatively unchanged ELISA readings when increasing cell seeding as depicted in Figure 1, suggests a high level of non-specific binding. This effect is likely the result of prolonged incubation of the HRP-conjugated secondary antibody overnight and insufficient washing after the secondary is replaced. As seen in Figure 2, the cell densities depict a linear increase however the ELISA absorbances do not reflect the same trend. The secondary antibody incubation has likely reached a saturation point in each well which does not account for relative cell densities across the plate. This also explains the unusually high absorbance readings observed.
+  * The study does not include no-primary antibody (no-pAB) control wells, and thus any issues with washing steps following secondary antibody incubation cannot be highlighted. The aforementioned effect of high readings and non-specific binding could be better pinpointed with having a no-pAB control.
+  * In this protocol, centrifugation of the plate before plate reader analysis is absent and would provide higher accuracy in absorbance readings. Similarly, the microplate was read with its lid still on thus compromising the accuracy of the abosrbance reading. 
+  * Hence, in this study the relative levels between MyoG and MF20 absorbance contain the most data integrity and the individual absorbances should not be scrutinised based on the aforementioned factors comprimising its accuracy.
+
+
+Conclusion/Future work:
+
+  * Overall, the ELISA assay was successfully incorporated for the first time at Vow to measure maturation content in C2C12 cells.
+  * The implementation of the assay highlighted several aspects to address and improve on that will greatly benefit the construction of a working pipeline at Vow.
+  * The largest weakness of this assay was the prolonged incubation of the HRP-conjugated secondary antibody resulting in a high level of non-specific binding. Smaller process related issues such as insufficient washing and incorrect microplate reading technique were also highlighted. Moreover, the absence of a no-pAB control hindered pinpointing the issue of high non-specific binding of the secondary antibody.
+
+Future directions:
+
+  * Address the issue of non-specific binding by restricting secondary antibody incubation to one hour and monitoring its effect on final absorbance readings and relative absorbance between different conditions.
+  * Including a no-primary control in future work will aid in making conclusions about the effectiveness of process-related steps (e.g. washing, reaction time, incubation time etc.)
+
+
+References:
+
+
+  
+
+

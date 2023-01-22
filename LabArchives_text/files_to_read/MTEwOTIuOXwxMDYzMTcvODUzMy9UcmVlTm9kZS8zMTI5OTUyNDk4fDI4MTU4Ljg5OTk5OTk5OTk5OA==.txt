@@ -1,0 +1,111 @@
+Performed by: EC SR AS CB
+Ranger data
+Harvested Flask IDsMFG WCB Vial IDs Just record first and last vialR&D WCB
+Vial IDs  
+Just record first and last vial  
+Continuous culture flask IDs  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+First vial: 14969First vial: 14949  
+12743, 12744  
+Last vial: 15183  
+Last vial: 14968  
+  
+  
+Sam and Eva banked the 50/50 WCB. Sam started dispensing cell suspension into
+the end vials, while Eva started dispensing into the first vials. When they
+reached the vials in the middle, they realised an extra cryovial had been
+labelled. This is the reason why cryovial 15075 does not exist.
+
+
+ReagentRanger ID  
+50/50 RPMI/CHO Nuvonis suspension mediumRPMI M13090, CHO A12920, L-Glut.
+A12942, Glucose M12890  
+IGF12969  
+EGF12321  
+Freeze mediumS4912
+
+
+Process
+  
+  
+  1. Performed a cell count and determine the total number of live cells present in the culture intended for cryopreservation.
+
+    1. Took 2 x 1 mL samples per flask for count using 5 mL serelogical pipettes 
+
+  2. Calculate the number of vials that are required to be frozen.
+
+    1. Banking 20 x vials @ 7.5M cells per vial in 1 mL of freeze medium (7.5M cells/mL) for R&D
+
+      1. Total # cells = 150M
+
+      2. Total # vials = 20 x cryovials 
+
+    2. Seeding 2 x E250 flasks with 15M cells each per flask
+
+      1. Total # cells = 30M
+
+      2. Total # flasks = 2 x E250s
+
+    3. Banking remaining cells @ 15M cells per vial in 2 mL of freeze medium (7.5M cells/mL) for MFG  
+  
+
+      1. Total # cells = 3,801,000,000 (total cell count minus cells taken for R&D WCB and continuous culture)
+        1. Too many for banking (not enough Mr Frostys). 3,210,000,000 cells will be banked and the rest will passaged and given to MFG for ST18
+      2. Total # vials = 214 x 2 mL cryovials at 7.5Mcells/mL --> 15Mcells/vial
+  3. Determine the volume of cell suspension from the culture required for centrifugation.
+
+    1. For MFG and R&D WCB
+      1. 3,360,000,000 cells total = 3.535 L cell suspension
+  4. Fill the required number of Mr Frosty freezing container (18 vials per container) with the necessary volume of isopropanol.
+
+  5. Prepare room temperature cell resuspension media (CRM) and cell freezing medium (CFM). Each vial is required to be filled with 50% CRM and 50% CFM, i.e., for 10 vials 5 mL of CRM and 5 mL of CFM is required. See below:
+
+    * CRM: Complete 1:1 RPMI1640:CHO-in-1 Nuvonis suspension growth medium
+    * CFM: CRM with 15% DMSO (250 mL: 212.5mL 50/50, 37.5mL DMSO)  
+  
+\- Media requirements:
+
+      * For R&D WCB:
+        * Need 20 mL total + error (10 mL CRM + 10 mL CFM)
+      * For MFG WCB:
+        * Need 428 mL total + error (214 mL CRM + 214 mL CFM)
+  6. For continuous culture
+
+    1. Transfer 30M cells- 12 mL from 12744 and 16 mL from 12743- to 2 x E250 flasks (15M to each)
+
+    2. Top up each E250 flask with fresh growth medium to a final density of ~200K per mL (~70 mL total media per flask)
+
+      1. 112mL total 50/50: 58mL for 12744 and 54mL for 12743
+
+  7. For banking (can do both WCBs together and simply add 1 mL of cell to R&D cryovials and 2 mL of cells to MFG cryovials)
+
+    1. Transfer the required volume of cell suspension from the culture vessel into an appropriate vessel for centrifugation (i.e. 250 mL falcon tube).
+
+    2. Centrifuge the cells at 310 x g for 10 minutes at 22°C in a swing out rotor.
+
+    3. Aspirate the supernatant.
+
+    4. Re-suspend the cell pellet in the total volume of CRM prepared earlier. (15M cells/mL) 
+
+    5. Dilute the cell suspension by adding the total volume of CFM in the same vessel. (7.5M cells/mL) 
+
+    6. Homogenise the cells suspension by gently pipetting.
+
+    7. Aliquot the total volume of cell suspension into cryovials (1 mL per vial for R&D, 2 mL per vial for MFG).
+
+    8. Transfer the cryovials into the Mr Frosty freezing container.
+
+    9. Place freezing container at -80°C for 16-24 hours.
+
+    10. The day after freezing, transfer the vials from the freezing containers to ≤-150°C (liquid nitrogen dewars) for long term storage.
+
+
+Notes
+
+  * Added GFs as well as L-glutamine and glucose to the CRM and CFM (topped up the glucose levels to 6g/L and the L-glutamine to 4mM).
+  * Tower 7, Box 1, Position1 = Culture 14998 - Position 74. Position 75 empty, P76-P89
+  * Tower 7, Box 2, Position 1 (Culture 15087) - Position 81 (Culture 15167)
+  * Tower 7, Box 3, Remaining cultures
+
+

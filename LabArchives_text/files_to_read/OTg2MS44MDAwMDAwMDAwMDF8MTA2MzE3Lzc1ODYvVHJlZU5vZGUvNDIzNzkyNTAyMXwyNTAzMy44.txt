@@ -1,0 +1,26 @@
+
+
+Protocol for DNA extraction was performed as follows (if frozen down as a cell
+pellet):
+
+  1. Add 25uL of quick extract (a10469) to each tube
+  2. spin the tube for 15 seconds to get any loose cells into the quick extract.
+  3. Transfer the 25 uL into PCR size tubes.
+  4. The tube was subjected to the following heating protocol,
+    1. 65 degrees C for 6 minutes
+    2. 98 degrees for 120 seconds
+  5. Tube was left at room temperature
+
+Protocol for DNA extraction was performed as follows (if extracted DNA
+directly from a cell suspension during a passage):
+
+  1. 90uL of suspension culture was transferred to a PCR tube. 
+  2. Tube was spun in a benchtop minifuge for 2 minutes (unknown speed)
+  3. supernatant was aspirated and 25uL of quick extract (a10469) was added to the tube
+  4. spin the tube for 15 seconds to get any loose cells into the quick extract.
+  5. The tube was subjected to the following heating protocol,
+    1. 65 degrees C for 6 minutes
+    2. 98 degrees for 120 seconds
+  6. Tube was left at room temperature
+
+

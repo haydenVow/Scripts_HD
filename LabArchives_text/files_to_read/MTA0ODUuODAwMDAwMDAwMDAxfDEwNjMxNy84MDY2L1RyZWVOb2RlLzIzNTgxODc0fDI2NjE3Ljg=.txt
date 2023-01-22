@@ -1,0 +1,52 @@
+
+
+  
+
+## Protocol
+
+  
+
+  
+
+Method:
+
+  1. Removed culture 12079 from the incubator and proceeded with passage of adherent cells in wells 1 and 2. 
+    1. Removed and discarded supernatant from the cells 
+    2. Added 1mL of dPBS to wash the cells, discarded the wash.
+    3. Added 1mL of Tryple-EDTA to the cells and let them incubate for 10 minutes at 30 degrees, 5% CO2. 
+    4. Added 1mL of dPBS to neutralise the Tryple then combined both wells into a 15mL tube.
+    5. Took 20uL of the cell suspension for a cell count, mixing 1:1 with Trypan blue and loading onto a hemocytometer. (see count details below).
+    6. Quadrant 1Quadrant 2Centre quadrantQuadrant 3Quadrant 4Average countDilution factor Neubaur constantVolume of cell suspensionCells/mLTotal cells   
+866666.4210,0004.0128,000512,000  
+  
+    7. Split the cell suspension into two 15mL tubes, 
+      1. one labelled 'adherent'  
+      2. one labelled 'adherent - no PI'  
+  2. Removed cultures from the incubator. 11491-2 ctrl r9, 11488-1 CDKN1A+ZIC, 11485-2 cdkn1b 
+  3. Removed 500,000 cells from each of the cultures above and placed in a 15mL tubes. 
+    1. Ctrl R9 - 0.753mL
+    2. CDKN1B+ZIC1 - 1.437mL
+    3. CDKN1B - 1.623mL
+  4. Proceeded with the Fixing and PI staining protocol above as instructed using all 5 samples in 15mL tubes. 
+    1. For the 'adherent - no PI' tube the cells were resuspended in 1mL of MilliQ water without PI at the final step prior to Flow cytometry. 
+  5. Once samples were loaded in the MELODY machine, single cells were gated and PI intensity was assessed alongside event count. See images below.
+
+Overall we weren't able to see any cells obviously in S or G2 phase in any of
+the suspension samples. We could see more of a distinct G1/G0, S phase and G2
+phase histogram when examining the adherent cell population. We also found our
+negative control did not show any PI signal which was expected. Histograms of
+the single cell cell populations for each suspension sample exhibited one wide
+peak. Similar to the results of cells in the Round 8 samples, this suggests
+that most cells are in G0/G1 phase, confirming there is no clear indication
+that the cells are proliferating.
+
+
+
+
+Results
+
+  
+
+﻿
+
+

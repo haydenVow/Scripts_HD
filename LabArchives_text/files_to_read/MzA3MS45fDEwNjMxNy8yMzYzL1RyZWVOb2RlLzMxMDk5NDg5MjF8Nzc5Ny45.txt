@@ -1,0 +1,161 @@
+Culture ID(s)  
+Vessel type  
+Location of plateNo. of wells to stain  
+  
+723596wpLibrary lab fridge 65  
+9  
+  
+723696wpLibrary lab fridge 659  
+  
+723796wpLibrary lab fridge 659  
+  
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted     36mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+  1.5 µL   goat anti mous IgG2b AF555   (1:1000  ) +  1.5 µL   goat anti mouse
+IgG1   (1:1000  ) +  1.5  mL Blocking Buffer (PBST (0.1% Triton X + dPBS) + 3%
+BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared DAPI mix:
+
+   3mL  PBS +    3uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+Mouse - anti MyoGigG1Goat anti mouse IgG1 (AF488)1:1000  
+Mouse - anti MF20igG2bGoat anti mouse IgG2b (AF555)1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with 200uL PBS at RT.
+
+ 12:30 - 12:35
+
+ 12:36 - 12:41
+
+ 12:42 - 12:47
+
+3\. Incubated the cells with 50uL of secondary antibody mixture in the dark at
+RT for 1 hour.  12:49 - 13:50  
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  13:50
+
+2\.  Washed with 100uL of DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 13:52 - 13:57
+
+3\.  Washed in 200uL PBS 2 x 5 min at RT in the dark. (No Triton)
+
+ 13:58 - 14:06
+
+ 14:07 - 14:14
+
+4\.  Replaced dPBS (200uL)
+
+ 14:17
+
+5\. Confirmed staining on microscope by imaging using the Zaber, taking 1
+image in the centre of each well for all wells  (1x1 grid using the HCS
+generator)
+
+Zaber settings:
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Bufferm5285  
+  
+dPBSm5385  
+  
+Secondary Antibody AF555s1966  
+  
+DAPI (1:1000)m2193  
+  
+Secondary Antibody AF488  
+s1606  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,70 @@
+
+
+[B] Stain and image microcarriers after 24h
+
+### Process:
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed cultures from the incubator and placed them in the BSC  `| 13:55: am/pm|`
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| 14:00: am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [x]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| 14:02-14:17 am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| 14:20 am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+  
+
+
+
+
+### SOPs used:
+
+  * N/A
+
+### Observations/Summary:
+
+  * N/A
+
+### Reagents used:
+
+Hoechst: 1403
+
+dPBS: 4217
+
+Results were;
+
+  * [x]  As Usual (this is a repetitive task)
+  * [ ]  Unexpected because...
+  * [ ]  Need to be further analysed
+  * [ ]  Other (.......)
+
+  
+
+### Relevant Images/Figures:
+
+culture 6338 https://mia-capture.vow.tools/#/session/recGP0WfFPYqMDHtF/images
+
+  
+
+  
+
+  
+
+
+
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+  
+
+

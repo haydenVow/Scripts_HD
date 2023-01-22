@@ -1,0 +1,88 @@
+Protocol
+
+
+# Components of Hycell CHO + Nuvonis growth medium
+
+ComponentFinal Concentration  
+(of the total volume of growth media being made up)  
+UnitFormStorage Location Condition  
+Note  
+HyCell CHO Basal Medium  
+(HycellCHO+SodiumBicarbonate+P188)N/AN/A Basal Medium reconstituted before
+hand4C Fridge  
+  
+Difco Yeast Extract UF1mg/mLDilute stock solution prepared  before hand4C
+Fridge  
+  
+  
+IGF-1 LONG R3 0.00005-20C FreezerOnly add to growth medium if it will be used
+within 7 days of adding.  
+EGF 0.00001  
+L-Ornithine monohydrochloride0.02  
+  
+Putrescine dihydrochloride0.02  
+  
+Glutamax2mMStock solution Ambient  
+  
+  
+# Protocol
+
+  1. Calculate the required components need to make up your volume of Hycell + Nuvonis growth medium in the E8 calculator. Figure 1 provides an example of the volumes of components required to make up 1L of HyCell Cho Nuvonis Medium.
+  2. Aliquot the amount of HyCell CHO media needed to make up HyCellCHO+Nuvonis growth medium into a sterile filter (0.22um)*. 
+  3. Add your required volume of the following components, before switching on the vacuum pump:
+    1.  Difco Yeast Extract UF
+    2. L-Ornithine monohydrochloride
+    3. Putrescine dihydrochloride
+    4. Glutamax 
+  4. Filter the growth medium. 
+  5. Aliquot the required volume of the following growth factors only if you will be using the growth medium within 7 days of adding the growth medium. 
+    1. EGF (Mesokine brand)
+    2. IGF (Mesokine brand)
+  6. Place in the fridge (4C) until use. 
+
+  
+
+*Note, sterile filter units can filter up to 3L.
+
+  
+
+  
+
+  
+
+  
+
+HyCell Nuvonis medium  
+  
+  
+  
+  
+Volume1000  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+HyCell CHONANANA976.800  
+Difco Yeast Extract UF11001000.00010.000  
+IGF-1 LONG R30.000050.050.0501.000  
+EGF0.000010.050.0100.200  
+L-Ornithine monohydrochloride0.022020.0001.000  
+Putrescine dihydrochloride0.022020.0001.000  
+Glutamax*22002000.00010.000  
+*units in mM, not mg/mL  
+  
+Total medium vol (mL)1000.000  
+  
+  
+  
+  
+  
+  
+  
+  
+
+Figure 1. Volumes of components required to make up 1L of HyCell Cho Nuvonis
+Medium, determined by the E8 calculator.
+
+

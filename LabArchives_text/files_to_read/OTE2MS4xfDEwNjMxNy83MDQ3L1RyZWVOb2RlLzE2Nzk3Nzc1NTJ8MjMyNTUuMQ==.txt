@@ -1,0 +1,28 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/31048?vc_group_by=day&ct_workflow=all&cf_workflow=500000866
+
+LINK TO AIRTABLE ENTRY PAGE:  
+
+RELATED TO OKR:  Release of first product. Program team 1; AND 1-tonne scale
+Program team 2
+
+AIM/PURPOSE: Pilot run of RM 50L Sartorius bioreactor using Nuvonis quail
+cells to generate mass for product team
+
+HYPOTHESIS: N/A This is a pilot experiment to test workflow
+
+RESULTS SUMMARY: Cell viability decreased over time as batch proceeded
+following initial seeding. Cell viability reached 0% and batch was terminated.
+Likely cause: large delay in seeding cells into the RM bag from a glass Schott
+bottle (no CO2 supply and no agitation) for ~1hour. Delay caused by
+manufacturing error in bag where one side of bag was entirely unsealed.
+
+CONCLUSIONS: Batch terminated due to cell death.
+
+NEXT STEPS: Repeat batch with same culture parameters. Implement operator QC
+checks to ensure quality of bag before use. Contact manufacturer (Sartorius)
+about manufacturing fault in consumable.
+
+

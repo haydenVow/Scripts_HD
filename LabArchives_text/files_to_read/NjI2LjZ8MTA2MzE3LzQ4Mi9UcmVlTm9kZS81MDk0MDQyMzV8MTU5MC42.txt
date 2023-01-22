@@ -1,0 +1,233 @@
+Aim/Purpose
+
+
+To screen for media ingredients known to promote serum-free differentiation as
+identified in literature. Specifically, this experiment aims to look at the
+impact of adding these factors to our E6 media after cells have been
+proliferated in ACF media (E89C).
+
+
+Hypothesis
+
+
+From the 16 factors tested, we will be to identify at least 3 factors that can
+be added to E6 differentiation media to promote differentiation.
+
+
+Technical Gap
+
+
+We have not tested the impact of adding the following ingredients to our
+differentiation media before: B-27 supplement, GDNF, NT3, NT4, aFGF, VEGF-165,
+CNTF, CT-1, BDNF, BMP2, LIF, EGF, IGF1-LR3, fibronectin, and vitronectin. See
+here for more details on each factor:
+https://docs.google.com/spreadsheets/d/1QSLvrJT51UKVEmEKlh1LCGbbrXWJ_W2-G4nBaXvj6O8/edit#gid=248147944
+
+
+Method/Procedure
+
+
+Overview:
+
+Tue 27-April-2021 reconstitute factors
+
+Mon 3-May-2021 Seed 3x 96 wp on OT2
+
+Tue 4-May-2021 100% media change (E89C)
+
+Between Monday and Friday: Prepare 50x SFM bullet, Make working stocks , Make
+controls, Run DSD mixing protocol, Run plate randomisation protocol
+
+Fri 7-May-2021 Change to diff media (DSD conditions)
+
+Saturday to Monday - 50% feed with diff media
+
+Tue 11-May-2021 Fix and primary stain 3x 96 wp
+
+Wed 12-May-2021 Secondary stain plates
+
+
+
+
+Day 0 - Seed 3 x 96 well plates with 7,000 cells/well in 140 uL/well  
+
+Gelatin coat 3 plates
+
+  1. Fill a 12 channel reservoir as follows
+    1. Wells 1: 11.1 mL of 0.1% Gelatin
+    2. Well 5: 6.3 mL of 0.1% gelatin
+  2. Calibrate OT2 and run protocol 'YYYY-MM-DD-num-N-gelatin-coat-3-plates'.
+  3. Incubate all plates for at least 1 hr (37ºC, 5% CO2).
+
+Passage and seed cells
+
+Growth media = DMEM/F12 + 20% FBS + 1x P/S + 10uM p38i
+
+  1. Aliquot the following and place in waterbath at 37 degrees:
+    1. For passaging and counting
+      1. `xx mL` `tryple`
+      2. `xx mL PBS` for neutralising
+      3. `8mL growth media` for resuspension for counts
+    2. For seeding 3x plates on OT2
+      1. `42 mL` of `growth media` for seeding
+      2. `28 mL basal media (DMEM/F12)` for washing off gelatin
+  2. Passage and count cells according to Passaging Template_V3.
+  3. Prepare cell suspension:
+    1. For seeding 3 plates (7000cells/well in 140uL/well)
+      1. `2.1 M cells in 42 mL growth media`
+  4. Using this cell suspension prepare 12 channel OT2 reservoir as follows.
+    1. For seeding 3 plates:
+      1. Well 1: `6.3 mL PBS`
+      2. Wells 2 and 3: `13.5 mL basal media (DMEM/F12)`
+      3. Wells 4-8: `8.2 mL cell suspension`
+  5. Run the following OT2 protocol using the reservoir prepared for seeding 3x plates:  'YYYY-MM-DD-num-N-trial-seed-3-plates'
+  6. Incubate 3x 96 well plates at 37 degrees, 5% CO2.
+
+  
+
+STORY POINT ESTIMATE: 5
+
+
+
+
+Image 5 random wells from each plate (including at least 1 serum control)
+
+  1. While cells are in culture, image 5 random wells from each plate on 10x, phase.  
+
+STORY POINT ESTIMATE: 1 DAILY
+
+
+
+
+Prepare 2mL 50x E6 bullet (only need 1.2mL)
+
+  1. Combine the following ingredients in a 15 mL tube:
+    * 400 uL FGF2
+    * 100 uL TGF-beta 1
+    * 64 uL LAA2P
+    * 19.4 uL insulin
+    * 14 uL sodium selenium
+    * 10.7 uL transferrin
+  2. Bring total amount to 2mL by adding 1391.9mL DMEM/F12.
+  3. Store at 4 degrees C if using on the same day. Otherwise, store at -20 degrees C.
+
+STORY POINT ESTIMATE: 1
+
+
+
+
+Create DSD Conditions with OT2
+
+  
+
+  1. Prepare the following reagents:
+    * ~`65mL"DMEM/F12"`
+      * `32.5 mL` DMEM
+      * `32.5 mL`  F12
+      * `0.130 mL` pen/strep
+      * `35.3 mg` sodium bicarb
+      * filter sterilise
+    * `1.2mL` 50xE6 Bullet
+  2. Any reconstitution buffers identified in this experiment's pipeline calculator
+  3. Reconstitute factors to make concentrated stocks.  See spec sheet for reconstitution instructions for each factor, as reconstitution protocols, reconstitution buffer and storage conditions may differ.
+    * Example reconstitution protocol
+      1. centrifuge vial containing powdered factor for 10 seconds
+      2. Bring factor to recommended reconstitution concentration by adding the recommended reconstitution buffer to vial and mix thoroughly via pipetting solution up and down 5-10 times within the vial.
+      3. make 20uL aliquots of the concentrated stock, placing in a 2mL micro-centrifuge snap tube labeled with the factor's name, concentration, date, and your initials.
+      4. Store unused aliquots at -20C.
+  4. Prepare working stocks of each factor
+    1. Refer to the "Factor Calcs" tab of your pipeline calculator to find uL amounts of `"DMEM/F12"` and concentrated stock needed to create a working stock for each factor.
+    2. Label one 96 Deep Well Plate as "Stock Plate", and add the uL amount of `"DMEM/F12"`for each factor in the following arrangement:
+      1. Factor 1 through 8- A1 through H1
+      2. Factor 9 through 16- A2 through H2
+    3. Next, add the uL amount of `concentrated stock` for each factor to the stock plate using the same arrangement as above.
+  5. Prepare OT2 for mixing protocol
+    1. Add `14mL` of `"DMEM/F12"` to wells 1 and 2 of a 12 well reservoir.
+    2. Add `1.2mL` of 50x E6 bullet to A3 of the stock plate.
+  6. Immediately prior to running the OT2 mixing protocol, use a multichannel pipette to thoroughly mix the working stocks by pipetting the solutions up and down 5-10 times within their respective wells.  DO NOT MIX THE WORKING STOCKS WITH EACH OTHER!
+  7. Run the following OT2 mixing protocol to make DSD conditions: 'XXXX-XX-XX-XXX-X-XXXX-XXXX-X-XXXXX'
+  8. While the OT2 mixing protocol is running, prepare controls and warm in waterbath at 37 degrees:
+    1. 4 mL DMEM/F12 + 2% HS + 0.2x P/S
+    2. 4 mL E6 (x0.2 P/S) made from fresh
+    3. 4 mL E6 (x0.2 P/S) made from bullet
+  9. Once the OT2 mixing protocol is completed, add `1.266mL`of each control to the stock plate in the following arrangement:
+    * 2% HS control in wells H11 and C12
+    * fresh E6 control in wells A12 and D12
+    * E6 bullet control in wells B12 and E12
+  10. Cover the stock plate with adhesive sealing mat, wrap with foil, and store in the fridge (4° C).
+
+STORY POINT ESTIMATE: 5
+
+
+
+
+Plate randomisation using OT2
+
+  1. Set up OT2 as follows:
+    1. Opentrons 96 filter tip rack (200 uL) on position 10
+    2. Stock plate (with 39 conditions + controls) on position 7
+    3. 96 deep well plates labelled 'Storage plate 1', 'Storage plate 2, and 'Storage plate 3' in positions 4, 5, 6 respectively.
+  2. Run the OT2 protocol for plate randomisation: "YYYY-MM-DD-num-N-p300-random-16f-DSD-w-Controls"
+
+STORY POINT ESTIMATE: 1
+
+
+
+
+Day 1 prolif - change to ACF prolif media (E89C)
+
+  1. Warm 30 mL of E89C media (x0.2 P/S).
+  2. Transfer warmed media to a disposable sterile reservoir
+  3. Using a multi-channel pipette slowly aspirate and discard 140uL of media from wells 3 columns at a time.
+  4. Add warm E89C media (140uL/well) to wells slowly.
+  5. Return plates to incubator at 37 degrees, 5% CO2.
+  6. Repeat for all columns on all 3x plates. 
+
+STORY POINT ESTIMATE: 1
+
+
+
+
+Day 4 prolif - change to diff media using OT2 (DSD conditions)
+
+  1. Warm the storage plates in the incubator for 20 minutes prior to treating the cells.
+  2. Set up OT2 as follows:
+    1. 96 well plates (designated as plates 1,2,and 3) on positions 1, 2, and 3 respectively
+    2. Storage plates 1, 2, and 3 on positions 4, 5, and 6 respectively
+    3. NEST 1 well reservoir on position 9
+    4. OpenTrons 96 filter tip racks (200 uL) on positions 7,8,10, and 11
+  3. Run protocol: `YYYY-MM-DD-num-N-doe-media-change`
+    1. This protocol will perform media change by aspirating all media from wells (3 columns at a time) and then adding 140uL of media per well from the corresponding wells of deep well plates (i.e. Media from column 2 of DWP1 will go into column 2 of 96 wp1, etc).
+  4. Return plates to incubator at 37 degrees, 5% CO2.
+  5. Repeat steps 2-4 with the other 3x 96 well plates.
+
+STORY POINT ESTIMATE: 1
+
+
+
+
+Day 1, 3 and 5 of diff - 50% feed with E6
+
+  1. Warm 15 mL of E6 media (x0.2 P/S).
+  2. Transfer warmed media to a disposable sterile reservoir.
+  3. Perform the following steps to 3 columns at a time to prevent cells from drying out:
+    1. Using a multi-channel pipette slowly aspirate and discard 70uL of media, using a different tip for each well.
+    2. Add 70uL/well warm E6 media to wells slowly (change tips if they touch the wells).
+  4. Return plates to incubator at 37 degrees, 5% CO2.
+
+STORY POINT ESTIMATE: 2
+
+
+
+
+Day 2, 4, and 6 of diff - 50% feed with DSD conditions
+
+  1. Warm storage plates 1, 2, and 3 in the incubator for at least 20 minutes before use.
+  2. Perform the following steps for each column containing cells for all 3 plates, changing tips between columns.
+    1. Using a multi-channel pipette slowly aspirate and discard 70uL of media from a column (starting with culture plate 1, column 2).
+    2. Slowly add 70uL/well warm diff media from corresponding wells of the stock plate (i.e. from storage plate 1 column 2 into culture plate 1 column 2 and so on).
+  3. Return plates to incubator at 37 degrees, 5% CO2.
+
+STORY POINT ESTIMATE: 2
+
+

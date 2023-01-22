@@ -1,0 +1,200 @@
+
+
+## Performed by: Eva  
+
+
+
+
+Perform passage using below volumes:
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T1758870-DAISY4-Cow P6-1of3  
+8871-DAISY4-Cow P6-2of3  
+8872-DAISY4-Cow P6-3of3  
+8873-BUFFY6-Water Buffalo P6-1of3  
+8874-BUFFY6-Water Buffalo P6-2of3  
+8875-BUFFY6-Water Buffalo P6-3of3  
+2 x 2CF and 2 x 24wp for each cell line  
+8987-DAISY4-Cow P7-1of2  
+8988-DAISY4-Cow P7-2of2  
+8989-BUFFY6-Water Buffalo P7-1of2  
+8990-BUFFY6-Water Buffalo P7-2of2  
+8991-DAISY4-Cow P7-1of2  
+8992-DAISY4-Cow P7-2of2  
+8993-BUFFY6-Water Buffalo P7-1of2  
+8994-BUFFY6-Water Buffalo P7-2of2  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionA7016; M7509  
+  
+TrypleA5229  
+  
+dPBS (for washing & neutralising)A7479; A7481  
+  
+Growth MediaA7522  
+  
+p38i (20mM stock)M7354  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting. Include link in
+image section
+
+2\. Gelatin coated     4     x     2 CF      &     4     x     24wp     vessel
+with sterile filtered 0.1% gelatin solution and then incubated all coated
+flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       :   pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    2 X 30     mL in 2 x 50 ml falcon tubes  
+
+  2.  dPBS (At 37 degrees for washing):     2 x 30    mL 
+  3.  dPBS (at RT neutralising):    2 x 30   mL 
+  4. Growth media (for pellet resuspension):     6    mL 
+  5. Growth media (for seeding):     2 x 300 ml    mL
+
+Time that all aliquots were placed in the water bath the warm before use
+14:38  pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     15:24  pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:45-16:00  pm 
+
+7\. Neutralised with     10     dPBS and combined cell suspension into a    2
+x 50 ml  tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:20-16:25 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     2.4 ml (Daisy)    mL    growth media + p38i
+media     16:26 pm
+
+11\. Aliquoted     10 uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded counts in
+"Seed Calculator" widget (see below):
+
+  
+
+
+DAISY
+
+  
+
+
+
+
+BUFFY6
+
+
+
+
+13\. Transferred        ABOVE VOLUMS    of cell suspension to the pre-warmed
+Growth media:  
+
+14\. Transferred cell suspension into the       2 X 24 WP AND 2 X 2CF     for
+each cell line.  
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      17:18  \-
+17:48 pm
+
+ Left at RT in the BSC for 30 min to allow cells to settle      17:45  \-
+18:05 pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)  Incubator:     18:05        
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

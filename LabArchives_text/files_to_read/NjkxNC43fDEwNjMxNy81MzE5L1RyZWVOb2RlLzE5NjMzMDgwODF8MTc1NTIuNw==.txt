@@ -1,0 +1,53 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/21181/epic21181-single-cell-cloning-f-
+dolly12-gelatin-fgf-stained-
+unstained?vc_group_by=day&cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwqEYUeUXiOogFYw/recradqqkOVFhisgu?blocks=hide
+
+RELATED TO MILESTONE:  
+
+Q3 Clones KR2: Derive 1500 clones from at least 7500 cells per month starting
+September 1st.
+
+AIM/PURPOSE:
+
+To determine whether gelatin coating wells or adding FGF basic to our media
+will impact F_DOLLY12 cell survival and growth after single cell sorting.
+
+HYPOTHESIS:
+
+We hypothesis that exposure of cells to gelatin coated wells and FGF
+containing media will produce the highest percentage of surviving clones after
+14 days
+
+RESULTS SUMMARY:
+
+A higher number of clones were picked from wells which had been treated with
+gelatin and/or FGFb compared to wells that did not contain either of these.
+However, this is based on cell counts from the machine learning model which
+was inaccurate for fibroblasts in 384 wp.
+
+CONCLUSIONS:
+
+The hypothesis could not be confirmed in this experiment because the machine
+learning model used for counting cells was inaccurate. Additionally, cell
+viability was likely affected by staining cells with Hoechst ReadyFlow
+reagent. No immortalised cell lines were created.
+
+NEXT STEPS:
+
+The effect of gelatin and FGF on fibroblast single cell cloning will need to
+be investigated again after a better ML model has been developed.
+
+Collect more data for ML model by imaging Hoechst stained cells on phase on
+DAPI channel (EPIC25398).
+
+Investigate the effect of Hoechst staining on cell viability (EPIC24301).
+
+Set up a suspension cloning pipeline.
+
+

@@ -1,0 +1,347 @@
+
+
+## Performed by: AK  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDGrowth MediumVessel location (weekend only)  
+Growth media location (weekend only) Other comments eg media container
+(weekend only)  
+MuSC clone, 50 mL shake tubes  
+8158-DOLLY12_11E7-Sheep P12-1of3  
+8162-DOLLY12_11E7-Sheep P12-2of3  
+8163-DOLLY12_11E7-Sheep P12-3of3  
+RPMI + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+8x 50 mL tubes in white tube holder, labelled 'AB Mon' and 'EPIC24485'  
+  
+  
+  
+  
+  
+8164-DOLLY12_11E7-Sheep P12-1of3  
+8165-DOLLY12_11E7-Sheep P12-2of3  
+8166-DOLLY12_11E7-Sheep P12-3of3  
+RPMI + 20%  KSR + 1:100 ACA + 0.1% w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+8167-DOLLY12_11E7-Sheep P12-1of3  
+8168-DOLLY12_11E7-Sheep P12-2of3  
+8169-DOLLY12_11E7-Sheep P12-3of3  
+CD-CHO + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+8170-DOLLY12_11E7-Sheep P12-1of3  
+8171-DOLLY12_11E7-Sheep P12-2of3  
+8172-DOLLY12_11E7-Sheep P12-3of3  
+CD-CHO + 20% KSR + 1:100 ACA + 0.1%v/w P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+  
+117 - top mini-fridge near Biostat  
+  
+  
+  
+  
+  
+  
+  
+  
+fibroblast clone, 50 mL shake tubes  
+8173-F_DOLLY12_4C4-Sheep P9-1of1  
+RPMI + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-BB~~  
+  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8174-F_DOLLY12_4C4-Sheep P9-1of2  
+8175-F_DOLLY12_4C4-Sheep P9-2of2  
+RPMI + 20%  KSR + 1:100 ACA + 0.1% w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8176-F_DOLLY12_4C4-Sheep P9-1of1  
+CD-CHO + 5% FBS + 1:100 ACA + 0.1%w/v P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+8177-F_DOLLY12_4C4-Sheep P9-1of2  
+8178-F_DOLLY12_4C4-Sheep P9-2of2  
+CD-CHO + 20% KSR + 1:100 ACA + 0.1%v/w P188 + 100ng/mL of FGFb, IGF1, ~~PDGF-
+BB~~  
+81 top Sanyo - near production lab  
+117 - top mini-fridge near Biostat  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Took the aliquoted growth media prepared today with growth factors (see previous lab book entry)
+    * Placed in waterbath to warm  15:00    
+
+  2. Prepared stain solution in 15 mL tube by combining the following (3 drops Hoechst and 1 drop Cytox per 1 mL of dPBS):
+    * _4_ mL of filtered dPBS (does not have to be sterile - filtered to remove debris)
+    * _12_ drops of NucBlue Live Cell Stain ReadyFlow Hoechst 33342
+    * _4_ drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+
+### Feed on OT2
+
+  1. Added protocol being used for feed as link below 
+  2. Loaded protocol linked below on computer next to OT2 and set up deck as described at calibration step
+  3. Use Corning (costar) 96 well plates \- they are in the cabinet under OT2. Loaded 300 uL of stain solution into column 1 of 1 x 96-well plate and placed this on deck position 2. Added 300uL of staining solution to wells A1, B1 of another 96 wp and placed this in deck position 3.
+  4. Collected all 8 media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck (as indicated by not underlined numbers in image below)
+  5. Collected _18_ x 50 mL shake tubes being fed from shaker 
+  6. Centrifuged at 300 x g for 5 min.   15:10  -  15:15   ,  15:16  \-   15:21       
+
+  7.   8. Ethanol-sprayed  _18_ x 50 mL shake tubes and loaded on OT2 (as indicated by underlined numbers)
+  9. Calibrated for protocol 
+  10. Ran protocol  
+    1. Start time:  15:50    
+
+    2. End time:  16:46
+    3. Total run time:  56 min     
+
+  11. Plate map(s) of culture IDs in 96-WP for imaging
+    *   
+123456789101112  
+  
+stain sol'n50% dilution25% dilution12.5% dilution12.5% dilutionEMPTYEMPTY50%
+dilution  
+25% dilution12.5% dilution12.5% dilution  
+  
+  
+A  
+8158  
+  
+  
+  
+  
+  
+8169  
+  
+  
+  
+  
+  
+B  
+8162  
+  
+  
+  
+  
+  
+8170  
+  
+  
+  
+  
+  
+C  
+8163  
+  
+  
+  
+  
+  
+8171  
+  
+  
+  
+  
+  
+D  
+8164  
+  
+  
+  
+  
+  
+8172  
+  
+  
+  
+  
+  
+E  
+8165  
+  
+  
+  
+  
+  
+8173  
+  
+  
+  
+  
+  
+F  
+8166  
+  
+  
+  
+  
+  
+8174  
+  
+  
+  
+  
+  
+G  
+8167  
+  
+  
+  
+  
+  
+8175  
+  
+  
+  
+  
+  
+H  
+8168  
+  
+  
+  
+  
+  
+8176  
+  
+  
+  
+  
+  
+    * plate 2:
+    *   
+1  
+2  
+3  
+4  
+5  
+6  
+  
+  
+  
+  
+  
+  
+  
+A  
+  
+8177  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+B  
+  
+8178  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  12. Returned vessels to incubator   16:55     
+
+Incubator (#81), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+  1. Incubated culture in stain at RT in dark for 20 - 30 minutes    16:59   \-   17:29     
+
+    1. while waiting, ensure you have 100uL/well of PBS in columns 3,4,9, and 10 of the 96 wp.  
+
+  2. Performed serial dilution by hand to achieve a 12.5% final dilution: 
+    1. Pipette mixed and moved 100 uL of 50% stain solution + cell suspension into wells containing 100 uL of filtered dPBS 
+    2. Pipette mixed and moved 100 uL of 25% stain solution + cell suspension + dPBS into wells containing 100 uL of filtered dPBS
+    3. Pipette mixed and moved 100 uL of 12.5% stain solution + cell suspension + dPBS into empty wells for 100 uL of 12.5% dilution 
+  3. Centrifuged the 96-well plate at 650 RCF for 1 minute. Timestamp:   17:40 - 17:41 
+  4. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488). exposure: 60 for DAPI, 100 for AF488  Timestamp:    17:46
+    * Culture ID images were stored under:     8158    
+    * When imaging, in the notes include: 'Day 18, plate 1' or 'Day 18, plate 2'  
+
+
+
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recZYiqqFG6xM5Oi4/images
+
+
+
+
+Reagents:
+
+NameDetailsVolume used (mL)  
+  
+  
+  
+ dPBSa7047  
+  
+  
+Sytox Greens  
+  
+  
+Hoechsts1656  
+  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+N/A  
+
+Zaber observations/issues:
+
+  100  % media changed on vessel(s)
+
+18 suspension culture (see IDs in the table at the top)
+
+  
+
+

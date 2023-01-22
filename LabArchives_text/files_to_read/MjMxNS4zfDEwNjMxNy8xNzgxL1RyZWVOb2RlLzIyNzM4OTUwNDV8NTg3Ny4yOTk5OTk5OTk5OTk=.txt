@@ -1,0 +1,124 @@
+
+
+Images used for scoring:  
+https://mia-capture.vow.tools/#/session/recLU9Djvva57qYjS/images
+
+Data used for analysis:
+
+https://docs.google.com/spreadsheets/d/1DTTob91T4vicBFRfnbYCPwhEToC_iUdTACelqzc0y3s/edit#gid=471768188  
+  
+  
+Interaction effects \- what combination of media, wetness, seeding density and
+scaffold results in the highest scaffold confluence by day 14.  
+
+  
+Data entered into table - Condition and Confluence only, zein and gelatin in
+same data set, serum controls included
+
+Key findings:  
+  
+\- ANOVA with post-hoc Tukey reported no significant difference between means
+for all conditions (post-hoc T-test reported that Z, Wet, 2 condition was
+significantly lower, matching the sorted parameter estimates)
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+Interaction effects on Gelatin only - i.e. how does wetness, seeding density
+and media type combined influence gelatin scaffold confluence.
+
+Output for with and without serum ctrls included.  
+  
+Data in table = Gelatin scaffolds only, condition and confluence.
+
+Key findings:
+
+\- Seeding density, scaffold wetness and seeding media type had no significant
+difference on scaffold confluence, with no significant difference observed
+between conditions.
+
+  
+
+  
+
+  
+
+
+
+
+Data in table = Zein scaffolds only, condition and confluence, serum controls
+included.  
+  
+Interaction effects on Zein only - i.e. how does wetness, seeding density and
+media type combined influence zein scaffold confluence.  
+  
+ Key findings:
+
+  
+No significant differences between conditions.
+
+Z, Dry, 0.7 close to having a significant positive effect (p=0.0642)  
+
+  
+
+.
+
+  
+
+
+
+
+Main effects - does seeding density, wetness and media type have an overall
+effect (positive or negative) on scaffold confluence regardless of scaffold
+material (i.e. when trying a new scaffold is there a blanket condition that is
+typically better overall for achieving high confluence).
+
+  
+Data in table: Confluence, Scaffold, Wetness, Seeding density, serum controls  
+  
+Key findings:  
+Wetness, Seeding density, and Media had no significant overall effect on
+confluence when both scaffold types were compared.  
+  
+Gelatin was close to having a significantly higher confluence than zein (p =
+0.0583)  
+  
+  
+
+  
+
+Zein only:
+
+  
+
+Gelatin only:  
+
+
+
+
+Gelatin confluence vs Zein confluence on D1 regardless of condition:
+
+  
+  
+Gelatin confluence vs Zein confluence on D14 regardless of condition:  
+  
+  
+D1 gelatin vs D14 gelatin:
+
+  
+  
+
+D1 Zein vs D14 Zein  
+
+  
+  
+
+

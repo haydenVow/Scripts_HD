@@ -1,0 +1,113 @@
+
+
+## Performed by: NH, ST, EC  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask IDFrozen cell pellets  
+T75Wild Type control  
+122064x96wp12249-12252Library lab freezer 62, bottom shelf  
+T75BMF+BCL2L11  
+122085x96wp12233-12237Library lab freezer 62, bottom shelf  
+  
+T75FASLG+RIPK1  
+122075x96wp12226-12230Library lab freezer 62, bottom shelf  
+  
+T75TBK1  
+122095x96wp12242-12246Library lab freezer 62, bottom shelf  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12072  
+  
+Growth Media  
+  
+FACS buffer No label  
+7-AAD stainNo label.  
+  
+  
+
+
+Procedure
+
+
+PREPARE DESTINATION VESSELS
+
+  1. Filled all wells on 19x 96 well plates with 200uL of  DMEM/F12 (1:1) + 20% FBS +1xP/S
+  2. Plates were placed in the incubator (140) at 30 degrees, 5% CO2 to warm. 
+
+  
+
+
+
+
+
+
+
+PASSAGING OF NUCLEOFECTED CELLS
+
+  1.  Took 2 x images of each vessel with microscope on phase setting (4X to assess confluence) 
+  2. removed the T75 cultures from the incubator then aspirated and discarded the media from each. 
+  3. Added 5mL of room temp dPBS to wash each flask. 
+  4. Aspirated and discarded the washes, replacing with 5mL of 1xTryple-EDTA 
+  5. Placed flasks to incubate at 30 degrees for 13 minutes, 5% CO2 (incubator 140). 
+  6. Once cells were confirmed detached by inspection under the microscope (4x Objective), 5mL of dPBS was added to each flask to neutralise the Tryple-EDTA.
+  7. The contents of each flask were collected into separate 15mL tubes.
+  8. Tubes were spun at 500g for 5 minutes. 
+  9. Supernatant from all tubes were discarded and the cell pellets were resupsended in 1.4mL of cold FACS buffer prepared 10 days earlier (phenol red free 1:1 DMEM/F12 + 2% FBS) 
+  10. 1mL of each cell suspension transferred to separate filter cap tubes, 1 drop (approximately 20uL) of 7-AAD was then added to each tube and tubes were left to incubate for 5 minutes at room temperature. 
+    1. Cells were then moved to the MELODY FACS sorter for sorting. 
+    2. Flow rate was set to 10. 10,000 events were recorded for each cell type as they were being sorted. 
+    3. Sorted samples into 5x96 well plates (4x96wp for control), 1 single cell per well. 
+    4. Plates were placed in the incubator 140, 30 degres, 5% CO2. Average plate sort time was 6-7 minutes. Total sorting time was approximately 2.5 hours. 
+  11. 400uL of the remaining cell suspension was transferred to separate 1.5mL tubes and centrifuged for 5 minutes at 500g.
+    1. Media was aspirated and discarded from each cell pellet.
+    2. Cells were then washed in 500uL of dPBS. 
+    3. Cells were centrifuged at 500g once more for 5 minutes room temp.
+    4. Supernatant was aspirated and discarded leaving a dry cell pellet. 
+    5. Tubes containing cell pellets were placed in a yellow top 70mL container labelled with the date, EPIC ID and initials before being placed at -20 degrees in the library lab freezer (62) bottom shelf. 
+
+  
+
+* * *
+
+  
+
+
+
+
+## Observations
+
+\- Decided not to freeze any of the cells due to time constraints. Cell
+viability was high even after 2 hours at room temperature once 7-AAD had been
+added.
+
+Control cells were sorted last.
+
+  
+
+
+
+
+## Reference Images
+
+See ranger.
+
+
+
+
+

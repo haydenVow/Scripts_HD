@@ -1,0 +1,226 @@
+
+
+Electrical stimulation of cells in vitro runs the risk of introducing chemical
+byproducts and pH changes to the media. To prevent this from occurring, most
+stimulation set ups use salt bridges or balanced, biphasic stimulation
+waveforms, however this setup is more complicated to implement than a simple
+metallic electrode stimulating with direct current. A basic well-plate setup
+is required to be developed for this experiment. For simplicity, electrical
+stimulation using DC current with no pulse train will be investigated while
+developing the more complex stimulation parameters.  
+
+Some papers have shown successful improvement of differentiation or results
+which suggest improved maturation using simple DC voltage set ups with Pt
+electrodes (Mobini et al., 2016) or biphasic pulse train set ups with
+stainless steel electrodes (Donnelly et al., 2010). This series of tests looks
+at the effects of a simple set up using cheap materials and minimal hardware.
+A cheap and simple electrode set up may be the easiest to scale but poses the
+most risk of causing damage to the cells through media pH changes or other
+biochemical reactions.
+
+
+Test 1 - Stainless Steel Electrodes 20 V/cm
+
+
+## Method
+
+1.6 mm diameter stainless steel electrodes spaced 15mm apart in a 12 WP
+culture dish well were tested in 2 mL of tap water with 30 V DC current,
+equating to 20 V/cm. This is much higher than we would expect to use to
+stimulate cells and it was expected to see indications of hydrolysis such as
+gas formation.
+
+
+
+
+## Results
+
+Using 30 V output, 5 mA was able to be pushed through the circuit. Using Ohms
+law of V = IR, we can estimate the impedance of the load is 6kOhm (Figure 1).
+
+Bubbles were clearly visible at the electrode-electrolyte interface,
+indicating electrolysis of the water with the formation of hydrogen gas and
+implying a change in pH (Figure 2).
+
+Figure 1: Stimulating stainless steel electrodes with 20V/cm DC current
+
+ Figure 2: Hydrogen gas formation at the electrode-electrolyte interface.
+
+
+
+
+Test 2 - Voltage Divider Stainless Steel Electrodes 2, 1 and 0.5 V/cm in Growth Media
+
+
+## Method
+
+DC current with voltage outputs of 2, 1 and 0.5 V/cm was applied to 1.6 mm dia
+stainless steel electrodes in wells with 2 mL growth media using a 30 V DC
+power supply and a 10k Ohm potentiometer voltage divider for a minimum of 1
+hour.
+
+
+
+
+## Results
+
+0.5 V/cm showed no indication of electrolysis over 1 hour of stimulation, with
+no gas bubble formation or pH indicator colour change within the well. 1 V/cm
+and 2 V/cm showed indications of electrolysis at the anode, with gas bubble
+formation occurring at the anode and the colour of the media changing to a
+deep red colour around the same electrode.
+
+Figure 1: Electrical stimulation of growth media using 1.6 dia stainless steel
+electrodes in 3 wells of a 12WP culture dish. The wells are connected to a
+single DC power supply, with the voltage varied per well using a 10k Ohm
+potentiometer voltage divider circuit. The multimeter shows 0.75 V across two
+electrodes of a well, indicating 0.5 V/cm is being applied to the growth media
+in that well.
+
+ Figure 2: Applying varying voltages of DC current to growth media using
+stainless steel electrodes. Left: 0.5 V/cm, showing no indication of
+electrolysis. Middle: 1 V/cm, showing gas bubbles forming at the anode. Right:
+2 V/cm, showing a large number of gas bubbles forming at the anode.
+
+Figure 3: The underside of the three wells being stimulated showing the
+discolouration and cloudy appearance of the media stimulated with 2 V/cm (far
+right well).
+
+  
+
+Figure 4: Left: Electrodes from the 2 V/cm stimulation test showing pitted
+marks and blackening on the anode, and showing matter accumulation on the
+cathode. Right: The electrodes for the 2 V/cm 1 V/cm showed some indication of
+dissolution.
+
+
+
+
+## Discussion
+
+2 V/cm showed a large amount of electrolysis at the anode, indicating the
+voltage is too high for a DC current set up with stainless steel electrodes.
+Large amounts of gas formation was present at the anode and the media turned a
+deep red colour around the same electrode. The colour change is caused by the
+phonolphthalein pH indicator, with the deep red colour occurring as the the
+media becomes more basic. These observations are consistent with hydrogen gas
+formation occurring at the anode. 1 V/cm also showed similar indications of
+electrolysis, though to a lesser degree. 0.5 V/cm indicated it may be an
+appropriate voltage for this electrode set up, showing no gas bubble formation
+at the anode or pH indicator colour change within the well.
+
+
+Test 3 - Overnight DC Voltage Tests with Stainless Steel Electrodes for 1, 0.5 and 0.25 V/cm
+
+
+## Method
+
+A complete 12WP EStim setup was configured to stimulate with four conditions
+in triplicate: 0, 0.25, 0.5 and 1 V/cm (Figure 1). This was done using a DC
+power supply outputting 1.5 V and potentiometers to adjust the voltage for
+each condition, ultimately delivering 0, 0.375, 0.75 and 1.5 V respectively,
+due to the 1.5 cm spacing between the electrodes. The voltage was read across
+one well for each column to confirm the appropriate voltage was being
+delivered for each condition. Stimulation was left running overnight.
+
+Figure 1: DC Voltage EStim condition configuration.
+
+Figure 2: The DC power supply delivering 1.5 V, with 3 potentiometers changing
+the single output to 3 different outputs of 1.5, 0.75 and 0.375 V.  
+
+Figure 3: The wiring setup to connect the 3 wells for each condition in
+parallel.  
+
+Figure 4: The EStim culture plate setup inside the incubator during
+stimulation.  
+
+  
+
+
+
+
+## Results
+
+0.25 V/cm showed no indication of electrolysis with stimulation overnight. No
+gas bubble formation or pH indicator colour change was visible within the
+well. 0.5 V/cm showed indications of electrolysis at the anode, with gas
+bubble formation occurring visible the anode and the slight colour difference
+of the media to indicate pH change. 1 V/cm showed drastic changes to the media
+and the electrode, with a thick, black substance present in the well,
+particularly around the anode (Figure 5). Electrode inspection after cleaning
+the electrode plate revealed some indications of dissolution to the electrodes
+delivering 0.5 V/cm and clear indications of severe dissolution to the
+electrodes delivering 1 V/cm (Figure 6).
+
+  
+
+Figure 5: Electrical stimulation overnight of a 12WP culture dish with growth
+media, using (from left to right) 0.25, 0.5, 1 and 0 V/cm.
+
+Figure 6: Electrode inspection after cleaning the electrode plate revealed
+some indications of dissolution to the electrodes delivering 0.5 V/cm and
+clear indications of severe dissolution to the electrodes delivering 1 V/cm.
+
+
+
+
+## Discussion
+
+This study indicated that a safe voltage using a simple DC power supply with
+stainless steel 1.6 mm diameter wire L-shaped electrodes is less than 0.5
+V/cm, with 0.25 V/cm showing no indication of pH changes or electrode
+dissolution after one night of stimulation. This voltage range is in the range
+of recorded voltages from some studies, such as 70 mV/cm (Serena et al.,
+2008). However, this is substantially lower than other recorded voltage ranges
+used in many other studies, such as 2 V/cm (Ko et al., 2018), 4 V/cm (van der
+Schaft et al., 2013) and 5 V/cm (Shahin-SHamsabadi et a., 2020). However, all
+of these previous studies either used biphasic charge balanced waveforms or a
+salt bridge to prevent unwanted biochemical reactions from occurring. In a
+similar method to the current experiment, one study used a constant DC power
+supply without the use of a salt bridge or charge balanced waveform to
+stimulate cells immersed in culture media. Using platinum L-shaped electrodes,
+1 V/cm was the maximum voltage which could be used without observing
+substantial electrode dissolution or gas formation and pH excursions (Mobini
+et al., 2018). This is higher than the 0.25 V/cm maximum voltage observed in
+the current experiment. This difference may be due to the electrode material
+used, with the current experiment using stainless steel electrodes instead of
+platinum. Stainless steel L-shaped wire electrodes have also been used in
+previous literature without observing negative effects to the cells or
+surrounding media, however a charged balanced biphasic waveform was used to
+minimise harmful effects (Donnelly et al., 2010).
+
+
+References
+
+
+Donnelly, K., Khodabukus, A., Philp, A., Deldicque, L., Dennis, R.G. and Baar,
+K., 2010. A novel bioreactor for stimulating skeletal muscle in vitro. Tissue
+Engineering Part C: Methods, 16(4), pp.711-718.
+
+Ko, U.H., Park, S., Bang, H., Kim, M., Shin, H. and Shin, J.H., 2018.
+Promotion of myogenic maturation by timely application of electric field along
+the topographical alignment. Tissue Engineering Part A, 24(9-10), pp.752-760.
+
+Mobini, S., Leppik, L. and Barker, J.H., 2016. Direct current electrical
+stimulation chamber for treating cells in vitro. Biotechniques, 60(2),
+pp.95-98.
+
+Naumann, K. and Pette, D., 1994. Effects of chronic stimulation with different
+impulse patterns on the expression of myosin isoforms in rat myotube cultures.
+Differentiation, 55(3), pp.203-211.
+
+Serena, E., Flaibani, M., Carnio, S., Boldrin, L., Vitiello, L., De Coppi, P.
+and Elvassore, N., 2008. Electrophysiologic stimulation improves myogenic
+potential of muscle precursor cells grown in a 3D collagen scaffold.
+Neurological research, 30(2), pp.207-214.
+
+Shahin-Shamsabadi, A. and Selvaganapathy, P.R., 2020. Tissue-in-a-Tube: three-
+dimensional in vitro tissue constructs with integrated multimodal
+environmental stimulation. Materials Today Bio, 7, p.100070.
+
+van der Schaft, D.W., van Spreeuwel, A.C., Boonen, K.J., Langelaan, M.L.,
+Bouten, C.V. and Baaijens, F.P., 2013. Engineering skeletal muscle tissues
+from murine myoblast progenitor cells and application of electrical
+stimulation. Journal of visualized experiments: JoVE, (73).
+
+

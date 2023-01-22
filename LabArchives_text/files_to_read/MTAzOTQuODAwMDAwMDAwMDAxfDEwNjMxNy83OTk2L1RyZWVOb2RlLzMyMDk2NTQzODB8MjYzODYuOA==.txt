@@ -1,0 +1,35 @@
+
+
+  
+
+## Protocol
+
+  
+
+  
+
+Method:
+
+  1. Removed cultures from the incubator.
+  2. Removed 1.982mL from culture 11410-1 and 2.083mL from culture 11412-1, placed aliquots into 15mL tubes.
+  3. Proceeded with protocol above as instructed.
+  4. Once samples were loaded in the MELODY FACS machine, single cells were gated and PI intensity was assessed alongside event count. See images below.
+
+Overall we weren't able to see any cells obviously in S or G2 phase.
+Histograms of the single cell cell populations for both samples exhibited one
+major peak. This suggests all cells are in G0/G1 phase. In the future we will
+include a positive control (Trypalised cells from an adherent CHOMP
+population) as well as a negative control for each sample (PI negative cells).
+These controls should help us confirm this hypothesis.  
+  
+Right now we suspect that our cell populations at 120rpm are sitting in the
+G0/G1 phase and are not proliferating.
+
+
+
+
+Results
+
+﻿
+
+

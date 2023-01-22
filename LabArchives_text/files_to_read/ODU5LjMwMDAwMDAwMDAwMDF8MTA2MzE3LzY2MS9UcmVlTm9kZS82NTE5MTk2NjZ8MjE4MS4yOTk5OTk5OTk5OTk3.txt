@@ -1,0 +1,149 @@
+
+
+Phase and DAPI images that were captured on 5x objective using the main lab
+Zaber were processed using the Microcarrier Cell Count analysis on MIA.
+
+Cell count/microcarrier values were entered into GraphPad Prism. Outliers were
+removed using ROUT method with Q=2%.
+
+  
+
+Day 1
+
+    
+
+  
+SerumE89CE810CE811B  
+Number of values206207139153  
+  
+  
+  
+  
+  
+  
+Minimum0.0001.0000.0000.000  
+Maximum13.0014.0016.0015.00  
+Range13.0013.0016.0015.00  
+  
+  
+  
+  
+  
+  
+Mean4.9665.4546.4395.627  
+Std. Deviation2.7802.6103.1092.746  
+Std. Error of Mean0.19370.18140.26370.2220  
+  
+  
+
+  
+
+n = 139-207, ordinary one-way ANOVA + Tukey, **p≤0.01, ****p≤0.0001
+
+  
+
+
+
+Day 4
+
+    
+
+  
+SerumE89CE810CE811B  
+Number of values210208207201  
+  
+  
+  
+  
+  
+  
+Minimum0.0000.0000.0000.000  
+Maximum13.008.00010.008.000  
+Range13.008.00010.008.000  
+  
+  
+  
+  
+  
+  
+Mean4.4243.0293.2903.418  
+Std. Deviation2.9191.8542.0011.840  
+Std. Error of Mean0.20150.12860.13910.1298  
+  
+ n=201-210, ordinary one-way ANOVA + Tukey, ****p≤0.0001
+
+
+
+  
+
+  
+
+Day 7
+
+    
+
+  
+SerumE89CE810CE811B  
+Number of values203209178116  
+  
+  
+  
+  
+  
+  
+Minimum0.0000.0000.0000.000  
+Maximum19.0011.0010.004.000  
+Range19.0011.0010.004.000  
+  
+  
+  
+  
+  
+  
+Mean6.4634.2153.3431.371  
+Std. Deviation3.9952.2422.3601.108  
+Std. Error of Mean0.28040.15510.17690.1028  
+  
+  
+
+ n=116-203, ordinary one-way ANOVA + Tukey, *p≤0.05, ****p≤0.0001
+
+
+
+Day 9
+
+  
+
+  
+SerumProtease inhibitor  
+Number of values167166  
+  
+  
+  
+  
+Minimum0.0000.000  
+Maximum6.0006.000  
+Range6.0006.000  
+  
+  
+  
+  
+Mean1.8021.687  
+Std. Deviation1.2721.426  
+Std. Error of Mean0.098410.1107  
+  
+  
+
+  
+
+n=166-167, Mann-Whitney test, no significant difference
+
+
+
+  
+
+  
+
+  
+
+

@@ -1,0 +1,98 @@
+
+
+
+
+
+Process
+
+  1.  The stock plate was centrifuged at 650g for 5 min to allow all media droplets to be collected at the bottom of the wells.
+  2. Added `1.266mL`of each control to the stock deep well plate in the following arrangement:
+    * 2% HS control in wells H11 and C12
+    * fresh E6 control in wells A12 and D12
+    * E6 bullet control in wells B12 and E12
+  3. Set up OT2 as follows:
+    1. Opentrons 96 filter tip rack (200 uL) on position 10
+    2. Stock plate (with 39 conditions + controls) on position 7
+    3. 96 deep well plates labelled 'Conditions plate 1', 'Conditions plate 2, and 'Conditions plate 3' in positions 4, 5, 6 respectively.
+  4. Run the OT2 protocol for plate randomisation: "YYYY-MM-DD-num-N-p300-random-16f-DSD-w-Controls"
+    1. start run: 11:50:46 AM  
+
+    2. run time: 1:27:42
+  5. Added 300uL PBS to all the edge wells of 'conditions' storage plates. Note: 'conditions plates' refers to deep well plates with the DSD media conditions.
+  6. 3 additional deep well plates were set up with E6 from bullet in all wells, except for the controls. These will be referred to as 'E6 plate 1', 'E6 plate 2' and 'E6 plate 3'. Steps for setting up these were as follows:
+    1. Added 310uL/well of controls to plates as follows:
+      1. Where source well H11 and C12 are mentioned, 2% HS control was used. Where source well A12 and D12 are mentioned, fresh E6 was used. Where source well B12 and E12 are mentioned, E6 made from bullet was used.
+      2.             From source well H11: Plate 1 ["E8","B9"]  
+            From source well A12: Plate 1 ["E6"]  
+            From source well B12: Plate 1 ["E7"]  
+            From source well C12: Plate 1 ["G5"]  
+            From source well D12: Plate 1 ["C3"]  
+            From source well E12: Plate 1 ["F8","B10"]  
+            ------------------------------------------------  
+            From source well H11: Plate 2 ["E6"]  
+            From source well A12: Plate 2 ["G3"]  
+            From source well B12: Plate 2 ["E3"]  
+            From source well C12: Plate 2 ["C4","C11"]  
+            From source well D12: Plate 2 ["B2","F5"]  
+            From source well E12: Plate 2 ["B8"]  
+            ------------------------------------------------  
+            From source well H11: Plate 3 ["G11"]  
+            From source well A12: Plate 3 ["G3","E7"]  
+            From source well B12: Plate 3 ["E4","B5"]  
+            From source well C12: Plate 3 ["C11"]  
+            From source well D12: Plate 3 ["D12"]  
+            From source well E12: Plate 3 ["D8"]
+
+      3. E6 (310uL/well) was added to all other wells excluding the edge wells.
+      4. 300uL /well of PBS was added to all edge wells.
+      5. The plate was sealed with a adhesive sealing mat.
+  7. Both plates were stored in the fridge (4 degrees C).
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+E6 from freshm4710  
+E6 from bulletm4711  
+DMEM/F12 + 2% HS + 0.2x P/Sm4709  
+PBsm4346  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Ran plate randomisation protocol on OT2 to create DSD conditions.
+
+Set up additional deep well plates containing E6 is all wells (except 2% HS
+controls and fresh E6 controls)
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

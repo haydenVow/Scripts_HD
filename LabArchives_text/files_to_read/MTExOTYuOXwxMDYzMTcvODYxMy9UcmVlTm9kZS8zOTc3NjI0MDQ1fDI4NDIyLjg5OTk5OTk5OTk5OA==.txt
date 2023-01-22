@@ -1,0 +1,201 @@
+
+
+## Completed by: LL & AS
+
+
+General overview
+
+
+We have recently uncovered some new information about CHO-in-1 medium. First
+of all, it does not contain L-Glutamine. L-Glutamine is an essential amino
+acid that is crucial for mammalian cell growth in culture. Glutamine supports
+the growth of cells with high energy demands and is used as an alternative
+energy source to glucose [1].
+
+Furthermore, CHO-in-1 contains 6 g/L glucose. We know that Nuvonis cells can
+grow well with this concentration of glucose, as Freestyle (the recommended
+basal medium for this cell line) contains roughly the same amount. However,
+when we dilute CHO-in-1 with RPMI, we are reducing the concentration to a
+potentially harmful level for cell growth. For example, 50/50 RPMI/CHO-in-1
+contains just 4 g/L glucose, which is equivalent to 22 mM, while 75/25 is only
+16.6 mM. For context, growth media with <20 mM glucose is typically classified
+as "low glucose" [2]. Glucose is a major energy source for proliferating
+cells: animal cells use it as a primary fuel source, and is involved in
+multiple key metabolic pathways.
+
+Finally, CHO-in-1 does not have any hypoxanthine or thymidine. These
+ingredients are less essential than those previously mentioned, however they
+can be beneficial for stimulating cell growth. Hypoxanthine is a purine
+derivative, meaning it is involved in the manufacturing of adenine and guanine
+(two of the nitrogen bases that hold DNA strands together). Thymidine is
+likewise involved in DNA replication. A supplement of these two chemicals can
+be used when cells have begun using the salvage pathway to produce nucleosides
+to get them back to the de novo biosynthesis pathway. Once the pathway as been
+re-established, supplementation can stop [3]. It is still worth investigating
+these chemicals' impact in the base medium (on day 0), as there are a number
+of formulations that include these additives [4].
+
+This experiment will focus on initial supplementation with each of these
+chemicals at varying concentrations to determine which are crucial at day 0 of
+cell culture.
+
+
+L-Glutamine
+
+
+L-Glutamine is the most abundant intracellular amino acid; it is a key player
+in the production of ATP, NADPH and is a precursor for the synthesis of
+macromolecules e.g. nucleic acids and phospholipids [5]. The concern with
+L-glutamine supplementation is that is readily degrades at physiological pH in
+liquid media, and breaks down to ammonia, which is toxic to cells [6]. It is
+therefore important to either only supplement with L-glutamine as needed, or
+to use a more stable form. One such form is alanylglutamine, a dipeptide
+molecule consisting of L-glutamine and L-alanine which has better solubility
+and stability than L-glutamine alone.
+
+CHO-in-1 does not contain any L-glutamine in the basal media powder, as
+mentioned in the "General Overview" above. The concentration of L-Glutamine in
+open-source growth media ranges from around 0.1 to 1.4614 g/L (0.684 - 10 mM)
+[7] [8]. The RPMI-1640 formulation we use to dilute our CHO-in-1 medium
+contains 0.3 g/L (2 mM) [7], so in a 50/50 and 75/25 mix, our media contains 1
+and 0.5 mM respectively. The typical recommendation for bio-manufacturing and
+tissue engineering is to supplement media with 2-4 mM L-Glutamine [9].
+
+In this experiment we will be using a 50/50 mix of RPMI/CHO-in-1, in which the
+concentration of L-glutamine is 0.15 g/L, or 1 mM. We will test five
+concentrations: 1, 2, 3, and 4 and 5 mM. We will also test the five
+concentrations of L-glutamine using a dipeptide form (alanylglutamine).
+
+
+Glucose
+
+
+Glucose is one of the main sources of fuel for the majority of cell types. It
+is added to cell culture media in concentrations ranging from 1 g/L (5.5 mM)
+to as high as 10 g/L (55 mM) [10]. Concentrations of 5.5 mM mimics normal
+blood sugar levels, while 10 or >10 mM would be considered pre-diabetic and
+diabetic, respectively [10]. High levels of glucose in media can be
+detrimental to many cell types, however it is not uncommon for media to
+contain diabetic levels of glucose supplementation. With respect to cell
+culture, 5.5 mM is considered a low glucose media, while 30 mM is considered
+high glucose media.
+
+From our work on reverse-engineering proprietary high-density media, we
+discovered that HyCell contains ~9 g/L (49 mM), Freestyle contains ~6 g/L (33
+mM), and CDM4 contains ~7 (39 mM) g/L. In comparison, RPMI-1640 contains 2 g/L
+(11 mM). While the Nuvonis cells grow well in all three high-density media, we
+have achieved the highest maximum cell density in HyCell [11]. One reason for
+this could be the high glucose levels.
+
+In this experiment we will be using a 50/50 mix of RPMI/CHO-in-1, in which the
+concentration of glucose is 4 g/L, or 22 mM. We will test five concentrations:
+6, 7, 8, 9 and 10 g/L.
+
+
+Hypoxanthine
+
+
+Hypoxanthine (6-hydroxypurine) is a naturally occurring compound involved in
+purine base pair synthesis. It is the deaminated form of adenine and a
+breakdown product of adenosine monophosphate (AMP) [12]. Hypoxanthine is
+commonly used for a variety of cell culture applications.
+
+Supplementation improves barrier function and wound healing by increasing
+intracellular ATP [13]. Hypoxanthine and thymine (HT) in combination is known
+to increase cell growth of CHO cells and thus antibody production [14].
+Hypoxanthine enhances the proliferation activity in porcine aortic endothelial
+cells (PAEC) when supplemented at 0.1 μCi/6 μM, final concentration, in 0.4 mL
+DMEM [15]. It's important to also note that hypoxanthine is also capable of
+stimulating cell death. It induces reactive oxygen species (ROS) which causes
+oxidative stress and apoptosis [16].
+
+HyCell media contains 0.0047 g/L (34 uM) of Hypoxanthine. In this experiment,
+we will test 10, 30, 50, 70, 90 uM Hypoxanthine.
+
+
+Thymidine
+
+
+Thymidine is a pyrimidine deoxynucleoside. It is a DNA synthesis inhibitor
+that has the ability to arrest cell at G1/S boundary before DNA replication
+[17].
+
+Supplementing media with 100 µM thymidine along with other nucleosides is
+shown to significantly improve growth of CHO cells [18].
+
+Thymidine is often supplemented alongside hypoxanthine, in an "HT supplement"
+or in "HAT media". According to Thermo Fisher and CSH protocols, a 100X
+solution of HT contains 10 mM hypoxanthine and 1.6 mM thymidine [19] [20].
+This would mean a final media concentration of 100 mM and 16 uM hypoxanthine
+and thymidine, respectively. Likewise, ATCC sells a 500X stock of HT with a
+final concentration of 99 uM hypoxanthine, 15 uM thymidine [21].
+
+In this experiment we will test 1.6, 4.8, 8, 11.2 and 14.4 uM thymidine.
+
+
+References
+
+
+[1] https://www.sigmaaldrich.com/AU/en/technical-documents/technical-
+article/cell-culture-and-cell-culture-analysis/mammalian-cell-
+culture/glutamine
+
+[2]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6095543/#:~:text=Therefore%2C%2030%20mM%20is%20the,compared%20with%20typical%20culture%20media.
+
+[3]
+https://www.thermofisher.com/order/catalog/product/11067030?s_kwcid=AL.3652.3.345664482396.e..g..ht%20supplement&ef_id=CjwKCAjwh-
+CVBhB8EiwAjFEPGUJTo8Oap4oldk8_x8pX9UgLFPILRNKQOYAY-
+AdXEXI7f9GRU2uD5RoCZmoQAvD_BwE:G:s&s_kwcid=AL!3652!3!345664482396!e!!g!!ht%20supplement&cid=bid_clb_cce_r01_co_cp0000_pjt0000_bid00000_0se_gaw_nt_pur_con&gclid=CjwKCAjwh-
+CVBhB8EiwAjFEPGUJTo8Oap4oldk8_x8pX9UgLFPILRNKQOYAY-
+AdXEXI7f9GRU2uD5RoCZmoQAvD_BwE
+
+[4] Ranger media comparison tool (see figures below)
+
+  
+
+[5] https://www.scielo.br/j/bjmbr/a/HnKLvvJXLwTXg8WfCKx3Xvn/?lang=en
+
+[6] https://www.sigmaaldrich.com/AU/en/technical-documents/technical-
+article/cell-culture-and-cell-culture-analysis/mammalian-cell-
+culture/glutamine
+
+[7] Ranger media comparison tool (see figure below)
+
+[8] https://www.sigmaaldrich.com/AU/en/technical-documents/technical-
+article/cell-culture-and-cell-culture-analysis/mammalian-cell-
+culture/glutamine
+
+[9] https://onlinelibrary.wiley.com/doi/10.1002/rmb2.12024
+
+[10]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7698585/#:~:text=Glucose%20is%20a%20soluble%20sugar,%2FL%20(55%20mM)
+
+[11] https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/ODg0Ny44MDAwMDAwMDAwMDF8MTA2MzE3LzY4MDYvVHJlZU5vZGUvMjEzNTE3OTY0MnwyMjQ1OS44
+
+[12]
+https://www.sigmaaldrich.com/AU/en/product/sigma/h9636?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPtZPcWjTgeVaSDiFP4IXdhX2oAVmZtTydFlLm29M_mZE_Hm6o3RMwaAgrVEALw_wcB
+
+[13] https://www.jbc.org/article/S0021-9258(20)40953-6/fulltext
+
+[14] https://pubmed.ncbi.nlm.nih.gov/21805168/
+
+[15] https://pubmed.ncbi.nlm.nih.gov/7683470/  
+
+[16]
+https://www.sigmaaldrich.com/AU/en/product/sigma/h9636?gclid=Cj0KCQjw8O-VBhCpARIsACMvVLPtZPcWjTgeVaSDiFP4IXdhX2oAVmZtTydFlLm29M_mZE_Hm6o3RMwaAgrVEALw_wcB
+
+[17]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6156087/#:~:text=Thymidine%20is%20a%20DNA%20synthesis,by%20using%20double%20thymidine%20block.
+
+[18] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6546773/
+
+[19]
+http://cshprotocols.cshlp.org/content/2021/9/pdb.rec105148.full?text_only=true#:~:text=Hypoxanthine%2C%20aminopterin%2C%20and%20thymidine%20selection,O%20suitable%20for%20tissue%20culture.
+
+[20] https://www.thermofisher.com/order/catalog/product/11067030
+
+[21] https://www.atcc.org/products/71-x
+
+

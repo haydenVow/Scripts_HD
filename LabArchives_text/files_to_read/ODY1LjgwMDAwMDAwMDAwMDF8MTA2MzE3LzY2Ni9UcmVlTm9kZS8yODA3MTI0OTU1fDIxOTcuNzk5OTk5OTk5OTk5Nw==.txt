@@ -1,0 +1,225 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+  
+6550-DAISY4_16G9-Cow P7-3of4, 6538-DAISY4_16G9-Cow P7-1of4,
+6549-DAISY4_16G9-Cow P7-2of4, 6551-DAISY4_16G9-Cow P7-4of4  
+6597-DAISY4_16G9-Cow P8-1of3 (96wp)  
+6598-DAISY4_16G9-Cow P8-2of3 (96wp)  
+6599-DAISY4_16G9-Cow P8-3of3 (96wp)  
+6600-DAISY4_16G9-Cow P8-1of3 (T175)  
+6601-DAISY4_16G9-Cow P8-2of3 (T175)  
+6602-DAISY4_16G9-Cow P8-3of3 ( E flask, see next lab book entry)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated     6 wells in 2x96 well plates    with sterile filtered
+0.1% gelatin solution and then incubated all coated flasks at 37˚C.
+
+2.5. Removed 4 gelatin coated T175s from the fridge containing 0.1% sterile
+filtered gelatin solution, incuated the flasks at 37 degrees C.
+
+  1. Time when all vessels(s) placed into the incubator       9:54   a/pm 
+  2. Coated 6 more T175 flasks with gelatin and placed them in the incubator at [13:38]   
+
+  3. Coated 1 more 96 well plate (6 wells) with gelatin and placed in the incubator at [13:38] 
+
+NOTE: PREPARE AND SEED DIFF ASSAY ACCORDING TO EXPERIMENT TEMPLATE:
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODc3LjV8MTA2MzE3LzY3NS9UcmVlTm9kZS80MDA5OTU3MTUwfDIyMjcuNQ==
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     40    mL in     1x50mL     tubes
+  2.  dPBS (for washing and neutralising):     40    mL in    1x50mL    tubes
+  3. Growth media (for pellet resuspension):     2    mL in     1x15mL    tubes
+  4. Growth media (for seeding diff assay):     2.7    mL in     1x15mL    tubes
+  5. Growth media (for seeding planar culture):    300    mL in     1x500mL    container.   
+
+  6. Growth media (for seeding suspension culture: See next lab book entry in EPIC.   
+
+Time that all aliquots were placed in the water bath the warm before use
+14:28   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     15:28   a/pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     15:36-15:47   a/pm 
+
+7\. Neutralised with    10mL      dPBS and combined cell suspension into a
+2x50mL     tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     16:10   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1    mL     growth     media     16:28
+a/pm
+
+11\. Aliquoted      10uL    of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1015:1015
+
+  1.  Total cell number was:      1,592,000       
+
+
+
+
+Transferred 0.243mL of cell suspension containing 192857 cells to the pre-
+warmed      2.7     mL Growth media:      16:38    a/pm
+
+2\. Transferred 140uL of cell suspension into each of the 6 gelatin coated
+wells across all 3 pre-gelatin coated      96 well      plates after removing
+excess gelatin. (B2-4, C2-4).
+
+3\. Transferred vessel(s) to incubate at: 16:49
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+Planar culture cell requirements (1/4 of harvested cells):
+
+Cells remaining: 1592000-192857 = 1399143
+
+1399143 / 4 = 349785.75.  
+
+1\. Transferred      440     µl of cell suspension containing 349785.75 cells
+to pre-warmed aliquot of     60mL     mL Growth media:      16:59    a/pm  
+
+2\. Left at RT in the BSC for 30 min to allow cells to settle      16:59  \-
+17:30 a/pm  
+
+3\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells), incubator #67. 
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+Suspension culture cell requirements (3/4 of harvested cells):
+
+Cells remaining: 1049357.
+
+See next lab book entry in Epic.
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4319  
+Tryple4308  
+  
+dPBS (for washing & neutralising)4381  
+  
+Growth Media4567  
+p38i (20mM stock)3978  
+  
+  
+  
+
+
+
+
+### Observation
+
+Noticed some abnormal cell morphology on these cells prior to passage.
+Proceeded with passaging but consulted Katie about the issue.
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...
+    * Cell morphology appeared unusual. cells appeared splattered when examined down the primovert on  4x and 20x objective.
+    * Cell numbers from the passage were also lower than expected, Compared to DOLLY12_11E7 which produced around 6-8 million at this time point after thaw from MCB.
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+### Relevant Figures/Images
+
+See images below from 3/5/21
+
+https://mia-
+capture.vow.tools/#/session/rec7kxgAohrAQtDi3,recNBgm2AftrbBFAH,recyJczMNCxvNzs23,recwMomZRYcw6uPe5,rec3qAWOyZNkLJxyN,rec8Ioeo61FB32VrM,recyhfnqEtpGg9rVQ,recmgBvwRdOywXPo5,recuE3lc5aEOhvtVZ,recvmZcINQJyVoufq,recqsttcyj5TqwrFt,recx1ydUeT9LwnV5e,recKBo1f3YyKxrMUh/images  
+
+

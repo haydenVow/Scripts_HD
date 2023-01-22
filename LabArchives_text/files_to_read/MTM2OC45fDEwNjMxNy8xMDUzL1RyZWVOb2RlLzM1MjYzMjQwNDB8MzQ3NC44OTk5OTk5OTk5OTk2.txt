@@ -1,0 +1,24 @@
+
+
+Images captured from the 11-May-2021 were processed using two new FIJI macros
+designed to give an estimation of cell count per microcarrier. The macros can
+be found attached. Image pairs from Day 1 on MIA capture were copy and pasted
+into FIJI and the macros were run on each image pair. The process to process
+each image pair went as follow
+
+  1.  Copy and Paste the DAPI image from the pair into FIJI (e.g A1)
+  2. Copy and Paste the corresponding Phase image from the pair into FIJI 
+  3. Run the 'Microcarrier detector V2' Macro, wait for the generation of the 'Centroid Map' window
+  4. Run the 'Cytodex 1 count per microcarrier' macro, wait for the results table to be generated
+  5. Copied the 'Count' results to a separate spreadsheet on google drive here https://docs.google.com/spreadsheets/d/13F7hMkfOeq9JoHBSuDO--aIIA3BsiU27CxkR9yAdvKs/edit#gid=0
+
+  
+
+
+
+
+These new FIJI Macros were generated after our previous MIA tool 'uCarrier
+cell count plastic' tool failed to process the images correctly. Phase images
+were not processed correctly and microcarriers could not be counted.
+
+

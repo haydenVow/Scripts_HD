@@ -1,0 +1,169 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: TT  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+3214  
+3215  
+7515-F_DOLLY12-Sheep P8-1of1  
+50 mL tube  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Growth medium, for CO2 free incubation, for seeding - L15 + 2% FBS + 1% ACA +
+0.1% P188  
+M6289  
+  
+Growth Medium - extra for CO2 incubator  
+A6290  
+  
+  
+###  
+
+  
+
+
+
+
+Prepare materials for thaw and seed:
+
+  *  ~~ ~~NOTE: IF PERFORMING A THAW FROM A CLONAL MCB_2 OR WCB_2, PREPARE AT LEAST ONE EXTRA 96 WELL PLATE FOR A DIFFERENTIATION ASSAY. THIS IS AN IMPORTANT QUALITY CONTROL STEP WHILE WE BUILD OUR CLONAL CELL BANK.~~~~
+  *  ~~ ~~Suggested layout for diff assay (please refer to previous diff assays for exact seeding, feeding and analysis procedures)~~  
+~~
+
+ ~~ ~~1\. Gelatin coated    x    flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC ~~~~
+
+  *  ~~ ~~Time when all flasks placed into the incubator    : a/pm ~~~~
+
+1\. Prepared growth materials:
+
+  * CO2 free medium - Leibovitz's L-15 + 2% FBS + 1% ACA + 0.1% poloxamer 188 11:30  
+
+  * CO2 growth medium - DMEM/F12 \+ 2% FBS + 1x P/S + 1% ACA + 0.1% poloxamer 188 11:30  
+
+  * Ziploc bag  
+
+  * Bubble wrap (or similar padded packaging material)  
+
+  * Styrofoam box  
+
+  * Identifying label - material contents, hazard warning (if any), date of preparation, person who prepared, sender, receiver, culture conditions  
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth medium (M6289 for seeding):    20 mL  
+
+  * Time that aliquot was placed in the water bath to warm before use:   11:34 
+
+  
+
+
+
+
+## Thaw and seed vial:
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  11:56 - 12:01
+
+Location where cryovial was collected from:
+
+Vial details:  2   x  1 mL  cryovials at   10 million   cells each for a total
+of    20 million  cells
+
+IDPassageLocationTowerBoxLocation in box  
+3214-Culture-7346-Vial-3of607106-Ralph St-Main Lab-Brew46E1  
+3215-Culture-7346-Vial-4of607106-Ralph St-Main Lab-Brew46E2  
+  
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+ ~~` ~~5.  Added  µL of CO2-free Growth Media (to generate a total volume of
+1mL in the cryovial) to the cryovial, resuspended the cell suspension gently
+to reduce osmotic shock. ~~`~~
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the   mL of pre-warmed Growth Media (prepared in Step 2). `
+
+ ~~` ~~8. Transfered   mL to each pre-coated    flask/well, allow to rest in
+the BSC at RT for 30 min  : - : a/pm ~~`~~
+
+ ~~` ~~9. Transfered flask/plate(s) to incubate at:  ~~`~~
+
+  *  ~~[ ]  37ºC, 5% CO2 (mammalian cells)~~
+  *  ~~[ ]  40ºC, 5% CO2 (aviary cells)~~
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+10\. Prepared sample as per this
+protocol:https://www.bu.edu/dbin/stemcells/files/Shipping%20live%20fibroblast%20cell%20cultures.pdf
+
+  * Tightened the cap and sealed with parafilm. Filling to the top is important to avoid the shearing forces of media swishing  
+around in under filled containers.
+
+  * Placed the vessel in a sealed plastic bag and wrap the bag in bubble wrap.
+  * Placed the wrapped vessel in a padded mailing container or box, along with a piece of  
+paper with identifying name/information about the cells.
+
+  * SHIP AT ROOM TEMPERATURE. Do not ship on ice packs or cold packs. Most cells will survive for at least 24 hours in these conditions.
+
+11\. Handed the box containing the cell sample and spare growth medium to
+Sajad Razavi Bazaz at 12:20 pm. Box also included some samples from Chris:
+
+  * Alginic acid powder, 8 g
+  * Sodium alginate, 8 g
+  * Calcium chloride, 20 mM solution
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+None
+
+
+
+
+Relevant Images/Figures:
+
+None
+
+

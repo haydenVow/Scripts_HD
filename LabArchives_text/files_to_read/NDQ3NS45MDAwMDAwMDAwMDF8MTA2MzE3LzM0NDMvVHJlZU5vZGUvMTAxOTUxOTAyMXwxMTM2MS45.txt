@@ -1,0 +1,194 @@
+
+
+Performed by: LL TT  
+
+
+
+
+NANDO Culture IDs:
+
+Flask typeFlask ID  
+ 5x 50mL shake tube  
+7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+  
+E125 flask7700-NANDO3F-Chicken P3-1of1  
+  
+  
+  
+
+  
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+50 mL spin tubes  
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+Media
+
+1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF + 1x p/s  
+2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic +100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+3. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+4\. Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+5\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic  \+ 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+
+
+
+
+Prepare media  
+1\. Place the aliquoted  10mL  mL of each respective type of Growth Media \+
+additional 25ml CD CHO and 25mL CDM4 Avian into the water bath 13:01
+
+
+
+
+Process:
+
+  1. Aliquoted media or collected all aliquots listed in "Feed Information" table and placed in water bath  13:01   
+
+  2. Prepared stain buffer by combining the following:
+    1. 3 mL of filtered dPBS 
+    2. 15 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    3. 15 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green  
+
+  3. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  4. Collected 5 of the 50 mL shake tubes (DOLLY) being fed from shaker 
+  5. Centrifuged at 300 x g for 5 min. 13:17 - 13:22   
+
+  6. While tubes were centrifuging, loaded protocol linked above on computer next to Otis and set up deck as described at calibration step
+  7. Ethanol-sprayed 5 x shake tubes and loaded on OT2 (Otis)
+  8. Collected 5 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  9. Order of media in rack:
+    1. Hycell/7692
+    2. CD CHO/7691
+    3. Avian/7690
+    4. Control/7689
+    5. RPMI/7693
+  10. Calibrated for protocol 
+  11. Ran protocol  
+    1. Start time: 1:39:42 PM
+    2. End time: 13:56 PM
+    3. Run time: 16 min 36 seconds
+  12. Returned vessels to incubator  13:58 
+  13. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  14. Collected 5 remaining 50 mL shake tubes (NANDO) being fed from shaker 
+  15. Centrifuged at 300 x g for 5 min. 14:05 - 14:10   
+
+  16. While tubes were centrifuging, loaded protocol linked above on computer next to Otis and set up deck as described at calibration step
+  17. Ethanol-sprayed 5 x shake tubes and loaded on OT2 (Otis)
+  18. Collected 5 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  19. Order of media in rack:
+    1. Hycell/7698
+    2. CD CHO/7697
+    3. Avian/7696
+    4. Control/7695
+    5. RPMI/7699
+  20. Calibrated for protocol 
+  21. Ran protocol  
+    1. Start time: 2:14:43 PM
+    2. Paused to load manually processed E125 samples into plate to be stained by OT2 (7694: G1, 7700: H1)
+    3. End time: 14:34
+    4. Run time: 18 min 45 sec
+  22. Returned vessels to incubator  14:37  
+
+
+
+
+Process E125 flasks:
+
+1\. Transfer culture vessels to BSC 13:50
+
+2\. Using a 5 mL serological pipette, gently pipette-mixed culture for 1
+minute to break up cell clumps
+
+3\. Pipetted suspension though 70 um cell strainer into 2 x 50 mL tube
+
+4\. Centrifuged at 300 x g for 5 min. 13:58 -14:03
+
+5\. Aspirated supernatant, taking care to not disrupt or aspirate pellet
+
+6\. Re-suspended cultures in fresh 25 ml of appropriate media using
+serological.
+
+8\. Gently pipette-mixed cultures again before moving back to flasks
+
+9\. Returned vessel to incubator and replaced in clamp. 14:15  
+
+[X ]  37ºC, 5% CO2
+
+
+
+
+### Staining Process for cell count
+
+  1. Incubated culture in stain for 20 minutes (signal intensified as incubation time increased) at room temperature in the dark
+    1.    dolly 13:57 - : 
+    2. NANDO 14:34 -   
+
+  2. Centrifuged the 96 well plate at 650 RCF for 1 minute.
+    1. DOLLY Timestamp:  14:22 - 14:23
+    2. NANDO Timestamp: 
+  3. Took phase contrast, blue fluorescence and green fluorescence micrographs of each well, saved under culture ID 7820
+    1. DOLLY: 14:40 - in column A
+      1. Hycell/7698 - Blue exp 200 Green exp 200 ms
+      2. CD CHO/7697- Blue exp 400 Green exp 400 ms
+      3. Avian/7696- Blue exp 200 Green exp 400 ms
+      4. Control/7695 - Blue exp 400 Green exp 400 ms
+      5. RPMI/7699 - Blue exp 500 Green exp 500 ms
+    2. NANDO: 15:13 - in column A
+      1. Hycell/7698 - Blue exp 200 Green exp 100 ms
+      2. CD CHO/7697- Blue exp 200 Green exp 300 ms
+      3. Avian/7696- Blue exp 200 Green exp 300 ms
+      4. Control/7695- Blue exp 200 Green exp 300 ms
+      5. RPMI/7699- Blue exp 200 Green exp 300 ms
+      6. EMPTY- Blue exp 200 Green exp 300 ms
+      7. CD CHO/7694- Blue exp 200 Green exp 300 ms
+      8. Avian/7770- Blue exp 200 Green exp 300 ms
+  4. Counted total cells
+  5. Incubated culture in stain for 20 minutes (signal intensified as incubation time increased) at room temperature in the dark   nando : - : 
+  6. Centrifuged the 96 well plate at 650 RCF for 1 minute. Timestamp: 
+  7. Took phase contrast, blue fluorescence and green fluorescence micrographs of each well
+  8. Counted total cells 
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+D/F + 10% FBS + 1xP/S  
+  
+dPBS  
+  
+  
+NucBlue Reagent Hoechst33342  
+  
+  
+NucGreen Reagent Sytox green  
+  
+  
+  
+  
+
+

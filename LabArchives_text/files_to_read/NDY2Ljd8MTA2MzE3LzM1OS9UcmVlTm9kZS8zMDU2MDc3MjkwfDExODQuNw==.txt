@@ -1,0 +1,80 @@
+
+
+Process
+
+Seeding efficiency
+
+  1. Aliquotted: 
+    1. 13 mL each of 9C, 10C, 11C, and D/F+20%FBS+1xP/S+P38i media 
+    2. 1.5 mL of tryple
+      * Placed in water bath: 13:13
+  2. Add autoclaved inserts to a non-treated sterile 24WP and fill appropriate wells with 2 mL of warmed 9C, 10C, 11C, and D/F+20%FBS+1xP/S+P38i media 
+  3. Move half of zein samples seeded yesterday to a new 96WP and the other half to the pre-filled 24WP with inserts 
+    * NOTE: media quite yellow  
+
+  4. Aspirate the media from the old 96WP
+  5. Wash each well with 50 uL dPBS
+  6. Add 50 uL/well of Tryple to each well and place in incubator 
+    * Timestamp: 15:25 -  15:35  
+  7. Mix first well to get all cells off base, then move to next week from same media condition. Repeat until full cell suspension for the first media condition is in one well. Pipette a 10 uL sample from cell suspension into a microtube for a cell count. Repeat for 3 other media conditions. 
+  8. Perform cell counts
+    * Total cell number (9C): 612,000
+    * Total cell number (10C): 516,600
+    * Total cell number (11C): 455,400
+    * Total cell number (D/F): 741,600
+  9. Calculate seeding efficiency
+  10. Calculate seeding efficiency
+    1. Seeding efficiency (9C): 612,000/6 = 102,000/well unseeded =  102,000/700,000 = 15.0% not seeded = 85% seeding efficiency  
+
+    2. Seeding efficiency (10C): 516,600/6 = 86100/well unseeded = 86100/700,000 = 12.3% not seeded = 87.7% seeding efficiency  
+
+    3. Seeding efficiency (11C): 455,400/6 = 75900/well unseeded = 75900/700,000 = 10.8% not seeded = 89.2% seeding efficiency  
+
+    4. Seeding efficiency (D/F): 741,600/6 = 123600/well unseeded = 123600/700,000 = 17.6% not seeded = 82.4% seeding efficiency  
+  
+Hoechst stain zein samples in 96WP
+
+  11. Make up 3 mL of dPBS with Hoechst (20 uL/mL)
+  12. Filter sterilise with 10 mL syringe filter
+  13. Aspirate media from each scaffold piece
+  14. Add 100 uL of Hoechst in dPBS to each scaffold piece
+    1. Incubate at RT in the dark for 10 minutes 
+    2. Timestamp: 16:24 - 16:34
+  15. Aspirate Hoechst in dPBS off of scaffolds, replace with 150 uL of growth media
+  16. Transfer plate to Zaber
+  17. Image each well in Z-stack formation
+  18. Move zein pieces to appropriate wells in previously set-up 24WP with inserts
+  19. Transfer to incubator  
+  
+  
+Growth media m4234 & m4232  
+P38i m3798  
+Tryple m4008  
+dPBS m4039 &  
+Hoechst s?
+
+9C
+
+  
+
+10C
+
+11C
+
+D/F+20%FBS+1xP/S+P38i (control)
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+

@@ -1,0 +1,97 @@
+
+
+Procedure
+
+Taking a Sample from the STR200/2000
+
+  
+
+  1. Locate the sample line.
+    1. The sample line is roughly 30cm in length and is the first silicone tube in the right hand side viewing window and has a blue cap.
+    2. The sample line is on the right hand side viewing window for both the 200L and 2000L STR.
+  2. Ensure that the line is clamped before commencing any operations.
+  3. Observe the sample line for any cell clumps or aggregates.
+    1. If there are any present squeeze the tubing to break up the clumps to ensure they are removed with the first draw.
+  4. Remove the luer lock cap from the sample line.
+    1. Note - Be very careful not to twist off the lure lock connection from the tubing. Hold the lure connector not the tube while twisting the cap off
+  5. Spray 70% ethanol on the luer lock ending of the sample line.
+  6. Attach a 30 mL syringe to the luer lock on the sample line and twist to secure both components. Continue twisting to finger tightness.
+  7. Apply a small amount of force to the syringe to create a small vacuum.
+  8. Release the clamp on the sample line and draw a sufficient volume of growth medium, ~30 mL.
+  9. Re-clamp the sample line.
+  10. Discard the first draw sample, as the cells can concentrate in the sample line forming clumps which can skew the results of a cell count.
+  11. Repeat steps 8-11 for the second and third draws which can be used for any downstream analysis (i.e., cell count, pH testing or dissolved oxygen testing).
+  12. Re-apply the clamp. Failure to do so will result in a build-up of pressure in the sample line potentially causing failure of the luer lock and compromising the sterility of the 200L bag.
+  13. Untwist the syringe from the sample line luer lock.
+  14. Spray 70% ethanol on the luer lock ending of the sample line.
+  15. Re-apply the luer lock cap to the sample line ending.
+
+Taking an Offline pH Reading:
+
+Calibration of pH Probe:
+
+* Calibrate the probe before every use
+
+  1. Remove the cap from the pH probe.
+  2. Rinse the probe with water and very gently dry the outside of the probe surfaces with a lint-free wipe.
+  3. Press the 'on/off' button to turn on the probe and hold until 'CAL' appears on the screen.
+  4. When '7.0' indicator appears, immerse the probe into the pH buffer (7.0).
+  5. When '4.0' indicator appears, quickly rinse the probe with water again, dry it off and immerse the probe into the pH buffer (4.0). 
+  6. Once lights have stopped flashing, rinse the tip of the pH probe with water. The calibration is now complete.
+
+* For storage/after use store the probe in 3M KCl solution OR the 7pH buffer solution. DO NOT leave the probe dry. 
+
+Measuring the pH:
+
+  1. Using the cleaned and calibrated probe, immerse the pH probe into the solution.
+  2. Leave the probe in the solution until the sand glass/time symbol has disappeared take the reading as this time as your final reading. 
+  3. Record reading in the required location.
+  4. Rinse the probe with water after use.
+  5. Before re-capping the lid, rinse the lid out with type I ultrapure water and then place 2 drops of the 7.0 buffer inside the lid.
+  6. Cap the probe and store upright at room temperature.
+
+## 200L pH calibration
+
+  1. Select device "AI144".
+  2. Select the "Cali" tab from the set of tabs available.
+  3. Select the value box for "CSP1".
+  4. Input the reading that "AI144" is displaying from the "pH/pO2 Signals" device dialog into the "New value" field.
+  5. Select "OK".
+  6. Select the value box for "REF1".
+  7. Input the reading obtained by the offline pH probe measurement into the "New value" field.
+  8. Select "OK".
+  9. Select "Calibrate"
+  10. Select "Yes" to "Calibration passed for BR001_AI144'
+  11. Select "No" to printing out a calibration protocol.
+  12. Observe the reading for "AI144" to ensure it has changed its reading to the reference value measurement.
+
+  
+
+References:
+
+VSOP-091_0 https://www.notion.so/vow/VSOP-091_0-Retrieving-culture-samples-
+from-the-200L-2000L-STR-and-performing-routine-monitoring-
+anal-80a9298c339a47a6882f424dd0ce82fa
+
+VSOP-103_0 https://www.notion.so/vow/VSOP-103_0-Performing-daily-calibration-
+of-the-pH-on-the-STR-200L-and-2000L-652a42ead9c24c548f738c290886cd42
+
+VSOP-063_0 https://www.notion.so/vow/VSOP-063_0-Testing-pH-of-
+Solutions-e29d713d751541edbf41e9452ad678de
+
+  
+
+  
+
+
+
+
+  * Prepared sample for offline biochemistry analyses: 
+    * 250uL taken from sample
+    * diluted 1:2 with equal volume of dH2O (not PBS) 
+    * Quick spin for 1 minute
+    * Reserve supernatant in new 1.5mL tube and discarded pellet. Input sample info into datasheet here for later analysis offsite. Stored in sample box at -20degC  
+  
+Sample labelled "STR 200 18/7"
+
+

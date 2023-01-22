@@ -1,0 +1,122 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+6628-DOLLY12-Sheep P12-1of11  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connecedt a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew sample.
+  7. Disconnected sample syringe and transferred sample to vessel(s) for subsequent analysis.
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsNH  
+  
+Checked by operator initialsAB  
+  
+Timestamp16:13  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Transferred 1.5mL from the 10mL syringe to a 1.5mL tube.  
+  2. inverted the tube to mix then transferred 5x 20uL aliquot(s) to separate wells on a 96 well plate and mixed with 80uL of dPBS containing 20uL/mL of Hoechst 33342.
+  3. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 16:25-16:37 am/pm |`
+  4. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  5. Using https://mia-capture.vow.tools/#/, 3 sets of same frame images using the DAPI and PHASE channels were captured for each well `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to the exposure time seen when carriers are viewed using the automatic exposure adjustment. (i.e if automatic exposure adjustment reads 0.002ms, set manual adjustment exposure time to be 0.002ms. 
+    2. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+  6. Once images were captured, Image pairs were assigned a 'location ID' in MIA capture. 
+  7. Images captured were then selected for analysis using the 'uCarrier cell count plastic' tool from MIA capture. 
+
+  
+
+
+
+
+### Observations/Summary:
+
+  * The bioreactor had quite a bit of foam in it. 
+  * Cells were present on microcarriers. Big win for bioreactor boy. 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS 4491  
+  
+  
+Poloxomer 88N/A  
+  
+  
+Hoechst 333421403  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/rech05YADTjKyFohm/images#group1
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)  
+  
+V2  
+  
+V3  
+  
+  
+  
+
+

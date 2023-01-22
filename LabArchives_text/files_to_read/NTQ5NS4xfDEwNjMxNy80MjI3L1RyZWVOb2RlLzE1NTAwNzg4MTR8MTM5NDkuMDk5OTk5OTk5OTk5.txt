@@ -1,0 +1,46 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/22115?cf_workflow=500000005&ct_workflow=all&project_ids=16477&group_ids=5f43336f-60bb-4b55-8ad3-7a38f5c2ae7b&vc_group_by=day
+
+LINK TO AIRTABLE ENTRY PAGE:  n/a
+
+RELATED TO MILESTONE:  KR2 = increase myoG expression to 60%
+
+AIM/PURPOSE: To implement and automate ELISA for adherent cell cultures and on
+scaffolds
+
+HYPOTHESIS: The ELISA workflow steps perform at least equally well in terms of
+background reduction and overall absorbance results when compared to manual
+execution
+
+TECHNICAL GAP: Automated liquid handling, while presenting benefits on the
+side of reproducibility and operator time-savings, also has associated
+drawbacks that may influence the outcome of this effort. These are mainly
+related to less versatile pipetting (humans can pipette easily at an angle to
+the well and follow the liquid level during pipetting)and other behaviors (no
+tapping or blotting possible in automation) as well as lack of in-line QC (the
+Opentrons does not check how well liquid was removed/added/mixed to the well,
+whereas a human operator can look at the wells and repeat operations on
+demand).
+
+RESULTS SUMMARY:
+
+Figure: Replicate variability for MyoG (Column 2-5) and MF20 (columns 7-10)
+staining at constant cell density. Columns 6 and 11 are control conditions
+
+CONCLUSIONS: While the developed automation protocols were executed reliably,
+we found significant variability between replicate conditions for all cell
+densities and antibodies (and Ab dilutions) tested (see figure above). A high
+level of TMB absorbance was observed for control conditions, possibly due to
+insufficient washing or non-specific adsorption of IgG to cells or cell
+culture surfaces.
+
+NEXT STEPS: Further manual workflow optimization is needed to reduce
+background adsorption of IgG (secondary antibody) and improve the signal to
+noise ratio. A better washing protocol needs to be developed and secondary
+antibody dilution to be optimized to guarantee low background absorbance
+readings from control wells. Reproducibility between replicates must be
+established (e.g. by normalizing cell seeding density).
+
+

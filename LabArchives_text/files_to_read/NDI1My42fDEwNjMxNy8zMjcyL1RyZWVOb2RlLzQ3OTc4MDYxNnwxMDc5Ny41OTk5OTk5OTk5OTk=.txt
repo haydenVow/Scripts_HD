@@ -1,0 +1,159 @@
+
+
+## Completed by: kk
+
+
+
+
+Results from run 1
+
+  * Conical insert samples have less gel/cells (230 uL) than the other insert and no insert sample (800 uL). 
+  * During the first feed, the anchor point inserts came out - as the experiment progressed, the inserts came off often and at times were not placed back into the correct position (in a sense it became redundant to have the inserts) 
+  * Media appears to be yellow after the first few feeds (after 2 days in E6) after seeding - indicating high cell levels. Notably, it was more yellow in the pin insert and no insert cell containing samples which had more cells. 
+  * First CMFDA stain on D2 - phase image shows that there are many cells emended within the gel matrix, however upon staining with CMFDA and observing under the AF488 channel, not as many were evident.  
+
+CMFDA stain of cell containing pin insert
+
+CMFDA stain of cell containing no insert
+
+  
+
+
+
+  * Note: day 7 fixing did not include the prolong fixing in 0.1% PFA. Instead it was fixed only for 15 minutes. This may not be enough to fix the entire sample within, but only the cells outside the gel.  
+  * ### During the fixing where the samples were removed from the insert, all the gels stayed intact and did not break - rather elasticy  
+
+  * ### The cell containing conical insert gel were different sizes. All of them smaller and white in colour compared to the control which remain clear-ish and did not shrink. (refer to image) The size of each conical insert gel varied with the steepness of the insert, with the least steep resulting in greater contraction  
+
+  * Non of the insert samples (expect one conical inserts), contracted significantly
+
+Samples after inserts were removed
+
+
+
+
+
+ Day 14 staining for MyoG and MF20
+
+  * It is difficult to view all the fluorescent images, given that there is an abundance of cells present and stacked upon each other throughout the layer of the gel. It gives the appearance of a semi transparent cloud, with some areas appearing bright, fuzzy and overexposed. In particular, the thicker regions of the gels appear white and distinguishable stained cells can only really be seen on thinner regions of the gel, such as the edge. 
+  * Furthermore, the zaber takes images at 2.5x, making it difficult to see the stain. 
+  * Even upon slicing the sample and imaging through the axio, we still obtained a lot of background noise and bright spots that prevent proper analysis being performed. From all these images, we can only provide qualitative and not quantifiable observation:
+    * All cell containing samples had an abundance of DAPI stained cells. If we zoom into the zaber imaged cells, we can see many bright individual spots that represent the cell nucleus
+    * All samples appear to have positive MyoG stain, however the background noise for this is so intense that it appears as a fuzzy could which blocks out individual signals. 
+    * All samples also appear to have positive MF20 stain. Similarly the background noise results in a blurry cloud, with some individual signals being more focused and bright. Having said this, the signals are round and not the typical elongated form. This may be an indication that individual cells are expressing MF20 however have not fused to form long myotubes. However it is difficult to conclude, given it is not easily distinguishable through the images. Furthermore, the high level of noise and bright spots may also be a carry over from the MyoG stain that might have got picked up on the AF555 channel used for MF20. 
+  * Unable to overlay the images due to the aforementioned issues. 
+
+MyoG - cell containing pin insertDAPI - cell containing pin insert  
+
+  MF20 - cell containing pin insert
+
+Overlayed (DAPI- blue, MyoG - green, MF20 - red) of pin insert sample
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Run 2
+
+  * Before the 100% feed was performed, the media was yellow in colour for the cell containing samples for the first two days after seeding. This is expected given the large amount of cells seeded. 
+  * D7 samples stained with CMFDA showed that there were still many cells present and live on the conical insert sample. Furthermore, some regions in the gel appeared to have stained cells that were elongated, which possibly points to differentiation occurring. 
+
+CMFDA stained cell containing insert samples
+
+CMFDA stained cell containing insert sample
+
+
+
+  
+
+
+
+  * Only one sample was sacrificed for D7 stain with DAPI, MyoG and MF20. This sample was fixed on D7 and stained on D14 with the remaining samples 
+  * Despite taking a small slice of the whole conical insert sample that was fixed and stained, we were unable to obtain an image that would provide quantifiable data.
+  * Similar to run 1, all samples appear as a bright cloud made up of the unfocused fluorescently stain cells. Those cells that are in focus are only slightly visible and appear brighter compared to the unfocused cells. Therefore we can only conclude that the stain is positive that the cells have undergone some form of early differentiation and possibly expressing some myosin heavy chain signals.  
+
+D7 DAPI
+
+D7 MyoG
+
+ D7 MF20
+
+D7 DAPI, MyoG and MF20
+
+
+
+  * ### The gels were removed from the insert using a needle. They were tightly bound to the base of the staff, however upon prodding them to move them off the insert, they opened up and were rather elastic like. 
+
+  * ### each different conical insert produced a different size gel. Contraction all varied across each insert with the least steep insert resulting in the greatest contraction 
+
+  * ### The cell containing samples appeared white in colour and contracted, compared to control which remained semi transparent and saw no contraction  
+
+  D14 in culture before inserts are removed
+
+D14 in culture after inserts are removed
+
+
+
+
+
+D14 staining with DAPI, MyoG and MF20
+
+  * Similar to run 1 and D7 stianing, the images obtained were over-exposed and blurry owing to the fact that there are too many layers of fluorescently stained cells that prevents us from seeing a clear monolayer of the stains. 
+  * Each image below show the cell containing gels at different conica insert steepness. The image capture only a fragment of the gel which has cut from a whole stained sample. Therefore, it is possible that it is not representative of the rest of the gel.
+  * It is difficult to conclude if there is any differences between the sample, nor can we conclude what is occuring in each sample in terms on stages in cell growth. The most we can conclude is that cells are present in the sample in large amounts and many show signs of expressing both MyoG and MF20. 
+
+  
+
+Conical insert with low steepness:
+
+DAPI, MyoG, MF20 - conical insert low steepness
+
+DAPI - conical insert low steepness
+
+MyoG - conical insert low steepness
+
+MF20  \- conical insert low steepness
+
+
+
+Conical insert with medium steepness:
+
+DAPI, MyoG, MF20 - conical insert medium steepness  
+
+ DAPI -  conical insert medium steepness
+
+ MyoG \-  conical insert medium steepness
+
+  MF20 \-  conical insert medium steepness
+
+
+
+ Conical insert with high steepness:
+
+ DAPI, MyoG, MF20 - conical insert high steepness
+
+  DAPI - conical insert high steepness
+
+ MyoG \- conical insert high steepness
+
+ MF20 \- conical insert high steepness
+
+
+
+  
+
+  
+
+

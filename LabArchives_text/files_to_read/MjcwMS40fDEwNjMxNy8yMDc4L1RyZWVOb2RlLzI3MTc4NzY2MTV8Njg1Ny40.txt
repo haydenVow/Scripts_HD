@@ -1,0 +1,51 @@
+
+
+Reactor: Yoghurt maker with perfusion ports, gas sparging and stir bar, dish
+rack to hold samples (WASH-E)
+
+Start date: 23/06/21
+
+Operator: CO, SS
+
+Dish seeding:
+
+  1. C2C12 cells were seeded at XXXX cells/mL (total cells per dish) into 60 mm cell culture dishes
+  2. After remaining in growth media for 4h to 1day to grow to confluence, cells were transferred into the BSC and media removed
+  3. Dishes were inserted into the dish rack at various heights, see below)
+
+Reactor preparation:
+
+  1. assembly and all relevant tubing and connectors were wrapped in aluminum foil and dry-autoclaved at 120C for 15 min
+  2.  Afterwards, the assembly was placed on the lab bench to dry (still wrapped in foil)
+  3.  Assembly was ethanol-sprayed, transferred into the BSC and unwrapped
+  4. The lid was assembled with all ports connected to the relevant tubing. 
+    1. Tubing facing outward were capped with 0.22um luer lock syringe filters to maintain sterility. This applies to the gas inlet and gas outlet ports
+    2. the 3rd port was blocked by inserting a 500 uL sterile tube
+  5. The reactor volume was filled with 2.5 L of fresh E6 media, equilibrated to 37C in the waterbath for 2h
+  6. The dish rack was unwrapped and loaded with the previously seeded cells in 60 mm dishes (see culture IDs and positions below)
+  7. once loaded the dishrack was submerged in the E6 towards the glass wall and away from the gas sparging tube
+  8. a stir bar was carefully added on the gas sparging side, taking caution not to magnetically attach the bar to the dishrack
+  9. the entire assmebly was sealed with parafilm after applying the lid
+  10. Assembly was transferred into a prewarmed waterbath with sous-vide to maintain 37C
+  11. Gas tubing was connected and sparging started at normoxic conditions
+  12. the waterbath was wrapped in alufoil for light protection and the stir bar activated slowly, again avoiding magnetic attachment to the dishrack
+
+  
+
+Culture IDs (top to bottom):
+
+position 1 (top) =
+
+position 2 = 7216
+
+position 3 (mid) =
+
+position 4 = 7215
+
+position 5 (bottom) =
+
+  
+
+  
+
+

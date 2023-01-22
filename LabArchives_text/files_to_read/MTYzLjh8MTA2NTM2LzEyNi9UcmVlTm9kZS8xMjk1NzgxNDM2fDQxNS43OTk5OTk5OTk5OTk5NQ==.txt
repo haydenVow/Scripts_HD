@@ -1,0 +1,283 @@
+
+
+# Passage 1x2CF into 2x5CS
+
+* * *
+
+Date: 29/06/2021  
+Start time: 9:00am  
+End time: 11:20am
+
+* * *
+
+Culture IDs
+
+Harvested Culture ID/s Seeded Culture ID/s  
+  
+7239-F-DOLLY12-Sheep P8-1of1
+
+7273-DOLLY12-Sheep P9-1of2  
+7274-DOLLY12-Sheep P9-2of2  
+  
+  
+
+* * *
+
+Procedure
+
+  
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.  
+  
+
+### Cell Harvest
+
+  1. Turn on water bath and set temperature to 37C.
+  2. Place new seeding flasks into the 37'C incubator to pre-warm.
+  3. Take the flasks for harvest and observe under the microscope at 4x objective for even cell distribution . Refer to VSOP-006. Take 2-3 images per flask.
+  4. Aliquot required volume of dPBS (37C), dPBS (ambient temp), TrypLE, and Growth Media in separate sterile pots. Refer to Table above for required volume.
+  5. Place aliquots in pre-warmed water bath and leave for ~20 minutes or until warmed. Note: Ensure TrypLE is thoroughly warmed.  
+`    Time stamp` : 9:00am  
+
+  6. Transfer aliquots and flasks required for harvest into the BSC.
+  7. Discard growth media from each flask.
+  8. Wash with warmed dPBS, then discard.
+  9. Add TrypLE to each of the flasks. Mix thoroughly to ensure coverage of the surface area.
+  10. Place in the incubator at 37C. After 8-10 minutes, remove flasks and observe for 95-100% dissociation of cells. Incubate further until maximum dissociation level is reached.  
+     NOTE: The flasks must be removed from the incubator within 10 minutes of initial incubation of TrypLE containing flasks.  
+`     Time stamps`:  
+
+    1.  10:01 - 10:19
+  11. Aspirate the TrypLE solution and collect into 50mL centrifuge tubes(labelled).
+  12. Using a serological pipette, dispense ambient temperature dPBS to create a final wash for each of the flasks. To effectively remove remaining cells adhered to the gelatin coated flasks,  aspirate the dPBS and resuspend into the the flask 2-3 times before collecting and combining the entire volume into the centrifuge tubes.
+  13. Centrifuge at 650 x g for 5 minutes. ``  
+`      Time stamp` : 10:24-10:31
+
+  14. Gently remove centrifuge tubes from the machine, ensuring not to disturb the suspended pellets. Aspirate the supernatant from the tubes. Discard supernatant. Remove as much remaining supernatant with a 1mL pipette.  
+Cells are now harvested.  
+
+###  
+
+### Cell Count
+
+  1. Following cell harvest and centrifugation, re-suspend the cell pellets. Use the table below to provide a rough estimation of the resuspension volume required.  
+  
+Pellet Resuspension Volumes for Cell CountFlask TypeCell resuspension volume
+per flask  
+T1752mL  
+2CF5mL  
+4CF10mL  
+5CS12mL  
+10CS25mL  
+  
+  
+
+  2. Perform cell count (Refer to VSOP-007) and enter details into Production Cell Count Calculator: VBLT-001
+
+  
+Harvest and Seeding DataCount 1 Count 2  
+Total resuspension volume9 mL  
+  
+  
+Extracted volume from total suspension
+
+2 x 50uL
+
+  
+  
+  
+Extracted Volume from suspension aliquot for cell count  
+20uL, 20uL20uL, 20uL  
+Volume of 4%Trypan blue  
+20uL, 80uL20uL, 80uL  
+Dilution factor  
+1010  
+Total cell count  
+49,680,00051,660,000  
+Average Cell Count50,670,000  
+  
+  
+Seeding density7878  
+  
+  
+Seeded flask2 x 5CS  
+  
+  
+  
+  
+
+### Cell Seeding
+
+  1. Triturate the obtained cell suspension 10 times using a 5mL serological pipette to ensure a homogeneous cell suspension is obtained.
+  2. Determine the required volume of suspension media (to achieve seeding density of about 7000 cells/cm2)  and dispense into pre-aliquoted growth media. Use Production Cell Count Calculator: VBLT-001, and record the values in the table above. 
+  3. Transfer flasks from the incubator into the BSC.
+  4. Transfer required growth media + cells into each flask.`  Time` : 11:15am  
+
+  5. Repeat the above step as many times as required until all flasks have been seeded with the media+cells.
+  6. Transfer the flasks into the 37C incubator. Refer to Appendix 3 for incubation conditions.  
+`    Incubation time` : 11:20am
+
+Incubation Conditions:
+
+          [ x ]  37ºC, 5% CO2 (mammalian cells)  
+          [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+          [  ]  Top Right Binder Incubator  
+          [ x ]  Bottom Right Binder Incubator  
+          [  ]  Top Left Binder Incubator  
+          [  ]  Bottom Left Binder Incubator
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required37'C, 5%
+CO2  
+  
+#  
+
+References
+
+Referenced Method: Section 8 under VSOP-005 & VSOP-009
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+
+
+
+# 50% Feed on 2x 5CS vessels  
+
+Date: 2/07/21  
+Start Time: 10:20  
+End Time: 10:56
+
+# Data Log
+
+  
+
+  
+
+                         Date
+
+2/07/21  
+  
+                Start Time
+
+10:20  
+  
+  
+Culture IDs  
+  
+7273-DOLLY12-Sheep P9-1of2  
+7274-DOLLY12-Sheep P9-2of2  
+  
+  
+Number of Aliquots x Growth Media Volume
+
+p38i volume per aliquot  
+  
+1 x 750mL
+
+N/A  
+  
+Warmed to 37 in Water Bath  
+  
+Time Placed In  
+
+10:20  
+  
+  
+Time Taken Out
+
+10:49  
+  
+  
+Media Change %
+
+Number of Flasks x Flask Type
+
+Volume Aspirated per Flask
+
+Volume Replaced per Flask  
+  
+50%
+
+2x 5CS
+
+375 mL
+
+375 mL  
+  
+Time of Flask Incubation
+
+10:56  
+  
+  
+Incubation Conditions
+
+37ºC, 5% CO2 (mammalian cells)
+
+X  
+  
+40ºC, 5% CO2 (avian cells)  
+
+  
+  
+  
+Incubator
+
+Top Left Binder Incubator
+
+  
+  
+  
+Bottom Left Binder Incubator
+
+x  
+  
+  
+Top Right Binder Incubator
+
+  
+  
+  
+Bottom Right Binder Incubator
+
+  
+  
+  
+Top Incubator-  Library Lab
+
+  
+  
+  
+Bottom Incubator - Library Lab
+
+  
+  
+  
+  
+
+# Procedure
+
+  1. Turn on the water bath and set to 37'C.
+  2. Aliquot  required growth media and p38i into a sterile container/s and place into the water bath.
+  3. Place in the water bath and heat for at least 20 minutes.
+  4. Observe the cell flasks for confluence under the microscope using 4 x magnification and take images as required. Note: The confluence of cells must be <50% to perform cell feeding in P1-P3 and <80% in P4 prior to the cell differentiation stage. 
+  5. Transfer flasks to the BSC and remove required volume of media from each flask (according to the Table above).
+  6. Replace the same volume into each flask with the prepared growth media.
+  7. Return the flasks to the incubator.
+
+  
+
+  
+
+  
+
+

@@ -1,0 +1,39 @@
+
+
+  1. A sample of each culture (100uL) was transferred to separate 1.5mL tubes
+  2. Waited until the carriers had settled ot the bottom of the tube then aspirated and discared the supernatant in each tube, leaving the microcarrier pellet.
+  3. Reuspended the carriers in each tube in 500uL of dPBS containing 1% w/v poloxamer 188 (mix 4945).
+  4. Added 2.5uL of PI to each tube (stock ID 1129)
+  5. Incubated carriers in the dark for 5 minutes.
+  6. Aliquoted 3x100uL from each tube into individual wells on a 96 well plate.
+  7. Took an image on the PHASE and AF555 channels (auto exposure) using the Axio microscope. (imaged one well for each culture).
+  8. Transported the 96 well plate over to the library lab, printed a plate label for it (Culture ID 7083).
+  9. Imaged the plate using the Zaber on both Phase and AF55 channels, imaging all wells for each original culture. 
+    1. Row A: 6993
+    2. Row B: 6992
+    3. Row C: 6991
+    4. Row D: 6990
+    5. Row E: 6989
+    6. Row F: 6988
+  10. Settings used. 
+    1. PHASE: 30ms exposure time, Intensity 1.4, 
+    2. AF555: 400ms exposure time, intensity 25. 
+    3. one image was captured at the centre of each well under both channels.
+    4. Repeated the imaging process once more however the lamp intensity for the AF555 channel was increased to 75. 
+
+
+
+
+6988: https://mia-capture.vow.tools/#/session/rec3jlCJq2lxvUUXX/images#group0
+
+6989: https://mia-capture.vow.tools/#/session/recHKNng5zln781y0/images#group0
+
+6990: https://mia-capture.vow.tools/#/session/recqfPPxwWjpKJK2C/images#group0
+
+6991: https://mia-capture.vow.tools/#/session/recQvffavEAL3WyO2/images#group0
+
+6992: https://mia-capture.vow.tools/#/session/rec2j7cA1x8WLirkP/images#group0
+
+7083: https://mia-capture.vow.tools/#/session/recKou4mS0vNrzsaT/images#group0
+
+

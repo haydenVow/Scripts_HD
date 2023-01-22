@@ -1,0 +1,158 @@
+
+
+## Performed by: Avani B, Victoria P  
+
+
+
+
+Cultures seeded
+
+Note: cultures 9286 and 9293 are in the same deep well plate  
+
+EPIC  
+Vessel IDVessel typeGrowth mediaBasal Media Mix ID  
+EPIC27984  
+9279-F_DOLLY12-Sheep P9-1of1  
+24 DWPCD-CHO + 10% KSR + 6G  
+m8264  
+  
+  
+9280-F_DOLLY12-Sheep P9-1of3
+
+9281-F_DOLLY12-Sheep P9-2of3
+
+9282-F_DOLLY12-Sheep P9-3of3
+
+50 mL shake tube  
+9286-F_CHOMP09-Crocodile P9-1of1  
+24 DWPD/F + 20% FBS + 1x P/S  
+a8092  
+  
+  
+9287-F_CHOMP09-Crocodile P9-1of3
+
+9288-F_CHOMP09-Crocodile P9-2of3
+
+9289-F_CHOMP09-Crocodile P9-3of3
+
+50 mL shake tube  
+9293-F_CHOMP09-Crocodile P9-1of1  
+24 DWP  
+CD-CHO + 20% KSR + 10G  
+m8265  
+  
+  
+9294-F_CHOMP09-Crocodile P9-1of3
+
+9295-F_CHOMP09-Crocodile P9-2of3
+
+9296-F_CHOMP09-Crocodile P9-3of3
+
+50 mL shake tube  
+  
+  
+
+  
+
+
+
+
+## Preparation for feeding and sampling 50 mL shake tubes and 24 deep well
+plates  
+
+  1. Aliquotted growth media for each condition and added growth factors (see previous lab book entry)
+  2. Added the reagents to the water bath OR incubator and warmed at 37 degrees Celsius 11:15
+  3. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  4. Collected shake tubes from shaker 
+  5. Centrifuged at 300 x g for 5 min
+    1. Timestamp : 16:00- 16:05, 
+  6. While tubes were centrifuging, loaded protocol (added protocol as attachment) on computer next to OT2 and set up deck as described at calibration step
+  7. Ethanol-sprayed shake tubes and loaded on OT2
+  8. Collected media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquot deck positions matched up with intended feed tube positions.
+  9. Calibrated the pipet head. Note: OT2 will attempt to calibrate to position A1 of Media Rack 2, this is expected run proceeded as normal.
+  10. Ran protocol  
+    1.  Start time: 4:38:21 PM
+    2.  END TIME: ~5:09pm  
+
+    3. Total run time:
+  11. Replaced caps and returned tubes to the incubator  17:32
+
+37° C Incubator (#), Lab [Main/Library/Production]
+
+30° C Incubator (#), Lab [Main/Library/Production]
+
+
+
+
+
+
+
+Staining
+
+Prepare dead stain solution in amber/black centrifuge tube:  
+\- 2 mL dPBS  
+\- 2 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepare Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 570 uL MilliQ  
+\- 30 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Add 20 uL of Hoechst stain directly to cells
+  2.  Add 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubate for 30 minutes in the dark at room temperature  17:20 - 17:40  
+
+  4. Make 4x and, 8x dilutions of the sample in dPBS 
+  5. Centrifuge plates at 300 RCF for 1 minute time not recorded  
+  
+
+  6. Prepared plate map:  
+\- Created a new "MIA output" data workbook by copying the template at the
+following link:
+https://docs.google.com/spreadsheets/d/1Lf5u2kRGQLab1QzT75ve2nrPrSJiAoWFonpeS58bS4s/edit?usp=sharing  
+\- Filled in each of the sheets according to how the samples were arranged  
+\- Pasted the link to the "MIA output" workbook here:
+https://docs.google.com/spreadsheets/d/1m5yRU8aQB_g9j1YG0hAhG1JmtOaizw_VHFZmgl4JwHA/edit?usp=sharing
+
+
+
+
+## Imaging
+
+  1. Configure the Zaber session to image the entirety of each well; for 96 well plates this requires a 3 x 3 stitched image
+  2. Take images of each well on the blue fluroescence ("DAPI") and green fluorescence ("AF488") channels. 17:58, culture ID for images: 9345  
+
+
+
+
+## Analysis
+
+  1. Analyzed the blue- and green-channel images using the DAPI and AF488 MIA macros respectively.
+  2. Downloaded and extracted the data then pasted it into the "MIA output" data workbook created in the "Staining" section.
+  3. Copied the data from the "Final output" sheet of the "MIA output" data workbook to the "Master Cell Counting Sheet" of the "Suspension culture counting spreadsheet": https://docs.google.com/spreadsheets/d/1YuTvXJXQQMIMwRZGeqNjdi20WeURg5FpM-1TJ-zrb1c/edit?usp=sharing
+
+
+
+
+
+
+
+Observations/Summary  
+
+When returning 50 mL tubes back to the incubator, we realised that the shaker
+they were on was at 120rpm instead of 206 rpm. We do not know  how long it has
+been like this.
+
+Opentron observations/issues  
+  
+Changed aspiration height for 24 dwp from 9mm to 7mm - this solves the issue
+of air being aspirated observed last time.  
+
+  
+  
+Zaber observations  
+  
+
+

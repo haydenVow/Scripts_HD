@@ -1,0 +1,174 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Bonnie Tangey  
+
+
+
+
+Culture IDs
+
+Vial ID thawedLineNo. cellsPassage Homogenate/MCB/WCBStorage location Seeded
+Flask ID(s)Seeded Flask Type  
+  
+14534
+
+BOBBO
+
+3.5M
+
+ 4
+
+ WCB
+
+Homer Dewar, Tower 3, Box 7, Position H9
+
+12767
+
+T175  
+  
+14922
+
+DUCKEYE
+
+2.9M
+
+ 2
+
+ MCB
+
+Homer Dewar, Tower 3, Box 4, Position B1
+
+12768
+
+T75  
+  
+10037
+
+MUSC
+
+unknown
+
+ 0
+
+ Homogenate
+
+Maggie Dewar, tower 6
+
+12769  
+  
+10035
+
+KHAKI
+
+12871  
+  
+10040
+
+HORN
+
+12849  
+  
+10039
+
+KING
+
+12872  
+  
+10038
+
+JUMBO
+
+12873  
+  
+10036
+
+SILKIE
+
+12874
+
+
+  
+  
+MEDIA
+
+  * OptiPRO + 4mM Glutamax
+  * DMEM/F12 + 10% KSR  
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 + 10% KSR  
+ M 12834  
+  
+OptiPRO + 4mM Glutamax  
+ M 12822  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  * Growth media (for washing):    70mL  OPTI media, 10mL KSR media  
+
+  * Pre-filled 6x T75 and 1 xT175 with OptiPro Media, + 1xT75 with KSR media and placed in the incubator to warm and equilibriate, approx 90min prior to use. 
+  * Time that aliquot/ flasks were placed in the water/incubator bath to warm before use: 
+
+  
+
+
+
+
+## Thaw and seed vial:  
+Performed in 2 batches to reduce the time cells were sitting in cryostor
+before wash media was added.
+
+  1. Collected the cryovials from Liquid Nitrogen storage (as per table above) & place in foam floater in water bath for 3 min
+  2. `Ethanol sprayed & transferred the vial(s) to the BSC.`
+  3. `Added  500ul of Growth Media (to generate a total volume of 1.5mL in the cryovial) to the cryovial, re suspended the cell suspension gently to reduce osmotic shock. `
+  4. `Collected the entire cell suspension & transfer into 50mL centrifuge tubes containing 10mL pre-warmed media (KSR media for SILKIE, OPTIPRO for all others)`
+  5. `Centrifuge for 5min at 500g`
+  6. `Removed 9mL supernatant and re-ssupended cells in the remaining 1mL`
+  7. ```Transferred cells into flasks containing pre-warmed and equilibriated media as per the table above.`
+  8. `Transfered flask/plate(s) to incubate at ```37ºC, 5% CO2, Incubator #77 Library lab. (Between 6:45pm and 7:10pm)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+
+
+
+Relevant Images/Figures: N/A  
+
+  
+
+
+
+
+

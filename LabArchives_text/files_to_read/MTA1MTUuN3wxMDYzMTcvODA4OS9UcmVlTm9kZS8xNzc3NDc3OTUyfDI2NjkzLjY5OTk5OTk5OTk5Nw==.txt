@@ -1,0 +1,176 @@
+Selected Carriers
+
+
+Selected Carriers
+
+CarrierProviderTypePrimary MaterialSecondary MaterialSurface Area
+(cm2/gram)Avg. Size  
+Gelatex - MicrobeadsGelatexMicroZeinGelatin??????  
+BioCradle LAsahi Kasei  
+MicroCross-Linked CelluloseDEAE Coating - Low charge11000200-280 um  
+  
+BioCradle HAsahi KaseiMicroCross-Linked Cellulose  
+DEAE Coating - High charge  
+11000200-280 um  
+  
+UniTantrix  
+Tantti  
+Micro Denatured Collagen  
+  
+6000300-1000 um  
+
+
+MICRO Carrier Preparation Protocol
+  
+  
+Materials and Equipment Required
+
+  1. Microcarriers
+  2. Siliconized Schott Bottles
+  3. Cell culture medium
+  4. Sterile PBS (without Ca and Mg)
+  5. Pluronic F-127
+
+General Protocol
+
+PBS with Pluronic F127 Preparation
+
+  1. In a sterile container, mix Pluronic F127 with PBS to a final concentration of 5% (w/v).
+  2. Stir on a low spin speed using a autoclaved magnetic stir bar at room temperature until the Pluronic F127 had dissolved.
+  3. Sterile filter the pluronic solution into a sterile container inside the BSC using a syringe with a 0.22 micron filter.
+
+Culture Medium (with Pluronic F127) Preparation
+
+  1. In a sterile container, mix Pluronic F127 with growth medium to a final concentration of 5% (w/v).
+  2. Stir on a low spin speed using a autoclaved magnetic stir bar at room temperature until the Pluronic F127 had dissolved.
+  3. Sterile filter the pluronic solution into a sterile container inside the BSC using a syringe with a 0.22 micron filter.
+
+Microcarrier Hydration
+
+  1. Weigh out 0.2 g of microcarrier into a siliconized schott bottle.
+  2. Add 100mL PBS+Pluronic F127 to microcarriers to achieve a final concentration of 2g/L.
+  3. Autoclave at 121°C for 20 minutes to hydrate microcarriers.
+  4. Cool down to room temperature before use. 
+
+Culture Medium Equilibration
+
+  1. Pipette microcarrier solution up and down to create a homogenous solution.
+  2. Pipette required aliquot into a centrifuge safe tube and centrifuge for 5 mins at 300g or alternatively let microcarriers settle .
+  3. Remove PBS supernatant and replace with cell culture medium. Pipetting up and down to wash microcarriers.
+  4. Place on rocker stage and rock to stir microcarrier solution for 10 mins.
+  5. Centrifuge at 300g for 3 mins, remove supernatant and resuspend microcarriers to 16 mg/mL concentration in filtered 5% w/v Pluronic F127 in growth media .
+
+Cell Seeding
+
+  1. Pipette microcarrier solution up and down to create a homogenous solution, pipette required amount of microcarriers plus media into a 50 mL polypropylene centrifuge tube. Bring to incuabtion temperature.
+  2. Trypsinise and harvest cells from culture vessels and seed (AT HIGHER DENSITY THAN NORMAL - To account for cell loss due to lack of attachment to a microcarrier) microcarrier solution at the appropriate density directly into 50 mL centrifuge tube.
+  3. Pipette innoculum+carriers up down to thoroughly mix. 
+  4. Pipette seeded microcarriers into an ultra low attachment plate at required concentration (ideally enough to coat surface of plate).
+  5. Incubate on orbital shaking platform for 5 mins every 30 mins x 4.
+  6. Static incubation until confluence is reached.
+
+
+Related Resources
+
+
+VSOP-007_1 Cell Counting Using a Haemocytometer
+
+VSOP-006_1 Routine monitoring of cells in adherent flasks
+
+VSOP-005_2 Cells Harvesting from T-flasks  
+
+
+Workflow - Carrier Hydration
+
+
+CARRIER DATA - Final Concentration = 2mg/mL
+
+Tube 1: Unitantrix
+
+Required mass: 100 mg
+
+Tube mass: 12.386
+
+Tube + units: 12.487
+
+Carrier mass: 101 mg
+
+Final volume: 50.5 mL
+
+Tube 2 : Gelatex Microbeads
+
+Required mass: 100 mg
+
+Tube mass: 12.320
+
+Tube + units: 12.470
+
+Carrier mass: 150 mg
+
+Final Volume: 50mL
+
+Note: Made to 3 mg/mL due to larger size of carriers. Will alliquot based on
+number rather concentration
+
+Tube 3: BioCradle L
+
+Required mass: 100 mg
+
+Tube mass: 12.503
+
+Tube + units: 12.597
+
+Carrier mass: 94 mg
+
+Final volume: 47 mL
+
+Tube 4: BioCradle H
+
+Already prepared
+
+
+Workflow - Media Equilibration of Carriers
+
+
+1\. Make a 5% w/v Pluronic F-127 + PBS solution
+
+  * Required volume of PBS: 200ml
+  * Required F127 mass: 10g
+  * Actual F127 mass: 10.008g
+  * Actual volume of PBS: 200 mL
+  * PBS ID: 12361
+  * PLURONIC F127 ID: 821
+
+2\. Make a 5% w/v Pluronic F-127 + DMEM/F12 20%FBS solution
+
+  * Required volume of media: 300ml
+  * Required F127 mass: 15g
+  * Actual F127 mass: 15.007g
+  * Actual volume of media: 300 mL
+  * MEDIA ID: 12412
+  * PLURONIC F127 ID: 821
+
+2\. Filter pluronic F127 solutiuons through 0.22 micron filter unit.
+
+3\. Combine carriers with PBS+Pluronic F127 to a concentration of 2 mg/mL.
+Autoclave at 121C for 20 mins.
+
+3\. Transfer carriers to 50 mL tube, centrifuge at 500g for 5 mins.
+
+4\. Remove supernatant, replace with 10 mL media+pluronic F127. Pipette up and
+down thoroughly to wash carriers.
+
+5\. Centrifuge at 500g for 5 mins. Remove supernatant and replace with
+media+pluronic F127 to a carrier concentration of 8 mg/mL.
+
+4\. Store at 4C until required.
+
+5\. Heat to cell culture temperature before use. Ensure you pippette up and
+down thoroughly before use to reconstitute any Pluronic F127 that has
+precipitated out of solution
+
+  
+
+  
+
+

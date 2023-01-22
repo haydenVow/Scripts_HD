@@ -1,0 +1,583 @@
+Fibroblasts + MuSCs on Zein Experimental Plan
+
+
+Wednesday 21APR21:
+
+Preparation of biomaterials, scaffolds and coatings (formulate/hole-punch,
+sterilise, store in a tissue culture dish in media (just plain DMEM/F12 or the
+media that will be used for seeding)  
+  
+Prepare 28 x zein scaffolds to fit 96-well plate size with Chris (Wednesday 21
+Apr 2021)
+
+  
+
+Sampling DaysZein + Fibroblasts + MuSCsZein + Fibroblasts + MuSCs + Vitamin
+CZein + MuSCs (no Fibroblasts)Zein + MuSCs (no Fibroblasts) + Vitamin CEmpty
+zein  
+Day 1 (post-seed Fibroblasts)  
+Fix + DAPI11111  
+Day 1 (post-seed MuSCs) Fix & MyoD + TE7 + DAPI staining11111  
+D1 Diff - if no cells end.  
+If stil cells, next sample  
+Fix & MyoD + DAPI22221  
+D5 Diff  
+Fix & MyoG + DAPI22221  
+TOTAL66664  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+With/without Fibroblasts
+
+With/without Vitamin C
+
+  
+
+Looking at sustained adhesion
+
+  
+
+  
+
+0.8M cells / scaffold 96-well
+
+2 days after MuSC adding, move to E6 + 1X P/S
+
+  
+
+
+
+
+Wednesday 21APR21:
+
+Distribute samples into plates in layout ready for seeding, add 200ul media
+per sample (ensuring the media isn't maxing out the well- If so, aspirate
+some).
+
+  
+
+  
+
+DMEM/F12 + 20% FBS + 1X P/S
+
+  
+
+
+
+
+Thursday 22APR21:
+
+Prepare 2.5% Poly-L-Lysine solution in dPBS.
+
+1\. Add 60uL/well of Poly-L-Lysine solution into 28 x wells.  
+2\. Transfer 28 x zein pieces into the poly-l-lysine in 96-well plate as per
+plate map.
+
+3\. Leave for 1 hr, then remove all excess coating.  09:30 - 10:30  
+
+4\. Leave the plate lid ajar or off until seeding with cell suspension
+(1-2hrs).
+
+  
+
+
+
+
+Thursday 22APR21:
+
+Seed Fibroblasts on Zein scaffolds (800,000 cells / scaffold) (12 samples
+total, 9.6M cells needed)
+
+NOTE - When seeding make up at least 3 samples worth of excess cell sup, so as
+not to run low and run out when seeding final scaffolds (common)  
+Let's get a cell count and then see if there are enough cells to do this*
+
+  
+
+Harvest fibroblasts as per usual passaging technique until cell count.
+
+Aliquot 10mL of Growth media with 50ug/mL L-ascorbic acid.
+
+Aliquot 10mL of Growth media without L-ascorbic acid.
+
+  1. Prepare 4.8M cells in 300uL Growth Media (without L-ascorbic acid) (Not sure if this is possible, prepare 5M cell pellet and measure volume). (16,000 cells / µL total)
+  2. Prepare 4.8M cells in 300uL Growth Media (with 50ug/mL L-ascorbic acid) (Not sure if this is possible, prepare 5M cell pellet and measure volume) (16,000 cells / µL total)
+  3. Seed 50uL/sample into wells C3-C8 (without L-ascorbic acid).
+  4. Seed 50uL/sample into wells D3-D8 (with 50ug/mL L-ascorbic acid).
+  5. Add 50uL/well of Growth Media (without L-ascorbic acid) to samples in wells E3-E8.
+  6. Add 50uL/well of Growth Media (without L-ascorbic acid) to all cell-free samples in wells C9-F9.
+  7. Add 50uL/well of Growth Media (with 50ug/mL L-ascorbic acid) to samples in wells F3-F8.
+  8. Leave for 30 min post seeding.
+
+  
+
+After 30 mins (post-seeding fibroblasts), top up media up to 230uL by adding
+180uL/well of Growth Media to all wells (with/without l-ascorbic acid
+respectively).  
+
+  
+
+
+
+
+Friday 23APR21:
+
+Sample 1 piece from each condition (see pieces in black boxes). - 4 samples
+total.  
+
+D1 Prolif samples- Fix, DAPI stain and Image 1 sample from each condition,
+Note down whether there is a good cell coverage across the material/scaffold
+surface.
+
+  
+
+1\. Fix with 4% PFA for 15 min.
+
+2\. DAPI stain for 5 min.
+
+3\. Wash 3 x with dPBS.
+
+4\. Image on DAPI channel.
+
+5\. Assess whether fibroblasts adhered. If so, continue with experiment. If
+very few or no fibroblasts attached, abort experiment and retry.
+
+  
+
+
+
+
+Friday 23APR21:
+
+D1 Prolif Move seeded scaffolds to a new plate (24-well plate with inserts)
+and 100% feed biomaterials/scaffolds with prolif media (same media seeded in)
+
+ORIGINAL PLATE: (Note scaffolds in wells with Black outlines would have been
+used for Fix & DAPI)
+
+  
+
+  
+
+  1. Set up 1 x 24-well plate with 3D-printed inserts:  
+1 x 24-well plate with:  
+\- 2mL/well Growth media (no L-ascorbic acid) in wells A1-A6 & C1-C6  
+\- 2mL/well Growth media (50ug/mL L-ascorbic acid) in wells B1-B6 & D1-D6
+
+  
+
+  1. Place plate in the incubator at 37ºC, 5% CO2 for at least 30 mins.
+  2. After media is warmed, transfer remaining scaffolds across from 96-well plate to 24-well plate with autoclavable inserts as per plate map above.  
+Use sterile forceps for transfer, and change forceps between different
+conditions to ensure cells are not moved between different samples.
+
+  3. Return to incubate at 37ºC, 5% CO2.
+
+  
+
+Growth Media = DMEM/F12 + 20% FBS + 1X P/S (with and without) 50ug/mL
+L-ascorbic acid
+
+
+
+
+Friday 23APR21:
+
+  
+
+D1 calculate seeding efficiency (tryplisation and count from base of wells,
+subtracted from initial seed density)
+
+  
+
+  1. Once 1 sample has been taken from each condition for Fix & DAPI staining, and the remaining samples have been moved to 24-well plate, proceed.
+
+Note* Perform this on wells C3-C8 & D3-D8.
+
+  
+
+1\. Aspirate growth media.
+
+2\. Wash each well with 100uL/well dPBS
+
+3\. Aspirate dPBS.
+
+4\. Add 50uL/well of 1X Tryple to wells C3-C8 & D3-D8.
+
+5\. Incubate at 37ºC, 5% CO2 for 10-15 min or until all samples have detached.
+
+6\. Combine all cell suspensions from each set of 6 x samples (2 mixtures
+total).
+
+(i.e. combine cells from wells in Row C into 1 sample. Combine all cell
+suspension from wells in Row D into 1 sample.)
+
+7\. Add 200uL of dPBS to THE FIRST well of each condition (C3 & D3) and use it
+to wash all 6 wells horizontally and combine all cell suspensions from each
+set of 6 x samples into the existing 2 mixtures total. (C3-C8 into sample
+without LAA2P & D3-D8 into sample with LAA2P)
+
+8\. You will have 2 x 500uL suspensions (1 from fibroblast cells with Vitamin
+C and 1 from cells without Vitamin C)
+
+9\. Collect 10uL samples from each condition and dilute 1:1 with trypan blue.
+
+10\. Perform a cell count on the hemocytoemter for each cell sample and
+discard remaining cells.
+
+11\. Calculate the seeding efficiency from total cells seeded to cells
+remaining on base of plate.
+
+  
+
+Based on Seeding 560K cells per scaffold.
+
+  
+
+
+
+
+Monday 26APR21:
+
+1\. Mitomycin stunt Fibroblast growth
+
+  
+
+Mitomycin-c treatment
+
+For all of the samples on Zein scaffolds add 0.5mg/ml of mitomycin-c for 4
+hours (Diekmann et al., 2015).
+
+Samples required:
+
+Zein
+
+n=5  \+ fibroblasts + MuSC (without L-ascorbic acid)
+
+n=5  \+ fibroblasts + MuSC (with 50ug/mL L-ascorbic acid)
+
+n=5 - MuSC only (without L-ascorbic acid)
+
+n=5 - MuSC only (with 50ug/mL L-ascorbic acid)
+
+n=4 - Empty Zein
+
+= 24 total pieces
+
+  
+
+All samples will undergo a 0.5mg/ml of mitomycin-c, 4 hour treatment.
+
+Prepare 0.5mg/ml of mitomycin-c solution by adding the mitomycin-c into pre-
+warmed growth media (`DMEM/F12+20%FBS+1xPS [with and without 50ug/mL
+L-ascorbic acid respectively]`), sterile filter the mix and then pipette 1mL
+per well of the mix over the relevant samples (to completely cover samples).
+
+0.5mg/ml mitomycin-c with l-ascorbic acid
+
+  * aliquot 12 ml of `DMEM/F12+20%FBS+1xPS+50ug/mL L-ascorbic acid` into a 15 falcon tube and place in the water bath at 37'C `time`
+  * weigh out 6mg of mitomycin-c
+  * in a BSC add the 6mg of mitomycin-c to the 12ml of pre-warmed media and invert or pipette until homogeneous
+  * using a syringe and filter sterile filter the solution into a new labelled 15ml falcon tube
+  * pipette 1mL per well of the mix over the relevant samples (n = 5 fibroblasts + MuSCs, n=5 MuSCs only)
+  * start timer for 4 hours
+  * after 3 hrs 50min aliquot out 36mls of `DMEM/F12+20%FBS+1xPS+50ug/mL L-ascorbic acid` into a 15ml falcon tube and place in the water bath at 37'C `time` (for mitomycin wash steps)
+
+  
+
+0.5mg/ml mitomycin-c without l-ascorbic acid
+
+  * aliquot 16 ml of `DMEM/F12+20%FBS+1xPS` into a 15 falcon tube and place in the water bath at 37'C `time`
+  * weigh out 7.5mg of mitomycin-c
+  * in a BSC add the 6mg of mitomycin-c to the 12ml of pre-warmed media and invert or pipette until homogeneous
+  * using a syringe and filter sterile filter the solution into a new labelled 15ml falcon tube
+  * pipette 1mL per well of the mix over the relevant samples (n = 5 fibroblasts + MuSCs, n=5 MuSCs only, n=3 empty Zein)
+  * start timer for 4 hours
+  * after 3 hrs 50min aliquot out 45mls of `DMEM/F12+20%FBS+1xPS` into a 15ml falcon tube and place in the water bath at 37'C `time` (for mitomycin wash steps)
+
+  
+
+After the 4 hour timepoint wash away the mitomycin-c with at least 3x 5 minute
+sterile PBS washes (2mL/well/wash) followed by a growth media wash
+(`DMEM/F12+20%FBS+1xPS with and without 50ug/mL L-ascorbic acid`)
+1mL/well/wash, then leave in fresh growth media (2mL/well) for at least 1 hour
+before taking off the media and seeding with MuSCs.
+
+Harvest and seeding of MuSCs
+
+  1. Harvest cells as per passaging SOP.
+  2. Resuspend pellet in `8`mL `DMEM/F12+20%FBS+1xPS` media.
+  3. Perform a cell count using a hemocytometer (1:1 dilution in Trypan blue):
+
+Scaffold seeding (with cells) = 16M cells needed
+
+Aim to seed at around 800K - 1M cells per piece
+
+  1. Divide the cell count by number of samples (20) to work out how many cells we can achieve per piece.
+  2. Re-suspend the cells in 70µL x 10 of DMEM/F12 + 20% FBS + 1x PS ( no vit C)
+  3. Re-suspend the cells in 70µL x 10 of DMEM/F12 + 20% FBS + 1x PS ( + 50ug/mL L-ascorbic-acid )
+  4. Aspirate Growth Media off scaffolds.
+  5. Seed all cell-laden samples with 70ul of cell suspension per piece:
+  6. Add 70uL of DMEM/F12 + 20% FBS + 1x PS ( no vit C) to each of the cell-free samples. (ZEIN ONLY - NO CELLS)
+
+After 30minutes (to allow the cells to adhere) add 2mL of pre-warmed DMEM/F12
++ 20% FBS + 1x PS (with and without 50ug/mL L-ascorbic acid respectively) into
+each well.
+
+Place the plate in the incubator (37'C, 5% CO2)
+
+
+
+
+Tuesday 27APR21:
+
+Sample 1 piece from each condition (see pieces in black boxes).
+
+D1 MuSC Prolif samples- Fix, MyoD, TE7, DAPI stain and Image 1 sample from
+each condition, Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+  
+
+1\. Fix with 4% PFA for 15 min.
+
+2\. Permeabilise with PBST (0.2% Triton) for 15 min at RT.
+
+3\. Block with 3% BSA in PBST (0.1% Triton) for 45 min - 1 hour at RT
+(blocking buffer to be cold before and stored in fridge)
+
+4\. Incubate with primary antibodies Anti-MyoD (1:200 in blocking buffer) and
+Anti-TE7 (dilution to be calculated) either at RT for 90 mins or at 4ºC
+overnight.
+
+5\. Aspirate primary antibody, wash 3 x 5 min in dPBS (no triton).
+
+6\. Incubate in secondary antibodies for 1 hour at RT in the dark.
+
+7\. Aspirate secondary antibodies.
+
+8\. Incubate in DAPI (1:1000 in dPBS, no triton) for 5 min at RT.
+
+9. Wash 3 x 5 min in dPBS (no triton).
+
+11\. Image under AF488/AF555/UV imaging 3 locations on each scaffold piece.
+
+11\. Assess whether MuSC adhered to the scaffolds. If so, continue with
+experiment. If very few or no MuSCs attached, abort experiment and retry.
+
+  
+
+
+
+
+Wednesday 28APR21:
+
+Change samples to E6 Diff Media.
+
+1\. Aliquot 2mL/well of E6 Diff media into columns 3-6 of a new 24-well plate
+(non TC treated).
+
+  
+
+2\. Place plate in incubator at 37ºC, 5% CO2 for at least 30 min until media
+is warmed.
+
+3\. Transfer plate holder with inserts from proliferation plate to the new
+plate containing differentiation media.
+
+4\. Return plate to incubate at 37ºC, 5% CO2.
+
+
+
+
+Thursday 29APR21:
+
+Sample 2 piece from each condition + 1 cell-free (see pieces in black boxes).
+
+  
+
+  
+
+D1 Diff samples- Fix, MyoD, TE7, DAPI stain and Image 2 samples from each
+condition (+ 1 cell-free), Note down whether there is a good cell coverage
+across the material/scaffold surface.
+
+  
+
+1\. Fix with 4% PFA for 15 min.
+
+2\. Permeabilise with PBST (0.2% Triton) for 15 min at RT.
+
+3\. Block with 3% BSA in PBST (0.1% Triton) for 45 min - 1 hour at RT
+(blocking buffer to be cold before and stored in fridge)
+
+4\. Incubate with primary antibodies Anti-MyoD (1:200 in blocking buffer) and
+Anti-TE7 (dilution to be calculated) either at RT for 90 mins or at 4ºC
+overnight.
+
+5\. Aspirate primary antibody, wash 3 x 5 min in dPBS (no triton).
+
+6\. Incubate in secondary antibodies for 1 hour at RT in the dark.
+
+7\. Aspirate secondary antibodies.
+
+8\. Incubate in DAPI (1:1000 in dPBS, no triton) for 5 min at RT.
+
+9. Wash 3 x 5 min in dPBS (no triton).
+
+11\. Image under AF488/AF555/UV imaging 3 locations on each scaffold piece.
+
+11\. Assess whether MuSC adhered to the scaffolds. If so, continue with
+experiment. If very few or no MuSCs attached, abort experiment and retry.
+
+  
+
+
+
+
+Thursday 29APR21:
+
+100% Feed - Day 1 Differentiation
+
+1\. Aliquot 2mL/well of E6 Diff media into columns 5-6 of a new 24-well plate
+(non TC treated).
+
+  
+
+2\. Place plate in incubator at 37ºC, 5% CO2 for at least 30 min until media
+is warmed.
+
+3\. Transfer plate holder with inserts from proliferation plate to the new
+plate containing differentiation media.
+
+4\. Return plate to incubate at 37ºC, 5% CO2.
+
+  
+
+
+
+
+Friday 30APR21:
+
+  
+
+100% Feed - Day 2 Differentiation
+
+1\. Aliquot 2mL/well of E6 Diff media into columns 5-6 of a new 24-well plate
+(non TC treated).
+
+  
+
+2\. Place plate in incubator at 37ºC, 5% CO2 for at least 30 min until media
+is warmed.
+
+3\. Transfer plate holder with inserts from proliferation plate to the new
+plate containing differentiation media.
+
+4\. Return plate to incubate at 37ºC, 5% CO2.
+
+  
+
+
+
+
+Saturday 01MAY21:
+
+  
+
+100% Feed - Day 3 Differentiation
+
+1\. Aliquot 2mL/well of E6 Diff media into columns 5-6 of a new 24-well plate
+(non TC treated).
+
+  
+
+2\. Place plate in incubator at 37ºC, 5% CO2 for at least 30 min until media
+is warmed.
+
+3\. Transfer plate holder with inserts from proliferation plate to the new
+plate containing differentiation media.
+
+4\. Return plate to incubate at 37ºC, 5% CO2.
+
+  
+
+
+
+
+Sunday 02MAY21:
+
+  
+
+100% Feed - Day 4 Differentiation
+
+1\. Aliquot 2mL/well of E6 Diff media into columns 5-6 of a new 24-well plate
+(non TC treated).
+
+  
+
+2\. Place plate in incubator at 37ºC, 5% CO2 for at least 30 min until media
+is warmed.
+
+3\. Transfer plate holder with inserts from proliferation plate to the new
+plate containing differentiation media.
+
+4\. Return plate to incubate at 37ºC, 5% CO2.
+
+  
+
+
+
+
+Monday 03MAY21:
+
+Sample 2 piece from each condition (see pieces in black boxes).
+
+  
+
+  
+
+D5 Diff samples- Fix, MyoD, TE7, DAPI stain and Image 2 samples from each
+condition, Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+  
+
+1\. Fix with 4% PFA for 15 min.
+
+2\. Permeabilise with PBST (0.2% Triton) for 15 min at RT.
+
+3\. Block with 3% BSA in PBST (0.1% Triton) for 45 min - 1 hour at RT
+(blocking buffer to be cold before and stored in fridge)
+
+4\. Incubate with primary antibodies Anti-MyoD (1:200 in blocking buffer) and
+Anti-TE7 (dilution to be calculated) either at RT for 90 mins or at 4ºC
+overnight.
+
+5\. Aspirate primary antibody, wash 3 x 5 min in dPBS (no triton).
+
+6\. Incubate in secondary antibodies for 1 hour at RT in the dark.
+
+7\. Aspirate secondary antibodies.
+
+8\. Incubate in DAPI (1:1000 in dPBS, no triton) for 5 min at RT.
+
+9. Wash 3 x 5 min in dPBS (no triton).
+
+11\. Image under AF488/AF555/UV imaging 3 locations on each scaffold piece.
+
+11\. Assess whether MuSC adhered to the scaffolds. If so, continue with
+experiment. If very few or no MuSCs attached, abort experiment and retry.
+
+  
+
+

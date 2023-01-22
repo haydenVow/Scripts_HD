@@ -1,0 +1,105 @@
+
+
+
+
+
+## Performed by:  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionN/A  
+TrypleN/A  
+dPBS (for washing & neutralising)N/A  
+DMEM/F12DMEM: S3193 F12:S2957  
+  
+p38i (20mM stock)N/A  
+  
+  
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+  * 96 deep-well plate
+  * 15 mL falcon tube
+  * 135 mL E6
+
+1\. Using the tables below, first create 1 in 10 dilutions of the concentrated
+stocks highlighted in red. To reduce buffer concentration in the finsl
+mixture, these can be done in E6 media.
+
+2\. Add the designated volume of concentrated stock to stock E6, making up to
+2 mL of each stock in the NUMBERED WELLS (written 1-24):  
+  
+Figure 2. 96 Deep-well plate layout preparation for the serial dilution  
+  
+  
+3\. In the remaining wells, add 1.2 mL E6 media.
+
+4\. Using a multichannel pipette (6 tips at a time), transfer 300 uL from the
+1X row into the row below. Repeat this process twice more until you have 4
+rows of every condition from 1X to 0.008X.  
+  
+Figure 1: Spreadsheet for making the first 12 factors  
+  
+Figure 3: Spreadsheet for making the second 12 factors  
+  
+Making the control media
+
+There will be four control medias; 1) E6 control, 2) E6 + EtOH, 3) E6 + DMSO,
+4) E6 + HCl
+
+5\. In a second 96-deep-well plate, mix the following:
+
+i. In wells B4 and B5, add 1.2 mL E6 media each  
+ii. In wells B8 and B9, add 9 uL sterile ethanol to 1191 uL E6 media each  
+iii. In wells F4 and F5, add 11 uL sterile DMSO to 1189 uL E6 media each  
+iv. In wells F8 and F9, add 1 uL sterile 2M HCl to 1.2 mL E6 media each  
+
+
+
+
+
+
+
+Observations/Summary:
+
+Thioridazine forms a milky white precipitate in E6 when doing the 1:10
+dilution, I've placed it in the water bath to try dissolve it
+
+  
+
+
+
+
+SOPs used:
+
+N/A
+
+
+
+
+Relevant Images/Figures (if applicable): N/A
+
+  
+
+

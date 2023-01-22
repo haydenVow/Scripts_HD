@@ -1,0 +1,45 @@
+
+
+Scan 6 x 384-well plates on Zaber imaging platform on Phase.
+
+Follow Zaber image user guide
+
+Zaber image user guide
+
+Plate IDTime startedTime finished  
+9378-DOLLY12-Sheep P1-1of2  
+13:27  
+13:37  
+  
+9379-DOLLY12-Sheep P1-2of2  
+13:43  
+13:53  
+  
+9380-DOLLY12-Sheep P1-1of2  
+13:58  
+14:08  
+  
+9381-DOLLY12-Sheep P1-2of2  
+16:02  
+16:12  
+  
+9382-DOLLY12-Sheep P1-1of2  
+16:20  
+16:30  
+  
+9383-DOLLY12-Sheep P1-2of2  
+16:34  
+16:44  
+  
+  
+Note: 9382/9383 images seem over exposed? Kept exposure consistent between
+plates.
+
+
+
+
+Media top up:
+
+1\. Add 50 uL of growth media to each well after imaging
+
+

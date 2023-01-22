@@ -1,0 +1,52 @@
+Performed by: LL
+Prepare Ammonium iron(III) citrate solution
+
+
+Note: realised yesterday that because we only have transferrin in-house rather
+than holo-transferrin, we are lacking an iron source for our cells. In the
+paper where this media is sourced, they mentioned using ammonium iron (III)
+citrate along with an iron chelator (tropolone) as a substitute for holo-
+transferrin when making a fully protein-free medium. We do not have any
+tropolone in-house, however we do have ammonium iron (III) citrate. The paper
+states that they added 2.5 uM Fe(III) in the form of ammonium iron (III)
+citrate, which works out to be 15 uM of ammonium iron (III) citrate (based on
+the Sigma chemical's 1:6 ratio of iron to citrate).  
+
+
+
+
+  1. Added 100 mg of ammonium iron (III) citrate to 10 mL of MilliQ water (10 mg/mL) 
+  2. Sterile filtered 
+
+
+Prepare media aliquots
+
+  1. Added 193.5 mL of CHO-T1-SF medium to 5 x sterile media containers
+  2. Added remaining ingredients according to table below
+    * Added a different peptone broth (prepared yesterday) to each media aliquot to result in 5 different media types
+    * Did not add IGF-1-LR3, EGF, or transferrin to the media, as these compounds are not stable at 2-8'C for longer than 1 week
+  3. Stored in fridge at 2-8'C until ready to use
+
+
+Volume200  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+CHO-T1-SF base mediumNANANA193.586  
+IGF-1 LONG R30.000050.050.0100.200  
+EGF0.000010.050.0020.040  
+Transferrin0.0051001.0000.010  
+L-Ornithine monohydrochloride0.02204.0000.200  
+Putrescine dihydrochloride0.02204.0000.200  
+Insulin0.0051001.0000.010  
+Sodium selenium 2.60E-050.10.0050.052  
+Peptone broth 51801000.0005.556  
+Ammonium iron(III) citrate0.0073224101.4640.146  
+  
+  
+  
+Total medium vol (mL)200.000
+
+

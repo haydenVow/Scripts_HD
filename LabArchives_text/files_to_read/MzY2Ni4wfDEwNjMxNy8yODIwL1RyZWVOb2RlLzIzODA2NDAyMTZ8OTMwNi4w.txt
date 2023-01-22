@@ -1,0 +1,50 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/21365/epic21365-automated-scc-clone-
+picking-
+protocol?vc_group_by=day&ct_workflow=all&cf_workflow=500000005&project_ids=20972
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/rech4ZgbpJUKthowH?blocks=hide
+
+RELATED TO MILESTONE:  
+
+Q3 SCC objective: generate 3 production ready cell lines
+
+Q3 SCC KR2: Evaluate >30 000 cells per month starting September 1st
+
+AIM/PURPOSE: To create a OpenTrons protocol for passaging cells from 384 well
+plates to 96 well plates.
+
+HYPOTHESIS: N/A
+
+RESULTS SUMMARY:
+
+See this Notion page for a summary: https://www.notion.so/vow/Automated-clone-
+picking-passaging-protocols-for-adherent-
+cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+Automated clone picking/passaging protocols were developed for passaging from
+384 wp -> 96 wp -> 24 dwp -> 6 wp.
+
+24 -> 6 wp protocol still needs optimisation as many cells remain attached to
+the 24 wp.
+
+CONCLUSIONS: N/A
+
+NEXT STEPS:
+
+Using deck heaters to have a faster protocol by reducing Tryple incubation
+and/or passaging more wells in 1 run.
+
+Graphical user interface for generating a multi-well protocol from a 1-well
+protocol to make it easier for scientists to use without any coding.
+
+Testing Hoechst staining and passaging protocols on different cell lines and
+species.
+
+ Making automating clone picking/passaging protocols for a suspension cloning
+pipeline (see Q4 PPP experiments).
+
+

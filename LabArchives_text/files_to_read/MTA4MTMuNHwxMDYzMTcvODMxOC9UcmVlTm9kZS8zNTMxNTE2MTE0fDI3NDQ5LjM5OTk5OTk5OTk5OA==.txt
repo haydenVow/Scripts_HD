@@ -1,0 +1,97 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+90:10 RPMI:CHO HD + NuvonisM12748  
+
+
+  
+  
+Flask typeSeeded flask ID  
+ConditionLocation  
+E-12512353 (From 50:50)  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+Incubator 52 (Main Lab)  
+  
+  
+12354 (From 50:50)  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12360 (From 75:25)  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12366 (From 50:50)  
+50:50 RPMI:CHO HD + Nuvonis  
+  
+12367 (From 50:50)  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12368 (From 75:25)  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+  
+  
+*Flask 12354 was lost to contamination on Saturday when performing the sacrifice for the Nuvonis spent media analysis experiment.
+
+
+
+
+  
+
+  1. Took 1 x 560 uL samples from each culture (1 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+  
+123537,940,000  
+  
+123603,880,000  
+  
+123669,520,000  
+  
+12367  
+2,360,000  
+  
+123683,060,000  
+  
+  
+  
+
+  3. Aliquotted;  
+(1) 40mL 50:50 RPMI:CHO Part A + Nuvonis, and added 40uL of IGF and 8uL of
+EGF.  
+(2) 100mL 90:10 RPMI:CHO Part A + Nuvonis (some of it will be used for the
+direct adaptation experiment), and added 100uL of IGF and 20uL of EGF.
+
+  4. Aliquoted the following mL of cell suspension into 5 x 50 mL tubes:  
+  
+Flask IDVolume of cell suspension used to re-seed flask (mL)  
+  
+12353  
+5.038 (2M cells in total)  
+  
+12360  
+20mL (3.88M cells in total)  
+  
+12366  
+4.202 (2M cells in total)  
+  
+12367  
+20mL (2.36M cells in total)  
+  
+12368  
+20mL (3.060M cells in total)  
+  
+  
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. After centrifugation, aspirated the supernatant and resuspended cell pellet in 20 mL of respective medium. 
+  7. Re-seeded E-125.
+  8. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

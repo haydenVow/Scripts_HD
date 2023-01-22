@@ -1,0 +1,50 @@
+
+
+## Completed by: Tim Anderson
+
+
+
+
+A metabolite study of animal muscle was previously performed by James Ryall,
+where mouse muscle was chemically damaged and then biopsies were taken three
+and seven days post injury. Over 200 metabolites were tracked throughout the
+course of the muscle recovery, with factors that 'spiked' at certain time
+points of particular interest. At three days post injury, the tissue is at a
+peak inflammatory state, with many neutrophils and macrophages invading the
+damaged areas. After this, the muscle is able to repair very quickly, and so
+we paid particular interest in the metabolites which rapidly increase from day
+3 to day 7. Further, it is not just those metabolites which spike up that are
+of interest; key factors which are rate-limiting reagents in biochemical
+pathways will become rapidly depleted, and so factors which decreased markedly
+from day 3 to day 7 are also of interest in this study.
+
+In Q2, a DSD screening was performed for 16 factors that were able to 'prime'
+satellite cells, resulting in better maturation when they were switched to
+differentiation media. A similar study was performed for factors to be added
+to the differentiation media, which showed that the B-27 media supplement was
+effective in enhancing differentiation. However, B-27 has many sub-ingredients
+and these need to be separately investigated in another DSD. The success of
+the previous work allows us to build on that experimental design to test more
+factors which may be related to satellite cell myogenesis. This study will use
+the same framework as the previous DSD experiments but using factors we have
+identified in the metabolite study. With an efficient high-throughput assay
+already in place, we will be able to run multiple DSDs in this quarter,
+providing a deep understanding of which factors will allow the most efficient
+myogenesis.
+
+The current top 12 metabolites identified are:
+
+  1. Glycyl-glycine
+  2. Fructose-6-phosphate
+  3. Tauroursodeoxycholic acid
+  4. Dodecanoic acid
+  5. Indolepyruvate
+  6. Glucose-6-phosphate
+  7. Hypotaurine
+  8. Sphingomyelin
+  9. Creatine
+  10. Creatinine
+  11. Pantothenic acid
+  12. Gelatin (identified from other literature)
+
+

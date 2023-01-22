@@ -1,0 +1,144 @@
+
+
+## Performed by: AK & VB  
+
+
+
+
+Culture IDs:
+
+Vessel ID(s)ConditionVessel TypeComments  
+  
+7923-F_DOLLY12-Sheep P8-1of2  
+7928-F_DOLLY12-Sheep P8-2of2
+
+DMEM/F1250 mL bioreactor spin tubes100 ng/mL of FGF, IGF1 and PDGF will need
+be added to the aliquot  
++  
+Use serial dilutions for the staining  
+  
+7929-F_DOLLY12-Sheep P8-1of2  
+7930-F_DOLLY12-Sheep P8-2of2  
+DMEM/F12 Boost100 ng/mL of FGF, IGF1 and PDGF will need be added to the
+aliquot  
++  
+Use serial dilutions for the staining  
+  
+7931-F_DOLLY12-Sheep P8-1of2  
+7932-F_DOLLY12-Sheep P8-2of2  
+RPMI100 ng/mL of FGF, IGF1 and PDGF will need be added to the aliquot  
++  
+Use serial dilutions for the staining  
+  
+7933-F_DOLLY12-Sheep P8-1of2  
+7934-F_DOLLY12-Sheep P8-2of2  
+RPMI Boost100 ng/mL of FGF, IGF1 and PDGF will need be added to the aliquot  
++  
+Use serial dilutions for the staining  
+
+
+  
+  
+Growth Media:
+
+[x] DMEM/F12
+
+[x] RPMI
+
+[x] DMEM/F12 Boost
+
+[x] RPMI Boost
+
+For composition of each media refer to the media preparation lab book entry
+
+
+
+
+Process:
+
+  1. Prep growth media and place in water bath 11:15
+  2. Collected 8 x 50 mL shake tubes from shaker
+  3. Centrifuged tubes at 300 x g for 5 min.  DMEM/F12 + DMEM/F12 Boost tubes 11:19 - 11:24   RPMI + RPMI Boost tubes 13:05 - 13:10     
+
+  4. Aspirated   4.5 mL (500 uL remaining)  of supernatant leaving 0.5 mL in the tube, taking extra care to not disrupt or aspirate pellet
+  5. Gently pipette-mixed cultures and took 20 uL samples from each culture and stored in separate microtubes until ready to count
+  6. Loaded 10 x samples onto haemocytometers and observed cells and performed cell counts
+  7. Discarded cultures where no live cells were found
+  8. Fed cultures with live cells remaining.  
+  
+  
+Cell counts:
+
+  9. 7929- 26,000
+  10. 7933- 44,000
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+DMEM/F12 mixm6710  
+  
+RPMI mixm6712  
+  
+DMEM/F12 Boost mixm6711  
+  
+RPMI Boost mixm6723  
+  
+  
+###  
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link:
+
+7923: https://mia-capture.vow.tools/#/session/rec1Qs2qQ46TMZbVR/images
+
+7928: https://mia-capture.vow.tools/#/session/rectSu3kEDOQcgIgD/images
+
+7929: https://mia-capture.vow.tools/#/session/reczCvi42iRgubzJV/images
+
+7930: https://mia-capture.vow.tools/#/session/recvtXEPqiDqmZnLF/images
+
+  
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+N/A
+
+Zaber observations/issues:
+
+N/A
+
+General observations:
+
+ 100   % media changed on vessel(s)
+
+  1. 7923-F_DOLLY12-Sheep P8-1of2
+  2. 7928-F_DOLLY12-Sheep P8-2of2
+  3. 7929-F_DOLLY12-Sheep P8-1of2
+  4. 7930-F_DOLLY12-Sheep P8-2of2
+  5. 7931-F_DOLLY12-Sheep P8-1of2
+  6. 7932-F_DOLLY12-Sheep P8-2of2
+  7. 7933-F_DOLLY12-Sheep P8-1of2
+  8. 7934-F_DOLLY12-Sheep P8-2of2
+
+  
+
+Cultures 7923, 7928, 7930, 7931, 7932, 7934 were discarded due to no viable
+cells remaining. See image links above. 7929 and 7933 were resuspended in
+fresh media and kept in culture. 7933 did have visible aggregates that were
+difficult to break up.
+
+

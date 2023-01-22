@@ -1,0 +1,237 @@
+
+
+Optimising fibroblast cell sheet formation  
+
+
+
+
+Experimental Plan:
+
+  1. Expand fibroblasts cell numbers into maximum number of T175 flasks to seed out the conditions required.
+  2. Harvest fibroblasts (seed some cells in T-flask for continuous culture and 2x 6-well plates for live/dead staining optimisation) and seed out cells at 10K/cm2 on petri dishes (16 in total) according to conditions below.
+
+Condition 1 (Freeze thawed)  
+  
+
+Sample 1.1
+
+Sample 1.2
+
+Sample 1.3
+
+Sample 1.4
+
+Sample 1.5
+
+Sample 1.6
+
+Sample 1.7
+
+Sample 1.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)DMEM/F12 + 20% FBS + 1X P/SDMEM/F12 + 20% FBS +
+1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-BYesYesYesYesNoNoNoNo  
+Collagen coatedNoNoYesNoNoNoYesNo  
+Cells seeded in collagen solutionNoNoNoYes (Seeded in PureEZ Collagen gel
+solution and DMEM/F12 media in ratio of 4:1 respectively)NoNoNoYes (Seeded in
+PureEZ Collagen gel solution and DMEM/F12 media in ratio of 4:1 respectively)  
+  
+  
+
+Condition 2 (Freeze thawed)  
+ Sample 2.1Sample 2.2Sample 2.3  
+Sample 2.4  
+Sample 2.5  
+Sample 2.6  
+Sample 2.7  
+Sample 2.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-B  
+YesYesYesYesNoNoNoNo  
+Collagen coated  
+NoNoYesNoNoNoYesNo  
+Cells seeded in collagen solution  
+NoNoNoYes (Seeded in PureEZ Collagen gel solution and DMEM/F12 media in ratio
+of 4:1 respectively)NoNoNoYes (Seeded in PureEZ Collagen gel solution and
+DMEM/F12 media in ratio of 4:1 respectively)  
+  
+*Condition 2 is a replicate of condition 1. Due to the inconsistent results previously seen with harvesting fibroblast cell sheets each sample from condition 1 was replicated again. 
+
+*There is a total of 16 conditions, all of which will be subjected to the freeze thaw cycle. Following this process, the most viable ECM cells sheets, if any, will be taken forward as scaffolds onto which MuSC can then be seeded onto. 
+
+3\. Keep both sets of conditions (freeze thawed) in continuous culture from
+the day of seeding (08 June), feeding all samples every 3 days (with or
+without Vit C/TGF-B), observing all conditions for any interesting
+observations. Ensure all conditions are imaged during the feeds, and making
+notes of any observations.
+
+4\. Grow all conditions until harvest day (Monday before the seeding day-21
+June). Weigh dishes and calculate gained mass, then apply the freeze thaw
+cycle to all conditions (tables above). Cell sheets are to be placed in a
+−80°C freezer for 30 minutes, then thawed in 37°C dPBS. Cycle needs to be
+repeated for a total of 3 times. Following this, the sheets will be rinsed in
+DMEM (twice) for 15 min at room temperature. Whichever sheets remain intact
+(/have gained the most mass/thickness) will be taken forward for seeding with
+MuSCs (see next experiment).
+
+This figure highlights the different conditions during the fibroblast ECM
+optimisation experiment . All samples will be separated into two different
+groups based on what type of media the cells receive. In essence condition
+group one will receive the standard growth media (DMEM/F12 + 20% FBS + 1X P/S)
+from the day of seeding, however in the 48 hrs prior to harvest this condition
+group will be treated with the growth media containing 50 ug/mL L-ascorbic
+acid and 5 ng/mL TGF-B. Condition group two on the other hand will receive the
+standard growth media supplemented with 50 ug/mL L-ascorbic acid and 5 ng/mL
+TGF-B from the day of seeding. In addition to these the media conditions the
+effects of gelatin coating, collagen coating and seeding in collagen growth
+media mix will be simultaneously evaluated.  
+
+
+
+
+Live/Dead Staining
+
+
+
+
+Live/Dead cell staining optimisation experimental plan:
+
+1\. During a fibroblast passage seed out 2 separate 6-well plates, seeding
+fibroblasts at ~7K cells per cm2.
+
+2\. With one plate perform the freeze thaw cycle to kill the fibroblast cells.
+
+3\. Perform the live/dead staining fluorescence protocol, see below, on both
+the freeze thawed plate (dead cells) and the non-treated plate (live cells).
+
+# Preparing CMFDA:
+
+Important Information:
+
+\- Allow the CMFDA vial to warm to room temperature before opening in the BSC
+(Stored at -20 ̊C )
+
+\- CMFDA is susceptible to hydrolysis when exposed to moisture. Aqueous
+working solutions containing CMFDA should be prepared immediately prior to use
+and used within one day.
+
+\- Once prepared, use DMSO stock solutions of CMFDA within a short period of
+time for one set of experiments. Store in container with silica gel desiccant
+beads at -20 ̊C  to prevent liquid infiltration.
+
+  
+
+Fluorescence microscopy protocol (CMFDA):  
+
+This example protocol makes 10 mL of approximately 2 μM CMFDA solution and has
+been adapted from an existing protocol see link: https://www.cellink.com/wp-
+content/uploads//2019/03/Viability-Protocol-Calcein-AM-PI_07-Mar-2019.pdf. The
+protocol below is an example protocol only; the optimal dye concentrations for
+an experiment may vary.
+
+1\. Remove one 50 μg CMFDA vial powder tube from the main lab -20 ̊C  freezer
+and allow to warm to room temperature.
+
+2\. Add 50 μL high quality, anhydrous DMSO to one CMFDA vial, yielding a 1 mM
+stock solution. Aspirate and dispense solution to ensure efficient
+solubilisation of the CMFDA powder. Once prepared the DMSO stock solution
+should be used within a short period of time time for one series of
+experiments (no more than a week).
+
+3\. Transfer 20 μL of the 1 mM CMFDA stock solution to 10 mL of growth media
+(DMEM/F12 PRF), which is free of serum, which will yield a 2 μM working
+solution. Protocol suggested Hanks Balanced Salt Solution, HBSS (Invitrogen
+Cat. no. 14025-092), however DMEM/F12 PRF has been tested and works well.
+Vortex the resulting solution to ensure through mixing.  
+
+4\. The resulting 2 μM (approximately) CMFDA working solution can then be
+added directly to the cells (however see the next step for how to proceed with
+adherent cultures). Note* the final concentration of DMSO is ≤ 0.1%, a level
+generally innocuous to most cells.
+
+Note* Aqueous working solutions of CMFDA are susceptible to hydrolysis and
+should be used within one day.
+
+5\. Adherent cultures may be stained on coverslips or small culture vessels
+(i.e. 6-well plate - however this protocol has not been tested on vessels
+larger than a 6-well plate) after rinsing with DMEM/F12 PRF to remove residual
+serum present in the culture medium. Remove wash medium to enable addition of
+working solution of CMFDA.
+
+6\. Add a sufficient amount of stain solution (working CMFDA solution) to
+adequately cover the adherent cells (2 mL for well of 6-well plate). Cells in
+suspension should be pelleted by centrifugation and washed once in DMEM/F12
+PRF media.
+
+#
+
+7\. Incubate for 30 minutes at 37 ̊C.
+
+8. Observe the samples in staining solution using a fluorescence microscope - channel AF488.
+
+You can stop here if you only need to stain for live cells however, if you
+need to stain for dead cells continue the experiment at step 9 below:
+
+9. Add 10 uL of propidium iodide (Frozen aliquot is in main lab freezer is 0.2 mg/mL - was originally 1 mg/mL but had been diluted 201 uL in 799 uL of dPBS) into staining solution and incubate for 5 minutes at room temperature in the dark. 
+
+10\. Observe the samples in staining solution using a fluorescence microscope
+- channel AF488 (CMFDA) for live cells and channel AF555 (propidium iodide)
+for dead cells.
+
+  
+
+  
+
+  
+
+Miscellaneous information:
+
+# 1\. Grow up fibroblast cell sheets  
+
+# 2\. Cut up fibroblast cell sheets
+
+# 3\. On n=3 pieces of fibroblast cell sheet stain with calcein > observe down
+microscope
+
+# 4\. On n=3 pieces of fibroblast cell sheet expose samples to freeze-thaw
+decell process then stain with calcein > observe down microscope  
+5\. Compare treated and non-treated samples - can a visual difference be
+clearly detected?
+
+# Should we counterstain or also test some samples with DAPI or propidium
+iodide?
+
+# \- DAPI on live cells (not fixed) should only stain dead cells when samples,
+but in past has also stained living cells.
+
+- Propidium Iodide could work on the Zeiss Cy3 filter set with ex 550/25 and em 605/70 (but we are not certain of this) - 
+
+\- we have both calcein and propidium iodide in house  
+  
+Calcein and propidium iodide live/dead staining protocol:  
+
+# https://www.cellink.com/wp-content/uploads//2019/03/Viability-Protocol-
+Calcein-AM-PI_07-Mar-2019.pdf  
+    
+
+

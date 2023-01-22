@@ -1,0 +1,171 @@
+
+
+Performed by:  
+
+
+
+
+Bank details
+
+Harvested Vessel typeHarvested vessel IDType  
+Density  
+Vial IDs  
+  
+E-1000  
+10882WCB  
+7.5M/vial  
+Lot 1: 14079-14103  
+Lot 2: 14104-14129  
+E-100010883WCB7.5M/vial  
+  
+Lot 3: 14130 - 14148  
+  
+  
+  
+
+
+
+
+Process
+
+1.Performed 2x trypan blue live cell counts and recorded in cell counting
+spreadsheet
+
+Total Live Cell Count
+
+Flask IDCells/mL Total cells  
+AverageNumber of vials  
+10882728,000  
+364,000,000  
+332,000,000  
+=average/7 500 000  
+=     44.266  
+  
+600,000  
+300,000,000  
+  
+10883204,000  
+102,000,000  
+205,000,000  
+=average/7 500 000  
+=       27.333  
+  
+616,000  
+308,000,000  
+  
+  
+2\. Divided vials into lots.  
+
+total number of cells harvested = 537 000 000
+
+/15 000 000 = 35.8
+
+x2 = 71.6
+
+rounded down = 69 (pipetting error)
+
+  * Lot 1 = 25 vials; 14079-14103  
+
+  * Lot 2 = 25 vials; 14104-14129  
+
+  * Lot 6 = 19 vials; 14130-14148
+
+3.Prepared freeze media:
+
+  * For each vial to be filled 0.5 ml CRM and 0.5 ml 2xCFM is needed.
+    * CRM= Nuvonis suspension media without ACA
+    * 2x CFM= CRM with 15% DMSO
+  * Total number of vials = 68
+  * Require     68     mL -> make up to   80     mL total
+    *     40     mL each of CRM and CFM
+  * Replaced ACA with extra Freestyle basal medium in media formulation and did not add growth factors, used Media Calculator
+
+Suspension Cell Growth Medium (SCGM)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Volume80  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Freestyle 293NANANA78.1440  
+Difco Yeast Extract UF110080.0000.8000  
+ ~~IGF-1 LONG R3~~ 0.000050.050.0040.0800  
+ ~~EGF~~ 0.000010.050.0010.0160  
+L-Ornithine monohydrochloride0.02201.6000.0800  
+Putrescine dihydrochloride0.02201.6000.0800  
+Anti-clumping agentNANANA0.8000  
+  
+  
+  
+Total medium vol (mL)80.0000  
+  
+4\. Created cryovial labels. Prepared Mr Frosty (replace Isopropanol if
+required) and label with EPIC ID and vessel number. (x of 4)  
+
+5.Transfer  the  required  culture  volume  from  the  shaker flask  into   5
+x 200ml  centrifuge tubes and centrifuge cells at 310xg for 10 min. Removed
+spent media and resuspended in media without DMSO. Combined all cells into a
+single tube.
+
+6.Dilute cells to 1.5x107 cells/ml in CRM.
+
+  * 1 500 000 cells /mL 
+
+7. Dilute  cell  suspension  1:1  with  2xCFM  (final  cell  density:  7.5M/ml;  final  DMSO concentration: 7.5% (v/v))
+
+8. Homogenise cell suspension by gentle pipetting and aliquot into cryovials (1 ml/vial)  
+
+  * Lot 1: aliquots performed by: Victoria  
+
+  * Lot 2: aliquots performed by: Sylvana  
+
+  * Lot 3: aliquots performed by: Claudia  
+
+9.Transferred cryovials into room temperature Mr. Frosty cell freezing
+containers, and moved to library lab -80 freezer 64.
+
+10\. Transferred to Liquid nitrogen (Tower 3, Box 8) main lab (28/02/2022)
+
+
+
+
+Observations:
+
+  * Please note that Ranger was not able to print cryovial labels
+  * Cryovials were instead labelled 1-69 using permanent marker. (1= ID# 14079)
+  * labels were printed on 28/02/2022 and placed on frozen vials before transferring to liquid nitrogen
+
+
+
+
+Reagent details
+
+Reagent  
+ID  
+  
+Nuvonis suspension freeze media  
+M10628  
+  
+EGF  
+N/A  
+IGF  
+N/A  
+DMSO  
+S4913  
+  
+  
+  
+
+

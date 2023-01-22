@@ -1,0 +1,209 @@
+
+
+Culture ID
+
+Harvested Vessel/s (Type)
+
+Harvested Vessel/s ID(s)
+
+Seeded Vessel/s (Type)
+
+Seeded Vessel ID(s)  
+  
+2CF
+
+6855-DOLLY12-Sheep P11-1of3 (ACF)
+
+6856-DOLLY12-Sheep P11-2of3 (ACF)
+
+96-well plate
+
+6888-DOLLY12-Sheep P14-1of1  
+  
+2CF
+
+6857-DOLLY12-Sheep P11-3of3 (SERUM)  
+
+24-well plate
+
+6889-DOLLY12-Sheep P14-1of1  
+  
+96-well plate  
+6888-DOLLY12-Sheep P14-1of1  
+  
+  
+  
+
+
+
+
+## Performed by: Adrian Kotevski  
+
+
+
+
+Method/Procedure
+
+Table of volumes:
+
+Flask TypedPBS TrypleMedia for pellet resuspension and countTubes needed  
+2CF200 mL100 mL5 mL (1/4 dilution with trypan)4 x 50mL  
+  
+  
+
+
+
+
+1\.  Turn on water bath and set temperature to 37˚C.
+
+2\. Take the flasks for harvest and observe under the microscope for even cell
+distribution and 50% confluency. Take 5 images per flask. Refer to VSOP006_0
+
+3\.  Aliquot required volume of: if seeding 32 scaffolds (16 ACF, 16 serum, 8
+CF)
+
+  * dPBS  600 mL
+  * TrypLE  300 mL
+  * ACF media  10 mL (resuspending 2x2CFs) + 7 mL (96WP seeding)  
+  * Serum media  5 mL (resuspending) + 7 mL (96WP seeding) + 13 mL (24WP seeding) 
+
+4\.  Place aliquots in pre-warmed water bath and leave for ~20 minutes or
+until warmed.
+
+
+
+
+5\.  Transfer aliquots and flasks required for harvest into the BSC, ensuring
+to wipe down containers with 70% EtOH during the transfer.  
+
+6\. Unscrew white cap and remove blue cap from 4CF and place aside (high and
+out of way within the BSC) carefully pour all of the media from the flask into
+a 500ml waste pot.
+
+
+
+
+7\.  Replace with  100 mL (per flask) of warmed dPBS by carefully pouring
+through the white cap opening
+
+8\.  Screw caps back on and equalise each 2CF by placing it on its side
+
+9\.  Once flask has been washed carefully pour the dPBS into a 500 mL waste
+container.
+
+10\.  Add/pour  100 mL of pre-warmed TrypLE into each 2CF, equalise (as
+explained above).
+
+11\.  Incubate at 37˚C for 10 min. Timestamp:  
+
+  1. Flask 1 (Serum): 14:39 - 14:49
+  2. Flask 2 (ACF): 14:41 - 14:51
+  3. Flask 3 (ACF): 14:43 - 14:53
+
+
+
+
+12\.  After 5 minutes, remove flasks and observe for 95-100% dissociation of
+cells under the microscope. If needed incubate further until maximum
+dissociation level is reached.
+
+13\.  Return flasks to the BSC and pour out the TrypLE solution from the
+flasks and collect into a sterile 500ml container. Next, distribute the
+tryple/cell mix with a serological pipette into 12 x 50 mL centrifuge tubes
+(labelled).
+
+14\.  Carefully pour   50 ml of ambient dPBS into each flask, screw on lids,
+equalise and wash flask (as explained above), gently mix then remove lids and
+aspirate the entire volume by carefully pouring into same 500 mL collection
+pot. Then distribute with a serological pipette into 12 x 50 mL centrifuge
+tubes( labelled).
+
+15\.  Repeat previous  50ml  PBS wash step
+
+
+
+
+16\.  Centrifuge tubes at 650 x g for 5 minutes. Timestamp: 15:03 - 15:08
+
+17\.  Gently remove centrifuge tubes and aspirate the supernatant from the
+tubes. Discard supernatant. Remove remaining supernatant with a 1mL pipette.
+
+
+
+
+18\.  Re-suspend pellets and collect into 2 x 50 mL tube in  5 mL (serum) & 10
+mL (ACF) media
+
+19\. Perform 2 x cell counts per harvest from two separate samples of the
+suspension using a hemocytometer (1:4 dilution in Trypan blue - i.e. 10ul cell
+suspension + 40ul Trypan blue)
+
+20\. If the 2x cell counts are close to each other, use the average of the 2
+counts as cells/mL and work from there.
+
+NOTE If the counts aren't close perform a 3rd (and possibly a 4th and 5th
+count) until satisfied that there is a good data set to get an average count
+from.
+
+
+
+
+Observations/Summary:
+
+Regular seeding event - will stain tomorrow to assess adhesion
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)Timestamp (in waterbath)  
+  
+TrypleA4618  
+13:58  
+  
+dPBS (for washing & neutralising)A5107, A5113, A5111  
+13:58  
+  
+Growth Media (ACF)  
+  
+14:20  
+  
+Growth Media (Serum)  
+A4775  
+14:20  
+  
+p38i (20mM stock)M4928  
+14:20  
+  
+  
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+ Relevant Images/Figures (if applicable):
+
+### https://mia-capture.vow.tools/#/session/recJ2AlCp5FWKWOjR/images (6856)
+ACF, Thursday May 27
+
+https://mia-capture.vow.tools/#/session/recE8EF2RP2R6D2xR/images (6855) ACF,
+Thursday May 27
+
+https://mia-capture.vow.tools/#/session/recTBfiFbejDdWenc/images (6857) Serum,
+Thursday May 27
+
+

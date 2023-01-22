@@ -1,0 +1,38 @@
+
+
+## Completed by: EC
+
+
+Aim/Purpose
+
+
+To determine whether the maximum cell density achieved by Nuvonis suspension
+differs when using in-house vs. bottled RPMI.
+
+
+Hypothesis
+
+
+That Nuvonis suspension cells grown in either in-house or bottled RPMI will
+achieve a comparable maximum cell density.
+
+
+Technical Gap
+
+
+The bottled RPMI we use in the R&D lab is not exactly the same as the in-house
+RPMI used by manufacturing (ie. the RPMI used by manufacturing does not
+contain phenol red). In order to deliver transferable results to
+manufacturing, we want to test whether using one medium or the other has any
+impact on the maximum cell density achieved.
+
+
+Method/Procedure
+
+
+  * D0 (TUES): Seed 3 x E-125s in 75/25 RPMI/CHO-in-1 media made up using the in-house RPMI media formulation and 3 x E-125s in 75/25 RPMI/CHO-in-1 using the bottled RPMI.
+  * D1 (WED): Perform cell counts on all flasks (do not perform feeds).
+  * D2, D3 etc: Repeat D1 process until maximum density has been reached in all flasks (informed by plateauing and then declining cell counts) 
+  * Plot growth rate vs. media type (line graph) and total cell count vs. media type (column graph)
+
+

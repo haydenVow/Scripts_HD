@@ -1,0 +1,94 @@
+
+
+Experimental overview
+
+Konjac, konjac with curdlan, beancurd stick, and beancurd knot scaffolds were
+prepared and sterilised by KK. On the day of the cell harvest, the scaffolds
+were plated into a 96-well plate. The konjac samples were all cut into cube-
+like shapes with a scalpel and resembled firm, transparent jelly. The beancurd
+sticks were extremely hard and could not be broken up using sterile scissors,
+and so were covered with DMEM and placed in the incubator for 10 minutes to
+soften before being plated. The beancurd knots were cut up using scissors and
+tweezers.
+
+Each scaffold was seeded with 0.75 M cells, with four replicates of each
+condition. Originally, we had planned to seed with 1M cells per scaffold,
+however due to a low cell harvest we had to reduce our density.
+
+On Day 1, the scaffolds were moved to a fresh 96-well plate. They were
+incubated with Hoechst dye and then imaged on the Zaber. The plate was then
+discarded.
+
+
+
+
+Results
+
+Cell adhesion to the scaffolds was low and fairly uniform across each
+condition (images 1-4)
+
+  
+
+Image 1: DAPI, 5X, KonjacImage 2: DAPI, 5X, Konjac with curdlan
+
+  
+
+  
+
+Image 3: DAPI, 5X, Beancurd knotImage 4: DAPI, 5X, Beancurd sticks
+
+  
+
+Discussion
+
+For both Konjac and Beancurd samples, there was minimal cells adhered on the
+surface of each scaffolds. Some likely causes may be due to issues with
+handling, whereby tweezers were used to transfer scaffolds from one plate to
+another. Considering that the scaffolds are rather small and can fit into a 96
+well plate, the tips of the tweezer take up a fair portion of the scaffolds
+surface, and therefore detach cells. Another cause may be due to the low
+seeding density of 0.75 million cells. Initially 1 million cells was suppose
+to be used for the experiment, however due to low harvest, 0.75 million was
+used instead. It may be that at 0.75 million, we see a lower percentage of
+cells adhering to the scaffold compared to if they were seeding at a higher
+level.  
+
+  
+
+Limitations
+
+
+
+  * The run time of the experiment was very short. If the experiment was able to run for longer, we may have been able to see if the Konjac or Beancurd scaffolds allowed for cells to adhere and proliferate on (however we are mostly looking for differentiation at not proliferation at this stage)
+  * Scaffolds were handled using sterile tweezers. The size of the tip of the tweezers takes up a significant portion of the scaffold when in contact. It is likely that the cells detach during any handling steps. 
+  * The Konjac with curdlan was an older sample and was in room temperature for up to 5 hours before being placed in the fridge. Furthermore, it was kept in the refrigerator for up to a week. It is possible that during this time, it may have deteriorated and changed the properties of the scaffold.  
+  * Scaffold sizes and thickness varied across each well
+  * Konjac pieces were almost cube like, and therefore cells may be adhered to the sides and not just the face of the scaffold. 
+
+
+
+ Further direction
+
+
+
+  * Try out different methods of formulating Konjac - i.e. we could test freeze drying or spin coating
+  * Seed with a range of higher seeding densities 
+  * Use a biopsy punch to prepare scaffold pieces (more homogeneous) 
+  * Use fresh scaffold pieces to minimise possible contamination or deterioration issues 
+  * Use acupuncture needle to move scaffold instead of tweezers to minimise damage  
+
+
+
+Conclusion
+
+Minimal cell adherence was achieved on the Konjac and Beancurd materials
+tested, based on both the "live" screen on the Zaber and the axio microscope
+on the DAPI filter.
+
+  
+
+  
+
+  
+
+

@@ -1,0 +1,171 @@
+Harvested Flask IDSeeded Flask IDCondition  
+11624-Nuvonis Quail Suspension341-P-1of12  
+
+11950-Nuvonis Quail Suspension341-P-1of1
+
+75/25% RPMI/HyCell  
+  
+116245-Nuvonis Quail Suspension341-P-2of12  
+  
+11626-Nuvonis Quail Suspension341-P-3of12  
+
+11951-Nuvonis Quail Suspension341-P-1of1
+
+90/10% RPMI/HyCell  
+11627-Nuvonis Quail Suspension341-P-4of12  
+  
+11628-Nuvonis Quail Suspension341-P-5of12  
+Discarded  
+11629-Nuvonis Quail Suspension341-P-6of12  
+Kept in same flask  
+Freestyle (control)  
+  
+11630-Nuvonis Quail Suspension341-P-7of12  
+Discarded  
+  
+11631-Nuvonis Quail Suspension341-P-8of12  
+  
+11632-Nuvonis Quail Suspension341-P-9of12  
+  
+11633-Nuvonis Quail Suspension341-P-10of12  
+  
+11634-Nuvonis Quail Suspension341-P-11of12  
+  
+11635-Nuvonis Quail Suspension341-P-12of12  
+  
+11844-Nuvonis Quail Suspension341-P-1of4  
+  
+11845-Nuvonis Quail Suspension341-P-2of4  
+  
+11846-Nuvonis Quail Suspension341-P-3of4  
+
+11952-Nuvonis Quail Suspension341-P-1of1
+
+100% RPMI  
+11847-Nuvonis Quail Suspension341-P-4of4  
+
+
+  
+  
+  1. Removed flasks from incubator 
+  2. Took 2 x 50 uL samples from each flask 
+  3. Performed cell counts and averaged for each flask and each condition (recorded in table below)
+  4. Aliquoted the following media:
+    1. 75/25 - 45M cells - for 300K cells per mL = 150 mL media (E500)
+    2. 90/10 - 36M cells - 300K cells per mL = 120 mL media (E500)
+    3. RPMI - 10M cells - 300K cells per mL = 30 mL media (E125)
+  5. Removed full volume from cultures 11624, 11625, 11626, 11627, 11846 and 11847 and transferred to 6 x 50 mL tubes
+  6. Kept 11628 and 11628 as is (leaving for Sarah to take cells from tomorrow) 
+  7. Discarded all other cultures 
+  8. Centrifuged at 500 x g for 5 min
+  9. Aspirated supernatant from all tubes
+  10. Added respective media to each tube, strained culture using a 40 um cell strainer, and transferred to new E-flasks
+  11. Returned cultures to incubate at 37'C, 5% CO2, 120 RPM
+
+
+Flask IDAve flask count  
+Ave condition count  
+FormulationComments  
+  
+11630-Nuvonis Quail Suspension341-P-7of12  
+16,080,000  
+  
+M1: 75/25 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+BIN  
+cells look healthy, a little bigger than 11627  
+  
+11631-Nuvonis Quail Suspension341-P-8of12  
+15,960,000  
+  
+11632-Nuvonis Quail Suspension341-P-9of12  
+24,720,000  
+  
+M2: 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+BIN  
+look healthy, no obvious clumping  
+  
+11633-Nuvonis Quail Suspension341-P-10of12  
+12,160,000  
+  
+11634-Nuvonis Quail Suspension341-P-11of12  
+not counted  
+  
+M3: 90/10 RPMI/HyCell + 3 mg/mL yeast \+ 0.02 mg/mL L-Ornithine
+monohydrochloride + 0.06 mg/mL Putrescine dihydrochloride \+ 1 g/L
+poloxamer-188 + IGF & EGF \+ FGF  
+BIN  
+look quite healthy, minimal clumping  
+  
+11635-Nuvonis Quail Suspension341-P-12of12  
+10,800,000  
+  
+11624-Nuvonis Quail Suspension341-P-1of12  
+22,840,000  
+  
+C1: 75/25 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+START EXPANDING  
+look healthy, no obvious clumping  
+  
+11625-Nuvonis Quail Suspension341-P-2of12  
+23,000,000  
+  
+11626-Nuvonis Quail Suspension341-P-3of12  
+20,200,000  
+  
+C2: 90/10 RPMI/HyCell + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine
+monohydrochloride & Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF &
+EGF  
+START EXPANDING  
+cells look really nice and healthy, barely any clumps  
+  
+11627-Nuvonis Quail Suspension341-P-4of12  
+16,720,000  
+  
+11628-Nuvonis Quail Suspension341-P-5of12  
+11,480,000  
+  
+C3: Freestyle 293 + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+KEEP  
+look healthy, no obvious clumping  
+  
+11629-Nuvonis Quail Suspension341-P-6of12  
+11,680,000  
+  
+11844-Nuvonis Quail Suspension341-P-1of4  
+1,500,000  
+  
+M4: RPMI + 3 mg/mL yeast + 0.04 mg/mL L-Ornithine monohydrochloride + 0.06
+mg/mL Putrescine dihydrochloride + Glucose + Lipids + Ammonium Iron (III)
+Citrate + Sodium selenite + 1 g/L poloxamer-188 + IGF + EGF + FGF BIN  
+cells have weird membranes, look pretty rough  
+  
+  
+11845-Nuvonis Quail Suspension341-P-2of4  
+1,400,000  
+  
+11846-Nuvonis Quail Suspension341-P-3of4  
+5,120,000  
+  
+C4: RPMI + 1 mg/mL yeast + 0.02 mg/mL L-Ornithine monohydrochloride &
+Putrescine dihydrochloride + 1 g/L poloxamer-188 + IGF & EGF  
+START EXPANDING  
+look quite healthy, minimal clumping. Number of healthy looking cells turning
+blue after ~5 min, maybe weaker membranes?  
+  
+11847-Nuvonis Quail Suspension341-P-4of4  
+5,240,000  
+  
+11913-Nuvonis Quail Suspension341-P-1of1  
+16,080,000  
+  
+50/50 HyCell/RPMISEED SLOW ADAPTATION (3 x E125)  
+For seeding slow adaptation. Look healthy, minimal clumping  
+
+

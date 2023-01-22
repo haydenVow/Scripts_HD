@@ -1,0 +1,53 @@
+
+
+Experimental Plan:
+
+The aim of this experiment is to generate a control plate for differentiation
+assays. This is important as a check for the effectiveness of the staining
+protocol. Without this control, the root cause of a failed differentiation
+assay is hard to identify (it could be due to no differentiation or it could
+be to a failed staining procedure).
+
+The control plate will consist of differentiated and fixed C2C12 cells. It
+will be entered into Stockyard as a consumable and have a shelf life of 1
+month. To use the plate, stain one column in parallel with staining of plates
+from a differentiation assay.
+
+[Day 0] - Thaw vial of C2C12 cells (500,000 cells/vial) into 88x wells in a 96
+well plate (~5,700 cells/well)
+
+  1. Every well in the plate should be coated with gelatin and left in the incubator for 1 hr prior to seeding
+  2. MuSCs should be seeded in growth media containing serum
+  3. Please seed only columns 2-11 and put PBS in columns 1 & 12 to avoid the edge effects
+  4. Seed at 140 uL/well
+
+[Day 1] - Perform 100% medium change
+
+[Day 3] - Perform 50% medium change
+
+[Day 4] - Assess confluence, if 100% confluent then perform 100% change to
+differentiation medium
+
+[Day 5] - Day 1 diff - 100% medium change
+
+[Day 6] - Day 2 diff - 100% medium change
+
+[Day 7] - Day 3 diff - 100% medium change
+
+[Day 8] - Day 4 diff - 100% medium change
+
+[Day 9] - Day 5 diff - 100% medium change
+
+[Day 10] - Day 6 diff - fix plate  
+
+  1. Fix plate
+  2. Enter the plate into stockyard as a Day 6 C2C12 differentiation control stock, print label and affix.
+  3. Parafilm the plate, wrap in foil, and leave in the fridge for later use.
+
+  
+
+  
+
+  
+
+

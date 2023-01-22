@@ -1,0 +1,108 @@
+
+
+## Performed by: LL  
+
+
+
+
+ACF media iteration:  E8_10C  
+
+Volume of media being made:   650 mL
+
+
+
+
+## Process
+
+  1. Prepared 2M solution of GABA according to E8_9C Media Calculator instructions.
+  2. Prepared 2M hypoxanthine solution according to E8_9C Media Calculator instructions.
+  3. Added mL of F12 and  mL of DMEM to vessel (for making up to 2.5 L, used a filter unit or Schott bottle, for > 2.5 L used a carboy)
+  4. Added all the ingredients needed for mL of E8 media  following E8 calculator spreadsheet.
+  5. Added the amount of ACF ingredients as indicated in the E8_9C Media Calculator spreadsheet.
+  6. If making 10C, 11B, 11C or 11E, added following ingredient (referred to recipes for volume/concentration (E8_10 iterations  and E8_11 iterations)):
+    1. 10C: Glyoxylic acid  
+
+      * Added 0.092 g Glyoxylix acid to 10 mL of E8 to make a 100 mM solution 
+      * Added 325 uL Glyoxylic acid solution to ACF medium.
+  7. Sterile filtered medium.
+  8. Added mL of lipids to each aliquot (E8_9C Media Calculator).
+  9. Wrapped bottle with foil to protect from light  
+  10. Labelled and stored in fridge.
+
+
+Stock  
+ID  
+  
+F12  
+2185, 2238, 2200  
+  
+DMEM  
+2017, 2298, 2302  
+  
+GABA  
+S696  
+  
+Sodium bicarb  
+S639  
+  
+PBS  
+a4810  
+  
+hypoxanthine  
+s143  
+  
+DMEM  
+s2243  
+  
+F12  
+s2170  
+  
+hEGF  
+S1809  
+  
+lipids  
+s1797  
+  
+TGF-b  
+a2387, m1493, m2382, m4447  
+  
+ethanolamine  
+s680  
+  
+p38i  
+m4928  
+  
+albumin  
+s1803  
+  
+mLIF  
+m5078  
+  
+trace elements b  
+s1076  
+  
+P/S  
+a4912  
+  
+glyoxylic acid  
+s162  
+  
+LAA2P  
+m2383  
+  
+sodium selenium  
+a1680  
+  
+FGF-b  
+m4323  
+  
+insulin  
+m5032  
+  
+transferrin  
+m3916  
+  
+lipids  
+a5012  
+
+

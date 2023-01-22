@@ -1,0 +1,103 @@
+
+
+Completing your EPIC
+
+So, you have finished your experimental work, you know what your results look
+like and you are just itching to start your next EPIC. However, before moving
+on to the next EPIC it is important that you take the time to think about your
+results: Did you prove/disprove your hypothesis? Did you make any surprising
+observations along the way? What were the limitations to your EPIC and how
+might these have impacted your results? What were the biggest learnings from
+this EPIC? and, what were the key takeaways? All of these questions (and many
+more) should be answered in your EPIC report. Without completing (and sharing)
+your report the EPIC remains incomplete. In many ways the report is the most
+important part of your entire EPIC!
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.  
+  
+UPDATE HEADER INFO PAGE
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+
+
+
+Introduction
+
+Creatine has been identified as a media component which has helped promote
+maturation of myoblast. There have been studies in literature by L Deldicque
+and P Sestili that have analysed the effects of creatine on fusion and found
+positive effects. This study aims to look at the effects of adding creatine
+into E6 differentiation media to help promote cell maturation in DOLLY12 cell
+line. Based on literature, the optimal creatine concertation is 5 mM. In this
+experiment, a range of concentrations of 0, 1, 3, 5, 7, 9 mM of creatine, was
+used over the course of 10 days.  
+
+
+Quick summary of main findings
+
+
+  1. Creatine appears to have an effect on DOLLY12 MuSC maturation and fusion. 
+  2. It appears that a higher concentration of creatine at 5mM, 7mM and in particular 9mM, was more ideal for maturation and fusion compared to no creatine or low concentrations of 1 mM and 3mM creatine in E6 media. 
+
+
+Results and Discussion
+
+
+Results
+
+Below are images captured with the Axio microscope for DOLLY12 cells stained
+with DAPI, MyoD and MF20.
+
+  
+Figure 1. Treatment with E6  (0mM creatine)
+
+Figure 2. Treatment at 9 mM creatine
+
+
+
+Discussion
+
+  * Based on the MyoD, MF20 and DAPI images taken after 10 days in E6 media, addition of creatine into E6 media, resulted in increase cell maturation.
+  * Cells grown in E6 media alone showed short myotube formation (figure 1).
+  * As the concentration of creatine increase (1, 5, 7, 9 mM), more myotubes were formed with most being longer in length. (refer to results and discussions for more details)
+  * It is important to note that at 3mM of creatine, there was not much myotube formation compared to samples supplemented at 1 mM. The 3mM creatine concentration has signals and myotube formation similar to those in E6 only, which were short lengths and less abundant.  Based on the DAPI images of the wells treated with 3mM, the lower myotube formation may have been caused by the wells having less cells compared to the others, which may have occurred from uneven pipette mixing during seeding. However, this is difficult to determine as there was no analysis made that measures protein concentration or cells present in the wells. 
+  * At 9mM, we see a great amount of myotubes that are longer and have stronger signals (figure 2). 
+
+
+Limitations
+
+
+  
+
+  1. Imaging and analysis issues: 
+    1. The study only includes one imaging (DAPI, MyoD, MF20) session on day 10. Therefore, if there was any changes to the cells seen on previous day, this could not be observed. 
+    2. The well as a whole could not be images. Therefore, it is possible that we are missing extra data from the spaces which were not captured. Each well had three technical replicates to minimise the amount of data that would not be captured.  
+    3. The A488 and A555 channel had a bright line through the image which made it difficult to view the fluorescent which were duller then the light band. In particularly, this was most prominent in the A488 channel. Therefore it made image analysis much more time consuming and difficult.  
+    4. It was the users first time using Fiji to analyse image (in this case overlay image). 
+  2. The study only used one cell type, DOLLY12, and therefore the findings may not be relevant for other cell lines. 
+  3. Whilst it is assumed that the amount of cells seeded into each well is similar, there could be a possibility that the amounts vary across each well. Therefore this will overall have an impact on the amount of cells that have proliferation and matured, ultimately affecting results.  
+
+
+Future Directions
+
+  1. Trial with other cell line eg C2C12 or another cell line to see if there are differences between cell type 
+  2. Change media preparation technique to limit inaccuracy   
+  3. Include more time points, eg day 7, for imaging with MyoD, DAPI and MF20
+  4. Perform next analysis using the ELISA pipeline to a) establish the pipeline and b) more high throughput analysis
+  5. Whilst it was stated in literature that 3 mM and 5 mM showed maturation of myotubes, it would appear that at double the concentration, myotube formation was better. Therefore, it may be worthwhile exploring higher concentration ranges eg above 9 mM of creatine in future experiments. 
+  6. Include a step to analyse how many cells are present in each well or protein concentration. 
+
+

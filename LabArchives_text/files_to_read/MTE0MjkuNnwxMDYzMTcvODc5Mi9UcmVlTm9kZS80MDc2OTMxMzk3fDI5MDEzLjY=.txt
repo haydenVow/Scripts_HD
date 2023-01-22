@@ -1,0 +1,40 @@
+
+
+Plan  
+  
+Cell lines  
+both MUSCO and KHAKIO lines will be trialed as these lines are currently being
+used for suspension adaption experiments. In addition we will trial the
+Nuvonis Quail line as the colorimetric assay may be of use in media
+optimization trials currently underway for 1st product.  
+  
+Establishing a standard curve limits of detection  
+Cells will be harvested from planar culture and counted using the gold
+standard method of trypan blue counts staining and manual counting with a
+hemocytometer. Counts will be performed in triplicate to ensure accuracy.
+Cells will then be seeded into 96 well plates via serial dilution as per the
+table below. After each column is seeded, 800ul of media will be added to the
+cell suspension to create a serial dilution of cells. A column of media
+without cells should also be added as a blank.  
+Total number of cells required for each cell line: 800,000
+
+ColumnNo wellsCells/mLCells/wellTotal cellsStarting volume of cell suspension  
+18000800  
+28500,00050,000400,0001,600  
+38250,00025,000200,0001,600  
+48125,00012,500100,0001,600  
+5862,5006,25050,0001,600  
+6831,2503,12525,0001,600  
+7815,6251,56312,5001,600  
+887,8137816,2501,600  
+983,9063913,1251,600  
+  
+The assay will be run following the manufacturers instructions. See here:
+https://www.abcam.com/ps/products/228/ab228554/documents/Cell-Counting-Kit-
+protocol-book-v2d-ab228554%20(website).pdf. Essentially each well of the 96
+well plate is seeded with 100ul cells + 10ul of the CCK8 reagent. Plates are
+then incubated prior to being read at 460nm on the plate reader. In order to
+optimize incubation period, the plates should be read after 30min, 1hr, 2hr
+and 4hr.
+
+

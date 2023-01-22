@@ -1,0 +1,186 @@
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+7222-DOLLY12-Sheep P13-1of2  
+48-well plate18
+
+
+  
+  
+## Performed by: Jared Bergman  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM5703  
+  
+dPBSM5385  
+  
+Secondary Antibody (AF555 IgG2b)S1966  
+  
+Vimentin antibodyS716  
+  
+DAPI (1:1000)M2193  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted    85 mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock (AF555 IgG2b) using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution):
+
+ 6 µL   Secondary #1 AF555 (IgG2b)  (1:1000  ) +  5994  µL  Blocking Buffer
+(PBST (0.1% Triton X + dPBS) + 3% BSA)  
+
+Total volume required = 6 mL
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+4\. Prepared Primary antibody mix (Vimentin)
+
+ 120 µL   Primary #1 Mouse Anti-Vimentin antibody- can be found in the -20'C
+freezer in the second draw  (1:50  ) +  5880  µL  Blocking Buffer (PBST (0.1%
+Triton X + dPBS) + 3% BSA)  
+
+Total volume required = 6 mL
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+5\. Prepared DAPI (1:1000) mix:
+
+  5994 uL  PBS +   6 uL  of DAPI
+
+Total volume required = 6 mL  
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution of secondary antibody in
+blocking bufferDilution of primary antibody in blocking buffer Comments  
+MF20IgG2bAF555 (IgG2b)1:1000N/AN/A  
+Vimentin-FITC conjugatedN/AN/AN/A1:50The Vimentin antibody does not need a
+secondary antibody as it is already conjugated to a fluorophore (FITC)  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from the Staining and Fixing fridge (incubated in primary
+antibodies overnight).
+
+  1. Plate is labelled as MF20/Vimentin stain AK 08 July EPCI 20128
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+2\. Washed 3 times for 5 min with PBS (500 uL per well) at RT.
+
+ 10:00 - 10:05
+
+ 10:06 - 10:11
+
+ 10:12 - 10:24
+
+3\. Incubated the cells with secondary antibody mixture (300 uL per well) in
+the dark at RT for 1 hour.  10:30 - 11:30
+
+
+
+
+Counter staining
+
+1\. Removed 2nd antibody solution.  11:30
+
+2\. Wash each well with 500 uL dPBS
+
+3\. Incubate each well with 300 uL of Vimentin primary antibody for 2 hrs at
+room temperature   11:40 - 13:40  
+
+4\. Wash each well with 500 uL dPBS
+
+5\.  Washed with DAPI (1:1000) (300 uL per well) in PBS for 5 min at RT in the
+dark.
+
+ 13:52 - 13:58
+
+6\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 14:00 - 14:05  
+
+ 14:08 - 14:13  
+
+ 14:14 - 14:19  
+
+7\.  Replaced dPBS.
+
+ 14:25
+
+8\. Parafilm the plate, wrap in foil (labelled) and store in the Fixing and
+Staining fridge at 4'C. 14:30
+
+9\. Confirmed staining on microscope by imaging on the Zaber (This will be
+performed at a later date).
+
+  1. Please note that you do not to image on the Zaber today
+
+*Once this stage is reached please let Adrian know. 
+
+  
+
+Channels to observe immunofluorescence:
+
+1\. AF555 for MuSC
+
+2\. AF488 for fibroblast in the collagen matrix
+
+3\. DAPI for cell nuclei
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+NA
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+see entry '12-July-2021: Image D14 Samples on Zaber & Axio'
+
+

@@ -1,0 +1,89 @@
+Performed by: LL EC
+Ranger data
+Harvested flasks IDsFlask #Seeded flask IDsFeeding ScheduleLocation  
+12743-Nuvonis Quail Suspension341-P-1of2  
+12744-Nuvonis Quail Suspension341-P-2of2  
+112981  
+FS1  
+Feed with 2 g/L glucose & 2 mM ala-gln every 48h from D3 onwards (inclusive of
+D3). Exclusively on D3, Ala-gln will be topped up with 3mM. Main lab, #159
+(top shaking incubator)  
+212982  
+  
+312983  
+412984  
+512985FS2  
+Feed with 3 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+612986  
+712987  
+812988  
+912989FS3  
+Feed with 2 g/L glucose & 3 mM ala-gln every 72h from D3 onwards (inclusive of
+D3)  
+  
+1012990  
+1112991  
+1212992  
+1312993FS4  
+Feed with 2 g/L glucose & (# of days since last topup/feed) mM ala-gln when
+glucose test falls into 2.5-5 g/L range  
+  
+1412994  
+1512995  
+1612996  
+1712997FS5  
+Feed with 4 g/L glucose & (# of days since last topup/feed) mM ala-gln when
+glucose test falls into 2.5-5 g/L range  
+  
+1812998  
+1912999  
+2013000  
+2113001  
+Control 1  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and HT)  
+2213002  
+  
+2313003  
+  
+2413004  
+  
+2513005  
+Control2  
+No feeding. Starting medium is 50/50 RPMI/CHO + GFs (with added glucose, ala-
+gln, and without HT)  
+  
+2613006  
+  
+2713007  
+  
+2813008  
+
+
+Process
+  
+  
+  1. Added 30 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose, ala-gln, and HT) to 24 x E125s
+  2. Added 30 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (with added glucose, ala-gln, and without HT) to 4 x E125s
+  3. Placed all E125s in shaking incubator to warm and equilibrate media 11:10 - 12:15
+  4. While media was warming, printed labels for flasks
+  5. Received 178.3 mL of cell suspension from EPIC31425 containing 180M cells 
+  6. Centrifuged at 500 x g for 5 min 
+  7. Aspirated 100% of supernatant (moved 5 mL supernatant to 1 x T25 and kept in incubator as contamination check - see lab book here for explanation)
+  8. Re-suspended in 15 mL of 50/50 RPMI/CHO Nuvonis suspension media + GFs (no additives)
+  9. Retrieved flasks from incubator and brought into BSC 8-10 at a time
+  10. Added 500 uL of cell suspension to each flask (6M cells per flask, 200K cells/mL)
+  11. Added labels to each flask
+  12. Replaced flasks in incubator (37'C, 5% CO2, 120 RPM) 
+
+
+Glucose test strip "calibration"
+
+  1. Prepared 9 x solutions of glucose at 1, 2, 3, 4, 5, 6, 7, and 8 g/L concentration in MilliQ water
+  2. Dipped glucose test strips into each solution simultaneously, then pulled out and took an image of the test strips next to each other 
+  3. Studied strips by eye and recorded observations
+  4. Discarded solutions 
+
+

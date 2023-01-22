@@ -1,0 +1,71 @@
+
+
+Batch 28 Overview
+
+Batch Weight: 339.4021g
+
+Batch Objectives/Experimental Plan:
+
+  * Perform a series on experiments to identify optimal treatment and parameters for growing CHOMP fibroblasts in multi-layered flasks
+    * Experimental Groups:
+      1. Group 1 (3x5CS):VitC seed (15k) then treat with VitC + TGFb @ Day 2
+        * This is our current best treatment and will be used as our positive control
+      2. Group 2 (2x5CS): (15k) treat with VitC + TGFb at 60-80% confluence
+        * This is our second best treatment and will be used as another positive control as well as another replicate to compare the difference between yield outcomes for our two best treatment types. 
+      3. Group 3 (2x5CS):(15k) treat with VitC + TGFb at 60-80% confluence - 10% FBS
+        * 20% FBS is used to grow CHOMP fibroblasts because of their extremely slow growth in 10% FBS. With this group we wanted to see if a switch to 10% FBS during the treatment phase would impact the final yield. A switch to 10% FBS for this part of the batch would significantly reduce our FBS usage due to the increased feed frequency with treatment, in turn this would reduce the overall cost of he batch.
+      4. Group 4 (2x5CS):VitC Seed (7.5k) then treat with VitC + TGFb @ Day 2
+        * In this group we seeded at a lower density (7.5kcells/cm2 instead of the usual 15kcells/cm2). This was done to see if seeding density would effect the final yield. If we were able to see flasks in the final passage at a lower density we would use less WCB vial for each batch therefore reducing the need for frequent WCB generation and making out CHOMP MCBs last longer. A lower seeding density at the final passage would also require less incubator space for growing the cells up to this point and therefore allow room for more flasks in the final passage.
+      5. Group 5 (2x5CS):Reduced Feeding (Thurs/Mon) - VitC Seed (15k) then treat with VitC + TGFb @ Day 3
+        * Both group 5 (best treatment) and group 6 (second best treatment) are testing reduced feeding schedules. The usual feeding schedule during the treatment phase is every 2-3 days, the reduced feeding schedule would extend this to every 3-4 days. The main reason for trying these 2 groups is similar to the reasons for group 3, a reduced feeding schedule will reduce our overall media usage therefore lower the cost of the batch but also reducing the workload on production. A reduced workload will make larger batches more manageable within our small space and small team. 
+      6. Group 6 (2x5CS): Reduced Feeding (Tues/Fri) - (15k) treat with VitC + TGFb at 60-80% confluence
+        * The same as above but with our second best treatment type.  
+  
+
+  * Produce as much mass as possible to add to our Q4/Yearly total
+
+  
+
+Batch Timeline (Proliferation days in each passage & Flask no./type):
+
+Passage NumberProliferation daysFlask No./Type  
+P1 (P3)7 (seeded from Batch 27 P2)1x10CF and 2x4CF  
+P2 (P4)611x10CF and 2x4CF  
+P3 (P5)1727x10CS and 13x5CS  
+  
+Notable Events:
+
+  * At the harvest cut off date (17 days after seeding of P3) the majority of flasks had not peeled themselves. It was decided to use TrypLE to detach the unpeeled cell sheets from the flask.
+  * Sheets removed with TrypLE tend to take on more liquid than self-peeled aggregates. This was particularity difficult to remove from the bulk pellets obtained from the 10CS because the cell sheets kept plugging the pipette when being used to remove the liquid. 2 alternative methods were tried to remove this liquid:
+    * First a sterile gauze was used as a sieve by placing a single layer of gauze over the top of the centrifuge tube tipping tube upside down to allow the liquid to move out without losing any aggregates. This worked initially but quickly stopped presumably due to water surface tension.
+    * With the second method (the one that worked) a fresh gauze was opened up and placed on top of the plastic packet. The cells were then poured out onto the gauze and a second fresh gauze was placed over the top of the pile of cells and gently pressed down to soak up all of the excess liquid. Sterile forceps were then used to put the aggregates into a clean weighed tube. After this the pellet was pulsed in the centrifuge and a 1mL pipette used to remove the excess liquid before being weighed. 
+
+Batch/Experiment Results:
+
+CHOMP vs DOLLY:
+
+  * The treatment hierarchy remains the same for CHOMP and continues to be far superior to DOLLY cells in multi-layered flasks. 
+    * The weights added in this batch may be slightly inflated due to trypLE being used for the harvest because of a lack of self peeling, therefore the pellets may have contained a higher water weight than usual. However, the trends/ratios between the two treatment types remains the same so this should still be considered a real result.  
+
+  * VitC treatment followed by VitC + TGFb at Day 2 is still the best treatment type of CHOMP cells in multilayered flasks
+  * The weight of aggregates that were removed with TyrpLE may be slightly inflated due to their tendency to trap more water than aggregates that peeled off the flask themselves, therefore TyrpLE'd cell sheets and self-peeled aggregates were weighed separately (these values are displayed in the table below)
+  * Due to these different harvest methods being inconsistent between groups it is hard to properly compare the experimental groups against each other. Therefore instead of a direct comparison the groups were considered successful if they produced an average pellet weight >4.5g (this is the current best average for a 5CS). If the group produced an average pellet weight of 4.5g or greater it can be used for future batches, if it is below this cut off further testing of this group should be performed or this method should be excluded from future batches
+    * By this logic, the current methods are acceptable for future use/testing:
+      * Group 1 (3x5CS):VitC seed (15k) then treat with VitC + TGFb @ Day 2
+      * Group 2 (2x5CS): (15k) treat with VitC + TGFb at 60-80% confluence
+      * Group 4 (2x5CS):VitC Seed (7.5k) then treat with VitC + TGFb @ Day 2
+      * Group 6 (2x5CS): Reduced Feeding (Tues/Fri) - (15k) treat with VitC + TGFb at 60-80% confluence
+    * Because Group 5 has one flask above the cut off and one below it may be worth further investigation to see which data point is more accurate.
+
+  
+
+Achievements:
+
+  * The BIGGEST EVER BATCH (339.4g) in Vow history. Also the biggest ever single harvest performed by production
+  * This harvest put us over 1kg of cells for 2021
+  * We learnt a number of acceptable treatment schedules that can be tried/implemented in next years batches
+  * We found an acceptable method of removing liquid from TyrpLEised aggregates
+
+  
+
+

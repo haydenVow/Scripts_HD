@@ -1,0 +1,62 @@
+Aim
+
+
+To expand CAR Goldfish cells to a WCB.
+
+
+Hypothesis
+
+
+Continued culture of an initial population of ?M CAR Goldfish fibroblast cells
+will allow for a bank of ~100 million cells within 3 passages.
+
+
+Technical gap
+
+
+We have not cultured CAR Goldfish fibroblasts before, therefore we do not know
+how well they will grow in adherent culture or what their doubling times will
+be. Information on CAR Goldfish cell source can be found here and here.
+
+
+Method
+
+
+Experimental Plan (Approximate timeline - we do not know how these cells will
+grow so this is very prone to change, we will need to continually monitor for
+confluence)  
+D0: seed full vial into 1xT75 (at least 7500 cells/cm2)  
+D1: 50% feed  
+D3 (or when confluent): passage into 2xT175 (assuming flask is at least 80%
+confluence, seed at 7500 cells/cm2 i.e. 1.3M per T175 flask)  
+D5 (or 72hr after passage): 50% feed  
+D7 (or when confluent):  passage 2xT175 into 1x 4CF (assuming flask is at
+least 80% confluence, seed at 7500 cells/cm2, i.e. 1.9M per 4CF)  
+D9 (or 72hr after passage): 50% feed  
+D12: Harvest and freeze cells  
+D13: Transfer to LN  
+  
+Note - media should be refreshed twice weekly, in a situation where cells are
+taking more than 3 days to reach confluence following a passage the media
+should be changed accordingly
+
+  
+
+Expansion passages  
+Following SOP_Passaging Adherent Cells V_04
+
+Banking  
+Bank WCB following Banking-Template_V2  
+  
+Goldfish cell growth conditions:  
+Temperature: 25°C  
+Atmosphere: 95% Air, 5% CO2  
+  
+Media:
+
+Minimum Essential Medium (Gibco 11575-032) + 10% Fetal bovine serum (ATCC®
+30-2020™)  
+  
+See info here
+
+

@@ -1,0 +1,39 @@
+
+
+## Completed by: LL
+
+
+
+
+When passaging cells, they are typically treated with a dissociating agent
+such as Tryple to detach cells from the base of their culture vessel. Cells
+that remain floating in the medium are assumed to be dead, and are washed away
+during the first steps of a passage. Therefore, only cells that have
+successfully adhered are passaged to a new vessel. It is possible that a
+proportion of the cells that do not adhere to culture vessels are actually
+viable, and are in fact naturally adapted to grow in suspension.
+
+Takano et al. (1959) trained cells to grow in suspension based on the
+hypothesis that some proportion of un-adhered cells in planar culture are
+naturally adapted to suspension culture. They serially passaged HeLa and L
+strain cells without any dissociation agents into new vessels, until they
+achieved a culture of floating cells. Their primary findings were as such:
+
+  1. "Ba subline of the HeLa strain, a typical epithelial line , could not grow so well when inoculated directly into silicone-coated bottles. Transfer of the medium fluid of an ordinary static culture of Ba, which contained a small number of viable cells , was repeated through 20 passages. During the preliminary selection, the number of floating viable cells, detected by staining with nigrosin, seemed to have increased. Thus selected or adapted cells were transferred into coated bottles. They could grow pretty well, with a mean generation time less than 40 hours and a maximum size of about 7x10^5 cells per cc
+  2. The L strain, originally fibroblast, grew well in suspension, without preliminary training, as expected by its origin and cultural characters. An initial lag period seemingly tends to diminish as cultivation goes on. Generation time was less than 30 hours, maximum size a little more than 7x10^5 cells per cc.
+  3. When those "floating" cells were returned to uncoated bottles, a small portion sticked to the glass surface. The sticked cells looked spherical, unchanged throughout cultivation, suggesting an occurrence of selection or adaptaton through the induced floating state. 
+  4. Serum in 10% instead of usual 20% in the medium could support the cell growth, indicating the physicochemical role of serum protein in addition to the nutritional significance."
+
+In this experiment, we aim to replicate these findings by Takano et al. with
+our recently isolated line of KUZCO fibroblasts.
+
+
+
+
+References
+
+Takano, K., Yamada, M. & Yaginuma, K., 1959, Training HeLa and L strain cells
+to grow in fluid-suspension, Jap. J. M. Sc. & Biol., vol 12, 343-354.
+https://www.jstage.jst.go.jp/article/yoken1952/12/5/12_5_343/_pdf
+
+

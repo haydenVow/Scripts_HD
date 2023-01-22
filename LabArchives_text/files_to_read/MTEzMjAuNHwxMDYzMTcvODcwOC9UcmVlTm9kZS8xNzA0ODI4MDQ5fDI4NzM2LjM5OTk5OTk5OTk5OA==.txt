@@ -1,0 +1,229 @@
+Aim / Goal
+
+
+We aim to seed "Pork bun" gel to:
+
+  1. Determine effect of alginate MW on the stability of the scaffold over time, in addition to effect on cell proliferation.
+  2. Compare the effects of suspension versus adherent media on Nuvonis cell proliferation within the gel.
+
+
+Hypothesis
+
+
+We hypothesise in this experiment we will observe
+
+  1. Reduced gel degradation overtime in the conditions containing medium molecular weight (MW) alginate, compared to the gel formulations that do not contain medium MW Alginate. 
+  2. The adherent cultures will proliferate faster in the gel scaffold compared to the suspension cultures.
+
+
+Notes/ Things to keep in mind during this experiment
+
+  * Scaffold to media concentration 
+  * Scaffold handling
+  * Removing cells that have released into the media and grow rapidly
+
+
+Culture Condtions and Reagents
+
+
+## 'Pork Bun' Gel Conditions
+
+Ranger Culture IDPlate # (refer to Fig.1 below)ConditionApprox. Biogel Density
+(g/mL)Biogel volume Inside each of cell strainer (per well) (uL)Biogel per
+well (g)Cell Density (cells/mL)Total of each gel required (g)Total cells
+requiredCulture Conditons  
+  
+1No Cell Negative Control + LOW MW ALG.0.9907000.69320 M12.625336 million37C
+5% CO2 | Main Lab I Incubator 52  
+  
+2No Cell Negative Control + MED MW ALG.  
+  
+3Adherent GM + LOW MW ALG.  
+  
+4Adherent GM + MED MW ALG.  
+  
+5Suspension GM + LOW MW ALG.  
+  
+6Suspension GM + MED MW ALG.  
+  
+## Growth Medium (GM)
+
+ConditionReagents/ Growth MediaVolume used ID (Ranger)  
+GM used for the Suspension Conditions50:50 RPMI/Hycell + Nuvonis + 1X P/S
+(contains Phenol Red)  
+  
+  
+EGF (mesokine) for suspension GM  
+  
+  
+IGF (mesokine) for suspension GM  
+  
+  
+GM used for adherent ConditionsDMEM/F12+20%FBS+1XP/S  
+(contains Phenol Red)  
+  
+  
+  
+## Other Reagents
+
+ReagentConcentrationVolume used (mL)Ranger ID  
+CaCl2 Solution (Crosslinking solution) 100mM  
+12883  
+Low Pork bun gel  
+  
+12916  
+Med Pork bun gel  
+  
+12925  
+  
+  
+
+Abbreviations used:
+
+  * Med.: Medium
+  * Vis.: Viscosity 
+  * GM: Growth Medium
+  * ALG.: Alginate
+
+
+Protocol
+
+
+## Things to complete before starting the seeding experiment:
+
+  1. Create the gel conditions. Refer to page '28 JUN 2 - Pork Bun Gel Batch02 Creation' for the Protocol used to create and sterilise each gel formulation. 
+  2. Create and filter (22um filter) the crosslinking solution CaCLs (100mM). (DONE MIX ID: 12883) 
+  3. Set up 6x 6-WP (Ultra-low attachment tissue culture plates) and Label according to the plate map in figure 1. 
+  4. Prepare the reagents: 
+    1. Add growth factors (EGF and IGF)  to the suspension growth medium. The volumes required can be calculated in the E8 calculator. 
+    2. Place the gel formulation in ambient conditions for one hour prior to beginning the experiment. 
+    3. Place the 2x types of growth medium (suspension and adherent GM)  in the water for a minimum of 20 minutes prior to use. 
+
+Figure 1. Plate Map for Batch02 Experiment.
+
+##  
+
+  1. Place 1x cell strainer, followed by the 3D-printed gel mould into each well plate. 
+  2. Fill 'no cell control' plates with each ge to be level with the 3D printed moulds using sterile spatula. 
+  3. Weigh the remaining gel to calculate the remaining mass of gel, to then calculate the required amount of cells needed to seed per gel. 
+    1. Medium MW gel: 
+      1. Mass measured: 17.77,
+      2. Since density is 0.99g/mL) so actual volume is (17.77/0.99) = 17.9495
+    2. Low MW gel: 
+      1. Mass measured: 17.93, 
+      2. Since density is (0.99g/mL) so actual volume is (17.77/0.99) = 17.9495
+
+  
+
+## Cell Seeding Protocol - FOR PORK BUN GEL
+
+  1. Perform cell count. Density for experiments: 15 million cells / mL.
+    1. Cell Supply Culture ID: 12684  
+      1. Cell count (total): 3802 M
+      2. Cell count (per mL): 2.72M cells/mL
+    2. Volume of cell suspension aliquoted for this experiment:
+      1. MED: 98.98mL
+      2. LOW: 98.87mL  
+
+
+  2. Passage cells. Put required cell volume into 50mL centrifuge tubes.
+  3. Centrifuge cell suspension for 5 mins at 700g. 
+    1. LOW Start time: 17:55
+    2. MED Start Time: 1958
+  4. Based on cell count, use c1V1=c2V2 to determine amount of biogel required.
+  5. Using a 5 mL syringe, stir biogel and slowly  draw up required amount and transfer to sterile specimen jar.
+  6. Remove supernatant from cells, resuspend in media (~30uL / mL of biogel). Transfer to biogel in jar with a 1mL pipette, slowly stirring into ink as you do. Make sure to get into tip of cartridge and that it entirely incorporated (~1.5 min).
+  7. Draw up into a syringe and add to anchor moulds inside of a cell strainer in a 6-WP
+  8. Add CaCl2 solution (100mM) to gel disks in the cell strainer and crosslink for 15 mins. (gel handling and crosslinking steps will be edited upon findings from Zoe's dry-lab experiments). 
+    1. LOW 1841/1856
+    2. MED 2031
+  9. Following crosslink, remove scaffolds with cell strainer and large sterile forceps to a new 6 well plate.
+  10. Wash scaffolds in media at RT according to this:
+    1. 1x 1 min wash low 1907/ med 2100
+    2. 1x 5 min wash Low 1918/ med 2114
+    3. 1 x 10 min wash at 37 C Low 1932 med/ 2127
+  11. After scaffolds are washed of all excess CaCl2, slowly pipette in growth medium for each culture condition (refer to growth medium table above). 
+    1. 7mL of growth medium per well/ gel construct. Low 1957 med 2147
+  12. Leave for 1 day prior to feeding to ensure stabilisation of construct.
+  13. Initiate feed schedule outlined below. 
+
+  
+
+## Feeding Schedule
+
+  1. Culture duration: in cell strainers for 7 days
+  2. Every other day 100% feeds. Remove 1000% of the growth medium in each well/ scaffold (7mL) and replaced with new growth medium every  other day. 
+
+## Monitoring and Stain Schedule
+
+  1. Take 3 images at 5x and 3 images at 10x
+  2. Check for signs of contamination.
+  3. 2ug/mL (Hoechst 33342 /Propidium Iodide)
+    1. Viability stain performed at day 1, 4 and 7 and if possible a metabolic assay on those days as well.
+      1.  Day 1: 30 June 22
+      2. Day 4: 3 July 22
+      3. Day 7: 6 July 22
+
+
+Results
+
+
+Culture IDS
+
+12742-Nuvonis Quail Suspension341-P-6of6
+
+Med MW Alg Adherent Media
+
+12741-Nuvonis Quail Suspension341-P-5of6
+
+Med MW Alg Suspension Media
+
+12740-Nuvonis Quail Suspension341-P-4of6
+
+Med MW Alg No Cells
+
+12739-Nuvonis Quail Suspension341-P-3of6
+
+Low MW Alg Adherent Media
+
+12738-Nuvonis Quail Suspension341-P-2of6
+
+Low MW Alg Suspension Media
+
+12737-Nuvonis Quail Suspension341-P-1of6
+
+Low MW Alg No Cells
+
+
+Observations/Notes
+
+
+Random calculations
+
+Amount of Low gel used = 10.866 g
+
+density of pellet:
+
+\- tube = 12.525g
+
+\- tube with ~ 5mL volume =16.990 (approx 3.6mL of media
+
+\- 50 mL cell suspension @ 2.72 x10^6 cells/mL
+
+\- approx cell mass = 4ng
+
+\- density of media ~1.0066 g/mL
+
+Denisty of a fibroblast 1.066-1.092 g/ml
+
+
+Conclusion
+
+
+Conclusion:
+
+  
+
+Critical Information that will be applied to the next information:
+
+

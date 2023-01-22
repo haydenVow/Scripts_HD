@@ -1,0 +1,193 @@
+
+
+Perform bank using below volumes:
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+6666-E_DOLLY12-Sheep P4-1of1  
+1  
+224K  
+2687-Culture-6666-Vial-1of1  
+  
+  
+  
+
+
+
+
+Growth Media (for resuspension):
+
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + VEGF + EGF + FGF + IGF
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  10 mL in | 1 | tubes
+  2.  dPBS (for neutralising)   10 mL in | 1 | tubes 
+  3.  Growth media (for pellet resuspension):  2 mL in | 1 | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:  11:08 am 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+6666-E_DOLLY12-Sheep P4-1of1
+
+  
+
+
+
+
+2\. Washed the flask with dPBS.
+
+3\. Added | 10 |mL tryple to each the flask and incubated at 37ºC for | 10-15
+| min  | 11:22 - 11:39 am |  
+Note* checked at 11:30 and 11:36 and still >20% cells attached
+
+4\. Neutralised with | 10 | dPBS (RT) and combined cell suspension into a |
+50mL | tube.
+
+5\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   11:42 - 11:47 am   
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 2 |mL | Endothelial Cell Growth | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+9\. Total cell number was: | 224K cells |
+
+10\. Calculate the required volume cell suspension & freeze medium to generate
+a concentration of ~1M cells/mL.
+
+
+
+
+11\. Prepared  2 mL Freeze Medium: (FBS + 10% DMSO). ID # 4857  
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  12:00  \-  12:05 pm
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 0.5 |mL freeze media (chilled, to reduce DMSO
+toxicity).
+
+15\. Aliquotted | 500 |µL into | 1 | x cryovial (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   12:07 pm
+
+  * [X ]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [X ]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleM 4308  
+  
+dPBS (for washing & neutralising)M 4827  
+  
+Growth MediaM 4397  
+  
+Freeze mediam 4857  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- 1 X Vial of CD31+ cells frozen at -80C.
+
+Number of cells expected was higher (hoping for >1M cells), however 224K cells
+total was yielded. The cells are very large and difficult to count on the
+hemocytometer which may have resulted in slightly innacurate counting, however
+total cell numbers were still very low considering the size of the cells and
+confluence of flask (see images above).
+
+  
+
+These cells will need to be revived, characterised (IF staining for CD31
+and/or other endothelial cell markers) and expanded to assess suitability for
+Vow.
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ X]  Unexpected because less cells were harvested than expected.
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+See above
+
+

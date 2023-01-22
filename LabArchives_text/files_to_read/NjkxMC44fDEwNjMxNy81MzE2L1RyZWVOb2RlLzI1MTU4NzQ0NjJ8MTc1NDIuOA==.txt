@@ -1,0 +1,220 @@
+
+
+Perform thaw using below volumes:
+
+
+
+
+## Performed by: AK  
+
+
+
+
+Passage Culture IDs
+
+Seeded Flask ID(s)Seeded Flask Type  
+8936-F_CHOMP09-Crocodile P8-1of1  
+8938-F_CHOMP09-Crocodile P8-1of1  
+96 well plate  
+  
+T75  
+  
+  
+  
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+Growth MediaM7967  
+  
+1.5% (w/v) agarose solution  
+M8086  
+  
+1% (w/v) pluronic F-127 solution  
+M8110  
+  
+1% (w/v) poloxamer 188 solution  
+M8109  
+  
+1% (w/v) methylcellulose solution  
+M8115  
+  
+0.6% (w/v) methylcellulose solution  
+M8116  
+  
+0.45% (w/v) methylcellulose solution  
+M8117  
+  
+0.3% (w/v) methylcellulose solution  
+M8118  
+  
+0.1% (w/v) methylcellulose solution  
+M8119  
+  
+Hoechst 33342 readyflow reagent  
+S3854  
+  
+Sytox Green reagent  
+S3626  
+  
+dPBS  
+M7586  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Prepare stain buffer in 15 mL tube by combining the following (2 drops
+Hoechst and 1 drop Sytox green per mL of dPBS):
+
+  * 3 mL of dPBS 
+  * 6 drops of Live Cell Stain ReadyFlow Hoechst 33342
+  * 3 drops of Sytox Green
+
+2\. Sterile filter solution through a 0.22 um filter
+
+3\. Transfer 200 uL of the media supernatant from the T75 flask into a 24-well
+plate
+
+4\. Add 20 uL of staining reagent to the first six wells for each condition
+(i.e. agarose is A1-F1, pluronic C3-F3, poloxamer E4-A5 etc) and the single 24
+plate well and incubate at room temperature for 30 minutes (see plate map
+below)
+
+  1. Start/Finish time:    16:20 - 16:50    
+
+ 5\. Zaber image the entire plate on phase, DAPI, and AF555 to determine cell
+viability
+
+
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+1% MC  
+1% MC  
+0.6% MC  
+0.45% MC  
+0.45% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+1% MC  
+1% MC  
+0.6% MC  
+0.45% MC  
+0.45% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+1% MC  
+1% MC  
+0.6% MC  
+0.45% MC  
+0.45% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+1% MC  
+1% MC  
+0.6% MC  
+0.45% MC  
+0.45% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+Poloxamer (1%)  
+1% MC  
+0.6% MC  
+0.6% MC  
+0.45% MC  
+0.3% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)Agarose (1.5%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+Poloxamer (1%)  
+1% MC  
+0.6% MC  
+0.6% MC  
+0.45% MC  
+0.3% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+Poloxamer (1%)  
+1% MC  
+0.6% MC  
+0.6% MC  
+0.45% MC  
+0.3% MC  
+0.3% MC  
+0.1% MC  
+  
+Agarose (1.5%)  
+Agarose (1.5%)  
+Pluronic (1%)  
+Poloxamer (1%)  
+Poloxamer (1%)  
+1% MC  
+0.6% MC  
+0.6% MC  
+0.45% MC  
+0.3% MC  
+0.3% MC  
+0.1% MC  
+  
+  
+Bold indicates wells there were stained
+
+
+
+
+Observations/Summary:
+
+\- Does not appear to be many viable cells in these cultures  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+mia image link: https://mia-
+capture.vow.tools/#/session/rectF9GVxam0fMiw7/images
+
+

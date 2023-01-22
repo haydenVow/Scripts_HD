@@ -1,0 +1,231 @@
+
+
+## Completed by: Chris, Addy
+
+
+Aim/Purpose
+
+
+In previous e-stim experiments, we have seen issues with muscle maturing to a
+degree where it bunched up and started delaminating from the cultureware. This
+made it hard to properly analyze the results of the maturation study, because
+mature muscle was aspirated during the washes and workflow steps that are part
+of immuno-staining or ELISA. this study aims to investigate a range of
+extracellular matrix (ECM) proteins enhancing cell adhesion to pre-coated
+cultureware in order to counteract delamination after the maturation process
+and enable backend analysis workflows
+
+
+Hypothesis
+
+
+We can identify a suitable ECM protein that encourages cell attachment,
+prevents delamination of mature muscle and does not interfere with backend
+analysis
+
+
+Technical Gap
+
+
+We have not previously trialed some of the compounds under investigation for
+their effect on cell adhesion and none of them were investigate for
+interference with our analysis assays
+
+
+Method/Procedure
+
+
+## Pre-coat cultureware surface with various ECM components to reduce
+delamination issues:
+
+  1. Fibrin - in-house
+  2. Collagen - in-house (I believe?) --> PureCol, we have some leftovers and more coming
+  3. laminin - in-house (I believe?)
+  4. Matrigel - in-house (I believe?)
+  5. Gelatin - in-house
+  6. ECM - in-house
+  7. MyoCult adhesion supplement - in-house
+  8. Alginate hydrogel (as topical/capping layer after cell seeding)  
+
+
+
+
+Experimental Schedule
+
+(Assuming we have the required cell numbers ready to go) \--> one vial of
+C2C12 has 500k cells, so we will just thaw whatever we need and kick this off
+as soon as we have the plan approved
+
+DaysDateProcedure  
+  
+0  
+Seed 2x precoated 12WPs with (60-80k) cells/well in DMEM/F12 + 20%FBS + 1XP/S
+growth media.  
+1  
+100% media change with growth media.  
+2  
+50% media change with growth media.  
+  
+3 (D1Diff)  
+Daily 100% media change with E6 differentiation media.  
+4 (D2Diff)  
+Daily 100% media change with E6 differentiation media.  
+  
+5 (D3Diff)  
+Daily 100% media change with E6 differentiation media. Live/dead stain on one
+of the 3 wells for each sample?  
+  
+6 (D4Diff)  
+Daily 100% media change with E6 differentiation media.  
+  
+7 (D5Diff)  
+Daily 100% media change with E6 differentiation media.  
+  
+8 (D6Diff)  
+Check for delamination and if none, proceed with Fixing and ImmunoStaining  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Plate Map
+
+CM = coating material
+
+  
+
+Samples
+
+Coating #Plate #  
+Coating typeStock IDStorage locationCoating procedure  
+11  
+Laminin2502  
+  
+(Product No. L2020 Laminin from Engelbreth-Holm-Swarm murine sarcoma basement
+membrane)-20 freezer
+
+  1. Thaw laminin at 2 - 8 °C; avoid rapid thawing to prevent formation of a gel.
+  2. Dilute 20x  (to ~50 ug/mL) in balanced salt solution. Solution concentration is dependent upon the application. A typical stock concentration is 0.01%.
+  3. Coat culture surface with a minimal volume (0.5mL)
+  4. Once the entire area is covered, remove excess solution. This can be used to coat another well/plate.
+  5. Incubate at 37°C for 30 minutes
+  6. Wash 3 times with PBS or DMEM before plating cells
+  7. Air dry at least for 45 minutes before introducing cells and medium.
+
+  
+21  
+Collagen (PureCol)3850E6 components fridge, top row (-20 fridge)
+
+  1. dilute stock 5-fold on ice
+  2. add 0.5 mL per well
+  3. place plate in inc. 37C for 30 min
+
+  
+31  
+Gelatin7508We also made up fresh gelatin yesterday, so can possibly borrow
+from cell expansion fridge (Mix 7508)
+
+  1. add 0.5 mL of 0.1% gelatin per well
+  2. place plate in inc. 37C for 30 min
+  3. remove gelatin and seed cells
+
+  
+41  
+ECM3849E6 components fridge, top row (-20 fridge)
+
+  1. Gel should be thawed overnight at 2-8°C before use and dispensed to a multiwell plate using a plate and pipettes that are pre-cooled to 2-8°C. 
+  2. The gel may also be diluted up to twofold with 2-8°C Dulbecco′s Modified Eagle′s Medium, and should be done before gel is added to the plate. 
+  3. The product will gel within 5 minutes at 20°C. For prolonged manipulations, work should be conducted below 10°C. 
+  4. Cells can be plated on top of a thin gel layer of 0.5 mm
+
+  
+52  
+Fibrin (thrombin-free)888(8mg/ml) fibrinogen is in -20C where E6 components
+are (red cap, first drawer),  
+
+  1. coating with fibrinogen (8mg/mL) diluted in well 1-1 with 100mM Calcium
+  2. incubate at 37C for 30 min and remove excess
+  3. dry for 45 min before plating cells
+
+  
+6  
+2  
+MyoCult1553-20 fridge (second drawer), library lab
+
+  1. add 50 μL of MyoCult™-SF Attachment Substrate to 2.45 mL of D-PBS.
+  2. add 500 uL per 12wp well
+  3. Seal cultureware to avoid evaporation (e.g. using Parafilm®). Incubate at 2 ­ 8°C overnight
+  4. Immediately prior to plating cells, gently tilt the cultureware onto one side and allow the excess substrate solution to collect at the edge.
+  5. Remove the excess solution using a serological pipette or by aspiration.
+
+  
+  
+7  
+2  
+Alginate (on top of cells)7461Biomaterials fridge
+
+  1. seed cells
+  2. after 1h attachment, wash well briefly with warmed 50 mM CaCl2 in DMEM (1-1 dilution of 100mM CaCl2 stock)
+  3. Add 500 uL of 4% alginate and crosslink for 10 min
+  4. add GM and continue incubation
+
+
+  
+  
+Cell and Media Requirements
+
+Seeding Density
+
+at cell seeding density of 60-80k per well with 21 wells (7 coatings) to seed
+we need to thaw a total of 3 vials of C2C12s (assuming each vial has 500k
+cells)
+
+  
+
+Media Requirements:
+
+Growth media for seeding and proliferation stage
+
+Number of plates = 2
+
+Number of wells = 12
+
+Seeding = 1 mL per well (100%)
+
+Day 1 100% feed
+
+Day 2 50% feed
+
+Total volume required for seeding and initial feeds = 2 x 12 x 2.5 = 60 mL
+(includes overage)
+
+  
+
+E6 media for DIFF process
+
+Number of diff days = 6
+
+Volume for 2 x 12 well plates = 24 mL/day
+
+Total volume of E6 diff media required (without excess) = 6 x 24  = 144 mL
+(150 mL)
+
+
+
+
+# Future Directions
+
+
+
+
+https://www.nature.com/articles/srep28855.pdf
+
+https://www.mdpi.com/2227-9059/9/1/16/htm
+
+

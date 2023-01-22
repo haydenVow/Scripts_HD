@@ -1,0 +1,62 @@
+
+
+## Performed by:  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (Reagent ID)Volume used (mL)  
+ E8Mix  
+  
+  
+Recombinant Human Albumin (Richcore)  
+  
+  
+  
+'r HA NW20' (Richcore)  
+Stock 3204  
+  
+  
+Recombinant Human Albumin (AKRON)  
+Stock 3856  
+  
+  
+  
+  
+
+
+
+
+ACF media iteration:  E8_9C  
+
+Volume of media being made:   120 mL
+
+  
+
+  
+
+
+
+
+## Process
+
+  1. Prepared 2M solution of GABA according to E8_9C Media Calculator instructions.
+  2. Prepared 2M hypoxanthine solution according to E8_9C Media Calculator instructions.
+  3. Added all the ingredients needed for   119 mL of E8 medium following E8 calculator spreadsheet.
+  4. Added ACF ingredients for 120 mL of medium as indicated in the E8_9C Media Calculator spreadsheet (EXCEPT FOR ALBUMIN - DO NOT ADD YET).
+  5. Create 3 x 40 mL aliquots of the E8_9C and add one of the following to each (final conc. in solution = 150 ug/mL):
+    1. 90 uL x rHA albumin (Original richcore) 
+    2. 90 uL x rHA albumin (New richcore) 
+    3.  ~~6000 ug / 6 mg x rHA albumin (AKRON)~~
+    4. 239.8 uL x Sigma albumin  ~~  
+~~
+
+  6. Sterile filtered media.
+  7. Added 0.4 mL of lipids to each aliquot (E8_9C Media Calculator).
+  8. Labelled and stored in the fridge. 
+
+Location:
+
+

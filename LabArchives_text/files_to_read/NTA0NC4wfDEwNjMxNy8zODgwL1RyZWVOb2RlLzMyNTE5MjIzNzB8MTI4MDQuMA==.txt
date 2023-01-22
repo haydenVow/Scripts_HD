@@ -1,0 +1,138 @@
+
+
+## Performed by: LL TT
+
+
+
+
+Media
+
+1\. DMEM/F12 + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF + 1x p/s  
+2\. CDM4 Avian + 10% Knockout serum replacement + 1:100 anti-clumping agent +
+0.1% pluronic +100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+3. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 0.1% pluronic +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+4\. Hycell CHO +10% Knockout serum replacement + 1:100 anti-clumping agent +
+~~0.1% pluronic~~ 4uM L-glutamine + 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+5\. RPMI + 10% Knockout serum replacement + 1:100 anti-clumping agent + \+
+0.1% pluronic  \+ 100ng/mL each FGF, IGF1, PDGF \+ 1x p/s
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vessel typeVessel D  
+50 mL spin tubes  
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+  
+E125 flasks  
+7694-F_DOLLY12-Sheep P11-1of1  
+
+
+  
+  
+NANDO Culture IDs:
+
+Flask typeFlask ID  
+ 5x 50mL shake tube  
+7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+  
+E125 flask7700-NANDO3F-Chicken P3-1of1  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+### 50 mL shake tubes
+
+NANDO
+
+  1. Collected 50 mL shake tubes from shaker
+  2. Centrifuged tubes at 300 x g for 5 min.   12:32 - 12:37    
+
+  3. Aspirated   4.5 mL (500 uL remaining) of supernatant leaving 0.5 mL in the tube, taking extra care to not disrupt or aspirate pellet
+  4. Gently pipette-mixed cultures and took 10 uL samples from each culture and stored in separate microtubes until ready to count
+  5. Loaded 10 x samples onto haemocytometers and observed cells and performed cell counts
+  6.  ~~Re-suspended cell suspensions with viable remaining cells in fresh, warmed media.  ~~Discarded cultures with no live cells found (all NANDO cultures)
+
+DOLLY
+
+  1. Collected 50 mL shake tubes from shaker
+  2. Centrifuged tubes at 300 x g for 5 min.   13:48 - 13:53  
+
+  3. Aspirated 4.5 mL (500 uL remaining) of supernatant leaving 0.5 mL in the tube, taking extra care to not disrupt or aspirate pellet
+  4. Gently pipette-mixed cultures and took 10 uL samples from each culture and stored in separate microtubes until ready to count
+  5. Loaded 10 x samples onto haemocytometers and observed cells and performed cell counts
+    1. 7692: 0 cells/mm2 * 10,000 mm2/mL * 2 mL/mL * 0.4 mL = 0 cells https://mia-capture.vow.tools/#/session/recPHLw3vIwIQQTtJ/images
+    2. 7693: 0 cells/mm2 * 10,000 mm2/mL * 2 mL/mL * 0.4 mL = 0 cells https://mia-capture.vow.tools/#/session/recJ0XxXGD6wWlpWR/images
+    3. 7691: 0 cells/mm2 * 10,000 mm2/mL * 2 mL/mL * 0.4 mL = 0 cells https://mia-capture.vow.tools/#/session/recBvXRwojhjJQnU7/images
+    4. 7689: 0 cells/mm2 * 10,000 mm2/mL * 2 mL/mL * 0.4 mL = 0 cells https://mia-capture.vow.tools/#/session/rec6mxrj4y1TuMbnm/images
+    5. 7690: 0 cells/mm2 * 10,000 mm2/mL * 2 mL/mL * 0.4 mL = 0 cells https://mia-capture.vow.tools/#/session/recNIzluOlH4MBMcl/images
+  6. Discarded all cultures as no live cells were found.
+
+
+
+
+Relevant Images/Figures:
+
+7695: https://mia-capture.vow.tools/#/session/recC7BnYPTvex2xBL/images
+
+7696: https://mia-capture.vow.tools/#/session/rec1rhkJ4u2CS4bCi/images
+
+7697: https://mia-capture.vow.tools/#/session/recC7BnYPTvex2xBL/images
+
+7698: https://mia-capture.vow.tools/#/session/recM7WnTviK4e2V0G/images
+
+7699: https://mia-capture.vow.tools/#/session/recIEAWaaj9wliJwt/images
+
+7692: https://mia-capture.vow.tools/#/session/recPHLw3vIwIQQTtJ/images
+
+7693: https://mia-capture.vow.tools/#/session/recJ0XxXGD6wWlpWR/images
+
+7691: https://mia-capture.vow.tools/#/session/recBvXRwojhjJQnU7/images
+
+7689: https://mia-capture.vow.tools/#/session/rec6mxrj4y1TuMbnm/images
+
+7690: https://mia-capture.vow.tools/#/session/recNIzluOlH4MBMcl/images
+
+
+
+
+### Observations/Summary:
+
+NANDO
+
+7695-NANDO3F-Chicken P3-1of1: no live cells. Multiple small circular objects
+observed and photographed at 20X - contamination or just debris?  
+7696-NANDO3F-Chicken P3-1of1: no live cells. Same small objects observed but
+slightly fewer than in 7695.  
+7697-NANDO3F-Chicken P3-1of1: no live cells. Same small objects observed  
+7698-NANDO3F-Chicken P3-1of1: no live cells. Same small objects observed  
+7699-NANDO3F-Chicken P3-1of1: no live cells. Same small objects observed
+
+DOLLY
+
+7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1
+
+20X, 7695, small circular objects observed  
+
+

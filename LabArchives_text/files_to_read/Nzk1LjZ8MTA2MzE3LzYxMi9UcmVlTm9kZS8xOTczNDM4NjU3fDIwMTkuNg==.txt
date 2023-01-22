@@ -1,0 +1,149 @@
+Culture ID(s)Vessel typeNo. of wells to stain  
+6424-DOLLY12-Sheep P13-1of2  
+96 well plate  
+3  
+  
+6432-DOLLY12-Sheep P13-2of2  
+24 well plate (moved to 96wp after fixing)  
+24  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted   30  mL  PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+  5.7 µL   Secondary #1   (1:1000) +  5700  uL Blocking Buffer (PBST (0.1%
+Triton X + dPBS) + 3% BSA)  
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI mix:
+
+ 5700  mL  PBS +  5.7  uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG  
+IGg1  
+AF488  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+2AB: s#1606 pbs 4297, 4490,
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 12:17 - 12:22
+
+ 12:23 - 12:28  
+
+ 12:29 - 12:34
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  12:36 - 13:37  
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  13:37
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+ 13:40 - 13:45  
+
+3\.  Washed in PBS 2 x 5 min at RT in the dark. (No Triton)
+
+ 13:46 - 13:51  
+
+ 13:52 - 13:57
+
+4\.  Replaced dPBS.
+
+ 13:58
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking Buffer  
+  
+dPBS  
+  
+PBST  
+  
+Secondary Antibody Mix  
+  
+DAPI (1:1000)  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

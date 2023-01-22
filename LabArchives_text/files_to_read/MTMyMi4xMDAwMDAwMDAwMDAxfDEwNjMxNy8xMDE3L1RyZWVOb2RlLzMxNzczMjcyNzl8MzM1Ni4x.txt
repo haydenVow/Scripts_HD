@@ -1,0 +1,86 @@
+
+
+Culture IDs to image
+
+Vessel IDDays since seeding.  
+  
+### 6673, 6674, 6675, 6676
+
+  
+1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Stained and imaged cells adhered to microcarriers
+
+  1. Removed culture(s) from the incubator and placed them in the BSC  `| 10:26 am/pm|`
+  2. Swirled culture(s) by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample of the suspension was taken while the liquid was still in motion. This ensures the carriers were evenly mixed at time of sampling.
+  3. Transferred the aliquot(s) to a well on a 96 well plate. This was done for 3 samples per E125 flask.
+    1. Row E: culture #6673 (serum)
+    2. Row F: culture #6674 (E89C)
+    3. Row G: culture #6675 (E810C)
+    4. Row H: culture #6676 (E811B)
+    5. columns 7, 8 and 9 were used for replicates
+  4. Returned cultures to the incubator  `| 10:33 am/pm|`
+  5. Mixed samples with 80 uL of dPBS containing 20uL/mL of Hoechst 33342. 
+  6. Left the 96 well plate to incubate at room temperature, in the dark (away from light), for 12 minutes.  `| 10:36 - 10:48 am/pm |`
+  7. the 96 wp was parafilmed and stored in the fridge. ~11:10 
+    1. Plates were not imaged immediately as we were resolving Zaber issues
+  8. Plates were imaged on the main lab Zaber on 5x. ~12:25
+    1. Phase: illuminator lamp ~1, exposure 10. Histogram: 0-90
+    2. DAPI: illuminator lamp ~35, exposure 35. Histogram: 0-180
+    3. images captured under culture ID: 6702
+
+
+
+
+### Observations/Summary:
+
+### Imaged 3x Hoechst stained samples per E125 flask:
+
+### 6673, 6674, 6675, 6676
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+dPBS a3252  
+  
+  
+Hoechst 33342s2454  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because... 
+    * [ ]  Need to be further analysed 
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

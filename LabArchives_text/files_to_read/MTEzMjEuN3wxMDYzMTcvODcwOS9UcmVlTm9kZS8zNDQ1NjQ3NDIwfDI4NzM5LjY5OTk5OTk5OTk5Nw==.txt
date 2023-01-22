@@ -1,0 +1,153 @@
+Methods and Experiment Layout
+
+
+  
+
+Figure 1. Layout for plate 1 showing different conditions (4 x Nanocellulose
+types) and replicates
+
+Figure 2. Layout for plate 2 showing different conditions (2 x Nanocellulose
+type and 3 x concentrations) and replicates
+
+  
+
+
+
+
+Performed By: Alex, Varshana and Jesi D
+
+
+
+
+## Reagents
+
+Reagent  
+Volume (mL)  
+Ranger ID  
+  
+Collagen I (2.6mg/mL)  
+40Mix 12824  
+  
+Growth medium (50:50 RPMI:Hycell + Nuvonis) with 1XP/S  
+500Mix 12912  
+0.25% Pluronic  
+  
+  
+0.1M NaOH in PBS 0.2M  
+  
+  
+
+
+  
+  
+Before Starting Ensure:
+
+  * Matrix reagents are made up fresh:
+    * Collagen I to 2.6mg/mL - stock is at 6.17mg/mL - dilution factor 1:2.4
+      * need ~ 40 mL total (make 42 mL)
+      * Leave in the fridge until use.
+    * Other Reagents have been sterile-filtered (Collagen doesn't filter
+  *  ~~Agar is autoclaved first thing in the morning and maintained on the hotplate to keep molten (or a small, high temp Sous Vide bath)~~
+  * Week before: adhere 6x nylon scaffolds to petri dishes using PDMS    20/06/2022  
+  * Place moulds in Ethanol bath at least overnight
+
+
+
+
+Scaffold mounting, sterilisation and coating
+
+  
+
+  1. Place Moulds into 80% Ethanol bath - start     26/06/22 
+  2. UV irradiate for 60 minutes under the mobile UV (reptile) lamp - start     :   am
+  3. Pre-coat with 0.2% Pluronic solution for 1 hour (to prevent adhesion), start     :   pm 
+
+
+
+
+Preparation for Harvest
+
+  1. Prepare 10 falcon tubes for cell harvest for 4 conditions on plate 1 and 6 conditions on plate 2
+  2. Completed calculations can be found here: https://docs.google.com/spreadsheets/d/1nAKlh6US6Xud95YGlDTkI4LHBWjzlAxnhmTym1P2bUw/edit#gid=66228982
+  3. Media preparation for harvest and seeding: 50-50 RPMI/Hycell mix
+    1. 500mL 50-50 RPMI/Hycell 
+
+Cell Harvest for mould seeding - Nuvonis suspesion protocol
+
+  1. Harvest cells with Cell Supply passaging protocol
+  2. Count cells with haemocytometer/Vicell for total yields:
+    1. Total yield flask #XXX =    Billion   
+
+    2. Total yield flask #XXX =    Billion 
+    3. Total volume per #XXX =      mL  
+    4. Total volume per #XXX =      mL  
+    5. Cell concentration #XXX =     cells/mL  
+    6. Cell concentration  #XXX =     cells/mL  
+  3. Aliquot required volume into falcon tube at each cell density:
+    1. Plate 1 = 180M cells per falcon x 4 conditions (#1-4) =       mL     
+
+    2. Plate 2 = 120M total per falcon x 6 =       mL  
+  4. Centrifuge at 650g for 5 minutes: start    :   
+  5. Resuspend PLATE 1 pellets in 4mL of 50-50 Media and make up to total volume of 5.75mL to account for pellet volume
+  6. Resuspend PLATE 2 pellets in 2.5mL of 50-50 Media and make up to total volume of 3.85mL to account for pellet volume
+  7. Proceed to matrix additions below
+
+  
+
+Matrix formation for scaffold seeding - Plate 1 - volumes are all the same
+
+N.B. Repeat this gel formation for each falcon tube one at a time (3
+replicates) - but be sure to move quickly as this is a very high cell density
+
+  1. Add Nanocellulose type (4 types) and mix well with stripette (not resuspending forcefully):
+    1. Nanocellulose volume to add =    60 uL   
+
+  2. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending forcefully):
+    1. Collagen I volume to add =    4.9 mL  
+  3. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =    590 uL  
+  4. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =    730 uL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    :    
+  8. Add     ~150mL   50-50 Media to entire 15mL dish, ensure entire mould is covered
+  9. Culture at 37°C overnight before checking
+
+  
+
+Matrix formation for scaffold seeding - Plate 2 - volumes differ
+
+N.B. Repeat this gel formation for each falcon tube one at a time (2
+replicates) - but be sure to move quickly as this is a very high cell density
+
+  1. Add Nanocellulose and mix well with stripette (not resuspending forcefully):
+    1. Nanocellulose 0.25% volume to add =   20 uL  
+    2. Nanocellulose 0.75% volume to add =   60 uL  
+    3. Nanocellulose 1.5% volume to add =   120 uL  
+  2. Add Collagen I (Devro: final concentration 2.6mg/ml) and mix well with stripette (not resuspending forcefully):
+    1. Collagen I volume to add =    3.25 mL  
+  3. Add 10xDMEM/F12 and mix with stripette:
+    1. 10x DMEM volume to add =    390 uL  
+  4. Add 0.1M Sodium Hydroxide and mix with stripette:
+    1. NaOH volume to add =    490 uL  
+  5. Remove pluronic from wells
+  6. Seed    4mL    gel/matrix gently into scaffold ensuring good distribution around pillars in the well 
+  7. Leave for    60-90    minutes to gel at 37°C - start time    :    
+  8. Add     ~150mL   50-50 Media to entire 15mL dish, ensure entire mould is covered
+  9. Culture at 37°C overnight before checking
+
+
+
+
+Tips and Tricks for this protocol:
+
+  * When pelleting cells, make sure they are completely dry
+  * Flick pellet to dislodge before adding medium
+  * Add Medium first to pellet to prevent clumping and cell death
+  * Col1 is very viscous, pipette carefully - when adding 10x DMEM, it turns yellow
+  * As soon as you add the NaOH, be quick as the Col starts to gel
+  * Everything has to be exact, don't be tempted to add more cells than the volume stated if there are some left
+  * Add cells slowly!
+
+

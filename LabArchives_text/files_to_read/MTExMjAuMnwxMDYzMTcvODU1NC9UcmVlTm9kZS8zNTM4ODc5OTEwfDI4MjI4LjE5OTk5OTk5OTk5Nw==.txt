@@ -1,0 +1,46 @@
+
+
+Once images of whole wells were inspected and wells that appeared <70%
+confluent were selected on a binary pick list, these lists were used to
+generate multiwell picking protocols for the opentrons before passage. See
+multiwell protocols attached and pick list documents for clone destinations
+after picking.
+
+Passaging of BMF+BCL2L11 clones.
+
+Plates 12237, 12233, 12234 and 12235 were passaged using the opentrons based
+on pick lists here
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=132217374.
+
+Destination plate for these clones were examined after the passage on the
+opentron had concluded. No cells could be seen in any of the wells passaged
+from culture 12234. Culture 12234 was inspected and the Tryple that was added
+to each culture plate did not contain any cells for any of the wells passaged.
+It is likely that the pick list for 12234 was innaccurate and that the wrong
+image data set was used to generate the pick lists for this plate.  
+Plate 12236 was also not passaged as a pick list had not been generated for
+this plate yet.
+
+Culture 12234 and 12236 will have to be imaged once again and passaged.  
+  
+
+Passaging of Control clones.
+
+Plates 12249-12252 were passaged using the opentrons based on pick lists here
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=160941143
+
+Passaging of TBK1 clones
+
+Plates 12242-12246 were passaged using the opentrons based on the pick lists
+here:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=542060720
+
+
+
+
+## SOPs
+
+https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+

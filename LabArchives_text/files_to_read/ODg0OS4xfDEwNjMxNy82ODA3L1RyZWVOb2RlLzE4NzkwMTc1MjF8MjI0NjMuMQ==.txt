@@ -1,0 +1,26 @@
+
+
+FACS sorted plates: 58, 59, 61
+
+OT2 seeded plates: 55, 56, 57, 60
+
+
+
+
+Opentron seeding
+
+  1. Fill 8 wells of 12-well reservoir with 11.5 mL cell suspension per well (250 cells per mL)
+    1. Wells 1-4: CDM4Avian medium 
+    2. Wells 5-8: HyCell CHOMP suspension medium 
+  2. Load deck as shown below  
+
+  3. Run protocol (attached below) 
+
+
+
+
+medium m10138
+
+ksr: s4605
+
+

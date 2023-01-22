@@ -1,0 +1,42 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE: https://app.shortcut.com/vowfood/epic/25607  
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recl2bUlAdrzflzAY?blocks=hide
+
+RELATED TO MILESTONE:  KR1
+
+AIM/PURPOSE: To improve throughput, accuracy and repeatability of results
+obtained using media feeds and Immunostaining runs. To free up operator time
+by running more assays using lab automation
+
+HYPOTHESIS: Biological results obtained using automated workflow are
+comparable or better than those obtained using the standard manual process
+
+RESULTS SUMMARY:
+
+  * Daily Feeds: Daily automated media changes resulted in hindered differentiation in comparison to manual media change. This is most likely due to incomplete media removal on the Opentrons, whereas manual operators can execute 100% media exchanges.
+  * Immunostaining: 
+    * (semi-)automated immunostaining yielded similar images to manually immunostained plates.
+    * No occurrence of patchy cell loss was observed in automated immunostained plates as compared to some defects in manually processed plates
+
+CONCLUSIONS:
+
+Daily feed automation is not ready to deploy until biological results
+(maturation marker detection) equals the manually processed plates. Further
+optimization is required
+
+Automated Immunostaining is ready to deploy, since it outperforms manually
+processes plates and frees up significant operator time (approx. 4h total
+hands-on time manually for 1x 96wp, 20 min hands-on time for automated
+processing = deck setup and reagent prep)
+
+NEXT STEPS:
+
+  * finalize image analysis macro and obtain quantitative data on automated vs manual immunostaining
+  * further optimization of auto-IF using PCR plates (low dead volume) and cold blocks for precious and temp.- sensitive reagents (antibodies)
+  * light block infrastructure
+  * further optimization needed for feeds
+
+

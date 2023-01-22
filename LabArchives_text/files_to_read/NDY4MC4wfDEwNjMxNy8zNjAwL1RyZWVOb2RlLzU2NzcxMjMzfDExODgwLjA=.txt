@@ -1,0 +1,335 @@
+
+
+## Feed performed by: LL  
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+NANDO 50 mL shake tubes 7695-NANDO3F-Chicken P3-1of1  
+7696-NANDO3F-Chicken P3-1of1  
+7697-NANDO3F-Chicken P3-1of1  
+7698-NANDO3F-Chicken P3-1of1  
+7699-NANDO3F-Chicken P3-1of1  
+Main lab, Incubator 116  
+  
+  
+NANDO E125 flask7700-NANDO3F-Chicken P3-1of1  
+Main lab, Incubator 81  
+  
+  
+  
+DOLLY 50 mL shake tubes7689-F_DOLLY12-Sheep P11-1of1  
+7690-F_DOLLY12-Sheep P11-1of1  
+7691-F_DOLLY12-Sheep P11-1of1  
+7692-F_DOLLY12-Sheep P11-1of1  
+7693-F_DOLLY12-Sheep P11-1of1  
+Main lab, Incubator 116  
+  
+  
+  
+DOLLY E125 flask7694-F_DOLLY12-Sheep P11-1of1  
+Main lab, Incubator 81  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted growth media as follows:
+    * 10 mL Control medium 13:52 / 14:29  
+
+    * 10 mL HyCell CHO medium 13:52 / 14:29
+    * 10 mL RPMI medium 13:52 / 14:29
+    * 10 mLCDM4 Avian medium 13:52 / 14:29
+    * 10 mL CD CHO medium 13:52 / 14:29
+    * 25 mL CDM4 Avian medium 13:24 
+    * 25 mL CD CHO medium 13:24 
+      * Added FGF, IGF-1 & PDGF-BB to all aliquots and placed in water bath (if placed in waterbath at different times, record next to aliquot)    
+
+  2. Prepared stain buffer in 15 mL tube by combining the following (1 drop of each stain solution per 1 mL of dPBS):
+    * 3 mL of dPBS 
+    * 3 drops of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+    * 3 drops of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+      * Vortexted mix for ~5 seconds, then stored in dark until ready to use.  14:04
+
+  
+E-125 flasks
+
+  1. Collected E125s from shaker, wiped with ethanol-sprayed Rediwipe, and brought into BSC
+  2. Using a 25 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  3. Pipette suspension though 70 um cell strainer into 2 x 50 mL tubes. Kept E125 vessels in BSC, as culture will be returned to this vessel after feed. 
+  4. Centrifuged 50 mL tubes at 300 x g for 5 min.   13:34 - 13:39 
+  5. Aspirated  100% (25 mL) of supernatant, taking extra care to not disrupt or aspirate pellet 
+  6. Added 25 mL of fresh, warmed growth media to each 50 mL tube
+  7. Gently pipette-mixed cultures using serelogical, before moving cell suspension back to E125s
+  8. Took 100 uL samples from each culture and pipetted into wells of a 96WP for staining. Stored plate in incubator until ready to use in OT2 protocol.
+  9. Returned E125s to incubator.  13:47 
+
+Incubator (#81), Lab [Main/Library/Production]
+
+50 mL shake tubes
+
+NANDO
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected 5 of the 50 mL shake tubes being fed from shaker (NANDO)
+  3. Centrifuged at 300 x g for 5 min. 13:55 - 14:00   
+
+  4. While tubes were centrifuging, loaded protocol linked below on computer next to OT2 and set up deck as described at calibration step
+  5. Loaded 350 uL of stain buffer into column 1 of "staining buffer" 96-well plate.
+  6. Ethanol-sprayed 5 x shake tubes and loaded on OT2 
+  7. Collected 5 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  8. Order of culture IDs in 50 mL tube rack:
+    * A1: rpmi
+    * A2: hycell
+    * A3: avian
+    * B1: control 
+    * B2: CD CHO
+  9. Calibrated for protocol 
+  10. Ran protocol  
+    1. Start time: 2:10:51 PM
+    2. End time: forgot to record
+  11. Returned vessels to incubator  14:27    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+DOLLY
+
+  1. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  2. Collected 5 of the 50 mL shake tubes being fed from shaker (DOLLY)
+  3. Centrifuged at 300 x g for 5 min. 14:29 - 14:34   
+
+  4. While tubes were centrifuging, loaded protocol linked below on computer next to OT2 and set up deck as described at calibration step
+  5. Loaded 350 uL of stain buffer into column 1 of "staining buffer" 96-well plate.
+  6. Ethanol-sprayed 5 x shake tubes and loaded on OT2 
+  7. Collected 5 x media aliquots from water bath, ethanol-sprayed, and loaded on OT2 deck. Ensured that media aliquots matched up with intended feed tubes i.e. medium in A1 of 15 mL tube rack is intended for culture in A1 of 50 mL tube rack, medium in A4 is intended for culture in B1 of 50 mL tube rack, etc. 
+  8. Order of culture IDs in 50 mL tube rack:
+    * A1: rpmi
+    * A2: hycell
+    * A3: avian
+    * B1: control 
+    * B2: CD CHO
+  9.  ~~Calibrated for protocol  ~~
+  10. Ran protocol  
+    1. Start time: 2:42:45 PM
+    2. End time: 15:00
+  11. Returned vessels to incubator  15:02    
+
+Incubator (#116), Lab [Main/Library/Production]
+
+Plate map of final culture culture ID locations in 96-WP for imaging (A1 is
+top left hand box, H12 is bottom right hand box):
+
+  *   
+  
+  
+  
+7699  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7698  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7696  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7695  
+  
+  
+  
+7691  
+  
+  
+  
+  
+  
+  
+  
+  
+7697  
+  
+  
+  
+7689  
+  
+  
+  
+  
+  
+  
+  
+  
+7694  
+  
+  
+  
+7690  
+  
+  
+  
+  
+  
+  
+  
+  
+7770  
+  
+  
+  
+7692  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+7693  
+  
+  
+  
+  
+  
+
+
+
+
+### Staining Process for cell count
+
+  1. Incubated culture in stain for 30 minutes
+    1. NANDO  14:28 - 15:02  
+
+    2. DOLLY  15:00 - 15:32   
+
+  2. Centrifuged the 96-well plate at 650 RCF for 1 minute. 
+    1. NANDO: 15:03 - 15:04 
+    2. DOLLY 15:32 - 15:33   
+
+  3. Took whole well micrographs using the Zaber microscope on blue & green fluorescence channels (DAPI & 488) 
+    * Culture ID images were stored under:  7847 (label created for trial 7 24-Aug counting)     
+
+  4. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (green fluorescent nuclei, stained with Sytox green)
+
+
+
+
+Relevant Images/Figures:
+
+Mia Image link: https://mia-
+capture.vow.tools/#/session/recj89W3xIr93qdrm/images
+
+
+
+
+### Observations/Summary:
+
+Opentron observations/issues:
+
+No issues, but need to update protocol to have staining buffer loaded on same
+plate where cells gets stained - don't need 2 plates
+
+Zaber observations/issues:
+
+1) On first imaging session, did images well by well to adjust brightness, but
+they all seemed to be relatively close to each other for exposure settings
+
+2) Noticed that on a few wells there seemed to be staining on the base or lid
+of the plate which was causing difficulty, so took plates out and wiped
+exterior with ethanol-sprayed rag before re-imaging
+
+3) Second set of images were taken in a block with the same exposure (1 block
+for NANDO labelled NANDO ALL TOGETHER, 1 block for DOLLY labelled DOLLY ALL
+TOGETHER)
+
+  
+
+  100  % media changed on vessel(s)
+
+  1. All cultures
+
+
+
+
+Growth Media/reagents:
+
+NameDetailsVolume used  
+DMEM/F12 + 10% KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF
++ 1x p/sm6328  
+5 mL  
+CDM4 Avian + 10% KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL each FGF, IGF1,
+PDGF + 1x p/sm6350  
+30 mL  
+CD CHO + 10% KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF +
+1x p/sm6325  
+30 mL  
+HyCell CHO + 10% KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL each FGF, IGF1,
+PDGF + 1x p/s  
+m6327  
+5 mL  
+RPMI + 10% KSR + 1:100 ACA + 0.1% pluronic + 100ng/mL each FGF, IGF1, PDGF +
+1x p/sm6326  
+5 mL  
+Hoechsts1651  
+5 drops  
+Sytox Greens3623  
+5 drops  
+dPBSm5923  
+5 mL  
+IGF-1m3644  
+  
+  
+PDGF-BB  
+  
+  
+FGF-Bm5077  
+  
+  
+  
+  
+
+

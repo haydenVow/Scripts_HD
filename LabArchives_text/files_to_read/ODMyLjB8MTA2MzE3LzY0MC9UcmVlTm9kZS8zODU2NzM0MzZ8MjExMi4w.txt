@@ -1,0 +1,175 @@
+
+
+Perform process using below volumes:
+
+  
+
+  
+
+
+
+
+Fixing
+
+Culture ID(s)Vessel typeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of196-well plate9  
+  
+  
+  
+
+
+
+
+
+
+D1 MuSC Prolif samples- Fix, MyoD, DAPI stain and Image 1 sample from each
+condition. Note down whether there is a good cell coverage across the
+material/scaffold surface.
+
+
+
+
+Secondary Antibody Staining
+
+  
+
+Culture ID(s)Vessel TypeNo. of wells to stain  
+6496-DOLLY12-Sheep P11-1of196-well plate9  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Aliquotted   12 mL   PBS for washing
+
+2\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+3\. Prepared Secondary Antibody mix:
+
+   1µL   Secondary #1 AF555 IgG2b  (1:1000  ) +  999 µL Blocking Buffer (PBST
+(0.1% Triton X + dPBS) + 3% BSA)  
+
+Total volume required =    1000ul
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Vortexed antibody mix for 5 seconds and stored refrigerated away from light
+until needed.
+
+4\. Prepared DAPI (1:1000) mix:
+
+ 1498.5 uL   PBS +   1.5 uL  of DAPI
+
+Vortexed DAPI mix and stored refrigerated away from light until needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer
+(Secondary)  
+MyoD (Mouse Anti-MyoD (IgG2b))IgG2bAF555 tagged to anti-mouse IgG2b
+antibody1:1000  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+10:57 - 11:02
+
+11:03 - 11:08
+
+11:09 - 11:14
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  11:20 - 12:20
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  12:26
+
+2\.  Washed with DAPI (1:1000) in PBS for 5 min at RT in the dark.
+
+12:27 - 12:32
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+12:33 - 12:38
+
+12:39 - 12:44
+
+4\.  Replaced dPBS.
+
+12:45  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+N/A
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM4442  
+dPBSA4490  
+Secondary Antibody AF555 IgG2bS1966  
+DAPI (1:1000)S2193  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recTez0v0jNcoEKny/images \- Friday,
+April 30
+
+

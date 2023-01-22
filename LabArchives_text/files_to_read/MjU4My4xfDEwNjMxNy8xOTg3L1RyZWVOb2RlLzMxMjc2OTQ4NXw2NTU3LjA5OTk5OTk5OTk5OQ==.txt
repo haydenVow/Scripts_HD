@@ -1,0 +1,444 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+  
+
+Condition 1 (Freeze thawed)  
+  
+
+Sample 1.1
+
+Sample 1.2
+
+Sample 1.3
+
+Sample 1.4
+
+Sample 1.5
+
+Sample 1.6
+
+Sample 1.7
+
+Sample 1.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)DMEM/F12 + 20% FBS + 1X P/SDMEM/F12 + 20% FBS +
+1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-BYesYesYesYesNoNoNoNo  
+Collagen coatedNoNoYesNoNoNoYesNo  
+Cells seeded in collagen solutionNoNoNoYesNoNoNoYes  
+  
+  
+
+Condition 2 (Duplicates of condition 1 - also freeze thawed)  
+  
+ Sample 2.1Sample 2.2Sample 2.3  
+Sample 2.4  
+Sample 2.5  
+Sample 2.6  
+Sample 2.7  
+Sample 2.8  
+  
+Gelatin coatedYesNoNoNoYesNoNoNo  
+Growth Media (Fed every 2 days)  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+DMEM/F12 + 20% FBS + 1X P/S + Vit C 50ug/mL + TGF-B 5ng/mL  
+  
+24 hour change over to media including Vit C and TGF-B  
+YesYesYesYesNoNoNoNo  
+Collagen coated  
+NoNoYesNoNoNoYesNo  
+Cells seeded in collagen solution  
+NoNoNoYesNoNoNoYes  
+  
+*There is a total of 16 conditions, all of which will be subjected to the freeze thaw cycle.
+
+
+
+
+
+
+Culture IDs:
+
+Vessel TypeFlasks ID(s) Freeze thaw  
+Flask ID(s) Freeze thaw duplicate  
+Media Condition  
+  
+100 mm Petri dish1.1  
+7051-F_DOLLY12-Sheep P11-1of8  
+2.1  
+7059-F_DOLLY12-Sheep P11-1of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.2  
+7052-F_DOLLY12-Sheep P11-2of8  
+2.2  
+7060-F_DOLLY12-Sheep P11-2of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.3  
+7053-F_DOLLY12-Sheep P11-3of8  
+2.3  
+7061-F_DOLLY12-Sheep P11-3of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.4  
+7054-F_DOLLY12-Sheep P11-4of8  
+2.4  
+7062-F_DOLLY12-Sheep P11-4of8  
+DMEM/F12 + 20% FBS + 1X P/S  
+  
+1.5  
+7055-F_DOLLY12-Sheep P11-5of8  
+2.5  
+7063-F_DOLLY12-Sheep P11-5of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.6  
+7056-F_DOLLY12-Sheep P11-6of8  
+2.6  
+7064-F_DOLLY12-Sheep P11-6of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.7  
+7057-F_DOLLY12-Sheep P11-7of8  
+2.7  
+7065-F_DOLLY12-Sheep P11-7of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+1.8  
+7058-F_DOLLY12-Sheep P11-8of8  
+2.8  
+7066-F_DOLLY12-Sheep P11-8of8  
+DMEM/F12 + 20% FBS + 1X P/S \+ L-ascorbic acid (50ug/mL) + TGF-B (5ng/mL)  
+  
+  
+  
+
+  
+
+  
+
+  
+
+
+
+
+Process:
+
+Condition (Freeze thaw)Pre experiment weight (g)Post experiment weight
+(g)Difference - weight of fibroblast mass (g)  
+Sample 1.119.9390  
+20.5243  
+0.5853  
+Sample 1.220.0464  
+20.7376  
+0.6912  
+Sample 1.319.9459  
+20.6525  
+0.7066  
+Sample 1.420.0423  
+23.0087  
+2.9664  
+Sample 1.519.9395  
+20.2734  
+0.3339  
+Sample 1.620.0460  
+20.2973  
+0.2513  
+Sample 1.719.944520.2590  
+0.3145  
+Sample 1.820.0470  
+20.5991  
+0.5521  
+  
+  
+
+Condition (Freeze thaw duplicate)Pre experiment weight (g)Post experiment
+weight (g)Difference - weight of fibroblast mass (g)  
+  
+Sample 2.120.0435  
+20.3456  
+0.3021  
+Sample 2.220.0433  
+20.3296  
+0.2863  
+Sample 2.319.9456  
+20.2047  
+0.2591  
+Sample 2.420.0489  
+22.7986  
+2.7497  
+Sample 2.520.0387  
+20.3422  
+0.3035  
+Sample 2.620.0469  
+20.3109  
+0.2640  
+Sample 2.719.9413  
+20.2062  
+0.2649  
+Sample 2.820.0416  
+20.9770  
+0.9354  
+  
+  
+
+
+
+
+Batch 1:    1.1 - 1.4
+
+Batch 2:    1.5 - 1.8
+
+Batch 3:    2.1 - 2.4
+
+Batch 4:    2.5 - 2.8
+
+
+
+
+Process:
+
+Preparation of decellularized fibroblast ECM scaffold sheets:
+
+1\. Remove all culture vessels from the incubator and transfer into the BSC to
+undergo the freeze thaw cycle.
+
+  1. Ensure each plate is imaged on phase prior to the freeze thaw cycle
+
+2\. Aspirate the media from each petri dish
+
+  1. Weigh each dish to obtain post experiment weight
+
+3\. Parafilm all plates to maintain sterility and transfer the petri dishes
+into the -80'C freezer for 30 minutes
+
+  1. Start/Finish time was:   Batch 1: 13:50 - 14:20    Batch 2: 14:00 - 14:30      Batch 3: 14:09 - 14:39     Batch 4: 14:17 - 14:47   
+
+4\. Aliquot 240 mL of dPBS for the rinsing of the cells following each of the
+30 minute cycles
+
+  1. Time placed in water bath   13:45   
+
+5\. Remove the petri dishes from the -80'C freezer and add 5mL of warmed dPBS
+to each dish.
+
+6\. Aspirate dPBS from each dish and return the vessels (parafilmed) to the
+-80'C freezer for another 30 minute cycle
+
+  1. Start/Finish time was:    Batch 1: 14:28 - 14:58    Batch 2: 14:37 - 15:07      Batch 3: 14:47 - 15:17     Batch 4:  14:56 - 15:26   
+
+  2. Return the dPBS aliquot to the water bath to remain warm during the 30 minute incubation time
+
+7\. Repeat steps 5-6 for one more cycle
+
+  1. Start/Finish time was:   Batch 1: 15:06 - 15:36    Batch 2: 15:15 - 15:45      Batch 3: 15:28 - 15:58     Batch 4:  15:39 - 16:09   
+
+8\. Rinse fibroblast ECM scaffolds in DMEM for 15 minutes at room temperature
+
+  1. Batch 1 & 2: 16:00 - 16:15        Batch 3 & 4: 16:17 - 16:32    
+
+9\. Repeat step 9
+
+  1.  Batch 1 & 2: 16:25 - 16:40       Batch 3 & 4: 16:38 - 16:53    
+
+9\. Leave all samples in the BSC to dry overnight with the lids lift slightly
+ajar - do not completely remove petri dish lid.
+
+  1. Time left in BSC   17:07    
+
+10\. Following the overnight dry proceed with harvesting the the most viable
+fibroblast ECM scaffolds.
+
+See continuation of experiment here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjYzMi41fDEwNjMxNy8yMDI1L1RyZWVOb2RlLzYyOTg5MTIzMnw2NjgyLjU=
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+dPBS (for thawing)A5487  
+  
+DMEM (for rinsing)  
+S2290, S969  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- All samples except the collagen seeded conditions had detached from the
+culture surface each forming small aggregates or clumps
+
+\- Fibroblast clumps were quite malleable and elastic and could be moulded
+using a small sterile spatula however cell clumps could fall apart if
+significant force was applied to them.
+
+\- In the images below that look like a fibroblast clump or where an
+aggregated mass is observable means that majority of the cells had detached
+from the surface. See the links to the microscope images to see the culture
+surface of each of the dishes.
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recs2i6beBlVzVBht/images (7051, 1.1),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recbVsknOL1PGkUHL/images (7052, 1.2),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recaXffzOvNtLjLo6/images (7053, 1.3),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recZgD2m71iuiPpig/images (7054, 1.4),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recOmsaCQCQPo61fi/images (7055, 1.5),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recuHkRZfreWsP3dF/images (7056, 1.6),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recDojmh4Vdb9zSFA/images (7057, 1.7),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recSA8OpzlEgsVCGu/images (7058, 1.8),
+Monday June 21
+
+  
+
+https://mia-capture.vow.tools/#/session/rec2tx8aNzR7xobSL/images (7059, 2.1),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recovucnLtkCu7GoV/images (7060, 2.2),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/rec1Ac1yUbriZ3fxO/images (7061, 2.3),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/rectZFuySe2F5e28l/images (7062, 2.4),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recH9y2WdeBxB8iAv/images (7063, 2.5),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/rec3G5goG9wOQvri9/images (7064, 2.6),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/rec1mHats0A1sdzOr/images (7065, 2.7),
+Monday June 21
+
+https://mia-capture.vow.tools/#/session/recsrGM7Rpz8Jrcgr/images (7066, 2.8),
+Monday June 21
+
+
+
+
+Relevant Images:
+
+  
+
+Samples 1.1 (7051)- Gelatin coated (48 hr treatment) and 1.2 (7052)- Non
+gelatin coated (48 hr treatment)
+
+Observations: Cells from these two conditions had detached completely from the
+growth surface and formed a clump of cells. The remainder of the culture
+surface had very little to no cells.  
+
+  
+
+Samples 1.3 (7053)- collagen coated (48 hr treatment) and 1.4 (7054)- collagen
+seeded (48 hr treatment)  
+
+Observations: Similar observation the previous samples. Approximately ~60%
+cell detachment seen in sample 1.3 with individual cells still growing on the
+culture surface (see microscope image link above). Collagen seeded sample
+remained adhered to the culture surface throughout the entire culturing
+process.
+
+  
+
+  
+
+Samples 1.5 (7055)- gelatin coated + continuous treatment and 1.6 (7056)- non
+gelatin coated  + continuous treatment
+
+Observations: Similar to samples 1.1 and 1.2
+
+  
+
+Samples 1.7 (7057)- collagen coated + continuous treatment and 1.8 (7058)-
+collagen seeded + continuous treatment.
+
+Observations: Sample 1.7 completely detached whereas 1.8 had partial
+detachment, however this was due to accidently dislodging the gel from the
+surface during a prior feed.
+
+  
+
+Samples 2.1 (7059)- gelatin coated + 48 hr treatment and 2.2 (7060)- non
+gelatin coated + 48 hr treatment.  
+
+Observations: Similar to 1.1 and 1.2. Very little change with respective to
+those two conditions.
+
+Samples 2.3 (7061)- collagen coated + 48 hr treatment and 2.4 (7062)- collagen
+seeded + 48 hr treatment.
+
+Observations: Similar to 1.3 and 1.4 in that sample 2.3 partially detached and
+2.4 remained adherent.
+
+Samples 2.5 (7063)- gelatin coated + continuous treatment and 2.6 (7064)- non
+gelatin coated + continuous treatment
+
+Observations: Similar to 1.1 an 1.2.
+
+Samples 2.7 (7065)- collagen coated + continuous treatment and 2.8 (7066)-
+collagen seeded + continuous treatment
+
+Observations: Full detachment from 2.7- no cells left on growth surface. 2.8
+remained adherent.
+
+

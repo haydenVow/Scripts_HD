@@ -1,0 +1,259 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: Andrew + Bec  
+
+
+
+
+Passage Culture IDs
+
+Vial ID thawedSeeded Flask ID(s)Seeded Flask Type  
+3013  
+  
+
+10358-C2C12-Mouse P3-1of4
+
+  
+T175  
+  
+3013  
+  
+  
+
+10359-C2C12-Mouse P3-2of4
+
+  
+T175  
+  
+3013  
+  
+  
+
+10360-C2C12-Mouse P3-3of4
+
+  
+T175  
+  
+3013  
+  
+  
+
+10361-C2C12-Mouse P3-4of4
+
+  
+T175  
+  
+1866  
+
+10362-BUFFY-Water Buffalo P9-1of4
+
+  
+T175  
+  
+1866  
+  
+
+10363-BUFFY-Water Buffalo P9-2of4
+
+  
+T175  
+  
+1866  
+  
+
+10364-BUFFY-Water Buffalo P9-3of4
+
+  
+T175  
+  
+1866  
+  
+
+10365-BUFFY-Water Buffalo P9-4of4
+
+  
+T175  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+0.1% gelatin solutiona7009  
+  
+Growth Mediaa10133  
+  
+p38i (20mM stock)m4663  
+  
+  
+###  
+
+  
+
+
+
+
+  
+  
+
+Prepare materials for thaw and seed:
+
+  * NOTE: IF PERFORMING A THAW FROM A CLONAL MCB_2 OR WCB_2, PREPARE AT LEAST ONE EXTRA 96 WELL PLATE FOR A DIFFERENTIATION ASSAY. THIS IS AN IMPORTANT QUALITY CONTROL STEP WHILE WE BUILD OUR CLONAL CELL BANK.
+  * Suggested layout for diff assay (please refer to previous diff assays for exact seeding, feeding and analysis procedures)  
+
+  * 
+
+1\. Gelatin coated  8  x  T175  flasks/plates with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37ºC
+
+  * Time when all flasks placed into the incubator   9:48 am 
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  *  Growth media (for seeding):   2x 120 mL 
+  * Time that aliquot was placed in the water bath to warm before use:  10 : 07 am 
+
+  
+
+
+
+
+## Thaw and seed vial - C2C12 (#3015):
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min 16:03-16:08  
+
+Location where cryovial was collected from:
+
+Vial details:  1   x  C2C12  cryovials at  1 M  cells each for a total of   1
+M cells  
+
+Brew
+
+Tower/Bucket # 3
+
+Box/Cane # 3
+
+Vial location:I8
+
+Vial ID(s):3013
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`````
+
+``
+
+`5.  Added 500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected 500 uL of cell suspension & transfer into the pre-warmed tube of
+Growth Media, discarded remaining.  
+`
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  120 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transferred  30 mL to each pre-coated  T175  flask/well, allow to rest in
+the BSC at RT for 30 min  16:18-16:48  
+`
+
+`9. Transferred flask/plate(s) to incubate at: 16:50`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+## Thaw and seed vial - BUFFY6 (#1875):
+
+3\. Collected the cryovial from Liquid Nitrogen storage & place in foam
+floater in water bath for 5 min  16:03-16:08  
+
+Location where cryovial was collected from:
+
+Vial details:  1   x  BUFFY6  cryovials at  500 K  cells each for a total of
+500 K  cells
+
+Brew
+
+Tower/Bucket # 6
+
+Box/Cane # 6
+
+Vial location: B4  
+
+Vial ID(s):1866
+
+`4. Ethanol sprayed & transferred the vial(s) to the BSC.`
+
+`5.  Added 500 µL of Growth Media (to generate a total volume of 1mL in the
+cryovial) to the cryovial, resuspended the cell suspension gently to reduce
+osmotic shock. `
+
+`6. Collected the entire 1mL of cell suspension & transfer into the pre-warmed
+tube of Growth Media. `
+
+`7. Using a 10mL serological pipette, resuspended & distributed the cells
+evenly in the  120 mL of pre-warmed Growth Media (prepared in Step 2). `
+
+`8. Transfered  30 mL to each pre-coated T175   flask/well, allow to rest in
+the BSC at RT for 30 min  16:16-16:46  
+`
+
+`9. Transfered flask/plate(s) to incubate at: 16:50`
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+Making labels
+
+Note - You will need to increase the passage number by one. (i.e. if your
+thawed vial ID has a passage number of 3, when you make a culture ID for you
+vessel you will need change the passage number to 4 on Airtable.)
+
+  
+
+
+
+
+SOPs used:
+
+  * Thaw/Revival Template_V3
+
+  
+
+Summary:
+
+  
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

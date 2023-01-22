@@ -1,0 +1,86 @@
+
+
+## Completed by: Bec Screnci  
+
+
+
+
+Images run through new DAPI macro on Mia (Vow tool found on Retool):
+
+  
+
+Note* many inaccuracies were noticed for this specific macro, and the
+suspension DAPI macro was deemed more suitable by Addy, Adrian and Alex Ward,
+therefore the suspension macro was used to re-analyse the images for more
+accurate DAPI counts.
+
+
+
+
+Results compiled and added to GSheet:
+
+https://docs.google.com/spreadsheets/d/1v7-uTpgl68h8RslErz3P0DZlu-E0E4-j982i5infSBs/edit#gid=322980006
+
+
+
+
+Raw data transported to GraphPad (Prism 8) to generate Mean and Std Dev.
+values for all graphs.
+
+ Graph 1. Line graph plotting mean cell count values across 10 days after
+differentiation for each cell line (in E6 and 2% HS). Std. dev. shown with
+error bars for each data point. N = 8 for each data point.
+
+
+
+
+
+
+  
+Graph 2. Plot graph of mean cell counts per well across 10 days of
+differentiation for DOLLY12 cells in E6 and 2% HS Differentiation Media. Error
+bars show standard deviation. n = 8 for each data point.
+
+
+
+Graph 3. Plot graph of mean cell counts per well across 10 days of
+differentiation for DAISY4 cells in E6 and 2% HS differentiation media. Error
+bars show standard deviation. N = 8 for each data point
+
+  
+
+Graph 4. Plot graph of mean cell counts per well across 10 days of
+differentiation for BUFFY6 cells in E6 and 2% HS differentiation media. Error
+bars show standard deviation. N = 8 for each data point
+
+  
+Graph 5. Plot graph of mean cell counts per well across 10 days of
+differentiation for C2C12 cells in E6 and 2% HS differentiation media. Error
+bars show standard deviation. N = 8 for each data point.
+
+
+
+
+
+
+
+
+
+
+ Graph 6. Plot graph comparing the normalised cell counts of C2C12 and DOLLY12
+cells across 10 days of differentiation, each in E6 and 2% HS differentiation
+media. Error bars show standard deviation. N = 8 for each data point.
+
+
+
+
+
+
+Graph 7. Plot graph comparing the normalised cell counts for all primary cell
+lines across 10 days of differentiation, each in E6 and 2% HS differentiation
+media. All values normalised to Day 0 mean for that condition. Error bars show
+standard deviation. N = 8 for each data point.
+
+
+
+

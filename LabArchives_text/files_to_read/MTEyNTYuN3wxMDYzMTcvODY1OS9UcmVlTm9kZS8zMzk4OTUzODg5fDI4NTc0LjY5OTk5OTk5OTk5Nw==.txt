@@ -1,0 +1,137 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+E2000600 mL  
+12650  
+  
+E5000139912684Expansion 146 - shaker incubator  
+  
+  
+E500  
+135.45 mL 12589  
+  
+  
+E5000  
+139912685Expansion  
+146 - shaker incubator  
+  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+  
+  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Cell Counts:
+
+  1. Cell counts with the Vicell was performed at 10:00am:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1256012589  
+Performed byJDJD  
+Total volume of the suspension culture600mL  
+134.9 mL  
+  
+Volume of sample taken from the cell count 1100uL550 uL  
+Timestamp of the cell count09:5409:54  
+  
+Results  
+  
+  
+Cell count viable (cells / mL)= 4.55 x 10^61.07 x 10^6  
+  
+% viability99.7%99.7%  
+Total cell count in the suspension culture 2,724,995,000  
+143,754,500  
+  
+
+cells from flask 12560 and 12589 were combined and spun down for 5 mins.
+
+supernatant removed and resuspended in 25 mL.
+
+cells were mixed in 2x roller bottles with a total of 1400mL each
+
+  
+
+  
+
+  1. A second cell count was performed at 20:33:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture ID  
+  
+1268412685  
+Performed byJDJD  
+Total volume of the suspension culture1399mL1399mL  
+  
+Volume of sample taken from the cell count1mL1mL  
+Timestamp of the cell count20:3320:33  
+  
+Results  
+  
+  
+Cell count viable (cells / mL)= 0.474 x 10^60.450 x 10^6  
+  
+% viability99.8 %99.1%  
+Total cell count in the suspension culture 663,126,000  
+629,550,000  
+  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+  
+
+  
+
+
+
+
+## Summary/ Results
+
+447 million cells were expanded from 1 x E500 flask into 1 x E2000 flask
+
+  
+
+Seed flask 12650 details:
+
+  * Seeding density: 0.745 x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  600 mL
+  * Flask size: E2000  (flat bottom / baffled)
+  * Refer to summary table above
+
+  
+  
+
+

@@ -1,0 +1,30 @@
+Summary of optimisations and learnings from first round of water run
+
+
+The following observations and optimisations were made throughout the water
+run:
+
+Observation/Issue
+
+Fix
+
+Was the issue fixed?  
+  
+Volume was being aspirated from reagent reservoir incorrectly with multiple
+air pockets.Adjust aspiration height from "default" height to 1.5mm from
+bottomYes  
+Dye wasnt washed out after 3 x PBS washes  
+Implement 5 x PBS washes as a standard across all washing steps during ELISA
+and Janus Green  
+Yes  
+Small amounts of volume in pipette tip remain after dispensingIntroduce
+blowout as standard across all steps Mostly, a very small amount of volume
+still remains after blowout  
+Volume of dye ("antibody") in wells not being fully aspirated  
+Increase amount of washing or lower aspiration height  
+Lowering aspiration height from 1.5mm above wells is risky. By doing so, it
+may result in uneven volume transfer. Hence, it was observed that after 5
+washes, resulting liquid was clear and no trace of Allura Red could be visibly
+seen. Thus, increasing PBS washes is the recommended fix.
+
+

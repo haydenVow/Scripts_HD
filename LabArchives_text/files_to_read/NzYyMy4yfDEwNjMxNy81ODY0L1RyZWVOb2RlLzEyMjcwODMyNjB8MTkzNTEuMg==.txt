@@ -1,0 +1,122 @@
+
+
+Dec 8
+
+Attendees: Alex, Kylie, Eva, Chris
+
+Ben Crosset (USYD)
+
+Dr Ben Crossett | Associate Director
+
+The University of Sydney
+
+DVC Research, Sydney Mass Spectrometry  
+  
+Office 4110, The Hub D17 | The University of Sydney | NSW | 2006  
++61 2 9351 6010  
+ben.crossett@sydney.edu.au  |  sydney.edu.au/mass-spectrometry
+
+
+
+
+## Techniques used and how to choose:
+
+\--> we basically are running both because our problem is so novel for Ben (he
+is used to cancer metabolomics etc where there is an established pipeline)
+
+  1. EmPAI: faster process (PD package easier to train and understand?)
+  2. iBAQ used MaxQuant package commonly (open Source software)
+
+##  
+
+## Sample Submission
+
+in future include info on sample (breed of sheep, sex etc)
+
+some tissue was fatty
+
+##  
+
+## Sample Prep:
+
+Ben runs a Total Protein Assay first to dial in mass to load (~1 ug)
+
+\-->  let`s find that data and plot it (see below)
+
+Trypsin needs to be added to digest sample (chop them into smaller peptides
+that ionize more easily and can be detected on the MS), but peak can be
+filtered out.
+
+Same for Asporin? (didn`t quite hear the name)
+
+Efficiency of extraction process: we might only be capturing water-soluble
+proteins with the protocol used, very hydrophobic peptides may have been
+filtered out. However, due to the digest, we may be able to detect the
+hydrophilic components of more hydrophobic proteins. This is also the reason
+why we don`t see ECM proteins as much, .e.g. Collagen and tropoelastin are
+hard to digest and may not make it into the pipeline.
+
+BSA SST = System Suitability test (tells us if the sample was at fault for a
+flatline trace or if the instrument. played up)
+
+##  
+
+## Analysis
+
+  1. A species-specific database is used in addition to other Db (refSeq,UniqPro) to map to enzymes/proteins used. However when we remapped the C2C12 sample against the correct species a similar number of proteins was found, indicating that basic biology is similar across species.
+  2. Some sample proteins are classified as contaminants, e.g. Actin. We can filter to remove all contaminants (as long as relevant proteins are also classified as sample as was the case for Actin).
+  3. Match accession number with biological protein name
+  4. can also filter to protein classifications (protein groups)
+
+##  
+
+## Lipidomics
+
+  1. still working on processing pipeline, initially underloaded
+  2. organic solvent (Butanol) extraction works well for cell lines, but not great for tissue. Chloroform/Methanol might be the way to go in future. Easier extraction and straight into MassSpec from the organic phase
+  3. Analysis tricky, can do several levels of query, e.g. LEVEL1 = Triglyceride --> LEVEL 2 = C18 -->  LEVEL 3 = saturation level. This means 10 possible names could be matched to a peak, so calling a exact lipid is hard
+
+
+
+
+Sample
+
+Wet Weight Taken (mg)Urea/Thiourea added (uL)Homogenisation method  
+P006 Sheep Myoblast25.5255Tip Probe  
+P007 Sheep fibroblast grown on roller bottles26.0260Tip Probe  
+P008 Sheep fibroblast grown on planar culture21.0210Tip Probe  
+  
+P009 Water buffalo myoblast28.3283Tip Probe  
+  
+P010 Cow myoblast32.4324Tip Probe  
+  
+P011 Mouse myoblast26.3263Tip Probe  
+  
+P012 Crocodile fibroblast grown on planar culture 65.9660Tip Probe  
+  
+P013 Crocodile fibroblast grown on roller bottles 20.3203Tip Probe  
+  
+P014 Store bought Impossible patty 97.11000Tip Probe  
+  
+P015 Store bought Crocodile tail fillet tissue 115.51000Hand held homogoniser
++ tip probe  
+  
+  
+
+SampleReadingConcentration (mg/ml)Total protein (in 100uL) (ug)Volume of 100ug
+(uL)Volume U\TU added2nd QUBIT (post digest) ug in 30uL)  
+0063.510.7070.0100056  
+00723.304.88488208071  
+00812.602.52252406069  
+0097.471.49149673336  
+0104.640.9393.0100046  
+01115.303.05305336740  
+0124.300.8686100036  
+0134.210.8484.0100035  
+01413.62.72272376351  
+01521.84.374372377146
+
+
+
+
+

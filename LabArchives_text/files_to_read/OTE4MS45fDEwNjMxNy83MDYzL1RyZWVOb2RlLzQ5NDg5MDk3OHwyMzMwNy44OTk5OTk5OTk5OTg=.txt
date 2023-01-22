@@ -1,0 +1,130 @@
+Aim
+
+
+To encourage muscle cells to produce carnosine by supplementing media with
+B-alanine.
+
+
+Introduction
+
+
+Carnosine is an abundant histidine-containing dipeptide in human skeletal
+muscle and formed by beta-alanine and L-histidine. It has long been known that
+carnosine helps reduce damaging protein glycation in the body, as well as
+having other potentially  beneficial effects. For example, carnosine has
+excellent antioxidant properties. It can greatly reduce damage from the highly
+reactive oxygen free radicals that are produced from the out-of-control
+oxidation of lipids and sugar that can occur in Metabolic Syndromes and
+diabetes.  
+  
+Synthesis of carnosine appears to be limited by the availability of beta-
+alanine, which itself is synthesised within the body or obtained from the diet
+(Perim et al.,). The main dietary sources of beta-alanine are meat and fish
+containing carnosine and its methylated derivatives. Daily ingestion of
+carnosine and related peptides in current human diets ranges from <50 to
+>4000mg for those consuming vegetarian and very high meat-content diets [1].
+Chronic oral supplementation of beta-alanine has been shown to increase
+skeletal muscle carnosine content by up to 200% (16).  
+  
+  
+
+
+Hypothesis
+
+
+B-alanine supplementation will promote the production of carnosine in BUFFY
+cells.
+
+
+Protocol and timeline
+
+
+Overview:
+
+  * B-alanine will be added to differentiation media across (4 concentrations see below) with the absence of B-alanine supplementation as a negative control.
+  * Both E6 and DMEM/F12 + 2% HS + 1X P/S will be assessed (2% HS media as a form of positive control and to keep consistent with literature).
+  * Cultures will be expanded till confluent, then switched to respective conditioned media
+  * Conditions will be differentiated for 6 days then harvested on the 7th day.
+  * Cells will be assessed for carnosine content via colorimetiric assay (see next experimental plan)  
+  
+
+  
+  
+  
+Figure 1: Respective  culture conditions featuring B-alanine supplementation
+of E6 and 2% HS containing differentiation media at various concentrations.  
+  
+  
+
+DayDateTask  
+Day - 3  
+
+  * Thaw 6 x BUFFY6 MuSCs at 540k cells each 
+  * Seed 10 x T175 flasks at 28.9K cells per flask (1650 cells per cm2)
+
+  
+Day -2  
+
+  * 100% feed 10 x T175 flasks with GM (DMEM/F12 + 20% FBS + 1X P/S)
+
+  
+Day -1  
+
+  * Prepare 200mL of diff media (E6 and 2% HS) for each concentration. (200mL x 5 concentrations = 1L of E6, 1L of 2% HS)
+
+  
+Day 0  
+
+  * Switch all cultures to diff media
+
+  
+Day 1  
+
+  * 100% feed with diff media
+
+  
+Day 2  
+
+  * 100% feed with diff media
+
+  
+Day 3  
+
+  * 100% feed with diff media
+
+  
+Day 4  
+
+  * 100% feed with diff media
+
+  
+Day 5  
+
+  * 100% feed with diff media
+
+  
+Day 6  
+
+  * 100% feed with diff media
+
+  
+Day 7  
+
+  * Harvest each culture seperately, perform cell count and perform carnosine quantification protocol (see next experimental plan).
+
+  
+  
+Concentrations derived from: Santos et al., 2021  
+
+Concentration (umol/L)Mass of B-alanine to add to media (mg)Volume of media
+(mL)  
+3506.2365200  
+70012.473200  
+90016.0368200  
+140024.9461200  
+  
+  
+
+  
+
+

@@ -1,0 +1,203 @@
+
+
+What is the cell availability team doing?
+
+Essentially, the cell availability team is concerned with:
+
+  1. Pushing the limits on how many doublings our clones can expand.
+  2. Get closer to achieving an immortal cell line through single cell cloning (SCC) so we one day can have a non-exhaustive supply of cells.
+  3. Optimising how they work with microcarriers to fully realise their proliferative potential.
+
+The start of the journey - Single Cell Cloning (SCC) and the Machine Learning
+Model
+
+The chronological pipeline for the cell availability team is:
+
+Thaw out a MuSC WCB_1 of a particular MuSC cell line and expand it on
+microcarriers and/or planar culture to generate 1 million cells (enough for
+SCC at Garvan). We then take our cells to Garvan for single cell sorting. The
+operator uses a FACS sorter (flow cytometry) to place a single cell into each
+well in a 384 well plate and then we take this back to Vow. Each cell in each
+well is now an individual clonal population. Each cell in each well doubles
+(at different rates) and produces identical copies of the parent - we call
+these populations clones.
+
+So now each well is a homogenous clonal population. We want to know which are
+the best clonal populations (i.e. the ones that look and grow the best), so we
+image each well using the Zaber over 4 days. At the end of the four days, the
+machine learning model developed by Derek sorts through the images for each
+well and chooses the best clones. The best clones are the wells in the 384
+well plate with the most cells and the best cell morphologies.
+
+We make a shortlist of which wells had the best clones and then passage the
+best clones from the 384 well plate into a 96 well plate. We do the same
+sorting and imaging process for the best clones in the 96 well plate and
+passage into a 24 well plate. We passage into more restrictive vessels as we
+become more selective about our clones, until we have one or two really strong
+clones, that we're confident will not senesce in our rigorous expansion
+process on microcarriers (in which they pass the Hayflick limit).
+
+The expansion process:
+
+Now that we have a good clone or two, we can expand it enough to bank down
+into an MCB, which in this case we call an MCB_2 (an MCB banked down after
+SCC). Once we have banked down an MCB_2 we can now put our clone through a
+rigorous expansion process on microcarriers - in order to bank down a WCB_2.
+We might start by thawing out the clone into T-flasks, but at some stage we
+will passage into microcarrier culture. Then, we bank down a WCB_2 derived
+from planar culture but more importantly microcarrier culture (the idea here
+is to have microcarrier adapted clones as early on in the process as
+possible).
+
+Achieving 10x doublings:
+
+At this point we have a WCB_2 of our good (and hopefully healthy) clone of
+interest. Now, we conduct a second expansion process on microcarriers to
+achieve 10 doublings of the clone on microcarriers. We do this by seed train
+in increasingly bigger and bigger vessels (keep in mind, the last 2 of these
+doublings has to happen on the Biostat A):
+
+E125 a E250 a E500 a E2000 (or Biostat A)
+
+How do we actually monitor the doublings? We analyse the culture at different
+time points throughout the seed train and use FIJI + MIA Capture to get an
+estimate of the total cells in culture at a particular point. More on this
+below.
+
+Vow's microcarrier work:
+
+  1. Basic theory, context and challenges
+
+Microcarriers are essentially tiny beads we have our cells stick onto and
+proliferate on to grow mass numbers. Why would we use microcarriers when we
+can use 30 x 10CS's? It's more efficient to proliferate cells on microcarriers
+as it's shape allows more surface area available for cells to grow on rather
+than planar cultureware like 4CFs etc. As microcarriers have a higher
+SA/Volume ratio available than planar vessels, the potential to grow mass
+numbers of cells is huge. In the past, Tom and Nathan have worked hard to
+narrow down the best microcarrier for our cells to seed and grow on to be
+Cytodex 1 which are positively charged beads with an affinity to our
+negatively charged cells. Cytodex 1 is great for seeding our cells on (we've
+shown high seeding efficiencies in the past), the primary problem for some
+time has been getting the cells we've worked hard to grow - off the beads
+(i.e. harvesting our cells). Recently, we've taken care of the issue of
+detachment by using higher shake speeds and Trypsin as our detachment enzyme.
+Moreover, Taipan allows us to aspirate the cells once they're detached before
+they can settle and seed back onto the carriers. As a result, we've had really
+good harvests using Taipan (better than ever before) - hopefully making
+microcarriers a viable choice to implement into Production once again.
+
+  1. Seeding
+
+Seeding cells onto microcarriers is as simple as dispensing the cell
+suspension into an equilibrated E flask full of microcarriers (see Point 6).
+In the past, we've used intermittent shaking to high success as we've had even
+and high seeding. Recently, we've had some issues with not being able to do
+intermittent shaking for seeding due to other project streams needing the
+shakers at the same time. Hence, we've adapted to have continuous shaking
+during seeding. This just means keeping our E-flask shaking continuously at a
+specific RPM (e.g. 110 RPM).
+
+  1. Basic feeds
+
+Media changes is the same concept as in planar vessels. Take 50% of the media
+out, put 50% fresh media in. With E-flasks, the most important thing is to
+make sure the carriers settle to the bottom and pellet so you can aspirate the
+desired volume of media (the supernatant in this case). This way you don't
+suck up any carriers with cells on them and only aspirate the media. I find
+that using a 10mL serological for E125s and E250s minimises the chance of this
+happening. Keep in mind that your aspiration speed should be on the lowest
+setting. Essentially treat your microcarrier layer like a cell pellet and you
+can't go wrong.
+
+  1. Sampling, staining, imaging cultures
+
+At some point during proliferation or before a harvest, we essentially want to
+know how many cells are on our carriers at a given time point (i.e. how
+confluent is our culture?). We can find out by doing a sample and stain of our
+culture. The basic concept is: take a certain uL of culture out into a well
+plate, add PBS and make sure you have a monolayer of microcarriers at the base
+of the well (this can be finnicky - ask me or Nathan on how to do this). We
+checked to see if we have a monolayer by examining the well under the Primo -
+if you have carriers bunching together and not forming a nice monolayer, mix
+gently using a P200. Our stain is Hoescht, so we add 2uL and mix well with the
+P200 so it stains evenly - then we incubate for ~ 20 mins in the dark. The
+most important thing in this whole process is not to form bubbles when
+adding/mixing liquids to our well plate. The presence of bubbles seems to push
+all the carriers together and not forming a nice monolayer. Once incubation is
+done, we image on the Axio (or Zaber) using PHASE and DAPI channels at the
+same positions (important). We want one PHASE and one DAPI image per position
+on our well plate (this is important for MIA/FIJI analysis). To get a great
+DAPI image we want the cells to be prominent, but not so prominent that they
+glow and light up the edges of the carrier they are on. Furthermore, we want
+our background to be as dark as possible in order for the FIJI macro to pick
+up a contrasted cell. A sample and stain is usually done a day after seeding
+to determine how successful the seeding event was, and also before and after
+harvesting to gather how successful the harvest was.
+
+  1. MIA analysis (Nathan to cover)
+
+Using the macro Nathan has developed, we can use the images we took in our
+sample and stain to get an estimate on how many cells per carrier there
+currently is in our culture. Nathan is the best person to explain the
+intricacies of this macro, but in a nutshell it uses a circle counter to count
+the carriers in our PHASE image. Then it counts the fluorescing cells in our
+corresponding DAPI image and overlays this on the outlined carriers which then
+ultimately gives us our cells/carrier.
+
+  1. Harvests
+
+The workflow of a harvest is the same as planarware. Get rid of the media,
+wash to remove as much serum as possible, add detachment agent, monitor
+detachment, and neutralise when ready. After this point, collect suspension
+into centrifuge tubes and spin down. We use pluronic to protect the cells at
+high shake speeds and to dissipate the charge interaction between cells and
+the carriers. Currently this is in the form of Poloxamer 188 which we add to
+all aliquots.
+
+The difference when working with E-Flasks:
+
+  * When aspirating any supernatant, wait for the carriers to settle (washes before Trypsin)
+  * Instead of Tryple we use Trypsin/EDTA as our detachment reagent
+  * Add Poloxamer188 to all aliquots at 1%.
+  * We use an equal amount of Growth Media to neutralise Trypsin instead of PBS.
+  * We use Taipan to aspirate supernatant after detachment.
+  * Suspend your empty carriers in PBS after harvest so you can sample and stain (post-mortem)
+
+
+
+  1. Equilibrating carriers
+
+Microcarriers in a sense, need to get adjusted to the environment they're in.
+In this case, when setting up cultures we suspend our fresh carriers from PBS
+into Growth Media and let it equilibrate for a minimum of 2 hours before
+using. We also don't want to over-equilibrate our carriers so they must be
+used within a day or two ideally before seeding.
+
+  1. Setting up cultures
+
+How do we go from an empty E-flask to having a culture with cells? First we
+add in microcarriers from a stock solution (usually 20g/L) into our E-flask
+and wash and suspend in growth media till the working volume. We want our
+carriers to be in a specific concentration in our flasks in order to get cells
+on all carriers. This concentration is 4.5 mg/mL. So how do we go from a stock
+20g/L solution of Cytodex 1 to an E-flask with carriers in growth media at 4.5
+mg/mL?
+
+
+
+Let's say we wanted to equilibrate an E125 which has a working volume of 30mL
+
+C1*V1 = C2*V2
+
+20mg/mL * V1 = 4.5 mg/mL * 30mL
+
+V1 = (4.5*30)/20
+
+= 6.75mL
+
+So we need 6.75mL of our stock solution.
+
+
+
+

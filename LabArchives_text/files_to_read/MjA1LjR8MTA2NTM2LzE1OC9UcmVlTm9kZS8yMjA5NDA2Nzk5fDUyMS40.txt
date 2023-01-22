@@ -1,0 +1,167 @@
+
+
+# Thaw 1 vial into 4 x 96 well plate and 1 x T75  
+
+* * *
+
+Date: 12/7/2021  
+Start time: 18:00  
+End time: 19:45  
+
+* * *
+
+Culture IDs
+
+Thawed Vial IDsSeeded Culture IDs  
+2339-Culture-6303-Vial-60of115  
+7365-DOLLY12-Sheep P8-1of4  
+7366-DOLLY12-Sheep P8-2of4  
+7367-DOLLY12-Sheep P8-3of4  
+7368-DOLLY12-Sheep P8-4of4  
+7369-DOLLY12-Sheep P8-1of1  
+  
+  
+  
+
+* * *
+
+Procedure
+
+Perform thaw using below volumes:
+
+                                                                       
+
+### Note: Fibroblasts do NOT require Gelatin coated Flasks, and do NOT require
+p38i.
+
+  
+
+  1. Extract required growth media into aliquots as listed in the table above and place into a heated 37C water bath for 20 minutes.   
+Time in water bath: 18:00pm  
+
+  2. Select the vial/s for thawing. Note the location of the vial in Liquid Nitrogen(LN) Dewer.  
+Path: Stockyard v1 > Frozen Cultures > Select Vial/s (Use highest number
+first, ie 62of62)  
+Number of Vials for thawing: 1  
+Dewer: brew  
+Frozen Culture ID/s: 2339  
+Tower #: 2  
+Box #: 2  
+Position #: G6  
+
+  3. Obtain selected number of cryovial/s from LN Dewar and thaw in the 37'C water bath on a foam floater for a maximum of 5 minutes.  
+*NOTE: Ensure to wear PPE and work swiftly whilst performing this this task. Ensure to wear cryogloves and face shield when handling the liquid nitrogen dewar. Ask a Vowzer for help if required.  
+`Time stamp`: 18:31-18:36pm  
+
+  4. Spray and wipe the cryovial and growth media thoroughly with 70% EtOH and transfer into the Biohazard Safety Cabinet (BSC).
+  5. Slowly add 500uL of growth media into the/each vial. This will produce a total of 1mL cell suspension per vial.
+  6. Resuspend the cells gently and transfer all contents from the vial to the bottom of a 50mL falcon tube. *NOTE: Dispensing suspension of cells on the sides of the tube will risk loss of cells in Step 11.
+  7. Add an additional 500uL of growth media to each vial to collect remaining cells and add into the centrifuge tube. A total of 1.5mL will be in each vial.
+  8. Resuspend cells thoroughly and immediately extract 50uL into a microcentrifuge tube.
+  9. Perform cell count (Refer to VSOP-007) from collected sample and use the Cell Counting Spreadsheet  to enter data.
+
+  
+Seeding DataCount 1Count 2  
+Total suspension volume1.1mL  
+  
+  
+  
+Extracted volume from total suspension50uL  
+  
+  
+  
+Volume from suspension aliquot  
+20uL  
+20uL  
+  
+Volume of 4%Trypan blue  
+20uL  
+20uL  
+  
+Dilution factor  
+2  
+2  
+  
+Total cell count  
+  
+  
+  
+Dead cell count  
+158,400  
+149,600  
+  
+Live cell count  
+1,042,800  
+919,600  
+  
+Average Cell Count981,200  
+  
+  
+  
+Seeding density7,000 cells/cm2  
+  
+  
+  
+Cells seeded/flask  
+  
+  
+  
+  
+11.Prepare 4 mL of media+cells per condition type to seed a concentration of
+7000 cells/cm2 for a column each (not including bottom and top rows, i.e. 6
+wells) in 4 x 96-well plates. (i.e. 16,000 cells/mL or 64,000 cells per 4mL).  
+Conditions tested:  
+1\. In house media lot 1 + 10% FBS + 1% P/S  
+2\. In house media lot 2 + 10% FBS + 1% P/S  
+3\. Commercial media + 10% FBS + 1% P/S  
+4\. Freeze-thawed  commercial media + 10% FBS + 1% P/S  
+  
+12\. Seed 140ul/condition into each required well as follows for a total of 4
+plates:
+
+13\. Transfer the pre-warmed flasks from the 37C incubator into the BSC.  
+14\. Seed remaining cells into a T75 flask. Density: 8480 cells/cm2  
+14\. Add required volume of growth media to each flask, ensuring the entire
+surface is coated. Use the 'Bec Drop' to lay down the flasks.``
+
+15\. Transfer and incubate overnight at 37C.  
+`Time of incubation` : T75 (19:27), 96wellplate (19:31)  
+
+Incubation Conditions:
+
+        [X]  37ºC, 5% CO2 (mammalian cells)  
+        [  ]  40ºC, 5% CO2 (avian cells)
+
+Incubator:  
+        [X]  Top Left Binder Incubator  
+        [  ]  Bottom Left Binder Incubator  
+        [  ]  Top Right Binder Incubator  
+        [  ]  Bottom Right Binder Incubator
+
+  
+
+  
+
+If seeding fromThen...Incubation Conditions (mammalian cells)  
+VialIncubate overnight before a 50% change the day after seeding37'C, 5% CO2  
+FlaskIncubate for 72 hrs before a 50% change (or passage) is required  
+37'C, 5% CO2  
+  
+  
+#  
+
+# References
+
+Referenced Method: Section 6 under VSOP-001
+
+Cell Counting SOP: VSOP-007
+
+Cell Counting Spreadsheet v2:
+https://docs.google.com/spreadsheets/d/1jQXPGFq-6xJwA8WL-
+UyYJmaMj4v29AW1gxPbCe2Jsc8/edit#gid=1536445053
+
+  
+
+  
+
+

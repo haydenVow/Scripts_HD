@@ -1,0 +1,102 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplem5076  
+dPBS (for washing & neutralising)a5618  
+Growth Media (DMEM/F12 + 10% FBS + 1xP/S) a6189  
+  
+  
+
+
+
+
+### Process:
+
+Below is information of the passage process. Refer to this when performing the
+passage, however input data and timestamps into the widget.
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Gelatin coated  vessel with sterile filtered 0.1% gelatin solution and
+then incubated all coated flasks at 37˚C.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:  
+  2.  dPBS (for washing 
+  3. dPBS (for neutralising)
+  4. Growth media (for pellet resuspension)
+  5. Growth media (for seeding)
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added  tryple to each vessel/well and incubated at 37˚C for 10 minutes.
+Check flask under the microscope to see if cells have detached or need more
+time in tryple.
+
+7\. Neutralised with  dPBS and combined cell suspension into a tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in media
+
+11\. Aliquoted resuspended cells into a microcentrifuge tube for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet':
+
+  1. Recorded total cell number was
+  2. Determined volume of cell suspension required for subculture was
+  3. Recorded cell density per vessel
+
+13\. Transferred  cell suspension to the pre-warmed  Growth media
+
+14\. Transferred cell suspension into the pre-gelatin coated  vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle
+
+16\. Transferred vessel(s) to incubator
+
+  
+
+SUMMARY
+
+DOLLY12 fibroblasts in D/F + 10%FBS + 1x P/S were used for seeding:
+
+  * 12x 10cm plates at 7000 cells/cm^2
+  * 1x T175 flask at 7000 cells/cm^2 (for continuous culture)  
+
+  * 1x 384 wp at approx 8000 cells/cm^2 (50 uL/well) (in case we want to try cell tracker green staining or OT2 passaging protocols)
+  *   *   
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

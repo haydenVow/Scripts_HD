@@ -1,0 +1,557 @@
+Author: Ella Hodder
+
+
+Clubhouse Link: https://app.clubhouse.io/vowfood/epic/21458/dolly12-cells-in-
+fibrin-gels-cultured-on-conical-inserts-anchor-
+points?cf_workflow=500000005&ct_workflow=all
+
+
+Aim/purpose
+
+
+To stimulate differentiation and alignment through passive mechanical
+stimulation using DOLLY12 cells encapsulated in fibrin gels on 3D printed
+anchor point or conical shaped constructs.
+
+
+Hypothesis
+
+
+DOLLY12 cells will survive the fibrin encapsulation process and demonstrate
+elongation and alignment between the anchor points/around the conical inserts
+inserted in the gel.  
+  
+  
+
+
+Technical Gap/Background
+
+
+In the paper by Kaplan and Simsa et al., 2019 3D printed inserts were
+succesfully implemented to direct bovine muscle satellite cell (BSC) alignment
+within fibrin hydrogels to generate bioarticficial muscles (BAMs) between 3D
+printed anchor point constructs (see Fig.1).  
+  
+In a previous experiment at Vow we confirmed MuSC survival following cell
+encapsulation in a 3% alginate hydrogel. Following on from this finding, we
+tested 3D printed anchor point inserts (generated based on the Kaplan inserts)
+with MuSCs encapsulated in an alginate hydrogel (see here). However, in the
+alginate anchor point study we did not see evidence of cell migration or
+alignment within the gel. Subsequently, it was theorised that the alginate gel
+was not a compatible material for encapsulated MuSC culture, and that this was
+most likely due to the inherent negative charge and a lack of active binding
+sites on alginate.
+
+Mosa Meats recently suggested a potential architecture for a scalable
+maturation bioreactor based on passive mechanical stimulation. Similar to
+above, cells are embedded in a gel matrix, seeded in a circular trough and
+cultured until cells fuse into myotubes. Upon contracting, the resulting
+circular muscle precursor can evade excessive mechanical stress by wandering
+up a cone shaped well, with the cone angle dictating the amount of passive
+stress exerted on the cells.  
+  
+However, thus far, we have not attempted to culture MuSCs in a fibrin gel,
+neither have we implemented anchor point based culture in combination with
+cells in fibrin. Consequently, we are interested to see whether our MuSCs will
+be able to survive, migrate, align and mature between 3D printed anchor points
+when encapsulated within a fibrin hydrogel.  
+  
+Notes  
+  
+In order to replicate the Kaplan study I have adjusted the protocol from the
+Kaplan and Simsa et al., 2019 paper (section 2.3. 3D BAM Formation). See my
+adjusted method in the experimental plan below.  
+  
+How does the fibrin gel work?
+
+The fibrin gels prepared by Kaplan and Simsa were made up of the following
+components: fibrinogen, calcium chloride, thrombin and aminocaproic acid
+(ACA).  
+  
+The principle of the gels was as follows:
+
+Fibrinogen is a soluble blood plasma protein (one of 13 coagulation factors
+responsible for normal blood clotting). Thrombin (a clotting enzyme) was added
+to the mix in order to convert the fibronogen material into a tough fibrin gel
+(to set the gel). Wherein, in it's native state in the body fibrin forms blood
+clots that assist in wound healing.
+
+Calcium chloride was added to the gels to assist the conversion to fibrin by
+providing calcium for the calcium binding/thrombin cleavage reaction (the
+process by which fibrin is covalently cross-linked to become fibrinogen).
+
+Lastly, ACA is is an antidote to fibrinolytic agents. Thus, ACA was added into
+the gel mix and the growth media to prevent the fibrin gel from
+lysing/degrading overtime.  
+  
+  
+
+Figure 1 Bioartificial muscle constructs produced by Kaplan & Simsa et al.,
+2019 in fibrin hydrogels using 3D printed anchor point inserts
+
+
+Method
+
+
+Brief summation:
+
+We will prepare cell-laden and cell free fibrin gels with or without the
+addition of conical inserts or anchor points inserts (added into the gels
+before setting). Subsequently, we will observe the samples, to assess for cell
+migration/alignment over 14 days. We will try to image cells in well using
+light microscopy (transparent gels). However, if we cannot see the cells we
+will stain the samples with CMFDA live cell tracker at progressive timpoints
+throughout the study (non destructive sampling, i.e. we will keep cells in
+culture after imaging). On day 14 in diff media we will measure the thickness
+and width of the samples with digital calipers while still on the construct,
+then remove samples from the inserts and weigh them. Lastly the samples will
+be primary and secondary stained for MyoG and MF20 (and also DAPI stained) and
+imaged.  
+  
+  
+Samples  
+  
+n=3 of cell-laden samples on anchor point inserts  
+n=3 cell laden samples on conical inserts
+
+n=3 cell laden samples (no inserts)  
+n=3 cell-free samples (no inserts)
+
+= 9 cell laden samples
+
+= 3 cell-free samples
+
+12 samples total  
+  
+  
+  
+  
+Note - if we had extra material we could test cell-free gels on conical
+inserts and anchor points to see how the gels alone respond to the inserts
+(i.e. to see if the morphology change is cell led or gel led). However, due to
+the high cost of the fibrinogen and thrombin animal components this has not
+been included in the study. The below experimental plan only accounts for the
+prep of 12 samples.  
+  
+  
+Cell requirement  
+  
+If we screen 9 cell-laden samples at 6x10^6 cells/sample this will require 54
+x 10^6 cells total (58 x 10^6 cells with adjustment for error).  
+  
+Note - Please double check you have enough of all reagents before commencing
+the experiment  
+  
+Note -  Serum media will be used in this experiment (D/F + 20% FBS +1X P/S)
+for cell expansion and seeding, seeing as we are already using animal
+components (fibrinogen and thrombin) and our harvests of ACF cells are
+typically much lower than for serum.  
+  
+  
+Experimental timeline and methods:
+
+  
+
+D-10 Culture cells
+
+D-3 Sterilise inserts and trays (at least 4 anchorpoint inserts, 4 conical
+inserts and 2 trays by autoclave)
+
+D-1 or morning of D0 Locate and prepare stock reagents
+
+Locate:
+
+Fibrinogen, SIGMA-ALDRICH, Quantity 100mg, Code F3879 How much do we have
+left? (stored at -20'C, freezer)  
+Thrombin, SIGMA-ALDRICH, Quantity 1KU, Code T7326  (stored at -20'C, freezer)
+
+Anhydrous CaCl2 granules (SIGMA) - Biomaterials shelf
+
+6-Aminocaproic acid ACA  
+
+Prepare:
+
+100ml of proliferation media: DMEM/F12 + 20% FBS + 1x P/S +p38i (with phenol
+red)
+
+130ml of differentiation media: E6 + 1x P/S (with phenol red) ~130ml for 1
+week (make again on D6 diff)  
+
+20mM CaCl2
+
+In a 100ml bottle (autoclaved glass bottle or sterile plastic vessel) add
+0.555g of CaCl2 granules into 50mL of pre-prepared proliferation media > stir
+until dissolved > sterile filter
+
+Note - Use a ethanol cleaned and dried or pre-autoclaved stir bar
+
+Proliferation media with 1mg/ml ACA (OR could instead just make up
+proliferation media then add fresh ACA on the day of use > filter, as I'm not
+sure of stability)  
+
+1) Add 50mg of ACA to 50ml of DMEM/F12 + 10% FBS + 1X P/S + p38i  
+2) Mix well and then sterile filter.  
+3) Store in the fridge.  
+
+E6 media with 1mg/ml ACA (note or add fresh ACA each time on the day of use
+then filter, I'm not sure of stability)  
+
+1) Add 130mg of ACA to 130ml of E6 + 1x P/S (prepared earlier), mix well and
+then sterile filter.  
+3) Store in the fridge.  
+
+Ensure all reagents have been sterile filtered prior to use
+
+Bovine concentrated plasma fibrinogen stock (8mg/ml)  
+
+IMPORTANT NOTE READ ALL- The optimal way to solubilize fibrinogen is to layer
+it on top of warm (37 ºC) saline, as fibrinogen will not dissolve in water.
+The saline concentration can be in the range of 0.85-0.9%.  The fibrinogen-
+saline solution can be gently agitated, but it must not be vortexed. The
+fibrinogen will slowly dissolve to give a hazy solution. Fibrinogen may be
+sterile-filtered, but may not go through a 0.1 μ filter. A 0.2 μ filter is
+suggested, with positive pressure using a syringe and "button" filter.  Vacuum
+filtration should not be used, since this will lead to breakdown of the
+molecule during the filtration.
+
+The Kaplan method asks for dilution in H2O, however, considering the above
+advice from Sigma we will use PBS:
+
+Sterile filter 4ml of PBS and warm to 37'C on the stir plate, try to dissolve
+32mg total (8mg per ml) into the water, add very slowly while stirring (do not
+vortex!), sterile filter using a 0.2 μ syringe filter.  (This is enough for 12
+samples!)
+
+Note - Use a ethanol cleaned and dried or pre-autoclaved stir bar
+
+  
+
+6-Aminocaproic acid ACA stock solution (20mg/ml)
+
+Add 20mg of ACA into 1ml dH2O (sterile filtered MilliQ), mix well and sterile
+filter
+
+Note - if this is too small a volume to handle just make up 3x amount, for the
+gel samples we should only need 504ul, at 42ul per sample.
+
+  
+
+Thrombin stock solution (10mg/ml)
+
+Add 15mg of Thrombin into 1.5ml of dH2O (sterile filtered MilliQ), mix well
+and sterile filter
+
+Note - we should only need 1.08ml total (1080ul total, 90ul per sample, for 12
+samples).  
+
+  
+
+  
+
+D0 Harvest cells, seed gel, pipette gel onto/into inserts
+
+Preparation of fibrin gel with cells:
+
+Method based on the work by Kaplan & Simsa et al., 2019:
+
+1\. Combine MuSCs at a minimum seeding density of 6 x 10^6 ** cells/well with
+the prolif media + 20 mM CaCl2. (Also prepare n=3 cell free controls, i.e. add
+media + 20mM CaCl2 only to 3 wells):
+
+Prepare a cell/media suspension (proliferation media + 20mM CaCl2) containing
+54 x 10^6 cells (6 x 10^6 cells/ml) in a volume of 3.7 mls (410ul x 9 cell-
+laden samples)
+
+Prepare 1.23 mls of just proliferation media + 20mM CaCl2 (410ul x 3 cell free
+samples)  
+  
+**NOTE - Kaplan & Simsa seeded their fibrin gels at 3.5 × 10^6 cells/well (per
+sample). However, a higher density within the gel could improve cell-cell
+contact and the likelihood of fusion and so I would suggest 6x10^6 cells per
+well. The alternative would be to screen multiple seeding densities, however,
+due to the high cost of the animal proteins, and the time required to culture
+this many cells perhaps it is best to pick one density for this first
+experiment.  
+  
+
+2\. Add thrombin from bovine plasma (Sigma) with a total enzyme activity of
+0.6 U into each well (for all 12 samples):
+
+Add 90ul of the 10mg/ml stock thrombin solution per well (do this immediately
+before the next step so the thrombin sol does not evaporate/ dry out)
+
+Note - our thrombin has ≥60 NIH units/mg protein (biuret), from a search
+online one "NIH" unit is equivalent to 1.1 U of thrombin, so we would need to
+add in around 0.09 mg per well (our scales are not sensitive enough for this).
+So we have made up a stock conc and will add a small amount of this per well.
+We made up a stock conc of 10mg of thrombin/ml of H2O, then we add 90ul per
+well = 0.6U per well.
+
+3\. Add cell laden media mixture (or cell free media) to the wells with pre-
+added thrombin
+
+\- to 9 wells add 410ul of the cell/media suspension per well (cell-laden
+samples)
+
+\-  to 3 wells add 410ul of the media mix only (cell free samples)  
+  
+
+4\. Add the fibrinogen stock (8mg/ml) to the wells to make up a final
+concentration of 3 mg/mL, so that each well has a total volume of 800 µL
+(cell-reagent mix):
+
+Add 300ul of the 8mg/ml fibronogen stock solution per well.  
+  
+5\. Mix the solution quickly in each well by pipetting up and down multiple
+times.
+
+6\. Add the fibrinolytic inhibitor aminocaproic acid (ACA) (Sigma), at a
+concentration of 1 mg/mL to the cell-Fibrin mix, to prevent rapid hydrogel
+degradation:
+
+Add 42ul of the 20mg/ml stock ACA per well and mix.
+
+7\. Place the anchor point inserts and conical inserts into the relevant wells
+(n=3 cell-laden samples and n=3 cell-free samples will have no inserts)
+
+Note - it is important that the inserts are added before the gels set!
+
+  
+
+8\. Incubate the plates for at least 30 min, at 37 °C, to initiate hydrogel
+polymerization.
+
+9\. After 30 minutes, add ~1.5 mL (or enough to fully immerse samples) of
+prewarmed proliferation media (containing 1mg/ml ACA) to each well and return
+plates to the incubator (37 °C, 5% CO2).
+
+Note - add media gently to the side of the wells, so as not to detach gels
+from inserts
+
+D1 100% media change proliferation media D/F + 20% FBS + 1X P/S + 1mg/ml ACA +
+p38i  
+
+D1 Image samples under light microscopy - can you visualize the cells in the
+gels?  
+If not we take one sample from each condition and stain with sterile CMFDAand
+image on the Axio (AF488) SEE GUIDE ON CMFDA STAINING HERE & SEE PREVIOUS
+CMFDA PROTOCOL IN LA HERE. Monitor which samples have been CMFDA stained and
+which haven't, either only ever stain one sample from each condition with
+CMFDA throughout the experiment (the same sample throughout) or try to
+distribute the CMFDA staining fairly between samples (n=3). CMFDA should not
+kill the cells but the extra time handling and out of cell culture conditions
+could effect cell survival.  
+
+D0 Diff 100% media change (E6) + 1mg/ml ACA
+
+D1 Diff 100% media change (E6) + 1mg/ml ACA
+
+D2 Diff 100% media change (E6) + 1mg/ml ACA  
+  
+D3 Diff 100% media change (E6) + 1mg/ml ACA then Image samples under light
+microscopy - can you visualize the cells in the gels?  
+If not we take one sample from each condition and stain with sterile CMFDAand
+image on the Axio (AF488) SEE GUIDE ON CMFDA STAINING HERE & SEE PREVIOUS
+CMFDA PROTOCOL IN LA HERE. Monitor which samples have been CMFDA stained and
+which haven't, either only ever stain one sample from each condition with
+CMFDA throughout the experiment (the same sample throughout) or try to
+distribute the CMFDA staining fairly between samples (n=3). CMFDA should not
+kill the cells but the extra time handling and out of cell culture conditions
+could effect cell survival.  
+
+D4 100% media change (E6) + 1mg/ml ACA
+
+D5 100% media change (E6) + 1mg/ml ACA > Image samples under light microscopy
+
+D6 100% media change (E6) + 1mg/ml ACA  
+
+D6 Image samples under light microscopy - can you visualize the cells in the
+gels? (D6 NOT D7 TO AVOID WEEKEND SAMPLING ONLY)  
+
+If not we take one sample from each condition and stain with sterile CMFDAand
+image on the Axio (AF488) SEE GUIDE ON CMFDA STAINING HERE & SEE PREVIOUS
+CMFDA PROTOCOL IN LA HERE. Monitor which samples have been CMFDA stained and
+which haven't, either only ever stain one sample from each condition with
+CMFDA throughout the experiment (the same sample throughout) or try to
+distribute the CMFDA staining fairly between samples (n=3). CMFDA should not
+kill the cells but the extra time handling and out of cell culture conditions
+could effect cell survival.  
+
+D7 100% media change (E6) + 1mg/ml ACA
+
+D8 100% media change (E6) + 1mg/ml ACA
+
+D9 100% media change (E6) + 1mg/ml ACA
+
+D10 100% media change (E6) + 1mg/ml ACA
+
+D10 Image samples under light microscopy - can you visualize the cells in the
+gels?
+
+If not we take one sample from each condition and stain with sterile CMFDA and
+image on the Axio (AF488) SEE GUIDE ON CMFDA STAINING HERE & SEE PREVIOUS
+CMFDA PROTOCOL IN LA HERE. Monitor which samples have been CMFDA stained and
+which haven't, either only ever stain one sample from each condition with
+CMFDA throughout the experiment (the same sample throughout) or try to
+distribute the CMFDA staining fairly between samples (n=3). CMFDA should not
+kill the cells but the extra time handling and out of cell culture conditions
+could effect cell survival.  
+
+D11 100% media change (E6) + 1mg/ml ACA
+
+D12 100% media change (E6) + 1mg/ml ACA > Image samples under light microscopy  
+
+D13 100% media change (E6) + 1mg/ml ACA
+
+D14 Measure thickness and width of samples with digital calipers while still
+on the construct. Remove samples with forceps from anchor-point construct for
+analysis and weigh on a standard lab balance.
+
+D10/14 Primary antibody staining (MyoG, MF20)
+
+Secondary antibody staining and DAPI (MyoG, MF20)
+
+Image samples
+
+Analysis
+
+Write report
+
+Have report reviewed
+
+Incorporate suggested changes to report
+
+Update Header Page
+
+  
+
+Clubhouse link:
+
+https://app.clubhouse.io/vowfood/epic/21761/dolly12-cells-in-fibrin-gels-
+cultured-on-conical-inserts-anchor-
+points?cf_workflow=500000005&ct_workflow=all
+
+  
+
+  
+
+
+
+
+Original seeding plan:
+
+0) Locate all reagents and stock solutions and have them ready for use (see
+previous entry for exact locations, allow reagents from the fridge to reach
+room temperature before adding so as not to add cold solutions to your cells,
+but do not leave fibrinogen or thrombin out on the bench for > ~1hr):
+
+\- Proliferation media + ACA (fridge)  
+\- 20mM CaCl2 in Proliferation media (fridge)  
+\- Bovine concentrated plasma fibrinogen stock (8mg/ml) (fridge)  
+\- ACA stock solution (room temp)  
+\- Thrombin stock solution (10mg/ml) (fridge)
+
+  
+
+Preparation of fibrin gel with cells:
+
+Method based on the work by Kaplan & Simsa et al., 2019:
+
+Combine MuSCs at a minimum seeding density of 6 x 10^6 ** cells/well with the
+prolif media + 20 mM CaCl2. (Also prepare n=3 cell free controls, i.e. add
+media + 20mM CaCl2 only to 3 wells):
+
+METHOD:
+
+1) Pre-warm CaCl2 + Proliferation media mix in the water bath at 37'c for at
+least 15min before use  timestamp - timestamp
+
+2) Resuspend 54 x 10^6 cells (6 x 10^6 cells/ml) in 3.7 mls of CaCl2 +
+Proliferation media (410ul x 9 cell-laden samples)
+
+3) Prepare 1.23 mls of just proliferation media + 20mM CaCl2 (410ul x 3 cell
+free samples)  
+  
+**NOTE - Kaplan & Simsa seeded their fibrin gels at 3.5 × 10^6 cells/well (per
+sample). However, a higher density within the gel could improve cell-cell
+contact and the likelihood of fusion and so I would suggest 6x10^6 cells per
+well. The alternative would be to screen multiple seeding densities, however,
+due to the high cost of the animal proteins, and the time required to culture
+this many cells perhaps it is best to pick one density for this first
+experiment.  
+  
+
+Add thrombin from bovine plasma (Sigma) with a total enzyme activity of 0.6 U
+into each well (for all 12 samples):
+
+4) Add 90ul of the 10mg/ml stock thrombin solution to all 12 wells (do this
+immediately before the next step so the thrombin sol does not evaporate/ dry
+out)  timestamp
+
+  
+
+Note - our thrombin has ≥60 NIH units/mg protein (biuret), from a search
+online one "NIH" unit is equivalent to 1.1 U of thrombin, so we would need to
+add in around 0.09 mg per well (our scales are not sensitive enough for this).
+So we have made up a stock conc and will add a small amount of this per well.
+We made up a stock conc of 10mg of thrombin/ml of H2O, then we add 90ul per
+well = 0.6U per well.
+
+4) Add cell laden media CaCl2 mixture (or cell free CaCl2 media) to the
+relevant wells (see above plate map) with pre-added thrombin
+
+\- to 9 wells add 410ul of the cell/media suspension per well (A1-A3, B1-B3,
+C1-C3 cell-laden samples) timestamp  
+
+\-  to 3 wells add 410ul of the media mix only (D1-D3 cell free samples)
+timestamp  
+  
+
+Add the fibrinogen stock (8mg/ml) to the wells to make up a final
+concentration of 3 mg/mL, so that each well has a total volume of 800 µL
+(cell-reagent mix):
+
+5) Add 300ul of the 8mg/ml fibronogen stock solution per well timestamp
+
+6) Mix the solution quickly in each well by pipetting up and down multiple
+times.
+
+Add the fibrinolytic inhibitor aminocaproic acid (ACA) (Sigma), at a
+concentration of 1 mg/mL to the cell-Fibrin mix, to prevent rapid hydrogel
+degradation:
+
+7) Add 42ul of the 20mg/ml stock ACA per well and mix timestamp
+
+8) Place the anchor point inserts and conical inserts into the relevant wells
+(n=3 cell-laden samples and n=3 cell-free samples will have no inserts)
+timestamp
+
+Note - it is important that the inserts are added before the gels set!
+
+  
+
+9) Incubate the plates for at least 30 min, at 37 °C, to initiate hydrogel
+polymerization. timestamp-timestamp
+
+10) After 30 minutes, add ~1.5 mL (or enough to fully immerse samples) of
+prewarmed proliferation media (containing 1mg/ml ACA) to each well and return
+plates to the incubator (37 °C, 5% CO2).  timestamp
+
+Note - add media gently to the side of the wells, so as not to detach gels
+from inserts
+
+
+UPDATE
+
+
+The experimental plan has since been updated!  
+  
+The new experimental plan requires half the cell requirement (27 x 10^6) and
+now includes n=4 of all cell-laden samples, instead of n=3. Please refer to
+the following lab book entry to see the new seeding plan:
+
+  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzkwMC4wfDEwNjMxNy8zMDAwLTIyNjcxL1RyZWVOb2RlLzM2NTk3NTE4NDB8OTkwMC4w
+
+

@@ -1,0 +1,110 @@
+
+
+## Performed by: Addy, Shaleen  
+
+
+Culture ID(s)  
+Vessel type  
+No. of wells to fix (staining later)  
+  
+8822  
+882212-WP  
+16 (15)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+For a 12wp, double all the values used for a 24wp
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Hoechst-33342  
+S3811  
+  
+PFA  
+21 (11 mL + 10 mL) mL; A3088  
+  
+dPBS130 mL (128 mL + excess); M8113  
+  
+  
+  
+  
+  
+  
+  
+  
+16 wells in total
+
+1 mL of PFA in each well = 16 mL
+
+2 mL of dPBS x 4 (once to wash out growth media, twice to wash out the PFA and
+once again to top up the fixed cells) x 16 (number of wells) = 128 mL
+
+  
+
+
+
+
+Bradford:
+
+  1. Added 8 drops of Hoechst 33342 to 8mL of Milli-Q water in a 15mL black centrifuge tube
+  2. Removed media supernatant from Row 3 of Plate #8822 and Row 1 of Plate #8823.
+  3. Added 1mL of Hoechst/Milli-Q water mix and incubated at 37 degrees for 15 mins [ 15:47 - 16:02  a/pm]
+  4. Imaged relevant rows on Zaber for cell normalisation.
+  5. Scraped cells using spatula and transferred each well to a separate 1.5mL eppendorf tube.
+  6. Performed freeze-thaw lysis protocol on each Eppendorf tube [ 17:38 - 17:46 a/pm, 17:49 - 17:59 a/pm, 18:00 - 18:11 a/pm]
+  7. Centrifuged tubes for 5 mins at 1000g using micro-centrifuge.
+  8. Test supernatant volume against 250uL of Bradford reagent until a ratio that yields an amber colour is achieved.
+    1. sample volume used for Bradford: 10 uL
+    2. total sample volume: 500 uL
+  9. Construct a standard curve with BSA solution (2mg/mL) using the determined ratio from the previous step.
+  10.   
+
+
+
+
+Process:
+
+Fixing carried out using the Opentron
+
+Parafilm the assay plate and place in fridge.
+
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+### Fixed both Estim plates (05/11) - can proceed to primary stain.
+
+Had to add PFA manually due to operator error.
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+

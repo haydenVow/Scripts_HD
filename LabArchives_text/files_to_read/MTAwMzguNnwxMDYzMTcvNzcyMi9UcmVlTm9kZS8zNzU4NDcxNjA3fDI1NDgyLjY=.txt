@@ -1,0 +1,133 @@
+
+
+Reference table for samples
+
+Sample numberSample DNAPrimer Pair target sitePrimer Pair ID'sBand Present on
+gel  
+1R6 ZIC1ZIC1 - guide 2p27-p28  
+  
+2R6 ZIC1 + CDKN1AZIC1 guide 2p27-p28  
+  
+3R6 ZIC1 + CDKN1A CDKN1A - guide 1 P45-P46  
+  
+4R6 CDKN1A + CDKN1B CDKN1A - guide 1P45-P46  
+  
+5R6 CDKN1A + CDKN1B CDKN1B - guide 2P47-P48  
+  
+6R6 ZIC1 + DHSR3ZIC1 - guide 2p27-p28  
+  
+7R6 ZIC1 + DHSR3DHSR3 guide 2P31-P32  
+  
+8R6 Control ZIC1 - guide 2p27-p28  
+  
+9R6 Control CDKN1A - guide 1P45-P46  
+  
+10R6 ControlCDKN1B - guide 2P47-P48  
+  
+11R6 Control DHSR3 - guide 2 P31-P32  
+  
+12R7 LOXLOX - guide 2 P35-P36Yes  
+13R7 LARSLARS - guide 1 P49-P50Yes  
+14R7 BCL2L11BCL2L11 - guide 1P33-P34Yes  
+15R7 Control LOX - guide 2P35-P36Yes  
+16R7 Control LARS - guide 1P49-P50Yes  
+17R7 Control BCL2L11 guide 2P33-P34Yes  
+18R8 PABPC1 + CDKN1APABPC1 - guide 2P41-P42No  
+19R8 PABPC1 + CDKN1A  
+  
+CDKN1A - guide 1P45-P46Multiple  
+20R8 Control PABPC1 - guide 2 P41-P42No  
+21R8 Control CDKN1A - guide 1P45-P46Multiple  
+  
+  
+
+  * 
+
+
+
+
+Performed gel electrophoresis using samples 12-21 from the 29-3-22 (see lab
+book entry here)  
+  
+1% Agarose gel in 0.5X TBE buffer with 5uL of Gel Green DNA stain mixed into
+the Gel.  
+Samples were loaded and the gel was then run for 60V for 30 minutes.
+
+Loading order
+
+  * Lane 1-Sample 12
+  * Sample 13
+  * Sample 14
+  * Sample 15
+  * Sample 16
+  * Sample 17
+  * Sample 18
+  * Sample 19
+  * Sample 20
+  * Sample 21
+  * PABPC1 Clone 5A 
+  * Lane 12 - DNA ladder
+
+
+
+
+Prepared to send samples that were able to produce a clear band on the gel for
+sequencing though AGRF  
+  
+
+AGRF Tube number  
+PCR sample number  
+Fwd Primer to use  
+  
+1  
+7  
+P31  
+  
+2  
+11  
+P31  
+  
+3  
+13  
+P49  
+  
+4  
+16  
+P49  
+  
+5  
+12  
+P35  
+  
+6  
+15  
+P35  
+  
+7  
+14  
+P33  
+  
+8  
+17  
+P33  
+  
+9  
+5A  
+P1  
+  
+10  
+5D  
+P1  
+  
+11  
+5E  
+P1  
+  
+12  
+6C  
+P1  
+
+
+
+
+

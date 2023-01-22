@@ -1,0 +1,17 @@
+Performed by: LL
+Process
+
+  1. Took 1 x 3 mL sample from 1 x 50/50 E1000 culture 
+  2. Diluted with dPBS to make up to 10 mL total volume 
+  3. Added 500 uL of sample to 8 x ViCell counting tubes 
+  4. Loaded 4 of the cell samples on ViCell carousel and counted using Beckman Coulter reagent pack
+    1. Cell density: 121000, 126000, 87780, 124000
+    2. Average cell density: 114,695
+  5. Ran "drain" cycle on ViCell to drain remaining reagents from lines
+  6. Ran through Replace Reagent Pack process, replacing pack with in-house prepared reagents
+  7. Ran "prime" cycle on ViCell to prime reagents through the lines 
+  8. Loaded 4 remaining cell suspension aliquots on carousel and counted using in-house reagent pack 
+    1. Cell density: 147000, 121000, 114000, 109000
+    2. Average cell density: 122,750 
+
+

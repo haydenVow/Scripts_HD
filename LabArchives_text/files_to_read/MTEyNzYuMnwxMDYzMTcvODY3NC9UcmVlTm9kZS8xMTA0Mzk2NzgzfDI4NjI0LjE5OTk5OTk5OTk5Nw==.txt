@@ -1,0 +1,55 @@
+
+
+Experimental Plan:
+
+[DAY 1] - Seed 4 (or more) x 96 well plates with 1200 cells/well in 140
+uL/well
+
+  1. Plates should be coated with gelatin on the OT2 and left in the incubator for 1 hr prior to seeding
+  2. MuSCs should be seeded in growth media containing serum
+  3. Please seed only columns 2-11 and put PBS in columns 1 & 12 to avoid the edge effects
+  4. Label 4x 96 well plates as a designated time point: 24 h, 48 h, 72 h, and 96 h.
+  5. Place plates in the incubator.
+
+[Day 2] - 24 hours later, fix and DAPI stain one plate. On the remaining 3
+plates, replace media to growth media with varying concentrations of
+ingredient being tested  
+
+  1. Use an OT2 protocol to fix & dapi, as well as to perform the 100% media change.
+
+[Day 3] \- Fix and DAPI stain 48 h plate using the Opentrons.
+
+[Day 4] - Fix and DAPI stain 72 h plate using the Opentrons.
+
+[Day 5] \- Fix and DAPI stain 96h plate using the Opentrons.
+
+  1. Parafilm the plate, wrap in foil, and leave in the fridge for 24hours before imaging for most consistent results. Do this for days 2-5. 
+
+[Day 6] - Image 4x 96 well plates
+
+  1. Image each well under the DAPI channel at 5x magnification using MIA capture
+
+[Day 7] - Analysis of images
+
+In order to process data from this assay we must:
+
+  1. Process images using https://vowfood.retool.com/apps/Mia
+  2. Copy each time point of each condition into Prism
+  3. Create proliferation graph for each condition
+  4. Identify doubling time for each condition
+  5. Add graphs and doubling time on Notion
+
+Acceptance criteria:
+
+  * Proliferation graphs created for each condition
+  * Doubling time for each condition
+
+  
+
+For more information see the notion page:
+https://www.notion.so/vow/Proliferation-assay-
+template-344282efa88e4afab325c3ef621cf4a4
+
+  
+
+

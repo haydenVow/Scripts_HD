@@ -1,0 +1,98 @@
+Performed by: EC
+Ranger log
+ReagentID  
+50:50 RPMI:CHO HD + NuvonisM12688  
+  
+75:25 RPMI:CHO HD + Nuvonis  
+M12773  
+
+
+  
+  
+  
+
+Flask typeConditionHarvested Flask IDSeeded Flask IDLocation  
+E12550:50 RPMI:CHO HD + Nuvonis  
+1235312531 (E250)Incubator 52 (Main Lab)  
+12366  
+75:25 RPMI:CHO HD + Nuvonis  
+12506  
+1250712530 (E250)  
+12524 (E125)  
+12525 (E125)  
+12526 (E125)  
+12527 (E125)  
+12528 (E125)  
+12529 (E125)  
+E125  
+90:10 RPMI:CHO HD + Nuvonis  
+  
+12360Terminated Terminated  
+12367Terminated  
+12368Terminated  
+  
+  
+
+  
+
+
+
+
+  
+
+  1. Took 1 x 560 uL samples from each culture (1 x technical reps/flask).
+  2. Performed counts using Vicell (560 uL/sample):  
+  
+
+Flask IDVicell total cell counts (viable cells)  
+  
+1235314,420,000  
+1236612,460,000  
+123607,980,000  
+12367  
+6,420,000  
+1236810,290,000  
+12506  
+20,600,000  
+12507  
+20,850,000  
+  
+  
+
+  3. Prepared;  
+(1) 380mL 75:25 RPMI:CHO Part A + Nuvonis, and split the total volume into an
+aliquot of 60mL for the in-house RPMI validation experiment, an aliquot of
+70mL to keep the cells to be used for the seeding density going till tomorrow
+and 250mL to seed the seeding density experiment. Added 60uL, 70uL and 250uL
+of IGF-1L3, respectively and 12uL, 14uL and 50uL of EGF, respectively.  
+(2) 60mL 75:25 RPMI:CHO Part A + Nuvonis (in-house) and added 60uL of IGF-1L3
+and 12uL of EGF.  
+(3) 310mL 50:50 RPMI:CHO Part A + Nuvonis, and split the total volume into an
+aliquot of 60mL to keep the cells to be used for the seeding density going
+till tomorrow and an aliquot of 250mL to seed the seeding density experiment.
+Added 60uL and 250uL of IGF-1L3, respectively and 12uL and 50uL of EGF,
+respectively.
+
+  4. Combined;  
+ \- Cell suspensions from flasks 12353 and 12366 into 1 x 50mL tube  
+ \- Cell suspensions from flasks 12506 and 12507, then dispensed 2 x 14.5mL
+cell suspension into 2 x 50mL tubes (each tube containing 6M cells for the in-
+house RPMI validation experiment), and split the remaining 71mL cell
+suspension into 2 x 50mL tubes to be reseeded into 1 x E-250.
+
+  5. Centrifuged the tubes @ 500 xg for 5 minutes.
+  6. After centrifugation, aspirated the supernatant and resuspended;  
+\- Cells from flasks 12353 and 12366 into 1 x E250 containing 60mL of 50:50
+RPMI:CHO medium  
+\- 2 x 50mL tubes containing 14.5mL cell suspension each into 30mL of either
+in-house or bottled 75:25 RPMI:CHO. Added 3 x 10mL of in-house and 3 x 10mL of
+bottled 75:25 RPMI:CHO into 6 x E-125 and then topped up each flask with 10mL
+of cell suspension (cells previously resuspended into fresh medium).  
+\- 2 x 50mL tubes containing a total of 71mL 75:25 RPMI:CHO medium into 70mL
+of 75:25 RPMI:CHO (R&D/bottled RPMI) and placed into 1 x E250.
+
+  7. Replaced E125 in incubator at 37'C, 5% CO2, 120 RPM
+
+  
+
+

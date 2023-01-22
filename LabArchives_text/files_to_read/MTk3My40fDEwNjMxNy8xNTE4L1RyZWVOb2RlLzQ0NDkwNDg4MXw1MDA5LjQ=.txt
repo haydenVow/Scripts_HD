@@ -1,0 +1,148 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+6623  
+96-well plate  
+24  
+  
+  
+  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared   2400 uL  PBST (0.2% Triton-X)
+
+2\. Prepared  2400 uL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  10 µL   Primary #1 MyoG (Santa Cruz)
+(1:200) +  40 µL   Primary #2 MF20 (DSHB)   (1:50) +   1950  uL Blocking
+Buffer
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG  
+IGg1  
+AF488  
+1:200  
+  
+MF20  
+IGg2b  
+AF555  
+1:50  
+  
+  
+  
+
+
+
+
+Process:
+
+Permeabilise
+
+1\. Removed PBS from each well.
+
+2\. Added  100 µL PBST (0.2% Triton-X) to each well for 15 min:  13:18 - 13:34  
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking
+
+1\. Added  100 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   13:36 - 14:27
+
+
+
+
+Single/Simultaneous Primary Antibody staining
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with primary antibody ~~for 90min - 2hrs at RT, or  ~~4ºC
+overnight:   14:28
+
+3\. Parafilmed plates and stored at 4ºC in tissue culture lab Fridge.
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm5070  
+  
+PBST (0.2% Triton)m4441  
+  
+dPBSm5071  
+  
+Primary Antibody (MyoG)s1451  
+  
+Primary Antibody (MF20)s2468  
+  
+  
+  
+
+
+
+
+Observations/Summary:
+
+\- Primary stained cells for MyoG and Myosin Heavy Chain
+
+\- Stained n=4 from conditions that were the most promising (1, 3, 5 & 11),
+EPL serum-control and EPL ACF-media control
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [x ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

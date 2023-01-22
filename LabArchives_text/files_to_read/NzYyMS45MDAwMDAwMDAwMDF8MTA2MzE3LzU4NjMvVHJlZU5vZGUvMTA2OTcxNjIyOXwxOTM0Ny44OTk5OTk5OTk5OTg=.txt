@@ -1,0 +1,54 @@
+
+
+## Performed by: AK  
+
+
+
+
+Culture IDs:
+
+Flask typeFlask IDs  
+384 ULA plate9085-F_CHOMP09-Crocodile P1-1of1  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Prepared a 50 ug/mL Hoechst solution by combining following ingredients in a sterile amber/light safe falcon tube  
+(volumes are enough for staining 1 x 384 well plate):
+
+    1. 4750 uL x MilliQ
+    2. 250 uL x Hoechst Trihydrochloride trihydrate (1 mg/mL)
+  2. Vortexed Hoechst solution for 5 seconds to mix 
+  3. Syringe filtered solution with a 0.22 um filter unit to sterilise
+  4. Prepared dead stain solution in amber/black centrifuge tube:  
+\- 1 mL dPBS  
+\- 1 drops Nucgreen AF488 (Sytox) dead stain  
+Vortex for 5 seconds to mix
+
+  5. Retrieve two culture samples from E-flasks used for the fast suspension experiment:
+    1. Soy/wheat hydrolysate condition replicate 3 (P23- positive control - to be stained with Hoechst and sytox)
+    2. Soy hydrolysate condition replicate 1 (P24 - negative control - not be stained with any cell stains)  
+
+  6. Added 11 uL of Hoechst solution and sytox solution to each well (A10, P23) for a final Hoechst concentration of 5 ug/mL (this is assuming a 100 uL volume of medium in each well after FACS sorting and medium top-up - adjust as needed for actual well volume)
+  7. Incubated plate at RT in the dark for 30 minutes   15:35 - 16:05 
+  8. Zaber imaged plate(s) on DAPI/AF488/Phase channels (imaged entire wells)
+
+
+
+
+Observations/Summary  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Mia image link: https://mia-
+capture.vow.tools/#/session/rec35xDFYmHCh42fa/images
+
+

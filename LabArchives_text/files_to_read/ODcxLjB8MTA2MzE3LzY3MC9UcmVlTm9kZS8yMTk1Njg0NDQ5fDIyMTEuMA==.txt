@@ -1,0 +1,238 @@
+
+
+Equilibrate microcarriers in culture medium before use.
+
+  1. Prior to use, 2x 6.75mL of sterile cytodex microcarriers were aliquoted into 2xE125 flasks.
+  2. The microcarriers were rinsed in warm culture medium (20-50 mL/g Cytodex (7mL)) (this rinse reduces dilution of the culture medium by PBS trapped between and within the microcarriers, which is particularly important when using small culture volumes or cells with low plating efficiencies).
+  3. The microcarriers were then allowed to settle and the supernatant removed.
+  4. The microcarriers were resuspended in the desired volume in each vessel using culture medium (30mL).
+  5. The culture vessels were transferred to the incubator for at least 1 hour so that the microcarriers and culture medium could equilibrate. [  9:54   ]
+
+Culture media: DMEM/F12 + 20% FBS + 1xP/S + p38i (10uM)
+
+
+
+
+  
+
+Seed cells onto microcarriers
+
+
+
+
+Intermittent agitation to facilitate adhesion
+
+  1. Removed 1 equilibrated E125 flask from the incubator. 
+  2. Removed 65% of the suspension and replaced with an equal volume of growth media (19.5). Resulting in a new microcarrier concentration of 1.575mg/mL, (total ~47.25 mg in 30mL)
+  3. Transferred 1049357 cells from cell suspension (from https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/ODY1LjgwMDAwMDAwMDAwMDF8MTA2MzE3LzY2Ni9UcmVlTm9kZS8yODA3MTI0OTU1fDIxOTcuNzk5OTk5OTk5OTk5Nw==) in   1.319mL to the equilibrated microcarrier suspension in the culture vessel.
+
+Seeding vessels
+
+Culture ID
+
+ Flask Type
+
+Cells Added
+
+Microcarrier Density
+
+Flask Volume  
+  
+6602-DAISY4_16G9-Cow P8-3of3  
+
+E125  
+
+1049357  
+
+ 1.575mg/mL  
+30mL  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  1. Transferred vessel to incubate at: [17:25] 
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+
+
+
+  
+
+  1. Began the seeding schedule of continuous agitation at 85 rpm.
+    1.  ~~The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator:~~ ~~https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing~~ ~~ ~~ [ See observations] ~~  
+~~
+
+      * Shake speed used = 85rpm  
+
+
+
+
+ ~~ ~~Seeding schedule:~~~~
+
+ ~~Time elapsed from seeding  ~~
+
+ ~~Activity~~
+
+ ~~Time started - time finished  ~~  
+  
+ ~~0.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~1.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~1.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~2.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~2.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~3.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~3.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~4.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~4.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~5.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~5.5~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~6.0~~
+
+ ~~Agitate culture for 2 mins~~
+
+ ~~  
+~~  
+  
+ ~~Commencement of continuous agitation~~
+
+  1.  ~~At the conclusion of the seeding period the vessel was left to shake continuously overnight.~~ ~~~~
+
+
+
+
+### SOPs used:
+
+N/A
+
+
+
+
+### Observations/Summary:
+
+\- Only one shaker was set up in the incubator. An experiment was being
+conducted already with a continuous shake speed of 85 rpm. This shake speed
+was used for seeding so as to avoid having cells in the other experiment
+subjected to 6 hours of intermittent shaking (2 min on, 28 min off).
+
+  
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+  
+  
+  
+  
+  
+  
+dPBS (for washing & neutralising)4381  
+  
+Growth Media4567  
+  
+p38i (20mM stock)3978  
+
+
+  
+  
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+### Relevant Images/Figures (if applicable):
+
+N/A: See lab book entry linked in process above to view more about the
+passage.
+
+  
+
+

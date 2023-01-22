@@ -1,0 +1,115 @@
+
+
+Perform passage using below volumes:
+
+  
+
+
+
+
+## Performed by: NH  
+
+
+
+
+Culture IDs:
+
+Harvested plates  
+Seeded plates  
+  
+12150-1215212532  
+12145, 12154, 12149, 1215512559  
+12139, 12141, 12143, 1215612523  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea12350  
+  
+dPBS (for washing & neutralising)m12364  
+  
+Growth Mediam12672  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Fillled 9x 96 well plates with 300uL of dPBS and 200uL of tryple as per
+the plate (dPBS in columns 1-6, Rows A, C, E, G. Tryple in Columns 7-12, Rows
+B, D, F, H) Filled another three separate plates with growth media (DMEM/F12+
+20% FBS + 1xP/S), 200uL per well, all wells.  
+
+2\. Generated a multiwell open protocol using the 'Dynamo' script using the 1
+well passaging protocol attached and the pick lists generated on the 8/6/22.
+
+3\. Pick lists for all remaining cultures in this experiment can be found in
+the following sheets document.
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=388061351
+
+  * PRKCD+CDKN2B and NFKB1A+CDKN2B clones will be passaged to the same new 96 well plate
+  * PLA2R+CDKN2B and CDKN2B clones will be passaged to the same 96 well plate. 
+  * Control clones will be passaged to a new 96 well plate. 
+
+3\. Set up the opentron deck as per the layout at the top of the page for each
+passage. Three opentron runs were preformed using the attached protocols at
+the bottom of this entry. Tryple and dPBS plates were added to opentron deck
+heaters to warm to 37 degrees for 8 minute prior to starting each protocol.
+
+6\. Allowed the protocol to run to completion. (tryple time per well was 20
+minutes, with tryple prewarmed to 37 degrees using deck heaters before it was
+added to cells. Summaries of the passages can be found in the sheets document
+above for each run.
+
+7\. Transferred the new cultures to incubate at 30 degrees, 5% CO2 incubator
+#140.
+
+  
+
+
+
+
+Observations/Summary:
+
+Observed the wells after passage all wells contained cells.
+
+The PLA2R+CDKN2B and CDKN2B clones were picked on the 15/6/2022.
+
+
+
+
+SOPs used:
+
+### https://www.notion.so/vow/Automated-clone-picking-passaging-protocols-for-
+adherent-cultures-7e56e02c557e4e09a6a2fd0c7e8132d7
+
+
+
+
+Relevant attachments  
+
+See the resources file attached for tracking details of each clone from the
+origin plates to the locations.
+
+Summary of the passage can also be found in these documents.  
+  
+PRKCD+CDKN2B clones and NFKB1A+CDKN2B clones:
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=388061351  
+  
+Control clones
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1359588748  
+  
+PLA2R+CDKN2B clones.
+https://docs.google.com/spreadsheets/d/1yQD_JrhzktpQd0vaCt2B5OskKgl9SipLLab3WZ9v7ZU/edit#gid=1841530731
+
+

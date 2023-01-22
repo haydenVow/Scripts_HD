@@ -1,0 +1,303 @@
+
+
+Animal Source
+
+The limbs of a male Salt Water Crocodile limbs have been sourced from Koorana
+Crocodile Farm, 65 Savages Rd, Coowonga QLD 4702 and will be transported to
+the Vowse in a chilled Esky. If the meat is sent with a temperature data
+logger, this data will be uploaded to the biopsy collection lab book on the
+day of the biopsy.
+
+
+
+
+Background
+
+In our previous attempt, we had limited success isolating and culturing cells
+from our first crocodile biopsies.  See lab book here:https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MzU3MS4xfDEwNjMxNy8yNzQ3LTIwNTg3L1RyZWVOb2RlLzEwMTMzODUwNjJ8OTA2NS4x.
+This may be partially due to our isolation process which was performed at 37
+degrees Celsius. Reptile cells generally require lower culture temperatures
+than mammalian cells, with an approximate correlation between the species
+natural climate and the optimal culturing temperature [1, 2]. That said, some
+reptilian cells have been successfully isolated and cultured at 37 degrees,
+suggesting that increased temperatures do not necessarily result in reptilian
+cell  death in all cases [3, 4]. It is probable that the process we used for
+our first crocodile biopsy and isolation was not ideally suited for reptilian
+cells.  Initially we followed a protocol that closely mimicked the one used
+previously at Vow for the establishment of our mammalian cell lines. In this
+method, 750U/mL Collagenase II solution as well as a 11U/mL dispase digestion
+step are used to disassociate cells from tissue. Briefly, biopsies cut into
+small pieces and fat and connective tissue are removed. Collagenase solution
+is then added for 10min at RT. Tissue sections are then minced and transferred
+to fresh collagenase solution and incubated 36 degrees with agitation for 1hr.
+After washing with cold media, samples are centrifuged, and supernatant is
+aspirated down to 2mL.  Collagenase + Dispase solution is then added, and
+samples are incubated for a further 30min. Samples are washed and centrifuged
+and the bulk of the supernatant is removed. The cell mixture is then passed
+through a 40um cell strainer. Raw isolates are then immediately frozen without
+a plating or culture step.
+
+In order to ascertain if alternative methods may be more suitable for the
+establishment of crocodile fibroblasts culture, a literature search was
+performed. 2 studies were found describing crocodile cell isolation protocols
+[1, 5]. If we look to other reptilian species, further examples of isolations
+can be found. A number of methods have been outlined in the tables below.  In
+summary, there are a number of papers that used outgrowth methods [1, 4,
+6-8,11] as well as some digested sample approaches [2, 3, 5, 9]. Of the
+studies using digestion methods, there was a paper using a 0.06% trypsin
+solution (0.12% added to a equal volume of un-supplemented media) and
+incubated for 10 minutes at room temperature to disassociate cells [5]. A
+study collecting fibropapilloma cells from adult green turtles used a similar
+method to this but incubated the biopsies for longer (1 hr in total) [10]. A
+different paper using green turtle fibroblasts digested their samples in
+300-600U collagenase II with dissociated cells being periodically removed
+until tissue was completely digested (up to 24hours) although this method
+yielded mixed results [2].  Digestion of turtle ovarian cells using a
+combination of trypsin and collagenase I has also been described [9] and glial
+cells have been isolated from adult gecko brain using 0.25% collagenase for
+just 15 minutes [3].
+
+Key Points
+
+  * The freezing of samples immediately after isolation allows us to retain raw isolate for future expansion however culturing cells prior to their initial freeze may provide cells with a better less disruptive start. All the studies mentioned here have plated and cultured cell directly post isolation.
+  * For Vows purposes, digested protocols are most likely more suitable than outgrowths as they allow for a higher proportion of cells within the tissue to be extracted, we will therefore prioritise these protocols for our own use.
+  * While none of the studies listed below included a dispase digestion step, it may still be worth including as an option in our isolation process. Dispase is generally considered to be gentler than trypsin and may therefore aid cell survival.
+  * We may want to try a few methods of isolation, perhaps with longer trypsin digestion, collagenase digestion or with a combination of trypsin and collagenase. 
+  * With the exception of one paper [5], all the papers used a MEM or DMEM/F12 base media. This indicates that the specialised M199  used in our previous crocodile isolation may not be required for culture of reptilian cells. 
+  * While it's not ideal to culture crocodile cells at 37 degrees, a couple of these studies did do their initial isolations at 37 degrees [3, 4]- so perhaps it's not necessarily as deadly as you would think, and our original isolates are potentially salvageable.
+
+
+
+Species
+
+Tissue  
+
+Procedure
+
+Method/Notes
+
+Ref  
+  
+Several including crocodile, various snakes, lizards and turtles
+
+Viscera
+
+Outgrowth
+
+Tissue washed with Ringer's solution, minced, and suspended in Eagles Basal
+Medium + 10% FBS + p/s. Flasks were incubated at 23, 30 or 36 degrees.
+
+ The authors found 30 degrees to be the most effective temperature, with an
+approximate correlation between the temperature of the natural habitat of the
+species and the optimal culture temperature.
+
+[1]  
+  
+Rough Tailed Gecko
+
+Tail tip
+
+Outgrowth
+
+5mm of tail tip used from and adult wild animal. Sample transferred to DMEM
+and cut into 1-2mm pieces. The pieces were then seeded in a culture dish and
+covered with a cover slip. Cells were cultured in DMEM + 20% FBS + p/s. They
+were incubated at 5% CO2 at 37 degrees for 2 weeks before being transitioned
+to a L-15 medium and lower temperatures.
+
+[4]  
+  
+Australian Dragon Lizard
+
+Tail and toe.
+
+Outgrowth
+
+3-10mm samples taken from the ends of tails and toes and transferred straight
+to DMEM + Kanamyicn, chloramphenicol, pen/strep and incubated at room
+temperature (25 degrees) for 12-24hrs. Samples were then washed with PBS and
+minced. Culture flasks were scratched with blade to aid adherence. Minced
+tissue was transferred to culture dish and left to dry with the lid off for
+30-60 min. Fresh media was then added for continued culture.
+
+[6]  
+  
+Chinese Soft-Shell Turtle
+
+Heart and mesentery
+
+Outgrowth
+
+Samples taken from adult animals and macerated and cultured in MEM + 15% FBS +
+42ug/ml L-serine, 100ug/l sodium pyruvate, 30 ug/ml kanamycin and antibiotic
+antimycotic. Cells were incubated at 26 degrees with 5% CO2.
+
+[7]  
+  
+Loggerhead Sea Turtle
+
+Dermal
+
+Outgrowth
+
+3mm x 3mm biopsies were taken and cultured directly into media containing
+either DMEM/F12, DMEM, Hams F12, RPMI each with the addition of 10% FCS and 1x
+antibiotics.  
+ Interestingly, they collagen coated their culture vessels. The researchers
+found that biopsies cultured in DMEM/F12 had the best cell yield. They were
+unable to culture Loggerhead Sea Turtle cells in RPMI based media which was in
+direct contrast to the conditions the same researchers used to isolate cells
+from the Hawksbury Sea Turtle. This shows that preferred media may vary
+between species.
+
+[8]  
+  
+Hawaiian Green Turtle
+
+Heart, liver, muscle
+
+Outgrowth
+
+Samples were washed 3x with DMEM + Antibiotics. They were then macerated and
+transferred to culture flasks (without media). After 3-4 hours, DMEM+ 20% FBS
++ 1x P/S was added. Cells were cultured at 33 degrees C and 5% CO2.
+
+[11]  
+  
+Chinese Soft-Shell Turtle
+
+Ovaries
+
+Digestion
+
+Juveniles aged 1-2 years. Ovary tissue was digested in 1mg/ml collagenase I +
+0.25% trypsin (time not specified). Cell suspension filtered through 40um cell
+strainer, centrifuged at 300xg for 10 min at 10 degrees and then resuspended
+in DMEM + 15% FBS + p/s +bFGF + 1x NEAA + 2nM sodium selenite, 0.8mM sodium
+pyruvate, 2nM glutamine, seabass serum, and medaka fish embryo extracts. Cells
+were cultured in 0.2% gelatin coated culture vessels
+
+[9]  
+  
+Gecko
+
+Olfactory bulb
+
+Digestion
+
+Glial cell cultures. Biopsies taken from the olfactory bulbs and washed
+repeatedly with HBSS. Tissue macerated and then incubated with 0.25%
+collagenase solution (collagenase type unspecified, other component of
+collagenase solution not specified) for 15 minutes at 37 degrees C with 5 %
+CO2. Samples then disrupted with 20G syringe needle and centrifuged at 300G
+for 2min. Pellets washed in HBSS and re-centrifuged. Finally, pellets were
+resuspended in DMEM/F12 +5% FBS + 5% reptile serum + P/S/amphotericin b. Cells
+maintained at 37 degrees with 5% CO2.
+
+[3]  
+  
+Green Turtle
+
+Fibropapilloma and healthy skin
+
+Digestion
+
+3 wild turtles were used + 11 with transmissible agent that causes fibro
+papilloma. 6mm punch biopsies were taken, minced and washed with HBSS. Then
+transferred to HBSS with 300-600U collagenase II and incubated at 30 degrees.
+Disassociated cells harvested at intervals by pipetting the solution into ice
+fold DMEM/F12 +10% FBS. Cells were centrifuged at 400xg for 10 min at 4
+degrees and resuspended in DMEM/F12 +10% FBS. Digestion ran for 12-24hrs.
+Cells were then pooled and seeded into plastic culture dishes at 100,000
+cells/ml and incubated at 30 degrees and 5% CO2 in DMEM/F12 + 10% FBS + p/s.  
+
+[2]  
+  
+Green Turtle
+
+Fibropapilloma
+
+Digestion
+
+Paper is light on detail but the authors minced the biopsied tissue and then
+incubated flasks with a trypsin-EDTA solution in PBS (concentration not
+specified), while stirring with a magnetic rod. The supernatant was collected
+3x at 20 min intervals then centrifuged at a low speed (speed not specified).
+Pellet resuspended and seeded in MEM +10% FBS + antibiotics/fungicides. They
+mentioned that cell attachment was slow but improved after the first passage.
+
+[10]  
+  
+Crocodile
+
+Viscera
+
+Digestion
+
+Segments of viscera placed into tissue culture media for 2 hours. Tissue then
+removed and finely macerated. The mince was then suspended in M199 medium
+before adding an equal volume of 0.12% trypsin solution and incubating for 10
+minutes. The solution was then filtered through a cell strainer and then
+transferred to culture dishes.  
+ Culture Media: M199 Media supplemented with 15% FBS, 20ng/mL EGF and
+antibiotics, 28 degrees Celsius (CO2 not specified).
+
+[5]  
+  
+
+
+References
+
+1\.            Clark, H.F., et al., Characterization of reptilian cell lines
+established at incubation temperatures of 23 to 36. 1970\. 133(3): p.
+1039-1047.
+
+2\.            Herbst, L.H., et al., Tumorigenicity of green turtle
+fibropapilloma-derived fibroblast lines in immunodeficient mice. 1998\. 48(2):
+p. 162-167.
+
+3\.            Grzesiak, J., et al., Morphological characterization of gecko's
+(Eublepharis macularius) glial cells in culture. 2013\. 31(3): p. 826-831.
+
+4\.            Moghanjoghi, S.M., et al., Establishment and characterization
+of rough-tailed gecko original tail cells. 2018\. 70(5): p. 1337-1347.
+
+5\.            Hyndman, T.H., et al., Molecular identification of three novel
+herpesviruses found in Australian farmed saltwater crocodiles (Crocodylus
+porosus) and Australian captive freshwater crocodiles (Crocodylus johnstoni).
+2015\. 181(3-4): p. 183-189.
+
+6\.            Ezaz, T., et al., A simple non-invasive protocol to establish
+primary cell lines from tail and toe explants for cytogenetic studies in
+Australian dragon lizards (Squamata: Agamidae). 2008\. 58(3): p. 135-139.
+
+7\.            Kawai, A., et al., Different origins of bird and reptile sex
+chromosomes inferred from comparative mapping of chicken Z-linked genes.
+2007\. 117(1-4): p. 92-102.
+
+8\.            Fukuda, T., et al., Expression of human mutant cyclin dependent
+kinase 4, Cyclin D and telomerase extends the life span but does not
+immortalize fibroblasts derived from loggerhead sea turtle (Caretta caretta).
+2018\. 8(1): p. 1-15.
+
+9\.            Xu, H., et al., Isolation and in vitro culture of ovarian stem
+cells in Chinese soft‐shell turtle (Pelodiscus sinensis). 2018\. 119(9): p.
+7667-7677.
+
+10\.         Mansell, J.L., et al., Initiation and ultrastructure of a
+reptilian fibroblast cell line obtained from cutaneous fibropapillomas of the
+green turtle, Chelonia mydas. 1989\. 25(11): p. 1062-1064.
+
+11\.         Work, T.M., et al., In vitro replication of chelonid herpesvirus
+5 in organotypic skin cultures from Hawaiian green turtles (Chelonia mydas).
+2017\. 91(17): p. e00404-17.
+
+
+
+
+
+
+
+
+

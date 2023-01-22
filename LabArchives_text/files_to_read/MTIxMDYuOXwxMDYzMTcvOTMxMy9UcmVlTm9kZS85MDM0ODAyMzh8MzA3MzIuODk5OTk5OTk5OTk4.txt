@@ -1,0 +1,207 @@
+Written by: Lily 25-August-2022 submitted for review: 25-August-2022
+
+
+Why? Accountability and so the reader/reviewer knows who to address in follow
+up comments and questions.
+
+
+Reviewed by: Victoria Prior  Date: 25-August-2022
+
+
+Why? It is important that the experimental plan is reviewed prior to
+experiment start, this is because a reviewer may be able to pick up on key
+errors or oversights. An example of such an oversight would be an experiment
+that has been planned without sufficient replicates or controls to determine
+if an outcome is significant. Or perhaps the reviewer will be able to simplify
+the experiment, by reducing cell demand and/or experiment duration, which
+would help us to reach our goals in a more efficient manner.
+
+
+Aim: to determine whether seeding densities of ≥ 500k/mL will lead to maximum cell densities of ≥3M cells/mL in our current growth medium
+
+
+Copy from Header Info page.
+
+
+Hypothesis: that seeding densities of ≥ 500k/mL will allow for a maximum density of ≥3M cells/mL
+
+
+Copy from Header Info page.
+
+
+Background
+  
+Y/N     LinksJustification  
+Is this a continuation of a previous experiment/series of work?  YLink to
+previous seeding density experiment  
+We observed a positive trend between seeding densities and final maximum
+densities in a past experiment (linked), however the difference in maximum
+densities was not significant. We have come back to investigate whether a more
+aggressive increase in seeding densities may lead to a significant difference
+in maximum densities. We hypothesise that there are some crucial media
+ingredients either being used up or degraded in the medium by days 5-6 without
+feeds, given our cells consistently enter the death phase after this time-
+point. By seeding higher and achieving a steeper growth curve in the first 5
+days, we will hopefully allow the cells to reach a higher maximum density
+before the death phase begins.  
+Is the experiment based on findings from literature research?  
+  
+Why do we think that this is worth investigation. What is the knowledge gap?  
+  
+  
+  
+
+Variable* (include full names not just abbreviations)
+
+ Description (e.g. what concentrations are being tested)
+
+Justification
+
+ Relevant links (e.g. to literature and/or product pages)  
+Seeding density 200K, 500K, 1M, 2M cells/mLExplained in table aboveSee link in
+table above  
+  
+  
+  
+  
+  
+  
+*factor that is to be manipulated, controlled for, or measured in an experiment e.g. media additive or seeding density  
+  
+Why? Including a background section provides justification for why certain
+research choices were made and prompts you to ensure that this is an
+appropriate research direction i.e. one which will likely assist us in
+reaching our goals. This is important to the reader/reviewer as well as to
+project leads and ultimately investors, ensuring that our time, money and
+energy is being put to good use.  
+
+
+
+
+Reviewer comments [VP]
+
+  * my OCD tendencies want to make 1:2 dilutions from 2M cells/mL to 250k/mL but understand that 200k is the control as our now standard practise. Recommend making the 1:2 dilutions anyway for the seeding (bar 200k/mL condition). Could prepare dilutions so that the same volume is added per flask 
+  * [LL] I've changed the plan slightly to do dilutions from the same cell stock 
+
+
+Methods
+
+
+Concisely and clearly describe the experiment design, ensure that the
+following information has been included:  
+  
+What combination of factors are being tested? (if relevant use a table to
+demonstrate this)  
+  
+
+Replicate number
+
+Cell type/s
+
+Experiment
+
+duration
+
+Timepoints
+
+Total number of cells needed
+
+Number and type of vessels required**
+
+Controls
+
+Base media
+
+Method/s of measurement
+
+Quantitative or qualitative***  
+  
+3Nuvonis suspension6-7 daysDays 1,2,3,4,5,6,7315M (note that this does not
+include the cell requirement to seed the control flasks, as we are sharing a
+control with experiment 828)9 x E125s (not including control flasks)E125s
+seeded at 200K cells/mL (seeded with experiment 828)R&D 50:50 CHO/RPMI Nuvonis
+suspension mediumCell countsQuantitative  
+  
+*See the following page on statistics, specifically the power calculations section to determine appropriate number of replicates  
+*number does not include vessels required for cell expansion prior to testing variables  
+**will the results retrieved be quantitative (data that can be
+counted/measured using numbers and can be used to calculate significance) or
+qualitative (cannot be counted/measured/expressed easily using numbers,
+results are more observational and open to interpretation)  
+  
+Why? The tabulated information above represents the critical information
+required to repeat the experiment and interpret the findings. Thus, it is
+important that it is documented clearly for reproducibility purposes. Note -
+it is preferred that experiments generate quantitative data with enough
+replicates to calculate significance, if the experiment only results in
+qualitative findings please take time to reassess the experimental plan, can a
+quantitative method be used? will qualitative findings be sufficient to decide
+whether the outcomes are successful or not? how can you limit bias and error
+in recording these findings?  
+  
+
+
+Plate map (or other relevant diagram): N/A
+
+
+Why? Clear and easy to follow thus minimising chance of error
+
+
+Timeline
+
+
+Daily breakdown of tasks in table form.
+
+Day
+
+Date
+
+Task
+
+Reviewer comments  
+  
+025-Aug-2022
+
+  1. Prepare 280 mL x R&D 50:50 RPMI:CHO Nuvonis suspension medium with growth factors 
+  2. Perform cell count on continuous culture vessel being used for seeding (taking cells from MFG)
+  3. Transfer aliquot of MFG cell suspension containing 320M cells
+  4. Centrifuge for 5 min at 500 x g 
+  5. Aspirate supernatant 
+  6. Re-suspend in 160 mL of growth medium (2M cells/mL)
+  7. Transfer 30 mL of cell suspension to each of 3 x E125s
+    1. Leave as is (2M cells/mL) 
+  8. Transfer 15 mL of cell suspension to each of 3 x E125s
+    1. Add 15 mL of growth medium to each E125 (1M cells/mL)
+  9. Transfer 7.5 mL of cell suspension to each of 3 x E125s
+    1. Add 13.5 mL of growth medium to each E125 (0.5M cells/mL)
+  10. Incubate E125s at 37'C, 120 RPM
+
+  
+  
+126-Aug-2022  
+Perform cell counts on all cultures using Cellaca  
+  
+227-Aug-2022  
+Perform cell counts on all cultures using Cellaca  
+  
+  
+328-Aug-2022  
+Perform cell counts on all cultures using Cellaca  
+  
+  
+429-Aug-2022  
+Perform cell counts on all cultures using Cellaca  
+  
+  
+530-Aug-2022  
+Perform cell counts on all cultures using Cellaca  
+  
+  
+631-Aug-2022  
+Perform cell counts on all cultures using Cellaca & discard cultures  
+  
+  
+  
+Why? Clear and easy to follow thus minimising chance of error
+
+

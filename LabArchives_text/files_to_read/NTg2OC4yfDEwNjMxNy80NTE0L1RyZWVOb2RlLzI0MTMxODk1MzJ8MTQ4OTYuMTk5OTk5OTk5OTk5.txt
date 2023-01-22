@@ -1,0 +1,178 @@
+
+
+## Completed by: Shaleen Sharma  
+
+
+Aim/Purpose
+
+
+To automate the feed and immunostaining workflow central to any
+differentiation/maturation study and provide the framework to increase the
+throughput of our individual studies three-fold.
+
+
+Hypothesis
+
+
+The vast majority of the manual workflow of feeding and immunostaining will be
+able to be successfully translated to an automated platform. The automated
+process will be more precise and efficient than the manual workflow and
+significant time-savings will be achieved.
+
+
+Technical Gap
+
+
+By introducing liquid handling automation, we can free up the bandwidth of our
+scientists to research and develop alternative strategies to increase the
+maturation of our muscle. Furthermore, by mitigating the element of manual
+pipetting we can widthstand an increase in experiments as the feeding
+schedules of these would be automated.
+
+The key technical gap is whether a clear benefit in terms of efficiency,
+reliability and accuracy is seen from automating feeds and immunostaining.
+Moreover, it is unclear whether the manual workflow can be successfully
+translated to the automated platform without affecting the viability and
+maturation of our muscle cells.  
+  
+
+
+Method/Procedure
+  
+  
+Figure 1: Overview of EPIC
+
+
+  
+  
+Experimental protocol for feed automation:
+
+  * Write protocols for all feeds and immunostaining for 12 well plates and 96 well plates.  
+
+  * Perform water runs for each protocol and note down improvements that can be made.
+  * Perform second and subsequent water runs with improved protocols (v2, v3 etc.).
+  * Seed two 96 well plates and two 12 well plates with MuSCs.
+  * Mature each plate for several days, with one set being feed manually and the other using the OT2.
+  * Compare cell viability and MyoG/MF20 signal between the two conditions (automated feeds vs. manual) using automated immunostaining protocols*
+
+*Automated immunostaining has been done previously at Vow and has shown no significant differences between manual and automated workflows (although automated MyoG signal was shown to be slightly higher than manual). See here:  
+  
+Note that these protocols while different to the experiment linked above,
+should be very similar in terms of workflow.
+
+
+  
+  
+Figure 3: OT2 deck layout for cell run
+
+
+  
+  
+The cell run section of this EPIC will compare the automated and manual media
+change/feed process. The above deck layout highlights that both the 12 well
+plate and the 96 well plate will be fed in the same protocol daily. The manual
+feeding process will be done as has been normally done in the Maturation
+project with no changes.
+
+
+
+
+Experimental details
+
+  
+
+12 well plate
+
+96 well plate  
+  
+Cell type
+
+C2C12
+
+C2C12  
+  
+Number of plates
+
+2
+
+2  
+  
+Working volume for each well
+
+2mL
+
+120uL  
+  
+Expected seed date
+
+15/10/21
+
+15/10/21  
+  
+Number of wells seeded
+
+12 (all)
+
+96 (all)  
+  
+Proliferation period
+
+2 days (over weekend)
+
+2 days (over weekend)  
+  
+Proliferation media required
+
+26mL (both plates)
+
+15mL (both plates)  
+  
+Seeding density (cells/well)
+
+20,000
+
+2500  
+  
+Total cells required
+
+480,000 cells
+
+480,000 cells  
+  
+Maturation period
+
+4 days (Mon - Thurs)
+
+4 days (Mon - Thurs)  
+  
+Differentiation start date
+
+18/10/21
+
+18/10/21  
+  
+E6 media requirements (daily)
+
+28mL each plate
+
+14mL each plate  
+  
+Total E6 requirements
+
+224mL
+
+112mL  
+  
+Markers of success
+
+  * DAPI count comparison
+  * MyoG/MF20 signal
+  * Time savings
+  * Variability within conditions
+
+  * DAPI count comparison
+  * MyoG/MF20 signal
+  * Time savings
+  * Variability within conditions
+
+

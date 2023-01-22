@@ -1,0 +1,34 @@
+
+
+Peristaltic Pump Bioreactor Preliminary Tests
+
+Operator: JB  
+  
+
+Preparation:
+
+  1. No autoclaving necessary. All work completed outside the BSC.
+  2.  500 mL schott bottle filled with tap water. Red dye added to simulate media.
+  3.  Pump set to 140 RPM. Max speed is 200 RPM.  
+  
+
+Results:
+
+The peristaltic pump successfully pumped media into and out of the bioreactor.
+This could be manually turned on and off, with the direction of flow also
+changed manually by using the peristaltic pump interface.
+
+  
+
+Observations:
+
+  1.  The originally silicone tubing chosen to be used was too thick and caused the tube to be pulled through the pump, rather than just the fluid being moved through the tubing. The tubing was switched to one with the same outer diameter, but a larger inner diameter, so the tube walls were thinner and less stiff. This resulted in successful pumping of the fluid into and out of the bioreactor.
+  2.  The silicone tubing kept suctioning the bottom of the schott bottle or ractor when sucking the fluid out of that container, so no fluid could flow. This also resulted in the setup shaking violently, disturbing the reactor and schott bottle. A plastic connector was added to the bottom of the tubes to help prevent suctioning at the bottom of the container.
+
+  
+
+Relevant Images/Videos
+
+  
+
+

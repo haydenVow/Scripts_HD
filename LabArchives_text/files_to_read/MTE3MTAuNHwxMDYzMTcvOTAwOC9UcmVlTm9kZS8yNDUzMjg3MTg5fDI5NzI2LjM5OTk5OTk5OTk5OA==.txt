@@ -1,0 +1,37 @@
+Background and Aims
+
+
+Background
+
+Nuvonis cells grow optimally to very high cell density (6M/ml) in Hycell Media
+supplemented with IGF1 and EGF. Currently we are using a lot of media (~4-8L
+per week) and therefore a lot of GFs.
+
+Aim
+
+To trial how well Nuvonis suspension cells grow without IGF and EGF
+supplementation.
+
+Experimental plan
+
+We will seed 100k cells per mL into 3xE250 flasks cultured in 50/50
+RPMI/Hycell + GF media and 3xE250 flasks cultured in 50/50 RPMI/Hycell only.
+Flasks will be cultured for 6 days and cells will be counted every other day
+to track cell growth. Media will not be changed during this period.
+
+
+Methods
+
+
+  1. Cells were passaged and harvested according to the Cell Supply protocol on 18th July.
+  2. Flask #12912 was used to seed 6x E250 flasks with 100,000 cells per mL in 50mL of media for a total of 5 million cells per flask
+  3. Flasks were cultured at 37deg at 120rpm shaking speed in incubator #76(?)
+  4. Flask IDs and conditions were as follows:
+    1. 12931 \- With GF
+    2. 12932 \- With GF
+    3. 12933 \- With GF
+    4. 12934 \- No GF
+    5. 12935 \- No GF
+    6. 12936 - No GF
+
+

@@ -1,0 +1,156 @@
+
+
+MTT STAINING PROTOCOL
+
+Reagent Preparation (Example dilution is 75 mg MTT in 15 mL Diluent - so 5mg
+of MTT per mL)
+
+ReagentMix/Stock/Aliquot NumberVolumes/Mass  
+  
+MTT
+
+  
+40 mg  
+  
+DMEM  
+8 ml  
+  
+  
+ Protocol:
+
+24 Samples
+
+  1. Aliquotted 8 ml of DMEM media and placed in water bath ,    10:30-11:00
+  2.  Retrieve N = 1 alginate from bioreactor and N = 1 alginate from the 6 well plate and N = 1 cell seeded zein from the 24 well plate
+  3. Weighed out 40 mg of MTT (Stock #884) into a falcon tube then add  8 ml of the pre-warmed DMEM.  
+  4. Pipetted up and down until re-suspended. Yellow colour should form. Cover tube with foil.
+  5. Returned to water bath 11:10 - 11:40
+  6. Removed the vessels containing the alginate samples from the incubator 11:40
+  7. Using a sterile spatula, transferred samples to new wells of a 24-well plate
+  8. Covered each sample with 2 ml per well of the MTT DMEM PRF media. 
+  9. Protected the plate from light using foil and placed in the incubator for 1h (37ºC, 5% CO2). 12:10 - 13:20
+  10. Replaced media with PBS for better visibility of the sample colour.
+  11. Took pictures of the samples in the MTT plate using a phone/camera and attach below.  14:10  
+
+  12. Imaged samples down the microscope (phase), 3 images per sample. Upload images below. 14:50
+
+Note - purple coloration indicates live cells - samples which remain yellow
+suggest no cells or dead cells
+
+General observations:
+
+All alginate samples showed a black stain with good cell coverage.
+
+The zein samples had a purple tinge but not visibly black on either side. The
+zein cell seeded from the 24WP control and the ractor did not look any
+different from the cell free by eye. No cells could be seen under the
+microscope because the zein blocked out all light.
+
+  
+
+Phone Camera Images
+
+  
+
+  
+
+Cell Free
+
+  
+
+  
+
+Flipped
+
+  
+
+MIA Images
+
+\- note: backlog of images from zaber on the network caused issues when taking
+these images.
+
+  
+
+6535 (24WP Control)
+
+https://mia-capture.vow.tools/#/session/recH0d7VNQXVjXIxz/images
+
+  
+
+6536 (6WP Control)
+
+https://mia-capture.vow.tools/#/session/recy27nGKXKzs8moW/images
+
+  
+
+6537 (Reactor)
+
+https://mia-capture.vow.tools/#/session/reck6bIPucluQMfku/images
+
+
+
+
+FIX and DAPI STAINING PROTOCOL
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs:` removed reactor and 24w plate containing scaffolds from the incubator.
+
+  2. Used sterile tweezers to carefully transfer   `21`  scaffold pieces to separate wells on a 96 well plate.
+
+  3. Washed the pieces on the 24 well plate 2 times in 2 ml of PBS for  `5`  minutes at room temperature.
+
+    1. 15:33-15:38
+    2. `15:39-15:44`
+  4. Added   1 mL of 4% PFA to each scaffold and incubate for  `15` min at room temperature.
+
+    * `15:30-15:45`
+  5. Washed pieces once more for   `5` minutes in PBS at room temperature.
+
+    * `15:48-15:53`
+    *   
+
+  6. Aspirate PBS and stain the pieces with 1 mL of DAPI in PBS (1:1000) (21 x 1 ml = 21 ml -> 21 ul of DAPI required)  
+  
+Leave for 5 minutes in the dark.
+
+    * `15:56-16:01  
+`
+
+    *   
+
+  7. Wash the pieces 2 times for   5   `minutes in` 2 ml of PBS.
+
+    1. `16:05 - 16:10`
+    2. `16:14 - 16:20`
+  8. Aspirate the PBS and leave the scaffold pieces just covered by fresh PBS. time
+
+`label the plate halves with the respective culture IDs and date of fixing
+and/or staining`
+
+  
+
+Placed in the biomaterials fridge. `16:22`
+
+  
+
+
+
+
+Maturation Bioreactor Additional Observations
+
+\- Media Colour: Yellow/Pink
+
+\- Bioreactor Lid: No observations
+
+\- Tray Insert: NA
+
+\- Bioreactor Base: No observations
+
+  
+
+  
+
+  
+
+

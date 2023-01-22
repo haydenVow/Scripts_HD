@@ -1,0 +1,71 @@
+
+
+Below is a dummy header entry to be copy and pasted into all new EPIC pages in
+Lab Archives. Please complete the Link to Clubhouse, Aims and Hypothesis
+BEFORE you begin the experiment.
+
+At the completion of any EPIC please do the following:  
+1\. Ensure all sections of this page are complete  
+2\. Email a link to this page to the project leader  
+3\. Project leaders will then review all information and digitally sign this
+page (click the screwdriver and wrench icon in the top right of this page)  
+4\. Project leaders should then send a link to the signed page to James Ryall
+
+
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.shortcut.com/vowfood/epic/21185?vc_group_by=day&cf_workflow=500000866&ct_workflow=all
+
+LINK TO AIRTABLE ENTRY PAGE:
+https://airtable.com/appTGkDdNCLDRQpB3/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recy9jT4O6cUGTGlN?blocks=hide
+
+RELATED TO OKR: PPP_Q4_KR2_Characterise 2 x QMS-compliant suspension-adapted
+fibroblast clones from our chosen species
+
+AIM/PURPOSE: To investigate what impact varying levels of UVB irradiation and
+varying concentrations of a P53 inhibitor have on short-term crocodile
+fibroblast viability.
+
+HYPOTHESIS: We hypothesise that the viability and growth of cells exposed to 5
+mj/cm2 of UVB irradiation will be unaffected, while 300 mj/cm2 UV will cause
+immediate cell death (based off previous results Mutagenesis Trial 2). We
+hypothesise that no concentration of the P53 inhibitor will be detrimental to
+cell growth and survival.
+
+RESULTS SUMMARY:
+
+  1. 5 - 15 mj/cm2 did not appear to have an impact on cell growth or morphology 
+  2. 30 - 60 mj/cm2 appeared to have a moderate impact on cell growth and mild impact on morphology 
+  3. 300 mj/cm2 appeared to have a severe impact on both cell growth and morphology 
+  4. The survival and growth of cells in 10 uM P53i, 30 uM P53i, and DMSO supplemented medium conditions did not appear to differ from cells in the control growth medium. Given this result, we hypothesise that the low count of cells in 30 nM P53i medium was due to cells being aspirated during the passage
+  5. The poor survival and growth of cells in UV control may have been due to the heat stress from exposure to the UV lamp. This result also suggests that cells in UV-exposure conditions are likely to also be impacted from heat, not solely the UV-irradiation. 
+
+CONCLUSIONS: Our hypothesis around UV-exposure was confirmed, as the survival
+and growth of cells exposed to <15 mj/cm2 of UVB irradiation did not appear to
+be affected, while 300 mj/cm2 resulted in mass cell death. Our hypothesis
+around P53i was mostly supported, however the outlier results seen in cells
+treated with 30 nM P53i was unexpected. As stated in results, this is assumed
+to have been a result of cell pellet aspiration, rather than the P53i. While
+we had replicate wells (n=4) to monitor cell confluence and morphology, the
+replicates were combined during passaging for cell counts due to labor and
+time constraints. Therefore, we cannot apply statistical analysis or draw
+conclusive results from this experiment .  
+
+NEXT STEPS:
+
+  1. Lily and Marie will plan a follow-up experiment where cells will be exposed to UV-irradiation while in the presence of a P53-inhibitor. The proposed combinations are:
+    *   
+Treatment  
+  
+P53i (uM)UV (mj/cm2)  
+Condition 1 10300  
+Condition 210150  
+Condition 330300  
+Condition 430150  
+Control 10300  
+Control 2300  
+Control 300  
+  2. Set up a safer method for UV-irradiating cells which does not involve a scientist being exposed to UV-B irradiation 
+
+

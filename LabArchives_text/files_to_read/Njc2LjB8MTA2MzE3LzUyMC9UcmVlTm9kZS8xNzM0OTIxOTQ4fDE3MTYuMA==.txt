@@ -1,0 +1,75 @@
+Experimental Plan: Conditions for optimal fibroblast aggregation
+
+
+Clubhouse Link: https://app.clubhouse.io/vowfood/epic/17048/conditions-for-
+optimal-fibroblast-aggregates?ct_workflow=all
+
+Airtable Link:
+https://airtable.com/tblg6twoOUgW08iLA/viwK5Elaw1pIYYJug/recXUTw7nf50Zfix9?blocks=hide
+
+Main purpose of the experiment: To optimise conditions for creation of
+fibroblast aggregates
+
+What we don't know (R&D): We don't know if different amounts of TGFb or
+Vitamin C will have an effect on timing or quantity of the fibroblast
+aggregates formed. We also don't know if shaking the flask is required for
+fibroblast aggregation.
+
+  
+Hypothesis: We hypothesise that 10ng/mL TGFb + 50ug/mL vitamin C + shaking are
+the optimal conditions for formation of fibroblast aggregates.
+
+  
+
+Experimental Plan
+
+Day 1 - [TUESDAY] Passage 1 x T175 of Fibroblast cells to multiple T75s (seed
+at 7k cells per cm2)
+
+Day 4 - [FRIDAY] 50% Feed Fibroblast cells (or passage if cells are already
+over-confluent)
+
+Day 7 - [MONDAY] 100% feed with media containing various amounts of Vitamin C
+(aka ascorbic acid) and various amounts of TGFb. Place some T75s on a shaker
+as indicated in the experimental layout (below). The shaker should be set at
+100rpm.
+
+Day 8 - [TUESDAY] Monitor Fibroblasts for aggregates. Image if present.
+
+Day 9 - [WEDNESDAY] Monitor Fibroblasts for aggregates. Image if present.
+
+Monitor flasks until the end of the week (Friday). Based on these results,
+make a decision about what conditions to deploy into production. If desired by
+the production team for Project Artemis, harvest and weigh the pellets.
+
+  
+Experimental Layout:
+
+Thursday Conditions: (100% confluent)
+
+1) 50ug/mL Vit C + 10ng/mL TGFb on a shaker platform for 1-2 hours.
+
+  
+
+Wednesday Conditions: (100% confluent)
+
+1) 50ug/mL Vit C + 10ng/mL TGFb on at static rest.
+
+3) 50ug/mL Vit C + 0ng/mL TGFb at static rest.
+
+4)  0ug/mL Vit C + 10ng/mL TGFb at static rest.
+
+6) 100ug/mL Vit C, 20ng/mL TGFb at static rest.
+
+  
+
+Monday Conditions (90% confluent)
+
+1\. 100ug/mL Vit C, 20ng/mL TGFb at static rest.
+
+2. 50ug/mL Vit C + 10ng/mL TGFb at static rest.
+
+  
+  
+
+

@@ -1,0 +1,38 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+Pilot run of Nuvonis culture in 3L Mobius stir-tank bioreactor (to establish
+how culture behaves in our hands following tech transfer)
+
+
+Hypothesis
+
+
+As above
+
+
+Technical Gap
+
+
+Vow do not routinely culture cells using a bioreactor - this is a pilot run to
+establish conditions and workflow in-house, and to confirm cells retain
+viability in stir-tank bioreactor as described by supplier
+
+
+Method/Procedure
+
+
+As per LabArchives Mobius template. Briefly,
+
+  1. Culture cells in shake-flask to required density (100 000 000 cells total)
+  2. Prepare Mobius bioreactor as per template, prepare 2L media
+  3. Seed cells into bioreactor
+  4. Monitor cell count and morphology over 5 days
+  5. Harvest on day 5
+
+

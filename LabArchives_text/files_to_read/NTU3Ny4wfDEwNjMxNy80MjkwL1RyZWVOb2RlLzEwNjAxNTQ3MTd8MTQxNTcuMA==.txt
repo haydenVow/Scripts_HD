@@ -1,0 +1,190 @@
+  
+  
+what is the benefit of a mature muscle product? nutrient profile for mature
+muscle vs myoblast/fibroblast? B12, creatine, myoglobin.
+
+Summary table on notion https://www.notion.so/vow/Components-in-muscle-
+fcdb339eb27240c2a53054c184530032
+
+https://www.notion.so/vow/Potential-nutrients-unique-to-animal-products-
+targets-for-a-mature-muscle-product-at-Vow-0fc304c611254e6cbbf01c5bd5f16bbf
+
+for next quarter: how can we improve the myoglobin content
+
+
+
+
+Ideas and resources:
+
+  
+
+Proteomics:
+
+  * Sydney Uni, ben.crossett@sydney.edu.au
+  * Marie might have some great ideas here!
+  * Need 1g per sample for this!
+
+Lipidomics:
+
+  * Nourish Ingredients has run this for us
+  * look into arachidonic acid (--> influences taste of meat?)
+  * need 100 mg per sample for this
+
+  
+
+Could there be 2 components to this KR? one that is to scour literature for
+candidates and develop assays for them, the other to characterize our in-house
+cell lines and run any available analytics pipeline on them
+
+  1. research factors/minerals/nutrients/metabolites that are unique to mature muscle
+    1. Vitamin B12 expert in house: talk to Tom!!!
+  2.  cell expansion for different species/cell types and analytics in comparison (e.g. DOLLY vs CHOMP, FIBRO vs MYO vs TUBES)
+    1. Run high level plans by George and Tim to get them excited and to get feedback?
+
+
+
+
+  
+
+Ellen Dinsmoor  9 days ago  
+
+Speaking of this, where did we land with our proteomics work from U-Syd? @Tim
+did you ever discuss the actual analysis of this with Marie? We have data but
+I don't know if we have any conclusions from it yet.
+
+  
+
+Tim  9 days ago  
+
+We did, they identified the top 10 proteins (its in the labarchives notebook)
+there is one notable interesting things in there worth exploring that is often
+sythesised and used in muscle recovery / doping for professional sports
+
+Tim  9 days ago  
+
+what will be more interesting is comparing across species and cell types
+
+1
+
+  
+
+ChrisOK  9 days ago  
+
+@Tim @Marie would you have the link to that LA page and the USYD contacts?
+
+Tim  9 days ago  
+
+@Ellen Dinsmoor do you know how to get Chris access??
+
+Ellen Dinsmoor  9 days ago  
+
+@Tim we need to tell Ben at U-SYD to give him access. I'll email now.
+
+1
+
+  
+
+Marie  8 days ago  
+
+@Ellen Dinsmoor @Tim In response to Ben's question, I was a bit surprised that
+the IBEQ results and the EMPAI results didn't match up.  These are 2 different
+methods of relative label-free quantification, but it looks like some of the
+top proteins were different between the 2.  Not a big deal by any means-- if
+anything I'd want to point this out and thank them for providing us with both
+data sets!
+
+  
+
+
+
+
+Meeting notes:
+
+  * Compare with V2 or other competitor product 
+  * https://www.metaboanalyst.ca/faces/home.xhtml
+  * Compare DOLLY12 fibro again 
+  * Look into database on MCB vial and muscle tissue 
+
+
+
+
+
+
+
+Stock track (on Oct 22)
+
+E6 ingredients:
+
+LAA2P (100mg/mL) : 1g LAA2P powder in 10mL PBS > will need to order more (~20g
+LAA2P in stock - ambient and fridge used by production)
+
+Insulin (100mg/mL in 0.1 M hydrochloric acid): 1g insulin + 9.9mL milliQ +
+0.1mL hydrochloric acid > will need to order more soon (~7g  freezer in stock)
+
+Sodium selenite: 0.05g + 50 mL PBS (24g ambient in stock)
+
+Transferrin (100mg/mL): 1g in 10mL PBS  > will need to order more  (2g in
+stock freezer)
+
+Pen strep < (400 mL left)
+
+
+
+
+Lipid meeting with Anna (CTO @Nourish)
+
+Anna El Tahchy | CTO
+
+Nourish Ingredients Pty Ltd
+
+E: anna@nourishing.io M: 0449941716
+
+LinkedIn: http://linkedin.com/in/anna-el-tahchy-1879aa1b1
+
+  
+
+Relevant lipid types:
+
+  * phospholipids fatty acids are more stable overall than triglycerides to the maillard reaction. Therefore it is more ideal to have this in our cells phospholipid layer. The amount of it will influence the melting point and cooking behaviour 
+  * polyunsaturated fatty acids (PUFA) eg Omega6 have ability to generate more volatiles compared to monounsaturated and saturated fatty acids. This is because the double bonds become unstable during the maillard reaction, with each double bond being hydrolysed during cooking, creating five carbon chain volatiles. (eg arachidonic acid 20:4 contains 4 double bonds > 4 x 5 carbon chain). These volatiles can react with certain peptides and generate aroma/flavour . 
+  * Triglycerides are prone to lipases and break down easier to generate off flavours and aroma (generates more volatiles, double bonds become unstable eg ARA C20.4). They do however contribute to texture and therefore we may need it in our cells. Would want some hard fat containing triglycerides that are solid at room temperature and melt at 45 degrees. Able to achieve through genetic engineering of our cells.   
+  * Other notes on lipids 
+    * The higher the saturation, the greater the melting point. In hard fats, we would want 18:0, 18:1. Would not want 16:1 or unsaturated fats as this would make the fats fluid.  
+    * Interested in arachidonic acid - these are present in our samples at 12%, similar to commercial meat.Arachidonic acid is associated with meat aroma.
+    * LCMS - required for checking location of double bonds or structure of lipids. --> Wouldn`t this rather be done using NMR or crystallography?
+    * Omega 3 - associated with off flavour notes (fish notes)
+    * https://www.sciencedirect.com/science/article/abs/pii/S0308814698000764
+
+  
+
+Lipid in our sample observed in Tim/Ellen`s run
+
+  * TLC - more phospholipids than triglycerides and also saw free fatty acids and diglycerides in samples sent 
+    * Diglycerol (pre-cursor of triglyceride) - not much influence on aroma or nutrient
+
+\--> How to influence lipid percentage in cells  
+
+  * modify media nutritional compounds to trigger accumulation of particular fatty acids of interest  \- Feed cells arachidonic acid, oleic, stearic acid 
+  * Oleic acid = 18:1 - mammalian cells are known to feed on this during starvation, therefore accumulate these for survival purposes. Worth seeing if total lipid content increases with addition of oleic 
+  * Fermentation conditions (more relevant to yeast, may not be suitable for mammalian) - reduce O2
+  * Genetic Engineering = Knockout genes to remove certain fatty acid generation or overexpress certain genes involved in fatty acid synthesis 
+
+  
+
+Next steps:
+
+  * Can send samples to nourish for analysis comparison with yeast and fungal strand - would require 100mg of cells
+  * Able to send 50 mg of some samples to nourish to understand composition and content, or fractionation of phospholipids and triglycerides.     
+  * Best starting point - look into phospholipid composition in terms of molecular species and fatty acid content, which will help determine amount of cells required for product for meat aroma 
+    * look into molecular species to define if phospholipid is in the SN1 or SN2 position for cells vs meat (assist with FSANZ enquiries)
+  * Headspace analysis
+    * GC - MS allows for volatiles to be captured during heating/baking 
+    * Nourish developing database on fingerprint of different meats to assist in eng-development in their yeast 
+    * Therefore, headspace works better when the samples are heated as required volatiles are immediately captured, rather than sending a heated sample for analysis (this is less effective as you would lose most volatiles generated) 
+    * Suggest to do headspace analysis on the best performing maillard samples to check that the polyunsaturated lipids are generating the right volatiles during the cooking process. (See if proteins and fats are working together to generate volatiles of interest in the maillard samples) 
+    * Worth looking into different temperatures as well on the types of volatiles generated 
+  * Check cholesterol and ergosterol content for health/nutrition purpose 
+    * Waxes also influence texture, but cannot be used in high quantities and would have to be regulated
+  * Build database to see what is present in commercial meats to compare with our cells 
+
+

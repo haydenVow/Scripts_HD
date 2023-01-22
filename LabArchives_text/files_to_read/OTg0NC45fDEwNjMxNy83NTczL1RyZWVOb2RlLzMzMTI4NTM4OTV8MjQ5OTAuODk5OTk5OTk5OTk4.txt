@@ -1,0 +1,164 @@
+
+
+## Performed by: EC/NH  
+
+
+
+
+DNA Extractions:
+
+CHOMP DNA sampleTreatmentDate cell pellet was frozen  
+  
+1R6 ZIC110/3/22  
+  
+2R6 ZIC1 + CDKN1A  
+10/3/22  
+  
+  
+3R6 CDKN1A + CDKN1B10/3/22  
+  
+  
+  
+4R6 ZIC1 + DHSR310/3/22  
+  
+  
+5R6 Control 10/3/22  
+  
+  
+6R7 LOX17/3/22  
+  
+7R7 LARS17/3/22  
+  
+  
+8R7 BCL2L1117/3/22  
+  
+  
+9R7 Control17/3/22  
+  
+  
+10R8 PABPC1 + CDKN1A 25/3/22  
+  
+11R8 Control 25/3/22  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+ReagentsReagent IDs  
+Primers  
+  
+  
+dNTPs  
+  
+Q5 buffers  
+  
+Q5 polymerase  
+  
+quick extract  
+  
+  
+  
+  
+
+
+
+
+PCR amplification using BENTOLAB
+
+  1. Cell pellets were removed from the -20 freezer in the library lab. 
+  2. 25uL of QuickMix DNA extraction reagent was added to each of the tubes
+  3. Tubes were breifly spun down in the microfuge to ensure all cells were captured in the quick extract reagent.
+  4. Solutions were mixed using a pipette and then transferred to PCR tubes.
+  5. Tubes were put though a thermocycling program for DNA extraction on the BentoLab and were then left at room temperature while preparing PCR reactions.  
+65 degrees C for 6 minutes followed by 98 degrees for 120 seconds.
+
+  6. Made up a master mix for x reactions for primer sets above (# of reactions +1).  Below are intended volumes for 1x 25uL reaction.
+    1. Reagent  1x volume (uL)   
+5x Q5 buffer6  
+10mM dNTP0.6  
+Primer 1 (10uM)1.5  
+Primer 2 (10uM)1.5  
+Q5 GC enhancer (OPTIONAL) 5  
+MilliQ10.1  
+high fidelity Q5 polymerase0.3  
+TOTAL VOLUME27  
+  7. Volume of master mixes required.  
+\- ZIC1 = 5x reactions  
+\- CDKN1A = 6x reactions  
+ CDKN1B ]-  
+ DHSR3   ]-  
+ LOX]-  
+ LARS ]-                           = 3x reactions  
+ BCL2L11 ]-  
+ PABPC1 ]-
+
+  8. Obtained 0.2 mL PCR tubes
+  9. Added 25μl of respective primer MM to each sample tube as per the table below 
+
+Samples
+
+Sample numberSample DNAPrimer Pair target sitePrimer Pair ID's  
+1R6 ZIC1ZIC1 - guide 2p27-p28  
+2R6 ZIC1 + CDKN1AZIC1 guide 2p27-p28  
+3R6 ZIC1 + CDKN1A CDKN1A - guide 1 P45-P46  
+4R6 CDKN1A + CDKN1B CDKN1A - guide 1P45-P46  
+5R6 CDKN1A + CDKN1B CDKN1B - guide 2P47-P48  
+6R6 ZIC1 + DHSR3ZIC1 - guide 2p27-p28  
+7R6 ZIC1 + DHSR3DHSR3 guide 2P31-P32  
+8R6 Control ZIC1 - guide 2p27-p28  
+9R6 Control CDKN1A - guide 1P45-P46  
+10R6 ControlCDKN1B - guide 2P47-P48  
+11R6 Control DHSR3 - guide 2 P31-P32  
+12R7 LOXLOX - guide 2 P35-P36  
+13R7 LARSLARS - guide 1 P49-P50  
+14R7 BCL2L11BCL2L11 - guide 1P33-P34  
+15R7 Control LOX - guide 2P35-P36  
+16R7 Control LARS - guide 1P49-P50  
+17R7 Control BCL2L11 guide 2P33-P34  
+18R8 PABPC1 + CDKN1APABPC1 - guide 2P41-P42  
+19R8 PABPC1 + CDKN1A  
+  
+CDKN1A - guide 1P45-P46  
+20R8 Control PABPC1 - guide 2 P41-P42  
+21R8 Control CDKN1A - guide 1P45-P46  
+  
+  
+
+  * Added 3μl DNA extract to each PCR reaction tube for rounds 6 and 7. only 1uL of DNA extract was added to round 8 PCR tubes since the DNA concentration was visibly viscous. Reaction volumes were then made up to 30uL using MilliQ.
+
+  1. Took samples to the PCR machine and set the settings to (melting temp for primers used was 61 degress C).  
+
+  2. To visualize PCR products, made up a 1 % agarose gel in 0.5X TBE buffer (1 tablet + 50mL of 0.5X TBE).  Once completely dissolved, add GelGreen at a volume of 1 μl per 10 mL of agarose.
+    1. The following tutorial was followed for setting up the gel electrophoresis station on the BentoLab https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/
+  3. Ran the PCR products on the gel using 2uL of loading dye mixed with 5uL of PCR product. Loading order listed below.
+
+
+
+
+## Observations:
+
+The DNA extractions for round 8 were visibly viscous (PABPC1 + CDKN1A, R8
+control). Therefore only 1uL will be used for DNA extraction.  
+(10uM primer solutions were made fresh for all reactions except PABPC1
+reaction tubes, there were already 10uM solutions made for these primers.
+
+
+
+
+## Reference Images
+
+  
+
+  
+
+
+
+
+

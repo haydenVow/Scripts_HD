@@ -1,0 +1,166 @@
+Performed by: LL/EC
+Flask typeSub-cultured flask IDConditionSeeded flask IDConditionLocation  
+  
+  
+E-125  
+  
+12038-Nuvonis Quail Suspension341-P-1of1  
+  
+  
+Freestyle 29312107  
+Freestyle 293  
+  
+  
+141  
+  
+12108  
+Freestyle 293  
+  
+12109  
+HEK HD Part A + B  
+  
+12110  
+HEK HD Part A + B  
+  
+12111  
+HEK HD Part A + B  
+  
+12112  
+HEK HD + Nuvonis  
+12113  
+HEK HD + Nuvonis  
+  
+12114  
+HEK HD + Nuvonis  
+  
+12115  
+CHO HD Part A + B  
+  
+12116  
+CHO HD Part A + B  
+  
+12117  
+CHO HD Part A + B  
+  
+12118  
+CHO HD + Nuvonis  
+  
+12119  
+CHO HD + Nuvonis  
+  
+12120  
+CHO HD + Nuvonis  
+  
+  
+  
+E-125  
+  
+12057-Nuvonis Quail Suspension341-P-1of2  
+  
+  
+90/10 RPMI/Hycell12093  
+90/10 RPMI/Hycell  
+  
+  
+141  
+  
+12094  
+90/10 RPMI/Hycell  
+  
+12095  
+90/10 RPMI + Part B/HEK HD Part A + B  
+  
+12096  
+90/10 RPMI + Part B/HEK HD Part A + B  
+  
+12097  
+90/10 RPMI + Part B/HEK HD Part A + B  
+  
+12098  
+90/10 RPMI + Nuvonis/HEK HD + Nuvonis  
+  
+12099  
+90/10 RPMI + Nuvonis/HEK HD + Nuvonis  
+  
+12100  
+90/10 RPMI + Nuvonis/HEK HD + Nuvonis  
+  
+12101  
+90/10 RPMI + Part B/CHO HD Part A + B  
+  
+12102  
+90/10 RPMI + Part B/CHO HD Part A + B  
+  
+12103  
+90/10 RPMI + Part B/CHO HD Part A + B  
+  
+12104  
+90/10 RPMI + Nuvonis/CHO HD + Nuvonis  
+12105  
+90/10 RPMI + Nuvonis/CHO HD + Nuvonis  
+  
+12106  
+90/10 RPMI + Nuvonis/CHO HD + Nuvonis  
+  
+  
+  
+
+Those from Freestyle medium: Seed all flasks at 150k cells/mL (3M cells in
+20mL) and the extra flask that we will seed in 50/50 RPMI/Hycell medium for
+the slow adaptation experiment will be seeded at 84k cells/mL (1.68M cells in
+20mL).
+
+Those from 90/10 RPMI/Hycell: Seed all flasks at 150k cells/mL (3M cells in
+20mL)
+
+
+Process
+
+
+  1. Aliquoted 1 x 60 mL of each media type:  
+  
+
+    1. HEK HD Part A+ B
+    2. 90/10 RPMI + Part B/HEK HD Part A + B
+    3. HEK HD + Nuvonis 
+    4. 90/10 RPMI + Nuvonis/HEK HD  \+ Nuvonis 
+    5. CHO HD Part A + B
+    6. 90/10 RPMI + Part B/CHO HD Part A + B
+    7. CHO HD \+ Nuvonis 
+    8. 90/10 RPMI + Nuvonis/CHO HD \+ Nuvonis
+    9. Freestyle *40mL
+    10. 90/10 RPMI/Hycell *40mL  
+  
+
+  2. Added growth factors (IGF + EGF)   
+  
+Both for those containing HEK/CHO HD + Nuvonis OR 90/10 RPMI + Nuvonis/HEK/CHO
+HD medium + Nuvonis, add the following amounts of IGF and EGF:  
+  
+  
+  
+
+  3. Placed in water bath 
+  4. Split Freestyle cell suspension and 90/10 RPMI/Hycell collected from continuous culture (Freestyle culture lab book entry / 90/10 culture lab book entry) into 12 equal aliquots each (3M cells per aliquot; 1.866 mL/aliquot in the case of the Freestyle & 2.060mL/aliquot in the case of 90/10 RPMI/Hycell).
+  5. Added 20 mL of each medium into each one of the 28 x E-125 flasks.
+  6. Added 1.866 mL of the Freestyle cell suspension per E-125 flask in the case of those sub-cultured from the Freestyle 293 flask and 2.060mL of the 90/10 RPMI/Hycell per E-125 flask in the case of those sub-cultured from the 90/10 RPMI/Hycell.
+  7. Placed all 28 x E-125 in incubator at 37'C, 5% CO2, 120 RPM.  
+  
+*Notes:   
+  
+(1) The feed medium provided by HiMedia is meant to be used to feed cell
+cultures already adapted to CHO HD medium every second day 5 days post-
+seeding. The recommended amount of this feed supplement to add to the vessel
+is 5% of the total volume of media, which in our case is equivalent to 1
+mL/E-125 containing CHO HD medium (volume will increase by 1 mL every feed
+day). It is recommended to increase the frequency of feed supplement treatment
+to once a day if cell densities are high past day 10 in culture as the rate of
+nutrient exhaustion will be greater.  
+
+
+Observations
+
+
+Flask 12102 was aliquotted less cell suspension than the rest of the flasks.
+
+

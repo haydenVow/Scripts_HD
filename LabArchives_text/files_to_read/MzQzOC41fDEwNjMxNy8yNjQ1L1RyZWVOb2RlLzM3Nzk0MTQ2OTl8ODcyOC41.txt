@@ -1,0 +1,114 @@
+Background
+
+
+The intended outcome of this study was to investigate if the addition of
+fibroblasts on Zein scaffolds, and the addition or absence of Vitamin C would
+assist in the prolonged adhesion of MuSC on Zein scaffolds throughout the
+process of differentiation. The justification of using fibroblast is that they
+generate collagen which can act as an adhesive substrate for MuSC, and
+therefore promote MuSC adhesion. Additionally Vitamin C enhances collagen
+production in fibroblast cells and cause extensive ECM protein deposition
+which can promote the adhesion of MuSC on fibroblast cells.
+
+
+Quick summary of main findings
+
+
+1\. Unable to stain fibroblast cells on Zein scaffolds using the TE-7 antibody
+and MuSC with anti-MyoD antibody.
+
+2\. Could not determine if addition of fibroblast cells and/or Vitamin C was
+beneficial for MuSC adherence due to the inability to co-stain fibroblasts and
+MuSC.
+
+3\. DAPI stain can successfully stain cell nuclei and highlight the presence
+of cellular DNA on Zein scaffolds.
+
+
+Discussion
+
+
+A prominent finding of this study was that both sheep fibroblast and MuSC were
+unable to be successfully stained using the TE-7 and MyoD antibodies
+respectively. This outcome was irrespective of whether fibroblast and MuSC
+were cultured together, individually or in the addition or absence of Vitamin
+C. Furthermore positive expression of TE-7 and MyoD could not be detected even
+when the Zein scaffolds were probed with each of these antibodies individually
+or in tandem. The apparent lack of a fluorescent signal from the TE-7 antibody
+may potentially be attributed to the nature of the TE-7 antibody. As
+previously explored in an separate optimisation experiment the TE-7 antibody
+used in this study has a tested species reactivity against mouse and human
+fibroblasts only. It is plausible that our in-house sheep fibroblasts lack the
+physical and chemical similarities in the target antigen and thus unable to be
+stained with this particular antibody. However this does not provide an
+explanation as to why the MyoD antibody could not sufficiently stain MuSC
+seeded onto Zein scaffolds even in conditions lacking fibroblast cells.
+Positive MyoD stains have been obtained from MuSC seeded onto Zein scaffolds
+previously. A multitude of potential causes may be possible for the lack of
+MyoD signal, namely, incorrect primary antibody dilution, target protein not
+properly expressed, or absorbance of the primary antibody by the Zein
+scaffolds. However the lack of a positive control utilised in this experiment
+makes it difficult to speculate the possible cause. Therefore, the inclusion
+of adherent or scaffold seeded C2C12 cells during the staining procedure would
+be beneficial for any future co-culture experiments as a positive control to
+confirm myogenic staining.
+
+A critical step involved in the process of evaluating whether fibroblast cells
+could improve MuSC adherence was the application of mitomycin C. Mitomycin C
+is chemotherapeutic agent utilised in cell culture to halt cellular
+replication by inhibiting DNA synthesis, with the rationale behind its
+application being to prevent the fibroblast cells from outcompeting and
+eventually overgrowing the MuSC. However due to its nature as a chemotherapy
+compound and its status as a potential carcinogen warrants its use as
+undesirable. A potential avenue to avoid the future use of mitomycin C in any
+co-culture experiments including fibroblast cells can involve the use of a
+freeze thaw cycle. Previously described in the literature, the freeze thaw
+cycle entails repeatedly freezing a culture sample at -80'C and thawing with
+warmed dPBS. This process maintains the ECM proteins deposited by the
+fibroblasts, whilst simultaneously causing cell apoptosis via osmotic
+swelling. However it is unclear if Zein scaffolds are able to maintain their
+structural integrity through such as process.
+
+
+Limitations
+
+
+A major limitation experienced in this study was to inability to co-stain
+fibroblast and MuSC seeded onto Zein scaffolds. Consequently this made it
+difficult to differentiate between the two cell types based off the DAPI stain
+alone. An additional limitation involved not being able to stain for MyoD
+protein as an indication of MuSC presence even in situations where the only
+the MyoD antibody was used.
+
+
+Future work
+
+
+Any future work involving co-culture systems requires a procedure in which the
+different cell types are able to be stained using immunofluorescence. This
+represents the most pressing issue if it is required to develop cultures with
+multiple cell types present. Other avenues of future work involve:
+
+1\. Identify a stain specific for fibroblast cells beyond the TE-7 and
+Vimentin antibody due to complications involving these antibodies (see
+experimental report for a study optimising this process here)
+
+2\. Troubleshoot MyoD staining on Zein scaffolds (inclusion of C2C12 positive
+control for myogenic staining)
+
+3\. Test the freeze thaw cycle on fibroblast seeded Zein scaffolds as an
+alternative to mitomycin treatment. Confirm with live/dead staining (CMFDA +
+Propidium iodide)
+
+
+Conclusion
+
+
+This study represents the first at Vow investigating the use of a co-culture
+system to improve MuSC adhesion onto Zein scaffolds. At the moment it is
+unclear whether the addition of fibroblast cells or Vitamin C can promote the
+adhesion of MuSC onto scaffolds due to limitations in antibody staining.
+However the general premise of utilising multiple cell types to promote MuSC
+development still holds promise above standard monoculture experiments.
+
+

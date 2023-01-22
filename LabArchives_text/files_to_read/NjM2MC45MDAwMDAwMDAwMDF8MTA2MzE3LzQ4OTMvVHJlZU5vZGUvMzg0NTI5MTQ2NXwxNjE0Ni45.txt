@@ -1,0 +1,114 @@
+
+
+Experimental setup
+
+F_DOLLY12 (Sheep Fibroblast) cells were sorted into 6 x 384-well plates that
+had been gelatin coated.
+
+Each plate was filled with 100% fresh growth media in columns 1-12, and 1:1
+fresh:conditioned media (supernatant from confluent flasks) in columns 13-24.
+
+3 of the plates were sorted with cells that had been Hoechst and Propidium
+Iodide stained.
+
+3 of the plates were sorted with cells that had not been stained and were
+sorted based on forward and side scatter on the FACS (fluorescence activated
+cell sorter).
+
+Initial screening
+
+All plates were scanned on the Zaber at Days 1, 2, 3, and 7 post-sort and the
+images were run through the existing  machine learning (ML) model for
+obtaining automated cell counts.
+
+See picklists information here:
+
+https://docs.google.com/spreadsheets/d/1-rset_nxJpjrijs58CncU-
+EytSG60Ul2BU_ocRJCizo/edit#gid=51874976
+
+At Day 7 post-sort, this graph was generated to demonstrate the total number
+of wells within each condition where the model counted >30 cells within each
+well.
+
+This graph indicates that adding gelatin coating and/or the addition of FGF in
+media increases clonal survival and proliferation. Additionally, the threshold
+of '>30' cells is much higher than the threshold of '≥ 15' cells for the
+previous clone run (EPIC20859). Despite the higher threshold, the conditions
+tested seem to have yielded more clones that could be taken to the next stage
+(96 wp). However there were limitations with the ML model so we cannot
+conclude any direct correlation between experimental conditions and number
+clones produced with these results.
+
+311 clones were passaged from 384 wp to 96 wp using OT2. Although a 40 minute
+tryple incubation was used, some cells remained attached to their original
+plate, whereas others did not. The protocol that was used for this passage
+(Passage384-E) does not add growth media to the tryplised cells before mixing.
+Instead, it just mixes the tryplised cells and then moves them to a new well
+containing growth media. By adding growth media before mixing, the total
+volume of the well would increase and allow better mixing. This has been
+implemented in the next version of the one-well protocol ('Passage384-F').
+
+Clonal expansion
+
+Clones in 96 well plates were stained with Hoechst 33342 ReadyFlow reagent
+with the aim of obtaining more accurate cell counts. 24 h later, they were
+passaged to 24 well plates on OT2.
+
+After the passage, it was observed that cells in the original 96 wp appeared
+dead. Because phase images had not been taken before the passage, it is
+difficult to confirm that this cell death occurred before the passage.
+However, it is likely that cells had died due to the presence of Hoechst in
+wells over an extended period. The harmful effect of Hoechst ReadyFlow on
+viability when used over 24 h was confirmed with another experiment
+(EPIC24301).
+
+The cells that had already been passaged were kept in culture in case any
+clones had survived. Out of the 24 clones in the 24 wp, only 7 had viable
+cells.  2 of these were expanded to a 6 wp. However, all these clones
+eventually senesced while still in well plates. No clones were expanded to T
+flasks.
+
+Key Findings
+
+Gelatin coating of plates and addition of FGF to media may result in increased
+survival and proliferation of clones.
+
+311 clones were passaged from 384 wp to 96 wp on OT2.
+
+Hoechst ReadyFlow reagent used over 24 h likely affected the viability of
+cells.
+
+No clonal cell lines that achieved immortalisation were created.
+
+Limitations
+
+There were no macros for counting Hoechst stained cells from images of whole
+wells of 384 wp or 96 well plate at this time. Therefore, images of the centre
+of the well were used to when obtaining cell counts for 96 well plate.
+
+Cells that were left behind in wells versus how many were transferred to the
+new plate were not quantified. So, it's difficult to determine the extent to
+which clones were affected by OT2 protocols.
+
+Due to inaccuracies in the ML model (at both low and high confluence of
+cells), the results can not be used for making any conclusions about the
+effect of using gelatin coating plates and adding FGF to media.
+
+Future directions
+
+Collect more data for ML model by imaging Hoechst stained cells on phase on
+DAPI channel (EPIC25398).
+
+Investigate the effect of Hoechst staining on cell viability (EPIC24301).
+
+The effect of gelatin and FGF on fibroblast single cell cloning will need to
+be investigated again.
+
+Set up a suspension cloning pipeline.
+
+Next time, protocol 'Passage384-F' should be used for passaging from 384 wp to
+96 wp as this protocol adds media to neutralise tryple and mixes the cell
+suspension before transferring it to a 96 wp. Better mixing should allow for
+more cells to detach and be transferred to a new well.
+
+

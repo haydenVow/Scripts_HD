@@ -1,0 +1,214 @@
+
+
+## Performed by:
+
+
+Procedure
+
+
+TEMPLATE
+
+  1.   
+
+Reference  
+  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp16:26  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+ ~~Finished sterility test~~
+
+Not applicable for this run
+
+  1.  ~~Took a sample and transfer it to the well of a well plate.~~
+  2.  ~~Observed the sample under the microscope.~~
+
+Reference  
+  
+Operator initials  
+  
+Checked by operator initials  
+  
+Timestamp  
+  
+NotesSigns of contamination include cloudy culture medium, motile particles
+visible under the 60x or 100x objective.  
+  
+  
+  
+
+
+
+
+Started data logging
+
+password and username
+
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjA0MS4wfDEwNjMxNy8xNTcwLTEwMDgzL1RyZWVOb2RlLzQ1NTMwMjkzMXw1MTgxLjA=
+
+  1. Navigated to Settings -> Data Logger
+  2. Updated the name of the experiment
+  3. Clicked Start New Experiment  
+  
+Note: Experiment name: 20210603EPIC19367
+
+ReferenceOperating manual page(s) 81, 46  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp16:39  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Seeded the batch  
+  
+Note: Seeded with 44 M cells from cell expansion cycle 6 harvest:  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTU0OC4zfDEwNjMxNy8xMTkxL1RyZWVOb2RlLzcwNjE4NTk3NnwzOTMwLjI5OTk5OTk5OTk5OTc=  
+  
+Protocol:
+
+  1. Thoroughly wiped down the seed bottle and corresponding line from the bioreoactor with 70% ethanol.
+  2. Placed the seed bottle and the end of the seed line in the BSC next to the bioreactor.
+  3. Aseptically transferred the seed cells to the seed bottle.
+  4. Make an aseptic connection between the bottle and the bioreactor seed line.
+  5. Pumped the seed cells into the bioreactor.  
+  
+
+ReferenceOperating manual page(s) 81, 46  
+  
+Operator initialsJB  
+  
+Checked by operator initials  
+  
+Timestamp17:40  
+  
+Notes  
+  
+  
+  
+  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+2CF and 5CS  
+6931-DOLLY12-Sheep P11-1of3, 6932-DOLLY12-Sheep P11-2of3, 6933-DOLLY12-Sheep
+P11-3of3, 6934-DOLLY12-Sheep P11-1of2, 6935-DOLLY12-Sheep P11-2of2  
+2L Biostat Bioreactor  
+6977-DOLLY12-Sheep P12-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ X]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+Media/Reagents used:
+
+Refer to:
+
+Bioreactor set up:
+
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MjA1NC4wfDEwNjMxNy8xNTgwL1RyZWVOb2RlLzIwNDA1NzkwfDUyMTQuMA==
+
+and
+
+Harvest for bioreactor seeding:  
+https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTU0OC4zfDEwNjMxNy8xMTkxL1RyZWVOb2RlLzcwNjE4NTk3NnwzOTMwLjI5OTk5OTk5OTk5OTc=
+
+  
+
+
+
+
+Observations/Summary:  
+
+Delayed to put cells into the reactor. Cells sat in the seed bottle for an
+additional hour than necessary. However, other than this it was a normal
+bioreactor seed.
+
+Noticed clucking noise coming from motor. Mentioned to TT.
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+NA
+
+

@@ -1,0 +1,245 @@
+
+
+## Performed by: LL VP ST  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDsSeeded vessel typeSeeded flask IDs  
+  
+4CF
+
+9439-CHOMP09-Crocodile P9-4of6, 9437-CHOMP09-Crocodile P9-3of6,
+9440-CHOMP09-Crocodile P9-5of6
+
+E-125 9605-F_CHOMP09-Crocodile P10-1of3  
+9606-F_CHOMP09-Crocodile P10-2of3  
+9607-F_CHOMP09-Crocodile P10-3of3  
+9609-F_CHOMP09-Crocodile P10-1of3  
+9610-F_CHOMP09-Crocodile P10-2of3  
+9611-F_CHOMP09-Crocodile P10-3of3  
+9612-F_CHOMP09-Crocodile P10-1of3  
+9613-F_CHOMP09-Crocodile P10-2of3  
+9614-F_CHOMP09-Crocodile P10-3of3  
+9615-F_CHOMP09-Crocodile P10-1of3  
+9616-F_CHOMP09-Crocodile P10-2of3  
+9617-F_CHOMP09-Crocodile P10-3of3  
+9631-F_CHOMP09-Crocodile P10-1of1  
+T175
+
+9509-F_CHOMP_09-Crocodile P12-2of2  
+  
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+Tryplea9071, a9072  
+  
+dPBS (for washing & neutralising)  
+  
+Growth Medium (D/F+20%FBS+1xP/S)  
+a8691  
+  
+Basal Medium (HyCell CHO + 1:100 ACA + 1:100 Glutamax + 1xP/S)  
+  
+  
+See previous lab book  
+KSR  
+  
+IGF-1  
+  
+b-FGF  
+  
+P53i  
+  
+HDAC1  
+  
+HDAC2  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   630  mL 
+  2.  dPBS (for washing & neutralising):   1260  mL
+  3. Growth medium (for pellet resuspension):   30  mL
+    * GM: D/F+20%FBS+1xP/S 
+  4. Growth media conditions (for seeding):   7 x 60 mL aliquots, 1 x 80 mL aliquot (1 x aliquot/condition)  
+
+Time that all aliquots were placed in the water bath the warm before use  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator
+
+5\. Collected supernatant in sterile 2L bottle.
+
+6\. Washed the vessel(s) with dPBS (warmed). Collected dPBS in sterile 500 mL
+bottle.  
+
+8\. Added  200 & 10  mL TrypLE/flask and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was  9:30 - 9:39, 9:56 - 10:06     
+
+9\. While flasks were tryplising, split 2.4L of collected supernatant + dPBS
+into 10 x 250 mL tubes and centrifuged at 800 xg for 5 min 9:36 - 9:41,
+9:48-9:53, 9:54-9:59, 10:01 - 10:06, 10:09 - 10:14  
+
+  1. Poured off supernatant, leaving ~20 mL on pellet. Resuspended and moved into 6 x 50 mL tubes.   
+
+  2. Centrifuged at 800 x g for 5 min 10:18 - 10:23  
+
+  3. Aspirated supernatant off pellet and resuspended in 25 mL dPBS  
+
+  4. Centrifuged at 800 x g for 5 min 10:28 - 10:33  
+
+  5. Aspirated supernatant off pellet and resuspended in 20 mL Tryple. Incubated for 15 min (observe for cells sheets to have broken up more). 10:38 -   
+
+  6. Strained cell suspension using a 40 um cell strainer to remove large clumps that hadn't broken up in Tryple. Added 20 mL dPBS to neutralise.   
+
+  7. Centrifuged at 800 x g for 5 min
+  8. Aspirated supernatant off pellet and resuspended in growth medium. Combined with cell suspension from 4CFs.   
+
+10\. Neutralised flasks with   200 mL   dPBS/flask and combined cell
+suspension into   6 x 250 mL  tubes.
+
+11\. Centrifuged neutralised cells at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was
+    1.  11:12 - 11:17 (cells did not pellet properly,so increased G to 800 and re-spun) 11:19 - 11:24    
+
+    2.   11:28 - 11:33    
+
+12\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    9:54-9:59     
+
+
+
+
+13\. Aspirated the supernatant(s).
+
+14\. Re-suspended pellet(s) in:
+
+  1. Mutagenesis cells:   2  mL   growth   medium
+  2. 4CF: 46 mL growth medium  
+
+15\. Aliquotted    100 ul of resuspended cells into a microcentrifuge tube for
+cell count. Diluted to 1:10 in trypan blue.  
+
+16\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet:
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+  1. Total cell number was:     221 260 000     
+
+  2. Volume of  cell suspension required for subculture was:   1.91 mL / flask     
+
+  3. Cell density per vessel:   18M / flask, 0.9M / mL   
+
+
+
+
+13\. Transferred  5740 µL of cell suspension to each pre-warmed  60  mL Growth
+media aliquot  
+
+14\. Transferred  of each aliquot into E-125 flasks (3 reps of ~~7~~ 4
+conditions = ~~21~~ 12 total E-125 flasks)
+
+15\. Took 1 x 100 uL aliquot from each E-125 flask and transferred to 2 x
+96-well plate for staining & cell count (see "staining" rich text entry below)
+
+15\. Transferred E-125s to shaking platform (120 RPM) to incubate at:  
+
+  * [ ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+  * [x]  30ºC, 5% CO2 (reptilian cells)
+
+
+
+
+Staining
+
+Prepared dead stain solution in amber/black centrifuge tube:  
+\- 4 mL dPBS  
+\- 4 drops Nucgreen AF488 dead stain  
+\- Vortex for 5 seconds to mix
+
+Prepared Hoechst stain (50 ug/mL) solution in amber/black centrifuge tube:  
+\- 9500 uL MilliQ  
+\- 500 uL Hoechst Trihydrochloride trihydrate (1mg/mL)  
+\- Vortex for 5 seconds to mix. Solution can be stored at 4°C for up to 6
+months
+
+  1. Added 20 uL of Hoechst stain directly to cells
+  2. Added 80 uL of dead stain solution (dPBS+Nucgreen) to cells
+  3. Incubated for 30 minutes in the dark at room temperature 12:59 - 12:27
+  4. Made 4x and 8x dilutions of the sample in dPBS 
+  5. Centrifuged plates at 300 RCF for 1 minute 12:29 - 12:30  
+  
+
+  6. Prepared plate map:  
+\- Created a new "MIA output" data workbook by copying the template at the
+following link:  
+\- Filled in each of the sheets according to how the samples were arranged  
+\- Pasted the link to the "MIA output" workbook here:
+
+    1. Plate ID & link: 9604 https://docs.google.com/spreadsheets/d/19cMNTAJvR1C2oAL6Qdk2KKhI-gQ9DtrWUdwbRMKqO7Y/edit#gid=607955926
+
+
+
+
+Observations/Summary:
+
+  * 13-Dec-2021: x3 Flasks showed extremely high turbidity (by eye) and distinct contaminated smell:
+    * 9607: HyCell CHO Control
+    * 9612: CD CHO Control
+    * 9617: CD CHO + p53i
+  * Discarded straight into biological waste and removed waste bag from lab immediately
+  * incubator and platform decontaminated
+  * flasks returned to incubator
+
+  
+
+  * >5 flasks from this experiment looked very cloudy. No colour change or contaminated smell. Wanted to elimated suspected contamination
+  * took 9610: HyCell CHO +p53i into anteroom with 6-well plate. Poured sample of culture into plate and discarded culture. Decontaminated multi-well plate and imaged sample
+  * see images below:
+  * https://mia-capture.vow.tools/#/session/recCT1rFLtyYKdRiy/images 
+  * cells appear stressed. No apparent contamination at least by eye  
+
+  * monitor all flasks in incubator carefully over next week  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+ see observations
+
+  * https://mia-capture.vow.tools/#/session/recCT1rFLtyYKdRiy/images 
+
+

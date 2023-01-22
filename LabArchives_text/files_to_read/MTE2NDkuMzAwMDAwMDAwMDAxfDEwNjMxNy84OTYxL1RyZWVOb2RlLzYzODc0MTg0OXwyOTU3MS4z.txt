@@ -1,0 +1,54 @@
+Aim/Purpose
+
+
+Background
+
+Given the initial findings from Mini-tissue optimisation experiments 1-5 in
+the multi-well mould design, we will now begin trialling a much larger
+circular mould design. This design is intended to be more scaleable and to
+allow the generation of much larger tissue constructs in a stackable manner
+(see initial write-up here and here). Producing tissues at this scale (6cm
+discs) will hopefully allow us to produce a complex, layered textured product.
+
+Findings from experiment 5 have shown that tissues form well between 15 and 60
+million cells per mL. As such we will trial tissue disc formation at 30 and 60
+million cells per mL, to assess the formation, integrity, thickness and
+stability of tissues at these two densities.
+
+Aim
+
+To produce large tissue-engineered tissues in a scaleable, parallelised manner
+
+Hypothesis
+
+Large scale tissue formation will be highly dependent on cell density
+
+
+Methods and Experiment layout
+
+
+  
+
+Experiment layout
+
+We will attempt to seed four tissue discs inside printed moulds (Fig.1). Each
+disc will be a single replicate (condition). Conditions will be as follows
+(also see Fig.2):
+
+  1. 0.1M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2)
+  2. 0.1M NaOH used in gel matrix, (conditions to set gel: Ambient, 5%CO2)
+  3. 0.1M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2) with cell resuspension in growth media (listed in table above) with the addition of 1:100 HEPES buffer solution. 
+  4. 0.2M NaOH used in gel matrix, (conditions to set gel: 37C, 5%CO2) 
+
+Figure 1. Tissue disc CAD design  
+  
+  
+
+Figure 2. Plate Map for Tissue Discs Experiment B, to determine the optimum
+acidity levels of large scale tissue disc cultures. There are 4 conditions
+(n=1) with the condition details outlined within the figure. All culture will
+have a cell density of 40M cells/ml with a gel matrix volume of 25ml.
+
+  
+
+

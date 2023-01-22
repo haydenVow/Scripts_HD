@@ -1,0 +1,284 @@
+Aim/Purpose
+
+
+To determine whether a fast growing single cell line can be derived from a
+BUFFY6 heterogeneous population of cells adapted to microcarrier suspension.
+
+
+Hypothesis
+Technical Gap
+Method/Procedure
+
+
+PHASE 1: SUSPENSION ADAPTION PRIOR TO GARVAN SORT
+
+18-May-21Thaw 1x BUFFY6 WCB vial. into 2xT175s  
+19-May-2150% Feed after thaw.  
+20-May-21  
+  
+21-May-21Passage into microcarrier culture, 1xE125 flask.  
+22-May-21  
+  
+23-May-2150% feed of 1xE125 flask. (1.5mg/mL - 4.5mg/mL cytodex 1)  
+24-May-21  
+  
+25-May-2150% feed of 1xE125, Stain and image.  
+26-May-21Passage into 1xE125 flask. (1.5mg/mL - 4.5g/mL)  
+27-May-21Sample, stain, image.  
+28-May-2150% Feed 1xE125  
+29-May-21  
+  
+30-May-2150% Feed 1xE125  
+31-May-21(1) Sample, Stain, image.  
+(2) Prep 12 x 384 well plates with gelatin  
+(3) Fill 12x 384 well plates with growth media  
+(4) Passage E125  
+(5) Transport to Garvan for sort.  
+(6) Transport cells back to Vow
+
+
+  
+  
+* * *
+
+PHASE 2: CLONAL EXPANSION
+
+Day of the weekDatesEventNotes  
+Monday31-May-21Single cell sort, Garven run. Conc of cell suspension to take
+to garven = 5x10^5/mL  
+Sort 30 events to the corner wells on each plate.  
+Tuesday1-June-21Zaber imaging, UV imaging of 1 plate  
+Plate Feeds (top up)Add media to wells, don't remove media.  
+Wednesday2-June-21No action  
+  
+Thursday3-June-21Zaber imaging.  
+machine pickingZaber image and image processing to occur if the process is not
+very time intensive. Allow for max time to passage cells.  
+  
+Allow max time of 30 minutes for Tryple incubation.  
+Friday4-June-21Zaber imaging (maybe)  
+Machine picking.  
+Expand 30-40% confluent wells to 96wp  
+  
+Saturday5-June-21No action  
+  
+Sunday6-June-21Plate Feeds (top up) Add media to wells, don't remove media.  
+Monday7-June-21Zaber Imaging.  
+Machine pickingDepending on the image processing time during 384 well plate
+expansion, pick lists can be generated on this day OR Tuesday 9/6/21  
+Tuesday8-June-21Zaber imaging (maybe)  
+Machine picking (maybe)  
+Expand 30-40% confluent wells to 24wp.  
+Discard 384 well plates. Allow max time of 30 minutes for Tryple incubation.  
+Wednesday9-June-2150% Feed cells.  
+  
+Thursday10-June-21No action  
+  
+Friday11-June-21Expand 30-40% confluent wells to 6wp.  
+Discard 96wp.Allow max time of 30 minutes for Tryple incubation.  
+Saturday12-June-2150% Feed cells.  
+  
+Sunday13-June-21No action  
+  
+Monday14-June-21Expand 30-40% confluent wells to T25  
+Discard 24wp.Allow max time of 30 minutes for Tryple incubation.  
+Tuesday15-June-21No action  
+  
+Wednesday16-June-2150% Feed cells.  
+  
+Thursday17-June-21Expand 30-40% confluent wells to T75  
+Discard 6wp.If some flasks are likely to hit the 30-40% confluence mark after
+24 more hours then leave these flasks to passage the following day. UNLESS
+there are a total of 12 clones to take at this stage.  
+Friday18-June-21Expand 30-40% confluent wells to T75  
+Discard 6wp.  
+  
+Saturday19-June-2150% Feed all flasks  
+  
+Sunday20-June-21No action  
+  
+Monday21-June-21Expand to T175s,  
+Discard T25s.  
+  
+Tuesday22-June-21  
+  
+  
+Wednesday23-June-2150% Feed cells  
+  
+Thursday24-June-21Bank cells  
+Seed Diff assay (E6 vs starvation)  
+Seed myogenic purity assay.  
+Myogenic assay: 6 wells on a 96wp (2000 cells/well)  
+Diff assay: 9 wells on a 96wp (5000 cells/well)  
+Friday25-June-21Fix myogenic purity assay  
+  
+Saturday26-June-21No action  
+  
+Sunday27-June-21No action  
+  
+Monday28-June-21Primary stain myogenic purity assay  
+  
+Tuesday29-June-21Secondary stain myogenic purity assay.  
+  
+Wednesday30-June-21No action  
+  
+Thursday1-July-21Fix Diff assay, Primary stain both assays  
+  
+Friday2-July-21Secondary stain both assays.  
+  
+  
+  
+  
+
+  
+
+
+
+
+Additonal detail for experiment method.
+
+PHASE 2: CLONAL EXPANSION  
+
+Single cell sort, Garvan run.
+
+  * Coat 12x384 well plates with 40uL of 0.1% gelatin for at least 1h at 37 degrees, 5% CO2. 
+  * Once coated remove the gelatin from the wells and fill each well with 50uL/well of DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM) Growth Media. 
+  * Prepare two styrofoam boxes to transfer to the Garvan. 
+    * BOX A with the 12 x pre-growth media-filled 384-well plates, parafilmed, an ice pack, Hoechst (ddH20), extra FACS Buffer (PRF DMEM/F12 + 2% FBS + 10uM P38i) and the tubes containing cells.
+    * BOX B with 24 sheets of parafilm for sealing plates closed (12 needed, 12 excess) and spare tubes for the operator. 
+  * Prepare 5mL of DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i and store in the fridge at 4 degrees.
+  * Harvest cells from microcarrier culture and resuspend 1x10^6 cells in 2mL of of cold growth media in a 15mL tube (final conc 5x10^5 cells/mL). 
+  * Place the cell suspension on ice in BOX A. 
+  * Drive to the Garvan
+  * For FACS operator to do
+    1. Collect the entire 2 mL cell suspension in Growth Media (DMEM/F12 + 20% FBS + 1X P/S + 10uM p38i). Sample name = BUFFY6
+    2. Add Hoechst (1:100) (20 µL) to the sample tube and mix well.
+    3. Incubate at RT for 10 min.
+    4. Centrifuge at 300 x g for 5 min at 4ºC.
+    5. Aspirate supernatant. Add cold FACS Buffer (PRF DMEM/F12 2% FBS + 10uM P38i) to the pellet (without dislodging it).
+    6. Centrifuge at 300 x g for 5 min at 4ºC.
+    7. Aspirate supernatant carefully from the tube.
+    8. Resuspend pellet in 200µL FACS Buffer (PRF DMEM/F12 containing 2% FBS).
+    9. Sort cells based on forward and side scatter and then PI- & Hoechst+ into individual wells of 12 x 384-well plates. 30 events to A1, A24, P1 and P24,  1 event for the remaining wells. 
+    10. After sort, parafilm plates and then close with lid. Parafilm the edges of the sealed plates.
+    11. Centrifuge plates at 300 x g for 10 min at RT at the Garvan.
+  * Transport plates in a styrofoam box WITHOUT an ice pack (remove ice pack so box is ~ RT) back to VOW HQ. Leave plates to incubate at 37ºC degrees, 5% CO2, in VOW (Library lab) incubator.
+
+  
+
+Imaging 384 well plates on [D1P] (Day 1 Prolif):
+
+  * Using the Zaber, image each well on PHASE channel, 5x objective, 2 row by 1 column stitching. 
+  * For one of the plates image on BOTH Phase and DAPI channels to observe whether Hoechst can be resolved in cells. 
+
+Feeding 384 well plates [D1P].
+
+  * Warm up 4mL of growth media (DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i) for each 384 well plate requiring a feed. 
+  * Add 10uL of growth media to each on each plate. 
+  * Return the plates to the incubator. 
+
+Imaging 384 well plates on [D3P]/[D4P], Generating picklists:
+
+  * Using the Zaber, image each well on PHASE channel, 5x objective, 2 row by 1 column stitching. 
+  * Process the images using the Machine learning algorithm to generate clone pick lists, Time how long this process takes.
+  * Scientists will then be required to review the pick lists to inspect cell morphology and select clones to expand to 96 well plate stage. (see clone selection guide here https://www.notion.so/vow/Clone-Selection-Guide-315ab64bc8744a86a9e538970539fdb9)
+
+  
+Passaging 384 well plates.
+
+  * When colonies reach 30-50% confluence, expand best growing clones to 96-well plates. 
+  * Make a 'picklist' on a google sheet to record which wells are to be picked.
+  * The well location of each selected clone will form part of the clone ID in all future culture ID's derived from this clone.
+  * Use a permanent marker to circle around the wells selected on the lid of the 96-well plates (so that when you are in the BSC you know which wells are to be selected)
+  * Gelatin coat X x 96-well plates (number to be determined based on number of growing clones) manually with 50uL of 0.1% gelatin solution . Incubate at 37ºC for at least 1 hour.
+  * Once incubated, replace gelatin with 0.2mL per well of respective growth media in the destination wells.
+  * Aspirate flask supernatant.
+  * Wash each selected well with 50 uL dPBS.
+  * Add 20 µL of Tryple to each well. Incubate at 37ºC for 15-25 min.
+  * Check regularly under the microscope to see if cells across all wells are detaching.
+  * When ~80% of all cells have detached OR Tryple time reaches 30 minutes, use the P200 pipette (set at 100 uL) to neutralise each well with 100 uL of pre-warmed growth media and collect that into its designated destination well containing 0.2 mL.
+  * Leave the cells to rest at RT for 30 minutes before moving them to the incubator at 37 degrees, 5% CO2. 
+  * In a spreadsheet, mark the original 384 plate and well location down on the 96 well plate to highlight the original origin of the clone. (eg. if the cells from well P13 on 384 well plate #3 are passaged into Well A1 on a 96 well plate, the cell line in the 96 well plate will hence be referred to as BUFFY6_3P13)
+
+Feeding 96 well plates [D2P]:
+
+  * Warm up enough growth media to feed each well on the 96 well plates with 50uL of growth media. 
+  * Add the growth media directly to the wells and return the plates to the incubator. 
+
+Imaging 96 well plates [D3P]/[D4P]
+
+  * Using the Zaber, image each well on PHASE channel, 5x objective. 
+  * Process the images using the Machine learning algorithm to generate clone pick lists, Time how long this process takes.
+  * Scientists will then be required to review the pick lists and inspect cell morphology and select clones to expand to the 24 well plate stage. (see clone selection guide here https://www.notion.so/vow/Clone-Selection-Guide-315ab64bc8744a86a9e538970539fdb9) 
+
+Expanding clones to 24 well plates.
+
+  * Perform zaber imaging of 96 well plates if required (see above)
+  * When colonies reach 30-50% confluence, expand best growing clones to 24-well plates (Maximum 4 x 24-well plates total [96 Clones]) 
+  * Make a 'picklist' on a google sheet to record which wells are to be picked 
+  * Use a permanent marker to circle around the wells selected on the lid of the 96-well plates (so that when you are in the BSC you know which wells are to be selected)
+  * Gelatin coat X x 24-well plates (number to be determined based on number of growing clones) manually with 200uL of 0.1% gelatin solution. Incubate at 37ºC for at least 1 hour.
+  * Once incubated, replace gelatin with 0.5mL per well of respective growth media in the destination wells.
+  * Aspirate flask supernatant.
+  * Wash each selected well with 100 uL dPBS.
+  * Add 50 µL of Tryple to each well. Incubate at 37ºC for 15-30 min.
+  * Check regularly under the microscope to see if cells across all wells are detaching.
+  * When ~80% of all cells have detached OR Tryple time reaches 30 minutes, use the P200 pipette (set at 100 uL) to neutralise each well with 100 uL of pre-warmed growth media and collect that into its designated destination well containing 0.5 mL. 
+  * Leave the cells to rest at RT for 30 minutes before moving them to the incubator at 37 degrees, 5% CO2. 
+  * In a spreadsheet, ensure the Cell line ID is linked to the new location on each 24 well plate. 
+  * DISCARD THE 384 well plates at this step
+
+Feeding 24 well plates [D1P]:
+
+  * Warm up enough growth media to perform a 50% media change (0.25mL/well) for all wells containing clones. 
+  * Perform the 50% feed and return the plates to incubate at 37 degrees, 5% CO2. 
+
+Expanding cell to 6 well plates
+
+  * Image the wells on each 24 well plate under 4x objective, PHASE. 
+  * When colonies reach 30-50% confluence, expand best growing clones to 6-well plates (Maximum 4 x 6-well plates total [24 Clones])  
+  * Make a 'picklist' on a google sheet to record which wells are to be picked 
+  * Use a permanent marker to circle around the wells selected on the lid of the 96-well plates (so that when you are in the BSC you know which wells are to be selected)
+  * Gelatin coat X x 6-well plates (number to be determined based on number of growing clones) manually with 1mL of 0.1% gelatin solution. Incubate at 37ºC for at least 1 hour.
+  * Once incubated, replace gelatin with 3mL per well of respective growth media in the destination wells.
+  * Aspirate flask supernatant.
+  * Wash each selected well with 100 uL dPBS.
+  * Add 150 µL of Tryple to each well. Incubate at 37ºC for 15-30 min.
+  * Check regularly under the microscope to see if cells across all wells are detaching.
+  * When ~80% of all cells have detached OR Tryple time reaches 30 minutes, use the P1000 pipette (set at 150 uL) to neutralise each well with 150 uL of pre-warmed growth media and collect that into its designated destination well containing 3mL. 
+  * Leave the cells to rest at RT for 30 minutes before moving them to the incubator at 37 degrees, 5% CO2. 
+  * In a spreadsheet, ensure the Cell line ID is linked to the new location on each 6 well plate. 
+  * DISCARD THE 96 well plates at this step
+
+Feeding 6 well plates [D2P]:
+
+  * Warm up enough growth media to feed each well on the 6 well plates (1.5mL per well). 
+  * Perform the feed on all clones in 6 well plates before returning the clones back to the incubator. 
+
+Expanding 6 well plates to T25 flasks.
+
+  * When colonies reach 30-50% confluence, expand best growing clones (18 max.) to T25 Flasks (Maximum 18 x T25 Flasks Total)  
+  * Gelatin coat T25 Flasks (number to be determined based on number of growing clones) with 0.1% gelatin solution. Incubate at 37ºC for at least 1 hour.
+  * Aliquot neutralising media and growth media for each clone (3mL and 5mL respectivley) & place in 37ºC water bath at least 20 mins before seeding.
+  * Aspirate supernatant from each well.
+  * Wash each well with dPBS.
+  * Add 1mL of Tryple to each selected well (Clone). Incubate at 37ºC for 10-30 min.
+  * Neutralise each well with 3mL of pre-warmed growth media & collect cell suspension in 1 tube per cell line.
+  * Centrifuge at 650 x g for 5 min.
+  * Remove the supernatant and resuspend each pellet in 5mL growth media.
+  * Transfer each cell suspension to a separate T25 flask and allow to rest at RT for 30 minutes. 
+  * Place flasks in the incubator at 37 degrees, 5% CO2. 
+
+T25-T175 passaging
+
+  * Monitor and passage the clones from T25s using the following guidelines. 
+  * Passage using standard adherent cell passaging procedures (feed every two days) 
+  * Passage ONLY T25 flasks that reach 30-50% confluence within 4 days of seeding. 
+  * Passage ONLY T75 flasks that reach 30-50% confluence within 4 days of seeding. 
+  *   
+
+  
+
+  
+
+

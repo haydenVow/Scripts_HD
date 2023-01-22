@@ -1,0 +1,75 @@
+
+
+## Completed by: Avani
+
+
+Aim/Purpose
+
+
+To identify the cause of debris seen occasionally on the DAPI channel after
+performing fluorescence staining of suspension cultures.
+
+
+Hypothesis
+
+
+Performing a fluorescent stain in a non-sterile environment with non-sterile
+pipette tips results in debris that is visible on the DAPI channel.
+
+
+Technical Gap
+
+
+We have not thoroughly investigated the cause of fluorescent debris before and
+we have not identified/isolated the cause to prevent this from occurring
+again. Fluorescence staining of samples from suspension cultures is important
+to obtain cell counts and assess the effects of different variables on cell
+growth rates. If debris is present, we cannot use the images obtained to get
+accurate cell coubts.
+
+
+Method/Procedure
+
+
+'Hoechst' = NucBlue Live Cell Stain ReadyFlow Hoechst 33342  
+
+'Sytox' =   NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+
+  
+
+Testing if non-sterile pipette tips are the issue
+
+  * Make a staining solution (PBS + Hoechst + Sytox). Ideally this should be made in a BSC using sterile PBS (filtered), sterile Hoechst, and sterile Sytox). 
+  * Use 12 sterile tips to pipette 100uL/well of staining solution into 12 wells of a 96 well plate in a BSC.  
+  * Outside the BSC, use 12 non-sterile tips to pipette 100uL/well of staining solution into 96 well plate. Use random tips across different tip boxes.
+
+Testing if precipitation/interaction between different reagents is the issue
+
+Prepare reagents in BSC and perform all steps in BSC.
+
+Check the following reagents under the microscope by adding a few drops into
+96 well plate.
+
+  * Hoechst alone
+  * Sytox alone
+  * Hoechst and Sytox together (3:1 ratio)
+
+Next, look at the following reagents
+
+  * on their own
+  * with 3 drops/mL of Hoechst
+  * with 1 drop/mL of Sytox
+  * with both Hoechst and Sytox
+
+Reagents:
+
+  * PBS
+  * Hank's buffered salt solution 
+  * RPMI + 5% FBS
+  * RPMI + 20% KSR 
+  * CD-CHO + 5% FBS
+  * CD-CHO + 20% KSR 
+
+For all conditions, image immediately and also image after 4 hours.
+
+

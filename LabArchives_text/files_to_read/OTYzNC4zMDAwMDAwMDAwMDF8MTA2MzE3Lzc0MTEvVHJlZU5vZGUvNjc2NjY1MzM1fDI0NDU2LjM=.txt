@@ -1,0 +1,211 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by: AV, AK  
+
+
+
+
+Passage Culture IDs
+
+Passaged Culture ID(s)Seeded Flask ID(s)Seeded Flask Type  
+11244  
+11245  
+11324  
+E5000  
+  
+11244  
+11325  
+E250  
+  
+  
+  
+
+SEED TRAIN 2 LINK: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520R&D/OTU0Mi4wfDEwNjMxNy83MzQwL1RyZWVOb2RlLzEzMzg1ODgxNDJ8MjQyMjIuMA==
+
+Nuvonis Process Development Spreadsheet:
+https://docs.google.com/spreadsheets/d/1sDqHQ7x2J-_lqIVKhfBqnXJRjsNZAR724wiLtSYLI8g/edit#gid=2011265274
+
+
+
+
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+HyCell Nuvonis suspension medium  
+M11228  
+  
+EGF  
+
+### M10586  
+  
+IGF  
+M10584  
+  
+###  
+
+  
+
+
+
+
+Cell Count (2 x E250):
+
+  
+
+1\. Harvested 100ul per flask for cell count
+
+2\. Diluted 1:2 with trypan blue ~~  
+~~
+
+3\. Recorded cell counts inspreadsheet
+
+  
+
+Flask 11244
+
+Volume = 74.5 mL
+
+Density: 1.088M cells/mL
+
+Total number of cells: 81.056M
+
+Use 5 mL of this to seed E5000 (~5M cells)  
+
+Use 3 mL of this to seed E250 (~3M cells)
+
+66.5 mL leftover to pellet / freeze
+
+  
+
+Flask 11245
+
+Volume = 73.5 mL
+
+Density: 1.292M cells/mL
+
+Total number of cells: 94.962M
+
+Use all of this to seed E5000 (~95M)
+
+  
+
+Centrifuge at 300g for 10 min
+
+Wash with PBS once
+
+Centrifuge again
+
+Freeze pellet
+
+
+
+
+Prepare materials for passage and seed (E5000):
+
+1\. Aliquotted the required volume of each reagent in the table above. Growth
+media (for seeding):   ~1921.5 mL and added growth factors
+
+Volume1921.5  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Freestyle 293NANANA1876.921  
+Difco Yeast Extract UF11001921.50019.215  
+IGF-1 LONG R30.000050.050.0961.922  
+EGF0.000010.050.0190.384  
+L-Ornithine monohydrochloride0.022038.4301.922  
+Putrescine dihydrochloride0.022038.4301.922  
+Anti-clumping agentNANANA19.215  
+  
+  
+  
+Total medium vol (mL)1921.500  
+  
+  
+2\. Added media to water bath and incubated at 37degC
+
+Time that aliquot was placed in the incubator to warm before use:   12:15 -
+15:15  
+
+3\. Added media to E5000 shake flask and incubated at 37degC in incubator to
+equilibrate media (as per SOP, attached).
+
+  
+
+Placed in incubator at: 15:45
+
+Culture kept in shaking incubator 146
+
+
+
+
+Prepare materials for passage and seed (E250):
+
+1\. Aliquotted the required volume of each reagent in the table above. Growth
+media (for seeding):   57 mL  
+
+Volume57  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (mL)  
+Freestyle 293NANANA55.678  
+Difco Yeast Extract UF110057.0000.570  
+IGF-1 LONG R30.000050.050.0030.057  
+EGF0.000010.050.0010.011  
+L-Ornithine monohydrochloride0.02201.1400.057  
+Putrescine dihydrochloride0.02201.1400.057  
+Anti-clumping agentNANANA0.570  
+  
+  
+  
+Total medium vol (mL)57.000  
+  
+  
+2\. Aliquoted media from 2L media container
+
+3\. Added media to shake flask and incubated at 37degC in incubator to
+equilibrate media (as per SOP, attached).
+
+  
+
+Placed in incubator at: 16:00
+
+Culture kept in shaking incubator 159? (On top of incubator 146)
+
+  
+
+
+
+
+SOPs used:
+
+  * Quail suspension cell tech transfer SOP (attached)
+
+  
+
+Summary:  
+
+  * Passaged 2 x E250s into 1 x E5000 (ST1, E2) and 1 x E250 (ST2, E1) - seeding density = 50,000 cells/mL
+  * E5000 is a bit frothy - just making a note
+  * Pellet frozen and stored in fridge 42 (main lab)
+
+
+
+
+Relevant Images/Figures:
+
+  
+
+

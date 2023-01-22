@@ -1,0 +1,92 @@
+
+
+Experiment Overview
+
+Aim: To determine the baseline level of adhesion and proliferation of cells
+grown in our top 3 ACF media formulations (E89C, E810C, E811B) on Cytodex
+microcarriers.
+
+Hypothesis: Cells grown in ACF media may not adhere to microcarrier as well as
+cells grown in serum containing media. Cells in some ACF formulations may
+adhere and proliferate better than others. We may be able to pick our best ACF
+formulation that works with Cytodex microcarriers from this comparison.
+
+Technical Gap: We have never tried putting cells grown in ACF formulation on
+microcarriers.
+
+Method overview:
+
+  1. Mon 12/04/2021 - Seed DOLLY12 into T flasks
+  2. Tue 13/04/2021 - 100% media change to different media conditions
+  3. Wed 14/04/2021 - Equilibrate microcarriers
+  4. Thu 15/04/2021 - Passage cells and seed microcarriers
+  5. Fri 16/04/2021 - Day 1 Sample and Hoechst stain cultures
+  6. Mon 19/04/2021 - Day 4 Sample and Hoechst stain cultures
+
+
+
+
+Proliferate DOLLY12 cells in ACF media for 48h
+
+  1. Seed DOLLY12 cells in T175 and T75 flasks at 1000 cells/cm^2. Seed 4x ~250k cells in DMEM/F12 + 20% FBS + 1x P/S + 10uM.
+  2. 24h after seeding, perform a 100% media change to different media conditions:
+    1. DMEM/F12 + 20% FBS + 1x P/S + 10uM (control)
+    2. E89C
+    3. E810C
+    4. E811B
+  3. Allow cells to proliferate in their respective media conditions for 2 days (~48h) before proceeding.
+
+
+
+
+Equilibrate microcarriers in culture medium before use (SP:1)
+
+  1. Mixed the stock microcarrier (20mg/mL) before aliquoting 8.775 mL.  These were added  added to 30.225 mL of growth media to achieve a concentration of 4.5mg/mL in 39mL of media.
+  2. The microcarriers were then allowed to settle and the supernatant removed.
+  3. The microcarriers were resuspended in the desired volume of culture medium (39 mL) and mixed.
+  4. Added 3mL/well of microcarrier suspension into 2x 6 well plates by mixing each time before aliquoting them out to one well at a time.
+  5. The culture vessels were transferred to the incubator for at least 1 hour or overnight so that the microcarriers and culture medium could equilibrate.
+
+  
+
+
+
+
+Intermittent agitation to facilitate adhesion (SP: 3)
+
+  1. Passaged cells following Passaging Template_V3.
+  2. Transferred cell suspension containing  300k cells/well in to the 3mL/well of equilibrated microcarrier suspension in 6 well plates. Add cells into 3 wells per condition.
+  3. Recorded Culture ID, flask type, cells added, and microcarrier density, and flask volume.
+  4. Transferred vessel to incubate at:
+    1. [x]  37ºC, 5% CO2 (mammalian cells)
+    2. [ ]  40ºC, 5% CO2 (aviary cells)
+  5. Began the seeding schedule for 6 hours using the KASA app and smart plug, 2 minutes shaking, 28 minutes static.
+    1. The minimum required agitation speed for shaken cultures to maintain the microcarriers in suspension can be estimated using this calculator: https://docs.google.com/spreadsheets/d/18NrC_xaJ2I87B4x3vTE46Z-ZUS3EV0Gw-CnM0DcukL4/edit?usp=sharing
+      * Shake speed used = 90rpm
+    2. The seeding schedule may be reduced or extended by removing or adding 30 minute cycles as required. Generally, at least 3 but up to 12 hours are required to allow the maximum number of the inoculated cells to adhere.
+  6. At the conclusion of the seeding period the vessel was left to shake continuously overnight.
+
+
+
+
+Day 1 and Day 4 \- Sample and Hoechst stain microcarrier cultures (SP: 3)
+
+  1.  Removed cultures from the incubator and placed them in the BSC  `| : am/pm|`
+  2. Culture(s) were swirled by hand on the flat surface of the BSC for 5 seconds, the lid was quickly removed and a 20uL sample was taken while the liquid was still in motion so as to ensure the carriers were evenly mixed.
+  3. Transferred the aliquot to a 96 well plate and mixed it with 80uL of dPBS.
+  4. Returned cultures to the incubator  `| : am/pm|`  and proceeded with staining.
+  5. Inspected the carriers down the microscope under a 4x or 5x objective,
+    * [ ]  Carriers formed an even monolayer in the well base.
+    * [ ]  Carriers were not forming a monolayer, 50uL of microcarrier mix from step 4 was diluted 1:1 with non sterile dPBS into a fresh well on the 96 well plate.
+  6. Added the Hoechst 33342 ready flow reagent (nuc blue) at a concentration of 20 uL/mL of culture to each sample planned for imaging in the 96well plate (2 uL per well in a 96 well plate).
+    1. Mixed the well contents gently with a P200 tip after Hoescht was added.
+  7. Left the plate to incubate at room temperature, in the dark (away from light), for 15 minutes.  `| : am/pm |`
+  8. After incubation the wells were inspected under the Axio microscope, 5x objective.
+  9. Took 3 sets of same frame images using the DAPI and PHASE channels.  `| : am/pm|`
+    1. Manually set the exposure time for DAPI channel to 0.02ms (using the phase contrast and blue fluorescence channels) of each well. Fluorescence intensity of the UV lamp was adjusted until the centre of each microcarrier was barely visible compared to the space between microcarriers.
+
+Analyzed images
+
+  1. MICROCARRIERS: The best set of images from each culture was used to determine the distribution of cells/microcarrier using the FIJI-based microcarrier image analysis macro `uCarrier cell count plastic` in MIA. https://vowfood.retool.com/apps/Mia
+
+

@@ -1,0 +1,209 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: Bec Screnci  
+
+
+
+
+Culture IDs:
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175  
+7702-F_DOLLY12-Sheep P12-1of1  
+  
+  
+  
+T25  
+7681-F_DOLLY12_3P23-Sheep P6-1of1  
+  
+  
+  
+T75  
+7675-F_DOLLY12_2O14-Sheep P5-1of1  
+  
+  
+  
+T75  
+7674-F_DOLLY12_6H14-Sheep P5-1of1  
+  
+  
+  
+T175  
+7676-F_DOLLY12_1A16-Sheep P6-1of1  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+TrypleM 5076  
+  
+dPBS (for washing & neutralising) A 6305 & A6330  
+  
+Growth Media (20% FBS)  
+M 6381  
+  
+Growth Media (10% FBS)  
+A 6456  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:    45     mL in     1    tubes
+  2.  dPBS (for washing neutralising):     (1 x 6mL) (2 x 10mL) (2 x 30mL) 
+  3. Growth media (for pellet resuspension):      12mL (20% FBS) + 4mL (10% FBS)   mL
+  4. Growth media (for seeding):     2 x 100mL (20% FBS) + 42mL (10% FBS)    mL 
+
+Time that all aliquots were placed in the water bath the warm before use
+13:24 pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator   13:40 pm
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   see table above  mL tryple to each vessel/well and incubated at
+37˚C.
+
+  1. Start/Finish for TrypLE was   13:50 - 14:05 pm 
+
+7\. Neutralised with   equal volume of tryple:pbs   dPBS and combined cell
+suspension into a    1 x tube per clone  tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was  14:16 pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    1mL (3P23) 3mL (6H14 & 2O14) 4mL (F_DOLLY12 &
+1A16)  mL   Growth (10% FBS for F_DOLLY12/ 20% FBS for clones)    media
+
+11\. Aliquoted    10uL      of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+
+
+
+F_DOLLY12 (mixed population)
+
+  1. Transferred  468   µL of cell suspension to the pre-warmed  30   mL Growth media: (for T175 seeding)  
+
+  2. Transferred  122   µL of cell suspension to the pre-warmed  12   mL Growth media: (for 24-well plate seeding)
+  3. Transferred cell suspension into a     1 x T175 & 1 x 24-well plate (500uL/well)   vessels.
+  4. Transferred vessel(s) to incubate at:   : pm 
+
+F_DOLLY12_3P23
+
+  1. Transferred   488  µL of cell suspension to the pre-warmed   5  mL Growth media:
+  2. Transferred cell suspension into a     T25   vessel.
+  3. Transferred vessel(s) to incubate at:   : pm 
+
+F_DOLLY12_2O14
+
+  1. Transferred  all   µL of cell suspension to the pre-warmed  30   mL Growth media:
+  2. Transferred cell suspension into a    T175    vessel.
+  3. Transferred vessel(s) to incubate at:   : pm 
+
+F_DOLLY12_6H14
+
+  1. Transferred  all   µL of cell suspension to the pre-warmed  30  mL Growth media:
+  2. Transferred cell suspension into a    T175    vessel.
+  3. Transferred vessel(s) to incubate at:   : pm 
+
+F_DOLLY12_1A16
+
+  1. Transferred  all  µL of cell suspension to the pre-warmed   120  mL Growth media: 
+  2. Transferred cell suspension into a     4 x T175   vessels. 
+  3. Transferred vessel(s) to incubate at:   : pm 
+
+  
+
+  * [ X ]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+V2Changed all sentences to past tense to better reflect a hand-written lab
+book entry.  
+Various formatting changes.  
+Addition of more detail to step 2, removal of step 3. Replaced volume
+requirements table with updated volumes @Sep 22, 2020  
+Updated temperature selection for mammalian/aviary cells @Sep 23, 2020  
+V3Included a section for 'vessel type' in passage ID table Replace
+'flask/plate' with 'vessel' throughout lab book Include at step 1 to take
+image of vessel on the microscope  
+Mentioned that dPBS for washing should be warm - step 3(2) and 5.  
+Added timepoint at step 4 for when vessel is removed from incubator  
+Include at step 11 to aliquot cell resuspension into microcentrifuge tube  
+Included at step 10 and 13 time point for when cell pellet is resuspended and
+when resuspended cells is moved into growth media.  
+Included p38i in table of regent used  
+Combined two dPBS entries in 'Media/reagents' table Added 'cell density per
+vessel'  
+  
+  
+
+

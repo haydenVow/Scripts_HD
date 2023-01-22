@@ -1,0 +1,225 @@
+
+
+Consulted with Marie and Katie yesterday evening about the morphology and slow
+growth of these cells. Marie mentioned that the the 'spikey' morphology was
+not something to be alarmed about. The cells may be responding to stressful
+conditions of the thaw. They also could have been responding to the low
+confluence after seeding. We seeded from thaw at 956 cells per cm^2 and saw a
+lot of cell death the following day.
+
+In any case I consulted with Tom this morning about how we should progress
+these cells. I mentioned that we could either split them into more T175 flasks
+to expand further in order to seed them on second passage into planar culture,
+suspension culture and a diff assay.  
+
+Alternatively we could split them to planar culture and a suspension culture
+today but we may not have enough to start a diff assay.
+
+Tom mentioned that it would be best to expand them up in order to more T175
+flasks.  
+
+
+
+
+Perform passage using below volumes:  
+
+
+
+
+Passage Culture IDs:
+
+  
+
+Flask typeHarvest flask IDSeeded vessel typeSeeded flask ID  
+T175s  
+6521-DAISY4_16G9-Cow P6-2of3, ,T175s  
+6538-DAISY4_16G9-Cow P7-1of4  
+  
+  
+6522-DAISY4_16G9-Cow P6-3of3  
+6549-DAISY4_16G9-Cow P7-2of4  
+  
+  
+6508-DAISY4_16G9-Cow P6-1of3  
+6550-DAISY4_16G9-Cow P7-3of4  
+  
+  
+  
+  
+6551-DAISY4_16G9-Cow P7-4of4  
+  
+  
+  
+
+  
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting [11:24am]. Assessed
+that the confluence of each flask was roughly 30%. See images in the image
+reference section.
+
+2\. Returned the cultures to the incubator [11:28]
+
+2\. Gelatin coated     8     x     T175     vessel with sterile filtered 0.1%
+gelatin solution and then incubated all coated flasks at 37˚C.
+
+  1. Time when all vessels(s) placed into the incubator       11:44   a/pm 
+
+3\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:     30    mL in    1x50     tubes
+  2.  dPBS (for washing and neutralising):    30     mL in    1x50mL    tubes
+  3. Growth media (for pellet resuspension + seeding):     241    mL in     1x500mL    container
+
+Time that all aliquots were placed in the water bath the warm before use
+12:06   a/pm
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+
+
+4\. Removed vessel(s) from the incubator     12:15   a/pm
+
+5\. Washed the vessel(s) with 10mL dPBS (warmed).
+
+6\. Added     10    mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     12:21-12:35   a/pm (left the cells to incubate for an extra 4 minutes as cells had not completely detached after 10 minutes).   
+
+7\. Neutralised with     10mL     dPBS and combined cell suspensions into two
+50mL     tubes, 30mL per tube.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was     12:44-12:49   a/pm 
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in     1.5    mL     growth     media     13:00
+a/pm
+
+11\. Aliquoted     10uL     of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1000:1000
+
+  1.  Total cell number was:       684000      
+
+  2. Volume of cell suspension required for subculture was:      All       
+
+  3. Expected Cell density per vessel (4xT175s) :    171000      
+
+
+
+
+Removed half of the media from the pre warmed aliquot, bringing the total
+volume down to 120mL. The 120mL that was removed was placed into a 120mL
+container and stored in the fridge to be used for feeding over the weekend.
+
+13\. Transferred  all  of the counted cell suspension to the pre-warmed
+120    mL Growth media:      13:20    a/pm
+
+14\. Transferred the cell suspension into 4x pre-gelatin coated     T175
+flasks       vessel.
+
+15\. Left at RT in the BSC for 30 min to allow cells to settle      13:26  \-
+13:55 a/pm  
+
+16\. Transferred vessel(s) to incubate at:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells), incubator 67
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4319  
+Tryple4308  
+dPBS (for washing & neutralising)4381  
+Growth Media4413  
+p38i (20mM stock)3978  
+  
+  
+
+
+
+
+Observations/Summary:
+
+Cells were more obviously in clustered colonies when imaged today, suggesting
+they are proliferating.
+
+Cells still appeared to have the spikey morphology observed yesterday.
+
+Cell yield was low which was unexpected, could only expand up to 4xT175s, each
+T175 having a cell density of 0.977 cells/cm^2
+
+
+
+
+SOPs used:
+
+###  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+  
+
+Flask confluence before passage:  https://mia-
+capture.vow.tools/#/session/rec7kxgAohrAQtDi3,recNBgm2AftrbBFAH,recyJczMNCxvNzs23/images
+(see images from 4/30/21)
+
+

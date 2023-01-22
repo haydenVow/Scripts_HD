@@ -1,0 +1,90 @@
+
+
+Performed by: LL  
+
+
+
+
+## Culture IDs
+
+Culture Vessel  
+Culture ID  
+Medium base  
+  
+E125  
+7694-F_DOLLY12-Sheep P11-1of1  
+CD CHO  
+  
+E125  
+7700-NANDO3F-Chicken P3-1of1  
+CDM4 Avian  
+  
+  
+  
+
+
+
+
+Process  
+
+  1. Made up stain buffer containing:
+    1. 1 mL filtered dPBS 
+    2. 2 drops of Hoechst 
+    3. 1 drop of Sytox green
+  2. Added 100 uL of stain buffer to 100 uL of sample in wells of 96WP (50% dilution of sample)
+    1. A1 - culture 7700
+    2. B1 - culture 7694
+  3. Incubated for 25 minutes 13:03 - 13:28
+  4. Diluted the stained sample to 25% and 12.5% in filtered dPBS only
+    1. Took 100 uL sample from 50% dilution and moved into 100 uL of dPBS (25% dilution of sample)
+    2. Took 100 uL sample from 25% dilution and moved into 100 uL of dPBS (12.5% dilution of sample)
+    3. Took 100 uL sample from 12.5% dilution and moved into empty well for imaging
+  5. Centrifuged plate at 650 x g for 1 minute 13:30 - 13:35
+  6. Imaged whole well of both samples under culture ID 7820 using main lab Zaber microscope on DAPI & 488 channels
+    * Program shut down just after imaging due to error - unsure whether images were saved before error. So re-loaded plate but new error message received on trying to image, delaying re-imaging process. Stanley fixed issue and able to re-image at 14:04. Note: Original images did save, so there are duplicate photosets   
+  
+Plate setup was as follows:  
+  
+
+  7.   
+1  
+2  
+3  
+4  
+ACulture 7700, 50% dilutionCulture 7700, 25% dilutionCulture 7700, 12.5%
+dilutionCulture 7700, 12.5% dilution  
+BCulture 7694, 50% dilutionCulture 7694, 25% dilutionCulture 7694, 12.5%
+dilutionCulture 7694, 12.5% dilution  
+
+
+
+
+## Materials
+
+DescriptionSV2 IDAmount  
+dPBS  
+M5923  
+1 mL  
+  
+NucBlue (Hoechst)  
+S3594  
+2 drops  
+  
+NucGreen (Sytox Green)  
+S3626  
+1 drop  
+  
+  
+  
+
+
+
+
+Results/Images
+
+MIA: Monday 25th August, https://mia-
+capture.vow.tools/#/session/recmddZ2UAmCVSIPJ/images
+
+  
+
+

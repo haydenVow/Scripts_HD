@@ -1,0 +1,178 @@
+Culture ID(s)  
+Vessel type  
+No. of wells to stain  
+  
+7509, 7510  
+24wp  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+## Performed by:
+
+
+
+
+Media/Reagents used:
+
+NameDetails  
+Blocking Bufferm6376  
+  
+PBST (0.2% Triton)m6346  
+  
+dPBSM5910  
+  
+Primary Antibody Mixs1452  
+  
+Primary Antibody Mix (if used)s2468  
+  
+PFA  
+a1988  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+Use the following spreadsheet to:
+
+  * Determine the total amount of regent required for primary staining
+  * Provide more information on antibody types
+
+[https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=1896419204](https://www.notion.so/https-docs-
+google-com-spreadsheets-d-1DPzKubYxfHmWogVPihC-SSIBtIylyrBQE5kRX5Z8NtI-edit-
+gid-1896419-b879a5de34104da8b0c7ed8843f1a7ae)
+
+1\. Prepared   50 mL  PBST (0.2% Triton-X)
+
+2\. Prepared   15 mL  blocking buffer: PBST (0.1% Triton-X + PBS) + 3% bovine
+serum albumin (BSA). (Kept in the fridge until needed in blocking step)
+
+3\. Prepared Primary Antibody Mix: :  40 µL   Primary #1 MyoG (Santa Cruz)
+(1:200  ) +  160 µL   Primary #2 MF20 (DSHB)   (1:50  ) +   8 mL Blocking
+Buffer (enough for 20 samples in 96 wp, stained with 100 uL antibody mix)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+
+
+
+Antibody used
+
+  
+  
+Primary AntibodyIgG formSecondary AntibodyDilution in blocking buffer  
+MyoG - santa cruz (AF488)  
+IgG1  
+Goat Anti-Mouse (IgG1)  
+1:1000  
+  
+MF20 -DSHB (AF555)  
+IgG2b  
+Goat Anti-Mouse (IgG2b)  
+1:1000  
+  
+  
+  
+
+
+
+
+Process:
+
+Fixing ( ~ 1.20 - 2.30 hr)
+
+  1.  Prepare 0.1% PFA - 0.6mL of 4%PFA in 24mL of PBS   
+
+  2. Removed media from each well and wash with PBS.   
+
+  3.  Added  500 uL µL PFA for 1 - 2 hours  (1hr for small loops, 2hrs if the loop is >5mm in diameter) :  10:53 - 12:11 pm 
+  4. Removed PFA (and add in PFA waste container) and wash wells 3 times with   500 µL of ice cold PBS
+
+PBS wash
+
+1: 12:11 - 12:16
+
+2: 12:18 - 12:23
+
+3:  12:25 - 12:30
+
+  
+
+  
+
+Permeabilise ( ~ 20 - 30 min)
+
+1\. Removed PBS from each well.
+
+2\. Added  500 µL PBST (0.2% Triton-X) to each well for 15 min:  12:33 - 12:48
+pm
+
+3\. Aspirated PBST for each well.
+
+
+
+
+Blocking ( ~ 1 hr)
+
+1\. Added  500 µL of blocking buffer (3% BSA in PBST [0.1% Triton-X]) and
+incubate for 45 minutes - 1hr at RT. (no more than 1 hour):   12:51 - 1:51 pm
+
+
+
+
+Single/Simultaneous Primary Antibody staining ( ~ 10 minutes or 2hr)
+
+1\. Removed blocking buffer from each well.
+
+2\. Incubated cells with 400uL primary antibody for 2hrs at RT, or 4ºC
+overnight:   14:03 - 16:03 pm
+
+After this step, all further task should be performed in a dark room. The
+vessel should also be wrapped foil when not used.
+
+
+
+
+Observations/Summary:
+
+### \- for the conical insert, collagen samples formed a tight ring around the
+center
+
+  
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):na
+
+

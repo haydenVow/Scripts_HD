@@ -1,0 +1,51 @@
+
+
+LINK TO CLUBHOUSE EPIC PAGE:
+https://app.clubhouse.io/vowfood/epic/21489/electrical-stimulation-biological-
+testing?vc_group_by=day&ct_workflow=all&cf_workflow=500000005
+
+RELATED TO MILESTONE:  Enhancing maturation based on 2x Myosin expression or
+60% MyoG.
+
+AIM/PURPOSE: To determine the effects of electrical stimulation using charge
+balanced electrical stimulation and stainless steel electrodes on DOLLY-12
+MuSC differentiation and maturation, indicated by the expression of Myosin and
+MyoG.
+
+HYPOTHESIS: Stimulated DOLLY-12 MuSCs will demonstrate greater differentiation
+and maturation than unstimulated cells, and stainless steel electrodes (304)
+will have no negative impact on cell viability.
+
+RESULTS SUMMARY: See report.
+
+CONCLUSIONS:
+
+Electrical stimulation of DOLLY-12 and C2C12 cells using stainless steel
+electrodes (304) caused no harm to the cells or obvious unwanted biochemical
+reactions when using biphasic stimulation with the StimJim stimulator.
+However, no repeatable results indicated the cells gained improved maturation
+due to the stimulation. Problems experienced in this study with analysing
+Myosin / MyoG expression and complete experiment cell loss were addressed in
+Q4, however problems with the stimulation infrastructure remain unresolved.  
+
+NEXT STEPS:
+
+The issue of cells peeling off the bottom of the well prevented successful
+analysis by immunofluorescent staining for indicators of muscle cell
+maturation. This issue was addressed in Q4 experiments, which established
+Laminin and Geltain as culturewear coatings that prevented peeling and allowed
+for greater growth of 2D cell culture.  
+  
+The mysterious complete cell death issue which interrupted Test 3 was
+experienced in other experiments during Q3 2021 and was investigated in Q4. It
+was established in that investigation that DOLLY-12 cells in E6
+differentiation media suffered the greatest cell loss compared to other
+conditions tested, indicating this was the reason for the complete cell death
+experienced during this study.
+
+Refining and scaling out the stimulation infrastructure, while also automating
+the experiment process to enable higher throughput is required to determine
+the right stimulation conditions to improve maturation with electrical
+stimulation.
+
+

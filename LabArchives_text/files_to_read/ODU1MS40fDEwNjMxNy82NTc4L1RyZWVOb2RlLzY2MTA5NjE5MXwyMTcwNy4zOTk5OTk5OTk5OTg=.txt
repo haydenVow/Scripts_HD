@@ -1,0 +1,78 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To adapt a CHOMP fibroblast line to ACF growth medium
+
+
+Hypothesis
+
+
+We hypothesise that CHOMP fibroblasts will proliferate in ACF medium after a
+sequential adaptation, however a direct adaptation will result in cell death
+for >95% of the culture population.
+
+
+Technical Gap
+
+
+We currently grow CHOMP fibroblasts in medium containing 20% FBS, which is not
+economically viable and does not align with Vow's ethics. We have tested CHOMP
+fibroblasts in medium with KSR as a replacement for FBS, however it was
+unsuccessful. Vow has recently acquired a Quail fibroblast cell line, and with
+it, the components of an ACF growth medium. We have not tested whether this
+medium will support CHOMPs growth/whether we can adapt CHOMP to grow in this
+medium.
+
+
+Method/Procedure
+
+
+Set-up
+
+  * 5 x T75s 
+  * Conditions
+    * Flask 1: DMEM/F12 + 20% FBS
+    * Flask 2: Opti Pro + 4 mM Glutamax (adherent Nuvonis) 
+    * Flask 3: Freestyle 293 + 1 g/L Difco Yeast Extract (YE) + 20 mg/L L-Ornithine monohydrochloride + 20 mg/mL Putrescine dihydrochloride + 1:100 ACA + 50 ug/mL IGF-1-LR3 + 10 ug/mL EGF                                 
+    * Flask 4: L15 + 4 mM Glutamax (CO2-free incubator)
+    * Flask 5: L15 + 1 g/L YE (CO2-free incubator)
+  * Calculations/prep work:
+    * Need: 12 mL per flask (seed) + 6 mL per feed + 14 mL per passage. Assume 1 seed event, 1-2 passages per week, 1 feed per week = 12+28+6 = 46 mL per medium type per week
+    * Note: There should already be enough Nuvonis & L15 medium made up. If you need to make more, here is a link to the G-sheet with necessary calculations https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1994431485
+
+
+
+
+Experimental Design
+
+  
+
+  * D0: Thaw cells into 5 x T75s (all flasks in DMEM/F12 + 20% FBS)
+  * D1: 100% change media on all flasks: 
+    1. Flask 1: DMEM/F12 + 20% FBS
+    2. Flask 2: Opti Pro + 4 mM Glutamax (adherent Nuvonis) 
+    3. Flask 3: Freestyle 293 + 1 g/L Difco Yeast Extract (YE) + 20 mg/L L-Ornithine monohydrochloride + 20 mg/mL Putrescine dihydrochloride + 1:100 ACA + 50 ug/mL IGF-1-LR3 + 10 ug/mL EGF                                 
+    4. Flask 4: L15 + 4 mM Glutamax (CO2-free incubator)
+    5. Flask 5: L15 + 1 g/L YE (CO2-free incubator)
+  * DX (when ~80% confluent): Passage 5 x T75s into 5 x new T75s. Discard any flasks where >80% of cells have died. 
+  * Continue passaging flasks when cells reach ~80% confluence (do not let them get to 100%) 
+  * If cells begin exhibiting strange morphology, note in lab book and we will assess how to proceed.   
+  
+  
+Notes/troubleshooting  
+  
+
+  * The change from 75% SFM to 100% SFM may be difficult on the cells. If we see slow growth, we will passage 2-3 times in 75% SFM before passaging into 100% SFM. 
+  * We may have trouble getting cells past one of these passage points - if this happens, go back and passage cells 2-3 times in previous ratio of serum-supplemented medium. 
+  * Most cell lines are considered fully adapted after 3 passages in 100% SFM. 
+  * If the cells do not adapt, we can: 
+    * Add r_albumin to the cultures 
+    * or re-attempt the experiment with a decreased osmolality of the growth medium by diluting with MilliQ water 
+  * If the cells do not survive passages in ACF medium, we will try adding a trypsin inhibitor during passages 
+
+

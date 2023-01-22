@@ -1,0 +1,212 @@
+
+
+
+Performed by:
+Original Vessel Type  
+Volume of cell suspension (mL) (at the time of passage/feed)Original Ranger ID  
+  
+Seed Vessel Type  
+Volume of cell suspension for seeding (mL)  
+Seed Vessel ID  
+Notes  
+Location  
+  
+1x E500  
+134.9mL  
+12504  
+  
+ E500  
+134.35mL  
+12504  
+Used in Alex's Experiment  
+159 - shaker incubator  
+  
+  
+1x E500  
+198.25mL  
+12537  
+  
+E500  
+197.7mL12537  
+Used in Alex's Experiment  
+1x E500  
+198.25mL  
+12536  
+E500  
+136mL12588  
+Continuous Supply  
+  
+  
+  
+  
+  
+136mL12589Expansion  
+  
+  
+
+
+
+
+  
+
+Reagent  
+Ranger ID  
+  
+  
+  
+  
+Growth Medium (RPMI+nuvonis:Hycell+nuvonis)  
+ADD NEW MEDIA NO.  
+IGF-LR3 Solution  
+MIX  12475  
+  
+rEGF solution  
+MIX 12321  
+  
+  
+  
+
+
+
+
+## Cell Counts:
+
+  1. Cell counts with the Vicell was performed:
+  2. Cell Count Information (Measured by the Vicell)  Ranger Culture ID Culture IDCulture ID  
+  
+  
+125041253712536  
+Performed byJD JDJD  
+Total volume of the suspension culture 134.9mL 198.25mL 198.25mL  
+Volume of sample taken from the cell count 550uL 550uL550uL  
+Timestamp of the cell count10:0010:0010:00  
+Results  
+  
+  
+  
+Cell count viable (cells / mL)= 2.88M cell/mL 3.27M  
+cells/mL 3.12M  
+cells/mL  
+% viability99.6%99.6%99.4%  
+Total cell count in the suspension culture 388,512,000618,540,000648,277,500  
+
+Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the
+master cell count spreadsheet, with the respective culture ID and the volume
+of growth medium the cells are being cultured in.
+
+It was noted that in the flask 12504 when a manual count was conducted, a
+pipette tip fell in the flask due to the P1000 pipette tips not fitting the
+pipette correctly.
+
+  
+
+## Flask 12537 - Used in Mini-Tissue Stream
+
+All of the cells in this flask were given to the Mini Tissues stream.
+
+  1. A second ViCell count was performed:
+
+Cell Count InformationCulture ID  
+Original ID12537  
+Performed byJD  
+Total volume of the suspension culture197.7mL  
+Volume of sample taken from the cell count550uL  
+Timestamp of the cell count14:14  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)3.62 x 10^6  
+% viability 99.9%  
+Total cell count in the suspension culture cells715,674,000  
+  
+## Flask 12504 - Used in Mini-Tissue Stream & Spun Down
+
+Most of the cells were spun and frozen, remaining amount was used in Mini-
+Tissue Stream.
+
+  1. A second ViCell count was performed:
+
+Cell Count InformationCulture ID  
+Original ID12504  
+Performed byJD  
+Total volume of the suspension culture134.35mL  
+Volume of sample taken from the cell count550uL  
+Timestamp of the cell count14:13  
+Results (Measured by the Vicell)  
+  
+Cell count viable (cells / mL)3.21 x 10^6  
+% viability 99.9%  
+Total cell count in the suspension culture cells431,263,500  
+  
+## 2) To achieve the cell total of 900M for the Mini-Tissue stream,
+184,326,000 cells were needed to be extracted from Flask 12504.
+
+## 3) 57.41mL was aliquoted for the Mini-Tissue stream to achieve 184,326,000.
+The remaining 76.94mL were spun down in a 50mL falcon tube, supernatant
+removed and placed in the freezer for Kylie to use.
+
+##  
+
+## Steps for Passage of Flask 12536 into Flask 12588 & Flask 12589
+
+1\. The initial volume, density and total cells of 12536 was noted as
+198.25mL, 3.21M cells/mL, 648.2 M cells, respectively.
+
+2\. 205.36mL of 50/50 Hycell/RPMI media was aliquoted to a 500mL container
+
+3\. 0.205mL of IGF and 0.041mL of EGF were added to the 205.36mL of media.
+
+4\. 33.32mL was deposited into 2 x E500 flasks each and 102.68mL was deposited
+into the 2 x E500 flasks each.
+
+5\. Total volume of each E500 flask is 136mL
+
+6\. A second cell count was performed using the Vicell before returning to the
+
+  1. Cell Count InformationCulture ID Culture ID  
+Original ID1258812589  
+Performed byJDJD  
+Total volume of the suspension culture 135.45mL135.45mL  
+Volume of sample taken from the cell count 550uL 550uL  
+Timestamp of the cell count14:1414:14  
+Results (Measured by the Vicell)  
+  
+  
+Cell count viable (cells / mL)826k cells/mL955k cells/mL  
+% viability 99.9%99.9%  
+Total cell count in the suspension culture cells111,881,700129,354,750  
+  2. Note: Copy the value for 'viable cells per mL' from Vicell  anc record in the master cell count spreadsheet, with the respective culture ID and the volume of growth medium the cells are being cultured in.
+
+  1. Placed flask in the incubator  18:00 a/pm (37 C, 5% CO2, 120 RPM)  
+
+Seed flask details:
+
+  * Seeding density: x10^6 cells / mL
+  * Growth Medium Volume in the seed flask:  136mL
+  * Flask size: E500  (flat bottom / baffled)
+  * Refer to summary table above
+
+7\. The remaining 131.61mL  of cells in the original E500 flask (12536) were
+spun down weighed and frozen.
+
+
+
+
+Cells taken by Shaleen (21/06):
+
+  1. A cell count was performed on Culture 12588 by taking 550uL of culture media.
+  2. The ViCell XR threw a camera error and the computer and machine were restarted. The sample was been consumed by the machine.
+  3. Another 550uL aliquot was taken for a successful cell count.
+
+Cell count: 2.2M cells/mL
+
+  1. Additionally 1mL of culture media was taken by Shaleen for his experiment.
+
+
+
+
+## Summary/ Results
+
+__ cells were expanded from 1 x E_ flask into 1 x E_ flask.  
+  
+
+

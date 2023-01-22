@@ -1,0 +1,89 @@
+Aim:
+
+
+To determine the concentration of Ficoll PM 70 that produces the highest yield
+of deposited collagen in Nuvonis fibroblast cultures.
+
+
+Background:
+
+
+Ficoll PM 70 has been a top candidate among the macro molecular crowders
+tested at Vow thus far and in literature. We have employed concentrations
+recommended by literature to varying success, however it was seen through
+preliminary experiments there was room for optimisation with the
+concentrations of Ficoll PM 70. To elaborate, although some ECM deposition was
+seen in cell monolayer sheets, a portion of the ECM still remained suspended
+in the media.
+
+Next, a combinatorial concentration study was performed to understand the
+ideal concentration for either Ficoll PM 70 and Ficoll PM 400 alone or in
+combination. Wherein, the ideal scenario would be that all of the ECM
+generated is deposited into the cell sheet rather than into the media.
+Overall, the data from the combinatorial experiment was mostly inconclusive.
+However one replicate showed an increase in collagen deposition when the
+concentration of crowders (both individually and in combination) was
+increased. This finding, if significant, would indicate that the highest yield
+of collagen is yet to reach a point of saturation and the concentration of
+both Ficoll crowders could be increased further still to beneficial effect.
+
+Considering the peak collagen deposition effect of Ficoll PM 70 may not have
+been reached, the current experiment aimed to investigate increased
+concentration ranges with the intention of achieving a bell curve like
+response in terms of ECM production, with a clear undersaturated (low),
+oversaturated (too high) and the peak effect of Ficoll PM 70.
+
+
+Results:
+  
+  
+Figure 1: Collagen deposition across various concentrations of Ficoll PM 70.
+Each concentration consists of 10 replicates.
+
+
+Discussion:
+  
+  
+Due to cell detachment during the fixing process and collagen assay, the
+accuracy of the quantitative data was greatly affected. Cell monolayers were
+detached and broken to various extents due to multiple pipetting steps
+necessary in the fixing and collagen assay. Hence, Figure 1 suggests there is
+no distinct difference between any of the concentrations of Ficoll PM 70.
+
+Observationally however, a clear gradient of thicker, denser pale-white ECM
+sheets were seen with a peak at 120-140 mg/ml of Ficoll PM 70 and a slow
+decline thereafter. This difference was not photographed as it was assumed the
+collagen data would be much more telling than a photograph, however in
+practice there were complications. Figure 2 below is an illustration of the
+macroscopic increase in ECM observed in the well plates.
+
+Due to the fragile nature of the cell monolayers, an alternative method for
+analysis will likely be needed in future. While the collagen assay is
+relatively quick and direct, it often involves frequent manual pipetting steps
+which (due to monolayer detachment) jeopardises the integrity of the data. In
+future, perhaps some form of direct stain that does not require fixing and
+washing would be ideal. If not, perhaps qualitative data in the form of high
+quality pictures of the cell monolayers may have to suffice.
+
+  
+
+
+  
+  
+
+
+Conclusion/Next steps:
+  
+  
+In future, a more direct stain analysis method for collagen that does not
+involve washing steps will be investigated. If such an assay does not exist,
+including more detail in quantitative observation such as high quality images
+and descriptions may have to suffice for future DSDs.
+
+In light of the 120-140 mg/ml concentration range producing the
+macroscopically thickest cell sheets, this learning will be implemented into a
+production run to generate biomass for the Product team to validate and
+investigate. This will provide clarity on whether scale up work is needed on
+the cell sheet format.
+
+

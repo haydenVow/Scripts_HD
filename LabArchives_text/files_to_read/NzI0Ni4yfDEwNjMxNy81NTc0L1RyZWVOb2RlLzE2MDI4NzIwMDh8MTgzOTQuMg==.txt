@@ -1,0 +1,296 @@
+
+
+Completed by: Bonnie Tangey
+
+
+
+
+Animal source information  
+  
+Animal SV2 ID: 32-Wallaby-TAS  
+Age: Unknown  
+Sex:  Male  
+Farm: Lenah Game Meats: 315 George Town Rd, Rocherlea TAS 7248
+
+
+
+
+Background
+
+Our previous attempts to isolated and culture adherent cell culture from
+Wallaby muscle tissue have been unsuccessful.
+
+In our first attempt, the meat to be processed arrived at the Vowse frozen.
+Despite this, we followed VOWs standard isolation and culture protocols after
+thawing the meat in the refrigerator overnight. Unsurprisingly, we were not
+able to establish an adherent cell population from this homogenate. See lab
+book here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzM4MS40MDAwMDAwMDAwMDF8MTA2MzE3LzU2NzgtNDY4MDkvVHJlZU5vZGUvMzI0NTE5MDAwfDE4NzM3LjM5OTk5OTk5OTk5OA==.
+While it is possible to isolate cells from small sections of frozen tissue,
+the fact that the meat was not in liquid nitrogen, and cryoprotectants were
+not used, makes it unlikely that viable cells remained in this instance.  
+  
+In our second attempt, a population of adherent cells was obtained from 2 of
+the 4 biopsies processed. These cells did not did not make it past their 2nd
+passage however, as they ceased to proliferate at this point (see lab book
+here: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzM2NC41fDEwNjMxNy81NjY1LTQ2NzAxL1RyZWVOb2RlLzI4MTI4NTE3MTJ8MTg2OTQuNQ==
+). The 2 biopsies that did not produce any adherent population were processed
+1 day after the others. This indicates that the delay in processing may be at
+least partially responsible for the lack of cell yield. It is unclear why the
+cells we did obtain ceased to proliferate after the 2nd passage. With a view
+to optimising our isolation and culture protocols for our next wallaby biopsy,
+a literature review was performed looking at previously published isolation
+and culture conditions for marsupials. Unfortunately, we were unable to find
+any papers describing the isolation of cells from marsupial muscle tissue,
+however there were several reports of isolations and culture of cells from
+various organs including skin.
+
+KEY POINTS
+
+There are no examples of cell isolations from muscle tissue
+
+We did not identify any papers extracting cells from marsupial muscle tissue,
+but there were various papers using viscera and skin. The protocols are
+therefore not likely to be directly transferable to a muscle isolation process
+however we may still gain useful information from them.
+
+All papers used gentle digestions or outgrowth methods
+
+In general, the digestion protocols recommended for muscle tissue tend to me
+more aggressive than those used for viscera or skin tissue. Even so, the
+methods described in the literature used very gentle digestion, or outgrowth
+only, in which the tissue is only mechanically minced before plating, with no
+enzymatic digestion process. We found only 1 paper that used a fully digested
+protocol to obtain cell isolate from a marsupial [1]. This paper isolated
+epithelial cells from mammary tissue of tammar wallabies. They used just
+0.125U/mL of collagenase II which is extremely low, and digested the tissue
+for 4hrs (whereas we use 750U/ml for the first hour and then 100U/mL for a
+further 30min). Another paper reported a process where they partially digested
+Tamar Wallaby epididymal tissue with collagenase XI ( it was not possible to
+determine the U/mL from the information given) for 6hrs before plating the
+tissue like an explant culture [2]. A partial digestion system like this
+wouldn't be ideal for Vow as we would need to culture all the biopsies
+immediately / would not be able to store frozen isolate. However, this does
+illustrate the success of milder digestion approach may be appropriate for
+marsupial cells and brings into question if Vows own protocols are too harsh
+on the marsupial cells. Enzymatic digestion by trypsin, pronase and
+collagenase has been reported to cause irreparable damage to Marmosa cells
+[3], lending credit to this theory.  
+
+Media  
+There was nothing exceptional about the media formulations described in the
+literature for marsupial fibroblasts. Most used a base media of DMEM, MEM, or
+F12 supplemented with 10-20% FBS which is inline with our previous marsupial
+cell isolation and culture attempts at Vow where we used DMEM/F12 + 10% FBS +
+1x P/S. A higher proportion of FBS in the media may better support the cells.
+
+  
+
+Species
+
+Method
+
+Cell type
+
+Culture Media
+
+Ref  
+  
+Parma Wallaby
+
+Ear biopsy explant
+
+Epithelial
+
+F10 + 10-20% FBS.
+
+[4]  
+  
+Tammar Wallaby
+
+Skin explant
+
+Fibroblast
+
+DMEM + 10-15% FBS.
+
+[5]  
+  
+Rat Kangaroo
+
+Already established
+
+cell lines PTK2C567 and PTK2C568
+
+Epithelial kidney cells
+
+DMEM +10% FBS.
+
+[6]  
+  
+Tammar Wallaby
+
+Mammary tissue, both healthy and one containing a lesion were used. Tissue was
+digested using 1ug/mL Collagenase II (product website says the one they used
+is ≥125 units/mg. This equates to 0.125U/mL which seems very low) with
+pen/step/fungizone, glucose and 0.35% BSA. They used 100mL digestion media per
+10g of tissue and digested at 200rpm 37C for 4 hours. They then filtered
+through 150um mesh. After centrifugation the pellet was washed twice in
+0.02mg/mL DNase1 + 1mg/mL trypsin inhibitor. Cells resuspended in wash media
+once more before being passed through 53um mesh.
+
+Mammary epithelial cells.
+
+M199 + 10ng/mL EGF, 1ug/ml cortisol, 1ug/mL insulin and 10% FBS.
+
+[1]  
+  
+Tammar Wallaby
+
+Partial digestion method- Epididymal tubule were minced then digested with
+0.05% type XI collagenase in culture media (its unclear how many units this
+would be from the information given). They were incubated for 6hr at 37C.
+After which they were washed with 6 changes of media to remove debris and
+collagenase. The washed fragments were then transferred to culture vessels
+
+Epididymal epithelial cells
+
+RPMI 1640 +10% FBS +0.058mg insulin, 7.2ug hydrocortisone, 39.5ug
+testosterone, 29ug dihydrotestosterone, 500ug transferrin, 100ug retinol
+acetate + p/s  
+
+[2]  
+  
+3 Species of Rock Wallaby
+
+Ear biopsies were taken, and I presume they used outgrowth culture but it's
+unclear in the methods.
+
+Fibroblasts
+
+AminoMAX C-100 medium (designed for amniotic fluid cells).  
+
+[7]  
+  
+Rat Kangaroo
+
+Skin and lung explants
+
+Mixed adherent population, likely containing fibroblasts
+
+EBM with Hanks + 15% FBS + pen/strep.
+
+[8]  
+  
+Rat Kangaroo
+
+Heart tissue collected from pouch young, cultured as explants. Of note, the
+majority of their cultures did not survive beyond the 2nd passage, but they
+did maintain some in cultures for over 50 passages.
+
+Mixed adherent population, likely containing fibroblasts
+
+EBM with double the vitamins + amino acids + 10% FBS + Pen/strep.  
+
+[9]  
+  
+A range of marsupial species including Bennett's Wallaby.
+
+Explant cultures from ear, kidney and 'body wall' biopsies taken from recently
+slaughtered animals.
+
+Fibroblasts
+
+Hams F12 with 10% FBS.
+
+[10]  
+  
+A number of species including Marsupial mouse, Easter Quoll, Fat Tailed
+Dunnard.
+
+Explant. Methods are sparse. Notably they say the tissue was put into culture
+up to 4 days after tissue harvest.
+
+Skin, heart, lung and testicular tissue
+
+BME + 10% FBS.
+
+[11]  
+  
+Marmosa
+
+Methods were not clearly described however they claim that trypsin, pronase
+and collagenase digestion cause 'irreparable damage to the cells' so they
+reverted to outgrowth approaches.
+
+Fibroblasts and epithelioid cells.  
+
+MEM +10% FBS, but had better growth with the addition of 0.4mM L-glutamine and
+0.2mM NEEA.
+
+[3]  
+  
+  REFERENCES
+
+1\.            Sharp, J.A., et al., Identification and transcript analysis of
+a novel wallaby (Macropus eugenii) basal-like breast cancer cell line. 2008\.
+7(1): p. 1-14.
+
+2\.            Lin, M., R. Hess, and R.J.R.-C.-. Aitken, Induction of sperm
+maturation in vitro in epididymal cell cultures of the tammar wallaby
+(Macropus eugenii): disruption of motility initiation and sperm morphogenesis
+by inhibition of actin polymerization. 2002\. 124(1): p. 107-117.
+
+3\.            Thrasher, J.D., Marsupial cells in vivo and in vitro, in
+Methods in Cell Biology. 1972, Elsevier. p. 127-166.
+
+4\.            Whalley, J.M. and C.E.J.J.o.G.V. Webber, Characteristics of
+parma wallaby herpesvirus grown in marsupial cells. 1979\. 45(2): p. 423-430.
+
+5\.            Alsop, A.E., et al., Characterizing the chromosomes of the
+Australian model marsupial Macropus eugenii (tammar wallaby). 2005\. 13(6): p.
+627-636.
+
+6\.            Basehoar, G. and M. Berns, Cloning of rat kangaroo cells
+following laser microirradiation of selected mitotic chromosomes. 1973.
+
+7\.            Ingles, E.D. and J.E.J.C.R. Deakin, The methylation and
+telomere landscape in two families of marsupials with different rates of
+chromosome evolution. 2018\. 26(4): p. 317-332.
+
+8\.            Rohme, D.J.P.o.t.N.A.o.S., Evidence for a relationship between
+longevity of mammalian species and life spans of normal fibroblasts in vitro
+and erythrocytes in vivo. 1981\. 78(8): p. 5009-5013.
+
+9\.            Van Steenis, H.J.G., Chromosomal changes in eight cell strains
+of the tasmanian rat-kangaroo, Potorous tridactylis (Marsupialia). Male and
+female heart fibroblasts cultured in vitro. 1973\. 44(1): p. 110-124.
+
+10\.         Johnston, P., et al., Studies on metatherian sex chromosomes VII.
+Glucose-6-phosphate dehydrogenase expression in tissues and cultured
+fibroblasts of kangaroos. 1978\. 31(4): p. 415-424.
+
+11\.         Pye, D., A. MacGregor, and J.F.J.I.v. Stanley, Marsupial cells in
+long-term culture. 1977\. 13(4): p. 232-236.
+
+
+
+  
+
+
+
+
+Decisions made for Vows upcoming WALLE biopsy and isolation  
+  
+It was decided that we should proceed with the next wallaby biopsy and
+isolation following Vows standard digestion protocol to ensure that the muscle
+tissue is fully digested. The growth media will be altered to DMEM/F12 + 15%
+FBS  \+ 1x P/S. It is hoped that higher proportion of FBS in the media may
+better support the cells. We will process all the biopsies on the same day
+that the meat arrives at the Vowse. It is hoped that processing the meat when
+it is as fresh as possible will yield a larger and healthier cell population.  
+
+  
+
+

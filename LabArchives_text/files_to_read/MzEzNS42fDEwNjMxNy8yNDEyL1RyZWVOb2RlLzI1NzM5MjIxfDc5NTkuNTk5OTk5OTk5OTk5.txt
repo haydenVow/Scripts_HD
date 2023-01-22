@@ -1,0 +1,169 @@
+Completed by:
+
+
+Shaleen and Tim A
+
+
+Introduction:
+
+
+The inclusion of small molecules and metabolites into the growth and
+differentiation media is a crucial tool to increase cell viability,
+proliferation and differentiation efficiency. In the context of muscle
+satellite cells, the pillar of differentiation into committed myoblasts is
+serum starvation [1], however relatively little is known about metabolites
+required to undergo the transition from satellite cell to fused myotube.
+
+This study aims to use data from a previous experiment on the metabolites of
+injury-healed mouse muscle to test on in vitro cell culture. Briefly, we
+hypothesised that those factors which exhibited large magnitude fold changes
+during the tissue healing process were likely to be involved in regulating
+muscle stem cell differentiation. We chose the 24 most promising factors from
+that study and applied a definitive screening design (DSD) approach to finding
+the optimal combination of these factors. This DSD approach has previously
+been done at Vow when investigating the 'differentiation priming' of primary
+cells and also other factors for differentiation.
+
+In the DSD approach, individual factors of concern are made up into
+concentrated working stocks and then mixed in varying ratios to create
+multiple media types. The mixing ratios is determined by JMP, a software
+program that can generate combinatorial experimental procedures. These
+conditions are tested on cells, and the differentiation analysed by
+fluorescent microscopy. The results are then put back into JMP and statistical
+analysis is used to compare each condition and determine the impact of each
+individual factor.
+
+Through current and future metabolite screening studies, it is anticipated
+that maturation inducing/promoting ingredients can be identified and
+implemented in our current differentiation media. By doing so, we aim to
+increase the maturity of the muscle that will form the building blocks for
+Vow's cultured meat products.
+
+
+Key results/findings:
+
+
+  * The initial run suggested that several of the factors selected were either cytotoxic, used at concentrations that were cytotoxic, or had an cytotoxic combination effect.
+  * A pre-screen experiment that assessed the individual effects of these factors at varying concentrations showed some subjective promise in some factors, however no quantitative data could be obtained due to unrelated cell death issues.
+  * All DSD assays need to be imaged often (daily if possible) in order to track performance over time.
+  * OT2 protocol for media mixing is successful and vastly beneficial.
+  * An external factor (independant to the DSD) is resulting in significantly hindered viability during the differentiation process and results in eventual death and early termination of the study.
+
+
+Discussion:
+
+
+Summary of events:
+
+  * The first run resulted in all the cells vanishing from wells, however due to insufficient image capturing - it is unclear whether this is resultant of cytotoxicity of the conditions, the fixing protocol or whether it is something unrelated entirely that affects all cells.
+  * In light of this, the DSD was restarted in the second run with daily image capture. However, all conditions and control cells slowly lifted off cultureware and died.
+  * It was also hypothesised that some condition-specific cell death could be occuring due to unfavourable cell culture concentrations and/or cytotoxic factor-factor interactions and hence a "pre-screening" experiment was put into action that assessed the individual effects of these factors at various dilutions.
+  * This pre-screening experiment also died (including controls) and it was deduced that the cell death issue is resultant from reasons outside the DSD.
+  * A restart of the experiment was performed with C2C12s however these cells also died in the same fashion.
+
+
+  
+  
+Figure 1: E6 control on Day 0
+
+Figure 2: E6 control on Day 3
+
+Figure 3: E6 control on Day 4
+
+Figure 4: E6 control on Day 7
+
+
+  
+  
+Figure 5: Condition 2 on Day 0
+
+Figure 6: Condition 2 on Day 3
+
+Figure 7: Condition 2 on Day 4
+
+Figure 8: Condition 2 on Day 7
+
+
+  
+  
+It's clear from the first DSD attempt, that the majority of the 26 conditions
+result in decreased cell viability when compared to the controls. However, as
+evidenced by the second attempt, in addition to the DSD conditions there is an
+external factor independent of these conditions that is causing a slow but
+significant reduction in viability. This is evidenced by Figures 1-4 compared
+to Figures 5-8 where both the controls and conditions result in cell death -
+however some remaining cells of the controls were still adhered. This suggests
+that while there is the external factor that is causing cell death, the
+conditioned media also creates unfavourable conditions for the cells which
+accelerated decreased viability.  
+  
+The pre-screening run, while ultimately cut short - did provide some clarity.
+For example, it was clear that factors such as dodecanoic acid and
+thioridazine at the recommended concentrations were causing cell death. Due to
+the DSD mixing matrix, single cytotoxic factors like these would affect
+fourteen conditions which explains why the majority of conditions were
+terminating earlier than controls in the initial DSD runs. This is also
+supported by Figures 9-12 which depicts the dilution of dodecanoic acid
+resulting in a significant increase in viability. The pre-screening experiment
+also showed that some factors/concentrations appear visually similar to
+control wells, which suggests that a successful iteration of this experiment
+could provide some clarity on maturation promoting factors which could then be
+put through a final DSD experiment. However, the primary biological challenge
+across all four DSD/DSD-related attempts is the cytotoxic variable that causes
+the death of our control wells (and in-part, the conditions).
+
+Similar symptoms present in the control in each run: cell shrinking, liftoff
+and eventual death. Assuming some controls are viable for the entire length of
+the assay, a signficant portion of the cell initially seeded, die. Reduced
+confluence dramatically decreases the chances of MyoG and MF20 antibody
+binding and most importantly, comprimises the integrity of the study as the
+conditions/factors are no longer comparable. A brief consultation of the
+literature points to several reasons behind the symptoms of cell death
+observed, which were documented in the following document:
+https://www.notion.so/Gain-and-Heavy-Chains-cell-death-
+troubleshooting-563b2f3c2c944e1f83ac8855fa2f664a). It is anticipated that this
+initial effort towards troubleshooting should be built upon over the course of
+Q4.
+
+
+  
+  
+Figure 9: Dodecanoic acid conditioned media on Day 2
+
+Figure 10: Dodecanoic acid conditioned media (diluted 1:5) on Day 2
+
+Figure 11: Dodecanoic acid conditioned media (diluted 1:25) on Day 2
+
+Figure 12: Dodecanoic acid conditioned media (diluted 1:125) on Day 2
+
+
+Conclusion/Future direction:
+  
+  
+The initial DSD studies did not yet achieve the goals of increasing MyoG
+and/or MyHC by addition of factors to culture media. The study design made
+assumptions about the normal culture media concentrations of various factors
+and overlooked a crucial initial step, which was to independently assay each
+factor. Secondly, we were unable to quantitatively determine which conditions
+were performing well throughout the experiment, and hence were left with no
+results when the staining procedure removed the cells.
+
+The next iterations of this EPIC performed the basic steps of testing each
+metabolite over a large dilution factor to obtain optimal maturation before
+mixing the conditions together. It was apparent from these studies that an
+external factor is affecting the viability of our cells during the
+differentation and maturation process. Unfortunately, no quantitative results
+from immunofluorescence staining could come to fruition due to this issue.
+Before further iterations of this EPIC can take place, it is imperative that
+this external factor be investigated, identified and mitigated. Doing so, will
+ensure the integrity of this study.
+
+
+References:
+
+
+[1] Goto S, Miyazaki K, Funabiki T, Yasumitsu H. Serum-free culture conditions
+for analysis of secretory proteinases during myogenic differentiation of mouse
+C2C12 myoblasts. Analytical biochemistry. 1999 Aug 1;272(2):135-42.  
+
+

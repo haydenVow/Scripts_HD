@@ -1,0 +1,130 @@
+
+
+Procedure
+
+Set up CelFeeder perfusion pump:
+
+CelFeeder Manual can be found here: https://s3.us-
+west-2.amazonaws.com/secure.notion-
+static.com/f87db4c4-7790-4dfb-b37a-ee5200ed1a9c/CelFeeder_Instructions_Manual_%281%29.pdf?X-Amz-
+Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-
+Credential=AKIAT73L2G45EIPT3X45%2F20220316%2Fus-
+west-2%2Fs3%2Faws4_request&X-Amz-Date=20220316T022638Z&X-Amz-
+Expires=86400&X-Amz-
+Signature=2323dbaf2286dbb714edf4db548c6b2c999f3a0b2aac96ab8c90e3074a17e562&X-Amz-
+SignedHeaders=host&response-content-
+disposition=filename%20%3D%22CelFeeder%2520Instructions%2520Manual%2520%281%29.pdf%22&x-id=GetObject
+
+  1. 24 hours after inoculation, program the desired feeding schedules into the CelFeeder perfusion pump.
+  2. Follow the outlined steps in the above link to set up the CelFeeder and feeding programs.
+
+NOTE: Once the feeding schedules are programmed, make sure to prime the tubing
+with media. If the tubing is not primed media solution will only be taken out
+of the CelCradle-500AP bottles but not added and this will put off the total
+volume in the CelCradle-500AP bottles and the media reservoirs. You can see
+the instructions for this under '4.1 Manual Control' in the manual.
+
+  
+
+For this experiment the following schedules were programmed:
+
+ID# 10978: Pump 1: 250mL/day, 4cycles/day to be done on Wednesday and Saturday
+(to mimic our usual feeding schedule)
+
+ID# 10979: Pump 2: 125mL/day, 24cycles/day to be done every day (continuous
+feeds)
+
+
+
+
+This XTT assay was never analysed due to technical issues with the computer
+connected to the plate reader. By the time this issue was fixed the assay was
+no longer viable.
+
+
+
+
+Procedure:
+
+XTT Assay  
+
+Remove macrocarriers from CelCradle Bottle/s:
+
+  1. Warm up fresh media to the desired temperature
+  2. Once at temperature transfer the media bottle into the BSC and fill the required number of wells in a 24-well-plate with 300uL of media.  Media ID: 
+  3. Transfer CelCradle bottles into the BSC
+  4. Aseptically transfer 2-3 macrocarriers into a well containing 300uL media in the 24 well plate using sterile forceps. Place each macrocarrier in its own well.  
+NOTE: Do one bottle at a time to minimise the amount of time the macrocarriers
+are sitting outside of media
+
+  5. Place the CelCradle bottle back into the CelCradle.  
+Note: Be sure to place the bottle back into its original position in the
+CelCradle as well as on the CelFeeder Pump. If different feeding parameters
+are set up it is important to ensure the correct bottle is receiving the
+correct feeding schedule. This is another reason why it is better to do one
+bottle at a time.
+
+  6. XTT preparation (done in the dark)
+
+  
+
+  1. Remove 1x package from the CyQuant XTT Cell viability Assay kit in the Main Lab -20 freezer. 1 package contains one bottle of XTT reagent and one vial of the Electron coupling reagent.
+  2. Thaw the XTT reagent (component A) in the water bath at 32ºC, vortex the bottle to ensure the XTT reagent is fully in solution
+  3. Meanwhile thaw the Electron coupling reagent at room temperature. Vortex the vial to ensure that the reagent is fully in solution. 
+  4. Prepare the working solution by combining 6 mL of XTT reagent and 1mL of the electron coupling reagent into a 15 mL tube and mix the working solution by pipetting.  
+NOTE: The working solution should be used immediately. If excess XTT reagent
+and electron coupling reagent are stored separately (ie NOT mixed into a
+working solution) in the fridge they can be used for up to 2 days with some
+effectiveness, however the result will be sub-par to fresh stock (reduced by
+approximately 25-30%).
+
+  5. Immediately following sample preparation, add 210uL of XTT working solution to each well already containing media/and or a macrocarrier. (Actual amount added = 295uL of media and 205uL of XTT solution)  
+NOTE: It is good to have at least one well with media in it but no
+macrocarrier to work as a negative control.  
+NOTE: The amount of XTT working solution and media volume can also be adjusted
+if more solution is required to submerge the macrocarrier. In this case always
+make sure that the amount of XTT working solution added is 70% of the media
+volume.
+
+  6. Incubated the wells at 37ºC for 4 hours. Timestamp 10:19 - 2:19   
+
+  
+Preparing the 96 well plate:  
+The plate reader and associated protocol as designed for a 96 well plate so
+the media solutions for each condition needs to be transferred to this type of
+plate for analysis.
+
+  1.  Remove the 24-well-plate from the incubator after 4 - 4.5 hours.
+  2. Give the plate a bit of a swirl to ensure that assay response is distributed through the media in the well and not just concentrated around the macrocarrier.
+  3. Transfer the media/XTT solution from each well into 4x wells in the 96-well-plate (125uL each) being careful to label which condition are going into each well. See example below. (Amount added per well: 125uL, Number of wells: 4)  
+NOTE: Only the media gets transferred into the 96-well-plate. The
+macrocarriers do not get analysed.
+
+To Read Plate:  
+  
+After incubation, read the absorbance at 450 nm and 660 nm using the
+SPECTROstar Nano Absorbance Reader
+
+  1. Press In/Out to open the plate reader, place the plate in the correct position and then press In/Out again to close it
+  2. Open the "SPECTROstar Nano Absorbance Reader " application on the computer desktop
+  3. Once in the program click "Manage protocols"
+  4. This will display a list of protocols in the application, select the "XTT LL" protocol by double clicking on it
+  5. Once in this protocol, go to layout and make sure whole layout is selected (This makes this easier than selecting specific wells and ensures the plate reader is working correctly on empty wells
+  6. Make sure than the wavelengths being measured are 450nm and 660nm
+  7. When everything is read press "start measurement". This will take you to a second window where you can double check all of the parameter of the protocol and will need to click "start measurement" again to start the run.
+  8. The plate reader will then being to read the plate. Once reading is done rename the file from XTT LL to something relevant and share this file with yourself on Slack by clicking and dragging the file into your chat.
+
+To analyse:
+
+  1. Subtract the 660 nm from the 450 nm reading (The 660nm reading is like your background noise)
+  2. Graph this data in GraphPad Prism.  
+NOTE: As the cells grow the assay should get darker and the absorption should
+be higher
+
+  
+  
+Plate Map:  
+
+  
+
+

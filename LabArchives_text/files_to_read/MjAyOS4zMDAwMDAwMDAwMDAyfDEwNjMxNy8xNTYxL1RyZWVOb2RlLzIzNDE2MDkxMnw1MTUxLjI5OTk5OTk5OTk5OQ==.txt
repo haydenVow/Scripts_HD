@@ -1,0 +1,119 @@
+
+
+## Completed by: Nathan.
+
+
+Key Results
+
+
+Cells/microcarrier counts from each well imaged were combined based on the
+original source culture and time of day imaged. (i.e cell/microcarrier counts
+for carriers in wells A1, A2 and A3 imaged on Day 1 were pooled into one
+column, n=130-201 for carriers imaged from cultures at each time point). All
+counts were placed in the following spreadsheet:
+https://docs.google.com/spreadsheets/d/1b5pep0_4D56Q4pmqt2bxCTfwlbdTLtsOQQD-
+APtRYrM/edit?usp=sharing  
+  
+These values were then transferred into Prism for further analysis.
+
+  * Outliers in counts from each culture on each day were identified using ROUT's method (Q = 1%). These outliers were then removed from the dataset.
+  * Descriptive statistics were obtained for the cleaned data to determine the mean cells/microcarrier in each culture on each day (n=3 for each vessel type). 
+  * These means were then graphed to generate growth trends for both vessel types over the 6 days of proliferation.
+
+  
+  
+DOLLY12 expansion on cytodex 1 microcarriers in E125 flasks vs 50mL spin tubes
+(n=3). Vessels containing ~4.5mg/mL of microcarriers were seeded with cells in
+DMEM/F12 + 20% FBS + 1xP/S + 10uM p38i growth media and left to grow under
+continuous shaking for 6 days. Microcarriers from each culture (n=130-201)
+were removed and stained with Hoechst 33342 then imaged at various time
+points.
+
+
+
+To determine how many cells per microcarrier were PI+ in cultures at Day 7 of
+proliferation, 1 image set per culture (i.e 1 phase + AF555 image pair) was
+processed using the attached macros in FIJI. Counts of PI+  stains for each
+carrier were then recorded in the same spreadsheet linked above (n=20-43).
+Counts were transferred into prism and the following analysis was performed.
+
+  * Outliers in counts from each culture were identified using ROUT's method (Q = 1%).These outliers were then removed from the dataset. 
+  * Descriptive statistics were obtained for the cleaned data to determine the mean cells/microcarrier in each culture on each day (n=3 for each vessel type). 
+  * An unpaired t test was performed between these two groups and no significance was found (P = 0.11444). This indicated that there was no significant difference in dead cells attached to carriers between vessel types on Day 7 of proliferation. 
+
+PI+ DOLLY12 cells on microcarriers grown in E125s vs 50mL spin tubes after 7
+days. Cells were grown in DMEM/F12 + 20% FBS + 1xP/S + 10uM P38i growth media.
+
+
+
+  
+
+
+Additional results
+
+
+It should be noted that between Day 1 of proliferation the morphology of cells
+on carriers in the 50mL spin tubes differed significantly from cells observed
+on carriers in the E125 flasks.
+
+Figure 1: Hoechst 33342 stained cells on carriers taken from a 50mL spin tube
+culture 24h after seeding. Cytodex 1 carriers at a density of 4.5mg/mL were
+left to shake at 250rpm after addition of DOLLY12 cells.
+
+  
+
+
+
+Figure 2: Example microcarrier from Figure 1, cell morphology is very small,
+circular and pronounced.
+
+
+
+  
+
+Figure 3: Hoechst 33342 stained cells on cytodex 1 microcarriers grown in an
+E125 flask 24h after seeding. Carriers at a density of 4.5mg/mL were seeded
+with DOLLY12 cells then left to shake at 120rpm.
+
+
+
+
+
+Figure 4: Example microcarrier from Figure 3. Cell morphology appears much
+more flat and spread out on the surface of the carrier. Nuclei location shown
+in blue.
+
+
+
+  
+
+
+
+
+
+
+Cell morphology after 6 days of proliferation was similar to what was observed
+after 24h.
+
+Figure 5: Hoechst 33342 stained cells on microcarriers in an E125 vessel 144h
+after seeding. Morphology of cells on carriers appeared similar to morphology
+observed on 24h after seeding (see figures 3 and 4)
+
+  
+
+
+
+Figure 6: Hoechst 33342 stained cells on microcarriers in a 50mL spin tube
+144h after seeding. Cell morphology is barely visible and appears similar to
+what was observed inside the culture 24h after seeding (see figure 1 and 2).
+
+  
+
+
+
+  
+
+  
+
+
+Prism document

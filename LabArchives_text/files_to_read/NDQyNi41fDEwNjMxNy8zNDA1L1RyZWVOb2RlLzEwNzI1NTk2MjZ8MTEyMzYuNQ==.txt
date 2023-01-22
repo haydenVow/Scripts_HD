@@ -1,0 +1,116 @@
+
+
+## Feed performed by: Tom Tarento  
+
+
+
+
+Growth Media
+
+DMEM/F12 + 10%FBS + 1xP/S
+
+
+
+
+Feed information:
+
+Vessel type(s)Vessel IDVessel location (weekend only)Growth media location
+(weekend only) Other comments eg media container (weekend only)  
+Spin tube7415-NANDO3F-Chicken P5-1of1  
+Incubator 68 (in tube rack on shaker)  
+Fridge 104, Library lab  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetailsAmount used  
+D/F + 10% FBS + 1xP/SA6190  
+5 mL  
+dPBS  
+A6330  
+12 mL  
+  
+NucBlue Reagent Hoechst33342  
+S3594  
+500 uL  
+  
+NucGreen Reagent Sytox green  
+S3626  
+250 uL  
+  
+Propidium Iodide 1 mg/mL  
+M6317  
+250 uL  
+  
+  
+  
+
+
+
+
+Process:
+
+  1. Aliquoted:
+    1. 5 mL of D/F + 10% FBS + 1xP/S 
+      1. Placed in water bath. Timestamp: 13:05
+  2. Paused shaker by pressing the "play" button on the controller on the side wall of the incubator
+  3. Collected culture vessel from shaker, wiped with ethanol-sprayed cloth and brought into BSC
+  4. Using a 5 mL serelogical pipette, gently pipette-mixed culture for 1 minute to break up cell clumps
+  5. Pipetted suspension though 70 um cell strainer into 1 x 50 mL tube
+  6. Centrifuged at 300 x g for 5 min. Timestamp: : - :
+  7. Aspirated 5 mL of supernatant, taking care to not disrupt or aspirate pellet 
+  8. Re-suspended cultures using serelogical.
+  9. Took 1 x 500 uL sample from 5 mL cell suspension and followed procedure in entry below to count cells.
+  10. Replaced with 5 mL of fresh, warmed media
+  11. Gently pipette-mixed cultures again before moving back to spin tubes 
+  12. Returned vessel to incubator and replaced in clamp. Timestamp: : 
+  13. Incubator (#68), Lab [Main/Library/Production]
+
+
+
+
+### Staining Process for cell count
+
+  1. Prepared stain buffers
+    1. Made enough Hoechst/PI buffer to stain 15 samples, 300 uL per sample (5 mL):
+    2. Filtered 11 mL dPBS to remove any debris, used 0.2 or 0.45 um pore size syringe filter
+    3. Combined the following:
+      1. 5 mL of filtered dPBS 
+      2. 5 drops (~50 uL) of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+      3. 250 uL of Propidium Iodide 1 mg/mL solution
+    4. Combined the following:
+      1. 5 mL of filtered dPBS 
+      2. 5 drops (~50 uL) of NucBlue Live Cell Stain ReadyProbes Hoechst 33342
+      3. 5 drops (~50 uL) of NucGreen Dead 488 Cell Stain ReadyProbes Sytox Green
+  2. Took 0.5 mL sample from culture 14 :00    
+
+  3. Prepared 3 wells in a 96 well plate, each containing:
+    1. 20 uL of sample from culture
+    2. 80 uL of stain buffer
+  4. Incubated culture in stain for 10-20 minutes (signal intensified as incubation time increased) at room temperature in the dark  14:03 - : 
+  5. Centrifuged the 96 well plate at 650 RCF for 1 minute. Timestamp: 
+  6. Took phase contrast, blue fluorescence and red fluorescence micrographs of each well
+  7. Counted total cells (blue fluorescent nuclei, stained with Hoechst33342) and dead cells (red fluorescent nuclei, stained with propidium iodide OR green fluorescent nuclei, stained with Sytox green)
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed on vessel(s)
+
+  1. 7415-NANDO3F-Chicken P5-1of1
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recrpbrbIF8GHcCO8/images
+
+  
+
+

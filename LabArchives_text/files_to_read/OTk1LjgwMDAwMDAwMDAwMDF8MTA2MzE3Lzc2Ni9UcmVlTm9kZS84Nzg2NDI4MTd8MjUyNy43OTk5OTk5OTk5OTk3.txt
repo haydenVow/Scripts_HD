@@ -1,0 +1,69 @@
+
+
+Immunofluorescence is an analytical technique used primarily on biological
+samples in order to detect antigens in cellular contexts using antibodies
+specific to that antigen [1][2]. This specificity of an antibody to a cellular
+target forms the basis of immunofluorescence and it is an extremely useful
+technique that allows researchers to evaluate whether or not cells in a
+particular sample express the antigen in question [2]. It can be used to
+evaluate the distribution of proteins or other molecules in sample tissue or
+specify the location of a particular cell type in a heterogenous population
+based on marker proteins or transcription factors those cell express [2].
+
+  
+
+This type of immunofluorescence assay will be used in the context of
+fibroblasts to determine if we can detect fibroblasts in both adherent culture
+and seeded onto Zein scaffolds. The TE-7 antibody works by reacting with
+stratum basal epidermal cells, marking mesodermally derived connective tissue
+such as fibroblasts [3][4][5]. A current issue experienced in the Science team
+is the inability to obtain a positive stain specific for fibroblasts beyond
+the DAPI stain on Zein scaffolds, therefore meaning it's inconclusive to
+proclaim that the cells we have seeded onto Zein culture and fixed and stained
+are indeed fibroblasts. The TE-7 antibodies currently in use have a species
+reactivity with human and mouse fibroblasts, however antibody reactivity with
+other mammalian species usually occurs due to physical and chemical
+similarities in the target protein/antigen, refereed to in the literature as
+an epitope [4][5][6][7]. This suggests in essence that the TE-7 can mark sheep
+fibroblasts to some degree despite having a tested species-reactivity for
+human and mouse fibroblasts only. Moreover the TE-7 antibody has not been
+extensively used and tested by the Science team to stain fibroblasts on Zein
+scaffolds. Therefore to address this shortcoming we will be attempting to
+asses TE-7 antibody staining for both flask adherent sheep fibroblasts and
+sheep fibroblasts seeded onto Zein scaffolds, with mouse fibroblast cells
+(MOCHA cells) utilised as a positive control. In addition we will be assessing
+two other antibodies in addition to TE-7; vimentin antibody that is already
+conjugated with a secondary antibody and vimentin that will require an
+independent secondary antibody. Each of these conditions will be trialled in
+triplicate, with a negative control including an empty Zein scaffold and empty
+adherent culture surface. Moreover common problems such as no signal or weak
+signal experienced with antibody staining can occur if the concentration of
+the primary antibody is too low, therefore we will be trialling an additional
+sample set of adherent and Zein seeded fibroblast scaffolds with a 1:50
+dilution of TE-7 antibody [8].
+
+
+
+References:
+
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6918834/
+
+[2] http://www.dspmuranchi.ac.in/pdf/Blog/Immunofluorescence.pdf
+
+[3] https://pubmed.ncbi.nlm.nih.gov/18071065/
+
+[4] https://pubmed.ncbi.nlm.nih.gov/31465481/
+
+[5] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0221762
+
+[6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2724971/
+
+[7] https://rupress.org/jem/article/168/1/107/49566/Lipooligosaccharides-LOS-
+of-Neisseria-gonorrhoeae
+
+[8] https://www.cellsignal.com/learn-and-support/troubleshooting/if-
+troubleshooting-guide
+
+
+
+

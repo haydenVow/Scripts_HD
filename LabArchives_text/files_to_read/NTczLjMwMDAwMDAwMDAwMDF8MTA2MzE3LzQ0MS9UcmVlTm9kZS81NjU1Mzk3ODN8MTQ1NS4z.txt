@@ -1,0 +1,120 @@
+
+
+
+
+
+Original Plate (96-well plate) - (Note scaffolds in wells with Black outlines
+would have been used for Fix & DAPI)
+
+  
+
+  
+
+  
+
+New Plate (24-well plate):
+
+  
+
+Process:
+
+D1 calculate seeding efficiency (tryplisation and count from base of wells,
+subtracted from initial seed density)
+
+  
+
+  1. Once 1 sample has been taken from each condition for Fix & DAPI staining, and the remaining samples have been moved to 24-well plate, proceed.
+
+Note* Perform this on wells C3-C8 & D3-D8 (old plate).
+
+  
+
+1\. Aspirate growth media from wells C3-C8 and D3-D8.
+
+2\. Wash each well with 100uL/well dPBS.
+
+3\. Aspirate dPBS.
+
+4\. Add 50uL/well of 1X Tryple to wells C3-C8 & D3-D8.
+
+5\. Incubate at 37ºC, 5% CO2 for 10-15 min or until all samples have detached.
+
+  1. Start/Finish time for tryple:  16:48 - 17:03  
+
+6\. Combine all cell suspensions from each set of 6 x samples (2 mixtures
+total).
+
+(i.e. combine cells from wells in Row C into 1 sample. Combine all cell
+suspension from wells in Row D into 1 sample.)
+
+7\. Add 200uL of dPBS to THE FIRST well of each condition (C3 & D3) and use it
+to wash all 6 wells horizontally and combine all cell suspensions from each
+set of 6 x samples into the existing 2 mixtures total. (C3-C8 into sample
+without LAA2P & D3-D8 into sample with LAA2P)
+
+8\. You will have 2 x 500uL suspensions (1 from fibroblast cells with Vitamin
+C and 1 from cells without Vitamin C)
+
+9\. Collect 10uL samples from each condition and dilute 1:1 with trypan blue.
+
+10\. Perform a cell count on the hemocytoemter for each cell sample and
+discard remaining cells.
+
+  1. Count 1 (Fibroblasts only):  130,000   
+
+  2. Count 2 (Fibroblasts + Vitamin C):  122,000   
+
+11\. Calculate the seeding efficiency from total cells seeded to cells
+remaining on base of plate.
+
+Based on Seeding 560K cells per scaffold.
+
+Fibroblast only: ~96%
+
+Fibroblast + Vitamin C: ~96%
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleM4008  
+dPBS (for washing & neutralising)  
+M4039  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+\- Pieces of zein were adhered to the bottom of the 96-well plate.
+
+
+
+
+Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

@@ -1,0 +1,108 @@
+
+
+Scaffold images came out blurry as if the platform was shaking during imaging
+session - unsure as to what may have caused this. Decided not to image again
+before Day 14 because the scaffolds have been handled a lot and I don't want
+to scrape off more cells. Scaffolds did appear to still have a decent number
+of cells adhered on live preview on zaber.
+
+Link to images: https://mia-
+capture.vow.tools/#/session/recCliSaEdQSLRSJG/images
+
+
+
+
+Culture IDs to image
+
+Vessel type(s)  
+Vessel ID  
+Number of wells being imaged  
+96-WP  
+
+### 7136-DOLLY12-Sheep P13-1of1
+
+36  
+  
+  
+Link to Mia images: (24 June) https://mia-
+capture.vow.tools/#/session/recCliSaEdQSLRSJG/images
+
+Plate map:
+
+
+
+
+Process
+
+1\. Aliquotted:
+
+  1. 6 mL of E6 + 120 uL of Hoechst in 15 mL tube
+  2. 2 mL of E6 (no Hoechst) in 15 mL tube
+
+3\. Pipetted 150 uL of Hoechst media into 36 wells of a 96-WP
+
+4\. Wrapped plate in foil and placed in incubator for ~10 minutes (to warm
+media). Timestamp: 14:39
+
+5\. Retrieved plate from incubator. Using sterile tweezers, move 8 x scaffolds
+to Hoechst media containing wells.
+
+6\. Re-wrapped plate with foil and replaced in incubator for 10 minutes.
+Timestamp: 15:00
+
+7\. Retrieved plate from incubator. Aspirated Hoechst media from scaffolds and
+replaced with fresh regular E6 (no Hoechst) (50 uL per well)
+
+8\. Zaber imaged scaffolds (both sides).
+
+9\. Brought plate back into BSC. Using sterile tweezers, moved scaffolds from
+96WP to 48WP with fresh, warmed media.
+
+10\. Replaced in incubator.
+
+  
+
+E6: m5532
+
+Hoechst: s2464
+
+
+
+
+Setting up plate for imaging
+
+  1. Channel(s) used (delete those that do not apply): [DAPI]
+  2. Magnification: 2.5X  
+
+  3. Exposure used:  SIDE A 20 ms SIDE B 20 ms   
+
+    * Tip: Any areas that appear red on "live" preview are overexposed, and any areas that appear blue are underexposed. It is better to be underexposed rather than overexposed. If you see any red areas, reduce your exposure on Micro-manager.
+  4. Opened "Multi-Dimensional Acquisition" from Micromanager 
+  5. Checked Z-stacks (slices) on "Multi-Dimensional Acquisition" window. 
+    1. Used the "twist" motion of the joystick to find the point of the scaffold where it is justout of focus (either direction is fine). Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "Start Z".
+      * Start Z value: SIDE A 23,447.745 SIDE B 
+    2. Twisted the joystick in the opposite direction to find the point at which the other side of the scaffold is justout of focus.  Moved to subsequent wells and adjusted the focus if scaffolds were still in focus at this plane. Clicked "set" on "End Z". 
+      * End Z value: SIDE A 25,000 SIDE B 
+    3. Set step size. Note: the ideal value is 50 um, however you will need to check "number of slices" to ensure it is a reasonable number.
+      * Step size: SIDE A 100 um SIDE B 100 um
+  6. Opened HCS-site generator 
+    1. Calibrated XY (applicable if this is the first plate being imaged or it is a new plate format. If multiple plates of the same format are being imaged, this step only needs to be performed for the first plate) 
+    2. Set the Spacing Rule to "Field of View" and the overlap to 50 um 
+    3. Set "rows/columns" to the appropriate size for the scope of the well being imaged. Referred to the table of recommended values for a 96-WP in Zaber imaging guide linked above. For imaging scaffolds, used "whole well" recommendation. 
+      * Rows/Columns:  2R / 1C  
+    4. Selected wells for imaging by clicking "select" on the top right-hand corner of HCS site generator and clicking and dragging wells of interest on plate map. Note: If there are wells of interest with a break between them, hold down CNTRL before selecting the next set of wells to avoid de-selecting the first set.
+    5. Selected "Build MM list" to generate the list of positions being imaged by the Zaber. 
+  7. Turned off Live mode. Note: This can be done by simply exiting the live preview window.  
+  8. Returned to "Multi-Dimension Acquisition" window. Checked that the number of images being taken makes sense ("Total images" under "Summary"). 
+    * Total number of images:  SIDE A: 1152 SIDE B: 1152    
+
+  9. Using the QR scanner, scanned culture ID label. Note: best to perform this step last as it sometimes times out during set-up.
+  10. Changed "UNTITLED" in the name of the directory root to identifiable name e.g. culture ID
+  11. Clicked acquire (clicked yes when asked about creating a new root directory). 
+    * Time started:  SIDE A: 15:20 SIDE B: 15:39    
+
+    * Time finished: SIDE A 15:32 SIDE B: 15:55  
+
+  12. Returned plate to incubator 15:57 
+
+

@@ -1,0 +1,187 @@
+
+
+## Performed by: Bec Screnci  
+
+
+Culture ID(s)  
+Vessel Type  
+No. of wells to stain  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+Media/Reagents used:
+
+NameDetails (reagent ID)  
+Blocking BufferM 7928  
+  
+dPBSM 8241  
+  
+Secondary Antibody  
+S 1965  
+  
+Phalloidin-iFluor  
+S 4211  
+  
+  
+  
+
+
+
+
+Reagent preparation:
+
+1\. Centrifuged the secondary antibody stock using the benchtop
+microcentrifuge for 10 seconds.
+
+2\. Prepared Secondary Antibody mix (pipette from the top/supernatant of
+antibody solution): 12:08 pm
+
+  2 µL   Anti-mouse IgG2b AF555  (1:500 ) +  1  mL Blocking Buffer (PBST (0.1%
+Triton X + dPBS) + 3% BSA)  
+
+If using AlexaFluor secondary antibodies then the max concentration should be
+1:500 (typically used at 1:1000)
+
+Pipette-mixed antibody mix and stored refrigerated away from light until
+needed.
+
+2\. Prepared Phalloidin stain: 13:28 pm
+
+  2 µL   Phalloidin iFluor 488  (1:1000 ) +  2  mL dPBS
+
+
+
+
+Antibody used
+
+Primary AntibodyIgG formDilution in blocking buffer  
+Secondary AntibodyDilution in blocking buffer  
+Mouse Anti-MF20  
+IgG2b  
+1:50  
+Anti-Mouse IgG2b AF555  
+1:500  
+  
+Conjugated: Phalloidin iFluor 488  
+  
+1:1000 (in dPBS)  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Removed plate from fridge (incubated in primary antibodies overnight).
+
+2\. Washed 3 times for 5 min with PBS at RT.
+
+ 11:56 - 12:01 pm
+
+ 12:01 - 12:06 pm
+
+ 12:06 - 12:09 pm
+
+3\. Incubated the cells with secondary antibody mixture in the dark at RT for
+1 hour.  12:10 - 1:10 pm
+
+NOTE: from this step onwards protect from the light by wrapping plates in foil
+and perform experiment in the dark.
+
+
+
+
+Counter staining
+
+1\.  Removed 2nd antibody solution.  13:29 pm
+
+2\.  Washed with Phalloidin iFluor 488 (1:1000) in dPBS for 20-30 min at RT in
+the dark.
+
+  * Rows 1-4 (20 min in Phalloidin stain)
+
+ 13:30 - 13:50 pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 13:50 - 13:55 pm
+
+ 13:55 - 14:01 pm
+
+ 14:01 - 14:06 pm
+
+4\.  Replaced dPBS.
+
+ 14:06 pm
+
+  * Rows 5-2 (30 min in Phalloidin stain)
+
+ 13:30 - 14:00 pm
+
+3\.  Washed in PBS 3 x 5 min at RT in the dark. (No Triton)
+
+ 14:01 - 14:06 pm
+
+ 14:06 - 14:11 pm
+
+ 14:11 - 14:16 pm
+
+4\.  Replaced dPBS.
+
+ : a/pm
+
+  
+
+  
+
+5\. Confirmed staining on microscope by imaging.
+
+
+
+
+SOPs used:
+
+  * SOP_Immunofluorescence Staining V_02
+
+  
+
+
+
+
+Observations/Summary:
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

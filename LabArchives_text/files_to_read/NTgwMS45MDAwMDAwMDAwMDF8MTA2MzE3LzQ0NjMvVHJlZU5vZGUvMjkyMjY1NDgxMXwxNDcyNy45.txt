@@ -1,0 +1,37 @@
+
+
+## Completed by: VB
+
+
+Aim/Purpose
+
+
+To achieve doublings of Fibroblasts in ACF media.
+
+
+Hypothesis
+
+
+That ACF media will support 10+ doublings of fibroblasts.
+
+
+Technical Gap
+
+
+We have not previously attempted to grow fibroblasts in 10C ACF media.
+
+
+Method/Procedure
+
+
+Experimental Plan
+
+  1. D0: Thaw 1M of F_DOLLY12 and seed 4x T25 flasks at 150,000 per flask in DMEM/F12+10%FBS+1xP/S
+  2. D0: Make up 25 mL of 10C medium 
+  3. D1: Perform 100% feed of:
+    1.  2 x T25s with 10C medium
+    2.  2 x T25s with DMEM/F12+10%FBS+1xP/S medium 
+  4. D4: Passage 4 and count 4x T25 flasks into 4 x T25 flasks
+  5. Serially passage and feed when necessary until cells senesce or stop proliferating. 
+
+

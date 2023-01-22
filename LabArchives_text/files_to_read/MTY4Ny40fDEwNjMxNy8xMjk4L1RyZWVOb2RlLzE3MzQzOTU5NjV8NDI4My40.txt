@@ -1,0 +1,118 @@
+
+
+While it is hard to be prescriptive with what a report should contain, there
+are a few common points that all reports should consider. A report should
+(almost) replicate the "Discussion" section of a journal article. The
+following is a ROUGH guide with a suggested paragraph structure. PLEASE ensure
+to include references to previously published work (or links to work conducted
+here at Vow).
+
+  1. What is the most important overarching finding? 
+  2. A brief discussion of all results and how they fit into our final goal of producing an edible meat product (this section might be several paragraphs long and should put the results into the context of what has been done before). 
+  3. Any limitations of the study, why might our results not be correct? 
+  4. What is the overall conclusion? 
+  5. Discussion of future directions.
+
+***PLEASE NOTE, YOUR REPORT SHOULD BE FINALISED WITHIN TWO WEEKS OF COMPLETING
+ALL EXPERIMENTAL WORK.***  
+
+  
+
+
+
+
+Note: The TGFb used in this experiment was not reconstituted according to the
+manufacturer's instructions which may have impacted results.
+
+Key Findings
+
+  
+
+Methods summary
+
+3x 96 well plates were seeded with DOLLY12 cells at a density of 7000
+cells/well in 140uL/well of  serum containing media. 24 h after seeding, a
+100% media change was performed, where E89C was added to all wells except for
+the serum control wells. A media mixing protocol was performed on OT2 to
+create 39 test conditions based on a JMP DSD design. These conditions
+contained E6 made from bullet along with the different amounts of ingredients
+being tested. In addition, we had control differentiation media conditions:
+DMEM/F12 + 2% HS + 1x P/S, E6 (x0.2 P/S) made fresh, E6 (x0.2 P/S) made from
+bullet. Plate randomisation was performed using OT2 to spread the DSD
+conditions and controls randomly over 3 deep well plates. These deep well
+plates were labelled "DSD conditions". Additional deep well plates were
+prepared (called "E6 from bullet") which contained E6 made from bullet in all
+wells, except for the wells with controls. On day 4 after seeding, 100% feed
+was performed, where 50% of the media came from "DSD conditions" and 50% of
+the media came from "E6 from bullet". Then, daily 50% feeds were performed
+alternating between "E6 bullet" and "DSD conditions". After 5 days in
+differentiation, we observed some peeling, so plates were fixed and stained
+for MyoG and DAPI. Plates were imaged on the Zaber on 5x. MyoG counts were
+obtained from images using an ImageJ macro. Further analysis was performed
+using JMP.
+
+Discussion
+
+Adding B27 supplement in E6 was found to improve the number of MyoG cells in
+this experiment. Previously, Das et al (2009) reported a serum free
+differentiation media for skeletal muscle which contained B27. In their study,
+B27 was found to support cell survival, but did not promote myotube formation.
+It is likely we have observed a different outcome because we used different
+types of cells. We also used a different media formulation so the interaction
+of ingredients and the combinatory effects of these on cells would be
+different.
+
+B-27 supplement is often used for serum-free expansion of neuronal cell lines.
+However, it has been shown (Das et al 2004) to support cardiomyocyte growth
+before. It consists of 20 different ingredients which are shown below (from
+Brewer et al 1993). Some of these ingredients are already found in E6
+(insulin, transferring, and selenium). It may be worthwhile to explore the
+ingredients of B27 separately to further optimise concentrations and
+potentially remove ingredients if they are not needed.
+
+Ingredients in B27 supplement.
+
+Poloxamers are amphiphilic synthetic copolymers which can interact with
+hydrophobic surfaces and biological membranes. They are used to control shear
+forces in suspension cultures, to reduce foaming in stirred cultures, and to
+reduce cell attachment to glass. In this experiment, we wanted to test whether
+adding poloxamer 188 into our media would have other unintentional effects on
+cell differentiation. As our results indicate that it did not have any
+effects, we should continue adding this ingredient to our suspension cultures
+and bioreactors.
+
+Although some literature suggests that adding BMP2, EGF, and/or LIF to cell
+culture media can enhance differentiation of muscle cells, our findings did
+not support this. As mentioned before, this could be due to differences in
+cells, differences in the growth factors used, or interactions with other
+media ingredients. We currently add EGF and LIF to our ACF media formulation
+for proliferation (E810C). Therefore, we could try proliferating cells in
+E810C without these ingredients, and then differentiating as usual (in E6).
+Another application of this finding would be to proliferate cells in our
+standard E810C formulation, but then switch to a 'priming' proliferation media
+that does not contain ingredients which might inhibit differentiation a few
+days before changing to differentiation.
+
+Limitations
+
+We did not stain for MF20 to look at the fusion and myotube formation in
+various media conditions. Ideally, looking at myotube formation would be
+beneficial if we were looking at samples further into differentiation (perhaps
+7 days or more in diff). However, because we observed peeling of cells in some
+wells, we were not able to differentiate our cells for a longer duration. We
+also did not monitor MyoG over different time points.
+
+Overall conclusion
+
+Adding B27 supplement in E6 media promoted muscle differentiation. BMP2, EGF,
+and LIF were found to inhibit muscle differentiation. Poloxamer 188 had no
+effect on the differentiation of myoblasts.  
+
+Future directions
+
+EPIC16782 incorporates findings from this experiment by testing an ACF
+proliferation media that does not contain EGF and LIF. Cells proliferated in
+this media may be able to differentiate better than cells grown in our
+standard E810C media.
+
+

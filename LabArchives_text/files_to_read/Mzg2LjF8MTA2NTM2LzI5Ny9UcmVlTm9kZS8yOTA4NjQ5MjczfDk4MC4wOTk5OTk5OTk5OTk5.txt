@@ -1,0 +1,92 @@
+
+
+Batch Overview
+
+Batch Goals:
+
+  * Optimisation: Improve upon previous experimental findings and continue to find new ways to increase batch yield in adherent cultures 
+
+Experimental Questions:
+
+  1. Is VitC treatment at pre- or post-confluence better?
+  2. Can we speed up the time till harvest by seeding higher around 20kcells/cm2?
+
+Reasons for Investigating these Questions:
+
+  1. T175 flask experiments suggest that the final pellet weight can be influenced by when VitC treatment is applied (https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Production/NDcxLjkwMDAwMDAwMDAwMDAzfDEwNjUzNi8zNjMvVHJlZU5vZGUvNTE1MDI3OTA0fDExOTcuODk5OTk5OTk5OTk5OQ==) so we wanted to test this in 10CS.
+  2. Previous experiments showed that the optimal seeding density was between 7,500cells/cm2 and 15,000cells/cm2 however we wanted to see if we could push it a little further with 20,000cells/cm2 in order to speed up the time until harvest and reduce the overall time of batches. 
+
+Experimental Timeline/Deviations:
+
+Original Plan
+
+Amended Plan  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+Changes in experimental groups: Cells reached 100% confluence faster than
+expected and due to insufficient monitoring the 'pre-confluence' time point
+was missed. Therefore instead of looking at pre- and post- VitC confluence, we
+decided to look at the difference between pre-treatment with TGFb then VitC
+treatment and VitC treatment along (no pre-treatment).  
+* Flasks were harvested when peeling occurred in the majority of flasks.  
+
+  
+  
+  
+  
+Full Batch Summary:
+
+P1 - 5 days in between passage  
+P2 - 6 days in between passage  
+P3 - 7 days in between passage  
+P4: See below  
+
+  * Set 1: VitC ONLY treatment - 6 days in culture, 2 days in treatment.
+  * Set 2: TGFb pre-treatment - 9 days in culture, 3 days TGFb treatment, 2 days VitC treatment.
+
+Experimental Outcomes:
+
+* Graph 1 shows the total pellet weight produced from 3x10CS and 1x2CF in each experimental group  
+* Graph 2 shows the treatment time for each group. Only one treatment was applied to Set 1, Set received two separate treatments which are displayed cumulatively on the graph; the top portion shows the time in VitC treatment and the bottom portion shows the time in TGFb treatment. 
+
+Conclusions/Answers to Experimental Questions:
+
+2\. Can we speed up the time till harvest by seeding higher around
+20kcells/cm2?  
+Yes. Cells reached 100% confluence faster when seeded at 20,000cells/cm2
+compared to 7,500cells/cm2 or 15,000cells/cm2 therefore the time till
+treatment and harvest was shorter
+
+New question due to experimental group changes: 3. Does pre-treatment with
+TGFb after cells reached 100% confluence effect the final pellet weight?  
+Pre-treatment with TGFb slightly reduced the final pellet weight of these
+flasks despite have the same amount of time in treatment and starting to peel
+at the same amount of time as Set 1 (VitC only) flasks. With these results and
+those of previous experiments investigating TGFb alone treatment or pre-
+treatment it can be determined that TGFb does not show any benefit for use in
+Fibroblast cultures.
+
+Unanswered Questions:
+
+  1. Is VitC treatment at pre- or post-confluence better? Due to a change in experimental groups this question was not answered and a different one was answered instead (see above)
+
+  
+
+Overall Key Findings:
+
+  * Seeding higher (up to 20kcells/cm2) will speed up the time until harvest without any detrimental effects
+  * The previous gains seen with VitC only treatment (Batch 14, and 15) are reproducible once again in 10CS
+  * TGFb pre-treatment at 100% confluence does not give any benefit to fibroblast yield. 
+
+  
+
+

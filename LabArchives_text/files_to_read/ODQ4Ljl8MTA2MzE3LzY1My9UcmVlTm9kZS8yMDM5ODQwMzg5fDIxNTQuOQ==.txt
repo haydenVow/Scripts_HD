@@ -1,0 +1,231 @@
+
+
+The purpose of the in-cell ELISA is to quantify MyoG/MF20 via a colormetric
+change which can be quickly read via a plate reader and analysed almost
+instantaneously. Protein expression can then be normalised to total cells via
+janus green stain. This platform should increase our throughput of scaffolds
+analysis considerably, and also allow us to analyse protein content without
+needing to optimise scaffold breakdown protocols for each individual scaffold
+that we want to test. It also allows for us to quantify protein expression on
+3D scaffolds much more easily and accurately than florescence microscopy
+currently allows for.
+
+Resources: https://www.abcam.com/protocols/in-cell-elisa-ice#:~:text=In-Cell
+ELISA https://pubmed.ncbi.nlm.nih.gov/10542111/ (Janus green elution)
+
+Note: Some initial tests on flat scaffolds performed side by side with
+florescence microscopy will be necessary. In addition, we could seed a series
+of cells as a reference for the colormetric analysis; like the MTT assay, we
+could place 0, 500, 1k, 5k, and 10k cells into wells and this would allow us
+to approximately quantify the number of cells per scaffold. Quantifying the
+percentage of cells expressing MyoG or MF20 will be harder, but for DoE scans,
+we certainly should be able to identify which scaffolds are exhibiting cells
+with more versus less differentiation. For adhesion quantification purposes,
+we would have to have that series of cell numbers as a reference for
+quantification.
+
+Principle behind in-cell ELISA, which we want to adapt to scaffolds. I propose
+we use an HRP-conjugated secondary antibody and then follow up with Janus
+green staining (as described below) to normalise to total cell numbers.
+
+Janus green staining involves staining of the cell's mitochondria. It is often
+used as a normalisation step for adherent in-cell ELISAs similar to the one
+laid out above. In theory, the janus green stain can stain the mitochondria,
+then be eluted into solution via treatment with HCL. This will allow for
+relative comparisons of the amount of cells adherent to each scaffold type.
+
+Protocol (overview):
+
+  1. Prepare samples
+    1. Adherent cells can be grown in the 96 well plates, or a scaffold with cells for analysis can be placed in each well of a 96 well plate. Different scaffolds can be used in different wells.
+
+* * *
+
+* * *
+
+  1. Fix cells on scaffold
+
+    1. Incubate for 20 minutes with 2% PFA (fix as we typically do at Vow)
+
+    2. Gently aspirate the PFA and wash 3 times with 300 μL PBS per well.
+
+    3. Add sufficient PBS to the wells to cover the scaffolds. Cover the microplate with a seal. The microplate can now be stored at 4°C for several days. For prolonged storage, supplement PBS with 0.02% sodium azide.The microplate should not be allowed to dry at any point during or before the assay. Both paraformaldehyde and sodium azide are toxic, handle with care and dispose of according to local regulations.
+
+* * *
+
+* * *
+
+  2. Permeabilize cells. It is recommended to use a plate shaker (~300 rpm) during incubation steps. Any step involving removal of buffer or solution should be followed by gently tapping the plate on a paper towel to remove all solutions from the wells.
+
+* * *
+
+* * *
+
+    1. Remove PBS and move the scaffolds to new 96wps so there will be no cells adhered to the bottom of the microplate analysed.
+    2. Add freshly prepared permeabilization buffer (0.2% PBST as we typically use at Vow) to each well such that the scaffold is sufficiently covered. Incubate for 15 min.
+    3. Remove permeabilization buffer and add 200 μL of blocking buffer to each well. Incubate for 2 hr.
+  3. Incubation with primary antibody
+
+    1. Prepare 1X primary antibody solution by diluting provided stock antibody in blocking buffer. See Appendix 2 for more information.
+
+    2. Remove blocking buffer and add 100 µL diluted primary antibody solution to each well. Incubate overnight at 4°C. Note: To determine the background signal it is essential to omit primary antibody from at least one well containing cells for each experimental condition and detector antibody used.
+
+* * *
+
+* * *
+
+  4. Incubation with secondary antibody
+
+    1. Remove primary antibody solution and wash the microplate 3 times with PBS+0.05%Tween20 per well (sufficient to cover the scaffolds). Do not remove the last wash until step 5.3.
+
+    2. Prepare secondary antibody solution by diluting as directed in the kit protocol (or antibody datasheet) in blocking buffer. This should be a secondary antibody that binds to the primary antibody used in step #3 and bound to an HRP molecule. Protect antibodies from light.
+
+* * *
+
+* * *
+
+    3. Remove PBS+0.05%Tween20 and add 100 µL secondary antibody solution to each well (or sufficient to cover the scaffold). Incubate for 2 hr.
+
+    4. Remove secondary antibody solution and wash 4 times with PBS+0.05%Tween20 per well. Do not remove last wash.
+
+    5. Prepare the HRP substrate solution by mixing acetic acid, TMB and 0.03% H2O2 with the volume ratio of 4:1:5.
+
+    6. Remove the last wash and blot the microplate face down to remove excess liquid.
+
+    7. Dispense 100μl of the substrate solution per well with a multichannel pipe (sufficient to cover scaffold). Incubate the plate at in dark for 15 mins.
+
+    8. After sufficient colour development, add 100μl of stop solution (0.5M HCL) to the wells.
+
+    9. Remove the scaffolds from each well of a 96wp (carefully move to a second 96wp for later staining). Colour should be retained in the solution left within the well.
+
+  5. Measure signal
+
+    1. Read the absorbance (optical density at 450nm) of each well with a plate reader.
+
+    2. Save the data and export raw data to Excel.
+
+* * *
+
+Analyze data using LI-COR® ICW software, or other suitable data analysis
+software, such as Microsoft Excel or GraphPad Prism.
+
+* * *
+
+  6. Whole cell staining with Janus Green. Note: The (HRP) signal of antibody-specific complexes can be normalised to the Janus Green staining intensity to account for differences in cell seeding density. It is recommended to use a plate shaker (~300 rpm) during all incubation steps.
+
+* * *
+
+* * *
+
+    1. Take the new 96wps containing the scaffolds. Add 1X Janus Green Stain per well, sufficient to cover the scaffold. Incubate microplate for 5 min at room temperature.
+
+    2. Remove dye, wash microplate 5 times in deionized water or until excess dye is removed.
+
+    3. Remove last water wash, blot to dry, add 0.5 M HCl (sufficient volume to cover the scaffolds) and incubate for 10 min.
+
+    4. Remove the scaffolds from the 96wps, leaving the stained HCL behind.
+
+    5. Measure OD at 595 nm in a standard microplate spectrophotometer.
+
+A control for scaffolds with no cells should be included in the janus green
+staining.
+
+  7. Data Analysis
+
+    1. Correct the raw In-Cell ELISA signal for the background signal by subtracting the mean signal of well(s) incubated in the absence of the primary antibody from all other readings.
+    2. Correct the Janus Green signal of wells that do not contain cells from all other Janus Green readings.
+    3. Normalize the In-Cell ELISA signal by dividing the background-corrected In-Cell ELISA signal by the "background-corrected" Janus Green signal. This should give us an idea of the relative amount of MYOG/MF20 expression normalised to total cells on the scaffold.
+
+# Appendices
+
+Appendix 1 - Hints and tips for a successful In-Cell ELISA
+
+Cells
+
+Cell seeding density, culture medium and other growth conditions are key to a
+successful and reproducible experiment. Cell-type specific parameters should
+be defined by the user.
+
+Cell attachment and fixation
+
+Adherent cells can be grown and treated directly in the assay microplate. Cell
+attachment can be checked with a microscope. When the cells are fully attached
+the media can be removed and replaced with media containing the treatment
+reagent. Culture media containing up to 10% fetal serum does not interfere
+with the cell fixation and cross-linking to the microplate but may interfere
+with the treatment reagent.
+
+Cell treatment
+
+When using a drug (inhibitor or activator), untreated cells and cells treated
+with only the drug solvent should be included in the experiment.
+
+Cell seeding density
+
+The cell seeding density of the assay microplate is dependent on the cell
+type. It depends on the cell size (diameter, in case of the adherent cells)
+and the abundance of the target protein. As a general guideline, a monolayer
+is recommended for robust signal. The cell seeding can be determined
+experimentally by microscopic observation of cell density of serially diluted
+cells. For adherent cells, prepare a serial dilution of the cells in a
+microplate (of similar well dimensions) and observe the cell density under a
+microscope. Working on the high end of this range will generate stronger
+overall signal and allow detection of small signal increases. E.g., HeLa and
+HepG2 cells should be seeded from 25,000 to 50,000 cells per well, human
+fibroblasts (HdFN) from 15,000 to 25,000 cells per well.
+
+Controls
+
+It is essential to omit primary antibody in at least one well to provide a
+background signal for the experiment which can be subtracted from all measured
+data. This should be done for each experimental condition and with each
+detector antibody.
+
+Our primary antibodies are supplied with a recommended final concentration for
+In-Cell ELISA; this is found on each product data sheet.
+
+Scalability
+
+This assay can also be performed in 384-well microplate format by using ¼ of
+the volume of reagents and cells, as specified in the above protocol.
+
+Alternatively:
+
+We could do something like this, where we normalise to GAPDH or another
+housekeeping protein and potentially eliminate the Janus green staining step.
+However, this assumes that conventional housekeeping proteins like GAPDH will
+be consistent across all of the cell types that we are working with.
+
+  
+
+To order: 1\. Plate reader (talk to Thermo in conjunction with the Ops team
+about a demo unit)
+
+  2. Secondary antibodies conjugated to HRP (start with MyoG, then purchase MF20 if this works?) https://www.abcam.com/goat-mouse-igg1-hrp-ab97240.html (against IgG1 for MyoG - for the trial) https://www.thermofisher.com/antibody/product/Goat-anti-Mouse-IgG1-Secondary-Antibody-Polyclonal/PA1-74421 https://www.novusbio.com/products/igg1-antibody_nb7511
+
+  3. Janus Green Stain - https://www.sigmaaldrich.com/catalog/product/aldrich/201677?lang=en&region=AU&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLYWsjsUdsOawPivkx7tDgCT9xwZMoyPgvtEHrfsBsUQ2pG6-EeSNKhoCuBAQAvD_BwE#productDetailSafetyRelatedDocs In powder form, need to make it up somehow. Seemingly the only type of Janus green that is shipped to Aus though. Making up janus green stain: https://www.carolina.com/teacher-resources/Document/carolina-solution-sheets-janus-green-b/tr30726.tr
+
+4\. HRP substrate solution - acetic acid, TMB and 0.03% H2O2
+
+TMB substrate (pre-diluted in acid), purchase made up already? It's not too
+expensive -
+https://www.sigmaaldrich.com/catalog/product/sigma/t0440?lang=en&region=AU&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLbHEmmnL4HzFXyCoN3G7oUeQ5t32-QALXnZdwPpVLyScKRi3k1dJ9xoCmJYQAvD_BwE
+
+* * *
+
+5**. Tween20 -**
+https://www.sigmaaldrich.com/catalog/substance/tween2012345900564511?lang=en&region=AU&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLVMa5McrDDDaQvG6uCELYefObsZi-
+dUm6uXF4offoV0BC8-8noKmHxoCbI4QAvD_BwE
+
+Additional: 0.5M HCL (in house already - stop solution - Chris)
+
+All primary staining requirements
+
+2\. Plate shaker - ebay for ~600aud (this would be good for staining more
+generally, even if this pipeline were to not work) - Maybe we can just use a
+plate shaker like we have in house? Discuss with Tom.
+https://www.ebay.com.au/itm/321691803309?chn=ps&norover=1&mkevt=1&mkrid=705-139619-5960-0&mkcid=2&itemid=321691803309&targetid=1137314458762&device=c&mktype=pla&googleloc=9071833&poi=&campaignid=12499395101&mkgroupid=117789236134&rlsatarget=pla-1137314458762&abcId=9300512&merchantid=119228040&gclid=CjwKCAjwu5CDBhB9EiwA0w6sLWbf734yeNTqWmVWyni_n7IwAuyt05fgh5xwq9z06lC6TH0fbryaMBoCqNYQAvD_BwE
+
+  
+
+

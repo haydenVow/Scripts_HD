@@ -1,0 +1,90 @@
+
+
+Version Change Log
+
+NameChange Details  
+V1 (original)N/A  
+  
+  
+
+
+
+
+Process:
+
+### Process:
+
+  1. Removed flask(s)/plate(s) `culture IDs #7105-C2C12-Mouse P4-1of2 + 7106-C2C12-Mouse P4-2of2  `from the incubator. 
+  2. Removed media and washed wells with 100uL PBS.  
+  3. Remove wash and wash once more with 100uL PBS. 
+  4. Remove dPBS and add 100uL of 4% PFA and incubate at RT for 15 minutes. 17:51 - 18:04
+  5. Remove the PFA and wash wells twice with 200ul dPBS.  
+  6. Remove dPBS and replaced with fresh 100uL of dPBS 
+  7. Store the plates at 4 degrees (Fridge 65 in the library lab) overnight parafilmed ready for immunostaining.
+
+  
+
+Parafilmed the plates and store at 4ºC in the tissue culture lab fridge for
+future imaging
+
+Fridge location/ID: Main lab staining and fixed plates fridge
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+4% PFA  
+A3070  
+  
+dPBS (non-sterile)  
+M5385  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Ingredient Plate; before fix - media looked pink in 20 mg/mL concentration and
+imaging showed cells had died
+
+Media for all other wells appear to be quite yellow
+
+
+
+
+SOPs used: N/A  
+
+  
+
+
+
+
+Results:
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):  
+
+#7105 : https://mia-capture.vow.tools/#/session/recD796FMhGahQqI5/images
+
+#7106: https://mia-capture.vow.tools/#/session/rec4f50XFL7B3AM1Q
+
+

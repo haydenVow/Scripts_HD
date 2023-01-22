@@ -1,0 +1,196 @@
+
+
+Perform passage using below volumes:  
+
+
+
+
+## Performed by: LL  
+
+
+
+
+Passage culture IDs:
+
+Harvested flask typesHarvested flask IDsMedia/conditionsSeeded flask types  
+Seeded flask IDs  
+Media/conditions  
+  
+T25
+
+8197-F_DOLLY12-Sheep P9-1of2
+
+8198-F_DOLLY12-Sheep P9-2of2
+
+D/F+10%FBS+1xP/S  
+T258252-F_DOLLY12-Sheep P9-1of2  
+8253-F_DOLLY12-Sheep P9-2of2  
+D/F+10%FBS+1xP/S  
+  
+  
+8199-F_DOLLY12-Sheep P9-1of2
+
+8200-F_DOLLY12-Sheep P9-2of2
+
+D/F+5%FBS+5%KSR+0.5xP/S  
+8254-F_DOLLY12-Sheep P9-1of2  
+8255-F_DOLLY12-Sheep P9-2of2  
+D/F+5%FBS+5%KSR+0.5xP/S  
+  
+  
+8201-F_DOLLY12-Sheep P9-1of2
+
+8202-F_DOLLY12-Sheep P9-2of2
+
+D/F+10%KSR+1xP/S  
+DISCARDED  
+DISCARDED  
+DISCARDED  
+  
+  
+  
+
+  
+
+
+
+
+Media/Reagents used:  
+
+NameDetails (reagent ID)  
+D/F+10%FBS+1xP/S  
+a6455  
+  
+Tryplea5777  
+  
+dPBS (for washing & neutralising)a5495  
+  
+D/F+10%KSR  
+m6810  
+  
+  
+  
+
+
+
+
+### Process:
+
+1\. Took image of vessel with microscope on phase setting.
+
+2\. Aliquotted the required volume of each reagent in the table above and then
+placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1. TrypLE:   12   mL 
+  2.  dPBS (for neutralising):    12   mL
+  3.  dPBS (for washing):   12   mL
+  4. Growth media (added growth factors to aliquot containing KSR as indicated in table below):
+    1.  10 mLx D/F+10%FBS+1xP/S  
+
+    2. 10 mL x D/F+5%KSR+5%FBS+0.5xP/S  
+
+Time that all aliquots were placed in the water bath the warm before use
+13:25  
+
+Note: if aliquots were placed in water bath at different time, record the time
+stamp for each individual solution.
+
+
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.000030.050.000153  
+IGF10.000110.10.000555.5  
+PDGF0.0000250.010.00012512.5  
+TGF-B0.000010.0020.0000525
+
+
+  
+  
+4\. Removed vessel(s) from the incubator
+
+5\. Washed the vessel(s) with dPBS (warmed).
+
+6\. Added   10   mL tryple to each vessel/well and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was     13:40 - 13:52     
+
+7\. Neutralised with   10 mL   dPBS and combined cell suspension into    4 x
+15 mL  tubes.
+
+8\. Centrifuged at 650 x g for 5 min.
+
+  1. Start/Finish time for centrifugation was    14:00 - 14:05     
+
+
+
+
+9\. Aspirated the supernatant(s).
+
+10\. Resuspended pellet(s) in    0.5   mL    respective    media
+
+11\. Aliquoted   4 x 10 uL  of resuspended cells into a microcentrifuge tube
+for cell count.
+
+12\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet: Cell Count Spreadsheet or cell count
+widget below
+
+  1. Total cell numbers were: 
+    1. 8197 (D/F + 10%FBS +1xP/S): 310,000
+    2. 8198 (D/F + 10%FBS +1xP/S): 380,000  
+
+    3. 8199 (D/F+5%FBS+5%KSR+0.5xP/S): 1,622,000  
+
+    4. 8200 (D/F+5%FBS+5%KSR+0.5xP/S): 1,308,000  
+
+  2. Volumes of cell suspension required for subculture were:
+    1. 8197 (D/F + 10%FBS +1xP/S): 283 uL
+    2. 8198 (D/F + 10%FBS +1xP/S): 231 uL  
+
+    3. 8199 (D/F+5%FBS+5%KSR+0.5xP/S): 54 uL  
+
+    4. 8200 (D/F+5%FBS+5%KSR+0.5xP/S): 68 uL   
+
+  3. Cell density per vessel:    7000 cells / cm2   
+
+
+
+
+13\. Transferred cell suspensions to the pre-warmed     4 x 5 mL aliquots
+Growth media
+
+14\. Transferred cell suspensions into 4 x T25s  
+
+15\. Transferred vessel(s) to incubate at: 14:51
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)   
+
+  * [ ]  40ºC, 5% CO2 (avian cells)
+
+
+
+
+Observations/Summary:  
+
+1) Cells in D/F + 10% KSR medium have failed to re-attach since passage and
+appear to have died. Discarded these cultures (2 x T25s).
+
+2) Cells in D/F + 5%KSR + 5%FBS are growing much faster than cells in D/F +
+10%FBS (based off cell count numbers)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+8198 (D/F+10%FBS+1xP/S) https://mia-
+capture.vow.tools/#/session/recAgXhrkfOqI6Cxz/images
+
+8199 (D/F+5%FBS+5%KSR+0.5xP/S) https://mia-
+capture.vow.tools/#/session/recdj65u0mbDjlacl/images
+
+8201 (D/F+10%KSR) https://mia-
+capture.vow.tools/#/session/rec3Rk3SgqcEWSZDb/images
+
+

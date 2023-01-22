@@ -1,0 +1,71 @@
+
+
+## Completed by:
+
+
+Aim/Purpose
+
+
+To determine the effect of Hoechst in FACS sorting on cell selection, to
+determine the effect of conditioned media on cells in 384-well plate and to
+determine the required length of time before expansion into 96-well plates.
+
+
+Hypothesis
+
+
+That staining the cells with Hoechst either has a positive or negative effect
+on cell selection during FACS (for favourable cells), and that conditioned
+media will allow more cell colonies to proliferate from the starting point of
+1 cell. We also hypothesise that this clonnig run will provide iinvaluable
+information about the confluence that can be reached in a 384-well plate, and
+indicate the most effective time to expand cells beyond 384-well stage.
+
+
+Technical Gap
+
+
+We have not had a successful cloning run using fibroblasts, possibly due to
+low survival rates as fibroblasts generally need to be kept at a high
+confluence. This experiment aims to test 2 conditions to see if they help cell
+survival at early stages.
+
+
+Method/Procedure
+
+
+  1. [Experiment Plan]
+  2. Revive F_DOLLY12 cells (Thursday 1st July)
+  3. 50% Feed fibroblast cells (Friday 2nd July)
+  4. FACS sort into 6 x 384-well plates
+    1. Prepare 3 x plates with conditioned media + FGF
+    2. Prepare 3 x plates with fresh media
+    3. Prepare 20mL FACS Buffer
+    4. Harvest cells from T175s
+    5. Take to Garvan
+    6. Hoechst stain 1/2 of sample, add buffer to unstained 1/2 of sample
+    7. Sort Hoechst+ cells into top 1/2 rows of the plates
+    8. Sort unstained cells into bottom 1/2 rows of the plates
+    9. Centrifuge plates
+    10. Transport plates back to Vowse, place in incubator
+  5. Day 1 post-sort Zaber scan plates
+  6. Day 2 post-sort Zaber scan plates
+  7. Day 3 post-sort Zaber scan plates
+  8. Day 7 post-sort Zaber scan plates
+  9. Day 10 post-sort Zaber scan plates
+  10. Day 11 Pick high confluence wells from 384-well to 96-well plates
+  11. When confluent, Expand top clones from 96-well plate to 24-well plate
+  12. When confluent, Expand top clones from 24-well plate to 6-well plate
+  13. When confluent, Expand top clones from 6-well plate to T25 flasks
+  14. When confluent, Expand top clones from T25 flasks to T75 flasks
+  15. When confluent, Expand top clones from T75 flasks to T175 flasks
+  16. When confluent, Expand top clones from T175 flasks to Multi-layered cell factory flasks
+  17. Generate MCB_2 of successful clonal populations.
+  18. [Report writing (Draft)]
+  19. [Review & fill out Report (Full)]
+  20. [Ensure all lab books are complete & assign for review]
+  21. [Review Lab Books, results, report]
+  22. [Make necessary amendments and confirm with reviewer that experiment is complete
+  23. [Release note on Project Updates]  
+
+

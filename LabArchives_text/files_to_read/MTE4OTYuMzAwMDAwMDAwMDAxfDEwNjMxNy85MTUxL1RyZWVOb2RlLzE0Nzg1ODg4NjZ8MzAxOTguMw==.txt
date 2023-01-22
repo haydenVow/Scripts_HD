@@ -1,0 +1,74 @@
+
+
+## Completed by: EC
+
+
+Aim/Purpose
+
+
+To determine whether CHOin1 is able to support comparable cell growth rates
+and densities to those achieved in Freestyle and Hycell CHO to better
+understand the reason behind the low cell densities observed in 50/50
+RPMI/CHO.
+
+
+Hypothesis
+
+
+  * The maximum cell density reached in CHO will be lower than that achieved in Hycell and Freestyle as a result of the depletion of essential media constituents.
+  * The cell densities achieved in positive control conditions HyCell and Freestyle together with the spent media analysis results will allow us to determine what concentration these essential media constituents should be at to achieve greater cell densities (superior to 7.5M cells/mL).
+  * Optimisation of CHO will allow us to reach greater cell densities in 50/50 RPMI/CHO.
+
+
+Method/Procedure
+
+  1. Prepare 1L of each of the following media conditions:
+    1. Freestyle 293 + Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L) + Anti-clumping agent (1:100)  
+  
+
+    2. Hycell CHO + Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L) + Anti-clumping agent (1:100) + Glutamax 2 mM  
+  
+
+    3. 100% CHO + Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 4mM L-glutamine + 3.4 g/L glucose  
+  
+
+    4. 50/50 RPMI/CHO + Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.435 g/L L-glutamine + 3.4 g/L glucose  
+  
+
+    5. 50/50 RPMI/CHO + Difco yeast extract (1g/L) + L-Ornithine monohydrochloride (20 mg/L) + Putrescine dihydrochloride (20 mg/L) + IGF-1 LONG R3 (50 μg/L) + EGF (10 μg/L) \+ 0.146 g/L L-glutamine + 0.868 g/L Alanyl L-glutamine + 3.4 g/L glucose + 0.01 g/L hypoxanthine + 0.001 g/L thymidine  
+  
+*Note: Only add growth factors and L-glutamine on the day the growth media is required. 
+  
+
+  2. Measure electrical conductivity and pH of each media.
+  3. Seed 3 x E125 flasks per condition (200,000 cells per mL, 6M cells per flask, 72M cells total)
+  4. Perform daily cell counts on the Vicell (1 x technical rep. per flask).
+  5. Every second day, perform an 100% feed. When cell counts reach 1M/mL, 2M/mL etc., weigh pellet as explained below (on other days, ignore weighing steps):
+    1. Weigh every 50mL falcon tube that will be used to spin down cells
+    2. Write down weight on the 50mL falcon tube
+    3. Bring 50mL falcon tubes into BSC
+    4. Aspirate and dispense cell suspension from flask into 50mL falcon tube
+    5. Centrifuge at 500  x g for 5 minutes
+    6. Aspirate ~~and save supernatant~~
+    7. Weigh 50mL falcon tube with cell pellet and also record the new weight on the tube
+    8. Bring back into BSC and re-suspend cell pellet in fresh media
+  6. Repeat steps 4-5 until cell counts begin to decline.
+
+
+Technical Gap
+
+
+In Adrian's continuous medium replacement experiment, where we saw a benchtop
+harvest of ~78 g/L (11.5 cells/mL) in HyCell CHO media, spent medium was
+replaced with fresh medium every second day, indicating that it is some
+medium-related limitation that is preventing our Nuvonis cultures from
+reaching 30 g/L wet biomass density.
+
+We haven't tried replicating this experiment to determine whether reproducible
+nor have we reached similar cell densities using CHO alone or in different
+RPMI/CHO ratios. Given the criticality of our 30g/L target, we are hoping this
+experiment will help us understand whether the CHO media constituents and/or
+the concentration of these constituents are the current limiting factor to
+achieve greater maximum cell densities in 50/50 RPMI/CHO.
+
+

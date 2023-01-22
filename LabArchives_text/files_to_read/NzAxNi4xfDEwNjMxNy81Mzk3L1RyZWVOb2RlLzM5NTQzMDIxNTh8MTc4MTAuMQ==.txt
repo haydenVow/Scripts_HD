@@ -1,0 +1,166 @@
+
+
+Completed by: AK
+
+
+
+
+Rationale: Preliminary results indicate that CHOMP fibroblast cells can be
+suspended in growth medium supplemented with methylcellulose (MC). MC is an
+organic polymer used to as a thickening agent to generate a semi-solid medium
+to support cell growth in suspension-like conditions. We have found that
+concentrations of MC between 0.3-1% are able to prevent the adhesion of
+fibroblast cells onto the base of 96-well plates. However concentrations
+between 0.6-1% are extremely viscous and result in free floating particles of
+MC that are not adequately dissolved in the media. Therefore this experiment
+will investigate MC concentrations between 0.3-0.45% given they offered the
+best compromise between preventing cellular adhesion as well as being less
+viscous to work with.  
+
+
+Method/Procedure
+
+
+D0: Seed DOLLY12 fibroblasts in T175 flask at ~7000 cell/cm2 for scale up
+
+If feasible obtain cells from an already existing culture of DOLLY12
+fibroblasts and seed at 7000 cells/cm2 in a T175 flask. If not possible, thaw
+a vial of 1M DOLLY_12 fibroblast and seed a single T175 flask.
+
+D5: Harvest DOLLY_12 fibroblasts and seed in 96-well plates
+
+Harvest T175 flask that was previously seeded on day 0 and seed out the
+required number of 96-well plates (at 100 cells per well) according to how
+many conditions are seeded. The following conditions will be seeded:
+
+1\. Control: DMEM/F12 + 10% FBS + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+2\. RPMI 1640 \+ 10% FBS + 1X P/S \+ ACA (1:100) + 0.1% pluronic
+
+3\. CD CHO \+ 10% FBS + 1X P/S \+ ACA (1:100) + 0.1% pluronic
+
+4\. CDM4 CHO \+ 10% FBS + 1X P/S \+ ACA (1:100) + 0.1% pluronic
+
+5\. Hycell CHO \+ 10% FBS + 1X P/S \+ ACA (1:100) + 0.1% pluronic
+
+6\.  EMEMα \+ 10% FBS + 1X P/S \+ ACA (1:100) + 0.1% pluronic
+
+  
+
+7\. Control: DMEM/F12 + 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+8\. RPMI 1640 \+ 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+9\. CD CHO \+ 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+10\. CDM4 CHO \+ 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+11\. Hycell CHO \+ 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+12\.  EMEMα \+ 20% KSR + 1X P/S + ACA (1:100) + 0.1% pluronic
+
+  
+
+Note: Each media condition will be combined with MC the stock solution will
+have to be made up to a concentration such that when they are diluted they
+will be the concentrations as listed above. For example for conditions 1-12 in
+the 0.45% MC will need to be made at 2x the concentration as they will be
+diluted will a 1% MC stock solution, i.e., 20% FBS, 2X P/S etc. See table
+below.
+
+  
+
+Condition (0.45% MC)Basal MediaFBS (10%)KSR (20%)P/S (1x)ACA (1:100)0.1%
+pluronic  
+1400 uL80 uLN/A8 uL8 uL  
+8 uL  
+2400 uL  
+80 uL  
+N/A  
+8 uL  
+8 uL  
+8 uL  
+  
+3400 uL  
+80 uL  
+N/A  
+8 uL  
+8 uL  
+8 uL  
+  
+4400 uL  
+80 uL  
+N/A  
+8 uL  
+8 uL  
+8 uL  
+  
+5400 uL  
+80 uL  
+N/A  
+8 uL  
+8 uL  
+8 uL  
+  
+6400 uL  
+80 uL  
+N/A  
+8 uL  
+8 uL  
+8 uL  
+  
+7400 uL  
+N/A  
+160 uL8 uL  
+8 uL  
+8 uL  
+  
+8400 uL  
+N/A  
+160 uL  
+8 uL  
+8 uL  
+8 uL  
+  
+9400 uL  
+N/A  
+160 uL  
+8 uL  
+8 uL  
+8 uL  
+  
+10400 uL  
+N/A  
+160 uL  
+8 uL  
+8 uL  
+8 uL  
+  
+11400 uL  
+N/A  
+160 uL  
+8 uL  
+8 uL  
+8 uL  
+  
+12400 uL  
+N/A  
+160 uL  
+8 uL  
+8 uL  
+8 uL  
+  
+Total volume required = 800 uL  
+  
+  
+
+Seed out conditions according to this plate map:
+
+Each of the columns numbers align with the numbers of each of the conditions
+(i.e., column 1 will be the D/F12 + 10% FBS + 1X P/S etc).
+
+  
+
+  
+
+

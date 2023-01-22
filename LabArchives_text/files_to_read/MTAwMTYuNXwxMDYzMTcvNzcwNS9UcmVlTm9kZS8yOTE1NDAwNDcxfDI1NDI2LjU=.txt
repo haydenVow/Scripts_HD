@@ -1,0 +1,186 @@
+
+
+Perform bank using below volumes:
+
+  
+
+  
+
+
+
+
+## Performed by: EC  
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+  
+11483, 11484 (CDKN1B)  
+11486, 11487 (CDKN1B + ZIC1)  
+11489, 11490 (control)  
+6  
+  
+14527,14528 - CDKN1B  
+14530, 14531 - CDKN1B + ZIC1  
+14532, 14533 - Control  
+  
+Harvested Flasks  
+Passaged into #Flasks  
+Flask IDs  
+  
+11483, 11484 (CDKN1B)  
+11486, 11487 (CDKN1B + ZIC1)  
+11489, 11490 (control)  
+3 x 50 ml shaker tubes  
+11638 - Control  
+11639 - CDKN1B  
+11640 - ZIC1 + CDKN1B  
+
+
+  
+  
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+TrypleM10659  
+  
+dPBS (for washing & neutralising)A10952  
+  
+Growth Media (Hycell Cho)  
+M10607  
+  
+Freeze mediaS4439  
+  
+  
+  
+
+  
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  60 mL in 3 x 70 ml urine pots
+  2.  dPBS (for neutralising)  60 ml  in 3 x 70 ml urine pots
+  3.  dPBS (for pellet resuspension for those flasks going into suspension culture):   30 mL in 1 x 70 ml urine pot
+  4. Hycell Cho + KSR + GFs (IGF-IL3 + FGF):15 ml 
+  5. Cryostor: 6 ml
+  6.  Time that all aliquots were placed in the water bath to warm before use:   10:15 am - 13:20 pm 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+
+
+
+2\. Washed the flask(s) with 10 ml dPBS/vessel.
+
+3\. Added 10mL tryple to each vessel/well and incubated at 30ºC for 8 min
+
+4\. Neutralised with 10 ml dPBS (warmed) and combined cell suspension into 6 x
+50 ml tube.
+
+5\. Centrifuged at 400 x g for 5 min  
+
+
+
+
+6\. Aspirated the supernatant(s) from all 6 x 50ml tubes.
+
+7\. Resuspend 6 x 50 ml tubes (each containing nucleofected cells subject to a
+different condition) in 7 ml dPBS and transfer to 6 x 15 ml tubes.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0
+
+Total cell number was:
+
+CDKN1B (suspension): 3,300,000 cells
+
+CDKN1B + ZIC1 (suspension): 5,460,000 cells (4.579 ml were taken for
+suspension culture to have 5M cells in 5 ml)
+
+Control (suspension): 4,250,000 cells
+
+*We inferred the volume of cell suspension required to freeze down 200k cells at -80C for RNA extraction from the counts performed for the suspension cultures given we harvested 1 x T175 for each:
+
+ CDKN1B: 303 uL
+
+CDKN1B + ZIC1: 183 uL
+
+Control: 235 uL
+
+9\. Spin down the remaining cell suspension in the 3 x 15 ml tubes. Carefully
+aspirate the supernatant and resuspend in 2 ml of Cryostor (chilled, to reduce
+DMSO toxicity).
+
+10\. Aliquotted 1 mL into each cryovial (already labelled).
+
+11\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.    pm
+
+12\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+16\. Calculate the required volume of cell suspension for a 50 ml shaker tube
+suspension culture (5M cells/50 ml shaker tube).
+
+CDKN1B:
+
+CDKN1B + ZIC1:
+
+Control:
+
+17\. Spin down the cell suspension at 400g for 5 min.
+
+18\. Resuspend each of the cell pellets (there should be 3; 1 per condition)
+in pre-warmed Hycell Cho + KSR + GFs and transfer to shaking incubator set at
+150 rpm (slow speed).
+
+
+
+
+Observations/Summary:
+
+\- Instead of removing the supernatant of all conditions prior to adding the
+cryostor into the 50 ml tube and then into the cryovial, I did one condition
+at a time. This may have affected the viability of those cells that were in
+cryostor (in Mr. Frosty) for too long.
+
+\- I was a bit worried when I centrifuged my cells to then resuspend them in
+cryostor that I couldn't see a cell pellet.
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+Took 2 x images of each flask
+
+

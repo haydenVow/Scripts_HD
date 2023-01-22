@@ -1,0 +1,254 @@
+
+
+Perform bank using below volumes:
+
+
+
+
+## Performed by: Nathan + Bec
+
+
+
+
+Banking Culture IDs
+
+Harvested Flasks  
+Banked into # vials  
+# of cells per vial  
+Vial IDs  
+Additional cultures seeded  
+6756  
+34  
+500K  
+2788-Culture-6756-Vial-1of35  
+2789-Culture-6756-Vial-2of35  
+2790-Culture-6756-Vial-3of35  
+2791-Culture-6756-Vial-4of35  
+2792-Culture-6756-Vial-5of35  
+2793-Culture-6756-Vial-6of35  
+2794-Culture-6756-Vial-7of35  
+2795-Culture-6756-Vial-8of35  
+2796-Culture-6756-Vial-9of35  
+2797-Culture-6756-Vial-10of35  
+2798-Culture-6756-Vial-11of35  
+2799-Culture-6756-Vial-12of35  
+2800-Culture-6756-Vial-13of35  
+2801-Culture-6756-Vial-14of35  
+2802-Culture-6756-Vial-15of35  
+2803-Culture-6756-Vial-16of35  
+2804-Culture-6756-Vial-17of35  
+2805-Culture-6756-Vial-18of35  
+2806-Culture-6756-Vial-19of35  
+2807-Culture-6756-Vial-20of35  
+2808-Culture-6756-Vial-21of35  
+2809-Culture-6756-Vial-22of35  
+2810-Culture-6756-Vial-23of35  
+2811-Culture-6756-Vial-24of35  
+2812-Culture-6756-Vial-25of35  
+2813-Culture-6756-Vial-26of35  
+2814-Culture-6756-Vial-27of35  
+2815-Culture-6756-Vial-28of35  
+2816-Culture-6756-Vial-29of35  
+2817-Culture-6756-Vial-30of35  
+2818-Culture-6756-Vial-31of35  
+2819-Culture-6756-Vial-32of35  
+2820-Culture-6756-Vial-33of35  
+2821-Culture-6756-Vial-34of35  
+6860-DOLLY12_15D11-Sheep P9-1of1  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Growth Media (for resuspension):
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + 10uM P38i
+
+
+
+
+Process:
+
+ 1\. Aliquotted the required volume of each reagent in the table above and
+then placed all aliquots to warm in the water bath for a minimum of 20 minutes
+prior to use:
+
+  1.  TrypLE:  250mL in | 1x250mL | container
+  2.  dPBS (for neutralising)    2x250mL in | 2x250mL | containers
+  3.  Growth media (for pellet resuspension):   20 mL in | 1x50mL | tubes 
+  4.  Time that all aliquots were placed in the water bath to warm before use:    14:00 a/pm 
+
+Note: if aliquots were placed in water bath at different times, record the
+time stamp for each individual solution.
+
+Gelatin coated 6 wells on a 96 well plate (B2-B4, C2-C4), place plate to
+incubate at 37 degrees, 5% C02.
+
+
+
+
+1\. Removed the flask from the incubator, emptied supernatant by pouring into
+a waste container.  
+
+2\. Added 250mL of dPBS to the vessel to wash cells.
+
+3\. Removed dPBS wash as per protocol in step 1.
+
+4\. Added | 250 |mL tryple to each vessel/well and incubated at 37ºC for | 15
+| min. [14:24-14:39]
+
+4a Poured tryple from the flask into a 250mL corning container, split the
+volume across 10x 50mL tubes.
+
+5\. Added  | 250 | dPBS (warmed) to the empty 5CF, swirled and washed the
+flask, poured the contents back into a 250mL container then combined  withcell
+suspensions in  | 50mL | tubes.
+
+6\. Centrifuged at 650 x g for 5 min
+
+  1.  Start/Finish time for centrifugation was:   14:45 - 14:50 a/pm   
+
+
+
+
+6\. Aspirated the supernatant(s).
+
+7\. Resuspend pellet(s) in | 11.2 |mL | growth | media.
+
+8\. Performed a cell count using the haemocytometer and recorded the cell
+count data in the Google Doc spreadsheet called 'Cell Count Spreadsheet' (see
+link below):
+
+https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0&range=1127:1127
+
+9\. Total cell number was: | 17,526,000 |
+
+9a. Added 1.24mL of growth media leftover from the resuspension media to a
+15mL tube.
+
+9b. Added 20uL of counted cell suspension (31,000 cells) to the 1.24mL of
+growth media. Removed gelatin from the wells on the gelatin coated 96 well
+plate and replaced with 200uL of this mixed cell suspension (5000 cells/well),
+placed in the incubator at 37 degrees, 5% CO2 [15:40], incubator 67.
+
+10\. Calculated the required volume cell suspension & freeze medium to
+generate a concentration of ~1M cells/mL. (17.5mL
+
+
+
+
+11\. Prepared   20mL Freeze Medium: (FBS + 10% DMSO). ID # 4975  
+
+Stored at 4ºC until use to keep chilled.
+
+12\. Centrifuged cells at 650 x g for 5 min.  15:20  \-  15:25  a/pm
+
+Whilst centrifuge is spinning, prepared & printed vial labels, labelled
+cryovials. (Note that passage number will be the same as the culture you
+harvest from. The passage number will increase by 1 during the revive of a
+vial.)
+
+
+
+
+13\. Aspirated supernatant carefully, taking care not to disturb the pellet.
+
+14\. Resuspended the pellet in | 17.5 |mL freeze media (chilled, to reduce
+DMSO toxicity).
+
+15\. Aliquotted | 500uL |µL into | 34 | x cryovials (already labelled).
+
+16\. Tightened the lids & transfer the cryovials to a Mr. Frosty immediately
+into the -80ºC freezer.   16:10   a/pm
+
+  * [x]  With foam
+  * [ ]  Without foam
+  * [ ]  1st Freeze
+  * [ ]  2nd Freeze
+  * [ ]  3rd Freeze
+  * [ ]  4th Freeze
+  * [ ]  5th Freeze
+
+17\. Allow the cells to freeze for at least 18-24 hours before transferring to
+Liquid Nitrogen storage.
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solution4319  
+  
+Tryple4949  
+  
+dPBS (for washing & neutralising)4808  
+  
+Growth Media4946  
+  
+p38i (20mM stock)3978  
+  
+Freeze media  
+  
+  
+  
+
+  
+
+
+
+
+Observations/Summary:
+
+Decided to seed a Diff assay following the procedure undertaken in the
+following study:
+https://www.sciencedirect.com/science/article/abs/pii/S1096717620301208?via%3Dihub.
+The procedure involves the following.
+
+  * Growing the cells in Growth media (in the paper this is DMEM + 10% FBS + 1% anthomycin) until 70% confluence.
+  * Media is then left unchanged over 7 days before fixing with 4% PFA and stained with Primary MHC antibodies to 4 μ g/mL in blocking solution (4% goat serum in dPBS). 
+  * We will modify the protocol to use our regular growth media but induce 7 days of starvation once the wells appear to be 70% confluent. 
+
+  
+
+  
+
+
+
+
+SOPs used:
+
+  * SOP_Banking Adherent cells V_03
+
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+N/A
+
+

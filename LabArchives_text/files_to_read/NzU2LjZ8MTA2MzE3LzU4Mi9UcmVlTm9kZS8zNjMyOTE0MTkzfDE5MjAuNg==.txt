@@ -1,0 +1,45 @@
+
+
+Key result
+
+The aim of this experiment was to construct an assembly with a culture surface
+area of >100 cm2 that is capable of keeping cells alive (on scaffolds) while
+also minimizing manual maintenance (media changes). With the suggested
+prototypes, cells can be kept alive and sterile for prolonged periods of time
+in a bioreactor 100x the size of a 6-well plate well. The figure below shows
+MTT stained Alginate hydrogels cultured inside the bioreactor (left) vs a
+6-well plate (right).
+
+Discussion
+
+  1. Cells can be kept alive in a large volume bioreactor without adding perfusion. 
+  2. At the hardware-directed volumes of media, changes do not have to be performed for the tested number of scaffolds due to the high media excess. 
+  3. Cells were incubated in Growth media for 1-2 days, followed by a media change to E6 diff media for 4 days. At both time points, MTT results for cell viability indicated cell survival was equivalent to the traditional 6-well plate controls.
+  4. Sterility was maintained inside the bioreactor even after the prolonged periods of incubation at 37C as assessed visually (no suitable microscope objective to monitor bacterial growth available)
+
+Limitations
+
+Sterility was assessed to be sufficiently maintained by the fact that there
+were no obvious deposits or cloudiness/discoloration effects observed in the
+media
+
+Conclusion
+
+The static type reactor built in this study is suitable for handoff to
+production and will save significant operator time by enabling the team to
+process a large number of individual samples in one pot with minimal operator
+interaction.
+
+Future directions
+
+The static type reactor is merely an intermediate step en route to a fully
+closed systems with automated media changes and system monitoring (perfusion
+reactor). As a next step and to further increase the benefit to production, a
+perfusion system shall be built and the effect of large scale culture in
+muscle maturation will be studied.
+
+  
+
+  
+
+

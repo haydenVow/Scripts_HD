@@ -1,0 +1,91 @@
+
+
+## Performed by: TT
+
+
+
+
+Culture ID
+
+Vessel IDDays since seeding.  
+130496  
+  
+  
+
+
+
+
+Took samples
+
+  1. Unscrewed the "BENCHMARK" sample tube cover.
+  2. Sprayed down the tube end with 70% ethanol.
+  3. Connecedt a 5 mL sterile syringe.
+  4. Withdrew slightly more than 3 mL (to purge the line).
+  5. Discarded the 5 mL syringe.
+  6. Connected a fresh sterile syringe and withdrew 3.5 - 4.0 mL of sample.
+  7. Disconnected sample syringe and transferred 1 mL of sample each to 3 x 1.5 mL Eppendorf tubes for subsequent analysis.
+  8. Sprayed sample tube end and cap with 70% ethanol, re-attached cap.
+  9. Prepared sample for biochemistry analysis
+    1. Took 300 uL, centrifuged at 500 RCF for 5 minutes
+    2. Transferred 250 uL of supernatant to 250 uL of ultrapure lab water
+    3. Labelled tube "Biostat TT 01-Aug-2022"
+    4. Transferred to green tube rack for EPIC32419 in freezer 71 Albert 6582
+  10. Replaced old base bottle with a fresh one
+    1. Added 200 mL of ultrapure water to a clean 250 mL Schott bottle
+    2. Added 8 g of sodium hydroxide pellets to the water
+    3. Capped the bottle and sterilized by autoclaving
+    4. Once the bottle was sterilized, transferred it into the BSC
+    5. Turned off the base pump, clamped the line and removed it from the base pump
+    6. Transferred the old bottle (still attached to bioreactor) into the BSC
+    7. Swapped over the lids from the old and new bottles
+    8. Reinstalled the base line in the base pump
+    9. Turned the pump to manual to prime the line
+    10. Turned the pump to automatic to continue automatic dosing to control pH
+
+ReferenceOperating manual page(s) 81  
+https://www.sartorius.com/shop/ww/en/usd/products-fluid-management-
+benchmark%e2%84%a2-sampling-system/c/M_BENCHMARK_Sampling_System  
+Operator initialsTT  
+Checked by operator initials-  
+Timestamp14:30  
+Notes
+
+  
+
+Online:
+
+  * Temp: 37degC
+  * dO: 49.2 %
+  * pH: 7.40
+  * Stir: 237-238 RPM
+
+Offline:
+
+  * pH: 7.5
+  * cell count manual: 452,000 viable cells/mL, 90.4% viability
+  * cell count ViCell: 378,000 viable cells/mL, 93.5% viability
+
+Base bottler: M13291
+
+See cell counting spreadsheet for count calculations  
+  
+  
+  
+
+
+
+
+### Observations/Summary:
+
+  * ### Base bottle was empty - replaced with a fresh bottle of 1 M NaOH
+
+  * ### Cell count roughly double since Friday - doubling time of only 3 days - likely cells will be ready for harvest on Thursday 4th August  
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+

@@ -1,0 +1,101 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+## Feed performed by: LL  
+
+
+
+
+Culture IDs to feed
+
+Flask location: Thermo
+
+Media location: Mini-fridge under bioreactor
+
+Vessel type(s)  
+Vessel ID  
+Growth media  
+  
+T25  
+7292  
+commercial DMEM/F12 + 10% FBS  
+  
+T25  
+7293in-house DMEM/F12 + 10% FBS (1/2)  
+  
+T25  
+7294  
+in-house DMEM/F12 + 10% FBS (2/2)  
+
+
+  
+  
+Process:
+
+  1. Image each flask on Phase.
+  2. Aliquotted  2.7 mL  mL of  each growth Media into  1 tube each  . Placed in water bath    :   \-  :  
+  3. Removed  50  % of supernatant from vessel. 
+  4. Replaced with  2.5 mL (per well/per vessel) of  resepective growth   media (see table above). 
+  5. Returned vessel to incubate at: 
+
+  * [X]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (#Thermo  ), Lab [Main]
+
+
+
+
+### Observations/Summary:
+
+ 50 % media changed was not performed as cells in all T25 flasks appeared dead
+(round and floating). Therefore, the experiment was terminated.
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+commercial DMEM/F12 + 10% FBS  
+m5673  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [X]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+  
+
+  
+
+

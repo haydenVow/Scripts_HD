@@ -1,0 +1,38 @@
+
+
+## Completed by: Lily
+
+
+About alamarBlue cell viability assay
+
+
+AlamarBlue Cell Viability Reagent is a ready-to-use resazurin-based solution
+that functions as a cell health indicator by using the reducing power of
+living cells to quantitatively measure viability. Resazurin, the active
+ingredient of alamarBlue reagent, is a non-toxic, cell-permeable compound that
+is blue in color and virtually non-fluorescent. Upon entering living cells,
+resazurin is reduced to resorufin, a compound that is red in color and highly
+fluorescent. Changes in viability can be easily detected using either an
+absorbance- or fluorescence-based plate reader. alamarBlue Cell Viability
+Reagent has broad applicability and can be used with various human and animal
+cell lines, bacteria, plant, and fungi.
+
+
+Suitability for our purposes
+
+
+We want to use alamarBlue to determine cell confluence in SCC plates to
+generate data for clone picking. This means that the assay needs to be very
+sensitive (ideally down to ~20 cells). AlamarBlue is reported to be sensitive
+enough to pick up 50 cells in one well, however for this sensitivity it may
+require longer incubation times (i.e. 24 hours). The assay is also far more
+sensitive when used with a fluorescence plate reader, however our in-house
+plate reader does not have fluorescence capabilities.
+
+To test this assay, adherent CHOMP cells will be plated using a serial
+dilution (n=6 reps) and read on the plate reader at hours 1 and 4. The plate
+will again be read on days 1,5,7,9,12,14 and16 to see how the reagents tracks
+cell confluence over time when left in the medium.
+
+
+AlamarBlue Manual

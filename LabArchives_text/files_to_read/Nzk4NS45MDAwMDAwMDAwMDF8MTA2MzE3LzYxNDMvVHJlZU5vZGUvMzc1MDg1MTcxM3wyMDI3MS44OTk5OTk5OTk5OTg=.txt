@@ -1,0 +1,103 @@
+Rational for our strategy
+
+
+We have limited time to achieve the scientific breakthroughs required to
+launch a first product in singapore by the end of 2022.
+
+In the next 3-6 months, we need to have cells growing in a scalable fashion at
+the 2L bioreactor level at Vow. We will then need to tech transfer these cells
+to our manufacturing partners at Ester Asco in Singapore, who will assist with
+the subsequent scale-up.
+
+Cells growing in a scalable fashion is a problem with multiple potential
+solutions. The next few months will aim to scientifically determine which
+solution is most feasible by kicking off a variety of projects. The projects
+support and compliment each other, and aim to arrive at a scalable growing
+cell population in the shortest possible time. Any questions about this
+technical brief, please direct to Katie Day.  
+  
+Project Bucket aims to de-risk the assumption that single cell suspension
+culture is the most efficient method of growing cells at scale (Project GM
+CHOMP, Project Media Optimisation, Project SCC). This project focuses on
+growing cells in suspended aggregates.These suspended aggregates should form
+spontaneously based on ingredients added to the culture media, and thus
+little-to-no additional upstream or downstream processing beyond that required
+for single cell suspension culture should be required. As an additional part
+of this project, commercial cell lines will be assessed for whether they might
+make a feasible first product.  
+  
+Project Egg aims to de-risk the assumption that a muscle-based fibroblast,
+which has been isolated from highly adherent-reliant conditions, is capable of
+growing in suspension (Project GM CHOMP, Project Media Optimisation, Project
+SCC). JUST and Nuvonis both have grown fibroblast cell lines from eggs in
+suspension, so there is precedent here that would work for our purposes. We
+will be isolating embryonic fibroblast cell lines from a range of species,
+which should be immortalised due to their embryonic nature. These cell lines
+may also be naturally suspension adapted, given the microenvironment of the
+egg compared to microenvironment of the firm muscle tissue.
+
+Project GM  CHOMP aims to de-risk the assumptions that 1) our muscle CHOMP
+fibroblasts are capable of going into suspension at all (Projects Media
+Optimisation, Bucket) and 2) that we can isolate CHOMP cells from an egg in a
+timely manner (Project Egg). CHOMP fibroblasts isolated from muscle will be
+genetically modified to manipulate key genes associated with adaptation of
+cells from adherent to suspension culture. These cells will also be
+genetically modified to make them immortal. If we are able to achieve a GM
+suspended CHOMP fibroblast, we can immediately begin scale-up and media
+optimisation using this cell line, while simultaneously performing single cell
+cloning on our non-GM, heterogenous CHOMP fibroblast cell line to obtain these
+genetic modifications by random chance (achieving a non-GM fibroblast line in
+suspension essentially becomes a numbers game, with genetic variants all being
+sorted into the optimised media) (Project SCC).  
+  
+Project Media Optimisation is our most likely chance of a "quick win" that
+builds on all of the research at Vow into single cell suspension work over the
+past six months. Cell cycle analysis and RNA transcriptomics will "shine a
+light" into why our current cells being adapted to suspension are dying during
+the process. This data should provide information to allow Project GM CHOMP to
+succeed more quickly. In addition, by understanding why the cells are dying,
+we may be able to add in additional media ingredients to "save" the cells from
+death or to "kick-start" their proliferation. This also could involve an
+attempt to return to more automation-friendly formats. Switching to CO2-free
+media could allow us to avoid pH changes.  
+  
+Project SCC aims to scale-up our capabilities to perform SCC further. We have
+previously achieved some promising signals using a forced suspension
+adaptation + cloning protocol with our CHOMP muscle fibroblasts. This project
+assumes achieving a suspension-adapted cell line is a numbers game and if we
+can ramp numbers of clones that we process to a sufficiently high number (1
+million+) then we will be able to go to market with a suspension-adapted
+muscle cell. Project GM CHOMP and Project Egg may also require SCC
+capabilities, and this project aims to maximise those capabilities.  
+  
+External to Vow, microcarrier work will continue at the Melbourne lab. We also
+will try to bring our packed bed bioreactor work in house.  
+  
+  
+
+
+
+
+1\. Project Bucket.  
+Lead: Victoria.  
+Additional core members: James H, Addy.
+
+Key goals: (WIP)  
+1\. Determine whether encapsulated growth of croc muscle fibroblasts is a
+feasible strategy to pursue for our first product.  
+2\. Attempt to grow a range of commercial cell lines (e.g. nuvonis
+fibroblasts) in bioreactors to see whether a commercial cell line is a
+feasible strategy to pursue for our first product.  
+3\. Order in 3x different types of bioreactors to begin generating some early
+data around which bioreactor is best fit for purpose. This may include the
+packed bed bioreactor for adherent culture.  
+  
+Assumptions and Risks: (WIP)  
+1\. De-risks the assumption that single cell suspension is the most
+optimal/quickest way to a first product.  
+2\. Assumes that encapsulated aggregate suspension will not involve additional
+downstream processing during harvest.  
+3\. Assumes the texture of encapsulated aggregate suspension will allow for
+less intensive downstream processing on the product team side.
+
+

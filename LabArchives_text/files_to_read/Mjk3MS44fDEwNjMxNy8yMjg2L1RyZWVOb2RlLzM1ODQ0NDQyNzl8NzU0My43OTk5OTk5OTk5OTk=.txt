@@ -1,0 +1,77 @@
+
+
+This report will focus on the experiment involving only creatine as a media
+component. Another study within this experiment, involving creatinine and
+creatine will not be analysed and discussed in details (see below as to why it
+is excluded)
+
+Older experiment (creatinine + creatine) vs newer experiment (creatine only)
+
+  1. Both older experiments (with creatinine) and newer experiment (creatine only), had different seeding situations, whereby the former switched to E6 after 2 days in culture, whilst the latter switched to E6 the day after. Furthermore, both were seeded at different levels, based on cell availability. Both of these will have an impact on the results, and therefore should not be compared as they were treated differently.   
+  2. Furthermore, for the first round of the creatine experiment, creatinine was accidently used instead of creatine. Upon discovering this on day 3 of culture in E6, the media was change back to creatine. 
+  3. For the first round of this experiment, media was prepared by weighing small amounts of creatine at each concentration. As the amounts was small, this resulted in less accuracy and higher chance of human error. Therefore, for the next experiment round, media was prepared by creating a 10 mM stock solution of creatine, and combining this with different volumes of E6 media to obtain the ideal concentrations. 
+  4. The cells in the old experiment using creatinine appeared to have formed clusters by day 10 in E6. This is not a normal behaviours of MuSC, indicating that the cells have died. Refer to link for images  https://au-mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTg1Ny43fDEwNjMxNy8xNDI5L1RyZWVOb2RlLzM2NTAwMjUzMDB8NDcxNS43
+
+  
+
+  
+
+  
+
+Results
+
+Based on the MyoD, MF20 and DAPI images taken after 10 days in E6 media, it
+would appear that the creatine media did have an effect on maturation of the
+cells. However, due to issues with imaging, where there was a bright band
+visible in both MyoD (A488) and MF20 (A555) channels, there was difficulties
+viewing the degree of staining. For all conditions, the monochrom images
+showed that there was some MyoD and MF20 positive staining. The length, amount
+and intensity varied across the images. Below are the images merged and in
+monochrome. (Due to issues with formatting when adding image captions, the
+images will not include captions. The images are arranged in order of merged
+image, MF20, MyoD, DAPI.) Refer to labbook for more images with the band
+cropped out https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/MTQzOS4xMDAwMDAwMDAwMDAxfDEwNjMxNy8xMTA3L1RyZWVOb2RlLzE1NzUzNTM5ODF8MzY1My4x.
+
+  
+
+Treatment with only E6  (0mM creatine)
+
+  
+
+ Treatment with 1 mM creatine
+
+  
+
+Treatment with 3 mM of creatine
+
+  
+
+Treatment with  5 mM of creatine
+
+Treatment with 7mM of creatine
+
+Treatment with 9mM of creatine
+
+  
+
+Discussion
+
+As evident in the images above, addition of creatine in the media did not lead
+to any detrimental effects to maturation and rather has shown an overall
+positive effect on myotube formation. As seen in the images of cells in E6,
+myotubes appears short and scattered. However for cell treated with creatine
+concentrations of 1, 5, 7, 9 mM, more myotubes were formed with most being
+longer in length. It is good to note that at 3mM of creatine, we did not see
+much myotube, with those that did show a signal, showing shorter lengths,
+similar to those in E6. This may be causes by those particular wells having
+less cells compared to the others, which may have occurred from uneven pipette
+mixing during seeding. As seen in the DAPI images, there appears to be less
+cells overall. However, this is difficult to determine as there was no
+analysis made that measures protein concentration or cells present in the
+wells. This could be an area to include in future studies. Asides from the
+treatment at 3mM, it would appear that as the creatine concentration
+increased, myotube formation improved, in particular at 9mM, we see longer
+myotubes with stronger signals.
+
+

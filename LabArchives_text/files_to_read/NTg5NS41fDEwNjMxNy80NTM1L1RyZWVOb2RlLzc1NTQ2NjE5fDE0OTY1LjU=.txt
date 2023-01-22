@@ -1,0 +1,358 @@
+
+
+Perform thaw using below volumes:
+
+  
+
+
+
+
+## Performed by:
+
+
+
+
+Media
+
+ ~~~~1\. DMEM/F12 + 10% FBS + 1x p/s ~~~~
+
+2\. CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + 4mM
+L-glutamine  \+ 1x p/s + 100 ng/mL each FGF, IGF1, PDGF
+
+Note: only add growth factors to aliquots immediately before the medium
+change.
+
+
+
+
+1\. Aliquoted growth media for each condition and added growth factors - See
+suspension trail #7 on the media spreadsheet for details here:
+https://docs.google.com/spreadsheets/d/124elwh67VrPyq7zPMqVI_g3-NUiVigjjaF64dVxeZa0/edit#gid=1560938043
+
+For 2L of CD CHO:
+
+  
+% volumeVolume (mL)2000  
+Base Media0.861720  
+  
+KSR0.1200  
+  
+ACA0.0120  
+  
+Pen/Strep0.0120  
+  
+L-glut0.02401  
+  
+For 3L of D/F + 10%:
+
+  
+% volumeVolume (mL)3000  
+Base Media DMEM  
+1335  
+  
+F12  
+1335  
+  
+Pen/Strep0.0130  
+  
+FBS0.13001  
+  
+  
+
+Media  
+  
+Purpose  
+  
+Volume of Media (mL)  
+  
+Number of tubes (Split between DOLLY12 and CHOMP)  
+  
+Total per feed  
+Total in experiment (x10 feeds)  
+  
+DMEM/F12 + 10% FBS + 1x p/s  
+Shaker tube seeding  
+15  
+2  
+30  
+300  
+  
+DMEM/F12 + 10% FBS + 1x p/s  
+  
+E125 seeding  
+  
+30  
+6  
+180  
+1800  
+  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 4mM
+L-glutamine +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+Shaker tube seeding  
+  
+  
+15  
+2  
+30  
+300  
+  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent + \+ 4mM
+L-glutamine +  100ng/mL each FGF, IGF1, PDGF \+ 1x p/s  
+E125 seeding  
+  
+  
+30  
+6  
+180  
+1800  
+  
+DMEM/F12 + 10% FBS + 1x p/s  
+4CF Seeding 6001x 500 mL bottle  
+  
+  
+DMEM/F12 + 20% FBS + 1x p/s  
+  
+4CF Seeding6001x 500mL bottle  
+  
+  
+  
+2\. Added growth factors (IGF, PDGF, FGF) to CD CHO growth media according to
+the below table:
+
+For 90mL aliquots:
+
+Total (mL)90  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.009180  
+IGF10.00010.10.00990  
+PDGF0.00010.010.009900  
+  
+For 15ml aliquots:
+
+Total (mL)15  
+  
+  
+  
+  
+Desired conc (mg/mL)Stock conc (mg/mL)Total mg in final volVol to add (uL)  
+FGF0.00010.050.001530  
+IGF10.00010.10.001515  
+PDGF0.00010.010.0015150  
+  
+2\. Added the following reagents to the water bath and media to incubator and
+warm at 37 degrees Celsius   PBS:tryple - 13:30, media -15:59
+
+  * Growth media (for seeding) shaker tubes: 1x15mL D/F media, 1x15mL CD CHO 
+  * Growth media (for seeding) E125 flasks:  1x 90mL D/F media , 1x90mL CD CHO
+  * Growth media (for seeding) 4CF:  1x600mL D/F + 10% FBS + 1xp/s (in 500mL bottle)
+  * dPBS (for washing and neutralising DOLLY12)  800 mL
+  * Tryple (for passaging DOLLY12)  400 mL
+
+3\. Added the following reagents to the water bath and media to incubator and
+warm at 30 degrees Celsius  PBS:tryple - 13:30, media - 15 :59
+
+  * Growth media (for seeding) shaker tubes: 1x15mL D/F media, 1x15mL CD CHO 
+  * Growth media (for seeding) E125 flasks:  1x 90mL D/F media , 1x90mL CD CHO
+  * Growth media (for seeding) 4CF:  1x600mL D/F + 20% FBS + 1xp/s (in 500mL bottle)
+  * dPBS (for washing and neutralising CHOMP)  400 mL
+  * Tryple (for passaging CHOMP)  200 mL  
+  
+
+  *   * 
+
+
+
+
+F_DOLLY12 Culture IDs
+
+Vial ID passagedSeeded Flask ID(s)Seeded Flask Type  
+  
+4CF - 8496-F_DOLLY12-Sheep P10-1of2
+
+4CF - 8497-F_DOLLY12-Sheep P10-2of2
+
+8630-F_DOLLY12-Sheep P11-1of3  
+8631-F_DOLLY12-Sheep P11-2of3  
+8632-F_DOLLY12-Sheep P11-3of3  
+8633-F_DOLLY12-Sheep P11-1of3  
+8634-F_DOLLY12-Sheep P11-2of3  
+8635-F_DOLLY12-Sheep P11-3of3Shake tubes  
+  
+8636-F_DOLLY12-Sheep P11-1of3  
+8637-F_DOLLY12-Sheep P11-2of3  
+8638-F_DOLLY12-Sheep P11-3of3  
+8639-F_DOLLY12-Sheep P11-1of3  
+8640-F_DOLLY12-Sheep P11-2of3  
+8641-F_DOLLY12-Sheep P11-3of3  
+E125  
+8642-F_DOLLY12-Sheep P11-1of1  
+4CF
+
+
+  
+  
+## Passage and seed DOLLY12
+
+1\. Removed 2x culture vessels from the incubator   15:40  
+
+2\. Washed the vessels with 200 mL dPBS (warmed).
+
+3\. Added   200 mL tryple to each vessel and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   15:55 - 16:10    
+
+4\. Neutralised with    200 mL   dPBS each and transferred cell suspension
+into  250mL centrifuge tubes  
+
+5\. Centrifuged at 650 x g for 5 min  16:19-16: 19  
+
+6\. Resuspend cells in 1 mL pre-warmed growth media (D/F + 10% FBS + 1xP/S) to
+perform cell count.  
+
+7\. Take 600 uL aliquot and perform cell
+count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count = 86.4 MILLION in 60 mL (1.44 million cells/mL)
+
+Transfer      347     uL cell suspension containing 500,000 cells to 3 x
+separative 50 ml shaker tubes with warmed medium, and      2083    uL
+containing 3M cells to E125 with warmed medium
+
+8\. Transfer 15 million cells (10.5 mL) to 4CF in 600mL prewarmed growth
+media.
+
+Incubate at 37ºC, 5% CO2
+
+Set shaker to continuous shaking at 206 RPM for the 50ml flasks and 120RPM for
+the E125s.
+
+  
+
+
+
+
+F_CHOMP Culture IDs
+
+Vessel ID passaged Seeded Flask ID(s)Seeded Flask Type  
+4CF- 8461-F_CHOMP09-Crocodile P6-1of1  
+  
+8643-F_CHOMP09-Crocodile P7-1of3  
+8644-F_CHOMP09-Crocodile P7-2of3  
+8645-F_CHOMP09-Crocodile P7-3of3  
+8646-F_CHOMP09-Crocodile P7-1of3  
+8647-F_CHOMP09-Crocodile P7-2of3  
+8648-F_CHOMP09-Crocodile P7-3of3  
+50 mL spin tubes  
+  
+  
+8649-F_CHOMP09-Crocodile P7-1of3  
+8650-F_CHOMP09-Crocodile P7-2of3  
+8651-F_CHOMP09-Crocodile P7-3of3  
+8652-F_CHOMP09-Crocodile P7-1of3  
+8653-F_CHOMP09-Crocodile P7-2of3  
+8654-F_CHOMP09-Crocodile P7-3of3  
+E125 flasks  
+  
+  
+8655-F_CHOMP09-Crocodile P7-1of1  
+4CF
+
+
+  
+  
+## Passage and seed CHOMP
+
+1\. Removed 1x culture vessels from the incubator   15:40  
+
+2\. Washed the vessels with 200 mL dPBS (warmed).
+
+3\. Added   200 mL tryple to each vessel and incubated at 37˚C.
+
+  1. Start/Finish for TrypLE was   15:50 - 16:05    
+
+4\. Neutralised with    200 mL   dPBS each and transferred cell suspension
+into  250mL centrifuge tubes  
+
+5\. Centrifuged at 650 x g for 5 min  16:12 - 16:17  
+
+6\. Resuspend cells in 1 mL pre-warmed growth media (D/F + 10% FBS + 1xP/S) to
+perform cell count.  
+
+7\. Take 20uL aliquot and perform cell
+count.https://docs.google.com/spreadsheets/d/1DPzKubYxfHmWogVPihC-
+SSIBtIylyrBQE5kRX5Z8NtI/edit#gid=0  
+Total cell count = 77.8 MILLION in 20 mL (3.89 million cells/mL)
+
+Transfer     129      uL cell suspension containing 500,000 cells to 3 x
+separative 50 ml shaker tubes with warmed medium, and      771    uL
+containing 3M cells to E125 with warmed medium
+
+8\. Transfer 15 million cells (3.9 mL) to 4CF in 600mL prewarmed growth media.
+
+NOTE: Incubated at 37ºC, 5% CO2 in main lab as there was no room in any of the
+30 deg C incubators in Library lab OR Main lab
+
+Set shaker to continuous shaking at 206 RPM for the 50ml flasks and 120RPM for
+the E125s.
+
+
+
+
+Images
+
+8496 F_DOLLy12 - https://mia-
+capture.vow.tools/#/session/reclWotHmOLVPZZ0F/images
+
+8497-F_DOLLY12 - https://mia-
+capture.vow.tools/#/session/recq3YESUzHNNFZTx/images
+
+8461-F_CHOMP09 https://mia-
+capture.vow.tools/#/session/rechQEnAcbVMkZarv/images
+
+
+
+
+Media/Reagents used:
+
+  
+
+Name
+
+Details (reagent ID)  
+  
+DMEM/F12 + 10% FBS + 1xP/S  
+m6328  
+  
+DMEM/F12 + 20% FBS + 1xP/S  
+  
+m7505, m7303, m7246  
+  
+CD CHO +10% Knockout serum replacement + 1:100 anti-clumping agent \+ 0.1%
+pluronic + 1xP/S  
+m6325  
+  
+FGF  
+m5077  
+IGF1  
+m3644  
+  
+PDGF  
+m6338  
+  
+Tryple  
+M6540, M7547  
+  
+dPBS  
+A7539  
+  
+  
+  
+  
+  
+  
+
+

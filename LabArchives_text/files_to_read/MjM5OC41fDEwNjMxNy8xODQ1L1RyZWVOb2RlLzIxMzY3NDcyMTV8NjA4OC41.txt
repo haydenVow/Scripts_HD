@@ -1,0 +1,198 @@
+
+
+Culture ID typ
+
+Harvested Vessel Type(s)
+
+Harvested Vessel ID(s)
+
+Seeded Vessel Type(s)
+
+Seeded Vessel ID(s)  
+  
+4 x 4CFs
+
+7079-DOLLY12-Sheep P12-1of4
+
+7080-DOLLY12-Sheep P12-2of4
+
+7081-DOLLY12-Sheep P12-3of4
+
+7082-DOLLY12-Sheep P12-4of4
+
+2 x 96-well plates
+
+1 x 48-well plate (to test adherent culture diff)
+
+7136-DOLLY12-Sheep P13-1of1  
+7137--Sheep P-2of2  
+7139-DOLLY12-Sheep P13-1of1  
+  
+  
+
+
+
+
+## Performed by: LL & AK  
+
+
+
+
+Method/Procedure
+
+Table of volumes:
+
+Flask TypedPBS at 37˚C (washing)TrypledPBS ambient temp (neutralising)Media
+for pellet resuspension and countTubes needed  
+4CF800mL800mL800mL20 mL (1/4 dilution with trypan)24 x 50mL  
+  
+  
+
+
+
+
+1\.  Turn on water bath and set temperature to 37˚C.
+
+2\. Take the flasks for harvest and observe under the microscope for even cell
+distribution and 50% confluency. Take 5 images per flask. Refer to VSOP006_0
+
+3\.  Aliquot required volume of dPBS (37C) 800 ml , dPBS (ambient temp) 800
+ml, TrypLE 800 ml, , 10C growth media 15 mL and serum-containing growth media
+20 ml into separate sterile pots.
+
+4\.  Place aliquots in pre-warmed water bath and leave for ~20 minutes or
+until warmed. 13:25
+
+NOTE - use the warmed dPBS is to wash the flask before the Tryple, this way we
+don't cool down the flask before adding the warm tryple, so must ensure this
+is warmed properly, also the tryple must be warmed properly before adding to
+the flasks because the size of the 4CFs means that the 10 mins in the
+incubator won't be enough to heat it all up and get the enzyme working
+
+
+
+
+5\.  Transfer aliquots and flasks required for harvest into the BSC, ensuring
+to wipe down containers with 70% EtOH during the transfer.  
+
+6\. Unscrew white cap and remove blue cap from 4CF and place aside (high and
+out of way within the BSC) carefully pour all of the media from the flask into
+a 500ml waste pot.
+
+(refer to this youtube vid to see how they pour out the growth media if you
+are unsure:
+https://www.youtube.com/watch?v=ly21MtEyTKk&ab_channel=ThermoScientific)
+
+
+
+
+7\.  Replace with  200 mL (per flask) of warmed dPBS by carefully pouring
+through the white cap opening (alternatively you may use a 50mL serological to
+add)
+
+8\.  Screw caps back on and equalise each 4CF by placing it on its side (blue
+cap on the bottom and white cap on the top, see image below:
+
+9\.  Once flask has been washed carefully pour the dPBS into a 500ml waste
+container.
+
+10\.  Add/pour 200ml of pre-warmed TrypLE into each 4CF, equalise (as
+explained above).
+
+11\.  Incubate at 37˚C for 10 min. 13:58 - 14:18
+
+
+
+
+12\.  After 5 minutes, remove flasks and observe for 95-100% dissociation of
+cells under the microscope. If needed incubate further until maximum
+dissociation level is reached.
+
+NOTE: The flasks must be removed from the incubator within 10 minutes of
+initial incubation of TrypLE containing flasks.  
+
+13\.  Return flasks to the BSC, unscrew lids and place aside, then carefully
+pour out the TrypLE solution from the flasks and collect into a sterile 500ml
+container. Next, distribute the tryple/cell mix with a serological pipette
+into x 50mL centrifuge tubes(labelled). The number of tubes will depend on
+amount of flasks used for the harvest (8 tubes per 4CF).
+
+14\.  Carefully pour  100ml of ambient dPBS into each flask, screw on lids,
+equalise and wash flask (as explained above), gently mix then remove lids and
+aspirate the entire volume by carefully pouring into a 500ml collection pot.
+Refer to volumes required from above Table. Then distribute with a serological
+pipette into 24 x 50mL centrifuge tubes(labelled).
+
+15\.  Repeat previous 100ml  PBS wash step
+
+
+
+
+16\.  Centrifuge tubes at 650 x g for 5 minutes. Start time time
+
+Flasks 7079 & 7080: 14:28 - 14:33, flasks 7081 & 7082 14:37 - 14:42
+
+17\.  Gently remove centrifuge tubes ensuring not to disturb the suspended
+pellets and aspirate the supernatant from the tubes. Discard supernatant.
+Remove remaining supernatant with a 1mL pipette.
+
+Cells are now harvested.
+
+
+
+
+Serum count: 18.376 M
+
+ACF: 22.297 M
+
+
+
+
+Observations/Summary:
+
+\- Significantly fewer cells than expected from ACF culture
+
+\- Cells looked good under microscope before passage
+
+\- Cells received less than usual amount of food over weekend due to media
+calculation error - this may have impacted growth
+
+\- Taking reps down to n=3, removing one condition, and seeding at 0.7M cells
+per scaffold
+
+
+
+
+Media/Reagents used:
+
+  
+
+NameDetails (reagent ID)  
+0.1% gelatin solutionNA  
+  
+Tryplem4588  
+  
+dPBS (for washing & neutralising)a5250, 5244, 5245  
+  
+Growth Mediam5369  
+  
+  
+  
+
+
+
+
+### Results:
+
+  * Results were;
+    * [ ]  As Usual (this is a repetitive task)
+    * [x]  Unexpected because...very low cell harvest from ACF culture 
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+ Relevant Images/Figures (if applicable):
+
+

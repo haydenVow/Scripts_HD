@@ -1,0 +1,96 @@
+
+
+## Completed by: AK
+
+
+Aim/Purpose
+
+
+To achieve proliferating suspension-adapted fibroblast cells using growth
+media (DMEM/F12 + 2% FBS + 1X P/S) containing either HDAC or hydrolysates
+independently or in tandem.
+
+
+Hypothesis
+
+
+That HDACs and/or hydrolysates will enable DOLLY12 fibroblast cells in
+proliferate and survive in suspension culture.
+
+
+Technical Gap
+
+
+Currently, the primary technical challenge is the inability for fibroblast
+cells to proliferate in suspension culture for an extended period (> 14 days),
+without a substantial loss in cell viability or cell numbers. In order to
+accomplish our objective of generating at least 1 fibroblast cell line adapted
+to suspension (according to our metrics), it's necessary to continuously
+evaluate different media supplementations. Therefore to identify a promising
+avenue that enable us to grow cells in suspension we will be assessing two new
+compounds; HDACs and hydrolysates.
+
+
+Method/Procedure
+
+
+  1. Thaw 2x vials of DOLLY12 fibroblasts and seed 1M cells per T175 flask
+  2. Perform a 50% feed ~24hrs following the cell thaw
+  3. Passage fibroblast when at high confluence (>80% confluence) and seed at ~7K cells/cm2. This step will need to be repeated until sufficient cell numbers are reached, which will be 80M cells.
+  4. Harvest the fibroblast cells and seed each of the conditions below into a separate 50 mL falcon spin tube at 1M cells per 1 mL. The total volume for each spin tube will be 10 mL therefore each condition will require 10M cell, hence the 80M cells required to seed every condition.
+
+Conditions:
+
+  1. Serum Control (DMEM/F12 + 10% FBS + 1X P/S)
+  2. HDAC 1 (0.1ug/mL)
+  3. HDAC 2 (0.1ug/mL)
+  4. HDAC 1 + HDAC 2 (0.1ug/mL)
+  5. Hydrolysate 1 (BBL Phytone Peptone) 5 g/L
+  6. Hydrolysate 2 (Difco Select Phytone UF) 5g/L
+  7. Hydrolysate 1 (BBL Phytone Peptone) 5g/L + HDAC 1 (0.1ug/mL)  \+ HDAC 2 (0.1ug/mL) 
+  8. Hydrolysate 2 (Difco Select Phytone UF) 5g/L \+ HDAC 1 (0.1ug/mL)  \+ HDAC 2 (0.1ug/mL)
+
+*See information below on how to prepare each of the conditions. 
+
+5\. Perform a 100% feed for each condition every three days, filtering the
+cells through a 70 um filter unit prior to adding fresh media.
+
+6\. Following the 17 day time point perform a cell count to determine total
+cell numbers and cell viability.
+
+  
+
+Preparation of media conditions:
+
+*All conditions, except for the serum control, will be in the same standard growth media which will be DMEM/F12 + 2% FBS + 1X P/S. The only difference will be the HDAC and/or hydrolysate supplementation added. 
+
+Prep of both hydrolysate stock solutions:
+
+Before adding the hydrolysates into the media they will first have to be
+prepared as a stock solution. To make it easier in determining how much of the
+stock solution needs to added to the growth media its best to prepare a stock
+solution of 10% (w/v) (i.e. 100g of hydrolysate in 1 L of Milli-Q water).
+Fortunately, if 1 L of solution is not required the volume can be easily
+adjusted.
+
+1\. Retrieve hydrolysates from the cell expansion fridge - BBL Phytone Peptone
+Stock #372 and Difco Select Phytone UF Stock #3489.
+
+2\. Weigh out 5 g of each hydrolysate.
+
+3\. Add the 5 g powder to 50 mL of Milli-Q water. According to this technical
+sheet the hydrolysates should be soluble in purified water and the solution
+should appear to be clear to slightly hazy.
+
+4\. Sterile filter the dissolved hydrolysate solution through a 0.22 um filter
+unit. This concentrate can then be used to add the hydrolysates into the
+growth media.
+
+5\. Store solution at 4'C for 2-4 weeks.  
+
+Please make sure that whenever media containing hydrolysates is required, that
+it is prepared on or as close to the day its required as possible. In order to
+make media with hydrolysates at 5g/L just add 0.5 mL (500 uL) of the
+hydrolysate concentrate to 9.5 mL of growth media.
+
+

@@ -1,0 +1,43 @@
+
+
+## Completed by: LL
+
+
+Aim/Purpose
+
+
+To determine the ideal seeding density of Nuvonis suspension cells in 50/50
+RPMI/CHO and 75/25 RPMI/CHO in terms of the maximum cell density that can be
+achieved.
+
+
+Hypothesis
+
+
+That flasks seeded with 200K and 400K cells/mL will yield greater maximum cell
+densities than flasks seeded with 50 - 100K cells/mL in both 50/50 and 75/25
+RPMI/CHO. Additionally, flasks containing 50/50 RPMI/CHO will outperform
+flasks seeded at the same cell density in 75/25 RPMI/CHO.
+
+
+Technical Gap
+
+
+We have noticed lower doubling rates in flasks seeded at lower seeding
+densities <100K cells/mL, however the optimal seeding density has never been
+properly tested.
+
+
+Method/Procedure
+
+
+  1. D0 (TUES): Seed 12 x E-125s in 75/25 RPMI/CHO and 12 x E-125s in 50/50 RPMI/CHO media at the following densities: 
+    1. 3 x E125s @ 50K cells/mL (1M cells in 20 mL)
+    2. 3 x E125s @ 100K cells/mL (2M cells in 20 mL) 
+    3. 3 x E125s @ 200K cells/mL (4M cells in 20 mL)
+    4. 3 x E125s @ 400K cells/mL (8M cells in 20 mL)
+  2. D1 (WED): Perform cell counts on all flasks. 
+  3. D2, D3 etc: Repeat D1 process until maximum density has been reached in all flasks (informed by plateauing and then declining cell counts) 
+  4. Plot growth rate vs. seeding density (line graph) and maximum density vs. seeding density (column graph) 
+
+

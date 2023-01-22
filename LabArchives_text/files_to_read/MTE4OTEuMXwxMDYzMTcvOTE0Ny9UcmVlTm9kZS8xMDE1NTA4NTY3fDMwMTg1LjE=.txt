@@ -1,0 +1,54 @@
+
+
+In the past 6 months at Vow we have run numerous nucleofection experiments
+where we have transfected RNP complexed Cas9 with various gRNAs into CHOMP
+cells. This was done with the intention to knock down key genes we
+hypothesized would give rise to a suspension and/or an immortal phenotype.
+
+Initial experiments involved mutating 1-2 genes at a time in cells using this
+RNP method. The experiments involved transfecting the cells with the CRISPR
+system using a neon nucleofection machine, Validating transfection success
+using GFP-tagged Cas9 enzyme and imaging, then validating mutation success by
+sanger sequencing PCR products of the mutated region.
+
+Cells were recovered for 3 days post nucleofection in serum containing media
+(DMEM/F12+20% FBS) then transferred to 50mL shaker tubes containing nuvonis
+suspension media (Hycell media + 10% KSR + IGF1-LR3 + b-FGF) at a density of 1
+million cells/mL. Over the course of our nucleofection experiments we
+subjected tubes containing cells with various mutations various speeds
+including 120rpm, 150rpm, 190rpm and 210 rpm. None of our experiments yeilded
+a successfully adapted and thriving suspension cell line. Our most promising
+response to suspension adaption we saw was in CHOMP cells containing mutations
+to the ZIC1 gene. These cells saw a noticeable recovery of cell number in
+suspension compared to our control samples. However this recovery was short
+lived and the cell number began to plateau, indicating senescence in the cell
+culture. We hypothesis that this was due to a lack of immortality in the cell
+line.
+
+Through these experiments we made a few key learnings that will inform the
+future of our gene editing experiments.
+
+  1. We are able to successfully edit genes in our CHOMP cell lines using our annotated crocodile genome found on the NCBI database 
+  2. We know that mutating genes can produce observable phenotypic effects (as evidenced by the ZIC1 response) 
+  3. Our methods for validating mutation success are slow and need to be improved to give us confidence in our gene edits. 
+  4. Our throughput for testing various genes and their impact on suspension adaption is low throughput with our current transfection system. We have only focused on up to 4 edits in one cell at any time. 
+  5. Editing genes to produce an immortal phenotype will compound our edits to produce a suspension adapted phenotype. 
+
+From these learnings we want to continue to improve our gene editing platform
+in the following ways
+
+  1. Increase the throughput of our gene editing from 4> genes per cell to >50 
+  2. Start with a larger pool of cells and move them all straight to suspension after nucleofection
+  3. We want to improve our mutation detection pipeline to validate our CRISPR function quicker. 
+  4. We want to continue focusing on adapting CHOMP to suspension through this platform given our success in mutating this cell line already. 
+
+I hypothesis that by targeting more genes and introducing the cells to their
+environmental selective pressures immediately we will encourage mutations
+benefiting suspension adaption.  
+  
+Therefore we have set the following goal for our next gene editing experiment.  
+  
+Perform a suspension adaptation experiment following a CRISPR screen for >100
+genes in our CHOMP cells.
+
+

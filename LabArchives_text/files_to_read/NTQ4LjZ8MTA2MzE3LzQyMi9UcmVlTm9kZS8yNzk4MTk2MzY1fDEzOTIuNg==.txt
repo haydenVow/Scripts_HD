@@ -1,0 +1,118 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [ ]  DMEM + 10% HS + 1X P/S
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+  * [ ]  DMEM + 10% HS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM + 10% HS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM + 10% FBS + 1X P/S
+  * [ ]  DMEM + 20% FBS + 1X P/S
+  * [ ]  DMEM/F12 + 10% FBS + 1X P/S
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + 50ug/mL Vitamin C +10ng/mL TGF
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+  * [ ]  DMEM/F12 + 20% FBS + 1X P/S + 25ng/mL FGF-basic + P38i (10uM)
+
+Total media required: 30 mL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)Vessel ID  
+T1756457-DOLLY12-Sheep P10-1of2  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted  30 mL  mL of  Growth Media into   1x 50 mL    tube(s). Placed
+in water bath  15:51
+
+2\. Removed  100  % of supernatant from vessel.
+
+3\. Replaced with  30 mL (per well/per vessel) of  Growth   media.
+
+4\. Returned vessel to incubate and shake on plate shaker at 100RPM:
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * [ ]  Thermo Incubator (ID #13)
+  * [ ]  Top Sanyo Incubator (ID #25)
+  * [ ]  Bottom Sanyo Incubator
+  * [ ]  Top Binder Incubator
+  * [x]  Bottom Binder Incubator
+
+
+
+
+### Observations/Summary:
+
+ 100 % media changed on vessel(s)
+
+  1. 6457-DOLLY12-Sheep P10-1of2 
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth MediaM4336  
+30  
+Vitamin C (ascorbic acid) M2717  
+0.15  
+TGFM3363  
+0.075  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [X]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+https://mia-capture.vow.tools/#/session/recJ3YIdliSVCvMdx/images \- Thursday
+April 22
+
+  
+
+  
+
+  
+  
+
+  
+
+https://mia-capture.vow.tools/#/session/recJ3YIdliSVCvMdx/images \- Friday
+April 23 (images taken of aggregated fibroblasts ~12 hrs after incubation on
+plate shaker in media with Vit C and TGF).
+
+  
+
+

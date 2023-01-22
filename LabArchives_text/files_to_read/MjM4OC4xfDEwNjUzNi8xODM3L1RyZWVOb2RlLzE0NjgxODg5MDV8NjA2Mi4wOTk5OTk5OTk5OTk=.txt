@@ -1,0 +1,74 @@
+Aim/Goal
+
+
+To determine the upper limits that we can concentrate media with minimal
+undissolved particles.
+
+
+Plan
+
+
+  
+
+  1. Weigh out media components for the following concentrations for 1L: 10X, 5X, 3X, 2X, 1X 
+  2. Add all components except for sodium bicarbonate to 1 L of MilliQ H20.
+  3. Use a stick mixer to blend individual concentrations for 5-7 mins followed by addition of sodium bicarbonate, mix for another 2 mins.
+  4. Leave for 1 hr.
+  5. Weigh out filter papers and label.
+  6. Filter media through filter paper in funnel. Dry filter paper and weigh.
+  7. Record mass difference with 1X as control. 
+
+COMPONENT1X (g)2X (Altogether) (g)2X (Seperate Bicarb) (g)3X (g)5X (g)10X (g)  
+RPMI1640:Vow Basal Medium 3:1 Mixture8.8817.7617.7626.6444.488.8  
+CHO-in-17.314.614.621.936.573  
+D-Glucose (Dextrose)24461020  
+Sodium Bicarbonate24461020  
+Difco Yeast Extract (UF)1223510  
+Poloxamer 1881223510  
+L-Ornithine monohydrochloride0.020.040.040.060.10.2  
+Putrescine dihydrochloride0.020.040.040.060.10.2
+
+
+Results
+  
+1X2X (Seperate BICARB) 2X  (Altogether) 3X5X10X  
+Filter Mass (before)1.491.561.54  
+1.531.54  
+Filter Mass (after)1.491.611.59  
+1.78  
+  
+Mass difference00.050.05  
+0.25  
+  
+Initial mixing time1 min 30sec1 min 30sec  
+5 min  
+2 mins 0 sec3 mins 0 sec  
+Post Bicarb1 min1 min  
+  
+1 min 30 sec1 min 30 sec  
+wait time616 - 636626 - 657659 - 707  
+708 -729734  
+Visible presence of particlesVery few, very smallVery few, very small  
+some larger particles and some small particles  
+some very smallsome very small  
+volume filtered500mL300 mL300mL  
+300 mL80mL  
+NotesMedia clearMedia clearMedia Clear  
+Cannot see through easilyDark and cannot see through easily. DISCONTINUED AS
+FILTER BLOCKED.
+
+
+Summary
+  
+  
+Although this was only an approximate simulation of how media is created on
+scale, some initial discoveries were made that are of import.
+
+  1. Addition of sodium bicarbonate along with the other media components during initial mixing phase results in some undissolvable large aggregates, that do not dissolve or break apart with increased mixing. Manual breaking of these aggregates may work but it is not workable for scaled media production. This result aligns with publsihed protocols that suggest lowering the media pH to 4 prior to addition of sodium bicarbonate to ensure complete dissolution of components.
+    1. SUGGESTION: Dissolve components seperately from sodium bicarbonate. Once they are dissolved, add in the sodium bicarbonate and continue to mix. Lowering pH to 4 may assist this process, but may be unneccessary if there is sufficient mixing.
+  2. Concentrating media to greater than 2X leads to larger concentration of undissolved fine particles that lead to filter blockage and significantly slow media flow. Although mixing time was increased until no particles could be seen with the naked eye, the media became more opaque with increasing concentration, suggestive of higher concentration of fine undissolved particles. This may have been resolved with allowing the mixture to stand for a longer period of time prior to mixing, however this may result in a higher bacterial load in the media.
+    1. SUGGESTION: If required a 2X media can be created, with sufficient mixing time and standing time to allow microscopic fine particles to be dissolved. However, the only benefit of this is if media is required ahead of time and storage space is an issue.
+
+  
+
+

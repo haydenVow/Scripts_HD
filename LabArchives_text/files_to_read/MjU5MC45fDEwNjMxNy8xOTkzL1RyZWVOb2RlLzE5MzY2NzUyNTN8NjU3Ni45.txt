@@ -1,0 +1,103 @@
+
+
+Perform feed using below volumes:
+
+
+
+
+Growth Media:
+
+  * [x]  DMEM/F12 + 20% FBS + 1X P/S + P38i (10uM)
+
+Total media required: 60mL + 15mL
+
+Total p38i required: 30uL + 7.5uL
+
+
+
+
+Culture IDs to feed
+
+Vessel type(s)  
+Vessel ID  
+  
+T175s  
+7194-BUFFY6_21L10-Water Buffalo P6-1of4  
+7195-BUFFY6_21L10-Water Buffalo P6-2of4  
+7196-BUFFY6_21L10-Water Buffalo P6-3of4  
+7197-BUFFY6_21L10-Water Buffalo P6-4of4  
+  
+  
+T75s  
+7198-BUFFY6_25K6-Water Buffalo P6-1of2  
+7199-BUFFY6_25K6-Water Buffalo P6-2of2  
+  
+  
+  
+  
+  
+  
+
+
+
+
+Process:
+
+1\. Aliquotted   2x30mL + 1x15mL  mL of  growth Media into  2x50mL + 1x15mL
+tube(s) respectively. Placed in water bath   9:45 a/pm
+
+2\. Removed  50  % of supernatant from vessels (15mL from T175s, 6mL from
+T75s). 9:55
+
+3\. Replaced with prewarmed   growth  media.
+
+4\. Returned vessel to incubate at: 10:06
+
+  * [x]  37ºC, 5% CO2 (mammalian cells)
+  * [ ]  40ºC, 5% CO2 (aviary cells)
+
+  
+
+  * Incubator (# 78 ), Lab [Library]
+
+
+
+
+### Observations/Summary:
+
+n/a
+
+
+
+
+Media/Reagents used:
+
+NameDetailsVolume used (mL)  
+Growth/Proliferation Media5382  
+  
+  
+ P38i (20mM stock)4282  
+  
+  
+  
+  
+
+
+
+
+### Results
+
+  * Results were;
+    * [x]  As Usual (this is a repetitive task)
+    * [ ]  Unexpected because...
+    * [ ]  Need to be further analysed
+    * [ ]  Other (.......)
+
+
+
+
+Relevant Images/Figures (if applicable):
+
+n/a
+
+

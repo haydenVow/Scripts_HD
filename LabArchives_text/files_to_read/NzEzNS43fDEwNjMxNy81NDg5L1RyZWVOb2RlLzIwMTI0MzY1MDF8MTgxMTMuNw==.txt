@@ -1,0 +1,245 @@
+
+
+## Performed by: Avani B, Varshana B, Marie G  
+
+
+
+
+
+
+
+## Reagent preparation:
+
+  1. Aliquot reagents following the table below: 
+
+Note: Tryple needs to be completely warm before using otherwise cells will not
+detach
+
+ReagentStandard QuantityQuantity used Timestape
+(waterbath/incubator)Mix/Aliquot/Stock ID  
+Growth media (seeding)E125= 20mL  
+24 Deep-well plate: 2.5mL  
+50mL=5mL  
+see seeding lab book12:25  
+see seeding lab book  
+Growth media (re-suspension)T175 = 1 - 1.5 mL  
+4CF= 10 mL  
+5CS = 10 mL  
+10CF/CS = 20 mL  
+see seeding lab book12:25  
+see seeding lab book  
+TrypleT175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+700 mL12:30  
+not recorded  
+dPBS (wash - 37)T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+700 mL12:30  
+not recorded  
+dPBS (neutralise - ambient temp) T175 = 10 mL  
+4CF= 200 mL  
+5CS = 250 mL  
+10CF/CS = 500 mL  
+700 mL12:30  
+not recorded  
+  
+  
+
+
+
+
+## Image flask
+
+  1. Observed flask under the microscope at 4x or 5x objective for even cell distribution and < 50% confluency. Refer to VSOP006_0
+  2. Took at least 2 images per flask and returned flask back to incubator.
+
+  
+
+
+
+
+## Harvest
+
+  1. Transfer flask and aliquots into BSC, ensuring to wipe down containers with 70% EtOH during the transfer.   
+  2. Discarded growth media from each flask 
+  3. Washed with warmed dPBS, then discarded. (for cell factory equalised and gently swirled flask
+
+  
+
+
+
+
+  1. Added TrypLE to each of the flasks. Swirled flask thoroughly to ensure coverage of the surface area.
+  2. Placed in the incubator at 37C.
+    1. AB CHOMP flask 9100: 13:37
+    2. VB DOLLY Flask9098 13:45
+    3. AB DOLLY Flask9097 13:45
+  3. After 5 minutes, swirled flask again to ensure all surfaces are covered.
+  4. After 10 minute, removed flasks and observed for 95-100% dissociation of cells. Incubated further if needed until maximum dissociation level is reached.
+    1. Flask 1 `Time stamp`: 13:53
+    2. Flask 2 `Time stamp`:13:49
+    3. Flask 3 `Time stamp`: 13:49
+
+  
+
+
+
+
+  1. Collected TrypLE solution into 225mL centrifuge tubes (for CHOMP in suspension media) or into 50 mL tubes (for all other conditions).
+  2. Wash flask with ambient temperature dPBS and transferred into centrifuge tube. 
+  3. Centrifuged at 650 x g for 5 minutes. 
+    1. `Start time stamp`:
+      1. 9100 and 9097: 14:14 - 14:19
+      2. 9098: 14:16-14:21
+
+  
+
+
+
+
+  1. Gently removed centrifuge tubes from the machine, ensuring not to disturb the suspended pellets Discarded supernatant. Removed remaining supernatant with a 1mL pipette.
+  2. Resuspend the pellet in 1 mL of growth media at a time. Pooled into one tube. 
+  3. Measure the total volume of the cell resuspension using a serological. Total resuspension volume = 10 mL
+  4. Using the same serological, pipette mix cell suspension to ensure a homegenous cell suspension is obtained. 
+  5. Immediately aliquot   10 uL  of cell resuspension into cell count tubes. Then, dilute this 1:10 in growth media. Then, take 10 uL from the diluted sample for a cell count.
+
+  
+
+
+
+
+  1. Triturated the obtained cell suspension 10 times (careful not to make bubbles) and transfer into trypan blue.
+  2. Triturated the cells suspended in trypan blue at least 10 times (careful not to make bubbles) and transfer 10 uL onto haemocytometer.
+  3. Performed cell count and enter details into table below.
+
+
+
+
+ 2CFs passaged  
+
+EPIC  
+Vessel IDGrowth mediaTotal cell count  
+  
+EPIC27984  
+9097-F_DOLLY12-Sheep P8-1of1  
+CD-CHO + 10% KSR + 6G  
+116.4 M  
+  
+9100-F_CHOMP09-Crocodile P8-1of1  
+D/F + 20% FBS + 1x P/S  
+54.8 M  
+  
+9099-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 10G  
+90.72 M  
+  
+EPIC28374  
+9098-F_DOLLY12-Sheep P8-1of1  
+CD-CHO + 10% KSR + 6G  
+114 M  
+  
+9102-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 8G  
+72.16 M  
+  
+9103-F_CHOMP09-Crocodile P8-1of1  
+HyCell pro + 20% KSR + 10G  
+102.9 M  
+  
+9101-F_CHOMP09-Crocodile P8-1of1  
+CD-CHO + 20% KSR + 6G  
+82.32 M  
+  
+  
+  
+
+
+
+
+## Seeding
+
+EPIC27984:  
+`Link to lab book: https://au-
+mynotebook.labarchives.com/share/Vow%2520-%2520Team%2520Science/NzEzNy4wfDEwNjMxNy81NDkwL1RyZWVOb2RlLzI0MDQ2NjM0NjB8MTgxMTcuMA==`
+
+  
+
+EPIC28374:  
+`Link to lab book: `
+
+
+
+
+### Observations/Summary:
+
+CHOMP in 2CFs containing suspension media started peeling off when imaging.
+This refers to 2CFs that were not fed with D/F + 20% FBS + 1x P/S.
+
+Therefore, the passage for these had to be modified to include additional
+steps to collect the supernatant and then centrifuge it to collect floating
+cells.
+
+Relevant Images/Figures (if any):
+
+
+
+
+EPIC28374 Passaging Procedure:
+
+CHOMP cells treated with suspension media began to lift off the plates in
+sheets/worms (8G treatement) or in flakes (6G, 10G, and Hycell Cho exp) so we
+passaged them differently, in order to collect cells that had lifted off the
+bottom of the CFs.  
+
+1\. collected media and placed in 2x 250mL spin tubes
+
+2\. added 100mL PBS to each CF, rotated around to coat the bottom of the CF,
+and added to 250mL spin tubes
+
+3\. added 100mL Tryple to flasks and incubated for 30-50 min at 30C
+
+WHILE THE CFS WERE INCUBATING:
+
+4\.  Spun down 250mL tubes at 650 G for 5 min
+
+5\. Poured off all but ~25mL of the supernatant, then used a pipette to
+resuspend the pellet and transfer to a 50mL tube.  This was done in order to
+prevent the pellet from dislodging during the pour.
+
+6\. Spun down the 50mL tubes at 650G for 5 min
+
+7\. removed supernatant and resuspended in 10mL of PBS to remove any anti-
+tryspin proteins from the serum
+
+8\. spun down 50mL tubes again at 650G for 5 min
+
+9\. removed supernatant and resuspended pellet in ~10mL Tryple.  Incubated at
+30C for ~20min
+
+WHILE MEDIA WAS INCUBATING:
+
+10\. removed CFs from incubator and added 100mL PBS to each flask to
+deactivate the tryple
+
+11\. poured PBS/Tryple/Cell mixture into 250mL spin tubes (used the same tubes
+that were used for the media of each condition) and spun down at 650 G for 5
+min
+
+12\. Poured off all but ~25mL of the supernatant, then used a pipette to
+resuspend the pellet and transfer to a 50mL tube.  This was done in order to
+prevent the pellet from dislodging during the pour.
+
+13\. Removed spin tubes from incubator and resuspended in 10mL PBS to
+deactivate the tryple
+
+14\. Spun down all cultures at 650G for 5 min, then combined cells from each
+condition into one 50mL tube each
+
+15\.  performed cell counts and seeded as described above.  
+  
+
+

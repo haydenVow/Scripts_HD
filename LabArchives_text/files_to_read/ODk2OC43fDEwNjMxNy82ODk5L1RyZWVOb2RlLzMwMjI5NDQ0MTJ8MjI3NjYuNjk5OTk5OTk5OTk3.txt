@@ -1,0 +1,20 @@
+
+
+Steps:
+
+  1. Check membrane tip for obvious signs of damage.
+    1. If damaged, replace with spare membrane tip
+  2. If membrane tip is intact, unscrew tip and inspect internal components
+    1. If required, fill up the cap with fresh electrolyte solution
+  3. Place the DO probe in a Schott bottle containing tap water
+  4. Connect the DO probe to the biostat, turn on the biostat and login to monitor DO levels
+  5. Sparge the water with compressed air
+  6. Wait until the DO level stop changing
+  7. Calibrate this as 100% DO
+  8. OPTIONAL: if there is nitrogen left in the tank outside in the garage:
+    1. Open the tank and go back into the lab
+    2. Sparge the water with nitrogen
+    3. Wait until the DO level stop changing
+    4. Calibrate this as 0% DO
+
+

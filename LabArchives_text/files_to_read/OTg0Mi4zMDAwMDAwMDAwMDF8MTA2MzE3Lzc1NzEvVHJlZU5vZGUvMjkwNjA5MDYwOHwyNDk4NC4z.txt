@@ -1,0 +1,27 @@
+Flask typeFlask IDLocation  
+E-12511101Shaking Incubator 159, main lab  
+11100  
+11389  
+
+
+  
+  
+  1. Made up following aliquots:
+    1. 20 mL Freestyle + nuvonis ingredients 
+    2. 50/50 HyCell/RPMI + nuvonis ingredients (3mg/mL yeast) 
+    3. 75/25 HyCell/RPMI + nuvonis ingredients (3mg/mL yeast)
+  2. Placed in water bath 
+  3. Retrieved cultures from incubator
+  4. Took 2 x 50 uL samples from each culture 
+  5. Performed 6 cell counts (2 per culture). Average cell counts:
+    * Freestyle: 18,000,000
+    * 50/50 RPMI/HyCell: 4,333,333
+    * 75/25 RPMI/HyCell: 4,800,000
+  6. Added averaged counts to spreadsheet (cell column titled "Nt Cell number at 't')") https://docs.google.com/spreadsheets/d/1G2Za0sUDijAQUpbmTaQbGTY74R04vCaQCKkvTalXIpE/edit#gid=0
+  7. Transferred 5 mL containing 4.5M cells from Freestyle flask to fresh Freestyle media aliquot
+  8. Centrifued 50/50 and 75/25 cultures and removed 100% of supernatants 
+  9. Re-suspended pellets in fresh warmed medium containing 3mg/mL yeast 
+  10. Moved all cultures to fresh E-125 flasks 
+  11. Returned flasks to incubator
+
+
